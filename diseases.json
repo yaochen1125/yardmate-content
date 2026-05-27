@@ -636,7 +636,21 @@
           "title": "Aspirin Water Foliar Spray",
           "recipe": "1 uncoated aspirin tablet (325 mg) dissolved in 1 gallon of water with a few drops of dish soap.",
           "usage": "Spray on leaves every 2–3 weeks. Salicylic acid in aspirin gently stimulates the plant's own disease-defense response.",
-          "image": "A2skwX.png"
+          "image": "A2skwX.png",
+          "ingredients": [
+            {
+              "quantity": "1 tablet",
+              "name": "aspirin"
+            },
+            {
+              "quantity": "1 gal",
+              "name": "water"
+            },
+            {
+              "quantity": "a few drops",
+              "name": "dish soap"
+            }
+          ]
         }
       ],
       "prevention": {
@@ -1231,7 +1245,21 @@
           "title": "Baking Soda + Dish Soap Spray",
           "recipe": "1 teaspoon baking soda + 1 teaspoon mild dish soap + 1 quart water. Shake to dissolve.",
           "usage": "Spray on leaves at the first sign of mildew, every 7 days. Coat upper and lower leaf surfaces. Spot-test first; some plants get leaf burn.",
-          "image": "uag1m.png"
+          "image": "uag1m.png",
+          "ingredients": [
+            {
+              "quantity": "1 tsp",
+              "name": "baking soda"
+            },
+            {
+              "quantity": "1 tsp",
+              "name": "dish soap"
+            },
+            {
+              "quantity": "1 qt",
+              "name": "water"
+            }
+          ]
         }
       ],
       "prevention": {
@@ -1605,7 +1633,17 @@
           "title": "Banana Peel Potassium Tea",
           "recipe": "Steep 2–3 chopped banana peels in 1 quart of water for 48 hours. Strain.",
           "usage": "Pour around the base of stressed or yellowing plants every 2–3 weeks. Light potassium boost; not a complete fertilizer.",
-          "image": "s5GW9.png"
+          "image": "s5GW9.png",
+          "ingredients": [
+            {
+              "quantity": "2–3",
+              "name": "banana peels"
+            },
+            {
+              "quantity": "1 qt",
+              "name": "water"
+            }
+          ]
         }
       ],
       "prevention": {
@@ -2638,21 +2676,59 @@
           "title": "Baking Soda + Dish Soap Spray",
           "recipe": "1 teaspoon baking soda + 1 teaspoon mild dish soap + 1 quart water. Shake to dissolve.",
           "usage": "Spray on leaves at the first sign of mildew, every 7 days. Coat upper and lower leaf surfaces. Spot-test first; some plants get leaf burn.",
-          "image": "uag1m.png"
+          "image": "uag1m.png",
+          "ingredients": [
+            {
+              "quantity": "1 tsp",
+              "name": "baking soda"
+            },
+            {
+              "quantity": "1 tsp",
+              "name": "dish soap"
+            },
+            {
+              "quantity": "1 qt",
+              "name": "water"
+            }
+          ]
         },
         {
           "ref": "K06",
           "title": "Milk Spray",
           "recipe": "1 part milk (any fat, but whole works best) to 9 parts water in a spray bottle.",
           "usage": "Spray on leaves once a week in bright weather. Sunlight activates milk proteins into a mild antifungal coat.",
-          "image": "tkNBx.png"
+          "image": "tkNBx.png",
+          "ingredients": [
+            {
+              "quantity": "1 part",
+              "name": "milk"
+            },
+            {
+              "quantity": "9 parts",
+              "name": "water"
+            }
+          ]
         },
         {
           "ref": "K15",
           "title": "Aspirin Water Foliar Spray",
           "recipe": "1 uncoated aspirin tablet (325 mg) dissolved in 1 gallon of water with a few drops of dish soap.",
           "usage": "Spray on leaves every 2–3 weeks. Salicylic acid in aspirin gently stimulates the plant's own disease-defense response.",
-          "image": "A2skwX.png"
+          "image": "A2skwX.png",
+          "ingredients": [
+            {
+              "quantity": "1 tablet",
+              "name": "aspirin"
+            },
+            {
+              "quantity": "1 gal",
+              "name": "water"
+            },
+            {
+              "quantity": "a few drops",
+              "name": "dish soap"
+            }
+          ]
         }
       ],
       "prevention": {
@@ -2996,7 +3072,21 @@
           "title": "Baking Soda + Dish Soap Spray",
           "recipe": "1 teaspoon baking soda + 1 teaspoon mild dish soap + 1 quart water. Shake to dissolve.",
           "usage": "Spray on leaves at the first sign of mildew, every 7 days. Coat upper and lower leaf surfaces. Spot-test first; some plants get leaf burn.",
-          "image": "uag1m.png"
+          "image": "uag1m.png",
+          "ingredients": [
+            {
+              "quantity": "1 tsp",
+              "name": "baking soda"
+            },
+            {
+              "quantity": "1 tsp",
+              "name": "dish soap"
+            },
+            {
+              "quantity": "1 qt",
+              "name": "water"
+            }
+          ]
         }
       ],
       "prevention": {
@@ -3214,7 +3304,21 @@
           "title": "Chili Pepper Spray",
           "recipe": "2 tablespoons cayenne or crushed dried chili in 1 quart of water. Boil 10 minutes. Cool. Strain. Add 1 tsp dish soap.",
           "usage": "Spray on leaves where caterpillars or beetles are feeding. Wear gloves and eye protection while spraying.",
-          "image": "cTJDG.png"
+          "image": "cTJDG.png",
+          "ingredients": [
+            {
+              "quantity": "2 tbsp",
+              "name": "cayenne"
+            },
+            {
+              "quantity": "1 qt",
+              "name": "water"
+            },
+            {
+              "quantity": "1 tsp",
+              "name": "dish soap"
+            }
+          ]
         }
       ],
       "prevention": {
@@ -3340,14 +3444,38 @@
           "title": "Garlic Spray",
           "recipe": "Crush 4 garlic cloves into 1 quart of water. Steep overnight. Strain. Add 1 tsp dish soap.",
           "usage": "Spray on leaves and stems, focusing on undersides. Repeat every 5–7 days. Strong-smelling for a day, then dissipates.",
-          "image": "wc8CG.png"
+          "image": "wc8CG.png",
+          "ingredients": [
+            {
+              "quantity": "4 cloves",
+              "name": "garlic"
+            },
+            {
+              "quantity": "1 qt",
+              "name": "water"
+            },
+            {
+              "quantity": "1 tsp",
+              "name": "dish soap"
+            }
+          ]
         },
         {
           "ref": "K14",
           "title": "Plain Soapy Water Spray",
           "recipe": "1 teaspoon mild liquid dish soap (no degreasers, no additives) per quart of water in a spray bottle.",
           "usage": "Spray to drench all surfaces, especially leaf undersides, in the evening. Rinse with plain water the next morning. Re-spray every 3 days for 2 weeks.",
-          "image": "gEneq.png"
+          "image": "gEneq.png",
+          "ingredients": [
+            {
+              "quantity": "1 tsp",
+              "name": "dish soap"
+            },
+            {
+              "quantity": "1 qt",
+              "name": "water"
+            }
+          ]
         }
       ],
       "prevention": {
@@ -3480,7 +3608,17 @@
           "title": "Plain Soapy Water Spray",
           "recipe": "1 teaspoon mild liquid dish soap (no degreasers, no additives) per quart of water in a spray bottle.",
           "usage": "Spray to drench all surfaces, especially leaf undersides, in the evening. Rinse with plain water the next morning. Re-spray every 3 days for 2 weeks.",
-          "image": "gEneq.png"
+          "image": "gEneq.png",
+          "ingredients": [
+            {
+              "quantity": "1 tsp",
+              "name": "dish soap"
+            },
+            {
+              "quantity": "1 qt",
+              "name": "water"
+            }
+          ]
         }
       ],
       "prevention": {
@@ -3722,14 +3860,38 @@
           "title": "Garlic Spray",
           "recipe": "Crush 4 garlic cloves into 1 quart of water. Steep overnight. Strain. Add 1 tsp dish soap.",
           "usage": "Spray on leaves and stems, focusing on undersides. Repeat every 5–7 days. Strong-smelling for a day, then dissipates.",
-          "image": "wc8CG.png"
+          "image": "wc8CG.png",
+          "ingredients": [
+            {
+              "quantity": "4 cloves",
+              "name": "garlic"
+            },
+            {
+              "quantity": "1 qt",
+              "name": "water"
+            },
+            {
+              "quantity": "1 tsp",
+              "name": "dish soap"
+            }
+          ]
         },
         {
           "ref": "K14",
           "title": "Plain Soapy Water Spray",
           "recipe": "1 teaspoon mild liquid dish soap (no degreasers, no additives) per quart of water in a spray bottle.",
           "usage": "Spray to drench all surfaces, especially leaf undersides, in the evening. Rinse with plain water the next morning. Re-spray every 3 days for 2 weeks.",
-          "image": "gEneq.png"
+          "image": "gEneq.png",
+          "ingredients": [
+            {
+              "quantity": "1 tsp",
+              "name": "dish soap"
+            },
+            {
+              "quantity": "1 qt",
+              "name": "water"
+            }
+          ]
         }
       ],
       "prevention": {
@@ -3845,7 +4007,21 @@
           "title": "Chili Pepper Spray",
           "recipe": "2 tablespoons cayenne or crushed dried chili in 1 quart of water. Boil 10 minutes. Cool. Strain. Add 1 tsp dish soap.",
           "usage": "Spray on leaves where caterpillars or beetles are feeding. Wear gloves and eye protection while spraying.",
-          "image": "cTJDG.png"
+          "image": "cTJDG.png",
+          "ingredients": [
+            {
+              "quantity": "2 tbsp",
+              "name": "cayenne"
+            },
+            {
+              "quantity": "1 qt",
+              "name": "water"
+            },
+            {
+              "quantity": "1 tsp",
+              "name": "dish soap"
+            }
+          ]
         }
       ],
       "prevention": {
@@ -4257,7 +4433,17 @@
           "title": "Plain Soapy Water Spray",
           "recipe": "1 teaspoon mild liquid dish soap (no degreasers, no additives) per quart of water in a spray bottle.",
           "usage": "Spray to drench all surfaces, especially leaf undersides, in the evening. Rinse with plain water the next morning. Re-spray every 3 days for 2 weeks.",
-          "image": "gEneq.png"
+          "image": "gEneq.png",
+          "ingredients": [
+            {
+              "quantity": "1 tsp",
+              "name": "dish soap"
+            },
+            {
+              "quantity": "1 qt",
+              "name": "water"
+            }
+          ]
         }
       ],
       "prevention": {
@@ -4373,7 +4559,17 @@
           "title": "Plain Soapy Water Spray",
           "recipe": "1 teaspoon mild liquid dish soap (no degreasers, no additives) per quart of water in a spray bottle.",
           "usage": "Spray to drench all surfaces, especially leaf undersides, in the evening. Rinse with plain water the next morning. Re-spray every 3 days for 2 weeks.",
-          "image": "gEneq.png"
+          "image": "gEneq.png",
+          "ingredients": [
+            {
+              "quantity": "1 tsp",
+              "name": "dish soap"
+            },
+            {
+              "quantity": "1 qt",
+              "name": "water"
+            }
+          ]
         }
       ],
       "prevention": {
@@ -4899,7 +5095,17 @@
           "title": "Apple Cider Vinegar Trap",
           "recipe": "Pour 1/4 cup apple cider vinegar into a small yellow cup or saucer. Add 1 drop of dish soap to break surface tension. Cover with plastic wrap and poke small holes.",
           "usage": "Place near the affected plant. Adult fungus gnats and fruit flies are attracted, fall in, and drown. Refresh every 3–4 days.",
-          "image": "hMPVN.png"
+          "image": "hMPVN.png",
+          "ingredients": [
+            {
+              "quantity": "1/4 cup",
+              "name": "cider vinegar"
+            },
+            {
+              "quantity": "1 drop",
+              "name": "dish soap"
+            }
+          ]
         }
       ],
       "prevention": {
@@ -6403,14 +6609,38 @@
           "title": "Apple Cider Vinegar Trap",
           "recipe": "Pour 1/4 cup apple cider vinegar into a small yellow cup or saucer. Add 1 drop of dish soap to break surface tension. Cover with plastic wrap and poke small holes.",
           "usage": "Place near the affected plant. Adult fungus gnats and fruit flies are attracted, fall in, and drown. Refresh every 3–4 days.",
-          "image": "hMPVN.png"
+          "image": "hMPVN.png",
+          "ingredients": [
+            {
+              "quantity": "1/4 cup",
+              "name": "cider vinegar"
+            },
+            {
+              "quantity": "1 drop",
+              "name": "dish soap"
+            }
+          ]
         },
         {
           "ref": "K15",
           "title": "Aspirin Water Foliar Spray",
           "recipe": "1 uncoated aspirin tablet (325 mg) dissolved in 1 gallon of water with a few drops of dish soap.",
           "usage": "Spray on leaves every 2–3 weeks. Salicylic acid in aspirin gently stimulates the plant's own disease-defense response.",
-          "image": "A2skwX.png"
+          "image": "A2skwX.png",
+          "ingredients": [
+            {
+              "quantity": "1 tablet",
+              "name": "aspirin"
+            },
+            {
+              "quantity": "1 gal",
+              "name": "water"
+            },
+            {
+              "quantity": "a few drops",
+              "name": "dish soap"
+            }
+          ]
         }
       ],
       "prevention": {
@@ -6515,14 +6745,38 @@
           "title": "Baking Soda + Dish Soap Spray",
           "recipe": "1 teaspoon baking soda + 1 teaspoon mild dish soap + 1 quart water. Shake to dissolve.",
           "usage": "Spray on leaves at the first sign of mildew, every 7 days. Coat upper and lower leaf surfaces. Spot-test first; some plants get leaf burn.",
-          "image": "uag1m.png"
+          "image": "uag1m.png",
+          "ingredients": [
+            {
+              "quantity": "1 tsp",
+              "name": "baking soda"
+            },
+            {
+              "quantity": "1 tsp",
+              "name": "dish soap"
+            },
+            {
+              "quantity": "1 qt",
+              "name": "water"
+            }
+          ]
         },
         {
           "ref": "K06",
           "title": "Milk Spray",
           "recipe": "1 part milk (any fat, but whole works best) to 9 parts water in a spray bottle.",
           "usage": "Spray on leaves once a week in bright weather. Sunlight activates milk proteins into a mild antifungal coat.",
-          "image": "tkNBx.png"
+          "image": "tkNBx.png",
+          "ingredients": [
+            {
+              "quantity": "1 part",
+              "name": "milk"
+            },
+            {
+              "quantity": "9 parts",
+              "name": "water"
+            }
+          ]
         }
       ],
       "prevention": {
@@ -6744,7 +6998,17 @@
           "title": "Hydrogen Peroxide Soil Drench",
           "recipe": "1 part 3% drugstore hydrogen peroxide to 3 parts water. (Or 1 part 35% food-grade peroxide to 30 parts water.)",
           "usage": "Pour around the base of the plant until the topsoil is moistened. Repeat once a week until the soil dries normally and bubbling stops.",
-          "image": "Pl9gl.png"
+          "image": "Pl9gl.png",
+          "ingredients": [
+            {
+              "quantity": "1 part",
+              "name": "3% peroxide"
+            },
+            {
+              "quantity": "3 parts",
+              "name": "water"
+            }
+          ]
         }
       ],
       "prevention": {
@@ -6974,7 +7238,17 @@
           "title": "Hydrogen Peroxide Soil Drench",
           "recipe": "1 part 3% drugstore hydrogen peroxide to 3 parts water. (Or 1 part 35% food-grade peroxide to 30 parts water.)",
           "usage": "Pour around the base of the plant until the topsoil is moistened. Repeat once a week until the soil dries normally and bubbling stops.",
-          "image": "Pl9gl.png"
+          "image": "Pl9gl.png",
+          "ingredients": [
+            {
+              "quantity": "1 part",
+              "name": "3% peroxide"
+            },
+            {
+              "quantity": "3 parts",
+              "name": "water"
+            }
+          ]
         },
         {
           "ref": "K02",
@@ -7290,7 +7564,17 @@
           "title": "Hydrogen Peroxide Soil Drench",
           "recipe": "1 part 3% drugstore hydrogen peroxide to 3 parts water. (Or 1 part 35% food-grade peroxide to 30 parts water.)",
           "usage": "Pour around the base of the plant until the topsoil is moistened. Repeat once a week until the soil dries normally and bubbling stops.",
-          "image": "Pl9gl.png"
+          "image": "Pl9gl.png",
+          "ingredients": [
+            {
+              "quantity": "1 part",
+              "name": "3% peroxide"
+            },
+            {
+              "quantity": "3 parts",
+              "name": "water"
+            }
+          ]
         },
         {
           "ref": "K02",
@@ -7304,7 +7588,17 @@
           "title": "Chamomile Tea Drench",
           "recipe": "Steep 2 chamomile tea bags in 1 quart of just-boiled water. Cool to room temperature.",
           "usage": "Pour around the base of seedlings and over the soil surface. Mild antifungal action protects germinating seeds and young roots.",
-          "image": "OGDva.png"
+          "image": "OGDva.png",
+          "ingredients": [
+            {
+              "quantity": "2 bags",
+              "name": "chamomile tea"
+            },
+            {
+              "quantity": "1 qt",
+              "name": "water"
+            }
+          ]
         }
       ],
       "prevention": {
@@ -7417,14 +7711,34 @@
           "title": "Hydrogen Peroxide Soil Drench",
           "recipe": "1 part 3% drugstore hydrogen peroxide to 3 parts water. (Or 1 part 35% food-grade peroxide to 30 parts water.)",
           "usage": "Pour around the base of the plant until the topsoil is moistened. Repeat once a week until the soil dries normally and bubbling stops.",
-          "image": "Pl9gl.png"
+          "image": "Pl9gl.png",
+          "ingredients": [
+            {
+              "quantity": "1 part",
+              "name": "3% peroxide"
+            },
+            {
+              "quantity": "3 parts",
+              "name": "water"
+            }
+          ]
         },
         {
           "ref": "K03",
           "title": "Apple Cider Vinegar Trap",
           "recipe": "Pour 1/4 cup apple cider vinegar into a small yellow cup or saucer. Add 1 drop of dish soap to break surface tension. Cover with plastic wrap and poke small holes.",
           "usage": "Place near the affected plant. Adult fungus gnats and fruit flies are attracted, fall in, and drown. Refresh every 3–4 days.",
-          "image": "hMPVN.png"
+          "image": "hMPVN.png",
+          "ingredients": [
+            {
+              "quantity": "1/4 cup",
+              "name": "cider vinegar"
+            },
+            {
+              "quantity": "1 drop",
+              "name": "dish soap"
+            }
+          ]
         }
       ],
       "prevention": {
@@ -8085,7 +8399,17 @@
           "title": "Banana Peel Potassium Tea",
           "recipe": "Steep 2–3 chopped banana peels in 1 quart of water for 48 hours. Strain.",
           "usage": "Pour around the base of stressed or yellowing plants every 2–3 weeks. Light potassium boost; not a complete fertilizer.",
-          "image": "s5GW9.png"
+          "image": "s5GW9.png",
+          "ingredients": [
+            {
+              "quantity": "2–3",
+              "name": "banana peels"
+            },
+            {
+              "quantity": "1 qt",
+              "name": "water"
+            }
+          ]
         }
       ],
       "prevention": {
