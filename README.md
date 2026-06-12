@@ -12,25 +12,31 @@ Plant content data for the Yardmate iOS app, served via jsDelivr CDN.
 
 ## CDN
 
-Public via jsDelivr:
+Served from Cloudflare R2 (self-hosted, instant purge):
 
 ```
-https://cdn.jsdelivr.net/gh/yaochen1125/yardmate-content/<file>
+https://images.yardmate.ai/content/<file>
 ```
 
 Examples:
 
-- `https://cdn.jsdelivr.net/gh/yaochen1125/yardmate-content/version.txt`
-- `https://cdn.jsdelivr.net/gh/yaochen1125/yardmate-content/plants_detail.json`
-- `https://cdn.jsdelivr.net/gh/yaochen1125/yardmate-content/lunar_emotional_fortunes/2026.json`
+- `https://images.yardmate.ai/content/version.txt`
+- `https://images.yardmate.ai/content/plants_detail.json`
+- `https://images.yardmate.ai/content/lunar_emotional_fortunes/2026.json`
+
+> **Transition:** content is also pushed to jsDelivr
+> (`https://cdn.jsdelivr.net/gh/yaochen1125/yardmate-content/<file>`) so app
+> versions shipped before the R2 cutover keep working. Drop the jsDelivr leg
+> once those versions are retired.
 
 ## Update workflow
 
 1. Edit JSON files locally
 2. Bump `version.txt` (e.g. `v1` → `v2`)
-3. `git push`
-4. CDN propagates within ~12 hours (or use https://www.jsdelivr.com/tools/purge for instant refresh)
-5. Yardmate app on next launch fetches new version automatically
+3. Run `./publish.sh` — uploads changed files to R2 (short TTL), purges
+   Cloudflare, and pushes to git (jsDelivr fallback). `--dry-run` to preview.
+4. Yardmate app fetches the new version on next launch: R2 purge is instant;
+   the jsDelivr leg still propagates in ~12h (only old app versions read it)
 
 ## License
 
