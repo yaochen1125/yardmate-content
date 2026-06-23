@@ -26,6 +26,7 @@ CF_ENV="${HOME}/.config/yardmate-api/cf_purge.env"
 FILES=(
   plants_detail.json
   plants_index.json
+  plants_names_i18n.json
   explore_themes.json
   stories.json
   diseases.json
