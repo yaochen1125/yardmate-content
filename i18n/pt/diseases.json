@@ -1,0 +1,4159 @@
+{
+  "schema_version": 1,
+  "locale": "pt",
+  "source": {
+    "resource": "diseases.json",
+    "sha256": "41126fad245c663221405bac99a4b1ad80d740dda790d7c153fb0c2990701823"
+  },
+  "fields": {
+    "categories": {
+      "FL": {
+        "label": "Flores"
+      },
+      "FR": {
+        "label": "Frutas"
+      },
+      "L": {
+        "label": "Folhas"
+      },
+      "P": {
+        "label": "Insetos indesejados"
+      },
+      "R": {
+        "label": "Raízes"
+      },
+      "ST": {
+        "label": "Estâmulos"
+      }
+    },
+    "diseases": {
+      "FL01": {
+        "name": "Podridão de flores",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Nunca pulverize flores de cima"
+                },
+                {
+                  "title": "Plantas espaciais para fluxo de ar"
+                },
+                {
+                  "title": "Limpe as pétalas caídas e os detritos prontamente"
+                },
+                {
+                  "title": "Escolha cultivares resistentes a doenças"
+                },
+                {
+                  "title": "Rotacionar os canteiros de flores anuais"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Flores se tornando macias, molejas, marrons",
+        "symptomAnalysis": "Duas causas principais:\n1. **Chuva forte ou excesso de água** — a água fica presa na flor e apodrece as pétalas por dentro.\n2. **Infecção bacteriana** — entra por pequenas feridas e se espalha rapidamente em clima quente e úmido.\n\nSe deixado sozinho, a podridão pode se espalhar pelo caule e infectar as folhas e as plantas ao redor.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Corte todas as flores podres."
+                },
+                {
+                  "title": "Sterilize os dedos ou os cortes entre os cortes."
+                },
+                {
+                  "title": "Corte qualquer caule macio e descolorido abaixo da flor."
+                },
+                {
+                  "title": "Mude para irrigação básica apenas"
+                },
+                {
+                  "body": "Pulverize um fungicida à base de cobre (mistura Bordeaux, sulfato de cobre ou hidróxido de cobre comercial) nas folhas, caules e solo circundante de acordo com a etiqueta do produto. Reaplique a cada 7 a 14 dias. Se a maioria das flores e caules estiver infectada: *Descarte a planta gravemente infectada* (veja 5.1).",
+                  "subSteps": [
+                    {
+                      "title": "Descarte a planta gravemente infectada."
+                    }
+                  ],
+                  "title": "Para a propagação bacteriana, aplique o bactericida de cobre conforme a etiqueta."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "FL02": {
+        "name": "Flor murchando",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Cubra com um pano de gelo antes de noites frias"
+                },
+                {
+                  "title": "Traga plantas de flores em vasos para dentro de casa durante a noite no início da primavera ou no final do outono."
+                },
+                {
+                  "title": "Escolha variedades resistentes ao frio adequadas à sua zona."
+                },
+                {
+                  "title": "Não fertilize com nitrogênio após o meio do verão; o novo crescimento tenro é mais vulnerável ao gelo."
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "As flores secam marrom após a geada ou o final da estação",
+        "symptomAnalysis": "Duas causas principais:\n1. **Danos causados por frio ou geadas** - quedas repentinas de temperatura congelam as células das flores, causando descoloração. Muitas flores não podem tolerar temperaturas abaixo de 50°F (10°C).\n2. **Fim normal da vida** - flores anuais e perenes murcham no final de sua estação à medida que a planta vai para a semente.\n\nSe o murchamento ocorrer após uma onda de frio, a causa é ambiental. Se ocorrer no final da estação com a formação de cápsulas de sementes, é natural.",
+        "treatment": {
+          "groups": [
+            {
+              "label": "Para danos causados por geadas",
+              "steps": [
+                {
+                  "title": "Borrifar levemente antes que o sol atinja a planta enfeitada com neve."
+                },
+                {
+                  "title": "Assim que descongelado, aperte as flores gravemente danificadas."
+                },
+                {
+                  "title": "Cubra à noite até que o perigo de geada passe"
+                }
+              ]
+            },
+            {
+              "label": "Para o fim da vida",
+              "steps": [
+                {
+                  "title": "Corte as flores e botões afetados."
+                },
+                {
+                  "title": "Não faça nada — ciclo natural"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "FL03": {
+        "name": "Flores murchas",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Amaneça profundamente e consistentemente"
+                },
+                {
+                  "title": "Escolha cultivares resistentes à murcha (procure \"VFN\" nas sementes de tomate/morango)"
+                },
+                {
+                  "title": "Rotacionar culturas entre as estações"
+                },
+                {
+                  "title": "Mulch para manter a umidade do solo uniforme"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Os caules se encolhem, as pétalas caem cedo",
+        "symptomAnalysis": "O murchamento das flores pode vir de muitas direções:\n\n- **Stress hídrico** — muito ou pouco. pétalas macias e paposas devido à seca; caules molejos devido à rega excessiva.\n- **Calor / sol forte** — as pétalas queimam e se enrolam no lado voltado para o sol.\n- **Doenças de apodrecimento vascular** — fungos transmitidos pelo solo, como *Verticillium* ou *Fusarium*, obstruem o tecido transportador de água da planta. Os caules apodrecem mesmo quando o solo está úmido.\n- **Morte de raízes** — veja [R01](../05_roots/root-rot.md). Raízes danificadas não podem fornecer água às flores.\n\nDetermine a causa primeiro. Estacas que murcham apenas em tardes quentes, mas se recuperam durante a noite, estão sob estresse térmico; estacas que murcham e permanecem murchas independentemente da umidade do solo sugerem doença ou dano às raízes.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "body": "Se molhado → *Reduza a Frequência de Rega* (veja 1.1).",
+                  "subSteps": [
+                    {
+                      "title": "Reduza a frequência de rega"
+                    }
+                  ],
+                  "title": "Teste o solo com um dedo: se seco → [S17](../shared/treatment-steps.md#s17-water-deeply-but-less-often)"
+                },
+                {
+                  "title": "Mova-se para sombra à tarde se estiver sob estresse térmico"
+                },
+                {
+                  "title": "Preencha a folhagem murcha para reduzir a demanda"
+                },
+                {
+                  "body": "Mergulhe os podadores, tesouras ou lâminas de faca em uma solução de 1:4 de água e cloreto de sódio (ou álcool isopropílico a 70%) antes de cada corte e entre cada planta. Limpe com um pano seco antes de cortar. Se a causa for a doença de apodrecimento vascular: *Descarte a planta gravemente infectada* (veja 4.1). O fungo permanece no solo por anos.",
+                  "subSteps": [
+                    {
+                      "title": "Descarte a planta gravemente infectada."
+                    }
+                  ],
+                  "title": "Sterilize as ferramentas entre os cortes"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "FL04": {
+        "name": "Caída de brotos",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Aclimate as plantas lentamente ao movê-las"
+                },
+                {
+                  "title": "Água em um horário, não por impulso"
+                },
+                {
+                  "title": "Mantenha 40-60% de umidade para plantas de interior."
+                },
+                {
+                  "title": "Use um fertilizante equilibrado ou com fórmula de floração; evite nitrogênio pesado durante o desenvolvimento das flores."
+                },
+                {
+                  "title": "Não repotar uma planta que está formando brotos — eles cairão devido à perturbação."
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Os botões florais se formam e depois caem antes de se abrirem.",
+        "symptomAnalysis": "Uma resposta de estresse, não uma doença. A planta está economizando energia abortando brotos que não pode suportar. Gatilhos comuns:\n\n- **Mudança ambiental repentina** — mudança para dentro/fora, ar condicionado, mudança repentina de temperatura.\n- **Irrigação inconsistente** — deixar o solo secar muito longe, depois inundá-lo.\n- **Baixa umidade** — comum dentro de casa; flores tropicais (gerânios, hibisco) são sensíveis.\n- **Luz insuficiente** — os botões se formam, mas não recebem a energia para se abrir.\n- **Fertilização excessiva** — muito nitrogênio empurra o crescimento das folhas às custas das flores.\n- **Pressão de pragas** — pulgões e pulgões alimentando-se dentro de botões em desenvolvimento. Veja [02_pests/](../02_pests/).",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Estabeleça um ritmo consistente de rega"
+                },
+                {
+                  "title": "Aumente a umidade para flores tropicais."
+                },
+                {
+                  "body": "Deixe-o se estabelecer em um local.",
+                  "title": "Pare de mexer na planta"
+                },
+                {
+                  "title": "Pausar o fertilizante por 2-4 semanas; retomar com uma fórmula de floração de baixo teor de nitrogênio (alto P, como 5-10-5)"
+                },
+                {
+                  "body": "Se encontrado, consulte a entrada relevante sobre pragas.",
+                  "title": "Verifique os botões para pragas"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "FL05": {
+        "name": "Morte de pétalas",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Água na base"
+                },
+                {
+                  "title": "Espaço e poda para fluxo de ar"
+                },
+                {
+                  "title": "Remova flores desbotadas antes que elas se decomponham"
+                },
+                {
+                  "title": "Escolha cultivares com flores de pétalas únicas ou de forma aberta."
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Mofo fofo cinza-castanho nas pétalas",
+        "symptomAnalysis": "O fungo *Botrytis cinerea* (mofo cinza) ataca primeiro as pétalas desbotadas ou danificadas, depois se espalha para as saudáveis. Cresce em ar frio, úmido e estagnado - início da primavera, final do outono ou qualquer período chuvoso. Rosas, peônias, dahlias, hortênsias e azaleas são hospedeiros comuns.\n\nPara o mesmo fungo em folhas e caules, consulte [L23 — Mofo cinza](../01_leaves/gray-mold.md).",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Remova todas as flores infectadas, incluindo quaisquer botões parcialmente abertos nas proximidades."
+                },
+                {
+                  "title": "Sterilize as ferramentas entre os cortes"
+                },
+                {
+                  "title": "Limpe as pétalas e folhas caídas sob a planta"
+                },
+                {
+                  "title": "Aplique fungicida de cobre se a infecção estiver generalizada"
+                },
+                {
+                  "title": "Abra o fluxo de ar com poda seletiva"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "FL06": {
+        "name": "Falha em florescer",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Combine a planta com suas condições de luz antes de comprar."
+                },
+                {
+                  "title": "Use um fertilizante equilibrado ou com fórmula de floração; evite alimentações de nitrogênio puro em plantas em floração."
+                },
+                {
+                  "title": "Seja paciente com novas perenes e arbustos"
+                },
+                {
+                  "title": "Água consistentemente"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Planta saudável produz poucas ou nenhuma flor",
+        "symptomAnalysis": "Não é uma doença. A planta tem a energia para crescer folhas, mas não é desencadeada para florescer. Causas comuns:\n\n- **Luz insuficiente** — a maioria das plantas em flor precisa de mais de 6 horas de luz brilhante por dia.\n- **Demasiado nitrogênio** — empurra o crescimento foliar às custas das flores.\n- **Ciclo de temperatura errado** — muitos florescentes precisam de uma sinalização de noite fria (por exemplo, orquídeas, cacto de Natal).\n- **A planta é muito jovem** — perenes, árvores frutíferas e muitos arbustos podem levar de 1 a 3 anos para a primeira floração.\n- **Poda recente no momento errado** — poda de botões florais (algumas plantas produzem botões no ano anterior em madeira velha).\n- **Ligado às raízes** — veja [R04](../05_roots/pot-bound.md). Às vezes, uma vasilha apertada desencadeia o florescimento, mas o ligamento extremo às raízes o desliga.\n- **Rega seca ou inconsistente** — plantas estressadas pela seca perdem os locais de formação de brotos.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Mova-se para um local mais iluminado"
+                },
+                {
+                  "title": "Mude para um fertilizante de fórmula de floração (menor N, maior P, por exemplo, 5-10-5)"
+                },
+                {
+                  "body": "O cacto de Natal precisa de noites frias e dias curtos; as gardenias precisam de dias quentes e ar úmido.",
+                  "title": "Pesquise o gatilho de floração da sua planta específica"
+                },
+                {
+                  "title": "Evite podar até confirmar se a espécie floresce em madeira nova ou velha."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "FL07": {
+        "name": "Botões manchados",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Plantas espaciais para fluxo de ar"
+                },
+                {
+                  "title": "Água na base, nunca acima da cabeça"
+                },
+                {
+                  "title": "Limpe as pétalas caídas e as folhas mortas regularmente"
+                },
+                {
+                  "title": "Spray preventivo de cobre no início da primavera em rosas ou peônias suscetíveis"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Pontas marrons ou manchas escuras aparecem em botões de flores antes de abrirem.",
+        "symptomAnalysis": "Os botões manchados geralmente remontam a infecções fúngicas ou bacterianas - botrytis, antracnose ou patógenos de buracos de bala - que se espalharam das folhas ou pétalas caídas para os botões em desenvolvimento. Tempo úmido, plantio denso e detritos contaminados ao redor da planta aceleram a propagação. Os botões manchados não abrem, abrem em flores deformadas ou apodrecem antes de mostrar cor.\n\nSe o problema aparecer nas pétalas após a abertura do botão (não na superfície do botão em si), consulte [FL05 — Infestação de pétalas](petal-blight.md).",
+        "treatment": {
+          "groups": [
+            {
+              "label": "Para casos leves",
+              "steps": [
+                {
+                  "title": "Corte quaisquer botões manchados e descarte-os"
+                },
+                {
+                  "title": "Sterilize as ferramentas entre os cortes para que os esporos não se movam de botão para botão"
+                },
+                {
+                  "title": "Limpe as pétalas e folhas caídas ao redor da planta"
+                }
+              ]
+            },
+            {
+              "label": "Para casos graves",
+              "steps": [
+                {
+                  "title": "Corte todos os botões visivelmente afetados"
+                },
+                {
+                  "title": "Pulverize fungicida de cobre nos brotos e folhagem restantes"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "FR01": {
+        "name": "Ponto de fruta",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Compre cultivares resistentes a manchas"
+                },
+                {
+                  "title": "Rotacionar as culturas de frutas anuais a cada 3 anos"
+                },
+                {
+                  "title": "Limpe todos os frutos e folhas caídos no final da estação"
+                },
+                {
+                  "title": "Irrigação por gotejamento ou irrigação de base apenas"
+                },
+                {
+                  "title": "Plantas espaciais para fluxo de ar"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Tons castanhos ou pretos e lesões na pele da fruta",
+        "symptomAnalysis": "Ponto de fruta é um termo abrangente para infecções bacterianas e fúngicas que deixam lesões escuras na fruta. Os patógenos viajam pelo vento, respingos de chuva, insetos e ferramentas. Eles passam o inverno em detritos de plantas e se reinfetam na primavera. As condições úmidas aceleram a propagação. Frutas com manchas graves podem não ser comestíveis; frutas ligeiramente manchadas geralmente estão boas depois de cortar a mancha.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Remova e destrua frutas com manchas graves"
+                },
+                {
+                  "title": "Preencha galhos infectados que possam carregar o patógeno"
+                },
+                {
+                  "title": "Sterilize as ferramentas entre os cortes"
+                },
+                {
+                  "title": "Aplique fungicida/bactericida de cobre conforme a etiqueta."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "FR02": {
+        "name": "Podridão de frutas",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "A irrigação consistente é o único fator mais importante"
+                },
+                {
+                  "title": "cobertura vegetal"
+                },
+                {
+                  "title": "Use um fertilizante equilibrado"
+                },
+                {
+                  "title": "Fruta fina e ameixa para fluxo de ar"
+                },
+                {
+                  "title": "Cole a fruta prontamente quando estiver madura"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Roda marrom afundada, escurecimento da ponta das flores, massa fúngica",
+        "symptomAnalysis": "Três padrões comuns:\n\n1. **Morte por ferrugem da ponta da flor** — cratera preta afundada na parte inferior de tomates, pimentões, abobrinha. Causada por deficiência de cálcio no fruto, não é uma doença. Rega inconsistente interrompe a absorção de cálcio.\n2. **Morte-moura marrom (fúngica)** — pequenas manchas marrons que se expandem e podem crescer em aglomerados de esporos fofos cinza avermelhados. Afeta frutas de pedra (pêssego, ameixa, cereja).\n3. **Mofo de amadurecimento excessivo** — fruta deixada na planta após o amadurecimento, atraindo insetos e fungos.",
+        "treatment": {
+          "groups": [
+            {
+              "label": "Para podridão da ponta da flor",
+              "steps": [
+                {
+                  "title": "Estabeleça rega profunda consistente"
+                },
+                {
+                  "title": "Mulch para manter a umidade do solo uniforme"
+                },
+                {
+                  "title": "Remova a fruta afetada para que a planta redirecione o cálcio para a fruta restante"
+                }
+              ]
+            },
+            {
+              "label": "Para podridão marrom",
+              "steps": [
+                {
+                  "title": "Remova toda a fruta visivelmente podre, incluindo aquela no chão."
+                },
+                {
+                  "title": "Preencha os galhos afetados"
+                },
+                {
+                  "title": "Aplique fungicida de cobre em frutas maduras, não em frutas verdes."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "FR03": {
+        "name": "Deformidade da fruta",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "body": "Polinize abóbora e melões manualmente com uma pequena pincelada de tinta se você vir algumas abelhas.",
+                  "title": "Plante flores amigáveis ​​para polinizadores nas proximidades."
+                },
+                {
+                  "title": "Cubra as plantas de flores de última geada"
+                },
+                {
+                  "title": "Umidade consistente, especialmente durante o desenvolvimento das frutas."
+                },
+                {
+                  "title": "Aplique fertilizante de liberação lenta na plantação"
+                },
+                {
+                  "body": "Veja [02_pests/](../02_pests/).",
+                  "title": "Verifique por danos de insetos no fruto em desenvolvimento"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Fruta deformada, meio formada ou dividida",
+        "symptomAnalysis": "Vários fatores:\n\n- **Pobre polinização** — as abelhas perderam alguns ovos, então o fruto se desenvolve de forma desigual. Comum: morangos com ponta afiada, pepinos desiguais.\n- **Balanços de irrigação** — a seca seguida por muita água pode causar rachaduras; umidade desigual causa deformações nas tomates.\n- **Extremos de temperatura** — frio durante a floração danifica a fruta em desenvolvimento.\n- **Deficiências nutricionais** — a escassez de boro e cálcio causa retardo e formas estranhas.\n- **Danos por insetos na fase de botão** — os insetos de plantas manchadas que se alimentam de flores deixam cicatrizes e rugas.\n\nA maioria das frutas deformadas ainda é comestível.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Remova a fruta mais ruim para que a planta se concentre nas saudáveis"
+                },
+                {
+                  "title": "Estabilize a irrigação imediatamente"
+                },
+                {
+                  "title": "Aplique um fertilizante equilibrado com micronutrientes (boron, cálcio)"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "FR04": {
+        "name": "Fruta murchando",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Limpe todas as frutas caídas no final da temporada"
+                },
+                {
+                  "title": "Colocar plantas em postes fora do chão"
+                },
+                {
+                  "title": "Preencha para fluxo de ar durante a estação de dormência"
+                },
+                {
+                  "title": "Spray preventivo de cobre na floração e novamente antes da colheita"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Fruta mumificada enrugada pendurada na planta",
+        "symptomAnalysis": "Uma infecção fúngica (frequentemente *Monilinia* em frutas de pedra) que sobrevive no inverno em detritos de frutas e plantas secas. Os esporos espalham-se na primavera e infectam novas flores e frutas em desenvolvimento, que então se secam antes de amadurecer. O clima quente e úmido da primavera/verão impulsiona os surtos.\n\nA fruta mumificada que você vê no inverno ou no final da estação é a fonte da infecção do próximo ano.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Pegue todas as múmias enrugadas da planta e do chão"
+                },
+                {
+                  "title": "Preencha quaisquer galhos afetados"
+                },
+                {
+                  "title": "Pulverize fungicida de cobre"
+                },
+                {
+                  "title": "Abra a cobertura com poda seletiva"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "FR05": {
+        "homeRemedies": [
+          null,
+          {
+            "ingredients": [
+              {
+                "name": "aspirina",
+                "quantity": "1 comprimido"
+              },
+              {
+                "name": "água",
+                "quantity": "1 galão"
+              },
+              {
+                "name": "Sabão para louça",
+                "quantity": "Algumas gotas"
+              }
+            ]
+          }
+        ],
+        "name": "Mofo em frutas",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Remova detritos podres e frutas caídas"
+                },
+                {
+                  "title": "Irrigação por gotejamento apenas"
+                },
+                {
+                  "title": "Não sobrecarregue"
+                },
+                {
+                  "title": "Não fertilize em excesso cedo"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Mofo granuloso cinza, branco ou marrom na superfície da fruta",
+        "symptomAnalysis": "Uma variedade de fungos causa mofos borrosos em frutas. Eles prosperam em condições frias, úmidas e estáticas - início e final da estação. Mesmo uma infecção leve arruína a fruta; uma grave aniquila a planta. Muitas vezes segue a apodrecimento da ponta das flores ou danos por insetos que deram aos fungos um ponto de entrada.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Remova toda a fruta mofada, incluindo qualquer que esteja no chão"
+                },
+                {
+                  "title": "Preencha as folhas e caules afetados perto da fruta mofada."
+                },
+                {
+                  "title": "Trim o crescimento circundante para o fluxo de ar"
+                },
+                {
+                  "title": "Aplique fungicida de cobre no fruto restante em amadurecimento"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "FR06": {
+        "homeRemedies": [
+          {
+            "ingredients": [
+              {
+                "name": "bicarbonato de sódio",
+                "quantity": "1 colher de chá"
+              },
+              {
+                "name": "Sabão para louça",
+                "quantity": "1 colher de chá"
+              },
+              {
+                "name": "água",
+                "quantity": "1 litro"
+              }
+            ]
+          },
+          {
+            "ingredients": [
+              {
+                "name": "leite",
+                "quantity": "1 parte"
+              },
+              {
+                "name": "água",
+                "quantity": "9 partes"
+              }
+            ]
+          }
+        ],
+        "name": "Mofo fofo em frutas",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Compre cultivares resistentes ao mofo (especialmente abóbora, pepino, melão)"
+                },
+                {
+                  "title": "Irrigação por gotejamento, não por cima"
+                },
+                {
+                  "title": "Espaçamento largo"
+                },
+                {
+                  "title": "Limpe os detritos antes do inverno"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Recubrimento em pó branco em fruta e caule",
+        "symptomAnalysis": "Os fungos da mofo-pó preferem dias quentes e secos e noites frias e úmidas - ao contrário da maioria das doenças fúngicas. Os surtos de meados a finais do verão são típicos. O revestimento branco é o fungo crescendo na superfície; raramente mata a fruta, mas reduz a produção, estraga a aparência e pode se espalhar para o resto da planta.\n\nPara o mesmo fungo nas folhas, consulte [L20 — Mildew fúngico](../01_leaves/powdery-mildew.md).",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Corte a fruta fortemente mofada"
+                },
+                {
+                  "title": "Corte as folhas e caules mofados nas proximidades"
+                },
+                {
+                  "title": "Abra a cobertura com poda seletiva"
+                },
+                {
+                  "title": "Aplique fungicida de cobre para casos teimosos"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "FR07": {
+        "name": "Quebra de frutas",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "A umidade consistente é o único fator mais importante"
+                },
+                {
+                  "title": "Cubra com cascalho pesado para uniformizar a umidade do solo"
+                },
+                {
+                  "title": "Compre variedades resistentes à rachadura (e"
+                },
+                {
+                  "title": "Colheita logo antes da maturidade máxima se a previsão de chuva forte for feita"
+                },
+                {
+                  "title": "Coloque frutas pesadas para evitar estresse na pele"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Quebras e rachaduras na pele da fruta",
+        "symptomAnalysis": "O craqueamento ocorre quando o crescimento da fruta acelera mais rápido do que a pele pode se esticar. O gatilho mais comum é um surto repentino de água - chuva forte ou rega profunda após uma seca. As variedades de pele fina e doce são as mais vulneráveis.\n\nFrutas rachadas atraem insetos e fungos de podridão rapidamente, mas a própria fruta geralmente ainda é comestível se colhida prontamente.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "body": "Não espere pela maturidade total — eles irão apodrecer ou se dividir ainda mais.",
+                  "title": "Escolha frutas rachadas imediatamente"
+                },
+                {
+                  "title": "Descarte frutas com mofo ou danos por insetos nas rachaduras."
+                },
+                {
+                  "title": "Reinicie a rega consistente imediatamente"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "L01": {
+        "homeRemedies": [
+          {
+            "ingredients": [
+              {
+                "name": "aspirina",
+                "quantity": "1 comprimido"
+              },
+              {
+                "name": "água",
+                "quantity": "1 galão"
+              },
+              {
+                "name": "Sabão para louça",
+                "quantity": "Algumas gotas"
+              }
+            ]
+          }
+        ],
+        "name": "Ponta marrom",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Escolha cultivares resistentes"
+                },
+                {
+                  "title": "Água na base, não acima da cabeça"
+                },
+                {
+                  "title": "Plantas espaciais para fluxo de ar"
+                },
+                {
+                  "title": "Limpe as folhas caídas e os detritos"
+                },
+                {
+                  "title": "Spray preventivo de cobre em fontes úmidas"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Manchas marrons ou pequenos pontos marrons nas folhas",
+        "symptomAnalysis": "A mancha marrom é uma etiqueta abrangente para infecções fúngicas e bacterianas que deixam lesões marrons nas folhas. As causas variam, mas as condições geralmente são semelhantes: folhas molhadas, má circulação de ar e detritos contaminados carregando esporos. Se deixada sozinha, a mancha marrom enfraquece a planta e a abre a doenças mais prejudiciais.\n\nSe a mancha é um dos três padrões (manchas grandes, manchas com manchas amarelas ou pequenos pontos densos) não muda o tratamento.",
+        "treatment": {
+          "groups": [
+            {
+              "label": "Para casos leves (menos de 50% das folhas afetadas)",
+              "steps": [
+                {
+                  "title": "Remova as folhas infectadas"
+                },
+                {
+                  "title": "Sterilize as ferramentas entre os cortes"
+                },
+                {
+                  "title": "Monitorar semanalmente por novas vagas"
+                }
+              ]
+            },
+            {
+              "label": "Para casos graves",
+              "steps": [
+                {
+                  "title": "Preencha todas as folhas infectadas"
+                },
+                {
+                  "title": "Aplique fungicida/bactericida de cobre"
+                },
+                {
+                  "title": "Abre o fluxo de ar"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "L02": {
+        "name": "ponto negro",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Compre variedades de rosas resistentes a manchas pretas"
+                },
+                {
+                  "title": "Arraste todas as folhas caídas"
+                },
+                {
+                  "title": "Irrigação por gotejamento apenas"
+                },
+                {
+                  "title": "O cobertura morta reduz o retorno de respingos do solo"
+                },
+                {
+                  "title": "Spray preventivo de cobre no início da primavera"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Manchas pretas ou pontos pretos densamente agrupados nas folhas",
+        "symptomAnalysis": "Na maioria das vezes, uma infecção fúngica - *Diplocarpon rosae* em rosas é o exemplo do livro didático, mas outros fungos causam danos semelhantes em diferentes hospedeiros. O fungo prospera em condições úmidas e se espalha quando a água espalha esporos nas folhas. Os casos leves são principalmente cosméticos; os graves defoliam a planta e a enfraquecem para a próxima estação.",
+        "treatment": {
+          "groups": [
+            {
+              "label": "Para casos leves (menos de 50% das folhas)",
+              "steps": [
+                {
+                  "title": "Corte qualquer folha manchada"
+                },
+                {
+                  "title": "Sterilize as ferramentas entre os cortes"
+                }
+              ]
+            },
+            {
+              "label": "Para casos graves",
+              "steps": [
+                {
+                  "title": "Preencha todas as folhas manchadas"
+                },
+                {
+                  "title": "Fungicida de cobre a cada 7-14 dias"
+                },
+                {
+                  "title": "Mude para um fungicida sistêmico para casos teimosos"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "L03": {
+        "name": "Morte de folhas e queimaduras",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Escolha variedades adequadas ao seu clima"
+                },
+                {
+                  "title": "Amaneça profundamente e consistentemente"
+                },
+                {
+                  "title": "Mulch para reter a umidade"
+                },
+                {
+                  "title": "Inspecione as novas plantas para detectar sintomas de queimadura precoce."
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Pontas e bordas secas, halo marrom e amarelo",
+        "symptomAnalysis": "Três causas:\n\n1. **Estresse térmico e solar** - as folhas perdem água mais rápido do que as raízes conseguem fornecer. As folhas voltadas para o sol marromam primeiro.\n2. **Função ruim das raízes** — solo compactado, danos às raízes ou excesso de fertilizante impedem que as raízes absorvam água suficiente. A planta parece queimada mesmo em um dia normal.\n3. **Queimadura bacteriana das folhas** (*Xylella fastidiosa*) — doença crônica que recursa todos os anos. Afeta as folhas mais velhas primeiro; as folhas mais novas permanecem limpas. Permanente.\n\nAssim que as folhas ficam marrons, elas não se recuperam. O objetivo é salvar o resto da planta.",
+        "treatment": {
+          "groups": [
+            {
+              "label": "Para sol/calor",
+              "steps": [
+                {
+                  "title": "Amaneça mais profundamente, especialmente em ondas de calor"
+                },
+                {
+                  "title": "Use um pano de sombra ou mova as plantas em recipientes."
+                },
+                {
+                  "title": "Mulch para manter a zona radicular fresca"
+                }
+              ]
+            },
+            {
+              "label": "Para estresse radicular",
+              "steps": [
+                {
+                  "title": "Reduza a irrigação se o solo estiver compactado e molhado"
+                },
+                {
+                  "title": "Teste de solo"
+                },
+                {
+                  "title": "Se repotar, corte as raízes danificadas"
+                }
+              ]
+            },
+            {
+              "label": "Para queimaduras bacterianas",
+              "steps": [
+                {
+                  "title": "remover"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "L04": {
+        "name": "Antracnose",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Arraste todos os detritos de plantas antigas no outono"
+                },
+                {
+                  "title": "Compre cultivares resistentes"
+                },
+                {
+                  "title": "Espaçamento amplo para o fluxo de ar"
+                },
+                {
+                  "title": "Irrigação por gotejamento apenas"
+                },
+                {
+                  "title": "Spray preventivo de cobre no início da primavera em plantas suscetíveis"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Manchas cinzas com bordas castanhas escuras ou pretas",
+        "symptomAnalysis": "A antracnose é um grupo de doenças fúngicas relacionadas. Todas prosperam em climas frios e úmidos, especialmente na primavera e no início do verão. As esporas sobrevivem no inverno em detritos de plantas e infectam o novo crescimento à medida que as condições esquentam. Comum em árvores de sombra, árvores frutíferas, feijões, tomates e muitas ornamentais.\n\nEpidêmias graves defoliam as plantas. As leves são cosméticas.",
+        "treatment": {
+          "groups": [
+            {
+              "label": "Para casos leves",
+              "steps": [
+                {
+                  "title": "Preencha as folhas afetadas e descarte"
+                },
+                {
+                  "title": "Limpe todas as folhas e detritos caídos"
+                }
+              ]
+            },
+            {
+              "label": "Para casos graves",
+              "steps": [
+                {
+                  "title": "Preencha todo o tecido visivelmente afetado"
+                },
+                {
+                  "title": "Aplique fungicida de cobre antes de um período seco"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "L05": {
+        "name": "Mancha angular da folha",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "**Não trabalhe no jardim quando as folhas estiverem molhadas.** As bactérias se transferem facilmente de folhas molhadas para suas mãos e ferramentas."
+                },
+                {
+                  "title": "Compre cultivares resistentes de abóbora e morango"
+                },
+                {
+                  "title": "Rotacionar pelo menos 2 anos antes de replantar cucurbitas no mesmo local."
+                },
+                {
+                  "title": "Irrigação por gotejamento apenas"
+                },
+                {
+                  "title": "Spray preventivo de cobre na primavera"
+                },
+                {
+                  "title": "Não salve sementes de plantas infectadas"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Pontas amarelas quadradas pelas veias das folhas",
+        "symptomAnalysis": "Uma doença bacteriana (*Pseudomonas* spp.) transmitida por sementes, mas espalhada ainda mais pelo clima quente e úmido e pela irrigação por cima. As veias bloqueiam a propagação livre das bactérias, então as lesões ficam confinadas a um único painel entre as veias, dando a aparência quadrada. Os casos graves fazem com que as folhas caiam; as lesões também aparecem nos caules e no fruto.\n\nA doença persiste em sementes, detritos de plantas e ferramentas contaminadas.",
+        "treatment": {
+          "groups": [
+            {
+              "label": "Para casos leves",
+              "steps": [
+                {
+                  "title": "Preencha as folhas e caules afetados"
+                },
+                {
+                  "title": "Sterilize entre cada corte"
+                },
+                {
+                  "title": "Bactericida de cobre, aplicado cedo"
+                }
+              ]
+            },
+            {
+              "label": "Para casos graves",
+              "steps": [
+                {
+                  "title": "Remova e destrua a planta"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "L06": {
+        "homeRemedies": [
+          {
+            "ingredients": [
+              {
+                "name": "bicarbonato de sódio",
+                "quantity": "1 colher de chá"
+              },
+              {
+                "name": "Sabão para louça",
+                "quantity": "1 colher de chá"
+              },
+              {
+                "name": "água",
+                "quantity": "1 litro"
+              }
+            ]
+          }
+        ],
+        "name": "Mancha na folha",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Compre variedades resistentes a doenças"
+                },
+                {
+                  "title": "Arrumar toda a matéria orgânica das folhas"
+                },
+                {
+                  "title": "Água no nível do solo"
+                },
+                {
+                  "title": "O mulch reduz o retorno de esporos."
+                },
+                {
+                  "title": "Cobre preventivo no início da primavera"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Pontas brancas ou amarelas espalhadas por entre as folhas",
+        "symptomAnalysis": "Uma etiqueta geral para infecções fúngicas que produzem manchas claras nas folhas. Muitos fungos causam danos semelhantes; o tratamento é aproximadamente o mesmo independentemente da espécie exata. As manchas tendem a secar do centro.\n\nSe as manchas forem pequenas e densamente agrupadas (menos de 1 mm), a causa é mais provável ser insetos sugadores de seiva — veja [L24 — Danos por sugadores de seiva](sap-sucking-damage.md).",
+        "treatment": {
+          "groups": [
+            {
+              "label": "Para casos leves (menos de metade das folhas afetadas)",
+              "steps": [
+                {
+                  "title": "Remova as folhas manchadas"
+                },
+                {
+                  "title": "Sterilize as ferramentas entre os cortes"
+                }
+              ]
+            },
+            {
+              "label": "Para casos graves",
+              "steps": [
+                {
+                  "title": "Remova toda a folhagem manchada"
+                },
+                {
+                  "title": "Aplique fungicida de cobre semanalmente"
+                },
+                {
+                  "title": "Em casos extremos, substitua a planta"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "L07": {
+        "name": "Amarelamento por falta de água",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "body": "Alguns gostam de seco, outros gostam de consistentemente úmido.",
+                  "title": "Pesquise as necessidades de rega de cada planta"
+                },
+                {
+                  "title": "Defina um lembrete no calendário se você tende a esquecer"
+                },
+                {
+                  "title": "Use um medidor de umidade do solo ou apenas o teste com o dedo antes de regar"
+                },
+                {
+                  "title": "Cubra as plantas externas com cobertura morta para retardar a evaporação"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Folhas inferiores amarelas, solo seco e puxando da vasilha",
+        "symptomAnalysis": "Quando a planta fica sem água, ela sacrifica suas folhas mais velhas primeiro para manter o crescimento mais novo vivo. Solo que está seco até o segundo dedo do punho e visivelmente encolhendo pela borda da vasilha confirma falta de água. Comum em ervas e qualquer planta que tenha sido negligenciada.\n\nDistingue-se da encharcamento: solo seco + folhas inferiores amarelando apenas = abaixo. Solo molhado + folhas inferiores amarelando + solo com cheiro a ácido = acima (veja [L08](waterlogging-yellow.md)).",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Despeje a água lentamente até que ela escorra pelo fundo"
+                },
+                {
+                  "title": "Se o solo estiver tão seco que repele a água: coloque a panela em uma tigela de água por 30 minutos para imersão do fundo."
+                },
+                {
+                  "title": "Corte as folhas totalmente mortas"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "L08": {
+        "name": "Encharcamento",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Apenas regue quando o solo superficial estiver seco"
+                },
+                {
+                  "title": "Use vasos com furos de drenagem"
+                },
+                {
+                  "title": "Use uma mistura de solo de alta qualidade; compactadores de solo baratos ficam molhados e ficam úmidos."
+                },
+                {
+                  "title": "Não deixe as panelas de molho em tigelas cheias de água"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "As folhas inferiores ficam amarelas e depois escurecem, o solo está constantemente úmido",
+        "symptomAnalysis": "Muita água despeja oxigênio no solo, sufocando as raízes. Raízes podres não conseguem mais absorver água, então as folhas acima mostram sintomas semelhantes à seca enquanto ficam em solo molhado. A planta corta suas folhas inferiores primeiro para reduzir a demanda.\n\nSe deixado, a podridão se espalha e a planta morre. Também pode aparecer como folhas macias, escurecidas e podridas, em vez de apenas amarelas - mesma causa, mais avançada.\n\nPara o sintoma da extremidade da raiz, consulte [R01 — Podridão da raiz](../05_roots/root-rot.md).",
+        "treatment": {
+          "groups": [
+            {
+              "label": "Para casos leves (apenas amarelamento)",
+              "steps": [
+                {
+                  "title": "Pare de regar até que as 2 polegadas superiores do solo estejam secas"
+                },
+                {
+                  "title": "Mova-se para um melhor fluxo de ar se estiver dentro de casa"
+                },
+                {
+                  "title": "Corte as folhas amarelas mais ruins"
+                }
+              ]
+            },
+            {
+              "label": "Para casos graves (escurecimento, podridão)",
+              "steps": [
+                {
+                  "title": "Desenxágue e inspecione as raízes"
+                },
+                {
+                  "title": "Corte as raízes podres"
+                },
+                {
+                  "title": "Replantar em solo seco fresco com drenagem"
+                },
+                {
+                  "title": "Preencha até 1/3 das folhas saudáveis para reduzir a demanda de água"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "L09": {
+        "name": "Amarelado envelhecido e seco",
+        "shortDescription": "Algumas folhas basais amarelando em uma planta saudável",
+        "symptomAnalysis": "Este é o envelhecimento normal. As plantas descartam suas folhas mais velhas periodicamente. Amarelamento limitado às folhas mais baixas de uma planta de outra forma saudável - sem manchas, sem pragas, sem escurecimento, sem efeito generalizado - significa que a planta está simplesmente rolando suas folhas.\n\nDistingue-se da podridão subaquática: o amarelamento seco afeta apenas 1 a 3 folhas mais baixas de cada vez, e as substituições crescem normalmente acima. A podridão subaquática amarelamento muitas folhas de uma só vez e o solo fica seco até o segundo dedo do punho.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Corte as folhas amarelas assim que estiverem completamente secas"
+                },
+                {
+                  "title": "Não deixe as folhas caídas ficarem no solo"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "L10": {
+        "name": "Clorose geral",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Alimentação regular durante a estação de crescimento"
+                },
+                {
+                  "title": "Rega consistente"
+                },
+                {
+                  "title": "Teste o pH do solo a cada dois anos"
+                },
+                {
+                  "title": "Use mistura de solo de alta qualidade para plantas de interior"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Toda a planta ficando amarela — deficiência de nutrientes",
+        "symptomAnalysis": "Clorose significa que as folhas não conseguem produzir suficiente clorofila. Causas:\n\n- **Deficiência de nitrogênio (N)** — as folhas internas mais antigas amarelam primeiro; se espalham para fora se for grave.\n- **Deficiência de potássio (K)** — bordas das folhas marrons e enrugadas, com uma margem amarela logo dentro.\n- **Deficiência de zinco** — amarelamento na base das folhas.\n- **Cobre / boro** — as folhas mais novas amarelam primeiro; a folhagem fica frágil.\n\nPara padrões específicos:\n\n- Amarelo entre as veias, as veias permanecem verdes → [L11 — Deficiência de ferro](iron-deficiency.md)\n- Veias amarelas, corpo da folha verde → [L12 — Clorose venosa](veinal-chlorosis.md)\n\nAs causas da indisponibilidade de nutrientes incluem a falta real no solo, danos às raízes e pH incorreto do solo.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Aplique um fertilizante equilibrado por rótulo"
+                },
+                {
+                  "title": "Ou alimentação foliar para absorção rápida"
+                },
+                {
+                  "title": "Teste o pH do solo se a alimentação regular não ajudar"
+                },
+                {
+                  "title": "Adicione composto; fornece micronutrientes e melhora a estrutura do solo."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "L11": {
+        "name": "Deficiência de ferro",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Teste o solo antes de plantar"
+                },
+                {
+                  "title": "Em solos alcalinos, escolha plantas tolerantes em vez de amantes de ácidos."
+                },
+                {
+                  "title": "Mantenha a aeração do solo com compostagem regular"
+                },
+                {
+                  "title": "Não sobrecarregue os canteiros de jardim; eleva o pH"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Amarelo entre as veias, as veias permanecem verdes (interveinais)",
+        "symptomAnalysis": "Clorose intervencional clássica. O ferro é necessário para produzir clorofila, e as folhas não podem sintetizar novos pigmentos sem ele. Muitas vezes, o solo tem muito ferro, mas a planta não consegue absorvê-lo porque o pH do solo é muito alto (alcalino) ou compactado.\n\nComum em cítricos, mirtilos, hortênsias, gardenias e muitos ornamentais em solos alcalinos.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Spray foliar com ferro chelatado"
+                },
+                {
+                  "title": "Aplique ferro chelatado no solo para correção a longo prazo"
+                },
+                {
+                  "title": "Teste de pH"
+                },
+                {
+                  "title": "Adicione composto ou outra matéria orgânica; ajuda a tornar o ferro disponível"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "L12": {
+        "name": "Clorose venosa",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Teste periódico do solo"
+                },
+                {
+                  "title": "Use fertilizantes balanceados, não aqueles com apenas um nutriente, a menos que os testes indiquem o contrário."
+                },
+                {
+                  "title": "Melhore o drenagem e a aeração com composto e cobertura orgânica"
+                },
+                {
+                  "title": "Verifique as novas plantas para sintomas semelhantes a vírus antes de trazê-las para o jardim."
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "As veias ficam amarelas, o resto da folha permanece verde",
+        "symptomAnalysis": "A clorose venosa é menos comum do que a intervenosa. As causas incluem:\n\n- **Deficiência de magnésio ou cobre**\n- **Compactação do solo** impedindo a absorção de nutrientes pelas raízes\n- **Vírus mosaico ou doenças vegetais** afetando o transporte de nutrientes\n- **Stress frio em cítricos** durante as estações frias (geralmente resolve com calor)\n\nMenos específico do que a deficiência de ferro, então o diagnóstico geralmente começa com um teste de solo.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Teste do solo primeiro"
+                },
+                {
+                  "title": "Com base no teste, aplique o nutriente deficiente certo"
+                },
+                {
+                  "title": "Solte o solo compactado com uma pá; misture com composto para aeração"
+                },
+                {
+                  "body": "Vírus não se recuperam.",
+                  "title": "Se um vírus mosaico for suspeito: [S43](../shared/treatment-steps.md#s43-discard-the-severely-infected-plant)"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "L13": {
+        "name": "Luz insuficiente",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Combine a planta com suas necessidades de luz desde o início"
+                },
+                {
+                  "title": "Use uma luz de cultivo no inverno ou em salas escuras"
+                },
+                {
+                  "title": "Rotacionar as plantas de interior 90 graus semanalmente"
+                },
+                {
+                  "title": "Não superpreencha plantas ao ar livre"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Crescimento pálido e alongado que se estende em direção à luz (etiolação)",
+        "symptomAnalysis": "A etiolia ocorre quando uma planta cresce em pouca luz. Ela produz etioplástos em vez de clorofila e os caules se alongam de forma anormal à medida que a planta tenta alcançar a luz. O resultado é um crescimento pálido e fraco, mais vulnerável a doenças e pragas.\n\nComum em: plantas de interior colocadas muito longe de uma janela, mudas sob luzes de cultivo inadequadas, plantas de exterior sombreadas por vizinhos superplantados.",
+        "treatment": {
+          "groups": [
+            {
+              "label": "Para plantas de interior",
+              "steps": [
+                {
+                  "title": "Mova-se gradualmente para uma janela voltada para o sul ou oeste."
+                },
+                {
+                  "title": "Se a luz natural não estiver disponível, adicione uma luz de cultivo em um temporizador de 12 a 14 horas."
+                },
+                {
+                  "title": "Rotule a panela semanalmente para que a planta cresça uniformemente"
+                }
+              ]
+            },
+            {
+              "label": "Para plantas externas",
+              "steps": [
+                {
+                  "title": "Trime as plantas circundantes que competem pela luz"
+                },
+                {
+                  "title": "Mova as plantas em recipientes para um local mais ensolarado"
+                },
+                {
+                  "title": "Preencha as hastes compridas com brotos."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "L14": {
+        "name": "Morte bacteriana das folhas",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Limpe os detritos vegetais no final da estação"
+                },
+                {
+                  "title": "Evite regar de cima para baixo"
+                },
+                {
+                  "title": "Mulch para impedir que o solo salpique nas folhas"
+                },
+                {
+                  "title": "Sempre esterilize as ferramentas entre as plantas"
+                },
+                {
+                  "title": "**Não faça jardinagem quando as plantas estiverem molhadas.** As bactérias se transferem facilmente através de folhas molhadas."
+                },
+                {
+                  "title": "A rotação de culturas interrompe o acúmulo bacteriano"
+                },
+                {
+                  "title": "Spray preventivo de cobre no início da primavera"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Folhas mofadas macias e com cheiro ruim",
+        "symptomAnalysis": "A apodrecimento bacteriana das folhas é causada por várias bactérias entrando por feridas, estomas (durante o tempo úmido) ou por meio de solo esbarrado. Uma vez dentro, as bactérias se multiplicam rapidamente e decompõem o tecido saudável. Mais comum em condições úmidas e quentes.\n\nSe espalha rapidamente entre as plantas se não for tratada. Diferencia-se das infecções fúngicas na natureza macia, aquosa e fedorenta da podridão.",
+        "treatment": {
+          "groups": [
+            {
+              "label": "Para casos leves",
+              "steps": [
+                {
+                  "title": "Corte as folhas afetadas para limpar o tecido"
+                },
+                {
+                  "title": "Sterilize entre cada corte"
+                },
+                {
+                  "title": "Aplique bactericida de cobre no restante da folhagem e no solo circundante."
+                }
+              ]
+            },
+            {
+              "label": "Para casos graves (>50% afetados)",
+              "steps": [
+                {
+                  "title": "Remova e descarte a planta"
+                },
+                {
+                  "title": "Trate o solo circundante e as plantas vizinhas com bactericida de cobre"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "L15": {
+        "name": "Deformidade da folha",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Fertilização constante"
+                },
+                {
+                  "title": "Monitorar por pragas e tratar cedo"
+                },
+                {
+                  "title": "Rega consistente"
+                },
+                {
+                  "title": "Proteja contra geada"
+                },
+                {
+                  "body": "A deriva de herbicidas pode viajar centenas de pés com o vento.",
+                  "title": "Evite o uso de herbicidas perto de plantas de jardim"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Folhas deformadas, paralisadas, rugosas ou torcidas",
+        "symptomAnalysis": "Várias causas:\n\n- **Danos por insetos** — ácaros, pulgas e outros sugadores de seiva deixam as plantas vulneráveis a vírus que distorcem o crescimento. Galhas (crescimentos elevados) vêm de insetos que formam galhas — veja [L16](leaf-gall.md).\n- **Drift de herbicida** — mesmo uma pequena exposição a herbicidas para gramados ou entradas de veículos causa novas folhas estreitas, distorcidas e em forma de copo característicos.\n- **Danos causados pelo frio na fase de botão** — o gelo durante a fase de emergência das folhas causa distorção permanente nessas folhas.\n- **Stress hídrico** — muita ou pouca água durante a fase de crescimento distorce as folhas.\n- **Deficiência de nutrientes** — a escassez de boro, cálcio e molibdênio causa retardo.\n\nOlhe para onde está a deformidade (apenas novas folhas? apenas algumas plantas?) para restringi-la.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Remova as folhas deformadas para que a planta foque a energia em novas folhas."
+                },
+                {
+                  "body": "- Pragas visíveis → veja [02_pests/](../02_pests/) e trate - Todas as plantas em uma fila afetadas → deriva de herbicida; elimine a exposição - Apenas após uma geada → danos por frio; aguarde - Com amarelamento → veja [L10 — Clorose geral](chlorosis-fertilizer.md)",
+                  "title": "Identifique a causa:"
+                },
+                {
+                  "title": "Aplique fertilizante equilibrado se os nutrientes estiverem suspeitos"
+                },
+                {
+                  "title": "Remova plantas com padrões de mosaico viral"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "L16": {
+        "name": "Galo de folha",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Arrumar as folhas caídas"
+                },
+                {
+                  "title": "Não fertilize em excesso"
+                },
+                {
+                  "title": "Mantenha as plantas bem regadas para evitar estresse por seca"
+                },
+                {
+                  "title": "Aplique óleo hortícola adormecido no início da primavera para controlar os insetos que passam o inverno nas plantas de madeira."
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Crescimentos anormais e irregulares nas folhas",
+        "symptomAnalysis": "As gálulas se formam quando o tecido vegetal cresce de forma anormal em resposta a:\n\n- **Insetos sugadores de seiva** — ácaros, pulgas, vespas de gálatas colocam ovos ou alimentam-se dentro das folhas.\n- **Infecção bacteriana ou fúngica** — alguns patógenos desencadeiam a formação de cálculos biliares.\n\nA própria gola geralmente não danifica seriamente a planta. A causa subjacente pode. As golas são mais comuns em novos brotos e após invernos leves que não mataram os produtores de gola.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Remova as folhas e galhos com bolhas"
+                },
+                {
+                  "title": "Sterilize entre os cortes"
+                }
+              ]
+            },
+            {
+              "label": "Para gálatas generalizadas causadas por ácaros ou pulgas",
+              "steps": [
+                {
+                  "title": "Sabão inseticida"
+                },
+                {
+                  "title": "Óleo de nim"
+                }
+              ]
+            },
+            {
+              "label": "Para galhas causadas por infecção bacteriana ou fúngica",
+              "steps": [
+                {
+                  "title": "Fungicida/bactericida de cobre na primavera"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "L17": {
+        "name": "Baixa umidade",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Mantenha 40-60% de umidade interna para tropicais"
+                },
+                {
+                  "title": "Mova plantas sensíveis longe de aberturas de ventilação para aquecimento e correntes de ar do ar condicionado"
+                },
+                {
+                  "title": "Agrupe plantas que amam umidade; elas criam seu próprio microclima."
+                },
+                {
+                  "title": "Use um higrômetro para monitorar"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Pontas das folhas dobradas, pontas marrons crocantes",
+        "symptomAnalysis": "Quando o ar está muito seco, as folhas perdem água mais rápido do que as raízes conseguem substituí-la. A planta enrola as folhas para reduzir a transpiração. Pontas e bordas, onde a água chega por último, secam primeiro.\n\nCausas comuns: aquecimento doméstico no inverno, ar condicionado no verão, climas secos. Plantas tropicais (calathea, samambaia, figo-de-folha-de-viola, lírio-da-paz, planta-de-oração) são especialmente sensíveis.\n\nDistingue-se da encharcamento: baixa umidade causa ondulações e pontas marrons, mesmo quando o solo está úmido. A encharcamento também seca o solo.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Borrifar diariamente, plantar as plantas em grupo, usar uma bandeja de pedras ou ligar um umidificador"
+                },
+                {
+                  "title": "Corte as pontas marrons com tesoura para cosméticos"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "L18": {
+        "name": "Curl de folha de pêssego",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Aplique fungicida de cobre"
+                },
+                {
+                  "title": "Compre variedades resistentes (e"
+                },
+                {
+                  "title": "Arrumar as folhas caídas"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Novas folhas enrolam, correm e enrugam (fúngicas)",
+        "symptomAnalysis": "Uma doença fúngica (*Taphrina deformans*) que infecta as folhas emergentes na primavera. O fungo estimula o crescimento celular rápido e desordenado, produzindo as folhas inchadas e distorcidas. Os esporos sobrevivem ao inverno na casca e dentro dos brotos dormindo. Primavera frias e úmidas pioram os surtos; clima quente e seco suprime o fungo.\n\nÁrvores gravemente infectadas perdem grande parte de sua primeira folhagem. As segundas folhas saudáveis geralmente voltam a crescer sem infecção.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Preencha severamente as ramas enroladas."
+                },
+                {
+                  "title": "Aplique fungicida de cobre"
+                },
+                {
+                  "title": "Continue regando de forma consistente durante a recuperação"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "L19": {
+        "name": "Doença do buraco de tiro",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Arraste as folhas caídas e os detritos regularmente"
+                },
+                {
+                  "title": "Spray preventivo de cobre no final do inverno e início da primavera"
+                },
+                {
+                  "title": "Preencha para fluxo de ar"
+                },
+                {
+                  "title": "Remova árvores gravemente doentes que não vão se recuperar"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Pontas marrons que secam e caem, deixando pequenos buracos",
+        "symptomAnalysis": "Causado por uma combinação de fungo (*Wilsonomyces carpophilus*) e bactérias. Comum em árvores de frutas de pedra - cereja, pêssego, damasco, ameixa - e em louros e algumas ornamentais. Cresce bem em clima quente e úmido.\n\nO dano é principalmente cosmético, mas pode causar defolição significativa em anos ruins. Não mata as plantas diretamente, mas enfraquece-as.",
+        "treatment": {
+          "groups": [
+            {
+              "label": "Para casos leves",
+              "steps": [
+                {
+                  "title": "Remova as folhas doentes imediatamente, em clima seco."
+                },
+                {
+                  "title": "Arrumar a folhagem caída"
+                }
+              ]
+            },
+            {
+              "label": "Para casos graves (muitos buracos, queda de folhas)",
+              "steps": [
+                {
+                  "title": "Retire as folhas doentes e o detrito moído"
+                },
+                {
+                  "title": "Aplique fungicida de cobre semanalmente durante os danos da primavera"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "L20": {
+        "homeRemedies": [
+          {
+            "ingredients": [
+              {
+                "name": "bicarbonato de sódio",
+                "quantity": "1 colher de chá"
+              },
+              {
+                "name": "Sabão para louça",
+                "quantity": "1 colher de chá"
+              },
+              {
+                "name": "água",
+                "quantity": "1 litro"
+              }
+            ]
+          },
+          {
+            "ingredients": [
+              {
+                "name": "leite",
+                "quantity": "1 parte"
+              },
+              {
+                "name": "água",
+                "quantity": "9 partes"
+              }
+            ]
+          },
+          {
+            "ingredients": [
+              {
+                "name": "aspirina",
+                "quantity": "1 comprimido"
+              },
+              {
+                "name": "água",
+                "quantity": "1 galão"
+              },
+              {
+                "name": "Sabão para louça",
+                "quantity": "Algumas gotas"
+              }
+            ]
+          }
+        ],
+        "name": "Mofo fofo",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Escolha variedades resistentes ao mofo"
+                },
+                {
+                  "title": "Espaçamento amplo para o fluxo de ar"
+                },
+                {
+                  "title": "Irrigação por gotejamento"
+                },
+                {
+                  "title": "Limpe os detritos antes do inverno"
+                },
+                {
+                  "title": "Spray preventivo em plantas suscetíveis"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Recubrimento em pó branco na superfície da folha, se remove com um pano.",
+        "symptomAnalysis": "Uma família de fungos que afeta a maioria das plantas. Inusualmente para um fungo, ele prospera em condições quentes e secas com noites úmidas — ao contrário da maioria das doenças. O meio ao final do verão é a época alta. O pó branco é o fungo crescendo na superfície, não penetrando nas folhas.\n\nRaramente mata o hospedeiro, mas reduz o vigor e o rendimento. Os casos graves distorcem as folhas e os frutos.\n\nPara o mofo branco em frutas, consulte [FR06](../04_fruits/powdery-mildew-fruit.md).",
+        "treatment": {
+          "groups": [
+            {
+              "label": "Para casos leves ou isolados",
+              "steps": [
+                {
+                  "title": "Corte as folhas e os caules afetados"
+                },
+                {
+                  "title": "Abra o fluxo de ar com poda seletiva"
+                }
+              ]
+            },
+            {
+              "label": "Para casos generalizados",
+              "steps": [
+                {
+                  "title": "Trime a folhagem fortemente afetada"
+                },
+                {
+                  "title": "Aplique fungicida de cobre semanalmente"
+                },
+                {
+                  "title": "Mova as plantas em recipientes para um local mais ensolarado e iluminado."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "L21": {
+        "name": "Mofo cinza",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "body": "O mofo é um sintoma downstream.",
+                  "title": "Trate os sugadores de xarope assim que eles aparecem"
+                },
+                {
+                  "title": "Não fertilize em excesso"
+                },
+                {
+                  "title": "Encorajar predadores naturais"
+                },
+                {
+                  "title": "Pare as formigas nos troncos das árvores com fita adesiva pegajosa - elas protegem os pragas produtoras de melada de predadores"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Cobertura preta semelhante a fuligem nas folhas sob sugadores de seiva",
+        "symptomAnalysis": "O mofo cinza é causado por esporos de fungos transportados pelo ar que pousam no melado pegajoso secretado por insetos sugadores de seiva, como pulgões, pulgas brancas, pulgas de casca e pulgas de mel. O fungo se alimenta do melado, não da planta. É inofensivo para a planta diretamente, mas o revestimento preto bloqueia a luz solar e reduz a fotossíntese.\n\nO verdadeiro problema não é o mofo; é a infestação de insetos que cria o melada. Trate os pragas, o mofo desaparece com a próxima chuva.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "body": "- Lagartijas → [P02](../02_pests/aphids.md) - Mosquitos brancos → [P15](../02_pests/whiteflies.md) - Escamas → [P03](../02_pests/scale-insects.md) - Mosquitos de mel → [P04](../02_pests/mealybugs.md)",
+                  "title": "**Identifique e trate o inseto subjacente** — veja a entrada relevante em [02_pests/](../02_pests/):"
+                },
+                {
+                  "title": "Limpe as folhas com um pano úmido e sabonoso para remover o mofo visível"
+                },
+                {
+                  "title": "Um forte spray de água enxágue tanto os insetos quanto os resíduos."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "L22": {
+        "name": "ferrugem",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Compre variedades resistentes à ferrugem"
+                },
+                {
+                  "title": "Inspecione as novas plantas para manchas laranja"
+                },
+                {
+                  "title": "Irrigação por gotejamento pela manhã"
+                },
+                {
+                  "title": "Espaçamento largo"
+                },
+                {
+                  "title": "Mulam pesadamente"
+                },
+                {
+                  "title": "Limpar detritos na queda"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Pustulações erguidas laranja ou castanhas avermelhadas nas folhas",
+        "symptomAnalysis": "A ferrugem é causada por milhares de espécies diferentes de fungos na ordem *Pucciniales*. Eles prosperam em condições quentes e úmidas. Os esporos se espalham pelo vento e pela água. A maioria das ferrugens tem ciclos de vida complexos envolvendo duas plantas hospedeiras.\n\nRaramente mata, mas enfraquece as plantas e reduz o rendimento. Comum em rosas, hortênsias, dragões-de-lágrima, feijões, lírios-da-paz, junipers, maçãs, pêssegos.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Remova as folhas enferrujadas"
+                },
+                {
+                  "title": "Aplique fungicida de cobre semanalmente"
+                },
+                {
+                  "title": "Pare de regar por cima imediatamente"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "L23": {
+        "homeRemedies": [
+          null,
+          {
+            "ingredients": [
+              {
+                "name": "bicarbonato de sódio",
+                "quantity": "1 colher de chá"
+              },
+              {
+                "name": "Sabão para louça",
+                "quantity": "1 colher de chá"
+              },
+              {
+                "name": "água",
+                "quantity": "1 litro"
+              }
+            ]
+          }
+        ],
+        "name": "Mofo cinza (botrytis)",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Espaçamento amplo para o fluxo de ar"
+                },
+                {
+                  "title": "Sem água acima da linha do nível do solo"
+                },
+                {
+                  "title": "Tenha cuidado para não ferir as plantas — feridas convidam o fungo"
+                },
+                {
+                  "title": "Sterilize as ferramentas de jardim"
+                },
+                {
+                  "title": "Cobre preventivo no início da primavera em plantas suscetíveis"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Mofo fofo cinza-castanho em folhas danificadas ou molhadas",
+        "symptomAnalysis": "Causado por *Botrytis cinerea*, um fungo comum que prefere condições frias, úmidas e estáticas. Ele se alimenta primeiro de tecidos mortos e danificados, depois se move para tecidos saudáveis. Os esporos se espalham por respingos de água e vento.\n\nMorangos, peônias, rosas, alface e muitas plantas ornamentais são hospedeiras comuns. Muitas vezes chamada de \"morte nobre\" em uvas usadas para vinhos doces, mas na maioria das plantas é destrutiva.\n\nPara botrytis em flores, consulte [FL05 — Morte de pétalas](../06_flowers/petal-blight.md).",
+        "treatment": {
+          "groups": [
+            {
+              "label": "Para casos leves",
+              "steps": [
+                {
+                  "title": "Corte o tecido afetado de volta para madeira limpa"
+                },
+                {
+                  "title": "Sterilize entre os cortes"
+                },
+                {
+                  "title": "Mulch para impedir a dispersão de esporos"
+                }
+              ]
+            },
+            {
+              "label": "Para casos graves",
+              "steps": [
+                {
+                  "title": "Remova todo o tecido afetado"
+                },
+                {
+                  "title": "Limpe todos os detritos ao redor da planta"
+                },
+                {
+                  "title": "Aplique fungicida de cobre a cada 1 a 2 semanas"
+                },
+                {
+                  "title": "Deixe a planta secar entre as regas"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "L24": {
+        "name": "Danos por sucção de xarope",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Inspecione as novas plantas para manchas e partes inferiores"
+                },
+                {
+                  "title": "Não fertilize em excesso com nitrogênio"
+                },
+                {
+                  "title": "Manter o habitat para insetos predadores"
+                },
+                {
+                  "title": "Limpe ervas daninhas e detritos"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Pequenos pontos densos amarelos ou brancos de manchas",
+        "symptomAnalysis": "Causado por insetos sugadores de seiva - pulgões, pulgas brancas, pulgões de folhas, pulgões de renda, ácaros, pulgas de mel, pulgões de folhas - perfurando o tecido das folhas e sugando o conteúdo celular. Cada perfuração deixa um pequeno ponto pálido (\"pontilhamento\"). Com muitos alimentadores, os pontos se fundem em um visual bronzeado ou prateado.\n\nAs folhas não matam a planta diretamente, mas a mancha enfraquece-a e muitos desses insetos também espalham vírus de plantas.\n\nEsta entrada cobre o sintoma da folha. Para o inseto específico que o causa, consulte [02_pests/](../02_pests/).",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "body": "Correspondência com: - Pequenos pontos + teias → [P05 — Pulgas-aranha](../02_pests/spider-mites.md) - Corpos macios em forma de pêra agrupados → [P02 — Aphids](../02_pests/aphids.md) - Moscas brancas semelhantes a borboletas → [P15 — Whiteflies](../02_pests/whiteflies.md) - Asas delicadas com pontos pretos sob elas → [P11 — Lace bugs](../02_pests/lace-bugs.md) - Saltadores em forma de quebra-cabeça → [P12 — Leafhoppers](../02_pests/leafhoppers.md) - Criadores de listras prateadas finas → [P10 — Thrips](../02_pests/thrips.md)",
+                  "title": "**Identifique o inseto pragmático** - vire as folhas e procure pequenos insetos sob as folhas ou nas articulações."
+                },
+                {
+                  "title": "Pulverize pragas com mangueira"
+                },
+                {
+                  "title": "Sabão inseticida"
+                },
+                {
+                  "title": "Liberte besouros-de-prata e lagartijas-de"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "P01": {
+        "name": "Lagartijas",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Cubra as plantas com rede antes que os adultos cheguem"
+                },
+                {
+                  "title": "Verifique as partes inferiores das folhas regularmente para detectar aglomerados de pequenos ovos."
+                },
+                {
+                  "title": "Incentive vespas parasitas e pássaros"
+                },
+                {
+                  "title": "Limpe os detritos onde as pupas passam o inverno."
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Larvas mastigadoras semelhantes a vermes de borboletas e mariposas",
+        "symptomAnalysis": "As lagartijas mastigam buracos irregulares nas folhas e podem arrancar as folhas até as veias nuas. Algumas se especializam em certas plantas (brócolis branco em crucíferas, lagarta-de-cabeça em tomates). Mais ativas na primavera e no verão; algumas espécies se alimentam no outono e no inverno.\n\nVocê pode ver folhas mastigadas, bolas fecais escuras (\"frass\") e as próprias lagartixas nas partes inferiores das folhas.",
+        "treatment": {
+          "groups": [
+            {
+              "label": "Para casos leves",
+              "steps": [
+                {
+                  "title": "Escolha manualmente as lagartixas em água com sabão"
+                },
+                {
+                  "title": "Preencha folhas gravemente danificadas"
+                }
+              ]
+            },
+            {
+              "label": "Para casos graves",
+              "steps": [
+                {
+                  "title": "Aplicar Bt"
+                },
+                {
+                  "title": "Liberar vespas parasitas"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "P02": {
+        "homeRemedies": [
+          null,
+          {
+            "ingredients": [
+              {
+                "name": "Sabão para louça",
+                "quantity": "1 colher de chá"
+              },
+              {
+                "name": "água",
+                "quantity": "1 litro"
+              }
+            ]
+          }
+        ],
+        "name": "Aphídios",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Quarentena e inspeção de novas plantas"
+                },
+                {
+                  "title": "Limpe as ervas daninhas próximas"
+                },
+                {
+                  "title": "Manter o habitat para lagartixas-das-pradarias e lagartixas-de-bor"
+                },
+                {
+                  "title": "Não fertilize em excesso com nitrogênio — o novo crescimento macio atrai pulgas"
+                },
+                {
+                  "title": "Inspecione o novo crescimento com frequência; pegue-os cedo"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Suaves sugadores de suco em forma de pêra, geralmente verdes ou pretos",
+        "symptomAnalysis": "As pulgas perfuram o tecido vegetal e sugam o xarope. Infestações pesadas enfraquecem o crescimento novo, distorcem as folhas e retardam o desenvolvimento da planta. Elas excretam melada pegajosa que escorre nas folhas inferiores e cresce em preto [mofo fuligem](../01_leaves/sooty-mold.md). A atividade pesada de formigas é um sinal — as formigas cultivam pulgas para obter melada.\n\nAs pulgas se reproduzem extremamente rapidamente (nascimentos vivos, sem necessidade de ovos na estação de crescimento). Um pequeno grupo se torna uma infestação em poucos dias. Elas também espalham vírus de plantas.",
+        "treatment": {
+          "groups": [
+            {
+              "label": "Para casos leves",
+              "steps": [
+                {
+                  "title": "Explode com um forte fluxo de água"
+                },
+                {
+                  "title": "Limpe os aglomerados com um pano úmido e sabonoso."
+                }
+              ]
+            },
+            {
+              "label": "Para casos graves",
+              "steps": [
+                {
+                  "title": "Sabão inseticida nas partes inferiores das folhas"
+                },
+                {
+                  "title": "Óleo de nim para infestações teimosas"
+                },
+                {
+                  "title": "Liberte besouros-de-prata e lagartijas-de"
+                },
+                {
+                  "title": "Corte as pontas fortemente infestadas"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "P03": {
+        "homeRemedies": [
+          null,
+          {
+            "ingredients": [
+              {
+                "name": "Sabão para louça",
+                "quantity": "1 colher de chá"
+              },
+              {
+                "name": "água",
+                "quantity": "1 litro"
+              }
+            ]
+          }
+        ],
+        "name": "Insetos pulgões",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Inspecione cada nova planta cuidadosamente"
+                },
+                {
+                  "title": "Mantenha as plantas saudáveis"
+                },
+                {
+                  "title": "Inspecione as plantas internas mensalmente, concentrando-se nas partes inferiores das folhas e nas articulações do caule."
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Bumps duros ou macios de 2-3 mm presos em folhas e caules",
+        "symptomAnalysis": "As insetos pulgões se alimentam de xarope. Uma vez presos, eles não se movem para a vida. Sua concha áspera ou macia e cera protege-os de sprays e predadores. Infestações pesadas causam amarelamento das folhas, queda e murcha.\n\nA fase de crawler (novamente eclosas, antes de ancorarem) é a única fase móvel e a única fase fácil de matar com sprays. Melada pegajosa pode estar presente, levando a mofo secundário [carbonizado](../01_leaves/sooty-mold.md).",
+        "treatment": {
+          "groups": [
+            {
+              "label": "Para casos leves",
+              "steps": [
+                {
+                  "title": "Limpe as escamas com um pano úmido"
+                },
+                {
+                  "title": "Trime galhos fortemente infestados"
+                }
+              ]
+            },
+            {
+              "label": "Para casos graves",
+              "steps": [
+                {
+                  "title": "Óleo de nim"
+                },
+                {
+                  "title": "Insecticida sistêmico para roedores"
+                },
+                {
+                  "title": "As borboletas-monarca se alimentam de escamas ao ar livre"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "P04": {
+        "name": "Lagartijas de mel",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Quarentena e inspeção de novas plantas por pelo menos 2 semanas"
+                },
+                {
+                  "title": "Não fertilize em excesso com nitrogênio"
+                },
+                {
+                  "title": "Inspecione as juntas das folhas e as partes inferiores mensalmente em plantas de interior."
+                },
+                {
+                  "title": "Limpe os detritos ao redor da base"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Insetos brancos macios e granulados de 1 a 2 mm nas articulações das folhas",
+        "symptomAnalysis": "As pulgas-de-mela são sugadores de seiva relacionados à casca, cobertas por um revestimento branco e cera que repele água e muitos sprays. Elas vivem em grupos e se escondem em locais protegidos - juntas das folhas, superfície do solo, rachaduras do caule. A melancia-doce leva ao [mofo cinza](../01_leaves/sooty-mold.md).\n\nUma praga comum de plantas de interior, especialmente em suculentas, orquídeas e tropicais.",
+        "treatment": {
+          "groups": [
+            {
+              "label": "Para casos leves",
+              "steps": [
+                {
+                  "title": "Limpe com um pano com sabão"
+                },
+                {
+                  "title": "Pulverize plantas robustas com um forte jato de mangueira"
+                }
+              ]
+            },
+            {
+              "label": "Para casos graves",
+              "steps": [
+                {
+                  "title": "Sabão inseticida"
+                },
+                {
+                  "title": "Óleo de nim"
+                },
+                {
+                  "title": "Sistêmico se os tratamentos superficiais falharem"
+                },
+                {
+                  "title": "O destrutor de pulgões (Cryptolaemus) é um predador especializado."
+                },
+                {
+                  "title": "Para plantas de interior fortemente infestadas, descarte em vez de arriscar toda a coleção"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "P05": {
+        "homeRemedies": [
+          null,
+          {
+            "ingredients": [
+              {
+                "name": "Sabão para louça",
+                "quantity": "1 colher de chá"
+              },
+              {
+                "name": "água",
+                "quantity": "1 litro"
+              }
+            ]
+          }
+        ],
+        "name": "Mites aranha",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Mantenha a umidade acima de 40% dentro de casa"
+                },
+                {
+                  "title": "Inspecione as novas plantas para manchas e tecidos"
+                },
+                {
+                  "title": "Não fertilize em excesso"
+                },
+                {
+                  "title": "Pulverize as plantas com água morna periodicamente para interromper as populações de ácaros"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Miniaturas de ácaros vermelhos ou amarelos, fina teia",
+        "symptomAnalysis": "Os ácaros-aranha (tecnicamente aracnídeos) são quase invisíveis - cerca de 1/50 de polegada. Eles se alimentam da parte inferior das folhas, sugando o conteúdo das células e deixando pequenos pontos claros chamados \"pontilhamento\". Infestações pesadas espalham teias nas partes inferiores e em todas as articulações das folhas.\n\nEles prosperam em condições quentes, secas e poluídas e se reproduzem de forma explosiva (uma geração a cada 5 a 7 dias em clima quente). Dentro de casa, eles são mais ativos no inverno, quando o aquecimento doméstico seca o ar.",
+        "treatment": {
+          "groups": [
+            {
+              "label": "Para casos leves",
+              "steps": [
+                {
+                  "title": "Pulverização de água forte, focada nas partes inferiores"
+                },
+                {
+                  "title": "Aumente a umidade ao redor de plantas de interior"
+                }
+              ]
+            },
+            {
+              "label": "Para casos graves",
+              "steps": [
+                {
+                  "title": "Sabão inseticida, nas partes inferiores"
+                },
+                {
+                  "title": "Óleo de nim"
+                },
+                {
+                  "title": "Mites predadores (*Phytoseiulus persimilis*) trabalham ao ar livre"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "P06": {
+        "name": "Lagartijas de folhas",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Coberturas de fileira desde a plantação até a floração"
+                },
+                {
+                  "title": "Limpe os detritos onde os adultos passam o inverno."
+                },
+                {
+                  "title": "Incentive predadores naturais com plantações diversificadas"
+                },
+                {
+                  "title": "A rotação de culturas interrompe os ciclos de vida dos besouros."
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Besouros ovais de 1 a 20 mm cavando buracos irregulares ao mastigar",
+        "symptomAnalysis": "Uma ampla família (*Chrysomelidae*) de besouros que mastigam folhas. Eles afetam a maioria das plantas de jardim e podem defoliá-las rapidamente. Muitos também se alimentam de flores, caules e raízes. Mais ativos na primavera até o outono. Eles passam o inverno como adultos sob casca, folhas e detritos.\n\nAlgumas espécies (borboletas-doceiro, besouros-da-batata-do-colorado, besouros-da-carrapato) são pragas importantes do jardim; outras causam apenas danos cosméticos menores.",
+        "treatment": {
+          "groups": [
+            {
+              "label": "Para casos leves",
+              "steps": [
+                {
+                  "title": "Escolha manualmente em água sabonosa (à tarde, quando mais ativo)"
+                },
+                {
+                  "title": "Cubra as plantas com cobertura de fileira"
+                }
+              ]
+            },
+            {
+              "label": "Para casos graves",
+              "steps": [
+                {
+                  "title": "Óleo de nim"
+                },
+                {
+                  "title": "Piretrina à noite para proteger as abelhas"
+                },
+                {
+                  "title": "Incentive pássaros e vespas com plantações diversificadas"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "P07": {
+        "name": "Vespas de folhas",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Inspecione as mudas antes de plantar"
+                },
+                {
+                  "title": "Mergulhe as raízes das mudas sem raiz em um inseticida sistêmico antes de plantar em áreas fortemente infestadas."
+                },
+                {
+                  "title": "Cascavelhas cultivadas em recipientes de quarentena mostrando danos"
+                },
+                {
+                  "title": "Limpe os detritos do solo sob as árvores afetadas"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Bichos-de-seda fortemente blindados com margens de folhas mastigadas",
+        "symptomAnalysis": "O pulgão verde pálido (*Polydrusus impressifrons*) e espécies semelhantes se alimentam das bordas das folhas de árvores de madeira dura - abeto, carvalho, salgueiro, carvalho-de-água, árvores frutíferas. Os danos aparecem no final da primavera e no início do verão. As larvas recém-nascidas se alimentam de raízes jovens perto da linha do solo.\n\nOs pulgões adultos têm um curto período de alimentação (algumas semanas), então as árvores maduras geralmente se recuperam dos danos. Árvores jovens e mudas estão em maior risco.",
+        "treatment": {
+          "groups": [
+            {
+              "label": "Para infestações graves em mudas jovens",
+              "steps": [
+                {
+                  "title": "Spray foliar de piretrina"
+                },
+                {
+                  "title": "Aplicar Insecticida Sistêmico"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "P08": {
+        "name": "Besouros Longhorn",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "body": "Árvores estressadas atraem besouros.",
+                  "title": "Mantenha as árvores saudáveis: água, fertilize e evite feridas"
+                },
+                {
+                  "title": "Não mova lenha de uma região para outra - é a maneira comum pela qual o gado asiático de chifre longo se espalha."
+                },
+                {
+                  "title": "Inspecione as novas árvores para detectar buracos perfurados ou serragem."
+                },
+                {
+                  "title": "Preencha a madeira morta e moribunda prontamente para que os besouros não se estabeleçam"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Bichos-borboleta de antenas longas perfurando troncos de madeira",
+        "symptomAnalysis": "Os besouros Longhorn (*família Cerambycidae*) são perfuradores de madeira. Os adultos depositam ovos na casca; as larvas eclodem e cavam túneis no tronco para se alimentarem de madeira viva por 1 a 3 anos. A cavitação interrompe o fluxo de água e nutrientes da árvore. Sinais visíveis: pequenos buracos de saída redondos, serragem na base do tronco, galhos morrendo da parte superior.\n\nEles preferem madeiras duras feridas, estressadas ou recém-cortadas. Algumas espécies asiáticas são pragas introduzidas de grande preocupação (borboletas-longas asiáticas, borboletas-longas de cítricos).",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Aplique um inseticida sistêmico em árvores de alto valor por rótulo"
+                },
+                {
+                  "title": "Preencha e queime galhos fortemente infestados em clima seco"
+                },
+                {
+                  "title": "Relate avistamentos de besouro-caracol asiático à sua extensão agrícola local - é uma espécie invasora regulamentada nos EUA."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "P09": {
+        "name": "Lagartixas e caracóis",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Elimine locais de esconderijo"
+                },
+                {
+                  "title": "A fita de cobre forma uma barreira que as lagartixas não vão atravessar — envolva vasos e canteiros elevados"
+                },
+                {
+                  "title": "Água pela manhã para que as plantas estejam secas à noite"
+                },
+                {
+                  "title": "Incentive predadores naturais (salamandras, patos, besouros terrestres)"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Moluscos macios mastigando folhas à noite",
+        "symptomAnalysis": "Lagartixas e caracóis se alimentam principalmente à noite e em dias nublados ou chuvosos, escondendo-se debaixo de tábuas, pedras e folhagem densa durante o dia. Eles favorecem condições úmidas e podem devorar inteiramente as mudas. Os ovos são depositados em grupos no solo úmido.\n\nUm pequeno número é bom; uma população pode decimar um jardim de vegetais ou uma cama de hostas em uma semana.",
+        "treatment": {
+          "groups": [
+            {
+              "label": "Para casos leves",
+              "steps": [
+                {
+                  "title": "Escolha manualmente à noite com uma lanterna."
+                },
+                {
+                  "title": "Lugares de esconderijo claros - tábuas, pedras, cobertura densa de ervas daninhas"
+                },
+                {
+                  "body": "Levante-os pela manhã para encontrar caracóis escondidos por baixo.",
+                  "title": "Coloque pequenas tábuas no jardim como armadilhas"
+                }
+              ]
+            },
+            {
+              "label": "Para casos graves",
+              "steps": [
+                {
+                  "body": "Espalhe por volta das plantas à noite.",
+                  "title": "O isco de lagartixa de fosfato de ferro (vendido como Sluggo, Escar-Go) é mais seguro para animais de estimação e pássaros do que iscos à base de metalaldeído."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "P10": {
+        "homeRemedies": [
+          {
+            "ingredients": [
+              {
+                "name": "Sabão para louça",
+                "quantity": "1 colher de chá"
+              },
+              {
+                "name": "água",
+                "quantity": "1 litro"
+              }
+            ]
+          }
+        ],
+        "name": "Tripas",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Inspecione as novas plantas para detectar listras prateadas."
+                },
+                {
+                  "title": "Preencha galhos e folhas mortos"
+                },
+                {
+                  "title": "Limpe ervas daninhas e detritos"
+                },
+                {
+                  "title": "Manter o habitat para insetos predadores"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Pequenos e esbeltos fabricantes de faixas de prata em movimento rápido de 1 a 2 mm",
+        "symptomAnalysis": "Os trips têm partes bucais raspadoras que rasgam as células das plantas e sugam o conteúdo, deixando cicatrizes prateadas e um aspecto pálido e manchado. Eles se escondem em botões de flores e juntas de folhas. Infestações pesadas distorcem as folhas e danificam flores e frutos em desenvolvimento.\n\nOs trips são vetores para vários vírus vegetais, então mesmo uma pequena população pode causar doenças secundárias.",
+        "treatment": {
+          "groups": [
+            {
+              "label": "Para casos leves",
+              "steps": [
+                {
+                  "title": "Pulverização de água forte"
+                },
+                {
+                  "title": "Armadilhas adesivas amarelas ou azuis capturam adultos voadores"
+                }
+              ]
+            },
+            {
+              "label": "Para casos graves",
+              "steps": [
+                {
+                  "title": "Spray de piretrina"
+                },
+                {
+                  "title": "Sabão inseticida nas partes inferiores das folhas"
+                },
+                {
+                  "title": "Libere insetos piratas e lagartijas de renda por minuto."
+                },
+                {
+                  "title": "Descarte espécimes fortemente infestados"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "P11": {
+        "homeRemedies": [
+          {
+            "ingredients": [
+              {
+                "name": "Sabão para louça",
+                "quantity": "1 colher de chá"
+              },
+              {
+                "name": "água",
+                "quantity": "1 litro"
+              }
+            ]
+          }
+        ],
+        "name": "Insetos de renda",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Inspecionar novas plantas"
+                },
+                {
+                  "title": "Mantenha as plantas bem regadas e alimentadas"
+                },
+                {
+                  "title": "Mova as plantas estressadas pelo calor para sombra parcial"
+                },
+                {
+                  "title": "Limpe os detritos onde os adultos que passam o inverno escondem-se."
+                },
+                {
+                  "title": "Inspecione no final da primavera antes do pico das populações"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Sucadores de seiva com asas de renda, manchas brancas nas folhas",
+        "symptomAnalysis": "Os insetos de renda usam partes bucais semelhantes a agulhas para sugar nutrientes da parte inferior das folhas, causando manchas pálidas na superfície superior. Eles deixam grupos de excrementos pretos semelhantes a alcatrão na parte inferior da folha. Mais comuns no meio ao final do verão, no pico da população.\n\nOs danos são principalmente cosméticos, mas infestações graves enfraquecem as plantas e as deixam abertas a outros pragas e doenças. Alvos comuns: azaleias, rododendros, saguás, carvalhos, lantana.",
+        "treatment": {
+          "groups": [
+            {
+              "label": "Para casos leves",
+              "steps": [
+                {
+                  "title": "Pulverização forte de água sob as folhas"
+                },
+                {
+                  "title": "Limpe com um pano com sabão"
+                }
+              ]
+            },
+            {
+              "label": "Para casos graves",
+              "steps": [
+                {
+                  "title": "Sabão inseticida, focado nas partes inferiores das folhas"
+                },
+                {
+                  "title": "Lagartijas de renda, borboletas-monarca e besouros assassinos se alimentam de lagartijas de renda"
+                },
+                {
+                  "title": "Para infestações graves em pequenas plantas: [S04](../shared/treatment-steps.md#s04-prune-infected-leaves-and-stems) — poda e queime os membros fortemente afetados"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "P12": {
+        "name": "Lagartijas de folhas",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "As coberturas de fileira protegem as plantas jovens"
+                },
+                {
+                  "title": "Remova detritos do jardim no outono para impedir locais de inverno prolongado."
+                },
+                {
+                  "title": "Incentive predadores naturais com plantações diversificadas"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Camisetas em forma de chanfro, manchas leves nas folhas",
+        "symptomAnalysis": "Os pulgões se alimentam de suco vegetal de folhas, caules e caules de novos brotos. A alimentação pesada causa ondulação das folhas, amarelamento (\"queimadura de pulgão\") e crescimento retardado. Eles pulam ou voam para longe quando perturbados. Hospedeiros comuns: feijão, milho, alface, beterraba, batata, uva, rosa.\n\nComo os pulgões, os pulgões transmitem doenças virais e bacterianas entre as plantas - às vezes mais prejudiciais do que o próprio inseto.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Sabão inseticida"
+                },
+                {
+                  "title": "Piretrina ou azadiractina para casos graves"
+                },
+                {
+                  "title": "Lagartijas de renda e borboletas-de-maria"
+                },
+                {
+                  "title": "Cubra as plantas jovens com coberturas de fileira"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "P13": {
+        "name": "Traças Tortrix",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Inspecione as novas plantas para folhas enroladas"
+                },
+                {
+                  "title": "Limpe os detritos vegetais onde as pupas passam o inverno."
+                },
+                {
+                  "title": "Incentive vespas parasitas e pássaros"
+                },
+                {
+                  "title": "Armadilhas de feromônios da primeira temporada"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Lagartixas enrolando folhas em tubos sedosos",
+        "symptomAnalysis": "As lagartijas da borboletas Tortrix (roladora de folhas) enrolam as folhas em volta de si mesmas e as prendem com seda, depois se alimentam do interior do tubo protegido. Elas também se alimentam de frutas, às vezes enrolando frutas em folhas. Muitas espécies; encontradas em frutas, vegetais e ornamentais. Mais ativas de meados da primavera ao início do outono.\n\nAs populações de estufa podem ser o ano todo.",
+        "treatment": {
+          "groups": [
+            {
+              "label": "Para casos leves",
+              "steps": [
+                {
+                  "title": "Remova as folhas enroladas"
+                },
+                {
+                  "title": "Armadilhas de feromônios capturam machos e interrompem a reprodução"
+                }
+              ]
+            },
+            {
+              "label": "Para casos graves",
+              "steps": [
+                {
+                  "title": "Aplicar Bacillus thuringiensis (Bt)"
+                },
+                {
+                  "title": "Spinosad é eficaz para infestações teimosas, conforme a etiqueta."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "P14": {
+        "name": "Minadores de folhas",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Coberturas de fileira desde o momento da plantação"
+                },
+                {
+                  "title": "Limpe ervas daninhas e folhas velhas onde os mineiros se reproduzem"
+                },
+                {
+                  "title": "Inspecionar novas plantas"
+                },
+                {
+                  "title": "Evite pesticidas de amplo espectro - eles matam as vespas parasitas que controlam os mineiros naturalmente."
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Larvas de mosca perfurando traços brancos dentro das folhas",
+        "symptomAnalysis": "Os mineradores de folhas são pequenas larvas de mosca, borboletas ou besouros que cavam túneis entre as camadas superiores e inferiores de uma folha, comendo o tecido macio por dentro. As trilhas visíveis são os túneis vazios que deixam para trás. A mosca adulta põe ovos entre as camadas da folha; as larvas eclodidas se alimentam por 1 a 3 semanas e depois caem para pupar no solo.\n\nDanos cosméticos na maioria dos ornamentais; danos significativos em verduras comestíveis (espinafre, couve-galega, beterraba).",
+        "treatment": {
+          "groups": [
+            {
+              "label": "Para casos leves",
+              "steps": [
+                {
+                  "title": "Corte as folhas com minas ativas e descarte."
+                }
+              ]
+            },
+            {
+              "label": "Para casos graves",
+              "steps": [
+                {
+                  "title": "Óleo de nim"
+                },
+                {
+                  "title": "Spray de espinossad (vendido como Entrust) por rótulo é eficaz em minerais"
+                },
+                {
+                  "title": "Vespas parasitas colocam ovos dentro das larvas de minerais"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "P15": {
+        "name": "Mosquitos brancos",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Quarentena novas plantas por 2 semanas"
+                },
+                {
+                  "title": "Coberturas de fileira"
+                },
+                {
+                  "title": "Armadilhas adesivas amarelas como uma ferramenta de monitoramento dentro de casa"
+                },
+                {
+                  "title": "Limpe ervas daninhas onde as pulgas brancas passam o inverno"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Pequenas moscas brancas semelhantes a borboletas sob as folhas, melada",
+        "symptomAnalysis": "As pulgas brancas são sugadores de seiva como pulgas-das-folhas e pulgas-doceiro, com os mesmos efeitos: folhas amareladas, crescimento distorcido, melada e acompanhamento [mofo cinza](../01_leaves/sooty-mold.md). Elas são comuns em tomates, pimentões, berinjelas, hibisco e muitas plantas de interior.\n\nCada adulto deposita centenas de ovos nas partes inferiores das folhas. As ninfas são escamas ovais planas, quase translúcidas, coladas à folha. Infestações pesadas se multiplicam de forma explosiva em climas quentes.",
+        "treatment": {
+          "groups": [
+            {
+              "label": "Para casos leves",
+              "steps": [
+                {
+                  "title": "Aspire com mangueira"
+                },
+                {
+                  "title": "Armadilhas adesivas amarelas capturam adultos voadores"
+                }
+              ]
+            },
+            {
+              "label": "Para casos graves",
+              "steps": [
+                {
+                  "title": "Sabão inseticida nas partes inferiores"
+                },
+                {
+                  "title": "Óleo de nim"
+                },
+                {
+                  "title": "Vespas Encarsia formosa para uso em estufa"
+                },
+                {
+                  "title": "Descarte uma planta de interior fortemente infestada antes que ela se espalhe para outras."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "P16": {
+        "name": "Mosquitos funginosos (adultos)",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "O único passo mais importante"
+                },
+                {
+                  "title": "Camada de areia ou cascalho em cima"
+                },
+                {
+                  "title": "Inspecione o solo da nova planta para adultos ou larvas"
+                },
+                {
+                  "title": "Sterilize o solo de cultivo antes do uso se estiver armazenando sacos parcialmente usados."
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Mosquitos pretos pairando perto do solo de plantas de interior",
+        "symptomAnalysis": "As moscas-fungo adultas são pequenas (1/8 de polegada), pretas e semelhantes a mosquitos. Elas são voadoras fracas e tendem a andar em superfícies de solo. Os adultos não danificam as plantas diretamente — mas cada fêmea põe ~200 ovos em solo úmido, e as larvas se alimentam de pelos radicais tenros. Consulte [R07](../05_roots/fungus-gnat-larvae.md) para danos larval/radicais.\n\nComum em qualquer planta de interior mantida muito úmida, especialmente mudas, samambaias e tropicais.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Deixe o solo superficial secar entre as regas"
+                },
+                {
+                  "title": "Somente água do fundo"
+                },
+                {
+                  "title": "Cubra com areia para bloquear a postura dos ovos."
+                },
+                {
+                  "title": "Armadilhas adesivas amarelas colocadas planas ou inclinadas ao nível do solo capturam adultos."
+                },
+                {
+                  "title": "Bt-i (*Bacillus thuringiensis israelensis*, vendido como \"Mosquito Bits\") polvilhado no solo ou embebido em água mata as larvas."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "R01": {
+        "homeRemedies": [
+          {
+            "ingredients": [
+              {
+                "name": "3% de peróxido",
+                "quantity": "1 parte"
+              },
+              {
+                "name": "água",
+                "quantity": "3 partes"
+              }
+            ]
+          }
+        ],
+        "name": "Murcha das raízes",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Água na base da planta"
+                },
+                {
+                  "title": "Deixe a primeira polegada do solo secar antes de cada rega"
+                },
+                {
+                  "title": "Sempre use vasos com furos de drenagem"
+                },
+                {
+                  "title": "Sterilize as panelas antes de reutilizá-las."
+                },
+                {
+                  "title": "Inspecione as novas plantas antes de integrá-las"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Raízes pretas, molejas, cheirosas; planta murchou apesar do solo molhado",
+        "symptomAnalysis": "As raízes saudáveis são brancas ou bronzeadas e flexíveis. As raízes podres são escuras e viscosas. Duas causas principais: o excesso crônico de água priva as raízes de oxigênio e elas morrem; ou um fungo do solo (Pythium, Phytophthora) se torna ativo no solo úmido e ataca as raízes. Assim que a podridão começa, ela se espalha para as raízes saudáveis mesmo depois que o problema de rega for resolvido.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Retire da panela e enxágue as raízes para que você possa ver o que é saudável"
+                },
+                {
+                  "title": "Sterilize os podadores"
+                },
+                {
+                  "title": "Corte todas as raízes pretas ou moles, voltando ao tecido firme"
+                },
+                {
+                  "title": "Replantar em uma mistura estéril fresca em uma panela limpa com furos de drenagem"
+                },
+                {
+                  "title": "Preencha as folhas de volta cerca de metade para diminuir a demanda no novo sistema radicular."
+                },
+                {
+                  "body": "Deixe secarem as 1–2 polegadas superiores do solo entre as regas. Introduza um dedo no solo para verificar antes de cada rega. Muitos problemas de podridão das raízes e dos caules resultam de solo constantemente encharcado. Se mais de dois terços das raízes tiverem desaparecido: *descarte a planta gravemente infectada* (consulte 6.1).",
+                  "subSteps": [
+                    {
+                      "title": "Descarte a planta gravemente infectada."
+                    }
+                  ],
+                  "title": "Espere que o solo superficial seque antes de regar novamente"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "R02": {
+        "name": "Deformidade da raiz",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Escolha variedades resistentes a nematódeos (procure por \"VFN\" nas sementes de tomate)"
+                },
+                {
+                  "title": "Remova raízes e detritos antigos"
+                },
+                {
+                  "title": "Rotacionar as culturas a cada 3 anos"
+                },
+                {
+                  "title": "Inspecione as raízes das novas plantas antes de as introduzir"
+                },
+                {
+                  "title": "Mantenha as plantas bem alimentadas e bem regadas para que elas resistam à infecção"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Raízes torcidas, nodosas ou com gálatas",
+        "symptomAnalysis": "Três causas usuais:\n1. **Nematoides de nódulo radicular** — vermes microscópicos que cavam nas raízes e desencadeiam gálatas inchadas.\n2. **Infecção bacteriana ou fúngica** - produz inchaços irregulares como resposta ao estresse.\n3. **Condições físicas** - solo rochoso, compactado ou lotado força as raízes a se contorcerem em torno de obstáculos.\n\nNota: pequenos *nódulos* radicais redondos em leguminosas (feijão, ervilha) são bactérias benéficas que fixam nitrogênio, não danos. Os nódulos se esfregam facilmente; as gálulas não.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Desenxofre e inspeção"
+                },
+                {
+                  "title": "Corte as raízes levemente afetadas"
+                },
+                {
+                  "title": "Sterilize as ferramentas entre os cortes"
+                },
+                {
+                  "title": "Replante em solo fresco, solto e estéril"
+                },
+                {
+                  "body": "Coloque uma folha de plástico transparente sobre o solo úmido do jardim por 4 a 6 semanas durante a parte mais quente do ano. O calor se acumula por baixo e mata nematódeos, fungos e sementes de ervas daninhas. Se a maioria das raízes estiver deformada: *Descarte a planta gravemente infectada* (veja 5.1).",
+                  "subSteps": [
+                    {
+                      "title": "Descarte a planta gravemente infectada."
+                    }
+                  ],
+                  "title": "Para canteiros de jardim com nematódeos, solarize o solo por 4 a 6 semanas"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "R03": {
+        "homeRemedies": [
+          {
+            "ingredients": [
+              {
+                "name": "3% de peróxido",
+                "quantity": "1 parte"
+              },
+              {
+                "name": "água",
+                "quantity": "3 partes"
+              }
+            ]
+          },
+          null
+        ],
+        "name": "Mofo no solo",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Evite manter o solo constantemente úmido"
+                },
+                {
+                  "title": "Água do fundo se a planta tolerar"
+                },
+                {
+                  "title": "Melhore o fluxo de ar no interior"
+                },
+                {
+                  "title": "Mantenha uma camada de areia ou cascalho por cima"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Peludo branco ou amarelo, ou cogumelos, na superfície do solo",
+        "symptomAnalysis": "Os fungos saprófitos se alimentam de matéria orgânica morta no solo úmido. Eles são geralmente inofensivos para as plantas, mas sinalizam que o solo está ficando muito molhado, o que cria maiores problemas como apodrecimento das raízes ou pulgas de fungo. Os cogumelos vêm de esporos que chegaram na mistura de solo para vasos.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Raspe a camada superior mofada e substitua por areia grossa"
+                },
+                {
+                  "title": "Deixe o solo superficial secar entre as regas"
+                },
+                {
+                  "title": "Aceda a um ventilador na área interna."
+                },
+                {
+                  "title": "Puxe os cogumelos pela haste e descarte-os"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "R04": {
+        "name": "Raízes ligadas ao vaso",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Replantar a cada 1 a 2 anos para plantas de crescimento rápido; a cada 2 a 3 anos para plantas de crescimento lento"
+                },
+                {
+                  "body": "Potes grandes ficam molhados por muito tempo.",
+                  "title": "Escolha uma vasilha 1-2 tamanhos maiores do que a bola de raiz atual - não maior"
+                },
+                {
+                  "title": "Sempre use vasos com furos de drenagem"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Raízes girando em torno da panela, planta paralisada ou murchando",
+        "symptomAnalysis": "Quando uma planta cresce além do vaso, as raízes circundam a parede e depois voltam sobre si mesmas. O bulbo radicular se torna mais denso do que o solo e a água não pode mais ser retida - ela simplesmente escorre pelo lado. A absorção de nutrientes diminui, o crescimento para de avançar e a planta parece com sede crônica mesmo logo após a rega.\n\nVerificação rápida: raízes crescendo de buracos de drenagem ou solo que se afasta da parede da vasilha são sinais claros.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Desenvasar a planta"
+                },
+                {
+                  "body": "Puxe-os gentilmente para fora, longe da bola.",
+                  "title": "Use dedos limpos ou um pau de dente para separar as raízes em círculos."
+                },
+                {
+                  "title": "Corte quaisquer raízes mortas ou torcidas"
+                },
+                {
+                  "title": "Mova para uma panela 1-2 tamanhos maiores"
+                },
+                {
+                  "title": "Preencha com mistura de solo fresca para vasos"
+                },
+                {
+                  "title": "Água profundamente uma vez para consolidar o novo solo"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "R05": {
+        "name": "Acumulação de sal",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Esvazie o solo a cada 1 a 3 meses"
+                },
+                {
+                  "title": "Use água da chuva ou água destilada se sua água da torneira for dura ou clorada."
+                },
+                {
+                  "body": "Mais não é melhor.",
+                  "title": "Fertilize a metade da taxa rotulada para plantas de interior."
+                },
+                {
+                  "title": "Pule o fertilizante no inverno quando o crescimento diminui."
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Crosta branca no solo, pontas marrons das folhas",
+        "symptomAnalysis": "Os sais de fertilizantes (e os minerais da água da torneira) se acumulam no solo com o tempo. À medida que a água evapora, os sais cristalizam na superfície. As altas concentrações de sal danificam as pontas das raízes, que então não conseguem absorver água, e as folhas mostram bordas marrons crocantes semelhantes à seca, mesmo quando o solo está úmido.\n\nComum em vasos internos, plantas tolerantes à seca sobrefertilizadas e qualquer vaso que tenha passado um ano sem uma enxágue profunda.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Raspe qualquer crosta de sal visível no solo e no rebordo da vasilha."
+                },
+                {
+                  "title": "Enxágue o solo com 4 vezes o volume do vaso de água limpa"
+                },
+                {
+                  "body": "Corte a folhagem e os galhos afetados com ferramentas esterilizadas, cortando até o tecido saudável. Enrole os cortes em sacos e descarte-os — nunca composte material doente. Se a acumulação for grave e a planta estiver em perigo: *Repotar com solo fresco e drenagem* (veja 3.1).",
+                  "subSteps": [
+                    {
+                      "title": "Replantar com solo fresco e drenagem"
+                    }
+                  ],
+                  "title": "Corte as pontas das folhas marrons para cosméticos"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "R06": {
+        "homeRemedies": [
+          {
+            "ingredients": [
+              {
+                "name": "3% de peróxido",
+                "quantity": "1 parte"
+              },
+              {
+                "name": "água",
+                "quantity": "3 partes"
+              }
+            ]
+          },
+          null,
+          null
+        ],
+        "name": "Apoio",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Sterilize as bandejas de sementes antes de reutilizá-las."
+                },
+                {
+                  "body": "Não reutilize solo de plantio antigo.",
+                  "title": "Use uma mistura fresca e estéril para iniciar as sementes."
+                },
+                {
+                  "title": "Semear na profundidade listada no pacote de sementes - enterrar muito fundo estressa a germinação"
+                },
+                {
+                  "title": "Fornecer fluxo de ar suave desde o primeiro dia"
+                },
+                {
+                  "title": "Remova as cúpulas de umidade depois que os brotos emergirem"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "As mudas colapsam na linha do solo",
+        "symptomAnalysis": "O apodrecimento é causado por vários fungos do solo (Pythium, Rhizoctonia, Fusarium) que atacam os caules finos das mudas bem onde eles encontram o solo úmido. Condições que o favorecem: temperaturas frias, mistura de germinação de sementes excessivamente úmida, má circulação de ar e bandejas ou sementes não esterilizadas.\n\nAssim que as mudas colapsam, elas não podem se recuperar. A luta é proteger o resto da bandeja.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Puxe e descarte as mudas colapsadas imediatamente"
+                },
+                {
+                  "title": "Crescimentos restantes de mudas com água no fundo"
+                },
+                {
+                  "title": "Deixe a superfície secar ligeiramente entre as regas"
+                },
+                {
+                  "title": "Faça funcionar um pequeno ventilador em um ajuste baixo nas proximidades"
+                },
+                {
+                  "title": "Mova-se para uma luz mais brilhante se as mudas forem alongadas e pálidas."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "R07": {
+        "homeRemedies": [
+          {
+            "ingredients": [
+              {
+                "name": "3% de peróxido",
+                "quantity": "1 parte"
+              },
+              {
+                "name": "água",
+                "quantity": "3 partes"
+              }
+            ]
+          },
+          null
+        ],
+        "name": "Larvas de pulgas de fungo",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Reduza a rega"
+                },
+                {
+                  "title": "Mantenha uma camada de areia ou cascalho por cima"
+                },
+                {
+                  "title": "Isolar novas plantas e verificar o solo"
+                },
+                {
+                  "title": "Melhore o fluxo de ar"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Pequenas moscas pretas + mudas atrofiadas",
+        "symptomAnalysis": "As moscas-fungo adultas são insetos indesejáveis, mas suas larvas se alimentam de raízes jovens macias e pelos radicais na primeira polegada do solo constantemente úmido. Elas prosperam em plantas de interior com excesso de água e em bandejas de mudas. Os adultos depositam ovos na superfície do solo; as larvas eclodem e se alimentam por 1 a 2 semanas antes de pupar.\n\nPara as moscas adultas, consulte [P16 — Mosquitos de fungo](../02_pests/fungus-gnats.md). Esta entrada abrange as larvas que matam as raízes.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Deixe a primeira polegada do solo secar completamente entre as regas."
+                },
+                {
+                  "title": "Somente água do fundo"
+                },
+                {
+                  "title": "Cubra com 1/4 de polegada de areia para bloquear a postura de ovos de adultos."
+                },
+                {
+                  "body": "Aplique por etiqueta.",
+                  "title": "Bt-i (uma cepa Bt diferente - *Bacillus thuringiensis israelensis*, vendida como \"Mosquito Bits\") polvilhada ou embebida em água mata larvas especificamente."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "ST01": {
+        "name": "Envelhecendo",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Água consistentemente e profundamente"
+                },
+                {
+                  "title": "Compre variedades resistentes à murcha (procure \"VFN\" em tomates, morangos)"
+                },
+                {
+                  "title": "Rotar camas"
+                },
+                {
+                  "title": "Mulch para manter a umidade uniforme"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Os caules se encolhem e perdem estrutura",
+        "symptomAnalysis": "O murchamento pode vir de qualquer um dos seguintes:\n\n- **Stress hídrico** — muito ou muito pouco. A seca murcha e seca; o excesso de água podre-se as raízes e elas não conseguem mais puxar água para cima.\n- **Estresse térmico** — tardes quentes causam murcha temporária que se recupera durante a noite.\n- **Doença de apodrecimento vascular** — *Verticillium*, *Fusarium* ou apodrecimento bacteriano obstruem o tecido transportador de água da planta. As folhas apodrecem e permanecem apodrecidas.\n- **Morte de raiz** — veja [R01](../05_roots/root-rot.md). Raízes danificadas não conseguem fornecer água.\n\nPara restringir: raspe o caule principal com uma unha. Verde por dentro significa vivo; marrom e quebradiço significa morto. Então verifique o solo e as raízes.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "body": "Solo seco → *Água Profundamente Mas Menos Frequentemente* (veja 1.1). Solo molhado → *Reduza a Frequência de Rega* (veja 1.2) e verifique as raízes.",
+                  "subSteps": [
+                    {
+                      "title": "Beba Água Profundamente Mas Menos Frequentemente"
+                    },
+                    {
+                      "title": "Reduza a frequência de rega"
+                    }
+                  ],
+                  "title": "Diagnose primeiro"
+                },
+                {
+                  "title": "Use um pano de sombra em tardes quentes"
+                },
+                {
+                  "title": "Para doenças, poda e destrua os galhos afetados"
+                },
+                {
+                  "body": "Mergulhe os podadores, tesouras ou lâminas de faca em uma solução de 1:4 de água e cloreto de sódio (ou álcool isopropílico a 70%) antes de cada corte e entre cada planta. Limpe com um pano seco antes de cortar. Se for diagnosticado com doença de apodrecimento vascular: *Descarte a planta gravemente infectada* (veja 4.1). Os patógenos do solo permanecem por anos.",
+                  "subSteps": [
+                    {
+                      "title": "Descarte a planta gravemente infectada."
+                    }
+                  ],
+                  "title": "Sterilize as ferramentas entre os cortes"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "ST02": {
+        "name": "Morte de galhos",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Compre variedades resistentes em viveiros confiáveis"
+                },
+                {
+                  "title": "Inspecione as novas plantas para verificar se há galhos mortos."
+                },
+                {
+                  "title": "Plante com espaçamento adequado para o fluxo de ar"
+                },
+                {
+                  "title": "Irrigação por gotejamento"
+                },
+                {
+                  "title": "Spray preventivo de cobre em fontes úmidas"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Todas as hastes ficam marrons e secas a partir da base",
+        "symptomAnalysis": "Uma doença fúngica comum em plantas cultivadas em viveiros que foram espaçadas muito próximas. Os esporos entram por feridas ou em clima úmido. Ao contrário da murcha (que começa na ponta), a murcha de galhos mata todo o galho infectado de uma vez. Pátches mortos afundados chamados *cânceres* podem se formar entre a madeira viva e morta.\n\nPara apodrecimento, consulte [ST03](dieback.md). Para cancroes, consulte [ST05](cankers.md).",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Corte os galhos afetados de volta para madeira saudável, em clima seco."
+                },
+                {
+                  "title": "Sterilize entre cada corte"
+                },
+                {
+                  "title": "Aplique fungicida de cobre no crescimento saudável restante"
+                },
+                {
+                  "title": "Arrumar o material que caiu"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "ST03": {
+        "name": "Morte de folhas",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Plante no lugar certo - luz adequada, drenagem e exposição adequadas para a espécie"
+                },
+                {
+                  "title": "Proteja as plantas de danos físicos (cortadores de grama, enxadas, roedores)"
+                },
+                {
+                  "title": "Mantenha o fluxo de ar com espaçamento adequado"
+                },
+                {
+                  "title": "Preencha apenas em clima seco para evitar deixar fungos entrar em cortes frescos."
+                },
+                {
+                  "body": "Preencha galhos quebrados antes que os fungos possam entrar.",
+                  "title": "Inspecione após frio ou tempestades"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Os caules morrem de trás para frente, da ponta até o tronco.",
+        "symptomAnalysis": "Um termo geral para infecções fúngicas (e às vezes danos por insetos ou meio ambiente) que matam o crescimento de madeira da ponta para dentro. Muitas vezes ocorre após feridas - cortes de poda, danos causados por cortador de grama, rachaduras por geada, túneis de insetos - que deram aos fungos uma maneira de entrar. O estresse (seca, congelamento, alagamento) torna as plantas mais vulneráveis.\n\nDistingue-se da podridão de galhos: o murchamento começa na ponta e funciona para trás; a podridão de galhos mata todo o galho de uma vez.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Preencha folhas e caules infectados"
+                },
+                {
+                  "title": "Sterilize entre os cortes"
+                },
+                {
+                  "title": "Mude para irrigação básica"
+                },
+                {
+                  "body": "Use um fertilizante equilibrado N-P-K (por exemplo, 10-10-10) por rótulo. Para deficiências que aparecem nas folhas, siga com um adubo foliar para uma absorção rápida. O composto é uma alternativa de liberação lenta. Em casos graves de toda a planta: *Descarte a planta gravemente infectada* (veja 4.1).",
+                  "subSteps": [
+                    {
+                      "title": "Descarte a planta gravemente infectada."
+                    }
+                  ],
+                  "title": "Um alimento rico em nitrogênio dá às plantas estressadas energia para se recuperarem."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "ST04": {
+        "name": "Murcha do caule (murcha macia)",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Evite molhar as folhas e os caules"
+                },
+                {
+                  "title": "Não encharque demais"
+                },
+                {
+                  "title": "Plantas espaciais separadas"
+                },
+                {
+                  "title": "Inspecione as novas plantas para verificar se os caules estão moles e descoloridos."
+                },
+                {
+                  "title": "Sempre esterilize as ferramentas"
+                },
+                {
+                  "title": "Controle pragas sugadoras de seiva, como pulgões; suas feridas convidam bactérias."
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "O caule fica mole, vazio e com mau cheiro.",
+        "symptomAnalysis": "Roda mole bacteriana, geralmente *Erwinia*. As bactérias entram através de feridas e digerem o tecido vegetal por dentro. Desenvolve-se mais rápido em clima quente e úmido e em plantas que estão em solo molhado ou molhadas por irrigação de cima. Uma vez avançada, espalha-se do caule para a coroa e para baixo até as raízes - às vezes toda a planta fica preta e mole a partir do centro.\n\nInclui a apresentação \"toda a planta ficando preta do centro\" que algumas referências listam como uma condição separada de \"morte suave\".",
+        "treatment": {
+          "groups": [
+            {
+              "label": "Para infecção leve (um caule ou seção afetado)",
+              "steps": [
+                {
+                  "title": "Corte todas as seções macias e descoloridas do caule em tecido limpo"
+                },
+                {
+                  "title": "Sterilize entre cada corte"
+                },
+                {
+                  "title": "Replantar em solo estéril fresco com drenagem"
+                },
+                {
+                  "title": "Apenas regue quando o solo superficial estiver seco"
+                },
+                {
+                  "body": "Dirija a água diretamente para o solo perto do caule em vez de pulverizar as folhas. Use uma mangueira de rega com bico longo, mangueira de molho ou linha de gotejamento. Folhas molhadas convidam a propagação de fungos e bactérias. Para infecção grave em toda a planta: *Descarte a planta gravemente infectada* (veja 5.1). Enrole em saco e remova. Não composte.",
+                  "subSteps": [
+                    {
+                      "title": "Descarte a planta gravemente infectada."
+                    }
+                  ],
+                  "title": "Pare de regar de cima para baixo"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "ST05": {
+        "name": "Cânceres",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Evite danos causados pelo inverno e pelo gelo — envolva os troncos jovens, pinte com tinta branca para árvores ou use capas para árvores em zonas frias."
+                },
+                {
+                  "title": "Evite feridas mecânicas - mantenha cortadores de grama e aparadores longe dos troncos"
+                },
+                {
+                  "title": "Escolha cultivares resistentes à cancro"
+                },
+                {
+                  "title": "Mantenha as plantas saudáveis"
+                },
+                {
+                  "title": "Preencha em clima seco no final do inverno ou início da primavera"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Pátches de casca afundados e mortos com margens rachadas",
+        "symptomAnalysis": "Uma cancro é uma zona morta localizada no tecido do caule causada por fungos (*Cytospora*, *Nectria*) ou bactérias que entram através de uma ferida - cortes de poda, rachaduras por geada, queimaduras solares, túneis de insetos. O patógeno mata o tecido ao redor do ponto de entrada. Os cancros crescem lentamente; os grandes podem engolir e matar um galho inteiro.\n\nComum em árvores frutíferas (pêssego, maçã, cereja) e muitas ornamentais. Muitas vezes segue o estresse do inverno.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Preencha folhas e caules infectados"
+                },
+                {
+                  "title": "Sterilize entre cada corte"
+                },
+                {
+                  "title": "Preencha apenas em clima seco para evitar a propagação do patógeno."
+                },
+                {
+                  "body": "Pulverize um fungicida à base de cobre (mistura Bordeaux, sulfato de cobre ou hidróxido de cobre comercial) nas folhas, caules e solo circundante de acordo com a etiqueta do produto. Reaplique a cada 7 a 14 dias. Para cancro no tronco principal que você não pode podar: raspe o tecido morto com uma faca limpa até a casca saudável (chamada de \"cirurgia\"). Deixe a ferida exposta ao ar para secar.",
+                  "title": "Aplique fungicida de cobre na casca saudável restante no início da primavera."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "ST06": {
+        "name": "Queimadura solar na casca",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "body": "Reflete o sol de inverno.",
+                  "title": "**Enrole os troncos jovens das árvores** com papel de embrulho branco ou pinte com tinta de látex branca interior diluída (1:1 com água) da linha do solo, alinhando 24 polegadas, aplicada no final do outono."
+                },
+                {
+                  "title": "Evite a poda no final do verão que expõe a casca previamente sombreada"
+                },
+                {
+                  "title": "Amaneça profundamente no final do outono antes que o solo gelhe"
+                },
+                {
+                  "title": "Cubra a zona radicular com cobertura morta para moderar as flutuações de temperatura"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Casca rachada, descascada e descolorida no lado voltado para o sol",
+        "symptomAnalysis": "A queimadura solar ocorre quando o sol intenso do inverno aquece um lado de um tronco durante o dia, as células se tornam ativas e, então, uma queda repentina na temperatura à noite as mata. Árvores jovens e de casca lisa (árvores de bordo, árvores frutíferas, ornamentais recentemente transplantadas) são as mais vulneráveis. A casca danificada se torna um ponto de entrada a longo prazo para patógenos — veja [ST05 — Cancros](cankers.md).\n\nTambém pode ocorrer no calor do verão após uma defolição repentina que expõe a casca previamente sombreada.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "body": "A maioria das feridas causadas por queimaduras solares cicatrizam lentamente por conta própria.",
+                  "title": "Não remova a casca danificada a menos que esteja solta e se soltando."
+                },
+                {
+                  "title": "Corte qualquer casca claramente morta e descascada com uma faca estéril até a borda do tecido saudável."
+                },
+                {
+                  "title": "Aplique fungicida de cobre para manter os patógenos fora da ferida"
+                },
+                {
+                  "title": "Cuidado com o desenvolvimento de cancroes — veja [ST05](cankers.md)"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "ST07": {
+        "name": "Varinha de bruxa",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Monitorar regularmente pela pressão de pragas e doenças"
+                },
+                {
+                  "title": "Spray preventivo de cobre em espécies propensas à ferrugem"
+                },
+                {
+                  "title": "Remova galhos estressados ou fracos cedo"
+                },
+                {
+                  "title": "Em infestações graves, remova toda a planta."
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Clúster denso semelhante a pincel de brotos atrofiados de um ponto",
+        "symptomAnalysis": "Uma resposta de estresse, não uma única doença. Muitas causas: fungos de ferrugem, alimentação de insetos, infecção bacteriana ou fúngica, infestação por plantas parasitas como o amendoim-doce anão. A planta responde produzindo muitos brotos curtos em um agrupamento apertado em vez do crescimento normal de extensão.\n\nA vassoura em si raramente mata a planta, mas a causa subjacente pode. Comum em coníferas, árvores frutíferas, ameixas pretas e muitas arbustos de madeira.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Corte o varal, podando várias polegadas abaixo do ponto afetado."
+                },
+                {
+                  "title": "Sterilize as ferramentas entre os cortes"
+                },
+                {
+                  "body": "- Cogumelo de ferrugem → *Aplique Fungicida de Cobre* (veja 3.1) - Pulgas ou insetos → veja [02_pests/](../02_pests/) - Mistletoe → remova fisicamente o parasita",
+                  "subSteps": [
+                    {
+                      "title": "Aplique fungicida de cobre"
+                    }
+                  ],
+                  "title": "Determine a causa:"
+                },
+                {
+                  "title": "Limpe o material podado longe da planta"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "ST08": {
+        "name": "Câncro da coroa",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Inspecione todas as novas plantas para galhas na coroa"
+                },
+                {
+                  "title": "Sempre esterilize as ferramentas"
+                },
+                {
+                  "title": "Não empilhe solo ou cobertura morta contra a coroa das plantas - mantenha a área seca e livre de patógenos."
+                },
+                {
+                  "title": "Cultivos resistentes à planta, quando disponíveis."
+                },
+                {
+                  "title": "Use um enxágue bacteriano benéfico (estirpe de Agrobacterium radiobacter 84, vendido como \"Galltrol\") em mudas sem raiz no momento da plantação."
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Crescimentos ásperos semelhantes a tumores perto da linha do solo",
+        "symptomAnalysis": "Causado pelo bacterióide *Agrobacterium tumefaciens*, que vive no solo e entra por feridas. Afeta mais de 600 espécies de plantas — rosas, árvores frutíferas, uvas, framboesas são particularmente suscetíveis. O bacterióide rouba o DNA da planta e causa crescimento descontrolado de tecidos.\n\nAs árvores estabelecidas geralmente sobrevivem à gálula da coroa. As plantas jovens e as severamente infectadas declinam porque a gálula bloqueia o fluxo de água e nutrientes.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Em árvores estabelecidas, corte a gálica com uma faca estéril ou podadores."
+                },
+                {
+                  "title": "Sterilize entre cada corte"
+                },
+                {
+                  "title": "Após a cirurgia, pinte a ferida com um selante de poda de árvores"
+                },
+                {
+                  "body": "Não composte.",
+                  "title": "Para plantas jovens ou fortemente infectadas: [S43](../shared/treatment-steps.md#s43-discard-the-severely-infected-plant) — Remova e destrua"
+                },
+                {
+                  "title": "Solte o solo antes de replantar"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "ST09": {
+        "name": "Cicatrizes de raiz",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Coloque barreiras ao redor das plantas em áreas movimentadas"
+                },
+                {
+                  "title": "Mantenha os cortadores de grama e as vassouras de ervas daninhas afastados dos troncos"
+                },
+                {
+                  "title": "Use vasos estéreis e solo fresco para novas plantas para evitar a transferência de pragas"
+                },
+                {
+                  "title": "Inspecione as plantas regularmente para detectar sinais precoces de danos."
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Rasgos, cortes ou danos causados por pragas curados nos caules",
+        "symptomAnalysis": "As cicatrizes se formam quando uma planta cura uma ferida. Causas comuns:\n\n- **Danos mecânicos** — animais de estimação, crianças, cortadores de grama, ferramentas de jardim, tráfego de pedestres.\n- **Danos causados por pragas deixados para trás** — locais de alimentação de insetos que já se mudaram.\n- **Queimadura solar / queimadura solar** — danos causados pelo calor na casca exposta. Consulte [ST06](sunscald-bark.md).\n- **Folhas ou botões perdidos** — folhas caídas deixam uma cicatriz no caule.\n\nAs cicatrizes em si não danificam a planta além da ferida original. Elas são principalmente cosméticas. Mas a área danificada é um ponto de entrada permanente para pragas e patógenos futuros.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "body": "- Animais de estimação/crianças/ferramentas → instale uma barreira ou mova a planta. - Pragas → identifique o inseto e trate. Veja [02_pests/](../02_pests/). - Queimaduras solares → *Mova para um local sombreado* (veja 1.1) Mova-se do sol forte. - Perda frequente de folhas → verifique a luz, a água e os nutrientes.",
+                  "subSteps": [
+                    {
+                      "title": "Mova-se para um local sombreado"
+                    }
+                  ],
+                  "title": "Aborde a causa subjacente:"
+                },
+                {
+                  "title": "A cicatriz em si não precisa de tratamento"
+                },
+                {
+                  "title": "Observe a formação de cancro em áreas danificadas — veja [ST05](cankers.md)"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "shared": {
+      "remedies": {
+        "K01": {
+          "recipe": "1 parte de 3% de peróxido de hidrogênio de farmácia para 3 partes de água. (Ou 1 parte de 35% de peróxido de grau alimentar para 30 partes de água.)",
+          "title": "Borracha de solo com peróxido de hidrogênio",
+          "usage": "Despeje ao redor da base da planta até que o solo superficial esteja molhado. Repita uma vez por semana até que o solo seque normalmente e as bolhas parem de aparecer."
+        },
+        "K02": {
+          "recipe": "Canela moída simples da prateleira de especiarias. Sem misturar.",
+          "title": "Pó de Canela",
+          "usage": "Polvilhe uma camada fina sobre solo mofado, em caules recém-cortados ou ao redor da base das mudas. A canela é naturalmente antifúngica e amigável à formação de raízes."
+        },
+        "K03": {
+          "recipe": "Despeje 1/4 de xícara de vinagre de maçã em uma pequena xícara ou travessa amarela. Adicione 1 gota de sabão de lavar louça para quebrar a tensão superficial. Cubra com filme plástico e faça pequenos furos.",
+          "title": "Armadilha de Vinagre de Cidra de Ma",
+          "usage": "Coloque perto da planta afetada. Mosquitos funginosos adultos e moscas de fruta são atraídos, caem e se afogam. Atualize a cada 3 a 4 dias."
+        },
+        "K04": {
+          "recipe": "Mergulhe 2 sachês de chá de camomila em 1 litro de água fervida. Deixe esfriar até a temperatura ambiente.",
+          "title": "Banhos de Chá de Camomila",
+          "usage": "Despeje ao redor da base das mudas e sobre a superfície do solo. A ação antifúngica suave protege as sementes germinantes e as raízes jovens."
+        },
+        "K05": {
+          "recipe": "1 colher de chá de bicarbonato de sódio + 1 colher de chá de sabão de lavar louça suave + 1 litro de água. Agite para dissolver.",
+          "title": "Bicarbonato de Sódio + Spray de Sabão de Lava Louça",
+          "usage": "Pulverize nas folhas no primeiro sinal de mofo, a cada 7 dias. Cubra as superfícies superiores e inferiores das folhas. Faça um teste de campo primeiro; algumas plantas ficam queimadas nas folhas."
+        },
+        "K06": {
+          "recipe": "1 parte de leite (qualquer gordura, mas o integral funciona melhor) para 9 partes de água em um frasco de spray.",
+          "title": "Spray de Leite",
+          "usage": "Pulverize nas folhas uma vez por semana em clima ensolarado. A luz solar ativa as proteínas do leite em um revestimento antifúngico suave."
+        },
+        "K07": {
+          "recipe": "Esmague 4 dentes de alho em 1 litro de água. Deixe descansar durante a noite. Coe. Adicione 1 colher de chá de sabão de lavar louça.",
+          "title": "Spray de alho",
+          "usage": "Pulverize nas folhas e caules, concentrando-se nas partes inferiores. Repita a cada 5 a 7 dias. Cheira forte por um dia, depois dissipa."
+        },
+        "K08": {
+          "recipe": "2 colheres de sopa de pimenta caiena ou pimenta seca moída em 1 litro de água. Cozinhe por 10 minutos. Deixe esfriar. Coe. Adicione 1 colher de chá de sabão para louça.",
+          "title": "Spray de pimenta picante",
+          "usage": "Pulverize nas folhas onde as borboletas ou besouros estão se alimentando. Use luvas e proteção ocular ao pulverizar."
+        },
+        "K09": {
+          "recipe": "Grãos de café usados secos em uma bandeja.",
+          "title": "Barreira de Grãos de Café",
+          "usage": "Polvilhe um anel de 1/2 polegada em volta da base das plantas propensas a caracóis. A textura áspera e a cafeína repelem caracóis e caracóis-de-cavalo. Substitua após a chuva."
+        },
+        "K10": {
+          "recipe": "Cascas de ovos enxaguadas, secas, esmagadas grosseiramente com uma tesoura de rolo.",
+          "title": "Casca de ovo esmagada",
+          "usage": "(a) Misture no solo ao plantar para uma liberação lenta de cálcio - ajuda a prevenir o apodrecimento da ponta das flores. (b) Polvilhe um anel de bordas afiadas ao redor das plantas - os caracóis evitam as bordas."
+        },
+        "K11": {
+          "recipe": "Enterre um prato ou copo raso com o rebordo nivelado com o solo. Encha 2/3 com cerveja barata. (Ou 1 xícara de água + 1 colher de chá de fermento seco + 1 colher de chá de açúcar.)",
+          "title": "Armadilha de cerveja",
+          "usage": "Coloque perto das plantas afetadas à noite. Caracóis e caracóis rastejam dentro e se afogam. Atualize a cada 2 a 3 dias."
+        },
+        "K12": {
+          "recipe": "Deixe 2 a 3 cascas de banana picadas em 1 litro de água por 48 horas. Coe.",
+          "title": "Chá de Potássio com Casca de Banana",
+          "usage": "Despeje ao redor da base de plantas estressadas ou amareladas a cada 2 a 3 semanas. Aumento leve de potássio; não é um fertilizante completo."
+        },
+        "K13": {
+          "recipe": "70% de álcool isopropílico de limpeza direto da garrafa.",
+          "title": "Pó-cotonete de álcool isopropílico",
+          "usage": "Mergulhe um cotonete e aperte diretamente em pulgas de pó ou insetos de escamas individuais. Mata no contato. Evite deixar a folha molhada."
+        },
+        "K14": {
+          "recipe": "1 colher de chá de sabão líquido suave para louça (sem descongestionantes, sem aditivos) por quartel de água em um frasco de spray.",
+          "title": "Spray de água sabonosa simples",
+          "usage": "Pulverize para molhar todas as superfícies, especialmente as partes inferiores das folhas, à noite. Enxágue com água morna na manhã seguinte. Repulverize a cada 3 dias por 2 semanas."
+        },
+        "K15": {
+          "recipe": "1 comprimido de aspirina não revestido (325 mg) dissolvido em 1 galão de água com algumas gotas de sabão de lavar louça.",
+          "title": "Spray foliar de água com aspirina",
+          "usage": "Pulverize nas folhas a cada 2 a 3 semanas. O ácido salicílico no aspirina estimula suavemente a própria resposta de defesa contra doenças da planta."
+        }
+      },
+      "steps": {
+        "S01": {
+          "body": "Deslize a planta fora da sua maceta, sacude suavemente o solo solto e enxágue o bulbo de raiz com água corrente morna até que você possa ver claramente as raízes individuais.",
+          "title": "Desenxágue e enxágue as raízes"
+        },
+        "S02": {
+          "body": "Mergulhe os podadores, tesouras ou lâminas de faca em uma solução de 1:4 de água e cloro (ou álcool isopropílico 70%) antes de cada corte e entre cada planta. Limpe com um pano seco antes de cortar.",
+          "title": "Sterilizar Ferramentas de Corte"
+        },
+        "S03": {
+          "body": "Corte as raízes pretas, moles ou murchas com podadores esterilizados. As raízes saudáveis são brancas ou marromadas e flexíveis. Corte para limpar o tecido firme.",
+          "title": "Trim raízes danificadas ou mortas"
+        },
+        "S04": {
+          "body": "Corte a folhagem e os galhos afetados com ferramentas esterilizadas, cortando até o tecido saudável. Enrole os cortes em sacos e descarte-os — nunca composte material doente.",
+          "title": "Preencha folhas e caules infectados"
+        },
+        "S05": {
+          "body": "Use dedos limpos ou tesouras esterilizadas para remover flores podres, murchas ou infectadas na base delas, antes que a infecção se espalhe para os botões saudáveis ao redor.",
+          "title": "Corte as flores e botões afetados."
+        },
+        "S06": {
+          "body": "Remova todas as frutas manchadas, podres ou mofadas da planta e do solo abaixo. Enterre (12 polegadas de profundidade), queime ou selar em uma sacola de lixo - não composte.",
+          "title": "Remova e destrua frutas infectadas"
+        },
+        "S07": {
+          "body": "Use luvas. Remova lagartixas, besouros, caracóis ou grupos de ovos à mão e jogue-os em uma balde de água com sabão. Afogue por pelo menos 24 horas, depois descarte.",
+          "title": "Escolha manualmente os insetos indesejados na água sabonosa."
+        },
+        "S08": {
+          "body": "Para pulgas-de-melaço, pulgas de escamas ou pulgas-das-folhas, limpe suavemente as folhas e os caules com um pano macio mergulhado em água com sabão. Enxágue o pano com frequência. Evite hematomas em tecidos moles.",
+          "title": "Limpe os insetos com um pano úmido"
+        },
+        "S09": {
+          "body": "Mova a planta para uma maca limpa com furos de drenagem, usando uma mistura de solo esterilizada fresca. Enterre as raízes até a mesma profundidade que antes. Aplique água levemente para amassar o solo.",
+          "title": "Replantar com solo fresco e drenagem"
+        },
+        "S10": {
+          "body": "Mova uma planta com raízes enraizadas para uma vasilha 1 a 2 tamanhos maiores. Separe as raízes em círculos antes de colocar a planta em uma mistura fresca. Água profundamente uma vez.",
+          "title": "Subir para um recipiente maior"
+        },
+        "S11": {
+          "body": "Raspe a parte superior de 1/8 de polegada do solo mofado ou coberto de sal e substitua-o por uma camada de 1/4 de polegada de areia grossa ou cascalho fino limpo. Água com moderação depois.",
+          "title": "Cubra com areia ou cascalho"
+        },
+        "S12": {
+          "body": "Coloque uma folha de plástico transparente sobre o solo úmido do jardim por 4 a 6 semanas durante a parte mais quente do ano. O calor se acumula por baixo e mata nematódeos, fungos e sementes de ervas daninhas.",
+          "title": "Solarizar o solo"
+        },
+        "S13": {
+          "body": "Espalhe ao redor da planta uma camada de 2–3 polegadas de cobertura morta de casca, palha ou folhas, deixando um pequeno espaço livre junto ao caule. A cobertura morta impede que patógenos do solo respinguem na planta e estabiliza a umidade.",
+          "title": "Aplique cobertura orgânica ao redor da base"
+        },
+        "S14": {
+          "body": "Leve a planta para uma pia ou para o exterior. Despeje água limpa lentamente pela vasilha - cerca de 4 vezes o volume da vasilha - até que a água escorra livremente pelos orifícios de drenagem. Repita uma vez por mês se os sais retornarem.",
+          "title": "Esvaziar o solo para drenar os sais"
+        },
+        "S15": {
+          "body": "Dirija a água diretamente para o solo perto do caule em vez de pulverizar as folhas. Use uma mangueira de rega com bico longo, mangueira de molho ou linha de gotejamento. Folhas molhadas convidam a propagação de fungos e bactérias.",
+          "title": "Água na Base, Nunca Acima da Cabeça"
+        },
+        "S16": {
+          "body": "Deixe secarem as 1–2 polegadas superiores do solo entre as regas. Introduza um dedo no solo para verificar antes de cada rega. Muitos problemas de podridão das raízes e dos caules resultam de solo constantemente encharcado.",
+          "title": "Reduza a frequência de rega"
+        },
+        "S17": {
+          "body": "Aplique água lentamente e completamente até que o solo esteja molhado por completo, depois deixe secar parcialmente antes da próxima rega. Incentiva raízes mais profundas e plantas mais fortes.",
+          "title": "Beba Água Profundamente Mas Menos Frequentemente"
+        },
+        "S18": {
+          "body": "Relocalize a planta gradualmente para uma janela voltada para o sul ou oeste ou para um local mais ensolarado no jardim. Mova-a em etapas ao longo de uma semana para evitar choque solar.",
+          "title": "Mova-se para um Local Mais Luzoso"
+        },
+        "S19": {
+          "body": "Relocalize a planta para uma janela voltada para o norte, sob uma árvore ou atrás de um tecido de sombra. Queimaduras solares e queimaduras nas folhas geralmente cicatrizam assim que a planta esfria.",
+          "title": "Mova-se para um local sombreado"
+        },
+        "S20": {
+          "body": "Pendure ou coloque uma luz de cultivo LED de espectro completo a 30-60 cm acima da planta, em um temporizador de 12-14 horas. Especialmente útil no inverno ou em salas escuras.",
+          "title": "Adicione uma Luz de Crescimento"
+        },
+        "S21": {
+          "body": "Espaça as plantas para que as folhas não toquem quando estiverem totalmente crescidas. Indo para dentro, ligue um pequeno ventilador oscilatório parte do dia. Ao ar livre, poda a vegetação vizinha que bloqueia a brisa.",
+          "title": "Aumente o fluxo de ar e o espaçamento"
+        },
+        "S22": {
+          "body": "Borrifar a folhagem diariamente, agrupar as plantas juntas, colocar a vasilha em uma bandeja de pedras em água rasa ou ligar um umidificador. Alinhe-se para 40-60% de umidade relativa.",
+          "title": "Aumente a umidade ao redor da planta"
+        },
+        "S23": {
+          "body": "Cubra plantas vulneráveis com um pano de gelo, feno, lona ou cobertura de fileira antes do anoitecer. Leve as plantas em vasos para dentro de casa. Remova a cobertura na manhã seguinte.",
+          "title": "Proteja contra geada"
+        },
+        "S24": {
+          "body": "Coloque uma haste de madeira ou bambu no solo perto da planta e amarre laços soltos em forma de oito com uma corda macia. Mantém os caules afastados do solo molhado e melhora o fluxo de ar.",
+          "title": "Empurre ou treliça a planta"
+        },
+        "S25": {
+          "body": "Pulverize um fungicida à base de cobre (mistura Bordeaux, sulfato de cobre ou hidroxila de cobre comercial) nas folhas, caules e solo circundante conforme a etiqueta do produto. Reaplique a cada 7 a 14 dias.",
+          "title": "Aplique fungicida de cobre"
+        },
+        "S26": {
+          "body": "Quando o cobre não for suficiente, use um fungicida sistêmico sintético (por exemplo, propiconazol, miclobutanil) conforme a etiqueta do produto. Pulverize até a drenagem. Sempre revele os fungicidas para evitar resistência.",
+          "title": "Aplique Fungicida de Espectro Amplio"
+        },
+        "S27": {
+          "body": "Misture o óleo de neem prensado a frio com água e algumas gotas de sabão de lavar louça como emulsificante (tipicamente 2 colheres de chá de neem + 1 colher de chá de sabão por litro). Pulverize para escorrer na noite fria.",
+          "title": "Aplicar óleo de Neem"
+        },
+        "S28": {
+          "body": "Dilua 1 colher de sopa de sabão líquido suave para louça (sem desengordurantes) por litro de água em um frasco de spray. Cubra as partes inferiores e superiores das folhas até que escorram. Reaplique o spray a cada 2 a 3 dias por 1 a 2 semanas.",
+          "title": "Aplicar Sabão Insecticida"
+        },
+        "S29": {
+          "body": "Pulverize Bt nas folhas e caules onde as borboletas-monarca se alimentam. As borboletas-monarca devem ingerir. O Bt é inofensivo para abelhas, animais de estimação e humanos. Reaplique após a chuva.",
+          "title": "Aplicar Bacillus thuringiensis (Bt)"
+        },
+        "S30": {
+          "body": "Use um inseticida à base de piretrina ou piretrum (derivado de crisântemo) por rótulo. Pulverize à noite para proteger as abelhas. Eficaz contra pulgões, pulgões de folhas e besouros.",
+          "title": "Aplicar spray de piretrina"
+        },
+        "S31": {
+          "body": "Para pragas teimosas ou ocultas, molhe o solo com um produto sistêmico (imidacloprid, dinotefuran) conforme a etiqueta. A planta absorve através das raízes, tornando o xarope tóxico para insetos sugadores. Evite em plantas em flor visitadas por abelhas.",
+          "title": "Aplicar Insecticida Sistêmico"
+        },
+        "S32": {
+          "body": "Use um bico de mangueira em um ajuste de fluxo para pulverizar pulgas, ácaros, pulgas de mel ou pulgas de renda das folhas e caules. Ajuste o ângulo abaixo das folhas também. Repita a cada poucos dias.",
+          "title": "Pulverize pragas com mangueira forte"
+        },
+        "S33": {
+          "body": "Compre besouros-de-rosa, lagartijas de renda, vespas parasitas ou ácaros predadores em um fornecedor de jardins. Solte à noite perto da planta afetada. Forneça plantas de néctar nas proximidades para mantê-los por perto.",
+          "title": "Liberar insetos benéficos"
+        },
+        "S34": {
+          "body": "Pendure armadilhas de feromonas específicas de espécie dentro ou perto das plantas afetadas. As armadilhas capturam borboletas machos, suprimindo a próxima geração. Substitua as iscas a cada 4 a 6 semanas durante a estação.",
+          "title": "Configurar armadilhas de feromônios"
+        },
+        "S35": {
+          "body": "Coloque uma rede fina de malha ou coberturas de fileira flutuantes sobre as plantas e segure as bordas com pedras ou grampos. Previne que borboletas, besouros e lagartixas ponham ovos.",
+          "title": "Use rede de insetos ou coberturas de fileira"
+        },
+        "S36": {
+          "body": "Use um fertilizante equilibrado N-P-K (por exemplo, 10-10-10) por rótulo. Para deficiências que aparecem nas folhas, siga com um adubo foliar para uma absorção rápida. O composto é uma alternativa de liberação lenta.",
+          "title": "Aplique fertilizante equilibrado"
+        },
+        "S37": {
+          "body": "Misture um produto de ferro chelatado por rótulo e pulverize diretamente nas folhas amareladas. Mais rápido do que molhar o solo. Repita a cada 2 a 3 semanas até que o verde volte.",
+          "title": "Aplique ração foliar rica em ferro"
+        },
+        "S38": {
+          "body": "Use um kit de teste de solo ou envie uma amostra para o seu escritório de extensão local. Adicione enxofre elemental para reduzir o pH ou cal de jardim para aumentá-lo, de acordo com a recomendação do teste.",
+          "title": "Testar e alterar o pH do solo"
+        },
+        "S39": {
+          "body": "Mantenha as plantas recém-compradas separadas da sua coleção por 2 semanas. Verifique as partes inferiores das folhas, as junções das folhas e a parte superior do solo para detectar pragas e doenças antes de integrá-las.",
+          "title": "Inspecione e Quarantine Novas Plantas"
+        },
+        "S40": {
+          "body": "Ao comprar plantas, procure cultivares rotulados como resistentes a doenças comuns (por exemplo, \"tomates resistentes ao Verticillium\", \"rosas resistentes à ferrugem\"). Feiras de sementes e viveiros locais listam códigos de resistência.",
+          "title": "Escolha variedades resistentes"
+        },
+        "S41": {
+          "body": "Remova folhas caídas, frutas e galhos mortos debaixo das plantas — especialmente no outono. Muitos patógenos passam o inverno em detritos de plantas e reinfectam na primavera.",
+          "title": "Limpe os detritos ao redor das plantas"
+        },
+        "S42": {
+          "body": "Não plante a mesma espécie - ou seus parentes botânicos - no mesmo local por dois anos seguidos. Uma rotação de 3 anos interrompe o ciclo de vida de doenças e pragas transmitidas pelo solo.",
+          "title": "Rotacionar culturas entre as estações"
+        },
+        "S43": {
+          "body": "Quando mais de metade da planta é afetada ou a podridão das raízes é generalizada, remova a planta, selá-a em uma sacola de lixo pesada e descarte. Esterilize a área antes de replantar.",
+          "title": "Descarte a planta gravemente infectada."
+        },
+        "S44": {
+          "body": "Mergulhe os vasos vazios em uma solução de 1:9 de água e cloro por 10 minutos, depois enxágue bem com água limpa e deixe secar ao ar livre antes de reabastecer com solo fresco.",
+          "title": "Sterilize os potes antes de reutilizá-los."
+        }
+      }
+    }
+  }
+}

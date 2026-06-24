@@ -1,0 +1,4159 @@
+{
+  "schema_version": 1,
+  "locale": "de",
+  "source": {
+    "resource": "diseases.json",
+    "sha256": "41126fad245c663221405bac99a4b1ad80d740dda790d7c153fb0c2990701823"
+  },
+  "fields": {
+    "categories": {
+      "FL": {
+        "label": "Blumen"
+      },
+      "FR": {
+        "label": "Früchte"
+      },
+      "L": {
+        "label": "Blätter"
+      },
+      "P": {
+        "label": "Schädlinge"
+      },
+      "R": {
+        "label": "Wurzeln"
+      },
+      "ST": {
+        "label": "Stängel"
+      }
+    },
+    "diseases": {
+      "FL01": {
+        "name": "Blumenfäule",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Sprühen Sie niemals Blumen von oben"
+                },
+                {
+                  "title": "Raumpflanzen für Luftstrom"
+                },
+                {
+                  "title": "Räum fallen gelassene Blütenblätter und Trümmer sofort auf"
+                },
+                {
+                  "title": "Wählen Sie krankheitsresistente Sorten"
+                },
+                {
+                  "title": "Rotation der jährlichen Blumenbeete"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Blüten werden weich, matschig, braun",
+        "symptomAnalysis": "Zwei Hauptursachen:\n1. **Starkes Regen oder Überbewässerung** - Wasser bleibt im Blütenblatt stecken und verrotzt die Blütenblätter von innen heraus.\n2. **Bakterielle Infektion** - tritt über kleine Wunden ein und breitet sich schnell bei warmem, feuchtem Wetter aus.\n\nWenn sie allein gelassen wird, kann die Rotefäule den Stiel hinunterbreiten und Blätter und umliegende Pflanzen infizieren.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Schneiden Sie alle verrottenden Blüten ab"
+                },
+                {
+                  "title": "Sterilisieren Sie Finger oder Schnipsel zwischen den Schnitten"
+                },
+                {
+                  "title": "Schneiden Sie alle weichen, verfärbten Stängel unter der Blüte zurück."
+                },
+                {
+                  "title": "Wechseln Sie auf nur Grundbewässerung"
+                },
+                {
+                  "body": "Sprühen Sie nach den Anweisungen auf der Produktetikette ein kupferbasiertes Fungizid (Bordeaux-Mischung, Kupfersulfat oder kommerzielles Kupferhydroxid) auf Blätter, Stängel und umliegende Erde. Wiederholen Sie die Anwendung alle 7-14 Tage. Wenn die meisten Blüten und Stängel infiziert sind: *Entsorgen Sie die stark infizierte Pflanze* (siehe 5.1).",
+                  "subSteps": [
+                    {
+                      "title": "Entsorgen Sie die stark infizierte Pflanze"
+                    }
+                  ],
+                  "title": "Für die Verbreitung von Bakterien auftragen Sie Kupferbakterizid gemäß der Etikette."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "FL02": {
+        "name": "Blume verwelken",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Bedecken Sie vor kalten Nächten mit Frostschutzfolie."
+                },
+                {
+                  "title": "Bringen Sie im frühen Frühjahr oder späten Herbst gepflanzte blühende Pflanzen über Nacht ins Haus."
+                },
+                {
+                  "title": "Wählen Sie kältebeständige Sorten, die für Ihre Zone geeignet sind."
+                },
+                {
+                  "title": "Füttern Sie nicht nach Mitte des Sommers mit Stickstoff; neues zartes Wachstum ist frostgefährdeter."
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Blüten trocknen braun nach Frost oder Ende der Saison",
+        "symptomAnalysis": "Zwei Hauptursachen:\n1. **Kälte- oder Frostschäden** - plötzliche Temperaturabfälle frieren die Blütenzellen ein und verursachen Bräunung. Viele Blumen können Temperaturen unter 50°F (10°C) nicht ertragen.\n2. **Normaler Lebensende** - jährliche und immergrüne Blumen verwelken am Ende ihrer Saison, wenn die Pflanze Samen bildet.\n\nWenn das Verwelken nach einem Kälteeinbruch auftritt, ist die Ursache umweltbedingt. Wenn es am Ende der Saison auftritt, wenn Samenkapseln gebildet werden, ist es natürlich.",
+        "treatment": {
+          "groups": [
+            {
+              "label": "Für Frostschäden",
+              "steps": [
+                {
+                  "title": "Tränke die Pflanze leicht mit Wasser, bevor die Sonne auf die frostige Pflanze trifft."
+                },
+                {
+                  "title": "Sobald aufgetaut, pinnen Sie die stark beschädigten Blüten ab."
+                },
+                {
+                  "title": "Abdecken Sie nachts, bis das Gefährdung durch Frost vorbei ist."
+                }
+              ]
+            },
+            {
+              "label": "Für das Ende des Lebens",
+              "steps": [
+                {
+                  "title": "Die betroffenen Blüten und Knospen abzupfen"
+                },
+                {
+                  "title": "Nichts tun - natürlicher Zyklus"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "FL03": {
+        "name": "Verblühende Blumen",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Tief und gleichmäßig gießen"
+                },
+                {
+                  "title": "Wählen Sie verwelzungsresistente Sorten (suchen Sie nach \"VFN\" auf Tomaten-/Erdbeersamen)"
+                },
+                {
+                  "title": "Wechseln Sie die Kulturen zwischen den Jahreszeiten"
+                },
+                {
+                  "title": "Mulch, um die Feuchtigkeit im Boden gleichmäßig zu halten"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Stängel hängen herunter, Blütenblätter fallen früh ab",
+        "symptomAnalysis": "Verblühen von Blumen kann aus vielen Richtungen kommen:\n\n- **Wasserschutz** - zu viel oder zu wenig. Weiche, papierartige Blütenblätter durch Dürre; matschige Stängel durch Überbewässerung.\n- **Hitze / starker Sonnenschein** - Blütenblätter verbrennen und krümmen sich auf der sonnenliegenden Seite.\n- **Vaskuläre Verwelkningskrankheiten** - Bodenpilze wie *Verticillium* oder *Fusarium* verstopfen das wasserführende Gewebe der Pflanze. Stängel verwelken, obwohl der Boden feucht ist.\n- **Wurzelfäule** - siehe [R01](../05_roots/root-rot.md). Beschädigte Wurzeln können den Blumen kein Wasser liefern.\n\nIdentifizieren Sie zunächst die Ursache. Stängel, die nur an heißen Nachmittagen verwelken, aber über Nacht wieder gesund werden, sind von Hitze belastet; Stängel, die verwelken und unabhängig von der Bodenfeuchtigkeit verwelken bleiben, deuten auf eine Krankheit oder Wurzelschäden hin.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "body": "Wenn nass → *Reduzieren Sie die Bewässerungsfrequenz* (siehe 1.1).",
+                  "subSteps": [
+                    {
+                      "title": "Wasserungsfrequenz reduzieren"
+                    }
+                  ],
+                  "title": "Teste den Boden mit einem Finger: wenn trocken → [S17](../shared/treatment-steps.md#s17-water-deeply-but-less-often)"
+                },
+                {
+                  "title": "Wenn Sie von der Hitze belastet sind, ziehen Sie sich in den Schatten am Nachmittag zurück."
+                },
+                {
+                  "title": "Schneiden Sie verwelktes Laub zurück, um die Nachfrage zu verringern"
+                },
+                {
+                  "body": "Tauchen Sie Stielzange, Schere oder Messerklingen in eine 1:4-Bleichmittel-Wasser-Lösung (oder 70 % Isopropylalkohol) vor jedem Schnitt und zwischen jedem Pflanzenstück ein. Trocknen Sie sie vor dem Schneiden ab. Wenn der Grund eine Gefäßverrottungskrankheit ist: *Entsorgen Sie die stark infizierte Pflanze* (siehe 4.1). Der Pilz bleibt jahrelang im Boden zurück.",
+                  "subSteps": [
+                    {
+                      "title": "Entsorgen Sie die stark infizierte Pflanze"
+                    }
+                  ],
+                  "title": "Sterilisieren Sie Werkzeuge zwischen den Schnitten"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "FL04": {
+        "name": "Knospenabfall",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Gehen Sie Pflanzen langsam an ihre neue Umgebung wenn Sie sie versetzen."
+                },
+                {
+                  "title": "Wasser nach einem Zeitplan, nicht auf Impulsbasis"
+                },
+                {
+                  "title": "Halten Sie für Zimmerpflanzen eine Luftfeuchtigkeit von 40-60 % ein."
+                },
+                {
+                  "title": "Verwenden Sie einen ausgewogenen oder Blühformulatschwanzdünger; vermeiden Sie während der Blütezeit viel Stickstoff."
+                },
+                {
+                  "title": "Versetzen Sie keine Pflanze, die Knospen bildet, um, denn sie fallen bei Störungen ab."
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Blütenknospen bilden sich und fallen dann vor der Öffnung ab.",
+        "symptomAnalysis": "Eine Stressreaktion, keine Krankheit. Die Pflanze spart Energie, indem sie Knospen absetzt, die sie nicht unterstützen kann. Häufige Auslöser:\n\n- **Plötzlicher Umwelteinfluss** - Umzug ins Haus/aus dem Haus, Zugluft, plötzlicher Temperaturwechsel.\n- **Unbestimmte Bewässerung** - den Boden zu lange austrocknen lassen und ihn dann überfluten.\n- **Niedrige Luftfeuchtigkeit** - üblich drinnen; tropische Blüher (Gardenias, Hibiskus) sind empfindlich.\n- **Unzureichendes Licht** - Knospen bilden sich, erhalten aber nicht die Energie, um zu öffnen.\n- **Überdüngerung** - zu viel Stickstoff treibt das Blattwachstum auf Kosten der Blüten an.\n- **Schädlingsdruck** - Thrips und Blattläuse fressen in sich entwickelnden Knospen. siehe [02_pests/](../02_pests/).",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Einen einheitlichen Bewässerungsrhythmus einführen"
+                },
+                {
+                  "title": "Erhöhen Sie die Luftfeuchtigkeit für tropische Blüher"
+                },
+                {
+                  "body": "Lassen Sie es an einem Ort absetzen.",
+                  "title": "Hör auf, die Pflanze zu bewegen"
+                },
+                {
+                  "title": "Pausen Sie den Dünger für 2-4 Wochen; fangen Sie mit einer Formel für eine niedrige Stickstoffblüte (hohes P, wie 5-10-5) wieder an."
+                },
+                {
+                  "body": "Wenn gefunden, siehe die entsprechende Schädlingsbezeichnung.",
+                  "title": "Überprüfen Sie die Knospen auf Schädlinge"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "FL05": {
+        "name": "Blütenfleckkrankheit",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Wasser am Boden"
+                },
+                {
+                  "title": "Raum und Beschneiden für Luftstrom"
+                },
+                {
+                  "title": "Entfernen Sie verblasste Blüten, bevor sie verrotten"
+                },
+                {
+                  "title": "Wählen Sie Sorten mit Blüten mit einzelnen Blütenblättern oder offener Form."
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Graubrauner flauschiger Schimmel auf Blütenblättern",
+        "symptomAnalysis": "Der Pilz *Botrytis cinerea* (Grauschimmel) befällt zuerst welkende oder beschädigte Blütenblätter und breitet sich dann auf gesunde aus. Er gedeiht in kühler, feuchter, stehender Luft – im zeitigen Frühjahr, im Spätherbst oder während längerer Regenperioden. Rosen, Pfingstrosen, Dahlien, Hortensien und Azaleen sind häufige Wirtspflanzen.\n\nZum gleichen Pilz auf Blättern und Stängeln siehe [L23 – Grauschimmel](../01_leaves/gray-mold.md).",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Entfernen Sie jede infizierte Blüte, einschließlich aller teilweise geöffneten Knospen in der Nähe."
+                },
+                {
+                  "title": "Sterilisieren Sie Werkzeuge zwischen den Schnitten"
+                },
+                {
+                  "title": "Entfernen Sie die abgestorbenen Blütenblätter und Blätter unter der Pflanze."
+                },
+                {
+                  "title": "Verwenden Sie Kupfer-Fungizid, wenn die Infektion weit verbreitet ist."
+                },
+                {
+                  "title": "Öffnen Sie den Luftstrom durch selektive Beschneidung"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "FL06": {
+        "name": "Nicht blühen",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Stellen Sie die Pflanze Ihren Lichtbedingungen vor dem Kauf ein."
+                },
+                {
+                  "title": "Verwenden Sie einen ausgewogenen oder Blühformulatschwanzdünger; überspringen Sie reine Stickstofffütterungen bei Blühern."
+                },
+                {
+                  "title": "Seien Sie geduldig mit neuen Stauden und Sträuchern"
+                },
+                {
+                  "title": "Wasser ständig"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Eine gesunde Pflanze produziert wenige oder keine Blüten",
+        "symptomAnalysis": "Keine Krankheit. Die Pflanze hat die Energie, Blätter zu wachsen, wird aber nicht dazu angeregt, zu blühen. Häufige Ursachen:\n\n- **Unzureichendes Licht** - die meisten blühenden Pflanzen benötigen 6+ Stunden helles Licht pro Tag.\n- **Zu viel Stickstoff** - treibt das Laubwachstum auf Kosten der Blüten voran.\n- **Falscher Temperaturzyklus** - viele Blüher benötigen einen Kühltag-Signal (z. B. Orchideen, Weihnachts-Kaktus).\n- **Die Pflanze ist zu jung** - Stauden, Obstbäume und viele Sträucher benötigen 1-3 Jahre, bevor sie zum ersten Mal blühen.\n- **Kürzliches Beschneiden zu falschem Zeitpunkt** - Entfernen von Blütenknospen (manchen Pflanzen bilden Knospen im Vorjahr an altem Holz).\n- **Wurzelgebunden** - siehe [R04](../05_roots/pot-bound.md). Manchmal löst ein enger Topf die Blüte aus, aber extreme Wurzelbindung schaltet ihn ab.\n- **Trockene oder unregelmäßige Bewässerung** - Dürregeplagte Pflanzen verlieren Blütenknoten.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Machen Sie sich an einen helleren Ort umziehen"
+                },
+                {
+                  "title": "Wechseln Sie zu einem Blumengeschwungsfüller (weniger N, mehr P, z. B. 5-10-5)"
+                },
+                {
+                  "body": "Weihnachtskaktus braucht kalte Nächte und kurze Tage; Gartenien brauchen warme Tage und feuchte Luft.",
+                  "title": "Recherchieren Sie den Blüteauslöser Ihrer spezifischen Pflanze"
+                },
+                {
+                  "title": "Vermeiden Sie die Beschneidung, bis Sie feststellen, ob die Art auf neues oder altem Holz blüht."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "FL07": {
+        "name": "Befleckte Knospen",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Raumpflanzen für Luftstrom"
+                },
+                {
+                  "title": "Wasser am Boden, niemals über Kopf"
+                },
+                {
+                  "title": "Entfernen Sie regelmäßig abgestorbene Blütenblätter und Blätter."
+                },
+                {
+                  "title": "Vorbeugender Kupferspray im frühen Frühjahr auf anfällige Rosen oder Pfingstrosen"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Braune oder dunkle Flecken und Flecken, die sich auf Blütenknospen bilden, bevor sie sich öffnen.",
+        "symptomAnalysis": "Befleckte Knospen lassen sich in der Regel auf eine Pilz- oder Bakterieninfektion zurückführen - Botrytis, Anthracnose oder Schusslöcher-Erreger -, die sich von Blättern oder abfallenden Blütenblättern auf sich entwickelnde Knospen ausgebreitet hat. Nasses Wetter, dichtes Pflanzen und kontaminiertes Schutt in der Nähe der Pflanze beschleunigen die Ausbreitung. Befleckte Knospen öffnen sich entweder nicht, öffnen sich zu verformten Blüten oder verrotten, bevor sie Farbe zeigen.\n\nWenn das Problem auf den Blütenblättern auftritt, nachdem der Knospen geöffnet ist (nicht auf der Knospensurface selbst), siehe [FL05 - Blütenblattfäule](petal-blight.md).",
+        "treatment": {
+          "groups": [
+            {
+              "label": "Für leichte Fälle",
+              "steps": [
+                {
+                  "title": "Schneiden Sie alle befleckten Knospen ab und entsorgen Sie sie."
+                },
+                {
+                  "title": "Sterilisieren Sie Werkzeuge zwischen den Schnitten, damit sich keine Sporen von Knospen zu Knospen bewegen."
+                },
+                {
+                  "title": "Entfernen Sie die abgestorbenen Blütenblätter und Blätter um die Pflanze herum."
+                }
+              ]
+            },
+            {
+              "label": "Für schwere Fälle",
+              "steps": [
+                {
+                  "title": "Zupfen Sie alle sichtbar betroffenen Knospen ab."
+                },
+                {
+                  "title": "Tragen Sie Kupferfungizid auf die verbleibenden Knospen und Blätter auf."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "FR01": {
+        "name": "Fruchtfleck",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Kaufen Sie punktbeständige Sorten"
+                },
+                {
+                  "title": "Rotieren Sie die jährlichen Obstkulturen alle 3 Jahre."
+                },
+                {
+                  "title": "Räumen Sie am Ende der Saison alle gefallen Früchte und Blätter auf."
+                },
+                {
+                  "title": "Nur Tropfbewässerung oder Grundbewässerung"
+                },
+                {
+                  "title": "Raumpflanzen für Luftstrom"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Braune oder schwarze Streifen und Läsionen auf der Fruchthaut",
+        "symptomAnalysis": "Fruchtfleck ist ein Sammelbegriff für bakterielle und Pilzinfektionen, die dunkle Läsionen auf der Frucht hinterlassen. Krankheitserreger reisen mit dem Wind, Regen, Insekten und Werkzeugen fort. Sie überwintern in Pflanzenteilen und infizieren sich im Frühjahr erneut. Feuchte Bedingungen beschleunigen die Ausbreitung. Stark befleckte Früchte sind möglicherweise ungenießbar; leicht befleckte Früchte sind in der Regel nach dem Entfernen des Flecks in Ordnung.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Entfernen und vernichten Sie stark befleckte Früchte"
+                },
+                {
+                  "title": "Schneiden Sie infizierte Zweige zurück, die den Erreger tragen könnten"
+                },
+                {
+                  "title": "Sterilisieren Sie Werkzeuge zwischen den Schnitten"
+                },
+                {
+                  "title": "Tragen Sie Kupfer-Fungizid/Bakterizid gemäß der Etikette auf."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "FR02": {
+        "name": "Fruchtfäule",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Ständige Bewässerung ist der wichtigste Faktor."
+                },
+                {
+                  "title": "Mulch"
+                },
+                {
+                  "title": "Verwenden Sie einen ausgewogenen Dünger"
+                },
+                {
+                  "title": "Dünne Früchte und Pflaumen für die Luftzirkulation"
+                },
+                {
+                  "title": "Pflücken Sie Obst rechtzeitig, wenn es reif ist"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Versunkenes braunes Verweseln, Verfärbung der Blütenspitze, Pilzschlamm",
+        "symptomAnalysis": "Drei gängige Muster:\n\n1. **Blütenende-Rot** - gesunkener schwarzer Krater am Boden von Tomaten, Paprika, Kürbissen. Wird durch einen Kalziummangel im Fruchtfleisch verursacht, keine Krankheit. Inkonsistente Bewässerung stört die Kalziumaufnahme.\n2. **Braune Rote (pilzart)** - kleine braune Flecken, die sich ausbreiten und braun-graue, flauschige Sporenklumpen bilden können. Betrifft Steinobst (Pfirsich, Pflaume, Kirsche).\n3. **Überreife Schimmel** - Obst, das nach der Reifezeit an der Pflanze bleibt, zieht Insekten und Pilze an.",
+        "treatment": {
+          "groups": [
+            {
+              "label": "Für Blütenendefäule",
+              "steps": [
+                {
+                  "title": "Etablieren Sie eine konsequente tiefe Bewässer"
+                },
+                {
+                  "title": "Mulch, um die Feuchtigkeit im Boden gleichmäßig zu halten"
+                },
+                {
+                  "title": "Entfernen Sie die betroffenen Früchte, damit die Pflanze Kalzium auf die verbleibenden Früchte umleitet"
+                }
+              ]
+            },
+            {
+              "label": "Für braune Rote",
+              "steps": [
+                {
+                  "title": "Entfernen Sie alle sichtbar verrottete Früchte, auch diejenigen auf dem Boden."
+                },
+                {
+                  "title": "Betroffene Zweige beschneiden"
+                },
+                {
+                  "title": "Tragen Sie Kupfer-Fungizid auf reifendes Obst auf, nicht auf grünes Obst."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "FR03": {
+        "name": "Fruchtverformung",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "body": "Bestäuben Sie Kürbis und Melonen mit der Hand mit einem kleinen Pinsel, wenn Sie nur wenige Bienen sehen.",
+                  "title": "Pflanzen Sie in der Nähe pflanzenbestäubungsfreundliche Blumen."
+                },
+                {
+                  "title": "Bedecken Sie blühende Pflanzen vor spätem Frost"
+                },
+                {
+                  "title": "Ständige Feuchtigkeit, insbesondere während der Fruchtbildung"
+                },
+                {
+                  "title": "Verwenden Sie bei der Pflanzung einen langsam freisetzenden Dünger."
+                },
+                {
+                  "body": "Siehe [02_pests/](../02_pests/).",
+                  "title": "Überprüfen Sie auf Insektenschäden an der sich entwickelnden Frucht"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Verformtes, halbfertiges oder gespaltenes Obst",
+        "symptomAnalysis": "Mehrere Faktoren:\n\n- **Schlechte Bestäubung** - Bienen haben einige Eizellen verpasst, so dass die Frucht ungleichmäßig wächst. Häufig: spitze Erdbeeren, schiefe Gurken.\n- **Bewässerungsschwinge** - Dürre gefolgt von starkem Wasser kann zu Splitterbildung führen; ungleichmäßige Feuchtigkeit führt zu Katzenähnlichem Wachstum bei Tomaten.\n- **Temperaturextreme** - Kälte während der Blüte schädigt das sich entwickelnde Obst.\n- **Nährstoffmangel** - Mangel an Bor und Kalzium führt zu Verwachsungsstörungen und seltsamen Formen.\n- **Insektenschäden in der Knospenphase** - vergilbte Pflanzenläuse, die sich von Blüten ernähren, hinterlassen Narben und Falten.\n\nDie meisten verformten Früchte sind immer noch essbar.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Entfernen Sie die schlechtesten Früchte, damit sich die Pflanze auf gesunde konzentriert."
+                },
+                {
+                  "title": "Stabilisieren Sie die Bewässerung sofort"
+                },
+                {
+                  "title": "Verwenden Sie einen ausgewogenen Dünger mit Mikronährstoffen (Bor, Kalzium)"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "FR04": {
+        "name": "Fruchtverfall",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Entfernen Sie am Ende der Saison alle abgelassenen Früchte."
+                },
+                {
+                  "title": "Stake Pflanzen aus dem Boden heraus"
+                },
+                {
+                  "title": "Beschneiden Sie für den Luftstrom während der Ruhezeit"
+                },
+                {
+                  "title": "Präventive Kupferspray bei Blütezeit und erneut vor der Ernte"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Zerrüttetes mumifiziertes Obst hängt an der Pflanze",
+        "symptomAnalysis": "Eine Pilzinfektion (oft *Monilinia* auf Steinobst), die im ausgehärteten Obst- und Pflanzenabfall überwintern kann. Sporen sprühen im Frühjahr auf und infizieren neue Blüten und sich entwickelnde Früchte, die dann vor der Reife austrocknen. Warmes, feuchtes Frühlings-/Sommerwetter führt zu Ausbrüchen.\n\nDie mumifizierten Früchte, die Sie im Winter oder in der späten Saison sehen, sind die Quelle der Infektion des nächsten Jahres.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Pflücken Sie jede schrumpelige Mumie vom Pflanzen und aus dem Boden."
+                },
+                {
+                  "title": "Schneiden Sie alle betroffenen Zweige zurück"
+                },
+                {
+                  "title": "Kupferpilzbekämpfungsmittel spritzen"
+                },
+                {
+                  "title": "Öffnen Sie das Dach mit selektiver Beschneidung"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "FR05": {
+        "homeRemedies": [
+          null,
+          {
+            "ingredients": [
+              {
+                "name": "Aspirin",
+                "quantity": "1 Tablette"
+              },
+              {
+                "name": "Wasser",
+                "quantity": "1 Gal"
+              },
+              {
+                "name": "Spülmittel",
+                "quantity": "Ein paar Tropfen"
+              }
+            ]
+          }
+        ],
+        "name": "Schimmel auf Obst",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Schaufeln Sie verrottendes Schutt und abgestorbene Früchte weg."
+                },
+                {
+                  "title": "Nur Tropfbewässerung"
+                },
+                {
+                  "title": "Überfüllen Sie nicht"
+                },
+                {
+                  "title": "Füttern Sie nicht zu früh übermäßig."
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Grauer, weißer oder brauner flauschiger Schimmel auf der Fruchtoberfläche",
+        "symptomAnalysis": "Eine Reihe von Pilzen verursacht flauschige Schimmelpilze auf Obst. Sie gedeihen in kühlen, feuchten, stillen Bedingungen - sowohl in der Früh- als auch in der Spätsaison. Selbst eine leichte Infektion ruiniert das Obst; eine schwere Infektion verwüstet die Pflanze. Oft folgt die Blütenendefäule oder Insektenschäden, die den Pilzen einen Eintrittspunkt gegeben haben.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Entfernen Sie alle schimmelige Früchte, auch solche, die auf dem Boden liegen."
+                },
+                {
+                  "title": "Schneiden Sie die betroffenen Blätter und Stängel in der Nähe des schimmeligen Fruchtes zurück."
+                },
+                {
+                  "title": "Schneiden Sie das umliegende Wachstum zurück, um den Luftstrom zu verbessern."
+                },
+                {
+                  "title": "Tragen Sie Kupfer-Fungizid auf die verbleibenden reifenden Früchte auf"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "FR06": {
+        "homeRemedies": [
+          {
+            "ingredients": [
+              {
+                "name": "Natron",
+                "quantity": "1 TL"
+              },
+              {
+                "name": "Spülmittel",
+                "quantity": "1 TL"
+              },
+              {
+                "name": "Wasser",
+                "quantity": "1 qt"
+              }
+            ]
+          },
+          {
+            "ingredients": [
+              {
+                "name": "Milch",
+                "quantity": "1 Teil"
+              },
+              {
+                "name": "Wasser",
+                "quantity": "9 Teile"
+              }
+            ]
+          }
+        ],
+        "name": "Pulveriger Mehltau auf Obst",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Kaufen Sie feuchtigkeitsbeständige Sorten (insbesondere Kürbis, Gurken, Melonen)"
+                },
+                {
+                  "title": "Drip-Bewässerung, nicht über Kopf"
+                },
+                {
+                  "title": "Breiter Abstand"
+                },
+                {
+                  "title": "Entfernen Sie vor dem Winter den Schlamm."
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Weißer Pulverbeschluss auf Frucht und Stiel",
+        "symptomAnalysis": "Echte-Mehltau-Pilze bevorzugen warme, trockene Tage und kühle, feuchte Nächte – das Gegenteil der meisten Pilzkrankheiten. Ausbrüche im Mittel- bis Spätsommer sind typisch. Der weiße Belag ist der auf der Oberfläche wachsende Pilz; er tötet die Frucht nur selten, mindert jedoch den Ertrag, beeinträchtigt das Aussehen und kann sich auf den Rest der Pflanze ausbreiten.\n\nZum gleichen Pilz auf Blättern siehe [L20 – Echter Mehltau](../01_leaves/powdery-mildew.md).",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Schneiden Sie stark schimmelige Früchte ab"
+                },
+                {
+                  "title": "Schneiden Sie nahe gelegene, schimmelige Blätter und Stängel zurück."
+                },
+                {
+                  "title": "Öffnen Sie das Dach mit selektiver Beschneidung"
+                },
+                {
+                  "title": "Verwenden Sie Kupferfungizid bei hartnäckigen Fällen"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "FR07": {
+        "name": "Obstbrechen",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Ständige Feuchtigkeit ist der wichtigste Faktor"
+                },
+                {
+                  "title": "Mulchen Sie stark, um die Bodenfeuchtigkeit gleichmäßig zu verteilen"
+                },
+                {
+                  "title": "Kaufen Sie kratzfest resistente Sorten (z. B."
+                },
+                {
+                  "title": "Ernten Sie kurz vor der höchsten Reifegrad, wenn starker Regen vorhergesagt wird."
+                },
+                {
+                  "title": "Stecken Sie schwere Früchte ein, um den Druck auf die Haut zu vermeiden."
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Splitter und Risse in der Fruchtschale",
+        "symptomAnalysis": "Das Knacken tritt auf, wenn das Fruchtwachstum schneller beschleunigt als die Haut sich dehnen kann. Der häufigste Auslöser ist ein plötzlicher Wassereinbruch - starker Regen oder tiefes Bewässern nach einer Dürre. Sorten mit süßer, dünner Haut sind am anfälligsten.\n\nRissige Früchte ziehen schnell Insekten und Schimmel an, aber die Frucht selbst ist normalerweise noch essbar, wenn sie rechtzeitig geerntet wird.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "body": "Warten Sie nicht auf die vollständige Reife - sie werden verderben oder weiter auseinanderbrechen.",
+                  "title": "Kratzernde Früchte sofort pflücken"
+                },
+                {
+                  "title": "Entsorgen Sie Obst mit Schimmel- oder Insektenschäden in den Rissen."
+                },
+                {
+                  "title": "Führen Sie sofort wieder eine konstante Bewässerung durch"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "L01": {
+        "homeRemedies": [
+          {
+            "ingredients": [
+              {
+                "name": "Aspirin",
+                "quantity": "1 Tablette"
+              },
+              {
+                "name": "Wasser",
+                "quantity": "1 Gal"
+              },
+              {
+                "name": "Spülmittel",
+                "quantity": "Ein paar Tropfen"
+              }
+            ]
+          }
+        ],
+        "name": "Brauner Fleck",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Wählen Sie widerstandsfähige Sorten"
+                },
+                {
+                  "title": "Wasser am Boden, nicht über dem Kopf"
+                },
+                {
+                  "title": "Raumpflanzen für Luftstrom"
+                },
+                {
+                  "title": "Räum fallen gelassene Blätter und Trümmer auf"
+                },
+                {
+                  "title": "Präventiver Kupferspray in feuchten Quellen"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Braune Flecken oder winzige braune Punkte auf den Blättern",
+        "symptomAnalysis": "Braune Flecke sind ein Sammelbegriff für Pilz- und Bakterieninfektionen, die braune Läsionen auf den Blättern hinterlassen. Die Ursachen variieren, aber die Zustände sind in der Regel ähnlich: nasse Blätter, schlechte Luftzirkulation und kontaminierte Ablagerungen, die Sporen tragen. Wenn sie unbehandelt bleiben, schwächt die braune Flecke die Pflanze und macht sie anfälliger für schädlichere Krankheiten.\n\nOb der Fleck eines der drei Muster ist (große Flecken, Flecken mit gelben Flecken oder winzige dichte Punkte), ändert die Behandlung nicht.",
+        "treatment": {
+          "groups": [
+            {
+              "label": "Für leichte Fälle (unter 50 % der betroffenen Blätter)",
+              "steps": [
+                {
+                  "title": "Infizierte Blätter abschneiden"
+                },
+                {
+                  "title": "Sterilisieren Sie Werkzeuge zwischen den Schnitten"
+                },
+                {
+                  "title": "Überwachen Sie wöchentlich nach neuen Stellen"
+                }
+              ]
+            },
+            {
+              "label": "Für schwere Fälle",
+              "steps": [
+                {
+                  "title": "Alle infizierten Blätter beschneiden"
+                },
+                {
+                  "title": "Kupfer-Fungizid/Bakterizid auftragen"
+                },
+                {
+                  "title": "Luftstrom öffnen"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "L02": {
+        "name": "schwarzer Fleck",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Kaufen Sie rose Sorten, die gegen schwarze Flecken resistent sind"
+                },
+                {
+                  "title": "Rasen Sie alle heruntergefallenen Blätter weg"
+                },
+                {
+                  "title": "Nur Tropfbewässerung"
+                },
+                {
+                  "title": "Mulch reduziert Sprühen von Boden auf"
+                },
+                {
+                  "title": "Präventiver Kupferspray im frühen Frühjahr"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Schwarze Flecken oder dicht gepackte schwarze Punkte auf Blättern",
+        "symptomAnalysis": "Meist ist eine Pilzinfektion - *Diplocarpon rosae* auf Rosen das Standardbeispiel, aber andere Pilze verursachen ähnliche Schäden an verschiedenen Wirtspflanzen. Der Pilz gedeiht in feuchten Bedingungen und breitet sich aus, wenn Wasser Sporen auf die Blätter spritzt. Leichte Fälle sind meist ästhetisch; schwere Fälle verdünnen die Pflanze und schwächen sie für die nächste Saison.",
+        "treatment": {
+          "groups": [
+            {
+              "label": "Für leichte Fälle (unter 50 % der Blätter)",
+              "steps": [
+                {
+                  "title": "Zupfen Sie alle fleckigen Blätter ab"
+                },
+                {
+                  "title": "Sterilisieren Sie Werkzeuge zwischen den Schnitten"
+                }
+              ]
+            },
+            {
+              "label": "Für schwere Fälle",
+              "steps": [
+                {
+                  "title": "Alle fleckigen Blätter beschneiden"
+                },
+                {
+                  "title": "Kupfer-Fungizid alle 7-14 Tage"
+                },
+                {
+                  "title": "Wechseln Sie zu einem systemischen Pilzbekämpfer bei hartnäckigen Fällen"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "L03": {
+        "name": "Blattflecken und Verbrennungen",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Wählen Sie Sorten, die Ihrem Klima angepasst sind"
+                },
+                {
+                  "title": "Tief und gleichmäßig gießen"
+                },
+                {
+                  "title": "Mulch zur Aufrechterhaltung der Feuchtigkeit"
+                },
+                {
+                  "title": "Überprüfen Sie neue Pflanzen auf frühe Verbrennungserscheinungen"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Spitzen und Kanten trocknen braun, gelber Halos",
+        "symptomAnalysis": "Drei Ursachen:\n\n1. **Wärme- und Sonneneinwirkung** - Blätter verlieren Wasser schneller, als Wurzeln liefern können. Sonnenexponierte Blätter werden zuerst braun.\n2. **Schlechte Wurzelfunktion** - Komprimierter Boden, Wurzelschäden oder zu viel Dünger verhindern, dass die Wurzeln genug Wasser aufnehmen können. Die Pflanze sieht sogar an einem normalen Tag verbrannt aus.\n3. **Bakterielle Blattverbrennung** (*Xylella fastidiosa*) - chronische Krankheit, die jedes Jahr wiederkehrt. Betrifft zuerst ältere Blätter; neuere Blätter bleiben sauber. Dauerhaft.\n\nSobald die Blätter braun werden, erholen sie sich nicht mehr. Das Ziel ist es, den Rest der Pflanze zu retten.",
+        "treatment": {
+          "groups": [
+            {
+              "label": "Für Sonne/Hitze",
+              "steps": [
+                {
+                  "title": "Bewässern Sie tiefer, insbesondere bei Hitzewellen."
+                },
+                {
+                  "title": "Verwenden Sie Schattenstoff oder versetzen Sie die Behälterpflanzen."
+                },
+                {
+                  "title": "Mulch, um die Wurzelzone kühl zu halten"
+                }
+              ]
+            },
+            {
+              "label": "Für Wurzelstress",
+              "steps": [
+                {
+                  "title": "Reduzieren Sie die Bewässerung, wenn der Boden verdichtet und nass ist."
+                },
+                {
+                  "title": "Bodentest"
+                },
+                {
+                  "title": "Wenn Sie umtopfen, schneiden Sie beschädigte Wurzeln ab"
+                }
+              ]
+            },
+            {
+              "label": "Für bakterielle Verbrennungen",
+              "steps": [
+                {
+                  "title": "entfernen"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "L04": {
+        "name": "Anthraknose",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Rasen Sie im Herbst alle alten Pflanzenreste auf."
+                },
+                {
+                  "title": "Kaufen Sie widerstandsfähige Sorten"
+                },
+                {
+                  "title": "Breite Abstände für den Luftstrom"
+                },
+                {
+                  "title": "Nur Tropfbewässerung"
+                },
+                {
+                  "title": "Präventive Kupferspray im frühen Frühjahr auf anfällige Pflanzen"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Graue Flecken mit dunkelbraunen oder schwarzen Ränder",
+        "symptomAnalysis": "Anthracnose ist eine Gruppe verwandter Pilzerkrankungen. Alle gedeihen in kühlem, feuchtem Wetter, insbesondere im Frühjahr und frühen Sommer. Sporen überwintern in Pflanzendreck und infizieren das neue Wachstum, wenn sich die Bedingungen erwärmen. Häufig bei Schattenbäumen, Obstbäumen, Bohnen, Tomaten und vielen Zierpflanzen.\n\nSchwere Ausbrüche verfärben Pflanzen. Milde Ausbrüche sind ästhetisch.",
+        "treatment": {
+          "groups": [
+            {
+              "label": "Für leichte Fälle",
+              "steps": [
+                {
+                  "title": "Behandelte Blätter beschneiden und entsorgen"
+                },
+                {
+                  "title": "Räumen Sie alle abgelassenen Blätter und Trümmer auf."
+                }
+              ]
+            },
+            {
+              "label": "Für schwere Fälle",
+              "steps": [
+                {
+                  "title": "Entfernen Sie alle sichtbar betroffenen Gewebe"
+                },
+                {
+                  "title": "Tragen Sie Kupfer-Fungizid vor einer Trockenperiode auf."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "L05": {
+        "name": "Eckige Blattflecken",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "**Arbeiten Sie nicht im Garten, wenn die Blätter nass sind.** Bakterien übertragen sich leicht von nassen Blättern auf Ihre Hände und Werkzeuge."
+                },
+                {
+                  "title": "Kaufen Sie widerstandsfähige Kürbis- und Erdbeerzüchtungen"
+                },
+                {
+                  "title": "Rotieren Sie mindestens 2 Jahre vor dem Neupflanzen von Kürbissen an derselben Stelle."
+                },
+                {
+                  "title": "Nur Tropfbewässerung"
+                },
+                {
+                  "title": "Präventiver Kupferspray im Frühjahr"
+                },
+                {
+                  "title": "Speichern Sie keine Samen von infizierten Pflanzen auf."
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Gelbe Flecken durch Blattvenen abgerundet",
+        "symptomAnalysis": "Eine bakterielle Krankheit (*Pseudomonas* spp.) wird durch Samen übertragen, breitet sich aber weiter durch warmes, feuchtes Wetter und Bewässerung über dem Boden aus. Die Gefäße blockieren die Bakterien, damit sie sich frei verbreiten können, so dass die Läsionen sich auf ein einzelnes Panel zwischen den Gefäßen beschränken, was dem quadratischen Aussehen verleiht. Schwere Fälle lassen Blätter fallen; auch auf Stängeln und Früchten treten Läsionen auf.\n\nDie Krankheit bleibt in Samen, Pflanzenteilen und kontaminierten Werkzeugen bestehen.",
+        "treatment": {
+          "groups": [
+            {
+              "label": "Für leichte Fälle",
+              "steps": [
+                {
+                  "title": "Behandelte Blätter und Stängel beschneiden"
+                },
+                {
+                  "title": "Sterilisieren Sie zwischen jedem Schnitt"
+                },
+                {
+                  "title": "Kupferbakterizid, frühzeitig aufgetragen"
+                }
+              ]
+            },
+            {
+              "label": "Für schwere Fälle",
+              "steps": [
+                {
+                  "title": "Entfernen und vernichten Sie die Pflanze"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "L06": {
+        "homeRemedies": [
+          {
+            "ingredients": [
+              {
+                "name": "Natron",
+                "quantity": "1 TL"
+              },
+              {
+                "name": "Spülmittel",
+                "quantity": "1 TL"
+              },
+              {
+                "name": "Wasser",
+                "quantity": "1 qt"
+              }
+            ]
+          }
+        ],
+        "name": "Blattfleck",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Kaufen Sie krankheitsresistente Sorten"
+                },
+                {
+                  "title": "Rasen Sie alle Laubstreu auf"
+                },
+                {
+                  "title": "Wasser auf Bodenniveau"
+                },
+                {
+                  "title": "Mulch reduziert den Sprung von Sporen zurück"
+                },
+                {
+                  "title": "Präventive Kupferzufuhr im frühen Frühjahr"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Weiße oder gelbe Flecken, die über die Blätter verteilt sind",
+        "symptomAnalysis": "Ein allgemeiner Begriff für Pilzinfektionen, die blasse Flecken auf den Blättern verursachen. Viele Pilze verursachen ähnliche Schäden; die Behandlung ist im Großen und Ganzen unabhängig von der genauen Art gleich. Die Flecken neigen dazu, von der Mitte aus auszutrocknen.\n\nWenn die Flecken winzig und dicht gepackt sind (unter 1 mm), ist die Ursache eher Saugen von Insekten - siehe [L24 - Sap-saugende Schäden](sap-sucking-damage.md).",
+        "treatment": {
+          "groups": [
+            {
+              "label": "Für leichte Fälle (unterhalb der Hälfte der betroffenen Blätter)",
+              "steps": [
+                {
+                  "title": "Fleckenhafte Blätter abschneiden"
+                },
+                {
+                  "title": "Sterilisieren Sie Werkzeuge zwischen den Schnitten"
+                }
+              ]
+            },
+            {
+              "label": "Für schwere Fälle",
+              "steps": [
+                {
+                  "title": "Entfernen Sie alle fleckigen Blätter"
+                },
+                {
+                  "title": "Tragen Sie wöchentlich Kupfer-Fungizid auf"
+                },
+                {
+                  "title": "In extremen Fällen ersetzen Sie die Pflanze"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "L07": {
+        "name": "Gelbverfärbung durch Unterbewässerung",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "body": "Manche mögen trocken, andere mögen ständig feucht.",
+                  "title": "Recherchieren Sie die Bewässerungsbedürfnisse jeder Pflanze"
+                },
+                {
+                  "title": "Setzen Sie eine Kalendererinnerung ein, wenn Sie dazu neigen zu vergessen"
+                },
+                {
+                  "title": "Verwenden Sie einen Feuchtigkeitsmesser für den Boden oder einfach den Finger-Test, bevor Sie gießen."
+                },
+                {
+                  "title": "Mulchen Sie Außenpflanzen, um die Verdunstung zu verlangsamen"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Untere Blätter gelb, Boden trocken und ziehen aus dem Topf",
+        "symptomAnalysis": "Wenn die Pflanze an Wasser fehlt, opfert sie zuerst ihre ältesten Blätter, um das jüngere Wachstum am Leben zu erhalten. Boden, der bis zu Ihrem zweiten Knöchel trocken ist und sich sichtbar von der Korbkante zurückzieht, bestätigt eine Unterbewässerung. Häufig bei Kräutern und allen Pflanzen, die vernachlässigt wurden.\n\nDifferenziert sich von Überschwemmung: trockener Boden + nur gelbe Blätter = unter. Feuchter Boden + gelbe Blätter unten + saurer Geruch des Bodens = oben (siehe [L08](waterlogging-yellow.md)).",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Gießen Sie das Wasser langsam ein, bis es durch den Boden abläuft."
+                },
+                {
+                  "title": "Wenn der Boden so trocken ist, dass er Wasser abweist: Stellen Sie den Topf 30 Minuten lang in einen Wasserkorb, um von unten durchzuweichen."
+                },
+                {
+                  "title": "Entfernen Sie vollständig abgestorbene Blätter"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "L08": {
+        "name": "Wasserüberflutung",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Bewässern Sie nur, wenn der oberste Boden trocken ist."
+                },
+                {
+                  "title": "Verwenden Sie Töpfe mit Drainagelöchern"
+                },
+                {
+                  "title": "Verwenden Sie einen hochwertigen Blumendünger; billiger Bodenkompressor wird nass und bleibt so."
+                },
+                {
+                  "title": "Lassen Sie keine Töpfe in Schalen mit Wasser stehen"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Die unteren Blätter werden gelb und dann schwarz, der Boden ist ständig feucht.",
+        "symptomAnalysis": "Zu viel Wasser verdunstet den Sauerstoff im Boden und erstickt die Wurzeln. Verrottete Wurzeln können kein Wasser mehr aufnehmen, so dass die Blätter oben Trockenheitssymptome zeigen, während sie in nassem Boden stehen. Die Pflanze schneidet zuerst die unteren Blätter zurück, um die Nachfrage zu verringern.\n\nWenn sie unbehandelt bleibt, breitet sich die Fäule aus und die Pflanze stirbt. Sie kann auch als weiche, schwarz verfärbte, verrottende Blätter erscheinen, anstatt nur gelb - dieselbe Ursache, aber fortgeschrittener.\n\nFür das Symptom am Wurzelende siehe [R01 - Wurzelfäule](../05_roots/root-rot.md).",
+        "treatment": {
+          "groups": [
+            {
+              "label": "Für leichte Fälle (nur gelbwerden)",
+              "steps": [
+                {
+                  "title": "Stellen Sie das Gießen ein, bis die obersten 2 Zoll Erde trocken sind"
+                },
+                {
+                  "title": "Wenn Sie drinnen sind, bewegen Sie sich in Richtung besserer Luftzirkulation"
+                },
+                {
+                  "title": "Schneiden Sie die schlimmsten gelben Blätter ab"
+                }
+              ]
+            },
+            {
+              "label": "Für schwere Fälle (Verfärbung, Verrottung)",
+              "steps": [
+                {
+                  "title": "Aus dem Topf nehmen und die Wurzeln inspizieren"
+                },
+                {
+                  "title": "Entfernen Sie verrottete Wurzeln"
+                },
+                {
+                  "title": "Umtopfen in frische, trockene Erde mit Drainage"
+                },
+                {
+                  "title": "Schneiden Sie bis zu 1/3 der gesunden Blätter zurück, um den Wasserbedarf zu reduzieren."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "L09": {
+        "name": "Gelb veraltet und trocken",
+        "shortDescription": "Einige Basalblätter verblassen bei einer gesunden Pflanze",
+        "symptomAnalysis": "Dies ist normales Altern. Pflanzen entsorgen ihre ältesten Blätter periodisch. Gelbwerden, das sich auf die niedrigsten Blätter einer ansonsten gesunden Pflanze beschränkt - ohne Flecken, keine Schädlinge, keine Verfärbung, keinen weit verbreiteten Effekt - bedeutet, dass die Pflanze einfach ihre Blätter rotiert.\n\nDifferenziert sich von Unterbewässerung: Trockengelbwerden betrifft nur 1-3 niedrigste Blätter gleichzeitig, und Ersatzpflanzen wachsen normal darüber. Unterbewässerung gelbt viele Blätter gleichzeitig und der Boden ist trocken bis zum zweiten Knöchel.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Zupfen Sie die gelben Blätter ab, sobald sie vollständig trocken sind."
+                },
+                {
+                  "title": "Lassen Sie nicht fallen gelassene Blätter im Boden stehen"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "L10": {
+        "name": "Allgemeine Chlorose",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Regelmäßiges Füttern während der Wachstumsperiode"
+                },
+                {
+                  "title": "Konsistente Bewässerung"
+                },
+                {
+                  "title": "Testen Sie den pH-Wert des Bodens alle paar Jahre"
+                },
+                {
+                  "title": "Verwenden Sie einen hochwertigen Blumendünger für Zimmerpflanzen"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Die gesamte Pflanze wird gelb - Nährstoffmangel",
+        "symptomAnalysis": "Chlorose bedeutet, dass die Blätter nicht genug Chlorophyll produzieren können. Ursachen:\n\n- **Stickstoffmangel (N)** - ältere Innenseitenblätter werden zuerst gelb; breitet sich nach außen aus, wenn es schwerwiegend ist.\n- **Kaliummangel (K)** - Blattränder braun und zerknittert, mit einem gelben Rand direkt darunter.\n- **Zinkmangel** - Verfärbung der Blattbasis.\n- **Kupfer / Bor** - jüngere Blätter werden zuerst gelb; das Laub wird spröde.\n\nFür bestimmte Muster:\n\n- Gelb zwischen den Blutgefäßen, die Blutgefäße bleiben grün → [L11 - Eisenmangel](iron-deficiency.md)\n- Gelbe Gefäße, Blattsaftgrün → [L12 - Gefäßchlorose](veinal-chlorosis.md)\n\nUrsachen für die Unverfügbarkeit von Nährstoffen sind beispielsweise ein tatsächlicher Mangel im Boden, Wurzelschäden und ein falsches Boden-pH-Wert.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Tragen Sie je nach Etikett einen ausgewogenen Dünger auf."
+                },
+                {
+                  "title": "Oder Blattfutter für eine schnelle Aufnahme"
+                },
+                {
+                  "title": "Testen Sie den pH-Wert des Bodens, wenn die regelmäßige Fütterung nicht hilft."
+                },
+                {
+                  "title": "Fügen Sie Kompost hinzu; liefert Mikronährstoffe und verbessert die Bodenstruktur"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "L11": {
+        "name": "Eisenmangel",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Testen Sie den Boden vor dem Pflanzen"
+                },
+                {
+                  "title": "Bei alkalischen Böden wählen Sie tolerante Pflanzen vor saureliebenden Pflanzen."
+                },
+                {
+                  "title": "Pflegen Sie die Bodenluftzirkulation durch regelmäßiges Kompostieren"
+                },
+                {
+                  "title": "Überprüfen Sie nicht die Gartenbeete; erhöht den pH-Wert"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Gelb zwischen den Gefäßen, die Gefäße bleiben grün (zwischengefäßlich)",
+        "symptomAnalysis": "Klassische interveinale Chlorose. Eisen ist für die Bildung von Chlorophyll erforderlich, und die Blätter können kein neues Pigment ohne es synthetisieren. Oft ist der Boden reich an Eisen, aber die Pflanze kann es nicht aufnehmen, weil der Boden-pH-Wert zu hoch (alkalisch) oder verdichtet ist.\n\nHäufig in Zitrusfrüchten, Blaubeeren, Hortensien, Gartenias und vielen Zierpflanzen auf alkalischen Böden.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Blattspray mit chelatiertem Eisen"
+                },
+                {
+                  "title": "Tragen Sie chelatiertes Eisen auf den Boden auf, um eine langfristige Korrektur zu erzielen"
+                },
+                {
+                  "title": "pH-Wert testen"
+                },
+                {
+                  "title": "Fügen Sie Kompost oder andere organische Stoffe hinzu; hilft, Eisen verfügbar zu machen"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "L12": {
+        "name": "Venöse Chlorose",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Periodische Bodenuntersuchungen"
+                },
+                {
+                  "title": "Verwenden Sie ausgewogene Dünger, nicht solche mit nur einem Nährstoff, es sei denn, ein Test zeigt das Gegenteil."
+                },
+                {
+                  "title": "Verbessern Sie das Abfließen und die Belüftung mit Kompost und organischem Mulch"
+                },
+                {
+                  "title": "Überprüfen Sie neue Pflanzen auf virusartige Symptome, bevor Sie sie in den Garten bringen."
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Die Gefäße werden gelb, der Rest des Blattes bleibt grün",
+        "symptomAnalysis": "Venöse Chlorose ist seltener als interveinale. Ursachen sind unter anderem:\n\n- **Magnesium- oder Kupfermangel**\n- **Bodendruck** verhindert die Aufnahme von Nährstoffen durch die Wurzeln\n- **Mosaikviren oder Pflanzenkrankheiten**, die den Nährstofftransport beeinträchtigen\n- **Kältebelastung auf Zitrusfrüchte** während der kühlen Jahreszeiten (entsteht oft durch Wärme)\n\nWeniger spezifisch als Eisenmangel, daher beginnt die Diagnose in der Regel mit einem Bodenuntersuchung.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Erst den Boden testen"
+                },
+                {
+                  "title": "Basierend auf dem Test, wenden Sie das richtige fehlende Nährstoff an"
+                },
+                {
+                  "title": "Entfernen Sie den komprimierten Boden mit einem Gabel; mischen Sie Kompost ein, um die Luftzirkulation zu verbessern."
+                },
+                {
+                  "body": "Viren heilen nicht.",
+                  "title": "Wenn ein Mosaikvirus vermutet wird: [S43](../shared/treatment-steps.md#s43-discard-the-severely-infected-plant)"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "L13": {
+        "name": "Unzureichendes Licht",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Pass die Pflanzenpflanze von Anfang an an ihre Lichtbedürfnisse an."
+                },
+                {
+                  "title": "Verwenden Sie im Winter oder in dunklen Räumen ein Wachstumslicht."
+                },
+                {
+                  "title": "Richten Sie Zimmerpflanzen jede Woche um 90 Grad neu aus."
+                },
+                {
+                  "title": "Überbefüllen Sie nicht Pflanzen im Freien"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Blasses, langbeiniges Wachstum, das nach Licht greift (Etiolation)",
+        "symptomAnalysis": "Etiolierung tritt auf, wenn eine Pflanze in schwachem Licht wächst. Sie produziert Etioplasten anstelle von Chlorophyll und die Stängel werden unnatürlich lang, da die Pflanze versucht, das Licht zu erreichen. Das Ergebnis ist ein bleiches, schwaches Wachstum, das anfälliger für Krankheiten und Schädlinge ist.\n\nHäufig bei: Zimmerpflanzen, die zu weit von einem Fenster entfernt stehen, Jungpflanzen unter unzureichenden Wachstumsleuchten, Außenpflanzen, die von überwachsenden Nachbarn beschattet werden.",
+        "treatment": {
+          "groups": [
+            {
+              "label": "Für Zimmerpflanzen",
+              "steps": [
+                {
+                  "title": "Bewegen Sie sich schrittweise zu einem nach Süden oder Westen ausgerichteten Fenster"
+                },
+                {
+                  "title": "Wenn natürliches Licht nicht verfügbar ist, fügen Sie ein Wachstumslicht mit einem 12-14-Stunden-Timer hinzu."
+                },
+                {
+                  "title": "Richten Sie den Topf jede Woche neu aus, damit die Pflanze gleichmäßig wächst."
+                }
+              ]
+            },
+            {
+              "label": "Für Pflanzen im Freien",
+              "steps": [
+                {
+                  "title": "Schneiden Sie die umliegenden Pflanzen zurück, die um Licht konkurrieren."
+                },
+                {
+                  "title": "Versetzen Sie die Topfpflanzen an einen sonnigeren Ort"
+                },
+                {
+                  "title": "Zierliche, langbeinige Triebe zurückzuschneiden"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "L14": {
+        "name": "Bakterielle Blattfäule",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Entfernen Sie am Ende der Saison Pflanzenreste."
+                },
+                {
+                  "title": "Vermeiden Sie Bewässerung über Kopf"
+                },
+                {
+                  "title": "Mulch, um Bodenspritzer auf die Blätter zu verhindern"
+                },
+                {
+                  "title": "Sterilisieren Sie Werkzeuge immer zwischen den Pflanzen"
+                },
+                {
+                  "title": "**Garten Sie nicht, wenn die Pflanzen nass sind.** Bakterien übertragen sich leicht über nasse Blätter."
+                },
+                {
+                  "title": "Die Fruchtfolge unterbricht die Ansammlung von Bakterien"
+                },
+                {
+                  "title": "Präventiver Kupferspray im frühen Frühjahr"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Weiche, stinkende verrottende Blätter",
+        "symptomAnalysis": "Die bakterielle Blattfäule wird durch verschiedene Bakterien verursacht, die durch Wunden, Stomata (bei nassem Wetter) oder durch verschütteten Boden eindringen. Sobald sie sich im Inneren befinden, vermehren sich die Bakterien schnell und zerstören gesundes Gewebe. Am häufigsten bei feuchten, warmen Bedingungen.\n\nBreitet sich schnell zwischen Pflanzen aus, wenn sie nicht behoben werden. Unterscheidet sich von Pilzinfektionen in der weichen, wässrigen, stinkenden Natur der Rote.",
+        "treatment": {
+          "groups": [
+            {
+              "label": "Für leichte Fälle",
+              "steps": [
+                {
+                  "title": "Schneiden Sie die betroffenen Blätter zurück auf sauberes Gewebe"
+                },
+                {
+                  "title": "Sterilisieren Sie zwischen jedem Schnitt"
+                },
+                {
+                  "title": "Tragen Sie Kupferbakterizid auf den verbleibenden Laub und den umliegenden Boden auf."
+                }
+              ]
+            },
+            {
+              "label": "Für schwere Fälle (>50 % Betroffene)",
+              "steps": [
+                {
+                  "title": "Entfernen und entsorgen Sie die Pflanze"
+                },
+                {
+                  "title": "Behandeln Sie den umliegenden Boden und die benachbarten Pflanzen mit Kupferbakterizid."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "L15": {
+        "name": "Blattdeformität",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Stabile Düngung"
+                },
+                {
+                  "title": "Überwachen Sie auf Schädlinge und behandeln Sie sie frühzeitig"
+                },
+                {
+                  "title": "Konsistente Bewässerung"
+                },
+                {
+                  "title": "Verschützen vor Frost"
+                },
+                {
+                  "body": "Herbizidabwärme kann mit dem Wind hunderte von Metern weit schweifen.",
+                  "title": "Vermeiden Sie den Einsatz von Herbiziden in der Nähe von Gartenpflanzen"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Verformte, gestreckte, kuppe oder verdrehte Blätter",
+        "symptomAnalysis": "Mehrere Ursachen:\n\n- **Insektenschäden** - Milben, Blattläuse und andere Saftsauger machen Pflanzen anfällig für Viren, die das Wachstum verzerren. Gallen (aufstehende Wachstumsschwünge) stammen von Gallenbildenden Insekten - siehe [L16](leaf-gall.md).\n- **Herbizid-Drift** - selbst geringe Exposition gegenüber Rasen- oder Einfahrtswegherbiziden führt zu charakteristischen, schmalen, verzerrten neuen Blättern und Kupplung.\n- **Kältebeschädigung in der Knospenphase** - Frost während der Blütezeit verursacht lebenslange Verzerrungen in diesen Blättern.\n- **Wasserschutz** - zu viel oder zu wenig Wasser während der Wachstumsphase verzerrt die Blätter.\n- **Nährstoffmangel** - Mangel an Bor, Kalzium und Molybdän führt zu Verwachsungsstörungen.\n\nSchauen Sie sich an, wo die Verformung ist (nur neue Blätter? nur einige Pflanzen?) um sie zu beschränken.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Entfernen Sie verformte Blätter, damit die Pflanze ihre Energie auf neue stecken kann."
+                },
+                {
+                  "body": "- Schädlinge sichtbar → siehe [02_pests/](../02_pests/) und behandeln - Alle Pflanzen in einer Reihe betroffen → Herbizidabfluss; Exposition beseitigen - Nur nach einem Frost → Kälteschäden; warten Sie ab - Bei gelbenden Blätter → siehe [L10 - Allgemeine Chlorose](chlorosis-fertilizer.md)",
+                  "title": "Identifizieren Sie die Ursache:"
+                },
+                {
+                  "title": "Verwenden Sie einen ausgewogenen Dünger, wenn die Nährstoffe verdächtig sind."
+                },
+                {
+                  "title": "Entfernen Sie Pflanzen mit viralen Mosaikmustern"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "L16": {
+        "name": "Blattgall",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Fallen Blätter auffegen"
+                },
+                {
+                  "title": "Überdüngen Sie nicht"
+                },
+                {
+                  "title": "Bewässern Sie die Pflanzen gut, um Dürrstress zu vermeiden."
+                },
+                {
+                  "title": "Verwenden Sie im frühen Frühjahr ein ruhendes Gartenöl, um Überwinterungsinsekten an Holzpflanzen zu bekämpfen."
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Anormal auffällige, kuppe Wucherungen auf den Blättern",
+        "symptomAnalysis": "Gallen bilden sich, wenn Pflanzengewebe abnormal wächst als Reaktion auf:\n\n- **Saftsaugende Insekten** - Milben, Blattläuse, Gallwespen legen Eier oder fressen in den Blättern.\n- **Bakterielle oder Pilzinfektion** - einige Erreger auslösen Gallenbildung.\n\nDie Gallen selbst schädigen die Pflanze normalerweise nicht ernsthaft. Die zugrunde liegende Ursache könnte dies tun. Gallen sind am häufigsten an neuen Wuchsen und nach leichten Wintern zu finden, die die Gallenmacher nicht getötet haben.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Entfernen Sie gelben Blätter und Äste"
+                },
+                {
+                  "title": "Zwischen den Schnitten sterilisieren"
+                }
+              ]
+            },
+            {
+              "label": "Für weit verbreitete Gallen, die durch Milben oder Aphiden verursacht werden",
+              "steps": [
+                {
+                  "title": "Insektizides Seife"
+                },
+                {
+                  "title": "Neemöl"
+                }
+              ]
+            },
+            {
+              "label": "Für Gallen, die durch bakterielle oder Pilzinfektionen verursacht werden",
+              "steps": [
+                {
+                  "title": "Kupfer-Fungizid/Bakterizid im Frühjahr"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "L17": {
+        "name": "Niedrige Luftfeuchtigkeit",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Halten Sie für tropische Pflanzen eine Luftfeuchtigkeit von 40-60 % im Innenraum aufrecht."
+                },
+                {
+                  "title": "Bewegen Sie empfindliche Pflanzen weg von Heizlüftungsöffnungen und Klimaanlagenlüften"
+                },
+                {
+                  "title": "Gruppieren Sie feuchtigkeitsliebende Pflanzen zusammen; sie schaffen ihr eigenes Mikroklima."
+                },
+                {
+                  "title": "Verwenden Sie ein Hygrometer zur Überwachung"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Blattränder krümmend, braune knusprige Spitzen",
+        "symptomAnalysis": "Wenn die Luft zu trocken ist, verlieren die Blätter schneller Wasser als die Wurzeln es ersetzen können. Die Pflanze wickelt ihre Blätter ein, um die Transpiration zu reduzieren. Spitzen und Ränder, wo das Wasser zuletzt ankommt, trocknen zuerst aus.\n\nHäufige Ursachen: Heizung im Winter, Klimaanlage im Sommer, trockene Klimazonen. Tropische Pflanzen (Calatheas, Farn, Fiddle-Leaf-Figur, Friedenskraut, Gebetspflanze) sind besonders empfindlich.\n\nDifferenziert sich von Unterbewässerung: Niedrige Luftfeuchtigkeit führt zu Locken und braunen Spitzen, auch wenn der Boden feucht ist. Unterbewässerung trocknet auch den Boden aus.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Täglich besprühen, Pflanzen zusammen gruppieren, einen Kiesträger verwenden oder einen Luftbefeuchter laufen lassen"
+                },
+                {
+                  "title": "Trimmen Sie braune Spitzen mit Schere für Kosmetika"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "L18": {
+        "name": "Pfirsichblatt-Locken",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Kupferfongizid auftragen"
+                },
+                {
+                  "title": "Kaufen Sie widerstandsfähige Sorten (z. B."
+                },
+                {
+                  "title": "Fallen Blätter auffegen"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Neue Blätter krümmen, werden rot und knurren (pilzartig)",
+        "symptomAnalysis": "Eine Pilzinfektion (*Taphrina deformans*) die sich im Frühjahr auf die aufspringenden Blätter ausbreitet. Der Pilz stimuliert ein schnelles, unordnungsmäßiges Zellwachstum und erzeugt die aufgeblähten, verzerrten Blätter. Sporen überleben den Winter auf der Rinde und in ruhenden Knospen. Kühle, feuchte Frühlingsmonate verschärfen die Ausbrüche; warmes, trockenes Wetter unterdrückt den Pilz.\n\nSchwer infizierte Bäume verlieren einen Großteil ihres ersten Laubschusses. Gesunde zweite Laubschüsse wachsen normalerweise uninfiziert zurück.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Schneiden Sie stark gebogene Zweige zurück"
+                },
+                {
+                  "title": "Kupferfongizid auftragen"
+                },
+                {
+                  "title": "Bewahren Sie die Bewässerung während der Genesung gleichmäßig auf."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "L19": {
+        "name": "Schusslochkrankheit",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Rasen Sie regelmäßig fallen gelassene Blätter und Schutt weg"
+                },
+                {
+                  "title": "Präventiver Kupferspray im späten Winter und frühen Frühling"
+                },
+                {
+                  "title": "Pflege für den Luftstrom"
+                },
+                {
+                  "title": "Entfernen Sie stark erkrankte Bäume, die nicht wieder gesund werden werden."
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Braune Flecken, die austrocknen und abfallen und kleine Löcher hinterlassen",
+        "symptomAnalysis": "Ursache einer Kombination aus Pilz (*Wilsonomyces carpophilus*) und Bakterien. Häufig bei Steinobstbäumen - Kirsche, Pfirsich, Aprikose, Pflaume - und bei Lorbeerbäumen und einigen Zierpflanzen. Wachst im heißen, feuchten Wetter.\n\nDie Schäden sind meist ästhetisch, können aber in schlechten Jahren zu einer erheblichen Verfärbung der Blätter führen. Tötet die Pflanzen nicht direkt, sondern schwächt sie.",
+        "treatment": {
+          "groups": [
+            {
+              "label": "Für leichte Fälle",
+              "steps": [
+                {
+                  "title": "Entfernen Sie erkrankte Blätter sofort, bei trockenem Wetter."
+                },
+                {
+                  "title": "Fallen Laub auffegen"
+                }
+              ]
+            },
+            {
+              "label": "Für schwere Fälle (viele Löcher, Blattabfall)",
+              "steps": [
+                {
+                  "title": "Krankhafte Blätter und abgestorbene Blätter entfernen und den Boden säubern."
+                },
+                {
+                  "title": "Tragen Sie wöchentlich Kupfer-Fungizid bei Frühlingsschäden auf."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "L20": {
+        "homeRemedies": [
+          {
+            "ingredients": [
+              {
+                "name": "Natron",
+                "quantity": "1 TL"
+              },
+              {
+                "name": "Spülmittel",
+                "quantity": "1 TL"
+              },
+              {
+                "name": "Wasser",
+                "quantity": "1 qt"
+              }
+            ]
+          },
+          {
+            "ingredients": [
+              {
+                "name": "Milch",
+                "quantity": "1 Teil"
+              },
+              {
+                "name": "Wasser",
+                "quantity": "9 Teile"
+              }
+            ]
+          },
+          {
+            "ingredients": [
+              {
+                "name": "Aspirin",
+                "quantity": "1 Tablette"
+              },
+              {
+                "name": "Wasser",
+                "quantity": "1 Gal"
+              },
+              {
+                "name": "Spülmittel",
+                "quantity": "Ein paar Tropfen"
+              }
+            ]
+          }
+        ],
+        "name": "Pulveriger Mehltau",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Wählen Sie säureresistenten Sorten"
+                },
+                {
+                  "title": "Breite Abstände für den Luftstrom"
+                },
+                {
+                  "title": "Drip-Bewässerung"
+                },
+                {
+                  "title": "Entfernen Sie vor dem Winter den Schlamm."
+                },
+                {
+                  "title": "Präventive Sprühung auf anfällige Pflanzen"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Weißer Pulverbeschlag auf der Blattoberfläche, abwischt",
+        "symptomAnalysis": "Eine Pilzfamilie, die die meisten Pflanzen betrifft. Ungewöhnlich für einen Pilz gedeiht er in warmen, trockenen Bedingungen mit feuchten Nächten - im Gegensatz zu den meisten Krankheiten. Die Mitte bis späte Sommer ist die Hochsaison. Der weiße Pulver ist der Pilz, der auf der Oberfläche wächst und die Blätter nicht durchdringt.\n\nTötet selten den Wirt, reduziert aber Vitalität und Ertrag. Schwere Fälle verzerren Blätter und Früchte.\n\nFür Pulvermehlflecken auf Obst siehe [FR06](../04_fruits/powdery-mildew-fruit.md).",
+        "treatment": {
+          "groups": [
+            {
+              "label": "Für leichte oder isolierte Fälle",
+              "steps": [
+                {
+                  "title": "Behandelte Blätter und Stängel abschneiden"
+                },
+                {
+                  "title": "Öffnen Sie den Luftstrom durch selektive Beschneidung"
+                }
+              ]
+            },
+            {
+              "label": "Für weit verbreitete Fälle",
+              "steps": [
+                {
+                  "title": "Schneiden Sie stark betroffene Blätter zurück"
+                },
+                {
+                  "title": "Tragen Sie wöchentlich Kupfer-Fungizid auf"
+                },
+                {
+                  "title": "Versetzen Sie die Pflanzen in Töpfen an einen helleren, sonnigeren Ort."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "L21": {
+        "name": "Aschige Schimmel",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "body": "Der Schimmel ist ein Nachweis für eine schlechtere Gesundheit.",
+                  "title": "Behandeln Sie Saftsauger, sobald sie auftauchen."
+                },
+                {
+                  "title": "Überdüngen Sie nicht"
+                },
+                {
+                  "title": "Fördern Sie natürliche Raubtiere"
+                },
+                {
+                  "title": "Stoppen Sie Ameisen an den Baumstämmen mit Klebeband - sie schützen Honigdew produzierende Schädlinge vor Raubtieren"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Schwarzes, aschartiges Beschlag auf Blättern unter Saftsauger",
+        "symptomAnalysis": "Schwarzer Schimmel wird durch in die Luft getragenen Pilzsporen verursacht, die auf den klebrigen Honigdew landen, der von sapsaugenden Insekten - Aphiden, Weißfliegen, Schuppen, Melanzanfliegen - ausgeschieden wird. Der Pilz ernährt sich vom Honigdew, nicht der Pflanze. Er ist direkt für die Pflanze ungefährlich, aber die schwarze Beschichtung blockiert das Sonnenlicht und reduziert die Photosynthese.\n\nDas eigentliche Problem ist nicht der Schimmel; es ist die Insektenbefall, die den Honigdew verursacht. Behandeln Sie die Schädlinge, der Schimmel verschwindet mit dem nächsten Regen.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "body": "- Aphiden → [P02](../02_pests/aphids.md) - Weißfliegen → [P15](../02_pests/whiteflies.md) - Schuppen → [P03](../02_pests/scale-insects.md) - Melanzanapflanzenkäfer → [P04](../02_pests/mealybugs.md)",
+                  "title": "**Identifizieren und behandeln Sie den zugrunde liegenden Schädling** - siehe den entsprechenden Eintrag in [02_pests/](../02_pests/):"
+                },
+                {
+                  "title": "Wischen Sie die Blätter mit einem nassen Seifenbezug ab, um den sichtbaren Schimmel zu entfernen."
+                },
+                {
+                  "title": "Ein starker Wassersprühe beseitigt sowohl Schädlinge als auch Rückstände."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "L22": {
+        "name": "Rost",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Kaufen Sie rostbeständige Sorten"
+                },
+                {
+                  "title": "Überprüfen Sie neue Pflanzen auf orangefarbene Flecken"
+                },
+                {
+                  "title": "Drip-Bewässerung am Morgen"
+                },
+                {
+                  "title": "Breiter Abstand"
+                },
+                {
+                  "title": "Stark mulchen"
+                },
+                {
+                  "title": "Räumung von Trümmern im Herbst"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Orange oder rötlichbraune aufstehende Pickel auf den Blättern",
+        "symptomAnalysis": "Rost wird durch Tausende verschiedener Pilzarten der Ordnung *Pucciniales* verursacht. Sie gedeihen in warmen, feuchten Bedingungen. Sporen breiten sich durch Wind und Wasser aus. Die meisten Rostarten haben komplexe Lebenszyklen, die zwei Wirtspflanzen umfassen.\n\nTötet selten, schwächt aber Pflanzen und reduziert die Ernte. Häufig bei Rosen, Hortensien, Schmetterlingstränken, Bohnen, Taglilien, Wacholder, Äpfeln, Birnen.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Rostige Blätter abschneiden"
+                },
+                {
+                  "title": "Tragen Sie wöchentlich Kupfer-Fungizid auf"
+                },
+                {
+                  "title": "Stoppen Sie sofort die Bewässerung über Kopf"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "L23": {
+        "homeRemedies": [
+          null,
+          {
+            "ingredients": [
+              {
+                "name": "Natron",
+                "quantity": "1 TL"
+              },
+              {
+                "name": "Spülmittel",
+                "quantity": "1 TL"
+              },
+              {
+                "name": "Wasser",
+                "quantity": "1 qt"
+              }
+            ]
+          }
+        ],
+        "name": "Grauer Schimmel (Botrytis)",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Breite Abstände für den Luftstrom"
+                },
+                {
+                  "title": "Keine überhöhte Wasserbelastung"
+                },
+                {
+                  "title": "Seien Sie vorsichtig, um Pflanzen nicht zu verletzen - Wunden locken den Pilz an"
+                },
+                {
+                  "title": "Gartenwerkzeuge sterilisieren"
+                },
+                {
+                  "title": "Präventive Kupfergabe im frühen Frühjahr bei anfälligen Pflanzen"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Graubrauner, flauschiger Schimmel auf beschädigten oder nassen Blättern",
+        "symptomAnalysis": "Verursacht durch *Botrytis cinerea*, eine häufige Pilzart, die sich an kühlen, feuchten, stillen Bedingungen bevorzugt. Er ernährt sich zunächst von sterbendem und beschädigtem Gewebe, bevor er sich in gesundes Gewebe ausbreitet. Sporen werden durch Wasserspritzer und Wind verbreitet.\n\nErdbeeren, Pfingstrosen, Rosen, Salat und viele Zierpflanzen sind häufige Wirtspflanzen. Oft als \"edelreifer Pilz\" auf Trauben verwendet, die für süße Weine verwendet werden, aber auf den meisten Pflanzen ist er zerstörerisch.\n\nFür Botrytis auf Blumen siehe [FL05 - Blütenblattfäule](../06_flowers/petal-blight.md).",
+        "treatment": {
+          "groups": [
+            {
+              "label": "Für leichte Fälle",
+              "steps": [
+                {
+                  "title": "Schneiden Sie das betroffene Gewebe zurück auf sauberes Holz"
+                },
+                {
+                  "title": "Zwischen den Schnitten sterilisieren"
+                },
+                {
+                  "title": "Mulch, um Sporenspritzer zu verhindern"
+                }
+              ]
+            },
+            {
+              "label": "Für schwere Fälle",
+              "steps": [
+                {
+                  "title": "Entfernen Sie alle betroffenen Gewebe"
+                },
+                {
+                  "title": "Entfernen Sie alle Trümmer rund um die Pflanze"
+                },
+                {
+                  "title": "Tragen Sie Kupfer-Fungizid alle 1-2 Wochen auf."
+                },
+                {
+                  "title": "Lassen Sie die Pflanze zwischen den Bewässerungen trocknen"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "L24": {
+        "name": "Saftsaugende Schäden",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Überprüfen Sie neue Pflanzen auf Flecken und Unterseiten"
+                },
+                {
+                  "title": "Überdüngen Sie nicht mit Stickstoff."
+                },
+                {
+                  "title": "Lebensraum für Raubinsekten erhalten"
+                },
+                {
+                  "title": "Unkraut und Schutt entfernen"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Kleine dichte gelbe oder weiße Punktflecken",
+        "symptomAnalysis": "Verursacht von Saftsaugerinsekten - Blattläusen, Weißfliegen, Blattläuse, Schleierläuse, Milben, Mehlkäfer, Thrips - die durch das Blattgewebe eindringen und den Zellinhalt saugen. Jeder Stich hinterlässt einen winzigen, blassen Punkt (\"Stippeln\"). Bei vielen Futterern verschmelzen die Punkte zu einem bronzenen oder silbernen Aussehen.\n\nDie Blätter töten die Pflanze nicht direkt, aber die Flecken schwächen sie und viele dieser Insekten verbreiten auch Pflanzenviren.\n\nDieser Eintrag behandelt das Blattsyndrom. Für den spezifischen Schädling, der es verursacht, siehe [02_pests/](../02_pests/).",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "body": "Passend zu: - Kleine Punkte + Webstrukturen → [P05 — Spinnmilben](../02_pests/spider-mites.md) - Pfirsichförmige weiche Körper in Gruppen → [P02 — Aphiden](../02_pests/aphids.md) - Weiße, faltenartige Fliegen → [P15 — Weißfliegen](../02_pests/whiteflies.md) - Zierlich gefiederte Tiere mit schwarzen Punkten darunter → [P11 — Schleierkäfer](../02_pests/lace-bugs.md) - Keilförmige Sprünge → [P12 — Blattläuse](../02_pests/leafhoppers.md) - Schlank mit silbernen Streifen → [P10 — Thrips](../02_pests/thrips.md)",
+                  "title": "**Identifizieren Sie den Schädling** - wenden Sie die Blätter um und suchen Sie nach winzigen Insekten unter den Blättern oder in den Verbindungen."
+                },
+                {
+                  "title": "Sprühen Sie Schädlinge mit einem Schlauch ab"
+                },
+                {
+                  "title": "Insektizides Seife"
+                },
+                {
+                  "title": "Entfernen Sie Marienkäfer und Schmetterlingsflügler"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "P01": {
+        "name": "Raupen",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Bedecken Sie die Pflanzen mit Netzvorhängen, bevor die Erwachsenen ankommen."
+                },
+                {
+                  "title": "Überprüfen Sie regelmäßig die Unterseiten der Blätter auf Ansammlungen kleiner Eier."
+                },
+                {
+                  "title": "Fördern Sie parasitäre Wespen und Vögel"
+                },
+                {
+                  "title": "Entfernen Sie den Schutt, in dem die Puppen überwintern."
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Wurmartige, zerkauten Larven von Schmetterlingen und Schmetterlingsarten",
+        "symptomAnalysis": "Raupen fressen unregelmäßige Löcher in Blättern und können das Laub bis zur Nadelrippe abreißen. Einige sind auf bestimmte Pflanzen spezialisiert (Kohlweiß auf Brassicas, Hornkäfer auf Tomaten). Die meisten sind im Frühling und Sommer am aktivsten; einige Arten ernähren sich im Herbst und Winter.\n\nSie können zerkauten Blätter, dunkle Kotpellets (\"Frass\") und die Raupen selbst auf der Unterseite der Blätter sehen.",
+        "treatment": {
+          "groups": [
+            {
+              "label": "Für leichte Fälle",
+              "steps": [
+                {
+                  "title": "Kleine Raupen mit der Hand in Seifenwasser pflücken"
+                },
+                {
+                  "title": "Schneiden Sie stark beschädigte Blätter zurück"
+                }
+              ]
+            },
+            {
+              "label": "Für schwere Fälle",
+              "steps": [
+                {
+                  "title": "Bt anwenden"
+                },
+                {
+                  "title": "Parasitäre Wespen freisetzen"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "P02": {
+        "homeRemedies": [
+          null,
+          {
+            "ingredients": [
+              {
+                "name": "Spülmittel",
+                "quantity": "1 TL"
+              },
+              {
+                "name": "Wasser",
+                "quantity": "1 qt"
+              }
+            ]
+          }
+        ],
+        "name": "Aphiden",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Quarantäne und Inspektion neuer Pflanzen"
+                },
+                {
+                  "title": "Unkraut in der Nähe entfernen"
+                },
+                {
+                  "title": "Pflege das Lebensraum für Marienkäfer und Schmetterlingsfliegen"
+                },
+                {
+                  "title": "Überdüngen Sie nicht mit Stickstoff - weiches neues Wachstum zieht Blattläuse an"
+                },
+                {
+                  "title": "Überprüfen Sie das neue Wachstum häufig; fangen Sie es frühzeitig ein"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Weiche, pfirsichförmige Saftsauger, oft grün oder schwarz",
+        "symptomAnalysis": "Blattläuse stechen Pflanzengewebe an und saugen Pflanzensaft. Starker Befall lässt neue Triebe welken, verformt Blätter und hemmt das Pflanzenwachstum. Sie scheiden klebrigen Honigtau aus, der auf tiefer liegende Blätter tropft und auf dem schwarzer [Rußtau](../01_leaves/sooty-mold.md) wächst. Starke Ameisenaktivität ist ein Hinweis: Ameisen halten Blattläuse wegen ihres Honigtaus.\n\nBlattläuse vermehren sich extrem schnell (Lebendgeburten; während der Vegetationsperiode sind keine Eier erforderlich). Aus einer kleinen Kolonie wird innerhalb weniger Tage ein Befall. Außerdem übertragen sie Pflanzenviren.",
+        "treatment": {
+          "groups": [
+            {
+              "label": "Für leichte Fälle",
+              "steps": [
+                {
+                  "title": "Schnell abheben mit einem starken Wasserstrahl"
+                },
+                {
+                  "title": "Wischen Sie die Klüster mit einem nassen Seifenbezug ab."
+                }
+              ]
+            },
+            {
+              "label": "Für schwere Fälle",
+              "steps": [
+                {
+                  "title": "Insektizides Seife auf den Unterseiten der Blätter"
+                },
+                {
+                  "title": "Neemöl für hartnäckige Befallungen"
+                },
+                {
+                  "title": "Entfernen Sie Marienkäfer und Schmetterlingsflügler"
+                },
+                {
+                  "title": "Schneiden Sie stark befallene Spitzen ab"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "P03": {
+        "homeRemedies": [
+          null,
+          {
+            "ingredients": [
+              {
+                "name": "Spülmittel",
+                "quantity": "1 TL"
+              },
+              {
+                "name": "Wasser",
+                "quantity": "1 qt"
+              }
+            ]
+          }
+        ],
+        "name": "Schuppenkäfer",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Überprüfen Sie jede neue Anlage sorgfältig"
+                },
+                {
+                  "title": "Pflanzen gesund halten"
+                },
+                {
+                  "title": "Überprüfen Sie die Zimmerpflanzen monatlich, wobei Sie sich auf die Unterseiten der Blätter und die Stängelverbindungen konzentrieren."
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Harte oder weiche 2-3 mm große Knötchen, die sich an Blättern und Stängeln festsetzen",
+        "symptomAnalysis": "Schildläuse ernähren sich von Pflanzensaft. Sobald sie sich festgesetzt haben, bleiben sie lebenslang unbeweglich. Ihr harter oder weicher Wachspanzer schützt sie vor Spritzmitteln und Fressfeinden. Starker Befall führt zu Blattvergilbung, Blattfall und Absterben von Trieben.\n\nDas Wanderlarvenstadium (frisch geschlüpft, bevor sich die Tiere festsetzen) ist das einzige bewegliche Stadium und lässt sich am leichtesten mit Spritzmitteln bekämpfen. Klebriger Honigtau kann auftreten und sekundären [Rußtau](../01_leaves/sooty-mold.md) begünstigen.",
+        "treatment": {
+          "groups": [
+            {
+              "label": "Für leichte Fälle",
+              "steps": [
+                {
+                  "title": "Wischen Sie die Schuppen mit einem nassen Tuch ab."
+                },
+                {
+                  "title": "Schneiden Sie stark befallene Zweige zurück"
+                }
+              ]
+            },
+            {
+              "label": "Für schwere Fälle",
+              "steps": [
+                {
+                  "title": "Neemöl"
+                },
+                {
+                  "title": "Systemisches Insektizid für Krabben"
+                },
+                {
+                  "title": "Marienkäfer ernähren sich von Schuppen im Freien"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "P04": {
+        "name": "Mehlkäfer",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Quarantäne und Inspektion neuer Pflanzen für mindestens 2 Wochen"
+                },
+                {
+                  "title": "Überdüngen Sie nicht mit Stickstoff."
+                },
+                {
+                  "title": "Überprüfen Sie die Blattverbindungen und die Unterseiten von Zimmerpflanzen monatlich."
+                },
+                {
+                  "title": "Entfernen Sie den Schlamm um die Basis."
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Weiche weiße, pulverbare 1-2 mm große Insekten in Blattverbindungen",
+        "symptomAnalysis": "Mehlkäfer sind schuppenbezogene Saftsauger, die mit einer weißen wackeligen Beschichtung bedeckt sind, die Wasser und viele Sprays abweist. Sie leben in Gruppen und verstecken sich an geschützten Stellen - Blattschnittstellen, Bodenoberfläche, Stängelspalten. Honigdew führt zu [schwarzem Schimmel](../01_leaves/sooty-mold.md).\n\nEine häufige Schädling für Zimmerpflanzen, insbesondere bei Sukkulenten, Orchideen und tropischen Pflanzen.",
+        "treatment": {
+          "groups": [
+            {
+              "label": "Für leichte Fälle",
+              "steps": [
+                {
+                  "title": "Mit einem seifenigen Tuch abwischen"
+                },
+                {
+                  "title": "Sprühen Sie robuste Pflanzen mit einem starken Wasserstrahl aus einem starken Schlauch"
+                }
+              ]
+            },
+            {
+              "label": "Für schwere Fälle",
+              "steps": [
+                {
+                  "title": "Insektizides Seife"
+                },
+                {
+                  "title": "Neemöl"
+                },
+                {
+                  "title": "Systemisch, wenn Oberflächenbehandlungen fehlschlagen"
+                },
+                {
+                  "title": "Die Mehlkäferzerstörer (Cryptolaemus) sind spezialisierte Raubtiere."
+                },
+                {
+                  "title": "Bei stark befallenen Zimmerpflanzen sollten Sie sie entsorgen, anstatt die gesamte Sammlung zu riskieren."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "P05": {
+        "homeRemedies": [
+          null,
+          {
+            "ingredients": [
+              {
+                "name": "Spülmittel",
+                "quantity": "1 TL"
+              },
+              {
+                "name": "Wasser",
+                "quantity": "1 qt"
+              }
+            ]
+          }
+        ],
+        "name": "Spinnmilben",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Halten Sie die Luftfeuchtigkeit im Innenbereich über 40 % hoch"
+                },
+                {
+                  "title": "Überprüfen Sie neue Pflanzen auf Flecken und Webungen"
+                },
+                {
+                  "title": "Überdüngen Sie nicht"
+                },
+                {
+                  "title": "Sprühen Sie Pflanzen regelmäßig mit klarem Wasser, um die Milbenpopulationen zu stören."
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Kleine rote oder gelbe Milben, feine Webstruktur",
+        "symptomAnalysis": "Spinnmilben (technisch Arachniden) sind kaum sichtbar - etwa 1/50 Zoll. Sie ernähren sich von der Unterseite der Blätter, saugen den Zellinhalt heraus und hinterlassen winzige helle Punkte, die als \"Stippelung\" bezeichnet werden. Starke Befallungen weben Netzwerke auf der Unterseite und über Blattgelenke.\n\nSie gedeihen in heißen, trockenen, staubigen Bedingungen und vermehren sich explosionsartig (eine Generation alle 5-7 Tage bei warmem Wetter). Im Innenbereich sind sie im Winter am aktivsten, wenn die Heizung das Haus trocknet.",
+        "treatment": {
+          "groups": [
+            {
+              "label": "Für leichte Fälle",
+              "steps": [
+                {
+                  "title": "Starker Wassersprüheffekt, konzentriert auf die Unterseiten"
+                },
+                {
+                  "title": "Erhöhen Sie die Luftfeuchtigkeit um die Zimmerpflanzen herum"
+                }
+              ]
+            },
+            {
+              "label": "Für schwere Fälle",
+              "steps": [
+                {
+                  "title": "Insektizides Seife, auf den Unterseiten"
+                },
+                {
+                  "title": "Neemöl"
+                },
+                {
+                  "title": "Raubmilben (*Phytoseiulus persimilis*) arbeiten im Freien"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "P06": {
+        "name": "Blattkäfer",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Reihendecken von der Pflanzung bis zur Blüte"
+                },
+                {
+                  "title": "Entfernen Sie den Schlamm, wo Erwachsene überwintern."
+                },
+                {
+                  "title": "Fördern Sie natürliche Raubtiere mit vielfältigen Pflanzungen"
+                },
+                {
+                  "title": "Die Fruchtfolge unterbricht die Lebenszyklen von Käfern"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Ovalbeetler 1–20 mm kauen unregelmäßige Löcher",
+        "symptomAnalysis": "Eine breite Familie (*Chrysomelidae*) von Käfern, die Blätter fressen. Sie betreffen die meisten Gartenpflanzen und können schnell die Blätter ablösen. Viele ernähren sich auch von Blüten, Stängeln und Wurzeln. Am aktivsten sind sie von Frühling bis Herbst. Sie überwintern als Erwachsene unter der Rinde, den Blättern und dem Schutt.\n\nEinige Arten (Gurkenkäfer, Colorado-Kartoffelkakerlaken, Flöhekäfer) sind wichtige Gartenplagen; andere verursachen nur geringfügige kosmetische Schäden.",
+        "treatment": {
+          "groups": [
+            {
+              "label": "Für leichte Fälle",
+              "steps": [
+                {
+                  "title": "Mit der Hand in Seifenwasser pflücken (Nachmittag, wenn sie am aktivsten sind)"
+                },
+                {
+                  "title": "Decken Sie Pflanzen mit Reihenabdeckung ab"
+                }
+              ]
+            },
+            {
+              "label": "Für schwere Fälle",
+              "steps": [
+                {
+                  "title": "Neemöl"
+                },
+                {
+                  "title": "Pyrethrin abends zur Schützung von Bienen"
+                },
+                {
+                  "title": "Fördern Sie Vögel und Wespen mit vielfältigen Pflanzungen an"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "P07": {
+        "name": "Blattkäfer",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Überprüfen Sie die Jungpflanzen vor dem Pflanzen"
+                },
+                {
+                  "title": "Tauchen Sie die Wurzeln von Wurzellosen Jungbäumen in ein systemisches Insektizid ein, bevor Sie sie in stark besetzten Gebieten pflanzen."
+                },
+                {
+                  "title": "In Quarantänebehältern angebaute Jungpflanzen mit Schäden"
+                },
+                {
+                  "title": "Entfernen Sie den Bodenstaub unter den betroffenen Bäumen."
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Stark gepanzerte Käfer mit gekauten Blattränder",
+        "symptomAnalysis": "Die blassgrüne Schädling (*Polydrusus impressifrons*) und ähnliche Arten ernähren sich von den Blatträndern von Hartholzbäumen - Birke, Ahorn, Weide, Pappeln, Obstbäumen. Schäden zeigen sich Ende des Frühlings und Anfang des Sommers. Neugebrachte Larven ernähren sich von jungen Wurzeln in der Nähe der Bodennote.\n\nErwachsene Schädlinge haben eine kurze Fütterungsperiode (ein paar Wochen), so dass reife Bäume in der Regel die Schäden abwehren. Junge Bäume und Jungpflanzen sind anfälliger.",
+        "treatment": {
+          "groups": [
+            {
+              "label": "Bei schweren Befallungen junger Jungbäume",
+              "steps": [
+                {
+                  "title": "Pyrethrin-Blattspray"
+                },
+                {
+                  "title": "Systemisches Insektizid auftragen"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "P08": {
+        "name": "Langehornkäfer",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "body": "Stressige Bäume ziehen Käfer an.",
+                  "title": "Bewahren Sie Bäume gesund: gießen, düngen und Wunden vermeiden"
+                },
+                {
+                  "title": "Bewegen Sie nicht Brennholz zwischen Regionen - dies ist die häufigste Art, wie sich der asiatische Langhorn verbreitet."
+                },
+                {
+                  "title": "Überprüfen Sie neue Bäume auf Bohrlöcher oder Sägemehl."
+                },
+                {
+                  "title": "Schneiden Sie tote und sterbende Holzstücke sofort zurück, damit Käfer sich nicht ansiedeln können."
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Käfer mit langen Antennen bohren in holzige Stammwände",
+        "symptomAnalysis": "Longhornkäfer (*Cerambycidae*-Familie) sind Holzbohrer. Erwachsene legen Eier auf der Rinde; Larven schlüpfen und bohren sich in den Stamm ein, um 1-3 Jahre lang auf lebendes Holz zu fressen. Das Bohren schneidet den Wasser- und Nährstofffluss des Baumes ab. Sichtbare Anzeichen: kleine runde Ausgangslöcher, Sägemehl am Stammfuß, abgestorbene Äste von oben.\n\nSie bevorzugen verwundete, gestresste oder frisch geschnittene Harthölzer. Einige asiatische Arten sind eingeführte Schädlinge von großer Sorge (asiatische Langhornkäfer, Zitruslanghornkäfer).",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Tragen Sie gemäß der Etikette ein systemisches Insektizid auf wertvolle Bäume auf."
+                },
+                {
+                  "title": "In trockener Witterung stark befallene Zweige beschneiden und verbrennen"
+                },
+                {
+                  "title": "Melden Sie Beobachtungen von asiatischen Langhornkäfern bei Ihrer örtlichen Landwirtschaftsausbildung an - es handelt sich um eine regulierte invasive Art in den USA."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "P09": {
+        "name": "Schnecken und Schnecken",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Entfernen Sie Versteckplätze"
+                },
+                {
+                  "title": "Kupferband bildet eine Barriere, die Schnecken nicht überwinden können - wickeln Sie Töpfe und Hochbeete ein"
+                },
+                {
+                  "title": "Wasser am Morgen, damit die Pflanzen am Abend trocken sind"
+                },
+                {
+                  "title": "Fördern Sie natürliche Raubtiere (Frosch, Enten, Bodenkäfer)"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Weiche Mollusken kauen nachts Blätter",
+        "symptomAnalysis": "Schnecken fressen hauptsächlich nachts und an bewölkten oder regnerischen Tagen und verstecken sich tagsüber unter Brettern, Felsen und dichten Büschen. Sie bevorzugen feuchte Bedingungen und können Jungpflanzen vollständig verschlingen. Die Eier werden in Gruppen in feuchter Erde abgelegt.\n\nEine kleine Anzahl ist in Ordnung; eine Population kann einen Gemüsegarten oder eine Hostabett innerhalb einer Woche dezimieren.",
+        "treatment": {
+          "groups": [
+            {
+              "label": "Für leichte Fälle",
+              "steps": [
+                {
+                  "title": "Abends mit einem Taschenlichtmesser handwerklich pflücken"
+                },
+                {
+                  "title": "Klares Versteck - Bretter, Steine, dichte Unkrautbedeckung"
+                },
+                {
+                  "body": "Heben Sie sie am Morgen auf, um Schnecken zu finden, die darunter versteckt sind.",
+                  "title": "Platzieren Sie kleine Bretter im Garten als Fallen"
+                }
+              ]
+            },
+            {
+              "label": "Für schwere Fälle",
+              "steps": [
+                {
+                  "body": "Am Abend um Pflanzen verteilen.",
+                  "title": "Eisenphosphat-Schneckenköder (verkauft als Sluggo, Escar-Go) ist für Haustiere und Vögel sicherer als Köder auf Basis von Metaldehyd."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "P10": {
+        "homeRemedies": [
+          {
+            "ingredients": [
+              {
+                "name": "Spülmittel",
+                "quantity": "1 TL"
+              },
+              {
+                "name": "Wasser",
+                "quantity": "1 qt"
+              }
+            ]
+          }
+        ],
+        "name": "Thripse",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Überprüfen Sie neue Pflanzen auf silberne Streifen"
+                },
+                {
+                  "title": "Tote Zweige und Blätter beschneiden"
+                },
+                {
+                  "title": "Unkraut und Schutt entfernen"
+                },
+                {
+                  "title": "Lebensraum für Raubinsekten erhalten"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Kleine, schlanken 1-2 mm schnelle, silberne Streifenmacher",
+        "symptomAnalysis": "Thrips haben reibende Mundteile, die Pflanzenzellen abreiben und den Inhalt saugen, wodurch silberne Narben und ein bleiches, gestreiftes Aussehen entstehen. Sie verstecken sich in Blütenknospen und Blattschnittstellen. Starke Befall verdreht die Blätter und schädigt sich entwickelnde Blüten und Früchte.\n\nThrips sind Vektoren für mehrere Pflanzenviren, so dass selbst eine kleine Population sekundäre Krankheiten verursachen kann.",
+        "treatment": {
+          "groups": [
+            {
+              "label": "Für leichte Fälle",
+              "steps": [
+                {
+                  "title": "Starker Wassersprüheffekt"
+                },
+                {
+                  "title": "Gelbe oder blaue klebrige Fallen fangen fliegende Erwachsene ein"
+                }
+              ]
+            },
+            {
+              "label": "Für schwere Fälle",
+              "steps": [
+                {
+                  "title": "Pyrethrin-Spray"
+                },
+                {
+                  "title": "Insektizides Seife auf den Unterseiten der Blätter"
+                },
+                {
+                  "title": "Freigeben von Piraten-Käferchen und Seidenfaltern"
+                },
+                {
+                  "title": "Hergestellte Exemplare, die stark mit Parasiten befallen sind"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "P11": {
+        "homeRemedies": [
+          {
+            "ingredients": [
+              {
+                "name": "Spülmittel",
+                "quantity": "1 TL"
+              },
+              {
+                "name": "Wasser",
+                "quantity": "1 qt"
+              }
+            ]
+          }
+        ],
+        "name": "Blumenfleckkäfer",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Neue Pflanzen inspizieren"
+                },
+                {
+                  "title": "Bewässern und füttern Sie die Pflanzen gut"
+                },
+                {
+                  "title": "Verschieben Sie hitzebedingte Pflanzen in einen Teilschattenbereich"
+                },
+                {
+                  "title": "Entfernen Sie den Schlamm, in dem sich die überwinternen Erwachsenen verstecken"
+                },
+                {
+                  "title": "Inspizieren Sie Ende des Frühlings, bevor die Populationen ihren Höhepunkt erreichen."
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Lakenflügelige Saftsauger, weiße Flecken auf Blättern",
+        "symptomAnalysis": "Blumenfleckkäfer verwenden stecknadelartige Mundteile, um Nährstoffe von der Unterseite der Blätter aufzusaugen und so eine bleiche Fleckenbildung auf der Oberseite zu verursachen. Sie hinterlassen Ketten von schwarzen, teerartigen Kot auf der Unterseite der Blätter. Am häufigsten im mittleren bis späten Sommer bei der höchsten Population.\n\nDie Schäden sind meist ästhetisch, aber schwere Befallungen schwächen die Pflanzen und machen sie anfällig für andere Schädlinge und Krankheiten. Häufige Ziele: Azaleen, Rhododendronen, Sycamoren, Eichen, Lantana.",
+        "treatment": {
+          "groups": [
+            {
+              "label": "Für leichte Fälle",
+              "steps": [
+                {
+                  "title": "Starker Wassersprühe unter den Blättern"
+                },
+                {
+                  "title": "Mit einem seifenigen Tuch abwischen"
+                }
+              ]
+            },
+            {
+              "label": "Für schwere Fälle",
+              "steps": [
+                {
+                  "title": "Insektizides Seife, die sich auf die Unterseiten der Blätter konzentriert"
+                },
+                {
+                  "title": "Schmetterlingsflügler, Marienkäfer und Attentäterkäfer ernähren sich von Schmetterlingsflüglern"
+                },
+                {
+                  "title": "Bei schweren Befallungen kleiner Pflanzen: [S04](../shared/treatment-steps.md#s04-prune-infected-leaves-and-stems) - beschneiden und stark betroffene Zweige brennen"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "P12": {
+        "name": "Blattläuse",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Reihendecken schützen junge Pflanzen"
+                },
+                {
+                  "title": "Entfernen Sie im Herbst Gartenabfälle, um Überwinterungsplätze zu verhindern."
+                },
+                {
+                  "title": "Fördern Sie natürliche Raubtiere mit vielfältigen Pflanzungen"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Keilförmige Pullover, leichte Flecken auf den Blättern",
+        "symptomAnalysis": "Blattläuse ernähren sich von Pflanzensaft aus Blättern, Stängeln und Stängeln neuer Wuchs. Starkes Fressen führt zu Blattverkrümmung, Verfärbung (\"Läusebrand\") und gedrosseltem Wachstum. Sie springen oder fliegen weg, wenn sie gestört werden. Häufige Wirte: Bohnen, Mais, Salat, Rüben, Kartoffeln, Trauben, Rosen.\n\nWie Thrips übertragen Blattläuse virale und bakterielle Krankheiten zwischen Pflanzen - manchmal sogar schädlicher als das Insekt selbst.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Insektizides Seife"
+                },
+                {
+                  "title": "Pyrethrin oder Azadirachtin bei schweren Fällen"
+                },
+                {
+                  "title": "Schmetterlingsaugen und Marienkäfer"
+                },
+                {
+                  "title": "Bedecken Sie junge Pflanzen mit Reihenabdeckungen"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "P13": {
+        "name": "Tortrix-Motten",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Überprüfen Sie neue Pflanzen auf gewellte Blätter"
+                },
+                {
+                  "title": "Entfernen Sie Pflanzenreste, an denen die Puppen überwintern."
+                },
+                {
+                  "title": "Fördern Sie parasitäre Wespen und Vögel"
+                },
+                {
+                  "title": "Pheromontraps aus der frühen Saison"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Raupen rollen Blätter in seidenartige Röhren ein",
+        "symptomAnalysis": "Die Raupen der Tortrix-Schmetterlingsart (Blattrollerin) rollen Blätter um sich herum und binden sie mit Seide zu. Anschließend ernähren sie sich von innen aus dem geschützten Röhrchen. Sie fressen auch Früchte und binden manchmal Früchte an Blätter. Viele Arten; werden auf Früchten, Gemüse und Zierpflanzen gefunden. Am aktivsten sind sie von spätem Frühling bis Anfang Herbst.\n\nDie Populationen in Gewächshäusern können das ganze Jahr über bestehen.",
+        "treatment": {
+          "groups": [
+            {
+              "label": "Für leichte Fälle",
+              "steps": [
+                {
+                  "title": "Rollige Blätter abschneiden"
+                },
+                {
+                  "title": "Pheromonefallen fangen Männchen ein und stören die Brut."
+                }
+              ]
+            },
+            {
+              "label": "Für schwere Fälle",
+              "steps": [
+                {
+                  "title": "Bacillus thuringiensis (Bt) anwenden"
+                },
+                {
+                  "title": "Spinosad ist laut Etikett wirksam bei hartnäckigen Befall"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "P14": {
+        "name": "Blattminer",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Reihendecken von der Pflanzzeit an"
+                },
+                {
+                  "title": "Entfernen Sie Unkraut und alte Blätter, wo Miner nisten."
+                },
+                {
+                  "title": "Neue Pflanzen inspizieren"
+                },
+                {
+                  "title": "Vermeiden Sie Breitband-Pestizide - sie töten die parasitären Wespen, die Bergleute natürlich kontrollieren."
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Fluglarven bohren weiße Streifen in die Blätter",
+        "symptomAnalysis": "Blattminierer sind winzige Larven von Fliegen, Schmetterlingen oder Käfern, die zwischen den oberen und unteren Schichten eines Blattes Tunnel bauen und das weiche Gewebe darin fressen. Die sichtbaren Spuren sind die leeren Tunnel, die sie hinterlassen. Die erwachsene Fliege legt Eier zwischen den Blattschichten; die geschlüpften Larven ernähren sich 1-3 Wochen lang und fallen dann ab, um sich im Boden zu verpuppen.\n\nKosmetische Schäden an den meisten Zierpflanzen; erhebliche Schäden an essbaren Grüns (Spinat, Rucola, Rüben).",
+        "treatment": {
+          "groups": [
+            {
+              "label": "Für leichte Fälle",
+              "steps": [
+                {
+                  "title": "Kneifen Sie Blätter mit aktiven Minen heraus und entsorgen Sie sie."
+                }
+              ]
+            },
+            {
+              "label": "Für schwere Fälle",
+              "steps": [
+                {
+                  "title": "Neemöl"
+                },
+                {
+                  "title": "Spinosad-Spray (verkauft als Entrust) pro Etikett ist wirksam gegen Miner"
+                },
+                {
+                  "title": "Parasitäre Wespen legen Eier in den Larven von Bergbauern"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "P15": {
+        "name": "Weiße Fliegen",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Neue Pflanzen 2 Wochen in Quarantäne"
+                },
+                {
+                  "title": "Reihendecken"
+                },
+                {
+                  "title": "Gelbe klebrige Fallen als Überwachungswerkzeug im Innenbereich"
+                },
+                {
+                  "title": "Entfernen Sie Unkraut, wo Weißfliegen überwintern"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Kleine weiße, faltenartige Fliegen unter den Blättern, Honigdew",
+        "symptomAnalysis": "Weiße Fliegen sind Saftsauger wie Blattläuse und Melanzanfliegen, mit den gleichen Wirkungen: gelbe Blätter, verzerrter Wachstum, Honigdew und Nachfolge [schwarzer Schimmel](../01_leaves/sooty-mold.md). Sie sind häufig auf Tomaten, Paprika, Auberginen, Hibiskus und vielen Zimmerpflanzen zu finden.\n\nJeder erwachsene Fuchs legt Hunderte von Eiern auf die Unterseiten der Blätter. Die Nymphen sind flache, ovale Schuppen, fast durchsichtig, die an das Blatt geklebt sind. Starke Befallungen vermehren sich explosionsartig bei warmem Wetter.",
+        "treatment": {
+          "groups": [
+            {
+              "label": "Für leichte Fälle",
+              "steps": [
+                {
+                  "title": "Mit dem Schlauch abspritzen"
+                },
+                {
+                  "title": "Gelbe klebrige Fallen fangen fliegende Erwachsene ein"
+                }
+              ]
+            },
+            {
+              "label": "Für schwere Fälle",
+              "steps": [
+                {
+                  "title": "Insektizides Seife auf den Unterseiten"
+                },
+                {
+                  "title": "Neemöl"
+                },
+                {
+                  "title": "Encarsia formosa Wespen für den Einsatz im Gewächshaus"
+                },
+                {
+                  "title": "Entsorgen Sie eine stark befallene Zimmerpflanze, bevor sie sich auf andere ausbreitet."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "P16": {
+        "name": "Pilzfliegen (Erwachsene)",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Der wichtigste Schritt überhaupt"
+                },
+                {
+                  "title": "Sand- oder Kiesschicht auf dem Oberen"
+                },
+                {
+                  "title": "Überprüfen Sie den Boden der neuen Pflanze auf Erwachsene oder Larven"
+                },
+                {
+                  "title": "Sterilisieren Sie den Blumendünger vor Gebrauch, wenn Sie teilweise verwendete Beutel lagern."
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Schwarze Fliegen schweben in der Nähe des Bodens von Zimmerpflanzen",
+        "symptomAnalysis": "Erwachsene Pilzfliegen sind kleine (1/8 Zoll) schwarze, mückenartige Fliegen. Sie sind schwache Flieger und neigen dazu, auf Bodensflächen zu laufen. Erwachsene schädigen Pflanzen nicht direkt - aber jede Weibchen legt etwa 200 Eier in feuchter Erde, und die Larven ernähren sich von zarten Wurzelhaaren. Informationen über die Larven-/Wurzelfeuchtigkeit finden Sie unter [R07](../05_roots/fungus-gnat-larvae.md).\n\nHäufig bei allen Zimmerpflanzen, die zu nass gehalten werden, insbesondere bei Jungpflanzen, Farnen und tropischen Pflanzen.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Lassen Sie den obersten Boden zwischen den Bewässerungen trocknen"
+                },
+                {
+                  "title": "Nur Grundwasser"
+                },
+                {
+                  "title": "Oberseite mit Sand bestreuen, um das Eiablauchen zu verhindern."
+                },
+                {
+                  "title": "Gelbe klebrige Fallen, die flach oder schräg auf Bodenniveau angebracht sind, fangen Erwachsene ein."
+                },
+                {
+                  "title": "Bt-i (*Bacillus thuringiensis israelensis*, als \"Mosquito Bits\" verkauft), der auf den Boden gestreut oder in Wasser eingeweicht wird, tötet Larven ab."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "R01": {
+        "homeRemedies": [
+          {
+            "ingredients": [
+              {
+                "name": "3 % Peroxid",
+                "quantity": "1 Teil"
+              },
+              {
+                "name": "Wasser",
+                "quantity": "3 Teile"
+              }
+            ]
+          }
+        ],
+        "name": "Wurzelfäule",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Wasser am Fuß der Pflanze"
+                },
+                {
+                  "title": "Lassen Sie die oberste Zoll Erde vor jedem Bewässerungsschritt trocknen"
+                },
+                {
+                  "title": "Verwenden Sie immer Töpfe mit Drainagelöchern"
+                },
+                {
+                  "title": "Sterilisieren Sie Töpfe, bevor Sie sie wiederverwenden."
+                },
+                {
+                  "title": "Überprüfen Sie neue Pflanzen, bevor Sie sie integrieren"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Wurzeln schwarz, matschig, stinkend; Pflanze verwelkt trotz nassem Boden",
+        "symptomAnalysis": "Gesunde Wurzeln sind weiß oder braun und dehnbar. Verrottete Wurzeln sind dunkel und klebrig. Zwei Hauptursachen: Chronische Überbewässerung lässt die Wurzeln an Sauerstoff verhungern und sie sterben zurück; oder ein von der Erde übertragener Pilz (Pythium, Phytophthora) wird in feuchtem Boden aktiv und greift die Wurzeln an. Sobald die Fäulnis beginnt, breitet sie sich auf gesunde Wurzeln aus, auch nachdem das Bewässerungsproblem behoben ist.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Entfernen Sie die Wurzeln aus dem Topf und spülen Sie sie ab, damit Sie sehen können, was gesund ist."
+                },
+                {
+                  "title": "Schnittsäge sterilisieren"
+                },
+                {
+                  "title": "Schneiden Sie jede schwarze oder schimmelige Wurzel zurück zu festerem Gewebe."
+                },
+                {
+                  "title": "Umtopfen in frische sterile Mischung in eine saubere Tonne mit Drainagelöchern"
+                },
+                {
+                  "title": "Schneiden Sie etwa die Hälfte der Blätter zurück, um die Belastung des neuen Wurzelgeflechts zu verringern."
+                },
+                {
+                  "body": "Lassen Sie die oberste 1-2 Zoll Erde zwischen den Bewässerungen trocknen. Stecken Sie einen Finger hinein, um vor jeder Bewässerung zu überprüfen. Viele Probleme mit Wurzel- und Stängelfäule lassen sich auf chronisch nasse Erde zurückführen. Wenn mehr als zwei Drittel der Wurzeln verschwunden sind: *Entsorgen Sie die stark infizierte Pflanze* (siehe 6.1).",
+                  "subSteps": [
+                    {
+                      "title": "Entsorgen Sie die stark infizierte Pflanze"
+                    }
+                  ],
+                  "title": "Warten Sie, bis der oberste Boden trocken ist, bevor Sie wieder gießen."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "R02": {
+        "name": "Wurzeldeformität",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Wählen Sie nematodenresistente Sorten (suchen Sie nach \"VFN\" auf Tomatenkernen)"
+                },
+                {
+                  "title": "Entfernen Sie alte Wurzeln und Ablagerungen"
+                },
+                {
+                  "title": "Rotieren Sie die Kultur jedes 3. Jahr"
+                },
+                {
+                  "title": "Überprüfen Sie die Wurzeln neuer Pflanzen, bevor Sie sie einführen."
+                },
+                {
+                  "title": "Halten Sie die Pflanzen gut gefüttert und gut bewässert, damit sie Infektionen widerstehen können."
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Verdrehte, knöcherne oder gallige Wurzeln",
+        "symptomAnalysis": "Drei übliche Ursachen:\n1. **Wurzelfleischnematoden** - mikroskopische Würmer, die in Wurzeln bohren und geschwollene Gallen auslösen.\n2. **Bakterielle oder Pilzinfektion** - verursacht unregelmäßige Schwellungen als Stressreaktion.\n3. **Physikalische Bedingungen** - kiesiger, komprimierter oder dicht bewachsener Boden zwingt die Wurzeln, sich um Hindernisse zu wickeln.\n\nHinweis: Kleine runde Wurzel*knoten* bei Leguminosen (Bohnen, Erbsen) sind nützliche Stickstofffixierbakterien, keine Schäden. Knoten reiben sich leicht ab; Gallen nicht.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Aus dem Topf nehmen und inspizieren"
+                },
+                {
+                  "title": "Mild betroffene Wurzeln schneiden"
+                },
+                {
+                  "title": "Sterilisieren Sie Werkzeuge zwischen den Schnitten"
+                },
+                {
+                  "title": "Wiederpflanzen in frischem, lockerem, steriler Erde"
+                },
+                {
+                  "body": "Legen Sie während der heißesten Zeit des Jahres 4-6 Wochen lang eine klare Plastikfolie über feuchte Gartensohle. Die Hitze bildet sich darunter und tötet Nematoden, Pilze und Unkrautkerne ab. Wenn die meisten Wurzeln verformt sind: *Entsorgen Sie die stark infizierte Pflanze* (siehe 5.1).",
+                  "subSteps": [
+                    {
+                      "title": "Entsorgen Sie die stark infizierte Pflanze"
+                    }
+                  ],
+                  "title": "Für Gartenbeete mit Nematoden soll der Boden für 4-6 Wochen mit Sonnenlicht bestrahlt werden."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "R03": {
+        "homeRemedies": [
+          {
+            "ingredients": [
+              {
+                "name": "3 % Peroxid",
+                "quantity": "1 Teil"
+              },
+              {
+                "name": "Wasser",
+                "quantity": "3 Teile"
+              }
+            ]
+          },
+          null
+        ],
+        "name": "Schimmel im Boden",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Vermeiden Sie es, den Boden ständig feucht zu halten"
+                },
+                {
+                  "title": "Unterwasser, wenn die Pflanze es verträgt"
+                },
+                {
+                  "title": "Verbessern Sie den Luftstrom im Innenbereich"
+                },
+                {
+                  "title": "Halten Sie eine Schicht Sand oder Kies darüber"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Weißer oder gelber Flausch oder Pilze auf der Bodenoberfläche",
+        "symptomAnalysis": "Saprophytische Pilze ernähren sich von toter organischer Substanz im feuchten Boden. Sie sind meist harmlos für Pflanzen, signalisieren aber, dass der Boden zu nass bleibt, was größere Probleme wie Wurzelfäule oder Pilzfliegen verursacht. Pilze stammen von Sporen ab, die im Pflanzkarton angekommen sind.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Schrauben Sie die schimmelige oberste Schicht ab und ersetzen Sie sie durch groben Sand."
+                },
+                {
+                  "title": "Lassen Sie den obersten Boden zwischen den Bewässerungen trocknen"
+                },
+                {
+                  "title": "Legen Sie einen Ventilator in der Innenfläche an."
+                },
+                {
+                  "title": "Die Pilze an der Stange ziehen und wegwerfen"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "R04": {
+        "name": "Pottgebundene Wurzeln",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Jedes 1-2. Jahr für schnell wachsende Pflanzen, jedes 2-3. Jahr für langsam wachsende Pflanzen umtopfen."
+                },
+                {
+                  "body": "Übergroße Töpfe bleiben zu lange nass.",
+                  "title": "Wählen Sie einen Topf, der 1-2 Größen größer ist als der aktuelle Wurzelball - nicht größer."
+                },
+                {
+                  "title": "Verwenden Sie immer Töpfe mit Drainagelöchern"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Wurzeln um den Topf kreisen, Pflanze stecken bleiben oder verwelken",
+        "symptomAnalysis": "Wenn eine Pflanze ihre Töpfe ausbaut, umkreisen die Wurzeln die Wand und biegen sich dann wieder um sich selbst. Der Wurzelball wird dichter als der Boden, und das Wasser kann nicht mehr zurückgehalten werden - es läuft einfach entlang der Seite. Die Nährstoffaufnahme sinkt, das Wachstum stagniert und die Pflanze sieht chronisch durstig aus, auch direkt nach dem Gießen.\n\nSchnellcheck: Wurzeln, die aus Drainagelöchern wachsen oder Boden, der sich von der Töpfewand löst, sind klare Anzeichen.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Die Pflanze aus dem Topf nehmen"
+                },
+                {
+                  "body": "Ziehen Sie sie sanft nach außen, weg von der Kugel.",
+                  "title": "Verwenden Sie saubere Finger oder einen Esslöffel, um kreisende Wurzeln auseinanderzuziehen."
+                },
+                {
+                  "title": "Entfernen Sie alle toten oder verkrümmten Wurzeln"
+                },
+                {
+                  "title": "In eine Pfanne umrühren, die 1-2 Größen größer ist."
+                },
+                {
+                  "title": "Füllen Sie mit frischem Blumendünger auf"
+                },
+                {
+                  "title": "Bewässern Sie das neue Erdreich einmal gründlich, um es zu stabilisieren."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "R05": {
+        "name": "Salzansammlung",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Jedes 1-3. Monat den Boden ausspülen"
+                },
+                {
+                  "title": "Verwenden Sie Regenwasser oder destilliertes Wasser, wenn Ihr Leitungswasser hart oder mit Chlor behandelt ist."
+                },
+                {
+                  "body": "Mehr ist nicht besser.",
+                  "title": "Düngen Sie mit der Hälfte der auf der Verpackung angegebenen Düngemenge für Zimmerpflanzen."
+                },
+                {
+                  "title": "Verpassen Sie im Winter Dünger, wenn das Wachstum verlangsamt ist."
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Weiße Kruste auf dem Boden, braune Blattspitzen",
+        "symptomAnalysis": "Düngemittelsalze (und Mineralien aus Leitungswasser) sammeln sich im Laufe der Zeit im Boden an. Wenn das Wasser verdunstet, kristallisieren die Salze an der Oberfläche. Hohe Salzkonzentrationen schädigen die Wurzelspitzen, die dann kein Wasser aufnehmen können, und die Blätter zeigen trockenheitsähnliche braune, knusprige Ränder, auch wenn der Boden feucht ist.\n\nHäufig bei Zimmerpflanzen, trockenheitsverträglichen Pflanzen, die überdüngt wurden, und bei jedem Topf, der seit einem Jahr ohne tiefes Gießen nicht mehr gegossen wurde.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Schrauben Sie den sichtbaren Salzkrusten auf dem Boden und am Rand des Topfes ab."
+                },
+                {
+                  "title": "Spülen Sie den Boden mit 4-mal dem Volumen des Topfes an sauberem Wasser ab."
+                },
+                {
+                  "body": "Schneiden Sie das betroffene Laub und die Zweige mit sterilisierten Werkzeugen ab, indem Sie sie in gesundes Gewebe zurückschneiden. Packen Sie die Schnäppchen ein und entsorgen Sie sie - kompostieren Sie niemals erkranktes Material. Wenn sich die Ansammlung stark ausbreitet und die Pflanze in Not ist: *Umtopfen Sie mit frischem Boden und Drainage* (siehe 3.1).",
+                  "subSteps": [
+                    {
+                      "title": "Umtopfen mit frischem Boden und Drainage"
+                    }
+                  ],
+                  "title": "Entfernen Sie die braunen Blattspitzen für Kosmetika"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "R06": {
+        "homeRemedies": [
+          {
+            "ingredients": [
+              {
+                "name": "3 % Peroxid",
+                "quantity": "1 Teil"
+              },
+              {
+                "name": "Wasser",
+                "quantity": "3 Teile"
+              }
+            ]
+          },
+          null,
+          null
+        ],
+        "name": "Dämpfen von Schimmel",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Sterilisieren Sie Saatguttrays vor der Wiederverwendung"
+                },
+                {
+                  "body": "Verwenden Sie alte Blumendünger nicht erneut.",
+                  "title": "Verwenden Sie frische sterile Saatgut-Anzuchtmischung"
+                },
+                {
+                  "title": "Saat in der auf dem Saatgutpaket angegebenen Tiefe - zu tief zu begraben belastet die Keimung"
+                },
+                {
+                  "title": "Bietet schon ab dem ersten Tag eine sanfte Luftströmung"
+                },
+                {
+                  "title": "Entfernen Sie die Feuchtigkeitsdome, nachdem die Sprossen aufget"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Sämlinge zusammenbrechen an der Bodennote",
+        "symptomAnalysis": "Dämpfungsfäule wird durch mehrere Bodenpilze (Pythium, Rhizoctonia, Fusarium) verursacht, die die dünnen Stängel der Jungpflanzen direkt dort angreifen, wo sie mit dem nassen Boden zusammenkommen. Bedingungen, die dies begünstigen: Kühle Temperaturen, übermäßig feuchte Saatgutaufzuchtmischung, schlechter Luftstrom und nicht sterilisierte Trays oder Samen.\n\nSobald die Jungpflanzen zusammenbrechen, können sie nicht wiederhergestellt werden. Der Kampf besteht darin, den Rest des Trays zu schützen.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Ziehen Sie zusammengebrochene Jungpflanzen sofort heraus und entsorgen Sie sie."
+                },
+                {
+                  "title": "Überbleibende Jungpflanzen im Unterwasser"
+                },
+                {
+                  "title": "Lassen Sie die Oberfläche zwischen den Bewässerungen leicht trocknen"
+                },
+                {
+                  "title": "Legen Sie einen kleinen Ventilator auf einer niedrigen Stufe in der Nähe laufen."
+                },
+                {
+                  "title": "Bewegen Sie sich in helleres Licht, wenn die Jungpflanzen schlank und blass sind."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "R07": {
+        "homeRemedies": [
+          {
+            "ingredients": [
+              {
+                "name": "3 % Peroxid",
+                "quantity": "1 Teil"
+              },
+              {
+                "name": "Wasser",
+                "quantity": "3 Teile"
+              }
+            ]
+          },
+          null
+        ],
+        "name": "Pilzfliegenlarven",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Wasser reduzieren"
+                },
+                {
+                  "title": "Halten Sie eine Sand- oder Kiesschicht auf dem Oberen"
+                },
+                {
+                  "title": "Neue Pflanzen in Quarantäne stellen und den Boden überprüfen"
+                },
+                {
+                  "title": "Verbessern Sie den Luftstrom"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Kleine schwarze Fliegen + verzweifelte Jungpflanzen",
+        "symptomAnalysis": "Erwachsene Pilzfliegen sind lästige Fliegen, aber ihre Larven ernähren sich von zarten jungen Wurzeln und Wurzelhaaren im oberen Zentimeter ständig feuchter Erde. Sie gedeihen in überbewässerten Zimmerpflanzen und Jungpflanzenkästen. Erwachsene legen Eier auf der Bodensfläche; Larven schlüpfen und ernähren sich 1-2 Wochen lang, bevor sie sich verpuppen.\n\nFür die erwachsenen Fliegen siehe [P16 - Pilzfliegen](../02_pests/fungus-gnats.md). Dieser Eintrag behandelt die Larven, die Wurzeln töten.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Lassen Sie den obersten Zentimeter Erde zwischen den Bewässerungen vollständig trocknen."
+                },
+                {
+                  "title": "Nur Grundwasser"
+                },
+                {
+                  "title": "Oberseite mit 1/4 Zoll Sand bestreuen, um die Eiablage von Erwachsenen zu verhindern."
+                },
+                {
+                  "body": "Nach dem Etikett auftragen.",
+                  "title": "Bt-i (eine andere Bt-Stammart - *Bacillus thuringiensis israelensis*, verkauft als \"Mosquito Bits\") wird speziell Larven durch Streuen oder Einweichen in Wasser getötet."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "ST01": {
+        "name": "Verblühen",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Wasser gleichmäßig und tief einbringen"
+                },
+                {
+                  "title": "Kaufen Sie verwelzungsresistente Sorten (suchen Sie nach \"VFN\" auf Tomaten, Erdbeeren)"
+                },
+                {
+                  "title": "Betten drehen"
+                },
+                {
+                  "title": "Mulch, um die Feuchtigkeit gleichmäßig zu halten"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Stängel hängen herunter und verlieren ihre Struktur",
+        "symptomAnalysis": "Verwelken kann aus einem der folgenden Gründe kommen:\n\n- **Wasserschutz** - zu viel oder zu wenig. Dürre lässt die Pflanzen verwelken; Überbewässerung fäulscht die Wurzeln aus und sie können kein Wasser mehr aufziehen.\n- **Hitzestress** - heiße Nachmittage verursachen vorübergehende Verkrümmung, die sich über Nacht wiederholt.\n- **Vaskuläre Verwelkningskrankheit** - *Verticillium*, *Fusarium* oder bakterielle Verwelkningskrankheit verstopfen das wasserführende Gewebe der Pflanze. Die Blätter verwelken und bleiben verwelkt.\n- **Wurzelfäule** - siehe [R01](../05_roots/root-rot.md). Beschädigte Wurzeln können kein Wasser liefern.\n\nUm es zu beschränken: Kratzen Sie den Hauptstamm mit einer Fingernagel ab. Grün innen bedeutet lebendig; braun und spröde bedeutet tot. Dann überprüfen Sie den Boden und die Wurzeln.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "body": "Boden trocken → *Tief und weniger häufig gießen* (siehe 1.1). Boden nass → *Wasserungshäufigkeit reduzieren* (siehe 1.2) und Wurzeln überprüfen.",
+                  "subSteps": [
+                    {
+                      "title": "Wasser tief, aber seltener"
+                    },
+                    {
+                      "title": "Wasserungsfrequenz reduzieren"
+                    }
+                  ],
+                  "title": "Erste Diagnose stellen"
+                },
+                {
+                  "title": "Verwenden Sie Sonnenschirmstoff an heißen Nachmittagen"
+                },
+                {
+                  "title": "Bei Krankheiten, beschneiden und zerstören Sie betroffene Zweige"
+                },
+                {
+                  "body": "Tauchen Sie Stielzange, Schere oder Messerklingen in eine 1:4-Bleichmittel-Wasser-Lösung (oder 70 % Isopropylalkohol) vor jedem Schnitt und zwischen jedem Pflanzenstück ein. Trocknen Sie sie vor dem Schneiden ab. Bei einer Diagnose von vascular wilt-Erkrankung: *Entsorgen Sie die stark infizierte Pflanze* (siehe 4.1). Bodenpathogene bleiben jahrelang bestehen.",
+                  "subSteps": [
+                    {
+                      "title": "Entsorgen Sie die stark infizierte Pflanze"
+                    }
+                  ],
+                  "title": "Sterilisieren Sie Werkzeuge zwischen den Schnitten"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "ST02": {
+        "name": "Zweigschimmel",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Kaufen Sie widerstandsfähige Sorten bei seriösen Baumschulen"
+                },
+                {
+                  "title": "Überprüfen Sie neue Pflanzen auf tote Zweige"
+                },
+                {
+                  "title": "Pflanzen Sie mit angemessener Abstandshaltung für den Luftstrom"
+                },
+                {
+                  "title": "Drip-Bewässerung"
+                },
+                {
+                  "title": "Präventiver Kupferspray in feuchten Quellen"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Ganzes Zweige werden braun und trocken von der Basis",
+        "symptomAnalysis": "Eine Pilzinfektion, die häufig bei in Gewächshäusern angebauten Pflanzen vorkommt, die zu eng beieinander platziert wurden. Sporen gelangen durch Wunden oder bei nassem Wetter herein. Im Gegensatz zu der Verfärbung (die an der Spitze beginnt), tötet die Zweigschimmelinfektion den gesamten infizierten Zweig gleichzeitig. Verfallene, gesunkenen Stellen, sogenannte *Kanker*, können zwischen lebendem und totem Holz entstehen.\n\nSiehe [ST03](dieback.md) für Absterben und [ST05](cankers.md) für Kanker.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Schneiden Sie betroffene Zweige bei trockenem Wetter auf gesundes Holz zurück."
+                },
+                {
+                  "title": "Sterilisieren Sie zwischen jedem Schnitt"
+                },
+                {
+                  "title": "Tragen Sie Kupfer-Fungizid auf den verbleibenden gesunden Wachstum an."
+                },
+                {
+                  "title": "Abgefallenes Material auffischen"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "ST03": {
+        "name": "Absterben",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Pflanzen Sie sie an der richtigen Stelle - angemessene Licht-, Drainage- und Ausrichtung für die Art."
+                },
+                {
+                  "title": "Schützen Sie Pflanzen vor körperlichem Schaden (Mäher, Unkrautjäger, Tierbrowsning)"
+                },
+                {
+                  "title": "Wahren Sie den Luftstrom mit angemessener Abstandshaltung auf"
+                },
+                {
+                  "title": "Beschneiden Sie nur bei trockenem Wetter, um Pilze in frische Schnitte zu vermeiden."
+                },
+                {
+                  "body": "Schneiden Sie gebrochene Zweige zurück, bevor Pilze eindringen können.",
+                  "title": "Überprüfen Sie nach Kälte oder Stürmen"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Die Stängel sterben von der Spitze nach unten zum Stamm zurück.",
+        "symptomAnalysis": "Ein allgemeiner Begriff für Pilzinfektionen (und manchmal Schädlings- oder Umweltschäden), die das holzige Wachstum von der Spitze nach innen abtöten. Oft folgt es Wunden - Beschnittsschnitten, Mäherschäden, Frostspalten, Insektentunneln -, die den Pilzen einen Zugang ermöglichten. Stress ( Dürre, Frost, Überschwemmung) macht Pflanzen anfälliger.\n\nDifferenziert sich von der Zweigschimmel: Die Absterben beginnt an der Spitze und geht zurück; der Zweigschimmel tötet den ganzen Zweig auf einmal.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Infizierte Blätter und Stängel beschneiden"
+                },
+                {
+                  "title": "Zwischen den Schnitten sterilisieren"
+                },
+                {
+                  "title": "Wechseln Sie zur Grundbewässerung"
+                },
+                {
+                  "body": "Verwenden Sie einen N-P-K-ausgewogenen Dünger (z. B. 10-10-10) pro Etikett. Bei Defiziten, die sich in den Blättern zeigen, führen Sie eine Blattfütterung durch, um eine schnelle Aufnahme zu gewährleisten. Kompost ist eine langsam freisetzende Alternative. Bei schweren Fällen, die sich auf die gesamte Pflanze auswirken: *Entsorgen Sie die stark infizierte Pflanze* (siehe 4.1).",
+                  "subSteps": [
+                    {
+                      "title": "Entsorgen Sie die stark infizierte Pflanze"
+                    }
+                  ],
+                  "title": "Ein stickstoffreiches Futter gibt gestressten Pflanzen Energie, um sich zu erholen"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "ST04": {
+        "name": "Stammfäule (weiche Fäule)",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Vermeiden Sie das Befeuchten von Laub und Stängeln"
+                },
+                {
+                  "title": "Überbewässern Sie nicht"
+                },
+                {
+                  "title": "Raumpflanzen trennen"
+                },
+                {
+                  "title": "Überprüfen Sie neue Pflanzen auf weiche, verfärbte Stängel"
+                },
+                {
+                  "title": "Sterilisieren Sie Werkzeuge immer"
+                },
+                {
+                  "title": "Kontrollieren Sie Saftsaugende Schädlinge wie Blattläuse; ihre Wunden laden Bakterien ein"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Der Stiel wird matschig, hohl und stinkend",
+        "symptomAnalysis": "Bakterielle Weichfäule, oft *Erwinia*. Bakterien gelangen durch Wunden und verdauen Pflanzengewebe von innen heraus. Entwickelt sich am schnellsten bei warmem, feuchtem Wetter und an Pflanzen, die in nassem Boden stehen oder von überdachter Bewässerung bespritzt werden. Sobald es fortgeschritten ist, breitet es sich von Stiel bis Krone und nach unten in die Wurzeln aus - manchmal wird die ganze Pflanze von der Mitte an schwarz und matschig.\n\nEnthält die Präsentation \"die gesamte Pflanze wird von der Mitte aus schwarz\", die einige Referenzen als separate \"weiche Verwesung\" bezeichneten.",
+        "treatment": {
+          "groups": [
+            {
+              "label": "Für leichte Infektionen (einem Stiel oder einer Abschnitte betroffen)",
+              "steps": [
+                {
+                  "title": "Schneiden Sie jeden weichen, verfärbten Stängelsatz in sauberes Gewebe aus."
+                },
+                {
+                  "title": "Sterilisieren Sie zwischen jedem Schnitt"
+                },
+                {
+                  "title": "Umtopfen in frischen, sterilen Erde mit Drainage"
+                },
+                {
+                  "title": "Bewässern Sie nur, wenn der oberste Boden trocken ist."
+                },
+                {
+                  "body": "Gießen Sie das Wasser direkt in den Boden in der Nähe des Stängels und nicht auf die Blätter. Verwenden Sie einen Gartenschlauch mit langer Schlauchöffnung, einen Tröpfchenschlauch oder eine Tropfleitung. Nasse Blätter fördern die Ausbreitung von Pilzen und Bakterien. Bei einer schweren Infektion des gesamten Pflanzenkörpers: *Entsorgen Sie die stark infizierte Pflanze* (siehe 5.1). Packen Sie sie ein und entfernen Sie sie. Kompostieren Sie sie nicht.",
+                  "subSteps": [
+                    {
+                      "title": "Entsorgen Sie die stark infizierte Pflanze"
+                    }
+                  ],
+                  "title": "Hören Sie auf, über Kopf zu gießen"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "ST05": {
+        "name": "Kanker",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Vermeiden Sie Schäden durch Winter und Frost - wickeln Sie junge Stammkronen ein, malen Sie sie mit weißem Baumfarben oder verwenden Sie Baumhüllen in kalten Zonen."
+                },
+                {
+                  "title": "Vermeiden Sie mechanische Verletzungen - halten Sie Rasenmäher und Beschneidemaschinen von Baumstämmen fern"
+                },
+                {
+                  "title": "Wählen Sie kankerresistente Sorten"
+                },
+                {
+                  "title": "Pflanzen gesund halten"
+                },
+                {
+                  "title": "Beschneiden Sie bei trockenem Wetter am späten Winter oder frühen Frühling"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Versunkene, tote Rindeflecken mit gebrochenen Ränder",
+        "symptomAnalysis": "Eine Kanker ist eine lokalisierte Sterzzone im Stängeltissu, die durch Pilze (*Cytospora*, *Nectria*) oder Bakterien verursacht wird, die durch eine Wunde eindringen - Beschnittsschnitte, Frostspaltungen, Sonnenbrand, Insektentunneln. Der Erreger tötet das Gewebe um den Eintrittspunkt. Kanker wachsen langsam; große können einen ganzen Zweig umschließen und töten.\n\nHäufig bei Obstbäumen (Pfirsich, Apfel, Kirsche) und vielen Zierpflanzen. Oft folgt sie dem Winterstress.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Infizierte Blätter und Stängel beschneiden"
+                },
+                {
+                  "title": "Sterilisieren Sie zwischen jedem Schnitt"
+                },
+                {
+                  "title": "Beschneiden Sie nur bei trockenem Wetter, um die Verbreitung des Erregers zu vermeiden."
+                },
+                {
+                  "body": "Sprühen Sie ein kupferbasiertes Fungizid (Bordeaux-Mischung, Kupfersulfat oder kommerzielles Kupferhydroxid) auf Blätter, Stängel und umliegende Erde gemäß der Produktetikette. Wiederholen Sie die Anwendung alle 7-14 Tage. Für Kanker am Hauptstamm, die Sie nicht abschneiden können: Kratzen Sie mit einem sauberen Messer das tote Gewebe zurück in die gesunde Rinde (das nennt man \"Chirurgie\"). Lassen Sie die Wunde luftig trocknen.",
+                  "title": "Verwenden Sie im frühen Frühjahr Kupfer-Fungizid auf den verbleibenden gesunden Rinde."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "ST06": {
+        "name": "Sonnenbrand auf der Rinde",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "body": "Spiegelt die Wintersonne wider.",
+                  "title": "**Verpacken Sie junge Baumstämme** mit weißem Baumverpackung oder streichen Sie sie mit verdünntem weißem Innenlatexlack (1:1 mit Wasser) aus der Bodennote auf 24 Zoll, aufgetragen Ende Herbst."
+                },
+                {
+                  "title": "Vermeiden Sie eine Beschneidung am späten Sommer, die die zuvor geschattete Rinde freilegt."
+                },
+                {
+                  "title": "Bewässern Sie tief im späten Herbst, bevor der Boden einfriert"
+                },
+                {
+                  "title": "Mulchen Sie die Wurzelzone, um die Temperaturschwankungen zu moderieren"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Rissige, abblätternde, verfärbte Rinde auf der sonnenliegenden Seite",
+        "symptomAnalysis": "Sonnenbrand tritt auf, wenn der intensive Wintersonnenstrahl während des Tages eine Seite eines Baumes erwärmt, die Zellen werden aktiv und dann tötet eine plötzliche Temperaturabnahme nachts sie ab. Junge, glatte-rinde Bäume (Ahorn, Obstbäume, kürzlich gepflanzte Zierbäume) sind am anfälligsten. Beschädigte Rinde wird ein langfristiger Eintrittspunkt für Krankheitserreger - siehe [ST05 - Kanker](cankers.md).\n\nEs kann auch im Sommerhitze nach einer plötzlichen Laubabnahme auftreten, die zuvor schattige Rinde freilegt.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "body": "Die meisten Sonnenbrandwunden heilen langsam von selbst ab.",
+                  "title": "Entfernen Sie keine beschädigte Rinde, es sei denn, sie ist locker und löst sich ab."
+                },
+                {
+                  "title": "Entfernen Sie mit einem sterilen Messer alle deutlich abgestorbene, abblätternde Rinde bis zum Rand des gesunden Gewebes."
+                },
+                {
+                  "title": "Tragen Sie Kupfer-Fungizid auf, um Krankheitserreger aus der Wunde fernzuhalten"
+                },
+                {
+                  "title": "Achten Sie auf die Entwicklung von Kanker - siehe [ST05](cankers.md)"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "ST07": {
+        "name": "Hexenbesen",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Überwachen Sie regelmäßig den Druck durch Schädlinge und Krankheiten"
+                },
+                {
+                  "title": "Präventiver Kupferspray auf rostgefährdete Arten"
+                },
+                {
+                  "title": "Schneiden Sie gestresste oder schwache Zweige frühzeitig zurück."
+                },
+                {
+                  "title": "Bei schweren Befall entfernen Sie die gesamte Pflanze."
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Dichtes, bürstenartiges Cluster von verkürzten Trieben aus einem Punkt",
+        "symptomAnalysis": "Eine Stressreaktion, nicht eine einzelne Krankheit. Viele Ursachen: Rostpilze, Insektenfutter, bakterielle oder Pilzinfektion, Befall durch parasitäre Pflanzen wie Zwerg-Wintergrünen. Die Pflanze reagiert, indem sie viele kurze Triebe in einer engen Gruppe produziert, anstatt normalem Ausbreitungswachstum.\n\nDer Besen selbst tötet die Pflanze selten, aber die zugrunde liegende Ursache kann dies tun. Häufig bei Nadelbäumen, Obstbäumen, Himbeeren und vielen holzigen Sträuchern.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Schneiden Sie den Besen aus, indem Sie mehrere Zentimeter unter dem betroffenen Punkt zurückschneiden."
+                },
+                {
+                  "title": "Sterilisieren Sie Werkzeuge zwischen den Schnitten"
+                },
+                {
+                  "body": "- Rostpilz → *Kupferpilzbekämpfungsmittel auftragen* (siehe 3.1) - Milben oder Insekten → siehe [02_pests/](../02_pests/) - Mistel → den Parasiten physisch entfernen",
+                  "subSteps": [
+                    {
+                      "title": "Kupferfongizid auftragen"
+                    }
+                  ],
+                  "title": "Bestimmen Sie die Ursache:"
+                },
+                {
+                  "title": "Entfernen Sie das abgeschnittene Material von der Pflanze."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "ST08": {
+        "name": "Krone Gallen",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Überprüfen Sie jede neue Pflanze auf Gallen an der Krone"
+                },
+                {
+                  "title": "Sterilisieren Sie Werkzeuge immer"
+                },
+                {
+                  "title": "Stapel keine Erde oder Mulch gegen die Krone der Pflanzen - hält den Bereich trocken und pathogenfrei."
+                },
+                {
+                  "title": "Pflanzenresistente Sorten, soweit verfügbar"
+                },
+                {
+                  "title": "Verwenden Sie bei der Pflanzung eine nützliche bakterielle Dosis (Agrobacterium radiobacter-Stamm 84, verkauft als \"Galltrol\") auf dem Wurzelstock ohne Wurzelballast."
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Rüstige tumorartige Wachstumsvorfälle in der Nähe der Bodennote",
+        "symptomAnalysis": "Verursacht durch den Bakterien *Agrobacterium tumefaciens*, der in der Erde lebt und über Wunden eindringt. Betrifft über 600 Pflanzenarten - Rosen, Obstbäume, Trauben, Himbeeren sind besonders anfällig. Der Bakterien greift das DNA der Pflanze an und verursacht unkontrolliertes Gewebewachstum.\n\nEtablierte Bäume überleben in der Regel Krongall. Jungpflanzen und stark infizierte Pflanzen verblassen, weil der Gallenblase der Wasser- und Nährstofffluss gestört wird.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Bei etablierten Bäumen entfernen Sie die Gallenblase mit einem sterilen Messer oder einem Rückschneider."
+                },
+                {
+                  "title": "Sterilisieren Sie zwischen jedem Schnitt"
+                },
+                {
+                  "title": "Nach der Operation färben Sie die Wunde mit einem Baumschnittsiegel ein."
+                },
+                {
+                  "body": "Nicht kompostieren.",
+                  "title": "Für junge oder stark infizierte Pflanzen: [S43](../shared/treatment-steps.md#s43-discard-the-severely-infected-plant) - Entfernen und vernichten"
+                },
+                {
+                  "title": "Solareisen Sie den Boden vor dem Neupflanzen"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "ST09": {
+        "name": "Stammnarben",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Bauen Sie Barrieren um Pflanzen in geschäftigen Gebieten auf"
+                },
+                {
+                  "title": "Halten Sie Rasenmäher und Unkrautjäger von Baumstämmen fern"
+                },
+                {
+                  "title": "Verwenden Sie sterile Töpfe und frischen Boden für neue Pflanzen, um die Übertragung von Schädlingen zu vermeiden."
+                },
+                {
+                  "title": "Überprüfen Sie die Pflanzen regelmäßig auf frühe Anzeichen von Schäden"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Heilte Kratzer, Kratzer oder Schädlingsschäden an Stängeln",
+        "symptomAnalysis": "Narben bilden sich, wenn eine Pflanze eine Wunde heilt. Häufige Ursachen:\n\n- **Mechanische Schäden** - Haustiere, Kinder, Rasenmäher, Gartengeräte, Fußgängerverkehr.\n- **Schädlingsschäden, die zurückbleiben** - Futtersites von Insekten, die bereits weitergezogen sind.\n- **Sonnenbrand / Sonnenbrand** - Hitzebeschädigungen an der exponierten Rinde. siehe [ST06](sunscald-bark.md).\n- **Verlorene Blätter oder Knospen** - abfallende Blätter hinterlassen eine Narben auf dem Stiel.\n\nNarben selbst schädigen die Pflanze nicht mehr als die ursprüngliche Wunde. Sie sind meist ästhetisch. Aber das beschädigte Gebiet ist ein dauerhafter Eintrittspunkt für zukünftige Schädlinge und Krankheitserreger.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "body": "- Haustiere/Kinder/Werkzeuge → installieren Sie eine Barriere oder versetzen Sie die Pflanze. - Schädlinge → identifizieren Sie den Insekt und behandeln Sie ihn. siehe [02_pests/](../02_pests/). - Sonnenbrand → *Bewegen Sie sich an einen schattigen Ort* (siehe 1.1) Bewegen Sie sich aus der harten Sonne. - Häufige Blattabfall → überprüfen Sie Licht, Wasser und Nährstoffe.",
+                  "subSteps": [
+                    {
+                      "title": "Gehen Sie an einen schattigen Ort"
+                    }
+                  ],
+                  "title": "Beheben Sie die zugrunde liegende Ursache:"
+                },
+                {
+                  "title": "Die Narbe selbst benötigt keine Behandlung"
+                },
+                {
+                  "title": "Achten Sie auf die Entwicklung von Kanker an beschädigten Stellen - siehe [ST05](cankers.md)"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "shared": {
+      "remedies": {
+        "K01": {
+          "recipe": "1 Teil 3 % Apotheken-Hydrogenperoxid zu 3 Teilen Wasser. (Oder 1 Teil 35 % Lebensmittelperoxid zu 30 Teilen Wasser.)",
+          "title": "Wasserstoffperoxid-Bodendünger",
+          "usage": "Gießen Sie um die Basis der Pflanze herum, bis der oberste Boden feucht ist. Wiederholen Sie dies einmal pro Woche, bis der Boden normal trocknet und das Blasen aufhört."
+        },
+        "K02": {
+          "recipe": "Eingefärbte Zimtmehl aus dem Gewürzregal. Keine Mischung.",
+          "title": "Zimtpulver",
+          "usage": "Bestreuen Sie eine dünne Schicht über schimmelige Erde, auf frisch geschnittene Stängel oder um die Basis der Jungpflanzen. Zimt ist natürlich antimykotisch und wurzelnfreundlich."
+        },
+        "K03": {
+          "recipe": "Gießen Sie 1/4 Tasse Apfelessig in eine kleine gelbe Tasse oder Schale. Fügen Sie 1 Tropfen Spülmittel hinzu, um die Oberflächenspannung zu brechen. Bedecken Sie mit Frischhaltefolie und stechen Sie kleine Löcher.",
+          "title": "Apfelcider-Essig-Falle",
+          "usage": "Platzieren Sie es in der Nähe der betroffenen Pflanze. Erwachsene Pilzfliegen und Fruchtfliegen werden angezogen, fallen herein und ertrinken. Erfrischen Sie es alle 3-4 Tage."
+        },
+        "K04": {
+          "recipe": "2 Kamillenteebeutel in 1 Liter kochendem Wasser ziehen lassen. Abkühlen lassen, bis sie Raumtemperatur erreicht haben.",
+          "title": "Kamillen-Teedampfbad",
+          "usage": "Gießen Sie um die Basis der Jungpflanzen und über die Bodenoberfläche. Eine milde antimykotische Wirkung schützt keimende Samen und junge Wurzeln."
+        },
+        "K05": {
+          "recipe": "1 Teelöffel Backpulver + 1 Teelöffel mildes Spülmittel + 1 Liter Wasser. Schütteln, um zu lösen.",
+          "title": "Backpulver + Spülmittel-Spray",
+          "usage": "Sprühen Sie die Blätter bei dem ersten Anzeichen von Schimmel alle 7 Tage. Bedecken Sie die oberen und unteren Blattflächen. Testen Sie zuerst an einem Fleck; einige Pflanzen bekommen Blattverbrennungen."
+        },
+        "K06": {
+          "recipe": "1 Teil Milch (jede Fettmenge, aber Vollmilch funktioniert am besten) zu 9 Teilen Wasser in einer Sprühflasche.",
+          "title": "Milchspray",
+          "usage": "Sprühen Sie die Blätter einmal pro Woche bei sonnigem Wetter. Die Sonnenlicht aktiviert die Milchproteine zu einer milden antimykotischen Schicht."
+        },
+        "K07": {
+          "recipe": "Zerdrücken Sie 4 Knoblauchzehen in 1 Liter Wasser. Über Nacht ziehen lassen. Abgießen. 1 TL Spülmittel hinzufügen.",
+          "title": "Knoblauchspray",
+          "usage": "Sprühen Sie auf Blätter und Stängel, wobei Sie sich auf die Unterseiten konzentrieren. Wiederholen Sie dies alle 5-7 Tage. Stark riecht für einen Tag, verflüchtigt sich dann."
+        },
+        "K08": {
+          "recipe": "2 Esslöffel Cayennepfeffer oder zerkrümelter getrockneter Chili in 1 Liter Wasser. 10 Minuten kochen. Abkühlen lassen. Abgießen. 1 TL Spülmittel hinzufügen.",
+          "title": "Chilispray",
+          "usage": "Sprühen Sie auf Blätter, an denen Raupen oder Käfer fressen. Tragen Sie während des Sprühens Handschuhe und Augenschutz."
+        },
+        "K09": {
+          "recipe": "Verwendete Kaffeebohnen auf einem Blech getrocknet.",
+          "title": "Barriere aus Kaffeebohnenresten",
+          "usage": "Bestreuen Sie einen Ring von 1/2 Zoll um die Basis von Pflanzen, die anfällig für Schnecken sind. Eine raue Textur und Koffein vertreiben Schnecken und Muscheln. Nach Regen ersetzen."
+        },
+        "K10": {
+          "recipe": "Abgeriebene Eierschalen, getrocknet, grob mit einem Reibeisen zerdrückt.",
+          "title": "Zerkrümelte Eierschale",
+          "usage": "(a) Mischen Sie es beim Pflanzen in den Boden, um eine langsame Calciumfreisetzung zu gewährleisten - hilft, die Blütenendfäule zu verhindern. (b) Streuen Sie einen scharfen Ring um die Pflanzen - Schnecken vermeiden die Ränder."
+        },
+        "K11": {
+          "recipe": "Graben Sie eine flache Schüssel oder Tasse mit dem Rand auf Höhe des Bodens. Füllen Sie 2/3 mit billigem Bier. (Oder 1 Tasse Wasser + 1 TL Trockenhefe + 1 TL Zucker.)",
+          "title": "Bierfalle",
+          "usage": "Am Abend in der Nähe der betroffenen Pflanzen platzieren. Schnecken und Muscheln kriechen hinein und ertrinken. Erfrischen Sie alle 2-3 Tage."
+        },
+        "K12": {
+          "recipe": "2-3 gehackte Bananenkerne 48 Stunden lang in 1 Liter Wasser ziehen lassen. Abgießen.",
+          "title": "Bananenpeel-Kaliumtee",
+          "usage": "Gießen Sie alle 2-3 Wochen um die Basis gestresster oder gelbverfärbter Pflanzen. Leichtes Kalium-Boost; kein vollständiger Dünger."
+        },
+        "K13": {
+          "recipe": "70 % Isopropylalkohol reines Desinfektionsmittel direkt aus der Flasche.",
+          "title": "Alkoholtampon aus Baumwolle",
+          "usage": "Tauchen Sie einen Wattebausch in und tupfen Sie ihn direkt auf einzelne Mehlkäfer oder Schuppenläuse. Tötet bei Berührung ab. Vermeiden Sie es, das Blatt zu übertropfen."
+        },
+        "K14": {
+          "recipe": "1 Teelöffel mildes Flüssigspülmittel (keine Entfettungsmittel, keine Zusätze) pro Liter Wasser in einer Sprühflasche.",
+          "title": "Einfaches Seifenwasser-Spray",
+          "usage": "Sprühen Sie abends, um alle Oberflächen, insbesondere die Unterseiten der Blätter, zu tränken. Spülen Sie am nächsten Morgen mit klarem Wasser ab. Wieder sprühen Sie alle 3 Tage für 2 Wochen."
+        },
+        "K15": {
+          "recipe": "1 ungeschichtete Aspirin-Tablette (325 mg) in 1 Gallone Wasser mit ein paar Tropfen Spülmittel aufgelöst.",
+          "title": "Aspirin-Wasser-Folienspray",
+          "usage": "Sprühen Sie alle 2-3 Wochen auf die Blätter. Salicylsäure im Aspirin stimuliert sanft die eigene Krankheitsabwehrreaktion der Pflanze."
+        }
+      },
+      "steps": {
+        "S01": {
+          "body": "Schieben Sie die Pflanze aus ihrem Topf, schütteln Sie den losen Boden vorsichtig ab und spülen Sie den Wurzelball unter lauwarmem fließendem Wasser ab, bis Sie einzelne Wurzeln deutlich sehen können.",
+          "title": "Wurzeln aus dem Topf nehmen und abspülen"
+        },
+        "S02": {
+          "body": "Tauchen Sie Stielschneider, Schere oder Messerklingen in eine 1:4-Bleichmittel-Wasser-Lösung (oder 70 % Isopropylalkohol) ein, bevor Sie jeden Schnitt machen und zwischen jeder Pflanze. Wischen Sie sie nach dem Schneiden trocken.",
+          "title": "Schneidewerkzeuge sterilisieren"
+        },
+        "S03": {
+          "body": "Schneiden Sie schwarze, matschige oder schrumpelige Wurzeln mit sterilisierten Beschneidern ab. Gesunde Wurzeln sind weiß oder braun und dehnbar. Schneiden Sie zurück auf sauberes, festes Gewebe.",
+          "title": "Beschädigte oder tote Wurzeln abschneiden"
+        },
+        "S04": {
+          "body": "Schneiden Sie das betroffene Laub und die Zweige mit sterilisierten Werkzeugen ab, indem Sie sie in gesundes Gewebe zurückschneiden. Verpacken Sie die Schnäppchen und entsorgen Sie sie - kompostieren Sie niemals erkranktes Material.",
+          "title": "Infizierte Blätter und Stängel beschneiden"
+        },
+        "S05": {
+          "body": "Verwenden Sie saubere Finger oder sterilisierte Schnipsel, um verrottende, verwelkte oder infizierte Blüten an ihrem Stiel zu entfernen, bevor sich die Infektion auf benachbarte gesunde Knospen ausbreitet.",
+          "title": "Die betroffenen Blüten und Knospen abzupfen"
+        },
+        "S06": {
+          "body": "Picken Sie alle fleckigen, verrotteten oder schimmeligen Früchte aus der Pflanze und aus dem Boden darunter. Graben Sie sie (12 Zoll tief) ein, brennen Sie sie oder versiegeln Sie sie in einen Müllsack - kompostieren Sie sie nicht.",
+          "title": "Infizierte Früchte entfernen und vernichten"
+        },
+        "S07": {
+          "body": "Tragen Sie Handschuhe. Sammeln Sie Raupen, Käfer, Schnecken oder Ei-Klumpen mit der Hand ab und werfen Sie sie in einen Eimer mit Seifenwasser. Ertrinken Sie sie mindestens 24 Stunden lang und entsorgen Sie sie dann.",
+          "title": "Schädlinge mit der Hand in Seifenwasser pflücken"
+        },
+        "S08": {
+          "body": "Für Blattläuse, Schuppenläuse oder Pflanzensaugenstiche sollten Sie Blätter und Stängel vorsichtig mit einem weichen Tuch abwischen, das in Seifenwasser getaucht ist. Waschen Sie das Tuch häufig erneut. Vermeiden Sie Blutergüsse an empfindlichem Gewebe.",
+          "title": "Reinigen Sie Schädlinge mit einem feuchten Tuch."
+        },
+        "S09": {
+          "body": "Versetzen Sie die Pflanze in einen sauberen Topf mit Drainagelöchern und verwenden Sie frischen, sterilen Blumendünger. Graben Sie die Wurzeln bis zur gleichen Tiefe wie zuvor ein. Gießen Sie leicht, um den Boden zu versetzen.",
+          "title": "Umtopfen mit frischem Boden und Drainage"
+        },
+        "S10": {
+          "body": "Versetzen Sie eine wurzeln gebundene Pflanze in einen Topf, der 1-2 Größen größer ist. Ziehen Sie die kreisförmigen Wurzeln auseinander, bevor Sie die Pflanze in einen frischen Kompost einpflanzen. Bewässern Sie sie einmal gründlich.",
+          "title": "Auf eine größere Schüssel umfüllen"
+        },
+        "S11": {
+          "body": "Schrauben Sie die oberste 1/8 Zoll des schimmeligen oder salzkrustigen Bodens ab und ersetzen Sie ihn durch eine 1/4 Zoll dicke Schicht sauberer grober Sand oder feiner Kies. Nachher nur sparsam gießen.",
+          "title": "Oberfläche mit Sand oder Kies bedecken"
+        },
+        "S12": {
+          "body": "Legen Sie während der heißesten Zeit des Jahres 4-6 Wochen lang eine klare Plastikfolie über feuchten Gartensubstrat. Die Hitze bildet sich darunter und tötet Nematoden, Pilze und Unkrautkeime ab.",
+          "title": "Die Erde sonnenlichten"
+        },
+        "S13": {
+          "body": "Verteilen Sie rund um die Pflanze eine 2–3 Zoll dicke Schicht aus Rinden-, Stroh- oder Laubmulch und lassen Sie um den Stängel einen kleinen Ring frei. Mulch verhindert, dass Bodenpathogene hochspritzen, und stabilisiert die Feuchtigkeit.",
+          "title": "Anwenden Sie organischen Mulch um die Basis herum"
+        },
+        "S14": {
+          "body": "Nehmen Sie die Pflanze in einen Spülbecken oder nach draußen. Gießen Sie langsam sauberes Wasser durch den Topf - etwa 4 Mal das Volumen des Topfes - bis das Wasser frei aus den Drainagenhöhlen läuft. Wiederholen Sie dies einmal im Monat, wenn sich die Salze wieder ansammeln.",
+          "title": "Lüften Sie den Boden, um Salze zu leiten"
+        },
+        "S15": {
+          "body": "Gießen Sie das Wasser direkt in den Boden in der Nähe des Stängels und nicht auf die Blätter. Verwenden Sie einen Gartenschlauch mit langer Kanne, einen Tröpfchenschlauch oder eine Tropfleitung. Nasse Blätter fördern die Ausbreitung von Pilzen und Bakterien.",
+          "title": "Wasser an der Basis, niemals über Kopf"
+        },
+        "S16": {
+          "body": "Lassen Sie die oberste 1-2 Zoll Erde zwischen den Bewässerungen trocknen. Stecken Sie einen Finger hinein, um vor jeder Bewässerung zu überprüfen. Viele Probleme mit Wurzel- und Stängelrötung lassen sich auf chronisch nasse Erde zurückführen.",
+          "title": "Wasserungsfrequenz reduzieren"
+        },
+        "S17": {
+          "body": "Gießen Sie langsam und gründlich, bis der Boden von Grund auf feucht ist, lassen Sie ihn dann teilweise trocknen, bevor Sie das nächste Mal gießen. Fördert tiefere Wurzeln und stärkere Pflanzen.",
+          "title": "Wasser tief, aber seltener"
+        },
+        "S18": {
+          "body": "Verlegen Sie die Pflanze schrittweise auf ein nach Süden oder Westen ausgerichtetes Fenster oder einen sonnigeren Platz im Garten. Verschieben Sie sie in Etappen über eine Woche, um einen Sonnenstich zu vermeiden.",
+          "title": "Umziehen Sie in einen helleren Ort"
+        },
+        "S19": {
+          "body": "Verlegen Sie die Pflanze an ein nach Norden ausgerichtetes Fenster, unter einem Baum oder hinter Sonnenschutzvorhang. Sonnenbrand und Blattbrand heilen normalerweise, sobald sich die Pflanze abkühlt.",
+          "title": "Gehen Sie an einen schattigen Ort"
+        },
+        "S20": {
+          "body": "Hängen oder aufstellen Sie ein LED-Wachstumslicht im Ganzspektrum 30-60 cm über die Pflanze, auf einem Timer von 12-14 Stunden. Besonders nützlich im Winter oder in dunklen Räumen.",
+          "title": "Fügen Sie ein Wachstumslicht hinzu"
+        },
+        "S21": {
+          "body": "Legen Sie die Pflanzen ausreichend Abstand voneinander, damit die Blätter nicht beim Vollwuchs berühren. Im Innenbereich sollten Sie einen kleinen oscillierenden Ventilator einen Teil des Tages laufen lassen. Im Freien sollten Sie die benachbarte Vegetation beschneiden, die den Wind blockiert.",
+          "title": "Vergrößern Sie den Luftstrom und die Abstände"
+        },
+        "S22": {
+          "body": "Tränke das Laub täglich, gruppiere die Pflanzen zusammen, stelle den Topf auf ein Brett mit Kies in flachem Wasser oder stelle einen Luftbefeuchter ein. Zielen Sie auf 40-60 % relativen Feuchtigkeitsgehalt ab.",
+          "title": "Erhöhen Sie die Luftfeuchtigkeit um die Pflanze herum"
+        },
+        "S23": {
+          "body": "Bedecken Sie empfindliche Pflanzen vor Sonnenuntergang mit einem Frostvorhang, Strohhut, Stoff oder Reihenvorhang. Bringen Sie Zimmerpflanzen ins Haus. Entfernen Sie den Vorhang am nächsten Morgen.",
+          "title": "Verschützen vor Frost"
+        },
+        "S24": {
+          "body": "Stecken Sie einen Holz- oder Bambuspfahl in den Boden in der Nähe der Pflanze und binden Sie lose Acht-Punkte-Schleifen mit weichem Seil. Halte die Stängel vom nassen Boden fern und verbessert den Luftstrom.",
+          "title": "Stake oder Rankholz für die Pflanze verwenden"
+        },
+        "S25": {
+          "body": "Sprühen Sie nach den Anweisungen auf der Produktetikette ein kupferbasiertes Fungizid (Bordeaux-Mischung, Kupfersulfat oder handelsübliches Kupferhydroxid) auf Blätter, Stängel und umliegende Erde. Wiederholen Sie die Anwendung alle 7-14 Tage.",
+          "title": "Kupferfongizid auftragen"
+        },
+        "S26": {
+          "body": "Wenn Kupfer nicht ausreicht, verwenden Sie ein synthetisches systemisches Fungizid (z. B. Propikonazol, Myclobutanil) gemäß der Produktetikette. Sprühen Sie zum Abfluss. Rotieren Sie die Fungizide immer, um eine Resistenz zu vermeiden.",
+          "title": "Breites Spektrum von Pilzbekämpfungsmitteln auftragen"
+        },
+        "S27": {
+          "body": "Mischen Sie kaltgepresstes Neemöl mit Wasser und ein paar Tropfen Spülmittel als Emulgator (typisch 2 TL Neem + 1 TL Seife pro Quart). Sprühen Sie es aus, damit es in der kühlen Abendluft abläuft.",
+          "title": "Neemöl auftragen"
+        },
+        "S28": {
+          "body": "Verdünnen Sie 1 Esslöffel mildes Flüssigspülmittel (ohne Entfettungsmittel) pro Liter Wasser in einer Sprühflasche. Besprühen Sie die Unterseiten und Oberseiten der Blätter, bis sie tropfen. Wieder sprühen Sie alle 2-3 Tage für 1-2 Wochen.",
+          "title": "Insektizides Seife auftragen"
+        },
+        "S29": {
+          "body": "Sprühen Sie Bt auf Blätter und Stängel, an denen Raupen fressen. Raupen müssen es aufnehmen. Bt ist für Bienen, Haustiere und Menschen ungefährlich. Nach Regen erneut auftragen.",
+          "title": "Bacillus thuringiensis (Bt) anwenden"
+        },
+        "S30": {
+          "body": "Verwenden Sie je Etikett ein Pyrethrin- oder Pyrethrum-Insektizid (aus Chrysanthemum gewonnen). Tragen Sie es abends auf, um Bienen zu schützen. Wirksam gegen Thrips, Blattläuse und Käfer.",
+          "title": "Pyrethrin-Spray auftragen"
+        },
+        "S31": {
+          "body": "Bei hartnäckigen oder versteckten Schädlingen sollten Sie den Boden gemäß der Packungsbeilage mit einem systemischen (Imidacloprid, Dinotefuran) übergießen. Die Pflanze nimmt es über die Wurzeln auf, wodurch das Saft für saugende Insekten giftig ist. Vermeiden Sie es bei blühenden Pflanzen, die von Bienen besucht werden.",
+          "title": "Systemisches Insektizid auftragen"
+        },
+        "S32": {
+          "body": "Verwenden Sie einen Schlauchdüsenanschluss auf einer Strahl Einstellung, um Blattläuse, Milben, Melanzanläuse oder Seidenläuse von Blättern und Stängeln zu blasen. Zielen Sie auch unter den Blättern. Wiederholen Sie dies alle paar Tage.",
+          "title": "Sprühen Sie Schädlinge mit einem starken Schlauch ab"
+        },
+        "S33": {
+          "body": "Kaufen Sie Marienkäfer, Schmetterlingsfalter, parasitäre Wespen oder Raubmilben bei einem Gartencenter. Freisetzen Sie sie am Abend in der Nähe der betroffenen Pflanze. Stellen Sie in der Nähe Nektarpflanzen bereit, um sie in der Nähe zu halten.",
+          "title": "Vorteilhafte Insekten freisetzen"
+        },
+        "S34": {
+          "body": "Hängen Sie artsspezifische Pheromontfallen in oder in der Nähe betroffener Pflanzen auf. Die Fallen fangen männliche Schmetterlinge ein und unterdrücken die nächste Generation. Ersetzen Sie die Köder alle 4-6 Wochen während der Saison.",
+          "title": "Pheromonefallen einrichten"
+        },
+        "S35": {
+          "body": "Legen Sie feines Netzgewebe oder schwimmende Reihenabdeckungen über die Pflanzen und befestigen Sie die Ränder mit Steinen oder Nadeln. Schützt vor dem Eiablauchen von Motten, Käfern und Raupen.",
+          "title": "Verwenden Sie Insektennetz oder Reihenabdeckungen"
+        },
+        "S36": {
+          "body": "Verwenden Sie einen N-P-K-ausgewogenen Dünger (z. B. 10-10-10) pro Etikett. Bei Defiziten, die sich in den Blättern zeigen, führen Sie eine Blattfütterung durch, um eine schnelle Aufnahme zu gewährleisten. Kompost ist eine alternative Langzeitfreisetzung.",
+          "title": "Ausgewogene Düngemittel auftragen"
+        },
+        "S37": {
+          "body": "Mischen Sie ein chelatiertes Eisenprodukt pro Etikett und sprühen Sie es direkt auf gelbe Blätter. Schneller als Bodenbewässerung. Wiederholen Sie dies alle 2-3 Wochen, bis das Grün zurückkehrt.",
+          "title": "Anwenden Sie Eisenreiches Blattfutter"
+        },
+        "S38": {
+          "body": "Verwenden Sie ein Bodenuntersuchungstestkit oder senden Sie eine Probe an Ihr örtliches Auslandsbüro. Fügen Sie nach den Testempfehlungen elementaren Schwefel hinzu, um den pH-Wert zu senken, oder Gartenmehlsäure hinzu, um ihn zu erhöhen.",
+          "title": "Testen und ändern Sie den pH-Wert des Bodens"
+        },
+        "S39": {
+          "body": "Bewahren Sie neu gekaufte Pflanzen 2 Wochen lang von Ihrer Sammlung getrennt auf. Überprüfen Sie die Unterseite der Blätter, die Blattverbindungen und die Oberseite des Bodens auf Schädlinge und Krankheiten, bevor Sie sie in Ihre Sammlung einführen.",
+          "title": "Neue Pflanzen inspizieren und in Quarantäne stellen"
+        },
+        "S40": {
+          "body": "Beim Kauf von Pflanzen sollten Sie nach Sorten suchen, die mit einem Etikett gekennzeichnet sind, das sie gegen häufige Krankheiten resistent macht (z. B. \"Tomaten mit Verticillium-Resistenz\", \"Rosen mit Rostresistenz\"). Lokale Baumschulen und Saatgutpakete führen Resistenzcodes auf.",
+          "title": "Wählen Sie widerstandsfähige Sorten"
+        },
+        "S41": {
+          "body": "Rasen Sie fallenen Laub, Früchte und tote Zweige unter die Pflanzen weg - besonders im Herbst. Viele Erreger überwintern im Pflanzendreck und infizieren sich im Frühjahr erneut.",
+          "title": "Räumung von Schutt rund um Pflanzen"
+        },
+        "S42": {
+          "body": "Pflanzen Sie nicht zwei Jahre in Folge dieselbe Art - oder ihre botanischen Verwandten - an denselben Ort. Eine 3-jährige Rotation unterbricht das Lebenszyklus von Bodenkrankheiten und Schädlingen.",
+          "title": "Wechseln Sie die Kulturen zwischen den Jahreszeiten"
+        },
+        "S43": {
+          "body": "Wenn mehr als die Hälfte der Pflanze betroffen ist oder die Wurzelfäule weit verbreitet ist, graben Sie die Pflanze aus, verschließen Sie sie in einen schweren Müllbeutel und entsorgen Sie sie. Sterilisieren Sie den Bereich vor der Neupflanzung.",
+          "title": "Entsorgen Sie die stark infizierte Pflanze"
+        },
+        "S44": {
+          "body": "Legen Sie leere Töpfe 10 Minuten lang in eine 1:9-Bleichmittel-Wasser-Lösung ein, spülen Sie sie dann gründlich mit sauberem Wasser ab und trocknen Sie sie vor dem Auffüllen mit frischem Erde lufttrocken.",
+          "title": "Töpfe vor der Wiederverwendung sterilisieren"
+        }
+      }
+    }
+  }
+}

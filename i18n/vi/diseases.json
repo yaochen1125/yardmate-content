@@ -1,0 +1,4159 @@
+{
+  "schema_version": 1,
+  "locale": "vi",
+  "source": {
+    "resource": "diseases.json",
+    "sha256": "41126fad245c663221405bac99a4b1ad80d740dda790d7c153fb0c2990701823"
+  },
+  "fields": {
+    "categories": {
+      "FL": {
+        "label": "Hoa"
+      },
+      "FR": {
+        "label": "Trái cây"
+      },
+      "L": {
+        "label": "Những chiếc lá"
+      },
+      "P": {
+        "label": "Những loài côn trùng gây hại"
+      },
+      "R": {
+        "label": "Rễ"
+      },
+      "ST": {
+        "label": "Cành cây"
+      }
+    },
+    "diseases": {
+      "FL01": {
+        "name": "Rữa hoa",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Không bao giờ phun hoa từ trên cao"
+                },
+                {
+                  "title": "Cây trồng trong không gian để tạo luồng không khí"
+                },
+                {
+                  "title": "Rửa sạch cánh hoa và mảnh vụn rơi xuống một cách nhanh chóng"
+                },
+                {
+                  "title": "Chọn các giống cây kháng bệnh"
+                },
+                {
+                  "title": "Chuyển đổi hàng năm các khu vườn hoa"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Hoa nở mềm mại, nhão nhụa, màu nâu",
+        "symptomAnalysis": "Hai nguyên nhân chính:\n1. **Mưa lớn hoặc tưới quá nhiều nước** — nước đọng trong hoa và làm hỏng cánh hoa từ bên trong.\n2. **Viêm nhiễm vi khuẩn** — xâm nhập qua các vết thương nhỏ và lây lan nhanh chóng trong thời tiết ấm ẩm.\n\nNếu để yên một mình, nấm mốc có thể lan xuống thân cây và lây nhiễm đến lá và các cây xung quanh.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Cắt bỏ tất cả những bông hoa mục nát"
+                },
+                {
+                  "title": "Làm sạch tay hoặc cắt tỉa giữa các vết cắt bằng cách khử trùng."
+                },
+                {
+                  "title": "Cắt bỏ bất kỳ thân mềm, bị biến màu nào bên dưới nụ hoa"
+                },
+                {
+                  "title": "Chuyển sang tưới nước cơ bản chỉ"
+                },
+                {
+                  "body": "Phun thuốc diệt nấm có chứa đồng (mixture Bordeaux, đồng sunfat hoặc hydroxide đồng thương mại) lên lá, thân và đất xung quanh theo nhãn sản phẩm. Áp dụng lại mỗi 7-14 ngày. Nếu hầu hết các bông hoa và thân bị nhiễm trùng: *Vứt bỏ Cây bị nhiễm nặng* (xem 5.1).",
+                  "subSteps": [
+                    {
+                      "title": "Vứt bỏ cây bị nhiễm nặng"
+                    }
+                  ],
+                  "title": "Để ngăn ngừa sự lây lan của vi khuẩn, hãy thoa thuốc diệt khuẩn bằng đồng theo nhãn mác."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "FL02": {
+        "name": "Hoa tàn úa",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Che bằng vải chống sương giá trước những đêm lạnh"
+                },
+                {
+                  "title": "Mang các loại cây hoa trồng trong chậu vào trong nhà qua đêm vào đầu mùa xuân hoặc cuối mùa thu"
+                },
+                {
+                  "title": "Chọn các giống cây chịu lạnh và cứng cáp phù hợp với khu vực của bạn"
+                },
+                {
+                  "title": "Không bón phân nitơ sau giữa mùa hè; sự phát triển mới mềm yếu dễ bị sương giá hơn."
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Hoa khô màu nâu sau khi bị sương giá hoặc cuối mùa",
+        "symptomAnalysis": "Hai nguyên nhân chính:\n1. **Sự hư hại do lạnh hoặc sương giá** - nhiệt độ đột ngột giảm làm đông các tế bào hoa, gây ra sự chuyển màu nâu. Nhiều loại hoa không thể chịu được nhiệt độ dưới 50°F (10°C).\n2. **Kết thúc cuộc đời bình thường** — các loài hoa hàng năm và hàng năm tàn lụi vào cuối mùa sinh trưởng khi cây chuyển sang giai đoạn ra hạt.\n\nNếu sự héo úa xảy ra sau một đợt lạnh, nguyên nhân là do môi trường. Nếu nó xảy ra vào cuối mùa khi quả hạt đang hình thành, thì đó là điều tự nhiên.",
+        "treatment": {
+          "groups": [
+            {
+              "label": "Đối với thiệt hại do sương giá",
+              "steps": [
+                {
+                  "title": "Nhúng sương nhẹ nhàng trước khi mặt trời chiếu sáng lên cây bị phủ sương"
+                },
+                {
+                  "title": "Khi đã tan chảy, hãy nhúng nhẹ vào những bông hoa bị hư hỏng nặng."
+                },
+                {
+                  "title": "Che phủ vào ban đêm cho đến khi nguy cơ bị sương giá qua đi"
+                }
+              ]
+            },
+            {
+              "label": "Đối với cuối đời",
+              "steps": [
+                {
+                  "title": "Kéo nhẹ các bông hoa và nụ hoa bị ảnh hưởng"
+                },
+                {
+                  "title": "Không làm gì cả - chu kỳ tự nhiên"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "FL03": {
+        "name": "Những bông hoa héo úa",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Đổ nước sâu và đều đặn"
+                },
+                {
+                  "title": "Chọn các giống cây kháng héo (tìm kiếm \"VFN\" trên hạt cà chua/dâu tây)"
+                },
+                {
+                  "title": "Chuyển đổi cây trồng giữa các mùa"
+                },
+                {
+                  "title": "Thùng phủ giữ độ ẩm cho đất đều đều"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Cành cây héo úa, cánh hoa rụng sớm",
+        "symptomAnalysis": "Hoa héo có thể xuất phát từ nhiều hướng:\n\n- **Áp lực nước** — quá nhiều hoặc quá ít. Lá hoa mềm, giấy từ hạn hán; thân mềm nhão từ tưới quá nhiều nước.\n- **Nóng / ánh nắng mặt trời mạnh** — cánh hoa bị cháy và cong lại ở mặt hướng nắng.\n- **Bệnh héo mạch** — các loại nấm lây lan qua đất như *Verticillium* hoặc *Fusarium* làm tắc nghẽn mô vận chuyển nước của cây. Các thân cây héo dù đất ẩm ướt.\n- **Rối loạn rễ** — xem [R01](../05_roots/root-rot.md). Rễ bị hư hỏng không thể cung cấp nước cho hoa.\n\nTrước tiên hãy xác định nguyên nhân. Những thân cây héo úa chỉ vào những buổi chiều nóng nhưng phục hồi vào ban đêm là bị căng thẳng nhiệt độ; những thân cây héo úa và vẫn héo úa bất kể độ ẩm của đất đều cho thấy bệnh tật hoặc tổn thương rễ.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "body": "Nếu ướt → *Giảm tần suất tưới nước* (xem 1.1).",
+                  "subSteps": [
+                    {
+                      "title": "Giảm tần suất tưới nước"
+                    }
+                  ],
+                  "title": "Kiểm tra đất bằng ngón tay: nếu khô → [S17](../shared/treatment-steps.md#s17-water-deeply-but-less-often)"
+                },
+                {
+                  "title": "Nếu bị căng thẳng do nhiệt độ cao, hãy chuyển sang chỗ râm mát vào buổi chiều."
+                },
+                {
+                  "title": "Cắt tỉa những lá cây héo úa để giảm nhu cầu"
+                },
+                {
+                  "body": "Đặt kéo cắt cành, kéo hoặc lưỡi dao vào dung dịch pha 1:4 nước và chất tẩy trắng (hoặc cồn rubbing 70%) trước mỗi lần cắt và giữa mỗi cây. Vệ sinh khô ráo trước khi cắt. Nếu nguyên nhân là bệnh héo rễ do vi khuẩn: *Vứt bỏ cây bị nhiễm nặng* (xem 4.1). Nấm mốc tồn tại trong đất trong nhiều năm.",
+                  "subSteps": [
+                    {
+                      "title": "Vứt bỏ cây bị nhiễm nặng"
+                    }
+                  ],
+                  "title": "Tiêu trùng các dụng cụ giữa các lần cắt"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "FL04": {
+        "name": "Sự rụng của nụ",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Làm quen với cây trồng một cách chậm rãi khi di chuyển chúng"
+                },
+                {
+                  "title": "Nước theo lịch trình, không theo cảm tính"
+                },
+                {
+                  "title": "Giữ độ ẩm từ 40-60% cho các loài hoa nở trong nhà"
+                },
+                {
+                  "title": "Sử dụng phân bón có công thức cân bằng hoặc hoa nở; tránh sử dụng quá nhiều nitơ trong giai đoạn ra hoa."
+                },
+                {
+                  "title": "Đừng chuyển chậu cho một cây đang hình thành nụ — chúng sẽ rơi xuống do sự xáo trộn"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Hoa nụ hình thành rồi rụng trước khi nở",
+        "symptomAnalysis": "Một phản ứng căng thẳng, không phải là một bệnh. Cây đang tiết kiệm năng lượng bằng cách hủy bỏ những nụ hoa mà nó không thể hỗ trợ. Các yếu tố kích hoạt phổ biến:\n\n- **Sự thay đổi môi trường đột ngột** — chuyển từ trong nhà/ngoài trời, luồng không khí, thay đổi nhiệt độ đột ngột.\n- **Đặt tưới nước không đều** — để đất khô quá lâu, sau đó ngập úng nó.\n- **Độ ẩm thấp** — phổ biến trong nhà; các loài hoa nhiệt đới (hoa giấy, hoa nhài) rất nhạy cảm.\n- **Ánh sáng không đủ** — nụ hoa hình thành nhưng không có đủ năng lượng để mở ra.\n- **Bón quá nhiều phân** — quá nhiều nitơ đẩy quá mức sự phát triển của lá với cái giá phải trả là hoa.\n- **Áp lực của sâu bệnh** — côn trùng thrips và ruồi giấm ăn trong các nụ hoa đang phát triển. Xem [02_pests/](../02_pests/).",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Thiết lập một nhịp tưới nước nhất quán"
+                },
+                {
+                  "title": "Tăng độ ẩm cho các loài hoa nhiệt đới nở hoa"
+                },
+                {
+                  "body": "Để nó ổn định ở một địa điểm.",
+                  "title": "Đừng di chuyển cây trồng nữa"
+                },
+                {
+                  "title": "Tạm dừng phân bón trong 2-4 tuần; tiếp tục với công thức phát triển hoa ít nitơ (P cao, như 5-10-5)"
+                },
+                {
+                  "body": "Nếu tìm thấy, hãy xem mục côn trùng gây hại liên quan.",
+                  "title": "Kiểm tra nụ hoa để tìm ký sinh trùng"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "FL05": {
+        "name": "Bệnh đốm lá hoa",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Nước ở gốc"
+                },
+                {
+                  "title": "Không gian và tỉa cành để tạo luồng không khí"
+                },
+                {
+                  "title": "Loại bỏ những bông hoa đã tàn trước khi chúng mục nát"
+                },
+                {
+                  "title": "Chọn giống cây có hoa cánh đơn hoặc hoa dạng mở"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Mùi mốc lông tơ màu xám nâu trên cánh hoa",
+        "symptomAnalysis": "Nấm *Botrytis cinerea* (màu xám) tấn công cánh hoa nhạt màu hoặc bị hư hỏng trước, sau đó lan rộng đến những cánh hoa khỏe mạnh. Phát triển mạnh trong không khí mát mẻ, ẩm ướt, tĩnh lặng - đầu xuân, cuối thu hoặc bất kỳ đợt mưa nào. Hoa hồng, hoa anh đào, hoa cúc, hoa thủy tiên và hoa anh đào là những loài cây chủ nhà phổ biến.\n\nĐối với loại nấm giống nhau trên lá và thân cây, hãy xem [L23 — Nấm mốc xám](../01_leaves/gray-mold.md).",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Loại bỏ mọi bông hoa bị nhiễm trùng, bao gồm cả bất kỳ nụ hoa nào đang mở một phần gần đó."
+                },
+                {
+                  "title": "Tiêu trùng các dụng cụ giữa các lần cắt"
+                },
+                {
+                  "title": "Rửa sạch những cánh hoa và lá rụng dưới cây"
+                },
+                {
+                  "title": "Áp dụng thuốc diệt nấm đồng nếu nhiễm trùng lan rộng"
+                },
+                {
+                  "title": "Mở luồng không khí bằng cách tỉa cành chọn lọc"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "FL06": {
+        "name": "Không nở hoa",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Đảm bảo cây phù hợp với điều kiện ánh sáng của bạn trước khi mua."
+                },
+                {
+                  "title": "Sử dụng phân bón có công thức cân bằng hoặc phân bón phát triển hoa; bỏ qua thức ăn chứa nitơ nguyên chất cho những cây phát triển hoa."
+                },
+                {
+                  "title": "Hãy kiên nhẫn với các loại cây lâu năm và bụi cây mới"
+                },
+                {
+                  "title": "Nước liên tục"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Cây trồng khỏe mạnh sẽ ít hoặc không có hoa.",
+        "symptomAnalysis": "Không phải là một bệnh tật. Cây có năng lượng để phát triển lá nhưng không được kích hoạt để ra hoa. Nguyên nhân phổ biến:\n\n- **Ánh sáng không đủ** — hầu hết các loài thực vật có hoa cần 6+ giờ ánh sáng mạnh mỗi ngày.\n- **Quá nhiều nitơ** — đẩy quá trình phát triển lá ở mức độ có thể gây hại cho hoa.\n- **Chu kỳ nhiệt độ sai** — nhiều loài hoa cần tín hiệu đêm mát mẻ (ví dụ: lan, cây xương rồng Giáng sinh).\n- **Cây quá non** — các loại cây lâu năm, cây ăn quả và nhiều loại bụi cây có thể mất 1-3 năm trước khi nở hoa lần đầu tiên.\n- **Cắt tỉa gần đây vào thời điểm sai** — cắt bỏ nụ hoa (một số loài cây tạo ra nụ vào năm trước trên gỗ cũ).\n- **Bị ràng buộc bởi rễ** — xem [R04](../05_roots/pot-bound.md). Đôi khi một chậu quá chặt sẽ kích hoạt quá trình phát triển, nhưng việc ràng buộc rễ quá mức sẽ tắt nó đi.\n- **Đặt cây tưới nước khô hoặc không đều** — các cây chịu hạn sẽ làm rụng các vị trí hoa蕾.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Di chuyển đến một vị trí sáng sủa hơn"
+                },
+                {
+                  "title": "Chuyển sang phân bón theo công thức phát triển hoa (N thấp hơn, P cao hơn, ví dụ: 5-10-5)"
+                },
+                {
+                  "body": "Cây xương rồng Giáng sinh cần những đêm mát mẻ và ngày ngắn; cây hoa lan cần những ngày ấm áp và không khí ẩm ướt.",
+                  "title": "Nghiên cứu kích hoạt nở hoa của cây trồng cụ thể của bạn"
+                },
+                {
+                  "title": "Tránh cắt tỉa cho đến khi bạn xác nhận xem loài cây đó có nở hoa trên gỗ mới hay gỗ cũ không"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "FL07": {
+        "name": "Hoa nụ có đốm",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Cây trồng trong không gian để tạo luồng không khí"
+                },
+                {
+                  "title": "Nước ở gốc cây, đừng bao giờ đổ lên đầu cây."
+                },
+                {
+                  "title": "Rửa sạch những cánh hoa rụng và lá chết thường xuyên"
+                },
+                {
+                  "title": "Phun kẽm phòng ngừa vào đầu mùa xuân trên những bông hồng hoặc hoa anh đào dễ bị nhiễm bệnh."
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Các đốm nâu hoặc đốm tối xuất hiện trên nụ hoa trước khi chúng nở.",
+        "symptomAnalysis": "Những nụ hoa có đốm thường bắt nguồn từ nhiễm trùng do nấm hoặc vi khuẩn - bệnh thối lá, bệnh đen lá hoặc các tác nhân gây bệnh lỗ bắn - đã lây lan từ lá hoặc cánh hoa rụng lên các nụ hoa đang phát triển. Thời tiết ẩm ướt, trồng cây dày đặc và các mảnh vụn bị ô nhiễm xung quanh cây làm tăng tốc độ lây lan. Những nụ hoa có đốm có thể không nở, nở thành hoa biến dạng hoặc thối rữa trước khi có màu sắc.\n\nNếu vấn đề xuất hiện trên cánh hoa sau khi nụ hoa nở (không phải bề mặt của nụ hoa), hãy xem [FL05 — Bệnh đốm cánh hoa](petal-blight.md).",
+        "treatment": {
+          "groups": [
+            {
+              "label": "Đối với các trường hợp nhẹ",
+              "steps": [
+                {
+                  "title": "Kéo nhẹ các nụ hoa có đốm để loại bỏ và vứt đi."
+                },
+                {
+                  "title": "Làm sạch dụng cụ giữa các vết cắt để tránh vi trùng không di chuyển từ nụ hoa này sang nụ hoa khác."
+                },
+                {
+                  "title": "Rửa sạch những cánh hoa và lá rụng xung quanh cây"
+                }
+              ]
+            },
+            {
+              "label": "Đối với các trường hợp nghiêm trọng",
+              "steps": [
+                {
+                  "title": "Kéo nhẹ tất cả những nụ hoa bị ảnh hưởng rõ ràng"
+                },
+                {
+                  "title": "Phun thuốc diệt nấm đồng lên các chồi và lá còn lại"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "FR01": {
+        "name": "Điểm trái cây",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Mua các giống cây kháng điểm"
+                },
+                {
+                  "title": "Chuyển đổi cây trồng trái cây hàng năm mỗi 3 năm một lần"
+                },
+                {
+                  "title": "Loại bỏ tất cả trái cây và lá rụng vào cuối mùa"
+                },
+                {
+                  "title": "Chỉ tưới nhỏ giọt hoặc tưới gốc"
+                },
+                {
+                  "title": "Cây trồng trong không gian để tạo luồng không khí"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Các vệt màu nâu hoặc đen và tổn thương trên vỏ trái cây",
+        "symptomAnalysis": "Điểm nhiễm bệnh trên trái cây là một thuật ngữ chung cho các nhiễm trùng do vi khuẩn và nấm gây ra, gây ra các tổn thương sẫm màu trên trái cây. Các tác nhân gây bệnh di chuyển theo gió, mưa bắn, côn trùng và các dụng cụ. Chúng trú đông trong các mảnh vụn cây và tái nhiễm vào mùa xuân. Điều kiện ẩm ướt làm tăng tốc độ lây lan. Trái cây có điểm nhiễm bệnh nghiêm trọng có thể không ăn được; trái cây có điểm nhiễm bệnh nhẹ thường ổn sau khi cắt bỏ điểm nhiễm bệnh.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Loại bỏ và phá hủy những quả có vết bẩn nghiêm trọng"
+                },
+                {
+                  "title": "Cắt tỉa những cành cây bị nhiễm bệnh có thể chứa mầm bệnh"
+                },
+                {
+                  "title": "Tiêu trùng các dụng cụ giữa các lần cắt"
+                },
+                {
+                  "title": "Áp dụng thuốc diệt nấm/bactericide bằng đồng theo nhãn mác"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "FR02": {
+        "name": "Rữa trái cây",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Việc tưới nước đều đặn là yếu tố lớn nhất duy nhất"
+                },
+                {
+                  "title": "lớp phủ"
+                },
+                {
+                  "title": "Sử dụng phân bón cân đối"
+                },
+                {
+                  "title": "Trái cây mỏng và nho mọng để tạo luồng không khí"
+                },
+                {
+                  "title": "Cắt quả kịp thời khi chín"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Rò rỉ màu nâu, đen ở đầu hoa, nấm mốc",
+        "symptomAnalysis": "Ba mẫu phổ biến:\n\n1. **Bệnh thối ở phần cuống hoa** — miệng hố đen sụp xuống ở đáy của cà chua, ớt chuông, bí ngô. Được gây ra bởi thiếu hụt canxi trong quả, không phải là một bệnh. Việc tưới nước không đều làm gián đoạn quá trình hấp thụ canxi.\n2. **Rò rỉ màu nâu (màu nấm)** - những đốm nâu nhỏ lan rộng và có thể phát triển thành các đống bào tử lông tơ màu nâu xám. Ảnh hưởng đến các loại trái cây có múi (dưa đào, mận, anh đào).\n3. **Rò rỉ quá chín** — trái cây bị để trên cây quá chín, thu hút côn trùng và nấm mốc.",
+        "treatment": {
+          "groups": [
+            {
+              "label": "Đối với bệnh thối rễ ở hoa",
+              "steps": [
+                {
+                  "title": "Thiết lập tưới nước sâu đều đặn"
+                },
+                {
+                  "title": "Thùng phủ giữ độ ẩm cho đất đều đều"
+                },
+                {
+                  "title": "Loại bỏ quả bị ảnh hưởng để cây chuyển hướng canxi sang quả còn lại"
+                }
+              ]
+            },
+            {
+              "label": "Đối với bệnh thối nâu",
+              "steps": [
+                {
+                  "title": "Loại bỏ tất cả các loại trái cây mục nát rõ ràng, bao gồm cả những loại trên mặt đất"
+                },
+                {
+                  "title": "Cắt tỉa những cành cây bị ảnh hưởng"
+                },
+                {
+                  "title": "Áp dụng thuốc diệt nấm đồng lên trái cây đang chín, không phải trái cây còn xanh."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "FR03": {
+        "name": "Sự biến dạng của trái cây",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "body": "Thụ phấn bằng tay cho bí và dưa với một chiếc cọ vẽ nhỏ nếu bạn thấy ít ong.",
+                  "title": "Trồng những loại hoa thân thiện với các loài thụ phấn gần đó"
+                },
+                {
+                  "title": "Che phủ các loài thực vật có hoa khỏi sương giá muộn"
+                },
+                {
+                  "title": "Độ ẩm ổn định, đặc biệt là trong giai đoạn ra quả"
+                },
+                {
+                  "title": "Áp dụng phân bón phát tán chậm khi trồng cây"
+                },
+                {
+                  "body": "Xem [02_pests/](../02_pests/).",
+                  "title": "Kiểm tra xem có thiệt hại do côn trùng gây ra trên trái cây đang phát triển không"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Trái cây không đều, chưa chín hoàn toàn hoặc bị tách ra",
+        "symptomAnalysis": "Một số yếu tố:\n\n- **Phụ thuộc thụ phấn kém** — ong bỏ lỡ một số hạt phấn, vì vậy quả phát triển không đều. Thường gặp: dâu tây đầu nhọn, dưa chuột lõm.\n- **Chỗ tưới nước** — hạn hán tiếp theo là lượng nước lớn có thể gây nứt nẻ; độ ẩm không đều gây ra hiện tượng mèo đối diện ở cà chua.\n- **Nhiệt độ cực đoan** — lạnh trong quá trình ra hoa làm hỏng quả đang phát triển.\n- **Thiếu hụt chất dinh dưỡng** — thiếu boron và canxi gây chậm phát triển và hình dạng kỳ lạ.\n- **Sự hư hại của côn trùng ở giai đoạn nụ** — những con côn trùng ăn hoa làm cho cây bị xỉn màu, để lại sẹo và nếp nhăn.\n\nHầu hết các loại trái cây bị biến dạng vẫn có thể ăn được.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Loại bỏ những quả xấu nhất để cây tập trung vào những quả khỏe mạnh"
+                },
+                {
+                  "title": "Đảm bảo tưới nước ngay lập tức"
+                },
+                {
+                  "title": "Áp dụng phân bón cân đối với các vi chất dinh dưỡng (boron, canxi)"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "FR04": {
+        "name": "Hoa quả héo úa",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Loại bỏ tất cả trái cây rụng vào cuối mùa"
+                },
+                {
+                  "title": "Cắm cây lên khỏi mặt đất"
+                },
+                {
+                  "title": "Cắt tỉa để tạo luồng không khí trong mùa ngủ đông"
+                },
+                {
+                  "title": "Phun kẽm phòng ngừa vào thời điểm ra hoa và một lần nữa trước khi thu hoạch"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Những quả mummified héo úa treo trên cây",
+        "symptomAnalysis": "Một bệnh nhiễm trùng nấm (thường là *Monilinia* trên các loại trái cây có múi) mà tồn tại qua mùa đông trong các mảnh vụn trái cây và cây khô. Các bào tử bắn tung ra vào mùa xuân và lây nhiễm vào các bông hoa mới và trái cây đang phát triển, sau đó chúng bị khô trước khi chín. Thời tiết mùa xuân/mùa hè ấm áp và ẩm ướt thúc đẩy các đợt bùng phát.\n\nNhững quả cây bị ướp xác mà bạn thấy vào mùa đông hoặc cuối mùa là nguồn lây nhiễm cho năm sau.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Cắt bỏ từng xác ướp héo úa khỏi cây và khỏi mặt đất"
+                },
+                {
+                  "title": "Cắt tỉa bất kỳ cành cây nào bị ảnh hưởng"
+                },
+                {
+                  "title": "Phun thuốc diệt nấm đồng"
+                },
+                {
+                  "title": "Mở rộng tán cây bằng cách tỉa cành chọn lọc"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "FR05": {
+        "homeRemedies": [
+          null,
+          {
+            "ingredients": [
+              {
+                "name": "thuốc aspirin",
+                "quantity": "1 viên nén"
+              },
+              {
+                "name": "nước",
+                "quantity": "1 gallon"
+              },
+              {
+                "name": "sữa rửa bát",
+                "quantity": "một vài giọt"
+              }
+            ]
+          }
+        ],
+        "name": "Mùi mốc trên trái cây",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Cào sạch các mảnh vụn mục nát và quả rơi xuống"
+                },
+                {
+                  "title": "Chỉ tưới nhỏ giọt"
+                },
+                {
+                  "title": "Đừng quá đông đúc"
+                },
+                {
+                  "title": "Đừng bón quá nhiều phân bón sớm"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Mùi mốc xám, trắng hoặc nâu nhám trên bề mặt trái cây",
+        "symptomAnalysis": "Một loạt các loại nấm gây ra nấm mốc mờ trên trái cây. Chúng phát triển mạnh trong điều kiện mát mẻ, ẩm ướt, không có gió - mùa sớm và mùa muộn. Ngay cả một nhiễm trùng nhẹ cũng làm hỏng trái cây; một nhiễm trùng nghiêm trọng cũng tiêu diệt toàn bộ cây. Thường đi kèm với bệnh thối ở phần cuối hoa hoặc thiệt hại do côn trùng gây ra, tạo ra điểm xâm nhập cho nấm.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Loại bỏ tất cả trái cây bị mốc, bao gồm cả bất kỳ trái cây nào trên mặt đất"
+                },
+                {
+                  "title": "Cắt tỉa những lá và thân bị ảnh hưởng gần quả bị mốc."
+                },
+                {
+                  "title": "Cắt tỉa lại sự phát triển xung quanh để tăng luồng không khí"
+                },
+                {
+                  "title": "Áp dụng thuốc diệt nấm đồng lên các quả chín còn lại"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "FR06": {
+        "homeRemedies": [
+          {
+            "ingredients": [
+              {
+                "name": "natri bicacbonat",
+                "quantity": "1 thìa cà phê"
+              },
+              {
+                "name": "sữa rửa bát",
+                "quantity": "1 thìa cà phê"
+              },
+              {
+                "name": "nước",
+                "quantity": "1 lít"
+              }
+            ]
+          },
+          {
+            "ingredients": [
+              {
+                "name": "sữa",
+                "quantity": "1 phần"
+              },
+              {
+                "name": "nước",
+                "quantity": "9 phần"
+              }
+            ]
+          }
+        ],
+        "name": "Bệnh mốc phấn trên trái cây",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Mua các giống cây kháng nấm mốc (đặc biệt là bí, dưa chuột, dưa hấu)"
+                },
+                {
+                  "title": "Lưới tưới nhỏ giọt, không phải tưới từ trên cao"
+                },
+                {
+                  "title": "Khoảng cách rộng"
+                },
+                {
+                  "title": "Rửa sạch các mảnh vụn trước khi mùa đông đến"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Vỏ phủ bột trắng trên quả và thân cây",
+        "symptomAnalysis": "Các loại nấm mốc phấn trắng ưa thích những ngày ấm áp, khô ráo và những đêm mát mẻ, ẩm ướt - trái ngược với hầu hết các bệnh nấm. Các đợt bùng phát từ giữa đến cuối mùa hè là điển hình. Lớp phủ màu trắng là nấm đang phát triển trên bề mặt; nó hiếm khi giết chết quả nhưng làm giảm năng suất, làm hỏng vẻ ngoài và có thể lây lan sang phần còn lại của cây.\n\nĐối với loại nấm mốc giống nhau trên lá, hãy xem [L20 — Rệp mốc phấn trắng](../01_leaves/powdery-mildew.md).",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Cắt bỏ những quả bị mốc nặng"
+                },
+                {
+                  "title": "Cắt bỏ những lá và thân bị mốc gần đó"
+                },
+                {
+                  "title": "Mở rộng tán cây bằng cách tỉa cành chọn lọc"
+                },
+                {
+                  "title": "Áp dụng thuốc diệt nấm đồng cho các trường hợp cứng đầu"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "FR07": {
+        "name": "Cắt vỡ trái cây",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Độ ẩm ổn định là yếu tố lớn nhất duy nhất"
+                },
+                {
+                  "title": "Cứt lớp phủ dày để cân bằng độ ẩm của đất."
+                },
+                {
+                  "title": "Mua các giống cây kháng nứt nẻ (ví dụ"
+                },
+                {
+                  "title": "Thu hoạch ngay trước khi đạt độ chín cao nhất nếu dự báo mưa lớn"
+                },
+                {
+                  "title": "Cắm trái cây nặng để tránh căng thẳng cho da."
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Các vết nứt và rạn nứt trên vỏ trái cây",
+        "symptomAnalysis": "Sự nứt vỡ xảy ra khi quá trình phát triển của trái cây tăng tốc nhanh hơn so với khả năng giãn nở của vỏ. Nguyên nhân kích hoạt phổ biến nhất là một đợt nước đột ngột tràn ngập - mưa lớn hoặc tưới nước sâu sau một đợt hạn hán. Các giống có vỏ mỏng ngọt là dễ bị tổn thương nhất.\n\nQuả bị nứt sẽ thu hút côn trùng và nấm mốc nhanh chóng, nhưng chính quả vẫn có thể ăn được nếu được hái kịp thời.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "body": "Đừng đợi cho đến khi chín hoàn toàn — chúng sẽ bị mục nát hoặc nứt ra thêm.",
+                  "title": "Chọn quả bị nứt ngay lập tức"
+                },
+                {
+                  "title": "Vứt bỏ trái cây bị mốc hoặc hư hỏng do côn trùng trong các vết nứt"
+                },
+                {
+                  "title": "Hãy tiếp tục tưới nước đều đặn ngay lập tức"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "L01": {
+        "homeRemedies": [
+          {
+            "ingredients": [
+              {
+                "name": "thuốc aspirin",
+                "quantity": "1 viên nén"
+              },
+              {
+                "name": "nước",
+                "quantity": "1 gallon"
+              },
+              {
+                "name": "sữa rửa bát",
+                "quantity": "một vài giọt"
+              }
+            ]
+          }
+        ],
+        "name": "Vệt nâu",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Chọn các giống cây kháng bệnh"
+                },
+                {
+                  "title": "Nước ở gốc cây, không phải ở trên cao"
+                },
+                {
+                  "title": "Cây trồng trong không gian để tạo luồng không khí"
+                },
+                {
+                  "title": "Rửa sạch những chiếc lá và mảnh vụn rơi xuống"
+                },
+                {
+                  "title": "Phun kẽm phòng ngừa trong các suối ẩm ướt"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Những đốm nâu hoặc những chấm nâu nhỏ trên lá",
+        "symptomAnalysis": "Vệt nâu là nhãn dán chung cho các nhiễm trùng do nấm và vi khuẩn gây ra, gây ra các tổn thương màu nâu trên lá. Nguyên nhân khác nhau, nhưng các tình trạng thường tương tự nhau: lá ẩm ướt, luồng không khí kém và các mảnh vụn bị ô nhiễm chứa bào tử. Nếu để yên, vết nâu làm suy yếu cây và mở cửa cho các bệnh gây hại hơn.\n\nCho dù nốt ruồi là một trong ba kiểu hình (lỗ lớn, lỗ có chấm vàng hoặc những chấm nhỏ và dày đặc) thì điều trị cũng không thay đổi.",
+        "treatment": {
+          "groups": [
+            {
+              "label": "Đối với các trường hợp nhẹ (dưới 50% lá bị ảnh hưởng)",
+              "steps": [
+                {
+                  "title": "Cắt bỏ những lá bị nhiễm bệnh"
+                },
+                {
+                  "title": "Tiêu trùng các dụng cụ giữa các lần cắt"
+                },
+                {
+                  "title": "Theo dõi hàng tuần để biết các điểm mới"
+                }
+              ]
+            },
+            {
+              "label": "Đối với các trường hợp nghiêm trọng",
+              "steps": [
+                {
+                  "title": "Cắt tỉa tất cả các lá bị nhiễm bệnh"
+                },
+                {
+                  "title": "Áp dụng thuốc diệt nấm/bactericide bằng đồng"
+                },
+                {
+                  "title": "Mở luồng không khí"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "L02": {
+        "name": "x. blind spot",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Mua các giống hoa hồng chống lại vết đen"
+                },
+                {
+                  "title": "Cào sạch tất cả những chiếc lá rụng"
+                },
+                {
+                  "title": "Chỉ tưới nhỏ giọt"
+                },
+                {
+                  "title": "Thùng phủ giảm thiểu sự bắn ngược đất"
+                },
+                {
+                  "title": "Phun kẽm phòng ngừa vào đầu mùa xuân"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Những đốm đen hoặc những chấm đen dày đặc trên lá",
+        "symptomAnalysis": "Hầu hết các trường hợp nhiễm nấm - *Diplocarpon rosae* trên hoa hồng là ví dụ điển hình trong sách giáo khoa, nhưng các loại nấm khác cũng gây ra tổn thương tương tự trên các vật chủ khác nhau. Loại nấm phát triển mạnh trong điều kiện ẩm ướt và lây lan khi nước bắn ra các bào tử lên lá. Các trường hợp nhẹ chủ yếu là thẩm mỹ; các trường hợp nghiêm trọng làm cho cây rụng lá và suy yếu nó trong mùa tiếp theo.",
+        "treatment": {
+          "groups": [
+            {
+              "label": "Đối với các trường hợp nhẹ (dưới 50% lá)",
+              "steps": [
+                {
+                  "title": "Kéo nhẹ các lá có đốm"
+                },
+                {
+                  "title": "Tiêu trùng các dụng cụ giữa các lần cắt"
+                }
+              ]
+            },
+            {
+              "label": "Đối với các trường hợp nghiêm trọng",
+              "steps": [
+                {
+                  "title": "Cắt tỉa tất cả những lá có đốm"
+                },
+                {
+                  "title": "Thuốc diệt nấm bằng đồng mỗi 7-14 ngày"
+                },
+                {
+                  "title": "Chuyển sang thuốc diệt nấm toàn thân cho các trường hợp khó chịu"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "L03": {
+        "name": "Bệnh cháy lá và cháy nắng lá",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Chọn các giống phù hợp với khí hậu của bạn"
+                },
+                {
+                  "title": "Đổ nước sâu và đều đặn"
+                },
+                {
+                  "title": "Thùng phủ giữ ẩm để giữ ẩm"
+                },
+                {
+                  "title": "Kiểm tra các cây trồng mới để phát hiện sớm các triệu chứng cháy sớm"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Mép và đầu nhọn khô màu nâu, vầng hào quang màu vàng",
+        "symptomAnalysis": "Ba nguyên nhân:\n\n1. **Áp lực nhiệt độ và ánh nắng** - lá mất nước nhanh hơn rễ có thể cung cấp. Lá hướng về mặt trời sẽ bị vàng nâu trước.\n2. **Chức năng rễ kém** - đất bị nén chặt, tổn thương rễ hoặc quá nhiều phân bón ngăn rễ hấp thụ đủ nước. Cây trông bị cháy thậm chí vào một ngày bình thường.\n3. **Hư tổn lá do vi khuẩn** (*Xylella fastidiosa*) — bệnh mãn tính tái phát hàng năm. Ảnh hưởng đến lá già nhất trước; lá mới hơn vẫn giữ sạch sẽ. Bị vĩnh viễn.\n\nMột khi lá chuyển sang màu nâu, chúng không thể hồi phục được nữa. Mục tiêu là cứu phần còn lại của cây.",
+        "treatment": {
+          "groups": [
+            {
+              "label": "Đối với ánh nắng mặt trời/nóng bức",
+              "steps": [
+                {
+                  "title": "Đổ nước sâu hơn, đặc biệt trong những đợt nắng nóng."
+                },
+                {
+                  "title": "Sử dụng vải che bóng hoặc di chuyển các chậu cây"
+                },
+                {
+                  "title": "Thùng phủ giữ cho vùng rễ mát mẻ"
+                }
+              ]
+            },
+            {
+              "label": "Đối với căng thẳng gốc rễ",
+              "steps": [
+                {
+                  "title": "Giảm lượng tưới nước nếu đất bị nén chặt và ẩm ướt."
+                },
+                {
+                  "title": "Kiểm tra đất"
+                },
+                {
+                  "title": "Nếu chuyển chậu, hãy cắt tỉa những rễ bị hư hỏng"
+                }
+              ]
+            },
+            {
+              "label": "Đối với bỏng vi khuẩn",
+              "steps": [
+                {
+                  "title": "loại bỏ"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "L04": {
+        "name": "bệnh than",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Rake lên tất cả các mảnh vụn cây cối cũ vào mùa thu"
+                },
+                {
+                  "title": "Mua các giống cây kháng bệnh"
+                },
+                {
+                  "title": "Khoảng cách rộng để luồng không khí"
+                },
+                {
+                  "title": "Chỉ tưới nhỏ giọt"
+                },
+                {
+                  "title": "Phun kẽm phòng ngừa vào đầu mùa xuân trên các cây dễ bị nhiễm bệnh."
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Những đốm xám với các cạnh màu nâu sẫm hoặc đen",
+        "symptomAnalysis": "Anthracnose là một nhóm các bệnh nấm có liên quan. Tất cả chúng phát triển mạnh trong thời tiết mát mẻ, ẩm ướt, đặc biệt là mùa xuân và đầu mùa hè. Các bào tử trú đông trong các mảnh vụn cây và lây nhiễm vào sự phát triển mới khi điều kiện ấm áp hơn. Thường thấy trên các cây bóng mát, cây ăn quả, đậu, cà chua và nhiều loại cây cảnh.\n\nCác đợt bùng phát nghiêm trọng làm rụng lá cây. Những đợt nhẹ thì chỉ có tác dụng thẩm mỹ.",
+        "treatment": {
+          "groups": [
+            {
+              "label": "Đối với các trường hợp nhẹ",
+              "steps": [
+                {
+                  "title": "Cắt tỉa những lá bị ảnh hưởng và xử lý chúng"
+                },
+                {
+                  "title": "Loại bỏ tất cả những chiếc lá và mảnh vụn rơi xuống"
+                }
+              ]
+            },
+            {
+              "label": "Đối với các trường hợp nghiêm trọng",
+              "steps": [
+                {
+                  "title": "Cắt tỉa tất cả các mô bị ảnh hưởng rõ ràng"
+                },
+                {
+                  "title": "Áp dụng thuốc diệt nấm đồng trước một giai đoạn khô ráo"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "L05": {
+        "name": "Vết đốm lá góc cạnh",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "**Đừng làm việc trong vườn khi lá ướt.** Vi khuẩn dễ dàng lây lan từ lá ướt sang tay và dụng cụ của bạn."
+                },
+                {
+                  "title": "Mua giống dưa và dâu tây kháng bệnh"
+                },
+                {
+                  "title": "Chuyển đổi ít nhất 2 năm trước khi trồng lại các loại cây bầu bí ở cùng một vị trí."
+                },
+                {
+                  "title": "Chỉ tưới nhỏ giọt"
+                },
+                {
+                  "title": "Phun kẽm phòng ngừa vào mùa xuân"
+                },
+                {
+                  "title": "Đừng bảo quản hạt giống từ các cây bị nhiễm bệnh"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Các đốm vàng được hình thành bởi các tĩnh mạch lá",
+        "symptomAnalysis": "Một bệnh do vi khuẩn gây ra (*Pseudomonas* spp.) lây lan qua hạt nhưng lan rộng hơn do thời tiết ấm áp, ẩm ướt và tưới nước từ trên cao. Các tĩnh mạch ngăn chặn vi khuẩn lây lan tự do, vì vậy các tổn thương bị hạn chế trong một tấm duy nhất giữa các tĩnh mạch, tạo ra vẻ ngoài vuông góc. Các trường hợp nghiêm trọng khiến lá rụng; các tổn thương cũng xuất hiện trên thân cây và quả.\n\nBệnh tồn tại trong hạt giống, mảnh vụn cây cối và các dụng cụ bị ô nhiễm.",
+        "treatment": {
+          "groups": [
+            {
+              "label": "Đối với các trường hợp nhẹ",
+              "steps": [
+                {
+                  "title": "Cắt tỉa những lá và thân bị ảnh hưởng"
+                },
+                {
+                  "title": "Làm sạch bằng cách khử trùng giữa mỗi lần cắt."
+                },
+                {
+                  "title": "Thuốc diệt khuẩn bằng đồng, được áp dụng sớm"
+                }
+              ]
+            },
+            {
+              "label": "Đối với các trường hợp nghiêm trọng",
+              "steps": [
+                {
+                  "title": "Loại bỏ và phá hủy cây trồng"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "L06": {
+        "homeRemedies": [
+          {
+            "ingredients": [
+              {
+                "name": "natri bicacbonat",
+                "quantity": "1 thìa cà phê"
+              },
+              {
+                "name": "sữa rửa bát",
+                "quantity": "1 thìa cà phê"
+              },
+              {
+                "name": "nước",
+                "quantity": "1 lít"
+              }
+            ]
+          }
+        ],
+        "name": "bệnh đốm lá",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Mua các giống cây kháng bệnh"
+                },
+                {
+                  "title": "Cào sạch tất cả lá rụng"
+                },
+                {
+                  "title": "Nước ở mức độ đất"
+                },
+                {
+                  "title": "Thùng phủ giảm thiểu sự bắn ngược của bào tử"
+                },
+                {
+                  "title": "Đồng phòng ngừa vào đầu mùa xuân"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Những đốm trắng hoặc vàng rải rác trên lá",
+        "symptomAnalysis": "Một nhãn chung cho các bệnh nhiễm nấm gây ra các đốm nhạt trên lá. Nhiều loại nấm gây ra tổn thương tương tự; phương pháp điều trị gần như giống nhau bất kể loài chính xác là gì. Các đốm có xu hướng khô từ trung tâm.\n\nNếu các vết chấm nhỏ và dày đặc (dưới 1 mm), nguyên nhân có thể là do côn trùng hút nhựa — xem [L24 — Sự hư hại do hút nhựa](sap-sucking-damage.md).",
+        "treatment": {
+          "groups": [
+            {
+              "label": "Đối với các trường hợp nhẹ (dưới một nửa số lá bị ảnh hưởng)",
+              "steps": [
+                {
+                  "title": "Cắt tỉa những lá có đốm"
+                },
+                {
+                  "title": "Tiêu trùng các dụng cụ giữa các lần cắt"
+                }
+              ]
+            },
+            {
+              "label": "Đối với các trường hợp nghiêm trọng",
+              "steps": [
+                {
+                  "title": "Loại bỏ tất cả các tán lá có đốm"
+                },
+                {
+                  "title": "Áp dụng thuốc diệt nấm đồng hàng tuần"
+                },
+                {
+                  "title": "Trong trường hợp cực đoan, hãy thay thế cây trồng"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "L07": {
+        "name": "Màu vàng xỉn do thiếu nước tưới",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "body": "Một số người thích khô ráo, một số thích ẩm ướt đều đặn.",
+                  "title": "Nghiên cứu nhu cầu tưới nước của từng loại cây trồng"
+                },
+                {
+                  "title": "Đặt một lời nhắc lịch nếu bạn có xu hướng quên"
+                },
+                {
+                  "title": "Sử dụng máy đo độ ẩm đất hoặc chỉ cần kiểm tra bằng ngón tay trước khi tưới nước"
+                },
+                {
+                  "title": "Cứt lớp phủ cây trồng ngoài trời để làm chậm quá trình bốc hơi."
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Các lá ở phía dưới có màu vàng, đất khô và bị kéo ra khỏi chậu",
+        "symptomAnalysis": "Khi cây cạn kiệt nước, nó sẽ hy sinh những lá già nhất trước để giữ cho sự phát triển mới hơn còn sống. Đất khô đến mức chạm vào ngón tay thứ hai của bạn và rõ ràng đang co lại từ mép chậu xác nhận rằng cây bị tưới nước quá ít. Thường gặp ở các loại thảo mộc và bất kỳ loại cây nào đã bị bỏ bê.\n\nKhác biệt với ngập úng: đất khô + lá dưới cùng chỉ vàng = dưới. Đất ẩm + lá dưới cùng vàng + đất có mùi chua = trên (xem [L08](waterlogging-yellow.md)).",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Đổ nước một cách chậm rãi cho đến khi nước thoát ra qua đáy."
+                },
+                {
+                  "title": "Nếu đất quá khô nó sẽ đẩy nước ra ngoài: đặt chậu trong một cái chậu nước trong 30 phút để ngâm từ dưới lên."
+                },
+                {
+                  "title": "Cắt bỏ hoàn toàn những lá cây đã chết"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "L08": {
+        "name": "sự úng nước",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Chỉ tưới nước khi lớp đất mặt khô ráo."
+                },
+                {
+                  "title": "Sử dụng chậu có lỗ thoát nước"
+                },
+                {
+                  "title": "Sử dụng hỗn hợp trồng cây chất lượng cao; đất nén giá rẻ và luôn ẩm ướt"
+                },
+                {
+                  "title": "Đừng để nồi ngồi trong đĩa đầy nước"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Các lá ở phía dưới chuyển sang màu vàng rồi chuyển sang màu đen, đất luôn ẩm ướt",
+        "symptomAnalysis": "Quá nhiều nước làm xói mòn oxy trong đất, khiến rễ bị ngạt thở. Rễ mục nát không còn hấp thụ nước được nữa, vì vậy các lá trên cùng biểu hiện các triệu chứng giống như hạn hán khi nằm trong đất ẩm ướt. Cây cắt tỉa các lá dưới cùng trước để giảm nhu cầu.\n\nNếu để lại, nấm mốc sẽ lan rộng và cây chết. Nó cũng có thể xuất hiện dưới dạng lá mềm, đen thui, mục nát thay vì chỉ là màu vàng - cùng nguyên nhân, nhưng tiến triển hơn.\n\nĐể biết các triệu chứng ở phần rễ, hãy xem [R01 — Rối loạn rễ](../05_roots/root-rot.md).",
+        "treatment": {
+          "groups": [
+            {
+              "label": "Đối với các trường hợp nhẹ (chỉ vàng da)",
+              "steps": [
+                {
+                  "title": "Dừng tưới nước cho đến khi 2 inch trên cùng của đất khô ráo."
+                },
+                {
+                  "title": "Di chuyển đến luồng không khí tốt hơn nếu ở trong nhà"
+                },
+                {
+                  "title": "Cắt bỏ những lá vàng xấu nhất"
+                }
+              ]
+            },
+            {
+              "label": "Đối với các trường hợp nghiêm trọng (màu đen, mục nát)",
+              "steps": [
+                {
+                  "title": "Rửa sạch và kiểm tra rễ cây"
+                },
+                {
+                  "title": "Cắt bỏ những rễ mục nát"
+                },
+                {
+                  "title": "Đặt lại trong đất khô mới với thoát nước"
+                },
+                {
+                  "title": "Cắt tỉa tối đa 1/3 số lá khỏe mạnh để giảm nhu cầu nước"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "L09": {
+        "name": "Màu vàng đã lão hóa và khô",
+        "shortDescription": "Một vài lá gốc vàng trên một cây khỏe mạnh",
+        "symptomAnalysis": "Đây là quá trình lão hóa bình thường của thực vật. Thực vật loại bỏ lá già nhất của chúng theo chu kỳ. Lá vàng chỉ giới hạn ở những lá thấp nhất trên một cây khỏe mạnh - không có đốm, không có sâu bệnh, không bị đen, không có tác động lan rộng - có nghĩa là cây thực sự đang xoay vòng lá của nó.\n\nKhác biệt với tình trạng ngập nước: vàng khô chỉ ảnh hưởng đến 1-3 lá thấp nhất cùng một lúc, và các lá thay thế phát triển bình thường ở phía trên. Tình trạng ngập nước làm vàng nhiều lá cùng một lúc và đất trở nên khô đến gót ngón tay thứ hai.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Kéo nhẹ các lá vàng ra khỏi cây khi chúng đã khô hoàn toàn"
+                },
+                {
+                  "title": "Đừng để những chiếc lá rơi xuống nằm trong đất"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "L10": {
+        "name": "Bệnh vàng lá tổng quát",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Cho ăn thường xuyên trong suốt mùa sinh trưởng"
+                },
+                {
+                  "title": "Đặt tưới nước đều đặn"
+                },
+                {
+                  "title": "Kiểm tra độ pH đất mỗi vài năm một lần"
+                },
+                {
+                  "title": "Sử dụng hỗn hợp trồng cây chất lượng cao cho cây cảnh trong nhà"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Toàn bộ cây đang chuyển sang màu vàng - thiếu hụt chất dinh dưỡng",
+        "symptomAnalysis": "Bệnh vàng lá có nghĩa là lá không thể tạo ra đủ chất diệp lục. Nguyên nhân:\n\n- **Thiếu hụt Nitơ (N)** — lá bên trong già nhất sẽ vàng trước; lan ra bên ngoài nếu tình trạng nghiêm trọng.\n- **Thiếu kali (K)** — các cạnh lá bị nâu và nhăn nhúm, với viền màu vàng ngay bên trong.\n- **Thiếu kẽm** — vàng lá ở gốc lá.\n- **Đồng / boron** — lá mới nhất vàng trước; lá cây trở nên giòn.\n\nĐối với các mẫu cụ thể:\n\n- Màu vàng giữa các tĩnh mạch, tĩnh mạch vẫn giữ màu xanh → [L11 — Thiếu sắt](iron-deficiency.md)\n- Máu tĩnh mạch màu vàng, thân lá màu xanh → [L12 — Suy viền lá](veinal-chlorosis.md)\n\nCác nguyên nhân gây ra sự thiếu hụt chất dinh dưỡng bao gồm sự thiếu hụt thực tế trong đất, tổn thương rễ và độ pH đất sai.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Áp dụng phân bón cân đối cho mỗi nhãn hiệu"
+                },
+                {
+                  "title": "Hoặc thức ăn lá để hấp thụ nhanh chóng"
+                },
+                {
+                  "title": "Kiểm tra độ pH đất nếu việc cho ăn thường xuyên không giúp ích"
+                },
+                {
+                  "title": "Thêm phân hữu cơ; cung cấp các vi chất dinh dưỡng và cải thiện cấu trúc đất"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "L11": {
+        "name": "Thiếu sắt",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Kiểm tra đất trước khi trồng"
+                },
+                {
+                  "title": "Trên đất kiềm, hãy chọn những loại cây chịu đựng tốt hơn những loại cây ưa axit."
+                },
+                {
+                  "title": "Giữ cho đất được thông thoáng bằng cách ủ phân thường xuyên"
+                },
+                {
+                  "title": "Đừng làm quá tải các luống hoa; làm tăng độ pH"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Màu vàng giữa các tĩnh mạch, tĩnh mạch vẫn giữ màu xanh lá cây (giữa các tĩnh mạch)",
+        "symptomAnalysis": "Bệnh vàng lá giữa các mạch cây truyền thống. Sắt là cần thiết để tạo ra chất diệp lục, và lá không thể tổng hợp sắc tố mới mà không có nó. Thường thì đất có rất nhiều sắt nhưng cây không thể hấp thụ nó vì độ pH của đất quá cao (bột nhão) hoặc bị nén chặt.\n\nPhổ biến trong các loại trái cây nhiệt đới, việt quất, hoa hồng nhung, hoa giấy và nhiều loại cây cảnh trên đất kiềm.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Thuốc phun lá chứa sắt chelate"
+                },
+                {
+                  "title": "Áp dụng sắt chelate vào đất để điều chỉnh lâu dài hơn"
+                },
+                {
+                  "title": "Kiểm tra độ pH"
+                },
+                {
+                  "title": "Thêm phân hữu cơ hoặc các chất hữu cơ khác; giúp làm cho sắt có sẵn"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "L12": {
+        "name": "Suy viền lá do thiếu chlorophyl",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Kiểm tra đất định kỳ"
+                },
+                {
+                  "title": "Sử dụng phân bón cân bằng, không phải phân bón chứa một loại chất dinh dưỡng duy nhất, trừ khi kết quả kiểm tra cho thấy khác."
+                },
+                {
+                  "title": "Cải thiện thoát nước và thông thoáng bằng phân trộn và lớp phủ hữu cơ"
+                },
+                {
+                  "title": "Kiểm tra các cây mới để xem có triệu chứng giống như virus hay không trước khi mang chúng vào vườn"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Các tĩnh mạch chuyển sang màu vàng, phần còn lại của lá vẫn giữ màu xanh lá cây",
+        "symptomAnalysis": "Bệnh vàng da mạch máu ít phổ biến hơn bệnh vàng da giữa các mạch. Nguyên nhân bao gồm:\n\n- **Thiếu magie hoặc đồng**\n- **Đóng rắn đất** ngăn chặn sự hấp thụ chất dinh dưỡng của rễ\n- **Các loại virus ma trận hoặc bệnh thực vật** ảnh hưởng đến quá trình vận chuyển chất dinh dưỡng\n- **Áp lực lạnh lên các loại trái cây nhiệt đới** trong các mùa mát mẻ (thường sẽ được giải quyết bằng sự ấm áp)\n\nKhông cụ thể như thiếu sắt, vì vậy chẩn đoán thường bắt đầu bằng xét nghiệm đất.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Kiểm tra đất trước tiên"
+                },
+                {
+                  "title": "Dựa trên kết quả kiểm tra, áp dụng đúng chất dinh dưỡng thiếu hụt"
+                },
+                {
+                  "title": "Làm lỏng đất bị nén chặt bằng cây cuốc; trộn vào phân hữu cơ để tạo không khí cho đất."
+                },
+                {
+                  "body": "Các loại vi rút không thể hồi phục.",
+                  "title": "Nếu nghi ngờ có virus mosaic: [S43](../shared/treatment-steps.md#s43-discard-the-severely-infected-plant)"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "L13": {
+        "name": "Ánh sáng không đủ",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Kết hợp cây trồng với nhu cầu ánh sáng của nó ngay từ đầu"
+                },
+                {
+                  "title": "Sử dụng đèn phát quang vào mùa đông hoặc trong những căn phòng tối"
+                },
+                {
+                  "title": "Chuyển đổi các loại cây cảnh trong nhà 90 độ mỗi tuần"
+                },
+                {
+                  "title": "Đừng nhồi nhét các loại cây trồng ngoài trời"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Sự phát triển nhạt nhẽo, còi cọc vươn tới ánh sáng (etiolation)",
+        "symptomAnalysis": "Sự héo úa xảy ra khi một cây trồng phát triển trong ánh sáng yếu. Nó sản sinh ra các tế bào etioplast thay vì lục lạp, và thân cây dài ra bất thường khi cây cố gắng vươn tới ánh sáng. Kết quả là sự phát triển nhạt nhẽo, yếu ớt, dễ bị bệnh và sâu bệnh tấn công hơn.\n\nPhổ biến ở: cây cảnh trong nhà đặt quá xa cửa sổ, cây giống dưới ánh sáng phát triển không đủ, cây cảnh ngoài trời bị che khuất bởi hàng xóm mọc quá cao.",
+        "treatment": {
+          "groups": [
+            {
+              "label": "Đối với cây cảnh trong nhà",
+              "steps": [
+                {
+                  "title": "Di chuyển dần về phía cửa sổ hướng về phía nam hoặc tây"
+                },
+                {
+                  "title": "Nếu ánh sáng tự nhiên không có sẵn, hãy thêm một đèn phát quang vào một bộ hẹn giờ 12-14 giờ."
+                },
+                {
+                  "title": "Xoay chậu hàng tuần để cây phát triển đều đặn"
+                }
+              ]
+            },
+            {
+              "label": "Đối với cây trồng ngoài trời",
+              "steps": [
+                {
+                  "title": "Cắt tỉa lại các cây xung quanh đang cạnh tranh ánh sáng"
+                },
+                {
+                  "title": "Di chuyển các cây trồng trong chậu đến một vị trí có ánh nắng mặt trời nhiều hơn"
+                },
+                {
+                  "title": "Cắt tỉa những cành cây dài ra sau"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "L14": {
+        "name": "Bệnh thối lá do vi khuẩn gây ra",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Rửa sạch các mảnh vụn cây cối vào cuối mùa"
+                },
+                {
+                  "title": "Tránh tưới nước từ trên cao"
+                },
+                {
+                  "title": "Thùng phủ để ngăn đất bắn lên lá"
+                },
+                {
+                  "title": "Luôn khử trùng dụng cụ giữa các cây trồng"
+                },
+                {
+                  "title": "**Đừng làm vườn khi cây cối ướt.** Vi khuẩn dễ dàng lây lan qua lá ướt."
+                },
+                {
+                  "title": "Việc luân canh cây trồng ngăn chặn sự tích tụ vi khuẩn"
+                },
+                {
+                  "title": "Phun kẽm phòng ngừa vào đầu mùa xuân"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Những chiếc lá mục nát mềm mại, có mùi hôi thối",
+        "symptomAnalysis": "Bệnh thối lá do vi khuẩn gây ra do các loại vi khuẩn khác nhau xâm nhập qua vết thương, lỗ khí (trong thời tiết ẩm ướt) hoặc qua đất bị bắn tung. Khi xâm nhập vào bên trong, vi khuẩn nhân lên nhanh chóng và phá hủy mô khỏe mạnh. Thường gặp nhất trong điều kiện ẩm ướt, ấm áp.\n\nPhổ biến nhanh chóng giữa các cây nếu không được xử lý. Khác với các nhiễm trùng nấm mốc ở tính chất mềm, nước, có mùi của sự thối rữa.",
+        "treatment": {
+          "groups": [
+            {
+              "label": "Đối với các trường hợp nhẹ",
+              "steps": [
+                {
+                  "title": "Cắt bỏ những lá bị ảnh hưởng trở lại để lấy mô sạch sẽ"
+                },
+                {
+                  "title": "Làm sạch bằng cách khử trùng giữa mỗi lần cắt."
+                },
+                {
+                  "title": "Áp dụng thuốc diệt khuẩn bằng đồng vào phần lá còn lại và đất xung quanh."
+                }
+              ]
+            },
+            {
+              "label": "Đối với các trường hợp nghiêm trọng (>50% bị ảnh hưởng)",
+              "steps": [
+                {
+                  "title": "Loại bỏ và xử lý cây trồng"
+                },
+                {
+                  "title": "Điều trị đất xung quanh và các loài cây lân cận bằng thuốc diệt khuẩn bằng đồng"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "L15": {
+        "name": "Liệt tật lá",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Bón phân ổn định"
+                },
+                {
+                  "title": "Theo dõi các loài côn trùng gây hại và xử lý sớm"
+                },
+                {
+                  "title": "Đặt tưới nước đều đặn"
+                },
+                {
+                  "title": "Bảo vệ khỏi sương giá"
+                },
+                {
+                  "body": "Sự trôi dạt của thuốc diệt cỏ có thể di chuyển hàng trăm feet theo gió.",
+                  "title": "Tránh sử dụng thuốc trừ cỏ gần các loại cây trong vườn"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Những lá có hình dạng không đều, bị kìm hãm, gồ ghề hoặc xoắn vẹo",
+        "symptomAnalysis": "Một số nguyên nhân:\n\n- **Sự tổn hại của côn trùng** — các loài rệp, ruồi giấm và các loài hút nhựa khác khiến cây dễ bị nhiễm virus làm biến dạng quá trình phát triển. Các nốt sần (các khối u phát triển) xuất phát từ các loài côn trùng tạo ra nốt sần — xem [L16](leaf-gall.md).\n- **Sự trôi dạt của thuốc diệt cỏ** — ngay cả khi tiếp xúc với một lượng nhỏ thuốc diệt cỏ trên bãi cỏ hoặc đường lái xe cũng có thể gây ra những lá mới hẹp, biến dạng và bị cong đặc trưng.\n- **Sự tổn hại do lạnh ở giai đoạn nụ** — sương giá trong giai đoạn lá mới mọc gây ra sự biến dạng suốt đời ở những lá đó.\n- **Áp lực nước** — quá nhiều hoặc quá ít nước trong giai đoạn sinh trưởng làm biến dạng lá.\n- **Thiếu hụt chất dinh dưỡng** — thiếu boron, canxi và molybdenum gây chậm phát triển.\n\nHãy nhìn vào nơi dị tật xuất hiện (chỉ có lá mới? chỉ có một số loại cây?) để thu hẹp nó lại.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Loại bỏ những lá bị biến dạng để cây tập trung năng lượng vào những lá mới"
+                },
+                {
+                  "body": "- Côn trùng có thể nhìn thấy → xem [02_pests/](../02_pests/) và xử lý - Tất cả các cây trong hàng bị ảnh hưởng → sự trôi dạt của thuốc diệt cỏ; loại bỏ tiếp xúc - Chỉ sau khi có sương giá → thiệt hại do lạnh; đợi qua đi - Với màu vàng nhạt → xem [L10 — Biến màu xanh lá cây chung](chlorosis-fertilizer.md)",
+                  "title": "Xác định nguyên nhân:"
+                },
+                {
+                  "title": "Áp dụng phân bón cân đối nếu nghi ngờ về chất dinh dưỡng"
+                },
+                {
+                  "title": "Loại bỏ các loại cây có hoa văn vi rút mosaic"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "L16": {
+        "name": "Vết bọ ăn lá",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Cào lá rụng"
+                },
+                {
+                  "title": "Đừng bón quá nhiều phân bón"
+                },
+                {
+                  "title": "Đảm bảo tưới nước đầy đủ cho cây để tránh căng thẳng do hạn hán"
+                },
+                {
+                  "title": "Áp dụng dầu thực vật đang ngủ đông vào đầu mùa xuân để kiểm soát côn trùng trú đông trên thực vật gỗ."
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Sự phát triển bất thường và gồ ghề trên lá",
+        "symptomAnalysis": "Các túi hình thành khi mô thực vật phát triển bất thường như phản ứng với:\n\n- **Các loài côn trùng hút nhựa** — rệp, ruồi giấm, ong đục quả đẻ trứng hoặc ăn thức ăn bên trong lá.\n- **Viêm nhiễm vi khuẩn hoặc nấm** — một số tác nhân gây bệnh kích hoạt sự hình thành sỏi mật.\n\nBản thân bướu thường không gây tổn thương nghiêm trọng đến cây trồng. Nguyên nhân cơ bản có thể gây ra. Bướu thường xuất hiện nhiều nhất ở những cây mới mọc và sau những mùa đông nhẹ nhàng không giết chết những con bướu tạo ra bướu.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Cắt tỉa những lá và cành bị đốm vàng"
+                },
+                {
+                  "title": "Tiêu trùng giữa các vết cắt"
+                }
+              ]
+            },
+            {
+              "label": "Đối với các vết sần lan rộng do các loài giun rận hoặc sâu bọ gây ra",
+              "steps": [
+                {
+                  "title": "Dầu gội diệt côn trùng"
+                },
+                {
+                  "title": "Dầu neem"
+                }
+              ]
+            },
+            {
+              "label": "Đối với các khối u do nhiễm trùng vi khuẩn hoặc nấm gây ra",
+              "steps": [
+                {
+                  "title": "Thuốc diệt nấm/bactericide bằng đồng vào mùa xuân"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "L17": {
+        "name": "Độ ẩm thấp",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Giữ độ ẩm trong nhà ở mức 40-60% cho các vùng nhiệt đới"
+                },
+                {
+                  "title": "Đưa các loại cây nhạy cảm ra xa các lỗ thông hơi sưởi ấm và luồng không khí lạnh từ máy điều hòa không khí"
+                },
+                {
+                  "title": "Nhóm các loại cây ưa độ ẩm lại với nhau; chúng tạo ra khí hậu vi mô riêng của mình"
+                },
+                {
+                  "title": "Sử dụng một máy đo độ ẩm để theo dõi"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Mép lá cong lại, đầu lá giòn màu nâu",
+        "symptomAnalysis": "Khi không khí quá khô, lá cây mất nước nhanh hơn rễ cây có thể thay thế. Cây cuộn lá để giảm sự thoát hơi nước. Các đầu và rìa, nơi nước đến cuối cùng, khô đi trước.\n\nNguyên nhân phổ biến: sưởi ấm nhà vào mùa đông, điều hòa vào mùa hè, khí hậu khô hạn. Các loại cây nhiệt đới (calathea, dương xỉ, cây me lá violin, cây hoa trinh nữ, cây cầu nguyện) đặc biệt nhạy cảm.\n\nKhác biệt với tình trạng ngập nước: độ ẩm thấp gây ra tình trạng xoăn và đầu cây bị vàng nâu ngay cả khi đất ẩm ướt. Tình trạng ngập nước cũng làm khô đất.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Nhúng sương mỗi ngày, trồng các loại cây cùng một nhóm, sử dụng khay sỏi hoặc bật máy tạo độ ẩm"
+                },
+                {
+                  "title": "Cắt tỉa các đầu nâu bằng kéo để trang điểm"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "L18": {
+        "name": "Móng tay xoăn lá đào",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Áp dụng thuốc diệt nấm đồng"
+                },
+                {
+                  "title": "Mua các giống kháng bệnh (ví dụ"
+                },
+                {
+                  "title": "Cào lá rụng"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Những lá mới cuộn lại, đỏ lên và nhăn nhúm (màu nấm mốc)",
+        "symptomAnalysis": "Một bệnh nấm (*Taphrina deformans*) lây nhiễm vào các lá mới mọc vào mùa xuân. Nấm kích thích sự phát triển nhanh chóng, không có trật tự của tế bào, tạo ra các lá bị biến dạng và phồng rộp. Các bào tử sống sót qua mùa đông trên vỏ cây và bên trong các nụ ngủ đông. Mùa xuân mát mẻ ẩm ướt làm cho các đợt bùng phát trở nên tồi tệ hơn; thời tiết ấm áp khô ráo ức chế nấm.\n\nNhững cây bị nhiễm nặng sẽ mất đi phần lớn lá đầu tiên. Những đợt lá thứ hai khỏe mạnh thường mọc lại không bị nhiễm trùng.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Cắt tỉa những cành cây xoăn cong nghiêm trọng"
+                },
+                {
+                  "title": "Áp dụng thuốc diệt nấm đồng"
+                },
+                {
+                  "title": "Tiếp tục tưới nước đều đặn trong quá trình hồi phục"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "L19": {
+        "name": "Bệnh lỗ bắn",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Rake lá rụng và mảnh vụn thường xuyên"
+                },
+                {
+                  "title": "Phun kẽm phòng ngừa vào cuối mùa đông và đầu mùa xuân"
+                },
+                {
+                  "title": "Cắt tỉa để tạo luồng không khí"
+                },
+                {
+                  "title": "Loại bỏ những cây bị bệnh nghiêm trọng mà không thể hồi phục được."
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Những đốm nâu khô và rơi ra, để lại những lỗ nhỏ",
+        "symptomAnalysis": "Gây ra bởi sự kết hợp của nấm (*Wilsonomyces carpophilus*) và vi khuẩn. Thường xuất hiện trên các loại cây quả đá - anh đào, đào, đào phai, mận - và trên lá nguyệt quế và một số loại cây cảnh trang trí. Phát triển mạnh trong thời tiết nóng ẩm.\n\nSự hư hại chủ yếu là về mặt thẩm mỹ nhưng có thể gây ra sự rụng lá đáng kể trong những năm xấu. Không giết chết cây trực tiếp nhưng làm suy yếu chúng.",
+        "treatment": {
+          "groups": [
+            {
+              "label": "Đối với các trường hợp nhẹ",
+              "steps": [
+                {
+                  "title": "Loại bỏ lá bị bệnh ngay lập tức, trong thời tiết khô ráo"
+                },
+                {
+                  "title": "Cào sạch những lá cây rụng"
+                }
+              ]
+            },
+            {
+              "label": "Đối với các trường hợp nghiêm trọng (nhiều lỗ, rụng lá)",
+              "steps": [
+                {
+                  "title": "Cắt bỏ những lá bị bệnh và các mảnh vụn đất"
+                },
+                {
+                  "title": "Áp dụng thuốc diệt nấm đồng hàng tuần trong mùa xuân khi có thiệt hại."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "L20": {
+        "homeRemedies": [
+          {
+            "ingredients": [
+              {
+                "name": "natri bicacbonat",
+                "quantity": "1 thìa cà phê"
+              },
+              {
+                "name": "sữa rửa bát",
+                "quantity": "1 thìa cà phê"
+              },
+              {
+                "name": "nước",
+                "quantity": "1 lít"
+              }
+            ]
+          },
+          {
+            "ingredients": [
+              {
+                "name": "sữa",
+                "quantity": "1 phần"
+              },
+              {
+                "name": "nước",
+                "quantity": "9 phần"
+              }
+            ]
+          },
+          {
+            "ingredients": [
+              {
+                "name": "thuốc aspirin",
+                "quantity": "1 viên nén"
+              },
+              {
+                "name": "nước",
+                "quantity": "1 gallon"
+              },
+              {
+                "name": "sữa rửa bát",
+                "quantity": "một vài giọt"
+              }
+            ]
+          }
+        ],
+        "name": "bệnh phấn trắng",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Chọn các giống cây kháng nấm mốc"
+                },
+                {
+                  "title": "Khoảng cách rộng để luồng không khí"
+                },
+                {
+                  "title": "Lưới tưới nhỏ giọt"
+                },
+                {
+                  "title": "Rửa sạch các mảnh vụn trước khi mùa đông đến"
+                },
+                {
+                  "title": "Phun phòng ngừa lên các cây dễ bị nhiễm bệnh"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Vỏ phủ bột trắng trên bề mặt lá, lau sạch",
+        "symptomAnalysis": "Một họ nấm ảnh hưởng đến hầu hết các loài thực vật. Không giống như hầu hết các loại nấm, nó phát triển mạnh trong điều kiện ấm áp, khô ráo và ban đêm ẩm ướt - trái ngược với hầu hết các bệnh tật. Mùa hè từ giữa đến cuối là mùa cao điểm. Lớp bột trắng là nấm phát triển trên bề mặt, không xâm nhập vào lá.\n\nHiếm khi giết chết cây chủ nhưng làm giảm sức sống và năng suất. Các trường hợp nghiêm trọng làm biến dạng lá và quả.\n\nĐối với nấm mốc phấn trắng trên trái cây, hãy xem [FR06](../04_fruits/powdery-mildew-fruit.md).",
+        "treatment": {
+          "groups": [
+            {
+              "label": "Đối với các trường hợp nhẹ hoặc bị cô lập",
+              "steps": [
+                {
+                  "title": "Cắt tỉa các lá và thân bị ảnh hưởng"
+                },
+                {
+                  "title": "Mở luồng không khí bằng cách tỉa cành chọn lọc"
+                }
+              ]
+            },
+            {
+              "label": "Đối với các trường hợp phổ biến",
+              "steps": [
+                {
+                  "title": "Cắt tỉa những tán lá bị ảnh hưởng nặng nề"
+                },
+                {
+                  "title": "Áp dụng thuốc diệt nấm đồng hàng tuần"
+                },
+                {
+                  "title": "Đưa các cây trồng trong chậu đến một vị trí sáng sủa, có nhiều nắng hơn"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "L21": {
+        "name": "Mối bụi than",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "body": "Mùi mốc là một triệu chứng ở giai đoạn sau.",
+                  "title": "Xử lý những con hút nhựa ngay khi chúng xuất hiện"
+                },
+                {
+                  "title": "Đừng bón quá nhiều phân bón"
+                },
+                {
+                  "title": "Khuyến khích những kẻ săn mồi tự nhiên"
+                },
+                {
+                  "title": "Dừng kiến trên thân cây bằng băng dính dính - chúng bảo vệ những loài côn trùng gây hại sản xuất mật hoa khỏi kẻ săn mồi"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Vỏ bọc màu đen giống như tro bụi trên lá dưới những con hút nhựa",
+        "symptomAnalysis": "Mối mốc khói bụi được gây ra bởi các bào tử nấm lơ lửng trong không khí rơi xuống trên mật ong dính được tiết ra bởi các loài côn trùng hút nhựa - ruồi giấm, ruồi trắng, vảy, sâu phấn trắng. Nấm ăn mật ong, chứ không phải cây. Nó không gây hại trực tiếp cho cây, nhưng lớp phủ đen chặn ánh sáng mặt trời và làm giảm quá trình quang hợp.\n\nVấn đề thực sự không phải là nấm mốc; đó là sự xâm nhập của côn trùng tạo ra mật ong. Xử lý các loài gây hại, nấm mốc sẽ biến mất với cơn mưa tiếp theo.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "body": "- Côn trùng sáp → [P02](../02_pests/aphids.md) - Côn trùng trắng → [P15](../02_pests/whiteflies.md) - Mọc vảy → [P03](../02_pests/scale-insects.md) - Côn trùng phấn trắng → [P04](../02_pests/mealybugs.md)",
+                  "title": "**Xác định và điều trị loài sâu bệnh cơ bản** — xem mục liên quan trong [02_pests/](../02_pests/):"
+                },
+                {
+                  "title": "Vệ sinh lá bằng vải xà phòng ẩm để loại bỏ nấm mốc có thể nhìn thấy"
+                },
+                {
+                  "title": "Một tia nước phun mạnh rửa sạch cả côn trùng và cặn bã"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "L22": {
+        "name": "bệnh gỉ",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Mua các giống chống ăn mòn"
+                },
+                {
+                  "title": "Kiểm tra các cây mới để tìm dấu hiệu vết thâm màu cam"
+                },
+                {
+                  "title": "Lưới tưới nhỏ giọt vào buổi sáng"
+                },
+                {
+                  "title": "Khoảng cách rộng"
+                },
+                {
+                  "title": "Cứt tỉa dày đặc"
+                },
+                {
+                  "title": "Loại bỏ các mảnh vụn rơi xuống trong mùa thu"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Các nốt mụn nổi lên màu cam hoặc nâu đỏ trên lá",
+        "symptomAnalysis": "Vàng thối được gây ra bởi hàng nghìn loài nấm khác nhau trong họ *Pucciniales*. Chúng phát triển mạnh trong điều kiện ấm áp, ẩm ướt. Các bào tử lan truyền theo gió và nước. Hầu hết các loại vàng thối đều có chu kỳ sống phức tạp liên quan đến hai loại cây chủ.\n\nHiếm khi giết chết, nhưng làm suy yếu cây cối và giảm năng suất. Thường gặp ở hoa hồng, hoa hồng, hoa nhím, đậu, hoa cúc, cây thông, táo, lê.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Cắt bỏ những lá bị gỉ sét"
+                },
+                {
+                  "title": "Áp dụng thuốc diệt nấm đồng hàng tuần"
+                },
+                {
+                  "title": "Dừng tưới nước từ trên cao ngay lập tức"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "L23": {
+        "homeRemedies": [
+          null,
+          {
+            "ingredients": [
+              {
+                "name": "natri bicacbonat",
+                "quantity": "1 thìa cà phê"
+              },
+              {
+                "name": "sữa rửa bát",
+                "quantity": "1 thìa cà phê"
+              },
+              {
+                "name": "nước",
+                "quantity": "1 lít"
+              }
+            ]
+          }
+        ],
+        "name": "Màu mốc xám (botrytis)",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Khoảng cách rộng để luồng không khí"
+                },
+                {
+                  "title": "Không có nước trên cao"
+                },
+                {
+                  "title": "Hãy cẩn thận không làm tổn thương cây - vết thương sẽ thu hút nấm mốc"
+                },
+                {
+                  "title": "Tiêu trùng dụng cụ làm vườn"
+                },
+                {
+                  "title": "Đồng phòng ngừa vào đầu mùa xuân trên các cây dễ bị nhiễm bệnh"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Mùi mốc xám nâu nhầy nhụa trên lá bị hư hỏng hoặc ẩm ướt",
+        "symptomAnalysis": "Gây ra bởi *Botrytis cinerea*, một loại nấm phổ biến ưa điều kiện mát mẻ, ẩm ướt và không có sự chuyển động. Nó ăn vào mô chết và bị hư hỏng trước, sau đó chuyển sang mô khỏe mạnh. Các bào tử lan truyền qua nước bắn và gió.\n\nDâu tây, hoa hồng, rau xà lách và nhiều loại cây cảnh phổ biến là những loài chủ thể thường gặp. Thường được gọi là \"mối ăn quả\" trên nho dùng để sản xuất rượu ngọt, nhưng trên hầu hết các loại cây thì nó gây hại.\n\nĐối với bệnh mốc trên hoa, hãy xem [FL05 — Bệnh mốc cánh hoa](../06_flowers/petal-blight.md).",
+        "treatment": {
+          "groups": [
+            {
+              "label": "Đối với các trường hợp nhẹ",
+              "steps": [
+                {
+                  "title": "Cắt mô bị ảnh hưởng trở lại gỗ sạch sẽ"
+                },
+                {
+                  "title": "Tiêu trùng giữa các vết cắt"
+                },
+                {
+                  "title": "Thùng phủ xanh để ngăn chặn sự bắn tung bào tử"
+                }
+              ]
+            },
+            {
+              "label": "Đối với các trường hợp nghiêm trọng",
+              "steps": [
+                {
+                  "title": "Loại bỏ tất cả mô bị ảnh hưởng"
+                },
+                {
+                  "title": "Loại bỏ tất cả các mảnh vụn xung quanh cây trồng"
+                },
+                {
+                  "title": "Áp dụng thuốc diệt nấm đồng mỗi 1-2 tuần"
+                },
+                {
+                  "title": "Để cây khô ráo giữa các lần tưới nước"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "L24": {
+        "name": "Sự tổn hại do hút nhựa",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Kiểm tra các cây trồng mới để tìm dấu chấm và mặt dưới"
+                },
+                {
+                  "title": "Đừng bón quá nhiều phân bón chứa nitơ"
+                },
+                {
+                  "title": "Bảo tồn môi trường sống cho côn trùng săn mồi"
+                },
+                {
+                  "title": "Loại bỏ cỏ dại và vật liệu vụn"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Những đốm chấm nhỏ, dày đặc màu vàng hoặc trắng",
+        "symptomAnalysis": "Gây ra bởi côn trùng hút nhựa - ruồi giấm, ruồi trắng, ruồi lá, ruồi nhện, giun mủ, ruồi phấn trắng, ruồi thrips - xuyên qua mô lá và hút chất lỏng trong tế bào. Mỗi vết đâm tạo ra một chấm nhỏ màu nhạt (\"điểm chấm\"). Với nhiều loại thức ăn, các chấm này sẽ hòa quyện lại tạo thành một vẻ ngoài màu đồng hoặc bạc.\n\nNhững lá không giết chết cây một cách trực tiếp, nhưng vết đốm làm suy yếu cây và nhiều loài côn trùng này cũng lây lan vi rút cây.\n\nMục này bao gồm triệu chứng lá. Đối với loài sâu bệnh cụ thể gây ra nó, hãy xem [02_pests/](../02_pests/).",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "body": "Phù hợp với: - Những chấm nhỏ + mạng lưới → [P05 — Nhện nhện](../02_pests/spider-mites.md) - Cơ thể mềm hình lê tụ tập → [P02 — Aphids](../02_pests/aphids.md) - Những con ruồi giống bướm màu trắng → [P15 — Whiteflies](../02_pests/whiteflies.md) - Đôi cánh rườm rà với những chấm đen phía dưới → [P11 — Lace bugs](../02_pests/lace-bugs.md) - Những con nhảy có hình nêm → [P12 — Leafhoppers](../02_pests/leafhoppers.md) - Những con tạo ra những vệt bạc mảnh mai → [P10 — Thrips](../02_pests/thrips.md)",
+                  "title": "**Xác định loài sâu bệnh** - lật ngược lá và tìm kiếm những con côn trùng nhỏ dưới lá hoặc trong các khớp nối."
+                },
+                {
+                  "title": "Phun trừ sâu bằng vòi nước"
+                },
+                {
+                  "title": "Dầu gội diệt côn trùng"
+                },
+                {
+                  "title": "Phát thả bọ cánh cứng và bọ cánh hoa ren"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "P01": {
+        "name": "Nhộng bướm",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Che phủ cây bằng lưới trước khi người lớn đến"
+                },
+                {
+                  "title": "Kiểm tra mặt dưới lá thường xuyên để tìm thấy các cụm trứng nhỏ"
+                },
+                {
+                  "title": "Khuyến khích ong ký sinh và chim"
+                },
+                {
+                  "title": "Loại bỏ các mảnh vụn nơi sâu bướm trú đông"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Trứng nhộng nhai như giun của bướm đêm và bướm",
+        "symptomAnalysis": "Nhộng nhả ra những lỗ không đều đặn trên lá và có thể bóc vỏ lá để lộ ra các mạch máu trần. Một số loài chuyên ăn một số loại cây nhất định (cải trắng trên các loại rau họ cải, sâu bướm sừng trên cà chua). Hoạt động mạnh nhất vào mùa xuân và mùa hè; một số loài ăn vào mùa thu và mùa đông.\n\nBạn có thể thấy những chiếc lá đã nhai nát, những viên phân đen (\"frass\") và chính những con sâu bướm trên mặt dưới của lá.",
+        "treatment": {
+          "groups": [
+            {
+              "label": "Đối với các trường hợp nhẹ",
+              "steps": [
+                {
+                  "title": "Lấy tay chọn những con sâu bướm vào nước xà phòng"
+                },
+                {
+                  "title": "Cắt tỉa những lá bị hư hỏng nặng"
+                }
+              ]
+            },
+            {
+              "label": "Đối với các trường hợp nghiêm trọng",
+              "steps": [
+                {
+                  "title": "Áp dụng Bt"
+                },
+                {
+                  "title": "Phát hành ong ký sinh"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "P02": {
+        "homeRemedies": [
+          null,
+          {
+            "ingredients": [
+              {
+                "name": "sữa rửa bát",
+                "quantity": "1 thìa cà phê"
+              },
+              {
+                "name": "nước",
+                "quantity": "1 lít"
+              }
+            ]
+          }
+        ],
+        "name": "Nhện sáp",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Cách ly và kiểm tra các nhà máy mới"
+                },
+                {
+                  "title": "Loại bỏ cỏ dại xung quanh"
+                },
+                {
+                  "title": "Bảo tồn môi trường sống cho bọ cánh cứng và bọ cánh cứng nhện"
+                },
+                {
+                  "title": "Đừng bón quá nhiều phân bón chứa nitơ - sự phát triển mới mềm mại thu hút ruồi giấm"
+                },
+                {
+                  "title": "Kiểm tra sự phát triển mới thường xuyên; phát hiện chúng sớm"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Những cái hút nhựa hình lê mềm mại, thường có màu xanh lá hoặc đen",
+        "symptomAnalysis": "Côn trùng sáp đục lỗ mô thực vật và hút nhựa. Sự xâm nhập nặng làm cho quá trình phát triển mới héo úa, biến dạng lá và làm chậm sự phát triển của cây. Chúng bài tiết chất dính mật ong đọng lại trên lá dưới cùng và phát triển thành nấm mốc đen [mộc mốc](../01_leaves/sooty-mold.md). Hoạt động của kiến nặng là dấu hiệu — kiến nuôi côn trùng sáp để lấy mật ong.\n\nCôn trùng Aphids sinh sản cực kỳ nhanh (sinh sống, không cần trứng trong mùa sinh trưởng). Một cụm nhỏ sẽ trở thành một ổ dịch trong vòng vài ngày. Chúng cũng lây lan vi rút thực vật.",
+        "treatment": {
+          "groups": [
+            {
+              "label": "Đối với các trường hợp nhẹ",
+              "steps": [
+                {
+                  "title": "Bắn ra với một dòng nước mạnh mẽ"
+                },
+                {
+                  "title": "Vệ sinh các cụm bằng một miếng vải xà phòng ẩm."
+                }
+              ]
+            },
+            {
+              "label": "Đối với các trường hợp nghiêm trọng",
+              "steps": [
+                {
+                  "title": "Dầu gội diệt côn trùng trên mặt dưới của lá"
+                },
+                {
+                  "title": "Dầu neem cho các bệnh nhiễm trùng dai dẳng"
+                },
+                {
+                  "title": "Phát thả bọ cánh cứng và bọ cánh hoa ren"
+                },
+                {
+                  "title": "Cắt bỏ các đầu bị nhiễm nặng"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "P03": {
+        "homeRemedies": [
+          null,
+          {
+            "ingredients": [
+              {
+                "name": "sữa rửa bát",
+                "quantity": "1 thìa cà phê"
+              },
+              {
+                "name": "nước",
+                "quantity": "1 lít"
+              }
+            ]
+          }
+        ],
+        "name": "Nhện nhện",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Kiểm tra cẩn thận từng nhà máy mới"
+                },
+                {
+                  "title": "Giữ cho cây cối khỏe mạnh"
+                },
+                {
+                  "title": "Kiểm tra cây cảnh trong nhà hàng tháng, tập trung vào mặt dưới lá và các khớp thân cây."
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Những cục u cứng hoặc mềm 2-3 mm dính trên lá và thân cây",
+        "symptomAnalysis": "Các loài côn trùng rệp ăn nhựa. Khi dính vào, chúng không thể di chuyển trong suốt cuộc đời. Vỏ nhầy cứng hoặc mềm của chúng bảo vệ chúng khỏi các loại thuốc xịt và kẻ săn mồi. Sự lây lan nặng gây ra tình trạng vàng lá, rụng lá và chết héo.\n\nGiai đoạn bò (mới nở, trước khi chúng neo đậu) là giai đoạn di động duy nhất và là giai đoạn duy nhất dễ tiêu diệt bằng cách phun thuốc. Có thể có mật ong dính dính có mặt, dẫn đến nấm mốc [màu than](../01_leaves/sooty-mold.md).",
+        "treatment": {
+          "groups": [
+            {
+              "label": "Đối với các trường hợp nhẹ",
+              "steps": [
+                {
+                  "title": "Vệ sinh vảy cá bằng vải ẩm"
+                },
+                {
+                  "title": "Cắt tỉa những cành cây bị nhiễm sâu nặng"
+                }
+              ]
+            },
+            {
+              "label": "Đối với các trường hợp nghiêm trọng",
+              "steps": [
+                {
+                  "title": "Dầu neem"
+                },
+                {
+                  "title": "Thuốc trừ sâu toàn thân cho côn trùng bò"
+                },
+                {
+                  "title": "Những con bọ cánh cứng ăn vỏ ngoài trời"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "P04": {
+        "name": "Nhộng phấn",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Cách ly và kiểm tra các cây trồng mới ít nhất 2 tuần"
+                },
+                {
+                  "title": "Đừng bón quá nhiều phân bón chứa nitơ"
+                },
+                {
+                  "title": "Kiểm tra các khớp lá và mặt dưới hàng tháng đối với cây trồng trong nhà"
+                },
+                {
+                  "title": "Rửa sạch các mảnh vụn xung quanh chân đế"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Những con côn trùng bột trắng mềm 1–2 mm ở các khớp lá",
+        "symptomAnalysis": "Những con sâu phấn trắng là những con hút nhựa có liên quan đến vảy được bao phủ bởi một lớp phủ sáp trắng có tác dụng xua đuổi nước và nhiều loại thuốc xịt. Chúng sống thành từng cụm và ẩn nấp ở những nơi được bảo vệ - các khớp lá, bề mặt đất, các vết nứt trên thân cây. Nước hoa mật dẫn đến [màu mốc](../01_leaves/sooty-mold.md).\n\nMột loài sâu bệnh phổ biến trong cây cảnh, đặc biệt là trên cây mọng nước, lan và cây nhiệt đới.",
+        "treatment": {
+          "groups": [
+            {
+              "label": "Đối với các trường hợp nhẹ",
+              "steps": [
+                {
+                  "title": "Vệ sinh bằng vải xà phòng"
+                },
+                {
+                  "title": "Phun cho các loại cây chắc chắn bằng dòng nước mạnh từ vòi nước."
+                }
+              ]
+            },
+            {
+              "label": "Đối với các trường hợp nghiêm trọng",
+              "steps": [
+                {
+                  "title": "Dầu gội diệt côn trùng"
+                },
+                {
+                  "title": "Dầu neem"
+                },
+                {
+                  "title": "Hệ thống nếu các phương pháp xử lý bề mặt thất bại"
+                },
+                {
+                  "title": "Quân đội diệt côn trùng ăn phấn (Cryptolaemus) là một loài săn mồi chuyên nghiệp."
+                },
+                {
+                  "title": "Đối với các loại cây cảnh bị nhiễm sâu nặng, hãy vứt bỏ chúng thay vì mạo hiểm làm hỏng toàn bộ bộ sưu tập."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "P05": {
+        "homeRemedies": [
+          null,
+          {
+            "ingredients": [
+              {
+                "name": "sữa rửa bát",
+                "quantity": "1 thìa cà phê"
+              },
+              {
+                "name": "nước",
+                "quantity": "1 lít"
+              }
+            ]
+          }
+        ],
+        "name": "Nhện nhện",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Giữ độ ẩm trên 40% trong nhà"
+                },
+                {
+                  "title": "Kiểm tra các cây trồng mới để tìm dấu chấm và mạng lưới"
+                },
+                {
+                  "title": "Đừng bón quá nhiều phân bón"
+                },
+                {
+                  "title": "Thổi sương cho cây bằng nước sạch định kỳ để làm gián đoạn quần thể giun mủ"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Những con giun mạt đỏ hoặc vàng nhỏ xíu, mạng lưới tinh tế",
+        "symptomAnalysis": "Nhện nhện (thực tế là động vật không xương sống) hầu như không thể nhìn thấy - khoảng 1/50 inch. Chúng ăn ở mặt dưới của lá, hút chất lỏng trong tế bào và để lại những chấm nhỏ màu trắng nhạt được gọi là \"đốm\". Sự lây lan nặng nề tạo ra mạng nhện trên mặt dưới và trên các khớp lá.\n\nChúng phát triển mạnh trong điều kiện nóng, khô, bụi bặm và sinh sản một cách bùng nổ (một thế hệ mỗi 5-7 ngày trong thời tiết ấm áp). Ở trong nhà, chúng hoạt động mạnh nhất vào mùa đông khi hệ thống sưởi ấm nhà làm khô không khí.",
+        "treatment": {
+          "groups": [
+            {
+              "label": "Đối với các trường hợp nhẹ",
+              "steps": [
+                {
+                  "title": "Sịt nước mạnh mẽ, tập trung vào mặt dưới"
+                },
+                {
+                  "title": "Tăng độ ẩm xung quanh các cây trồng trong nhà"
+                }
+              ]
+            },
+            {
+              "label": "Đối với các trường hợp nghiêm trọng",
+              "steps": [
+                {
+                  "title": "Dầu gội diệt côn trùng, ở mặt dưới"
+                },
+                {
+                  "title": "Dầu neem"
+                },
+                {
+                  "title": "Các loài giun mạt ăn thịt (*Phytoseiulus persimilis*) hoạt động ngoài trời"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "P06": {
+        "name": "Nhện bọ lá",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Lưới che hàng từ khi trồng đến khi nở hoa"
+                },
+                {
+                  "title": "Loại bỏ các mảnh vụn nơi người lớn trú đông"
+                },
+                {
+                  "title": "Khuyến khích các loài săn mồi tự nhiên bằng cách trồng nhiều loại cây khác nhau"
+                },
+                {
+                  "title": "Việc luân canh cây trồng phá vỡ chu kỳ sống của bọ cánh cứng"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Nhện nhện hình bầu dục 1–20 mm nhai những lỗ không đều",
+        "symptomAnalysis": "Một họ rộng lớn (*Chrysomelidae*) của các loài bọ cánh cứng nhai lá. Chúng ảnh hưởng đến hầu hết các loại cây trong vườn và có thể làm rụng lá nhanh chóng. Nhiều loài cũng ăn hoa, thân cây và rễ cây. Hoạt động mạnh nhất từ mùa xuân đến mùa thu. Chúng trú đông khi trưởng thành dưới vỏ cây, lá cây và các mảnh vụn.\n\nMột số loài (bọ dưa chuột, bọ khoai tây Colorado, bọ giun sán) là những loài sâu bệnh quan trọng trong vườn; những loài khác chỉ gây ra thiệt hại thẩm mỹ nhỏ.",
+        "treatment": {
+          "groups": [
+            {
+              "label": "Đối với các trường hợp nhẹ",
+              "steps": [
+                {
+                  "title": "Lấy ra và nhúng vào nước xà phòng (chiều, khi hoạt động mạnh nhất)"
+                },
+                {
+                  "title": "Che phủ cây bằng lớp phủ hàng"
+                }
+              ]
+            },
+            {
+              "label": "Đối với các trường hợp nghiêm trọng",
+              "steps": [
+                {
+                  "title": "Dầu neem"
+                },
+                {
+                  "title": "Pyrethrin vào buổi tối để bảo vệ ong"
+                },
+                {
+                  "title": "Khuyến khích chim và ong bắp cày bằng các loại cây trồng đa dạng"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "P07": {
+        "name": "Nhện mối lá",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Kiểm tra cây con trước khi trồng"
+                },
+                {
+                  "title": "Ngâm rễ của cây con có rễ trần trong thuốc trừ sâu toàn thân trước khi trồng trong các khu vực bị nhiễm sâu nặng."
+                },
+                {
+                  "title": "Những cây con trồng trong thùng chứa cách ly đang bị hư hỏng"
+                },
+                {
+                  "title": "Rác thải trên mặt đất dưới gốc cây bị ảnh hưởng"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Những con bọ cánh cứng giáp nặng với viền lá đã nhai nát",
+        "symptomAnalysis": "Loài sâu bọ ăn lá màu xanh nhạt (*Polydrusus impressifrons*) và các loài tương tự ăn phần rìa lá của các loài cây gỗ cứng - bạch dương, sồi, liễu, bạch dương, cây ăn quả. Sự hư hại xuất hiện vào cuối mùa xuân và đầu mùa hè. Ấu trùng mới nở ăn rễ non gần đường đất.\n\nNhững con sâu bọ trưởng thành có thời gian ăn ngắn (khoảng vài tuần), vì vậy các cây trưởng thành thường không bị tổn hại nhiều. Các cây non và cây con có nguy cơ cao hơn.",
+        "treatment": {
+          "groups": [
+            {
+              "label": "Đối với các bệnh nhiễm trùng nghiêm trọng trên cây non",
+              "steps": [
+                {
+                  "title": "Thuốc xịt lá chứa pyrethrin"
+                },
+                {
+                  "title": "Áp dụng thuốc diệt côn trùng toàn thân"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "P08": {
+        "name": "Nhện lang",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "body": "Những cây bị căng thẳng thu hút côn trùng bọ cánh cứng.",
+                  "title": "Giữ cho cây cối khỏe mạnh: tưới nước, bón phân và tránh vết thương"
+                },
+                {
+                  "title": "Đừng di chuyển củi qua các khu vực — cách phổ biến mà bò sừng dài châu Á lây lan"
+                },
+                {
+                  "title": "Kiểm tra các cây mới để tìm lỗ khoan hoặc vụn gỗ"
+                },
+                {
+                  "title": "Cắt tỉa gỗ chết và đang chết dần kịp thời để tránh bọ cánh cứng sinh sôi nảy nở"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Những con bọ cánh dài đục vào thân gỗ",
+        "symptomAnalysis": "Nhện nhện (*Họ Cerambycidae*) là loài côn trùng đục gỗ. Những con trưởng thành đẻ trứng trên vỏ cây; ấu trùng nở ra và đào đường hầm vào thân cây để ăn gỗ sống trong 1-3 năm. Việc đào đường hầm cắt đứt dòng chảy nước và chất dinh dưỡng của cây. Các dấu hiệu có thể nhìn thấy: những lỗ thoát ra nhỏ tròn, ván gỗ vụn ở gốc thân cây, các cành cây chết từ trên xuống.\n\nChúng ưa thích gỗ cứng bị thương, căng thẳng hoặc mới được cắt. Một số loài động vật gây hại được đưa vào từ châu Á là mối quan tâm lớn (mối châu Á dài đầu, mối châu Á dài đầu).",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Áp dụng thuốc trừ sâu toàn thân cho các cây có giá trị cao theo nhãn hiệu"
+                },
+                {
+                  "title": "Cắt tỉa và đốt cháy những cành cây bị nhiễm trùng nặng trong thời tiết khô ráo"
+                },
+                {
+                  "title": "Báo cáo các lần nhìn thấy bọ cánh cứng châu Á dài đến cơ quan khuyến nông địa phương của bạn - đây là một loài xâm lấn được quy định ở Hoa Kỳ"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "P09": {
+        "name": "Sâu bọ và sên",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Loại bỏ những nơi ẩn nấp"
+                },
+                {
+                  "title": "Băng đồng tạo thành một hàng rào mà các con sên sẽ không vượt qua - quấn quanh chậu cây và các cái giường cao"
+                },
+                {
+                  "title": "Nước vào buổi sáng nên cây cối khô vào buổi tối"
+                },
+                {
+                  "title": "Khuyến khích các loài săn mồi tự nhiên (cóc, vịt, bọ đất)"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Các loài động vật thân mềm mềm nhai lá vào ban đêm",
+        "symptomAnalysis": "Sâu bọ chân dài và ốc ăn chủ yếu vào ban đêm và vào những ngày trời mây hoặc mưa, chúng ẩn nấp dưới các tấm ván, đá và tán lá dày đặc vào ban ngày. Chúng ưa thích điều kiện ẩm ướt và có thể nuốt chửng hoàn toàn các cây giống. Trứng được đẻ thành từng cụm trong đất ẩm ướt.\n\nMột số lượng nhỏ là ổn; một quần thể có thể tàn phá một khu vườn rau hoặc một cái giường hosta trong vòng một tuần.",
+        "treatment": {
+          "groups": [
+            {
+              "label": "Đối với các trường hợp nhẹ",
+              "steps": [
+                {
+                  "title": "Lựa chọn thủ công vào ban đêm bằng đèn pin"
+                },
+                {
+                  "title": "Những nơi ẩn nấp rõ ràng — các tấm bảng, đá, lớp cỏ dại dày đặc"
+                },
+                {
+                  "body": "Nâng chúng lên vào buổi sáng để tìm thấy những con sên đang ẩn nấp bên dưới.",
+                  "title": "Đặt các tấm bảng nhỏ trong vườn như bẫy"
+                }
+              ]
+            },
+            {
+              "label": "Đối với các trường hợp nghiêm trọng",
+              "steps": [
+                {
+                  "body": "Phổ biến xung quanh các cây vào buổi tối.",
+                  "title": "Bẫy bọ cạp chứa phốt pho sắt (được bán dưới dạng Sluggo, Escar-Go) an toàn hơn cho thú cưng và chim so với các loại bẫy chứa metaldehyde."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "P10": {
+        "homeRemedies": [
+          {
+            "ingredients": [
+              {
+                "name": "sữa rửa bát",
+                "quantity": "1 thìa cà phê"
+              },
+              {
+                "name": "nước",
+                "quantity": "1 lít"
+              }
+            ]
+          }
+        ],
+        "name": "bọ trĩ",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Kiểm tra các cây mới để tìm các vệt bạc"
+                },
+                {
+                  "title": "Cắt tỉa những cành và lá chết"
+                },
+                {
+                  "title": "Loại bỏ cỏ dại và vật liệu vụn"
+                },
+                {
+                  "title": "Bảo tồn môi trường sống cho côn trùng săn mồi"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Những người tạo ra những vệt bạc di chuyển nhanh chóng nhỏ gọn và mảnh mai 1–2 mm",
+        "symptomAnalysis": "Thrips có bộ phận miệng cạo xát, chà xát các tế bào thực vật và hút lấy nội dung, để lại những vết sẹo bạc màu và một vẻ ngoài nhạt nhẽo với những đốm nhỏ. Chúng ẩn nấp trong nụ hoa và khớp lá. Sự lây lan nặng nề làm biến dạng lá và gây hại cho các bông hoa và trái cây đang phát triển.\n\nThrips là tác nhân lây truyền cho một số loại virus thực vật, vì vậy ngay cả một quần thể nhỏ cũng có thể gây ra bệnh thứ cấp.",
+        "treatment": {
+          "groups": [
+            {
+              "label": "Đối với các trường hợp nhẹ",
+              "steps": [
+                {
+                  "title": "Súng phun nước mạnh mẽ"
+                },
+                {
+                  "title": "Những cái bẫy dính màu vàng hoặc xanh bắt được những con trưởng thành đang bay"
+                }
+              ]
+            },
+            {
+              "label": "Đối với các trường hợp nghiêm trọng",
+              "steps": [
+                {
+                  "title": "Thuốc xịt Pyrethrin"
+                },
+                {
+                  "title": "Dầu gội diệt côn trùng trên mặt dưới của lá"
+                },
+                {
+                  "title": "Phát hành các loài côn trùng cướp biển và bướm cánh ren"
+                },
+                {
+                  "title": "Vứt bỏ các mẫu vật bị nhiễm nặng"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "P11": {
+        "homeRemedies": [
+          {
+            "ingredients": [
+              {
+                "name": "sữa rửa bát",
+                "quantity": "1 thìa cà phê"
+              },
+              {
+                "name": "nước",
+                "quantity": "1 lít"
+              }
+            ]
+          }
+        ],
+        "name": "Nhện nhện",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Kiểm tra các nhà máy mới"
+                },
+                {
+                  "title": "Giữ cho cây cối được tưới nước và bón phân đầy đủ"
+                },
+                {
+                  "title": "Di chuyển các cây chịu căng thẳng nhiệt độ sang bóng râm một phần"
+                },
+                {
+                  "title": "Loại bỏ các mảnh vụn nơi các con trưởng thành trú đông ẩn nấp."
+                },
+                {
+                  "title": "Kiểm tra vào cuối mùa xuân trước khi dân số đạt đỉnh cao"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Những con hút nhựa cánh hoa ruy băng, những chấm trắng trên lá",
+        "symptomAnalysis": "Những con sâu bướm sử dụng bộ phận miệng giống như kim để hút chất dinh dưỡng từ mặt dưới của lá, gây ra những đốm nhạt màu trên bề mặt trên. Chúng để lại những đống phân giống như dầu mỏ đen trên mặt dưới của lá. Thường xuất hiện vào giữa đến cuối mùa hè khi quần thể đạt đỉnh.\n\nSự hư hại chủ yếu là về mặt thẩm mỹ, nhưng sự xâm nhập nghiêm trọng làm suy yếu cây cối và khiến chúng dễ bị các loài sâu bệnh và bệnh khác tấn công. Các mục tiêu phổ biến: hoa anh đào, hoa hồng, cây bàng, cây sồi, cây lan.",
+        "treatment": {
+          "groups": [
+            {
+              "label": "Đối với các trường hợp nhẹ",
+              "steps": [
+                {
+                  "title": "Phun nước mạnh dưới lá cây"
+                },
+                {
+                  "title": "Vệ sinh bằng vải xà phòng"
+                }
+              ]
+            },
+            {
+              "label": "Đối với các trường hợp nghiêm trọng",
+              "steps": [
+                {
+                  "title": "Dầu gội diệt côn trùng, tập trung vào mặt dưới lá"
+                },
+                {
+                  "title": "Cánh nhện, bọ cánh cứng và bọ sát thủ ăn bọ cánh cứng nhện"
+                },
+                {
+                  "title": "Đối với các bệnh nhiễm trùng nghiêm trọng trên cây nhỏ: [S04](../shared/treatment-steps.md#s04-prune-infected-leaves-and-stems) — tỉa và đốt những cành bị ảnh hưởng nặng nề"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "P12": {
+        "name": "Nhện ăn lá",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Các tấm che hàng bảo vệ cây non"
+                },
+                {
+                  "title": "Loại bỏ các mảnh vụn trong vườn vào mùa thu để ngăn chặn các địa điểm trú đông"
+                },
+                {
+                  "title": "Khuyến khích các loài săn mồi tự nhiên bằng cách trồng nhiều loại cây khác nhau"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Áo khoác có hình nêm, những đốm sáng trên lá cây",
+        "symptomAnalysis": "Nhện ăn lá ăn nhựa cây từ lá, thân và thân của sự phát triển mới. Việc ăn quá nhiều gây ra sự xoăn lá, vàng lá (\"nhện ăn lá bị cháy\"), và sự phát triển chậm chạp. Chúng nhảy hoặc bay đi khi bị làm phiền. Chủ thể thường gặp: đậu, ngô, xà lách, cải bó xôi, khoai tây, nho, hoa hồng.\n\nGiống như thrips, côn trùng ăn lá truyền bệnh vi rút và vi khuẩn giữa các cây - đôi khi có hại hơn chính con côn trùng.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Dầu gội diệt côn trùng"
+                },
+                {
+                  "title": "Pyrethrin hoặc azadirachtin cho các trường hợp nghiêm trọng"
+                },
+                {
+                  "title": "Những con ruồi cánh thưa và những con bọ cánh cứng màu đỏ"
+                },
+                {
+                  "title": "Che phủ các cây trồng non bằng các tấm che hàng"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "P13": {
+        "name": "Loài bướm Tortrix",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Kiểm tra các cây mới để tìm lá cuộn lại"
+                },
+                {
+                  "title": "Loại bỏ các mảnh vụn cây cối nơi trứng nhộng trú đông"
+                },
+                {
+                  "title": "Khuyến khích ong ký sinh và chim"
+                },
+                {
+                  "title": "Bẫy pheromone từ mùa đầu tiên"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Nhộng bướm cuộn lá thành ống lụa",
+        "symptomAnalysis": "Những con sâu bướm Tortrix (moth-roller) cuộn lá xung quanh mình và buộc chúng lại với nhau bằng tơ lụa, sau đó ăn từ bên trong ống được bảo vệ. Chúng cũng ăn trái cây, đôi khi kết các quả với lá. Nhiều loài; được tìm thấy trên trái cây, rau củ và cây cảnh. Hoạt động mạnh nhất từ cuối mùa xuân đến đầu mùa thu.\n\nDân số nhà kính có thể tồn tại quanh năm.",
+        "treatment": {
+          "groups": [
+            {
+              "label": "Đối với các trường hợp nhẹ",
+              "steps": [
+                {
+                  "title": "Cắt bỏ những lá cuộn lại"
+                },
+                {
+                  "title": "Những cái bẫy hóa chất thu hút con đực và làm gián đoạn quá trình sinh sản."
+                }
+              ]
+            },
+            {
+              "label": "Đối với các trường hợp nghiêm trọng",
+              "steps": [
+                {
+                  "title": "Áp dụng Bacillus thuringiensis (Bt)"
+                },
+                {
+                  "title": "Spinosad có hiệu quả đối với các loại côn trùng gây hại dai dẳng theo nhãn hiệu"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "P14": {
+        "name": "Những người khai thác lá",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Lưới che hàng từ thời điểm trồng cây"
+                },
+                {
+                  "title": "Loại bỏ cỏ dại và lá cây cũ nơi các thợ mỏ sinh sản"
+                },
+                {
+                  "title": "Kiểm tra các nhà máy mới"
+                },
+                {
+                  "title": "Tránh sử dụng thuốc trừ sâu phổ rộng - chúng giết chết những con ong ký sinh kiểm soát tự nhiên các công nhân khai thác mỏ."
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Trứng sâu bướm bay đào đường hầm hình vệt trắng bên trong lá cây",
+        "symptomAnalysis": "Những con sâu bọ ăn lá là những con sâu bướm, ruồi hoặc sâu bọ trưởng thành nhỏ xíu đào đường hầm giữa các lớp trên và dưới của một lá cây, ăn phần mô mềm bên trong. Những đường mòn có thể nhìn thấy là những đường hầm trống mà chúng để lại. Con ruồi trưởng thành đẻ trứng giữa các lớp lá; những con sâu non nở ra ăn trong 1-3 tuần sau đó rơi ra để hóa nhộng trong đất.\n\nSự hư hỏng về mặt thẩm mỹ trên hầu hết các loại cây trang trí; sự hư hỏng đáng kể trên các loại rau ăn được (rau bina, cải bó xôi, củ cải đường).",
+        "treatment": {
+          "groups": [
+            {
+              "label": "Đối với các trường hợp nhẹ",
+              "steps": [
+                {
+                  "title": "Kéo nhẹ các lá có hoạt tính và bỏ đi."
+                }
+              ]
+            },
+            {
+              "label": "Đối với các trường hợp nghiêm trọng",
+              "steps": [
+                {
+                  "title": "Dầu neem"
+                },
+                {
+                  "title": "Thuốc xịt Spinosad (được bán dưới dạng Entrust) mỗi nhãn hiệu đều có hiệu quả trên các nhà khai thác mỏ."
+                },
+                {
+                  "title": "Những con ong ký sinh đẻ trứng bên trong các con sâu bướm của loài thợ mỏ đá."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "P15": {
+        "name": "Trùng trắng",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Cách ly các cây mới trong 2 tuần"
+                },
+                {
+                  "title": "Màng che hàng"
+                },
+                {
+                  "title": "Những cái bẫy dính màu vàng như một công cụ giám sát trong nhà"
+                },
+                {
+                  "title": "Loại bỏ cỏ dại nơi ruồi trắng trú đông"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Những con ruồi nhỏ màu trắng giống như ruồi bướm dưới lá, mật hoa",
+        "symptomAnalysis": "Trùng trắng lá là những con hút nhựa như sâu bọ phấn trắng và sâu me, có tác dụng tương tự: lá vàng úa, sự phát triển bị biến dạng, mật ong và sự theo dõi [màu mốc](../01_leaves/sooty-mold.md). Chúng phổ biến trên cà chua, ớt chuông, đậu bắp, hoa hồng và nhiều loại cây cảnh trong nhà.\n\nMỗi con trưởng thành đẻ hàng trăm quả trứng trên mặt dưới của lá. Ấu trùng là những vảy hình bầu dục phẳng, gần như trong suốt, dính chặt vào lá. Sự lây lan nặng nề nhân lên một cách bùng nổ trong thời tiết ấm áp.",
+        "treatment": {
+          "groups": [
+            {
+              "label": "Đối với các trường hợp nhẹ",
+              "steps": [
+                {
+                  "title": "Phun sạch bằng vòi nước"
+                },
+                {
+                  "title": "Những cái bẫy dính màu vàng bắt được những con trưởng thành đang bay"
+                }
+              ]
+            },
+            {
+              "label": "Đối với các trường hợp nghiêm trọng",
+              "steps": [
+                {
+                  "title": "Dầu gội diệt côn trùng ở mặt dưới"
+                },
+                {
+                  "title": "Dầu neem"
+                },
+                {
+                  "title": "Côn trùng Encarsia formosa để sử dụng trong nhà kính"
+                },
+                {
+                  "title": "Vứt bỏ một cây cảnh bị nhiễm trùng nặng trước khi nó lây lan sang những cây khác"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "P16": {
+        "name": "Trich trùng nấm (người lớn)",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Bước quan trọng nhất duy nhất"
+                },
+                {
+                  "title": "Lớp cát hoặc sỏi ở trên cùng"
+                },
+                {
+                  "title": "Kiểm tra đất trồng mới cho người lớn hoặc ấu trùng"
+                },
+                {
+                  "title": "Làm sạch đất trồng trước khi sử dụng nếu đang lưu trữ các túi đã sử dụng một phần."
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Những con muỗi đen bay lượn gần đất trồng cây trong nhà",
+        "symptomAnalysis": "Những con ruồi nấm trưởng thành nhỏ (1/8 inch), màu đen, giống như muỗi. Chúng là những con bay yếu và có xu hướng đi trên bề mặt đất. Những con trưởng thành không gây hại trực tiếp cho cây trồng - nhưng mỗi con cái đẻ ~200 quả trứng trong đất ẩm, và ấu trùng ăn các sợi lông rễ non. Xem [R07](../05_roots/fungus-gnat-larvae.md) để biết về thiệt hại do ấu trùng/rễ gây ra.\n\nThường gặp ở bất kỳ loại cây cảnh trong nhà được giữ quá ẩm, đặc biệt là cây giống, dương xỉ và cây nhiệt đới.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Để lớp đất mặt khô ráo giữa các lần tưới nước"
+                },
+                {
+                  "title": "Chỉ nước ở đáy"
+                },
+                {
+                  "title": "Trang trí trên cùng bằng cát để ngăn chặn việc đẻ trứng"
+                },
+                {
+                  "title": "Những cái bẫy dính màu vàng đặt phẳng hoặc nghiêng ở mức độ đất bắt được những con trưởng thành."
+                },
+                {
+                  "title": "Bt-i (*Bacillus thuringiensis israelensis*, được bán dưới dạng \"Mosquito Bits\") rắc lên đất hoặc ngâm trong nước sẽ giết chết ấu trùng."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "R01": {
+        "homeRemedies": [
+          {
+            "ingredients": [
+              {
+                "name": "3% peroxy",
+                "quantity": "1 phần"
+              },
+              {
+                "name": "nước",
+                "quantity": "3 phần"
+              }
+            ]
+          }
+        ],
+        "name": "bệnh thối rễ",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Nước ở gốc cây"
+                },
+                {
+                  "title": "Để lớp đất trên cùng khô trước mỗi lần tưới nước"
+                },
+                {
+                  "title": "Luôn sử dụng chậu có lỗ thoát nước"
+                },
+                {
+                  "title": "Làm sạch nồi trước khi tái sử dụng chúng"
+                },
+                {
+                  "title": "Kiểm tra các cây trồng mới trước khi tích hợp chúng vào hệ thống."
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Rễ đen, nhão, có mùi hôi; cây héo dù đất ẩm ướt",
+        "symptomAnalysis": "Rễ khỏe mạnh có màu trắng hoặc nâu nhạt và dẻo dai. Rễ mục nát có màu sẫm và nhớt. Hai nguyên nhân chính: tưới quá nhiều nước mãn tính khiến rễ bị thiếu oxy và chúng chết lại; hoặc một loại nấm có nguồn gốc từ đất (Pythium, Phytophthora) trở nên hoạt động trong đất ẩm và tấn công rễ. Khi nấm bắt đầu mục nát, nó lan rộng đến các rễ khỏe mạnh ngay cả sau khi vấn đề tưới nước được khắc phục.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Rửa sạch rễ bằng nước để bạn có thể thấy những gì là lành mạnh"
+                },
+                {
+                  "title": "Tiêu trùng kéo tỉa cành"
+                },
+                {
+                  "title": "Cắt bỏ mọi rễ đen hoặc nhão, trở lại mô chắc khỏe"
+                },
+                {
+                  "title": "Đặt lại trong hỗn hợp vô trùng mới trong một chậu sạch có lỗ thoát nước"
+                },
+                {
+                  "title": "Cắt tỉa lại khoảng một nửa số lá để giảm nhu cầu đối với hệ thống rễ mới"
+                },
+                {
+                  "body": "Để phần đất trên cùng 1-2 inch khô ráo giữa các lần tưới nước. Nhúng ngón tay vào để kiểm tra trước mỗi lần tưới nước. Nhiều vấn đề thối rễ và thân cây có thể bắt nguồn từ đất ẩm lâu ngày. Nếu hơn hai phần ba rễ đã biến mất: *Vứt bỏ cây bị nhiễm trùng nặng* (xem 6.1).",
+                  "subSteps": [
+                    {
+                      "title": "Vứt bỏ cây bị nhiễm nặng"
+                    }
+                  ],
+                  "title": "Chờ cho lớp đất mặt khô trước khi tưới nước lại"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "R02": {
+        "name": "Liệt rễ",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Chọn các giống kháng nematode (tìm kiếm \"VFN\" trên hạt cà chua)"
+                },
+                {
+                  "title": "Loại bỏ rễ cũ và các mảnh vụn"
+                },
+                {
+                  "title": "Chuyển đổi cây trồng mỗi 3 năm"
+                },
+                {
+                  "title": "Kiểm tra rễ của các cây mới trước khi đưa chúng vào."
+                },
+                {
+                  "title": "Giữ cho cây cối được cung cấp đủ dinh dưỡng và nước để chúng chống lại sự nhiễm trùng"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Rễ xoắn, gồ ghề hoặc bị đốm",
+        "symptomAnalysis": "Ba nguyên nhân thông thường:\n1. **Trùng đỉa rễ** - những con giun vi mô đào sâu vào rễ và kích hoạt các nốt sưng.\n2. **Viêm nhiễm vi khuẩn hoặc nấm** — tạo ra các khối u bất thường như phản ứng căng thẳng.\n3. **Điều kiện vật lý** — đất đá, bị nén chặt hoặc chật chội buộc rễ phải uốn cong quanh các vật cản.\n\nLưu ý: các rễ tròn nhỏ *nhồi u* trên các loại đậu (đậu, đậu Hà Lan) là các vi khuẩn cố định nitơ có lợi, không gây hại. Các nhồi u dễ bị bong tróc; các u không bị vậy.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Rửa sạch và kiểm tra"
+                },
+                {
+                  "title": "Cắt tỉa các rễ bị ảnh hưởng nhẹ nhàng"
+                },
+                {
+                  "title": "Tiêu trùng các dụng cụ giữa các lần cắt"
+                },
+                {
+                  "title": "Trồng lại trong đất tươi, lỏng lẻo và vô trùng"
+                },
+                {
+                  "body": "Đặt một tấm nhựa trong lên lớp đất vườn ẩm ướt trong 4-6 tuần trong thời điểm nóng nhất trong năm. Nhiệt độ tích tụ bên dưới và giết chết các loài giun tròn, nấm và hạt cỏ dại. Nếu hầu hết các rễ bị biến dạng: *Vứt bỏ cây bị nhiễm nặng* (xem 5.1).",
+                  "subSteps": [
+                    {
+                      "title": "Vứt bỏ cây bị nhiễm nặng"
+                    }
+                  ],
+                  "title": "Đối với các luống vườn có giun tròn, hãy phơi nắng đất trong 4-6 tuần."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "R03": {
+        "homeRemedies": [
+          {
+            "ingredients": [
+              {
+                "name": "3% peroxy",
+                "quantity": "1 phần"
+              },
+              {
+                "name": "nước",
+                "quantity": "3 phần"
+              }
+            ]
+          },
+          null
+        ],
+        "name": "Mùi mốc trên đất",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Tránh giữ cho đất luôn ẩm ướt"
+                },
+                {
+                  "title": "Nước ở đáy nếu cây trồng có thể chịu đựng được nó"
+                },
+                {
+                  "title": "Cải thiện luồng không khí trong nhà"
+                },
+                {
+                  "title": "Giữ một lớp cát hoặc sỏi trên cùng"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Vết phấn trắng hoặc vàng, hoặc nấm, trên bề mặt đất",
+        "symptomAnalysis": "Các loại nấm hoại sinh ăn thức ăn hữu cơ chết trong đất ẩm ướt. Chúng hầu như không gây hại cho cây cối, nhưng chúng báo hiệu rằng đất đang bị giữ ẩm quá mức, điều này gây ra những vấn đề lớn hơn như thối rễ hoặc muỗi nấm. Nấm xuất phát từ các bào tử đã đến trong hỗn hợp trồng cây.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Cạo bỏ lớp trên bị mốc và thay thế bằng cát thô."
+                },
+                {
+                  "title": "Để lớp đất mặt khô ráo giữa các lần tưới nước"
+                },
+                {
+                  "title": "Đặt quạt chạy trong khu vực trong nhà"
+                },
+                {
+                  "title": "Kéo nấm lên bằng cuống và vứt đi"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "R04": {
+        "name": "Rễ bị ràng buộc trong chậu",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Đặt lại chậu mỗi 1-2 năm đối với những cây phát triển nhanh; mỗi 2-3 năm đối với những cây phát triển chậm"
+                },
+                {
+                  "body": "Những cái chậu quá lớn sẽ giữ ẩm quá lâu.",
+                  "title": "Chọn một cái chậu lớn hơn 1–2 kích thước so với quả rễ hiện tại — không phải lớn hơn"
+                },
+                {
+                  "title": "Luôn sử dụng chậu có lỗ thoát nước"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Rễ cây xoáy quanh chậu, cây bị chết héo hoặc không phát triển.",
+        "symptomAnalysis": "Khi một cây trồng vượt quá kích thước của chậu, rễ sẽ vòng quanh tường, sau đó quay lại vòng quanh chính chúng. Bó rễ trở nên dày đặc hơn so với đất và nước không thể giữ lại được nữa - nó chỉ chảy xuống bên cạnh. Sự hấp thụ chất dinh dưỡng giảm, quá trình phát triển bị đình trệ và cây trông như đang khát nước mãn tính ngay cả ngay sau khi tưới nước.\n\nKiểm tra nhanh: rễ mọc ra từ lỗ thoát nước hoặc đất kéo ra khỏi tường chậu là những dấu hiệu rõ ràng.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Rút chậu cây ra khỏi chậu"
+                },
+                {
+                  "body": "Nhẹ nhàng kéo chúng ra ngoài, xa khỏi quả bóng.",
+                  "title": "Sử dụng ngón tay sạch sẽ hoặc que đũa để tách các rễ xoắn tròn ra khỏi nhau"
+                },
+                {
+                  "title": "Cắt bỏ bất kỳ rễ nào chết hoặc bị uốn cong"
+                },
+                {
+                  "title": "Chuyển sang một nồi lớn hơn 1-2 kích thước"
+                },
+                {
+                  "title": "Điền vào bằng hỗn hợp đất trồng mới"
+                },
+                {
+                  "title": "Đổ nước sâu một lần để lắng đọng đất mới"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "R05": {
+        "name": "Sự tích tụ muối",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Xử lý đất bằng nước sạch mỗi 1-3 tháng"
+                },
+                {
+                  "title": "Sử dụng nước mưa hoặc nước cất nếu nước máy của bạn có tính cứng hoặc bị clo hóa."
+                },
+                {
+                  "body": "Nhiều hơn không phải là tốt hơn.",
+                  "title": "Phân bón ở nửa mức độ được ghi nhãn cho cây cảnh trong nhà"
+                },
+                {
+                  "title": "Bỏ qua phân bón vào mùa đông khi quá trình phát triển chậm lại"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Vỏ trắng trên đất, đầu lá màu nâu",
+        "symptomAnalysis": "Các muối phân bón (và các khoáng chất từ nước máy) tích tụ trong đất theo thời gian. Khi nước bốc hơi, muối kết tinh trên bề mặt. Độ mặn cao gây tổn thương rễ, khiến chúng không thể hấp thụ nước, và lá có các cạnh giòn màu nâu giống như bị hạn hán ngay cả khi đất ẩm ướt.\n\nPhổ biến trong chậu nội thất, cây chịu hạn bị bón quá nhiều phân và bất kỳ chậu nào đã một năm không được rửa sạch sâu.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Cạo sạch bất kỳ lớp vỏ muối nào có thể nhìn thấy trên đất và viền chậu"
+                },
+                {
+                  "title": "Rửa sạch đất bằng 4 lần thể tích nước sạch của chậu"
+                },
+                {
+                  "body": "Cắt bỏ các lá và cành bị ảnh hưởng bằng các dụng cụ đã được khử trùng, cắt lại vào mô khỏe mạnh. Đóng gói và vứt bỏ các cành cắt - đừng bao giờ ủ phân chất bị bệnh. Nếu sự tích tụ nghiêm trọng và cây đang gặp khó khăn: *Đặt lại chậu với đất tươi và thoát nước* (xem 3.1).",
+                  "subSteps": [
+                    {
+                      "title": "Đặt lại chậu với đất tươi và thoát nước"
+                    }
+                  ],
+                  "title": "Cắt tỉa các đầu lá đã chuyển sang màu nâu để làm mỹ phẩm"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "R06": {
+        "homeRemedies": [
+          {
+            "ingredients": [
+              {
+                "name": "3% peroxy",
+                "quantity": "1 phần"
+              },
+              {
+                "name": "nước",
+                "quantity": "3 phần"
+              }
+            ]
+          },
+          null,
+          null
+        ],
+        "name": "Giảm thiểu sự lây lan",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Làm sạch khay gieo hạt trước khi tái sử dụng"
+                },
+                {
+                  "body": "Đừng tái sử dụng đất trồng cũ.",
+                  "title": "Sử dụng hỗn hợp gieo hạt vô trùng tươi mới"
+                },
+                {
+                  "title": "Gieo ở độ sâu được liệt kê trên gói hạt - chôn quá sâu gây căng thẳng cho quá trình nảy mầm"
+                },
+                {
+                  "title": "Cung cấp luồng không khí nhẹ nhàng từ ngày đầu tiên"
+                },
+                {
+                  "title": "Loại bỏ các mái vòm ẩm sau khi mầm nảy mầm"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Cây con sụp đổ ở đường đất",
+        "symptomAnalysis": "Bệnh thối rễ do một số loại nấm đất (Pythium, Rhizoctonia, Fusarium) tấn công các thân cây non mỏng ngay nơi chúng tiếp xúc với đất ẩm. Các điều kiện thuận lợi cho bệnh này: nhiệt độ mát mẻ, hỗn hợp gieo hạt quá ẩm ướt, luồng không khí kém và khay hoặc hạt chưa được khử trùng.\n\nMột khi cây giống sụp đổ, chúng không thể hồi phục được. Cuộc chiến là để bảo vệ phần còn lại của khay.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Kéo và vứt bỏ những cây giống bị sụp đổ ngay lập tức"
+                },
+                {
+                  "title": "Những cây con còn lại trong nước ở đáy"
+                },
+                {
+                  "title": "Để bề mặt khô nhẹ một chút giữa các lần tưới nước"
+                },
+                {
+                  "title": "Đặt một chiếc quạt nhỏ ở chế độ thấp gần đó để chạy"
+                },
+                {
+                  "title": "Di chuyển dưới ánh sáng sáng hơn nếu cây giống có thân ngắn và màu nhạt."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "R07": {
+        "homeRemedies": [
+          {
+            "ingredients": [
+              {
+                "name": "3% peroxy",
+                "quantity": "1 phần"
+              },
+              {
+                "name": "nước",
+                "quantity": "3 phần"
+              }
+            ]
+          },
+          null
+        ],
+        "name": "Trứng giun nấm mốc",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Giảm lượng tưới nước"
+                },
+                {
+                  "title": "Giữ một lớp cát hoặc sỏi trên cùng"
+                },
+                {
+                  "title": "Cách ly các cây mới và kiểm tra đất"
+                },
+                {
+                  "title": "Cải thiện luồng không khí"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Những con ruồi đen nhỏ + cây giống bị chậm phát triển",
+        "symptomAnalysis": "Những con ruồi nấm trưởng thành là những con ruồi gây phiền nhiễu, nhưng ấu trùng của chúng ăn rễ non mềm và lông rễ ở lớp đất ẩm ướt trên một inch. Chúng phát triển mạnh trong các chậu cây cảnh bị tưới quá nhiều nước và khay gieo hạt. Những con trưởng thành đẻ trứng trên bề mặt đất; ấu trùng nở ra và ăn trong 1-2 tuần trước khi hóa nhộng.\n\nĐối với những con ruồi trưởng thành, hãy xem [P16 — Ruồi nấm](../02_pests/fungus-gnats.md). Mục này bao gồm việc tiêu diệt rễ của ấu trùng.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Để lớp đất trên cùng khô hoàn toàn giữa các lần tưới nước"
+                },
+                {
+                  "title": "Chỉ nước ở đáy"
+                },
+                {
+                  "title": "Trang trí trên cùng bằng 1/4 inch cát để ngăn chặn việc đẻ trứng của người lớn"
+                },
+                {
+                  "body": "Áp dụng theo nhãn.",
+                  "title": "Bt-i (một chủng Bt khác nhau — *Bacillus thuringiensis israelensis*, được bán dưới dạng \"Mosquito Bits\") rắc hoặc ngâm trong nước sẽ tiêu diệt ấu trùng một cách đặc biệt."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "ST01": {
+        "name": "Héo úa",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Nước đều đặn và sâu"
+                },
+                {
+                  "title": "Mua các giống kháng héo (tìm kiếm \"VFN\" trên cà chua, dâu tây)"
+                },
+                {
+                  "title": "Chuyển giường"
+                },
+                {
+                  "title": "Thùng phủ giữ độ ẩm đều đặn"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Các thân cây héo úa và mất cấu trúc",
+        "symptomAnalysis": "Héo úa có thể xuất phát từ bất kỳ điều nào sau đây:\n\n- **Áp lực nước** — quá nhiều hoặc quá ít. Khát hạn khiến cây héo úa và khô cằn; tưới quá nhiều nước làm thối rễ và chúng không thể hút nước lên được nữa.\n- **Áp lực nhiệt** — những buổi chiều nóng khiến cây héo đi tạm thời và sẽ hồi phục vào ban đêm.\n- **Bệnh héo mạch** — *Verticillium*, *Fusarium* hoặc bệnh héo do vi khuẩn tắc nghẽn mô mang nước của cây. Lá héo và vẫn héo.\n- **Rối loạn rễ** — xem [R01](../05_roots/root-rot.md). Rễ bị hư hỏng không thể cung cấp nước.\n\nĐể thu hẹp nó lại: cào phần thân chính bằng móng tay. Bên trong màu xanh có nghĩa là còn sống; màu nâu và giòn là chết. Sau đó kiểm tra đất và rễ.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "body": "Đất khô → *Đổ nước sâu nhưng ít thường xuyên* (xem 1.1). Đất ẩm → *Giảm tần suất tưới nước* (xem 1.2) và kiểm tra rễ.",
+                  "subSteps": [
+                    {
+                      "title": "Đổ nước sâu nhưng ít thường xuyên hơn"
+                    },
+                    {
+                      "title": "Giảm tần suất tưới nước"
+                    }
+                  ],
+                  "title": "Chẩn đoán trước tiên"
+                },
+                {
+                  "title": "Sử dụng vải che nắng vào những buổi chiều nóng bức"
+                },
+                {
+                  "title": "Đối với bệnh tật, cắt tỉa và tiêu diệt các cành bị ảnh hưởng"
+                },
+                {
+                  "body": "Đặt kéo cắt cành, kéo hoặc lưỡi dao vào dung dịch pha 1:4 nước và chất tẩy trắng (hoặc cồn rubbing 70%) trước mỗi lần cắt và giữa mỗi cây. Vệ sinh khô ráo trước khi cắt. Nếu được chẩn đoán mắc bệnh héo mạch máu: *Vứt bỏ cây bị nhiễm nặng* (xem 4.1). Các tác nhân gây bệnh trong đất tồn tại trong nhiều năm.",
+                  "subSteps": [
+                    {
+                      "title": "Vứt bỏ cây bị nhiễm nặng"
+                    }
+                  ],
+                  "title": "Tiêu trùng các dụng cụ giữa các lần cắt"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "ST02": {
+        "name": "Bệnh đốm lá cành",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Mua các giống cây kháng bệnh từ các vườn ươm uy tín"
+                },
+                {
+                  "title": "Kiểm tra các cây mới để tìm bất kỳ cành cây chết nào"
+                },
+                {
+                  "title": "Trồng cây với khoảng cách phù hợp để luồng không khí lưu thông"
+                },
+                {
+                  "title": "Lưới tưới nhỏ giọt"
+                },
+                {
+                  "title": "Phun kẽm phòng ngừa trong các suối ẩm ướt"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Toàn bộ cành cây chuyển sang màu nâu và khô từ gốc",
+        "symptomAnalysis": "Một bệnh nấm phổ biến ở các loại cây được trồng trong nhà kính mà các cây được trồng quá gần nhau. Các bào tử xâm nhập qua vết thương hoặc trong thời tiết ẩm ướt. Không giống như bệnh héo úa (bắt đầu từ đỉnh), bệnh đốm cành giết chết toàn bộ cành bị nhiễm bệnh cùng một lúc. Các mảng chết chìm được gọi là *canker* có thể hình thành giữa gỗ sống và gỗ chết.\n\nĐể biết về sự chết héo, hãy xem [ST03](dieback.md). Để biết về bệnh lở loét, hãy xem [ST05](cankers.md).",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Cắt các cành cây bị ảnh hưởng trở lại gỗ khỏe mạnh, trong thời tiết khô ráo"
+                },
+                {
+                  "title": "Làm sạch bằng cách khử trùng giữa mỗi lần cắt."
+                },
+                {
+                  "title": "Áp dụng thuốc diệt nấm đồng lên phần còn lại của quá trình phát triển khỏe mạnh"
+                },
+                {
+                  "title": "Cào lên vật liệu bị rơi xuống"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "ST03": {
+        "name": "chết khô",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Trồng ở đúng nơi — ánh sáng phù hợp, thoát nước và độ phơi sáng thích hợp cho loài cây đó."
+                },
+                {
+                  "title": "Bảo vệ cây trồng khỏi thiệt hại vật lý (máy cắt cỏ, cây chọc cỏ, động vật ăn cỏ)"
+                },
+                {
+                  "title": "Giữ luồng không khí với khoảng cách hợp lý"
+                },
+                {
+                  "title": "Chỉ cắt tỉa vào thời tiết khô ráo để tránh nấm xâm nhập vào vết cắt mới."
+                },
+                {
+                  "body": "Cắt tỉa các cành gãy trước khi nấm có thể xâm nhập.",
+                  "title": "Kiểm tra sau khi trời lạnh hoặc bão"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Các thân cây chết lại từ đỉnh hướng về thân cây chính.",
+        "symptomAnalysis": "Một thuật ngữ chung cho các bệnh nhiễm nấm (và đôi khi là thiệt hại do côn trùng hoặc môi trường) giết chết sự phát triển gỗ từ đỉnh vào trong. Thường đi kèm với vết thương - cắt tỉa, thiệt hại do máy cắt cỏ, nứt do sương giá, đường hầm côn trùng - đã cho phép nấm xâm nhập. Áp lực (nắng hạn, đóng băng, ngập nước) khiến cây cối dễ bị tổn thương hơn.\n\nKhác biệt với bệnh đốm cành: bệnh chết cành bắt đầu từ đầu và lan ra; bệnh đốm cành giết chết toàn bộ cành một lúc.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Cắt tỉa Lá và Củ bị nhiễm bệnh"
+                },
+                {
+                  "title": "Tiêu trùng giữa các vết cắt"
+                },
+                {
+                  "title": "Chuyển sang tưới nước cơ bản"
+                },
+                {
+                  "body": "Sử dụng phân bón cân bằng N-P-K (ví dụ: 10-10-10) cho mỗi nhãn. Đối với các thiếu hụt xuất hiện trên lá, hãy tiếp tục sử dụng phân bón lá để hấp thụ nhanh chóng. Phân hữu cơ là một lựa chọn giải phóng chậm. Trong trường hợp nghiêm trọng toàn bộ cây: *Vứt bỏ cây bị nhiễm nặng* (xem 4.1).",
+                  "subSteps": [
+                    {
+                      "title": "Vứt bỏ cây bị nhiễm nặng"
+                    }
+                  ],
+                  "title": "Bón giàu nitơ cung cấp năng lượng cho cây trồng bị căng thẳng để phục hồi."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "ST04": {
+        "name": "Rối loạn rễ (rối loạn mềm)",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Tránh làm ướt lá và thân cây"
+                },
+                {
+                  "title": "Đừng tưới quá nhiều nước"
+                },
+                {
+                  "title": "Các loại cây trong không gian cách nhau"
+                },
+                {
+                  "title": "Kiểm tra các cây mới để tìm thấy thân mềm, bị biến màu"
+                },
+                {
+                  "title": "Luôn khử trùng các dụng cụ"
+                },
+                {
+                  "title": "Kiểm soát các loài sâu bọ hút nhựa như sâu bọ phấn trắng; vết thương của chúng tạo điều kiện cho vi khuẩn xâm nhập."
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Cành cây trở nên mềm nhũn, trống rỗng và có mùi hôi.",
+        "symptomAnalysis": "Rò rỉ mềm do vi khuẩn gây ra, thường là *Erwinia*. Vi khuẩn xâm nhập qua vết thương và tiêu hóa mô thực vật từ bên trong. Phát triển nhanh nhất trong thời tiết ấm áp, ẩm ướt và trên các cây đứng trong đất ẩm hoặc bị văng bởi tưới nước từ trên cao. Khi tiến triển, nó lan ra từ thân đến ngọn và xuống rễ - đôi khi toàn bộ cây sẽ biến đen và nhão từ giữa.\n\nBao gồm bài thuyết trình \"cây hoàn toàn chuyển sang màu đen từ trung tâm\" mà một số tài liệu tham khảo liệt kê là một tình trạng \"rò rỉ mềm\" riêng biệt.",
+        "treatment": {
+          "groups": [
+            {
+              "label": "Đối với nhiễm trùng nhẹ (một thân hoặc phần bị ảnh hưởng)",
+              "steps": [
+                {
+                  "title": "Cắt bỏ từng phần thân mềm, bị biến màu thành mô sạch sẽ"
+                },
+                {
+                  "title": "Làm sạch bằng cách khử trùng giữa mỗi lần cắt."
+                },
+                {
+                  "title": "Đặt lại trong đất sạch mới và vô trùng với hệ thống thoát nước"
+                },
+                {
+                  "title": "Chỉ tưới nước khi đất mặt khô ráo"
+                },
+                {
+                  "body": "Đưa nước trực tiếp xuống đất gần thân cây thay vì phun lên lá. Sử dụng bình tưới nước có vòi dài, ống thấm nước hoặc đường rãnh thấm nước. Lá ướt sẽ tạo điều kiện cho nấm và vi khuẩn lây lan. Đối với nhiễm trùng toàn bộ cây nghiêm trọng: *Vứt bỏ Cây bị nhiễm nặng* (xem 5.1). Bọc lại và loại bỏ. Đừng ủ phân.",
+                  "subSteps": [
+                    {
+                      "title": "Vứt bỏ cây bị nhiễm nặng"
+                    }
+                  ],
+                  "title": "Dừng tưới nước từ trên cao"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "ST05": {
+        "name": "Bệnh lở loét miệng",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Tránh thiệt hại do mùa đông và sương giá - quấn quanh thân cây non, sơn bằng sơn cây màu trắng hoặc sử dụng lớp phủ cây trong các khu vực lạnh."
+                },
+                {
+                  "title": "Tránh vết thương cơ học — giữ máy cắt cỏ và máy tỉa cành xa gốc cây"
+                },
+                {
+                  "title": "Chọn các giống cây kháng bệnh lở loét"
+                },
+                {
+                  "title": "Giữ cho cây cối khỏe mạnh"
+                },
+                {
+                  "title": "Cắt tỉa vào thời tiết khô vào cuối mùa đông hoặc đầu mùa xuân"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Các mảng vỏ cây chìm xuống, chết với các ranh giới nứt nẻ",
+        "symptomAnalysis": "Canker là một vùng chết cục bộ trong mô thân do nấm (*Cytospora*, *Nectria*) hoặc vi khuẩn xâm nhập qua vết thương - cắt tỉa, nứt do sương giá, bỏng nắng, đường hầm của côn trùng gây ra. Tác nhân gây bệnh giết chết mô xung quanh điểm xâm nhập. Canker phát triển chậm; những cái lớn có thể cắt ngang và giết chết toàn bộ một cành cây.\n\nPhổ biến trên cây ăn quả (dưa đào, táo, anh đào) và nhiều cây cảnh. Thường xảy ra sau khi chịu căng thẳng mùa đông.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Cắt tỉa Lá và Củ bị nhiễm bệnh"
+                },
+                {
+                  "title": "Làm sạch bằng cách khử trùng giữa mỗi lần cắt."
+                },
+                {
+                  "title": "Chỉ cắt tỉa vào thời tiết khô ráo để tránh lây lan mầm bệnh"
+                },
+                {
+                  "body": "Phun thuốc diệt nấm gốc đồng (mixture Bordeaux, sulfat đồng hoặc hydroxide đồng thương mại) lên lá, thân cây và đất xung quanh theo nhãn sản phẩm. Áp dụng lại mỗi 7-14 ngày. Đối với các vết lở trên thân chính mà bạn không thể cắt tỉa: cạo bỏ mô chết bằng dao sạch trở lại vỏ cây khỏe mạnh (gọi là \"phẫu thuật\"). Để vết thương tiếp xúc với không khí để khô.",
+                  "title": "Áp dụng thuốc diệt nấm đồng vào vỏ cây còn khỏe mạnh còn lại vào đầu mùa xuân"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "ST06": {
+        "name": "Nắng chói trên vỏ cây",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "body": "Ghi lại ánh nắng mùa đông.",
+                  "title": "**Bao bọc thân cây non** bằng lớp bao bọc cây màu trắng hoặc sơn bằng sơn latex nội thất màu trắng pha loãng (1:1 với nước) từ đường đất xếp hàng 24 inch, áp dụng vào cuối mùa thu"
+                },
+                {
+                  "title": "Tránh cắt tỉa vào cuối mùa hè để lộ vỏ cây đã được che bóng trước đó"
+                },
+                {
+                  "title": "Đổ nước sâu vào cuối mùa thu trước khi mặt đất đóng băng"
+                },
+                {
+                  "title": "Cải tạo lớp phủ cây xanh cho vùng rễ để điều chỉnh sự thay đổi nhiệt độ."
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Gỗ sần nứt, bong tróc, bị biến màu ở mặt hướng nắng",
+        "symptomAnalysis": "Hiện tượng cháy nắng vỏ cây xảy ra khi ánh nắng mùa đông gay gắt làm ấm một bên thân cây vào ban ngày, khiến các tế bào hoạt động, rồi nhiệt độ giảm đột ngột vào ban đêm làm chúng chết. Cây non có vỏ nhẵn (cây phong, cây ăn quả, cây cảnh mới cấy) dễ bị tổn thương nhất. Phần vỏ bị hư hại trở thành cửa ngõ lâu dài cho mầm bệnh — xem [ST05 — Vết loét thân](cankers.md).\n\nHiện tượng này cũng có thể xảy ra trong thời tiết nóng mùa hè sau khi cây đột ngột rụng lá, làm lộ phần vỏ trước đó được che bóng.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "body": "Hầu hết các vết bỏng nắng lành chậm chạp một cách tự nhiên.",
+                  "title": "Đừng cạo bỏ vỏ cây bị hư hỏng trừ khi nó lỏng lẻo và đang bị tách ra."
+                },
+                {
+                  "title": "Cắt bỏ bất kỳ lớp vỏ sần rõ ràng đã chết và bong tróc bằng một chiếc dao vô trùng đến rìa mô khỏe mạnh."
+                },
+                {
+                  "title": "Áp dụng thuốc diệt nấm đồng để giữ vi khuẩn gây bệnh ra khỏi vết thương."
+                },
+                {
+                  "title": "Quan sát sự phát triển của các vết loét — xem [ST05](cankers.md)"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "ST07": {
+        "name": "nốt sần",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Theo dõi thường xuyên để kiểm soát áp lực từ sâu bệnh và dịch bệnh."
+                },
+                {
+                  "title": "Phun kẽm phòng ngừa lên các loài dễ bị gỉ sét"
+                },
+                {
+                  "title": "Cắt tỉa những cành bị căng thẳng hoặc yếu sớm"
+                },
+                {
+                  "title": "Trong trường hợp nhiễm trùng nặng, hãy loại bỏ toàn bộ cây trồng."
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Nhóm cây mọc thưa như lông cọ dày đặc từ một điểm",
+        "symptomAnalysis": "Một phản ứng căng thẳng, không phải một bệnh duy nhất. Nhiều nguyên nhân: nấm mốc rỉ sét, thức ăn cho côn trùng, nhiễm trùng vi khuẩn hoặc nấm, bị xâm nhập bởi các loài thực vật ký sinh như cây tầm xuân lùn. Cây thực vật phản ứng bằng cách sản xuất nhiều chồi ngắn trong một cụm chặt chẽ thay vì sự phát triển lan rộng bình thường.\n\nChổi bản thân hiếm khi giết chết cây, nhưng nguyên nhân cơ bản có thể làm như vậy. Thường thấy ở các loài thông, cây ăn quả, mâm xôi đen và nhiều loại bụi gỗ.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Cắt cây quét ra, tỉa bớt vài inch dưới điểm bị ảnh hưởng"
+                },
+                {
+                  "title": "Tiêu trùng các dụng cụ giữa các lần cắt"
+                },
+                {
+                  "body": "- Rệp mốc → *Áp dụng thuốc diệt nấm đồng* (xem 3.1) - Mites hoặc côn trùng → xem [02_pests/](../02_pests/) - Mistletoe → loại bỏ ký sinh trùng một cách vật lý",
+                  "subSteps": [
+                    {
+                      "title": "Áp dụng thuốc diệt nấm đồng"
+                    }
+                  ],
+                  "title": "Xác định nguyên nhân:"
+                },
+                {
+                  "title": "Loại bỏ vật liệu cắt tỉa sạch sẽ ra khỏi cây trồng"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "ST08": {
+        "name": "Bệnh sồi vương miện",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Kiểm tra từng cây mới để tìm dấu hiệu của bệnh gỉ ở phần ngọn."
+                },
+                {
+                  "title": "Luôn khử trùng các dụng cụ"
+                },
+                {
+                  "title": "Đừng chất đất hoặc lớp phủ lên gốc cây - giữ cho khu vực khô ráo và không có mầm bệnh."
+                },
+                {
+                  "title": "Chọn giống cây kháng bệnh khi có sẵn"
+                },
+                {
+                  "title": "Sử dụng dung dịch vi khuẩn có lợi (chuẩn bị Agrobacterium radiobacter chủng 84, được bán dưới dạng \"Galltrol\") trên cây trồng với rễ trần khi trồng"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Những khối u giống như khối u thô gần đường đất",
+        "symptomAnalysis": "Được gây ra bởi vi khuẩn *Agrobacterium tumefaciens*, sống trong đất và xâm nhập qua vết thương. Ảnh hưởng đến hơn 600 loài thực vật — hoa hồng, cây ăn quả, nho, mâm xôi đặc biệt dễ bị nhiễm. Vi khuẩn chiếm đoạt DNA của cây và gây ra sự phát triển mô không kiểm soát.\n\nNhững cây đã trưởng thành thường sống sót khỏi bệnh bướu trên cành. Các cây non và cây bị nhiễm nặng sẽ suy yếu vì bướu chặn dòng chảy của nước và chất dinh dưỡng.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Trên những cây đã phát triển, cắt bỏ bướu bằng một chiếc dao vô trùng hoặc kéo tỉa cành."
+                },
+                {
+                  "title": "Làm sạch bằng cách khử trùng giữa mỗi lần cắt."
+                },
+                {
+                  "title": "Sau phẫu thuật, sơn vết thương bằng chất se vết cắt cây"
+                },
+                {
+                  "body": "Đừng ủ phân.",
+                  "title": "Đối với cây non hoặc bị nhiễm nặng: [S43](../shared/treatment-steps.md#s43-discard-the-severely-infected-plant) — Loại bỏ và tiêu hủy"
+                },
+                {
+                  "title": "Làm cho đất được phơi nắng trước khi trồng lại."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "ST09": {
+        "name": "Những vết sẹo gốc",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Thiết lập các rào cản xung quanh các cây trồng ở những khu vực đông đúc"
+                },
+                {
+                  "title": "Giữ cho máy cắt cỏ và cây chổi loại bỏ cỏ dại tránh xa thân cây"
+                },
+                {
+                  "title": "Sử dụng chậu vô trùng và đất tươi mới cho các cây mới để tránh lây lan sâu bệnh"
+                },
+                {
+                  "title": "Kiểm tra thường xuyên các cây trồng để phát hiện sớm các dấu hiệu hư hỏng."
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Các vết xước, vết lõm hoặc thiệt hại do côn trùng gây ra trên thân cây đã được chữa lành",
+        "symptomAnalysis": "Các vết sẹo hình thành khi một cây thực vật chữa lành vết thương. Nguyên nhân phổ biến:\n\n- **Sự hư hỏng cơ khí** — thú cưng, trẻ em, máy cắt cỏ, dụng cụ làm vườn, lưu lượng người qua lại.\n- **Sự hư hại do côn trùng gây ra** — các vị trí ăn của côn trùng đã di chuyển đi.\n- **Ngứa nắng / bỏng nắng** — tổn thương do nhiệt độ lên vỏ cây bị phơi nắng. Xem [ST06](sunscald-bark.md).\n- **Lá hoặc nụ bị mất** — lá rơi xuống sẽ để lại vết sẹo trên thân cây.\n\nNhững vết sẹo bản thân không gây tổn hại cho cây vượt quá vết thương ban đầu. Chúng chủ yếu là thẩm mỹ. Nhưng vùng bị tổn thương là điểm xâm nhập vĩnh viễn cho các loài sâu bệnh và vi khuẩn trong tương lai.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "body": "- Thú cưng/bọn trẻ/công cụ → lắp đặt một hàng rào hoặc di chuyển cây trồng. - Côn trùng gây hại → xác định loài côn trùng và điều trị. Xem [02_pests/](../02_pests/). - Mát mẻ nắng mặt trời → *Di chuyển đến một vị trí có bóng mát* (xem 1.1) Tránh ánh nắng mặt trời gay gắt. - Mất lá thường xuyên → kiểm tra ánh sáng, nước và chất dinh dưỡng.",
+                  "subSteps": [
+                    {
+                      "title": "Di chuyển đến một vị trí có bóng mát"
+                    }
+                  ],
+                  "title": "Giải quyết nguyên nhân cơ bản:"
+                },
+                {
+                  "title": "Bản thân vết sẹo không cần điều trị"
+                },
+                {
+                  "title": "Hãy chú ý đến sự phát triển của các vết loét trên các vùng bị hư hỏng — xem [ST05](cankers.md)"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "shared": {
+      "remedies": {
+        "K01": {
+          "recipe": "1 phần dung dịch hydrogen peroxide 3% tại hiệu thuốc pha với 3 phần nước. (Hoặc 1 phần dung dịch hydrogen peroxide 35% cấp thực phẩm pha với 30 phần nước.)",
+          "title": "Làm ướt đất bằng Peroxy Hidrogen",
+          "usage": "Đổ xung quanh gốc cây cho đến khi lớp đất mặt ẩm ướt. Lặp lại một lần mỗi tuần cho đến khi đất khô bình thường và bong bóng ngừng xuất hiện."
+        },
+        "K02": {
+          "recipe": "Quế xay nguyên chất từ kệ gia vị. Không trộn lẫn.",
+          "title": "Hạt tiêu quế bột",
+          "usage": "Rắc một lớp mỏng lên đất bị mốc, trên thân cây vừa cắt hoặc xung quanh gốc cây con. Quế có tính kháng nấm tự nhiên và thân thiện với quá trình phát triển rễ."
+        },
+        "K03": {
+          "recipe": "Đổ 1/4 cốc giấm táo vào một chiếc cốc hoặc đĩa màu vàng nhỏ. Thêm 1 giọt xà phòng rửa bát để phá vỡ độ căng bề mặt. Đậy bằng màng bọc thực phẩm và đâm một vài lỗ nhỏ.",
+          "title": "Bẫy giấm táo",
+          "usage": "Đặt gần cây bị ảnh hưởng. Muỗi nấm và ruồi giấm trưởng thành bị thu hút, rơi vào và chết đuối. Làm mới mỗi 3-4 ngày."
+        },
+        "K04": {
+          "recipe": "Đun sôi 2 túi trà hoa cúc trong 1 lít nước vừa sôi. Để nguội đến nhiệt độ phòng.",
+          "title": "Nước tắm trà hoa cúc",
+          "usage": "Đổ xung quanh gốc cây con và lên bề mặt đất. Tác dụng kháng nấm nhẹ nhàng bảo vệ hạt giống đang nảy mầm và rễ non."
+        },
+        "K05": {
+          "recipe": "1 thìa cà phê bột nở + 1 thìa cà phê xà phòng rửa bát nhẹ + 1 lít nước. Khuấy đều để tan.",
+          "title": "Baking Soda + Nước rửa chén xịt",
+          "usage": "Phun lên lá khi có dấu hiệu đầu tiên của nấm mốc, mỗi 7 ngày một lần. Phủ lên bề mặt lá trên và dưới. Kiểm tra thử từng điểm trước; một số loại cây có thể bị cháy lá."
+        },
+        "K06": {
+          "recipe": "1 phần sữa (bất kỳ loại chất béo nào, nhưng sữa nguyên chất hoạt động tốt nhất) với 9 phần nước trong một chai xịt.",
+          "title": "Sịt sữa",
+          "usage": "Phun lên lá một lần mỗi tuần trong thời tiết nắng đẹp. Ánh sáng mặt trời kích hoạt các protein sữa thành một lớp chống nấm nhẹ."
+        },
+        "K07": {
+          "recipe": "Đánh dập 4 tép tỏi vào 1 lít nước. Ngâm qua đêm. Lọc qua rây. Thêm 1 thìa cà phê xà phòng rửa bát.",
+          "title": "Nước xịt tỏi",
+          "usage": "Phun lên lá và thân cây, tập trung vào mặt dưới. Lặp lại mỗi 5-7 ngày. Có mùi thơm mạnh trong một ngày, sau đó tan biến."
+        },
+        "K08": {
+          "recipe": "2 muỗng canh ớt cayenne hoặc ớt khô xay trong 1 cốc nước. Đun sôi trong 10 phút. Để nguội. Lọc qua rây. Thêm 1 thìa cà phê xà phòng rửa bát.",
+          "title": "Nước xịt ớt cay",
+          "usage": "Phun lên lá nơi có sâu bướm hoặc bọ cánh cứng đang ăn. Đeo găng tay và bảo vệ mắt khi phun."
+        },
+        "K09": {
+          "recipe": "Hạt cà phê đã sử dụng được sấy khô trên khay.",
+          "title": "Vách ngăn hạt cà phê",
+          "usage": "Rắc một vòng 1/2 inch xung quanh gốc của các loại cây dễ bị sâu bọ ăn lá tấn công. Kết cấu thô và caffeine sẽ xua đuổi sâu bọ ăn lá và ốc sên. Thay thế sau khi mưa."
+        },
+        "K10": {
+          "recipe": "Rửa sạch vỏ trứng, để ráo nước, nghiền vụn thô với cái cán bột.",
+          "title": "Vỏ trứng nghiền nát",
+          "usage": "(a) Trộn vào đất khi trồng để giải phóng canxi chậm - giúp ngăn ngừa bệnh thối ở phần cuối hoa. (b) Rắc một vòng có cạnh sắc quanh các cây - các con sên tránh xa các cạnh."
+        },
+        "K11": {
+          "recipe": "Đeo một cái đĩa hoặc cốc nông với viền ngang bằng với đất. Đổ 2/3 vào với bia rẻ tiền. (Hoặc 1 cốc nước + 1 thìa cà phê men khô + 1 thìa cà phê đường.)",
+          "title": "Bẫy bia",
+          "usage": "Đặt gần các cây bị ảnh hưởng vào buổi tối. Sâu bọ chân dài và sên bò vào và chết đuối. Làm mới mỗi 2-3 ngày."
+        },
+        "K12": {
+          "recipe": "Đun sôi 2-3 vỏ chuối đã cắt nhỏ trong 1 lít nước trong 48 giờ. Lọc qua rây.",
+          "title": "Trà Kali Lá Chuối",
+          "usage": "Đổ xung quanh gốc của các cây bị căng thẳng hoặc vàng lá mỗi 2-3 tuần. Tăng cường kali nhẹ; không phải là phân bón hoàn chỉnh."
+        },
+        "K13": {
+          "recipe": "70% cồn rubbing alcohol isopropyl thẳng từ chai.",
+          "title": "Que bông tẩy rửa cồn rửa tay",
+          "usage": "Đưa bông gòn nhúng vào dung dịch và lau trực tiếp lên các con sâu phấn hoặc côn trùng vảy trên từng con. Tử vong ngay khi tiếp xúc. Tránh ngâm lá."
+        },
+        "K14": {
+          "recipe": "1 thìa cà phê xà phòng rửa bát lỏng nhẹ (không chứa chất tẩy mỡ, không chứa phụ gia) mỗi gallon nước trong một chai xịt.",
+          "title": "Nước xịt xà phòng đơn giản",
+          "usage": "Phun sương để làm ướt tất cả bề mặt, đặc biệt là mặt dưới của lá, vào buổi tối. Lau sạch bằng nước sạch vào sáng hôm sau. Phun sương lại mỗi 3 ngày trong 2 tuần."
+        },
+        "K15": {
+          "recipe": "1 viên aspirin chưa bao phủ (325 mg) hòa tan trong 1 gallon nước với vài giọt xà phòng rửa bát.",
+          "title": "Nước xịt lá Aspirin",
+          "usage": "Phun lên lá mỗi 2-3 tuần. Axit salicylic trong aspirin nhẹ nhàng kích thích phản ứng tự vệ chống bệnh của cây."
+        }
+      },
+      "steps": {
+        "S01": {
+          "body": "Xoay cây ra khỏi chậu, nhẹ nhàng lắc nhẹ để loại bỏ đất thừa và rửa rễ dưới vòi nước ấm chảy chảy cho đến khi bạn có thể nhìn thấy rõ từng rễ riêng lẻ.",
+          "title": "Rửa sạch rễ sau khi tháo khỏi chậu"
+        },
+        "S02": {
+          "body": "Đặt kéo tỉa cành, kéo hoặc lưỡi dao vào dung dịch pha 1:4 nước và chất tẩy trắng (hoặc cồn rubbing 70%) trước mỗi lần cắt và giữa mỗi cây. Vệ sinh khô trước khi cắt.",
+          "title": "Tiêu trùng các công cụ cắt"
+        },
+        "S03": {
+          "body": "Cắt bỏ những rễ đen, nhão hoặc héo úa bằng kéo cắt tỉa đã được khử trùng. Những rễ khỏe mạnh có màu trắng hoặc nâu nhạt và dẻo dai. Cắt lại để lấy phần mô sạch sẽ, chắc khỏe.",
+          "title": "Cắt tỉa rễ bị hư hỏng hoặc chết"
+        },
+        "S04": {
+          "body": "Cắt bỏ các lá cây và cành cây bị ảnh hưởng bằng các dụng cụ đã được khử trùng, cắt lại vào mô khỏe mạnh. Đóng gói và vứt bỏ các cành cây cắt - đừng bao giờ ủ phân các vật liệu bị bệnh.",
+          "title": "Cắt tỉa Lá và Củ bị nhiễm bệnh"
+        },
+        "S05": {
+          "body": "Sử dụng ngón tay sạch hoặc kéo cắt đã khử trùng để loại bỏ những bông hoa mục nát, héo úa hoặc bị nhiễm trùng ở gốc của chúng, trước khi nhiễm trùng lan sang các nụ hoa khỏe mạnh xung quanh.",
+          "title": "Kéo nhẹ các bông hoa và nụ hoa bị ảnh hưởng"
+        },
+        "S06": {
+          "body": "Lấy tất cả các loại trái cây có đốm, mục nát hoặc mốc từ cây và từ mặt đất bên dưới. Đeo (12 inch sâu), đốt hoặc đóng kín trong túi rác - không ủ phân.",
+          "title": "Loại bỏ và tiêu hủy các loại trái cây bị nhiễm bệnh"
+        },
+        "S07": {
+          "body": "Đeo găng tay. Cắt bỏ sâu bướm, bọ cánh cứng, sên hoặc cụm trứng bằng tay và thả chúng vào một cái xô nước xà phòng. Ngạt thở trong ít nhất 24 giờ, sau đó vứt bỏ.",
+          "title": "Lấy tay chọn những loài côn trùng gây hại vào nước xà phòng"
+        },
+        "S08": {
+          "body": "Đối với sâu bọ phấn trắng, côn trùng rùa vảy hoặc sâu bọ phấn, hãy nhẹ nhàng lau sạch lá và thân bằng vải mềm nhúng trong nước xà phòng. Lau lại vải thường xuyên. Tránh làm tím các mô mềm.",
+          "title": "Vệ sinh côn trùng bằng vải ẩm"
+        },
+        "S09": {
+          "body": "Đưa cây chuyển sang chậu sạch có lỗ thoát nước, sử dụng hỗn hợp đất trồng vô trùng mới. Đeo rễ xuống sâu bằng chiều cao trước đó. Tưới nước nhẹ nhàng để đất tơi xốp.",
+          "title": "Đặt lại chậu với đất tươi và thoát nước"
+        },
+        "S10": {
+          "body": "Đưa một cây trồng có rễ bám vào một chậu lớn hơn 1-2 kích thước. Kéo nhẹ các rễ vòng tròn ra khỏi nhau trước khi đặt cây vào hỗn hợp đất mới. Tưới nước sâu một lần.",
+          "title": "Nâng lên chậu lên một thùng chứa lớn hơn"
+        },
+        "S11": {
+          "body": "Cào bỏ 1/8 inch đầu tiên của đất bị mốc hoặc có lớp muối bám và thay thế bằng một lớp cát thô sạch hoặc sỏi mịn 1/4 inch. Sau đó, tưới nước một cách vừa phải.",
+          "title": "Trang trí trên cùng bằng cát hoặc sỏi"
+        },
+        "S12": {
+          "body": "Đặt một tấm nhựa trong lên lớp đất vườn ẩm ướt trong 4-6 tuần trong thời điểm nóng nhất trong năm. Nhiệt độ tích tụ bên dưới và tiêu diệt các loài giun tròn, nấm và hạt cỏ dại.",
+          "title": "Làm cho đất được chiếu sáng mặt trời"
+        },
+        "S13": {
+          "body": "Phun một lớp vỏ cây, rơm hoặc lớp phủ lá dày 2-3 inch xung quanh cây, giữ cho một vòng nhỏ trống rỗng khỏi thân cây. Lớp phủ giúp ngăn chặn sự phun ra của các tác nhân gây bệnh đất và ổn định độ ẩm.",
+          "title": "Áp dụng lớp phủ hữu cơ xung quanh gốc cây"
+        },
+        "S14": {
+          "body": "Đưa cây ra bồn rửa bát hoặc ngoài trời. Đổ nước sạch vào chậu một cách chậm rãi - khoảng 4 lần dung tích của chậu - cho đến khi nước chảy tự do từ các lỗ thoát nước. Lặp lại một lần mỗi tháng nếu muối quay trở lại.",
+          "title": "Xáo trộn đất để loại bỏ muối"
+        },
+        "S15": {
+          "body": "Đưa nước trực tiếp xuống đất gần thân cây thay vì phun lên lá. Sử dụng bình tưới nước có vòi dài, ống thấm nước hoặc đường rãnh thấm nước. Lá ướt sẽ tạo điều kiện cho nấm và vi khuẩn lây lan.",
+          "title": "Nước ở đáy, Không bao giờ ở trên đầu"
+        },
+        "S16": {
+          "body": "Để 1-2 inch trên cùng của đất khô ráo giữa các lần tưới nước. Nhúng ngón tay vào để kiểm tra trước mỗi lần tưới nước. Nhiều vấn đề thối rễ và thân cây có thể bắt nguồn từ đất ẩm lâu ngày.",
+          "title": "Giảm tần suất tưới nước"
+        },
+        "S17": {
+          "body": "Đổ nước một cách chậm rãi và kỹ lưỡng cho đến khi đất ẩm ướt hoàn toàn, sau đó để nó khô một phần trước khi tưới nước lần tiếp theo. Khuyến khích rễ sâu hơn và cây cối khỏe mạnh hơn.",
+          "title": "Đổ nước sâu nhưng ít thường xuyên hơn"
+        },
+        "S18": {
+          "body": "Dời cây dần dần đến một cửa sổ hướng về phía nam hoặc tây hoặc một nơi có ánh nắng mặt trời nhiều hơn trong khu vườn. Di chuyển từng giai đoạn trong vòng một tuần để tránh sốc nắng.",
+          "title": "Di chuyển đến một vị trí sáng sủa hơn"
+        },
+        "S19": {
+          "body": "Đặt cây ở một cửa sổ hướng về phía bắc, dưới một cái cây hoặc phía sau tấm vải che nắng. Mụn rộp do cháy nắng và cháy lá thường sẽ lành lại sau khi cây nguội đi.",
+          "title": "Di chuyển đến một vị trí có bóng mát"
+        },
+        "S20": {
+          "body": "Dán hoặc đặt đèn trồng cây LED phổ rộng 30-60 cm trên cây, trên một bộ hẹn giờ 12-14 giờ. Đặc biệt hữu ích vào mùa đông hoặc trong những căn phòng tối.",
+          "title": "Thêm một Ánh sáng Tăng trưởng"
+        },
+        "S21": {
+          "body": "Đặt các cây trồng cách nhau để lá không chạm vào nhau khi trưởng thành hoàn toàn. Trong nhà, bật một chiếc quạt điều hòa nhỏ trong một phần ngày. Ngoài trời, tỉa bớt các loại thực vật xung quanh cản trở làn gió.",
+          "title": "Tăng luồng không khí và khoảng cách"
+        },
+        "S22": {
+          "body": "Tưới sương cho lá hàng ngày, nhóm các cây lại với nhau, đặt chậu trên một khay sỏi trong nước nông, hoặc bật máy tạo độ ẩm. Mục tiêu là độ ẩm tương đối 40-60%.",
+          "title": "Tăng độ ẩm xung quanh cây trồng"
+        },
+        "S23": {
+          "body": "Che kín các loại cây dễ bị tổn thương bằng vải chống sương giá, vải lanh, tấm vải hoặc tấm che hàng trước khi trời tối. Mang các loại cây trồng trong chậu vào trong nhà. Loại bỏ lớp che vào sáng hôm sau.",
+          "title": "Bảo vệ khỏi sương giá"
+        },
+        "S24": {
+          "body": "Đưa một cây đinh gỗ hoặc tre cắm xuống đất gần cây và buộc những vòng hình tám lỏng lẻo bằng dây thừng mềm. Giúp giữ cho thân cây khỏi mặt đất ẩm ướt và cải thiện luồng không khí.",
+          "title": "Cắm cọc hoặc Trellis cho Cây trồng"
+        },
+        "S25": {
+          "body": "Phun thuốc diệt nấm có chứa đồng (mixture Bordeaux, đồng sunfat hoặc hydroxide đồng thương mại) lên lá, thân cây và đất xung quanh theo nhãn sản phẩm. Áp dụng lại mỗi 7-14 ngày.",
+          "title": "Áp dụng thuốc diệt nấm đồng"
+        },
+        "S26": {
+          "body": "Khi lượng đồng không đủ, hãy sử dụng thuốc diệt nấm toàn thân tổng hợp (ví dụ: propiconazole, myclobutanil) theo nhãn sản phẩm. Xịt để chảy ra. Luôn luân phiên sử dụng thuốc diệt nấm để tránh kháng thuốc.",
+          "title": "Áp dụng thuốc diệt nấm phổ rộng"
+        },
+        "S27": {
+          "body": "Trộn dầu neem được ép lạnh với nước và vài giọt xà phòng rửa bát làm chất hòa tan (thường là 2 thìa cà phê neem + 1 thìa cà phê xà phòng mỗi gallon). Xịt để chảy ra vào buổi tối mát mẻ.",
+          "title": "Áp dụng Dầu Neem"
+        },
+        "S28": {
+          "body": "Làm loãng 1 muỗng canh xà phòng rửa bát lỏng nhẹ (không chứa chất tẩy mỡ) mỗi gallon nước trong một chai xịt. Phủ lên mặt dưới và mặt trên của lá cho đến khi nước chảy ra. Xịt lại mỗi 2-3 ngày trong 1-2 tuần.",
+          "title": "Áp dụng xà phòng diệt côn trùng"
+        },
+        "S29": {
+          "body": "Phun Bt lên lá và thân cây nơi bướm nhộng ăn. Bướm nhộng phải nuốt nó. Bt không gây hại cho ong, thú cưng và con người. Áp dụng lại sau khi mưa.",
+          "title": "Áp dụng Bacillus thuringiensis (Bt)"
+        },
+        "S30": {
+          "body": "Sử dụng thuốc trừ sâu chứa pyrethrin hoặc pyrethrum (dựa trên cúc vạn thọ) theo nhãn. Xịt vào buổi tối để bảo vệ ong. Hiệu quả với sâu bọ cánh cứng, sâu ăn lá và bọ cánh cứng.",
+          "title": "Áp dụng xịt Pyrethrin"
+        },
+        "S31": {
+          "body": "Đối với sâu bệnh cứng đầu hoặc ẩn nấp, hãy ngâm đất với thuốc có tác dụng toàn thân (imidacloprid, dinotefuran) theo hướng dẫn trên nhãn. Cây hấp thụ thuốc qua rễ, khiến nhựa cây có độc tính với côn trùng hút nhựa. Tránh dùng trên cây hoa được ong ghé thăm.",
+          "title": "Áp dụng thuốc diệt côn trùng toàn thân"
+        },
+        "S32": {
+          "body": "Sử dụng đầu nozzles trên thiết lập dòng nước để phun sâu bọ phấn trắng, giun rận, ruồi phấn hoặc ruồi nhện khỏi lá và thân cây. Cố gắng nhắm vào dưới lá cũng. Lặp lại sau vài ngày.",
+          "title": "Phun trừ sâu bằng vòi nước mạnh"
+        },
+        "S33": {
+          "body": "Mua bọ cánh cứng ladybug, bọ cánh hoa ren, ong ký sinh hoặc giun mạt ăn thịt từ nhà cung cấp vườn. Giải phóng vào buổi tối gần cây bị ảnh hưởng. Cố gắng trồng thêm các loại cây có hoa quả gần đó để chúng có thể sống sót.",
+          "title": "Phát hành côn trùng có lợi"
+        },
+        "S34": {
+          "body": "Dán bẫy hóa chất dẫn dụ loài cụ thể vào hoặc gần các cây bị ảnh hưởng. Bẫy bắt được bướm đực, ức chế thế hệ tiếp theo. Thay mồi hàng 4-6 tuần trong mùa.",
+          "title": "Thiết lập bẫy hóa chất tín hiệu sinh học"
+        },
+        "S35": {
+          "body": "Drape lưới lưới thưa hoặc lớp phủ hàng nổi trên cây trồng và cố định các cạnh bằng đá hoặc đinh. Ngăn chặn ruồi đêm, bọ cánh cứng và sâu bướm đẻ trứng.",
+          "title": "Sử dụng lưới chống côn trùng hoặc lớp phủ hàng"
+        },
+        "S36": {
+          "body": "Sử dụng phân bón cân bằng N-P-K (ví dụ: 10-10-10) theo nhãn. Đối với các thiếu hụt xuất hiện trên lá, hãy tiếp tục sử dụng phân bón lá để hấp thụ nhanh chóng. Phân hữu cơ là một lựa chọn giải phóng chậm.",
+          "title": "Áp dụng Phân bón cân đối"
+        },
+        "S37": {
+          "body": "Trộn một sản phẩm sắt chelate cho mỗi nhãn và phun trực tiếp lên lá bị vàng. Nhanh hơn việc tưới đất. Lặp lại mỗi 2-3 tuần cho đến khi lá trở lại màu xanh.",
+          "title": "Áp dụng thức ăn lá giàu sắt"
+        },
+        "S38": {
+          "body": "Sử dụng bộ thử nghiệm đất hoặc gửi mẫu đến văn phòng mở rộng địa phương của bạn. Thêm lưu huỳnh nguyên tố để giảm độ pH hoặc vôi vườn để tăng độ pH, theo khuyến nghị của bài kiểm tra.",
+          "title": "Kiểm tra và sửa đổi độ pH đất"
+        },
+        "S39": {
+          "body": "Giữ các cây mới mua cách biệt khỏi bộ sưu tập của bạn trong 2 tuần. Kiểm tra mặt dưới của lá, các khớp lá và mặt trên của đất để tìm kiếm sâu bệnh và bệnh tật trước khi kết hợp chúng lại với nhau.",
+          "title": "Kiểm tra và cách ly các cây trồng mới"
+        },
+        "S40": {
+          "body": "Khi mua cây trồng, hãy tìm các giống cây được dán nhãn kháng lại các bệnh phổ biến (ví dụ: \"màu cà chua kháng Verticillium\", \"hoa hồng kháng nấm mốc\"). Các vườn ươm địa phương và các gói hạt giống liệt kê các mã kháng bệnh.",
+          "title": "Chọn các giống kháng bệnh"
+        },
+        "S41": {
+          "body": "Rake lá rụng, trái cây và cành cây chết ra khỏi dưới các cây - đặc biệt là vào mùa thu. Nhiều tác nhân gây bệnh trú đông trong các mảnh vụn cây và tái nhiễm vào mùa xuân.",
+          "title": "Loại bỏ các mảnh vụn xung quanh cây trồng"
+        },
+        "S42": {
+          "body": "Đừng trồng cùng một loài - hoặc các loài họ hàng thực vật học của nó - ở cùng một vị trí trong hai năm liên tiếp. Việc luân chuyển 3 năm sẽ phá vỡ chu kỳ đời sống của các bệnh và sâu bệnh do đất gây ra.",
+          "title": "Chuyển đổi cây trồng giữa các mùa"
+        },
+        "S43": {
+          "body": "Khi hơn một nửa cây bị ảnh hưởng hoặc thối rễ lan rộng, hãy đào cây lên, đóng kín trong một túi rác nặng và vứt bỏ. Làm sạch khu vực trước khi trồng lại cây.",
+          "title": "Vứt bỏ cây bị nhiễm nặng"
+        },
+        "S44": {
+          "body": "Ngâm các chậu trống trong 10 phút trong dung dịch 1:9 nước tẩy trắng pha với nước, sau đó rửa sạch bằng nước sạch và để ráo nước bằng cách để ngoài không khí trước khi đổ lại đất tươi.",
+          "title": "Làm sạch nồi trước khi tái sử dụng"
+        }
+      }
+    }
+  }
+}

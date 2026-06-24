@@ -1,0 +1,1122 @@
+{
+  "schema_version": 1,
+  "locale": "de",
+  "source": {
+    "resource": "explore_themes.json",
+    "sha256": "58f16890b1e810a9f9d6e55107134e8cccb8238bdb900d5b55890c6b1b5ee8d3"
+  },
+  "fields": {
+    "themes": {
+      "air-purifiers": {
+        "description": "Aus der NASA-Studie über saubere Luft von 1989 und anschließenden Forschungsergebnissen.",
+        "intro": "1989 testete die NASA Zimmerpflanzen in versiegelten Kammern und stellte fest, dass mehrere häufige Arten tatsächlich Formaldehyd, Benzol und Trichloroethylene aus der Luft abspülen. Diese Sammlung fasst die NASA Clean Air-Gewinner zusammen, die ihren Lebensunterhalt verdienen.",
+        "plants": [
+          {
+            "reason": "Entfernung von Formaldehyd, Benzol und Xylen; nahezu unzerstörbar."
+          },
+          {
+            "reason": "Entfernt Ammoniak, Benzol, Formaldehyd und Trichloroethylene."
+          },
+          {
+            "reason": "Seltene CAM-Fotosynthese, die nachts Sauerstoff freisetzt."
+          },
+          {
+            "reason": "Formaldehyd und Xylen; nicht giftig für Haustiere."
+          },
+          {
+            "reason": "Xylen, Trichloroethylene, Formaldehyd."
+          },
+          {
+            "reason": "Formaldehyd und Xylen in NASA-Tests."
+          },
+          {
+            "reason": "Benzin und Trichloroethylene; tierfreundlich."
+          },
+          {
+            "reason": "Benzin und Formaldehyd; lichtempfindlich."
+          },
+          {
+            "reason": "Reduzierung von luftigem Schimmel und Formaldehyd."
+          },
+          {
+            "reason": "Der NASA-Champion für die Entfernung von Formaldehyd."
+          }
+        ],
+        "title": "Luftreiniger"
+      },
+      "ancient-medicine": {
+        "description": "Pflanzen, die die vormoderne Pharmakologie prägten.",
+        "intro": "Vor 6000 Jahren, bevor Laboratorien Moleküle synthetisierten, betraten Heilpraktiker Gärten. Wolfsbeere für das Herz, Weidenrinde gegen Fieber, Aloe Vera für Verbrennungen, Gingko für das Gedächtnis. Diese Sammlung enthält die Pflanzen, die die vormoderne Pharmakologie prägten.",
+        "plants": [
+          {
+            "reason": "Quelle von Digoxin, Hauptbestandteil der Behandlung von Herzversagen seit 1785 (Withering)."
+          },
+          {
+            "reason": "Rinde Quelle von Salicin, Vorläufer von Aspirin."
+          },
+          {
+            "reason": "Quelle von Paclitaxel (Taxol), der grundlegende Krebschemotherapie."
+          },
+          {
+            "reason": "6000 Jahre alter Verbrennungstherapie, von ägyptischen Papyri bis hin zu modernen Apotheken."
+          },
+          {
+            "reason": "Traditionelle chinesische Medizin für die Durchblutung; modernes Gedächtnisergänzungsmittel."
+          },
+          {
+            "reason": "Mittelalterliches und modernes pflanzliches Antidepressivum."
+          },
+          {
+            "reason": "Quelle von Thujone; seit der Antike antiparasitisch."
+          },
+          {
+            "reason": "Menthol - Kühlemittel seit der pharaonischen Ägyptenzeit."
+          },
+          {
+            "reason": "Hippokrates' \"Medizinschrank\"; modernes Grippemedikament."
+          },
+          {
+            "reason": "Thymol - antimikrobisches Mittel, das auf griechischen und römischen Schlachtfeldern verwendet wurde."
+          }
+        ],
+        "title": "Alte Medizin"
+      },
+      "bedroom-allies": {
+        "description": "Pflanzen, die die Sauerstofffreisetzung fortsetzen oder die Entspannung nachts fördern.",
+        "intro": "Die meisten Pflanzen nehmen nachts Sauerstoff auf und geben CO₂ ab. Einige tun das nicht - die CAM-Fotosynthese ermöglicht es Schlangenpflanzen und Aloe, über Nacht Sauerstoff freizusetzen, genau dann, wenn Sie ihn einatmen. Fügen Sie Lavendel und Jasmin hinzu, um eine natürliche Ruhe am Nachttisch zu schaffen.",
+        "plants": [
+          {
+            "reason": "CAM-Pflanze, die über Nacht Sauerstoff freisetzt."
+          },
+          {
+            "reason": "Süßer CAM-Nacht-Oxygen; Gel für Verbrennungen am Krankenbett."
+          },
+          {
+            "reason": "Duft senkt die Herzfrequenz und fördert den Schlaf."
+          },
+          {
+            "reason": "Blumenaroma wurde für seine anxiolytische Wirkung untersucht."
+          },
+          {
+            "reason": "Feuchtigkeitserhöhung ist gut für die Nebenhöhlen und Schnarchen."
+          },
+          {
+            "reason": "Nicht-giftig, Formaldehydentfernung während des Schlafs."
+          },
+          {
+            "reason": "Vertragen Schattenschutz für das Schlafzimmer und Nachtabwesenheit."
+          },
+          {
+            "reason": "Große Blätter fangen in der Luft befindliche Partikel ein."
+          },
+          {
+            "reason": "Geruch in Verbindung mit verbesserter Schlaf- und Gedächtniskonsolidierung."
+          },
+          {
+            "reason": "Hoch, ruhig, entfernt VOCs."
+          }
+        ],
+        "title": "Schlafzimmer-Alliierte"
+      },
+      "bee-banquets": {
+        "description": "Top-Pflanzen für einheimische und Honigbienen.",
+        "intro": "Einheimische Bienen, Maurerbienen, Blattkäferbienen und Honigbienen bevorzugen jeweils leicht unterschiedliche Blüten. Diese Sammlung bietet ein saisonales Bienenbuffet - frühes Lavendel, Mitte des Sommers Koniflor, den kritischen Spätfrühlingspollenfluss von Goldrohr und Sternblume.",
+        "plants": [
+          {
+            "reason": "Honigbiene Magnet für den frühen Sommer."
+          },
+          {
+            "reason": "Bienenbuffet im mediterranen Stil."
+          },
+          {
+            "reason": "Einheimischer Lieblingsbummelbee."
+          },
+          {
+            "reason": "Breit attraktiv einheimischer."
+          },
+          {
+            "reason": "kritischer Spätesaison-Pollen."
+          },
+          {
+            "reason": "Herbsthonigproduzent."
+          },
+          {
+            "reason": "Langblühender, bienenfreundlicher Staudpflanze."
+          },
+          {
+            "reason": "Duftender Bienenmagnet den ganzen Sommer über."
+          },
+          {
+            "reason": "Wenn sie blüht, eine Bienenstraße."
+          },
+          {
+            "reason": "Das jährlich getestete Nektar mit dem höchsten Gehalt für Bienen."
+          }
+        ],
+        "title": "Bienenbankette"
+      },
+      "broken-hearts": {
+        "description": "Blumen der Trauer, Sehnsucht und verlorenen Liebe.",
+        "intro": "Manche Blumen existieren, um den Verlust zu markieren - Cyclamen für Abschied, Lilie für die Beerdigung, Narzisse für die Kriegsopfer, Vergissmeinnicht für die Verstorbenen. Diese Sammlung enthält die Pflanzen, die Menschen anbauen, wenn die Liebe verschwindet oder jemand gegangen ist.",
+        "plants": [
+          {
+            "reason": "Die Blume des Narzisses selbst, der Mythos von Selbstliebe, der in Trauer verwandelte."
+          },
+          {
+            "reason": "Geboren aus dem Blut des getöteten Geliebten von Apollo, Hyacinthos."
+          },
+          {
+            "reason": "Griechischer Mythos vom Blut von Adonis; Blüte der flüchtigen Liebe."
+          },
+          {
+            "reason": "Victorianische Blumensprache für Entlassung und Auf Wiedersehen."
+          },
+          {
+            "reason": "Die Gedenkblume der Flanders Fields."
+          },
+          {
+            "reason": "Von Kaiser Wilhelm I. getragen in Erinnerung an seine Mutter; Symbol der alleinigen Glückseligkeit."
+          },
+          {
+            "reason": "Der Winterblüher der Melancholie und verborgenen Tränen."
+          },
+          {
+            "reason": "Victorianische \"Tapferkeit\", die oft verwendet wurde, um Verabredungen zu brechen."
+          },
+          {
+            "reason": "Beerdigungsblume der Unschuld und Auferstehung."
+          },
+          {
+            "reason": "Das klassische Andenken der Verstorbenen."
+          }
+        ],
+        "title": "Geschlagene Herzen"
+      },
+      "butterfly-havens": {
+        "description": "Wirts- und Nektarpflanzen für Monarchen, Schwalbenschwänze und Freunde.",
+        "intro": "Monarchen brauchen Milchkraut, schwarze Schwalbenflügel brauchen Petersilie, Fritillarien brauchen Veilchen. Diese Sammlung deckt beide Hälften des Schmetterlingsgartens ab - Wirtspflanzen für Raupen und Nektarpflanzen für Erwachsene - und verwandelt einen Garten in eine Schmetterlingszuchtstätte.",
+        "plants": [
+          {
+            "reason": "Monarch-Wirtspflanze und strahlend orangefarbene Nektar."
+          },
+          {
+            "reason": "Feuchtgebiets-Monarch-Wirt."
+          },
+          {
+            "reason": "So stark, dass es buchstäblich nach ihnen benannt ist."
+          },
+          {
+            "reason": "Schnabelschwanz- und Fritillarien-Nektar."
+          },
+          {
+            "reason": "Monarch-Migrationen-Treibstoff im späten Sommer."
+          },
+          {
+            "reason": "Die einfachste sommerliche Blüte, die für Schmetterlinge geeignet ist."
+          },
+          {
+            "reason": "Ununterbrochener Nektar in südlichen Klimazonen."
+          },
+          {
+            "reason": "Monarch und Schwalbenschwanz Spätsommerbankett."
+          },
+          {
+            "reason": "Luftige lila Landebahnen für Fritillarien."
+          },
+          {
+            "reason": "Wirtspflanze für schwarze Schwalbenflügelschwärmerlarven."
+          }
+        ],
+        "title": "Schmetterlingshöhlen"
+      },
+      "deadly-beauty": {
+        "description": "Wunderschöne Pflanzen, die töten können.",
+        "intro": "Einige der schönsten Pflanzen in der Gartenbaukunst werden Sie töten. Oleander stoppt das Herz. Wolfsbeere stoppt das Herz. Ricin aus der Rizinusbohne ist die tödlichste bekannte Pflanzengift. Diese Sammlung ist für gebildete Gärtner - Kinder weit weg.",
+        "plants": [
+          {
+            "reason": "Jede einzelne Komponente ist tödlich; ein einziger eingeatmeter Blatt kann das Herz stoppen."
+          },
+          {
+            "reason": "Herzglykoside; historisches Lieblingsgift."
+          },
+          {
+            "reason": "Aconitine, \"Königin der Giftstoffe\"; Aufnahme durch berührte Haut."
+          },
+          {
+            "reason": "Samen enthalten Ricin, eine der tödlichsten biologischen Giftstoffe."
+          },
+          {
+            "reason": "Taxine-Alkaloide stoppen das Herz; absichtliche Vergiftungen in der Antike."
+          },
+          {
+            "reason": "Tropanealkaloide verursachen Halluzinationen und Tod."
+          },
+          {
+            "reason": "Tropanalkaloidevergiftung; Todesfälle durch \"Jugendlichexperimente\"."
+          },
+          {
+            "reason": "Jede Komponente ist tödlich für Katzen; Nierenversagen."
+          },
+          {
+            "reason": "Herzglykoside, die mit der Wolfsglocke konkurrieren."
+          },
+          {
+            "reason": "Knollen tödlich, wenn sie mit Zwiebeln verwechselt werden."
+          }
+        ],
+        "title": "Todbringende Schönheit"
+      },
+      "drought-warriors": {
+        "description": "Xeriscape-Pflanzen für wasserarme Gärten.",
+        "intro": "Das Klima passt sich schneller an als Gärten. Diese xeriscape-Stützen - Agaven, Lavendel, weißer Salbei, Kaktus, Manzanita - haben sich für sommertrockene mediterranen und südwestliche Klimazonen entwickelt und verlangen nur, dass Sie sie aus Liebe nicht mehr gießen.",
+        "plants": [
+          {
+            "reason": "Südwestliches Symbol; Wochen ohne Wasser."
+          },
+          {
+            "reason": "Mediterraner Grundnahrungsmittel für Trockengärten."
+          },
+          {
+            "reason": "Nativ der kalifornischen Chaparral, sommertrocken angepasst."
+          },
+          {
+            "reason": "Waldig mediterran; kein zusätzliches Wasser in Zone 8+."
+          },
+          {
+            "reason": "CAM-Sukkulenten-Rockschulterbasis."
+          },
+          {
+            "reason": "Mexikanischer Wüstenklassiker."
+          },
+          {
+            "reason": "Prairie-angepasste, die Wurzelwurzel übersteht Dürre."
+          },
+          {
+            "reason": "Kalifornien-Einheimischer, tödlich für Sommerwasser."
+          },
+          {
+            "reason": "Chaparral-Aristokrat aus Kalifornien."
+          },
+          {
+            "reason": "Wörtlicher Wüstenkaktus."
+          }
+        ],
+        "title": "Drought Warriors"
+      },
+      "edible-weeds": {
+        "description": "Wilde Rasen- und Feldunkraut, das eigentlich Nahrung ist.",
+        "intro": "Die Hälfte dessen, was Ihr Rasen bekämpft, ist essbar. Löwenzahnblätter sind bitter und vitaminreich; Petersilie ist säuerlich und reich an Omega-3; Lammschwanz ist besser als Spinat. Diese Sammlung verwandelt gewöhnliche Unkrautarten in wilde Salatzutaten.",
+        "plants": [
+          {
+            "reason": "Blätter (Salat), Blumen (Wein), Wurzeln (Kaffee)."
+          },
+          {
+            "reason": "Milde Salatgrün, reich an Vitamin C."
+          },
+          {
+            "reason": "Omega-3-reiches, zitronig-knuspriges Grün."
+          },
+          {
+            "reason": "Grüns und Samen, beide essbar."
+          },
+          {
+            "reason": "Spinatersatz, höher in Kalzium."
+          },
+          {
+            "reason": "Junge Blätter sind essbar, die Samen sind Psyllium."
+          },
+          {
+            "reason": "Gekochter Spinat; reich an Eisen und Proteinen."
+          },
+          {
+            "reason": "Zitronengrün, hohe Oxalatgehalte - zuerst kochen."
+          },
+          {
+            "reason": "Süßlich-süßlich-süßlich-süßlich-süßlich-sü"
+          },
+          {
+            "reason": "Pfeffriges Samenpod, Salatgrün."
+          }
+        ],
+        "title": "Essbare Unkraut"
+      },
+      "explorer-s-prize": {
+        "description": "Von Pflanzenjägern des 18. bis 20. Jahrhunderts in westliche Gärten eingeführt.",
+        "intro": "Pflanzenjäger des 18. bis 20. Jahrhunderts überquerten Himalaya-Passagen und Yunnan-Schluchten für Arten, die europäische Gärtner noch nie gesehen hatten. E.H. Wilson starb fast um den Taubenbaum. Jede Pflanze hier veränderte die westliche Gartenbaukunst, als sie eintraf.",
+        "plants": [
+          {
+            "reason": "Der Preis für E.H. Wilsons China-Expedition von 1904 kostete ihm fast sein Leben."
+          },
+          {
+            "reason": "Einer der Funde von Augustine Henry in Yunnan."
+          },
+          {
+            "reason": "Entdeckt von Frank Kingdon-Ward im Tibet, 1924."
+          },
+          {
+            "reason": "50 Millionen Jahre lang als ausgestorben galt; 1944 in China wiederentdeckt."
+          },
+          {
+            "reason": "Von Joseph Hooker im Himalaya benannt, 1855."
+          },
+          {
+            "reason": "Joseph Rocks tibetischer Fund von 1925; die teuerste Pfingstrose der Welt."
+          },
+          {
+            "reason": "E.H. Wilsons Sammlung aus Sichuan von 1903 für Veitch."
+          },
+          {
+            "reason": "Die Entdeckung von Shaanxi in den 1890er Jahren durch den italienischen Missionar Giuseppe Giraldi."
+          },
+          {
+            "reason": "Wallichs Himalaya-Kollektion von 1824."
+          },
+          {
+            "reason": "Francis Massons Sammlung von 1773 aus Kew aus Südafrika."
+          }
+        ],
+        "title": "Entdeckerpreis"
+      },
+      "famous-legends": {
+        "description": "Pflanzen, die aus Mythos und Legende geboren wurden.",
+        "intro": "Pflanzen als Quellenmaterial für Mythen - Narzisse, die aus einem selbstliebenden Jungen geboren werden, Lorbeer, der aus einer flüchtenden Nymphe geboren wird, Lotus, der ägyptische Seelen in die Sonne trug. Diese zehn Arten haben so lange in der Geschichte gelebt wie im Boden.",
+        "plants": [
+          {
+            "reason": "Griechischer Mythos von Narcissus, der sich in seinen Spiegelbild verliebte."
+          },
+          {
+            "reason": "Erstellt von Apollo aus dem Blut von Hyacinthos."
+          },
+          {
+            "reason": "Daphne verwandelte sich in Lorbeerblatt, um Apollo zu entkommen; Krone der olympischen Sieger."
+          },
+          {
+            "reason": "Blume von Morpheus und Demeter in der griechischen Mythologie."
+          },
+          {
+            "reason": "Sagt, dass es aus den Tränen von Aphrodite über Adonis entsprungen sei."
+          },
+          {
+            "reason": "Buddhistisches Symbol der Erleuchtung; ägyptische Wiedergeburt."
+          },
+          {
+            "reason": "Lebendes Fossil, überlebte die Atombombe von Hiroshima."
+          },
+          {
+            "reason": "Mittelalterliche Legende über die Träne eines Hirtenmädchens zur Geburt Christi."
+          },
+          {
+            "reason": "Shakespeares \"Liebe in der Lethargie\" aus \"Ein Sommernachtstraum\"."
+          },
+          {
+            "reason": "Keltischer ewiger Baum; seit über 1000 Jahren auf Friedhöfen gepflanzt."
+          }
+        ],
+        "title": "Berühmte Legenden"
+      },
+      "gothic-garden": {
+        "description": "Dunkle, dramatische und geheimnisvolle Pflanzen für stimmungsvolle Begrenzungen.",
+        "intro": "Schwarze Pfingstrosen, fast schwarze Aeonien, Pflaumen-schwarze Helleborien, Tinten-dunkle Hortensien. Diese Sammlung verdunkelt die Grenzen mit absichtlicher Stimmung - die buchstäblich schwarzen Stängel des schwarzen Bambus, Mondo-Grass wie verschütteter Tinte. Ein gotischer Garten ist Zurückhaltung mit Bedrohung.",
+        "plants": [
+          {
+            "reason": "Nahtlos schwarze Sukkulentenrosetten."
+          },
+          {
+            "reason": "Tiefgegründetes fast schwarzes Laub (Bibliothek hat nahe Verwandte)."
+          },
+          {
+            "reason": "Dunkelster lila-schwarzer Turm."
+          },
+          {
+            "reason": "Schaurige doppelte Blüten."
+          },
+          {
+            "reason": "Die ikonisch dunkelste Garten-Tulpe (via Tulipa gesneriana)."
+          },
+          {
+            "reason": "Pflaumenschwarze Winterblüten."
+          },
+          {
+            "reason": "Fast schwarzer kleiner Blume."
+          },
+          {
+            "reason": "Buchstäblich schwarze Stängel bei Reife."
+          },
+          {
+            "reason": "Gurte lassen Blätter wie verschüttete Tinte hinter sich."
+          },
+          {
+            "reason": "Weißwebige Rosetten, buchstäblich Spinnenpflanze."
+          }
+        ],
+        "title": "Gotischer Garten"
+      },
+      "healing-herbs": {
+        "description": "Tägliche Hausapothekenkräuter für kleinere Beschwerden.",
+        "intro": "Die Kräuter, die Sie auf einem Küchenboden oder in einem Nachttischbecher für alltägliche kleinere Beschwerden aufbewahren - Kamille für den Schlaf, Pfefferminze für Kopfschmerzen, Lavendel für Ängste, Calendula für Schnitte, Echinacea für Erkältungen. Volksapotheker über die Jahrhunderte hinweg.",
+        "plants": [
+          {
+            "reason": "Gel für Verbrennungen, Sonnenbrand und leichte Hautirritationen."
+          },
+          {
+            "reason": "Schlaf- und Verdauungstee."
+          },
+          {
+            "reason": "Verdauungsstörungen, Kopfschmerzen und Übelkeit."
+          },
+          {
+            "reason": "Gurgeln gegen Halsschmerzen und Mundhygiene."
+          },
+          {
+            "reason": "Hustenstillmittel und antimikrobiell."
+          },
+          {
+            "reason": "Angst, Schlaflosigkeit und Verbrennungen."
+          },
+          {
+            "reason": "Beruhigender Tee für Stress und Schlaf."
+          },
+          {
+            "reason": "Topische Salbe für Wunden und gerissene Haut."
+          },
+          {
+            "reason": "Immungeschützer Unterstützung bei Erkältungen."
+          },
+          {
+            "reason": "Erinnerung, Durchblutung und tonisierendes Haarspülung."
+          }
+        ],
+        "title": "Heilkräuter"
+      },
+      "hummingbird-magnets": {
+        "description": "Zuverlässige rote und tubulare Blüten für Kolibrigärten.",
+        "intro": "Kolibrien fressen täglich fast ihr Körpergewicht an Nektar und schweben an jeder röten oder orangefarbenen, tubularen Blüte. Pflanzen Sie rote Bienenwurz, Korallen-Honigstrauch und Kardinalblume für ein tägliches Luftshow von Mai bis Oktober - kein Futterautomat erforderlich.",
+        "plants": [
+          {
+            "reason": "Kolibri-Standard des östlichen US."
+          },
+          {
+            "reason": "Jahresharter einheimischer Kletterpflanze, Favorit der Schmetterlinge."
+          },
+          {
+            "reason": "Erneutes Blühen roter Trompeten, lange Saison."
+          },
+          {
+            "reason": "Tiefblaue Kobaltrohre, Hummermagnet Juli-Oktober."
+          },
+          {
+            "reason": "Frühlingshummerblume."
+          },
+          {
+            "reason": "Rote Trompeten am Flussufer; Schwalben nähen sich zwischen den Blumen."
+          },
+          {
+            "reason": "Einheimischer Hummer aus dem Südwesten (die Bibliothek hat verwandte Arten)."
+          },
+          {
+            "reason": "Tropischer Hummer-Anlocker, der für Terrassen geeignet ist."
+          },
+          {
+            "reason": "Zarte jährliche Kletterpflanze, die mit Blättern in der Form von Hummerfedern bestückt ist."
+          },
+          {
+            "reason": "Ein Muss für Kolibri in der Golfküste."
+          }
+        ],
+        "title": "Kolibri-Magnete"
+      },
+      "kitchen-herbs": {
+        "description": "Fensterbank- und Bettbeistellkräuter für den täglichen Kocherbrauch.",
+        "intro": "Die Kräuter, auf die jeder Koch täglich zugreift - Basilikum für Tomaten, Rosmarin für Lamm, Thymian für Geflügel, Salbei für Füllungen, Minze für Tee, Petersilie für alles. Jeder wächst glücklich auf einer sonnigen Fensterbank oder Balkonpflanze.",
+        "plants": [
+          {
+            "reason": "Kernstück der italienischen und thailändischen Küche."
+          },
+          {
+            "reason": "Fleischbraten Standard."
+          },
+          {
+            "reason": "Erbstags-Truthahn-Gewürz."
+          },
+          {
+            "reason": "Bouquet Garni Arbeitspferd."
+          },
+          {
+            "reason": "Pizza-Gewürz; am besten getrocknet."
+          },
+          {
+            "reason": "Mojito und Tee-Minze."
+          },
+          {
+            "reason": "Universelle Garnitur und Chimichurri-Basis."
+          },
+          {
+            "reason": "Taco und Curry sind essenziell."
+          },
+          {
+            "reason": "Gurken und Lachs."
+          },
+          {
+            "reason": "Omelett und Garnitur bereitstehen."
+          }
+        ],
+        "title": "Küchenkräuter"
+      },
+      "literary-icons": {
+        "description": "Pflanzen, die in der klassischen Literatur berühmt wurden.",
+        "intro": "Pflanzen, die von Schriftstellern berühmt gemacht wurden - Wordsworths Narzissen, Shakespeares Herzseide, Ophelias Rosmarin zur Erinnerung, Tennysons Lotosfresser, Housmans schönste Baum. Jede Art hier trägt einen Fingerabdruck der englischen Literatur in ihren Blättern.",
+        "plants": [
+          {
+            "reason": "Shakespeares \"Liebe in der Lethargie\" in \"Ein Sommernachtstraum\"."
+          },
+          {
+            "reason": "\"Zur Erinnerung\" - Ophelia, Hamlet."
+          },
+          {
+            "reason": "Die Rose der Sonette Shakespeares."
+          },
+          {
+            "reason": "Wordsworths \"Himmel voller goldener Narzissen\"."
+          },
+          {
+            "reason": "Das Pflaumenfeld des Zauberers von Oz."
+          },
+          {
+            "reason": "Tennysons \"Lotos-Esser\"."
+          },
+          {
+            "reason": "Housmans \"Lieblichster Baum\"."
+          },
+          {
+            "reason": "Biblische Lilie des Tales und mittelalterliche Marianische Poesie."
+          },
+          {
+            "reason": "\"Bring zurück, bring zurück die Blaublumen\" - Volkslied; von Ruinen heimgesuchte Poesie."
+          },
+          {
+            "reason": "Der Friedhofsbaum in Grays \"Elegie, die in einem ländlichen Kirchhof geschrieben wurde.\""
+          }
+        ],
+        "title": "Literarische Ikonen"
+      },
+      "love-tokens": {
+        "description": "Pflanzen, die traditionell als Symbole der Liebe und Hingabe gegeben werden.",
+        "intro": "Rosen, Pfingstrosen und Vergissmeinnicht - seit Tausenden von Jahren züchten Gärtner bestimmte Pflanzen, um zu sagen, was die Lippen nicht sagen können. Diese Sammlung vereint die klassischen Liebesgeschenke der westlichen und östlichen Traditionen, von der persischen Rose bis zum indischen Jasmin.",
+        "plants": [
+          {
+            "reason": "Die klassische \"Rose der Rosen\", Quelle des Rosenattars und Mittelpunkt des romantischen Symbolismus seit der alten Persien."
+          },
+          {
+            "reason": "Der Vorfahre fast aller modernen Rosen, die in Klostergärten als \"die Rose der Liebe\" angebaut werden."
+          },
+          {
+            "reason": "Die gelb-rosa Mischung wurde bei der Gründung der UN im Jahr 1945 eingeführt; die ikonischste Liebesrose des 20. Jahrhunderts."
+          },
+          {
+            "reason": "Napoleons charakteristische Blume, die als Zeichen der Hingabe an Josephine getragen wurde."
+          },
+          {
+            "reason": "Blumen für den Muttertag und ein klassisches Liebesbriefumschlag; Rosa und Rot sind romantisch."
+          },
+          {
+            "reason": "Rote Tulpen symbolisieren in der türkischen und persischen Poesie die wahre Liebe."
+          },
+          {
+            "reason": "In Brautkränze über Süd- und Südostasien gewebt."
+          },
+          {
+            "reason": "Brautblume, die in der chinesischen Tradition Wohlstand und Romantik symbolisiert."
+          },
+          {
+            "reason": "Die \"Bande der Liebe\" der viktorianischen Blumensprache, verwobene Stängel."
+          },
+          {
+            "reason": "Universelles Symbol der Erinnerung zwischen Liebenden, die getrennt sind."
+          }
+        ],
+        "title": "Liebes-Tokens"
+      },
+      "low-light-champs": {
+        "description": "Pflanzen, die wirklich gedeihen (nicht nur überleben) in dunklen Ecken.",
+        "intro": "Nicht \"tragen\" - sondern tatsächlich gedeihen. Cast Iron Plant verdiente seinen Namen in viktorianischen Gasbeleuchteten Fluren. ZZ-Pflanzen stammen aus der Untervegetation Ostafrikas. Diese Sammlung vereint Arten, die dort wirklich gedeihen, wo die meisten anderen verblassen oder gelb werden.",
+        "plants": [
+          {
+            "reason": "Victorianischer klassischer dunkler Flur."
+          },
+          {
+            "reason": "Vertragen Monate lang nahezu null Licht."
+          },
+          {
+            "reason": "Hält sowohl bei schwachem Licht als auch bei langer Dürre stand."
+          },
+          {
+            "reason": "Züchtet für Einkaufszentren und Büro-Schattenschutz."
+          },
+          {
+            "reason": "Wächst in Fensterlosen Treppenhäusern."
+          },
+          {
+            "reason": "Schattengepasste Amazonasuntervegetation."
+          },
+          {
+            "reason": "Blüht sogar im Licht der Nordfenster."
+          },
+          {
+            "reason": "Benannt nach viktorianischen Gaslichtsalons."
+          },
+          {
+            "reason": "Unzerstörbare Pflanzung in einem Einkaufszentrum des mittleren Jahrhunderts."
+          },
+          {
+            "reason": "Spezialist für Regenwaldunterstrich."
+          }
+        ],
+        "title": "Championen bei schwachem Licht"
+      },
+      "lucky-charms": {
+        "description": "Pflanzen, die traditionell für Glück, Reichtum und Wohlstand angebaut werden.",
+        "intro": "In verschiedenen Kulturen werden bestimmte Pflanzen für Glück und Wohlstand angebaut. Die chinesische Geldpflanze hat münzrunden Blätter; die Jadepflanze ist Feng-Shuis klassischer Reichtumsgefäß; die Anzahl der Stängel des Glücksbambus wird durch die Zahl gesegnet; Tulsi bewacht das hinduistische Zuhause.",
+        "plants": [
+          {
+            "reason": "\"Freundschaft und Wohlstand\" - runde Münzblätter."
+          },
+          {
+            "reason": "Die klassische chinesische Feng-Shui-Geldpflanze."
+          },
+          {
+            "reason": "Geflochtene Stämme, die für den Reichtum im ostasiatischen Handel angebaut wurden."
+          },
+          {
+            "reason": "Feng Shui \"Reichtum nach der Anzahl der Stängel.\""
+          },
+          {
+            "reason": "In Indien \"Money Plant\" genannt, wird sie für Reichtum angebaut."
+          },
+          {
+            "reason": "Der Vierblattklee, das Symbol für irisches Glück."
+          },
+          {
+            "reason": "Chinesisches Symbol für Fülle und gutes Glück."
+          },
+          {
+            "reason": "Heilige hinduistische Schutzpflanze des Hauses."
+          },
+          {
+            "reason": "Moderne \"Glückspflanze\" in Büros in Ostasien."
+          },
+          {
+            "reason": "Buddhistisches Symbol für Wohlstand, das aus Schlamm aufsteigt."
+          }
+        ],
+        "title": "Glückliche Charme"
+      },
+      "modern-drugs": {
+        "description": "Pflanzen, die direkt pharmazeutische Medikamente produzierten.",
+        "intro": "Einige der stärksten Medikamente der Medizin stammen immer noch aus Pflanzen. Wolfsglocken liefert uns Digoxin, Englische Tanne liefert uns Taxol-Krebschemotherapie, Süßer Wormwood liefert uns Artemisinin (2015 Nobelpreisträger). Die Apotheke wächst immer noch im Garten.",
+        "plants": [
+          {
+            "reason": "Digoxin/Digitoxin, Standardmedikament gegen Herzinsuffizienz."
+          },
+          {
+            "reason": "Paclitaxel (Taxol), Erstlinien-Chemotherapie bei Brust- und Eierstockkrebs."
+          },
+          {
+            "reason": "10-DAB-Vorläufer für die Herstellung von halbsynthetischem Paclitaxel."
+          },
+          {
+            "reason": "Salicin → modernes Aspirin."
+          },
+          {
+            "reason": "Artemisinin, der WHO-Standard-Antimalariamittel (2015 Nobelpreis)."
+          },
+          {
+            "reason": "Vincristin und Vinblastin, Leukämie-Chemotherapie."
+          },
+          {
+            "reason": "Morphium, Codein und alle modernen Opioidanalgetika."
+          },
+          {
+            "reason": "Atropin, das bei Herzstillstand und Augenheilkunde eingesetzt wird."
+          },
+          {
+            "reason": "Etoposide, Chemotherapie bei Hoden- und Lungenkrebs."
+          },
+          {
+            "reason": "Ephedrin, Bronchodilatator und Dekongestionär."
+          }
+        ],
+        "title": "Moderne Drogen"
+      },
+      "native-remedies": {
+        "description": "Nordamerikanische indigene Heilpflanzen.",
+        "intro": "Echinacea bei Schlangenbissen, Schmetterlingskraut bei Lungenentzündung, Joe-Pye-Kraut bei Typhus - Nordamerikanische indigene Kräuterärzte sammelten eine ausgeklügelte Pharmacopoeia aus kontinentübergreifendem Pflanzenwissen, das später in die moderne amerikanische Kräuterheilkunde integriert wurde, ohne dass die Stämme dafür anerkannt wurden.",
+        "plants": [
+          {
+            "reason": "Allgemeines Zahnschmerz-, Schlangenstich- und Wundmittel der Prärie-Stämme."
+          },
+          {
+            "reason": "Antiseptikum und Fiebermittel von Blackfoot und Ojibwa."
+          },
+          {
+            "reason": "\"Pleurisy-Wurzel\", Cherokee-Atemwegsmittel."
+          },
+          {
+            "reason": "Einheimische Atemwegsmittel und Emetika (nicht in der Bibliothek; verwenden Sie Lobelia cardinalis)."
+          },
+          {
+            "reason": "Iroquois-zeremonielle und medizinische Pflanze."
+          },
+          {
+            "reason": "Knolle, ein Grundnahrungsmittel der Stämme des Nordwestens der Pazifikregion."
+          },
+          {
+            "reason": "Einheimische rauchbare Kräuter und Harnmittel."
+          },
+          {
+            "reason": "Wundstillendes Kraut (\"Soldatenwundkraut\") vieler Stämme."
+          },
+          {
+            "reason": "Die Typhusbehandlung des Mohikaner Kräuterarztes Joseph Shauquethqueat."
+          },
+          {
+            "reason": "Ojibwa Ohrenschmerzen Tropfen und Erkältungsmittel."
+          }
+        ],
+        "title": "Einheimische Heilmittel"
+      },
+      "office-buddies": {
+        "description": "Pflegeleichte Pflanzen für Schreibtische und fluoreszierend beleuchtete Büros.",
+        "intro": "Fluoreszenzlicht, trockener, gekühltes Luft, Wochenend-Dürren, gelegentliche flackernde Aufmerksamkeit - die meisten Pflanzen würden in einem Büro sterben. ZZ-Pflanze, Schlangenpflanze, Pothos und Wohnzimmerpalme haben Karriere gemacht, indem sie genau diese Art von Vernachlässigung ertragen.",
+        "plants": [
+          {
+            "reason": "Vertragen wochenlange Vernachlässigung und schwaches Licht."
+          },
+          {
+            "reason": "Fluoreszenzlichtfreundlich, wöchentlich mit Wasser spülen."
+          },
+          {
+            "reason": "Blüht auf Schreibtischen mit minimaler Aufmerksamkeit auf."
+          },
+          {
+            "reason": "Einfach, tierfreundlich, produziert charmante Welpen."
+          },
+          {
+            "reason": "Bunte Blätter für Kabinen mit wenig Licht."
+          },
+          {
+            "reason": "Victorian-stark, Schreibtischgröße Palme."
+          },
+          {
+            "reason": "Folgend, vergibt verpasste Bewässerungen."
+          },
+          {
+            "reason": "Kompakt, verträgt fluoreszierendes Licht."
+          },
+          {
+            "reason": "Einzigartige Blätter, einfache Vermehrungsgeschenke für Kollegen."
+          },
+          {
+            "reason": "Glänzende Statement-Pflanze, umweltfreundlich für die Büroluft."
+          }
+        ],
+        "title": "Bürofreunde"
+      },
+      "pioneer-plants": {
+        "description": "Wichtige Kulturpflanzen und Landschaftspflanzen des amerikanischen Grenzlebens.",
+        "intro": "Das amerikanische Leben an der Grenze funktionierte mit einem kleinen Werkzeugkasten - Sonnenblumenöl, Kürbiskuchen, Schatten der Weiden, Osage Orange-Windschutzhölzer. Die Drei Schwestern der indigenen Landwirtschaft ernährten die Kolonialbewohner und prägten die Landschaft von Ohio bis zu den Großen Ebenen.",
+        "plants": [
+          {
+            "reason": "Einheimische Grundnahrungsmittel wurden nach Westen gebracht; Öl, Samen und Futtermittel für Vieh."
+          },
+          {
+            "reason": "Einheimischer Wurzelgemüse wurde von Siedlern des 19. Jahrhunderts wiederbelebt."
+          },
+          {
+            "reason": "Die Hälfte der \"Drei Schwestern\" zusammen mit Mais und Kürbis."
+          },
+          {
+            "reason": "Grundnahrungsmittel für Siedler für Torten, Brühe und Kürbisse."
+          },
+          {
+            "reason": "Die Wildblumen der Prärie kolonisierten rasch die Wegränder hinter den Siedlern."
+          },
+          {
+            "reason": "In den 1930er Jahren von der USDA als Viehzaun gepflanzt; jetzt invasiv."
+          },
+          {
+            "reason": "Die Apfelgärten an der Grenze von Ohio von Johnny Appleseed (John Chapman)."
+          },
+          {
+            "reason": "Southern Homestead-Grundnahrungsmittel; überlebt schlechte Böden."
+          },
+          {
+            "reason": "Der ursprüngliche Windschutzhecke der Großen Ebenen."
+          },
+          {
+            "reason": "An den Brunnen auf dem Bauernhof gepflanzt, um Schatten zu spenden und für Körbchenherstellung zu dienen."
+          }
+        ],
+        "title": "Pionierpflanzen"
+      },
+      "revolutionary-tea": {
+        "description": "Chinesische Teesubstitute aus der Kolonialzeit während des Boykots des Boston Tea Party.",
+        "intro": "Als die Kolonisten von Boston den Tee der Ostindien-Kompanie in den Hafen warfen, mussten sie etwas anderes zubereiten. Honigmelisse wurde zu Oswego-Tee, Minze und Salbei füllten patriotische Kessel, und jede Küche hielt ein alternatives Heimtier auf Lager.",
+        "plants": [
+          {
+            "reason": "\"Oswego-Tee\" der Iroquois und der Siedler von New York."
+          },
+          {
+            "reason": "Blätter, die als Tee über die östliche Grenze eingeweicht werden."
+          },
+          {
+            "reason": "Blätter waren während der Revolution das am häufigsten zubereitete Ersatzmittel."
+          },
+          {
+            "reason": "Blätter wurden in kolonialen Küchen zu einem brauchbaren Tee verarbeitet."
+          },
+          {
+            "reason": "Die Hüften lieferten einen säuerlichen, vitamin-C-reichen Tee und Gelee."
+          },
+          {
+            "reason": "Einwanderergarten-Standby; leicht zu kultivieren, leicht zu brauen."
+          },
+          {
+            "reason": "Der Hybrid des 18. Jahrhunderts wurde in amerikanischen Küchen schnell naturalisiert."
+          },
+          {
+            "reason": "Beruhigende Abendtrank, die in jedem Bauernhaus zu finden ist."
+          },
+          {
+            "reason": "\"Salbei-Tee\" allgegenwärtig bei Halsschmerzen und allgemeinem Wohlbefinden."
+          },
+          {
+            "reason": "Blütenköpfe werden als bitterer Kräuter-Tonic-Tee zubereitet."
+          }
+        ],
+        "title": "Revolutionärer Tee"
+      },
+      "royal-favorites": {
+        "description": "Pflanzen, die nach oder von der Königsfamilie benannt wurden oder von ihr geliebt",
+        "intro": "Pflanzen, die nach oder von der Königsfamilie benannt oder geliebt werden - Strelitzia nach Königin Charlotte, Victoria amazonica nach Königin Victoria, die Apothekerrose des Hauses Lancaster, Sultan Ahmeds Mondlicht-Tulpen. Jede trägt eine kleine Flagge des Reiches in ihre Blütenblätter gedrückt.",
+        "plants": [
+          {
+            "reason": "1773 nach Königin Charlotte, Herzogin von Mecklenburg-Strelitz, benannt."
+          },
+          {
+            "reason": "Vorgestellt an jeden Delegierten bei der Gründung der UN im Jahr 1945."
+          },
+          {
+            "reason": "Nach Königin Victoria benannt; ihre Gärtner pflanzten es in Chatsworth an."
+          },
+          {
+            "reason": "Kompakte Sukkulente, die zu ihrem Ehren benannt wurde."
+          },
+          {
+            "reason": "1954 Grandiflora benannt nach der jungen Königin."
+          },
+          {
+            "reason": "Kaiserliche Blume des Hofes der Tang-Dynastie."
+          },
+          {
+            "reason": "Der osmanische Sultan Ahmed III. veranstaltete Mondlicht-Tulpenfeste."
+          },
+          {
+            "reason": "Die königlichen Blumensträuße von Kate Middleton und Grace Kelly."
+          },
+          {
+            "reason": "Napoleons Kaiserin Josephine baute in Malmaison umfangreiche Sammlungen auf."
+          },
+          {
+            "reason": "Die \"Rote Rose von Lancaster\" aus den Rosenkriegen."
+          }
+        ],
+        "title": "Königliche Favoriten"
+      },
+      "secret-language": {
+        "description": "Victorianische Floristik - jede Pflanze vermittelt eine kodierte Botschaft.",
+        "intro": "Im viktorianischen England trug jede Gartenzwergpflanze eine kodierte Bedeutung. Herzsease sagte \"denk an mich\"; Mignonette sagte \"deine Qualitäten übertreffen deine Charaktereigenschaften.\" Diese Sammlung rekonstruiert einen kleinen Ausschnitt dieses florographischen Vokabulars für Briefe, die nicht einfach sein können.",
+        "plants": [
+          {
+            "reason": "\"Denken Sie an mich\"; getragen zwischen getrennten Liebenden."
+          },
+          {
+            "reason": "Bescheidenheit und Treue."
+          },
+          {
+            "reason": "Tapferkeit."
+          },
+          {
+            "reason": "\"Danke.\""
+          },
+          {
+            "reason": "Zuneigung, aber auch flüchtige Liebe (Blüten halten einen Tag)."
+          },
+          {
+            "reason": "Vorzug; \"du bist meine Wahl.\""
+          },
+          {
+            "reason": "Wahre Liebe und Erinnerung."
+          },
+          {
+            "reason": "Die \"Bande der Liebe\"."
+          },
+          {
+            "reason": "\"Deine Qualitäten übertreffen deine Charme.\""
+          },
+          {
+            "reason": "Zurückkehr des Glücks."
+          }
+        ],
+        "title": "Geheimsprache"
+      },
+      "shade-savers": {
+        "description": "Dichte Schattenverfügungen für Nordwände und unter Bäumen.",
+        "intro": "Dichte Schatten - unter Eichen, neben Nordwänden - ist der Ort, an dem die meisten blühenden Pflanzen aufgeben. Hostas und Astilben tun es nicht. Helleborien blühen im Februar-Schatten. Solomon's Seal verwandelt durchlässige Unterwälder in bewusste Waldgärten.",
+        "plants": [
+          {
+            "reason": "Der König der Schattenblätter."
+          },
+          {
+            "reason": "Schattenfedern in feuchter Erde."
+          },
+          {
+            "reason": "Teilschattiger einheimischer Blüherbusch."
+          },
+          {
+            "reason": "Waldbodenbedeckung einheimisch."
+          },
+          {
+            "reason": "Trocken-Schattentolerant."
+          },
+          {
+            "reason": "Winter- bis Frühlingsdämmerung blüht."
+          },
+          {
+            "reason": "Tiefschattige immergrüne Pflanze für Innen- und Außenbereiche."
+          },
+          {
+            "reason": "Gelenkvolle, sich nach oben öffnende Schattenpflanze, die immer"
+          },
+          {
+            "reason": "Klassische Frühlingsschönheit mit geteilten Schatten."
+          },
+          {
+            "reason": "Silberfleckiger Schattenblätter + frühe blaue Blüten."
+          }
+        ],
+        "title": "Schattenretter"
+      },
+      "thorny-defenders": {
+        "description": "Bewaffnete Pflanzen für Sicherheitshechen und eindringlingssichere Grenzen.",
+        "intro": "Vor Gitterzäunen und Überwachungskameras nutzten Gärtner Pflanzen. Pyracantha bedeckte Einbrechermauern. Osage Orange zäunte Rinder auf den Great Plains ein, bevor Drahtseile existierten. Diese Sammlung bewaffnet Grenzen mit Dornen und Stacheln, die weh tun.",
+        "plants": [
+          {
+            "reason": "Dichte Dornen plus salztolerantes Küstenhecke."
+          },
+          {
+            "reason": "Die klassische \"diebstahlsichere\" Wandpflanze."
+          },
+          {
+            "reason": "Stachelige Blätter und immergrüne Masse."
+          },
+          {
+            "reason": "Dichte feine Dornen."
+          },
+          {
+            "reason": "Der Heckenstachel der ländlichen britischen Landschaft."
+          },
+          {
+            "reason": "In den 1930er Jahren speziell als \"lebender Zaun\" eingeführt."
+          },
+          {
+            "reason": "Der ursprüngliche Rinderzaun der Großen Ebenen vor dem Drahtzaun."
+          },
+          {
+            "reason": "gefährliche 2-Zoll-Dornen, winterhart bis Zone 5."
+          },
+          {
+            "reason": "Die lebende Grenze zwischen dem Mittelmeer und Mexiko."
+          },
+          {
+            "reason": "Terminalspitzen auf Blättern, unüberwindbar."
+          }
+        ],
+        "title": "Stachelige Verteidiger"
+      },
+      "toxic-twins": {
+        "description": "Pflanzen, die zahm aussehen, aber eine echte Toxizität verbergen.",
+        "intro": "Pflanzen, die harmlos aussehen, aber eine reale Gefahr verbergen. Hydrangea-Blätter enthalten Cyanid. Monstera und Friedenskraut speichern Kalziumoxalatkristalle. Tomatenblätter sind giftig für Hunde. Sie sind so häufig, dass sie in Wohnzimmern angebaut werden können - leise gefährlich.",
+        "plants": [
+          {
+            "reason": "Cyanogene Glykoside in Blüten und Blättern."
+          },
+          {
+            "reason": "Grayanotoxine wirken sich auf Herz und Nerven aus."
+          },
+          {
+            "reason": "Kalziumoxalatkristalle verbrennen Mund und Rachen."
+          },
+          {
+            "reason": "Unlösliche Oxalatstoffe; Notfall-Tierarztstandard für Katzen und Hunde."
+          },
+          {
+            "reason": "Oxalatkristalle - trotz ihres unschuldigen Namens."
+          },
+          {
+            "reason": "Kristalloxalat verursachen Kehlkopflähmungen."
+          },
+          {
+            "reason": "Blätter, Stängel und grüne Früchte sind für Haustiere giftig (Solanine)."
+          },
+          {
+            "reason": "Zyanogene Heckepflanze; tödliche Vergiftungen von Vieh."
+          },
+          {
+            "reason": "Die hellrote Schale ist süß, aber das darin enthaltene Samen ist tödlich."
+          },
+          {
+            "reason": "Allgegenwärtiger Hecke; Hunde sterben, weil sie verfallene Beeren essen."
+          }
+        ],
+        "title": "Giftige Zwillinge"
+      },
+      "wedding-classics": {
+        "description": "Pflanzen, die historisch in westlichen Hochzeitssträußen und Altären verwendet wurden.",
+        "intro": "Die westlichen Hochzeitstraditionen verwenden ein kleines Brautrepertoire - Rosen für Romantik, Pfingstrosen für Wohlstand, Lilienblume für Reinheit. Viele wurden durch königliche Hochzeiten besiegelt und sind seither in Blumencatalogen geblieben.",
+        "plants": [
+          {
+            "reason": "Die Hochzeitsschlange des 20. Jahrhunderts in ihrer besten Form."
+          },
+          {
+            "reason": "Juni-Hochzeitsklassiker; Blumen zum 12. Jahrestag."
+          },
+          {
+            "reason": "Die traditionelle Brautkrönchenblume."
+          },
+          {
+            "reason": "Victorianischer Korsageblumenstrauß mit \"geheimem Liebesbeweis\"."
+          },
+          {
+            "reason": "Reinheit und Jungfräulichkeit; katholische Brauttraditionen."
+          },
+          {
+            "reason": "Kate Middletons Hochzeitsstrauß zur königlichen Hochzeit 2011."
+          },
+          {
+            "reason": "Moderner, üppiger Hochzeitsfüllstoff in Weiß und Blau."
+          },
+          {
+            "reason": "Vergebung und Würdigung im Brautgeschenk-Symbolismus."
+          },
+          {
+            "reason": "Boutonniere ist seit dem 19. Jahrhundert die Standard-Accessoire für Bräutigame."
+          },
+          {
+            "reason": "Hindu-, philippinischen und indonesischen Hochzeitssträhnen."
+          }
+        ],
+        "title": "Hochzeitsklassiker"
+      }
+    }
+  }
+}

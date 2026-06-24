@@ -1,0 +1,4159 @@
+{
+  "schema_version": 1,
+  "locale": "it",
+  "source": {
+    "resource": "diseases.json",
+    "sha256": "41126fad245c663221405bac99a4b1ad80d740dda790d7c153fb0c2990701823"
+  },
+  "fields": {
+    "categories": {
+      "FL": {
+        "label": "Fiori"
+      },
+      "FR": {
+        "label": "Frutti"
+      },
+      "L": {
+        "label": "Foglie"
+      },
+      "P": {
+        "label": "Insetti indesiderati"
+      },
+      "R": {
+        "label": "Radici"
+      },
+      "ST": {
+        "label": "Steli"
+      }
+    },
+    "diseases": {
+      "FL01": {
+        "name": "Marciazione delle fioriture",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Non spruzzare mai i fiori dall'alto"
+                },
+                {
+                  "title": "Piante spaziali per il flusso d'aria"
+                },
+                {
+                  "title": "Pulire tempestivamente i petali caduti e i detriti"
+                },
+                {
+                  "title": "Scegli varietà resistenti alle malattie"
+                },
+                {
+                  "title": "Ruotare i vasi annuali di fiori"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "I fiori si stanno trasformando in qualcosa di morbido, pastoso e marrone",
+        "symptomAnalysis": "Due cause principali:\n1. **Pioggia forte o innaffiatura eccessiva** — l'acqua rimane nell'infiorescenza e avvelena i petali dall'interno.\n2. **Infezione batterica** — entra attraverso piccole ferite e si diffonde rapidamente in tempo caldo e umido.\n\nSe lasciato da solo, la putrefazione può viaggiare lungo il stelo e infettare le foglie e le piante circostanti.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Tagliare via tutte le fioriture marce"
+                },
+                {
+                  "title": "Sterilizzare le dita o i tagli tra i tagli"
+                },
+                {
+                  "title": "Tagliare indietro qualsiasi stelo morbido e sbiadito sotto il fiore"
+                },
+                {
+                  "title": "Passare solo all'irrigazione di base"
+                },
+                {
+                  "body": "Spruzzare un fungicida a base di rame (misura Bordeaux, solfato di rame o idrossido di rame commerciale) sulle foglie, sui gambi e sul terreno circostante secondo l'etichetta del prodotto. Riprovare ogni 7-14 giorni. Se la maggior parte dei fiori e dei gambi sono infetti: *Scartare la pianta gravemente infetta* (vedi 5.1).",
+                  "subSteps": [
+                    {
+                      "title": "Scartare la pianta gravemente infetta"
+                    }
+                  ],
+                  "title": "Per la diffusione batterica, applicare il battericida al rame per etichetta"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "FL02": {
+        "name": "Fioritura appassita",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Copri con un panno di gelo prima delle notti fredde"
+                },
+                {
+                  "title": "Porta le piante fiorite in vaso all'interno per la notte all'inizio della primavera o alla fine dell'autunno"
+                },
+                {
+                  "title": "Scegli varietà resistenti al freddo adatte alla tua zona"
+                },
+                {
+                  "title": "Non fertilizzare con azoto dopo la metà dell'estate; la nuova crescita tenera è più vulnerabile al gelo"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "I fiori si asciugano di colore marrone dopo la gelata o alla fine della stagione",
+        "symptomAnalysis": "Due cause principali:\n1. **Danni causati dal freddo o dalla gelata** - improvvisi cali di temperatura congelano le cellule delle fioriture, causando scolorimento. Molte fioriture non possono tollerare temperature inferiori a 50°F (10°C).\n2. **Fine di vita normale** - i fiori annuali e perenni appassiscono alla fine della loro stagione quando la pianta va a seminare.\n\nSe avviene un appassimento dopo una fredda ondata, la causa è ambientale. Se avviene alla fine della stagione con la formazione di gusci di semi, è naturale.",
+        "treatment": {
+          "groups": [
+            {
+              "label": "Per danni causati dal gelo",
+              "steps": [
+                {
+                  "title": "Innaffia leggermente prima che il sole colpisca la pianta ghiacciata"
+                },
+                {
+                  "title": "Una volta scongelati, pizzicate i fiori gravemente danneggiati"
+                },
+                {
+                  "title": "Copri di notte finché il pericolo di gelo non passa"
+                }
+              ]
+            },
+            {
+              "label": "Per la fine della vita",
+              "steps": [
+                {
+                  "title": "Prendi i fiori e i boccioli colpiti e tagliali."
+                },
+                {
+                  "title": "Non fare nulla — ciclo naturale"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "FL03": {
+        "name": "Fiori appassiti",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Innaffia a fondo e in modo costante"
+                },
+                {
+                  "title": "Scegli varietà resistenti alla marciuma (cerca \"VFN\" sui semi di pomodoro/fragola)"
+                },
+                {
+                  "title": "Ruota i raccolti tra le stagioni"
+                },
+                {
+                  "title": "Mulch per mantenere uniforme l'umidità del terreno"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "I steli appassiscono, i petali cadono precocemente",
+        "symptomAnalysis": "Il marciume dei fiori può derivare da molte direzioni:\n\n- **Stress idrico** — troppo o troppo poco. Petali morbidi e cartacei a causa della siccità; steli appiccicosi a causa dell'eccessiva irrigazione.\n- **Calore / forte sole** — le petali bruciano e si arricciano sul lato rivolto verso il sole.\n- **Malattie di marciume vascolare** — i funghi trasmessi dal suolo come *Verticillium* o *Fusarium* ostruiscono il tessuto portatore d'acqua della pianta. Anche i steli marcioranno anche se il terreno è umido.\n- **Marciazione radicale** — vedi [R01](../05_roots/root-rot.md). Le radici danneggiate non possono fornire acqua alle fioriture.\n\nDetermina prima la causa. I steli che appassiscono solo nei pomeriggi caldi ma si riprendono durante la notte sono stressati dal calore; i steli che appassiscono e rimangono appassisiti indipendentemente dall'umidità del terreno suggeriscono una malattia o danni alle radici.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "body": "Se bagnato → *Ridurre la frequenza dell'irrigazione* (vedi 1.1).",
+                  "subSteps": [
+                    {
+                      "title": "Ridurre la frequenza dell'irrigazione"
+                    }
+                  ],
+                  "title": "Testare il terreno con un dito: se asciutto → [S17](../shared/treatment-steps.md#s17-water-deeply-but-less-often)"
+                },
+                {
+                  "title": "Spostarsi in ombra pomeridiana se stressato dal calore"
+                },
+                {
+                  "title": "Potare i rami appassiti per ridurre la domanda"
+                },
+                {
+                  "body": "Immergere le forbici da potatura, le forbici o le lame dei coltelli in una soluzione di acqua e candeggina 1:4 (o alcol isopropilico al 70%) prima di ogni taglio e tra ogni pianta. Pulire con un panno asciutto prima di tagliare. Se la causa è la malattia della marciuma vascolare: *Scartare la pianta gravemente infetta* (vedi 4.1). Il fungo rimane nel terreno per anni.",
+                  "subSteps": [
+                    {
+                      "title": "Scartare la pianta gravemente infetta"
+                    }
+                  ],
+                  "title": "Sterilizzare gli strumenti tra un taglio e l'altro"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "FL04": {
+        "name": "Caduta dei germogli",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Acclimata le piante lentamente quando le sposti"
+                },
+                {
+                  "title": "Acqua secondo un programma, non su impulso"
+                },
+                {
+                  "title": "Mantenere un'umidità del 40-60% per i fioritori interni"
+                },
+                {
+                  "title": "Usa un fertilizzante bilanciato o a formula fioritura; evita l'azoto pesante durante la germinazione"
+                },
+                {
+                  "title": "Non ripiantare una pianta che sta formando germogli: cadranno a causa dell'agitazione."
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "I germogli di fiori si formano e poi cadono prima di aprirsi",
+        "symptomAnalysis": "Una risposta allo stress, non una malattia. La pianta sta conservando energia interrompendo i germogli che non può sostenere. Colpi di scena comuni:\n\n- **Cambiamento ambientale improvviso** — spostamento all'interno/all'esterno, corrente d'aria, improvviso cambiamento di temperatura.\n- **Irrigazione incoerente** — lasciare che il terreno si asciughi troppo lontano, poi inondarlo.\n- **Bassa umidità** — comune all'interno; i fioritori tropicali (gardenia, hibisco) sono sensibili.\n- **Luce insufficiente** — i germogli si formano ma non ricevono l'energia per aprirsi.\n- **Sovrfertilizzazione** — troppa azoto spinge la crescita delle foglie a scapito dei fiori.\n- **Pressione dei parassiti** — le pulci e le afidi si nutrono all'interno dei germogli in via di sviluppo. Vedi [02_pests/](../02_pests/).",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Stabilire un ritmo di irrigazione coerente"
+                },
+                {
+                  "title": "Aumentare l'umidità per i fioritori tropicali"
+                },
+                {
+                  "body": "Lascialo stabilizzarsi in una sola posizione.",
+                  "title": "Smettila di spostare la pianta"
+                },
+                {
+                  "title": "Pausa l'fertilizzante per 2-4 settimane; riprendere con una formula di fioritura a basso contenuto di azoto (alto P, come 5-10-5)"
+                },
+                {
+                  "body": "Se trovato, consulta la voce pertinente sulla parassita.",
+                  "title": "Controlla i germogli per parassiti"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "FL05": {
+        "name": "Malattia delle petali",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Acqua alla base"
+                },
+                {
+                  "title": "Spazio e potatura per il flusso d'aria"
+                },
+                {
+                  "title": "Rimuovi i fiori sbiaditi prima che marciscano"
+                },
+                {
+                  "title": "Scegli varietà con fiori a petali singoli o a forma aperta"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Mucchio grigio-bruno peloso sui petali",
+        "symptomAnalysis": "Il fungo *Botrytis cinerea* (mucor grigio) attacca prima i petali sbiaditi o danneggiati, poi si diffonde in quelli sani. Cresce bene in aria fresca, umida e ferma: all'inizio della primavera, alla fine dell'autunno o in qualsiasi periodo di pioggia. Rose, peonie, delizie, hortensia e azalee sono ospiti comuni.\n\nPer lo stesso fungo sulle foglie e sui steli vedere [L23 — Muggia grigia](../01_leaves/gray-mold.md).",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Rimuovi ogni fiore infetto, compresi eventuali boccioli parzialmente aperti nelle vicinanze"
+                },
+                {
+                  "title": "Sterilizzare gli strumenti tra un taglio e l'altro"
+                },
+                {
+                  "title": "Pulire i petali e le foglie caduti sotto la pianta"
+                },
+                {
+                  "title": "Applicare il fungicida al rame se l'infezione è diffusa"
+                },
+                {
+                  "title": "Apri il flusso d'aria con la potatura selettiva"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "FL06": {
+        "name": "Fallimento nel fiorire",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Abbina la pianta alle tue condizioni di luce prima di acquistare"
+                },
+                {
+                  "title": "Usa un fertilizzante bilanciato o a formula di fioritura; evita gli alimenti a azoto puro per i fioritori."
+                },
+                {
+                  "title": "Sii paziente con i nuovi perenni e arbusti"
+                },
+                {
+                  "title": "Acqua costantemente"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Una pianta sana produce poche o nessuna fiorellina",
+        "symptomAnalysis": "Non una malattia. La pianta ha l'energia per crescere le foglie ma non viene indotta a fiorire. Cause comuni:\n\n- **Luce insufficiente** — la maggior parte delle piante fiorite ha bisogno di 6 ore di luce brillante al giorno.\n- **Troppo azoto** — spinge la crescita fogliare a scapito dei fiori.\n- **Ciclo di temperatura sbagliato** — molti fioritori hanno bisogno di un segnale di notte fresca (ad esempio, orchidee, cactus di Natale).\n- **La pianta è troppo giovane** — perenni, alberi da frutto e molti arbusti possono impiegare 1-3 anni prima della prima fioritura.\n- **Rinvaso recente al momento sbagliato** — rimozione dei germogli floreali (alcune piante producono germogli l'anno precedente su legno vecchio).\n- **Legato alle radici** — vedi [R04](../05_roots/pot-bound.md). A volte un vaso stretto innesca la fioritura, ma un legame radicale estremo lo spegne.\n- **Irrigazione secca o incoerente** — le piante stressate dalla siccità perdono i siti dei germogli.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Trasferiti in una posizione più luminosa"
+                },
+                {
+                  "title": "Passare a un fertilizzante a formula di fioritura (minore N, maggiore P, ad esempio, 5-10-5)"
+                },
+                {
+                  "body": "Il cactus di Natale necessita di notti fresche e giornate brevi; le gardenie necessitano di giornate calde e aria umida.",
+                  "title": "Ricerca il trigger di fioritura della tua pianta specifica"
+                },
+                {
+                  "title": "Evita la potatura finché non confermi se la specie fiorisce su legno nuovo o vecchio"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "FL07": {
+        "name": "Fiori in budello macchiati",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Piante spaziali per il flusso d'aria"
+                },
+                {
+                  "title": "Acqua alla base, mai sopra la testa"
+                },
+                {
+                  "title": "Pulire regolarmente i petali caduti e le foglie morte"
+                },
+                {
+                  "title": "Spray preventivo di rame all'inizio della primavera sulle rose o le peonie suscettibili"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Macchie marroni o scure e macchie che appaiono sui germogli prima che si aprano.",
+        "symptomAnalysis": "I germogli macchiati di solito risalgono a un'infezione fungina o batterica - patogeni come la botricosi, l'antracnose o i microrganismi che causano i buchi nei fiori - che si è diffusa dalle foglie o dai petali caduti sui germogli in via di sviluppo. Il tempo umido, la piantagione densa e i detriti contaminati intorno alla pianta accelerano la diffusione. I germogli macchiati non si aprono, si aprono in fiori deformati o marciscono prima di mostrare il colore.\n\nSe il problema appare sulle petali dopo che il germoglio si apre (non sulla superficie stessa del germoglio), consulta [FL05 — Malattia delle petali](petal-blight.md).",
+        "treatment": {
+          "groups": [
+            {
+              "label": "Per casi lievi",
+              "steps": [
+                {
+                  "title": "Tagliare i germogli macchiati e gettarli via"
+                },
+                {
+                  "title": "Sterilizzare gli strumenti tra i tagli in modo che i spore non si spostino da fiore in fiore"
+                },
+                {
+                  "title": "Pulire i petali e le foglie caduti intorno alla pianta"
+                }
+              ]
+            },
+            {
+              "label": "Per casi gravi",
+              "steps": [
+                {
+                  "title": "Prendi i boccioli visibilmente danneggiati e tagliali."
+                },
+                {
+                  "title": "Spruzzare fungicida al rame sui boccioli e sui rami rimanenti"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "FR01": {
+        "name": "Punto di frutta",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Acquista varietà resistenti alle macchie"
+                },
+                {
+                  "title": "Ruotare le colture annuali di frutta ogni 3 anni"
+                },
+                {
+                  "title": "Pulire tutti i frutti e le foglie caduti alla fine della stagione"
+                },
+                {
+                  "title": "Irrigazione a goccia o solo irrigazione di base"
+                },
+                {
+                  "title": "Piante spaziali per il flusso d'aria"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Strisce e lesioni marroni o nere sulla buccia della frutta",
+        "symptomAnalysis": "La macchia da frutto è un termine generico per le infezioni batteriche e fungine che lasciano lesioni scure sul frutto. I patogeni viaggiano tramite vento, schizzi di pioggia, insetti e strumenti. Invernano nei detriti vegetali e si riinfettano in primavera. Le condizioni umide accelerano la diffusione. I frutti con macchie gravi possono non essere commestibili; i frutti con macchie lievi di solito vanno bene dopo aver rimosso la macchia.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Rimuovi e distruggi i frutti con gravi macchie"
+                },
+                {
+                  "title": "Potare i rami infetti che potrebbero trasportare il patogeno"
+                },
+                {
+                  "title": "Sterilizzare gli strumenti tra un taglio e l'altro"
+                },
+                {
+                  "title": "Applicare fungicida/battericida al rame per etichetta"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "FR02": {
+        "name": "Marciazione dei frutti",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "L'irrigazione costante è il singolo fattore più importante"
+                },
+                {
+                  "title": "pacciame"
+                },
+                {
+                  "title": "Usa un fertilizzante bilanciato"
+                },
+                {
+                  "title": "Frutta sottile e prugne per il flusso d'aria"
+                },
+                {
+                  "title": "Raccolta la frutta tempestivamente quando è matura"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Rotta marrone affondata, scolorimento nero alla fine dei fiori, muschio fungino",
+        "symptomAnalysis": "Tre schemi comuni:\n\n1. **Marciazione alla fine dei fiori** - cratere nero affondato nella parte inferiore di pomodori, peperoni, zucchine. Causata da carenza di calcio nel frutto, non una malattia. L'irrigazione incoerente interrompe l'assorbimento di calcio.\n2. **Marcia bruciata (fungina)** - piccole macchie marroni che si espandono e possono crescere in ammassi di spore pelose grigie abbronzate. Colpisce le frutta a guscio (pesco, prugna, ciliegia).\n3. **Marciazione troppo matura** — frutta lasciata sulla pianta oltre il periodo di maturazione, che attira insetti e funghi.",
+        "treatment": {
+          "groups": [
+            {
+              "label": "Per la marciuma delle estremità dei fiori",
+              "steps": [
+                {
+                  "title": "Stabilire un'irrigazione profonda costante"
+                },
+                {
+                  "title": "Mulch per mantenere uniforme l'umidità del terreno"
+                },
+                {
+                  "title": "Rimuovi il frutto interessato in modo che la pianta reindirizzi il calcio al frutto rimanente"
+                }
+              ]
+            },
+            {
+              "label": "Per la marcescenza marrone",
+              "steps": [
+                {
+                  "title": "Rimuovi tutti i frutti visibilmente marci, compresi quelli sul terreno"
+                },
+                {
+                  "title": "Potare i rami interessati"
+                },
+                {
+                  "title": "Applicare il fungicida al rame sui frutti in maturazione, non sui frutti verdi"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "FR03": {
+        "name": "Deformità del frutto",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "body": "Impollinate a mano zucchine e meloni con un piccolo pennello se vedete poche api.",
+                  "title": "Pianta fiori adatti ai pollinatori nelle vicinanze"
+                },
+                {
+                  "title": "Copri le piante in fiore dalla gelata tardiva"
+                },
+                {
+                  "title": "Umidità costante, soprattutto durante la maturazione dei frutti"
+                },
+                {
+                  "title": "Applicare fertilizzante a rilascio lento al momento della semina"
+                },
+                {
+                  "body": "Vedi [02_pests/](../02_pests/).",
+                  "title": "Controlla eventuali danni da insetti sui frutti in via di sviluppo"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Frutta sfigurata, a metà forma o divisa",
+        "symptomAnalysis": "Diversi fattori:\n\n- **Pessima impollinazione** — le api hanno perso alcuni ovuli, quindi il frutto si sviluppa in modo irregolare. Comune: fragole a punta, cetrioli asimmetrici.\n- **Gireggianti per l'irrigazione** — la siccità seguita da un'abbondante irrigazione può causare la frantumazione; l'umidità irregolare provoca la rotazione dei pomodori verso il basso.\n- **Estremi di temperatura** — il freddo durante la fioritura danneggia i frutti in via di sviluppo.\n- **Deficienze nutrizionali** — la carenza di boro e calcio causa ritardo della crescita e forme strane.\n- **Danni da insetti nella fase di germoglio** — i pidocchi delle piante arrugginiti che si nutrono di fiori lasciano cicatrici e rughe.\n\nLa maggior parte dei frutti deformati è ancora commestibile.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Rimuovi i peggiori frutti in modo che la pianta si concentri su quelli sani"
+                },
+                {
+                  "title": "Stabilizzare l'irrigazione immediatamente"
+                },
+                {
+                  "title": "Applicare un fertilizzante bilanciato con micronutrienti (boronio, calcio)"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "FR04": {
+        "name": "Frutta marcioriente",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Pulire tutti i frutti caduti alla fine della stagione"
+                },
+                {
+                  "title": "Impilare le piante fuori dal terreno"
+                },
+                {
+                  "title": "Potare per il flusso d'aria durante la stagione dormiente"
+                },
+                {
+                  "title": "Spray preventivo di rame alla fioritura e di nuovo prima della raccolta"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Frutto mummificato appassito appeso alla pianta",
+        "symptomAnalysis": "Un'infezione fungina (spesso *Monilinia* su frutta a guscio) che trascorre l'inverno nei detriti di frutta e piante secchi. Le spore spruzzano in primavera e infettano nuove fioriture e frutti in via di sviluppo, che poi si disidratano prima di maturare. Il clima caldo e umido della primavera/estate favorisce le epidemie.\n\nIl frutto mummificato che vedi in inverno o alla fine della stagione è la fonte dell'infezione del prossimo anno.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Raccogli ogni mummia secca dalla pianta e dal terreno"
+                },
+                {
+                  "title": "Potare eventuali rami interessati"
+                },
+                {
+                  "title": "Spruzzare fungicida al rame"
+                },
+                {
+                  "title": "Aprire il canopo con una potatura selettiva"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "FR05": {
+        "homeRemedies": [
+          null,
+          {
+            "ingredients": [
+              {
+                "name": "aspirina",
+                "quantity": "1 compresse"
+              },
+              {
+                "name": "acqua",
+                "quantity": "1 gallone"
+              },
+              {
+                "name": "Sapone per piatti",
+                "quantity": "Qualche goccia"
+              }
+            ]
+          }
+        ],
+        "name": "Muffo sui frutti",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Raccogli i detriti marci e i frutti caduti"
+                },
+                {
+                  "title": "Solo irrigazione a goccia"
+                },
+                {
+                  "title": "Non sovraffollare"
+                },
+                {
+                  "title": "Non fertilizzare eccessivamente presto"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Mucor grigio, bianco o marrone lanoso sulla superficie della frutta",
+        "symptomAnalysis": "Una serie di funghi causano muffe lanose sui frutti. Crescono bene in condizioni fresche, umide e stabili, sia all'inizio che alla fine della stagione. Anche un'infezione lieve rovina il frutto; una grave distrugge la pianta. Spesso segue la marciuma alla fine dei fiori o i danni degli insetti che hanno dato ai funghi un punto d'ingresso.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Rimuovi tutti i frutti marci, compresi quelli sul terreno"
+                },
+                {
+                  "title": "Potare le foglie e i gambi interessati vicino al frutto marciore"
+                },
+                {
+                  "title": "Riduci la crescita circostante per migliorare il flusso d'aria"
+                },
+                {
+                  "title": "Applicare il fungicida al rame sui frutti rimanenti in maturazione"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "FR06": {
+        "homeRemedies": [
+          {
+            "ingredients": [
+              {
+                "name": "bicarbonato di sodio",
+                "quantity": "1 cucchiaino"
+              },
+              {
+                "name": "Sapone per piatti",
+                "quantity": "1 cucchiaino"
+              },
+              {
+                "name": "acqua",
+                "quantity": "1 gallone"
+              }
+            ]
+          },
+          {
+            "ingredients": [
+              {
+                "name": "latte",
+                "quantity": "1 parte"
+              },
+              {
+                "name": "acqua",
+                "quantity": "9 parti"
+              }
+            ]
+          }
+        ],
+        "name": "Mildiuzza polverosa sui frutti",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Acquista varietà resistenti alla muffa (soprattutto zucca, cetrioli, meloni)"
+                },
+                {
+                  "title": "Irrigazione a goccia, non a soffitto"
+                },
+                {
+                  "title": "Spazio ampio"
+                },
+                {
+                  "title": "Rimuovi i detriti prima dell'inverno"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Rivestimento in polvere bianca su frutta e stelo",
+        "symptomAnalysis": "I funghi della muffa grigia preferiscono i giorni caldi e secchi e le notti fresche e umide, contrariamente alla maggior parte delle malattie fungine. I focolai da metà a fine estate sono tipici. La pellicola bianca è il fungo che cresce sulla superficie; raramente uccide il frutto, ma riduce la resa, rovina l'aspetto e può diffondersi al resto della pianta.\n\nPer lo stesso fungo sulle foglie vedere [L20 — Malattia da muffa grigia](../01_leaves/powdery-mildew.md).",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Tagliare via i frutti fortemente marciati da muffa"
+                },
+                {
+                  "title": "Tagliare indietro le foglie e i gambi marci vicino"
+                },
+                {
+                  "title": "Aprire il canopo con una potatura selettiva"
+                },
+                {
+                  "title": "Applicare fungicida al rame per casi persistenti"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "FR07": {
+        "name": "Frutta che si rompe",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "L'umidità costante è il singolo fattore più importante"
+                },
+                {
+                  "title": "Aggiungere abbondante pacciame per uniformare l'umidità del terreno"
+                },
+                {
+                  "title": "Acquista varietà resistenti alla crepa (e"
+                },
+                {
+                  "title": "Raccolta appena prima della maturazione massima se si prevede una forte pioggia"
+                },
+                {
+                  "title": "Inserisci pesanti frutti per evitare lo stress sulla pelle"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Spaccature e crepe sulla buccia della frutta",
+        "symptomAnalysis": "La rottura avviene quando la crescita della frutta si accelera più velocemente della capacità della buccia di allungarsi. Il fattore scatenante più comune è un improvviso''''''''''''''''''''''''''''''''''''''''''esplosione d'acqua - pioggia intensa o annaffiature profonde dopo una siccità. Le varietà a buccia sottile e dolce sono le più vulnerabili\n\nLa frutta ammaccata attira rapidamente insetti e funghi di decomposizione, ma la frutta stessa di solito è ancora commestibile se raccolta tempestivamente.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "body": "Non aspettare la maturazione completa: marciranno o si divideranno ulteriormente.",
+                  "title": "Raccolta frutta screpolata immediatamente"
+                },
+                {
+                  "title": "Scartare la frutta con muffa o danni da insetti nelle crepe"
+                },
+                {
+                  "title": "Riprendere immediatamente l'irrigazione costante"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "L01": {
+        "homeRemedies": [
+          {
+            "ingredients": [
+              {
+                "name": "aspirina",
+                "quantity": "1 compresse"
+              },
+              {
+                "name": "acqua",
+                "quantity": "1 gallone"
+              },
+              {
+                "name": "Sapone per piatti",
+                "quantity": "Qualche goccia"
+              }
+            ]
+          }
+        ],
+        "name": "Macchia marrone",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Scegli cultivar resistenti"
+                },
+                {
+                  "title": "Acqua alla base, non sopra la testa"
+                },
+                {
+                  "title": "Piante spaziali per il flusso d'aria"
+                },
+                {
+                  "title": "Pulire le foglie cadute e i detriti"
+                },
+                {
+                  "title": "Spray preventivo di rame nelle sorgenti umide"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Macchie marroni o piccoli punti marroni sulle foglie",
+        "symptomAnalysis": "La macchia marrone è un termine generico per le infezioni fungine e batteriche che causano lesioni marroni sulle foglie. Le cause variano, ma le condizioni sono di solito simili: foglie bagnate, scarsa circolazione d'aria e detriti contaminati che trasportano spore. Se lasciata sola, la macchia marrone indebolisce la pianta e la apre a malattie più dannose.\n\nChe la macchia sia uno dei tre modelli (grandi macchie, macchie con macchie gialle o minuscole punti densi) non cambia il trattamento.",
+        "treatment": {
+          "groups": [
+            {
+              "label": "Per casi lievi (meno del 50% delle foglie colpite)",
+              "steps": [
+                {
+                  "title": "Tagliare le foglie infette"
+                },
+                {
+                  "title": "Sterilizzare gli strumenti tra un taglio e l'altro"
+                },
+                {
+                  "title": "Monitora settimanalmente per nuovi punti"
+                }
+              ]
+            },
+            {
+              "label": "Per casi gravi",
+              "steps": [
+                {
+                  "title": "Potare tutte le foglie infette"
+                },
+                {
+                  "title": "Applicare fungicida/battericida al rame"
+                },
+                {
+                  "title": "Aprire il flusso d'aria"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "L02": {
+        "name": "punto caldo",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Acquista varietà di rose resistenti alle macchie nere"
+                },
+                {
+                  "title": "Raccolta tutte le foglie cadute"
+                },
+                {
+                  "title": "Solo irrigazione a goccia"
+                },
+                {
+                  "title": "La pacciamatura riduce i getti di terra"
+                },
+                {
+                  "title": "Spray preventivo di rame all'inizio della primavera"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Macchie nere o punti neri densamente impilati sulle foglie",
+        "symptomAnalysis": "La più comune è un'infezione fungina - *Diplocarpon rosae* sulle rose è l'esempio tipico del libro di testo, ma altri funghi causano danni simili su ospiti diversi. Il fungo prospera in condizioni umide e si diffonde quando l'acqua spruzza spore sulle foglie. I casi lievi sono per lo più estetici; quelli gravi defoliano la pianta e la indeboliscono per la prossima stagione.",
+        "treatment": {
+          "groups": [
+            {
+              "label": "Per casi lievi (meno del 50% delle foglie)",
+              "steps": [
+                {
+                  "title": "Tagliare le foglie macchiate"
+                },
+                {
+                  "title": "Sterilizzare gli strumenti tra un taglio e l'altro"
+                }
+              ]
+            },
+            {
+              "label": "Per casi gravi",
+              "steps": [
+                {
+                  "title": "Potare tutte le foglie macchiate"
+                },
+                {
+                  "title": "Fungicida al rame ogni 7-14 giorni"
+                },
+                {
+                  "title": "Passare a un fungicida sistemico per casi persistenti"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "L03": {
+        "name": "Malattia delle foglie e bruciature",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Scegli le varietà adatte al tuo clima"
+                },
+                {
+                  "title": "Innaffia a fondo e in modo costante"
+                },
+                {
+                  "title": "Mulchio per trattenere l'umidità"
+                },
+                {
+                  "title": "Ispezionare le nuove piante per individuare precocemente i sintomi di bruciatura anticipata"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Spigoli e bordi asciutti marrone scuro, bagliore giallo",
+        "symptomAnalysis": "Tre cause:\n\n1. **Stress da calore e sole** - le foglie perdono l'acqua più velocemente di quanto le radici possano fornire. Le foglie esposte al sole appassiscono per prime.\n2. **Scarsa funzione radicale** — terreno compatto, danni alle radici o eccesso di fertilizzante impediscono alle radici di assorbire abbastanza acqua. La pianta sembra bruciata anche in un giorno normale.\n3. **Bruciatura delle foglie batterica** (*Xylella fastidiosa*) — malattia cronica che ricorre ogni anno. Colpisce per prime le foglie più vecchie; le foglie più nuove rimangono pulite. Permanente.\n\nUna volta che le foglie diventano marroni, non si riprendono. L'obiettivo è salvare il resto della pianta.",
+        "treatment": {
+          "groups": [
+            {
+              "label": "Per sole/calore",
+              "steps": [
+                {
+                  "title": "Innaffia più a fondo, soprattutto nelle ondate di calore"
+                },
+                {
+                  "title": "Usa un panno ombreggiante o sposta le piante in contenitore"
+                },
+                {
+                  "title": "Mulch per mantenere la zona radice fresca"
+                }
+              ]
+            },
+            {
+              "label": "Per lo stress radicale",
+              "steps": [
+                {
+                  "title": "Ridurre l'irrigazione se il terreno è compatto e bagnato"
+                },
+                {
+                  "title": "Test del suolo"
+                },
+                {
+                  "title": "Se si sta ripiantando, tagliare le radici danneggiate"
+                }
+              ]
+            },
+            {
+              "label": "Per bruciature batteriche",
+              "steps": [
+                {
+                  "title": "rimuovere"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "L04": {
+        "name": "Antracnose",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Raccolta tutti i detriti delle vecchie piante in autunno"
+                },
+                {
+                  "title": "Acquista varietà resistenti"
+                },
+                {
+                  "title": "Spazio ampio per il flusso d'aria"
+                },
+                {
+                  "title": "Solo irrigazione a goccia"
+                },
+                {
+                  "title": "Spray preventivo di rame all'inizio della primavera sulle piante suscettibili"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Macchie grigie con bordi marrone scuro o neri",
+        "symptomAnalysis": "L'antracnose è un gruppo di malattie fungine correlate. Crescono bene in condizioni di tempo fresco e umido, soprattutto in primavera e all'inizio dell'estate. Le spore sopravvivono durante l'inverno nei detriti vegetali e infettano la nuova crescita man mano che le condizioni si riscaldano. Comune sugli alberi da ombra, sugli alberi da frutto, sui fagioli, sui pomodori e su molti ornamentali.\n\nGli attacchi gravi defoliano le piante. I lievi sono cosmetici.",
+        "treatment": {
+          "groups": [
+            {
+              "label": "Per casi lievi",
+              "steps": [
+                {
+                  "title": "Potare le foglie interessate e smaltirle"
+                },
+                {
+                  "title": "Pulire tutte le foglie e i detriti caduti"
+                }
+              ]
+            },
+            {
+              "label": "Per casi gravi",
+              "steps": [
+                {
+                  "title": "Rimozione di tutti i tessuti visibilmente danneggiati"
+                },
+                {
+                  "title": "Applicare il fungicida al rame prima di un periodo secco"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "L05": {
+        "name": "Macchia angolare delle foglie",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "**Non lavorare in giardino quando le foglie sono bagnate.** I batteri si trasferiscono facilmente dalle foglie bagnate alle mani e agli strumenti."
+                },
+                {
+                  "title": "Acquista varietà di cetrioli e fragole resistenti"
+                },
+                {
+                  "title": "Ruotare almeno 2 anni prima di ripiantare le cucurbite nello stesso punto"
+                },
+                {
+                  "title": "Solo irrigazione a goccia"
+                },
+                {
+                  "title": "Spray preventivo di rame in primavera"
+                },
+                {
+                  "title": "Non salvare semi da piante infette"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Macchie gialle quadrate dalle venature delle foglie",
+        "symptomAnalysis": "Una malattia batterica (*Pseudomonas* spp.) trasmessa tramite semi, ma diffusa ulteriormente da condizioni climatiche calde e umide e dall'irrigazione a goccia. Le vene bloccano la diffusione libera delle batteri, quindi le lesioni rimangono limitate a un singolo pannello tra le vene, dando l'aspetto squadrato. I casi gravi fanno cadere le foglie; le lesioni appaiono anche sui steli e sui frutti.\n\nLa malattia persiste nei semi, nei detriti vegetali e negli strumenti contaminati.",
+        "treatment": {
+          "groups": [
+            {
+              "label": "Per casi lievi",
+              "steps": [
+                {
+                  "title": "Potare le foglie e i gambi interessati"
+                },
+                {
+                  "title": "Sterilizzare tra ogni taglio"
+                },
+                {
+                  "title": "Bactericida al rame, applicato precocemente"
+                }
+              ]
+            },
+            {
+              "label": "Per casi gravi",
+              "steps": [
+                {
+                  "title": "Rimuovi e distruggi la pianta"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "L06": {
+        "homeRemedies": [
+          {
+            "ingredients": [
+              {
+                "name": "bicarbonato di sodio",
+                "quantity": "1 cucchiaino"
+              },
+              {
+                "name": "Sapone per piatti",
+                "quantity": "1 cucchiaino"
+              },
+              {
+                "name": "acqua",
+                "quantity": "1 gallone"
+              }
+            ]
+          }
+        ],
+        "name": "Macchia sulla foglia",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Acquista varietà resistenti alle malattie"
+                },
+                {
+                  "title": "Raccolta tutta la corteccia di foglie"
+                },
+                {
+                  "title": "Acqua a livello del suolo"
+                },
+                {
+                  "title": "La pacciamatura riduce lo spruzzo di spore"
+                },
+                {
+                  "title": "Cobre preventivo all'inizio della primavera"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Macchie bianche o gialle sparse sulle foglie",
+        "symptomAnalysis": "Un'etichetta generale per le infezioni fungine che producono macchie pallide sulle foglie. Molti funghi causano danni simili; il trattamento è più o meno lo stesso indipendentemente dalla specie esatta. Le macchie tendono a seccarsi dal centro.\n\nSe le macchie sono minuscole e densamente piene (meno di 1 mm), la causa è più probabilmente insetti succhiatori di sapa - vedi [L24 — Danni da succhiamento di sapa](sap-sucking-damage.md).",
+        "treatment": {
+          "groups": [
+            {
+              "label": "Per casi lievi (meno della metà delle foglie colpite)",
+              "steps": [
+                {
+                  "title": "Tagliare le foglie macchiate"
+                },
+                {
+                  "title": "Sterilizzare gli strumenti tra un taglio e l'altro"
+                }
+              ]
+            },
+            {
+              "label": "Per casi gravi",
+              "steps": [
+                {
+                  "title": "Rimuovi tutta la foglia macchiata"
+                },
+                {
+                  "title": "Applicare il fungicida al rame settimanalmente"
+                },
+                {
+                  "title": "In casi estremi, sostituire la pianta"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "L07": {
+        "name": "Verdeamento giallo dovuto alla scarsa irrigazione",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "body": "Alcuni preferiscono asciutto, altri preferiscono costantemente umido.",
+                  "title": "Ricerca le esigenze di irrigazione di ogni pianta"
+                },
+                {
+                  "title": "Imposta un promemoria del calendario se tendi a dimenticare"
+                },
+                {
+                  "title": "Usa un misuratore di umidità del suolo o semplicemente il test con il dito prima di annaffiare"
+                },
+                {
+                  "title": "Metti del pacciame sulle piante esterne per rallentare l'evaporazione"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Le foglie inferiori sono gialle, il terreno è asciutto e si tira fuori dalla pentola",
+        "symptomAnalysis": "Quando la pianta si esaurisce d'acqua, sacrifica prima le sue foglie più vecchie per mantenere vive le nuove crescita. Il terreno che è asciutto fino al secondo gomito e visibilmente si sta restringendo dal bordo del vaso conferma l'irrigazione insufficiente. Comune nelle erbe e in qualsiasi pianta che è stata trascurata.\n\nSi distingue dall'inondazione d'acqua: terreno asciutto + foglie inferiori solo gialle = sotto. Terreno bagnato + foglie inferiori gialle + terreno con odore acido = sopra (vedi [L08](waterlogging-yellow.md)).",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Versare l'acqua lentamente finché non si scarica attraverso il fondo"
+                },
+                {
+                  "title": "Se il terreno è così secco che respinge l'acqua: metti il vaso in una ciotola d'acqua per 30 minuti per ammorbidirlo dall'interno."
+                },
+                {
+                  "title": "Tagliare le foglie completamente morte"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "L08": {
+        "name": "Inondazione",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Acqua solo quando il suolo superficiale è asciutto"
+                },
+                {
+                  "title": "Usa vasi con fori di drenaggio"
+                },
+                {
+                  "title": "Usa un miscuglio di concime di alta qualità; i composti di terreno economici si compatta e rimane inzuppato"
+                },
+                {
+                  "title": "Non lasciare che i pentoli rimangano in piastre piene d'acqua"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Le foglie inferiori diventano gialle e poi si scuriscono, il terreno è costantemente bagnato",
+        "symptomAnalysis": "Troppa acqua sposta l'ossigeno nel terreno, soffocando le radici. Le radici marce non possono più assorbire acqua, quindi le foglie superiori mostrano sintomi simili alla siccità mentre sono sedute in un terreno inzuppato. La pianta taglia prima le foglie inferiori per ridurre la domanda.\n\nSe lasciata, la putrefazione si diffonde e la pianta muore. Può anche apparire come foglie morbide, scure e marce piuttosto che solo gialle: stessa causa, più avanzata.\n\nPer i sintomi alla radice, vedere [R01 — Marciume radicale](../05_roots/root-rot.md).",
+        "treatment": {
+          "groups": [
+            {
+              "label": "Per casi lievi (solo giallastro)",
+              "steps": [
+                {
+                  "title": "Smetti di annaffiare finché i primi 2 pollici di terreno non sono asciutti"
+                },
+                {
+                  "title": "Spostarsi in un luogo con un migliore flusso d'aria se all'"
+                },
+                {
+                  "title": "Taglia le peggiori foglie gialle"
+                }
+              ]
+            },
+            {
+              "label": "Per casi gravi (scurcimento, marciume)",
+              "steps": [
+                {
+                  "title": "Scolare e ispezionare le radici"
+                },
+                {
+                  "title": "Tagliare via le radici marce"
+                },
+                {
+                  "title": "Rimuovere in un terreno fresco e asciutto con drenaggio"
+                },
+                {
+                  "title": "Potate fino al 1/3 delle foglie sane per ridurre la domanda di acqua"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "L09": {
+        "name": "Giallo invecchiato e secco",
+        "shortDescription": "Alcune foglie basali giallastre su una pianta sana",
+        "symptomAnalysis": "Questo è l'invecchiamento normale. Le piante gettano periodicamente le loro foglie più vecchie. Il giallo che si limita alle foglie più basse di una pianta altrimenti sana, senza macchie, senza parassiti, senza scolorimento diffuso, significa che la pianta sta semplicemente ruotando la sua foglia.\n\nSi distingue dall'inquinamento idrico: il giallo secco colpisce solo 1-3 foglie più basse alla volta e le sostituzioni crescono normalmente sopra. L'inquinamento idrico gialla molte foglie contemporaneamente e il terreno è asciutto fino al secondo gomito.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Tagliare le foglie gialle una volta che sono completamente asciutte"
+                },
+                {
+                  "title": "Non lasciare che le foglie cadute rimangano nel terreno"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "L10": {
+        "name": "Clorosi generale",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Alimentazione regolare durante la stagione di crescita"
+                },
+                {
+                  "title": "Irrigazione costante"
+                },
+                {
+                  "title": "Testare il pH del terreno ogni paio d'anni"
+                },
+                {
+                  "title": "Usa un miscuglio di terreno di alta qualità per piante da interno"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "L'intera pianta diventa gialla - carenza di nutrienti",
+        "symptomAnalysis": "La clorosi significa che le foglie non possono produrre abbastanza clorofilla. Cause:\n\n- **Deficiencia di azoto (N)** — le foglie interne più vecchie diventano gialle per prime; si diffonde verso l'esterno se è grave.\n- **Deficiencia di potassio (K)** — bordi delle foglie marroni e arricciati, con un margine giallo appena all'interno.\n- **Deficiencia di zinco** — giallezza alla base delle foglie.\n- **Cobre / boro** — le foglie più nuove diventano gialle per prime; la foglia diventa fragile.\n\nPer modelli specifici:\n\n- Giallo tra le vene, le vene rimangono verdi → [L11 — Deficiencia di ferro](iron-deficiency.md)\n- Vene gialle, corpo foglia verde → [L12 — Clorosi venosa](veinal-chlorosis.md)\n\nLe cause dell'impossibilità di reperire nutrienti includono la mancanza effettiva nel suolo, i danni alle radici e il pH del suolo errato.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Applicare un fertilizzante bilanciato per etichetta"
+                },
+                {
+                  "title": "Oppure alimentazione fogliare per un rapido assorbimento"
+                },
+                {
+                  "title": "Testare il pH del terreno se l'alimentazione regolare non aiuta"
+                },
+                {
+                  "title": "Aggiungi compost; fornisce micronutrienti e migliora la struttura del suolo"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "L11": {
+        "name": "Deficiencia di ferro",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Testare il terreno prima della semina"
+                },
+                {
+                  "title": "Su terreni alcalini, scegli piante tolleranti piuttosto che amanti dell'acido"
+                },
+                {
+                  "title": "Mantenere l'aerazione del terreno con il compostaggio regolare"
+                },
+                {
+                  "title": "Non sovra-limare i letti del giardino; aumenta il pH"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Giallo tra le vene, le vene rimangono verdi (interveinali)",
+        "symptomAnalysis": "Classicità della clorosi interveinale. L'ossigeno è necessario per produrre clorofilla, e le foglie non possono sintetizzare nuovi pigmenti senza di esso. Spesso il terreno ha abbondante ferro, ma la pianta non può assorbirlo perché il pH del terreno è troppo alto (alcalino) o compatto.\n\nComune nei frutti a guscio, nei mirtilli, nelle hortensie, nelle gardenie e in molti ornamentali sui terreni alcalini.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Spray fogliare con ferro chelato"
+                },
+                {
+                  "title": "Applicare ferro chelato al terreno per una correzione a lungo termine"
+                },
+                {
+                  "title": "Test del pH"
+                },
+                {
+                  "title": "Aggiungi compost o altra materia organica; aiuta a rendere disponibile il ferro"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "L12": {
+        "name": "Clorosi venosa",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Test periodici del suolo"
+                },
+                {
+                  "title": "Utilizzare fertilizzanti bilanciati, non quelli a nutrienti singoli, a meno che i test non dimostrino il contrario"
+                },
+                {
+                  "title": "Migliora il drenaggio e l'aerazione con compost e pacciame organico"
+                },
+                {
+                  "title": "Controlla le nuove piante per sintomi simili a quelli del virus prima di portarle in giardino"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Le vene diventano gialle, il resto della foglia rimane verde",
+        "symptomAnalysis": "La clorosi venosa è meno comune di quella interveicolare. Le cause includono:\n\n- **Deficiencia di magnesio o rame**\n- **Compressione del suolo** che impedisce l'assorbimento dei nutrienti dalle radici\n- **Virus mosaici o malattie vegetali** che influenzano il trasporto dei nutrienti\n- **Stress freddo sui agrumi** durante le stagioni fredde (spesso si risolve con il calore)\n\nMeno specifico della carenza di ferro, quindi la diagnosi di solito inizia con un test del suolo.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Prima fare il test del suolo"
+                },
+                {
+                  "title": "In base al test, applica il giusto nutriente difettivo"
+                },
+                {
+                  "title": "Sgonfia il terreno compatto con una forchetta; mescola il compost per l'aerazione"
+                },
+                {
+                  "body": "I virus non si riprendono.",
+                  "title": "Se si sospetta un virus mosaico: [S43](../shared/treatment-steps.md#s43-discard-the-severely-infected-plant)"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "L13": {
+        "name": "Luce insufficiente",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Abbina la pianta alle sue esigenze di luce fin dall'inizio"
+                },
+                {
+                  "title": "Usa una luce di crescita in inverno o in stanze buie"
+                },
+                {
+                  "title": "Ruota le piante d'appartamento di 90 gradi ogni settimana"
+                },
+                {
+                  "title": "Non sovraffollare le piante all'aperto"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Crescita pallida e allungata che si affaccia verso la luce (etiolazione)",
+        "symptomAnalysis": "L'etiolazione si verifica quando una pianta cresce in scarsa luce. Produce etioplasti invece della clorofilla e i steli si allungano in modo anomalo mentre la pianta cerca di raggiungere la luce. Il risultato è una crescita pallida e debole che è più vulnerabile alle malattie e alle parassiti.\n\nComune in: piante d'appartamento posizionate troppo lontane da una finestra, piantine sotto luci di crescita inadeguate, piante esterne ombreggiate da vicini troppo cresciuti.",
+        "treatment": {
+          "groups": [
+            {
+              "label": "Per piante da interno",
+              "steps": [
+                {
+                  "title": "Spostati gradualmente verso una finestra che faccia a sud o a ovest"
+                },
+                {
+                  "title": "Se la luce naturale non è disponibile, aggiungi una luce di crescita su un timer da 12-14 ore"
+                },
+                {
+                  "title": "Ruota il vaso settimanalmente in modo che la pianta cresca uniformemente"
+                }
+              ]
+            },
+            {
+              "label": "Per piante da esterno",
+              "steps": [
+                {
+                  "title": "Taglia indietro le piante circostanti che competono per la luce"
+                },
+                {
+                  "title": "Sposta le piante in vaso in un posto più soleggiato"
+                },
+                {
+                  "title": "Rimozione dei germogli lunghi e deboli"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "L14": {
+        "name": "Marcia batterica delle foglie",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Pulire i detriti vegetali alla fine della stagione"
+                },
+                {
+                  "title": "Evita l'irrigazione dall'alto"
+                },
+                {
+                  "title": "Mulch per impedire che lo sporco del terreno splacciarsi sulle foglie"
+                },
+                {
+                  "title": "Sterilizzare sempre gli strumenti tra le piante"
+                },
+                {
+                  "title": "**Non giardinare quando le piante sono bagnate.** I batteri si trasferiscono facilmente tramite le foglie bagnate"
+                },
+                {
+                  "title": "La rotazione delle colture interrompe l'accumulo batterico"
+                },
+                {
+                  "title": "Spray preventivo di rame all'inizio della primavera"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Foglie marce morbide e puzzolente",
+        "symptomAnalysis": "La marciuma batterica delle foglie è causata da vari batteri che entrano attraverso ferite, stomi (durante il tempo umido) o tramite terreno spruzzato. Una volta all'interno, i batteri si moltiplicano rapidamente e decompongono il tessuto sano. Più comune in condizioni umide e calde.\n\nSi diffonde rapidamente tra le piante se non viene affrontata. Differisce dalle infezioni fungine nella natura morbida, acquosa e puzzolente della marciuma.",
+        "treatment": {
+          "groups": [
+            {
+              "label": "Per casi lievi",
+              "steps": [
+                {
+                  "title": "Tagliare le foglie interessate fino a raggiungere un tessuto pulito"
+                },
+                {
+                  "title": "Sterilizzare tra ogni taglio"
+                },
+                {
+                  "title": "Applicare il battericida al rame sul fogliame rimanente e sul terreno circostante"
+                }
+              ]
+            },
+            {
+              "label": "Per casi gravi (>50% di persone colpite)",
+              "steps": [
+                {
+                  "title": "Rimuovi e smaltisci la pianta"
+                },
+                {
+                  "title": "Trattare il terreno circostante e le piante vicine con un battericida al rame"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "L15": {
+        "name": "Deformità della foglia",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Fertilizzazione costante"
+                },
+                {
+                  "title": "Monitora per parassiti e trattali in modo precoce"
+                },
+                {
+                  "title": "Irrigazione costante"
+                },
+                {
+                  "title": "Proteggere dal gelo"
+                },
+                {
+                  "body": "La deriva degli erbicidi può viaggiare centinaia di piedi con il vento.",
+                  "title": "Evita l'uso di erbicidi vicino alle piante del giardino"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Foglie sfigurate, storte, rugose o torte",
+        "symptomAnalysis": "Diversi motivi:\n\n- **Danni da insetti** — acari, afidi e altri succhiasap sono responsabili di rendere le piante vulnerabili ai virus che distorcono la crescita. Le galli (proliferazioni) derivano da insetti che formano galli — vedi [L16](leaf-gall.md).\n- **Diffusione di erbicidi**: anche una piccola esposizione agli erbicidi per prati o vialetti provoca nuove foglie strette, distorte e a forma di ciotola caratteristiche.\n- **Danni causati dal freddo nella fase dei germogli** — il gelo durante la fase di apparizione delle foglie provoca una distorsione permanente in quelle foglie.\n- **Stress idrico** — troppa o troppo poca acqua durante la fase di crescita distorce le foglie.\n- **Deficiencia di nutrienti** — la carenza di boro, calcio e molibdeno causa ritardo dello sviluppo.\n\nGuarda dove si trova la deformità (solo nuove foglie? solo alcune piante?) per restringerla.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Rimuovi le foglie deformate in modo che la pianta concentri l'energia su quelle nuove"
+                },
+                {
+                  "body": "- Insetti nocivi visibili → vedere [02_pests/](../02_pests/) e trattare - Tutte le piante in fila colpite → deriva di erbicida; eliminare l'esposizione - Solo dopo un gelo → danni da freddo; aspettare che passi - Con gialleggiamento → vedere [L10 — Clorosi generale](chlorosis-fertilizer.md)",
+                  "title": "Identificare la causa:"
+                },
+                {
+                  "title": "Applicare un fertilizzante bilanciato se i nutrienti sono sospetti"
+                },
+                {
+                  "title": "Rimuovi le piante con motivi di mosaico virale"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "L16": {
+        "name": "Gallina di foglia",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Raccolta le foglie cadute"
+                },
+                {
+                  "title": "Non fertilizzare in eccesso"
+                },
+                {
+                  "title": "Mantieni le piante ben annaffiate per prevenire lo stress dovuto alla siccità"
+                },
+                {
+                  "title": "Applicare olio horticolo dormiente all'inizio della primavera per controllare gli insetti che sopravvivono all'inverno sulle piante arboree."
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Cresciti anomali e irregolari sulle foglie",
+        "symptomAnalysis": "Le galli si formano quando il tessuto vegetale cresce in modo anomalo in risposta a:\n\n- **Insetti succhiasap** - acari, afidi, vespe galli depongono uova o si nutrono all'interno delle foglie.\n- **Infettione batterica o fungina** — alcuni agenti patogeni innescano la formazione di calcoli biliari.\n\nLa galla stessa di solito non danneggia seriamente la pianta. La causa sottostante potrebbe farlo. Le galli sono più comuni sui nuovi germogli e dopo inverni lievi che non hanno ucciso i produttori di galli.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Tagliare le foglie e i rami infettati"
+                },
+                {
+                  "title": "Sterilizzare tra i tagli"
+                }
+              ]
+            },
+            {
+              "label": "Per calcoli diffusi causati da acari o afidi",
+              "steps": [
+                {
+                  "title": "Sapone insetticida"
+                },
+                {
+                  "title": "Olio di neem"
+                }
+              ]
+            },
+            {
+              "label": "Per le calcoli causate da infezioni batteriche o fungine",
+              "steps": [
+                {
+                  "title": "Fungicida/battericida al rame in primavera"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "L17": {
+        "name": "Bassa umidità",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Mantenere l'umidità interna del 40-60% per le piante tropicali"
+                },
+                {
+                  "title": "Sposta le piante sensibili lontano dalle prese d'aria del riscaldamento e dai venti dell'aria condizionata"
+                },
+                {
+                  "title": "Raggruppa le piante che amano l'umidità insieme; creano il loro microclima"
+                },
+                {
+                  "title": "Usa un igrometro per monitorare"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "I bordi delle foglie si arricciano, punte marroni croccanti",
+        "symptomAnalysis": "Quando l'aria è troppo secca, le foglie perdono l'acqua più velocemente delle radici che possono sostituirla. La pianta arrotola le foglie per ridurre la traspirazione. I bordi e i bordi, dove l'acqua arriva per ultimi, si asciugano per primi.\n\nCause comuni: riscaldamento domestico in inverno, condizionatori d'aria in estate, climi aridi. Le piante tropicali (calathea, felce, fico a foglie a fiocco, lillà di pace, pianta della preghiera) sono particolarmente sensibili.\n\nSi distingue dall'inumidimento: la bassa umidità provoca arricciamenti e punte marroni anche quando il terreno è umido. L'inumidimento secca anche il terreno.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Innaffia quotidianamente, pianta le piante insieme in un gruppo, usa una griglia di ciottoli o avvia un umidificatore"
+                },
+                {
+                  "title": "Tagliare le punte marroni con le forbici per cosmetici"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "L18": {
+        "name": "Riccioli di foglia di pesca",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Applicare fungicida al rame"
+                },
+                {
+                  "title": "Acquista varietà resistenti (e"
+                },
+                {
+                  "title": "Raccolta le foglie cadute"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Le nuove foglie si arricciano, arrossiscono e si arricciano (fungine)",
+        "symptomAnalysis": "Una malattia fungina (*Taphrina deformans*) che infetta le foglie emergenti in primavera. Il fungo stimola una rapida crescita cellulare disordinata, producendo foglie gonfie e distorte. I spore sopravvivono all'inverno sulla corteccia e all'interno dei germogli dormienti. Le fredde e umide primevere peggiorano gli attacchi; il tempo caldo e secco sopprime il fungo.\n\nGli alberi gravemente infetti perdono gran parte del loro primo fiore all'occhiello di foglie. I secondi fiorellini sani di solito ricrescono senza essere infettati.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Potare i rami gravemente arricciati"
+                },
+                {
+                  "title": "Applicare fungicida al rame"
+                },
+                {
+                  "title": "Continua a annaffiare in modo costante durante il recupero"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "L19": {
+        "name": "Malattia del buco sparato",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Racchiuda regolarmente le foglie cadute e i detriti"
+                },
+                {
+                  "title": "Spray preventivo di rame alla fine dell'inverno e all'inizio della primavera"
+                },
+                {
+                  "title": "Potare per il flusso d'aria"
+                },
+                {
+                  "title": "Rimuovi gli alberi gravemente malati che non si riprenderanno"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Macchie marroni che si asciugano e cadono, lasciando piccoli buchi",
+        "symptomAnalysis": "Cause da una combinazione di funghi (*Wilsonomyces carpophilus*) e batteri. Comune sugli alberi da frutto a guscio duro - ciliegio, pesca, albicocca, prugna - e sulle lauri e su alcuni ornamentali. Cresce bene in climi caldi e umidi.\n\nI danni sono per lo più estetici ma possono causare una significativa defoliazione negli anni difficili. Non uccide le piante direttamente ma le indebolisce.",
+        "treatment": {
+          "groups": [
+            {
+              "label": "Per casi lievi",
+              "steps": [
+                {
+                  "title": "Rimuovi immediatamente le foglie malate, in condizioni di tempo secco"
+                },
+                {
+                  "title": "Raccolta della foglia caduta"
+                }
+              ]
+            },
+            {
+              "label": "Per casi gravi (molti buchi, caduta delle foglie)",
+              "steps": [
+                {
+                  "title": "Strizzare le foglie malate e macinare i detriti"
+                },
+                {
+                  "title": "Applicare il fungicida al rame settimanalmente durante i danni primaverili"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "L20": {
+        "homeRemedies": [
+          {
+            "ingredients": [
+              {
+                "name": "bicarbonato di sodio",
+                "quantity": "1 cucchiaino"
+              },
+              {
+                "name": "Sapone per piatti",
+                "quantity": "1 cucchiaino"
+              },
+              {
+                "name": "acqua",
+                "quantity": "1 gallone"
+              }
+            ]
+          },
+          {
+            "ingredients": [
+              {
+                "name": "latte",
+                "quantity": "1 parte"
+              },
+              {
+                "name": "acqua",
+                "quantity": "9 parti"
+              }
+            ]
+          },
+          {
+            "ingredients": [
+              {
+                "name": "aspirina",
+                "quantity": "1 compresse"
+              },
+              {
+                "name": "acqua",
+                "quantity": "1 gallone"
+              },
+              {
+                "name": "Sapone per piatti",
+                "quantity": "Qualche goccia"
+              }
+            ]
+          }
+        ],
+        "name": "Fungo di polvere",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Scegli varietà resistenti alla muffa"
+                },
+                {
+                  "title": "Spazio ampio per il flusso d'aria"
+                },
+                {
+                  "title": "Irrigazione a goccia"
+                },
+                {
+                  "title": "Rimuovi i detriti prima dell'inverno"
+                },
+                {
+                  "title": "Spray preventivo sulle piante suscettibili"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Rivestimento in polvere bianca sulla superficie della foglia, si pulisce via con un panno",
+        "symptomAnalysis": "Una famiglia di funghi che colpisce la maggior parte delle piante. Inusualmente per un fungo, prospera in condizioni calde e secche con notti umide, opposte alla maggior parte delle malattie. La metà o la fine dell'estate è la stagione di picco. La polvere bianca è il fungo che cresce sulla superficie, non penetrando nelle foglie.\n\nRaramente uccide l'ospite, ma riduce il vigore e la resa. I casi gravi distorcono le foglie e i frutti.\n\nPer la muffa grigia sulle frutta, vedere [FR06](../04_fruits/powdery-mildew-fruit.md).",
+        "treatment": {
+          "groups": [
+            {
+              "label": "Per casi lievi o isolati",
+              "steps": [
+                {
+                  "title": "Tagliare le foglie e i gambi interessati"
+                },
+                {
+                  "title": "Apri il flusso d'aria con la potatura selettiva"
+                }
+              ]
+            },
+            {
+              "label": "Per casi diffusi",
+              "steps": [
+                {
+                  "title": "Trimma i rami fortemente danneggiati"
+                },
+                {
+                  "title": "Applicare il fungicida al rame settimanalmente"
+                },
+                {
+                  "title": "Sposta le piante in vaso in un posto più luminoso e soleggiato"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "L21": {
+        "name": "Muffo fuliginoso",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "body": "Il muffo è un sintomo a valle.",
+                  "title": "Trattare i succhiasaponi non appena appaiono"
+                },
+                {
+                  "title": "Non fertilizzare in eccesso"
+                },
+                {
+                  "title": "Incoraggiare i predatori naturali"
+                },
+                {
+                  "title": "Blocca le formiche sui tronchi degli alberi con nastro adesivo appiccicoso: proteggono gli insetti dannosi che producono melata dalle predatori"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Rivestimento nero simile alla fuliggine sulle foglie sotto i succhiasapori",
+        "symptomAnalysis": "Il muffo fuliginoso è causato dalle spore fungine nell'aria che atterrano sulla melassa appiccicosa secreta dagli insetti succhiatori di sapa, come afidi, moscerini bianchi, acari, coccinelle. Il fungo si nutre della melassa, non della pianta. È inoffensive per la pianta direttamente, ma lo strato nero blocca la luce solare e riduce la fotosintesi.\n\nIl vero problema non è il muffo; è l'infestazione da insetti che crea il melassame. Trattare i parassiti, il muffo scompare con la prossima pioggia.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "body": "- Afidi → [P02](../02_pests/aphids.md) - Moscerini bianchi → [P15](../02_pests/whiteflies.md) - Scalini → [P03](../02_pests/scale-insects.md) - Cecidie → [P04](../02_pests/mealybugs.md)",
+                  "title": "**Identificare e trattare il parassita sottostante** — vedere l'articolo pertinente in [02_pests/](../02_pests/):"
+                },
+                {
+                  "title": "Pulire le foglie con un panno umido e saponoso per rimuovere il muffo visibile"
+                },
+                {
+                  "title": "Una forte spruzzata d'acqua risciacqua sia i parassiti che i residui"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "L22": {
+        "name": "ruggine",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Acquista varietà resistenti alla ruggine"
+                },
+                {
+                  "title": "Ispeziona le nuove piante per individuare macchie arancioni"
+                },
+                {
+                  "title": "Irrigazione a goccia al mattino"
+                },
+                {
+                  "title": "Spazio ampio"
+                },
+                {
+                  "title": "Mulch pesantemente"
+                },
+                {
+                  "title": "Rimuovi i detriti in autunno"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Pustule sollevate arancioni o marroni rosati sulle foglie",
+        "symptomAnalysis": "La ruggine è causata da migliaia di specie fungine diverse nell'ordine *Pucciniales*. Crescono bene in condizioni calde e umide. Le spore si diffondono con il vento e l'acqua. La maggior parte delle ruggini ha cicli di vita complessi che coinvolgono due piante ospiti.\n\nUccide raramente, ma indebolisce le piante e riduce la resa. Comune su rose, columbine, petunie, fagioli, narcisi, ginestre, mele, pere.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Tagliare le foglie arrugginite"
+                },
+                {
+                  "title": "Applicare il fungicida al rame settimanalmente"
+                },
+                {
+                  "title": "Smettila immediatamente di annaffiare dall'alto"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "L23": {
+        "homeRemedies": [
+          null,
+          {
+            "ingredients": [
+              {
+                "name": "bicarbonato di sodio",
+                "quantity": "1 cucchiaino"
+              },
+              {
+                "name": "Sapone per piatti",
+                "quantity": "1 cucchiaino"
+              },
+              {
+                "name": "acqua",
+                "quantity": "1 gallone"
+              }
+            ]
+          }
+        ],
+        "name": "Mucor grigio (botrytis)",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Spazio ampio per il flusso d'aria"
+                },
+                {
+                  "title": "Nessun acqua in eccesso"
+                },
+                {
+                  "title": "Fai attenzione a non ferire le piante: le ferite invitano il fungo"
+                },
+                {
+                  "title": "Sterilizzare gli attrezzi da giardino"
+                },
+                {
+                  "title": "Cobre preventivo all'inizio della primavera sulle piante suscettibili"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Mucor grigio-bruno peloso su foglie danneggiate o bagnate",
+        "symptomAnalysis": "Cause da *Botrytis cinerea*, un fungo comune che predilige condizioni fresche, umide e stabili. Si nutre prima dei tessuti morti e danneggiati, poi si sposta nei tessuti sani. Le spore si diffondono tramite schizzi d'acqua e vento.\n\nFragole, peonie, rose, lattuga e molte piante ornamentali sono ospiti comuni. Spesso chiamata \"morte nobile\" sui vigneti utilizzati per i vini dolci, ma sulla maggior parte delle piante è dannosa.\n\nPer la botricosi sulle fioriture vedere [FL05 — Malattia delle petali](../06_flowers/petal-blight.md).",
+        "treatment": {
+          "groups": [
+            {
+              "label": "Per casi lievi",
+              "steps": [
+                {
+                  "title": "Tagliare il tessuto interessato fino a raggiungere il legno pulito"
+                },
+                {
+                  "title": "Sterilizzare tra i tagli"
+                },
+                {
+                  "title": "Mulch per fermare lo spruzzo di spore"
+                }
+              ]
+            },
+            {
+              "label": "Per casi gravi",
+              "steps": [
+                {
+                  "title": "Rimuovi tutto il tessuto interessato"
+                },
+                {
+                  "title": "Pulire tutti i detriti intorno alla pianta"
+                },
+                {
+                  "title": "Applicare il fungicida al rame ogni 1-2 settimane"
+                },
+                {
+                  "title": "Lascia asciugare la pianta tra un'irrigazione e l'altra"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "L24": {
+        "name": "Danno da succhiamento di sapa",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Ispezionare le nuove piante per segni di macchie e sottofondo"
+                },
+                {
+                  "title": "Non fertilizzare eccessivamente con azoto"
+                },
+                {
+                  "title": "Mantenere l'habitat per gli insetti predatori"
+                },
+                {
+                  "title": "Pulire erbacce e detriti"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Piccoli punti maculati densi gialli o bianchi",
+        "symptomAnalysis": "Provocato da insetti succhiatori di sapa - afidi, pulci bianche, lepidotteri, lumache di seta, acari, pulci di farina, thrips - che perforano il tessuto fogliare e succhiano il contenuto cellulare. Ogni puntura lascia un piccolo punto pallido (\"stippling\"). Con molti alimentatori, i punti si fondono in un aspetto bronzato o argentato.\n\nLe foglie non uccidono la pianta direttamente, ma la macchia la indebolisce e molti di questi insetti diffondono anche i virus delle piante.\n\nQuesta voce copre il sintomo delle foglie. Per il parassita specifico che lo causa, vedere [02_pests/](../02_pests/).",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "body": "Corrispondenza con: - Piccoli punti + ragnatele → [P05 — Acari ragni](../02_pests/spider-mites.md) - Corpi morbidi a forma di pera raggruppati → [P02 — Afidi](../02_pests/aphids.md) - Mosche bianche simili a falene → [P15 — Mosche bianche](../02_pests/whiteflies.md) - Ali a pizzo con punti neri sotto → [P11 — Mosche a pizzo](../02_pests/lace-bugs.md) - Saltatori a forma di forbice → [P12 — Acari fogliare](../02_pests/leafhoppers.md) - Produttori di strisce argentate sottili → [P10 — Thrips](../02_pests/thrips.md)",
+                  "title": "**Identifica il parassita** - capovolgi le foglie e cerca piccoli insetti sotto le foglie o nelle articolazioni"
+                },
+                {
+                  "title": "Spruzza i parassiti con l'idropulitrice"
+                },
+                {
+                  "title": "Sapone insetticida"
+                },
+                {
+                  "title": "Rilascia le coccinelle e le libellule"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "P01": {
+        "name": "Caterpillar",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Copri le piante con una rete prima che arrivino gli adulti"
+                },
+                {
+                  "title": "Controlla regolarmente le sottofoglie per individuare gruppi di piccoli uova"
+                },
+                {
+                  "title": "Incoraggia vespe parassitarie e uccelli"
+                },
+                {
+                  "title": "Pulire i detriti dove le pupae trascorrono l'inverno"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Larve masticanti simili a vermi di falene e farfalle",
+        "symptomAnalysis": "Le coccinelle masticano buchi irregolari nelle foglie e possono sbucciare la foglia fino alle vene nere. Alcune si specializzano su certe piante (coccina bianca sulle brassicacee, falena del pomodoro). La maggior parte è attiva in primavera e estate; alcune specie si nutrono in autunno e inverno.\n\nPotresti vedere foglie masticate, pellet fecali scuri (\"frass\") e le stesse larve sui lati inferiori delle foglie.",
+        "treatment": {
+          "groups": [
+            {
+              "label": "Per casi lievi",
+              "steps": [
+                {
+                  "title": "Selezionare a mano le larve nell'acqua saponata"
+                },
+                {
+                  "title": "Potare le foglie gravemente danneggiate"
+                }
+              ]
+            },
+            {
+              "label": "Per casi gravi",
+              "steps": [
+                {
+                  "title": "Applicare Bt"
+                },
+                {
+                  "title": "Rilasciare vespe parassitarie"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "P02": {
+        "homeRemedies": [
+          null,
+          {
+            "ingredients": [
+              {
+                "name": "Sapone per piatti",
+                "quantity": "1 cucchiaino"
+              },
+              {
+                "name": "acqua",
+                "quantity": "1 gallone"
+              }
+            ]
+          }
+        ],
+        "name": "Afidi",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Quarantena e ispezione delle nuove piante"
+                },
+                {
+                  "title": "Pulire le erbacce vicine"
+                },
+                {
+                  "title": "Mantenere l'habitat per le coccinelle e le libellule a lunula"
+                },
+                {
+                  "title": "Non fertilizzare eccessivamente con azoto: una nuova crescita morbida attira le afidi"
+                },
+                {
+                  "title": "Ispeziona la nuova crescita spesso; catturala presto"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Sorbenti morbidi a forma di pera, spesso verdi o neri",
+        "symptomAnalysis": "Le afidi perforano il tessuto vegetale e succhiano il nettare. Le infestazioni pesanti appassiscono la nuova crescita, distorcono le foglie e rallentano la crescita della pianta. Escretono una melassa appiccicosa che goccia sulle foglie inferiori e cresce in nero [ muffa fuliginosa](../01_leaves/sooty-mold.md). Un'attività pesante delle formiche è un indizio: le formiche allevano le afidi per il nettare.\n\nLe afidi si riproducono estremamente velocemente (nascita vivace, non sono necessarie uova nella stagione di crescita). Un piccolo gruppo diventa un'infestazione in pochi giorni. Diffondono anche virus delle piante.",
+        "treatment": {
+          "groups": [
+            {
+              "label": "Per casi lievi",
+              "steps": [
+                {
+                  "title": "Sfreccia via con un forte getto d'acqua"
+                },
+                {
+                  "title": "Pulire i cluster con un panno umido e saponato"
+                }
+              ]
+            },
+            {
+              "label": "Per casi gravi",
+              "steps": [
+                {
+                  "title": "Sapone insetticida sulle sottofoglie"
+                },
+                {
+                  "title": "Olio di neem per infestazioni persistenti"
+                },
+                {
+                  "title": "Rilascia le coccinelle e le libellule"
+                },
+                {
+                  "title": "Tagliare le punte fortemente infestate"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "P03": {
+        "homeRemedies": [
+          null,
+          {
+            "ingredients": [
+              {
+                "name": "Sapone per piatti",
+                "quantity": "1 cucchiaino"
+              },
+              {
+                "name": "acqua",
+                "quantity": "1 gallone"
+              }
+            ]
+          }
+        ],
+        "name": "Insetti acari",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Ispeziona ogni nuova pianta attentamente"
+                },
+                {
+                  "title": "Mantieni le piante sane"
+                },
+                {
+                  "title": "Ispeziona le piante d'appartamento mensilmente, concentrandoti sulle sottofoglie e sulle giunzioni del fusto"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Bump rigidi o morbidi di 2-3 mm attaccati a foglie e steli",
+        "symptomAnalysis": "Gli insetti scale si nutrono di siringa. Una volta attaccati, non si muovono più per tutta la vita. La loro dura o morbida conchiglia cerosa li protegge da spruzzi e predatori. Le infestazioni pesanti causano il giallo delle foglie, la caduta e la morte delle stesse.\n\nLa fase di crawler (nuovamente schiuse, prima di ancorarsi) è l'unica fase mobile e l'unica fase facile da uccidere con spruzzi. Potrebbe essere presente melassa appiccicosa, che porta a muffe secondarie [di fuliggine](../01_leaves/sooty-mold.md).",
+        "treatment": {
+          "groups": [
+            {
+              "label": "Per casi lievi",
+              "steps": [
+                {
+                  "title": "Pulire le squame con un panno umido"
+                },
+                {
+                  "title": "Tagliare gli rami fortemente infestati"
+                }
+              ]
+            },
+            {
+              "label": "Per casi gravi",
+              "steps": [
+                {
+                  "title": "Olio di neem"
+                },
+                {
+                  "title": "Insetticida sistemico per ragni"
+                },
+                {
+                  "title": "Le coccinelle si nutrono di squame all'aperto"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "P04": {
+        "name": "Cimici grasse",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Quarantena e ispeziona le nuove piante per almeno 2 settimane"
+                },
+                {
+                  "title": "Non fertilizzare eccessivamente con azoto"
+                },
+                {
+                  "title": "Ispezionare le giunzioni delle foglie e le basi mensilmente sulle piante d'appartamento"
+                },
+                {
+                  "title": "Pulire i detriti intorno alla base"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Piccoli insetti bianchi polverosi di 1-2 mm nelle giunzioni delle foglie",
+        "symptomAnalysis": "Le coccinelle sono succhiasapori a forma di scaglie che si coprono di una pellicola bianca e resinosa che repelle l'acqua e molti spruzzi. Vivono in gruppi e si nascondono in punti protetti: giunzioni delle foglie, superficie del terreno, crepe dello stelo. Il melassame porta al [mucor fuliginoso](../01_leaves/sooty-mold.md).\n\nUn insetto comune che infesta le piante d'appartamento, specialmente su succulenti, orchidee e piante tropicali.",
+        "treatment": {
+          "groups": [
+            {
+              "label": "Per casi lievi",
+              "steps": [
+                {
+                  "title": "Pulire con un panno saponato"
+                },
+                {
+                  "title": "Spruzza piante robuste con un forte getto d'acqua da tubo"
+                }
+              ]
+            },
+            {
+              "label": "Per casi gravi",
+              "steps": [
+                {
+                  "title": "Sapone insetticida"
+                },
+                {
+                  "title": "Olio di neem"
+                },
+                {
+                  "title": "Sistemico se i trattamenti superficiali falliscono"
+                },
+                {
+                  "title": "Il distruttore di pulci di grano (Cryptolaemus) è un predatore specializzato"
+                },
+                {
+                  "title": "Per le piante d'appartamento fortemente infestate, butta via piuttosto che rischiare l'intera collezione"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "P05": {
+        "homeRemedies": [
+          null,
+          {
+            "ingredients": [
+              {
+                "name": "Sapone per piatti",
+                "quantity": "1 cucchiaino"
+              },
+              {
+                "name": "acqua",
+                "quantity": "1 gallone"
+              }
+            ]
+          }
+        ],
+        "name": "Acari del ragno",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Mantieni l'umidità superiore al 40% all'interno"
+                },
+                {
+                  "title": "Ispezionare le nuove piante per individuare macchie e intrecci"
+                },
+                {
+                  "title": "Non fertilizzare in eccesso"
+                },
+                {
+                  "title": "Spruzzare le piante con acqua tiepida periodicamente per interrompere le popolazioni di acari"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Piccole acari rossi o gialli, sottili teli",
+        "symptomAnalysis": "Le mite del ragno (tecnicamente aracnidi) sono a malapena visibili, circa 1/50 di pollice. Si nutrono della parte inferiore delle foglie, succhiando il contenuto delle cellule e lasciando minuscoli punti pallidi chiamati \"stippling\". Le infestazioni pesanti si formano ragnatele sulla parte inferiore e sulle giunzioni delle foglie.\n\nSi sviluppano bene in condizioni calde, secche e polverose e si riproducono in modo esplosivo (una generazione ogni 5-7 giorni in tempo caldo). All'interno, sono più attivi in inverno quando il riscaldamento domestico asciuga l'aria.",
+        "treatment": {
+          "groups": [
+            {
+              "label": "Per casi lievi",
+              "steps": [
+                {
+                  "title": "Forte spruzzo d'acqua, concentrato sulle parti inferiori"
+                },
+                {
+                  "title": "Aumenta l'umidità intorno alle piante d'appartamento"
+                }
+              ]
+            },
+            {
+              "label": "Per casi gravi",
+              "steps": [
+                {
+                  "title": "Sapone insetticida, sulle sottofoglie"
+                },
+                {
+                  "title": "Olio di neem"
+                },
+                {
+                  "title": "I mite predatori (*Phytoseiulus persimilis*) lavorano all'aperto"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "P06": {
+        "name": "Colibrini delle foglie",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Coperture a riga dalla piantagione fino alla fioritura"
+                },
+                {
+                  "title": "Pulire i detriti dove gli adulti trascorrono l'inverno"
+                },
+                {
+                  "title": "Incoraggia i predatori naturali con piantagioni diverse"
+                },
+                {
+                  "title": "La rotazione delle colture interrompe i cicli di vita dei coleotteri"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Collembri ovali 1-20 mm che masticano buchi irregolari",
+        "symptomAnalysis": "Una vasta famiglia (*Chrysomelidae*) di scarafaggi che masticano le foglie. Colpiscono la maggior parte delle piante da giardino e possono defoliare rapidamente. Molti si nutrono anche di fiori, steli e radici. Più attivi dalla primavera all'autunno. Passano l'inverno come adulti sotto la corteccia, le foglie e i detriti.\n\nAlcune specie (colibrini dei cetrioli, coleotteri della patata del Colorado, coleotteri dei pulci) sono importanti parassiti del giardino; altre causano solo danni estetici minori.",
+        "treatment": {
+          "groups": [
+            {
+              "label": "Per casi lievi",
+              "steps": [
+                {
+                  "title": "Prendere a mano nell'acqua saponata (pomeriggio, quando è più attivo)"
+                },
+                {
+                  "title": "Copri le piante con la copertura a righe"
+                }
+              ]
+            },
+            {
+              "label": "Per casi gravi",
+              "steps": [
+                {
+                  "title": "Olio di neem"
+                },
+                {
+                  "title": "Piretrina la sera per proteggere le api"
+                },
+                {
+                  "title": "Incoraggia gli uccelli e le vespe con diverse piantagioni"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "P07": {
+        "name": "Vespidi delle foglie",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Ispezionare i giovani alberi prima della piantumazione"
+                },
+                {
+                  "title": "Immergere le radici dei giovani alberi a radice nuda in un insetticida sistemico prima di piantarli in aree fortemente infestate"
+                },
+                {
+                  "title": "Piante giovani coltivate in contenitori di quarantena che mostrano danni"
+                },
+                {
+                  "title": "Sgomberare i detriti sul terreno sotto gli alberi interessati"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Colibrini pesantemente corazzati con margini di foglie masticate",
+        "symptomAnalysis": "Il bruco verde pallido (*Polydrusus impressifrons*) e specie simili si nutrono dei bordi delle foglie degli alberi di legno duro: betulla, acero, salice, pioppo, alberi da frutto. I danni si manifestano alla fine della primavera e all'inizio dell'estate. I larve appena schiuse si nutrono delle giovani radici vicino alla linea del suolo.\n\nI coleotteri adulti hanno un breve periodo di alimentazione (poche settimane), quindi gli alberi maturi di solito si riprendono dai danni. Gli alberi giovani e i piantine sono a rischio maggiore.",
+        "treatment": {
+          "groups": [
+            {
+              "label": "Per infestazioni gravi su giovani piantine",
+              "steps": [
+                {
+                  "title": "Spray fogliare alla piretrina"
+                },
+                {
+                  "title": "Applicare insetticida sistemico"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "P08": {
+        "name": "Colibrini a corna lunghe",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "body": "Gli alberi stressati attirano i coleotteri.",
+                  "title": "Mantieni gli alberi sani: annaffia, fertilizza e evita ferite"
+                },
+                {
+                  "title": "Non spostare legna da ardere tra le regioni: questo è il modo comune in cui si diffonde il cervo asiatico dalle corna lunghe."
+                },
+                {
+                  "title": "Ispeziona i nuovi alberi per verificare la presenza di fori da trapano o polvere di legno"
+                },
+                {
+                  "title": "Potate il legno morto e in via di morte prontamente in modo che i coleotteri non si stabiliscano"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Colibrini con lunghe antenne che forano i tronchi legnosi",
+        "symptomAnalysis": "I coleotteri Longhorn (*famiglia Cerambycidae*) sono insetti che infettano il legno. Gli adulti depongono le uova sulla corteccia; i larve schiudono e scavano un tunnel nel tronco per nutrirsi del legno vivente per 1-3 anni. Il tunnelamento interrompe il flusso d'acqua e di nutrienti dell'albero. Segni visibili: piccoli fori di uscita rotondi, paglia di legno alla base del tronco, rami che muoiono dalla parte superiore.\n\nPreferiscono legni duri feriti, stressati o appena tagliati. Alcune specie asiatiche sono parassiti introdotti di grande preoccupazione (colibrì asiatico, coleottero asiatico a corna lunghe).",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Applicare un insetticida sistemico agli alberi ad alto valore per etichetta"
+                },
+                {
+                  "title": "Potare e bruciare rami fortemente infestati in condizioni di tempo secco"
+                },
+                {
+                  "title": "Segnala i ritrovamenti di scarafaggi asiatici a lunga corna alla tua agenzia di estensione agricola locale: è un'invasore regolamentato negli Stati Uniti."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "P09": {
+        "name": "Lumache e lumache",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Elimina i nascondigli"
+                },
+                {
+                  "title": "La nastro di rame forma una barriera che le lumache non attraverseranno: avvolgi i vasi e i letti a gradini."
+                },
+                {
+                  "title": "Acqua al mattino così le piante sono asciutte entro la sera"
+                },
+                {
+                  "title": "Incoraggiare i predatori naturali (rane, anatre, scarafaggi terrestri)"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Molluschi morbidi che masticano foglie di notte",
+        "symptomAnalysis": "I lumache si nutrono principalmente di notte e nei giorni nuvolosi o piovosi, nascondendosi sotto tavole, rocce e foglie dense durante il giorno. Preferiscono le condizioni umide e possono divorare completamente i germogli. Le uova vengono deposte in gruppi nel terreno umido.\n\nUn piccolo numero va bene; una popolazione può decimare un orto o un letto di hosta in una settimana.",
+        "treatment": {
+          "groups": [
+            {
+              "label": "Per casi lievi",
+              "steps": [
+                {
+                  "title": "Raccolta manuale di notte con una torcia"
+                },
+                {
+                  "title": "Zone di nascondiglio chiare: tavole, pietre, copertura vegetale densa"
+                },
+                {
+                  "body": "Sollevali al mattino per trovare lumache che si nascondono sotto.",
+                  "title": "Metti piccoli tavoli nel giardino come trappole"
+                }
+              ]
+            },
+            {
+              "label": "Per casi gravi",
+              "steps": [
+                {
+                  "body": "Spalmare intorno alle piante la sera.",
+                  "title": "Il cebo per lumache al fosfato di ferro (venduto come Sluggo, Escar-Go) è più sicuro per animali domestici e uccelli rispetto ai cibi a base di metaldialdeide."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "P10": {
+        "homeRemedies": [
+          {
+            "ingredients": [
+              {
+                "name": "Sapone per piatti",
+                "quantity": "1 cucchiaino"
+              },
+              {
+                "name": "acqua",
+                "quantity": "1 gallone"
+              }
+            ]
+          }
+        ],
+        "name": "tripide",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Ispeziona le nuove piante per strisce argentate"
+                },
+                {
+                  "title": "Potare rami e foglie morte"
+                },
+                {
+                  "title": "Pulire erbacce e detriti"
+                },
+                {
+                  "title": "Mantenere l'habitat per gli insetti predatori"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Piccoli e sottili produttori di strisce argentate in movimento rapido da 1-2 mm",
+        "symptomAnalysis": "I trips hanno parti della bocca ruvide che raschiano le cellule delle piante e succhiano il contenuto, lasciando cicatrici argentate e un aspetto pallido a macchie. Si nascondono nei germogli e nelle articolazioni delle foglie. Le infestazioni pesanti distorcono le foglie e danneggiano i fiori e i frutti in via di sviluppo.\n\nI trips sono vettori per diversi virus vegetali, quindi anche una piccola popolazione può causare malattie secondarie.",
+        "treatment": {
+          "groups": [
+            {
+              "label": "Per casi lievi",
+              "steps": [
+                {
+                  "title": "Spray d'acqua forte"
+                },
+                {
+                  "title": "Trappole adesive gialle o blu catturano gli adulti in volo"
+                }
+              ]
+            },
+            {
+              "label": "Per casi gravi",
+              "steps": [
+                {
+                  "title": "Spray di piretrina"
+                },
+                {
+                  "title": "Sapone insetticida sulle sottofoglie"
+                },
+                {
+                  "title": "Rilascia minuti di insetti pirati e mosche a pizzo"
+                },
+                {
+                  "title": "Scartare gli esemplari fortemente infestati"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "P11": {
+        "homeRemedies": [
+          {
+            "ingredients": [
+              {
+                "name": "Sapone per piatti",
+                "quantity": "1 cucchiaino"
+              },
+              {
+                "name": "acqua",
+                "quantity": "1 gallone"
+              }
+            ]
+          }
+        ],
+        "name": "Insetti a pizzo",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Ispezionare le nuove piante"
+                },
+                {
+                  "title": "Mantieni le piante ben annaffiate e nutriti"
+                },
+                {
+                  "title": "Sposta le piante stressate dal calore in ombra parziale"
+                },
+                {
+                  "title": "Pulire i detriti dove si nascondono gli adulti che sopravvivono all'inverno"
+                },
+                {
+                  "title": "Ispezionare alla fine della primavera prima che le popolazioni raggiungano il picco"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Succhiasaponi a ali a pizzo, macchie bianche sulle foglie",
+        "symptomAnalysis": "I coleotteri a pizzo usano parti della bocca simili a aghi per succhiare nutrienti dall'inferiore della foglia, causando macchie pallide sulla superficie superiore. Lasciano gruppi di escrementi neri simili al tar su fondo foglia. Più comuni a metà o fine estate al picco della popolazione.\n\nI danni sono per lo più estetici, ma le infestazioni gravi indeboliscono le piante e le rendono vulnerabili ad altri parassiti e malattie. Obiettivi comuni: azalee, rododendri, sicomori, querce, lantana.",
+        "treatment": {
+          "groups": [
+            {
+              "label": "Per casi lievi",
+              "steps": [
+                {
+                  "title": "Spray d'acqua forte sotto le foglie"
+                },
+                {
+                  "title": "Pulire con un panno saponato"
+                }
+              ]
+            },
+            {
+              "label": "Per casi gravi",
+              "steps": [
+                {
+                  "title": "Sapone insetticida, concentrato sulle sottofoglie delle foglie"
+                },
+                {
+                  "title": "Le libellule a pizzo, le coccinelle e i coleotteri assassini si nutrono di libellule a pizzo"
+                },
+                {
+                  "title": "Per infestazioni gravi su piccole piante: [S04](../shared/treatment-steps.md#s04-prune-infected-leaves-and-stems) — potare e bruciare i rami fortemente colpiti"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "P12": {
+        "name": "Cicadelle",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Le coperture a righe proteggono le giovani piante"
+                },
+                {
+                  "title": "Rimuovi i detriti del giardino in autunno per impedire ai siti di invernare."
+                },
+                {
+                  "title": "Incoraggia i predatori naturali con piantagioni diverse"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Maglioni a forma di forbice, leggeri specchiamenti sulle foglie",
+        "symptomAnalysis": "Le cimici si nutrono del siero delle piante provenienti da foglie, steli e steli di nuovi germogli. Un forte apporto di cibo provoca la arricciatura delle foglie, il giallo (\"bruciatura delle cimici\") e una crescita ritardata. Saltano o volano via quando vengono disturbati. Ospiti comuni: fagioli, mais, lattuga, barbabietole, patate, uva, rose.\n\nCome i trips, le cimici d'acero trasmettono malattie virali e batteriche tra le piante, a volte più dannose dell'insetto stesso.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Sapone insetticida"
+                },
+                {
+                  "title": "Piretrina o azadirachtina per casi gravi"
+                },
+                {
+                  "title": "Lucertole a piume e coccinelle"
+                },
+                {
+                  "title": "Copri le giovani piante con teli da copertura a righe"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "P13": {
+        "name": "Lepidi Tortrix",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Ispeziona le nuove piante per foglie arrotolate"
+                },
+                {
+                  "title": "Pulire i detriti vegetali dove le pupae trascorrono l'inverno"
+                },
+                {
+                  "title": "Incoraggia vespe parassitarie e uccelli"
+                },
+                {
+                  "title": "Trappole a feromoni della prima stagione"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Le farfalle di bruco avvolgono le foglie in tubi di seta",
+        "symptomAnalysis": "Le larve della falena Tortrix (roller di foglie) arrotolano le foglie intorno a sé e le stringono con la seta, poi si nutrono dall'interno del tubo protetto. Si nutrono anche di frutta, a volte tessendo la frutta alle foglie. Molte specie; si trovano su frutta, verdura e ornamentali. Più attive dalla fine della primavera all'inizio dell'autunno.\n\nLe popolazioni di serre possono essere presenti tutto l'anno.",
+        "treatment": {
+          "groups": [
+            {
+              "label": "Per casi lievi",
+              "steps": [
+                {
+                  "title": "Tagliare via le foglie arrotolate"
+                },
+                {
+                  "title": "Le trappole a feromoni catturano i maschi e interrompono la riproduzione"
+                }
+              ]
+            },
+            {
+              "label": "Per casi gravi",
+              "steps": [
+                {
+                  "title": "Applicare Bacillus thuringiensis (Bt)"
+                },
+                {
+                  "title": "Lo Spinosad è efficace per infestazioni persistenti secondo l'etichetta"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "P14": {
+        "name": "Minatori di foglie",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Coperture per le file dalla fase di piantagione"
+                },
+                {
+                  "title": "Pulire le erbacce e le vecchie foglie dove si riproducono i minatori"
+                },
+                {
+                  "title": "Ispezionare le nuove piante"
+                },
+                {
+                  "title": "Evita i pesticidi a ampio spettro: uccidono le vespe parassitarie che controllano naturalmente i minatori"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Larve di mosca che scavano strisce bianche all'interno delle foglie",
+        "symptomAnalysis": "I mineratori di foglie sono minuscole larve di mosca, farfalla o scarabeo che scavano tunnel tra le strati superiori e inferiori di una foglia, mangiando il tessuto molle all'interno. Le tracce visibili sono i tunnel vuoti che lasciano dietro di sé. La mosca adulta depone le uova tra gli strati della foglia; le larve schiuse si nutrono per 1-3 settimane e poi cadono per pupare nel terreno.\n\nDanni cosmici sulla maggior parte degli ornamentali; danni significativi sulle verdure commestibili (spinaci, bietole, barbabietole).",
+        "treatment": {
+          "groups": [
+            {
+              "label": "Per casi lievi",
+              "steps": [
+                {
+                  "title": "Spremi le foglie con le miniere attive e buttale via"
+                }
+              ]
+            },
+            {
+              "label": "Per casi gravi",
+              "steps": [
+                {
+                  "title": "Olio di neem"
+                },
+                {
+                  "title": "Lo spray Spinosad (venduto come Entrust) per etichetta è efficace sui minerari"
+                },
+                {
+                  "title": "Le vespe parassitarie depongono le uova all'interno delle larve dei minerali"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "P15": {
+        "name": "Moscerini bianchi",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Quarantena le nuove piante per 2 settimane"
+                },
+                {
+                  "title": "Coperture per file"
+                },
+                {
+                  "title": "Trappole adesive gialle come strumento di monitoraggio all'interno"
+                },
+                {
+                  "title": "Elimina le erbacce dove le pulci bianche trascorrono l'inverno"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Piccole mosche bianche simili a falene sotto le foglie, nettare",
+        "symptomAnalysis": "Le pulci bianche sono succhiatrici di sapa come le afidi e le coccinelle, con gli stessi effetti: foglie gialle, crescita distorta, melassa e follow-up [ muffa fuliginosa](../01_leaves/sooty-mold.md). Sono comuni su pomodori, peperoni, melanzane, hibisco e molte piante d'appartamento.\n\nOgni adulto depone centinaia di uova sulle sottofoglie. Le ninfa sono squame ovali piatte, quasi traslucide, incollate alla foglia. Le infestazioni pesanti si moltiplicano in modo esplosivo nei climi caldi.",
+        "treatment": {
+          "groups": [
+            {
+              "label": "Per casi lievi",
+              "steps": [
+                {
+                  "title": "Spruzzare con l'idropulitrice"
+                },
+                {
+                  "title": "Trappole adesive gialle catturano gli adulti in volo"
+                }
+              ]
+            },
+            {
+              "label": "Per casi gravi",
+              "steps": [
+                {
+                  "title": "Sapone insetticida sulle parti inferiori"
+                },
+                {
+                  "title": "Olio di neem"
+                },
+                {
+                  "title": "Vespie Encarsia formosa per uso in serra"
+                },
+                {
+                  "title": "Butta via una pianta d'appartamento fortemente infestata prima che si diffonda ad altre piante"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "P16": {
+        "name": "Mosche fungine (adulti)",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Il singolo passo più importante"
+                },
+                {
+                  "title": "Strato di sabbia o ghiaia in cima"
+                },
+                {
+                  "title": "Ispezionare il nuovo terreno della pianta per adulti o larve"
+                },
+                {
+                  "title": "Sterilizzare il terreno di coltivazione prima dell'uso se si conservano sacchetti parzialmente usati"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Moscerini neri che si aggirano vicino al terreno delle piante da interno",
+        "symptomAnalysis": "Le mosche fungine adulte sono piccole (1/8 pollici), nere e simili a mosche. Sono volatori deboli e tendono a camminare sulle superfici del terreno. Gli adulti non danneggiano direttamente le piante, ma ogni femmina depone circa 200 uova nel terreno umido e le larve si nutrono dei delicati peli radicali. Vedi [R07](../05_roots/fungus-gnat-larvae.md) per i danni larvali/radici.\n\nComune in qualsiasi pianta d'appartamento tenuta troppo bagnata, specialmente in piantine, felci e piante tropicali.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Lascia asciugare il terreno superficiale tra un'irrigazione e l'altra"
+                },
+                {
+                  "title": "Solo acqua di fondo"
+                },
+                {
+                  "title": "Coprire con sabbia per bloccare l'accoppiamento."
+                },
+                {
+                  "title": "Trappole adesive gialle posizionate piane o inclinate a livello del suolo catturano gli adulti"
+                },
+                {
+                  "title": "Bt-i (*Bacillus thuringiensis israelensis*, venduto come \"Mosquito Bits\") spolverato sul terreno o immerso in acqua uccide le larve"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "R01": {
+        "homeRemedies": [
+          {
+            "ingredients": [
+              {
+                "name": "3% perossido",
+                "quantity": "1 parte"
+              },
+              {
+                "name": "acqua",
+                "quantity": "3 parti"
+              }
+            ]
+          }
+        ],
+        "name": "Marciazione radicale",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Acqua alla base della pianta"
+                },
+                {
+                  "title": "Lascia asciugare l'ultimo centimetro di terreno prima di ogni annaffiatura"
+                },
+                {
+                  "title": "Usa sempre vasi con fori di drenaggio"
+                },
+                {
+                  "title": "Sterilizzare i vasi prima di riutilizzarli"
+                },
+                {
+                  "title": "Ispezionare le nuove piante prima di integrarle"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Radici nere, appiccicose, puzzolenti; la pianta è appassita nonostante il terreno bagnato",
+        "symptomAnalysis": "Le radici sane sono bianche o marroni scuro e flessibili. Le radici marce sono scure e viscide. Due cause principali: l'irrigazione cronica eccessiva priva le radici dell'ossigeno e muoiono; o un fungo da terreno (Pythium, Phytophthora) diventa attivo nel terreno bagnato e attacca le radici. Una volta che la marcescenza inizia, si diffonde alle radici sane anche dopo che il problema dell'irrigazione è risolto.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Scolare e sciacquare le radici in modo da poter vedere cosa è sano"
+                },
+                {
+                  "title": "Sterilizzare le segaie"
+                },
+                {
+                  "title": "Tagliare via ogni radice nera o appiccicosa, fino al tessuto solido"
+                },
+                {
+                  "title": "Rimuovere dalla vasca e ripiantare in un nuovo mix sterile fresco in una vasca pulita con fori di drenaggio."
+                },
+                {
+                  "title": "Raccogli circa metà delle foglie per ridurre la domanda sul nuovo sistema radicale"
+                },
+                {
+                  "body": "Lascia asciugare i primi 1-2 pollici di terreno tra un'irrigazione e l'altra. Infila un dito per controllare prima di ogni irrigazione. Molti problemi di marciume delle radici e dei gambi risalgono a un terreno cronicamente bagnato. Se più del due terzi delle radici sono andate: *Scartare la pianta gravemente infetta* (vedi 6.1).",
+                  "subSteps": [
+                    {
+                      "title": "Scartare la pianta gravemente infetta"
+                    }
+                  ],
+                  "title": "Aspetta che il terreno superficiale si asciughi prima di annaffiare di nuovo"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "R02": {
+        "name": "Deformità radicolare",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Scegli varietà resistenti ai nematodi (cerca \"VFN\" sui semi di pomodoro)"
+                },
+                {
+                  "title": "Rimuovi le vecchie radici e i detriti"
+                },
+                {
+                  "title": "Rota le colture ogni 3 anni"
+                },
+                {
+                  "title": "Ispeziona le radici delle nuove piante prima di introdurle"
+                },
+                {
+                  "title": "Mantenere le piante ben nutrite e ben annaffiate in modo che resistano alle infezioni"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Radici torcute, nodose o gallate",
+        "symptomAnalysis": "Tre cause usuali:\n1. **Nematodi del nodo radicale** - vermi microscopici che si insinuano nelle radici e innescano galli gonfi.\n2. **Infiammazione batterica o fungina** — produce gonfiore irregolare come risposta allo stress.\n3. **Condizioni fisiche** — il terreno roccioso, compatto o affollato costringe le radici a torcersi attorno agli ostacoli.\n\nNota: piccoli noduli rotondi di radici *sull'apparato radicale* nei legumi (fagioli, piselli) sono batteri benefici che fissano l'azoto, non danno danni. I noduli si staccano facilmente; le galli no.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Scolare e ispezionare"
+                },
+                {
+                  "title": "Tagliare le radici leggermente danneggiate"
+                },
+                {
+                  "title": "Sterilizzare gli strumenti tra un taglio e l'altro"
+                },
+                {
+                  "title": "Rinnovo in un terreno fresco, sciolto e sterile"
+                },
+                {
+                  "body": "Metti uno strato di plastica trasparente sopra il terreno umido del giardino per 4-6 settimane durante la parte più calda dell'anno. Il calore si accumula sotto e uccide nematodi, funghi e semi di erbacce. Se la maggior parte delle radici è deformata: *Scartare la pianta gravemente infetta* (vedi 5.1).",
+                  "subSteps": [
+                    {
+                      "title": "Scartare la pianta gravemente infetta"
+                    }
+                  ],
+                  "title": "Per i letti del giardino con nematodi, sbalza il terreno al sole per 4-6 settimane"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "R03": {
+        "homeRemedies": [
+          {
+            "ingredients": [
+              {
+                "name": "3% perossido",
+                "quantity": "1 parte"
+              },
+              {
+                "name": "acqua",
+                "quantity": "3 parti"
+              }
+            ]
+          },
+          null
+        ],
+        "name": "Mucchio sul terreno",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Evita di mantenere il terreno costantemente umido"
+                },
+                {
+                  "title": "Acqua di fondo se la pianta lo tollera"
+                },
+                {
+                  "title": "Migliora il flusso d'aria all'"
+                },
+                {
+                  "title": "Mantenere uno strato di sabbia o ghiaia in cima"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Peluria bianca o gialla, o funghi, sulla superficie del terreno",
+        "symptomAnalysis": "I funghi saprofiti si nutrono di materia organica morta nel terreno umido. Sono per lo più innocui per le piante, ma segnalano che il terreno rimane troppo bagnato, il che crea problemi maggiori come la marciuma radicale o le mosche fungine. I funghi provengono da spore che sono arrivate nel mix di concime.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Raschiate via la strato superiore appiccicoso e sostituite con sabbia grossolana"
+                },
+                {
+                  "title": "Lascia asciugare il terreno superficiale tra un'irrigazione e l'altra"
+                },
+                {
+                  "title": "Metti in funzione un ventilatore nell'area al chiuso"
+                },
+                {
+                  "title": "Tira fuori i funghi dal gambo e buttali via"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "R04": {
+        "name": "Radici legate al vaso",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Ripotare ogni 1-2 anni per i coltivatori veloci; ogni 2-3 anni per i coltivatori lenti"
+                },
+                {
+                  "body": "I vasi oversize rimangono bagnati troppo a lungo.",
+                  "title": "Scegli un vaso 1-2 dimensioni più grandi della pallina radice attuale, non più grande"
+                },
+                {
+                  "title": "Usa sempre vasi con fori di drenaggio"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Radici che girano intorno al vaso, pianta bloccata o appassita",
+        "symptomAnalysis": "Quando una pianta supera la sua pentola, le radici circondano il muro e poi si ripiegano su se stesse. Il gambo radicale diventa più denso del terreno e l'acqua non può più essere trattenuta, scorre semplicemente lungo il lato. L'assorbimento dei nutrienti diminuisce, la crescita si ferma e la pianta sembra cronicamente setevole anche subito dopo l'irrigazione.\n\nControllo rapido: le radici che crescono fuori dai fori di drenaggio o il terreno che si allontana dal bordo del vaso sono segni chiari.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Scolare la pianta"
+                },
+                {
+                  "body": "Tirali delicatamente verso l'esterno, lontano dalla palla.",
+                  "title": "Usa dita pulite o un cucchiaio per separare le radici che circolano"
+                },
+                {
+                  "title": "Tagliare via tutte le radici morte o arrotondate"
+                },
+                {
+                  "title": "Trasferisci in una pentola di 1-2 dimensioni più grandi"
+                },
+                {
+                  "title": "Riempire con un nuovo mix di terreno per piante"
+                },
+                {
+                  "title": "Innaffia profondamente una volta per stabilizzare il nuovo terreno"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "R05": {
+        "name": "Accumulo di sale",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Sciacquare il terreno ogni 1-3 mesi"
+                },
+                {
+                  "title": "Usa l'acqua piovana o l'acqua distillata se l'acqua del rubinetto è dura o clorata"
+                },
+                {
+                  "body": "Più non è meglio.",
+                  "title": "Fertilizzare alla metà della velocità indicata per le piante d'appartamento"
+                },
+                {
+                  "title": "Saltare l'fertilizzante in inverno quando la crescita rallenta"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Crostina bianca sul terreno, punte delle foglie marroni",
+        "symptomAnalysis": "I sali dei fertilizzanti (e i minerali dell'acqua del rubinetto) si accumulano nel terreno nel tempo. Quando l'acqua evapora, i sali cristallizzano sulla superficie. Le alte concentrazioni di sale danneggiano le punte delle radici, che non riescono quindi ad assorbire l'acqua, e le foglie mostrano bordi marroni croccanti simili a quelli di una siccità anche quando il terreno è umido.\n\nComune nei vasi interni, piante tolleranti la siccità sovrafertilizzate e qualsiasi vaso che non abbia avuto un risciacquo profondo da un anno.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Raschiate via qualsiasi crosta di sale visibile sul terreno e sul bordo del vaso"
+                },
+                {
+                  "title": "Sciacquare il terreno con 4 volte il volume del vaso di acqua pulita"
+                },
+                {
+                  "body": "Tagliare i rami e le foglie interessate con strumenti sterilizzati, tagliando fino al tessuto sano. Mettere i rami tagliati in un sacchetto e gettarli via: non compostare mai materiale malato. Se l'accumulo è grave e la pianta è in difficoltà: *Rimuovere con un terreno fresco e drenaggio* (vedi 3.1).",
+                  "subSteps": [
+                    {
+                      "title": "Rinnovo del vaso con terriccio fresco e drenaggio"
+                    }
+                  ],
+                  "title": "Tagliare le punte delle foglie bruciate per cosmetici"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "R06": {
+        "homeRemedies": [
+          {
+            "ingredients": [
+              {
+                "name": "3% perossido",
+                "quantity": "1 parte"
+              },
+              {
+                "name": "acqua",
+                "quantity": "3 parti"
+              }
+            ]
+          },
+          null,
+          null
+        ],
+        "name": "Assorbimento dell'umidità",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Sterilizzare i vasi per semi prima del riutilizzo"
+                },
+                {
+                  "body": "Non riutilizzare il vecchio terriccio di coltivazione.",
+                  "title": "Usa un miscuglio di semina sterile fresco"
+                },
+                {
+                  "title": "Semina alla profondità indicata sul pacchetto di semi: se se ne seppellisce troppo in profondità, la germinazione viene stressata."
+                },
+                {
+                  "title": "Fornire un flusso d'aria delicato dal primo giorno"
+                },
+                {
+                  "title": "Rimuovi le cupole di umidità dopo che i germogli sono em"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "I germogli crollano alla linea del terreno",
+        "symptomAnalysis": "L'ammaccamento è causato da diversi funghi del suolo (Pythium, Rhizoctonia, Fusarium) che attaccano i sottili steli dei piantine proprio dove incontrano il terreno bagnato. Condizioni che lo favoriscono: temperature fresche, miscela di semina eccessivamente umida, scarsa circolazione d'aria e vasi o semi non sterilizzati.\n\nUna volta che i germogli crollano, non possono riprendersi. La lotta è per proteggere il resto della teglia.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Tira fuori e getta immediatamente i germogli crollati"
+                },
+                {
+                  "title": "Piante germogliate rimanenti con acqua in fondo"
+                },
+                {
+                  "title": "Lascia asciugare leggermente la superficie tra un'irrigazione e l'altra"
+                },
+                {
+                  "title": "Avvia un piccolo ventilatore a bassa potenza nelle vicinanze"
+                },
+                {
+                  "title": "Spostatevi in una luce più luminosa se i germogli sono lunghi e pallidi"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "R07": {
+        "homeRemedies": [
+          {
+            "ingredients": [
+              {
+                "name": "3% perossido",
+                "quantity": "1 parte"
+              },
+              {
+                "name": "acqua",
+                "quantity": "3 parti"
+              }
+            ]
+          },
+          null
+        ],
+        "name": "Larve di mosca fungina",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Ridurre l'irrigazione"
+                },
+                {
+                  "title": "Mantieni una strato di sabbia o ghiaia in cima"
+                },
+                {
+                  "title": "Isolare le nuove piante e controllare il terreno"
+                },
+                {
+                  "title": "Migliorare il flusso d'aria"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Piccole mosche nere + piantine stimate",
+        "symptomAnalysis": "Le mosche fungine adulte sono mosche fastidiose, ma le loro larve si nutrono di giovani radici tenere e peli radicali nell'ultimo centimetro di terreno costantemente umido. Crescono bene in piante d'appartamento in eccesso d'acqua e in vasi per piantine. Gli adulti depongono le uova sulla superficie del terreno; le larve schiudono e si nutrono per 1-2 settimane prima di pupificare.\n\nPer le mosche adulte vedere [P16 — Mosche fungine](../02_pests/fungus-gnats.md). Questa voce copre i larve che uccidono le radici.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Lascia asciugare completamente l'ultimo centimetro di terreno tra un'irrigazione e l'altra"
+                },
+                {
+                  "title": "Solo acqua di fondo"
+                },
+                {
+                  "title": "Ricoprire con 1/4 di pollice di sabbia per bloccare l'accoppiamento degli adulti."
+                },
+                {
+                  "body": "Applicare per etichetta.",
+                  "title": "Bt-i (una diversa cepa Bt - *Bacillus thuringiensis israelensis*, venduta come \"Mosquito Bits\") spolverata o infusa in acqua uccide specificamente le larve"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "ST01": {
+        "name": "Morbido",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Innaffia costantemente e profondamente"
+                },
+                {
+                  "title": "Acquista varietà resistenti alla marciuma (cerca \"VFN\" sui pomodori, sulle fragole)"
+                },
+                {
+                  "title": "Ruotare i letti"
+                },
+                {
+                  "title": "Mulch per mantenere l'umidità uniforme"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "I gambi appassiscono e perdono la struttura",
+        "symptomAnalysis": "Il marciume può derivare da uno qualsiasi dei seguenti:\n\n- **Stress idrico** — troppo o troppo poco. La siccità secca le foglie; l'irrigazione eccessiva ammorbidisce le radici e non riescono più a pompare l'acqua.\n- **Stress termico** — le pomeriggi calde causano un appassimento temporaneo che si riprende durante la notte.\n- **Malattia della marciuma vascolare** — *Verticillium*, *Fusarium* o marciuma batterica ostruiscono il tessuto portatore d'acqua della pianta. Le foglie marcioriscono e rimangono marciore.\n- **Marciazione radicale** — vedi [R01](../05_roots/root-rot.md). Le radici danneggiate non possono fornire acqua.\n\nPer restringere le opzioni: grattare il fusto principale con un dito. Il verde all'interno significa che è vivo; il marrone e fragile significa che è morto. Quindi controlla il terreno e le radici.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "body": "Terreno asciutto → *Acqua in profondità ma meno spesso* (vedi 1.1). Terreno bagnato → *Ridurre la frequenza dell'irrigazione* (vedi 1.2) e controllare le radici.",
+                  "subSteps": [
+                    {
+                      "title": "Acqua in profondità ma meno spesso"
+                    },
+                    {
+                      "title": "Ridurre la frequenza dell'irrigazione"
+                    }
+                  ],
+                  "title": "Diagnosi prima"
+                },
+                {
+                  "title": "Usa un panno ombreggiante nelle pomeriggi calde"
+                },
+                {
+                  "title": "Per le malattie, potate e distruggete i rami interessati"
+                },
+                {
+                  "body": "Immergere le forbici da potatura, le forbici o le lame dei coltelli in una soluzione di acqua e candeggina 1:4 (o alcol isopropilico al 70%) prima di ogni taglio e tra ogni pianta. Pulire con un panno asciutto prima di tagliare. Se viene diagnosticata la malattia della marciuma vascolare: *Scartare la pianta gravemente infetta* (vedi 4.1). I patogeni del suolo persistono per anni.",
+                  "subSteps": [
+                    {
+                      "title": "Scartare la pianta gravemente infetta"
+                    }
+                  ],
+                  "title": "Sterilizzare gli strumenti tra un taglio e l'altro"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "ST02": {
+        "name": "Malattia dei rami",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Acquista varietà resistenti da vivaisti affidabili"
+                },
+                {
+                  "title": "Ispeziona le nuove piante per eventuali rami morti"
+                },
+                {
+                  "title": "Pianta con uno spazio adeguato per il flusso d'aria"
+                },
+                {
+                  "title": "Irrigazione a goccia"
+                },
+                {
+                  "title": "Spray preventivo di rame nelle sorgenti umide"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Interi rami diventano marroni e secchi dalla base",
+        "symptomAnalysis": "Una malattia fungina comune nelle piante coltivate in serre che sono state distanziate troppo vicine tra loro. I spore entrano attraverso ferite o in condizioni di tempo umido. A differenza del decesso (che inizia alla punta), la muffa dei rami uccide l'intero ramo infetto all'istante. Possono formarsi tra il legno vivo e quello morto delle macchie morte affondate chiamate *cancro*.\n\nPer il decesso vedi [ST03](dieback.md). Per le cancrozie vedi [ST05](cankers.md).",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Tagliare i rami colpiti fino a raggiungere il legno sano, in condizioni di tempo asciutto"
+                },
+                {
+                  "title": "Sterilizzare tra ogni taglio"
+                },
+                {
+                  "title": "Applicare il fungicida al rame sul resto della crescita sana"
+                },
+                {
+                  "title": "Raccolta del materiale caduto"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "ST03": {
+        "name": "Morte della pianta",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Pianta nel posto giusto: luce, drenaggio e esposizione adatti alla specie."
+                },
+                {
+                  "title": "Proteggere le piante da danni fisici (taglierini, rastrellatori, pascoli di animali)"
+                },
+                {
+                  "title": "Mantieni il flusso d'aria con uno spazio adeguato"
+                },
+                {
+                  "title": "Potare solo in condizioni di tempo secco per evitare di far entrare i funghi nei tagli freschi."
+                },
+                {
+                  "body": "Potate i rami rotti prima che i funghi possano entrare.",
+                  "title": "Ispezionare dopo il freddo o le tempeste"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "I gambi si restringono dalla punta verso il tronco",
+        "symptomAnalysis": "Un termine generale per le infezioni fungine (e a volte danni da insetti o ambientali) che uccidono la crescita legnosa dalla punta verso l'interno. Spesso segue ferite - tagli di potatura, danni da motosega, crepe da gelo, tunnel di insetti - che hanno dato ai funghi un modo per entrare. Lo stress (secca, gelo, inondazione) rende le piante più vulnerabili.\n\nSi distingue dalla marciuma dei rami: la marciuma inizia dalla punta e si diffonde verso l'interno; la marciuma dei rami uccide l'intero ramo all'istante.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Potare le foglie e i gambi infettati"
+                },
+                {
+                  "title": "Sterilizzare tra i tagli"
+                },
+                {
+                  "title": "Passare all'irrigazione alla base"
+                },
+                {
+                  "body": "Utilizzare un fertilizzante bilanciato N-P-K (ad esempio 10-10-10) per etichetta. Per le carenze che si manifestano nelle foglie, seguire con un apporto fogliare per un rapido assorbimento. Il compost è un'alternativa a rilascio lento. In casi gravi di infezione completa della pianta: *Scartare la pianta gravemente infetta* (vedi 4.1).",
+                  "subSteps": [
+                    {
+                      "title": "Scartare la pianta gravemente infetta"
+                    }
+                  ],
+                  "title": "Un nutrimento ricco di azoto fornisce alle piante stressate energia per riprendersi"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "ST04": {
+        "name": "Marciazione del fusto (marciazione morbida)",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Evita di bagnare le foglie e i gambi"
+                },
+                {
+                  "title": "Non annaffiare in eccesso"
+                },
+                {
+                  "title": "Piante spaziali separate"
+                },
+                {
+                  "title": "Ispeziona le nuove piante per steli morbidi e sbiaditi"
+                },
+                {
+                  "title": "Sterilizzare sempre gli strumenti"
+                },
+                {
+                  "title": "Controlla i parassiti succhiatori di sapa come le afidi; le loro ferite invitano i batteri"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Il gambo diventa appiccicoso, cavo e puzzolente",
+        "symptomAnalysis": "La marciuma batterica morbida, spesso *Erwinia*. I batteri entrano attraverso le ferite e digeriscono il tessuto vegetale dall'interno. Si sviluppa più velocemente in condizioni di clima caldo e umido e sulle piante che si trovano in terreni bagnati o spruzzate dall'irrigazione a goccia. Una volta avanzata, si diffonde dal stelo alla corona e giù nelle radici, a volte l'intera pianta diventa nera e pastosa dal centro.\n\nInclude la presentazione \"tutta la pianta che si scurisce dal centro\" che alcune referenze elencano come una condizione separata di \"morte indolore\".",
+        "treatment": {
+          "groups": [
+            {
+              "label": "Per infezioni lievi (un stelo o una sezione interessata)",
+              "steps": [
+                {
+                  "title": "Ritagliare ogni sezione morbida e sbiadita del gambo in tessuto pulito"
+                },
+                {
+                  "title": "Sterilizzare tra ogni taglio"
+                },
+                {
+                  "title": "Rimuovere in un terreno sterile fresco con drenaggio"
+                },
+                {
+                  "title": "Acqua solo quando il suolo superficiale è asciutto"
+                },
+                {
+                  "body": "Versare l'acqua direttamente sul terreno vicino al fusto piuttosto che spruzzare le foglie. Utilizzare una annaffiatoia con beccuccio lungo, un tubo infiltratore o una linea di gocciolamento. Le foglie bagnate invitano la diffusione di funghi e batteri. Per infezioni gravi a tutta la pianta: *Scartare la pianta gravemente infetta* (vedi 5.1). Sigillare e rimuovere. Non compostare.",
+                  "subSteps": [
+                    {
+                      "title": "Scartare la pianta gravemente infetta"
+                    }
+                  ],
+                  "title": "Smettere di annaffiare dall'alto"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "ST05": {
+        "name": "Cancri",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Evita i danni causati dall'inverno e dalla gelatina — avvolgi i giovani tronchi, dipingili con vernice bianca per alberi o usa le pellicole per alberi nelle zone fredde."
+                },
+                {
+                  "title": "Evita ferite meccaniche: tieni i tagliatori e i trimmer lontani dai tronchi"
+                },
+                {
+                  "title": "Scegli varietà resistenti alla cancro da mela"
+                },
+                {
+                  "title": "Mantieni le piante sane"
+                },
+                {
+                  "title": "Potare in condizioni di tempo secco a fine inverno o inizio primavera"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Pannelli di corteccia affondati e morti con margini frantumati",
+        "symptomAnalysis": "Una cancro è una zona morta localizzata nel tessuto del stelo causata da funghi (*Cytospora*, *Nectria*) o batteri che entrano attraverso una ferita: tagli di potatura, crepe da gelo, ustioni da sole, tunnel di insetti. Il patogeno uccide il tessuto intorno al punto di ingresso. Le cancri crescono lentamente; quelle grandi possono circondare e uccidere un ramo intero.\n\nComune sugli alberi da frutto (pesco, mela, ciliegia) e su molti ornamentali. Spesso segue lo stress invernale.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Potare le foglie e i gambi infettati"
+                },
+                {
+                  "title": "Sterilizzare tra ogni taglio"
+                },
+                {
+                  "title": "Potare solo in condizioni di tempo secco per evitare di diffondere il patogeno"
+                },
+                {
+                  "body": "Spruzzare un fungicida a base di rame (misura Bordeaux, solfato di rame o idrossido di rame commerciale) sulle foglie, sui gambi e sul terreno circostante secondo l'etichetta del prodotto. Riprovare ogni 7-14 giorni. Per le cancro sul tronco principale che non si possono potare: grattare via il tessuto morto con un coltello pulito fino alla corteccia sana (chiamata \"chirurgia\"). Lasciare la ferita esposta all'aria per asciugarsi.",
+                  "title": "Applicare fungicida al rame sulla corteccia sana rimanente all'inizio della primavera"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "ST06": {
+        "name": "Bruciore solare sulla corteccia",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "body": "Riflette il sole invernale.",
+                  "title": "**Avvolgi i giovani tronchi degli alberi** con un avvoltura bianca per alberi o dipingili con vernice bianca per interni diluita (1:1 con acqua) dalla linea del terreno allineati a 24 pollici, applicata alla fine dell'autunno"
+                },
+                {
+                  "title": "Evita la potatura alla fine dell'estate che espone la corteccia precedentemente ombreggiata"
+                },
+                {
+                  "title": "Innaffia a fondo alla fine dell'autunno prima che il terreno si ghiaccia"
+                },
+                {
+                  "title": "Aggiungere del pacciame alla zona radice per moderare le fluttuazioni di temperatura"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Cappello di corteccia screpolato, scagliante e sbiadito sul lato esposto al sole",
+        "symptomAnalysis": "La scottatura solare si verifica quando il sole invernale intenso riscalda un lato di un tronco durante il giorno, le cellule diventano attive e poi un improvviso calo di temperatura di notte le uccide. Gli alberi giovani e con corteccia liscia (aceri, alberi da frutto, ornamentali recentemente trapiantati) sono i più vulnerabili. La corteccia danneggiata diventa un punto d'ingresso a lungo termine per i patogeni, vedi [ST05 — Cancri](cankers.md).\n\nPuò anche verificarsi durante il caldo estivo dopo una defoliazione improvvisa che espone la corteccia precedentemente ombreggiata.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "body": "La maggior parte delle ferite da scottature solari guarisce lentamente da sole.",
+                  "title": "Non rimuovere la corteccia danneggiata a meno che non sia sciolta e staccandosi"
+                },
+                {
+                  "title": "Tagliare via qualsiasi corteccia chiaramente morta e scagliante con un coltello sterile fino all'orlo del tessuto sano"
+                },
+                {
+                  "title": "Applicare un fungicida al rame per tenere lontani i patogeni dalla ferita"
+                },
+                {
+                  "title": "Attenzione ai cancro che si sviluppano: vedere [ST05](cankers.md)"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "ST07": {
+        "name": "scopa delle streghe",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Monitorare regolarmente la pressione di parassiti e malattie"
+                },
+                {
+                  "title": "Spray preventivo di rame sulle specie soggette alla ruggine"
+                },
+                {
+                  "title": "Rimozione precoce di rami stressati o deboli"
+                },
+                {
+                  "title": "In caso di gravi infestazioni, rimuovi l'intera pianta"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Denso gruppo simile a un cespuglio di germogli stanziati da un unico punto",
+        "symptomAnalysis": "Una risposta allo stress, non una singola malattia. Molte cause: funghi di ruggine, alimentazione da parte di insetti, infezioni batteriche o fungine, infestazione da piante parassitarie come il mirto rampicante. La pianta risponde producendo molti germogli corti in un gruppo stretto invece della normale crescita di estensione.\n\nLo spazzolino stesso raramente uccide la pianta, ma la causa sottostante può farlo. Comune su conifere, alberi da frutto, lamponi e molti arbusti legnosi.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Tagliare la siepe, potando diversi centimetri sotto il punto interessato"
+                },
+                {
+                  "title": "Sterilizzare gli strumenti tra un taglio e l'altro"
+                },
+                {
+                  "body": "- Funghi della ruggine → *Applicare fungicida al rame* (vedi 3.1) - Acari o insetti → vedi [02_pests/](../02_pests/) - Mirtillo rossetto → rimuovere fisicamente il parassita",
+                  "subSteps": [
+                    {
+                      "title": "Applicare fungicida al rame"
+                    }
+                  ],
+                  "title": "Determina la causa:"
+                },
+                {
+                  "title": "Elimina il materiale potato lontano dalla pianta"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "ST08": {
+        "name": "Cancro alla corona",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Ispeziona ogni nuova pianta alla ricerca di galli alla corona"
+                },
+                {
+                  "title": "Sterilizzare sempre gli strumenti"
+                },
+                {
+                  "title": "Non accumulare terreno o pacciame contro la corona delle piante: mantiene l'area asciutta e priva di patogeni"
+                },
+                {
+                  "title": "Varietà di piante resistenti dove disponibili"
+                },
+                {
+                  "title": "Utilizzare un bagno batterico benefico (strappo di Agrobacterium radiobacter 84, venduto come \"Galltrol\") sul materiale di semina a radici nulle al momento della semina."
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Rugosi ingrossamenti simili a tumori vicino alla linea del suolo",
+        "symptomAnalysis": "Cause da batteri *Agrobacterium tumefaciens*, che vive nel suolo e entra attraverso le ferite. Colpisce oltre 600 specie di piante: rose, alberi da frutto, uva, lamponi sono particolarmente suscettibili. Il batterio si impossessa del DNA della pianta e provoca una crescita incontrollata dei tessuti.\n\nGli alberi adulti di solito sopravvivono alla galleria della corona. Le giovani piante e quelle gravemente infette diminuiscono perché la galleria blocca il flusso d'acqua e di nutrienti.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Su alberi stabiliti, tagliare la gallina con un coltello sterile o con dei potatura."
+                },
+                {
+                  "title": "Sterilizzare tra ogni taglio"
+                },
+                {
+                  "title": "Dopo l'intervento chirurgico, dipingi la ferita con un sigillante per potatura degli alberi"
+                },
+                {
+                  "body": "Non compostare.",
+                  "title": "Per piante giovani o fortemente infette: [S43](../shared/treatment-steps.md#s43-discard-the-severely-infected-plant) — Rimuovere e distruggere"
+                },
+                {
+                  "title": "Solare il terreno prima di ripiantarlo"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "ST09": {
+        "name": "Ferite da stelo",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Imposta barriere intorno alle piante nelle aree trafficate"
+                },
+                {
+                  "title": "Tieni le falciatrici e le forbici per il disboscamento lontane dai tronchi"
+                },
+                {
+                  "title": "Utilizzare vasi sterili e terriccio fresco per le nuove piante per evitare la trasmissione di parassiti"
+                },
+                {
+                  "title": "Ispeziona regolarmente le piante per individuare precocemente i primi segni di danno"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Graffi, tagli o danni da parassiti guariti sui steli",
+        "symptomAnalysis": "Le cicatrici si formano quando una pianta guarisce una ferita. Cause comuni:\n\n- **Danni meccanici** — animali domestici, bambini, falciatrici, attrezzi da giardino, traffico pedonale.\n- **Danni causati dai parassiti lasciati dietro** — siti di alimentazione da insetti che sono già andati via.\n- **Bruciore solare / scottatura solare** — danni termici sulla corteccia esposta. Vedi [ST06](sunscald-bark.md).\n- **Foglie o germogli persi** — le foglie cadute lasciano una cicatrice sul gambo.\n\nLe cicatrici in sé non danneggiano la pianta oltre la ferita originale. Sono per lo più cosmetiche. Ma l'area danneggiata è un punto d'ingresso permanente per futuri parassiti e agenti patogeni.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "body": "- Animali domestici/bambini/strumenti → installare una barriera o spostare la pianta. - Insetti infestanti → identificare l'insetto e trattarlo. Vedi [02_pests/](../02_pests/). - Bruciore da sole → *Spostarsi in un luogo ombreggiato* (vedi 1.1) Evitare il sole diretto. - Perdita frequente di foglie → controllare la luce, l'acqua e i nutrienti.",
+                  "subSteps": [
+                    {
+                      "title": "Spostati in una posizione ombreggiata"
+                    }
+                  ],
+                  "title": "Affronta la causa sottostante:"
+                },
+                {
+                  "title": "La cicatrice stessa non necessita di trattamento"
+                },
+                {
+                  "title": "Attenzione ai cancro che si sviluppano sulle aree danneggiate: vedere [ST05](cankers.md)"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "shared": {
+      "remedies": {
+        "K01": {
+          "recipe": "1 parte di perossido di idrogeno al 3% da farmacia a 3 parti d'acqua. (Oppure 1 parte di perossido al 35% di grado alimentare a 30 parti d'acqua.)",
+          "title": "Innaffiatura del terreno con perossido di idrogeno",
+          "usage": "Versare intorno alla base della pianta fino a quando il terreno superficiale non sarà umido. Ripetere una volta a settimana fino a quando il terreno non si asciuga normalmente e le bolle si fermano."
+        },
+        "K02": {
+          "recipe": "Cannella macinata semplice dal rack delle spezie. Senza mescolare.",
+          "title": "Zenzero in polvere",
+          "usage": "Spolverare una sottile strato su terreni marci, sui gambi appena tagliati o intorno alla base dei germogli. La cannella è naturalmente antifungina e favorevole alla radicazione."
+        },
+        "K03": {
+          "recipe": "Versare 1/4 di tazza di aceto di mele in una piccola tazza o pirofila gialla. Aggiungere 1 goccia di sapone per piatti per rompere la tensione superficiale. Coprire con pellicola trasparente e fare piccoli fori.",
+          "title": "Trappola all'aceto di mele",
+          "usage": "Posizionare vicino alla pianta interessata. I moscerini fungini adulti e le mosche dei frutti sono attratti, cadono e annegano. Aggiornare ogni 3-4 giorni."
+        },
+        "K04": {
+          "recipe": "Immergere 2 bustine di tè alla camomilla in 1 litro di acqua appena bollita. Lasciare raffreddare a temperatura ambiente.",
+          "title": "Bagnante al tè alla camomilla",
+          "usage": "Versare intorno alla base dei germogli e sulla superficie del terreno. Un'azione antifungina delicata protegge i semi germoglianti e le giovani radici."
+        },
+        "K05": {
+          "recipe": "1 cucchiaino di bicarbonato di sodio + 1 cucchiaino di sapone per piatti delicato + 1 litro d'acqua. Agitare per sciogliere.",
+          "title": "Bicarbonato di sodio + spray per il detergente per piatti",
+          "usage": "Spruzzare sulle foglie al primo segno di muffa, ogni 7 giorni. Imburrare le superfici superiori e inferiori delle foglie. Testare prima su una singola foglia; alcune piante possono avere bruciature sulle foglie."
+        },
+        "K06": {
+          "recipe": "1 parte di latte (qualunque grasso, ma quello intero funziona meglio) a 9 parti d'acqua in una bottiglia spray.",
+          "title": "Spray al latte",
+          "usage": "Spruzzare sulle foglie una volta alla settimana in condizioni di tempo soleggiato. La luce solare attiva le proteine del latte in un leggero rivestimento antifungino."
+        },
+        "K07": {
+          "recipe": "Schiacciate 4 spicchi d'aglio in 1 litro d'acqua. Lasciate in infusione per tutta la notte. Filtrate. Aggiungete 1 cucchiaino di sapone per piatti.",
+          "title": "Spray all'aglio",
+          "usage": "Spruzzare sulle foglie e sui gambi, concentrandosi sulle basi. Ripetere ogni 5-7 giorni. Profumo forte per un giorno, poi si disperde."
+        },
+        "K08": {
+          "recipe": "2 cucchiai di peperoncino in polvere o peperoncino secco tritato in 1 litro d'acqua. Cuocere a bollore per 10 minuti. Lasciare raffreddare. Filtrare. Aggiungere 1 cucchiaino di sapone per piatti.",
+          "title": "Spray al peperoncino",
+          "usage": "Spruzzare sulle foglie dove si nutrono le cimici o i coleotteri. Indossare guanti e protezione oculare durante lo spruzzaggio."
+        },
+        "K09": {
+          "recipe": "I chicchi di caffè usati sono stati asciugati su una teglia.",
+          "title": "Barriera di chicchi di caffè",
+          "usage": "Cospargere un anello di 1/2 pollice intorno alla base delle piante inclini alle lumache. La consistenza ruvida e la caffeina respingono lumache e lumache. Sostituire dopo la pioggia."
+        },
+        "K10": {
+          "recipe": "Schiacciate le uova sbucciate, sciacquate, asciugate e schiacciate grossolanamente con un mattarello.",
+          "title": "Guscio d'uovo schiacciato",
+          "usage": "(a) Mescolare nel terreno al momento della semina per una lenta liberazione di calcio - aiuta a prevenire la marciuma alla fine dei fiori. (b) Cospargere un anello con bordi taglienti intorno alle piante - i lumache evitano i bordi."
+        },
+        "K11": {
+          "recipe": "Seppellire un piatto o una tazza poco profondo con il bordo a livello del terreno. Riempire 2/3 con birra economica. (Oppure 1 tazza d'acqua + 1 cucchiaino di lievito secco + 1 cucchiaino di zucchero.)",
+          "title": "Trappola alla birra",
+          "usage": "Mettere vicino alle piante colpite la sera. Lucertole e lumache strisciano dentro e annegano. Raffreddare ogni 2-3 giorni."
+        },
+        "K12": {
+          "recipe": "Immergere 2-3 scorze di banane tagliate a dadini in 1 litro d'acqua per 48 ore. Filtrare.",
+          "title": "Tè al potassio con scorza di banana",
+          "usage": "Versare intorno alla base delle piante stressate o giallastre ogni 2-3 settimane. Un leggero aumento di potassio; non un fertilizzante completo."
+        },
+        "K13": {
+          "recipe": "Il 70% di alcol isopropilico per il lavaggio delle mani direttamente dalla bottiglia.",
+          "title": "Boccaglio di cotone al alcol isopropilico",
+          "usage": "Immergere un tampone di cotone e tamponare direttamente sulle coccinelle o sugli insetti con squame individuali. Muore al contatto. Evitare di immergere la foglia."
+        },
+        "K14": {
+          "recipe": "1 cucchiaino di sapone liquido delicato per piatti (senza detersivi, senza additivi) per litro d'acqua in una bottiglia spray.",
+          "title": "Spray di acqua saponata semplice",
+          "usage": "Spruzzare per bagnare tutte le superfici, in particolare le sottofoglie, la sera. Lavare con acqua tiepida la mattina seguente. Riprovare a spruzzare ogni 3 giorni per 2 settimane."
+        },
+        "K15": {
+          "recipe": "1 compresse di aspirina non rivestite (325 mg) sciolte in 1 gallone d'acqua con qualche goccia di sapone per piatti.",
+          "title": "Spray fogliare per acqua all'aspirina",
+          "usage": "Spruzzare sulle foglie ogni 2-3 settimane. L'acido salicilico nell'aspirina stimola delicatamente la risposta di difesa della pianta contro le malattie."
+        }
+      },
+      "steps": {
+        "S01": {
+          "body": "Sposta la pianta fuori dal vaso, scuotila delicatamente per rimuovere il terreno sollevato e risciacqua il gambo sotto acqua corrente tiepida finché non riesci a vedere chiaramente le radici singole.",
+          "title": "Scolare e sciacquare le radici"
+        },
+        "S02": {
+          "body": "Immergere le forbici da potatura, le forbici o le lame dei coltelli in una soluzione 1:4 acqua e candeggina (o alcol isopropilico al 70%) prima di ogni taglio e tra ogni pianta. Pulire con un panno asciutto prima di tagliare.",
+          "title": "Sterilizzare gli strumenti da taglio"
+        },
+        "S03": {
+          "body": "Tagliare via le radici nere, pastose o appassite con dei potainelli sterilizzati. Le radici sane sono bianche o marroni e flessibili. Tagliare indietro fino a raggiungere un tessuto pulito e solido.",
+          "title": "Tagliare le radici danneggiate o morte"
+        },
+        "S04": {
+          "body": "Tagliare i rami e le foglie interessate con strumenti sterilizzati, tagliando fino al tessuto sano. Mettere i rami tagliati in un sacchetto e gettarli via: non compostare mai materiale malato.",
+          "title": "Potare le foglie e i gambi infettati"
+        },
+        "S05": {
+          "body": "Utilizza dita pulite o forbici sterilizzate per rimuovere i fiori marci, appassiti o infettati dalla base, prima che l'infezione si diffonda ai germogli sani circostanti.",
+          "title": "Prendi i fiori e i boccioli colpiti e tagliali."
+        },
+        "S06": {
+          "body": "Raccogli tutti i frutti macchiati, marci o marciti dalla pianta e dal terreno sottostante. Seppelliscili (12 pollici di profondità), bruciali o sigillali in un sacchetto della spazzatura, non compostarli.",
+          "title": "Rimuovi e distruggi le frutta infette"
+        },
+        "S07": {
+          "body": "Indossare guanti. Rimuovere a mano le larve, i coleotteri, le lumache o i gruppi di uova e buttarli in un secchio di acqua saponata. Affogare per almeno 24 ore, quindi smaltire.",
+          "title": "Prendi a mano i parassiti nell'acqua saponata"
+        },
+        "S08": {
+          "body": "Per le pulci dei fiori, i crawler di squame o le afidi, pulire delicatamente le foglie e i gambi con un panno morbido immerso in acqua saponata. Risciacquare spesso il panno. Evitare di graffiare i tessuti teneri.",
+          "title": "Pulisci i parassiti con un panno umido"
+        },
+        "S09": {
+          "body": "Trasferisci la pianta in un vaso pulito con fori di drenaggio, utilizzando un mix di terreno di coltivazione fresco e sterile. Seppellisci le radici fino alla stessa profondità di prima. Innaffia leggermente per far aderire il terreno.",
+          "title": "Rinnovo del vaso con terriccio fresco e drenaggio"
+        },
+        "S10": {
+          "body": "Trasferisci una pianta con radici legate in una pentola di 1-2 dimensioni più grandi. Distendi le radici circolari prima di sistemare la pianta nel terreno fresco. Innaffia a fondo una volta.",
+          "title": "Trasferire in un contenitore più grande"
+        },
+        "S11": {
+          "body": "Raschiate via la parte superiore di 1/8 di pollice di terreno marciato o ricoperto di sale e sostituiscilo con uno strato di 1/4 di pollice di sabbia grossolana pulita o ghiaia fine. Innaffiate con moderazione in seguito.",
+          "title": "Ripellire con sabbia o ghiaia"
+        },
+        "S12": {
+          "body": "Metti uno strato di plastica trasparente sopra il terreno umido del giardino per 4-6 settimane durante la parte più calda dell'anno. Il calore si accumula sotto e uccide nematodi, funghi e semi di erbacce.",
+          "title": "Solare il suolo"
+        },
+        "S13": {
+          "body": "Distribuisci intorno alla pianta uno strato di 2–3 pollici di pacciame di corteccia, paglia o foglie, lasciando un piccolo spazio libero attorno allo stelo. Il pacciame impedisce gli schizzi di patogeni dal terreno e stabilizza l’umidità.",
+          "title": "Applicare pacciame organico intorno alla base"
+        },
+        "S14": {
+          "body": "Porta la pianta in un lavandino o all'aperto. Versa lentamente acqua pulita attraverso il vaso, circa 4 volte il volume del vaso, finché l'acqua non scorre liberamente dai fori di drenaggio. Ripeti una volta al mese se i sali tornano.",
+          "title": "Scolare il terreno per far defluire i sali"
+        },
+        "S15": {
+          "body": "Versare l'acqua direttamente sul terreno vicino alla base piuttosto che spruzzare le foglie. Utilizzare una annaffiatrice a beccuccio lungo, un tubo infiltratore o una linea di gocciolamento. Le foglie bagnate invitano la diffusione di funghi e batteri.",
+          "title": "Acqua alla base, mai sopra la testa"
+        },
+        "S16": {
+          "body": "Lascia asciugare i primi 1–2 pollici di terreno tra un’annaffiatura e l’altra. Infila un dito nel terreno per controllarlo prima di ogni annaffiatura. Molti problemi di marciume delle radici e degli steli sono dovuti a un terreno costantemente bagnato.",
+          "title": "Ridurre la frequenza dell'irrigazione"
+        },
+        "S17": {
+          "body": "Innaffia lentamente e accuratamente fino a quando il terreno non sarà umido in tutta la profondità, poi lascia asciugare parzialmente prima del prossimo innaffio. Favorisce radici più profonde e piante più forti.",
+          "title": "Acqua in profondità ma meno spesso"
+        },
+        "S18": {
+          "body": "Trasferisci gradualmente la pianta in una finestra che faccia a sud o a ovest o in un punto più soleggiato del giardino. Muoviti in fasi in una settimana per evitare lo shock solare.",
+          "title": "Trasferiti in una posizione più luminosa"
+        },
+        "S19": {
+          "body": "Trasferisci la pianta in una finestra che faccia a nord, sotto un albero o dietro un tessuto ombreggiante. La scottatura da sole e la bruciatura delle foglie di solito guariscono una volta che la pianta si raffredda.",
+          "title": "Spostati in una posizione ombreggiata"
+        },
+        "S20": {
+          "body": "Appendi o posiziona una luce di coltivazione a LED a spettro completo a 30-60 cm sopra la pianta, su un timer da 12-14 ore. Specialmente utile in inverno o in stanze buie.",
+          "title": "Aggiungi una luce di crescita"
+        },
+        "S21": {
+          "body": "Spaziate le piante in modo che le foglie non si tocchino quando sono completamente cresciute. All'interno, fate funzionare un piccolo ventilatore oscillante per parte della giornata. All'esterno, potate la vegetazione vicina che blocca la brezza.",
+          "title": "Aumentare il flusso d'aria e lo spazio tra i componenti"
+        },
+        "S22": {
+          "body": "Innaffia la foglia quotidianamente, raggruppa le piante insieme, posiziona il vaso su una teglia di ciottoli in acqua poco profonda o avvia un umidificatore. Mira a un'umidità relativa del 40-60%.",
+          "title": "Aumentare l'umidità intorno alla pianta"
+        },
+        "S23": {
+          "body": "Copri le piante vulnerabili con un panno antiprodi, paglia, lenzuolo o copertura a righe prima della notte. Porta le piante in vaso all'interno. Rimuovi la copertura la mattina seguente.",
+          "title": "Proteggere dal gelo"
+        },
+        "S24": {
+          "body": "Inserisci un palo di legno o di bambù nel terreno vicino alla pianta e lega a spirale morbide con un filo morbido. Mantiene i gambi lontani dal terreno bagnato e migliora il flusso d'aria.",
+          "title": "Impicca o incastra la pianta"
+        },
+        "S25": {
+          "body": "Spruzzare un fungicida a base di rame (misura Bordeaux, solfato di rame o idrossido di rame commerciale) sulle foglie, sui gambi e sul terreno circostante secondo l'etichetta del prodotto. Riprovare ogni 7-14 giorni.",
+          "title": "Applicare fungicida al rame"
+        },
+        "S26": {
+          "body": "Quando il rame non è sufficiente, utilizzare un fungicida sistemico sintetico (ad esempio propiconazolo, myclobutanil) secondo l'etichetta del prodotto. Spruzzare fino al deflusso. Ruotare sempre i fungicidi per evitare la resistenza.",
+          "title": "Applicare fungicida a ampio spettro"
+        },
+        "S27": {
+          "body": "Mescola l'olio di neem pressato a freddo con acqua e qualche goccia di sapone per piatti come emulsionante (tipico 2 cucchiai di neem + 1 cucchiaio di sapone per litro). Spruzza per defluire nella freddezza della sera.",
+          "title": "Applicare l'olio di Neem"
+        },
+        "S28": {
+          "body": "Diluire 1 cucchiaio di sapone liquido delicato per piatti (senza detersivi) per litro d'acqua in una bottiglia spray. Imburrare le basi e le punte delle foglie fino a quando non gocciolano. Riprofilare ogni 2-3 giorni per 1-2 settimane.",
+          "title": "Applicare sapone insetticida"
+        },
+        "S29": {
+          "body": "Spruzzare Bt sulle foglie e sui gambi dove si nutrono le larve. Le larve devono ingerirlo. Il Bt è inoffensive per api, animali domestici e esseri umani. Riprofilare dopo la pioggia.",
+          "title": "Applicare Bacillus thuringiensis (Bt)"
+        },
+        "S30": {
+          "body": "Utilizzare un insetticida a piretrina o piretrum (derivato dal girasole) per etichetta. Spruzzare la sera per proteggere le api. Efficace contro le cimici, le cimici dei fogli e i coleotteri.",
+          "title": "Applicare lo spray di piretrina"
+        },
+        "S31": {
+          "body": "Per parassiti testardi o nascosti, innaffia il terreno con un pesticida sistemico (imidacloprid, dinotefuran) secondo le istruzioni sulla confezione. La pianta lo assorbe attraverso le radici, rendendo il nettare tossico per gli insetti succhiatori. Evitare su piante in fiore visitate dalle api.",
+          "title": "Applicare insetticida sistemico"
+        },
+        "S32": {
+          "body": "Utilizza un beccuccio del tubo su una modalità a getto per spruzzare afidi, acari, pulci di melassa o pulci a nastro dalle foglie e dai steli. Mira anche sotto le foglie. Ripeti ogni pochi giorni.",
+          "title": "Spruzza i parassiti con una manganotta forte"
+        },
+        "S33": {
+          "body": "Acquista coccinelle, farfalle a lunula, vespe parassitarie o acari predatori da un fornitore di giardinaggio. Lasciali liberare la sera vicino alla pianta interessata. Fornisci piante da nettare nelle vicinanze per tenerle vicine.",
+          "title": "Rilasciare insetti benefici"
+        },
+        "S34": {
+          "body": "Appendi trappole a feromoni specifiche per specie nelle piante interessate o nelle vicinanze. Le trappole catturano le farfalle maschi, sopprimendo la prossima generazione. Sostituisci le esche ogni 4-6 settimane durante la stagione.",
+          "title": "Impostare trappole a feromoni"
+        },
+        "S35": {
+          "body": "Distribuire una rete fine in rete o coperture a righe galleggianti sulle piante e fissare i bordi con pietre o chiodi. Previene la deposizione di uova da parte di farfalle, scarafaggi e bruchi.",
+          "title": "Usa reti per insetti o coperture per filetti"
+        },
+        "S36": {
+          "body": "Utilizzare un fertilizzante bilanciato N-P-K (ad esempio 10-10-10) per etichetta. Per le carenze che si manifestano nelle foglie, seguire con un apporto fogliare per un rapido assorbimento. Il compost è un'alternativa a rilascio lento.",
+          "title": "Applicare fertilizzante bilanciato"
+        },
+        "S37": {
+          "body": "Mescolare un prodotto di ferro chelato per etichetta e spruzzare direttamente sulle foglie giallastre. Più veloce della bagnatura del terreno. Ripetere ogni 2-3 settimane fino al ritorno del verde.",
+          "title": "Applicare il mangime fogliare ricco di ferro"
+        },
+        "S38": {
+          "body": "Utilizza un kit di test del suolo o invia un campione al tuo ufficio di estensione locale. Aggiungi solfuro elementare per abbassare il pH o calce da giardino per aumentarlo, secondo la raccomandazione del test.",
+          "title": "Testare e modificare il pH del suolo"
+        },
+        "S39": {
+          "body": "Tieni le piante appena acquistate separate dalla tua collezione per 2 settimane. Controlla le basi delle foglie, le giunzioni delle foglie e la parte superiore del terreno per parassiti e malattie prima di integrarle.",
+          "title": "Ispezionare e mettere in quarantena le nuove piante"
+        },
+        "S40": {
+          "body": "Quando si acquistano piante, cercare varietà etichettate come resistenti alle malattie comuni (ad esempio \"pomodori resistenti al verticillio\", \"rose resistenti alla ruggine\"). I vivaisti locali e i pacchetti di semi elencano i codici di resistenza.",
+          "title": "Scegli varietà resistenti"
+        },
+        "S41": {
+          "body": "Raccogli le foglie cadute, i frutti e i rami morti sotto le piante, soprattutto in autunno. Molti agenti patogeni sopravvivono l'inverno nei detriti vegetali e si reinfectano in primavera.",
+          "title": "Pulire i detriti intorno alle piante"
+        },
+        "S42": {
+          "body": "Non piantare la stessa specie - o i suoi parenti botanici - nello stesso punto per due anni di fila. Una rotazione di 3 anni interrompe il ciclo vitale delle malattie e dei parassiti del suolo.",
+          "title": "Ruota i raccolti tra le stagioni"
+        },
+        "S43": {
+          "body": "Quando più della metà della pianta è colpita o la marciuma radicale è diffusa, scavate la pianta, sigillatela in un sacchetto della spazzatura pesante e smaltitela. Sterilizzate l'area prima di ripiantarla.",
+          "title": "Scartare la pianta gravemente infetta"
+        },
+        "S44": {
+          "body": "Immergere i vasi vuoti per 10 minuti in una soluzione di candeggina 1:9 acqua, poi risciacquare accuratamente con acqua pulita e asciugare all'aria aperta prima di riempiere con terriccio fresco.",
+          "title": "Sterilizzare i vasi prima del riutilizzo"
+        }
+      }
+    }
+  }
+}

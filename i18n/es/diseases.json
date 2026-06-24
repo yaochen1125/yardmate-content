@@ -1,0 +1,4159 @@
+{
+  "schema_version": 1,
+  "locale": "es",
+  "source": {
+    "resource": "diseases.json",
+    "sha256": "41126fad245c663221405bac99a4b1ad80d740dda790d7c153fb0c2990701823"
+  },
+  "fields": {
+    "categories": {
+      "FL": {
+        "label": "Flores"
+      },
+      "FR": {
+        "label": "Frutas"
+      },
+      "L": {
+        "label": "Hojas"
+      },
+      "P": {
+        "label": "Plagas"
+      },
+      "R": {
+        "label": "raíces"
+      },
+      "ST": {
+        "label": "Tallos"
+      }
+    },
+    "diseases": {
+      "FL01": {
+        "name": "Podredumbre de las flores",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Nunca rocíes flores desde arriba"
+                },
+                {
+                  "title": "Plantas espaciales para el flujo de aire"
+                },
+                {
+                  "title": "Limpiar rápidamente las pétalas caídas y los escombros"
+                },
+                {
+                  "title": "Elija cultivos resistentes a las enfermedades"
+                },
+                {
+                  "title": "Rotar los jardines de flores anuales"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Las flores se vuelven suaves, pastosas y marrones",
+        "symptomAnalysis": "Dos causas principales:\n1. **Lluvia fuerte o exceso de riego** - el agua se queda en la flor y pudre las pétalas por dentro.\n2. **Infección bacteriana** - entra a través de pequeñas heridas y se propaga rápidamente en climas cálidos y húmedos.\n\nSi se deja solo, la pudrición puede viajar por el tallo e infectar las hojas y las plantas circundantes.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Corte todos los brotes podridos"
+                },
+                {
+                  "title": "Sterilice los dedos o los cortes entre los cortes"
+                },
+                {
+                  "title": "Corte cualquier tallo blando y descolorido por debajo de la floración"
+                },
+                {
+                  "title": "Cambiar a riego básico solo"
+                },
+                {
+                  "body": "Pulverice un fungicida a base de cobre (mezcla de Bordeaux, sulfato de cobre o hidróxido de cobre comercial) sobre las hojas, tallos y suelo circundante según la etiqueta del producto. Reaplique cada 7-14 días. Si la mayoría de las flores y tallos están infectados: *Deseche la planta gravemente infectada* (ver 5.1).",
+                  "subSteps": [
+                    {
+                      "title": "Deseche la planta gravemente infectada"
+                    }
+                  ],
+                  "title": "Para la propagación bacteriana, aplique bactericida de cobre según la etiqueta"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "FL02": {
+        "name": "Flor marchita",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Cubrir con una manta de nieve antes de las noches frías"
+                },
+                {
+                  "title": "Traiga plantas de flores en macetas adentro durante la noche a principios de primavera o finales de otoño"
+                },
+                {
+                  "title": "Elija variedades resistentes al frío adecuadas a su zona"
+                },
+                {
+                  "title": "No fertilice con nitrógeno después de mediados del verano; el nuevo crecimiento tierno es más vulnerable a la helada."
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Las flores se secan y se vuelven marrones después de la helada o al final de la temporada.",
+        "symptomAnalysis": "Dos causas principales:\n1. **Daños por frío o heladas**: las caídas repentinas de temperatura congelan las células de las flores, causando un ennegrecimiento. Muchas flores no pueden tolerar temperaturas inferiores a 50°F (10°C).\n2. **Final normal de la vida** - las flores anuales y perennes marchitan al final de su temporada a medida que la planta va a sembrar.\n\nSi ocurre el marchitamiento después de una ola de frío, la causa es ambiental. Si ocurre al final de la temporada con la formación de vainas de semillas, es natural.",
+        "treatment": {
+          "groups": [
+            {
+              "label": "Para daños por helada",
+              "steps": [
+                {
+                  "title": "Rocía ligeramente antes de que el sol llegue a la planta cubierta de nieve"
+                },
+                {
+                  "title": "Una vez descongelado, pinche las flores gravemente dañadas"
+                },
+                {
+                  "title": "Cubrir por la noche hasta que pase el peligro de heladas"
+                }
+              ]
+            },
+            {
+              "label": "Para el final de la vida",
+              "steps": [
+                {
+                  "title": "Apriete los pétalos y los brotes afectados"
+                },
+                {
+                  "title": "No hacer nada - ciclo natural"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "FL03": {
+        "name": "Flores marchitas",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Riega profundamente y de forma consistente"
+                },
+                {
+                  "title": "Elija cultivares resistentes al marchitamiento (busque \"VFN\" en las semillas de tomate/fresa)"
+                },
+                {
+                  "title": "Rotar cultivos entre temporadas"
+                },
+                {
+                  "title": "Mielaza para mantener la humedad del suelo uniforme"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Los tallos se hunden, las pétalas caen temprano",
+        "symptomAnalysis": "El marchitamiento de las flores puede venir de muchas direcciones:\n\n- **Estrés hídrico**: demasiado o demasiado poco. Pétalos suaves y papilleros debido a la sequía; tallos blandos y pegajosos debido al exceso de riego.\n- **Calor / sol fuerte** — las pétalas se queman y se arrugan en el lado que está hacia el sol.\n- **Enfermedades de pudrición vascular** - hongos que viven en el suelo como *Verticillium* o *Fusarium* obstruyen el tejido que transporta agua de la planta. Los tallos se marchitan incluso cuando el suelo está húmedo.\n- **Moho de las raíces** — consulte [R01](../05_roots/root-rot.md). Las raíces dañadas no pueden suministrar agua a las flores.\n\nDetermine la causa primero. Los tallos que marchitan solo en las tardes calurosas pero se recuperan durante la noche están estresados por el calor; los tallos que marchitan y permanecen marchitos independientemente de la humedad del suelo sugieren una enfermedad o daño en las raíces.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "body": "Si está mojado → *Reducir la frecuencia de riego* (ver 1.1).",
+                  "subSteps": [
+                    {
+                      "title": "Reducir la frecuencia de riego"
+                    }
+                  ],
+                  "title": "Prueba el suelo con un dedo: si está seco → [S17](../shared/treatment-steps.md#s17-water-deeply-but-less-often)"
+                },
+                {
+                  "title": "Muevase a la sombra de la tarde si está estresado por el calor"
+                },
+                {
+                  "title": "Poda el follaje marchito para reducir la demanda"
+                },
+                {
+                  "body": "Sumerga las tijeras de poda, tijeras o cuchillas de cuchillo en una solución de 1:4 de lejía con agua (o 70% de alcohol isopropílico) antes de cada corte y entre cada planta. Limpie con un paño seco antes de cortar. Si la causa es la enfermedad de la pudrición vascular: *Deseche la planta gravemente infectada* (ver 4.1). El hongo se queda en el suelo durante años.",
+                  "subSteps": [
+                    {
+                      "title": "Deseche la planta gravemente infectada"
+                    }
+                  ],
+                  "title": "Sterilice las herramientas entre cortes"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "FL04": {
+        "name": "Caída de brotes",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Aclimatar las plantas lentamente cuando las muevas"
+                },
+                {
+                  "title": "Agua a tiempo, no por impulso"
+                },
+                {
+                  "title": "Mantenga una humedad del 40-60% para las plantas que florecen en interiores"
+                },
+                {
+                  "title": "Utilice un fertilizante equilibrado o de fórmula de floración; evite el nitrógeno pesado durante el brote"
+                },
+                {
+                  "title": "No repotar una planta que esté formando brotes, ya que caerán debido al movimiento."
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Los brotes de flores se forman y luego caen antes de abrirse.",
+        "symptomAnalysis": "Una respuesta al estrés, no una enfermedad. La planta está conservando energía abortando los brotes que no puede sostener. Los desencadenantes comunes:\n\n- **Cambio ambiental repentino** - mudarse al interior/exterior, corrientes de aire, cambio repentino de temperatura.\n- **Irrigación inconsistente**: dejar que el suelo se seque demasiado y luego inundarlo.\n- **Baja humedad** - común en interiores; las plantas de flores tropicales (geranios, hibisco) son sensibles.\n- **Luz insuficiente** - los brotes se forman pero no obtienen la energía para abrirse.\n- **Fertilización excesiva**: demasiado nitrógeno impulsa el crecimiento de las hojas a costa de las flores.\n- **Presión de plagas** - trips y pulgones alimentándose dentro de los brotes en desarrollo. Ver [02_pests/](../02_pests/).",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Establecer un ritmo de riego consistente"
+                },
+                {
+                  "title": "Aumente la humedad para las plantas tropicales en flor"
+                },
+                {
+                  "body": "Déjalo asentarse en un solo lugar.",
+                  "title": "Deja de mover la planta"
+                },
+                {
+                  "title": "Pausa el fertilizante durante 2-4 semanas; reanuda con una fórmula de floración baja en nitrógeno (alto P, como 5-10-5)"
+                },
+                {
+                  "body": "Si se encuentra, consulte la entrada relevante sobre plagas.",
+                  "title": "Comprueba los brotes para detectar plagas"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "FL05": {
+        "name": "Moho de pétalos",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Agua en la base"
+                },
+                {
+                  "title": "Espacio y poda para el flujo de aire"
+                },
+                {
+                  "title": "Quita las flores desvanecidas antes de que se descompongan"
+                },
+                {
+                  "title": "Elija cultivos con flores de pétalo único o de forma abierta"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Moho peludo grisáceo-castaño en las pétalas",
+        "symptomAnalysis": "El hongo *Botrytis cinerea* (moho gris) ataca primero las pétalas que se desvanecen o están dañadas, luego se extiende a las sanas. Se desarrolla en aire fresco, húmedo y tranquilo, como en principios de primavera, finales de otoño o cualquier período lluvioso. Las rosas, peonías, delicias, hortensias y azaleas son huéspedes comunes.\n\nPara el mismo hongo en hojas y tallos, consulte [L23 — Moho gris](../01_leaves/gray-mold.md).",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Quita todas las flores infectadas, incluidos cualquier brote parcialmente abierto cerca"
+                },
+                {
+                  "title": "Sterilice las herramientas entre cortes"
+                },
+                {
+                  "title": "Limpiar las pétalas y hojas caídas debajo de la planta"
+                },
+                {
+                  "title": "Aplicar fungicida de cobre si la infección es generalizada"
+                },
+                {
+                  "title": "Abre el flujo de aire con poda selectiva"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "FL06": {
+        "name": "Fallo en florecer",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Combina la planta con tus condiciones de luz antes de comprarla."
+                },
+                {
+                  "title": "Utilice un fertilizante equilibrado o de fórmula de floración; omita los piensos de nitrógeno puro en los floridos."
+                },
+                {
+                  "title": "Sé paciente con las nuevas perennes y arbustos"
+                },
+                {
+                  "title": "Agua de forma constante"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Una planta sana produce pocas o ninguna flor",
+        "symptomAnalysis": "No es una enfermedad. La planta tiene la energía para crecer hojas, pero no se desencadena para florecer. Causas comunes:\n\n- **Luz insuficiente** - la mayoría de las plantas en flor necesitan más de 6 horas de luz brillante al día.\n- **Demasiado nitrógeno** - impulsa el crecimiento de las hojas a expensas de las flores.\n- **Ciclo de temperatura incorrecto** - muchos florecientes necesitan una señal de noche fresca (por ejemplo, orquídeas, cactus de Navidad).\n- **La planta es demasiado joven** - las perennes, los árboles frutales y muchos arbustos pueden tardar de 1 a 3 años en florecer por primera vez.\n- **Poda reciente en el momento equivocado** - podar los brotes florales (algunas plantas producen brotes el año anterior en madera vieja).\n- **Atrapado en la raíz** — consulte [R04](../05_roots/pot-bound.md). A veces, un macizo apretado desencadena la floración, pero la atracción extrema de las raíces la detiene.\n- **Riego seco o inconsistente**: las plantas estresadas por la sequía pierden los sitios de brotes.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Muevete a un lugar más luminoso"
+                },
+                {
+                  "title": "Cambiar a un fertilizante de fórmula de floración (menor N, mayor P, por ejemplo, 5-10-5)"
+                },
+                {
+                  "body": "El cactus de Navidad necesita noches frescas y días cortos; las gardenias necesitan días cálidos y aire húmedo.",
+                  "title": "Investiga el desencadenante de floración de tu planta específica"
+                },
+                {
+                  "title": "Evite podar hasta que confirme si la especie florece en madera nueva o vieja"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "FL07": {
+        "name": "Budas manchadas",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Plantas espaciales para el flujo de aire"
+                },
+                {
+                  "title": "Agua en la base, nunca sobre la cabeza"
+                },
+                {
+                  "title": "Limpiar regularmente las pétalas caídas y las hojas muertas"
+                },
+                {
+                  "title": "Pulido preventivo de cobre en primavera temprana en rosas o peonías susceptibles"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Puntos marrones o oscuros y manchas que aparecen en los brotes de flores antes de que se abran.",
+        "symptomAnalysis": "Los brotes moteados suelen remontarse a una infección fúngica o bacteriana, como la botricosis, la antracnosis o los patógenos de agujeros de disparo, que se ha extendido desde las hojas o los pétalos caídos hasta los brotes en desarrollo. El clima húmedo, la plantación densa y los escombros contaminados alrededor de la planta aceleran la propagación. Los brotes moteados no se abren, se abren en flores deformadas o se pudren antes de mostrar color.\n\nSi el problema aparece en las pétalas después de que el brote se abra (no en la superficie del brote en sí), consulte [FL05 - Moho en las pétalas](petal-blight.md).",
+        "treatment": {
+          "groups": [
+            {
+              "label": "Para casos leves",
+              "steps": [
+                {
+                  "title": "Retire cualquier brote moteado y desechelo"
+                },
+                {
+                  "title": "Sterilice las herramientas entre cortes para que los esporos no se muevan de brote en brote."
+                },
+                {
+                  "title": "Limpiar las pétalas y hojas caídas alrededor de la planta"
+                }
+              ]
+            },
+            {
+              "label": "Para casos graves",
+              "steps": [
+                {
+                  "title": "Apriete los brotes visiblemente afectados"
+                },
+                {
+                  "title": "Pulverice fungicida de cobre en los brotes y follaje restantes"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "FR01": {
+        "name": "Punto de fruta",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Comprar cultivos resistentes a las manchas"
+                },
+                {
+                  "title": "Rotar los cultivos de frutas anuales cada 3 años"
+                },
+                {
+                  "title": "Limpiar todo el fruto y las hojas caídas al final de la temporada"
+                },
+                {
+                  "title": "Irrigación por goteo o riego de base solo"
+                },
+                {
+                  "title": "Plantas espaciales para el flujo de aire"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Rayas y lesiones marrones o negras en la piel de la fruta",
+        "symptomAnalysis": "El punto de fruta es un término general para las infecciones bacterianas y fúngicas que dejan lesiones oscuras en la fruta. Los patógenos viajan por el viento, las salpicaduras de lluvia, los insectos y las herramientas. Invierten el invierno en los restos de plantas y se reinfeccionan en la primavera. Las condiciones húmedas aceleran la propagación. La fruta con manchas graves puede no ser comestible; la fruta con manchas leves generalmente está bien después de cortar la mancha.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Retire y destruya la fruta con manchas graves"
+                },
+                {
+                  "title": "Poda los brotes infectados que puedan llevar el patógeno"
+                },
+                {
+                  "title": "Sterilice las herramientas entre cortes"
+                },
+                {
+                  "title": "Aplicar fungicida/bactericida de cobre según la etiqueta"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "FR02": {
+        "name": "Podredumbre de frutas",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "El riego consistente es el factor más importante"
+                },
+                {
+                  "title": "mantillo"
+                },
+                {
+                  "title": "Utiliza un fertilizante equilibrado"
+                },
+                {
+                  "title": "Fruta fina y ciruelas pasas para el flujo de aire"
+                },
+                {
+                  "title": "Cosecha la fruta a tiempo cuando esté madura"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Moho marrón hundido, oscurecimiento de la punta de la flor, musgo fúngico",
+        "symptomAnalysis": "Tres patrones comunes:\n\n1. **Moho de la punta de la flor** - cráter negro hundido en la parte inferior de los tomates, pimientos, calabacines. Causado por deficiencia de calcio en el fruto, no es una enfermedad. El riego inconsistente perturba la absorción de calcio.\n2. **Moho marrón (fúngico)** - pequeñas manchas marrones que se expanden y pueden crecer en grupos de esporas peludas grisáceas. Afecta a las frutas de piedra (pera, ciruela, cereza).\n3. **Moho de maduración excesiva** - fruta dejada en la planta después de la maduración, lo que atrae a insectos y hongos.",
+        "treatment": {
+          "groups": [
+            {
+              "label": "Para la pudrición de la punta de la flor",
+              "steps": [
+                {
+                  "title": "Establecer un riego profundo consistente"
+                },
+                {
+                  "title": "Mielaza para mantener la humedad del suelo uniforme"
+                },
+                {
+                  "title": "Retire la fruta afectada para que la planta redirija el calcio a la fruta restante"
+                }
+              ]
+            },
+            {
+              "label": "Para la pudrición marrón",
+              "steps": [
+                {
+                  "title": "Retire toda la fruta visiblemente podrida, incluida la que está en el suelo"
+                },
+                {
+                  "title": "Poda los brotes afectados"
+                },
+                {
+                  "title": "Aplicar fungicida de cobre en las frutas madurantes, no en las frutas verdes"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "FR03": {
+        "name": "Deformidad de la fruta",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "body": "Polinice las calabazas y las sandías a mano con un pequeño pincel de pintura si vea pocas abejas.",
+                  "title": "Planta flores amigables con los polinizadores cerca"
+                },
+                {
+                  "title": "Cubra las plantas en flor de la última helada"
+                },
+                {
+                  "title": "Humedad constante, especialmente durante la formación de los frutos"
+                },
+                {
+                  "title": "Aplicar fertilizante de liberación lenta al plantar"
+                },
+                {
+                  "body": "Ver [02_pests/](../02_pests/).",
+                  "title": "Compruebe si hay daños por insectos en el fruto en desarrollo"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Fruta deformada, medio formada o dividida",
+        "symptomAnalysis": "Varios factores:\n\n- **Pobre polinización** - las abejas perdieron algunos óvulos, por lo que el fruto se desarrolla de forma desigual. Común: fresas de punta afilada, pepinos torcidos.\n- **Balancines de riego**: la sequía seguida de mucha agua puede causar grietas; la humedad desigual provoca que los tomates se inclinen hacia adelante.\n- **Extremos de temperatura**: el frío durante la floración daña el fruto en desarrollo.\n- **Deficiencias nutricionales** - La escasez de boro y calcio causa retraso del crecimiento y formas extrañas.\n- **Daños por insectos en la etapa de brote**: los insectos de la planta envejecidos que se alimentan de las flores dejan cicatrices y arrugas.\n\nLa mayoría de las frutas deformadas todavía son comestibles.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Quita las frutas más malas para que la planta se centre en las sanas"
+                },
+                {
+                  "title": "Estabilice el riego inmediatamente"
+                },
+                {
+                  "title": "Aplicar un fertilizante equilibrado con micronutrientes (boro, calcio)"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "FR04": {
+        "name": "Fruta marchita",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Limpiar toda la fruta caída al final de la temporada"
+                },
+                {
+                  "title": "Plantar plantas en postes fuera del suelo"
+                },
+                {
+                  "title": "Poda para el flujo de aire durante la temporada de inactividad"
+                },
+                {
+                  "title": "Pulido preventivo de cobre en floración y nuevamente antes de la cosecha"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Fruta momificada y marchita colgando de la planta",
+        "symptomAnalysis": "Una infección fúngica (a menudo *Monilinia* en frutas de hueso) que sobrevive durante el invierno en los restos secos de frutas y plantas. Las esporas salpican en primavera e infectan nuevas flores y frutos en desarrollo, que luego se deshidratan antes de madurar. El clima cálido y húmedo de primavera/verano provoca brotes.\n\nLa fruta momificada que ves en invierno o en la última temporada es la fuente de la infección del próximo año.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Coge cada momia marchita de la planta y del suelo"
+                },
+                {
+                  "title": "Poda cualquier brote afectado"
+                },
+                {
+                  "title": "Pulverizar fungicida de cobre"
+                },
+                {
+                  "title": "Abra el dosel con poda selectiva"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "FR05": {
+        "homeRemedies": [
+          null,
+          {
+            "ingredients": [
+              {
+                "name": "aspirina",
+                "quantity": "1 tableta"
+              },
+              {
+                "name": "agua",
+                "quantity": "1 galón"
+              },
+              {
+                "name": "Jabón para platos",
+                "quantity": "Unas gotas"
+              }
+            ]
+          }
+        ],
+        "name": "Moho en la fruta",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Rajea los escombros podridos y las frutas caídas"
+                },
+                {
+                  "title": "Solo riego por goteo"
+                },
+                {
+                  "title": "No sobreponga la cantidad de personas"
+                },
+                {
+                  "title": "No fertilices en exceso temprano"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Moho peludo gris, blanco o marrón en la superficie de la fruta",
+        "symptomAnalysis": "Una variedad de hongos causan mohos borrosos en las frutas. Se desarrollan en condiciones frías, húmedas y estáticas, tanto en la temporada temprana como en la tardía. Incluso una infección leve arruina la fruta; una grave la destruye por completo. A menudo se produce después de la pudrición de la punta de la flor o el daño de insectos que dieron a los hongos un punto de entrada.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Quita toda la fruta mohosa, incluida cualquier que esté en el suelo"
+                },
+                {
+                  "title": "Poda las hojas y tallos afectados cerca de la fruta mohosa"
+                },
+                {
+                  "title": "Cortar el crecimiento circundante para mejorar el flujo de aire"
+                },
+                {
+                  "title": "Aplicar fungicida de cobre en la fruta restante en proceso de maduración"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "FR06": {
+        "homeRemedies": [
+          {
+            "ingredients": [
+              {
+                "name": "bicarbonato de sodio",
+                "quantity": "1 cucharadita"
+              },
+              {
+                "name": "Jabón para platos",
+                "quantity": "1 cucharadita"
+              },
+              {
+                "name": "agua",
+                "quantity": "1 galón"
+              }
+            ]
+          },
+          {
+            "ingredients": [
+              {
+                "name": "leche",
+                "quantity": "1 parte"
+              },
+              {
+                "name": "agua",
+                "quantity": "9 partes"
+              }
+            ]
+          }
+        ],
+        "name": "Moho gris en frutas",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Compra cultivos resistentes al moho (especialmente calabazas, pepinos, melones)"
+                },
+                {
+                  "title": "Irrigación por goteo, no por encima"
+                },
+                {
+                  "title": "Espaciado amplio"
+                },
+                {
+                  "title": "Limpiar los escombros antes del invierno"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Recubrimiento de polvo blanco en la fruta y el tallo",
+        "symptomAnalysis": "Los hongos del moho gris prefieren días cálidos y secos y noches frescas y húmedas, lo contrario de la mayoría de las enfermedades fúngicas. Las brotes de mediados a finales del verano son típicos. El recubrimiento blanco es el hongo que crece en la superficie; rara vez mata el fruto, pero reduce el rendimiento, arruina la apariencia y puede propagarse al resto de la planta.\n\nPara el mismo hongo en las hojas, consulte [L20 — Moho gris](../01_leaves/powdery-mildew.md).",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Cortar las frutas fuertemente mohosas"
+                },
+                {
+                  "title": "Cortar las hojas y tallos mohosos cercanos"
+                },
+                {
+                  "title": "Abra el dosel con poda selectiva"
+                },
+                {
+                  "title": "Aplicar fungicida de cobre para casos persistentes"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "FR07": {
+        "name": "Rompiendo frutas",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "La humedad constante es el factor más importante"
+                },
+                {
+                  "title": "Cubra el suelo con una capa gruesa de mantillo para uniformar la humedad del suelo."
+                },
+                {
+                  "title": "Compra variedades resistentes a la grieta (e"
+                },
+                {
+                  "title": "Cosechar justo antes de la madurez máxima si se pronostica lluvia fuerte"
+                },
+                {
+                  "title": "Ponte fruta pesada para evitar el estrés en la piel"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Divisiones y grietas en la piel de la fruta",
+        "symptomAnalysis": "El crujimiento ocurre cuando el crecimiento de la fruta se acelera más rápido de lo que la piel puede estirarse. El desencadenante más común es un repentino estallido de agua: lluvias fuertes o riego profundo después de una sequía. Las variedades de piel dulce y delgada son las más vulnerables.\n\nLa fruta rota atrae rápidamente a insectos y hongos putrefactos, pero la fruta en sí suele seguir siendo comestible si se recoge rápidamente.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "body": "No esperes a que estén completamente maduros, se pudrirán o se dividirán aún más.",
+                  "title": "Recoge la fruta rota inmediatamente"
+                },
+                {
+                  "title": "Deseche la fruta con moho o daños por insectos en las grietas"
+                },
+                {
+                  "title": "Reanuda la riego consistente inmediatamente"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "L01": {
+        "homeRemedies": [
+          {
+            "ingredients": [
+              {
+                "name": "aspirina",
+                "quantity": "1 tableta"
+              },
+              {
+                "name": "agua",
+                "quantity": "1 galón"
+              },
+              {
+                "name": "Jabón para platos",
+                "quantity": "Unas gotas"
+              }
+            ]
+          }
+        ],
+        "name": "Mancha marrón",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Elija cultivares resistentes"
+                },
+                {
+                  "title": "Agua en la base, no sobre la cabeza"
+                },
+                {
+                  "title": "Plantas espaciales para el flujo de aire"
+                },
+                {
+                  "title": "Limpiar las hojas y los escombros caídos"
+                },
+                {
+                  "title": "Pulverización preventiva de cobre en fuentes húmedas"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Manchas marrones o diminutas manchas marrones en las hojas",
+        "symptomAnalysis": "La mancha marrón es una etiqueta general para infecciones fúngicas y bacterianas que dejan lesiones marrones en las hojas. Las causas varían, pero las condiciones suelen ser similares: hojas húmedas, mala circulación de aire y detritos contaminados que transportan esporas. Si se deja sola, la mancha marrón debilita la planta y la abre a enfermedades más dañinas.\n\nTanto si la mancha es una de las tres formas (manchas grandes, manchas con manchas amarillas o diminutas puntos densos) no cambia el tratamiento.",
+        "treatment": {
+          "groups": [
+            {
+              "label": "Para casos leves (menos del 50 % de las hojas afectadas)",
+              "steps": [
+                {
+                  "title": "Poda las hojas infectadas"
+                },
+                {
+                  "title": "Sterilice las herramientas entre cortes"
+                },
+                {
+                  "title": "Monitorea semanalmente para detectar nuevas manchas"
+                }
+              ]
+            },
+            {
+              "label": "Para casos graves",
+              "steps": [
+                {
+                  "title": "Poda todas las hojas infectadas"
+                },
+                {
+                  "title": "Aplicar fungicida/bactericida de cobre"
+                },
+                {
+                  "title": "Abrir el flujo de aire"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "L02": {
+        "name": "punto negro",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Compra variedades de rosas resistentes a las manchas negras"
+                },
+                {
+                  "title": "Riega todas las hojas caídas"
+                },
+                {
+                  "title": "Solo riego por goteo"
+                },
+                {
+                  "title": "La manteca reduce el rebote del suelo"
+                },
+                {
+                  "title": "Pulido preventivo de cobre en la primera primavera"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Manchas negras o puntos negros densamente apilados en las hojas",
+        "symptomAnalysis": "La mayoría de las veces, una infección fúngica, *Diplocarpon rosae* en las rosas, es el ejemplo típico del libro de texto, pero otros hongos causan daños similares en diferentes huéspedes. El hongo prospera en condiciones húmedas y se propaga cuando el agua salpica esporas sobre las hojas. Los casos leves son principalmente cosméticos; los graves defolian la planta y la debilitan para la próxima temporada.",
+        "treatment": {
+          "groups": [
+            {
+              "label": "Para casos leves (menos del 50 % de las hojas)",
+              "steps": [
+                {
+                  "title": "Pinchar cualquier hoja moteada"
+                },
+                {
+                  "title": "Sterilice las herramientas entre cortes"
+                }
+              ]
+            },
+            {
+              "label": "Para casos graves",
+              "steps": [
+                {
+                  "title": "Poda todas las hojas manchadas"
+                },
+                {
+                  "title": "Fungicida de cobre cada 7-14 días"
+                },
+                {
+                  "title": "Cambiar a un fungicida sistémico para casos persistentes"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "L03": {
+        "name": "Moho de las hojas y quemaduras",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Elija variedades adecuadas a su clima"
+                },
+                {
+                  "title": "Riega profundamente y de forma consistente"
+                },
+                {
+                  "title": "Miel de abeja para retener la humedad"
+                },
+                {
+                  "title": "Inspeccione las nuevas plantas para detectar síntomas tempranos de quemaduras"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Las puntas y los bordes se secan con un halo marrón y amarillo.",
+        "symptomAnalysis": "Tres causas:\n\n1. **Estres de calor y sol** - las hojas pierden agua más rápido de lo que las raíces pueden suministrar. Las hojas expuestas al sol se ponen marrones primero.\n2. **Pobre función de las raíces**: suelo compactado, daño a las raíces o exceso de fertilizante impiden que las raíces absorban suficiente agua. La planta parece quemada incluso en un día normal.\n3. **Calcinación bacteriana de las hojas** (*Xylella fastidiosa*) - enfermedad crónica que reaparece cada año. Afecta primero las hojas más viejas; las hojas más nuevas se mantienen limpias. Permanente.\n\nUna vez que las hojas se vuelven marrones, no se recuperan. El objetivo es salvar el resto de la planta.",
+        "treatment": {
+          "groups": [
+            {
+              "label": "Para sol/calor",
+              "steps": [
+                {
+                  "title": "Riega más profundamente, especialmente en olas de calor"
+                },
+                {
+                  "title": "Use una sábana de sombra o mueva las plantas en el contenedor"
+                },
+                {
+                  "title": "Mielaza para mantener la zona de las raíces fresca"
+                }
+              ]
+            },
+            {
+              "label": "Para el estrés de las raíces",
+              "steps": [
+                {
+                  "title": "Reduzca el riego si el suelo está compactado y húmedo"
+                },
+                {
+                  "title": "Prueba del suelo"
+                },
+                {
+                  "title": "Si se repotar, recorte las raíces dañadas"
+                }
+              ]
+            },
+            {
+              "label": "Para quemaduras bacterianas",
+              "steps": [
+                {
+                  "title": "eliminar"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "L04": {
+        "name": "Antracnosis",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Rajea todo el desecho de plantas viejas en otoño"
+                },
+                {
+                  "title": "Comprar cultivos resistentes"
+                },
+                {
+                  "title": "Espaciado amplio para el flujo de aire"
+                },
+                {
+                  "title": "Solo riego por goteo"
+                },
+                {
+                  "title": "Pulido preventivo de cobre en primavera temprana en plantas susceptibles"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Manchas grises con bordes marrón oscuro o negros",
+        "symptomAnalysis": "La antracnosis es un grupo de enfermedades fúngicas relacionadas. Todas prosperan en climas fríos y húmedos, especialmente en la primavera y principios del verano. Las esporas pasan el invierno en los restos de plantas e infectan el nuevo crecimiento a medida que las condiciones se calientan. Común en árboles de sombra, árboles frutales, judías, tomates y muchos ornamentales.\n\nLas brotes severos defolian las plantas. Los leves son cosméticos.",
+        "treatment": {
+          "groups": [
+            {
+              "label": "Para casos leves",
+              "steps": [
+                {
+                  "title": "Poda las hojas afectadas y deséchelas"
+                },
+                {
+                  "title": "Limpiar todas las hojas y escombros caídos"
+                }
+              ]
+            },
+            {
+              "label": "Para casos graves",
+              "steps": [
+                {
+                  "title": "Poda todo el tejido visiblemente afectado"
+                },
+                {
+                  "title": "Aplicar fungicida de cobre antes de un período seco"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "L05": {
+        "name": "Mancha angular de la hoja",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "**No trabajes en el jardín cuando las hojas estén mojadas.** Las bacterias se transfieren fácilmente de las hojas mojadas a tus manos y herramientas."
+                },
+                {
+                  "title": "Compre cultivos de calabaza y fresa resistentes"
+                },
+                {
+                  "title": "Rotar al menos 2 años antes de replantar las cucurbitas en el mismo lugar"
+                },
+                {
+                  "title": "Solo riego por goteo"
+                },
+                {
+                  "title": "Pulido preventivo de cobre en primavera"
+                },
+                {
+                  "title": "No guardes semillas de plantas infectadas"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Puntos amarillos cuadrados por las venas de la hoja",
+        "symptomAnalysis": "Una enfermedad bacteriana (*Pseudomonas* spp.) transmitida por semillas, pero que se propaga aún más por el clima cálido y húmedo y la riego por encima. Las venas bloquean la propagación libre de las bacterias, por lo que las lesiones se mantienen confinadas a un solo panel entre las venas, dando el aspecto cuadrado. Los casos graves hacen que las hojas se caigan; también aparecen lesiones en los tallos y los frutos.\n\nLa enfermedad persiste en semillas, restos de plantas y herramientas contaminadas.",
+        "treatment": {
+          "groups": [
+            {
+              "label": "Para casos leves",
+              "steps": [
+                {
+                  "title": "Poda las hojas y tallos afectados"
+                },
+                {
+                  "title": "Sterilizar entre cada corte"
+                },
+                {
+                  "title": "Bactericida de cobre, aplicado temprano"
+                }
+              ]
+            },
+            {
+              "label": "Para casos graves",
+              "steps": [
+                {
+                  "title": "Retire y destruya la planta"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "L06": {
+        "homeRemedies": [
+          {
+            "ingredients": [
+              {
+                "name": "bicarbonato de sodio",
+                "quantity": "1 cucharadita"
+              },
+              {
+                "name": "Jabón para platos",
+                "quantity": "1 cucharadita"
+              },
+              {
+                "name": "agua",
+                "quantity": "1 galón"
+              }
+            ]
+          }
+        ],
+        "name": "mancha foliar",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Comprar variedades resistentes a las enfermedades"
+                },
+                {
+                  "title": "Rascar toda la hojarasca"
+                },
+                {
+                  "title": "Agua a nivel del suelo"
+                },
+                {
+                  "title": "La manteca reduce el rebote de esporas"
+                },
+                {
+                  "title": "Cobre preventivo en la primera primavera"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Puntos blancos o amarillos dispersos por las hojas",
+        "symptomAnalysis": "Una etiqueta general para infecciones por hongos que producen manchas pálidas en las hojas. Muchos hongos causan daños similares; el tratamiento es aproximadamente el mismo independientemente de la especie exacta. Las manchas tienden a secarse desde el centro.\n\nSi las manchas son diminutas y densamente apiladas (menos de 1 mm), es más probable que la causa sean insectos que succionan savia, consulte [L24 - Daño por succionamiento de savia](sap-sucking-damage.md).",
+        "treatment": {
+          "groups": [
+            {
+              "label": "Para casos leves (menos de la mitad de las hojas afectadas)",
+              "steps": [
+                {
+                  "title": "Poda las hojas manchadas"
+                },
+                {
+                  "title": "Sterilice las herramientas entre cortes"
+                }
+              ]
+            },
+            {
+              "label": "Para casos graves",
+              "steps": [
+                {
+                  "title": "Quita toda la follaje moteado"
+                },
+                {
+                  "title": "Aplicar fungicida de cobre semanalmente"
+                },
+                {
+                  "title": "En casos extremos, reemplace la planta"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "L07": {
+        "name": "Amarillamiento por falta de riego",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "body": "A algunos les gusta seco, a otros les gusta constantemente húmedo.",
+                  "title": "Investigue las necesidades de riego de cada planta"
+                },
+                {
+                  "title": "Establece un recordatorio en el calendario si tiendes a olvidar"
+                },
+                {
+                  "title": "Use un medidor de humedad del suelo o simplemente la prueba con el dedo antes de regar"
+                },
+                {
+                  "title": "Cubra las plantas exteriores con mantillo para ralentizar la evaporación"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Las hojas inferiores están amarillas, el suelo está seco y se tira de la maceta",
+        "symptomAnalysis": "Cuando la planta se queda sin agua, sacrifica primero sus hojas más antiguas para mantener viva la nueva crecimiento. El suelo que está seco hasta el segundo nudillo y se está reduciendo visiblemente por el borde del maceta confirma que la planta no está recibiendo suficiente agua. Común en hierbas y cualquier planta que haya sido descuidada.\n\nSe distingue del encharcamiento: suelo seco + hojas inferiores solo amarillentas = debajo. Suelo húmedo + hojas inferiores amarillentas + suelo con olor a agrio = encima (ver [L08](waterlogging-yellow.md)).",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Vierta el agua lentamente hasta que se escurra por el fondo"
+                },
+                {
+                  "title": "Si el suelo está tan seco que repela el agua: coloque la maceta en un recipiente con agua durante 30 minutos para que se impregne por el fondo."
+                },
+                {
+                  "title": "Cortar las hojas completamente muertas"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "L08": {
+        "name": "Inundación por exceso de agua",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Riega solo cuando el suelo superficial esté seco"
+                },
+                {
+                  "title": "Utilice macetas con agujeros de drenaje"
+                },
+                {
+                  "title": "Utilice un sustrato de maceta de alta calidad; los compactadores de suelo baratos se compactan y se quedan empapados."
+                },
+                {
+                  "title": "No dejes que los recipientes se queden en platos llenos de agua"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Las hojas inferiores se vuelven amarillas y luego se oscurecen, el suelo está constantemente húmedo",
+        "symptomAnalysis": "Demasiada agua desplaza el oxígeno del suelo, asfixiando las raíces. Las raíces podridas ya no pueden absorber agua, por lo que las hojas superiores muestran síntomas similares a la sequía mientras se encuentran en un suelo empapado. La planta recorta primero sus hojas inferiores para reducir la demanda.\n\nSi se deja, la pudrición se extiende y la planta muere. También puede aparecer como hojas blandas, oscurecidas y podridas en lugar de solo amarillas, la misma causa, pero más avanzada.\n\nPara el síntoma de la punta de la raíz, consulte [R01 — Podredumbre de la raíz](../05_roots/root-rot.md).",
+        "treatment": {
+          "groups": [
+            {
+              "label": "Para casos leves (solo amarillamiento)",
+              "steps": [
+                {
+                  "title": "Deje de regar hasta que las 2 pulgadas superiores del suelo estén secas"
+                },
+                {
+                  "title": "Mueve a un mejor flujo de aire si estás en interiores"
+                },
+                {
+                  "title": "Cortar las hojas amarillas más malas"
+                }
+              ]
+            },
+            {
+              "label": "Para casos graves (negreciamiento, pudrición)",
+              "steps": [
+                {
+                  "title": "Sacar de la olla e inspeccionar las raíces"
+                },
+                {
+                  "title": "Cortar las raíces podridas"
+                },
+                {
+                  "title": "Replantar en tierra seca fresca con drenaje"
+                },
+                {
+                  "title": "Poda hasta 1/3 de las hojas sanas para reducir la demanda de agua"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "L09": {
+        "name": "Amarillo envejecido y seco",
+        "shortDescription": "Unas pocas hojas basales amarillentas en una planta sana",
+        "symptomAnalysis": "Este es el envejecimiento normal. Las plantas desechan sus hojas más antiguas periódicamente. El amarilleamiento limitado a las hojas más bajas de una planta de por sí sana, sin manchas, plagas, oscurecimiento ni efecto generalizado, significa que la planta simplemente está rotando su follaje.\n\nSe diferencia de la falta de riego: el amarilleamiento seco solo afecta a 1-3 hojas más bajas a la vez, y las sustituciones crecen normalmente por encima. La falta de riego amarilla muchas hojas a la vez y el suelo está seco hasta el segundo nudillo.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Corte las hojas amarillas una vez que estén completamente secas"
+                },
+                {
+                  "title": "No dejes que las hojas caídas se queden en el suelo"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "L10": {
+        "name": "Clorosis general",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Alimentación regular durante la temporada de crecimiento"
+                },
+                {
+                  "title": "Riego constante"
+                },
+                {
+                  "title": "Pruebe el pH del suelo cada dos años"
+                },
+                {
+                  "title": "Utilice un sustrato de alta calidad para plantas de interior"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Toda la planta se está volviendo amarilla, deficiencia de nutrientes",
+        "symptomAnalysis": "La clorosis significa que las hojas no pueden producir suficiente clorofila. Causas:\n\n- **Deficiencia de nitrógeno (N)** - las hojas internas más viejas se vuelven amarillas primero; se extiende hacia afuera si es grave.\n- **Deficiencia de potasio (K)** - bordes de las hojas marrones y arrugados, con un borde amarillo justo por dentro.\n- **Deficiencia de zinc** - amarillentamiento en la base de las hojas.\n- **Cobre / boro** — las hojas más nuevas se vuelven amarillas primero; la follaje se vuelve quebradiza.\n\nPara patrones específicos:\n\n- Amarillo entre las venas, las venas permanecen verdes → [L11 — Deficiencia de hierro](iron-deficiency.md)\n- Vejigas amarillas, cuerpo de la hoja verde → [L12 — Clorosis venosa](veinal-chlorosis.md)\n\nLas causas de la inutilidad de los nutrientes incluyen la falta real en el suelo, el daño a las raíces y el pH incorrecto del suelo.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Aplicar un fertilizante equilibrado por etiqueta"
+                },
+                {
+                  "title": "O alimentación foliar para una absorción rápida"
+                },
+                {
+                  "title": "Pruebe el pH del suelo si la alimentación regular no ayuda"
+                },
+                {
+                  "title": "Añade compost; proporciona micronutrientes y mejora la estructura del suelo"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "L11": {
+        "name": "carencia de hierro",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Pruebe el suelo antes de plantar"
+                },
+                {
+                  "title": "En suelos alcalinos, elija plantas tolerantes en lugar de amantes del ácido."
+                },
+                {
+                  "title": "Mantener la aeración del suelo con compostaje regular"
+                },
+                {
+                  "title": "No sobrecalentar los contenedores de jardín; eleva el pH"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Amarillo entre las venas, las venas permanecen verdes (interveniales)",
+        "symptomAnalysis": "Clorosis intervenicular clásica. El hierro es necesario para producir clorofila, y las hojas no pueden sintetizar nuevos pigmentos sin él. A menudo, el suelo tiene mucho hierro, pero la planta no puede absorberlo porque el pH del suelo es demasiado alto (alcalino) o compactado.\n\nComún en cítricos, arándanos, hortensias, gardenias y muchas ornamentales en suelos alcalinos.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Spray foliar con hierro chelado"
+                },
+                {
+                  "title": "Aplicar hierro chelado al suelo para una corrección a largo plazo"
+                },
+                {
+                  "title": "Prueba de pH"
+                },
+                {
+                  "title": "Añade compost o otra materia orgánica; ayuda a hacer que el hierro esté disponible"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "L12": {
+        "name": "Clorosis venosa",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Pruebas periódicas del suelo"
+                },
+                {
+                  "title": "Utilice fertilizantes equilibrados, no aquellos con un solo nutriente, a menos que la prueba lo indique lo contrario."
+                },
+                {
+                  "title": "Mejora el drenaje y la aeración con compost y mantillo orgánico"
+                },
+                {
+                  "title": "Compruebe las nuevas plantas para detectar síntomas similares a los de los virus antes de traerlas al jardín."
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Las venas se vuelven amarillas, el resto de la hoja permanece verde",
+        "symptomAnalysis": "La clorosis venosa es menos común que la intervenosa. Las causas incluyen:\n\n- **Deficiencia de magnesio o cobre**\n- **Compactación del suelo** que impide la absorción de nutrientes por las raíces\n- **Virus mosaicos o enfermedades vegetales** que afectan el transporte de nutrientes\n- **Estres de frío en cítricos** durante las estaciones frías (a menudo se resuelve con el calor)\n\nMenos específico que la deficiencia de hierro, por lo que el diagnóstico generalmente comienza con una prueba de suelo.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Prueba del suelo primero"
+                },
+                {
+                  "title": "Basado en la prueba, aplique el nutriente deficiente correcto"
+                },
+                {
+                  "title": "Afloje el suelo compactado con una pala; mezcle con compost para la aeración"
+                },
+                {
+                  "body": "Los virus no se recuperan.",
+                  "title": "Si se sospecha un virus mosaico: [S43](../shared/treatment-steps.md#s43-discard-the-severely-infected-plant)"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "L13": {
+        "name": "Luz insuficiente",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Combina la planta con sus necesidades de luz desde el principio"
+                },
+                {
+                  "title": "Utiliza una luz de cultivo en invierno o en habitaciones oscuras"
+                },
+                {
+                  "title": "Rotar las plantas de interior 90 grados semanalmente"
+                },
+                {
+                  "title": "No sobreponga las plantas al aire libre"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Crecimiento pálido y de piernas largas que se extiende hacia la luz (etiolación)",
+        "symptomAnalysis": "La etiolación ocurre cuando una planta crece en poca luz. Produce etioplastos en lugar de clorofila, y los tallos se alargan de forma anormal a medida que la planta intenta alcanzar la luz. El resultado es un crecimiento pálido y débil que es más vulnerable a enfermedades y plagas.\n\nComún en: plantas de interior colocadas demasiado lejos de una ventana, plántulas bajo luces de cultivo inadecuadas, plantas exteriores sombreadas por vecinos supervivientes.",
+        "treatment": {
+          "groups": [
+            {
+              "label": "Para plantas de interior",
+              "steps": [
+                {
+                  "title": "Mueva gradualmente a una ventana que se dirija al sur o al oeste"
+                },
+                {
+                  "title": "Si la luz natural no está disponible, agregue una luz de cultivo en un temporizador de 12-14 horas"
+                },
+                {
+                  "title": "Gire la maceta semanalmente para que la planta crezca uniformemente"
+                }
+              ]
+            },
+            {
+              "label": "Para plantas exteriores",
+              "steps": [
+                {
+                  "title": "Cortar las plantas circundantes que compiten por la luz"
+                },
+                {
+                  "title": "Mueva las plantas en macetas a un lugar más soleado"
+                },
+                {
+                  "title": "Poda las ramas largas y débiles para que vuelvan a crecer."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "L14": {
+        "name": "Moho bacteriano de las hojas",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Limpiar los residuos de plantas al final de la temporada"
+                },
+                {
+                  "title": "Evite el riego por encima de la cabeza"
+                },
+                {
+                  "title": "Cubierta morta para evitar que el suelo salpique las hojas"
+                },
+                {
+                  "title": "Siempre esterilice las herramientas entre las plantas"
+                },
+                {
+                  "title": "**No hagas jardinería cuando las plantas estén mojadas.** Las bacterias se transfieren fácilmente a través de las hojas mojadas."
+                },
+                {
+                  "title": "La rotación de cultivos rompe la acumulación de bacterias"
+                },
+                {
+                  "title": "Pulido preventivo de cobre en la primera primavera"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Hojas blandas y podridas con olor a mal",
+        "symptomAnalysis": "La pudrición bacteriana de las hojas se produce por varias bacterias que entran a través de heridas, estomas (durante el tiempo húmedo) o a través de suelo salpicado. Una vez dentro, las bacterias se multiplican rápidamente y descomponen el tejido sano. Más común en condiciones húmedas y cálidas.\n\nSe propaga rápidamente entre las plantas si no se aborda. Se diferencia de las infecciones por hongos en la naturaleza suave, acuosa y apestosa de la pudrición.",
+        "treatment": {
+          "groups": [
+            {
+              "label": "Para casos leves",
+              "steps": [
+                {
+                  "title": "Corte las hojas afectadas hasta llegar al tejido limpio"
+                },
+                {
+                  "title": "Sterilizar entre cada corte"
+                },
+                {
+                  "title": "Aplicar bactericida de cobre al follaje restante y al suelo circundante"
+                }
+              ]
+            },
+            {
+              "label": "Para casos graves (>50 % afectados)",
+              "steps": [
+                {
+                  "title": "Retire y deseche la planta"
+                },
+                {
+                  "title": "Trate el suelo circundante y las plantas vecinas con un bactericida de cobre"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "L15": {
+        "name": "Deformidad de la hoja",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Fertilización constante"
+                },
+                {
+                  "title": "Monitoree para detectar plagas y trátelas temprano"
+                },
+                {
+                  "title": "Riego constante"
+                },
+                {
+                  "title": "Protege contra el helado"
+                },
+                {
+                  "body": "La deriva de herbicidas puede viajar cientos de pies por el viento.",
+                  "title": "Evite el uso de herbicidas cerca de las plantas del jardín"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Hojas deformadas, retorcidas, rugosas o torcidas",
+        "symptomAnalysis": "Varias causas:\n\n- **Daños por insectos**: ácaros, pulgones y otros chupadores de savia dejan a las plantas vulnerables a virus que distorsionan el crecimiento. Las galls (crecimientos elevados) provienen de insectos que forman galls, consulte [L16](leaf-gall.md).\n- **Drift de herbicidas**: incluso una pequeña exposición a herbicidas para césped o entradas de garaje causa hojas nuevas estrechas, distorsionadas y con forma de copa característicos.\n- **Daños por frío en la etapa de brote**: el helado durante la etapa de aparición de las hojas causa una distorsión permanente en esas hojas.\n- **Estrés hídrico**: demasiada o muy poca agua durante la fase de crecimiento distorsiona las hojas.\n- **Deficiencia de nutrientes** - La escasez de boro, calcio y molibdeno causa retraso del crecimiento.\n\nMira dónde está la deformidad (¿solo nuevas hojas? ¿solo algunas plantas?) para reducirla.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Quita las hojas deformadas para que la planta centre su energía en las nuevas"
+                },
+                {
+                  "body": "- Plagas visibles → ver [02_pests/](../02_pests/) y tratar - Todas las plantas en fila afectadas → deriva de herbicida; eliminar la exposición - Solo después de una helada → daño por frío; esperar a que pase - Con amarilleamiento → ver [L10 — Clorosis general](chlorosis-fertilizer.md)",
+                  "title": "Identificar la causa:"
+                },
+                {
+                  "title": "Aplicar fertilizante equilibrado si los nutrientes son sospechosos"
+                },
+                {
+                  "title": "Eliminar plantas con patrones de mosaico viral"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "L16": {
+        "name": "Gallo de hoja",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Raspar las hojas caídas"
+                },
+                {
+                  "title": "No fertilices en exceso"
+                },
+                {
+                  "title": "Mantenga las plantas bien regadas para evitar el estrés por sequía"
+                },
+                {
+                  "title": "Aplicar aceite hortícola inactivo a principios de primavera para controlar los insectos que hibernan en las plantas leñosas."
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Crecimientos anormales y rugosos en las hojas",
+        "symptomAnalysis": "Las gallas se forman cuando el tejido vegetal crece de forma anormal en respuesta a:\n\n- **Insectos que se alimentan de savia**: ácaros, pulgones, gusanos de gusano de gallina ponen huevos o se alimentan dentro de las hojas.\n- **Infección bacteriana o fúngica** - algunos patógenos desencadenan la formación de cálculos biliares.\n\nLa galla en sí generalmente no daña seriamente la planta. La causa subyacente puede hacerlo. Las gallas son más comunes en el crecimiento nuevo y después de inviernos suaves que no mataron a los productores de gallas.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Poda las hojas y ramas con gusanos"
+                },
+                {
+                  "title": "Sterilizar entre cortes"
+                }
+              ]
+            },
+            {
+              "label": "Para gusanos de gallina generalizados causados por ácaros o pulgones",
+              "steps": [
+                {
+                  "title": "Jabón insecticida"
+                },
+                {
+                  "title": "Aceite de neem"
+                }
+              ]
+            },
+            {
+              "label": "Para las úlceras causadas por infección bacteriana o fúngica",
+              "steps": [
+                {
+                  "title": "Fungicida/bactericida de cobre en primavera"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "L17": {
+        "name": "Baja humedad",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Mantener una humedad interior del 40-60 % para los tropicales"
+                },
+                {
+                  "title": "Mueva las plantas sensibles lejos de las rejillas de calefacción y las corrientes de aire del aire acondicionado"
+                },
+                {
+                  "title": "Agrupa plantas que aman la humedad; crean su propio microclima."
+                },
+                {
+                  "title": "Utilice un higrómetro para monitorear"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Los bordes de las hojas se doblan, las puntas marrones y crujientes",
+        "symptomAnalysis": "Cuando el aire está demasiado seco, las hojas pierden agua más rápido de lo que las raíces pueden reemplazarla. La planta enrolla sus hojas para reducir la transpiración. Las puntas y los bordes, donde el agua llega por último, se sequen primero.\n\nCausas comunes: calefacción en casa en invierno, aire acondicionado en verano, climas secos. Las plantas tropicales (calathea, helecho, higuera de hojas de violín, lirio de paz, planta de oración) son especialmente sensibles.\n\nSe diferencia de la falta de riego: la baja humedad provoca rizos y puntas marrones incluso cuando el suelo está húmedo. La falta de riego también seca el suelo.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Rocía diariamente, coloca las plantas en grupo, usa una bandeja de piedras o enciende un humidificador"
+                },
+                {
+                  "title": "Cortar las puntas marrones con tijeras para cosméticos"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "L18": {
+        "name": "Rollo de hojas de melocotón",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Aplicar fungicida de cobre"
+                },
+                {
+                  "title": "Comprar variedades resistentes (e"
+                },
+                {
+                  "title": "Raspar las hojas caídas"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Las nuevas hojas se enrollan, se vuelven rojas y se arrugan (por hongos)",
+        "symptomAnalysis": "Una enfermedad fúngica (*Taphrina deformans*) que infesta las hojas emergentes en primavera. El hongo estimula un crecimiento celular rápido y desordenado, produciendo las hojas hinchadas y distorsionadas. Las esporas sobreviven el invierno en la corteza y dentro de los brotes dormidos. Las primaveras frías y húmedas empeoran las brotes; el clima cálido y seco suprime el hongo.\n\nLos árboles gravemente infectados pierden gran parte de su primera brote de hojas. Los segundos brotes sanos suelen volver a crecer sin estar infectados.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Poda ramas severamente retorcidas"
+                },
+                {
+                  "title": "Aplicar fungicida de cobre"
+                },
+                {
+                  "title": "Mantenga el riego constante durante la recuperación"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "L19": {
+        "name": "Enfermedad de agujero de bal",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Riega las hojas y los escombros caídos regularmente"
+                },
+                {
+                  "title": "Pulido preventivo de cobre a finales del invierno y principios de la primavera"
+                },
+                {
+                  "title": "Poda para el flujo de aire"
+                },
+                {
+                  "title": "Elimine los árboles gravemente enfermos que no se recuperarán"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Puntos marrones que se secan y caen, dejando pequeños agujeros",
+        "symptomAnalysis": "Causado por una combinación de hongos (*Wilsonomyces carpophilus*) y bacterias. Común en árboles de frutas de piedra, como cerezas, peras, ciruelas y plátanos, y en laureles y algunas plantas ornamentales. Se desarrolla bien en climas cálidos y húmedos.\n\nEl daño es mayormente cosmético, pero puede causar una defoliación significativa en los malos años. No mata las plantas directamente, sino que las debilita.",
+        "treatment": {
+          "groups": [
+            {
+              "label": "Para casos leves",
+              "steps": [
+                {
+                  "title": "Retire las hojas enfermas inmediatamente, en días secos"
+                },
+                {
+                  "title": "Raspar la hojarasca caída"
+                }
+              ]
+            },
+            {
+              "label": "Para casos graves (muchos agujeros, caída de hojas)",
+              "steps": [
+                {
+                  "title": "Retire las hojas enfermas y el escombros triturados"
+                },
+                {
+                  "title": "Aplicar fungicida de cobre semanalmente durante el daño de primavera"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "L20": {
+        "homeRemedies": [
+          {
+            "ingredients": [
+              {
+                "name": "bicarbonato de sodio",
+                "quantity": "1 cucharadita"
+              },
+              {
+                "name": "Jabón para platos",
+                "quantity": "1 cucharadita"
+              },
+              {
+                "name": "agua",
+                "quantity": "1 galón"
+              }
+            ]
+          },
+          {
+            "ingredients": [
+              {
+                "name": "leche",
+                "quantity": "1 parte"
+              },
+              {
+                "name": "agua",
+                "quantity": "9 partes"
+              }
+            ]
+          },
+          {
+            "ingredients": [
+              {
+                "name": "aspirina",
+                "quantity": "1 tableta"
+              },
+              {
+                "name": "agua",
+                "quantity": "1 galón"
+              },
+              {
+                "name": "Jabón para platos",
+                "quantity": "Unas gotas"
+              }
+            ]
+          }
+        ],
+        "name": "Moho gris",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Elija variedades resistentes al moho"
+                },
+                {
+                  "title": "Espaciado amplio para el flujo de aire"
+                },
+                {
+                  "title": "Irrigación por goteo"
+                },
+                {
+                  "title": "Limpiar los escombros antes del invierno"
+                },
+                {
+                  "title": "Pulverización preventiva en plantas susceptibles"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Recubrimiento de polvo blanco en la superficie de la hoja, se quita con toallitas",
+        "symptomAnalysis": "Una familia de hongos que afecta a la mayoría de las plantas. Inusualmente para un hongo, prospera en condiciones cálidas y secas con noches húmedas, lo contrario de la mayoría de las enfermedades. El mediodía a finales del verano es la temporada alta. El polvo blanco es el hongo que crece en la superficie, no penetrando en las hojas.\n\nRara vez mata al huésped, pero reduce el vigor y el rendimiento. Los casos graves distorsionan las hojas y los frutos.\n\nPara la moho grisácea en frutas, consulte [FR06](../04_fruits/powdery-mildew-fruit.md).",
+        "treatment": {
+          "groups": [
+            {
+              "label": "Para casos leves o aislados",
+              "steps": [
+                {
+                  "title": "Cortar las hojas y tallos afectados"
+                },
+                {
+                  "title": "Abre el flujo de aire con poda selectiva"
+                }
+              ]
+            },
+            {
+              "label": "Para casos generalizados",
+              "steps": [
+                {
+                  "title": "Cortar el follaje gravemente afectado"
+                },
+                {
+                  "title": "Aplicar fungicida de cobre semanalmente"
+                },
+                {
+                  "title": "Mueva las plantas en macetas a un lugar más luminoso y soleado"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "L21": {
+        "name": "Moho ceniciento",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "body": "El moho es un síntoma posterior.",
+                  "title": "Trata a los chupadores de savia tan pronto como aparezcan"
+                },
+                {
+                  "title": "No fertilices en exceso"
+                },
+                {
+                  "title": "Fomentar a los depredadores naturales"
+                },
+                {
+                  "title": "Detenga a las hormigas en los troncos de los árboles con cinta adhesiva pegajosa: protegen a las plagas que producen néctar de los depredadores"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Recubrimiento negro similar a ceniza en las hojas debajo de los chupadores de savia",
+        "symptomAnalysis": "El moho ceniciento se produce por la deposición de esporas de hongos en el aire que aterrizan en la pegajosa néctar secretada por insectos que se alimentan de savia, como las pulgas blancas, las pulgas blancas, las escamas y las pulgas de melaza. El hongo se alimenta del néctar, no de la planta. Es inofensivo para la planta directamente, pero el revestimiento negro bloquea la luz solar y reduce la fotosíntesis.\n\nEl verdadero problema no es el moho; es la infestación de insectos que crea el néctar. Trate los plagas, el moho desaparecerá con la próxima lluvia.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "body": "- Áfidos → [P02](../02_pests/aphids.md) - Mosca blanca → [P15](../02_pests/whiteflies.md) - Escamas → [P03](../02_pests/scale-insects.md) - Pulgas de melaza → [P04](../02_pests/mealybugs.md)",
+                  "title": "**Identifique y trate el plagio subyacente** - consulte la entrada relevante en [02_pests/](../02_pests/):"
+                },
+                {
+                  "title": "Limpiar las hojas con un paño húmedo y jabonoso para eliminar el moho visible"
+                },
+                {
+                  "title": "Un fuerte chorro de agua enjuaga tanto a los plagas como a los residuos"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "L22": {
+        "name": "óxido",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Comprar variedades resistentes a la oxidación"
+                },
+                {
+                  "title": "Inspecciona las nuevas plantas en busca de manchas naranjas"
+                },
+                {
+                  "title": "Irrigación por goteo por la mañana"
+                },
+                {
+                  "title": "Espaciado amplio"
+                },
+                {
+                  "title": "Cubrir con mantillo grueso"
+                },
+                {
+                  "title": "Limpiar los escombros en otoño"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Pustulaciones elevadas naranjas o marrón rojizo en las hojas",
+        "symptomAnalysis": "La ferruginez se produce por miles de especies de hongos diferentes del orden *Pucciniales*. Se desarrollan bien en condiciones cálidas y húmedas. Las esporas se propagan por el viento y el agua. La mayoría de las ferruginosas tienen ciclos de vida complejos que implican dos plantas huésped.\n\nRara vez mata, pero debilita las plantas y reduce el rendimiento. Común en rosas, colchones de monte, campanulas, judías, lirios de la paz, abetos, manzanas, peras.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Poda las hojas oxidadas"
+                },
+                {
+                  "title": "Aplicar fungicida de cobre semanalmente"
+                },
+                {
+                  "title": "Deje de regar por encima inmediatamente"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "L23": {
+        "homeRemedies": [
+          null,
+          {
+            "ingredients": [
+              {
+                "name": "bicarbonato de sodio",
+                "quantity": "1 cucharadita"
+              },
+              {
+                "name": "Jabón para platos",
+                "quantity": "1 cucharadita"
+              },
+              {
+                "name": "agua",
+                "quantity": "1 galón"
+              }
+            ]
+          }
+        ],
+        "name": "Moho gris (botrytis)",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Espaciado amplio para el flujo de aire"
+                },
+                {
+                  "title": "Sin agua de sobrepresión"
+                },
+                {
+                  "title": "Ten cuidado de no herir las plantas, las heridas invitan al hongo"
+                },
+                {
+                  "title": "Sterilizar las herramientas de jardín"
+                },
+                {
+                  "title": "Cobre preventivo en la primera primavera en plantas susceptibles"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Moho peludo grisáceo-castaño en hojas dañadas o mojadas",
+        "symptomAnalysis": "Provocado por *Botrytis cinerea*, un hongo común que prefiere condiciones frías, húmedas y estáticas. Se alimenta primero de tejidos muertos y dañados, luego se mueve a tejidos sanos. Las esporas se propagan por salpicaduras de agua y viento.\n\nLas fresas, las peonías, las rosas, la lechuga y muchas plantas ornamentales son huéspedes comunes. A menudo se le llama \"moho noble\" en las uvas utilizadas para los vinos dulces, pero en la mayoría de las plantas es destructivo.\n\nPara la botricosis en las flores, consulte [FL05 — Moho en las pétalas](../06_flowers/petal-blight.md).",
+        "treatment": {
+          "groups": [
+            {
+              "label": "Para casos leves",
+              "steps": [
+                {
+                  "title": "Corte el tejido afectado hasta obtener madera limpia"
+                },
+                {
+                  "title": "Sterilizar entre cortes"
+                },
+                {
+                  "title": "Mielaza para evitar que las esporas salgan por la ventana"
+                }
+              ]
+            },
+            {
+              "label": "Para casos graves",
+              "steps": [
+                {
+                  "title": "Eliminar todo el tejido afectado"
+                },
+                {
+                  "title": "Limpiar todo el desorden alrededor de la planta"
+                },
+                {
+                  "title": "Aplicar fungicida de cobre cada 1-2 semanas"
+                },
+                {
+                  "title": "Deje que la planta se seque entre riegos"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "L24": {
+        "name": "Daño por succionamiento de savia",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Inspeccionar las nuevas plantas en busca de manchas y partes inferiores"
+                },
+                {
+                  "title": "No fertilices en exceso con nitrógeno"
+                },
+                {
+                  "title": "Mantener hábitat para insectos depredadores"
+                },
+                {
+                  "title": "Limpiar malezas y escombros"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Pequeños puntos densos amarillos o blancos de manchas",
+        "symptomAnalysis": "Provocado por insectos que succionan savia, como pulgones, pulgones blancos, pulgones de hojas, pulgones de encaje, ácaros, pulgones de melaza, trips, que perforan el tejido de la hoja y succionan el contenido celular. Cada punción deja un pequeño punto pálido (\"pintada\"). Con muchos alimentadores, los puntos se fusionan en un aspecto bronceado o plateado.\n\nLas hojas no matan directamente la planta, pero la mancha la debilita y muchos de estos insectos también propagan virus de la planta.\n\nEsta entrada cubre el síntoma de la hoja. Para el plagio específico que lo causa, consulte [02_pests/](../02_pests/).",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "body": "Corresponde a: - Pequeños puntos + telarañas → [P05 — Ácaros araña](../02_pests/spider-mites.md) - Cuerpos blandos en forma de pera agrupados → [P02 — Aphids](../02_pests/aphids.md) - Moscas blancas similares a polillas → [P15 — Whiteflies](../02_pests/whiteflies.md) - Alas con encaje con puntos negros debajo → [P11 — Lace bugs](../02_pests/lace-bugs.md) - Saltadores en forma de cuchara → [P12 — Leafhoppers](../02_pests/leafhoppers.md) - Creadores delgados de rayas plateadas → [P10 — Thrips](../02_pests/thrips.md)",
+                  "title": "**Identifique el plagio** - voltee las hojas y busque pequeños insectos debajo de las hojas o en las articulaciones"
+                },
+                {
+                  "title": "Pulveriza los plagas con la manguera"
+                },
+                {
+                  "title": "Jabón insecticida"
+                },
+                {
+                  "title": "Liberar mariquitas y libélulas de seda"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "P01": {
+        "name": "Mariposas monarca",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Cubra las plantas con una red antes de que lleguen los adultos"
+                },
+                {
+                  "title": "Compruebe las partes inferiores de las hojas regularmente para detectar grupos de pequeños huevos."
+                },
+                {
+                  "title": "Fomentar avispas parasitas y pájaros"
+                },
+                {
+                  "title": "Limpiar los escombros donde las pupas pasan el invierno"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Larvas mastigadoras en forma de gusano de polillas y mariposas",
+        "symptomAnalysis": "Las orugas mastican agujeros irregulares en las hojas y pueden despojar la vegetación de sus venas desnudas. Algunas se especializan en ciertas plantas (cabbage white en crucíferas, hornworm en tomates). La mayoría son más activas en primavera y verano; algunas especies se alimentan en otoño e invierno.\n\nPuede ver hojas masticadas, bolas fecales oscuras (\"frass\") y las propias orugas en la parte inferior de las hojas.",
+        "treatment": {
+          "groups": [
+            {
+              "label": "Para casos leves",
+              "steps": [
+                {
+                  "title": "Seleccionar manualmente las orugas en agua jabonosa"
+                },
+                {
+                  "title": "Poda las hojas gravemente dañadas"
+                }
+              ]
+            },
+            {
+              "label": "Para casos graves",
+              "steps": [
+                {
+                  "title": "Aplicar Bt"
+                },
+                {
+                  "title": "Liberar avispas parasitas"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "P02": {
+        "homeRemedies": [
+          null,
+          {
+            "ingredients": [
+              {
+                "name": "Jabón para platos",
+                "quantity": "1 cucharadita"
+              },
+              {
+                "name": "agua",
+                "quantity": "1 galón"
+              }
+            ]
+          }
+        ],
+        "name": "Áfidos",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Cuarentena e inspeccione nuevas plantas"
+                },
+                {
+                  "title": "Eliminar las malas hierbas cercanas"
+                },
+                {
+                  "title": "Mantener hábitat para mariquitas y libélulas de encaje"
+                },
+                {
+                  "title": "No fertilices en exceso con nitrógeno: el nuevo crecimiento suave atrae a las pulgas"
+                },
+                {
+                  "title": "Inspecciona el nuevo crecimiento con frecuencia; atrapalos temprano"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Suaves sugadores de savia en forma de pera, a menudo verdes o negros",
+        "symptomAnalysis": "Las pulgones perforan el tejido de la planta y succionan el néctar. Las infestaciones pesadas marchitan el crecimiento nuevo, distorsionan las hojas y detienen el desarrollo de la planta. Excretan un néctar pegajoso que gotea sobre las hojas inferiores y crece negro [moho ceniciento](../01_leaves/sooty-mold.md). La actividad pesada de las hormigas es una señal: las hormigas crían pulgones para obtener néctar.\n\nLas pulgones se reproducen extremadamente rápido (nacimientos vivos, no se necesitan huevos en la temporada de crecimiento). Un pequeño grupo se convierte en una infestación en pocos días. También propagan virus de las plantas.",
+        "treatment": {
+          "groups": [
+            {
+              "label": "Para casos leves",
+              "steps": [
+                {
+                  "title": "Desplázate con un fuerte chorro de agua"
+                },
+                {
+                  "title": "Limpiar los grupos con un paño húmedo y jabonoso"
+                }
+              ]
+            },
+            {
+              "label": "Para casos graves",
+              "steps": [
+                {
+                  "title": "Jabón insecticida en las partes inferiores de las hojas"
+                },
+                {
+                  "title": "Aceite de neem para infestaciones persistentes"
+                },
+                {
+                  "title": "Liberar mariquitas y libélulas de seda"
+                },
+                {
+                  "title": "Corte las puntas fuertemente infestadas"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "P03": {
+        "homeRemedies": [
+          null,
+          {
+            "ingredients": [
+              {
+                "name": "Jabón para platos",
+                "quantity": "1 cucharadita"
+              },
+              {
+                "name": "agua",
+                "quantity": "1 galón"
+              }
+            ]
+          }
+        ],
+        "name": "Insectos pulgones",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Inspecciona cada nueva planta cuidadosamente"
+                },
+                {
+                  "title": "Mantener las plantas sanas"
+                },
+                {
+                  "title": "Inspeccione las plantas de interior mensualmente, centrándose en las partes inferiores de las hojas y las articulaciones del tallo"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Bultos duros o blandos de 2-3 mm pegados a las hojas y tallos",
+        "symptomAnalysis": "Las plagas de pulgones se alimentan de savia. Una vez adheridas, no se mueven para siempre. Su cáscara dura o suave y cerosa las protege de los aerosoles y los depredadores. Las infestaciones severas causan amarillecimiento, caída y muerte de las hojas.\n\nLa etapa de caminata (nuevamente eclosionada, antes de anclar) es la única etapa móvil y la única etapa fácil de matar con aerosoles. Puede estar presente melaza pegajosa, lo que lleva a un moho secundario [puzolento](../01_leaves/sooty-mold.md).",
+        "treatment": {
+          "groups": [
+            {
+              "label": "Para casos leves",
+              "steps": [
+                {
+                  "title": "Limpiar las escamas con un paño húmedo"
+                },
+                {
+                  "title": "Cortar ramas fuertemente infestadas"
+                }
+              ]
+            },
+            {
+              "label": "Para casos graves",
+              "steps": [
+                {
+                  "title": "Aceite de neem"
+                },
+                {
+                  "title": "Insecticida sistémico para caracoles"
+                },
+                {
+                  "title": "Las mariposas monarca se alimentan de escamas al aire libre"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "P04": {
+        "name": "Pulgas de la miel",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Cuarentena e inspeccione las nuevas plantas durante al menos 2 semanas"
+                },
+                {
+                  "title": "No fertilices en exceso con nitrógeno"
+                },
+                {
+                  "title": "Inspeccione las juntas de las hojas y las partes inferiores mensualmente en las plantas de interior"
+                },
+                {
+                  "title": "Limpiar los escombros alrededor de la base"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Pestos blancos suaves y polvorientos de 1-2 mm en las articulaciones de las hojas",
+        "symptomAnalysis": "Las pulgas de melaza son sugadores de savia relacionados con las escamas cubiertas con un recubrimiento blanco y ceroso que repela el agua y muchos aerosoles. Viven en grupos y se esconden en lugares protegidos: las uniones de las hojas, la superficie del suelo, las grietas del tallo. La melaza conduce a [moho ceniciento](../01_leaves/sooty-mold.md).\n\nUna plaga común de plantas de interior, especialmente en suculentas, orquídeas y tropicales.",
+        "treatment": {
+          "groups": [
+            {
+              "label": "Para casos leves",
+              "steps": [
+                {
+                  "title": "Limpiar con un paño con jabón"
+                },
+                {
+                  "title": "Rocía plantas resistentes con un chorro fuerte de manguera"
+                }
+              ]
+            },
+            {
+              "label": "Para casos graves",
+              "steps": [
+                {
+                  "title": "Jabón insecticida"
+                },
+                {
+                  "title": "Aceite de neem"
+                },
+                {
+                  "title": "Sistémico si los tratamientos superficiales fallan"
+                },
+                {
+                  "title": "El destructor de pulgones (Cryptolaemus) es un depredador especializado"
+                },
+                {
+                  "title": "Para plantas de interior fuertemente infestadas, deseche en lugar de arriesgar toda la colección"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "P05": {
+        "homeRemedies": [
+          null,
+          {
+            "ingredients": [
+              {
+                "name": "Jabón para platos",
+                "quantity": "1 cucharadita"
+              },
+              {
+                "name": "agua",
+                "quantity": "1 galón"
+              }
+            ]
+          }
+        ],
+        "name": "Acariótidos de araña",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Mantenga la humedad por encima del 40 % en interiores"
+                },
+                {
+                  "title": "Inspeccionar las nuevas plantas en busca de manchas y enredaderas"
+                },
+                {
+                  "title": "No fertilices en exceso"
+                },
+                {
+                  "title": "Rocíe las plantas con agua corriente periódicamente para interrumpir las poblaciones de ácaros"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Pocoesos ácaros rojos o amarillos, fina malla",
+        "symptomAnalysis": "Las ácaros de araña (tecnicamente arácnidos) son apenas visibles, de unos 1/50 de pulgada. Se alimentan de la parte inferior de las hojas, succionando el contenido celular y dejando diminutos puntos pálidos llamados \"pintadas\". Las infestaciones severas producen telarañas en la parte inferior y en las juntas de las hojas.\n\nSe desarrollan bien en condiciones calientes, secas y polvorientas y se reproducen de forma explosiva (una generación cada 5-7 días en clima cálido). En interiores, son más activos en invierno, cuando el calefacción doméstica seca el aire.",
+        "treatment": {
+          "groups": [
+            {
+              "label": "Para casos leves",
+              "steps": [
+                {
+                  "title": "Fuerte chorro de agua, enfocado en las partes inferiores"
+                },
+                {
+                  "title": "Aumente la humedad alrededor de las plantas de interior"
+                }
+              ]
+            },
+            {
+              "label": "Para casos graves",
+              "steps": [
+                {
+                  "title": "Jabón insecticida, en las partes inferiores"
+                },
+                {
+                  "title": "Aceite de neem"
+                },
+                {
+                  "title": "Las ácaros depredadores (*Phytoseiulus persimilis*) trabajan al aire libre"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "P06": {
+        "name": "Coccinilos de hojas",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Cubiertas de hileras desde la siembra hasta la floración"
+                },
+                {
+                  "title": "Limpiar los escombros donde los adultos pasan el invierno"
+                },
+                {
+                  "title": "Fomentar a los depredadores naturales con plantaciones diversas"
+                },
+                {
+                  "title": "La rotación de cultivos rompe los ciclos de vida de los bichos"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Los escarabajos ovalados cavan agujeros irregulares de 1-20 mm para masticar.",
+        "symptomAnalysis": "Una amplia familia (*Chrysomelidae*) de escarabajos que mastican hojas. Afectan a la mayoría de las plantas de jardín y pueden defoliarlas rápidamente. Muchos también se alimentan de flores, tallos y raíces. Más activos de primavera a otoño. Invierten el invierno como adultos bajo la corteza, las hojas y los escombros.\n\nAlgunas especies (carbidívoros de pepino, carbidívoros de papa de Colorado, carbidívoros de pulgas) son plagas importantes del jardín; otras solo causan daños cosméticos menores.",
+        "treatment": {
+          "groups": [
+            {
+              "label": "Para casos leves",
+              "steps": [
+                {
+                  "title": "Escoger a mano en agua jabonosa (tarde, cuando está más activo)"
+                },
+                {
+                  "title": "Cubra las plantas con una cubierta de hileras"
+                }
+              ]
+            },
+            {
+              "label": "Para casos graves",
+              "steps": [
+                {
+                  "title": "Aceite de neem"
+                },
+                {
+                  "title": "Piretrina por la noche para proteger a las abejas"
+                },
+                {
+                  "title": "Anime a las aves y las avispas con plantaciones diversas"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "P07": {
+        "name": "Gusanos de hojas",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Inspecciona los plantones antes de plantar"
+                },
+                {
+                  "title": "Remoje las raíces de los plantones de raíz desnuda en un insecticida sistémico antes de plantar en áreas fuertemente infestadas"
+                },
+                {
+                  "title": "Enjambres de árboles jóvenes cultivados en contenedores de cuarentena que muestran daños"
+                },
+                {
+                  "title": "Limpiar los escombros del suelo debajo de los árboles afectados"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Bichos de escamas pesadamente armados con bordes de hojas mastigadas",
+        "symptomAnalysis": "El gusano hormiga verde pálido (*Polydrusus impressifrons*) y especies similares se alimentan de los bordes de las hojas de árboles de madera dura: abedul, arce, sauce, abedul, árboles frutales. Los daños se muestran a finales de primavera y principios de verano. Las larvas recién eclosionadas se alimentan de las raíces jóvenes cerca de la línea del suelo.\n\nLas chinches adultas tienen un corto período de alimentación (unas pocas semanas), por lo que los árboles maduros suelen resistir los daños. Los árboles jóvenes y los arbustos están en mayor riesgo.",
+        "treatment": {
+          "groups": [
+            {
+              "label": "Para infestaciones graves en jóvenes plantones",
+              "steps": [
+                {
+                  "title": "Spray foliar de piretrina"
+                },
+                {
+                  "title": "Aplicar insecticida sistémico"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "P08": {
+        "name": "Bichos de Longhorn",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "body": "Los árboles estresados atraen a los escarabajos.",
+                  "title": "Mantenga los árboles sanos: riegue, fertilice y evite heridas"
+                },
+                {
+                  "title": "No muevas leña de un lugar a otro de las regiones, es la forma habitual en que se propaga la antílope asiática de cuernos largos."
+                },
+                {
+                  "title": "Inspecciona los nuevos árboles para detectar agujeros de taladro o escombros de madera"
+                },
+                {
+                  "title": "Poda el madera muerta y moribunda de inmediato para que los escarabajos no se establezcan"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Cocorrones de antenas largas perforando troncos leñosos",
+        "symptomAnalysis": "Los escarabajos Longhorn (*familia Cerambycidae*) son polvorientos de madera. Los adultos ponen huevos en la corteza; las larvas eclosionan y cavan túneles en el tronco para alimentarse de madera viva durante 1-3 años. La excavación de túneles corta el flujo de agua y nutrientes del árbol. Signos visibles: pequeños agujeros de salida redondos, paja en la base del tronco, ramas muriendo desde la parte superior.\n\nPrefieren madera dura herida, estresada o recién cortada. Algunas especies asiáticas son plagas introducidas de gran preocupación (batería de cola larga asiática, batería de cola larga de cítricos).",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Aplicar un insecticida sistémico a los árboles de alto valor según la etiqueta"
+                },
+                {
+                  "title": "Poda y quema ramas fuertemente infestadas en clima seco"
+                },
+                {
+                  "title": "Informe las observaciones de escarabajos de cola larga asiáticos a su extensión agrícola local, ya que es una especie invasora regulada en los EE. UU."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "P09": {
+        "name": "Caracoles y escarabajos",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Eliminar lugares de escondite"
+                },
+                {
+                  "title": "La cinta de cobre forma una barrera que las babosas no cruzarán, envuelve macetas y macetas elevadas"
+                },
+                {
+                  "title": "Agua por la mañana para que las plantas estén secas por la noche"
+                },
+                {
+                  "title": "Fomentar a los depredadores naturales (ranas, patos, escarabajos terrestres)"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Moluscos blandos mastican hojas por la noche",
+        "symptomAnalysis": "Las babosas y caracoles se alimentan principalmente por la noche y en días nublados o lluviosos, escondiéndose bajo tablas, rocas y follaje denso durante el día. Prefieren condiciones húmedas y pueden devorar por completo las plántulas. Los huevos se ponen en grupos en suelo húmedo.\n\nUn pequeño número está bien; una población puede decimar un jardín de verduras o un parterre de hostas en una semana.",
+        "treatment": {
+          "groups": [
+            {
+              "label": "Para casos leves",
+              "steps": [
+                {
+                  "title": "Seleccionar a mano por la noche con una linterna"
+                },
+                {
+                  "title": "Espacios ocultos claros: tablas, piedras, cobertura densa de maleza"
+                },
+                {
+                  "body": "Levántalos por la mañana para encontrar caracoles escondidos debajo.",
+                  "title": "Coloca pequeñas tablas en el jardín como trampas"
+                }
+              ]
+            },
+            {
+              "label": "Para casos graves",
+              "steps": [
+                {
+                  "body": "Distribuir alrededor de las plantas por la noche.",
+                  "title": "La trampa para caracoles de fosfato de hierro (vendida como Sluggo, Escar-Go) es más segura para mascotas y pájaros que las trampas a base de metalaldehído."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "P10": {
+        "homeRemedies": [
+          {
+            "ingredients": [
+              {
+                "name": "Jabón para platos",
+                "quantity": "1 cucharadita"
+              },
+              {
+                "name": "agua",
+                "quantity": "1 galón"
+              }
+            ]
+          }
+        ],
+        "name": "Tripas",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Inspecciona las nuevas plantas para detectar rayas plateadas"
+                },
+                {
+                  "title": "Poda los ramas y hojas muertas"
+                },
+                {
+                  "title": "Limpiar malezas y escombros"
+                },
+                {
+                  "title": "Mantener hábitat para insectos depredadores"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Pequeños y delgados creadores de rayas de plata de movimiento rápido de 1-2 mm",
+        "symptomAnalysis": "Los trips tienen partes bucales raspadoras que raspan las células de las plantas y succionan el contenido, dejando cicatrices plateadas y un aspecto pálido con manchas. Se esconden en los brotes de flores y en las uniones de las hojas. Las infestaciones pesadas distorsionan las hojas y dañan las flores y los frutos en desarrollo.\n\nLos trips son vectores de varios virus de plantas, por lo que incluso una pequeña población puede causar enfermedades secundarias.",
+        "treatment": {
+          "groups": [
+            {
+              "label": "Para casos leves",
+              "steps": [
+                {
+                  "title": "Pulso de agua fuerte"
+                },
+                {
+                  "title": "Las trampas pegajosas amarillas o azules atrapan a los adultos voladores"
+                }
+              ]
+            },
+            {
+              "label": "Para casos graves",
+              "steps": [
+                {
+                  "title": "Spray de piretrina"
+                },
+                {
+                  "title": "Jabón insecticida en las partes inferiores de las hojas"
+                },
+                {
+                  "title": "Libera a los bichos piratas y las libélulas de encaje"
+                },
+                {
+                  "title": "Desechar especímenes fuertemente infestados"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "P11": {
+        "homeRemedies": [
+          {
+            "ingredients": [
+              {
+                "name": "Jabón para platos",
+                "quantity": "1 cucharadita"
+              },
+              {
+                "name": "agua",
+                "quantity": "1 galón"
+              }
+            ]
+          }
+        ],
+        "name": "Insectos de encaje",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Inspeccionar nuevas plantas"
+                },
+                {
+                  "title": "Mantenga las plantas bien regadas y alimentadas"
+                },
+                {
+                  "title": "Mueva las plantas estresadas por el calor a sombra parcial"
+                },
+                {
+                  "title": "Limpiar los escombros donde se esconden los adultos que hibernan."
+                },
+                {
+                  "title": "Inspeccionar a finales de primavera antes de que las poblaciones alcancen su punto máximo"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Chupadores de savia con alas de encaje, manchas blancas en las hojas",
+        "symptomAnalysis": "Los gusanos de encaje utilizan partes bucales similares a agujas para succionar nutrientes de la parte inferior de las hojas, causando manchas pálidas en la superficie superior. Dejan grupos de excrementos negros similares a alquitrán en la parte inferior de la hoja. Más comunes en mediados o finales del verano en el pico de la población.\n\nEl daño es mayormente cosmético, pero las infestaciones graves debilitan las plantas y las dejan expuestas a otros plagas y enfermedades. Objetivos comunes: azaleas, rododendros, sicomores, robles, lantana.",
+        "treatment": {
+          "groups": [
+            {
+              "label": "Para casos leves",
+              "steps": [
+                {
+                  "title": "Pulso fuerte de agua bajo las hojas"
+                },
+                {
+                  "title": "Limpiar con un paño con jabón"
+                }
+              ]
+            },
+            {
+              "label": "Para casos graves",
+              "steps": [
+                {
+                  "title": "Jabón insecticida, enfocado en las partes inferiores de las hojas"
+                },
+                {
+                  "title": "Las libélulas de encaje, las mariposas monarca y los escarabajos asesinos se alimentan de las libélulas de encaje"
+                },
+                {
+                  "title": "Para infestaciones graves en plantas pequeñas: [S04](../shared/treatment-steps.md#s04-prune-infected-leaves-and-stems) - podar y quemar los miembros gravemente afectados"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "P12": {
+        "name": "Saltamontes",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Las cubiertas de hileras protegen a las plantas jóvenes"
+                },
+                {
+                  "title": "Retire los residuos del jardín en otoño para evitar que sean sitios de invernada."
+                },
+                {
+                  "title": "Fomentar a los depredadores naturales con plantaciones diversas"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Chaquetas de forma de cuchilla, manchas claras en las hojas",
+        "symptomAnalysis": "Los saltamontes se alimentan de la savia de las plantas de las hojas, tallos y tallos de crecimiento nuevo. Una alimentación pesada provoca que las hojas se arruguen, se vuelvan amarillas (\"quemadura de saltamontes\") y que el crecimiento se detenga. Saltan o vuelan cuando se les molesta. Anfitriones comunes: frijoles, maíz, lechuga, remolacha, patatas, uvas, rosas.\n\nAl igual que los trips, los pulgones transmiten enfermedades virales y bacterianas entre las plantas, a veces más dañinas que el propio insecto.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Jabón insecticida"
+                },
+                {
+                  "title": "Piretrina o azadiractina para casos graves"
+                },
+                {
+                  "title": "Mariposas de encaje y mariquitas"
+                },
+                {
+                  "title": "Cubra las plantas jóvenes con cubiertas de hileras"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "P13": {
+        "name": "Polillas Tortrix",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Inspecciona las nuevas plantas para detectar hojas enrolladas"
+                },
+                {
+                  "title": "Limpiar los residuos de plantas donde las pupas pasan el invierno"
+                },
+                {
+                  "title": "Fomentar avispas parasitas y pájaros"
+                },
+                {
+                  "title": "Trapas de feromonas de la primera temporada"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Las orugas enrollan hojas en tubos sedosos",
+        "symptomAnalysis": "Las orugas de polilla Tortrix (roladora de hojas) enrollan hojas alrededor de sí mismas y las atan con seda, luego se alimentan desde dentro del tubo protegido. También se alimentan de frutas, a veces atando las frutas a las hojas. Muchas especies; se encuentran en frutas, verduras y ornamentales. Más activas desde finales de primavera hasta principios de otoño.\n\nLas poblaciones de invernaderos pueden ser durante todo el año.",
+        "treatment": {
+          "groups": [
+            {
+              "label": "Para casos leves",
+              "steps": [
+                {
+                  "title": "Poda las hojas enrolladas"
+                },
+                {
+                  "title": "Las trampas de feromonas atrapan a los machos y interrumpen la cría."
+                }
+              ]
+            },
+            {
+              "label": "Para casos graves",
+              "steps": [
+                {
+                  "title": "Aplicar Bacillus thuringiensis (Bt)"
+                },
+                {
+                  "title": "El Spinosad es efectivo para infestaciones persistentes según la etiqueta"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "P14": {
+        "name": "Mineros de hojas",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Cubiertas de hileras desde la época de plantación"
+                },
+                {
+                  "title": "Elimina las malas hierbas y las hojas viejas donde se reproducen los mineros"
+                },
+                {
+                  "title": "Inspeccionar nuevas plantas"
+                },
+                {
+                  "title": "Evite los pesticidas de amplio espectro, ya que matan a las vespas parasitas que controlan naturalmente a los mineros."
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Larvas de moscas excavando burbujas blancas dentro de las hojas",
+        "symptomAnalysis": "Los mineros de hojas son diminutas larvas de moscas, polillas o escarabajos que cavan túneles entre las capas superior e inferior de una hoja, comiendo el tejido blando que hay dentro. Las huellas visibles son los túneles vacíos que dejan atrás. La mosca adulta pone huevos entre las capas de la hoja; las larvas nacidas se alimentan durante 1-3 semanas y luego caen para pupilar en el suelo.\n\nDaños cosméticos en la mayoría de las ornamentales; daños significativos en las verduras comestibles (espinacas, acelgas, remolacha).",
+        "treatment": {
+          "groups": [
+            {
+              "label": "Para casos leves",
+              "steps": [
+                {
+                  "title": "Apriete las hojas con minas activas y desechelas"
+                }
+              ]
+            },
+            {
+              "label": "Para casos graves",
+              "steps": [
+                {
+                  "title": "Aceite de neem"
+                },
+                {
+                  "title": "El spray de spinosad (vendido como Entrust) por etiqueta es efectivo contra los mineros"
+                },
+                {
+                  "title": "Las avispas parásitas ponen huevos dentro de las larvas de mineros"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "P15": {
+        "name": "Mosquitos blancos",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Cuarentena nuevas plantas durante 2 semanas"
+                },
+                {
+                  "title": "Cubiertas de hileras"
+                },
+                {
+                  "title": "Trapas pegajosas amarillas como herramienta de monitoreo en interiores"
+                },
+                {
+                  "title": "Elimina las malas hierbas donde las pulgas blancas pasan el invierno"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Pocoas moscas blancas similares a polillas bajo las hojas, néctar de abejas",
+        "symptomAnalysis": "Las pulgas blancas son chupadoras de savia como las pulgones y las pulgas de melaza, con los mismos efectos: hojas amarillentas, crecimiento distorsionado, melaza y moho ceniciento posterior [sooty-mold](../01_leaves/sooty-mold.md). Son comunes en tomates, pimientos, berenjenas, hibisco y muchas plantas de interior.\n\nCada adulto pone cientos de huevos en las partes inferiores de las hojas. Las ninfas son escamas ovaladas planas, casi translúcidas, pegadas a la hoja. Las infestaciones pesadas se multiplican de forma explosiva en el clima cálido.",
+        "treatment": {
+          "groups": [
+            {
+              "label": "Para casos leves",
+              "steps": [
+                {
+                  "title": "Aspirar con manguera"
+                },
+                {
+                  "title": "Las trampas pegajosas amarillas atrapan a adultos voladores"
+                }
+              ]
+            },
+            {
+              "label": "Para casos graves",
+              "steps": [
+                {
+                  "title": "Jabón insecticida en las partes inferiores"
+                },
+                {
+                  "title": "Aceite de neem"
+                },
+                {
+                  "title": "Vespas Encarsia formosa para uso en invernadero"
+                },
+                {
+                  "title": "Deseche una planta de interior fuertemente infestada antes de que se propague a otras"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "P16": {
+        "name": "Mosquitos de hongos (adultos)",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "El paso más importante de todos"
+                },
+                {
+                  "title": "Capa de arena o grava encima"
+                },
+                {
+                  "title": "Inspeccionar el suelo de la nueva planta para detectar adultos o larvas"
+                },
+                {
+                  "title": "Sterilice el sustrato de cultivo antes del uso si almacena bolsas parcialmente usadas"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Mosquitos negros flotando cerca del suelo de las plantas de interior",
+        "symptomAnalysis": "Las moscas de hongos adultas son pequeñas (1/8 de pulgada), negras y similares a mosquitos. Son voladoras débiles y tienden a caminar sobre superficies de suelo. Los adultos no dañan las plantas directamente, pero cada hembra pone ~200 huevos en suelo húmedo, y las larvas se alimentan de los delicados pelos de las raíces. Consulte [R07](../05_roots/fungus-gnat-larvae.md) para ver el daño larval/radicular.\n\nComún en cualquier planta de interior mantenida demasiado húmeda, especialmente en plántulas, helechos y tropicales.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Deje que el suelo superior se seque entre riegos"
+                },
+                {
+                  "title": "Solo agua del fondo"
+                },
+                {
+                  "title": "Cubrir con arena para bloquear la puesta de huevos."
+                },
+                {
+                  "title": "Las trampas pegajosas amarillas colocadas planas o inclinadas a nivel del suelo atrapan a los adultos"
+                },
+                {
+                  "title": "Bt-i (*Bacillus thuringiensis israelensis*, vendido como \"Mosquito Bits\") es espolvoreado sobre el suelo o remojado en agua mata las larvas"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "R01": {
+        "homeRemedies": [
+          {
+            "ingredients": [
+              {
+                "name": "3 % peróxido",
+                "quantity": "1 parte"
+              },
+              {
+                "name": "agua",
+                "quantity": "3 partes"
+              }
+            ]
+          }
+        ],
+        "name": "Moho de las raíces",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Agua en la base de la planta"
+                },
+                {
+                  "title": "Deje que la capa superior de suelo se seque antes de cada riego"
+                },
+                {
+                  "title": "Siempre usa macetas con agujeros de drenaje"
+                },
+                {
+                  "title": "Sterilice las macetas antes de reutilizarlas"
+                },
+                {
+                  "title": "Inspeccione las nuevas plantas antes de integrarlas"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Raíces negras, blandas, apestosas; la planta se marchitó a pesar del suelo húmedo",
+        "symptomAnalysis": "Las raíces sanas son blancas o bronceadas y flexibles. Las raíces podridas son oscuras y viscosas. Dos causas principales: el riego excesivo crónico priva a las raíces del oxígeno y se marchitan; o un hongo que vive en el suelo (Pythium, Phytophthora) se vuelve activo en el suelo húmedo y ataca a las raíces. Una vez que comienza la pudrición, se extiende a las raíces sanas incluso después de que se solucione el problema del riego.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Retira las raíces del recipiente y enjuágalas para que puedas ver qué es saludable"
+                },
+                {
+                  "title": "Sterilizar las podadoras"
+                },
+                {
+                  "title": "Corte todas las raíces negras o blandas, hasta llegar al tejido firme."
+                },
+                {
+                  "title": "Replantar en una mezcla estéril fresca en una maceta limpia con agujeros de drenaje"
+                },
+                {
+                  "title": "Poda aproximadamente la mitad de las hojas para reducir la demanda del nuevo sistema radicular."
+                },
+                {
+                  "body": "Deje que los primeros 1-2 pulgadas de suelo se sequen entre riegos. Introduzca un dedo para comprobarlo antes de cada riego. Muchos problemas de pudrición de raíces y tallos se remontan a un suelo crónicamente húmedo. Si más de dos tercios de las raíces han desaparecido: *Deseche la planta gravemente infectada* (ver 6.1).",
+                  "subSteps": [
+                    {
+                      "title": "Deseche la planta gravemente infectada"
+                    }
+                  ],
+                  "title": "Espere a que el suelo superficial se seque antes de volver a regar"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "R02": {
+        "name": "Deformidad de la raíz",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Elija variedades resistentes a los nematodos (busque \"VFN\" en las semillas de tomate)"
+                },
+                {
+                  "title": "Eliminar las raíces viejas y los desechos"
+                },
+                {
+                  "title": "Rotar cultivos cada 3 años"
+                },
+                {
+                  "title": "Inspeccione las raíces de las nuevas plantas antes de introducirlas"
+                },
+                {
+                  "title": "Mantenga las plantas bien alimentadas y bien riegadas para que resistan las infecciones"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Raíces retorcidas, con nodos o con gallas",
+        "symptomAnalysis": "Tres causas habituales:\n1. **Nematodos de nudo radicular** - gusanos microscópicos que se cavan en las raíces y desencadenan gálulas hinchadas.\n2. **Infección bacteriana o fúngica** - produce hinchazones irregulares como respuesta al estrés.\n3. **Condiciones físicas** - el suelo rocoso, compactado o concurrido obliga a las raíces a retorcerse alrededor de los obstáculos.\n\nNota: los pequeños *nodulos* de raíz redonda en legumbres (judías, guisantes) son bacterias beneficiosas que fijan nitrógeno, no son daños. Los nodulos se despegan fácilmente; las gálulas no.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Desenvasar e inspeccionar"
+                },
+                {
+                  "title": "Cortar las raíces ligeramente afectadas"
+                },
+                {
+                  "title": "Sterilice las herramientas entre cortes"
+                },
+                {
+                  "title": "Replantar en suelo fresco, suelto y estéril"
+                },
+                {
+                  "body": "Coloque una hoja de plástico transparente sobre el suelo húmedo del jardín durante 4-6 semanas durante la parte más calurosa del año. El calor se acumula debajo y mata nematodos, hongos y semillas de maleza. Si la mayoría de las raíces están deformadas: *Deseche la planta gravemente infectada* (ver 5.1).",
+                  "subSteps": [
+                    {
+                      "title": "Deseche la planta gravemente infectada"
+                    }
+                  ],
+                  "title": "Para macetas de jardín con nematodos, solarice el suelo durante 4-6 semanas"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "R03": {
+        "homeRemedies": [
+          {
+            "ingredients": [
+              {
+                "name": "3 % peróxido",
+                "quantity": "1 parte"
+              },
+              {
+                "name": "agua",
+                "quantity": "3 partes"
+              }
+            ]
+          },
+          null
+        ],
+        "name": "Moho en el suelo",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Evite mantener el suelo constantemente húmedo"
+                },
+                {
+                  "title": "Agua del fondo si la planta lo tolera"
+                },
+                {
+                  "title": "Mejorar el flujo de aire en interiores"
+                },
+                {
+                  "title": "Mantén una capa de arena o grava encima"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Pelusa blanca o amarilla, o hongos, en la superficie del suelo",
+        "symptomAnalysis": "Los hongos saprófitos se alimentan de materia orgánica muerta en el suelo húmedo. En su mayoría son inofensivos para las plantas, pero indican que el suelo se mantiene demasiado húmedo, lo que provoca problemas mayores como la pudrición de las raíces o las moscas de hongos. Los champiñones provienen de esporas que llegaron al sustrato de macetas.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Raspe la capa superior mohosa y reemplácela con arena gruesa"
+                },
+                {
+                  "title": "Deje que el suelo superior se seque entre riegos"
+                },
+                {
+                  "title": "Encienda una ventiladora en la zona interior"
+                },
+                {
+                  "title": "Tira los champiñones por el tallo y deséchalos"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "R04": {
+        "name": "Raíces atadas al recipiente",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Replantar cada 1-2 años para plantas de crecimiento rápido; cada 2-3 años para plantas de crecimiento lento"
+                },
+                {
+                  "body": "Los maceteros grandes se mantienen húmedos demasiado tiempo.",
+                  "title": "Elija una maceta 1-2 tamaños más grande que la bola de raíces actual, no más grande"
+                },
+                {
+                  "title": "Siempre usa macetas con agujeros de drenaje"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Raíces girando alrededor del macizo, planta estancada o marchita",
+        "symptomAnalysis": "Cuando una planta crece más allá de su maceta, las raíces rodean la pared y luego se vuelven sobre sí mismas. El bulbo radicular se vuelve más denso que el suelo y el agua ya no se puede retener, simplemente corre por el lado. La absorción de nutrientes disminuye, el crecimiento se detiene y la planta parece tener sed crónica incluso justo después de regarla.\n\nComprobación rápida: las raíces que crecen fuera de los agujeros de drenaje o el suelo que se aleja de la pared del maceta son señales claras.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Sacar la planta de la maceta"
+                },
+                {
+                  "body": "Tíralos hacia afuera suavemente, alejándolos de la pelota.",
+                  "title": "Usa dedos limpios o palillos chinos para separar las raíces que están circulando."
+                },
+                {
+                  "title": "Cortar cualquier raíz muerta o retorcida"
+                },
+                {
+                  "title": "Mueve a una olla 1-2 tamaños más grande"
+                },
+                {
+                  "title": "Rellena con un sustrato de cultivo fresco"
+                },
+                {
+                  "title": "Riega profundamente una vez para asentar el nuevo suelo"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "R05": {
+        "name": "Acumulación de sal",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Enjuague el suelo cada 1-3 meses"
+                },
+                {
+                  "title": "Utilice agua de lluvia o agua destilada si su agua del grifo es dura o clorada"
+                },
+                {
+                  "body": "Más no es mejor.",
+                  "title": "Fertilice a la mitad de la tasa etiquetada para plantas de interior"
+                },
+                {
+                  "title": "Saltar el fertilizante en invierno cuando el crecimiento se ralentiza"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Crost blanca en el suelo, puntas de hojas marrones",
+        "symptomAnalysis": "Los sales de fertilizantes (y los minerales del agua del grifo) se acumulan en el suelo con el tiempo. A medida que el agua evapora, los sales cristalizan en la superficie. Las altas concentraciones de sal dañan las puntas de las raíces, que luego no pueden absorber agua, y las hojas muestran bordes marrones crujientes similares a los de la sequía incluso cuando el suelo está húmedo.\n\nComún en macetas de interior, plantas tolerantes a la sequía sobrefertilizadas y cualquier maceta que haya pasado un año sin un riego profundo.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Raspe cualquier costra de sal visible en el suelo y el borde del macizo"
+                },
+                {
+                  "title": "Enjuague el suelo con 4 veces el volumen del recipiente de agua limpia"
+                },
+                {
+                  "body": "Corte el follaje y los brotes afectados con herramientas esterilizadas, recortando hasta el tejido sano. Envase y deseche las podas, nunca composte material enfermo. Si la acumulación es grave y la planta está en peligro: *Replante con tierra fresca y drenaje* (ver 3.1).",
+                  "subSteps": [
+                    {
+                      "title": "Replantar con tierra fresca y drenaje"
+                    }
+                  ],
+                  "title": "Cortar las puntas de las hojas quemadas para cosméticos"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "R06": {
+        "homeRemedies": [
+          {
+            "ingredients": [
+              {
+                "name": "3 % peróxido",
+                "quantity": "1 parte"
+              },
+              {
+                "name": "agua",
+                "quantity": "3 partes"
+              }
+            ]
+          },
+          null,
+          null
+        ],
+        "name": "Aislamiento térmico",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Sterilice las bandejas de semillas antes de reutilizarlas"
+                },
+                {
+                  "body": "No reutilices el suelo de maceta viejo.",
+                  "title": "Utilice una mezcla fresca y estéril para comenzar con las semillas"
+                },
+                {
+                  "title": "Siembra a la profundidad indicada en el paquete de semillas, enterrándola demasiado profunda estresa la germinación."
+                },
+                {
+                  "title": "Proporciona un flujo de aire suave desde el primer día"
+                },
+                {
+                  "title": "Retire las cúpulas de humedad después de que surjan los brotes"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Las plántulas se desploman en la línea del suelo",
+        "symptomAnalysis": "La pudrición por humedad se produce por varios hongos del suelo (Pythium, Rhizoctonia, Fusarium) que atacan los delgados tallos de las plántulas justo donde se encuentran con el suelo húmedo. Condiciones que lo favorecen: temperaturas frías, mezcla de germinación de semillas demasiado húmeda, mala circulación de aire y bandejas o semillas no esterilizadas.\n\nUna vez que los plántulas se desploman, no pueden recuperarse. La lucha es proteger el resto de la bandeja.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Tire y deseche inmediatamente los plántulas colapsadas"
+                },
+                {
+                  "title": "Plantas jóvenes restantes con agua en el fondo"
+                },
+                {
+                  "title": "Deje que la superficie se seque ligeramente entre riegos"
+                },
+                {
+                  "title": "Encienda un pequeño ventilador en un ajuste bajo cerca"
+                },
+                {
+                  "title": "Muevase a una luz más brillante si las plántulas son delgadas y pálidas"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "R07": {
+        "homeRemedies": [
+          {
+            "ingredients": [
+              {
+                "name": "3 % peróxido",
+                "quantity": "1 parte"
+              },
+              {
+                "name": "agua",
+                "quantity": "3 partes"
+              }
+            ]
+          },
+          null
+        ],
+        "name": "Larvas de mosca de hongos",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Reducir el riego"
+                },
+                {
+                  "title": "Mantenga una capa de arena o grava encima"
+                },
+                {
+                  "title": "Cuarentena las nuevas plantas y comprueba el suelo"
+                },
+                {
+                  "title": "Mejorar el flujo de aire"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Pocas moscas negras + plántulas retorcidas",
+        "symptomAnalysis": "Las moscas de hongos adultas son moscas molestas, pero sus larvas se alimentan de raíces jóvenes tiernas y pelos de raíz en la primera pulgada de suelo constantemente húmedo. Se desarrollan bien en plantas de interior sobreriegadas y bandejas de plantones. Los adultos ponen huevos en la superficie del suelo; las larvas eclosionan y se alimentan durante 1-2 semanas antes de pupar.\n\nPara las moscas adultas, consulte [P16 - Mosquitos de hongos](../02_pests/fungus-gnats.md). Esta entrada cubre la muerte de las raíces por larvas.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Deje que la primera pulgada de suelo se seque completamente entre riegos"
+                },
+                {
+                  "title": "Solo agua del fondo"
+                },
+                {
+                  "title": "Cubrir con 1/4 de pulgada de arena para bloquear la puesta de huevos de los adultos"
+                },
+                {
+                  "body": "Aplicar por etiqueta.",
+                  "title": "Bt-i (una cepa Bt diferente, *Bacillus thuringiensis israelensis*, vendida como \"Mosquito Bits\") es espolvoreado o remojado en agua para matar específicamente a las larvas."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "ST01": {
+        "name": "Deshaciéndose",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Agua de forma constante y profunda"
+                },
+                {
+                  "title": "Compra variedades resistentes al marchitamiento (busca \"VFN\" en tomates, fresas)"
+                },
+                {
+                  "title": "Rotar las camas"
+                },
+                {
+                  "title": "Miel de abeja para mantener la humedad uniforme"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Los tallos se hunden y pierden su estructura",
+        "symptomAnalysis": "El marchitamiento puede venir de cualquiera de los siguientes:\n\n- **Estrés hídrico**: demasiado o demasiado poco. La sequía marchita el suelo seco; el exceso de riego pudre las raíces y ya no pueden extraer agua.\n- **Estrés térmico**: las tardes calurosas causan un marchitamiento temporal que se recupera durante la noche.\n- **Enfermedad de pudrición vascular** — *Verticillium*, *Fusarium* o la pudrición bacteriana obstruyen el tejido transportador de agua de la planta. Las hojas se marchitan y permanecen marchitas.\n- **Moho de las raíces** — consulte [R01](../05_roots/root-rot.md). Las raíces dañadas no pueden suministrar agua.\n\nPara reducirlo: rasque el tallo principal con un uña. El interior verde significa que está vivo; el marrón y quebradizo significa que está muerto. Luego compruebe el suelo y las raíces.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "body": "Suelo seco → *Agua Profundamente Pero Menos A menudo* (ver 1.1). Suelo húmedo → *Reducir la Frecuencia de Riego* (ver 1.2) y comprobar las raíces.",
+                  "subSteps": [
+                    {
+                      "title": "Agua de forma profunda pero con menos frecuencia"
+                    },
+                    {
+                      "title": "Reducir la frecuencia de riego"
+                    }
+                  ],
+                  "title": "Diagnosticar primero"
+                },
+                {
+                  "title": "Usa una sábana de sombra en las tardes calurosas"
+                },
+                {
+                  "title": "Para la enfermedad, poda y destruye los ramas afectadas"
+                },
+                {
+                  "body": "Sumerga las tijeras de poda, tijeras o cuchillas de cuchillo en una solución de 1:4 de lejía con agua (o 70% de alcohol isopropílico) antes de cada corte y entre cada planta. Limpie con un paño seco antes de cortar. Si se diagnostica la enfermedad de la pudrición vascular: *Deseche la planta gravemente infectada* (ver 4.1). Los patógenos del suelo permanecen durante años.",
+                  "subSteps": [
+                    {
+                      "title": "Deseche la planta gravemente infectada"
+                    }
+                  ],
+                  "title": "Sterilice las herramientas entre cortes"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "ST02": {
+        "name": "Moho de brotes",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Compra variedades resistentes de jardinerías de renombre"
+                },
+                {
+                  "title": "Inspecciona las nuevas plantas en busca de ramas muertas"
+                },
+                {
+                  "title": "Planta con el espacio adecuado para el flujo de aire"
+                },
+                {
+                  "title": "Irrigación por goteo"
+                },
+                {
+                  "title": "Pulverización preventiva de cobre en fuentes húmedas"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Las ramas enteras se vuelven marrones y se secan desde la base",
+        "symptomAnalysis": "Una enfermedad fúngica común en plantas cultivadas en invernaderos que se colocaron demasiado juntas. Las esporas entran a través de heridas o en días lluviosos. A diferencia del marchitamiento (que comienza en la punta), la pudrición de ramas mata toda la rama infectada de una vez. Pueden formarse manchas muertas hundidas llamadas *canículas* entre la madera viva y la muerta.\n\nPara la muerte de las raíces, consulte [ST03](dieback.md). Para las cankeras, consulte [ST05](cankers.md).",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Corte las ramas afectadas hasta que vuelvan a ser madera sana, en días secos."
+                },
+                {
+                  "title": "Sterilizar entre cada corte"
+                },
+                {
+                  "title": "Aplicar fungicida de cobre en el crecimiento saludable restante"
+                },
+                {
+                  "title": "Raspar el material caído"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "ST03": {
+        "name": "muerte regresiva",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Plantea en el lugar correcto: luz, drenaje y exposición adecuados para la especie."
+                },
+                {
+                  "title": "Proteja las plantas de daños físicos (cortadoras de césped, rastrillos, pastoreo por animales)"
+                },
+                {
+                  "title": "Mantener el flujo de aire con un espacio adecuado"
+                },
+                {
+                  "title": "Poda solo en días secos para evitar que los hongos entren en las cortes frescas."
+                },
+                {
+                  "body": "Poda las ramas rotas antes de que los hongos entren.",
+                  "title": "Inspeccionar después de frío o tormentas"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Los tallos se marchitan desde la punta hacia el tronco",
+        "symptomAnalysis": "Un término general para las infecciones por hongos (y a veces daños por insectos o medio ambiente) que matan el crecimiento leñoso desde la punta hacia adentro. A menudo se produce después de heridas: cortes de poda, daños por cortacésped, grietas por helada, túneles de insectos, que dieron a los hongos una forma de entrar. El estrés (sequía, helada, inundación) hace que las plantas sean más vulnerables.\n\nSe distingue de la pudrición de ramas: la muerte comienza en la punta y se extiende hacia atrás; la pudrición de ramas mata toda la rama de una vez.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Poda las hojas e internodios infectados"
+                },
+                {
+                  "title": "Sterilizar entre cortes"
+                },
+                {
+                  "title": "Cambiar a riego básico"
+                },
+                {
+                  "body": "Use un fertilizante equilibrado N-P-K (por ejemplo, 10-10-10) por etiqueta. Para las deficiencias que se muestran en las hojas, siga con un alimento foliar para una rápida absorción. El compost es una alternativa de liberación lenta. En casos graves de la planta entera: *Deseche la planta gravemente infectada* (ver 4.1).",
+                  "subSteps": [
+                    {
+                      "title": "Deseche la planta gravemente infectada"
+                    }
+                  ],
+                  "title": "Una alimentación rica en nitrógeno da a las plantas estresadas energía para recuperarse"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "ST04": {
+        "name": "Moho en el tallo (moho blando)",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Evite mojar las hojas y los tallos"
+                },
+                {
+                  "title": "No riegues en exceso"
+                },
+                {
+                  "title": "Plantas espaciales separadas"
+                },
+                {
+                  "title": "Inspeccione las nuevas plantas en busca de tallos blandos y descoloridos"
+                },
+                {
+                  "title": "Siempre esterilizar las herramientas"
+                },
+                {
+                  "title": "Controla plagas que se alimentan de savia, como las pulgas; sus heridas invitan a las bacterias"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "El tallo se vuelve pegajoso, hueco y con mal olor.",
+        "symptomAnalysis": "La pudrición blanda bacteriana, a menudo *Erwinia*. Las bacterias entran a través de las heridas y digieren el tejido vegetal desde adentro. Se desarrolla más rápido en climas cálidos y húmedos y en plantas que se encuentran en suelo húmedo o salpicadas por la riego por encima. Una vez avanzada, se propaga desde el tallo hasta la corona y hacia abajo hasta las raíces, a veces toda la planta se vuelve negra y pastosa desde el centro.\n\nIncluye la presentación de \"toda la planta volviéndose negra desde el centro\" que algunas referencias enumeran como una condición separada de \"putrefacción suave\".",
+        "treatment": {
+          "groups": [
+            {
+              "label": "Para infección leve (un tallo o sección afectado)",
+              "steps": [
+                {
+                  "title": "Recorte cada sección blanda y descolorida del tallo en tejido limpio"
+                },
+                {
+                  "title": "Sterilizar entre cada corte"
+                },
+                {
+                  "title": "Replantar en tierra estéril fresca con drenaje"
+                },
+                {
+                  "title": "Riega solo cuando el suelo superior esté seco"
+                },
+                {
+                  "body": "Dirija el agua directamente al suelo cerca del tallo en lugar de rociar las hojas. Use una regadera de boquilla larga, una manguera de inmersión o una línea de goteo. Las hojas mojadas invitan a la propagación de hongos y bacterias. Para una infección grave en toda la planta: *Deseche la planta gravemente infectada* (ver 5.1). Envuelva en bolsa y retire. No composte.",
+                  "subSteps": [
+                    {
+                      "title": "Deseche la planta gravemente infectada"
+                    }
+                  ],
+                  "title": "Deja de regar por encima"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "ST05": {
+        "name": "Canker",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Evite los daños causados por el invierno y el helado: envuelva los troncos jóvenes, píntelos con pintura blanca para árboles o use envoltorios para árboles en zonas frías."
+                },
+                {
+                  "title": "Evite heridas mecánicas: mantenga los cortacésped y los recortadores alejados de los troncos"
+                },
+                {
+                  "title": "Elija cultivos resistentes a la canker"
+                },
+                {
+                  "title": "Mantener las plantas sanas"
+                },
+                {
+                  "title": "Poda en un clima seco de finales de invierno o principios de primavera"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Puntos hundidos de corteza muerta con márgenes agrietados",
+        "symptomAnalysis": "Una cancro es una zona muerta localizada en el tejido del tallo causada por hongos (*Cytospora*, *Nectria*) o bacterias que entran a través de una herida, como cortes de poda, grietas por helada, quemaduras solares o túneles de insectos. El patógeno mata el tejido alrededor del punto de entrada. Las cancros crecen lentamente; las grandes pueden encorvarse y matar un ramaje entero.\n\nComún en árboles frutales (pera, manzana, cereza) y muchos ornamentales. A menudo se produce después del estrés invernal.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Poda las hojas e internodios infectados"
+                },
+                {
+                  "title": "Sterilizar entre cada corte"
+                },
+                {
+                  "title": "Poda solo en días secos para evitar propagar el patógeno."
+                },
+                {
+                  "body": "Pulverice un fungicida a base de cobre (mezcla de Bordeaux, sulfato de cobre o hidróxido de cobre comercial) sobre las hojas, tallos y suelo circundante según la etiqueta del producto. Reaplique cada 7-14 días. Para las cancrores en el tronco principal que no pueda podar: raspar el tejido muerto con un cuchillo limpio hasta llegar a la corteza sana (llamada \"cirugía\"). Deje la herida expuesta al aire para que se seque.",
+                  "title": "Aplicar fungicida de cobre a la corteza sana restante a principios de primavera"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "ST06": {
+        "name": "Quemadura solar en la corteza",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "body": "Refleja el sol de invierno.",
+                  "title": "**Envolver los troncos jóvenes de los árboles** con envoltorio blanco para árboles o pintarlos con pintura de látex interior blanca diluida (1:1 con agua) desde la línea del suelo, alineada a 24 pulgadas, aplicada a finales de otoño."
+                },
+                {
+                  "title": "Evite la poda a finales del verano que exponga la corteza previamente sombreada"
+                },
+                {
+                  "title": "Riega profundamente a finales de otoño antes de que el suelo se enfríe."
+                },
+                {
+                  "title": "Cubra la zona de las raíces con mantillo para moderar los cambios de temperatura"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Casquilla rota, descamada y descolorida en el lado que está expuesto al sol",
+        "symptomAnalysis": "La quemadura solar ocurre cuando el intenso sol invernal calienta un lado de un tronco durante el día, las células se vuelven activas y luego una repentina caída de temperatura por la noche las mata. Los árboles jóvenes y de corteza lisa (árboles de melocotón, árboles frutales, ornamentales recientemente transplantados) son los más vulnerables. La corteza dañada se convierte en un punto de entrada a largo plazo para los patógenos, consulte [ST05 - Cancros](cankers.md).\n\nTambién puede ocurrir en el calor del verano después de una defoliación repentina que expone la corteza previamente sombreada.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "body": "La mayoría de las heridas por quemaduras solares se curan lentamente por sí solas.",
+                  "title": "No retire la corteza dañada a menos que esté suelta y se esté levantando"
+                },
+                {
+                  "title": "Retire cualquier corteza claramente muerta y descamada con un cuchillo estéril hasta el borde del tejido sano."
+                },
+                {
+                  "title": "Aplique fungicida de cobre para mantener alejados a los patógenos de la herida"
+                },
+                {
+                  "title": "Preste atención a la aparición de cankeras - consulte [ST05](cankers.md)"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "ST07": {
+        "name": "Escoba de brujas",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Monitoree regularmente la presión de plagas y enfermedades"
+                },
+                {
+                  "title": "Pulverización preventiva de cobre en especies propensas a la oxidación"
+                },
+                {
+                  "title": "Poda las ramas estresadas o débiles temprano"
+                },
+                {
+                  "title": "En malas infestaciones, elimine toda la planta"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Clúster denso parecido a un cepillo de brotes retorcidos desde un solo punto",
+        "symptomAnalysis": "Una respuesta al estrés, no una sola enfermedad. Muchas causas: hongos de óxido, alimentación de insectos, infección bacteriana o fúngica, infestación por plantas parasitas como el brezo enano. La planta responde produciendo muchos brotes cortos en un grupo apretado en lugar del crecimiento normal de extensión.\n\nEl cepillo en sí rara vez mata la planta, pero la causa subyacente puede hacerlo. Común en coníferas, árboles frutales, arándanos y muchos arbustos leñosos.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Corte el cepillo, podando varios centímetros por debajo del punto afectado."
+                },
+                {
+                  "title": "Sterilice las herramientas entre cortes"
+                },
+                {
+                  "body": "- Hongo de la ferrugia → *Aplicar fungicida de cobre* (ver 3.1) - Ácaros o insectos → ver [02_pests/](../02_pests/) - Mistletoe → eliminar físicamente el parásito",
+                  "subSteps": [
+                    {
+                      "title": "Aplicar fungicida de cobre"
+                    }
+                  ],
+                  "title": "Determine la causa:"
+                },
+                {
+                  "title": "Eliminar el material podado del área alrededor de la planta."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "ST08": {
+        "name": "Cáliz",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Inspeccione cada nueva planta en busca de gálulas en la corona"
+                },
+                {
+                  "title": "Siempre esterilizar las herramientas"
+                },
+                {
+                  "title": "No acumule tierra o mantillo contra la corona de las plantas, mantenga la zona seca y libre de patógenos."
+                },
+                {
+                  "title": "Cultivos resistentes a las plantas donde estén disponibles"
+                },
+                {
+                  "title": "Use un baño bacteriano beneficioso (estrés de Agrobacterium radiobacter 84, vendido como \"Galltrol\") en la planta enraizada desnuda al plantar"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Crecimientos ásperos similares a tumores cerca de la línea del suelo",
+        "symptomAnalysis": "Provocado por el bacterio *Agrobacterium tumefaciens*, que vive en el suelo y entra a través de heridas. Afecta a más de 600 especies de plantas, las rosas, los árboles frutales, las uvas y las frambuesas son particularmente susceptibles. El bacterio se apodera del ADN de la planta y provoca un crecimiento descontrolado de los tejidos.\n\nLos árboles establecidos suelen sobrevivir a la galla de la corona. Las plantas jóvenes y las gravemente infectadas decaen porque la galla bloquea el flujo de agua y nutrientes.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "En los árboles establecidos, corte el gálbulo con un cuchillo estéril o unas tijeras para podar"
+                },
+                {
+                  "title": "Sterilizar entre cada corte"
+                },
+                {
+                  "title": "Después de la cirugía, pinta la herida con un sellador para poda de árboles"
+                },
+                {
+                  "body": "No composte.",
+                  "title": "Para plantas jóvenes o gravemente infectadas: [S43](../shared/treatment-steps.md#s43-discard-the-severely-infected-plant) - Eliminar y destruir"
+                },
+                {
+                  "title": "Solarizar el suelo antes de volver a plantar"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "ST09": {
+        "name": "Heridas de tallo",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Crea barreras alrededor de las plantas en áreas concurridas"
+                },
+                {
+                  "title": "Mantenga los cortacésped y los rastrillos alejados de los troncos"
+                },
+                {
+                  "title": "Utilice macetas estériles y tierra fresca para las nuevas plantas para evitar la transferencia de plagas"
+                },
+                {
+                  "title": "Inspeccione las plantas regularmente para detectar signos tempranos de daño"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Rasguños, cortes o daños por plagas curados en los tallos",
+        "symptomAnalysis": "Las cicatrices se forman cuando una planta cura una herida. Causas comunes:\n\n- **Daños mecánicos** - mascotas, niños, cortacésped, herramientas de jardín, tráfico peatonal.\n- **Daños causados por plagas dejados atrás**: sitios de alimentación de insectos que ya se han ido.\n- **Quemadura solar / quemadura solar** — daño térmico en la corteza expuesta. Consulte [ST06](sunscald-bark.md).\n- **Hojas o brotes perdidos** - las hojas que se caen dejan una cicatriz en el tallo.\n\nLas cicatrices en sí mismas no dañan la planta más allá de la herida original. Son principalmente cosméticas. Pero la zona dañada es un punto de entrada permanente para futuros plagas y patógenos.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "body": "- Mascotas/niños/herramientas → instala una barrera o mueve la planta. - Plagas → identifica el insecto y trata. Ve [02_pests/](../02_pests/). - Quemaduras solares → *Mueve a un lugar sombrío* (véase 1.1) Muevete del sol directo. - Pérdida frecuente de hojas → comprueba la luz, el agua y los nutrientes.",
+                  "subSteps": [
+                    {
+                      "title": "Mueve a un lugar sombrío"
+                    }
+                  ],
+                  "title": "Aborde la causa subyacente:"
+                },
+                {
+                  "title": "La cicatriz en sí misma no necesita tratamiento"
+                },
+                {
+                  "title": "Preste atención a la aparición de canker en las áreas dañadas, consulte [ST05](cankers.md)"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "shared": {
+      "remedies": {
+        "K01": {
+          "recipe": "1 parte de peróxido de hidrógeno del 3 % de farmacia a 3 partes de agua. (O 1 parte de peróxido del 35 % de grado alimenticio a 30 partes de agua.)",
+          "title": "Inmersión del suelo con peróxido de hidrógeno",
+          "usage": "Verter alrededor de la base de la planta hasta que el suelo superior esté húmedo. Repetir una vez a la semana hasta que el suelo se seque normalmente y deje de burbujear."
+        },
+        "K02": {
+          "recipe": "Canela molida sin especias del estante de especias. Sin mezclar.",
+          "title": "Pólvora de canela",
+          "usage": "Pulverice una fina capa sobre el suelo mohoso, en tallos recién cortados o alrededor de la base de las plántulas. La canela es naturalmente antifúngica y favorece la formación de raíces."
+        },
+        "K03": {
+          "recipe": "Vierta 1/4 de taza de vinagre de sidra de manzana en una pequeña taza o plato amarillo. Agregue 1 gota de jabón para platos para romper la tensión superficial. Cubra con film transparente y haga pequeños agujeros.",
+          "title": "Trapa de vinagre de sidra de manzana",
+          "usage": "Colocar cerca de la planta afectada. Las moscas de hongos adultas y las moscas de fruta se sienten atraídas, caen y se ahogan. Actualizar cada 3-4 días."
+        },
+        "K04": {
+          "recipe": "Remoja 2 bolsitas de té de manzanilla en 1 litro de agua recién hirviendo. Deje enfriar a temperatura ambiente.",
+          "title": "Baño de té de manzanilla",
+          "usage": "Verter alrededor de la base de las plántulas y sobre la superficie del suelo. Una suave acción antifúngica protege las semillas germinantes y las raíces jóvenes."
+        },
+        "K05": {
+          "recipe": "1 cucharadita de bicarbonato de sodio + 1 cucharadita de jabón para platos suave + 1 litro de agua. Agite para disolver.",
+          "title": "Bicarbonato de sodio + spray de jabón para platos",
+          "usage": "Pulverice sobre las hojas en la primera señal de moho, cada 7 días. Cubra las superficies superiores e inferiores de las hojas. Pruebe primero en un punto; algunas plantas se queman las hojas."
+        },
+        "K06": {
+          "recipe": "1 parte de leche (cualquier grasa, pero la entera funciona mejor) a 9 partes de agua en una botella de spray.",
+          "title": "Pulverizador de leche",
+          "usage": "Pulverice sobre las hojas una vez a la semana en días soleados. La luz solar activa las proteínas de la leche en un ligero revestimiento antifúngico."
+        },
+        "K07": {
+          "recipe": "Pruébalo con 4 dientes de ajo machacados en 1 litro de agua. Deje reposar toda la noche. Escurra. Añada 1 cucharadita de jabón para platos.",
+          "title": "Pulverizador de ajo",
+          "usage": "Pulverice sobre las hojas y tallos, centrándose en las partes inferiores. Repita cada 5-7 días. Huele fuerte durante un día, luego se disipa."
+        },
+        "K08": {
+          "recipe": "2 cucharadas de pimienta cayena o chile seco molido en 1 litro de agua. Hierve durante 10 minutos. Enfríe. Colóquelo en un colador. Agregue 1 cucharadita de jabón para platos.",
+          "title": "Spray de pimentón",
+          "usage": "Pulverice sobre las hojas donde se alimentan las orugas o los escarabajos. Use guantes y protección ocular mientras pulveriza."
+        },
+        "K09": {
+          "recipe": "Granos de café usados secados en una bandeja.",
+          "title": "Barrera de restos de café",
+          "usage": "Espolvoree un anillo de 1/2 pulgada alrededor de la base de las plantas propensas a las babosas. La textura rugosa y la cafeína repelen a las babosas y caracoles. Sustituir después de la lluvia."
+        },
+        "K10": {
+          "recipe": "Cascas de huevo enjuagadas, secas, trituradas gruesas con un rodillo de cocina.",
+          "title": "Casquilla de huevo triturada",
+          "usage": "(a) Mezclar en el suelo al plantar para una liberación lenta de calcio, lo que ayuda a prevenir la pudrición de la punta de las flores. (b) Espolvorear un anillo de bordes afilados alrededor de las plantas, los caracoles evitan los bordes."
+        },
+        "K11": {
+          "recipe": "Enterrar un plato o taza poco profundo con el borde nivelado con el suelo. Llene 2/3 con cerveza barata. (O 1 taza de agua + 1 cucharadita de levadura seca + 1 cucharadita de azúcar.)",
+          "title": "Trapa de cerveza",
+          "usage": "Coloque cerca de las plantas afectadas por la noche. Los caracoles y las babosas se arrastran dentro y se ahogan. Refríe cada 2-3 días."
+        },
+        "K12": {
+          "recipe": "Remoja 2-3 cáscaras de plátano picadas en 1 litro de agua durante 48 horas. Escurrir.",
+          "title": "Té de potasio con cáscara de plátano",
+          "usage": "Verter alrededor de la base de las plantas estresadas o amarillentas cada 2-3 semanas. Un ligero aumento de potasio; no es un fertilizante completo."
+        },
+        "K13": {
+          "recipe": "70 % de alcohol isopropílico de uso doméstico directamente de la botella.",
+          "title": "Bolsita de algodón con alcohol isopropílico",
+          "usage": "Empapa un hisopo de algodón y frota directamente sobre las pulgas de melaza o insectos escamosos individuales. Muere al contacto. Evite empapar la hoja."
+        },
+        "K14": {
+          "recipe": "1 cucharadita de jabón líquido suave para platos (sin desgrasantes, sin aditivos) por cuarto de galón de agua en una botella de spray.",
+          "title": "Pulverizador de agua jabonosa simple",
+          "usage": "Pulverice para empapar todas las superficies, especialmente las partes inferiores de las hojas, por la noche. Enjuague con agua corriente la mañana siguiente. Repulverice cada 3 días durante 2 semanas."
+        },
+        "K15": {
+          "recipe": "1 tableta de aspirina sin recubrimiento (325 mg) disuelta en 1 galón de agua con unas gotas de jabón para platos.",
+          "title": "Spray foliar de agua con aspirina",
+          "usage": "Pulverice sobre las hojas cada 2-3 semanas. El ácido salicílico en el aspirina estimula suavemente la propia respuesta de defensa de la planta contra las enfermedades."
+        }
+      },
+      "steps": {
+        "S01": {
+          "body": "Desliza la planta de su maceta, sacude suavemente el suelo suelto y enjuaga la bola de raíces con agua tibia corriente hasta que puedas ver claramente las raíces individuales.",
+          "title": "Sacar de la olla y enjuagar las raíces"
+        },
+        "S02": {
+          "body": "Sumerge las tijeras de poda, tijeras o cuchillas de cuchillo en una solución de 1:4 de lejía con agua (o 70 % de alcohol isopropílico) antes de cada corte y entre cada planta. Limpia con un paño limpio antes de cortar.",
+          "title": "Sterilizar las herramientas de corte"
+        },
+        "S03": {
+          "body": "Corte las raíces negras, pastosas o marchitas con tijeras de poda esterilizadas. Las raíces sanas son blancas o marrón claro y flexibles. Corta hasta obtener un tejido limpio y firme.",
+          "title": "Cortar las raíces dañadas o muertas"
+        },
+        "S04": {
+          "body": "Corte el follaje y los brotes afectados con herramientas esterilizadas, recortando hasta el tejido sano. Envase y deseche las podas, nunca composte material enfermo.",
+          "title": "Poda las hojas e internodios infectados"
+        },
+        "S05": {
+          "body": "Use dedos limpios o tijeras esterilizadas para eliminar las flores podridas, marchitas o infectadas en su base, antes de que la infección se propague a los brotes sanos circundantes.",
+          "title": "Apriete los pétalos y los brotes afectados"
+        },
+        "S06": {
+          "body": "Recoja toda la fruta manchada, podrida o mohosa de la planta y del suelo que hay debajo. Entiérrela a 12 pulgadas de profundidad, quémela o séllela en una bolsa de basura; no la composte.",
+          "title": "Eliminar y destruir las frutas infectadas"
+        },
+        "S07": {
+          "body": "Lleva guantes. Coge las orugas, los escarabajos, las caracoles o los grupos de huevos a mano y déjalos caer en un cubo de agua jabonosa. Ahóllalos durante al menos 24 horas, luego deséjalos.",
+          "title": "Seleccione manualmente los plagas en agua jabonosa"
+        },
+        "S08": {
+          "body": "Para pulgones, escarabajos de escamas o pulgones, limpie suavemente las hojas y los tallos con un paño suave empapado en agua jabonosa. Enjuague el paño con frecuencia. Evite lastimar el tejido blando.",
+          "title": "Limpiar plagas con un paño húmedo"
+        },
+        "S09": {
+          "body": "Mueva la planta a una maceta limpia con agujeros de drenaje, utilizando una mezcla de tierra de maceta fresca y estéril. Enterre las raíces hasta la misma profundidad que antes. Aplique agua ligeramente para asentar el suelo.",
+          "title": "Replantar con tierra fresca y drenaje"
+        },
+        "S10": {
+          "body": "Mueva una planta con raíces enredadas a una maceta 1-2 tamaños más grande. Desenrede las raíces que rodean antes de asentar la planta en un sustrato fresco. Aplique agua a fondo una vez.",
+          "title": "Subir la olla a un recipiente más grande"
+        },
+        "S11": {
+          "body": "Raspe la parte superior de 1/8 de pulgada de suelo mohoso o con costras de sal y reemplácelo con una capa de 1/4 de pulgada de arena gruesa o grava fina limpia. Aplique agua con moderación después.",
+          "title": "Cubrir con arena o grava"
+        },
+        "S12": {
+          "body": "Coloque una hoja de plástico transparente sobre el suelo húmedo del jardín durante 4-6 semanas durante la parte más calurosa del año. El calor se acumula debajo y mata nematodos, hongos y semillas de maleza.",
+          "title": "Solarizar el suelo"
+        },
+        "S13": {
+          "body": "Extienda una capa de 2-3 pulgadas de corteza, paja o mantillo de hojas alrededor de la planta, manteniendo un pequeño anillo limpio del tallo. El mantillo bloquea las salpicaduras de patógenos del suelo y estabiliza la humedad.",
+          "title": "Aplicar mantillo orgánico alrededor de la base"
+        },
+        "S14": {
+          "body": "Lleve la planta a un fregadero o al aire libre. Vierta agua limpia lentamente a través del maceta, aproximadamente 4 veces el volumen de la maceta, hasta que el agua corra libremente por los agujeros de drenaje. Repita una vez al mes si vuelven los sales.",
+          "title": "Enjuagar el suelo para extraer los sales"
+        },
+        "S15": {
+          "body": "Dirija el agua directamente al suelo cerca del tallo en lugar de rociar las hojas. Use una regadera de boquilla larga, una manguera absorbente o una línea de goteo. Las hojas mojadas invitan a la propagación de hongos y bacterias.",
+          "title": "Agua en la base, nunca sobre la cabeza"
+        },
+        "S16": {
+          "body": "Deje que los primeros 1-2 pulgadas de suelo se sequen entre riegos. Introduzca un dedo para comprobarlo antes de cada riego. Muchos problemas de pudrición de raíces y tallos se remontan a un suelo crónicamente húmedo.",
+          "title": "Reducir la frecuencia de riego"
+        },
+        "S17": {
+          "body": "Riega lentamente y a fondo hasta que el suelo esté húmedo por completo, luego déjalo secar parcialmente antes de la próxima riego. Fomenta raíces más profundas y plantas más fuertes.",
+          "title": "Agua de forma profunda pero con menos frecuencia"
+        },
+        "S18": {
+          "body": "Reubique la planta gradualmente a una ventana orientada al sur o al oeste o a un lugar más soleado del jardín. Mueva la planta en etapas durante una semana para evitar el shock solar.",
+          "title": "Mudarse a un lugar más luminoso"
+        },
+        "S19": {
+          "body": "Reubique la planta en una ventana que se mire al norte, debajo de un árbol o detrás de una sábana de sombra. La quemadura solar y el quemado de las hojas generalmente se curan una vez que la planta se enfría.",
+          "title": "Mueve a un lugar sombrío"
+        },
+        "S20": {
+          "body": "Coloque o sostenga una luz de cultivo LED de espectro completo a 30-60 cm sobre la planta, en un temporizador de 12-14 horas. Especialmente útil en invierno o en habitaciones oscuras.",
+          "title": "Agregue una luz de crecimiento"
+        },
+        "S21": {
+          "body": "Asegúrese de que las plantas tengan suficiente espacio para que sus hojas no se toquen cuando estén completamente crecidas. En interiores, encienda un pequeño ventilador oscilante durante parte del día. En exteriores, poda la vegetación circundante que bloquee la brisa.",
+          "title": "Aumentar el flujo de aire y el espacio entre ellos"
+        },
+        "S22": {
+          "body": "Rocíe el follaje diariamente, agrupe las plantas juntas, coloque la maceta sobre una bandeja de piedras en agua poco profunda o encienda un humidificador. Objetive un 40-60% de humedad relativa.",
+          "title": "Aumentar la humedad alrededor de la planta"
+        },
+        "S23": {
+          "body": "Cubra las plantas vulnerables con una sábana de frío, lona de jute, una sábana o una cubierta de hileras antes de que anochezca. Lleve las plantas en macetas adentro. Retire la cubierta la mañana siguiente.",
+          "title": "Proteja contra el hielo"
+        },
+        "S24": {
+          "body": "Ponga un palo de madera o bambú en el suelo cerca de la planta y atenúe lazos sueltos en forma de ocho con cuerda suave. Mantiene los tallos alejados del suelo húmedo y mejora el flujo de aire.",
+          "title": "Apoya o enrejaza la planta"
+        },
+        "S25": {
+          "body": "Pulverice un fungicida a base de cobre (mezcla de Bordeaux, sulfato de cobre o hidróxido de cobre comercial) en las hojas, tallos y suelo circundante según la etiqueta del producto. Repita la aplicación cada 7-14 días.",
+          "title": "Aplicar fungicida de cobre"
+        },
+        "S26": {
+          "body": "Cuando el cobre no sea suficiente, use un fungicida sistémico sintético (por ejemplo, propiconazol, myclobutanil) según la etiqueta del producto. Rocíe hasta la escorrentía. Siempre cambie los fungicidas para evitar la resistencia.",
+          "title": "Aplicar fungicida de amplio espectro"
+        },
+        "S27": {
+          "body": "Mezcle aceite de neem prensado a frío con agua y unas gotas de jabón de cocina como emulsionante (2 cucharaditas típicas de neem + 1 cucharadita de jabón por cuarto de galón). Rocíe para que se escurra en la noche fresca.",
+          "title": "Aplicar aceite de neem"
+        },
+        "S28": {
+          "body": "Diluya 1 cucharada de jabón líquido suave para platos (sin desgrasantes) por cuarto de galón de agua en una botella de spray. Cubra las partes inferiores y superiores de las hojas hasta que goteen. Repita el spray cada 2-3 días durante 1-2 semanas.",
+          "title": "Aplicar jabón insecticida"
+        },
+        "S29": {
+          "body": "Pulverice Bt en las hojas y tallos donde se alimentan las orugas. Las orugas deben ingerirlo. Bt es inofensivo para las abejas, los animales de compañía y los humanos. Reaplique después de la lluvia.",
+          "title": "Aplicar Bacillus thuringiensis (Bt)"
+        },
+        "S30": {
+          "body": "Use un insecticida a base de piretrina o piretrum (derivado del caléndula) por etiqueta. Rocíe por la noche para proteger a las abejas. Eficaz contra trips, pulgones y escarabajos.",
+          "title": "Aplicar spray de piretrina"
+        },
+        "S31": {
+          "body": "Para plagas teimosas o ocultas, empapar el suelo con un pesticida sistémico (imidacloprid, dinotefuran) según la etiqueta. La planta lo absorbe a través de las raíces, haciendo que el savio sea tóxico para los insectos sugadores. Evitar en plantas en flor visitadas por abejas.",
+          "title": "Aplicar insecticida sistémico"
+        },
+        "S32": {
+          "body": "Use un boquilla de manguera en un modo de chorro para eliminar pulgones, ácaros, pulgones de melaza o pulgones de encaje de las hojas y tallos. También diríjase bajo las hojas. Repita cada pocos días.",
+          "title": "Pulveriza plagas con una manguera fuerte"
+        },
+        "S33": {
+          "body": "Compre mariposas de la hormiga, mariposas de encaje, avispas parasitas o ácaros depredadores en un proveedor de jardinería. Suélvalas por la noche cerca de la planta afectada. Proporcione plantas de néctar cerca para mantenerlas cerca.",
+          "title": "Liberar insectos beneficiosos"
+        },
+        "S34": {
+          "body": "Coloque trampas de feromonas específicas de la especie dentro o cerca de las plantas afectadas. Las trampas atrapan polillas machos, suprimiendo la siguiente generación. Sustituir las señuelos cada 4-6 semanas durante la temporada.",
+          "title": "Configurar trampas de feromonas"
+        },
+        "S35": {
+          "body": "Coloque una fina red de malla o cubiertas de fila flotantes sobre las plantas y asegure los bordes con piedras o clavos. Previene que las polillas, los escarabajos y las orugas depongan huevos.",
+          "title": "Use redes para insectos o cubiertas de hileras"
+        },
+        "S36": {
+          "body": "Use un fertilizante equilibrado N-P-K (por ejemplo, 10-10-10) por etiqueta. Para las deficiencias que se muestran en las hojas, siga con un alimento foliar para una rápida absorción. El compost es una alternativa de liberación lenta.",
+          "title": "Aplicar fertilizante equilibrado"
+        },
+        "S37": {
+          "body": "Mezcle un producto de hierro chelado por etiqueta y rocíelo directamente sobre las hojas amarillentas. Más rápido que el rocío de suelo. Repita cada 2-3 semanas hasta que vuelva el verde.",
+          "title": "Aplicar alimento foliar rico en hierro"
+        },
+        "S38": {
+          "body": "Use un kit de prueba de suelo o envíe una muestra a su oficina de extensión local. Añada azufre elemental para reducir el pH o cal de jardín para aumentarlo, según la recomendación de la prueba.",
+          "title": "Pruebe y modifique el pH del suelo"
+        },
+        "S39": {
+          "body": "Mantenga las plantas recién compradas separadas de su colección durante 2 semanas. Revise las partes inferiores de las hojas, las uniones de las hojas y la parte superior del suelo para detectar plagas y enfermedades antes de integrarlas.",
+          "title": "Inspeccionar y poner en cuarentena nuevas plantas"
+        },
+        "S40": {
+          "body": "Al comprar plantas, busque variedades etiquetadas como resistentes a enfermedades comunes (por ejemplo, \"tomates resistentes al verticillio\", \"rosas resistentes a la roya\"). Las jardinerías locales y los paquetes de semillas enumeran códigos de resistencia.",
+          "title": "Elija variedades resistentes"
+        },
+        "S41": {
+          "body": "Rajea las hojas caídas, los frutos y los ramas muertas de debajo de las plantas, especialmente en otoño. Muchos patógenos pasan el invierno en los restos de plantas y se reinfectan en primavera.",
+          "title": "Limpiar los escombros alrededor de las plantas"
+        },
+        "S42": {
+          "body": "No plantee la misma especie, ni sus parientes botánicos, en el mismo lugar dos años seguidos. Una rotación de 3 años rompe el ciclo de vida de las enfermedades y plagas transmitidas por el suelo.",
+          "title": "Rotar cultivos entre temporadas"
+        },
+        "S43": {
+          "body": "Cuando más de la mitad de la planta está afectada o la pudrición de las raíces es generalizada, saque la planta, envíela en una bolsa de basura pesada y deséchela. Esterilice la zona antes de replantarla.",
+          "title": "Deseche la planta gravemente infectada"
+        },
+        "S44": {
+          "body": "Remoja los maceteros vacíos durante 10 minutos en una solución de 1:9 de lejía con agua, luego enjuágalos bien con agua limpia y déjalos secar al aire antes de rellenarlos con tierra fresca.",
+          "title": "Sterilice las macetas antes de reutilizarlas"
+        }
+      }
+    }
+  }
+}

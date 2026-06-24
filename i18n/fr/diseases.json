@@ -1,0 +1,4159 @@
+{
+  "schema_version": 1,
+  "locale": "fr",
+  "source": {
+    "resource": "diseases.json",
+    "sha256": "41126fad245c663221405bac99a4b1ad80d740dda790d7c153fb0c2990701823"
+  },
+  "fields": {
+    "categories": {
+      "FL": {
+        "label": "Fleurs"
+      },
+      "FR": {
+        "label": "Fruits"
+      },
+      "L": {
+        "label": "Feuilles"
+      },
+      "P": {
+        "label": "Pestes"
+      },
+      "R": {
+        "label": "Racines"
+      },
+      "ST": {
+        "label": "Tiges"
+      }
+    },
+    "diseases": {
+      "FL01": {
+        "name": "Pourriture des fleurs",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Ne pulvériser jamais les fleurs depuis le haut."
+                },
+                {
+                  "title": "Plantes spatiales pour le flux d'air"
+                },
+                {
+                  "title": "Nettoyez rapidement les pétales tombés et les débris."
+                },
+                {
+                  "title": "Choisissez des variétés résistantes aux maladies."
+                },
+                {
+                  "title": "Roter les parterres de fleurs annuels"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Les bourgeons deviennent doux, mous, bruns.",
+        "symptomAnalysis": "Deux principales causes :\n1. **Pluie abondante ou arrosage excessif** - l'eau reste dans la fleur et pourrit les pétales à l'intérieur.\n2. **Infection bactérienne** - entre par de petites blessures et se propage rapidement dans des conditions météorologiques chaudes et humides.\n\nSi laissé seul, la pourriture peut se propager le long du tige et infecter les feuilles et les plantes environnantes.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Coupez tous les bourgeons pourris."
+                },
+                {
+                  "title": "Stérilisez les doigts ou les couteaux entre les coupes."
+                },
+                {
+                  "title": "Coupez tout tige doux et décoloré en dessous de la fleur."
+                },
+                {
+                  "title": "Passer uniquement à l'arrosage de base"
+                },
+                {
+                  "body": "Pulvériser un fongicide à base de cuivre (mélange Bordeaux, sulfate de cuivre ou hydrogène de cuivre commercial) sur les feuilles, les tiges et le sol environnant conformément à l'étiquette du produit. Répétez l'application tous les 7 à 14 jours. Si la plupart des bourgeons et des tiges sont infectés : *Jetez la plante fortement infectée* (voir 5.1).",
+                  "subSteps": [
+                    {
+                      "title": "Jetez la plante sévèrement infectée."
+                    }
+                  ],
+                  "title": "Pour la propagation bactérienne, appliquez du bactéricide au cuivre selon l'étiquette."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "FL02": {
+        "name": "Fleur fanée",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Couvrez avec un chiffon de gelée avant les nuits froides."
+                },
+                {
+                  "title": "Apportez les plantes fleuries en pot à l'intérieur pendant la nuit au début du printemps ou à la fin de l'automne."
+                },
+                {
+                  "title": "Choisissez des variétés résistantes au froid adaptées à votre zone."
+                },
+                {
+                  "title": "Ne fertilisez pas avec de l'azote après la mi-été ; la nouvelle croissance tendre est plus vulnérable au gel."
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Les fleurs sèchent brunes après la gelée ou la fin de la saison.",
+        "symptomAnalysis": "Deux principales causes :\n1. **Dommages causés par le froid ou la gelée** - les chutes soudaines de température gèlent les cellules des fleurs, provoquant une brunissement. De nombreuses fleurs ne peuvent pas tolérer des températures inférieures à 50°F (10°C).\n2. **Fin de vie normale** - les fleurs annuelles et pérennes fanent à la fin de leur saison lorsque la plante se met en graines.\n\nSi le dessèchement survient après une vague de froid, la cause est environnementale. S'il survient à la fin de la saison avec la formation de bourgeons de graines, c'est naturel.",
+        "treatment": {
+          "groups": [
+            {
+              "label": "Pour les dommages causés par la glace",
+              "steps": [
+                {
+                  "title": "Arrosez légèrement avant que le soleil ne frappe la plante recouverte de givre."
+                },
+                {
+                  "title": "Une fois décongelé, pincer les bourgeons gravement endommagés."
+                },
+                {
+                  "title": "Couvrez la nuit jusqu'à ce que le danger de gel passe."
+                }
+              ]
+            },
+            {
+              "label": "Pour la fin de la vie",
+              "steps": [
+                {
+                  "title": "Pincez les fleurs et les bourgeons touchés."
+                },
+                {
+                  "title": "Ne rien faire - cycle naturel"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "FL03": {
+        "name": "Des fleurs fanées",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Arrosez profondément et de manière régulière"
+                },
+                {
+                  "title": "Choisissez des variétés résistantes au flétrissement (remarquez le \"VFN\" sur les graines de tomates/fraises)."
+                },
+                {
+                  "title": "Rotatez les cultures entre les saisons"
+                },
+                {
+                  "title": "Paillis pour maintenir une humidité uniforme du sol"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Les tiges se flétrissent, les pétales tombent tôt.",
+        "symptomAnalysis": "La pourriture des fleurs peut provenir de nombreuses directions :\n\n- **Stress hydrique** - trop ou pas assez. Des pétales mous et papillonnés dus à la sécheresse ; des tiges molles dues à l'arrosage excessif.\n- **Chaleur / soleil fort** - les pétales brûlent et se plient du côté exposé au soleil.\n- **Maladies de pourriture vasculaire** - Les champignons transmis par le sol comme *Verticillium* ou *Fusarium* obstruent le tissu transportant l'eau de la plante. Les tiges pourrissent même si le sol est humide.\n- **Pourriture des racines** - voir [R01](../05_roots/root-rot.md). Les racines endommagées ne peuvent pas fournir d'eau aux fleurs.\n\nDéterminez d'abord la cause. Les tiges qui fanent uniquement en après-midi chaud mais se rétablissent pendant la nuit sont stressées par la chaleur ; les tiges qui fanent et restent fanées indépendamment de l'humidité du sol suggèrent une maladie ou des dommages aux racines.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "body": "Si mouillé → *Réduire la fréquence d'arrosage* (voir 1.1).",
+                  "subSteps": [
+                    {
+                      "title": "Réduire la fréquence d'arrosage"
+                    }
+                  ],
+                  "title": "Testez le sol avec un doigt : s'il est sec → [S17](../shared/treatment-steps.md#s17-water-deeply-but-less-often)"
+                },
+                {
+                  "title": "Mettez-vous à l'ombre de l'après-midi si vous êtes stressé par la chaleur."
+                },
+                {
+                  "title": "Prendre la taille des feuilles fanées pour réduire la demande."
+                },
+                {
+                  "body": "Mettez les tondeuses à pruneaux, les ciseaux ou les lames de couteau dans une solution de 1:4 de détergent pour les cheveux à l'eau (ou de 70 % d'alcool isopropyle) avant chaque coupe et entre chaque plante. Essuyez-les avant de couper. Si la cause est une maladie de la pourriture vasculaire : *Jetez la plante fortement infectée* (voir 4.1). Le champignon persiste dans le sol pendant des années.",
+                  "subSteps": [
+                    {
+                      "title": "Jetez la plante sévèrement infectée."
+                    }
+                  ],
+                  "title": "Stérilisez les outils entre les coupes."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "FL04": {
+        "name": "Chute de bourgeons",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Acclimatez les plantes lentement lorsqu'elles sont déplacées."
+                },
+                {
+                  "title": "L'eau à un horaire, pas sur un coup de tête."
+                },
+                {
+                  "title": "Maintenez une humidité de 40 à 60 % pour les plantes à fleurs d'intérieur."
+                },
+                {
+                  "title": "Utilisez un engrais équilibré ou à formule florale ; évitez l'azote lourd pendant la poussée."
+                },
+                {
+                  "title": "Ne repotez pas une plante qui forme des bourgeons - ils tomberont à cause de la perturbation."
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Les bourgeons de fleurs se forment puis tombent avant d'ouvrir.",
+        "symptomAnalysis": "Une réponse au stress, pas une maladie. La plante conserve de l'énergie en abortant les bourgeons qu'elle ne peut pas soutenir. Les déclencheurs courants :\n\n- **Changements environnementaux soudains** - déplacement à l'intérieur/à l'extérieur, courant d'air, changement soudain de température.\n- **Arrosage incohérent** - laisser le sol sécher trop loin, puis le inonder.\n- **Faible humidité** - courante à l'intérieur ; les plantes à fleurs tropicales (gardénias, hibiscus) sont sensibles.\n- **Lumière insuffisante** - les bourgeons se forment mais n'obtiennent pas l'énergie nécessaire pour s'ouvrir.\n- **Sur-fertilisation** - trop de nitrogène pousse la croissance des feuilles au détriment des fleurs.\n- **Pression des ravageurs** - les tétras et les pucerons se nourrissent à l'intérieur des bourgeons en développement. Voir [02_pests/](../02_pests/).",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Établissez un rythme d'arrosage cohérent."
+                },
+                {
+                  "title": "Augmenter l'humidité pour les plantes à fleurs tropicales."
+                },
+                {
+                  "body": "Laissez-le s'installer dans un seul endroit.",
+                  "title": "Arrêtez de déplacer la plante"
+                },
+                {
+                  "title": "Pauser l'engrais pendant 2 à 4 semaines ; reprendre avec une formule de floraison à faible teneur en azote (haut P, comme 5-10-5)"
+                },
+                {
+                  "body": "Si trouvé, consultez l'entrée pertinente sur les ravageurs.",
+                  "title": "Vérifiez les bourgeons pour les ravageurs."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "FL05": {
+        "name": "Maladie des pétales",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "De l'eau à la base"
+                },
+                {
+                  "title": "Espacer et tailler pour un bon flux d'air"
+                },
+                {
+                  "title": "Retirez les fleurs fanées avant qu'elles ne pourrissent."
+                },
+                {
+                  "title": "Choisissez des variétés de plantes avec des fleurs à pétales simples ou à forme ouverte."
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Moût poilu gris brun sur les pétales",
+        "symptomAnalysis": "Le champignon *Botrytis cinerea* (moisissure grise) attaque d'abord les pétales qui s'effacent ou sont endommagés, puis se propage aux pétales sains. Il prospère dans l'air frais, humide et calme - au début du printemps, à la fin de l'automne ou pendant toute période de pluie. Les roses, les pivoines, les dahlias, les hortensias et les azalées sont des hôtes courants.\n\nPour le même champignon sur les feuilles et les tiges, voir [L23 — Moisissure grise](../01_leaves/gray-mold.md).",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Supprimez toutes les fleurs infectées, y compris les bourgeons partiellement ouverts à proximité."
+                },
+                {
+                  "title": "Stérilisez les outils entre les coupes."
+                },
+                {
+                  "title": "Nettoyez les pétales et les feuilles tombés sous la plante."
+                },
+                {
+                  "title": "Appliquer un fongicide au cuivre si l'infection est répandue."
+                },
+                {
+                  "title": "Ouvrez le flux d'air avec une taille sélective."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "FL06": {
+        "name": "Échec à fleurir",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Associez la plante à vos conditions de lumière avant d'acheter."
+                },
+                {
+                  "title": "Utilisez un engrais équilibré ou à formule florale ; évitez les aliments à base de pure azote pour les plantes en pleine floraison."
+                },
+                {
+                  "title": "Soyez patient avec les nouvelles vivaces et arbustes."
+                },
+                {
+                  "title": "De l'eau de manière constante"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Une plante saine produit peu ou pas de fleurs.",
+        "symptomAnalysis": "Pas une maladie. La plante a l'énergie pour pousser des feuilles, mais elle n'est pas déclenchée pour fleurir. Causes courantes :\n\n- **Lumière insuffisante** - la plupart des plantes fleuries ont besoin de plus de 6 heures de lumière vive par jour.\n- **Trop d'azote** - favorise la croissance des feuilles au détriment des fleurs.\n- **Cycle de température incorrect** - de nombreux fleurissants ont besoin d'un signal de nuit fraîche (par exemple, orchidées, cactus de Noël).\n- **La plante est trop jeune** - les vivaces, les arbres fruitiers et de nombreux arbustes peuvent prendre 1 à 3 ans avant leur première floraison.\n- **Taille récente au mauvais moment** - la taille des bourgeons floraux (certaines plantes produisent des bourgeons l'année précédente sur du bois ancien).\n- **Attaché aux racines** - voir [R04](../05_roots/pot-bound.md). Parfois, un pot serré déclenche la floraison, mais un attachement radical extrême l'éteint.\n- **Arrosage sec ou incohérent** - Les plantes stressées par la sécheresse perdent leurs sites de bourgeons.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Ménager dans un endroit plus lumineux"
+                },
+                {
+                  "title": "Passez à un engrais à formule de floraison (Moins de N, plus de P, par exemple, 5-10-5)"
+                },
+                {
+                  "body": "Le cactus de Noël a besoin de nuits fraîches et de journées courtes ; les gardenias ont besoin de journées chaudes et d'air humide.",
+                  "title": "Recherchez le déclencheur de floraison de votre plante spécifique."
+                },
+                {
+                  "title": "Évitez la taille jusqu'à ce que vous confirmiez si la espèce fleurit sur du bois neuf ou sur du bois ancien."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "FL07": {
+        "name": "Bougeons tachetés",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Plantes spatiales pour le flux d'air"
+                },
+                {
+                  "title": "L'eau à la base, jamais au-dessus de la tête."
+                },
+                {
+                  "title": "Nettoyez régulièrement les pétales tombés et les feuilles mortes."
+                },
+                {
+                  "title": "Pulvérisation préventive de cuivre au début du printemps sur les roses ou les pivoines sensibles."
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Des taches brunes ou foncées apparaissent sur les bourgeons de fleurs avant qu'ils ne s'ouvrent.",
+        "symptomAnalysis": "Les bourgeons tachetés remontent généralement à une infection fongique ou bactérienne - des agents pathogènes tels que la botrytis, l'anthracnose ou les agents pathogènes à trous de balle - qui s'est propagée des feuilles ou des pétales tombés sur les bourgeons en développement. Les conditions météorologiques humides, la plantation dense et les débris contaminés autour de la plante accélèrent la propagation. Les bourgeons tachetés ne s'ouvrent pas, s'ouvrent en fleurs déformées ou pourrissent avant de montrer de la couleur.\n\nSi le problème apparaît sur les pétales après l'ouverture du bourgeon (pas la surface du bourgeon elle-même), consultez [FL05 - Maladie des pétales](petal-blight.md).",
+        "treatment": {
+          "groups": [
+            {
+              "label": "Pour les cas légers",
+              "steps": [
+                {
+                  "title": "Pincez les bourgeons taches et jetez-les"
+                },
+                {
+                  "title": "Stérilisez les outils entre les coupes afin que les spores ne se déplacent pas d'un bourgeon à l'autre."
+                },
+                {
+                  "title": "Nettoyez les pétales et les feuilles tombés autour de la plante."
+                }
+              ]
+            },
+            {
+              "label": "Pour les cas graves",
+              "steps": [
+                {
+                  "title": "Pincez tous les bourgeons visiblement affectés."
+                },
+                {
+                  "title": "Pulvériser du fongicide au cuivre sur les bourgeons et les feuilles restants."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "FR01": {
+        "name": "Point de fruit",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Achetez des variétés résistantes aux taches"
+                },
+                {
+                  "title": "Rotate les cultures de fruits annuelles tous les 3 ans."
+                },
+                {
+                  "title": "Nettoyez tous les fruits et feuilles tombés à la fin de la saison."
+                },
+                {
+                  "title": "Irrigation gouttière ou arrosage de base uniquement"
+                },
+                {
+                  "title": "Plantes spatiales pour le flux d'air"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Rayures et lésions brunes ou noires sur la peau des fruits.",
+        "symptomAnalysis": "La tache de fruit est un terme générique pour les infections bactériennes et fongiques qui laissent des lésions sombres sur le fruit. Les agents pathogènes se déplacent par le vent, les éclaboussures de pluie, les insectes et les outils. Ils passent l'hiver dans les débris de plantes et se réinfectent au printemps. Les conditions humides accélèrent la propagation. Les fruits fortement tachés peuvent ne pas être comestibles ; les fruits légèrement tachés sont généralement bons après avoir retiré la tache.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Retirer et détruire les fruits avec de mauvaises taches."
+                },
+                {
+                  "title": "Prendre des branches infectées et les tailler pour éviter qu'elles ne transportent le pathogène."
+                },
+                {
+                  "title": "Stérilisez les outils entre les coupes."
+                },
+                {
+                  "title": "Appliquer le fongicide/bactéricide au cuivre selon l'étiquette."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "FR02": {
+        "name": "Pourriture des fruits",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "L'arrosage régulier est le seul facteur le plus important."
+                },
+                {
+                  "title": "paillis"
+                },
+                {
+                  "title": "Utilisez un engrais équilibré"
+                },
+                {
+                  "title": "Fruits fins et pruneaux pour un flux d'air"
+                },
+                {
+                  "title": "Piquez les fruits rapidement lorsqu'ils sont mûrs."
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Pourriture brune enfoncée, noircissement de la partie terminale des bourgeons, bouillie fongique.",
+        "symptomAnalysis": "Trois modèles courants :\n\n1. **Pourriture à la pointe des bourgeons** - cratère noir enfoncé au fond des tomates, poivrons, courges. Causée par une carence en calcium dans le fruit, pas une maladie. L'arrosage irrégulier perturbe l'absorption du calcium.\n2. **Pourriture brune (fongique)** - de petites taches brunes qui s'étendent et peuvent former des amas de spores poilues grisâtres. Affecte les fruits de pierre (pêche, prune, cerise).\n3. **Pourriture surdouée** - fruit laissé sur la plante après la maturation, attirant des insectes et des champignons.",
+        "treatment": {
+          "groups": [
+            {
+              "label": "Pour la pourriture à la fin des bourgeons",
+              "steps": [
+                {
+                  "title": "Instaurer une arrosage profond régulier"
+                },
+                {
+                  "title": "Paillis pour maintenir une humidité uniforme du sol"
+                },
+                {
+                  "title": "Retirez les fruits affectés afin que la plante redirige le calcium vers les fruits restants."
+                }
+              ]
+            },
+            {
+              "label": "Pour la pourriture brune",
+              "steps": [
+                {
+                  "title": "Retirez tous les fruits visiblement pourris, y compris ceux sur le sol."
+                },
+                {
+                  "title": "Prendre les branches touchées en coupe."
+                },
+                {
+                  "title": "Appliquez un fongicide au cuivre sur les fruits mûrs, pas sur les fruits verts."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "FR03": {
+        "name": "Malformation des fruits",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "body": "Pollinez à la main les courges et les melons avec un petit pinceau à peinture si vous voyez peu d'abeilles.",
+                  "title": "Plantez des fleurs adaptées aux pollinisateurs à proximité."
+                },
+                {
+                  "title": "Couvrez les plantes fleuries de la fin de la gelée."
+                },
+                {
+                  "title": "Humidité constante, surtout pendant la période de fructification."
+                },
+                {
+                  "title": "Appliquer un engrais à libération lente à la plantation."
+                },
+                {
+                  "body": "Voir [02_pests/](../02_pests/).",
+                  "title": "Vérifiez les dommages causés par les insectes sur les fruits en développement."
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Fruit malformé, à moitié formé ou fendu",
+        "symptomAnalysis": "Plusieurs facteurs :\n\n- **Pauvre pollinisation** - les abeilles ont manqué certains ovules, de sorte que le fruit se développe de manière inégale. Commun : fraises à pointe, concombres asymétriques.\n- **Balançoires d'arrosage** - la sécheresse suivie d'une forte pluviométrie peut provoquer des fissures ; l'humidité inégale provoque des taches de noirciement sur les tomates.\n- **Extrêmes de température** - le froid pendant la floraison endommage les fruits en développement.\n- **Déficits en nutriments** - Les pénuries de bore et de calcium provoquent un retard de croissance et des formes inhabituelles.\n- **Dommages causés par les insectes à la phase de bourgeon** - Les insectes de plantes ternis qui se nourrissent des fleurs laissent des cicatrices et des rides.\n\nLa plupart des fruits déformés sont toujours comestibles.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Retirez les pires fruits afin que la plante se concentre sur les fruits sains."
+                },
+                {
+                  "title": "Stabiliser l'arrosage immédiatement"
+                },
+                {
+                  "title": "Appliquez un engrais équilibré avec des micronutriments (boron, calcium)"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "FR04": {
+        "name": "Fruit fané",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Nettoyez tous les fruits tombés à la fin de la saison."
+                },
+                {
+                  "title": "Plantez des plantes hors du sol"
+                },
+                {
+                  "title": "Prendre des tailles pour l'aération pendant la saison dormante."
+                },
+                {
+                  "title": "Pulvérisation préventive de cuivre à la floraison et à nouveau avant la récolte."
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Fruit momifié et ramolli accroché à la plante.",
+        "symptomAnalysis": "Une infection fongique (souvent *Monilinia* sur les fruits de pierre) qui hiverne dans les débris de fruits et de plantes secs. Les spores éclaboussent au printemps et infectent les nouvelles fleurs et les fruits en développement, qui sèchent ensuite avant de mûrir. Les conditions météorologiques chaudes et humides du printemps/été provoquent des épidémies.\n\nLe fruit momifié que vous voyez en hiver ou en fin de saison est la source de l'infection de l'année prochaine.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Ramassez chaque momie ramollie de la plante et du sol."
+                },
+                {
+                  "title": "Prendre soin des branches touchées."
+                },
+                {
+                  "title": "Pulvériser un fongicide au cuivre"
+                },
+                {
+                  "title": "Ouvrez le canopée avec une taille sélective."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "FR05": {
+        "homeRemedies": [
+          null,
+          {
+            "ingredients": [
+              {
+                "name": "aspirine",
+                "quantity": "1 comprimé"
+              },
+              {
+                "name": "eau",
+                "quantity": "1 gallon"
+              },
+              {
+                "name": "Savon à vaisselle",
+                "quantity": "Quelques gouttes"
+              }
+            ]
+          }
+        ],
+        "name": "Moisi sur les fruits",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Ramassez les débris pourris et les fruits tombés."
+                },
+                {
+                  "title": "Irrigation gouttière uniquement"
+                },
+                {
+                  "title": "Ne surchargez pas"
+                },
+                {
+                  "title": "Ne surfertilisez pas trop tôt."
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Moût poilu gris, blanc ou brun sur la surface des fruits.",
+        "symptomAnalysis": "Une variété de champignons provoquent des moisissures floues sur les fruits. Ils prospèrent dans des conditions fraîches, humides et sans vent - au début et à la fin de la saison. Même une infection légère gâche le fruit ; une infection sévère détruit la plante. Elle suit souvent la pourriture de la tige des fleurs ou les dommages causés par les insectes qui ont donné aux champignons un point d'entrée.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Retirez tous les fruits pourris, y compris ceux qui se trouvent sur le sol."
+                },
+                {
+                  "title": "Pincez les feuilles et les tiges affectées près du fruit pourri."
+                },
+                {
+                  "title": "Retirez la croissance environnante pour améliorer le flux d'air."
+                },
+                {
+                  "title": "Appliquer un fongicide au cuivre sur les fruits de maturation restants."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "FR06": {
+        "homeRemedies": [
+          {
+            "ingredients": [
+              {
+                "name": "bicarbonate de soude",
+                "quantity": "1 cuillère à café"
+              },
+              {
+                "name": "Savon à vaisselle",
+                "quantity": "1 cuillère à café"
+              },
+              {
+                "name": "eau",
+                "quantity": "1 litre"
+              }
+            ]
+          },
+          {
+            "ingredients": [
+              {
+                "name": "lait",
+                "quantity": "1 partie"
+              },
+              {
+                "name": "eau",
+                "quantity": "9 parties"
+              }
+            ]
+          }
+        ],
+        "name": "Moisissure grasse sur les fruits",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Achetez des variétés résistantes au moisissure (en particulier les courges, les concombres, les melons)"
+                },
+                {
+                  "title": "Irrigation gouttière, pas au-dessus"
+                },
+                {
+                  "title": "Espacement large"
+                },
+                {
+                  "title": "Nettoyez les débris avant l'hiver"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Couche de revêtement en poudre blanche sur la chair et le tronc des fruits.",
+        "symptomAnalysis": "Les champignons de la moisissure grasse préfèrent les journées chaudes et sèches et les nuits fraîches et humides - contrairement à la plupart des maladies fongiques. Les épidémies de mi-été à fin d'été sont typiques. La couche blanche est le champignon qui pousse sur la surface ; il tue rarement le fruit, mais réduit la production, gâche l'apparence et peut se propager au reste de la plante.\n\nPour le même champignon sur les feuilles, voir [L20 — Moisissure grise](../01_leaves/powdery-mildew.md).",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Retirez les fruits fortement pourris."
+                },
+                {
+                  "title": "Coupez les feuilles et les tiges pourris à proximité."
+                },
+                {
+                  "title": "Ouvrez le canopée avec une taille sélective."
+                },
+                {
+                  "title": "Appliquer un fongicide au cuivre pour les cas tenaces."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "FR07": {
+        "name": "Cracking des fruits",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "L'humidité constante est le seul facteur le plus important."
+                },
+                {
+                  "title": "Mélanger abondamment pour uniformiser l'humidité du sol."
+                },
+                {
+                  "title": "Achetez des variétés résistantes à la fissuration (par ex."
+                },
+                {
+                  "title": "Récolte juste avant la pleine maturité si des fortes pluies sont prévues."
+                },
+                {
+                  "title": "Placer des fruits lourds pour éviter la pression sur la peau."
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Divisions et fissures sur la peau des fruits",
+        "symptomAnalysis": "La fissuration se produit lorsque la croissance des fruits s'accélère plus rapidement que la peau ne peut s'étirer. Le déclencheur le plus courant est une soudaine éclaboussure d'eau - de fortes pluies ou un arrosage profond après une sécheresse. Les variétés à peau douce et fine sont les plus vulnérables.\n\nLes fruits fissurés attirent rapidement les insectes et les champignons pourri, mais le fruit lui-même est généralement toujours comestible s'il est cueilli rapidement.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "body": "N'attendez pas la pleine maturité - ils pourriront ou se sépareront davantage.",
+                  "title": "Choisissez les fruits fissurés immédiatement."
+                },
+                {
+                  "title": "Jetez les fruits présentant des dommages dus à la moisissure ou aux insectes dans les fissures."
+                },
+                {
+                  "title": "Redémarrez immédiatement l'arrosage régulier"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "L01": {
+        "homeRemedies": [
+          {
+            "ingredients": [
+              {
+                "name": "aspirine",
+                "quantity": "1 comprimé"
+              },
+              {
+                "name": "eau",
+                "quantity": "1 gallon"
+              },
+              {
+                "name": "Savon à vaisselle",
+                "quantity": "Quelques gouttes"
+              }
+            ]
+          }
+        ],
+        "name": "Tache brune",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Choisissez des variétés résistantes"
+                },
+                {
+                  "title": "L'eau à la base, pas au-dessus"
+                },
+                {
+                  "title": "Plantes spatiales pour le flux d'air"
+                },
+                {
+                  "title": "Nettoyer les feuilles mortes et les débris tombés"
+                },
+                {
+                  "title": "Spray préventif au cuivre dans les sources humides"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Des taches brunes ou de petits points bruns sur les feuilles",
+        "symptomAnalysis": "La tache brune est un terme générique pour les infections fongiques et bactériennes qui laissent des lésions brunes sur les feuilles. Les causes varient, mais les conditions sont généralement similaires : feuilles humides, mauvaise circulation de l'air et débris contaminés transportant des spores. Si elle est laissée seule, la tache brune affaiblit la plante et l'ouvre à des maladies plus nuisibles.\n\nQue la tache soit l'une des trois formes (de grandes taches, de taches avec des points jaunes ou de minuscules points denses) n'affecte pas le traitement.",
+        "treatment": {
+          "groups": [
+            {
+              "label": "Pour les cas légers (moins de 50 % des feuilles affectées)",
+              "steps": [
+                {
+                  "title": "Pincez les feuilles infectées"
+                },
+                {
+                  "title": "Stérilisez les outils entre les coupes."
+                },
+                {
+                  "title": "Surveillez régulièrement les nouvelles offres."
+                }
+              ]
+            },
+            {
+              "label": "Pour les cas graves",
+              "steps": [
+                {
+                  "title": "Prendre soin de toutes les feuilles infectées."
+                },
+                {
+                  "title": "Appliquer un fongicide/bactéricide au cuivre"
+                },
+                {
+                  "title": "Ouvrir le flux d'air"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "L02": {
+        "name": "point noir",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Achetez des variétés de roses résistantes aux taches noires."
+                },
+                {
+                  "title": "Racler toutes les feuilles tombées"
+                },
+                {
+                  "title": "Irrigation gouttière uniquement"
+                },
+                {
+                  "title": "La paillis réduit les éclaboussures de sol."
+                },
+                {
+                  "title": "Pulvérisation préventive de cuivre au début du printemps"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Des taches noires ou des points noirs densément regroupés sur les feuilles.",
+        "symptomAnalysis": "La plupart du temps, une infection fongique - *Diplocarpon rosae* sur les roses est l'exemple typique, mais d'autres champignons causent des dommages similaires sur différents hôtes. Le champignon prospère dans des conditions humides et se propage lorsque l'eau éclabousse des spores sur les feuilles. Les cas légers sont principalement cosmétiques ; les cas graves défolient la plante et la affaiblissent pour la saison suivante.",
+        "treatment": {
+          "groups": [
+            {
+              "label": "Pour les cas légers (moins de 50 % des feuilles)",
+              "steps": [
+                {
+                  "title": "Pincez les feuilles tachetées."
+                },
+                {
+                  "title": "Stérilisez les outils entre les coupes."
+                }
+              ]
+            },
+            {
+              "label": "Pour les cas graves",
+              "steps": [
+                {
+                  "title": "Prendre soin de toutes les feuilles tachetées."
+                },
+                {
+                  "title": "Fongicide au cuivre tous les 7 à 14 jours."
+                },
+                {
+                  "title": "Passer à un fongicide systémique pour les cas tenaces."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "L03": {
+        "name": "Maladie des feuilles et brûlure",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Choisissez des variétés adaptées à votre climat."
+                },
+                {
+                  "title": "Arrosez profondément et de manière régulière"
+                },
+                {
+                  "title": "Paillis pour retenir l'humidité"
+                },
+                {
+                  "title": "Inspectez les nouvelles plantes à la recherche de premiers symptômes de brûlure."
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Les extrémités et les bords sont secs, bruns et ont un halo jaune.",
+        "symptomAnalysis": "Trois causes :\n\n1. **Stress thermique et solaire** - les feuilles perdent de l'eau plus rapidement que les racines ne peuvent la fournir. Les feuilles exposées au soleil brunissent en premier.\n2. **Faible fonction des racines** - le sol compacté, les dommages aux racines ou l'excès d'engrais empêchent les racines d'absorber suffisamment d'eau. La plante a l'air brûlée même en journée normale.\n3. **Cendrure bactérienne des feuilles** (*Xylella fastidiosa*) - maladie chronique qui se répète chaque année. Affecte d'abord les feuilles les plus anciennes ; les feuilles les plus récentes restent propres. Permanente.\n\nUne fois que les feuilles deviennent brunes, elles ne se rétablissent pas. L'objectif est de sauver le reste de la plante.",
+        "treatment": {
+          "groups": [
+            {
+              "label": "Pour le soleil/la chaleur",
+              "steps": [
+                {
+                  "title": "Arrosez plus profondément, surtout en période de vagues de chaleur."
+                },
+                {
+                  "title": "Utilisez un tissu d'ombrage ou déplacez les plantes conteneurs."
+                },
+                {
+                  "title": "Paillis pour garder la zone racinaire fraîche."
+                }
+              ]
+            },
+            {
+              "label": "Pour la tension racinaire",
+              "steps": [
+                {
+                  "title": "Réduisez l'arrosage si le sol est compacté et humide."
+                },
+                {
+                  "title": "Test du sol"
+                },
+                {
+                  "title": "Si vous repotez, taisez les racines endommagées."
+                }
+              ]
+            },
+            {
+              "label": "Pour la brûlure bactérienne",
+              "steps": [
+                {
+                  "title": "enlever"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "L04": {
+        "name": "Anthracnose",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Ramassez tous les débris de plantes anciennes en automne."
+                },
+                {
+                  "title": "Achetez des variétés résistantes"
+                },
+                {
+                  "title": "Espacement large pour le flux d'air"
+                },
+                {
+                  "title": "Irrigation gouttière uniquement"
+                },
+                {
+                  "title": "Pulvérisation préventive de cuivre au début du printemps sur les plantes sensibles."
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Taches grises avec des bords brun foncé ou noirs",
+        "symptomAnalysis": "L'anthracnose est un groupe de maladies fongiques apparentées. Elles prospèrent dans des conditions météorologiques fraîches et humides, en particulier au printemps et au début de l'été. Les spores surdonnent l'hiver dans les débris de plantes et infectent les nouvelles pousses au fur et à mesure que les conditions s'améliorent. Elles sont courantes sur les arbres à ombre, les arbres fruitiers, les haricots, les tomates et de nombreux arbustes ornementaux.\n\nLes épidémies sévères défolient les plantes. Les légères sont cosmétiques.",
+        "treatment": {
+          "groups": [
+            {
+              "label": "Pour les cas légers",
+              "steps": [
+                {
+                  "title": "Prendre les feuilles affectées et les éliminer."
+                },
+                {
+                  "title": "Nettoyez toutes les feuilles et débris tombés."
+                }
+              ]
+            },
+            {
+              "label": "Pour les cas graves",
+              "steps": [
+                {
+                  "title": "Prendre soin de tout le tissu visiblement affecté."
+                },
+                {
+                  "title": "Appliquez un fongicide au cuivre avant une période sèche."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "L05": {
+        "name": "Tache angulaire sur la feuille",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "**Ne travaillez pas dans le jardin lorsque les feuilles sont mouillées.** Les bactéries se transforment facilement des feuilles mouillées sur vos mains et vos outils."
+                },
+                {
+                  "title": "Achetez des variétés de citrouilles et de fraises résistantes."
+                },
+                {
+                  "title": "Rotatez au moins 2 ans avant de replanter les cucurbits au même endroit."
+                },
+                {
+                  "title": "Irrigation gouttière uniquement"
+                },
+                {
+                  "title": "Spray préventif au cuivre au printemps"
+                },
+                {
+                  "title": "Ne sauvegardez pas les graines provenant de plantes infectées."
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Des taches jaunes carrées par les veines des feuilles",
+        "symptomAnalysis": "Une maladie bactérienne (*Pseudomonas* spp.) transmise par les graines, mais qui se propage davantage par des conditions météorologiques chaudes et humides et par l'arrosage au-dessus. Les veines empêchent les bactéries de se propager librement, de sorte que les lésions restent confinées à un seul panneau entre les veines, donnant un aspect carré. Les cas graves font tomber les feuilles ; les lésions apparaissent également sur les tiges et les fruits.\n\nLa maladie persiste dans les graines, les débris de plantes et les outils contaminés.",
+        "treatment": {
+          "groups": [
+            {
+              "label": "Pour les cas légers",
+              "steps": [
+                {
+                  "title": "Prendre les feuilles et les tiges affectés."
+                },
+                {
+                  "title": "Stérilisez entre chaque coupe"
+                },
+                {
+                  "title": "Bactéricide au cuivre, appliqué tôt."
+                }
+              ]
+            },
+            {
+              "label": "Pour les cas graves",
+              "steps": [
+                {
+                  "title": "Enlever et détruire la plante"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "L06": {
+        "homeRemedies": [
+          {
+            "ingredients": [
+              {
+                "name": "bicarbonate de soude",
+                "quantity": "1 cuillère à café"
+              },
+              {
+                "name": "Savon à vaisselle",
+                "quantity": "1 cuillère à café"
+              },
+              {
+                "name": "eau",
+                "quantity": "1 litre"
+              }
+            ]
+          }
+        ],
+        "name": "Tache sur la feuille",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Achetez des variétés résistantes aux maladies."
+                },
+                {
+                  "title": "Racler toute la litière de feuilles"
+                },
+                {
+                  "title": "Eau au niveau du sol"
+                },
+                {
+                  "title": "La paillis réduit les éclaboussures de spores."
+                },
+                {
+                  "title": "Cuivre préventif au début du printemps"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Des taches blanches ou jaunes éparpillées sur les feuilles",
+        "symptomAnalysis": "Une étiquette générale pour les infections fongiques produisant des taches pâles sur les feuilles. De nombreux champignons causent des dommages similaires ; le traitement est à peu près le même quel que soit la espèce exacte. Les taches ont tendance à sécher du centre vers l'extérieur.\n\nSi les taches sont petites et densement regroupées (moins de 1 mm), la cause est plus probablement des insectes suceurs de sève - voir [L24 - Dommages dus à la suceuse de sève](sap-sucking-damage.md).",
+        "treatment": {
+          "groups": [
+            {
+              "label": "Pour les cas légers (moins de la moitié des feuilles touchées)",
+              "steps": [
+                {
+                  "title": "Pincez les feuilles tachetées"
+                },
+                {
+                  "title": "Stérilisez les outils entre les coupes."
+                }
+              ]
+            },
+            {
+              "label": "Pour les cas graves",
+              "steps": [
+                {
+                  "title": "Supprimez toute la végétation tachetée."
+                },
+                {
+                  "title": "Appliquer un fongicide au cuivre chaque semaine."
+                },
+                {
+                  "title": "Dans les cas extrêmes, remplacez la plante."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "L07": {
+        "name": "Jaunissement dû à l'arrosage insuffisant",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "body": "Certains préfèrent le sec, d'autres le humide de manière constante.",
+                  "title": "Faites des recherches sur les besoins en arrosage de chaque plante."
+                },
+                {
+                  "title": "Programmez un rappel de calendrier si vous avez tendance à oublier."
+                },
+                {
+                  "title": "Utilisez un mètre d'humidité du sol ou simplement le test du doigt avant de l'arroser."
+                },
+                {
+                  "title": "Mélanger les plantes extérieures pour ralentir l'évaporation."
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Les feuilles inférieures sont jaunes, le sol est sec et tire de la potte.",
+        "symptomAnalysis": "Lorsque la plante manque d'eau, elle sacrifie d'abord ses feuilles les plus anciennes pour maintenir en vie les nouvelles pousses. Le sol qui est sec jusqu'à votre deuxième joint et qui se rétrécit visiblement au bord du pot confirme une arrosage insuffisant. Commun chez les herbes et toutes les plantes qui ont été négligées.\n\nSe distingue de l'engorgement hydrique : sol sec + feuilles inférieures jaunissant uniquement = en dessous. Sol humide + feuilles inférieures jaunissant + sol avec une odeur aigre = en haut (voir [L08](waterlogging-yellow.md)).",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Versez l'eau lentement jusqu'à ce qu'elle s'écoule par le fond."
+                },
+                {
+                  "title": "Si le sol est si sec qu'il repousse l'eau : placez le pot dans un récipient d'eau pendant 30 minutes pour qu'il s'imprègne de l'eau par le bas."
+                },
+                {
+                  "title": "Retirez les feuilles complètement mortes."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "L08": {
+        "name": "Inondation",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Arrosez seulement lorsque le sol de surface est sec."
+                },
+                {
+                  "title": "Utilisez des pots avec des trous de drainage."
+                },
+                {
+                  "title": "Utilisez un mélange de terre de culture de haute qualité ; les compacts de terre bon marché restent humides."
+                },
+                {
+                  "title": "Ne laissez pas les pots reposer dans des assiettes pleines d'eau."
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Les feuilles inférieures deviennent jaunes puis noires, le sol est constamment humide.",
+        "symptomAnalysis": "Trop d'eau déplace l'oxygène dans le sol, étouffant les racines. Les racines pourries ne peuvent plus absorber d'eau, de sorte que les feuilles supérieures présentent des symptômes similaires à ceux de la sécheresse lorsqu'elles sont assises dans un sol humide. La plante coupe d'abord ses feuilles inférieures pour réduire la demande.\n\nSi elle est laissée, la pourriture se propage et la plante meurt. Elle peut également apparaître sous forme de feuilles molles, noircies et pourries plutôt que simplement jaunes - même cause, plus avancée.\n\nPour les symptômes de la partie racine, voir [R01 — Pourriture des racines](../05_roots/root-rot.md).",
+        "treatment": {
+          "groups": [
+            {
+              "label": "Pour les cas légers (juste jaunissement)",
+              "steps": [
+                {
+                  "title": "Arrêtez d’arroser jusqu’à ce que les 2 pouces supérieurs du sol soient secs"
+                },
+                {
+                  "title": "Mouvez-vous vers un meilleur flux d'air si vous êtes à l"
+                },
+                {
+                  "title": "Retirez les pires feuilles jaunes"
+                }
+              ]
+            },
+            {
+              "label": "Pour les cas graves (noircissement, pourriture)",
+              "steps": [
+                {
+                  "title": "Retirer les racines du pot et les inspecter."
+                },
+                {
+                  "title": "Retirez les racines pourries"
+                },
+                {
+                  "title": "Repot dans un sol frais et sec avec drainage."
+                },
+                {
+                  "title": "Prendre jusqu'à 1/3 des feuilles saines pour réduire la demande en eau."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "L09": {
+        "name": "Jaune vieillissant et sec",
+        "shortDescription": "Quelques feuilles basales jaunissant sur une plante saine",
+        "symptomAnalysis": "Il s'agit d'un vieillissement normal. Les plantes rejettent périodiquement leurs feuilles les plus anciennes. Le jaunissement limité aux feuilles les plus basses d'une plante autrement saine - sans taches, sans ravageurs, sans noirciement, sans effet généralisé - signifie que la plante est simplement en train de faire tourner sa feuillure.\n\nSe distingue de l'arrosage excessif : le jaunissement jaune sec ne touche que 1 à 3 feuilles les plus basses à la fois, et les remplaçants poussent normalement au-dessus. L'arrosage excessif jaunit de nombreuses feuilles en même temps et le sol est sec jusqu'au deuxième joint.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Pincez les feuilles jaunes une fois qu'elles sont complètement sèches."
+                },
+                {
+                  "title": "Ne laissez pas les feuilles tombées rester dans le sol."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "L10": {
+        "name": "Chlorose générale",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Alimentation régulière pendant la saison de croissance"
+                },
+                {
+                  "title": "Arrosage régulier"
+                },
+                {
+                  "title": "Testez le pH du sol tous les deux ans environ."
+                },
+                {
+                  "title": "Utilisez un mélange de terreau de haute qualité pour les plantes d'intérieur."
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Toute la plante devient jaune - carence en nutriments",
+        "symptomAnalysis": "La chlorose signifie que les feuilles ne peuvent pas produire suffisamment de chlorophylle. Causes :\n\n- **Déficience en azote (N)** - les feuilles intérieures les plus anciennes jaunissent en premier ; se répand vers l'extérieur s'il est sévère.\n- **Déficience en potassium (K)** - les bords des feuilles sont bruns et plissés, avec un bord jaune juste à l'intérieur.\n- **Déficience en zinc** - jaunissement à la base des feuilles.\n- **Cuivre / bore** - Les feuilles les plus récentes deviennent jaunes en premier ; la feuillure devient cassante.\n\nPour des motifs spécifiques :\n\n- Jaune entre les veines, les veines restent vertes → [L11 — Déficience en fer](iron-deficiency.md)\n- Veines jaunes, corps de la feuille vert → [L12 — Chlorose veineuse](veinal-chlorosis.md)\n\nLes causes de l'in disponibilité des nutriments comprennent le manque réel dans le sol, les dommages aux racines et le mauvais pH du sol.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Appliquer un engrais équilibré par étiquette."
+                },
+                {
+                  "title": "Ou alimentation foliaire pour une absorption rapide"
+                },
+                {
+                  "title": "Testez le pH du sol si l'alimentation régulière ne permet pas d'aider."
+                },
+                {
+                  "title": "Ajoutez du compost ; fournit des micronutriments et améliore la structure du sol."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "L11": {
+        "name": "Déficience en fer",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Testez le sol avant la plantation."
+                },
+                {
+                  "title": "Sur les sols alcalins, choisissez des plantes tolérantes plutôt que des plantes acidophiles."
+                },
+                {
+                  "title": "Maintenir l'aération du sol avec un compostage régulier."
+                },
+                {
+                  "title": "Ne surlimitez pas les lits de jardin ; cela augmente le pH."
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Jaune entre les veines, les veines restent vertes (interveinales)",
+        "symptomAnalysis": "Chlorose interveinale classique. L'iron est nécessaire pour fabriquer la chlorophylle, et les feuilles ne peuvent pas synthétiser de nouveaux pigments sans lui. Souvent, le sol a beaucoup d'iron, mais la plante ne peut pas l'absorber parce que le pH du sol est trop élevé (alcalin) ou compacté.\n\nCommune dans les agrumes, les myrtilles, les hortensias, les gardenias et de nombreux ornementaux sur des sols alcalins.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Pulvérisation foliaire avec fer chelaté"
+                },
+                {
+                  "title": "Appliquez de l'fer chelaté au sol pour une correction à long terme."
+                },
+                {
+                  "title": "Test du pH"
+                },
+                {
+                  "title": "Ajoutez du compost ou d'autres matières organiques ; cela aide à rendre l'iron disponible."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "L12": {
+        "name": "Chlorose veineuse",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Test de sol périodique"
+                },
+                {
+                  "title": "Utilisez des engrais équilibrés, pas des engrais à un seul nutriments, à moins que les tests ne le montrent autrement."
+                },
+                {
+                  "title": "Améliorez le drainage et l'aération avec du compost et du paillis organique."
+                },
+                {
+                  "title": "Vérifiez les nouvelles plantes pour détecter des symptômes similaires à ceux d'un virus avant de les apporter dans le jardin."
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Les veines deviennent jaunes, le reste de la feuille reste vert.",
+        "symptomAnalysis": "La chlorose veineuse est moins courante que l'interveineuse. Les causes incluent :\n\n- **Déficience en magnésium ou en cuivre**\n- **Compaction du sol** empêchant l'absorption des nutriments par les racines.\n- **Virus mosaïques ou maladies des plantes** affectant le transport des nutriments.\n- **Stress froid sur les agrumes** pendant les saisons fraîches (souvent résolu par la chaleur)\n\nMoins spécifique que la carence en fer, donc le diagnostic commence généralement par un test du sol.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Test du sol en premier"
+                },
+                {
+                  "title": "Sur la base du test, appliquez le bon nutriment déficient."
+                },
+                {
+                  "title": "Déballer le sol compacté avec une fourchette ; mélanger du compost pour l'aération."
+                },
+                {
+                  "body": "Les virus ne se rétablissent pas.",
+                  "title": "Si un virus mosaïque est suspecté : [S43](../shared/treatment-steps.md#s43-discard-the-severely-infected-plant)"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "L13": {
+        "name": "Lumière insuffisante",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Associez la plante à ses besoins en lumière dès le départ."
+                },
+                {
+                  "title": "Utilisez une lumière de croissance en hiver ou dans des pièces sombres."
+                },
+                {
+                  "title": "Rotatez les plantes d'intérieur de 90 degrés chaque semaine."
+                },
+                {
+                  "title": "Ne surchargez pas les plantes extérieures."
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Croissance pâle et allongée qui cherche la lumière (étiolation)",
+        "symptomAnalysis": "L'étiolation se produit lorsque une plante pousse dans des conditions d'éclairage faible. Elle produit des étioplastes au lieu de chlorophylle, et les tiges s'allongent de manière anormale alors que la plante essaie de joindre la lumière. Le résultat est une croissance pâle et faible, plus vulnérable aux maladies et aux ravageurs.\n\nCommune dans : les plantes d'intérieur placées trop loin d'une fenêtre, les semis sous des lumières de croissance inadéquates, les plantes extérieures ombragées par des voisins trop envahissants.",
+        "treatment": {
+          "groups": [
+            {
+              "label": "Pour les plantes d'intérieur",
+              "steps": [
+                {
+                  "title": "Déplacez-vous progressivement vers une fenêtre orientée vers le sud ou l'ouest."
+                },
+                {
+                  "title": "Si la lumière naturelle n'est pas disponible, ajoutez une lumière de croissance sur un minuterie de 12 à 14 heures."
+                },
+                {
+                  "title": "Tournez le pot chaque semaine pour que la plante pousse uniformément."
+                }
+              ]
+            },
+            {
+              "label": "Pour les plantes d'extérieur",
+              "steps": [
+                {
+                  "title": "Retirez les plantes environnantes qui se disputent la lumière."
+                },
+                {
+                  "title": "Déplacez les plantes en pots dans un endroit plus ensoleillé."
+                },
+                {
+                  "title": "Prendre des pousses fines et ramasser les branches trop longues."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "L14": {
+        "name": "Pourriture bactérienne des feuilles",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Nettoyez les débris végétaux à la fin de la saison."
+                },
+                {
+                  "title": "Évitez l'arrosage au niveau"
+                },
+                {
+                  "title": "La paillis pour empêcher les éclaboussures de sol sur les feuilles."
+                },
+                {
+                  "title": "Stérilisez toujours les outils entre les plantes."
+                },
+                {
+                  "title": "**Ne faites pas de jardinage lorsque les plantes sont mouillées.** Les bactéries se transforment facilement par le biais des feuilles mouillées."
+                },
+                {
+                  "title": "La rotation des cultures brise la concentration bactérienne."
+                },
+                {
+                  "title": "Pulvérisation préventive de cuivre au début du printemps"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Des feuilles pourries douces et avec une odeur nauséabonde.",
+        "symptomAnalysis": "La pourriture bactérienne des feuilles est causée par diverses bactéries qui pénètrent par les plaies, les stomates (en cas de temps humide) ou par le sol éclaboussé. Une fois à l'intérieur, les bactéries se multiplient rapidement et décomposent le tissu sain. La plus courante dans les conditions humides et chaudes.\n\nSe propage rapidement entre les plantes si elle n'est pas traitée. Diffère des infections fongiques en raison de la nature molle, aqueuse et puissante de la pourriture.",
+        "treatment": {
+          "groups": [
+            {
+              "label": "Pour les cas légers",
+              "steps": [
+                {
+                  "title": "Coupez les feuilles affectées jusqu'à ce qu'elles soient propres."
+                },
+                {
+                  "title": "Stérilisez entre chaque coupe"
+                },
+                {
+                  "title": "Appliquer du bactéricide au cuivre sur les feuilles restantes et le sol environnant."
+                }
+              ]
+            },
+            {
+              "label": "Pour les cas graves (>50 % affectés)",
+              "steps": [
+                {
+                  "title": "Retirer et éliminer la plante"
+                },
+                {
+                  "title": "Traitez le sol environnant et les plantes voisines avec un bactéricide au cuivre."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "L15": {
+        "name": "Déformation de la feuille",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Fertilisation stable"
+                },
+                {
+                  "title": "Surveillez les ravageurs et traitez-les tôt."
+                },
+                {
+                  "title": "Arrosage régulier"
+                },
+                {
+                  "title": "Protéger contre le gel"
+                },
+                {
+                  "body": "La dérive des herbicides peut parcourir des centaines de pieds par vent.",
+                  "title": "Évitez l'utilisation d'herbicides près des plantes du jardin."
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Feuilles malformées, étouffées, rugueuses ou torsadées",
+        "symptomAnalysis": "Plusieurs causes :\n\n- **Dommages causés par les insectes** - les acariens, les pucerons et autres suceurs de sève rendent les plantes vulnérables aux virus qui altèrent la croissance. Les gaules (proliférations) proviennent d'insectes qui forment des gaules - voir [L16](leaf-gall.md).\n- **Dérive d'herbicides** - même une petite exposition aux herbicides pour pelouse ou allée entraîne de nouvelles feuilles étroites, distordues et en forme de coupe caractéristiques.\n- **Dommages causés par le froid à l'étape des bourgeons** - la gelée pendant l'étape de l'émergence des feuilles provoque une distorsion permanente de ces feuilles.\n- **Stress hydrique** - trop ou trop peu d'eau pendant la phase de croissance déforme les feuilles.\n- **Déficience en nutriments** - Les pénuries de bore, de calcium et de molybdenum entraînent un retard de croissance.\n\nRegardez où se trouve la déformation (seulement de nouvelles feuilles ? seulement certaines plantes ?) pour la réduire.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Enlever les feuilles déformées afin que la plante concentre son énergie sur de nouvelles feuilles."
+                },
+                {
+                  "body": "- Pâtes visibles → voir [02_pests/](../02_pests/) et traiter - Toutes les plantes en ligne affectées → dérive d'herbicide ; éliminer l'exposition - Seulement après une gelée → dommages par le froid ; attendre - Avec jaunissement → voir [L10 — Chlorose générale](chlorosis-fertilizer.md)",
+                  "title": "Identifier la cause :"
+                },
+                {
+                  "title": "Appliquez un engrais équilibré si les nutriments sont suspects."
+                },
+                {
+                  "title": "Supprimez les plantes avec des motifs de mosaïque virale."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "L16": {
+        "name": "Gall de feuille",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Ramasser les feuilles mortes"
+                },
+                {
+                  "title": "Ne pas surfertiliser"
+                },
+                {
+                  "title": "Gardez les plantes bien arrosées pour éviter le stress dû à la sécheresse."
+                },
+                {
+                  "title": "Appliquer de l'huile horticole dormante au début du printemps pour contrôler les insectes qui survolent les plantes ligneuses."
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Croissances anormales et bosses sur les feuilles",
+        "symptomAnalysis": "Les glandes se forment lorsque le tissu végétal se développe de manière anormale en réponse à :\n\n- **Insectes suceurs de sève** - les acariens, les pucerons, les guêpes galles pondent des œufs ou se nourrissent à l'intérieur des feuilles.\n- **Infection bactérienne ou fongique** - certains agents pathogènes déclenchent la formation de calculs biliaires.\n\nLa gaine elle-même ne détruit généralement pas sérieusement la plante. La cause sous-jacente peut le faire. Les gâches sont les plus courantes sur les nouvelles pousses et après des hivers légers qui n'ont pas tué les fabricants de gâches.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Pincez les feuilles et les branches gorgées de sève."
+                },
+                {
+                  "title": "Stériliser entre les coupes"
+                }
+              ]
+            },
+            {
+              "label": "Pour les taches de gaules généralisées causées par des mites ou des pucerons.",
+              "steps": [
+                {
+                  "title": "Savon insecticide"
+                },
+                {
+                  "title": "Huile de neem"
+                }
+              ]
+            },
+            {
+              "label": "Pour les abcès causés par une infection bactérienne ou fongique.",
+              "steps": [
+                {
+                  "title": "Fongicide/bactéricide au cuivre au printemps"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "L17": {
+        "name": "Faible humidité",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Maintenez une humidité intérieure de 40 à 60 % pour les plantes tropicales."
+                },
+                {
+                  "title": "Déplacez les plantes sensibles loin des ouvertures de chauffage et des courants d'air de la climatisation."
+                },
+                {
+                  "title": "Regroupez les plantes qui aiment l'humidité ensemble ; elles créent leur propre microclimat."
+                },
+                {
+                  "title": "Utilisez un hygromètre pour surveiller"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Les bords des feuilles se plient, les extrémités brunes croustillantes",
+        "symptomAnalysis": "Lorsque l'air est trop sec, les feuilles perdent de l'eau plus rapidement que les racines ne peuvent la remplacer. La plante plie ses feuilles pour réduire la transpiration. Les coins et les bords, où l'eau arrive en dernier, sèchent en premier.\n\nCauses courantes : chauffage domestique en hiver, climatisation en été, climats secs. Les plantes tropicales (calathe, fougère, figuier à feuilles de violon, lys de paix, plante de prière) sont particulièrement sensibles.\n\nSe distingue de l'arrosage excessif : une faible humidité provoque des boucles et des pointes brunes même lorsque le sol est humide. L'arrosage excessif assèche également le sol.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Arrosez quotidiennement, placez les plantes en groupe ensemble, utilisez un plateau en galets ou faites fonctionner un humidificateur."
+                },
+                {
+                  "title": "Coupez les pointes brunes avec des ciseaux pour les cosmétiques."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "L18": {
+        "name": "Boucles de feuilles de pêche",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Appliquer un fongicide au cuivre"
+                },
+                {
+                  "title": "Achetez des variétés résistantes (par ex."
+                },
+                {
+                  "title": "Ramasser les feuilles mortes"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Les nouvelles feuilles se plient, deviennent rouges et se crispent (fongiques)",
+        "symptomAnalysis": "Une maladie fongique (*Taphrina deformans*) qui infecte les feuilles émergentes au printemps. Le champignon stimule une croissance cellulaire rapide et désordonnée, produisant les feuilles gonflées et déformées. Les spores survivent l'hiver sur la trousse et à l'intérieur des bourgeons dormants. Les printemps frais et humides aggravent les épidémies ; le temps chaud et sec supprime le champignon.\n\nLes arbres sévèrement infectés perdent une grande partie de leur première poussée de feuilles. Les deuxième poussées saines repoussent généralement sans être infectées.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Prendre soin des branches fortement enroulées."
+                },
+                {
+                  "title": "Appliquer un fongicide au cuivre"
+                },
+                {
+                  "title": "Continuez à arroser de manière régulière pendant la récupération."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "L19": {
+        "name": "Maladie du trou de balle",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Racler les feuilles mortes et les débris régulièrement"
+                },
+                {
+                  "title": "Pulvérisation préventive de cuivre fin hiver et début printemps."
+                },
+                {
+                  "title": "Prendre soin de la circulation de l'air"
+                },
+                {
+                  "title": "Enlever les arbres gravement malades qui ne se rétabliront pas."
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Des taches brunes qui sèchent et tombent, laissant de petits trous.",
+        "symptomAnalysis": "Causé par une combinaison de champignons (*Wilsonomyces carpophilus*) et de bactéries. Commun sur les arbres à fruits de pierre - cerise, pêche, abricot, prunier - et sur les lauriers et certains arbustes ornementaux. Croît bien dans des conditions météorologiques chaudes et humides.\n\nLes dommages sont principalement cosmétiques, mais peuvent causer une défoliation importante en cas d'années difficiles. Ils ne tuent pas directement les plantes, mais les affaiblissent.",
+        "treatment": {
+          "groups": [
+            {
+              "label": "Pour les cas légers",
+              "steps": [
+                {
+                  "title": "Retirez immédiatement les feuilles malades, par temps sec."
+                },
+                {
+                  "title": "Racler les feuilles tombées"
+                }
+              ]
+            },
+            {
+              "label": "Pour les cas graves (de nombreux trous, chute de feuilles)",
+              "steps": [
+                {
+                  "title": "Épluchez les feuilles malades et broyez les débris."
+                },
+                {
+                  "title": "Appliquer un fongicide au cuivre chaque semaine pendant les dommages de printemps."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "L20": {
+        "homeRemedies": [
+          {
+            "ingredients": [
+              {
+                "name": "bicarbonate de soude",
+                "quantity": "1 cuillère à café"
+              },
+              {
+                "name": "Savon à vaisselle",
+                "quantity": "1 cuillère à café"
+              },
+              {
+                "name": "eau",
+                "quantity": "1 litre"
+              }
+            ]
+          },
+          {
+            "ingredients": [
+              {
+                "name": "lait",
+                "quantity": "1 partie"
+              },
+              {
+                "name": "eau",
+                "quantity": "9 parties"
+              }
+            ]
+          },
+          {
+            "ingredients": [
+              {
+                "name": "aspirine",
+                "quantity": "1 comprimé"
+              },
+              {
+                "name": "eau",
+                "quantity": "1 gallon"
+              },
+              {
+                "name": "Savon à vaisselle",
+                "quantity": "Quelques gouttes"
+              }
+            ]
+          }
+        ],
+        "name": "Moisissure grasse",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Choisissez des variétés résistantes au moisissure."
+                },
+                {
+                  "title": "Espacement large pour le flux d'air"
+                },
+                {
+                  "title": "Arrosage gouttelettes"
+                },
+                {
+                  "title": "Nettoyez les débris avant l'hiver"
+                },
+                {
+                  "title": "Pulvérisation préventive sur les plantes sensibles"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Couche de revêtement en poudre blanche sur la surface de la feuille, se nettoie en essuyant.",
+        "symptomAnalysis": "Une famille de champignons qui affecte la plupart des plantes. Inusuellement pour un champignon, il prospère dans des conditions chaudes et sèches avec des nuits humides - contrairement à la plupart des maladies. La mi-été à la fin de l'été est la saison haute. Le poudre blanc est le champignon qui pousse sur la surface, et non qui pénètre dans les feuilles.\n\nTué rarement l'hôte, mais réduit la vigueur et la production. Les cas graves déforment les feuilles et les fruits.\n\nPour la moisissure grasse sur les fruits, voir [FR06](../04_fruits/powdery-mildew-fruit.md).",
+        "treatment": {
+          "groups": [
+            {
+              "label": "Pour les cas légers ou isolés",
+              "steps": [
+                {
+                  "title": "Taillez les feuilles et les tiges affectés."
+                },
+                {
+                  "title": "Ouvrez le flux d'air avec une taille sélective."
+                }
+              ]
+            },
+            {
+              "label": "Pour les cas répandus",
+              "steps": [
+                {
+                  "title": "Tondre les feuillages fortement affectés"
+                },
+                {
+                  "title": "Appliquer un fongicide au cuivre chaque semaine."
+                },
+                {
+                  "title": "Déplacez les plantes en pots dans un endroit plus lumineux et ensoleillé."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "L21": {
+        "name": "Moisissure fumigène",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "body": "La moisissure est un symptôme en aval.",
+                  "title": "Traitement des sucéurs de sève dès qu'ils apparaissent."
+                },
+                {
+                  "title": "Ne pas surfertiliser"
+                },
+                {
+                  "title": "Encourager les prédateurs naturels"
+                },
+                {
+                  "title": "Arrêtez les fourmis sur les troncs des arbres avec du ruban adhésif collant - elles protègent les ravageurs producteurs de sève sucrée des prédateurs."
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Couche noire ressemblant à de la suie sur les feuilles sous les sucéurs de sève.",
+        "symptomAnalysis": "La moisissure fumigène est causée par les spores de champignons en suspension dans l'air qui atterrissent sur le sécrétion collante de miel sucré libérée par les insectes suceurs de sève - les pucerons, les pucerons blancs, les taches, les coccinelles. Le champignon se nourrit du sécrétion de miel, pas de la plante. Il n'est pas nocif pour la plante directement, mais la couche noire bloque la lumière du soleil et réduit la photosynthèse.\n\nLe vrai problème n'est pas le moisissure ; c'est l'infestation d'insectes qui crée la sève sucrée. Traitez les ravageurs, la moisissure disparaît avec la prochaine pluie.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "body": "- Aphides → [P02](../02_pests/aphids.md) - Mouches blanches → [P15](../02_pests/whiteflies.md) - Escales → [P03](../02_pests/scale-insects.md) - Mouches à poudre → [P04](../02_pests/mealybugs.md)",
+                  "title": "**Identifier et traiter le ravageur sous-jacent** - voir l'entrée pertinente dans [02_pests/](../02_pests/):"
+                },
+                {
+                  "title": "Essuyez les feuilles avec un chiffon humide et savonneux pour enlever la moisissure visible."
+                },
+                {
+                  "title": "Un puissant jet d'eau nettoie à la fois les ravageurs et les résidus."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "L22": {
+        "name": "rouille",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Achetez des variétés résistantes à la rouille."
+                },
+                {
+                  "title": "Inspectez les nouvelles plantes à la recherche de taches orangées."
+                },
+                {
+                  "title": "Arrosage gouttelettes le matin"
+                },
+                {
+                  "title": "Espacement large"
+                },
+                {
+                  "title": "Mélanger abondamment"
+                },
+                {
+                  "title": "Nettoyer les débris en automne"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Pustules épaisses orangées ou brunâtres sur les feuilles.",
+        "symptomAnalysis": "La rouille est causée par des milliers d'espèces de champignons différentes de l'ordre des *Pucciniales*. Elles prospèrent dans des conditions chaudes et humides. Les spores se propagent par le vent et l'eau. La plupart des rouilles ont des cycles de vie complexes impliquant deux plantes hôtes.\n\nIl tue rarement, mais affaiblit les plantes et réduit la production. Il est courant sur les roses, les houblons, les campanules, les haricots, les jonquilles, les genévriers, les pommes, les poires.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Pincez les feuilles rouillées"
+                },
+                {
+                  "title": "Appliquer un fongicide au cuivre chaque semaine."
+                },
+                {
+                  "title": "Arrêtez immédiatement l'arrosage par goutti"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "L23": {
+        "homeRemedies": [
+          null,
+          {
+            "ingredients": [
+              {
+                "name": "bicarbonate de soude",
+                "quantity": "1 cuillère à café"
+              },
+              {
+                "name": "Savon à vaisselle",
+                "quantity": "1 cuillère à café"
+              },
+              {
+                "name": "eau",
+                "quantity": "1 litre"
+              }
+            ]
+          }
+        ],
+        "name": "Moisi gris (botrytis)",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Espacement large pour le flux d'air"
+                },
+                {
+                  "title": "Pas d'eau au-dessus de la tête"
+                },
+                {
+                  "title": "Faites attention à ne pas blesser les plantes - les blessures invitent la moisissure."
+                },
+                {
+                  "title": "Stériliser les outils de jardinage"
+                },
+                {
+                  "title": "Cuivre préventif au début du printemps sur les plantes sensibles."
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Moisissure poilue grise-brune sur les feuilles endommagées ou mouillées.",
+        "symptomAnalysis": "Causé par *Botrytis cinerea*, un champignon commun qui préfère des conditions fraîches, humides et calmes. Il se nourrit d'abord des tissus mourants et endommagés, puis se déplace vers les tissus sains. Les spores se propagent par éclaboussures d'eau et par le vent.\n\nLes fraises, les pivoines, les roses, les salades et de nombreuses plantes ornementales sont des hôtes courants. Souvent appelée « pourriture noble » sur les raisins utilisés pour les vins sucrés, mais sur la plupart des plantes, elle est destructrice.\n\nPour la botrytis sur les fleurs, voir [FL05 — Maladie des pétales](../06_flowers/petal-blight.md).",
+        "treatment": {
+          "groups": [
+            {
+              "label": "Pour les cas légers",
+              "steps": [
+                {
+                  "title": "Coupez le tissu affecté jusqu'à ce qu'il devienne du bois propre."
+                },
+                {
+                  "title": "Stériliser entre les coupes"
+                },
+                {
+                  "title": "Paillis pour empêcher les éclaboussures de spores"
+                }
+              ]
+            },
+            {
+              "label": "Pour les cas graves",
+              "steps": [
+                {
+                  "title": "Enlever tout le tissu affecté"
+                },
+                {
+                  "title": "Nettoyez tous les débris autour de la plante."
+                },
+                {
+                  "title": "Appliquer un fongicide au cuivre toutes les 1 à 2 semaines."
+                },
+                {
+                  "title": "Laissez la plante sécher entre les arrosages."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "L24": {
+        "name": "Dommages par sucer la sève",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Inspectez les nouvelles plantes à la recherche de taches et de dessous."
+                },
+                {
+                  "title": "Ne pas surfertiliser avec du nitrogène."
+                },
+                {
+                  "title": "Maintenir l'habitat des insectes prédateurs"
+                },
+                {
+                  "title": "Nettoyer les mauvaises herbes et les débris"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Petits points tachetés jaunes ou blancs denses",
+        "symptomAnalysis": "Causé par des insectes suceurs de sève - les pucerons, les pucerons blancs, les pucerons à feuilles, les pucerons à dentelle, les acariens, les pucerons à poudre, les thrips - qui percutent le tissu des feuilles et sucent le contenu des cellules. Chaque piqûre laisse une petite tache pâle (\"pointillés\"). Avec de nombreux mangeurs, les points se fondent en un aspect bronzé ou argenté.\n\nLes feuilles ne tuent pas directement la plante, mais les taches la affaiblissent et de nombreux insectes transmettent également des virus aux plantes.\n\nCette entrée couvre le symptôme des feuilles. Pour le ravageur spécifique qui le cause, voir [02_pests/](../02_pests/).",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "body": "Correspondance avec : - Petits points + toiles → [P05 — Acariens araignées](../02_pests/spider-mites.md) - Corps mous en forme de poire regroupés → [P02 — Aphides](../02_pests/aphids.md) - Mouches blanches ressemblant à des papillons → [P15 — Mouches blanches](../02_pests/whiteflies.md) - ailes dentelées avec des points noirs en dessous → [P11 — Acariens dentelés](../02_pests/lace-bugs.md) - Hommes-lances en forme de cône → [P12 — Acariens-poussière](../02_pests/leafhoppers.md) - Fabricants de rayures argentées fines → [P10 — Thrips](../02_pests/thrips.md)",
+                  "title": "**Identifier le ravageur** - retournez les feuilles et cherchez de minuscules insectes sous les feuilles ou dans les joints."
+                },
+                {
+                  "title": "Pulvériser les ravageurs avec un tuyau d'ar"
+                },
+                {
+                  "title": "Savon insecticide"
+                },
+                {
+                  "title": "Libérer les coccinelles et les papillons de nuit"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "P01": {
+        "name": "Chrysalides",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Couvrez les plantes avec une toile avant l'arrivée des adultes."
+                },
+                {
+                  "title": "Vérifiez régulièrement les dessous des feuilles à la recherche de groupes de petits œufs."
+                },
+                {
+                  "title": "Encourager les guêpes parasitaires et les oiseaux"
+                },
+                {
+                  "title": "Nettoyez les débris où les pupes passent l'hiver."
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Larves mâcheuses en forme de vers de papillons et de papillons de nuit.",
+        "symptomAnalysis": "Les chenilles font des trous irréguliers dans les feuilles et peuvent enlever la feuille jusqu'à ce qu'il ne reste que les veines. Certaines se spécialisent sur certaines plantes (le blanc de chou sur les brassicacées, la chenille à cornes sur les tomates). La plupart sont actives au printemps et en été ; certaines espèces se nourrissent en automne et en hiver.\n\nVous pouvez voir des feuilles mâchées, des granulés fécales foncés (\"frass\") et les chenilles elles-mêmes sur le dessous des feuilles.",
+        "treatment": {
+          "groups": [
+            {
+              "label": "Pour les cas légers",
+              "steps": [
+                {
+                  "title": "Sélectionnez à la main les chenilles dans de l'eau savonneuse."
+                },
+                {
+                  "title": "Prendre soin des feuilles fortement endommagées"
+                }
+              ]
+            },
+            {
+              "label": "Pour les cas graves",
+              "steps": [
+                {
+                  "title": "Appliquer Bt"
+                },
+                {
+                  "title": "Libérer des guêpes parasitaires"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "P02": {
+        "homeRemedies": [
+          null,
+          {
+            "ingredients": [
+              {
+                "name": "Savon à vaisselle",
+                "quantity": "1 cuillère à café"
+              },
+              {
+                "name": "eau",
+                "quantity": "1 litre"
+              }
+            ]
+          }
+        ],
+        "name": "Aphides",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Quarantaine et inspection des nouvelles plantes"
+                },
+                {
+                  "title": "Éliminer les mauvaises herbes à proximité"
+                },
+                {
+                  "title": "Maintenir l'habitat des coccinelles et des papillons de nuit."
+                },
+                {
+                  "title": "Ne surfertilisez pas avec de l'azote - la nouvelle croissance douce attire les pucerons."
+                },
+                {
+                  "title": "Inspectez souvent les nouvelles pousses ; repérez-les tôt."
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Des succepteurs de sève en forme de poire, souvent verts ou noirs, sont doux.",
+        "symptomAnalysis": "Les pucerons percutent le tissu végétal et sucent le sève. Les infestations importantes font jaunir les nouvelles pousses, déforment les feuilles et retardent la croissance de la plante. Ils excrètent un sève collant qui coule sur les feuilles inférieures et se transforme en noir [moisissure fumigène](../01_leaves/sooty-mold.md). Une forte activité des fourmis est un signe : les fourmis font de la culture des pucerons pour le sève.\n\nLes pucerons se reproduisent extrêmement rapidement (naissances vivantes, pas besoin d'œufs pendant la saison de croissance). Un petit groupe devient une infestation en quelques jours. Ils propagent également des virus des plantes.",
+        "treatment": {
+          "groups": [
+            {
+              "label": "Pour les cas légers",
+              "steps": [
+                {
+                  "title": "Décollez avec un fort jet d'eau"
+                },
+                {
+                  "title": "Essuyez les grappes avec un chiffon humide et savonneux."
+                }
+              ]
+            },
+            {
+              "label": "Pour les cas graves",
+              "steps": [
+                {
+                  "title": "Savon insecticide sur les dessous des feuilles"
+                },
+                {
+                  "title": "Huile de neem pour les infestations tenaces"
+                },
+                {
+                  "title": "Libérer les coccinelles et les papillons de nuit"
+                },
+                {
+                  "title": "Coupez les extrémités fortement infestées."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "P03": {
+        "homeRemedies": [
+          null,
+          {
+            "ingredients": [
+              {
+                "name": "Savon à vaisselle",
+                "quantity": "1 cuillère à café"
+              },
+              {
+                "name": "eau",
+                "quantity": "1 litre"
+              }
+            ]
+          }
+        ],
+        "name": "Insectes-pucerons",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Inspectez chaque nouvelle usine attentivement."
+                },
+                {
+                  "title": "Gardez les plantes en bonne santé"
+                },
+                {
+                  "title": "Inspectez les plantes d'intérieur tous les mois, en vous concentrant sur les dessous des feuilles et les jonctions des tiges."
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Des bosses dures ou molles de 2 à 3 mm collées sur les feuilles et les tiges.",
+        "symptomAnalysis": "Les insectes-écailles se nourrissent de sève. Une fois attachés, ils ne bougent plus pour la vie. Leur coquille dure ou molle et résineuse les protège des pulvérisations et des prédateurs. Les infestations importantes provoquent le jaunissement, la chute et la décroissance des feuilles.\n\nLa phase de creusement (nouvellement éclos, avant qu'ils ne s'ancrent) est la seule phase mobile et la seule phase facile à tuer avec des pulvérisations. Du miel collant peut être présent, ce qui entraîne une moisissure secondaire [à la poussière](../01_leaves/sooty-mold.md).",
+        "treatment": {
+          "groups": [
+            {
+              "label": "Pour les cas légers",
+              "steps": [
+                {
+                  "title": "Essuyez les écailles avec un chiffon humide."
+                },
+                {
+                  "title": "Taillez les branches fortement infestées."
+                }
+              ]
+            },
+            {
+              "label": "Pour les cas graves",
+              "steps": [
+                {
+                  "title": "Huile de neem"
+                },
+                {
+                  "title": "Insecticide systémique pour les escargots"
+                },
+                {
+                  "title": "Les coccinelles se nourrissent de vers à l'extérieur."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "P04": {
+        "name": "Pucerons",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Isoler et inspecter les nouvelles plantes pendant au moins 2 semaines."
+                },
+                {
+                  "title": "Ne pas surfertiliser avec du nitrogène."
+                },
+                {
+                  "title": "Inspectez les joints des feuilles et les dessous mensuellement sur les plantes d'intérieur."
+                },
+                {
+                  "title": "Nettoyez les débris autour de la base."
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Des insectes blancs mous et poudrés de 1 à 2 mm dans les jonctions des feuilles.",
+        "symptomAnalysis": "Les pucerons sont des succepteurs de sève liés aux écailles recouverts d'une couche blanche et résineuse qui repousse l'eau et de nombreux sprays. Ils vivent en grappes et se cachent dans des endroits protégés - les jonctions des feuilles, la surface du sol, les fissures du tige. Le miel de pucerons entraîne la formation de [moisissure fumante](../01_leaves/sooty-mold.md).\n\nUne peste courante des plantes d'intérieur, en particulier sur les succulentes, les orchidées et les plantes tropicales.",
+        "treatment": {
+          "groups": [
+            {
+              "label": "Pour les cas légers",
+              "steps": [
+                {
+                  "title": "Essuyez avec un chiffon savonneux."
+                },
+                {
+                  "title": "Pulvériser les plantes robustes avec un jet puissant d'arrosage."
+                }
+              ]
+            },
+            {
+              "label": "Pour les cas graves",
+              "steps": [
+                {
+                  "title": "Savon insecticide"
+                },
+                {
+                  "title": "Huile de neem"
+                },
+                {
+                  "title": "Systémique si les traitements de surface échouent"
+                },
+                {
+                  "title": "Le destructeur de pucerons (Cryptolaemus) est un prédateur spécialisé."
+                },
+                {
+                  "title": "Pour les plantes d'intérieur fortement infestées, jetez-les plutôt que de risquer toute la collection."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "P05": {
+        "homeRemedies": [
+          null,
+          {
+            "ingredients": [
+              {
+                "name": "Savon à vaisselle",
+                "quantity": "1 cuillère à café"
+              },
+              {
+                "name": "eau",
+                "quantity": "1 litre"
+              }
+            ]
+          }
+        ],
+        "name": "Mites araignées",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Gardez l'humidité au-dessus de 40 % à l'intérieur."
+                },
+                {
+                  "title": "Inspectez les nouvelles plantes à la recherche de taches et de nœuds."
+                },
+                {
+                  "title": "Ne pas surfertiliser"
+                },
+                {
+                  "title": "Pulvériser les plantes avec de l'eau claire périodiquement pour perturber les populations de mites."
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Petites mites rouges ou jaunes, fine toile",
+        "symptomAnalysis": "Les acariens araignées (techniquement des arachnides) sont à peine visibles - environ 1/50 pouce. Ils se nourrissent de l'arrière des feuilles, aspirant le contenu des cellules et laissant de minuscules points pâles appelés \"taches\". Les infestations importantes tissent des toiles sur les arrières et sur les jonctions des feuilles.\n\nIls prospèrent dans des conditions chaudes, sèches et poussiéreuses et se reproduisent de manière explosive (une génération tous les 5 à 7 jours par temps chaud). À l'intérieur, ils sont les plus actifs en hiver lorsque le chauffage domestique assèche l'air.",
+        "treatment": {
+          "groups": [
+            {
+              "label": "Pour les cas légers",
+              "steps": [
+                {
+                  "title": "Un puissant jet d'eau, concentré sur les dessous."
+                },
+                {
+                  "title": "Augmentez l'humidité autour des plantes d'intérieur."
+                }
+              ]
+            },
+            {
+              "label": "Pour les cas graves",
+              "steps": [
+                {
+                  "title": "Savon insecticide, sur les dessous"
+                },
+                {
+                  "title": "Huile de neem"
+                },
+                {
+                  "title": "Les mites prédatrices (*Phytoseiulus persimilis*) travaillent à l'extérieur."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "P06": {
+        "name": "Coléoptères des feuilles",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Couvertures de rangées de la plantation à la floraison"
+                },
+                {
+                  "title": "Nettoyez les débris où les adultes passent l'hiver."
+                },
+                {
+                  "title": "Encouragez les prédateurs naturels avec des plantations variées."
+                },
+                {
+                  "title": "La rotation des cultures brise les cycles de vie des coléoptères."
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Les coléoptères ovaux font des trous irréguliers en mâchant de 1 à 20 mm.",
+        "symptomAnalysis": "Une grande famille (*Chrysomelidae*) de coléoptères qui mâchent les feuilles. Elles affectent la plupart des plantes de jardin et peuvent défolier rapidement. Beaucoup se nourrissent également de fleurs, de tiges et de racines. Elles sont les plus actives du printemps à l'automne. Elles passent l'hiver en tant qu'adultes sous la peau d'écorce, les feuilles et les débris.\n\nCertaines espèces (coléoptères de concombre, coléoptères de pomme de terre du Colorado, coléoptères de puces) sont des ravageurs majeurs du jardin ; d'autres ne causent que de légers dommages cosmétiques.",
+        "treatment": {
+          "groups": [
+            {
+              "label": "Pour les cas légers",
+              "steps": [
+                {
+                  "title": "Sélectionnez à la main dans de l'eau savonneuse (après-midi, lorsque vous êtes le plus actif)."
+                },
+                {
+                  "title": "Couvrez les plantes avec un paillis de rangées."
+                }
+              ]
+            },
+            {
+              "label": "Pour les cas graves",
+              "steps": [
+                {
+                  "title": "Huile de neem"
+                },
+                {
+                  "title": "La pyréthrine le soir pour protéger les abeilles."
+                },
+                {
+                  "title": "Encouragez les oiseaux et les guêpes avec des plantations variées."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "P07": {
+        "name": "Vespoïdes de feuilles",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Inspectez les jeunes arbres avant la plantation."
+                },
+                {
+                  "title": "Immerser les racines des jeunes arbres à racines nues dans un insecticide systémique avant de les planter dans des zones fortement infestées."
+                },
+                {
+                  "title": "Des jeunes pousses cultivées dans des conteneurs de quarantaine présentant des dommages."
+                },
+                {
+                  "title": "Nettoyer les débris du sol sous les arbres touchés."
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Des coléoptères lourdement blindés avec des bords de feuilles mâchés.",
+        "symptomAnalysis": "Le puceron vert pâle (*Polydrusus impressifrons*) et les espèces similaires se nourrissent des bords des feuilles des arbres durs - bouleau, érable, saule, peuplier, arbres fruitiers. Les dommages apparaissent fin printemps et début été. Les larves nouvellement éclos se nourrissent des jeunes racines près de la ligne du sol.\n\nLes pucerons adultes ont une courte période de reproduction (quelques semaines), donc les arbres matures se débarrassent généralement des dommages. Les jeunes arbres et les jeunes pousses sont plus à risque.",
+        "treatment": {
+          "groups": [
+            {
+              "label": "Pour les infestations graves sur de jeunes jeunes arbres.",
+              "steps": [
+                {
+                  "title": "Spray foliaire à la pyréthrine"
+                },
+                {
+                  "title": "Appliquer un insecticide systémique"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "P08": {
+        "name": "Coléoptères à cornes longues",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "body": "Les arbres stressés attirent les coléoptères.",
+                  "title": "Gardez les arbres en bonne santé : arrosez-les, fertilisez-les et évitez les blessures."
+                },
+                {
+                  "title": "Ne déplacez pas du bois de chauffage d'une région à l'autre - c'est la manière courante dont le bœuf à cornes longues asiatique se"
+                },
+                {
+                  "title": "Inspectez les nouveaux arbres à la recherche de trous percés ou de sciure de bois."
+                },
+                {
+                  "title": "Pratiquez la taille des bois morts et mourants rapidement afin que les coléoptères ne s'installent pas."
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Des coléoptères à antennes longues creusent des troncs boisiers.",
+        "symptomAnalysis": "Les coléoptères à long bec (*famille des Cerambycidae*) sont des bourdonnants de bois. Les adultes pondent des œufs sur la pécorine ; les larves éclosent et creusent un tunnel dans le tronc pour se nourrir de bois vivant pendant 1 à 3 ans. Le creusement de tunnels coupe le flux d'eau et de nutriments de l'arbre. Signes visibles : petits trous d'issue ronds, de la sciure de bois à la base du tronc, des branches qui meurent de haut.\n\nIls préfèrent les bois durs blessés, stressés ou fraîchement coupés. Certaines espèces asiatiques sont des ravageurs introduits de grande préoccupation (coléoptère à long bec asiatique, coléoptère à long bec de fruits à la citrouille).",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Appliquer un insecticide systémique sur les arbres à haute valeur par étiquette."
+                },
+                {
+                  "title": "Prendre des branches fortement infestées et les tailler et les brûler par temps sec."
+                },
+                {
+                  "title": "Signalez les observations de scarabées à long bec asiatiques à votre extension agricole locale - c'est une espèce invasive réglementée aux États-Unis."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "P09": {
+        "name": "Les limaces et les escargots",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Éliminer les endroits de cache"
+                },
+                {
+                  "title": "La bande de cuivre forme une barrière que les limaces ne franchiront pas - enveloppez les pots et les lits hauts."
+                },
+                {
+                  "title": "L'eau le matin pour que les plantes soient sèches le soir."
+                },
+                {
+                  "title": "Encourager les prédateurs naturels (salamandres, canards, coléoptères de terre)"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Des mollusques mous mâchent des feuilles la nuit.",
+        "symptomAnalysis": "Les limaces et les escargots se nourrissent principalement la nuit et les jours nuageux ou pluvieux, se cachant sous des planches, des rochers et des feuillages denses pendant la journée. Ils préfèrent les conditions humides et peuvent dévorer entièrement les semis. Les œufs sont pondus en grappes dans le sol humide.\n\nUn petit nombre est acceptable ; une population peut décimer un jardin de légumes ou un lit d'hostas en une semaine.",
+        "treatment": {
+          "groups": [
+            {
+              "label": "Pour les cas légers",
+              "steps": [
+                {
+                  "title": "Sélectionnez à la main la nuit avec une lampe de poche."
+                },
+                {
+                  "title": "Des endroits de cachement clairs - planches, pierres, couverture végétale dense"
+                },
+                {
+                  "body": "Soulevez-les le matin pour trouver des limaces cachées en dessous.",
+                  "title": "Placez de petits planches dans le jardin comme pièges."
+                }
+              ]
+            },
+            {
+              "label": "Pour les cas graves",
+              "steps": [
+                {
+                  "body": "Diffuser autour des plantes le soir.",
+                  "title": "Le appât pour limaces au phosphate de fer (vendu sous le nom de Sluggo, Escar-Go) est plus sûr pour les animaux de compagnie et les oiseaux que les appâts à base de méthaldéhyde."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "P10": {
+        "homeRemedies": [
+          {
+            "ingredients": [
+              {
+                "name": "Savon à vaisselle",
+                "quantity": "1 cuillère à café"
+              },
+              {
+                "name": "eau",
+                "quantity": "1 litre"
+              }
+            ]
+          }
+        ],
+        "name": "Tétrés",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Inspectez les nouvelles plantes à la recherche de rayures argentées."
+                },
+                {
+                  "title": "Prendre les branches et les feuilles mortes."
+                },
+                {
+                  "title": "Nettoyer les mauvaises herbes et les débris"
+                },
+                {
+                  "title": "Maintenir l'habitat des insectes prédateurs"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Petits fabricants de rayures argentées fines et rapides de 1 à 2 mm.",
+        "symptomAnalysis": "Les tétras ont des parties buccales râpeuses qui grattent les cellules des plantes et sucent le contenu, laissant des cicatrices argentées et un aspect pâle tacheté. Ils se cachent dans les bourgeons et les jonctions des feuilles. Les infestations importantes déforment les feuilles et endommagent les fleurs et les fruits en développement.\n\nLes tétras sont des vecteurs de plusieurs virus des plantes, donc même une petite population peut causer des maladies secondaires.",
+        "treatment": {
+          "groups": [
+            {
+              "label": "Pour les cas légers",
+              "steps": [
+                {
+                  "title": "Pulvérisation d'eau forte"
+                },
+                {
+                  "title": "Les pièges collants jaunes ou bleus attrapent les adultes en vol."
+                }
+              ]
+            },
+            {
+              "label": "Pour les cas graves",
+              "steps": [
+                {
+                  "title": "Spray à base de pyréthrine"
+                },
+                {
+                  "title": "Savon insecticide sur les dessous des feuilles"
+                },
+                {
+                  "title": "Libérer des insectes pirates et des papillons à ailes dentelées."
+                },
+                {
+                  "title": "Jeter les spécimens fortement infestés."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "P11": {
+        "homeRemedies": [
+          {
+            "ingredients": [
+              {
+                "name": "Savon à vaisselle",
+                "quantity": "1 cuillère à café"
+              },
+              {
+                "name": "eau",
+                "quantity": "1 litre"
+              }
+            ]
+          }
+        ],
+        "name": "Insectes à dentelle",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Inspecter les nouvelles plantes"
+                },
+                {
+                  "title": "Gardez les plantes bien arrosées et nourries."
+                },
+                {
+                  "title": "Déplacez les plantes stressées par la chaleur dans une ombre partielle."
+                },
+                {
+                  "title": "Nettoyez les débris où les adultes qui hivernent se cachent."
+                },
+                {
+                  "title": "Inspectez fin printemps avant le pic des populations."
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Sucéurs de sève à ailes dentelées, taches blanches sur les feuilles.",
+        "symptomAnalysis": "Les insectes à dentelle utilisent des parties buccales en forme de aiguilles pour sucer les nutriments de l'arrière des feuilles, provoquant des taches pâles sur la surface supérieure. Ils laissent des grappes de déjections noires ressemblant à du goudron sur l'arrière des feuilles. Ils sont les plus courants au milieu ou à la fin de l'été au pic de la population.\n\nLes dommages sont principalement cosmétiques, mais les infestations graves affaiblissent les plantes et les laissent vulnérables à d'autres ravageurs et maladies. Cibles courantes : azalées, rhododendrons, sycamores, chênes, lantanas.",
+        "treatment": {
+          "groups": [
+            {
+              "label": "Pour les cas légers",
+              "steps": [
+                {
+                  "title": "Un puissant jet d'eau sous les feuilles"
+                },
+                {
+                  "title": "Essuyez avec un chiffon savonneux."
+                }
+              ]
+            },
+            {
+              "label": "Pour les cas graves",
+              "steps": [
+                {
+                  "title": "Savon insecticide, concentré sur les dessous des feuilles."
+                },
+                {
+                  "title": "Les papillons à ailes dentelées, les coccinelles et les coléoptères assassins se nourrissent de papillons à ailes dentelées."
+                },
+                {
+                  "title": "Pour les infestations graves sur de petites plantes : [S04](../shared/treatment-steps.md#s04-prune-infected-leaves-and-stems) - tailler et brûler les membres fortement touchés."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "P12": {
+        "name": "Lépidoptères",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Les couvertures de rangées protègent les jeunes plantes."
+                },
+                {
+                  "title": "Enlever les débris du jardin en automne pour empêcher les sites d'hivernage."
+                },
+                {
+                  "title": "Encouragez les prédateurs naturels avec des plantations variées."
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Pulls en forme de cône, petites taches de lumière sur les feuilles.",
+        "symptomAnalysis": "Les pucerons se nourrissent du sève des plantes provenant des feuilles, des tiges et des tiges de nouvelles pousses. Une forte alimentation provoque des courbures des feuilles, un jaunissement (\"brûlure de puceron\") et une croissance retardée. Ils sautent ou s'envolent lorsqu'ils sont perturbés. Hôtes courants : haricots, maïs, laitue, betteraves, pommes de terre, raisins, roses.\n\nComme les tétras, les pucerons transmettent des maladies virales et bactériennes entre les plantes - parfois plus nocives que l'insecte lui-même.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Savon insecticide"
+                },
+                {
+                  "title": "Pyréthrine ou azadirachtine pour les cas graves."
+                },
+                {
+                  "title": "Des papillons à ailes dentelées et des coccinelles"
+                },
+                {
+                  "title": "Couvrez les jeunes plantes avec des couvertures de rangées."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "P13": {
+        "name": "Lépidoptères Tortrix",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Inspectez les nouvelles plantes à la recherche de feuilles pliées."
+                },
+                {
+                  "title": "Nettoyez les débris végétaux où les pupes passent l'hiver."
+                },
+                {
+                  "title": "Encourager les guêpes parasitaires et les oiseaux"
+                },
+                {
+                  "title": "Pièges à phéromones de la saison précoce"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Les chenilles roulent les feuilles en tubes de soie.",
+        "symptomAnalysis": "Les chenilles de papillons Tortrix (rouleuses de feuilles) roulent les feuilles autour d'elles-mêmes et les ferment avec de la soie, puis se nourrissent à l'intérieur du tube protégé. Elles se nourrissent également de fruits, parfois en tissant des fruits aux feuilles. De nombreuses espèces ; trouvées sur les fruits, les légumes et les ornementaux. La plupart sont actives de fin du printemps à début de l'automne.\n\nLes populations de serres peuvent être présentes toute l'année.",
+        "treatment": {
+          "groups": [
+            {
+              "label": "Pour les cas légers",
+              "steps": [
+                {
+                  "title": "Pincez les feuilles roulées"
+                },
+                {
+                  "title": "Les pièges à phéromones attrapent les mâles et perturbent la reproduction."
+                }
+              ]
+            },
+            {
+              "label": "Pour les cas graves",
+              "steps": [
+                {
+                  "title": "Appliquer du Bacillus thuringiensis (Bt)"
+                },
+                {
+                  "title": "Le Spinosad est efficace pour les infestations tenaces selon l'étiquette."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "P14": {
+        "name": "Mineurs de feuilles",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Couvertures de rangées dès le moment de la plantation"
+                },
+                {
+                  "title": "Éliminez les mauvaises herbes et les feuilles mortes où les mineurs se reproduisent."
+                },
+                {
+                  "title": "Inspecter les nouvelles plantes"
+                },
+                {
+                  "title": "Évitez les pesticides à large spectre - ils tuent les guêpes parasitaires qui contrôlent naturellement les mineurs."
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Les larves de mouches creusent des motifs blancs dans les feuilles.",
+        "symptomAnalysis": "Les mineurs de feuilles sont de minuscules larves de mouches, de papillons ou de coléoptères qui creusent des tunnels entre les couches supérieures et inférieures d'une feuille, mangeant les tissus mous à l'intérieur. Les traces visibles sont les tunnels vides qu'elles laissent derrière elles. La mouche adulte pond des œufs entre les couches de feuilles ; les larves éclosent et se nourrissent pendant 1 à 3 semaines, puis tombent pour pupiller dans le sol.\n\nDommages cosmétiques sur la plupart des ornementaux ; dommages importants sur les légumes comestibles (épinards, betteraves, choux-fleurs).",
+        "treatment": {
+          "groups": [
+            {
+              "label": "Pour les cas légers",
+              "steps": [
+                {
+                  "title": "Pincez les feuilles avec des mines actives et jetez-les."
+                }
+              ]
+            },
+            {
+              "label": "Pour les cas graves",
+              "steps": [
+                {
+                  "title": "Huile de neem"
+                },
+                {
+                  "title": "Le spray Spinosad (vendu sous le nom d'Entrust) par étiquette est efficace sur les mineurs."
+                },
+                {
+                  "title": "Les guêpes parasitaires pondent des œufs à l'intérieur des larves de mineurs."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "P15": {
+        "name": "Pucerons blancs",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Quarantaine des nouvelles plantes pendant 2 semaines"
+                },
+                {
+                  "title": "Couvertures de rangées"
+                },
+                {
+                  "title": "Des pièges collants jaunes comme outil de surveillance à l'intérieur"
+                },
+                {
+                  "title": "Éliminez les mauvaises herbes où les pucerons blancs passent l'hiver"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Petites mouches blanches ressemblant à des papillons sous les feuilles, sève de miel.",
+        "symptomAnalysis": "Les pucerons blancs sont des sucéurs de sève comme les pucerons et les pucerons à poudre, avec les mêmes effets : jaunissement des feuilles, croissance déformée, sève sucrée et suivi [moisissure fumée](../01_leaves/sooty-mold.md). Ils sont courants sur les tomates, les poivrons, les aubergines, les hibiscus et de nombreuses plantes d'intérieur.\n\nChaque adulte pond des centaines d'œufs sur les dessous des feuilles. Les nymphes sont des écailles ovales plates, presque translucides, collées à la feuille. Les infestations importantes se multiplient de manière explosive par temps chaud.",
+        "treatment": {
+          "groups": [
+            {
+              "label": "Pour les cas légers",
+              "steps": [
+                {
+                  "title": "Pulvériser avec un tuyau d'arros"
+                },
+                {
+                  "title": "Des pièges collants jaunes attrapent les adultes en vol."
+                }
+              ]
+            },
+            {
+              "label": "Pour les cas graves",
+              "steps": [
+                {
+                  "title": "Savon insecticide sur les dessous"
+                },
+                {
+                  "title": "Huile de neem"
+                },
+                {
+                  "title": "Vespes Encarsia formosa pour utilisation dans les serres"
+                },
+                {
+                  "title": "Jetez une plante d'intérieur fortement infestée avant qu'elle ne se répande à d'autres."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "P16": {
+        "name": "Mouches de champignon (adultes)",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "La seule étape la plus importante"
+                },
+                {
+                  "title": "Couche de sable ou de gravier au dessus"
+                },
+                {
+                  "title": "Inspectez le sol de la nouvelle plante pour détecter les adultes ou les larves."
+                },
+                {
+                  "title": "Stérilisez le terreau de culture avant utilisation si vous stockez des sacs partiellement utilisés."
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Des mouches noires planent près du sol des plantes d'intérieur.",
+        "symptomAnalysis": "Les moucherons fongiques adultes sont de petites mouches noires ressemblant à des moustiques (1/8 pouce). Ils volent mal et ont tendance à marcher sur la surface du sol. Les adultes n’endommagent pas directement les plantes, mais chaque femelle pond environ 200 œufs dans un sol humide et les larves se nourrissent des jeunes poils racinaires. Consultez [R07](../05_roots/fungus-gnat-larvae.md) pour les dommages causés aux larves et aux racines.\n\nIls sont fréquents sur les plantes d’intérieur maintenues trop humides, notamment les semis, les fougères et les plantes tropicales.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Laissez le sol de surface sécher entre les arrosages."
+                },
+                {
+                  "title": "Seulement de l'eau du fond"
+                },
+                {
+                  "title": "Recouvrez le dessus de sable pour empêcher l'œuf de pondre."
+                },
+                {
+                  "title": "Les pièges collants jaunes placés à plat ou inclinés au niveau du sol attrapent les adultes."
+                },
+                {
+                  "title": "Bt-i (*Bacillus thuringiensis israelensis*, vendu sous le nom de \"Mosquito Bits\") saupoudré sur le sol ou trempé dans de l'eau tue les larves."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "R01": {
+        "homeRemedies": [
+          {
+            "ingredients": [
+              {
+                "name": "3 % de peroxyde",
+                "quantity": "1 partie"
+              },
+              {
+                "name": "eau",
+                "quantity": "3 parties"
+              }
+            ]
+          }
+        ],
+        "name": "Pourriture des racines",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "De l'eau à la base de la plante"
+                },
+                {
+                  "title": "Laissez le premier pouce de sol sécher avant chaque arrosage."
+                },
+                {
+                  "title": "Utilisez toujours des pots avec des trous de drainage."
+                },
+                {
+                  "title": "Stérilisez les pots avant de les réutiliser."
+                },
+                {
+                  "title": "Inspectez les nouvelles plantes avant de les intégrer."
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Les racines sont noires, molles et pueuses ; la plante s'est flétrie malgré le sol humide.",
+        "symptomAnalysis": "Les racines saines sont blanches ou bronzées et souples. Les racines pourries sont foncées et visqueuses. Deux principales causes : une arrosage chronique privent les racines de l'oxygène et elles meurent ; ou un champignon parasite du sol (Pythium, Phytophthora) devient actif dans le sol humide et attaque les racines. Une fois la pourriture commencée, elle se propage aux racines saines même après que le problème d'arrosage ait été résolu.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Retirez les racines du pot et rincez-les pour voir ce qui est sain."
+                },
+                {
+                  "title": "Stériliser les tondeuses à branches"
+                },
+                {
+                  "title": "Coupez toutes les racines noires ou molles, jusqu'au tissu ferme."
+                },
+                {
+                  "title": "Repot dans un mélange stérile frais dans un pot propre avec des trous de drainage."
+                },
+                {
+                  "title": "Pincez à nouveau environ la moitié des feuilles pour réduire la demande sur le nouveau système racinaire."
+                },
+                {
+                  "body": "Laissez sécher les 1 à 2 pouces supérieurs du sol entre les arrosages. Enfoncez un doigt dans le sol pour vérifier avant chaque arrosage. De nombreux problèmes de pourriture des racines et des tiges sont dus à un sol constamment détrempé. Si plus des deux tiers des racines ont disparu : *jetez la plante gravement infectée* (voir 6.1).",
+                  "subSteps": [
+                    {
+                      "title": "Jetez la plante sévèrement infectée."
+                    }
+                  ],
+                  "title": "Attendez que le sol de surface sèche avant de l'arroser à nouveau."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "R02": {
+        "name": "Déformation de la racine",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Choisissez des variétés résistantes aux nématodes (remarquez le mot \"VFN\" sur les graines de tomates)."
+                },
+                {
+                  "title": "Enlever les anciennes racines et les débris"
+                },
+                {
+                  "title": "Rotatez les cultures tous les 3 ans."
+                },
+                {
+                  "title": "Inspectez les racines des nouvelles plantes avant de les introduire."
+                },
+                {
+                  "title": "Gardez les plantes bien nourries et bien arrosées afin qu'elles résistent aux infections."
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Racines tordues, nodulées ou galées",
+        "symptomAnalysis": "Trois causes habituelles :\n1. **Nématodes des nœuds racinaires** - vers microscopiques qui creusent dans les racines et déclenchent des ganglions gonflés.\n2. **Infection bactérienne ou fongique** - provoque des gonflements irréguliers en réponse au stress.\n3. **Conditions physiques** - le sol rocheux, compacté ou encombré oblige les racines à se tordre autour des obstacles.\n\nRemarque : les petits *nodules* de racines rondes sur les légumineuses (haricots, pois) sont des bactéries bénéfiques qui fixent l'azote, et non des dommages. Les nodules se frotteront facilement ; les galles ne le feront pas.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Déposer et inspecter"
+                },
+                {
+                  "title": "Taillez les racines légèrement affectées"
+                },
+                {
+                  "title": "Stérilisez les outils entre les coupes."
+                },
+                {
+                  "title": "Replantez dans un sol frais, lâche et stérile."
+                },
+                {
+                  "body": "Posez une feuille de plastique transparente sur le sol humide du jardin pendant 4 à 6 semaines pendant la période la plus chaude de l'année. La chaleur se développe en dessous et tue les nématodes, les champignons et les graines d'herbes envahissantes. Si la plupart des racines sont déformées : *Jetez la plante sévèrement infectée* (voir 5.1).",
+                  "subSteps": [
+                    {
+                      "title": "Jetez la plante sévèrement infectée."
+                    }
+                  ],
+                  "title": "Pour les lits de jardin avec des nématodes, solaireisez le sol pendant 4 à 6 semaines."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "R03": {
+        "homeRemedies": [
+          {
+            "ingredients": [
+              {
+                "name": "3 % de peroxyde",
+                "quantity": "1 partie"
+              },
+              {
+                "name": "eau",
+                "quantity": "3 parties"
+              }
+            ]
+          },
+          null
+        ],
+        "name": "Moisi sur le sol",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Évitez de garder le sol constamment humide."
+                },
+                {
+                  "title": "Eau du fond si la plante le tolère."
+                },
+                {
+                  "title": "Améliorer le flux d'air à l"
+                },
+                {
+                  "title": "Gardez une couche de sable ou de gravier en haut."
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Puce blanche ou jaune, ou champignons, sur la surface du sol.",
+        "symptomAnalysis": "Les champignons saprophytiques se nourrissent de matière organique morte dans le sol humide. Ils sont pour la plupart inoffensifs pour les plantes, mais ils signalent que le sol reste trop humide, ce qui entraîne de plus gros problèmes comme la pourriture des racines ou les mouches de champignon. Les champignons proviennent de spores qui sont arrivées dans le mélange de terre de culture.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Écraser la couche supérieure moisie et remplacer par du sable grossier."
+                },
+                {
+                  "title": "Laissez le sol de surface sécher entre les arrosages."
+                },
+                {
+                  "title": "Allumez un ventilateur dans la zone intérieure."
+                },
+                {
+                  "title": "Retirez les champignons par le tige et jetez-les."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "R04": {
+        "name": "Racines attachées au pot",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Repotter toutes les 1 à 2 ans pour les cultures à croissance rapide ; toutes les 2 à 3 ans pour les cultures à croissance lente."
+                },
+                {
+                  "body": "Les pots surdimensionnés restent mouillés trop longtemps.",
+                  "title": "Choisissez un pot 1 à 2 tailles plus grand que la boule de racine actuelle - pas plus grand."
+                },
+                {
+                  "title": "Utilisez toujours des pots avec des trous de drainage."
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Les racines tournent autour du pot, la plante est bloquée ou fanée.",
+        "symptomAnalysis": "Lorsque une plante dépasse sa pot, ses racines entourent le mur, puis se retournent sur elles-mêmes. Le rosette des racines devient plus dense que le sol et l'eau ne peut plus être retenue - elle coule simplement le long du côté. L'absorption des nutriments diminue, la croissance s'arrête et la plante semble chroniquement soifante même juste après l'arrosage.\n\nVérification rapide : les racines qui poussent à partir des trous de drainage, ou le sol qui s'éloigne du mur du pot, sont des signes clairs.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Retirer la plante du pot"
+                },
+                {
+                  "body": "Tirez-les doucement vers l'extérieur, loin de la balle.",
+                  "title": "Utilisez des doigts propres ou des baguettes pour séparer les racines en cercle."
+                },
+                {
+                  "title": "Retirez toutes les racines mortes ou tordues."
+                },
+                {
+                  "title": "Transférer dans une casserole 1 à 2 tailles plus grande."
+                },
+                {
+                  "title": "Remplissez avec un mélange de terreau frais."
+                },
+                {
+                  "title": "Arrosez profondément une fois pour stabiliser le nouveau sol."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "R05": {
+        "name": "Accumulation de sel",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Égouttez le sol tous les 1 à 3 mois."
+                },
+                {
+                  "title": "Utilisez de l'eau de pluie ou de l'eau distillée si votre eau du robinet est dure ou chlorée."
+                },
+                {
+                  "body": "Plus n'est pas mieux.",
+                  "title": "Fertilisez à la moitié du taux indiqué pour les plantes d'intérieur."
+                },
+                {
+                  "title": "Évitez l'application d'engrais en hiver lorsque la croissance ralentit."
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Cruste blanche sur le sol, extrémités des feuilles brunes",
+        "symptomAnalysis": "Les sels d'engrais (et les minéraux de l'eau du robinet) s'accumulent dans le sol au fil du temps. Lorsque l'eau s'évapore, les sels cristallisent sur la surface. Les concentrations élevées de sel endommagent les pointes des racines, qui ne peuvent alors pas absorber l'eau, et les feuilles présentent des bords bruns croustillants semblables à ceux d'une sécheresse même lorsque le sol est humide.\n\nCommune dans les pots d'intérieur, les plantes tolérantes à la sécheresse surfertilisées et tout pot qui n'a pas été arrosé en profondeur depuis un an.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Écraser toute croûte de sel visible sur le sol et le rebord du pot."
+                },
+                {
+                  "title": "Rincer le sol avec 4 fois le volume du pot d'eau propre."
+                },
+                {
+                  "body": "Coupez les feuillages et les brindilles affectés avec des outils stérilisés, en coupant jusqu'au tissu sain. Placez les boutures dans un sac et jetez-les - ne compostez jamais de matériel malade. Si l'accumulation est grave et que la plante est en détresse : *Repottez avec du sol frais et un drainage* (voir 3.1).",
+                  "subSteps": [
+                    {
+                      "title": "Repotter avec du sol frais et un drainage"
+                    }
+                  ],
+                  "title": "Coupez les extrémités des feuilles brunies pour les cosmétiques."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "R06": {
+        "homeRemedies": [
+          {
+            "ingredients": [
+              {
+                "name": "3 % de peroxyde",
+                "quantity": "1 partie"
+              },
+              {
+                "name": "eau",
+                "quantity": "3 parties"
+              }
+            ]
+          },
+          null,
+          null
+        ],
+        "name": "Amortissement",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Stérilisez les plateaux de graines avant de les réutiliser."
+                },
+                {
+                  "body": "Ne réutilisez pas le vieux terreau de culture.",
+                  "title": "Utilisez un mélange de démarrage de graines stérile et frais."
+                },
+                {
+                  "title": "Semez à la profondeur indiquée sur le paquet de graines - enterrer trop profondément stressera la germination."
+                },
+                {
+                  "title": "Fournir un flux d'air doux dès le premier jour."
+                },
+                {
+                  "title": "Retirez les dômes d'humidité après l'émergence des pousses"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Les semis s'effondrent à la ligne du sol.",
+        "symptomAnalysis": "L'aplatissement des racines est causé par plusieurs champignons du sol (Pythium, Rhizoctonia, Fusarium) qui attaquent les tiges fines des semis juste là où elles rencontrent le sol humide. Les conditions qui le favorisent : des températures fraîches, un mélange de démarrage des graines trop humide, un mauvais flux d'air et des plateaux ou des graines non stérilisés.\n\nUne fois que les semis s'effondrent, ils ne peuvent pas se rétablir. La lutte consiste à protéger le reste du plateau.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Tirez et jetez immédiatement les semis affaiblis."
+                },
+                {
+                  "title": "Les semis restants dans l'eau du fond"
+                },
+                {
+                  "title": "Laissez la surface sécher légèrement entre les arrosages."
+                },
+                {
+                  "title": "Allumez un petit ventilateur à faible régime à proximité."
+                },
+                {
+                  "title": "Déplacez-vous dans une lumière plus vive si les semis sont longs et pâles."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "R07": {
+        "homeRemedies": [
+          {
+            "ingredients": [
+              {
+                "name": "3 % de peroxyde",
+                "quantity": "1 partie"
+              },
+              {
+                "name": "eau",
+                "quantity": "3 parties"
+              }
+            ]
+          },
+          null
+        ],
+        "name": "Larves de moustique champignon",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Réduire l'arrosage"
+                },
+                {
+                  "title": "Gardez une couche de sable ou de gravier au dessus."
+                },
+                {
+                  "title": "Isoler les nouvelles plantes et vérifier le sol."
+                },
+                {
+                  "title": "Améliorer le flux d'air"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Petites mouches noires + semis étroits",
+        "symptomAnalysis": "Les mouches des champignons adultes sont des mouches nuisibles, mais leurs larves se nourrissent des jeunes racines tendres et des poils racinaires dans la première pouce du sol constamment humide. Elles prospèrent dans les plantes d'intérieur trop arrosées et les plateaux de semis. Les adultes pondent des œufs sur la surface du sol ; les larves éclosent et se nourrissent pendant 1 à 2 semaines avant de pupiller.\n\nPour les mouches adultes, voir [P16 - Mouches de champignon](../02_pests/fungus-gnats.md). Cette entrée couvre les larves qui tuent les racines.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Laissez la couche supérieure de sol sécher complètement entre les arrosages."
+                },
+                {
+                  "title": "Seulement de l'eau du fond"
+                },
+                {
+                  "title": "Recouvrez la surface de 1/4 pouce de sable pour empêcher les adultes de pondre"
+                },
+                {
+                  "body": "Appliquer par étiquette.",
+                  "title": "Bt-i (une souche Bt différente - *Bacillus thuringiensis israelensis*, vendue sous le nom de \"Mosquito Bits\") saupoudrée ou infusée dans de l'eau tue spécifiquement les larves."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "ST01": {
+        "name": "Pourrir",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Arrosez de manière régulière et profonde."
+                },
+                {
+                  "title": "Achetez des variétés résistantes au flétrissement (remarquez le \"VFN\" sur les tomates, les fraises)."
+                },
+                {
+                  "title": "Roter les lits"
+                },
+                {
+                  "title": "Paillis pour maintenir l'humidité uniforme"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Les tiges se flétrissent et perdent leur structure.",
+        "symptomAnalysis": "Le flétrissement peut provenir de l'un des suivants :\n\n- **Stress hydrique** - trop ou trop peu. La sécheresse dessèche les plantes ; l'arrosage excessif pourrit les racines et elles ne peuvent plus tirer l'eau vers le haut.\n- **Stress thermique** - les après-midi chaudes provoquent un flétrissement temporaire qui se remet pendant la nuit.\n- **Maladie de la pourriture vasculaire** - *Verticillium*, *Fusarium* ou la pourriture bactérienne obstruent le tissu transportant l'eau de la plante. Les feuilles pourrissent et restent pourries.\n- **Pourriture des racines** - voir [R01](../05_roots/root-rot.md). Les racines endommagées ne peuvent pas fournir d'eau.\n\nPour le réduire : grattez la tige principale avec une ongle. Le vert à l'intérieur signifie qu'il est vivant ; le brun et cassant signifie qu'il est mort. Ensuite, vérifiez le sol et les racines.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "body": "Sol sec → *Arrosez profondément mais moins souvent* (voir 1.1). Sol humide → *Réduisez la fréquence des arrosages* (voir 1.2) et vérifiez les racines.",
+                  "subSteps": [
+                    {
+                      "title": "Asseyez-vous profondément mais moins souvent."
+                    },
+                    {
+                      "title": "Réduire la fréquence d'arrosage"
+                    }
+                  ],
+                  "title": "Diagnostiquer d'abord"
+                },
+                {
+                  "title": "Utilisez un tissu d'ombrage les après-midi chauds."
+                },
+                {
+                  "title": "Pour la maladie, tailler et détruire les branches touchées."
+                },
+                {
+                  "body": "Mettez les tondeuses à pruneaux, les ciseaux ou les lames de couteau dans une solution de 1:4 de détergent pour les cheveux à l'eau (ou de 70 % d'alcool isopropyle) avant chaque coupe et entre chaque plante. Essuyez-les avant de couper. Si vous êtes diagnostiqué avec une maladie de la pourriture vasculaire : *Jetez la plante fortement infectée* (voir 4.1). Les agents pathogènes du sol persistent pendant des années.",
+                  "subSteps": [
+                    {
+                      "title": "Jetez la plante sévèrement infectée."
+                    }
+                  ],
+                  "title": "Stérilisez les outils entre les coupes."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "ST02": {
+        "name": "Maladie des branches",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Achetez des variétés résistantes auprès de jardineries réputées."
+                },
+                {
+                  "title": "Inspectez les nouvelles plantes à la recherche de brindilles mortes."
+                },
+                {
+                  "title": "Plantez avec un espacement adéquat pour le flux d'air."
+                },
+                {
+                  "title": "Arrosage gouttelettes"
+                },
+                {
+                  "title": "Spray préventif au cuivre dans les sources humides"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Les branches entières deviennent brunes et sèches à partir de la base.",
+        "symptomAnalysis": "Une maladie fongique courante chez les plantes cultivées en serre qui étaient espacées trop étroitement les unes des autres. Les spores entrent par les plaies ou par temps humide. Contrairement à la pourriture (qui commence à la pointe), la pourriture des branches tue toute la branche infectée en même temps. Des taches mortes enfoncées appelées *cankers* peuvent se former entre le bois vivant et le bois mort.\n\nPour le décrochage, voir [ST03](dieback.md). Pour les cankers, voir [ST05](cankers.md).",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Coupez les branches affectées jusqu'à ce qu'elles soient en bois sain, par temps sec."
+                },
+                {
+                  "title": "Stérilisez entre chaque coupe"
+                },
+                {
+                  "title": "Appliquer un fongicide au cuivre sur la croissance restante en bonne santé."
+                },
+                {
+                  "title": "Racler le matériel tombé"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "ST03": {
+        "name": "Détérioration",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Plantez au bon endroit - lumière appropriée, drainage et exposition adaptés à la espèce."
+                },
+                {
+                  "title": "Protégez les plantes contre les dommages physiques (tondeuses, balais à mauvaises herbes, brousseurs d'animaux)"
+                },
+                {
+                  "title": "Maintenir le flux d'air avec un espacement adéquat"
+                },
+                {
+                  "title": "Prendre soin de taire uniquement par temps sec pour éviter de laisser les champignons pénétrer dans les coupes fraîches."
+                },
+                {
+                  "body": "Prendre les branches cassées avant que les champignons ne puissent pénétrer.",
+                  "title": "Inspectez après les gelées ou les tempêtes"
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Les tiges se fanent de la pointe vers le tronc.",
+        "symptomAnalysis": "Un terme général pour les infections fongiques (et parfois les dommages causés par les insectes ou l'environnement) qui tuent la croissance boisée de la pointe vers l'intérieur. Souvent suit les plaies - les coupes de taille, les dommages causés par le tondeuse, les fissures par gel, les tunnels d'insectes - qui ont donné aux champignons un moyen d'entrer. Le stress (secheresse, gel, inondation) rend les plantes plus vulnérables.\n\nSe distingue de la tache de branche : la décroissance commence à la pointe et se répand ; la tache de branche tue toute la branche en même temps.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Prendre soin des feuilles et des tiges infectées"
+                },
+                {
+                  "title": "Stériliser entre les coupes"
+                },
+                {
+                  "title": "Passer à l'arrosage de base"
+                },
+                {
+                  "body": "Utilisez un engrais équilibré N-P-K (par exemple 10-10-10) par étiquette. Pour les déficiences qui se manifestent sur les feuilles, suivez-les par un engrais foliaire pour une absorption rapide. Le compost est une alternative à libération lente. Dans les cas graves de la plante entière : *Jetez la plante fortement infectée* (voir 4.1).",
+                  "subSteps": [
+                    {
+                      "title": "Jetez la plante sévèrement infectée."
+                    }
+                  ],
+                  "title": "Un engrais riche en azote donne aux plantes stressées l'énergie nécessaire pour se rétablir."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "ST04": {
+        "name": "Pourriture des tiges (pourriture molle)",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Évitez de mouiller les feuilles et les tiges."
+                },
+                {
+                  "title": "Ne pas arroser en excès"
+                },
+                {
+                  "title": "Les plantes spatiales se séparent"
+                },
+                {
+                  "title": "Inspectez les nouvelles plantes à la recherche de tiges molles et décolorées."
+                },
+                {
+                  "title": "Stérilisez toujours les outils"
+                },
+                {
+                  "title": "Contrôlez les ravageurs qui sucent la sève, comme les pucerons ; leurs blessures invitent les bactéries."
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "La tige devient molle, creuse et a une odeur nauséabonde.",
+        "symptomAnalysis": "Pourriture bactérienne douce, souvent *Erwinia*. Les bactéries pénètrent par les plaies et digèrent le tissu végétal de l'intérieur. Elle se développe le plus rapidement dans des conditions météorologiques chaudes et humides et sur les plantes qui se trouvent dans un sol humide ou qui sont éclaboussées par l'arrosage au-dessus. Une fois avancée, elle se propage du tige à la couronne et descend jusqu'aux racines - parfois toute la plante devient noire et pâteuse à partir du centre.\n\nComprend la présentation \"de toute la plante qui devient noire du centre\", que certaines références énumèrent comme une condition distincte de \"pourriture molle\".",
+        "treatment": {
+          "groups": [
+            {
+              "label": "Pour une infection légère (un seul tige ou section affecté)",
+              "steps": [
+                {
+                  "title": "Coupez chaque section de tige douce et décolorée en tissu propre."
+                },
+                {
+                  "title": "Stérilisez entre chaque coupe"
+                },
+                {
+                  "title": "Repot dans un sol stérile frais avec drainage."
+                },
+                {
+                  "title": "Arrosez seulement lorsque le sol de surface est sec."
+                },
+                {
+                  "body": "Dirigez l'eau directement sur le sol près de la tige plutôt que de pulvériser les feuilles. Utilisez un seau d'arrosage à long bec, un tuyau trempant ou une ligne de goutte. Les feuilles mouillées invitent la propagation des champignons et des bactéries. En cas d'infection sévère de toute la plante : *Jetez la plante sévèrement infectée* (voir 5.1). Enveloppez-la dans un sac et retirez-la. Ne compostez pas.",
+                  "subSteps": [
+                    {
+                      "title": "Jetez la plante sévèrement infectée."
+                    }
+                  ],
+                  "title": "Arrêtez l'arrosage au-"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "ST05": {
+        "name": "Chancres",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Évitez les dommages causés par l'hiver et la glace - enveloppez les jeunes tronc, peignez-les avec de la peinture blanche pour arbres ou utilisez des enveloppes pour arbres dans les zones froides."
+                },
+                {
+                  "title": "Évitez les blessures mécaniques - gardez les tondeuses et les coupe-haies à l'écart des troncs."
+                },
+                {
+                  "title": "Choisissez des variétés résistantes à la canker."
+                },
+                {
+                  "title": "Gardez les plantes en bonne santé"
+                },
+                {
+                  "title": "Prendre la taille dans un temps sec de fin hiver ou début printemps."
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Des zones de tronc morts et enfoncées avec des bords fissurés.",
+        "symptomAnalysis": "Une cancérose est une zone morte localisée dans le tissu de la tige causée par des champignons (*Cytospora*, *Nectria*) ou des bactéries entrant par une plaie - des coupures de taille, des fissures dues au gel, des brûlures de soleil, des tunnels d'insectes. Le pathogène tue le tissu autour du point d'entrée. Les cancéros poussent lentement ; les plus grandes peuvent entourer et tuer toute une branche.\n\nCommune sur les arbres fruitiers (pêche, pomme, cerise) et de nombreux arbustes ornementaux. Souvent suit le stress hivernal.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Prendre soin des feuilles et des tiges infectées"
+                },
+                {
+                  "title": "Stérilisez entre chaque coupe"
+                },
+                {
+                  "title": "Prendre soin de ta pelouse uniquement par temps sec pour éviter de propager le pathogène."
+                },
+                {
+                  "body": "Pulvériser un fongicide à base de cuivre (mélange Bordeaux, sulfate de cuivre ou hydrogène de cuivre commercial) sur les feuilles, les tiges et le sol environnant conformément à l'étiquette du produit. Répétez l'application tous les 7 à 14 jours. Pour les cankers sur le tronc principal que vous ne pouvez pas tailler : grattez le tissu mort avec un couteau propre jusqu'à la pécule saine (appelée \"chirurgie\"). Laissez la plaie exposée à l'air pour sécher.",
+                  "title": "Appliquer un fongicide au cuivre sur la pécorine restante en bonne santé au début du printemps."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "ST06": {
+        "name": "Brûlure solaire sur la pécorine",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "body": "Réflecte le soleil d'hiver.",
+                  "title": "**Enveloppez les jeunes tronc d'arbres** avec une enveloppe blanche pour arbres ou peignez-les avec une peinture à latex intérieure blanche diluée (1:1 avec de l'eau) à partir de la ligne de sol, alignée sur 24 pouces, appliquée fin automne."
+                },
+                {
+                  "title": "Évitez la taille tardive de l'été qui expose la pécorine précédemment ombragée."
+                },
+                {
+                  "title": "Arrosez profondément fin automne avant que le sol ne gèle."
+                },
+                {
+                  "title": "Mélanger la zone racinaire pour modérer les fluctuations de température."
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Céramique fissurée, écaillée, décolorée sur le côté exposé au soleil.",
+        "symptomAnalysis": "La brûlure solaire survient lorsque le soleil d'hiver intense réchauffe un côté d'un tronc pendant la journée, les cellules deviennent actives, puis une baisse soudaine de température la nuit les tue. Les jeunes arbres à écorce lisse (érable, arbres fruitiers, ornementaux récemment transplantés) sont les plus vulnérables. L'écorce endommagée devient un point d'entrée à long terme pour les agents pathogènes - voir [ST05 - Cancres](cankers.md).\n\nCela peut également survenir pendant la chaleur de l'été après une défoliation soudaine qui expose la pécorine auparavant ombragée.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "body": "La plupart des blessures dues au coup de soleil guérissent lentement d'elles-mêmes.",
+                  "title": "Ne retirez pas la écorce endommagée à moins qu'elle ne soit lâche et se détache."
+                },
+                {
+                  "title": "Retirez toute écorce clairement morte et en lambeaux avec un couteau stérilisé jusqu'au bord du tissu sain."
+                },
+                {
+                  "title": "Appliquez un fongicide au cuivre pour empêcher les agents pathogènes d'entrer dans la plaie."
+                },
+                {
+                  "title": "Faites attention aux cankers qui se développent - voir [ST05](cankers.md)"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "ST07": {
+        "name": "Brosse des sorcières",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Surveillez régulièrement la pression des ravageurs et des maladies."
+                },
+                {
+                  "title": "Pulvérisation préventive de cuivre sur les espèces sujettes à la rouille."
+                },
+                {
+                  "title": "Tailler les branches stressées ou faibles tôt."
+                },
+                {
+                  "title": "Dans les piqûres graves, retirez toute la plante."
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Clôture dense ressemblant à une brosse de pousses étouffées provenant d'un seul point.",
+        "symptomAnalysis": "Une réponse au stress, pas une seule maladie. De nombreuses causes : champignons de rouille, alimentation d'insectes, infection bactérienne ou fongique, infestation par des plantes parasites comme le saule à fleurs naines. La plante répond en produisant de nombreux pousses courtes dans un groupe serré au lieu de la croissance normale d'extension.\n\nLa balai elle-même tue rarement la plante, mais la cause sous-jacente peut le faire. Commun sur les conifères, les arbres fruitiers, les framboises et de nombreux arbustes ligneux.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Coupez la balayette, en taillant plusieurs pouces en dessous du point affecté."
+                },
+                {
+                  "title": "Stérilisez les outils entre les coupes."
+                },
+                {
+                  "body": "- Champignon de rouille → *Appliquer un fongicide au cuivre* (voir 3.1) - Mites ou insectes → voir [02_pests/](../02_pests/) - Mistletoe → retirer physiquement le parasite",
+                  "subSteps": [
+                    {
+                      "title": "Appliquer un fongicide au cuivre"
+                    }
+                  ],
+                  "title": "Déterminer la cause :"
+                },
+                {
+                  "title": "Éliminez le matériel taillé loin de la plante."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "ST08": {
+        "name": "Gangrène de la couronne",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Inspectez chaque nouvelle plante à la recherche de bosses à la couronne."
+                },
+                {
+                  "title": "Stérilisez toujours les outils"
+                },
+                {
+                  "title": "Ne empilez pas de terre ou de paillis contre la couronne des plantes - cela maintient la zone sèche et sans agents pathogènes."
+                },
+                {
+                  "title": "Cultures résistantes aux plantes lorsque disponibles."
+                },
+                {
+                  "title": "Utilisez un trempage bactérien bénéfique (strain Agrobacterium radiobacter 84, vendu sous le nom de \"Galltrol\") sur le matériel de plantation à racines nues."
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Des grosses tumeurs ressemblant à des poussées près de la ligne de sol.",
+        "symptomAnalysis": "Causé par la bactérie *Agrobacterium tumefaciens*, qui vit dans le sol et entre par les plaies. Affecte plus de 600 espèces végétales - les roses, les arbres fruitiers, les raisins, les framboises sont particulièrement sensibles. La bactérie détourne l'ADN de la plante et provoque une croissance incontrôlée des tissus.\n\nLes arbres établis survivent généralement à la gale de la couronne. Les jeunes plantes et celles fortement infectées déclinent car la gale bloque le flux d'eau et de nutriments.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Sur les arbres établis, coupez la gaulle avec un couteau stérilisé ou des tondeuses à branches."
+                },
+                {
+                  "title": "Stérilisez entre chaque coupe"
+                },
+                {
+                  "title": "Après l'opération, peignez la plaie avec un scellant de taille d'arbres."
+                },
+                {
+                  "body": "Ne pas compostez.",
+                  "title": "Pour les jeunes plantes ou fortement infectées : [S43](../shared/treatment-steps.md#s43-discard-the-severely-infected-plant) - Retirer et détruire."
+                },
+                {
+                  "title": "Solairez le sol avant de le replanter."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "ST09": {
+        "name": "Des cicatrices de tiges",
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Mettre en place des barrières autour des plantes dans les zones fréquentées."
+                },
+                {
+                  "title": "Gardez les tondeuses et les balais à mauvaises herbes éloignés des troncs."
+                },
+                {
+                  "title": "Utilisez des pots stériles et du terreau frais pour les nouvelles plantes afin d'éviter la transmission des ravageurs."
+                },
+                {
+                  "title": "Inspectez régulièrement les plantes à la recherche de signes préliminaires de dommages."
+                }
+              ]
+            }
+          ]
+        },
+        "shortDescription": "Égratignures, écailles ou dommages causés par les insectes sur les tiges guéries.",
+        "symptomAnalysis": "Les cicatrices se forment lorsque une plante guérit une plaie. Causes courantes :\n\n- **Dommages mécaniques** - animaux de compagnie, enfants, tondeuses à gazon, outils de jardinage, circulation piétonne.\n- **Dommages causés par les ravageurs laissés derrière eux** - sites de nourrissage d'insectes qui sont déjà partis.\n- **Brûlure solaire / brûlure du soleil** - dommages causés par la chaleur sur la pécorine exposée. Voir [ST06](sunscald-bark.md).\n- **Feuilles ou bourgeons perdus** - les feuilles tombées laissent une cicatrice sur le tige.\n\nLes cicatrices elles-mêmes ne nuisent pas à la plante au-delà de la plaie initiale. Elles sont principalement cosmétiques. Mais la zone endommagée est un point d'entrée permanent pour les ravageurs et les agents pathogènes futurs.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "body": "- Animaux de compagnie/enfants/outils → installer une barrière ou déplacer la plante. - Insectes nuisibles → identifier l'insecte et le traiter. Voir [02_pests/](../02_pests/). - Mauvaise exposition au soleil → *Mouvement vers un endroit ombragé* (voir 1.1) Éloignez-vous du soleil direct. - Perte fréquente de feuilles → vérifier la lumière, l'eau et les nutriments.",
+                  "subSteps": [
+                    {
+                      "title": "Mouvez-vous dans un endroit ombragé"
+                    }
+                  ],
+                  "title": "Aborder la cause sous-jacente :"
+                },
+                {
+                  "title": "La cicatrice elle-même n'a pas besoin de traitement."
+                },
+                {
+                  "title": "Faites attention aux cankers qui se développent sur les zones endommagées - voir [ST05](cankers.md)"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "shared": {
+      "remedies": {
+        "K01": {
+          "recipe": "1 partie de 3 % de peroxyde d'hydrogène de pharmacie à 3 parties d'eau. (Ou 1 partie de 35 % de peroxyde alimentaire à 30 parties d'eau.)",
+          "title": "Traitement du sol à l'hydrogène peroxyde",
+          "usage": "Versez autour de la base de la plante jusqu'à ce que le sol de la couche supérieure soit humidifié. Répétez une fois par semaine jusqu'à ce que le sol sèche normalement et que les bulles cessent de se former."
+        },
+        "K02": {
+          "recipe": "Cannelle moulue simple du tiroir des épices. Pas de mélange.",
+          "title": "Poudre de cannelle",
+          "usage": "Poudrez une fine couche sur le sol pourri, sur les tiges fraîchement coupées ou autour de la base des semis. La cannelle est naturellement antifongique et favorise la germination."
+        },
+        "K03": {
+          "recipe": "Versez 1/4 de tasse de vinaigre de cidre de pomme dans une petite tasse ou un petit plateau jaune. Ajoutez 1 goutte de savon à vaisselle pour briser la tension superficielle. Couvrez avec du film plastique et faites des petits trous.",
+          "title": "Piège à vinaigre de cidre de pomme",
+          "usage": "Placez-le près de la plante affectée. Les mouches des champignons adultes et les mouches à fruit sont attirées, tombent et se noient. Remplissez à nouveau tous les 3 à 4 jours."
+        },
+        "K04": {
+          "recipe": "Mélangez 2 sachets de thé au camomille dans 1 quart d'eau fraîchement bouillante. Laissez refroidir à température ambiante.",
+          "title": "Bain de thé au camomille",
+          "usage": "Versez autour de la base des semis et sur la surface du sol. Une action antifongique douce protège les graines en germination et les jeunes racines."
+        },
+        "K05": {
+          "recipe": "1 cuillère à café de bicarbonate de soude + 1 cuillère à café de savon à vaisselle doux + 1 quart d'eau. Remuez pour dissoudre.",
+          "title": "Bicarbonate de soude + spray de savon à vaisselle",
+          "usage": "Pulvériser sur les feuilles au premier signe de moisissure, toutes les 7 jours. Coucher sur les surfaces supérieures et inférieures des feuilles. Tester sur des points d'abord ; certaines plantes peuvent brûler les feuilles."
+        },
+        "K06": {
+          "recipe": "1 partie de lait (n'importe quelle graisse, mais le lait entier fonctionne le mieux) pour 9 parties d'eau dans un flacon pulvérisateur.",
+          "title": "Spray au lait",
+          "usage": "Pulvériser sur les feuilles une fois par semaine par temps ensoleillé. La lumière du soleil active les protéines du lait en une fine couche antifongique."
+        },
+        "K07": {
+          "recipe": "Mélangez 4 gousses d'ail écrasées dans 1 quart d'eau. Laissez infuser toute la nuit. Filtrez. Ajoutez 1 cuillère à café de savon liquide.",
+          "title": "Spray d'ail",
+          "usage": "Pulvériser sur les feuilles et les tiges, en se concentrant sur les dessous. Répéter tous les 5 à 7 jours. Parfum fort pendant une journée, puis s'estompe."
+        },
+        "K08": {
+          "recipe": "2 cuillères à soupe de piment de Cayenne ou de piment séché écrasé dans 1 quart d'eau. Faire bouillir pendant 10 minutes. Laisser refroidir. Filtrer. Ajouter 1 cuillère à café de savon de vaisselle.",
+          "title": "Spray au piment de chili",
+          "usage": "Pulvériser sur les feuilles où les chenilles ou les coléoptères se nourrissent. Porter des gants et une protection oculaire pendant la pulvérisation."
+        },
+        "K09": {
+          "recipe": "Les grounds de café usagés séchés sur une plaque.",
+          "title": "Barrière de poudre de café",
+          "usage": "Saupoudrez un anneau de 1/2 pouce autour de la base des plantes sujettes aux limaces. La texture rugueuse et la caféine repoussent les limaces et les escargots. Remplacez après la pluie."
+        },
+        "K10": {
+          "recipe": "Coquilles d'œufs lavées, séchées, écrasées grossièrement avec un rouleau à pâtisserie.",
+          "title": "Coquille d'œuf écrasée",
+          "usage": "(a) Mélangez dans le sol lors de la plantation pour une libération lente du calcium - aide à prévenir la pourriture de la tige des fleurs. (b) Saupoudrez un anneau aux bords tranchants autour des plantes - les limaces évitent les bords."
+        },
+        "K11": {
+          "recipe": "Enterrez un plat ou une tasse peu profond avec le rebord à la même hauteur que le sol. Remplissez 2/3 avec de la bière bon marché. (Ou 1 tasse d'eau + 1 cuillère à café de levure sèche + 1 cuillère à café de sucre.)",
+          "title": "Pêche à la bière",
+          "usage": "Placez-le près des plantes affectées le soir. Les limaces et les escargots s'y glissent et se noient. Remplissez-le à nouveau tous les 2 à 3 jours."
+        },
+        "K12": {
+          "recipe": "Mélangez 2 à 3 peaux de bananes hachées dans 1 quart d'eau pendant 48 heures. Filtrez.",
+          "title": "Thé au potassium à la peau de banane",
+          "usage": "Versez autour de la base des plantes stressées ou jaunies toutes les 2 à 3 semaines. Boost léger de potassium ; pas un engrais complet."
+        },
+        "K13": {
+          "recipe": "70 % d'alcool isopropyl à friction directement de la bouteille.",
+          "title": "Brosse en coton à alcool isopropyle",
+          "usage": "Mettez un coton-tige dans de l'eau et essuyez directement sur les pucerons ou les insectes à écailles individuels. Tuent au contact. Évitez de tremper la feuille."
+        },
+        "K14": {
+          "recipe": "1 cuillère à café de savon liquide doux pour vaisselle (pas de dégraissants, pas d'additifs) par quart de litre d'eau dans un flacon pulvérisateur.",
+          "title": "Spray d'eau savonneuse simple",
+          "usage": "Pulvériser pour tremper toutes les surfaces, en particulier les dessous des feuilles, le soir. Rincer à l'eau claire le lendemain matin. Répétez le pulvérisage tous les 3 jours pendant 2 semaines."
+        },
+        "K15": {
+          "recipe": "1 comprimé d'aspirine non recouvert (325 mg) dissous dans 1 gallon d'eau avec quelques gouttes de savon à vaisselle.",
+          "title": "Spray foliaire à base d'aspirine",
+          "usage": "Pulvériser sur les feuilles toutes les 2 à 3 semaines. L'acide salicylique dans l'aspirine stimule doucement la propre réponse de défense de la plante contre les maladies."
+        }
+      },
+      "steps": {
+        "S01": {
+          "body": "Déplacez la plante hors de son pot, secouez doucement le sol lâche et rincez le rosette sous de l'eau courante tiède jusqu'à ce que vous puissiez clairement voir les racines individuelles.",
+          "title": "Déposer et rincer les racines"
+        },
+        "S02": {
+          "body": "Mettez les tondeuses à boutons, les ciseaux ou les lames de couteau dans une solution de 1:4 de détergent à blanchir sur de l'eau (ou de 70 % d'alcool isopropyle) avant chaque coupe et entre chaque plante. Essuyez-les avant de couper.",
+          "title": "Stériliser les outils de coupe"
+        },
+        "S03": {
+          "body": "Coupez les racines noires, molles ou ramollies avec des tondeuses à racines stérilisées. Les racines saines sont blanches ou bronzées et souples. Réduisez-les jusqu'à ce que le tissu soit propre et ferme.",
+          "title": "Taillez les racines endommagées ou mortes"
+        },
+        "S04": {
+          "body": "Coupez les feuillages et les brindilles affectés avec des outils stérilisés, en coupant jusqu'au tissu sain. Placez les boutures dans un sac et jetez-les - ne compostez jamais de matériel malade.",
+          "title": "Prendre soin des feuilles et des tiges infectées"
+        },
+        "S05": {
+          "body": "Utilisez des doigts propres ou des couteaux stérilisés pour retirer les bourgeons pourris, fanés ou infectés à leur base, avant que l'infection ne se propage aux bourgeons sains environnants.",
+          "title": "Pincez les fleurs et les bourgeons touchés."
+        },
+        "S06": {
+          "body": "Ramassez tous les fruits tachés, pourris ou moisis sur la plante et au sol. Enterrez-les à 12 pouces de profondeur, brûlez-les ou enfermez-les dans un sac-poubelle ; ne les compostez pas.",
+          "title": "Retirer et détruire les fruits infectés"
+        },
+        "S07": {
+          "body": "Portez des gants. Retirez à la main les chenilles, les coléoptères, les limaces ou les groupes d'œufs et faites-les tomber dans un seau d'eau savonneuse. Noyez-les pendant au moins 24 heures, puis éliminez-les.",
+          "title": "Sélectionnez à la main les parasites dans de l'eau savonneuse."
+        },
+        "S08": {
+          "body": "Pour les pucerons, les escargots de la fourrure ou les pucerons, essuyez doucement les feuilles et les tiges avec un chiffon doux trempé dans de l'eau savonneuse. Rincez souvent le chiffon. Évitez de faire des ecchymoses sur les tissus tendres.",
+          "title": "Essuyez les ravageurs avec un chiffon humide."
+        },
+        "S09": {
+          "body": "Transférez la plante dans un pot propre avec des trous de drainage, en utilisant un mélange de terreau stérile frais. Enterrez les racines à la même profondeur qu'avant. Arrosez légèrement pour assécher le sol.",
+          "title": "Repotter avec du sol frais et un drainage"
+        },
+        "S10": {
+          "body": "Transférez une plante à racines enracinées dans un pot 1 à 2 tailles plus grand. Déposez les racines en cercle avant de planter la plante dans un mélange frais. Arrosez abondamment une seule fois.",
+          "title": "Transférer dans un récipient plus grand"
+        },
+        "S11": {
+          "body": "Érabliz le premier 1/8 pouce de sol pourri ou recouvert de sel et remplacez-le par une couche de sable grossier ou de gravier fin propre d'un 1/4 pouce. Arrosez à peine par la suite.",
+          "title": "Coucher de sol avec du sable ou de la gravier"
+        },
+        "S12": {
+          "body": "Posez une feuille de plastique transparente sur le sol humide du jardin pendant 4 à 6 semaines pendant la période la plus chaude de l'année. La chaleur se développe en dessous et tue les nématodes, les champignons et les graines d'herbes envahissantes.",
+          "title": "Solairez le sol"
+        },
+        "S13": {
+          "body": "Étalez autour de la plante une couche de 2 à 3 pouces de paillis d’écorce, de paille ou de feuilles, en laissant un petit espace dégagé autour de la tige. Le paillis empêche les agents pathogènes du sol d’éclabousser la plante et stabilise l’humidité.",
+          "title": "Appliquer du paillis organique autour de la base."
+        },
+        "S14": {
+          "body": "Amenez la plante dans un évier ou à l'extérieur. Versez lentement de l'eau propre par le pot - environ 4 fois le volume du pot - jusqu'à ce que l'eau coule librement des trous de drainage. Répétez une fois par mois si les sels reviennent.",
+          "title": "Égoutter le sol pour extraire les sels."
+        },
+        "S15": {
+          "body": "Dirigez l'eau directement sur le sol près de la tige plutôt que de pulvériser les feuilles. Utilisez un seau d'arrosage à long bec, un tuyau trempant ou une ligne de gouttelettes. Les feuilles mouillées invitent la propagation des champignons et des bactéries.",
+          "title": "L'eau à la base, jamais au-dessus de la tête."
+        },
+        "S16": {
+          "body": "Laissez sécher les 1 à 2 pouces supérieurs du sol entre les arrosages. Enfoncez un doigt dans le sol pour vérifier avant chaque arrosage. De nombreux problèmes de pourriture des racines et des tiges sont dus à un sol constamment détrempé.",
+          "title": "Réduire la fréquence d'arrosage"
+        },
+        "S17": {
+          "body": "Arrosez lentement et soigneusement jusqu'à ce que le sol soit humide à l'intérieur et à l'extérieur, puis laissez-le sécher partiellement avant la prochaine arrosage. Encourage des racines plus profondes et des plantes plus solides.",
+          "title": "Asseyez-vous profondément mais moins souvent."
+        },
+        "S18": {
+          "body": "Déplacez progressivement la plante vers une fenêtre orientée vers le sud ou l'ouest ou vers un endroit plus ensoleillé dans le jardin. Faites le déplacement en plusieurs étapes sur une semaine pour éviter le choc thermique.",
+          "title": "Ménager dans un endroit plus lumineux"
+        },
+        "S19": {
+          "body": "Relocalisez la plante dans une fenêtre orientée vers le nord, sous un arbre ou derrière un tissu d'ombrage. Les coups de soleil et les brûlures des feuilles guérissent généralement une fois que la plante se refroidit.",
+          "title": "Mouvez-vous dans un endroit ombragé"
+        },
+        "S20": {
+          "body": "Accrochez ou placez une lumière de croissance LED à spectre complet à 30 à 60 cm au-dessus de la plante, sur un minuterie de 12 à 14 heures. Très utile en hiver ou dans des pièces sombres.",
+          "title": "Ajouter une lumière de croissance"
+        },
+        "S21": {
+          "body": "Placez les plantes dans des espaces séparés afin que les feuilles ne touchent pas lorsqu'elles sont complètement grandes. À l'intérieur, faites tourner un petit ventilateur oscillant pendant une partie de la journée. À l'extérieur, taisez la végétation voisine qui bloque la brise.",
+          "title": "Augmenter le flux d'air et l'espacement"
+        },
+        "S22": {
+          "body": "Arrosez la feuillure quotidiennement, regroupez les plantes ensemble, placez le pot sur une plaque de galets dans de l'eau peu profonde, ou allumez un humidificateur. Visitez une humidité relative de 40 à 60 %.",
+          "title": "Augmenter l'humidité autour de la plante"
+        },
+        "S23": {
+          "body": "Couvrez les plantes vulnérables avec un tissu anti-gel, du liège, une feuille ou un paillis avant la tombée de la nuit. Amenez les plantes en pot à l'intérieur. Retirez le paillis le lendemain matin.",
+          "title": "Protéger contre la glace"
+        },
+        "S24": {
+          "body": "Percer un poteau en bois ou en bambou dans le sol près de la plante et attacher des boucles en forme de huit lâches avec de la ficelle douce. Cela empêche les tiges de toucher le sol mouillé et améliore le flux d'air.",
+          "title": "Piquer ou treiller la plante"
+        },
+        "S25": {
+          "body": "Pulvériser un fongicide à base de cuivre (mélange Bordeaux, sulfate de cuivre ou hydrogène de cuivre commercial) sur les feuilles, les tiges et le sol environnant conformément à l'étiquette du produit. Répétez l'application tous les 7 à 14 jours.",
+          "title": "Appliquer un fongicide au cuivre"
+        },
+        "S26": {
+          "body": "Lorsque le cuivre n'est pas suffisant, utilisez un fongicide systémique synthétique (par exemple, le propiconazole, le myclobutanil) conformément à l'étiquette du produit. Pulvériser jusqu'à écoulement. Faites toujours tourner les fongicides pour éviter la résistance.",
+          "title": "Appliquer un fongicide à large spectre"
+        },
+        "S27": {
+          "body": "Mélangez de l'huile de neem pressée à froid avec de l'eau et quelques gouttes de savon à vaisselle comme émulsifiant (typiquement 2 cuillères à soupe de neem + 1 cuillère à soupe de savon par quart). Vaporisez pour que le déversement se fasse dans le calme du soir.",
+          "title": "Appliquer de l'huile de neem"
+        },
+        "S28": {
+          "body": "Diluez 1 cuillère à soupe de savon liquide doux pour vaisselle (sans dégraissants) par quart de litre d'eau dans un flacon pulvérisateur. Badigeonnez les dessous et les sommets des feuilles jusqu'à ce qu'elles soient trempées. Répétez le pulvérisage tous les 2 à 3 jours pendant 1 à 2 semaines.",
+          "title": "Appliquer du savon insecticide"
+        },
+        "S29": {
+          "body": "Pulvériser du Bt sur les feuilles et les tiges où se nourrissent les chenilles. Les chenilles doivent le ingérer. Le Bt est inoffensif pour les abeilles, les animaux de compagnie et les humains. Répétez l'application après la pluie.",
+          "title": "Appliquer du Bacillus thuringiensis (Bt)"
+        },
+        "S30": {
+          "body": "Utilisez un insecticide à base de pyrethrine ou de pyrethrum (d'origine chrysanthémum) par étiquette. Pulvériser le soir pour protéger les abeilles. Éfficace contre les tétranyques, les pucerons et les coléoptères.",
+          "title": "Appliquer le spray de pyréthrine"
+        },
+        "S31": {
+          "body": "Pour les ravageurs tenaces ou cachés, trempez le sol avec un insecticide systémique (imidaclopride, dinotefuran) selon l'étiquette. La plante l'absorbe par les racines, rendant le sève toxique pour les insectes suceurs. Évitez sur les plantes en fleurs visitées par les abeilles.",
+          "title": "Appliquer un insecticide systémique"
+        },
+        "S32": {
+          "body": "Utilisez un embout de tuyau sur un réglage de jet pour pulvériser les pucerons, les acariens, les coccinelles ou les pucerons à dentelle des feuilles et des tiges. Vissez-vous aussi sous les feuilles. Répétez tous les quelques jours.",
+          "title": "Pulvériser les ravageurs avec un tuyau puissant"
+        },
+        "S33": {
+          "body": "Achetez des coccinelles, des papillons à ailes dentelées, des guêpes parasitaires ou des acariens prédateurs auprès d'un fournisseur de jardinage. Libérez-les le soir près de la plante affectée. Fournissez des plantes à nectar à proximité pour les garder.",
+          "title": "Libérer des insectes bénéfiques"
+        },
+        "S34": {
+          "body": "Accrochez des pièges à phéromones spécifiques à chaque espèce dans ou à proximité des plantes affectées. Les pièges attrapent les papillons mâles, supprimant la prochaine génération. Remplacez les appâts toutes les 4 à 6 semaines pendant la saison.",
+          "title": "Mettre en place des pièges à phéromones"
+        },
+        "S35": {
+          "body": "Posez une fine toile de maille ou des couvertures de rangées flottantes sur les plantes et fixez les bords avec des pierres ou des épingles. Évite aux papillons de nuit, aux coléoptères et aux chenilles de pondre des œufs.",
+          "title": "Utilisez des filets anti-insectes ou des couvertures de rangées."
+        },
+        "S36": {
+          "body": "Utilisez un engrais équilibré N-P-K (par exemple 10-10-10) par étiquette. Pour les carences qui se manifestent sur les feuilles, suivez-les par un engrais foliaire pour une absorption rapide. Le compost est une alternative à libération lente.",
+          "title": "Appliquer un engrais équilibré"
+        },
+        "S37": {
+          "body": "Mélangez un produit d'fer chelaté par étiquette et vaporisez directement sur les feuilles jaunies. Plus rapide que le trempage dans le sol. Répétez toutes les 2 à 3 semaines jusqu'à ce que la verdure revienne.",
+          "title": "Appliquer un aliment foliaire riche en fer"
+        },
+        "S38": {
+          "body": "Utilisez un kit de test du sol ou envoyez un échantillon à votre bureau d'extension local. Ajoutez du soufre élémentaire pour abaisser le pH ou du chaux de jardin pour le faire augmenter, conformément aux recommandations du test.",
+          "title": "Tester et modifier le pH du sol"
+        },
+        "S39": {
+          "body": "Gardez les plantes nouvellement achetées séparées de votre collection pendant 2 semaines. Vérifiez les dessous des feuilles, les jonctions des feuilles et le dessus du sol pour détecter les ravageurs et les maladies avant de les intégrer.",
+          "title": "Inspecter et mettre en quarantaine les nouvelles plantes"
+        },
+        "S40": {
+          "body": "Lorsque vous achetez des plantes, recherchez les variétés étiquetées résistantes aux maladies courantes (par exemple, « tomates résistantes au verticillium », « roses résistantes à la tache noire »). Les jardineries locales et les paquets de graines indiquent les codes de résistance.",
+          "title": "Choisissez des variétés résistantes"
+        },
+        "S41": {
+          "body": "Rake les feuilles tombées, les fruits et les branches mortes sous les plantes - surtout en automne. De nombreux agents pathogènes passent l'hiver dans les débris des plantes et se réinfectent au printemps.",
+          "title": "Nettoyer les débris autour des plantes"
+        },
+        "S42": {
+          "body": "Ne plantez pas la même espèce - ou ses proches botaniques - au même endroit deux ans de suite. Une rotation de 3 ans rompt le cycle de vie des maladies et des ravageurs transmis par le sol.",
+          "title": "Rotatez les cultures entre les saisons"
+        },
+        "S43": {
+          "body": "Lorsque plus de la moitié de la plante est affectée ou que la pourriture des racines est répandue, déterrez la plante, scellez-la dans un sac poubelle lourd et éliminez-la. Sterilisez la zone avant de replanter.",
+          "title": "Jetez la plante sévèrement infectée."
+        },
+        "S44": {
+          "body": "Mouillez les pots vides pendant 10 minutes dans une solution de 1:9 de détergent à blanchir sur de l'eau, puis rincez-les abondamment avec de l'eau propre et laissez-les sécher à l'air libre avant de les remplir à nouveau avec du terreau frais.",
+          "title": "Stériliser les pots avant de les réutiliser."
+        }
+      }
+    }
+  }
+}
