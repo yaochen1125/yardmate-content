@@ -51,6 +51,14 @@ done
 run rclone copy "${LUNAR_DIR}/" "r2:${BUCKET}/${PREFIX}/${LUNAR_DIR}/" \
     --header-upload "Cache-Control: ${CACHE_CONTROL}" --s3-no-check-bucket
 
+# i18n per-locale overlays — App fetches content/i18n/<locale>/<file>; missing
+# locale/file falls back to English (the flat whitelist above). Whole tree, paths preserved.
+if [[ -d i18n ]]; then
+  echo "==> Uploading i18n/ per-locale overlays"
+  run rclone copy "i18n/" "r2:${BUCKET}/${PREFIX}/i18n/" \
+      --header-upload "Cache-Control: ${CACHE_CONTROL}" --s3-no-check-bucket
+fi
+
 # --- 2) Cloudflare purge (instant; short TTL is the fallback) ---
 echo "==> Purging Cloudflare cache"
 # shellcheck source=/dev/null
@@ -58,6 +66,7 @@ source "$CF_ENV"
 purge_urls=()
 for f in "${FILES[@]}"; do purge_urls+=("${PUBLIC_BASE}/${f}"); done
 for y in "${LUNAR_DIR}"/*.json; do [[ -e "$y" ]] && purge_urls+=("${PUBLIC_BASE}/${y}"); done
+while IFS= read -r f; do purge_urls+=("${PUBLIC_BASE}/${f}"); done < <(find i18n -type f -name '*.json' 2>/dev/null | sort)
 # Cloudflare purge-by-URL caps at 30 URLs per request → send in batches.
 purge_batch() {
   local json; json=$(printf '"%s",' "$@"); json="[${json%,}]"
@@ -80,8 +89,8 @@ fi
 echo "==> Git push (jsDelivr fallback for old app versions)"
 if [[ $DRY_RUN -eq 1 ]]; then
   echo "[dry-run] git add <whitelist> && git commit && git push"
-elif [[ -n "$(git status --porcelain -- "${FILES[@]}" "${LUNAR_DIR}")" ]]; then
-  git add -- "${FILES[@]}" "${LUNAR_DIR}"
+elif [[ -n "$(git status --porcelain -- "${FILES[@]}" "${LUNAR_DIR}" i18n)" ]]; then
+  git add -- "${FILES[@]}" "${LUNAR_DIR}" i18n
   git commit -m "content: publish $(date -u +%Y-%m-%dT%H:%MZ)"
   git push
 else
