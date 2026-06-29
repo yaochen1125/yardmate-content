@@ -572,6 +572,7 @@
         "groups": [
           {
             "label": "For mild cases (under 50% of leaves affected)",
+            "severity": "mild",
             "steps": [
               {
                 "num": 1,
@@ -601,6 +602,7 @@
           },
           {
             "label": "For severe cases",
+            "severity": "severe",
             "steps": [
               {
                 "num": 1,
@@ -718,6 +720,7 @@
         "groups": [
           {
             "label": "For mild cases (under 50% of leaves)",
+            "severity": "mild",
             "steps": [
               {
                 "num": 1,
@@ -739,6 +742,7 @@
           },
           {
             "label": "For severe cases",
+            "severity": "severe",
             "steps": [
               {
                 "num": 1,
@@ -963,6 +967,7 @@
         "groups": [
           {
             "label": "For mild cases",
+            "severity": "mild",
             "steps": [
               {
                 "num": 1,
@@ -984,6 +989,7 @@
           },
           {
             "label": "For severe cases",
+            "severity": "severe",
             "steps": [
               {
                 "num": 1,
@@ -1071,6 +1077,7 @@
         "groups": [
           {
             "label": "For mild cases",
+            "severity": "mild",
             "steps": [
               {
                 "num": 1,
@@ -1100,6 +1107,7 @@
           },
           {
             "label": "For severe cases",
+            "severity": "severe",
             "steps": [
               {
                 "num": 1,
@@ -1189,6 +1197,7 @@
         "groups": [
           {
             "label": "For mild cases (under half the leaves affected)",
+            "severity": "mild",
             "steps": [
               {
                 "num": 1,
@@ -1210,6 +1219,7 @@
           },
           {
             "label": "For severe cases",
+            "severity": "severe",
             "steps": [
               {
                 "num": 1,
@@ -1418,6 +1428,7 @@
         "groups": [
           {
             "label": "For mild cases (just yellowing)",
+            "severity": "mild",
             "steps": [
               {
                 "num": 1,
@@ -1447,6 +1458,7 @@
           },
           {
             "label": "For severe cases (blackening, rotting)",
+            "severity": "severe",
             "steps": [
               {
                 "num": 1,
@@ -1999,6 +2011,7 @@
         "groups": [
           {
             "label": "For mild cases",
+            "severity": "mild",
             "steps": [
               {
                 "num": 1,
@@ -2028,6 +2041,7 @@
           },
           {
             "label": "For severe cases (>50% affected)",
+            "severity": "severe",
             "steps": [
               {
                 "num": 1,
@@ -2508,6 +2522,7 @@
         "groups": [
           {
             "label": "For mild cases",
+            "severity": "mild",
             "steps": [
               {
                 "num": 1,
@@ -2529,6 +2544,7 @@
           },
           {
             "label": "For severe cases (many holes, leaf drop)",
+            "severity": "severe",
             "steps": [
               {
                 "num": 1,
@@ -2610,6 +2626,7 @@
         "groups": [
           {
             "label": "For mild or isolated cases",
+            "severity": "mild",
             "steps": [
               {
                 "num": 1,
@@ -2983,6 +3000,7 @@
         "groups": [
           {
             "label": "For mild cases",
+            "severity": "mild",
             "steps": [
               {
                 "num": 1,
@@ -3012,6 +3030,7 @@
           },
           {
             "label": "For severe cases",
+            "severity": "severe",
             "steps": [
               {
                 "num": 1,
@@ -3246,6 +3265,7 @@
         "groups": [
           {
             "label": "For mild cases",
+            "severity": "mild",
             "steps": [
               {
                 "num": 1,
@@ -3267,6 +3287,7 @@
           },
           {
             "label": "For severe cases",
+            "severity": "severe",
             "steps": [
               {
                 "num": 1,
@@ -3356,6 +3377,7 @@
         "groups": [
           {
             "label": "For mild cases",
+            "severity": "mild",
             "steps": [
               {
                 "num": 1,
@@ -3377,6 +3399,7 @@
           },
           {
             "label": "For severe cases",
+            "severity": "severe",
             "steps": [
               {
                 "num": 1,
@@ -3507,6 +3530,7 @@
         "groups": [
           {
             "label": "For mild cases",
+            "severity": "mild",
             "steps": [
               {
                 "num": 1,
@@ -3528,6 +3552,7 @@
           },
           {
             "label": "For severe cases",
+            "severity": "severe",
             "steps": [
               {
                 "num": 1,
@@ -3634,6 +3659,7 @@
         "groups": [
           {
             "label": "For mild cases",
+            "severity": "mild",
             "steps": [
               {
                 "num": 1,
@@ -3655,6 +3681,7 @@
           },
           {
             "label": "For severe cases",
+            "severity": "severe",
             "steps": [
               {
                 "num": 1,
@@ -3766,6 +3793,7 @@
         "groups": [
           {
             "label": "For mild cases",
+            "severity": "mild",
             "steps": [
               {
                 "num": 1,
@@ -3787,6 +3815,7 @@
           },
           {
             "label": "For severe cases",
+            "severity": "severe",
             "steps": [
               {
                 "num": 1,
@@ -3899,6 +3928,7 @@
         "groups": [
           {
             "label": "For mild cases",
+            "severity": "mild",
             "steps": [
               {
                 "num": 1,
@@ -3920,6 +3950,7 @@
           },
           {
             "label": "For severe cases",
+            "severity": "severe",
             "steps": [
               {
                 "num": 1,
@@ -4015,6 +4046,7 @@
         "groups": [
           {
             "label": "For severe infestations on young saplings",
+            "severity": "severe",
             "steps": [
               {
                 "num": 1,
@@ -4181,6 +4213,7 @@
         "groups": [
           {
             "label": "For mild cases",
+            "severity": "mild",
             "steps": [
               {
                 "num": 1,
@@ -4210,6 +4243,7 @@
           },
           {
             "label": "For severe cases",
+            "severity": "severe",
             "steps": [
               {
                 "num": 1,
@@ -4303,6 +4337,7 @@
         "groups": [
           {
             "label": "For mild cases",
+            "severity": "mild",
             "steps": [
               {
                 "num": 1,
@@ -4324,6 +4359,7 @@
           },
           {
             "label": "For severe cases",
+            "severity": "severe",
             "steps": [
               {
                 "num": 1,
@@ -4437,6 +4473,7 @@
         "groups": [
           {
             "label": "For mild cases",
+            "severity": "mild",
             "steps": [
               {
                 "num": 1,
@@ -4458,6 +4495,7 @@
           },
           {
             "label": "For severe cases",
+            "severity": "severe",
             "steps": [
               {
                 "num": 1,
@@ -4658,6 +4696,7 @@
         "groups": [
           {
             "label": "For mild cases",
+            "severity": "mild",
             "steps": [
               {
                 "num": 1,
@@ -4679,6 +4718,7 @@
           },
           {
             "label": "For severe cases",
+            "severity": "severe",
             "steps": [
               {
                 "num": 1,
@@ -4758,6 +4798,7 @@
         "groups": [
           {
             "label": "For mild cases",
+            "severity": "mild",
             "steps": [
               {
                 "num": 1,
@@ -4771,6 +4812,7 @@
           },
           {
             "label": "For severe cases",
+            "severity": "severe",
             "steps": [
               {
                 "num": 1,
@@ -4860,6 +4902,7 @@
         "groups": [
           {
             "label": "For mild cases",
+            "severity": "mild",
             "steps": [
               {
                 "num": 1,
@@ -4881,6 +4924,7 @@
           },
           {
             "label": "For severe cases",
+            "severity": "severe",
             "steps": [
               {
                 "num": 1,
@@ -5426,6 +5470,7 @@
         "groups": [
           {
             "label": "For mild infection (one stem or section affected)",
+            "severity": "mild",
             "steps": [
               {
                 "num": 1,
@@ -8355,6 +8400,7 @@
         "groups": [
           {
             "label": "For mild cases",
+            "severity": "mild",
             "steps": [
               {
                 "num": 1,
@@ -8384,6 +8430,7 @@
           },
           {
             "label": "For severe cases",
+            "severity": "severe",
             "steps": [
               {
                 "num": 1,
