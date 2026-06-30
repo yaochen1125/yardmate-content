@@ -30,6 +30,8 @@ FILES=(
   explore_themes.json
   stories.json
   diseases.json
+  privacy_policy.json
+  terms_of_use.json
   version.txt
 )
 LUNAR_DIR="lunar_emotional_fortunes"
@@ -95,6 +97,14 @@ elif [[ -n "$(git status --porcelain -- "${FILES[@]}" "${LUNAR_DIR}" i18n)" ]]; 
   git push
 else
   echo "    no content changes to push"
+fi
+
+# 同步官网法律页静态兜底：从刚发布的 CDN 源（privacy_policy/terms_of_use.json）重生成
+# privacy.html / terms.html 并部署，保证无 JS / SEO 看到的静态正文与 CDN 不漂移。
+LEGAL_SYNC="$(dirname "$0")/../yardmate-website/deploy_legal.sh"
+if [[ -x "$LEGAL_SYNC" ]]; then
+  echo "==> Syncing website legal static fallback"
+  if [[ $DRY_RUN -eq 1 ]]; then echo "[dry-run] $LEGAL_SYNC"; else "$LEGAL_SYNC"; fi
 fi
 
 echo "==> Done."
