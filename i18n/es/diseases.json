@@ -3,7 +3,7 @@
   "locale": "es",
   "source": {
     "resource": "diseases.json",
-    "sha256": "41126fad245c663221405bac99a4b1ad80d740dda790d7c153fb0c2990701823"
+    "sha256": "0bf8cfb6cc131c3183efeb4bbf453b9dd9eae1be645e2e69dc47234445a2d0b8"
   },
   "fields": {
     "categories": {
@@ -28,7 +28,7 @@
     },
     "diseases": {
       "FL01": {
-        "name": "Podredumbre de las flores",
+        "name": "Pudrición de la flor",
         "prevention": {
           "groups": [
             {
@@ -85,7 +85,7 @@
         }
       },
       "FL02": {
-        "name": "Flor marchita",
+        "name": "Marchitamiento de la flor",
         "prevention": {
           "groups": [
             {
@@ -196,7 +196,7 @@
         }
       },
       "FL04": {
-        "name": "Caída de brotes",
+        "name": "Caída de botones florales",
         "prevention": {
           "groups": [
             {
@@ -249,7 +249,7 @@
         }
       },
       "FL05": {
-        "name": "Moho de pétalos",
+        "name": "Tizón de los pétalos",
         "prevention": {
           "groups": [
             {
@@ -297,7 +297,7 @@
         }
       },
       "FL06": {
-        "name": "Fallo en florecer",
+        "name": "Ausencia de floración",
         "prevention": {
           "groups": [
             {
@@ -343,7 +343,7 @@
         }
       },
       "FL07": {
-        "name": "Budas manchadas",
+        "name": "Capullos manchados",
         "prevention": {
           "groups": [
             {
@@ -397,7 +397,7 @@
         }
       },
       "FR01": {
-        "name": "Punto de fruta",
+        "name": "Mancha del fruto",
         "prevention": {
           "groups": [
             {
@@ -445,7 +445,7 @@
         }
       },
       "FR02": {
-        "name": "Podredumbre de frutas",
+        "name": "Pudrición del fruto",
         "prevention": {
           "groups": [
             {
@@ -505,7 +505,7 @@
         }
       },
       "FR03": {
-        "name": "Deformidad de la fruta",
+        "name": "Deformación del fruto",
         "prevention": {
           "groups": [
             {
@@ -552,7 +552,7 @@
         }
       },
       "FR04": {
-        "name": "Fruta marchita",
+        "name": "Marchitamiento del fruto",
         "prevention": {
           "groups": [
             {
@@ -616,7 +616,7 @@
             ]
           }
         ],
-        "name": "Moho en la fruta",
+        "name": "Moho en el fruto",
         "prevention": {
           "groups": [
             {
@@ -691,7 +691,7 @@
             ]
           }
         ],
-        "name": "Moho gris en frutas",
+        "name": "Oídio en el fruto",
         "prevention": {
           "groups": [
             {
@@ -736,7 +736,7 @@
         }
       },
       "FR07": {
-        "name": "Rompiendo frutas",
+        "name": "Agrietamiento del fruto",
         "prevention": {
           "groups": [
             {
@@ -748,7 +748,7 @@
                   "title": "Cubra el suelo con una capa gruesa de mantillo para uniformar la humedad del suelo."
                 },
                 {
-                  "title": "Compra variedades resistentes a la grieta (e"
+                  "title": "Compre variedades resistentes al agrietamiento"
                 },
                 {
                   "title": "Cosechar justo antes de la madurez máxima si se pronostica lluvia fuerte"
@@ -800,7 +800,7 @@
             ]
           }
         ],
-        "name": "Mancha marrón",
+        "name": "Mancha parda",
         "prevention": {
           "groups": [
             {
@@ -860,7 +860,7 @@
         }
       },
       "L02": {
-        "name": "punto negro",
+        "name": "Mancha negra",
         "prevention": {
           "groups": [
             {
@@ -917,7 +917,7 @@
         }
       },
       "L03": {
-        "name": "Moho de las hojas y quemaduras",
+        "name": "Tizón y quemadura foliar",
         "prevention": {
           "groups": [
             {
@@ -1036,7 +1036,7 @@
         }
       },
       "L05": {
-        "name": "Mancha angular de la hoja",
+        "name": "Mancha angular",
         "prevention": {
           "groups": [
             {
@@ -1111,7 +1111,7 @@
             ]
           }
         ],
-        "name": "mancha foliar",
+        "name": "Mancha foliar",
         "prevention": {
           "groups": [
             {
@@ -1168,7 +1168,7 @@
         }
       },
       "L07": {
-        "name": "Amarillamiento por falta de riego",
+        "name": "Amarilleo por falta de riego",
         "prevention": {
           "groups": [
             {
@@ -1211,7 +1211,7 @@
         }
       },
       "L08": {
-        "name": "Inundación por exceso de agua",
+        "name": "Encharcamiento",
         "prevention": {
           "groups": [
             {
@@ -1271,7 +1271,7 @@
         }
       },
       "L09": {
-        "name": "Amarillo envejecido y seco",
+        "name": "Amarilleo y sequedad por envejecimiento",
         "shortDescription": "Unas pocas hojas basales amarillentas en una planta sana",
         "symptomAnalysis": "Este es el envejecimiento normal. Las plantas desechan sus hojas más antiguas periódicamente. El amarilleamiento limitado a las hojas más bajas de una planta de por sí sana, sin manchas, plagas, oscurecimiento ni efecto generalizado, significa que la planta simplemente está rotando su follaje.\n\nSe diferencia de la falta de riego: el amarilleamiento seco solo afecta a 1-3 hojas más bajas a la vez, y las sustituciones crecen normalmente por encima. La falta de riego amarilla muchas hojas a la vez y el suelo está seco hasta el segundo nudillo.",
         "treatment": {
@@ -1335,7 +1335,7 @@
         }
       },
       "L11": {
-        "name": "carencia de hierro",
+        "name": "Deficiencia de hierro",
         "prevention": {
           "groups": [
             {
@@ -1380,7 +1380,7 @@
         }
       },
       "L12": {
-        "name": "Clorosis venosa",
+        "name": "Clorosis de las nervaduras",
         "prevention": {
           "groups": [
             {
@@ -1483,7 +1483,7 @@
         }
       },
       "L14": {
-        "name": "Moho bacteriano de las hojas",
+        "name": "Pudrición bacteriana de la hoja",
         "prevention": {
           "groups": [
             {
@@ -1546,7 +1546,7 @@
         }
       },
       "L15": {
-        "name": "Deformidad de la hoja",
+        "name": "Deformación foliar",
         "prevention": {
           "groups": [
             {
@@ -1596,7 +1596,7 @@
         }
       },
       "L16": {
-        "name": "Gallo de hoja",
+        "name": "Agalla foliar",
         "prevention": {
           "groups": [
             {
@@ -1654,7 +1654,7 @@
         }
       },
       "L17": {
-        "name": "Baja humedad",
+        "name": "Humedad baja",
         "prevention": {
           "groups": [
             {
@@ -1693,7 +1693,7 @@
         }
       },
       "L18": {
-        "name": "Rollo de hojas de melocotón",
+        "name": "Lepra del melocotonero",
         "prevention": {
           "groups": [
             {
@@ -1702,7 +1702,7 @@
                   "title": "Aplicar fungicida de cobre"
                 },
                 {
-                  "title": "Comprar variedades resistentes (e"
+                  "title": "Compre variedades resistentes"
                 },
                 {
                   "title": "Raspar las hojas caídas"
@@ -1732,7 +1732,7 @@
         }
       },
       "L19": {
-        "name": "Enfermedad de agujero de bal",
+        "name": "Cribado",
         "prevention": {
           "groups": [
             {
@@ -1829,7 +1829,7 @@
             ]
           }
         ],
-        "name": "Moho gris",
+        "name": "Oídio",
         "prevention": {
           "groups": [
             {
@@ -1886,7 +1886,7 @@
         }
       },
       "L21": {
-        "name": "Moho ceniciento",
+        "name": "Fumagina",
         "prevention": {
           "groups": [
             {
@@ -1930,7 +1930,7 @@
         }
       },
       "L22": {
-        "name": "óxido",
+        "name": "Roya",
         "prevention": {
           "groups": [
             {
@@ -1997,7 +1997,7 @@
             ]
           }
         ],
-        "name": "Moho gris (botrytis)",
+        "name": "Moho gris (botritis)",
         "prevention": {
           "groups": [
             {
@@ -2060,7 +2060,7 @@
         }
       },
       "L24": {
-        "name": "Daño por succionamiento de savia",
+        "name": "Daño por insectos chupadores",
         "prevention": {
           "groups": [
             {
@@ -2106,7 +2106,7 @@
         }
       },
       "P01": {
-        "name": "Mariposas monarca",
+        "name": "Orugas",
         "prevention": {
           "groups": [
             {
@@ -2172,7 +2172,7 @@
             ]
           }
         ],
-        "name": "Áfidos",
+        "name": "Pulgones",
         "prevention": {
           "groups": [
             {
@@ -2247,7 +2247,7 @@
             ]
           }
         ],
-        "name": "Insectos pulgones",
+        "name": "Cochinillas",
         "prevention": {
           "groups": [
             {
@@ -2298,7 +2298,7 @@
         }
       },
       "P04": {
-        "name": "Pulgas de la miel",
+        "name": "Cochinillas algodonosas",
         "prevention": {
           "groups": [
             {
@@ -2373,7 +2373,7 @@
             ]
           }
         ],
-        "name": "Acariótidos de araña",
+        "name": "Araña roja",
         "prevention": {
           "groups": [
             {
@@ -2427,7 +2427,7 @@
         }
       },
       "P06": {
-        "name": "Coccinilos de hojas",
+        "name": "Escarabajos de las hojas",
         "prevention": {
           "groups": [
             {
@@ -2481,7 +2481,7 @@
         }
       },
       "P07": {
-        "name": "Gusanos de hojas",
+        "name": "Gorgojos",
         "prevention": {
           "groups": [
             {
@@ -2521,7 +2521,7 @@
         }
       },
       "P08": {
-        "name": "Bichos de Longhorn",
+        "name": "Escarabajos longicornios",
         "prevention": {
           "groups": [
             {
@@ -2564,7 +2564,7 @@
         }
       },
       "P09": {
-        "name": "Caracoles y escarabajos",
+        "name": "Babosas y caracoles",
         "prevention": {
           "groups": [
             {
@@ -2631,7 +2631,7 @@
             ]
           }
         ],
-        "name": "Tripas",
+        "name": "Trips",
         "prevention": {
           "groups": [
             {
@@ -2702,7 +2702,7 @@
             ]
           }
         ],
-        "name": "Insectos de encaje",
+        "name": "Chinches de encaje",
         "prevention": {
           "groups": [
             {
@@ -2759,7 +2759,7 @@
         }
       },
       "P12": {
-        "name": "Saltamontes",
+        "name": "Saltahojas (cicadélidos)",
         "prevention": {
           "groups": [
             {
@@ -2801,7 +2801,7 @@
         }
       },
       "P13": {
-        "name": "Polillas Tortrix",
+        "name": "Polillas enrolladoras",
         "prevention": {
           "groups": [
             {
@@ -2852,7 +2852,7 @@
         }
       },
       "P14": {
-        "name": "Mineros de hojas",
+        "name": "Minadores de hojas",
         "prevention": {
           "groups": [
             {
@@ -2903,7 +2903,7 @@
         }
       },
       "P15": {
-        "name": "Mosquitos blancos",
+        "name": "Moscas blancas",
         "prevention": {
           "groups": [
             {
@@ -2960,7 +2960,7 @@
         }
       },
       "P16": {
-        "name": "Mosquitos de hongos (adultos)",
+        "name": "Mosquitos del sustrato (adultos)",
         "prevention": {
           "groups": [
             {
@@ -3022,7 +3022,7 @@
             ]
           }
         ],
-        "name": "Moho de las raíces",
+        "name": "Pudrición de la raíz",
         "prevention": {
           "groups": [
             {
@@ -3082,7 +3082,7 @@
         }
       },
       "R02": {
-        "name": "Deformidad de la raíz",
+        "name": "Deformación de la raíz",
         "prevention": {
           "groups": [
             {
@@ -3154,7 +3154,7 @@
           },
           null
         ],
-        "name": "Moho en el suelo",
+        "name": "Moho en el sustrato",
         "prevention": {
           "groups": [
             {
@@ -3199,7 +3199,7 @@
         }
       },
       "R04": {
-        "name": "Raíces atadas al recipiente",
+        "name": "Raíces apelmazadas",
         "prevention": {
           "groups": [
             {
@@ -3249,7 +3249,7 @@
         }
       },
       "R05": {
-        "name": "Acumulación de sal",
+        "name": "Acumulación de sales",
         "prevention": {
           "groups": [
             {
@@ -3314,7 +3314,7 @@
           null,
           null
         ],
-        "name": "Aislamiento térmico",
+        "name": "Mal de almácigo (damping-off)",
         "prevention": {
           "groups": [
             {
@@ -3381,7 +3381,7 @@
           },
           null
         ],
-        "name": "Larvas de mosca de hongos",
+        "name": "Larvas de mosquito del sustrato",
         "prevention": {
           "groups": [
             {
@@ -3427,7 +3427,7 @@
         }
       },
       "ST01": {
-        "name": "Deshaciéndose",
+        "name": "Marchitez",
         "prevention": {
           "groups": [
             {
@@ -3487,7 +3487,7 @@
         }
       },
       "ST02": {
-        "name": "Moho de brotes",
+        "name": "Tizón de ramillas",
         "prevention": {
           "groups": [
             {
@@ -3535,7 +3535,7 @@
         }
       },
       "ST03": {
-        "name": "muerte regresiva",
+        "name": "Muerte regresiva",
         "prevention": {
           "groups": [
             {
@@ -3590,7 +3590,7 @@
         }
       },
       "ST04": {
-        "name": "Moho en el tallo (moho blando)",
+        "name": "Pudrición del tallo (blanda)",
         "prevention": {
           "groups": [
             {
@@ -3651,7 +3651,7 @@
         }
       },
       "ST05": {
-        "name": "Canker",
+        "name": "Chancros",
         "prevention": {
           "groups": [
             {
@@ -3700,7 +3700,7 @@
         }
       },
       "ST06": {
-        "name": "Quemadura solar en la corteza",
+        "name": "Asoleo de la corteza",
         "prevention": {
           "groups": [
             {
@@ -3747,7 +3747,7 @@
         }
       },
       "ST07": {
-        "name": "Escoba de brujas",
+        "name": "Escoba de bruja",
         "prevention": {
           "groups": [
             {
@@ -3798,7 +3798,7 @@
         }
       },
       "ST08": {
-        "name": "Cáliz",
+        "name": "Agalla del cuello",
         "prevention": {
           "groups": [
             {
@@ -3850,7 +3850,7 @@
         }
       },
       "ST09": {
-        "name": "Heridas de tallo",
+        "name": "Cicatrices del tallo",
         "prevention": {
           "groups": [
             {

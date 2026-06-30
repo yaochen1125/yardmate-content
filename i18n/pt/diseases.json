@@ -3,7 +3,7 @@
   "locale": "pt",
   "source": {
     "resource": "diseases.json",
-    "sha256": "41126fad245c663221405bac99a4b1ad80d740dda790d7c153fb0c2990701823"
+    "sha256": "0bf8cfb6cc131c3183efeb4bbf453b9dd9eae1be645e2e69dc47234445a2d0b8"
   },
   "fields": {
     "categories": {
@@ -28,7 +28,7 @@
     },
     "diseases": {
       "FL01": {
-        "name": "Podridão de flores",
+        "name": "Podridão da flor",
         "prevention": {
           "groups": [
             {
@@ -85,7 +85,7 @@
         }
       },
       "FL02": {
-        "name": "Flor murchando",
+        "name": "Murchamento da flor",
         "prevention": {
           "groups": [
             {
@@ -196,7 +196,7 @@
         }
       },
       "FL04": {
-        "name": "Caída de brotos",
+        "name": "Queda de botões florais",
         "prevention": {
           "groups": [
             {
@@ -249,7 +249,7 @@
         }
       },
       "FL05": {
-        "name": "Morte de pétalas",
+        "name": "Queima das pétalas",
         "prevention": {
           "groups": [
             {
@@ -297,7 +297,7 @@
         }
       },
       "FL06": {
-        "name": "Falha em florescer",
+        "name": "Ausência de floração",
         "prevention": {
           "groups": [
             {
@@ -397,7 +397,7 @@
         }
       },
       "FR01": {
-        "name": "Ponto de fruta",
+        "name": "Mancha do fruto",
         "prevention": {
           "groups": [
             {
@@ -445,7 +445,7 @@
         }
       },
       "FR02": {
-        "name": "Podridão de frutas",
+        "name": "Podridão do fruto",
         "prevention": {
           "groups": [
             {
@@ -505,7 +505,7 @@
         }
       },
       "FR03": {
-        "name": "Deformidade da fruta",
+        "name": "Deformação do fruto",
         "prevention": {
           "groups": [
             {
@@ -552,7 +552,7 @@
         }
       },
       "FR04": {
-        "name": "Fruta murchando",
+        "name": "Murchamento do fruto",
         "prevention": {
           "groups": [
             {
@@ -616,7 +616,7 @@
             ]
           }
         ],
-        "name": "Mofo em frutas",
+        "name": "Mofo no fruto",
         "prevention": {
           "groups": [
             {
@@ -691,7 +691,7 @@
             ]
           }
         ],
-        "name": "Mofo fofo em frutas",
+        "name": "Oídio no fruto",
         "prevention": {
           "groups": [
             {
@@ -736,7 +736,7 @@
         }
       },
       "FR07": {
-        "name": "Quebra de frutas",
+        "name": "Rachadura do fruto",
         "prevention": {
           "groups": [
             {
@@ -748,7 +748,7 @@
                   "title": "Cubra com cascalho pesado para uniformizar a umidade do solo"
                 },
                 {
-                  "title": "Compre variedades resistentes à rachadura (e"
+                  "title": "Compre variedades resistentes a rachaduras"
                 },
                 {
                   "title": "Colheita logo antes da maturidade máxima se a previsão de chuva forte for feita"
@@ -800,7 +800,7 @@
             ]
           }
         ],
-        "name": "Ponta marrom",
+        "name": "Mancha parda",
         "prevention": {
           "groups": [
             {
@@ -860,7 +860,7 @@
         }
       },
       "L02": {
-        "name": "ponto negro",
+        "name": "Mancha preta",
         "prevention": {
           "groups": [
             {
@@ -917,7 +917,7 @@
         }
       },
       "L03": {
-        "name": "Morte de folhas e queimaduras",
+        "name": "Queima e crestamento foliar",
         "prevention": {
           "groups": [
             {
@@ -1036,7 +1036,7 @@
         }
       },
       "L05": {
-        "name": "Mancha angular da folha",
+        "name": "Mancha angular",
         "prevention": {
           "groups": [
             {
@@ -1111,7 +1111,7 @@
             ]
           }
         ],
-        "name": "Mancha na folha",
+        "name": "Mancha foliar",
         "prevention": {
           "groups": [
             {
@@ -1168,7 +1168,7 @@
         }
       },
       "L07": {
-        "name": "Amarelamento por falta de água",
+        "name": "Amarelecimento por falta de água",
         "prevention": {
           "groups": [
             {
@@ -1271,7 +1271,7 @@
         }
       },
       "L09": {
-        "name": "Amarelado envelhecido e seco",
+        "name": "Amarelecimento e secura por senescência",
         "shortDescription": "Algumas folhas basais amarelando em uma planta saudável",
         "symptomAnalysis": "Este é o envelhecimento normal. As plantas descartam suas folhas mais velhas periodicamente. Amarelamento limitado às folhas mais baixas de uma planta de outra forma saudável - sem manchas, sem pragas, sem escurecimento, sem efeito generalizado - significa que a planta está simplesmente rolando suas folhas.\n\nDistingue-se da podridão subaquática: o amarelamento seco afeta apenas 1 a 3 folhas mais baixas de cada vez, e as substituições crescem normalmente acima. A podridão subaquática amarelamento muitas folhas de uma só vez e o solo fica seco até o segundo dedo do punho.",
         "treatment": {
@@ -1380,7 +1380,7 @@
         }
       },
       "L12": {
-        "name": "Clorose venosa",
+        "name": "Clorose das nervuras",
         "prevention": {
           "groups": [
             {
@@ -1483,7 +1483,7 @@
         }
       },
       "L14": {
-        "name": "Morte bacteriana das folhas",
+        "name": "Podridão bacteriana da folha",
         "prevention": {
           "groups": [
             {
@@ -1546,7 +1546,7 @@
         }
       },
       "L15": {
-        "name": "Deformidade da folha",
+        "name": "Deformação foliar",
         "prevention": {
           "groups": [
             {
@@ -1596,7 +1596,7 @@
         }
       },
       "L16": {
-        "name": "Galo de folha",
+        "name": "Galha foliar",
         "prevention": {
           "groups": [
             {
@@ -1654,7 +1654,7 @@
         }
       },
       "L17": {
-        "name": "Baixa umidade",
+        "name": "Umidade muito baixa",
         "prevention": {
           "groups": [
             {
@@ -1693,7 +1693,7 @@
         }
       },
       "L18": {
-        "name": "Curl de folha de pêssego",
+        "name": "Crespeira do pessegueiro",
         "prevention": {
           "groups": [
             {
@@ -1702,7 +1702,7 @@
                   "title": "Aplique fungicida de cobre"
                 },
                 {
-                  "title": "Compre variedades resistentes (e"
+                  "title": "Compre variedades resistentes"
                 },
                 {
                   "title": "Arrumar as folhas caídas"
@@ -1732,7 +1732,7 @@
         }
       },
       "L19": {
-        "name": "Doença do buraco de tiro",
+        "name": "Crivado",
         "prevention": {
           "groups": [
             {
@@ -1829,7 +1829,7 @@
             ]
           }
         ],
-        "name": "Mofo fofo",
+        "name": "Oídio",
         "prevention": {
           "groups": [
             {
@@ -1886,7 +1886,7 @@
         }
       },
       "L21": {
-        "name": "Mofo cinza",
+        "name": "Fumagina",
         "prevention": {
           "groups": [
             {
@@ -1930,7 +1930,7 @@
         }
       },
       "L22": {
-        "name": "ferrugem",
+        "name": "Ferrugem",
         "prevention": {
           "groups": [
             {
@@ -1997,7 +1997,7 @@
             ]
           }
         ],
-        "name": "Mofo cinza (botrytis)",
+        "name": "Mofo cinzento (botrite)",
         "prevention": {
           "groups": [
             {
@@ -2060,7 +2060,7 @@
         }
       },
       "L24": {
-        "name": "Danos por sucção de xarope",
+        "name": "Danos por insetos sugadores",
         "prevention": {
           "groups": [
             {
@@ -2106,7 +2106,7 @@
         }
       },
       "P01": {
-        "name": "Lagartijas",
+        "name": "Lagartas",
         "prevention": {
           "groups": [
             {
@@ -2172,7 +2172,7 @@
             ]
           }
         ],
-        "name": "Aphídios",
+        "name": "Pulgões",
         "prevention": {
           "groups": [
             {
@@ -2247,7 +2247,7 @@
             ]
           }
         ],
-        "name": "Insetos pulgões",
+        "name": "Cochonilhas",
         "prevention": {
           "groups": [
             {
@@ -2298,7 +2298,7 @@
         }
       },
       "P04": {
-        "name": "Lagartijas de mel",
+        "name": "Cochonilhas-farinhentas",
         "prevention": {
           "groups": [
             {
@@ -2373,7 +2373,7 @@
             ]
           }
         ],
-        "name": "Mites aranha",
+        "name": "Ácaros-aranha",
         "prevention": {
           "groups": [
             {
@@ -2427,7 +2427,7 @@
         }
       },
       "P06": {
-        "name": "Lagartijas de folhas",
+        "name": "Besouros-das-folhas",
         "prevention": {
           "groups": [
             {
@@ -2481,7 +2481,7 @@
         }
       },
       "P07": {
-        "name": "Vespas de folhas",
+        "name": "Gorgulhos",
         "prevention": {
           "groups": [
             {
@@ -2521,7 +2521,7 @@
         }
       },
       "P08": {
-        "name": "Besouros Longhorn",
+        "name": "Serra-paus (cerambicídeos)",
         "prevention": {
           "groups": [
             {
@@ -2564,7 +2564,7 @@
         }
       },
       "P09": {
-        "name": "Lagartixas e caracóis",
+        "name": "Lesmas e caracóis",
         "prevention": {
           "groups": [
             {
@@ -2631,7 +2631,7 @@
             ]
           }
         ],
-        "name": "Tripas",
+        "name": "Tripes",
         "prevention": {
           "groups": [
             {
@@ -2702,7 +2702,7 @@
             ]
           }
         ],
-        "name": "Insetos de renda",
+        "name": "Percevejos-de-renda",
         "prevention": {
           "groups": [
             {
@@ -2759,7 +2759,7 @@
         }
       },
       "P12": {
-        "name": "Lagartijas de folhas",
+        "name": "Cigarrinhas",
         "prevention": {
           "groups": [
             {
@@ -2801,7 +2801,7 @@
         }
       },
       "P13": {
-        "name": "Traças Tortrix",
+        "name": "Traças-enroladeiras",
         "prevention": {
           "groups": [
             {
@@ -2852,7 +2852,7 @@
         }
       },
       "P14": {
-        "name": "Minadores de folhas",
+        "name": "Minadores-das-folhas",
         "prevention": {
           "groups": [
             {
@@ -2903,7 +2903,7 @@
         }
       },
       "P15": {
-        "name": "Mosquitos brancos",
+        "name": "Moscas-brancas",
         "prevention": {
           "groups": [
             {
@@ -2960,7 +2960,7 @@
         }
       },
       "P16": {
-        "name": "Mosquitos funginosos (adultos)",
+        "name": "Mosquitos-dos-fungos (adultos)",
         "prevention": {
           "groups": [
             {
@@ -3022,7 +3022,7 @@
             ]
           }
         ],
-        "name": "Murcha das raízes",
+        "name": "Podridão da raiz",
         "prevention": {
           "groups": [
             {
@@ -3082,7 +3082,7 @@
         }
       },
       "R02": {
-        "name": "Deformidade da raiz",
+        "name": "Deformação da raiz",
         "prevention": {
           "groups": [
             {
@@ -3154,7 +3154,7 @@
           },
           null
         ],
-        "name": "Mofo no solo",
+        "name": "Mofo no substrato",
         "prevention": {
           "groups": [
             {
@@ -3199,7 +3199,7 @@
         }
       },
       "R04": {
-        "name": "Raízes ligadas ao vaso",
+        "name": "Raízes enoveladas",
         "prevention": {
           "groups": [
             {
@@ -3249,7 +3249,7 @@
         }
       },
       "R05": {
-        "name": "Acumulação de sal",
+        "name": "Acúmulo de sais",
         "prevention": {
           "groups": [
             {
@@ -3314,7 +3314,7 @@
           null,
           null
         ],
-        "name": "Apoio",
+        "name": "Tombamento",
         "prevention": {
           "groups": [
             {
@@ -3381,7 +3381,7 @@
           },
           null
         ],
-        "name": "Larvas de pulgas de fungo",
+        "name": "Larvas de mosquito-dos-fungos",
         "prevention": {
           "groups": [
             {
@@ -3427,7 +3427,7 @@
         }
       },
       "ST01": {
-        "name": "Envelhecendo",
+        "name": "Murcha",
         "prevention": {
           "groups": [
             {
@@ -3487,7 +3487,7 @@
         }
       },
       "ST02": {
-        "name": "Morte de galhos",
+        "name": "Queima dos ramos",
         "prevention": {
           "groups": [
             {
@@ -3535,7 +3535,7 @@
         }
       },
       "ST03": {
-        "name": "Morte de folhas",
+        "name": "Morte descendente",
         "prevention": {
           "groups": [
             {
@@ -3590,7 +3590,7 @@
         }
       },
       "ST04": {
-        "name": "Murcha do caule (murcha macia)",
+        "name": "Podridão do caule (mole)",
         "prevention": {
           "groups": [
             {
@@ -3651,7 +3651,7 @@
         }
       },
       "ST05": {
-        "name": "Cânceres",
+        "name": "Cancros",
         "prevention": {
           "groups": [
             {
@@ -3700,7 +3700,7 @@
         }
       },
       "ST06": {
-        "name": "Queimadura solar na casca",
+        "name": "Escaldadura da casca",
         "prevention": {
           "groups": [
             {
@@ -3747,7 +3747,7 @@
         }
       },
       "ST07": {
-        "name": "Varinha de bruxa",
+        "name": "Vassoura-de-bruxa",
         "prevention": {
           "groups": [
             {
@@ -3798,7 +3798,7 @@
         }
       },
       "ST08": {
-        "name": "Câncro da coroa",
+        "name": "Galha-da-coroa",
         "prevention": {
           "groups": [
             {
@@ -3850,7 +3850,7 @@
         }
       },
       "ST09": {
-        "name": "Cicatrizes de raiz",
+        "name": "Cicatrizes no caule",
         "prevention": {
           "groups": [
             {

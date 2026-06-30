@@ -3,7 +3,7 @@
   "locale": "de",
   "source": {
     "resource": "diseases.json",
-    "sha256": "41126fad245c663221405bac99a4b1ad80d740dda790d7c153fb0c2990701823"
+    "sha256": "0bf8cfb6cc131c3183efeb4bbf453b9dd9eae1be645e2e69dc47234445a2d0b8"
   },
   "fields": {
     "categories": {
@@ -28,7 +28,7 @@
     },
     "diseases": {
       "FL01": {
-        "name": "Blumenfäule",
+        "name": "Blütenfäule",
         "prevention": {
           "groups": [
             {
@@ -85,7 +85,7 @@
         }
       },
       "FL02": {
-        "name": "Blume verwelken",
+        "name": "Blütenwelke",
         "prevention": {
           "groups": [
             {
@@ -139,7 +139,7 @@
         }
       },
       "FL03": {
-        "name": "Verblühende Blumen",
+        "name": "Welkende Blüten",
         "prevention": {
           "groups": [
             {
@@ -196,7 +196,7 @@
         }
       },
       "FL04": {
-        "name": "Knospenabfall",
+        "name": "Knospenfall",
         "prevention": {
           "groups": [
             {
@@ -249,7 +249,7 @@
         }
       },
       "FL05": {
-        "name": "Blütenfleckkrankheit",
+        "name": "Blütenblattbrand",
         "prevention": {
           "groups": [
             {
@@ -297,7 +297,7 @@
         }
       },
       "FL06": {
-        "name": "Nicht blühen",
+        "name": "Ausbleibende Blüte",
         "prevention": {
           "groups": [
             {
@@ -343,7 +343,7 @@
         }
       },
       "FL07": {
-        "name": "Befleckte Knospen",
+        "name": "Gefleckte Knospen",
         "prevention": {
           "groups": [
             {
@@ -397,7 +397,7 @@
         }
       },
       "FR01": {
-        "name": "Fruchtfleck",
+        "name": "Fruchtfleckenkrankheit",
         "prevention": {
           "groups": [
             {
@@ -505,7 +505,7 @@
         }
       },
       "FR03": {
-        "name": "Fruchtverformung",
+        "name": "Fruchtdeformation",
         "prevention": {
           "groups": [
             {
@@ -552,7 +552,7 @@
         }
       },
       "FR04": {
-        "name": "Fruchtverfall",
+        "name": "Fruchtwelke",
         "prevention": {
           "groups": [
             {
@@ -616,7 +616,7 @@
             ]
           }
         ],
-        "name": "Schimmel auf Obst",
+        "name": "Schimmel an Früchten",
         "prevention": {
           "groups": [
             {
@@ -691,7 +691,7 @@
             ]
           }
         ],
-        "name": "Pulveriger Mehltau auf Obst",
+        "name": "Echter Mehltau an Früchten",
         "prevention": {
           "groups": [
             {
@@ -736,7 +736,7 @@
         }
       },
       "FR07": {
-        "name": "Obstbrechen",
+        "name": "Fruchtrisse",
         "prevention": {
           "groups": [
             {
@@ -748,7 +748,7 @@
                   "title": "Mulchen Sie stark, um die Bodenfeuchtigkeit gleichmäßig zu verteilen"
                 },
                 {
-                  "title": "Kaufen Sie kratzfest resistente Sorten (z. B."
+                  "title": "Rissfeste Sorten kaufen"
                 },
                 {
                   "title": "Ernten Sie kurz vor der höchsten Reifegrad, wenn starker Regen vorhergesagt wird."
@@ -800,7 +800,7 @@
             ]
           }
         ],
-        "name": "Brauner Fleck",
+        "name": "Braunfleckenkrankheit",
         "prevention": {
           "groups": [
             {
@@ -860,7 +860,7 @@
         }
       },
       "L02": {
-        "name": "schwarzer Fleck",
+        "name": "Schwarzfleckenkrankheit",
         "prevention": {
           "groups": [
             {
@@ -917,7 +917,7 @@
         }
       },
       "L03": {
-        "name": "Blattflecken und Verbrennungen",
+        "name": "Blattbrand und -versengung",
         "prevention": {
           "groups": [
             {
@@ -1036,7 +1036,7 @@
         }
       },
       "L05": {
-        "name": "Eckige Blattflecken",
+        "name": "Eckige Blattfleckenkrankheit",
         "prevention": {
           "groups": [
             {
@@ -1111,7 +1111,7 @@
             ]
           }
         ],
-        "name": "Blattfleck",
+        "name": "Blattfleckenkrankheit",
         "prevention": {
           "groups": [
             {
@@ -1168,7 +1168,7 @@
         }
       },
       "L07": {
-        "name": "Gelbverfärbung durch Unterbewässerung",
+        "name": "Vergilbung durch Wassermangel",
         "prevention": {
           "groups": [
             {
@@ -1211,7 +1211,7 @@
         }
       },
       "L08": {
-        "name": "Wasserüberflutung",
+        "name": "Staunässe",
         "prevention": {
           "groups": [
             {
@@ -1271,7 +1271,7 @@
         }
       },
       "L09": {
-        "name": "Gelb veraltet und trocken",
+        "name": "Altersbedingte Vergilbung und Vertrocknung",
         "shortDescription": "Einige Basalblätter verblassen bei einer gesunden Pflanze",
         "symptomAnalysis": "Dies ist normales Altern. Pflanzen entsorgen ihre ältesten Blätter periodisch. Gelbwerden, das sich auf die niedrigsten Blätter einer ansonsten gesunden Pflanze beschränkt - ohne Flecken, keine Schädlinge, keine Verfärbung, keinen weit verbreiteten Effekt - bedeutet, dass die Pflanze einfach ihre Blätter rotiert.\n\nDifferenziert sich von Unterbewässerung: Trockengelbwerden betrifft nur 1-3 niedrigste Blätter gleichzeitig, und Ersatzpflanzen wachsen normal darüber. Unterbewässerung gelbt viele Blätter gleichzeitig und der Boden ist trocken bis zum zweiten Knöchel.",
         "treatment": {
@@ -1380,7 +1380,7 @@
         }
       },
       "L12": {
-        "name": "Venöse Chlorose",
+        "name": "Blattadern-Chlorose",
         "prevention": {
           "groups": [
             {
@@ -1426,7 +1426,7 @@
         }
       },
       "L13": {
-        "name": "Unzureichendes Licht",
+        "name": "Lichtmangel",
         "prevention": {
           "groups": [
             {
@@ -1546,7 +1546,7 @@
         }
       },
       "L15": {
-        "name": "Blattdeformität",
+        "name": "Blattdeformation",
         "prevention": {
           "groups": [
             {
@@ -1596,7 +1596,7 @@
         }
       },
       "L16": {
-        "name": "Blattgall",
+        "name": "Blattgalle",
         "prevention": {
           "groups": [
             {
@@ -1654,7 +1654,7 @@
         }
       },
       "L17": {
-        "name": "Niedrige Luftfeuchtigkeit",
+        "name": "Zu geringe Luftfeuchtigkeit",
         "prevention": {
           "groups": [
             {
@@ -1693,7 +1693,7 @@
         }
       },
       "L18": {
-        "name": "Pfirsichblatt-Locken",
+        "name": "Kräuselkrankheit",
         "prevention": {
           "groups": [
             {
@@ -1702,7 +1702,7 @@
                   "title": "Kupferfongizid auftragen"
                 },
                 {
-                  "title": "Kaufen Sie widerstandsfähige Sorten (z. B."
+                  "title": "Resistente Sorten kaufen"
                 },
                 {
                   "title": "Fallen Blätter auffegen"
@@ -1732,7 +1732,7 @@
         }
       },
       "L19": {
-        "name": "Schusslochkrankheit",
+        "name": "Schrotschusskrankheit",
         "prevention": {
           "groups": [
             {
@@ -1829,7 +1829,7 @@
             ]
           }
         ],
-        "name": "Pulveriger Mehltau",
+        "name": "Echter Mehltau",
         "prevention": {
           "groups": [
             {
@@ -1886,7 +1886,7 @@
         }
       },
       "L21": {
-        "name": "Aschige Schimmel",
+        "name": "Rußtau",
         "prevention": {
           "groups": [
             {
@@ -1930,7 +1930,7 @@
         }
       },
       "L22": {
-        "name": "Rost",
+        "name": "Rostkrankheit",
         "prevention": {
           "groups": [
             {
@@ -1997,7 +1997,7 @@
             ]
           }
         ],
-        "name": "Grauer Schimmel (Botrytis)",
+        "name": "Grauschimmel (Botrytis)",
         "prevention": {
           "groups": [
             {
@@ -2060,7 +2060,7 @@
         }
       },
       "L24": {
-        "name": "Saftsaugende Schäden",
+        "name": "Schäden durch saugende Insekten",
         "prevention": {
           "groups": [
             {
@@ -2172,7 +2172,7 @@
             ]
           }
         ],
-        "name": "Aphiden",
+        "name": "Blattläuse",
         "prevention": {
           "groups": [
             {
@@ -2247,7 +2247,7 @@
             ]
           }
         ],
-        "name": "Schuppenkäfer",
+        "name": "Schildläuse",
         "prevention": {
           "groups": [
             {
@@ -2298,7 +2298,7 @@
         }
       },
       "P04": {
-        "name": "Mehlkäfer",
+        "name": "Schmierläuse",
         "prevention": {
           "groups": [
             {
@@ -2481,7 +2481,7 @@
         }
       },
       "P07": {
-        "name": "Blattkäfer",
+        "name": "Rüsselkäfer",
         "prevention": {
           "groups": [
             {
@@ -2521,7 +2521,7 @@
         }
       },
       "P08": {
-        "name": "Langehornkäfer",
+        "name": "Bockkäfer",
         "prevention": {
           "groups": [
             {
@@ -2564,7 +2564,7 @@
         }
       },
       "P09": {
-        "name": "Schnecken und Schnecken",
+        "name": "Nacktschnecken und Schnecken",
         "prevention": {
           "groups": [
             {
@@ -2702,7 +2702,7 @@
             ]
           }
         ],
-        "name": "Blumenfleckkäfer",
+        "name": "Netzwanzen",
         "prevention": {
           "groups": [
             {
@@ -2759,7 +2759,7 @@
         }
       },
       "P12": {
-        "name": "Blattläuse",
+        "name": "Zikaden",
         "prevention": {
           "groups": [
             {
@@ -2801,7 +2801,7 @@
         }
       },
       "P13": {
-        "name": "Tortrix-Motten",
+        "name": "Wickler",
         "prevention": {
           "groups": [
             {
@@ -2852,7 +2852,7 @@
         }
       },
       "P14": {
-        "name": "Blattminer",
+        "name": "Blattminierer",
         "prevention": {
           "groups": [
             {
@@ -2960,7 +2960,7 @@
         }
       },
       "P16": {
-        "name": "Pilzfliegen (Erwachsene)",
+        "name": "Trauermücken (adult)",
         "prevention": {
           "groups": [
             {
@@ -3082,7 +3082,7 @@
         }
       },
       "R02": {
-        "name": "Wurzeldeformität",
+        "name": "Wurzeldeformation",
         "prevention": {
           "groups": [
             {
@@ -3154,7 +3154,7 @@
           },
           null
         ],
-        "name": "Schimmel im Boden",
+        "name": "Schimmel auf der Erde",
         "prevention": {
           "groups": [
             {
@@ -3199,7 +3199,7 @@
         }
       },
       "R04": {
-        "name": "Pottgebundene Wurzeln",
+        "name": "Durchwurzelter Topfballen",
         "prevention": {
           "groups": [
             {
@@ -3249,7 +3249,7 @@
         }
       },
       "R05": {
-        "name": "Salzansammlung",
+        "name": "Salzanreicherung",
         "prevention": {
           "groups": [
             {
@@ -3314,7 +3314,7 @@
           null,
           null
         ],
-        "name": "Dämpfen von Schimmel",
+        "name": "Umfallkrankheit",
         "prevention": {
           "groups": [
             {
@@ -3381,7 +3381,7 @@
           },
           null
         ],
-        "name": "Pilzfliegenlarven",
+        "name": "Trauermückenlarven",
         "prevention": {
           "groups": [
             {
@@ -3427,7 +3427,7 @@
         }
       },
       "ST01": {
-        "name": "Verblühen",
+        "name": "Welke",
         "prevention": {
           "groups": [
             {
@@ -3487,7 +3487,7 @@
         }
       },
       "ST02": {
-        "name": "Zweigschimmel",
+        "name": "Zweigbrand",
         "prevention": {
           "groups": [
             {
@@ -3535,7 +3535,7 @@
         }
       },
       "ST03": {
-        "name": "Absterben",
+        "name": "Triebsterben",
         "prevention": {
           "groups": [
             {
@@ -3590,7 +3590,7 @@
         }
       },
       "ST04": {
-        "name": "Stammfäule (weiche Fäule)",
+        "name": "Stängelfäule (Weichfäule)",
         "prevention": {
           "groups": [
             {
@@ -3651,7 +3651,7 @@
         }
       },
       "ST05": {
-        "name": "Kanker",
+        "name": "Rindenkrebs",
         "prevention": {
           "groups": [
             {
@@ -3700,7 +3700,7 @@
         }
       },
       "ST06": {
-        "name": "Sonnenbrand auf der Rinde",
+        "name": "Rindenbrand (Sonnenbrand)",
         "prevention": {
           "groups": [
             {
@@ -3798,7 +3798,7 @@
         }
       },
       "ST08": {
-        "name": "Krone Gallen",
+        "name": "Wurzelhalsgalle",
         "prevention": {
           "groups": [
             {
@@ -3850,7 +3850,7 @@
         }
       },
       "ST09": {
-        "name": "Stammnarben",
+        "name": "Narben am Stängel",
         "prevention": {
           "groups": [
             {

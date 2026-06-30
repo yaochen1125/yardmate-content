@@ -3,7 +3,7 @@
   "locale": "fr",
   "source": {
     "resource": "diseases.json",
-    "sha256": "41126fad245c663221405bac99a4b1ad80d740dda790d7c153fb0c2990701823"
+    "sha256": "0bf8cfb6cc131c3183efeb4bbf453b9dd9eae1be645e2e69dc47234445a2d0b8"
   },
   "fields": {
     "categories": {
@@ -85,7 +85,7 @@
         }
       },
       "FL02": {
-        "name": "Fleur fanée",
+        "name": "Flétrissement des fleurs",
         "prevention": {
           "groups": [
             {
@@ -139,7 +139,7 @@
         }
       },
       "FL03": {
-        "name": "Des fleurs fanées",
+        "name": "Fleurs flétries",
         "prevention": {
           "groups": [
             {
@@ -196,7 +196,7 @@
         }
       },
       "FL04": {
-        "name": "Chute de bourgeons",
+        "name": "Chute des boutons floraux",
         "prevention": {
           "groups": [
             {
@@ -249,7 +249,7 @@
         }
       },
       "FL05": {
-        "name": "Maladie des pétales",
+        "name": "Brûlure des pétales",
         "prevention": {
           "groups": [
             {
@@ -297,7 +297,7 @@
         }
       },
       "FL06": {
-        "name": "Échec à fleurir",
+        "name": "Absence de floraison",
         "prevention": {
           "groups": [
             {
@@ -343,7 +343,7 @@
         }
       },
       "FL07": {
-        "name": "Bougeons tachetés",
+        "name": "Boutons tachetés",
         "prevention": {
           "groups": [
             {
@@ -397,7 +397,7 @@
         }
       },
       "FR01": {
-        "name": "Point de fruit",
+        "name": "Tache du fruit",
         "prevention": {
           "groups": [
             {
@@ -445,7 +445,7 @@
         }
       },
       "FR02": {
-        "name": "Pourriture des fruits",
+        "name": "Pourriture du fruit",
         "prevention": {
           "groups": [
             {
@@ -505,7 +505,7 @@
         }
       },
       "FR03": {
-        "name": "Malformation des fruits",
+        "name": "Déformation du fruit",
         "prevention": {
           "groups": [
             {
@@ -552,7 +552,7 @@
         }
       },
       "FR04": {
-        "name": "Fruit fané",
+        "name": "Flétrissement du fruit",
         "prevention": {
           "groups": [
             {
@@ -616,7 +616,7 @@
             ]
           }
         ],
-        "name": "Moisi sur les fruits",
+        "name": "Moisissure sur le fruit",
         "prevention": {
           "groups": [
             {
@@ -691,7 +691,7 @@
             ]
           }
         ],
-        "name": "Moisissure grasse sur les fruits",
+        "name": "Oïdium sur le fruit",
         "prevention": {
           "groups": [
             {
@@ -736,7 +736,7 @@
         }
       },
       "FR07": {
-        "name": "Cracking des fruits",
+        "name": "Fendillement du fruit",
         "prevention": {
           "groups": [
             {
@@ -748,7 +748,7 @@
                   "title": "Mélanger abondamment pour uniformiser l'humidité du sol."
                 },
                 {
-                  "title": "Achetez des variétés résistantes à la fissuration (par ex."
+                  "title": "Achetez des variétés résistantes à l'éclatement"
                 },
                 {
                   "title": "Récolte juste avant la pleine maturité si des fortes pluies sont prévues."
@@ -860,7 +860,7 @@
         }
       },
       "L02": {
-        "name": "point noir",
+        "name": "Maladie des taches noires",
         "prevention": {
           "groups": [
             {
@@ -917,7 +917,7 @@
         }
       },
       "L03": {
-        "name": "Maladie des feuilles et brûlure",
+        "name": "Brûlure et dessèchement du feuillage",
         "prevention": {
           "groups": [
             {
@@ -1036,7 +1036,7 @@
         }
       },
       "L05": {
-        "name": "Tache angulaire sur la feuille",
+        "name": "Tache anguleuse",
         "prevention": {
           "groups": [
             {
@@ -1111,7 +1111,7 @@
             ]
           }
         ],
-        "name": "Tache sur la feuille",
+        "name": "Tache foliaire",
         "prevention": {
           "groups": [
             {
@@ -1168,7 +1168,7 @@
         }
       },
       "L07": {
-        "name": "Jaunissement dû à l'arrosage insuffisant",
+        "name": "Jaunissement par manque d'eau",
         "prevention": {
           "groups": [
             {
@@ -1211,7 +1211,7 @@
         }
       },
       "L08": {
-        "name": "Inondation",
+        "name": "Engorgement hydrique",
         "prevention": {
           "groups": [
             {
@@ -1271,7 +1271,7 @@
         }
       },
       "L09": {
-        "name": "Jaune vieillissant et sec",
+        "name": "Jaunissement et dessèchement de sénescence",
         "shortDescription": "Quelques feuilles basales jaunissant sur une plante saine",
         "symptomAnalysis": "Il s'agit d'un vieillissement normal. Les plantes rejettent périodiquement leurs feuilles les plus anciennes. Le jaunissement limité aux feuilles les plus basses d'une plante autrement saine - sans taches, sans ravageurs, sans noirciement, sans effet généralisé - signifie que la plante est simplement en train de faire tourner sa feuillure.\n\nSe distingue de l'arrosage excessif : le jaunissement jaune sec ne touche que 1 à 3 feuilles les plus basses à la fois, et les remplaçants poussent normalement au-dessus. L'arrosage excessif jaunit de nombreuses feuilles en même temps et le sol est sec jusqu'au deuxième joint.",
         "treatment": {
@@ -1335,7 +1335,7 @@
         }
       },
       "L11": {
-        "name": "Déficience en fer",
+        "name": "Carence en fer",
         "prevention": {
           "groups": [
             {
@@ -1380,7 +1380,7 @@
         }
       },
       "L12": {
-        "name": "Chlorose veineuse",
+        "name": "Chlorose des nervures",
         "prevention": {
           "groups": [
             {
@@ -1546,7 +1546,7 @@
         }
       },
       "L15": {
-        "name": "Déformation de la feuille",
+        "name": "Déformation foliaire",
         "prevention": {
           "groups": [
             {
@@ -1596,7 +1596,7 @@
         }
       },
       "L16": {
-        "name": "Gall de feuille",
+        "name": "Galle foliaire",
         "prevention": {
           "groups": [
             {
@@ -1654,7 +1654,7 @@
         }
       },
       "L17": {
-        "name": "Faible humidité",
+        "name": "Humidité trop faible",
         "prevention": {
           "groups": [
             {
@@ -1693,7 +1693,7 @@
         }
       },
       "L18": {
-        "name": "Boucles de feuilles de pêche",
+        "name": "Cloque du pêcher",
         "prevention": {
           "groups": [
             {
@@ -1702,7 +1702,7 @@
                   "title": "Appliquer un fongicide au cuivre"
                 },
                 {
-                  "title": "Achetez des variétés résistantes (par ex."
+                  "title": "Achetez des variétés résistantes"
                 },
                 {
                   "title": "Ramasser les feuilles mortes"
@@ -1732,7 +1732,7 @@
         }
       },
       "L19": {
-        "name": "Maladie du trou de balle",
+        "name": "Criblure",
         "prevention": {
           "groups": [
             {
@@ -1829,7 +1829,7 @@
             ]
           }
         ],
-        "name": "Moisissure grasse",
+        "name": "Oïdium",
         "prevention": {
           "groups": [
             {
@@ -1886,7 +1886,7 @@
         }
       },
       "L21": {
-        "name": "Moisissure fumigène",
+        "name": "Fumagine",
         "prevention": {
           "groups": [
             {
@@ -1930,7 +1930,7 @@
         }
       },
       "L22": {
-        "name": "rouille",
+        "name": "Rouille",
         "prevention": {
           "groups": [
             {
@@ -1997,7 +1997,7 @@
             ]
           }
         ],
-        "name": "Moisi gris (botrytis)",
+        "name": "Pourriture grise (botrytis)",
         "prevention": {
           "groups": [
             {
@@ -2060,7 +2060,7 @@
         }
       },
       "L24": {
-        "name": "Dommages par sucer la sève",
+        "name": "Dégâts d'insectes piqueurs-suceurs",
         "prevention": {
           "groups": [
             {
@@ -2106,7 +2106,7 @@
         }
       },
       "P01": {
-        "name": "Chrysalides",
+        "name": "Chenilles",
         "prevention": {
           "groups": [
             {
@@ -2172,7 +2172,7 @@
             ]
           }
         ],
-        "name": "Aphides",
+        "name": "Pucerons",
         "prevention": {
           "groups": [
             {
@@ -2247,7 +2247,7 @@
             ]
           }
         ],
-        "name": "Insectes-pucerons",
+        "name": "Cochenilles",
         "prevention": {
           "groups": [
             {
@@ -2298,7 +2298,7 @@
         }
       },
       "P04": {
-        "name": "Pucerons",
+        "name": "Cochenilles farineuses",
         "prevention": {
           "groups": [
             {
@@ -2373,7 +2373,7 @@
             ]
           }
         ],
-        "name": "Mites araignées",
+        "name": "Araignées rouges",
         "prevention": {
           "groups": [
             {
@@ -2427,7 +2427,7 @@
         }
       },
       "P06": {
-        "name": "Coléoptères des feuilles",
+        "name": "Chrysomèles",
         "prevention": {
           "groups": [
             {
@@ -2481,7 +2481,7 @@
         }
       },
       "P07": {
-        "name": "Vespoïdes de feuilles",
+        "name": "Charançons",
         "prevention": {
           "groups": [
             {
@@ -2521,7 +2521,7 @@
         }
       },
       "P08": {
-        "name": "Coléoptères à cornes longues",
+        "name": "Longicornes",
         "prevention": {
           "groups": [
             {
@@ -2564,7 +2564,7 @@
         }
       },
       "P09": {
-        "name": "Les limaces et les escargots",
+        "name": "Limaces et escargots",
         "prevention": {
           "groups": [
             {
@@ -2631,7 +2631,7 @@
             ]
           }
         ],
-        "name": "Tétrés",
+        "name": "Thrips",
         "prevention": {
           "groups": [
             {
@@ -2702,7 +2702,7 @@
             ]
           }
         ],
-        "name": "Insectes à dentelle",
+        "name": "Punaises dentelles (tigres)",
         "prevention": {
           "groups": [
             {
@@ -2759,7 +2759,7 @@
         }
       },
       "P12": {
-        "name": "Lépidoptères",
+        "name": "Cicadelles",
         "prevention": {
           "groups": [
             {
@@ -2801,7 +2801,7 @@
         }
       },
       "P13": {
-        "name": "Lépidoptères Tortrix",
+        "name": "Tordeuses",
         "prevention": {
           "groups": [
             {
@@ -2852,7 +2852,7 @@
         }
       },
       "P14": {
-        "name": "Mineurs de feuilles",
+        "name": "Mineuses des feuilles",
         "prevention": {
           "groups": [
             {
@@ -2903,7 +2903,7 @@
         }
       },
       "P15": {
-        "name": "Pucerons blancs",
+        "name": "Aleurodes",
         "prevention": {
           "groups": [
             {
@@ -2960,7 +2960,7 @@
         }
       },
       "P16": {
-        "name": "Mouches de champignon (adultes)",
+        "name": "Mouches du terreau (adultes)",
         "prevention": {
           "groups": [
             {
@@ -3082,7 +3082,7 @@
         }
       },
       "R02": {
-        "name": "Déformation de la racine",
+        "name": "Déformation des racines",
         "prevention": {
           "groups": [
             {
@@ -3154,7 +3154,7 @@
           },
           null
         ],
-        "name": "Moisi sur le sol",
+        "name": "Moisissure sur le terreau",
         "prevention": {
           "groups": [
             {
@@ -3199,7 +3199,7 @@
         }
       },
       "R04": {
-        "name": "Racines attachées au pot",
+        "name": "Chignon racinaire",
         "prevention": {
           "groups": [
             {
@@ -3249,7 +3249,7 @@
         }
       },
       "R05": {
-        "name": "Accumulation de sel",
+        "name": "Accumulation de sels",
         "prevention": {
           "groups": [
             {
@@ -3314,7 +3314,7 @@
           null,
           null
         ],
-        "name": "Amortissement",
+        "name": "Fonte des semis",
         "prevention": {
           "groups": [
             {
@@ -3381,7 +3381,7 @@
           },
           null
         ],
-        "name": "Larves de moustique champignon",
+        "name": "Larves de sciarides",
         "prevention": {
           "groups": [
             {
@@ -3427,7 +3427,7 @@
         }
       },
       "ST01": {
-        "name": "Pourrir",
+        "name": "Flétrissement",
         "prevention": {
           "groups": [
             {
@@ -3487,7 +3487,7 @@
         }
       },
       "ST02": {
-        "name": "Maladie des branches",
+        "name": "Brûlure des rameaux",
         "prevention": {
           "groups": [
             {
@@ -3535,7 +3535,7 @@
         }
       },
       "ST03": {
-        "name": "Détérioration",
+        "name": "Dépérissement",
         "prevention": {
           "groups": [
             {
@@ -3590,7 +3590,7 @@
         }
       },
       "ST04": {
-        "name": "Pourriture des tiges (pourriture molle)",
+        "name": "Pourriture de la tige (molle)",
         "prevention": {
           "groups": [
             {
@@ -3700,7 +3700,7 @@
         }
       },
       "ST06": {
-        "name": "Brûlure solaire sur la pécorine",
+        "name": "Échaudure de l'écorce",
         "prevention": {
           "groups": [
             {
@@ -3747,7 +3747,7 @@
         }
       },
       "ST07": {
-        "name": "Brosse des sorcières",
+        "name": "Balai de sorcière",
         "prevention": {
           "groups": [
             {
@@ -3798,7 +3798,7 @@
         }
       },
       "ST08": {
-        "name": "Gangrène de la couronne",
+        "name": "Galle du collet",
         "prevention": {
           "groups": [
             {
@@ -3850,7 +3850,7 @@
         }
       },
       "ST09": {
-        "name": "Des cicatrices de tiges",
+        "name": "Cicatrices sur la tige",
         "prevention": {
           "groups": [
             {

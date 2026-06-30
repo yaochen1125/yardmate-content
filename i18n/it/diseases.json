@@ -3,7 +3,7 @@
   "locale": "it",
   "source": {
     "resource": "diseases.json",
-    "sha256": "41126fad245c663221405bac99a4b1ad80d740dda790d7c153fb0c2990701823"
+    "sha256": "0bf8cfb6cc131c3183efeb4bbf453b9dd9eae1be645e2e69dc47234445a2d0b8"
   },
   "fields": {
     "categories": {
@@ -28,7 +28,7 @@
     },
     "diseases": {
       "FL01": {
-        "name": "Marciazione delle fioriture",
+        "name": "Marciume del fiore",
         "prevention": {
           "groups": [
             {
@@ -85,7 +85,7 @@
         }
       },
       "FL02": {
-        "name": "Fioritura appassita",
+        "name": "Avvizzimento del fiore",
         "prevention": {
           "groups": [
             {
@@ -196,7 +196,7 @@
         }
       },
       "FL04": {
-        "name": "Caduta dei germogli",
+        "name": "Cascola dei boccioli",
         "prevention": {
           "groups": [
             {
@@ -249,7 +249,7 @@
         }
       },
       "FL05": {
-        "name": "Malattia delle petali",
+        "name": "Disseccamento dei petali",
         "prevention": {
           "groups": [
             {
@@ -297,7 +297,7 @@
         }
       },
       "FL06": {
-        "name": "Fallimento nel fiorire",
+        "name": "Mancata fioritura",
         "prevention": {
           "groups": [
             {
@@ -343,7 +343,7 @@
         }
       },
       "FL07": {
-        "name": "Fiori in budello macchiati",
+        "name": "Boccioli macchiati",
         "prevention": {
           "groups": [
             {
@@ -397,7 +397,7 @@
         }
       },
       "FR01": {
-        "name": "Punto di frutta",
+        "name": "Maculatura del frutto",
         "prevention": {
           "groups": [
             {
@@ -445,7 +445,7 @@
         }
       },
       "FR02": {
-        "name": "Marciazione dei frutti",
+        "name": "Marciume del frutto",
         "prevention": {
           "groups": [
             {
@@ -505,7 +505,7 @@
         }
       },
       "FR03": {
-        "name": "Deformità del frutto",
+        "name": "Deformazione del frutto",
         "prevention": {
           "groups": [
             {
@@ -552,7 +552,7 @@
         }
       },
       "FR04": {
-        "name": "Frutta marcioriente",
+        "name": "Avvizzimento del frutto",
         "prevention": {
           "groups": [
             {
@@ -616,7 +616,7 @@
             ]
           }
         ],
-        "name": "Muffo sui frutti",
+        "name": "Muffa sul frutto",
         "prevention": {
           "groups": [
             {
@@ -691,7 +691,7 @@
             ]
           }
         ],
-        "name": "Mildiuzza polverosa sui frutti",
+        "name": "Oidio sul frutto",
         "prevention": {
           "groups": [
             {
@@ -736,7 +736,7 @@
         }
       },
       "FR07": {
-        "name": "Frutta che si rompe",
+        "name": "Spaccatura del frutto",
         "prevention": {
           "groups": [
             {
@@ -748,7 +748,7 @@
                   "title": "Aggiungere abbondante pacciame per uniformare l'umidità del terreno"
                 },
                 {
-                  "title": "Acquista varietà resistenti alla crepa (e"
+                  "title": "Acquista varietà resistenti alla spaccatura"
                 },
                 {
                   "title": "Raccolta appena prima della maturazione massima se si prevede una forte pioggia"
@@ -800,7 +800,7 @@
             ]
           }
         ],
-        "name": "Macchia marrone",
+        "name": "Macchia bruna",
         "prevention": {
           "groups": [
             {
@@ -860,7 +860,7 @@
         }
       },
       "L02": {
-        "name": "punto caldo",
+        "name": "Maculatura nera",
         "prevention": {
           "groups": [
             {
@@ -917,7 +917,7 @@
         }
       },
       "L03": {
-        "name": "Malattia delle foglie e bruciature",
+        "name": "Bruciatura e disseccamento fogliare",
         "prevention": {
           "groups": [
             {
@@ -982,7 +982,7 @@
         }
       },
       "L04": {
-        "name": "Antracnose",
+        "name": "Antracnosi",
         "prevention": {
           "groups": [
             {
@@ -1036,7 +1036,7 @@
         }
       },
       "L05": {
-        "name": "Macchia angolare delle foglie",
+        "name": "Maculatura angolare",
         "prevention": {
           "groups": [
             {
@@ -1111,7 +1111,7 @@
             ]
           }
         ],
-        "name": "Macchia sulla foglia",
+        "name": "Maculatura fogliare",
         "prevention": {
           "groups": [
             {
@@ -1168,7 +1168,7 @@
         }
       },
       "L07": {
-        "name": "Verdeamento giallo dovuto alla scarsa irrigazione",
+        "name": "Ingiallimento da carenza idrica",
         "prevention": {
           "groups": [
             {
@@ -1211,7 +1211,7 @@
         }
       },
       "L08": {
-        "name": "Inondazione",
+        "name": "Ristagno idrico",
         "prevention": {
           "groups": [
             {
@@ -1271,7 +1271,7 @@
         }
       },
       "L09": {
-        "name": "Giallo invecchiato e secco",
+        "name": "Ingiallimento e disseccamento da senescenza",
         "shortDescription": "Alcune foglie basali giallastre su una pianta sana",
         "symptomAnalysis": "Questo è l'invecchiamento normale. Le piante gettano periodicamente le loro foglie più vecchie. Il giallo che si limita alle foglie più basse di una pianta altrimenti sana, senza macchie, senza parassiti, senza scolorimento diffuso, significa che la pianta sta semplicemente ruotando la sua foglia.\n\nSi distingue dall'inquinamento idrico: il giallo secco colpisce solo 1-3 foglie più basse alla volta e le sostituzioni crescono normalmente sopra. L'inquinamento idrico gialla molte foglie contemporaneamente e il terreno è asciutto fino al secondo gomito.",
         "treatment": {
@@ -1335,7 +1335,7 @@
         }
       },
       "L11": {
-        "name": "Deficiencia di ferro",
+        "name": "Carenza di ferro",
         "prevention": {
           "groups": [
             {
@@ -1380,7 +1380,7 @@
         }
       },
       "L12": {
-        "name": "Clorosi venosa",
+        "name": "Clorosi delle nervature",
         "prevention": {
           "groups": [
             {
@@ -1483,7 +1483,7 @@
         }
       },
       "L14": {
-        "name": "Marcia batterica delle foglie",
+        "name": "Marciume batterico fogliare",
         "prevention": {
           "groups": [
             {
@@ -1546,7 +1546,7 @@
         }
       },
       "L15": {
-        "name": "Deformità della foglia",
+        "name": "Deformazione fogliare",
         "prevention": {
           "groups": [
             {
@@ -1596,7 +1596,7 @@
         }
       },
       "L16": {
-        "name": "Gallina di foglia",
+        "name": "Galla fogliare",
         "prevention": {
           "groups": [
             {
@@ -1654,7 +1654,7 @@
         }
       },
       "L17": {
-        "name": "Bassa umidità",
+        "name": "Umidità troppo bassa",
         "prevention": {
           "groups": [
             {
@@ -1693,7 +1693,7 @@
         }
       },
       "L18": {
-        "name": "Riccioli di foglia di pesca",
+        "name": "Bolla del pesco",
         "prevention": {
           "groups": [
             {
@@ -1702,7 +1702,7 @@
                   "title": "Applicare fungicida al rame"
                 },
                 {
-                  "title": "Acquista varietà resistenti (e"
+                  "title": "Acquista varietà resistenti"
                 },
                 {
                   "title": "Raccolta le foglie cadute"
@@ -1732,7 +1732,7 @@
         }
       },
       "L19": {
-        "name": "Malattia del buco sparato",
+        "name": "Corineo",
         "prevention": {
           "groups": [
             {
@@ -1829,7 +1829,7 @@
             ]
           }
         ],
-        "name": "Fungo di polvere",
+        "name": "Oidio",
         "prevention": {
           "groups": [
             {
@@ -1886,7 +1886,7 @@
         }
       },
       "L21": {
-        "name": "Muffo fuliginoso",
+        "name": "Fumaggine",
         "prevention": {
           "groups": [
             {
@@ -1930,7 +1930,7 @@
         }
       },
       "L22": {
-        "name": "ruggine",
+        "name": "Ruggine",
         "prevention": {
           "groups": [
             {
@@ -1997,7 +1997,7 @@
             ]
           }
         ],
-        "name": "Mucor grigio (botrytis)",
+        "name": "Muffa grigia (botrite)",
         "prevention": {
           "groups": [
             {
@@ -2060,7 +2060,7 @@
         }
       },
       "L24": {
-        "name": "Danno da succhiamento di sapa",
+        "name": "Danni da insetti succhiatori",
         "prevention": {
           "groups": [
             {
@@ -2106,7 +2106,7 @@
         }
       },
       "P01": {
-        "name": "Caterpillar",
+        "name": "Bruchi",
         "prevention": {
           "groups": [
             {
@@ -2247,7 +2247,7 @@
             ]
           }
         ],
-        "name": "Insetti acari",
+        "name": "Cocciniglie",
         "prevention": {
           "groups": [
             {
@@ -2298,7 +2298,7 @@
         }
       },
       "P04": {
-        "name": "Cimici grasse",
+        "name": "Cocciniglie cotonose",
         "prevention": {
           "groups": [
             {
@@ -2373,7 +2373,7 @@
             ]
           }
         ],
-        "name": "Acari del ragno",
+        "name": "Ragnetto rosso",
         "prevention": {
           "groups": [
             {
@@ -2427,7 +2427,7 @@
         }
       },
       "P06": {
-        "name": "Colibrini delle foglie",
+        "name": "Crisomelidi",
         "prevention": {
           "groups": [
             {
@@ -2481,7 +2481,7 @@
         }
       },
       "P07": {
-        "name": "Vespidi delle foglie",
+        "name": "Punteruoli",
         "prevention": {
           "groups": [
             {
@@ -2521,7 +2521,7 @@
         }
       },
       "P08": {
-        "name": "Colibrini a corna lunghe",
+        "name": "Cerambicidi",
         "prevention": {
           "groups": [
             {
@@ -2564,7 +2564,7 @@
         }
       },
       "P09": {
-        "name": "Lumache e lumache",
+        "name": "Lumache e chiocciole",
         "prevention": {
           "groups": [
             {
@@ -2631,7 +2631,7 @@
             ]
           }
         ],
-        "name": "tripide",
+        "name": "Tripidi",
         "prevention": {
           "groups": [
             {
@@ -2702,7 +2702,7 @@
             ]
           }
         ],
-        "name": "Insetti a pizzo",
+        "name": "Tingidi",
         "prevention": {
           "groups": [
             {
@@ -2759,7 +2759,7 @@
         }
       },
       "P12": {
-        "name": "Cicadelle",
+        "name": "Cicaline",
         "prevention": {
           "groups": [
             {
@@ -2801,7 +2801,7 @@
         }
       },
       "P13": {
-        "name": "Lepidi Tortrix",
+        "name": "Tortricidi",
         "prevention": {
           "groups": [
             {
@@ -2852,7 +2852,7 @@
         }
       },
       "P14": {
-        "name": "Minatori di foglie",
+        "name": "Minatori fogliari",
         "prevention": {
           "groups": [
             {
@@ -2903,7 +2903,7 @@
         }
       },
       "P15": {
-        "name": "Moscerini bianchi",
+        "name": "Mosche bianche",
         "prevention": {
           "groups": [
             {
@@ -2960,7 +2960,7 @@
         }
       },
       "P16": {
-        "name": "Mosche fungine (adulti)",
+        "name": "Moscerini dei funghi (adulti)",
         "prevention": {
           "groups": [
             {
@@ -3022,7 +3022,7 @@
             ]
           }
         ],
-        "name": "Marciazione radicale",
+        "name": "Marciume radicale",
         "prevention": {
           "groups": [
             {
@@ -3082,7 +3082,7 @@
         }
       },
       "R02": {
-        "name": "Deformità radicolare",
+        "name": "Deformazione delle radici",
         "prevention": {
           "groups": [
             {
@@ -3154,7 +3154,7 @@
           },
           null
         ],
-        "name": "Mucchio sul terreno",
+        "name": "Muffa sul terriccio",
         "prevention": {
           "groups": [
             {
@@ -3199,7 +3199,7 @@
         }
       },
       "R04": {
-        "name": "Radici legate al vaso",
+        "name": "Radici compresse nel vaso",
         "prevention": {
           "groups": [
             {
@@ -3249,7 +3249,7 @@
         }
       },
       "R05": {
-        "name": "Accumulo di sale",
+        "name": "Accumulo di sali",
         "prevention": {
           "groups": [
             {
@@ -3314,7 +3314,7 @@
           null,
           null
         ],
-        "name": "Assorbimento dell'umidità",
+        "name": "Moria delle piantine",
         "prevention": {
           "groups": [
             {
@@ -3381,7 +3381,7 @@
           },
           null
         ],
-        "name": "Larve di mosca fungina",
+        "name": "Larve di sciaridi",
         "prevention": {
           "groups": [
             {
@@ -3427,7 +3427,7 @@
         }
       },
       "ST01": {
-        "name": "Morbido",
+        "name": "Appassimento",
         "prevention": {
           "groups": [
             {
@@ -3487,7 +3487,7 @@
         }
       },
       "ST02": {
-        "name": "Malattia dei rami",
+        "name": "Disseccamento dei rametti",
         "prevention": {
           "groups": [
             {
@@ -3535,7 +3535,7 @@
         }
       },
       "ST03": {
-        "name": "Morte della pianta",
+        "name": "Deperimento",
         "prevention": {
           "groups": [
             {
@@ -3590,7 +3590,7 @@
         }
       },
       "ST04": {
-        "name": "Marciazione del fusto (marciazione morbida)",
+        "name": "Marciume del fusto (molle)",
         "prevention": {
           "groups": [
             {
@@ -3700,7 +3700,7 @@
         }
       },
       "ST06": {
-        "name": "Bruciore solare sulla corteccia",
+        "name": "Scottatura solare della corteccia",
         "prevention": {
           "groups": [
             {
@@ -3747,7 +3747,7 @@
         }
       },
       "ST07": {
-        "name": "scopa delle streghe",
+        "name": "Scopazzi",
         "prevention": {
           "groups": [
             {
@@ -3798,7 +3798,7 @@
         }
       },
       "ST08": {
-        "name": "Cancro alla corona",
+        "name": "Tumore del colletto",
         "prevention": {
           "groups": [
             {
@@ -3850,7 +3850,7 @@
         }
       },
       "ST09": {
-        "name": "Ferite da stelo",
+        "name": "Cicatrici sul fusto",
         "prevention": {
           "groups": [
             {

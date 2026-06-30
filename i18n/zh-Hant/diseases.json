@@ -3,7 +3,7 @@
   "locale": "zh-Hant",
   "source": {
     "resource": "diseases.json",
-    "sha256": "41126fad245c663221405bac99a4b1ad80d740dda790d7c153fb0c2990701823"
+    "sha256": "0bf8cfb6cc131c3183efeb4bbf453b9dd9eae1be645e2e69dc47234445a2d0b8"
   },
   "fields": {
     "categories": {
@@ -28,7 +28,7 @@
     },
     "diseases": {
       "FL01": {
-        "name": "花腐爛",
+        "name": "花腐病",
         "prevention": {
           "groups": [
             {
@@ -85,7 +85,7 @@
         }
       },
       "FL02": {
-        "name": "花萎縮",
+        "name": "花朵凋萎",
         "prevention": {
           "groups": [
             {
@@ -139,7 +139,7 @@
         }
       },
       "FL03": {
-        "name": "枯萎的花朵",
+        "name": "花朵萎凋",
         "prevention": {
           "groups": [
             {
@@ -196,7 +196,7 @@
         }
       },
       "FL04": {
-        "name": "芽落",
+        "name": "落蕾",
         "prevention": {
           "groups": [
             {
@@ -249,7 +249,7 @@
         }
       },
       "FL05": {
-        "name": "花瓣病",
+        "name": "花瓣枯萎病",
         "prevention": {
           "groups": [
             {
@@ -297,7 +297,7 @@
         }
       },
       "FL06": {
-        "name": "未能開花",
+        "name": "不開花",
         "prevention": {
           "groups": [
             {
@@ -343,7 +343,7 @@
         }
       },
       "FL07": {
-        "name": "斑點的芽",
+        "name": "花蕾斑點",
         "prevention": {
           "groups": [
             {
@@ -397,7 +397,7 @@
         }
       },
       "FR01": {
-        "name": "水果斑點",
+        "name": "果斑病",
         "prevention": {
           "groups": [
             {
@@ -445,7 +445,7 @@
         }
       },
       "FR02": {
-        "name": "水果腐爛",
+        "name": "果腐病",
         "prevention": {
           "groups": [
             {
@@ -505,7 +505,7 @@
         }
       },
       "FR03": {
-        "name": "水果畸形",
+        "name": "果實畸形",
         "prevention": {
           "groups": [
             {
@@ -552,7 +552,7 @@
         }
       },
       "FR04": {
-        "name": "水果枯萎",
+        "name": "果實萎縮",
         "prevention": {
           "groups": [
             {
@@ -616,7 +616,7 @@
             ]
           }
         ],
-        "name": "水果上的黴菌",
+        "name": "果實黴變",
         "prevention": {
           "groups": [
             {
@@ -691,7 +691,7 @@
             ]
           }
         ],
-        "name": "水果上的粉霉",
+        "name": "果實白粉病",
         "prevention": {
           "groups": [
             {
@@ -736,7 +736,7 @@
         }
       },
       "FR07": {
-        "name": "水果開裂",
+        "name": "裂果",
         "prevention": {
           "groups": [
             {
@@ -748,7 +748,7 @@
                   "title": "大量覆蓋保養層以均勻土壤水分"
                 },
                 {
-                  "title": "購買抗裂品種（e"
+                  "title": "購買抗裂品種"
                 },
                 {
                   "title": "如果預計下大雨，請在成熟高峰前不久收穫。"
@@ -800,7 +800,7 @@
             ]
           }
         ],
-        "name": "棕色斑點",
+        "name": "褐斑病",
         "prevention": {
           "groups": [
             {
@@ -860,7 +860,7 @@
         }
       },
       "L02": {
-        "name": "黑斑",
+        "name": "黑斑病",
         "prevention": {
           "groups": [
             {
@@ -917,7 +917,7 @@
         }
       },
       "L03": {
-        "name": "葉斑病和灼傷",
+        "name": "葉枯病與灼傷",
         "prevention": {
           "groups": [
             {
@@ -1036,7 +1036,7 @@
         }
       },
       "L05": {
-        "name": "角葉斑",
+        "name": "角斑病",
         "prevention": {
           "groups": [
             {
@@ -1111,7 +1111,7 @@
             ]
           }
         ],
-        "name": "葉斑",
+        "name": "葉斑病",
         "prevention": {
           "groups": [
             {
@@ -1168,7 +1168,7 @@
         }
       },
       "L07": {
-        "name": "澆水不足導致黃化",
+        "name": "缺水黃化",
         "prevention": {
           "groups": [
             {
@@ -1211,7 +1211,7 @@
         }
       },
       "L08": {
-        "name": "水淹",
+        "name": "澇害",
         "prevention": {
           "groups": [
             {
@@ -1271,7 +1271,7 @@
         }
       },
       "L09": {
-        "name": "老黃色和乾燥",
+        "name": "老化枯黃",
         "shortDescription": "健康植物上的一些基部葉子變黃了",
         "symptomAnalysis": "這是正常的衰老。植物會定期淘汰最老的葉子。黃化僅限於健康植物的最低葉子——沒有斑點、沒有害蟲、沒有變黑、沒有廣泛影響——意味著植物只是在輪換它的葉子。\n\n與過澆水不同：乾黃僅會同時影響1-3個最下面的葉子，而更換的葉子在上方正常生長。過澆水會一次性使許多葉子變黃，土壤會乾燥到第二個指關節。",
         "treatment": {
@@ -1290,7 +1290,7 @@
         }
       },
       "L10": {
-        "name": "一般性黃葉病",
+        "name": "普遍黃化",
         "prevention": {
           "groups": [
             {
@@ -1335,7 +1335,7 @@
         }
       },
       "L11": {
-        "name": "缺鐵",
+        "name": "缺鐵症",
         "prevention": {
           "groups": [
             {
@@ -1380,7 +1380,7 @@
         }
       },
       "L12": {
-        "name": "靜脈黃化",
+        "name": "葉脈黃化",
         "prevention": {
           "groups": [
             {
@@ -1426,7 +1426,7 @@
         }
       },
       "L13": {
-        "name": "光線不足",
+        "name": "光照不足",
         "prevention": {
           "groups": [
             {
@@ -1483,7 +1483,7 @@
         }
       },
       "L14": {
-        "name": "細菌性葉腐爛",
+        "name": "細菌性葉腐病",
         "prevention": {
           "groups": [
             {
@@ -1596,7 +1596,7 @@
         }
       },
       "L16": {
-        "name": "葉蟲",
+        "name": "葉癭",
         "prevention": {
           "groups": [
             {
@@ -1654,7 +1654,7 @@
         }
       },
       "L17": {
-        "name": "低溼度",
+        "name": "濕度過低",
         "prevention": {
           "groups": [
             {
@@ -1693,7 +1693,7 @@
         }
       },
       "L18": {
-        "name": "桃葉捲髮",
+        "name": "桃縮葉病",
         "prevention": {
           "groups": [
             {
@@ -1702,7 +1702,7 @@
                   "title": "塗抹銅殺菌劑"
                 },
                 {
-                  "title": "購買抗性品種（e"
+                  "title": "購買抗病品種"
                 },
                 {
                   "title": "撿起落下的樹葉"
@@ -1732,7 +1732,7 @@
         }
       },
       "L19": {
-        "name": "射孔病",
+        "name": "穿孔病",
         "prevention": {
           "groups": [
             {
@@ -1829,7 +1829,7 @@
             ]
           }
         ],
-        "name": "粉霉",
+        "name": "白粉病",
         "prevention": {
           "groups": [
             {
@@ -1886,7 +1886,7 @@
         }
       },
       "L21": {
-        "name": "煙塵黴菌",
+        "name": "煤污病",
         "prevention": {
           "groups": [
             {
@@ -1930,7 +1930,7 @@
         }
       },
       "L22": {
-        "name": "生鏽",
+        "name": "銹病",
         "prevention": {
           "groups": [
             {
@@ -1997,7 +1997,7 @@
             ]
           }
         ],
-        "name": "灰黴（黴菌）",
+        "name": "灰黴病",
         "prevention": {
           "groups": [
             {
@@ -2060,7 +2060,7 @@
         }
       },
       "L24": {
-        "name": "吸汁損傷",
+        "name": "刺吸式危害",
         "prevention": {
           "groups": [
             {
@@ -2106,7 +2106,7 @@
         }
       },
       "P01": {
-        "name": "毛毛蟲",
+        "name": "毛蟲",
         "prevention": {
           "groups": [
             {
@@ -2172,7 +2172,7 @@
             ]
           }
         ],
-        "name": "螞蟻",
+        "name": "蚜蟲",
         "prevention": {
           "groups": [
             {
@@ -2247,7 +2247,7 @@
             ]
           }
         ],
-        "name": "蟲蟲",
+        "name": "介殼蟲",
         "prevention": {
           "groups": [
             {
@@ -2298,7 +2298,7 @@
         }
       },
       "P04": {
-        "name": "粉蟲",
+        "name": "粉介殼蟲",
         "prevention": {
           "groups": [
             {
@@ -2373,7 +2373,7 @@
             ]
           }
         ],
-        "name": "蜘蛛螨",
+        "name": "葉蟎（紅蜘蛛）",
         "prevention": {
           "groups": [
             {
@@ -2427,7 +2427,7 @@
         }
       },
       "P06": {
-        "name": "葉甲蟲",
+        "name": "葉甲",
         "prevention": {
           "groups": [
             {
@@ -2481,7 +2481,7 @@
         }
       },
       "P07": {
-        "name": "葉蟲",
+        "name": "葉象甲",
         "prevention": {
           "groups": [
             {
@@ -2521,7 +2521,7 @@
         }
       },
       "P08": {
-        "name": "長角甲蟲",
+        "name": "天牛",
         "prevention": {
           "groups": [
             {
@@ -2564,7 +2564,7 @@
         }
       },
       "P09": {
-        "name": "蝸牛和蝸牛",
+        "name": "蛞蝓與蝸牛",
         "prevention": {
           "groups": [
             {
@@ -2631,7 +2631,7 @@
             ]
           }
         ],
-        "name": "吃植物的害蟲",
+        "name": "薊馬",
         "prevention": {
           "groups": [
             {
@@ -2702,7 +2702,7 @@
             ]
           }
         ],
-        "name": "蕾絲蟲",
+        "name": "網蝽（軍配蟲）",
         "prevention": {
           "groups": [
             {
@@ -2759,7 +2759,7 @@
         }
       },
       "P12": {
-        "name": "葉蟲",
+        "name": "葉蟬",
         "prevention": {
           "groups": [
             {
@@ -2801,7 +2801,7 @@
         }
       },
       "P13": {
-        "name": "Tortrix蛾",
+        "name": "捲葉蛾",
         "prevention": {
           "groups": [
             {
@@ -2852,7 +2852,7 @@
         }
       },
       "P14": {
-        "name": "葉子採礦者",
+        "name": "潛葉蟲",
         "prevention": {
           "groups": [
             {
@@ -2903,7 +2903,7 @@
         }
       },
       "P15": {
-        "name": "白粉蟲",
+        "name": "粉蝨",
         "prevention": {
           "groups": [
             {
@@ -2960,7 +2960,7 @@
         }
       },
       "P16": {
-        "name": "真菌蚊子（成體）",
+        "name": "蕈蚋（成蟲）",
         "prevention": {
           "groups": [
             {
@@ -3022,7 +3022,7 @@
             ]
           }
         ],
-        "name": "根腐爛",
+        "name": "根腐病",
         "prevention": {
           "groups": [
             {
@@ -3154,7 +3154,7 @@
           },
           null
         ],
-        "name": "土壤上的黴菌",
+        "name": "土壤黴變",
         "prevention": {
           "groups": [
             {
@@ -3199,7 +3199,7 @@
         }
       },
       "R04": {
-        "name": "盆栽根系",
+        "name": "盤根",
         "prevention": {
           "groups": [
             {
@@ -3249,7 +3249,7 @@
         }
       },
       "R05": {
-        "name": "鹽堆積",
+        "name": "鹽分積累",
         "prevention": {
           "groups": [
             {
@@ -3314,7 +3314,7 @@
           null,
           null
         ],
-        "name": "抑制腐敗",
+        "name": "猝倒病",
         "prevention": {
           "groups": [
             {
@@ -3381,7 +3381,7 @@
           },
           null
         ],
-        "name": "真菌蚊子幼蟲",
+        "name": "蕈蚋幼蟲",
         "prevention": {
           "groups": [
             {
@@ -3427,7 +3427,7 @@
         }
       },
       "ST01": {
-        "name": "萎縮",
+        "name": "萎凋",
         "prevention": {
           "groups": [
             {
@@ -3487,7 +3487,7 @@
         }
       },
       "ST02": {
-        "name": "樹枝病",
+        "name": "枝枯病",
         "prevention": {
           "groups": [
             {
@@ -3535,7 +3535,7 @@
         }
       },
       "ST03": {
-        "name": "枯萎",
+        "name": "枯梢病",
         "prevention": {
           "groups": [
             {
@@ -3590,7 +3590,7 @@
         }
       },
       "ST04": {
-        "name": "莖腐爛（軟腐爛）",
+        "name": "莖腐病（軟腐）",
         "prevention": {
           "groups": [
             {
@@ -3651,7 +3651,7 @@
         }
       },
       "ST05": {
-        "name": "齲齒",
+        "name": "潰瘍病",
         "prevention": {
           "groups": [
             {
@@ -3700,7 +3700,7 @@
         }
       },
       "ST06": {
-        "name": "樹皮上的曬傷",
+        "name": "樹皮日灼",
         "prevention": {
           "groups": [
             {
@@ -3747,7 +3747,7 @@
         }
       },
       "ST07": {
-        "name": "女巫的掃帚",
+        "name": "叢枝病",
         "prevention": {
           "groups": [
             {
@@ -3798,7 +3798,7 @@
         }
       },
       "ST08": {
-        "name": "冠狀瘤",
+        "name": "根癌病",
         "prevention": {
           "groups": [
             {
@@ -3850,7 +3850,7 @@
         }
       },
       "ST09": {
-        "name": "幹部疤痕",
+        "name": "莖部疤痕",
         "prevention": {
           "groups": [
             {
