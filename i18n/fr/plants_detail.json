@@ -3,8 +3,8 @@
   "locale": "fr",
   "source": {
     "resource": "plants_detail.json",
-    "sha256": "0206f32ca97ebc7051f0e0a09ad976615488e1bb8600af2bfb00da9ca50fce90",
-    "record_count": 1522
+    "sha256": "3654d7d2b7aa5239afa77c46314a1d394c23213d04938941c9985463d7843f99",
+    "record_count": 1523
   },
   "records": {
     "AAA0001": {
@@ -93858,6 +93858,66 @@
         "common_name": "Zinnia du Pérou",
         "history_text_short": "Le zinnia du Pérou s'étend du sud-ouest des États-Unis à travers le Mexique et l'Amérique centrale jusqu'aux Andes. Linné l'a d'abord placé dans un autre genre en 1753, mais ses fleurs rouge-orange sauvages ont ensuite aidé les sélectionneurs à ajouter de la résilience aux zinnias de jardin modernes.",
         "name_origin": "'peruviana' fait référence au Pérou, où les botanistes du XVIIIe siècle ont collecté le spécimen type, bien que l'espèce ait une répartition bien plus large."
+      }
+    },
+    "AAA1523": {
+      "source_hash": "89f389a161112879e89d0dbc657951b153e01c48acd9d08998845713f62d1f66",
+      "fields": {
+        "common_name": "Mānuka",
+        "bloom_tip": "Le Mānuka produit de spectaculaires fleurs blanches à roses de la fin de l'automne au début de l'hiver.",
+        "description": "Leptospermum scoparium, communément appelé Mānuka, est un arbuste persistant originaire de Nouvelle-Zélande, apprécié pour son feuillage aromatique et son miel précieux.",
+        "history_text_short": "Endémique de Nouvelle-Zélande et du sud-est de l'Australie, le Mānuka est depuis des siècles un pilier de la médecine traditionnelle maorie (rongoā) ; son écorce, ses feuilles et sa sève servaient à soigner plaies et fièvres. L'équipage du capitaine Cook infusa ses feuilles en 1769, ce qui lui valut le nom colonial d'« arbre à thé ». Aujourd'hui, son nectar donne le précieux miel de Mānuka, aux propriétés antibactériennes.",
+        "history_text_long": "Le Mānuka pousse sur les collines et les côtes de Nouvelle-Zélande bien avant l'arrivée de l'homme, arbuste pionnier qui colonise les sols nus et brûlés. Pour les Maoris, il fut une pierre angulaire du rongoā : les infusions de feuilles apaisaient la fièvre et les maux d'estomac, la gomme calmait la toux et les brûlures, et son bois dur était façonné en outils et en armes. Lorsque le capitaine James Cook atteignit la Nouvelle-Zélande en 1769, son équipage infusa les feuilles aromatiques en un thé amer contre le scorbut, et le nom d'« arbre à thé » s'imposa. Au XXe siècle, la science rejoignit la tradition : le nectar des fleurs de Mānuka donne un miel riche en méthylglyoxal, dont le pouvoir antibactérien fit d'un humble arbuste de lande l'un des produits d'exportation les plus prisés du pays.",
+        "name_origin": "Leptospermum réunit le grec « leptos » (mince) et « sperma » (graine), pour ses fines graines ; l'épithète « scoparium » est le latin pour « en forme de balai », d'après les rameaux jadis liés en balais. « Mānuka » est le nom maori qui perdure.",
+        "fragrance": {
+          "notes": "Le feuillage froissé libère un arôme chaud et résineux d'arbre à thé, relevé d'une légère douceur miellée."
+        },
+        "uses_list": [
+          {
+            "text": "Des fleurs riches en nectar nourrissent les abeilles et donnent le miel de Mānuka antibactérien."
+          },
+          {
+            "text": "Un remède traditionnel maori (rongoā) pour les plaies, les fièvres et la toux."
+          },
+          {
+            "text": "Arbuste persistant et compact, prisé pour ses spectaculaires fleurs blanches à roses."
+          },
+          {
+            "text": "Feuillage aromatique d'arbre à thé qui parfume le jardin quand on l'effleure."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "résilience",
+            "description": "colonise les sols nus, brûlés et battus par le vent où peu de choses poussent"
+          },
+          {
+            "keyword": "guérison",
+            "description": "médecine rongoā et miel antibactérien tiré de ses fleurs"
+          }
+        ],
+        "symbolism_story": "Le Mānuka porte un message tranquille de résilience et de guérison. Il est le premier à revenir sur la terre brûlée et pierreuse ; ses racines fixent les sols côtiers fragiles et sa canopée abrite la forêt qui lui succède, un pionnier qui répare la terre elle-même. De cette même robustesse naît son don de guérison : le rongoā des guérisseurs maoris et le miel antibactérien tiré de ses fleurs. Planter un Mānuka, c'est inviter une endurance qui rend en retour.",
+        "flower_meaning": "résilience",
+        "toxicity": {
+          "headline": "Pas de toxicité rapportée",
+          "active_compound_display": "Aucun signalé",
+          "cat": {
+            "effect": "Aucun effet toxique n'est signalé.",
+            "exposure": "Aucune voie d'exposition n'est signalée.",
+            "note": "Aucune toxicité n'est signalée pour les chats dans ce catalogue ; cela ne prouve pas que la plante soit comestible ou inoffensive."
+          },
+          "dog": {
+            "effect": "Aucun effet toxique n'est signalé.",
+            "exposure": "Aucune voie d'exposition n'est signalée.",
+            "note": "Aucune toxicité n'est signalée pour les chiens dans ce catalogue ; cela ne prouve pas que la plante soit comestible ou inoffensive."
+          },
+          "human": {
+            "effect": "Aucun effet toxique n'est signalé.",
+            "exposure": "Aucune voie d'exposition n'est signalée.",
+            "note": "Aucune toxicité n'est signalée pour les humains dans ce catalogue ; cela ne prouve pas que la plante soit comestible ou inoffensive."
+          },
+          "notes_en": "Non signalé toxique."
+        }
       }
     }
   }

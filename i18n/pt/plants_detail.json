@@ -3,8 +3,8 @@
   "locale": "pt",
   "source": {
     "resource": "plants_detail.json",
-    "sha256": "0206f32ca97ebc7051f0e0a09ad976615488e1bb8600af2bfb00da9ca50fce90",
-    "record_count": 1522
+    "sha256": "3654d7d2b7aa5239afa77c46314a1d394c23213d04938941c9985463d7843f99",
+    "record_count": 1523
   },
   "records": {
     "AAA0001": {
@@ -93858,6 +93858,66 @@
             "text": "As flores de Zinnia peruana nutrem as abelhas forrageiras e os polinizadores"
           }
         ]
+      }
+    },
+    "AAA1523": {
+      "source_hash": "89f389a161112879e89d0dbc657951b153e01c48acd9d08998845713f62d1f66",
+      "fields": {
+        "common_name": "Mānuka",
+        "bloom_tip": "O Mānuka produz flores vistosas de branco a rosa do fim do outono ao início do inverno.",
+        "description": "Leptospermum scoparium, comumente conhecido como Mānuka, é um arbusto perene nativo da Nova Zelândia, valorizado por sua folhagem aromática e seu valioso mel.",
+        "history_text_short": "Endêmico da Nova Zelândia e do sudeste da Austrália, o Mānuka é há séculos um pilar da medicina tradicional maori (rongoā); sua casca, folhas e seiva eram usadas para tratar feridas e febres. A tripulação do capitão Cook fez uma infusão com suas folhas em 1769, o que lhe rendeu o nome colonial de «árvore do chá». Hoje seu néctar produz o cobiçado mel de Mānuka, de propriedades antibacterianas.",
+        "history_text_long": "O Mānuka cresce pelas colinas e costas da Nova Zelândia desde muito antes da chegada humana, um arbusto pioneiro que coloniza solos nus e queimados. Para os maoris foi um alicerce do rongoā: as infusões das folhas aliviavam a febre e os males do estômago, a resina acalmava a tosse e as queimaduras, e a madeira dura era trabalhada em ferramentas e armas. Quando o capitão James Cook chegou à Nova Zelândia em 1769, sua tripulação preparou com as folhas aromáticas um chá amargo contra o escorbuto, e o nome «árvore do chá» ficou. No século XX a ciência alcançou a tradição: o néctar das flores de Mānuka dá um mel rico em metilglioxal, cujo poder antibacteriano transformou um humilde arbusto de charneca num dos produtos de exportação mais valiosos do país.",
+        "name_origin": "Leptospermum une o grego «leptos» (delgado) e «sperma» (semente), por suas sementes finas; o nome da espécie «scoparium» é latim para «semelhante a vassoura», dos ramos outrora atados em vassouras. «Mānuka» é o duradouro nome maori.",
+        "fragrance": {
+          "notes": "A folhagem amassada libera um aroma quente e resinoso de árvore do chá, com um leve dulçor de mel."
+        },
+        "uses_list": [
+          {
+            "text": "Flores ricas em néctar alimentam as abelhas e dão o mel de Mānuka antibacteriano."
+          },
+          {
+            "text": "Um remédio tradicional maori (rongoā) para feridas, febres e tosse."
+          },
+          {
+            "text": "Arbusto perene e compacto, valorizado por suas vistosas flores de branco a rosa."
+          },
+          {
+            "text": "Folhagem aromática de árvore do chá que perfuma o jardim ao ser roçada."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "resiliência",
+            "description": "coloniza solos nus, queimados e varridos pelo vento onde pouco mais cresce"
+          },
+          {
+            "keyword": "cura",
+            "description": "medicina rongoā e mel antibacteriano extraído de suas flores"
+          }
+        ],
+        "symbolism_story": "O Mānuka carrega uma mensagem serena de resiliência e cura. É o primeiro a voltar à terra queimada e pedregosa; suas raízes firmam os frágeis solos costeiros e sua copa abriga a floresta que se segue, um pioneiro que cura a própria terra. Dessa mesma resistência nasce seu dom de cura: o rongoā dos curandeiros maoris e o mel antibacteriano de suas flores. Plantar um Mānuka é convidar uma perseverança que retribui.",
+        "flower_meaning": "resiliência",
+        "toxicity": {
+          "active_compound_display": "Nenhum relatado",
+          "cat": {
+            "effect": "Nenhum efeito tóxico é relatado.",
+            "exposure": "Nenhuma via de exposição é relatada.",
+            "note": "Nenhuma toxicidade é relatada para gatos neste catálogo; isso não é evidência de que a planta seja comestível ou inofensiva."
+          },
+          "dog": {
+            "effect": "Nenhum efeito tóxico é relatado.",
+            "exposure": "Nenhuma via de exposição é relatada.",
+            "note": "Nenhuma toxicidade é relatada para cães neste catálogo; isso não é evidência de que a planta seja comestível ou inofensiva."
+          },
+          "headline": "Nenhuma toxicidade relatada",
+          "human": {
+            "effect": "Nenhum efeito tóxico é relatado.",
+            "exposure": "Nenhuma via de exposição é relatada.",
+            "note": "Nenhuma toxicidade é relatada para humanos neste catálogo; isso não é evidência de que a planta seja comestível ou inofensiva."
+          },
+          "notes_en": "Não relatado como tóxico."
+        }
       }
     }
   }

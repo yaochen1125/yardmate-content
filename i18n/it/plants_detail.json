@@ -3,8 +3,8 @@
   "locale": "it",
   "source": {
     "resource": "plants_detail.json",
-    "sha256": "0206f32ca97ebc7051f0e0a09ad976615488e1bb8600af2bfb00da9ca50fce90",
-    "record_count": 1522
+    "sha256": "3654d7d2b7aa5239afa77c46314a1d394c23213d04938941c9985463d7843f99",
+    "record_count": 1523
   },
   "records": {
     "AAA0001": {
@@ -93858,6 +93858,66 @@
             "text": "I fiori di Zinnia peruviana nutrono api e impollinatori in cerca di cibo"
           }
         ]
+      }
+    },
+    "AAA1523": {
+      "source_hash": "89f389a161112879e89d0dbc657951b153e01c48acd9d08998845713f62d1f66",
+      "fields": {
+        "common_name": "Mānuka",
+        "bloom_tip": "Il Mānuka produce vistosi fiori dal bianco al rosa dal tardo autunno all'inizio dell'inverno.",
+        "description": "Leptospermum scoparium, comunemente noto come Mānuka, è un arbusto sempreverde originario della Nuova Zelanda, apprezzato per il fogliame aromatico e il pregiato miele.",
+        "history_text_short": "Endemico della Nuova Zelanda e dell'Australia sud-orientale, il Mānuka è da secoli un pilastro della medicina tradizionale maori (rongoā); corteccia, foglie e resina venivano usate per curare ferite e febbri. L'equipaggio del capitano Cook ne mise in infusione le foglie nel 1769, guadagnandogli il nome coloniale di «albero del tè». Oggi il suo nettare dà il pregiato miele di Mānuka, dalle proprietà antibatteriche.",
+        "history_text_long": "Il Mānuka cresce sulle colline e le coste della Nuova Zelanda da molto prima dell'arrivo dell'uomo, arbusto pioniere che colonizza i suoli nudi e bruciati. Per i Maori fu un pilastro del rongoā: gli infusi di foglie alleviavano febbre e disturbi di stomaco, la resina calmava tosse e scottature, e il legno duro veniva lavorato in utensili e armi. Quando il capitano James Cook raggiunse la Nuova Zelanda nel 1769, il suo equipaggio mise in infusione le foglie aromatiche in un tè amaro contro lo scorbuto, e il nome «albero del tè» rimase. Nel XX secolo la scienza raggiunse la tradizione: il nettare dei fiori di Mānuka produce un miele ricco di metilgliossale, il cui potere antibatterico trasformò un umile arbusto di brughiera in uno dei prodotti d'esportazione più preziosi del Paese.",
+        "name_origin": "Leptospermum unisce il greco «leptos» (sottile) e «sperma» (seme), per i suoi semi minuti; il nome della specie «scoparium» è latino per «simile a una scopa», dai rami un tempo legati in scope. «Mānuka» è il nome maori che perdura.",
+        "fragrance": {
+          "notes": "Il fogliame sfregato sprigiona un aroma caldo e resinoso di albero del tè, con una lieve dolcezza di miele."
+        },
+        "uses_list": [
+          {
+            "text": "Fiori ricchi di nettare nutrono le api e danno il miele di Mānuka antibatterico."
+          },
+          {
+            "text": "Un rimedio tradizionale maori (rongoā) per ferite, febbri e tosse."
+          },
+          {
+            "text": "Arbusto sempreverde e compatto, apprezzato per i vistosi fiori dal bianco al rosa."
+          },
+          {
+            "text": "Fogliame aromatico di albero del tè che profuma il giardino quando viene sfiorato."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "resilienza",
+            "description": "colonizza suoli nudi, bruciati e battuti dal vento dove poco altro cresce"
+          },
+          {
+            "keyword": "guarigione",
+            "description": "medicina rongoā e miele antibatterico tratto dai suoi fiori"
+          }
+        ],
+        "symbolism_story": "Il Mānuka porta un messaggio silenzioso di resilienza e guarigione. È il primo a tornare sulla terra bruciata e sassosa; le sue radici trattengono i fragili suoli costieri e la sua chioma ripara la foresta che segue, un pioniere che risana la terra stessa. Dalla stessa tenacia nasce il suo dono di guarigione: il rongoā dei guaritori maori e il miele antibatterico tratto dai suoi fiori. Piantare un Mānuka significa invitare una costanza che restituisce.",
+        "flower_meaning": "resilienza",
+        "toxicity": {
+          "active_compound_display": "Nessuno segnalato",
+          "cat": {
+            "effect": "Non è segnalato alcun effetto tossico.",
+            "exposure": "Non è segnalata alcuna via di esposizione.",
+            "note": "In questo catalogo non è segnalata tossicità per i gatti; ciò non costituisce prova che la pianta sia commestibile o innocua."
+          },
+          "dog": {
+            "effect": "Non è segnalato alcun effetto tossico.",
+            "exposure": "Non è segnalata alcuna via di esposizione.",
+            "note": "In questo catalogo non è segnalata tossicità per i cani; ciò non costituisce prova che la pianta sia commestibile o innocua."
+          },
+          "headline": "Nessuna tossicità segnalata",
+          "human": {
+            "effect": "Non è segnalato alcun effetto tossico.",
+            "exposure": "Non è segnalata alcuna via di esposizione.",
+            "note": "In questo catalogo non è segnalata tossicità per gli esseri umani; ciò non costituisce prova che la pianta sia commestibile o innocua."
+          },
+          "notes_en": "Non segnalato come tossico."
+        }
       }
     }
   }

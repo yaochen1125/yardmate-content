@@ -3,8 +3,8 @@
   "locale": "de",
   "source": {
     "resource": "plants_detail.json",
-    "sha256": "0206f32ca97ebc7051f0e0a09ad976615488e1bb8600af2bfb00da9ca50fce90",
-    "record_count": 1522
+    "sha256": "3654d7d2b7aa5239afa77c46314a1d394c23213d04938941c9985463d7843f99",
+    "record_count": 1523
   },
   "records": {
     "AAA0001": {
@@ -93858,6 +93858,66 @@
             "text": "Peruanische Zinnia-Blüten nähren sammelnde Bienen und Bestäuber"
           }
         ]
+      }
+    },
+    "AAA1523": {
+      "source_hash": "89f389a161112879e89d0dbc657951b153e01c48acd9d08998845713f62d1f66",
+      "fields": {
+        "common_name": "Mānuka",
+        "bloom_tip": "Die Mānuka trägt von Spätherbst bis Frühwinter auffällige weiße bis rosafarbene Blüten.",
+        "description": "Leptospermum scoparium, allgemein als Mānuka bekannt, ist ein immergrüner Strauch aus Neuseeland, geschätzt für sein aromatisches Laub und seinen wertvollen Honig.",
+        "history_text_short": "Endemisch in Neuseeland und Südostaustralien, ist die Mānuka seit Jahrhunderten ein Kernstück der Māori-Heilkunde (rongoā); Rinde, Blätter und Harz dienten zur Behandlung von Wunden und Fieber. Die Mannschaft von Captain Cook braute 1769 aus ihren Blättern einen Tee, was ihr den Siedlernamen „Teebaum“ einbrachte. Heute liefert ihr Nektar den begehrten antibakteriellen Mānuka-Honig.",
+        "history_text_long": "Die Mānuka wächst schon lange vor der Ankunft des Menschen über Neuseelands Hügel und Küsten, ein Pionierstrauch, der kahlen und verbrannten Boden besiedelt. Für die Māori war sie ein Eckpfeiler der rongoā: Aufgüsse der Blätter linderten Fieber und Magenbeschwerden, das Harz beruhigte Husten und Verbrühungen, und das harte Holz wurde zu Werkzeugen und Waffen verarbeitet. Als Captain James Cook 1769 Neuseeland erreichte, brühte seine Mannschaft die aromatischen Blätter zu einem bitteren Tee gegen Skorbut, und der Name „Teebaum“ blieb haften. Im 20. Jahrhundert holte die Wissenschaft die Tradition ein: Der Nektar der Mānuka-Blüten ergibt einen Honig reich an Methylglyoxal, dessen antibakterielle Kraft einen bescheidenen Buschlandstrauch zu einem der wertvollsten Exportgüter des Landes machte.",
+        "name_origin": "Leptospermum verbindet das griechische „leptos“ (schlank) und „sperma“ (Same), nach seinen feinen Samen; der Artname „scoparium“ ist lateinisch für „besenartig“, nach den einst zu Besen gebundenen Zweigen. „Mānuka“ ist der bleibende Māori-Name.",
+        "fragrance": {
+          "notes": "Zerriebenes Laub verströmt ein warmes, harziges Teebaum-Aroma mit einer zarten honigsüßen Note."
+        },
+        "uses_list": [
+          {
+            "text": "Nektarreiche Blüten nähren Bienen und liefern antibakteriellen Mānuka-Honig."
+          },
+          {
+            "text": "Ein traditionelles Māori-rongoā-Heilmittel für Wunden, Fieber und Husten."
+          },
+          {
+            "text": "Kompakter immergrüner Strauch, geschätzt für seine auffälligen weiß-bis-rosa Blüten."
+          },
+          {
+            "text": "Aromatisches Teebaum-Laub, das den Garten beim Streifen duften lässt."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Widerstandskraft",
+            "description": "besiedelt kahlen, verbrannten und windgepeitschten Boden, wo sonst kaum etwas wächst"
+          },
+          {
+            "keyword": "Heilung",
+            "description": "rongoā-Medizin und antibakterieller Honig aus ihren Blüten"
+          }
+        ],
+        "symbolism_story": "Die Mānuka trägt eine leise Botschaft von Widerstandskraft und Heilung. Sie kehrt als Erste auf verbrannten und steinigen Boden zurück, ihre Wurzeln festigen fragile Küstenerde und ihr Blätterdach schützt den nachfolgenden Wald – ein Pionier, der den Boden selbst heilt. Aus derselben Zähigkeit erwächst ihre Gabe der Heilung: die rongoā der Māori-Heiler und der antibakterielle Honig aus ihren Blüten. Eine Mānuka zu pflanzen heißt, eine Ausdauer einzuladen, die zurückgibt.",
+        "flower_meaning": "Widerstandskraft",
+        "toxicity": {
+          "active_compound_display": "Keine bekannt",
+          "cat": {
+            "effect": "Es ist keine toxische Wirkung bekannt.",
+            "exposure": "Es ist kein Expositionsweg bekannt.",
+            "note": "In diesem Katalog wird keine Toxizität für Katzen gemeldet; dies ist kein Beleg dafür, dass die Pflanze essbar oder unschädlich ist."
+          },
+          "dog": {
+            "effect": "Es ist keine toxische Wirkung bekannt.",
+            "exposure": "Es ist kein Expositionsweg bekannt.",
+            "note": "In diesem Katalog wird keine Toxizität für Hunde gemeldet; dies ist kein Beleg dafür, dass die Pflanze essbar oder unschädlich ist."
+          },
+          "headline": "Keine Toxizität bekannt",
+          "human": {
+            "effect": "Es ist keine toxische Wirkung bekannt.",
+            "exposure": "Es ist kein Expositionsweg bekannt.",
+            "note": "In diesem Katalog wird keine Toxizität für Menschen gemeldet; dies ist kein Beleg dafür, dass die Pflanze essbar oder unschädlich ist."
+          },
+          "notes_en": "Nicht als giftig bekannt."
+        }
       }
     }
   }

@@ -3,8 +3,8 @@
   "locale": "vi",
   "source": {
     "resource": "plants_detail.json",
-    "sha256": "0206f32ca97ebc7051f0e0a09ad976615488e1bb8600af2bfb00da9ca50fce90",
-    "record_count": 1522
+    "sha256": "3654d7d2b7aa5239afa77c46314a1d394c23213d04938941c9985463d7843f99",
+    "record_count": 1523
   },
   "records": {
     "AAA0001": {
@@ -93858,6 +93858,66 @@
             "text": "Hoa Zinnia Peru nuôi dưỡng ong và các loài thụ phấn kiếm ăn"
           }
         ]
+      }
+    },
+    "AAA1523": {
+      "source_hash": "89f389a161112879e89d0dbc657951b153e01c48acd9d08998845713f62d1f66",
+      "fields": {
+        "common_name": "Mānuka",
+        "bloom_tip": "Cây Mānuka nở những chùm hoa trắng đến hồng nổi bật từ cuối thu đến đầu đông.",
+        "description": "Leptospermum scoparium, thường được gọi là Mānuka, là một loài cây bụi thường xanh có nguồn gốc từ New Zealand, được quý trọng nhờ tán lá thơm và mật ong quý giá.",
+        "history_text_short": "Đặc hữu của New Zealand và đông nam Australia, Mānuka từ nhiều thế kỷ đã là trụ cột của y học cổ truyền Māori (rongoā); vỏ, lá và nhựa cây được dùng để chữa vết thương và sốt. Thủy thủ đoàn của thuyền trưởng Cook đã hãm lá cây thành trà năm 1769, khiến nó có tên gọi thời thuộc địa là «cây trà». Ngày nay mật hoa của nó cho ra mật ong Mānuka quý giá với đặc tính kháng khuẩn.",
+        "history_text_long": "Mānuka đã mọc khắp đồi núi và bờ biển New Zealand từ rất lâu trước khi con người đặt chân đến, một loài cây bụi tiên phong chiếm lĩnh vùng đất trơ trọi và cháy xém. Với người Māori, nó là nền tảng của rongoā: nước hãm từ lá làm dịu cơn sốt và bệnh dạ dày, nhựa cây làm dịu ho và bỏng, còn thân gỗ cứng được chế thành công cụ và vũ khí. Khi thuyền trưởng James Cook đến New Zealand năm 1769, thủy thủ đoàn của ông hãm lá thơm thành thứ trà đắng để chống bệnh scorbut, và cái tên «cây trà» đã gắn liền. Đến thế kỷ 20, khoa học bắt kịp truyền thống: mật hoa Mānuka cho ra loại mật ong giàu methylglyoxal, sức kháng khuẩn của nó đã biến một loài cây bụi khiêm nhường thành một trong những mặt hàng xuất khẩu giá trị nhất của đất nước.",
+        "name_origin": "Leptospermum ghép từ tiếng Hy Lạp «leptos» (mảnh) và «sperma» (hạt), theo những hạt nhỏ mịn; tên loài «scoparium» là tiếng Latinh nghĩa là «giống cây chổi», theo những cành từng được bó thành chổi. «Mānuka» là tên Māori vẫn còn lưu truyền.",
+        "fragrance": {
+          "notes": "Lá vò nát tỏa hương cây trà ấm áp, nhựa thơm, thoảng vị ngọt mật ong."
+        },
+        "uses_list": [
+          {
+            "text": "Hoa giàu mật nuôi ong và cho ra mật ong Mānuka kháng khuẩn."
+          },
+          {
+            "text": "Một bài thuốc Māori cổ truyền (rongoā) chữa vết thương, sốt và ho."
+          },
+          {
+            "text": "Cây bụi thường xanh nhỏ gọn, được ưa chuộng nhờ những chùm hoa trắng đến hồng nổi bật."
+          },
+          {
+            "text": "Tán lá cây trà thơm ngát, tỏa hương khắp vườn khi chạm vào."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "kiên cường",
+            "description": "chiếm lĩnh vùng đất trơ trọi, cháy xém và lộng gió nơi ít loài nào sống nổi"
+          },
+          {
+            "keyword": "chữa lành",
+            "description": "y học rongoā và mật ong kháng khuẩn lấy từ hoa của nó"
+          }
+        ],
+        "symbolism_story": "Mānuka mang một thông điệp lặng lẽ về sự kiên cường và chữa lành. Nó là loài đầu tiên trở lại vùng đất cháy xém và sỏi đá; rễ giữ chặt lớp đất ven biển mong manh và tán lá che chở cho khu rừng nối tiếp — một kẻ tiên phong hàn gắn chính mặt đất. Từ chính sự bền bỉ ấy sinh ra món quà chữa lành: rongoā của các thầy lang Māori và mật ong kháng khuẩn từ hoa của nó. Trồng một cây Mānuka là mời gọi một sự bền bỉ biết đền đáp.",
+        "flower_meaning": "kiên cường",
+        "toxicity": {
+          "active_compound_display": "Không có báo cáo",
+          "cat": {
+            "effect": "Không có tác dụng độc hại nào được báo cáo.",
+            "exposure": "Không có đường phơi nhiễm nào được báo cáo.",
+            "note": "Không có độc tính nào được báo cáo đối với mèo trong danh mục này; điều này không phải là bằng chứng cho thấy cây có thể ăn được hoặc vô hại."
+          },
+          "dog": {
+            "effect": "Không có tác dụng độc hại nào được báo cáo.",
+            "exposure": "Không có đường phơi nhiễm nào được báo cáo.",
+            "note": "Không có độc tính nào được báo cáo đối với chó trong danh mục này; điều này không phải là bằng chứng cho thấy cây có thể ăn được hoặc vô hại."
+          },
+          "headline": "Không có độc tính được báo cáo",
+          "human": {
+            "effect": "Không có tác dụng độc hại nào được báo cáo.",
+            "exposure": "Không có đường phơi nhiễm nào được báo cáo.",
+            "note": "Không có độc tính nào được báo cáo đối với người trong danh mục này; điều này không phải là bằng chứng cho thấy cây có thể ăn được hoặc vô hại."
+          },
+          "notes_en": "Không được báo cáo là độc hại."
+        }
       }
     }
   }
