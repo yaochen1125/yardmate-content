@@ -3,8 +3,8 @@
   "locale": "it",
   "source": {
     "resource": "plants_detail.json",
-    "sha256": "3654d7d2b7aa5239afa77c46314a1d394c23213d04938941c9985463d7843f99",
-    "record_count": 1523
+    "sha256": "31500d81259df809fcc3f70ad2d9936ec3575549ba334d888a88de98bea98760",
+    "record_count": 1525
   },
   "records": {
     "AAA0001": {
@@ -93861,11 +93861,11 @@
       }
     },
     "AAA1523": {
-      "source_hash": "89f389a161112879e89d0dbc657951b153e01c48acd9d08998845713f62d1f66",
+      "source_hash": "006a6fc9470e4c394f84e4ead7414312d919b4f052381eb407f391a53b7f3443",
       "fields": {
         "common_name": "Mānuka",
         "bloom_tip": "Il Mānuka produce vistosi fiori dal bianco al rosa dal tardo autunno all'inizio dell'inverno.",
-        "description": "Leptospermum scoparium, comunemente noto come Mānuka, è un arbusto sempreverde originario della Nuova Zelanda, apprezzato per il fogliame aromatico e il pregiato miele.",
+        "description": "Leptospermum scoparium, comunemente noto come mānuka o albero del tè, è un arbusto sempreverde e resistente originario della Nuova Zelanda e dell'Australia sud-orientale. Raggiunge i 2–5 m di altezza, con portamento denso e cespuglioso e piccole foglie aghiformi e aromatiche che, se stropicciate, emanano un profumo resinoso. Dal tardo autunno all'inizio dell'inverno si copre di vistosi fiori a cinque petali, dal bianco al rosa tenue, con un disco centrale rosso scuro che attira le api e altri impollinatori. Tenace pioniere di suoli poveri, sassosi e battuti dal vento, stabilizza i terreni fragili e protegge il bosco in rigenerazione. Il suo nettare produce il pregiato miele di mānuka, dalle proprietà antibatteriche, e i Māori usano da tempo le sue foglie, la corteccia e la resina nella medicina tradizionale rongoā.",
         "history_text_short": "Endemico della Nuova Zelanda e dell'Australia sud-orientale, il Mānuka è da secoli un pilastro della medicina tradizionale maori (rongoā); corteccia, foglie e resina venivano usate per curare ferite e febbri. L'equipaggio del capitano Cook ne mise in infusione le foglie nel 1769, guadagnandogli il nome coloniale di «albero del tè». Oggi il suo nettare dà il pregiato miele di Mānuka, dalle proprietà antibatteriche.",
         "history_text_long": "Il Mānuka cresce sulle colline e le coste della Nuova Zelanda da molto prima dell'arrivo dell'uomo, arbusto pioniere che colonizza i suoli nudi e bruciati. Per i Maori fu un pilastro del rongoā: gli infusi di foglie alleviavano febbre e disturbi di stomaco, la resina calmava tosse e scottature, e il legno duro veniva lavorato in utensili e armi. Quando il capitano James Cook raggiunse la Nuova Zelanda nel 1769, il suo equipaggio mise in infusione le foglie aromatiche in un tè amaro contro lo scorbuto, e il nome «albero del tè» rimase. Nel XX secolo la scienza raggiunse la tradizione: il nettare dei fiori di Mānuka produce un miele ricco di metilgliossale, il cui potere antibatterico trasformò un umile arbusto di brughiera in uno dei prodotti d'esportazione più preziosi del Paese.",
         "name_origin": "Leptospermum unisce il greco «leptos» (sottile) e «sperma» (seme), per i suoi semi minuti; il nome della specie «scoparium» è latino per «simile a una scopa», dai rami un tempo legati in scope. «Mānuka» è il nome maori che perdura.",
@@ -93899,24 +93899,160 @@
         "symbolism_story": "Il Mānuka porta un messaggio silenzioso di resilienza e guarigione. È il primo a tornare sulla terra bruciata e sassosa; le sue radici trattengono i fragili suoli costieri e la sua chioma ripara la foresta che segue, un pioniere che risana la terra stessa. Dalla stessa tenacia nasce il suo dono di guarigione: il rongoā dei guaritori maori e il miele antibatterico tratto dai suoi fiori. Piantare un Mānuka significa invitare una costanza che restituisce.",
         "flower_meaning": "resilienza",
         "toxicity": {
-          "active_compound_display": "Nessuno segnalato",
-          "cat": {
-            "effect": "Non è segnalato alcun effetto tossico.",
-            "exposure": "Non è segnalata alcuna via di esposizione.",
-            "note": "In questo catalogo non è segnalata tossicità per i gatti; ciò non costituisce prova che la pianta sia commestibile o innocua."
+          "headline": "Umani Sicuri · Animali domestici Sicuri",
+          "active_compound_display": "Nessun caso segnalato",
+          "notes_en": "Segnalato come non tossico da Pet Poison Helpline e da riferimenti veterinari.",
+          "human": {
+            "exposure": "Non è segnalata alcuna via di esposizione dannosa.",
+            "effect": "Non è segnalato alcun effetto tossico per gli umani.",
+            "note": "Mānuka è segnalato come non tossico per gli umani; consumare grandi quantità di materiale vegetale può causare un lieve disagio gastrico. Ciò non è prova che la pianta sia commestibile."
           },
           "dog": {
-            "effect": "Non è segnalato alcun effetto tossico.",
-            "exposure": "Non è segnalata alcuna via di esposizione.",
-            "note": "In questo catalogo non è segnalata tossicità per i cani; ciò non costituisce prova che la pianta sia commestibile o innocua."
+            "exposure": "Non è segnalata alcuna via di esposizione dannosa.",
+            "effect": "Non è segnalato alcun effetto tossico per i cani.",
+            "note": "Mānuka è segnalato come non tossico per i cani; consumare grandi quantità di materiale vegetale può causare un lieve disagio gastrico. Ciò non è prova che la pianta sia commestibile."
           },
-          "headline": "Nessuna tossicità segnalata",
+          "cat": {
+            "exposure": "Non è segnalata alcuna via di esposizione dannosa.",
+            "effect": "Non è segnalato alcun effetto tossico per i gatti.",
+            "note": "Mānuka è segnalato come non tossico per i gatti; consumare grandi quantità di materiale vegetale può causare un lieve disagio gastrico. Ciò non è prova che la pianta sia commestibile."
+          }
+        }
+      }
+    },
+    "AAA1524": {
+      "source_hash": "0d5d9d221b7c976a771a8ddccdd06e7e220e2d5131d2077a27c4b92d1c865b6d",
+      "fields": {
+        "common_name": "Agapanto",
+        "bloom_tip": "Questa pianta produce in estate ombrelle di appariscenti fiori blu.",
+        "fruit_tip": "Le vistose capsule di semi neri accrescono il valore ornamentale di questa pianta a fine estate.",
+        "description": "Agapanthus africanus, comunemente chiamato agapanto o giglio del Nilo, è una pianta perenne cespitosa originaria dei pendii rocciosi del fynbos del Capo Occidentale, in Sudafrica. Forma dense fontane di foglie verdi arcuate e nastriformi, da cui in estate si innalzano alti steli nudi, ciascuno coronato da un'ombrella arrotondata di venti-trenta fiori a imbuto, dal blu intenso al violetto. I fiori attirano api, farfalle e nettarinie, e lasciano il posto a ornamentali capsule di semi neri a fine estate. Alta e larga da 60 a 90 cm, prospera in pieno sole e in terreno argilloso ben drenato, tollera la siccità e il vento costiero una volta affermata, ed è apprezzata come pianta longeva da bordura, da vaso e da fiore reciso nei giardini caldi e privi di gelate.",
+        "history_text_short": "Agapanthus africanus fu portato dal Capo di Buona Speranza ai giardini europei da collezionisti olandesi e britannici nei secoli XVII e XVIII, dove le sue ombrelle blu estive ne fecero un'esotica pregiata da serra e da cortile. A lungo coltivato intorno alle fattorie del Capo, ricevette in Europa il fuorviante nome di «giglio del Nilo», pur non crescendo in alcun luogo vicino a quel fiume.",
+        "history_text_long": "Molto prima che le navi europee raggiungessero il Capo di Buona Speranza, Agapanthus africanus cresceva spontaneo sui pendii di arenaria percorsi dal fuoco del Capo Occidentale, dove i Khoikhoi e altri popoli ne apprezzavano radici e foglie nella medicina tradizionale e come amuleti protettivi. I coloni olandesi del Capo notarono le sue vigorose teste blu, e già alla fine del Seicento i bulbi viaggiavano verso gli orti botanici dei Paesi Bassi e, poco dopo, dell'Inghilterra. Lì il suo bisogno di sole e riparo ne fece una classica pianta da mastello, portata sulle terrazze d'estate e svernata sotto vetro. I vivaisti lo battezzarono «giglio del Nilo», un tocco romantico ma geograficamente errato, poiché la pianta è endemica del Capo. Nel corso dell'Ottocento e del Novecento si diffuse nel mondo temperato caldo, e oggi le sue ombrelle blu costeggiano vialetti e giardini costieri dal Mediterraneo alla California e all'Australia.",
+        "name_origin": "Il nome del genere Agapanthus deriva dal greco «agape» (amore) e «anthos» (fiore), con il senso poetico di «fiore dell'amore». L'epiteto specifico africanus rimanda alla sua terra d'origine sudafricana. Il nome popolare «giglio del Nilo» è una denominazione errata coniata in Europa, poiché la pianta è originaria del Capo e non cresce in alcun luogo vicino al Nilo.",
+        "symbolism_story": "Battezzato «fiore dell'amore» dai botanici che unirono le parole greche per amore e fiore, Agapanthus africanus reca un delicato messaggio di affetto e legami duraturi. Nella sua terra natale sudafricana significa più del romanticismo: le future madri ne portavano un tempo le radici come amuleto per un parto facile e un figlio sano, e lo si piantava a protezione della casa. Coltivarlo significa invitare tanto la bellezza quanto la benedizione, una promessa d'amore e di vita nuova che ritorna estate dopo estate.",
+        "flower_meaning": "Amore",
+        "uses_list": [
+          {
+            "text": "Pianta longeva da bordura e da vaso, coltivata per le sue intense ombrelle blu estive."
+          },
+          {
+            "text": "I fiori ricchi di nettare attirano api, farfalle e uccelli nettarivori."
+          },
+          {
+            "text": "Gli alti steli fiorali durevoli sono splendidi in composizioni recise ed essiccate."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Amore",
+            "description": "il suo nome greco, il «fiore dell'amore», lo lega all'affetto e alla devozione"
+          },
+          {
+            "keyword": "Fertilità",
+            "description": "nel suo Sudafrica natale è un amuleto tradizionale per la gravidanza e la protezione"
+          }
+        ],
+        "toxicity": {
+          "headline": "Umani Lieve · Animali domestici Lieve",
+          "active_compound_display": "Saponine",
+          "notes_en": "Saponine; basato su riferimenti veterinari ASPCA / LSU & Colorado State. Verificare prima di manipolare vicino ad animali domestici e bambini.",
           "human": {
-            "effect": "Non è segnalato alcun effetto tossico.",
-            "exposure": "Non è segnalata alcuna via di esposizione.",
-            "note": "In questo catalogo non è segnalata tossicità per gli esseri umani; ciò non costituisce prova che la pianta sia commestibile o innocua."
+            "exposure": "Manipolazione di steli tagliati o linfa, o ingestione di qualsiasi parte della pianta.",
+            "effect": "Eruzione cutanea e prurito dalla linfa; lieve irritazione della bocca o dello stomaco se ingerito.",
+            "note": "Agapanthus contiene saponine. La linfa può irritare la pelle e gli occhi, e il consumo della pianta può causare lievi irritazioni alla bocca e allo stomaco. L'avvelenamento grave è raro.",
+            "symptoms": [
+              "Eruzione cutanea, arrossamento o prurito dal contatto con la linfa.",
+              "Nausea, vomito o diarrea se consumato in quantità."
+            ]
           },
-          "notes_en": "Non segnalato come tossico."
+          "dog": {
+            "exposure": "Masticazione o ingestione di foglie, radici o linfa.",
+            "effect": "Lieve disagio gastrico, solitamente solo se consumato in quantità.",
+            "note": "Tossicità minima per i cani a meno che non sia consumato in quantità; le saponine possono causare irritazione gastrointestinale.",
+            "symptoms": [
+              "Vomito.",
+              "Diarrea.",
+              "Salivazione."
+            ]
+          },
+          "cat": {
+            "exposure": "Masticazione o ingestione di foglie, radici o linfa.",
+            "effect": "Lieve disagio gastrico; i gatti sono generalmente più sensibili dei cani.",
+            "note": "Tossicità minima, ma i gatti sono più sensibili; le saponine possono causare irritazione gastrointestinale e cutanea.",
+            "symptoms": [
+              "Vomito.",
+              "Diarrea.",
+              "Irritazione cutanea dal contatto con la linfa."
+            ]
+          }
+        }
+      }
+    },
+    "AAA1525": {
+      "source_hash": "d413e13ce36e2d499f6e30ed4a2530b36dbe511c95af4c9afd999620e2860174",
+      "fields": {
+        "common_name": "Tulbaghia",
+        "bloom_tip": "I fiori di questa pianta sbocciano tipicamente dalla primavera all'estate ed emanano una fragranza incantevole.",
+        "description": "La Tulbaghia violacea, conosciuta come Tulbaghia, è una perenne sempreverde delle praterie rocciose del Capo Orientale e del KwaZulu-Natal in Sudafrica. Forma ciuffi ordinati di foglie strette, a forma di nastro, di colore verde, che emanano un leggero odore di aglio quando vengono schiacciate. Da fine inverno a estate, steli sottili portano ombrelle arrotondate di piccoli fiori tubolari in lilla tenue o viola, dal dolce profumo di miele, amati da api e farfalle. Robusta e tollerante alla siccità in pieno sole e terreno ben drenato, resiste ai cervi e rimane attraente tutto l'anno. Le foglie donano un delicato sentore d'aglio in cucina e la pianta ha una lunga storia medicinale nell'Africa meridionale.",
+        "history_text_short": "I guaritori Zulu e Sotho del Capo Orientale in Sudafrica usavano da tempo l'Tulbaghia per febbri, raffreddori e infezioni. Il nome del genere onora Ryk Tulbagh, un governatore olandese del Capo del XVIII secolo che ne promosse la botanica, mentre il nome comune ricorda la leggenda coloniale secondo cui le sue foglie davano un alito d'aglio abbastanza educato per la compagnia.",
+        "history_text_long": "La Tulbaghia violacea iniziò come pianta medicinale del Capo Orientale e del KwaZulu-Natal in Sudafrica, dove le comunità Zulu e Sotho la conoscevano molto prima dei botanici europei. I guaritori tradizionali bollivano i suoi rizomi per febbri, infezioni respiratorie e parassiti intestinali e applicavano foglie schiacciate per il mal di testa — una farmacopea empirica successivamente confermata dai fitochimici che identificarono i composti organosolforici alla base della sua attività. Il genere onora Ryk Tulbagh (1699-1771), il governatore olandese della Colonia del Capo per la VOC, che corrispondeva con importanti botanici e contribuì a inviare esemplari del Capo agli erbari europei; l'epiteto violacea, per i fiori viola, fu aggiunto da William Henry Harvey. Il nome comune \"Tulbaghia\" deriva dal folklore coloniale secondo cui mangiare le foglie dava un alito d'aglio più mite e socialmente accettabile rispetto all'aglio vero. Portata nei giardini europei attraverso il XVIII e XIX secolo, si diffuse grazie alla sua natura sempreverde, alla lunga fioritura e alla facile cura, naturalizzandosi nel Mediterraneo, in California e nell'Australia meridionale, dove i selezionatori hanno creato forme variegate come 'Silver Lace'. Oggi è apprezzata come pianta da giardino a basso consumo idrico, amica degli impollinatori e resistente ai cervi, con usi tradizionali ora supportati da ricerche che confermano l'attività contro Candida e Staphylococcus.",
+        "name_origin": "Il nome del genere Tulbaghia onora Ryk Tulbagh (1699–1771), il governatore olandese della Colonia del Capo per la Compagnia Olandese delle Indie Orientali, che fu un appassionato sostenitore della storia naturale e facilitò attivamente la documentazione della flora del Capo per la scienza europea. L'epiteto specifico violacea è l'aggettivo latino che significa \"color viola\", riferito alla caratteristica tonalità lilla-violacea dei fiorellini tubolari che coronano ogni stelo fiorito da fine inverno a estate.",
+        "symbolism_story": "Nel linguaggio vittoriano dei fiori, le piante con forza nascosta erano associate all'idea che le qualità più ammirevoli — coraggio, perseveranza, genuina utilità — sono spesso nascoste dietro un volto modesto. L'Tulbaghia incarna perfettamente questo paradosso: da lontano, un ciuffo ordinato di foglie verdi strette coronato da delicate stelle viola; da vicino, un profumo medicinale pungente, una lunga storia di guarigione e fiori abbastanza dolci da attirare farfalle da tutto il giardino. I giardinieri che lo hanno coltivato per molte stagioni lo descrivono come un compagno silenzioso — uno che protegge l'ambiente circostante respingendo cervi e parassiti, nutre gli impollinatori per mesi di fioritura e ritorna fedelmente ogni anno senza richiedere attenzioni. C'è una certa saggezza gentile in quella costanza, un promemoria che i doni più duraturi sono quelli che si sostengono da soli.",
+        "flower_meaning": "Resilienza",
+        "fragrance": {
+          "notes": "Profumo dolce, floreale-mielato dalle ombrelle viola; le foglie schiacciate rilasciano un aroma pungente e caratteristico di aglio, completamente diverso dal profumo floreale."
+        },
+        "uses_list": [
+          {
+            "text": "Le ombrelle viola portano una fragranza dolce, simile al miele, mentre le foglie rilasciano un aroma pungente d'aglio quando vengono schiacciate — un punto di forza nei giardini sensoriali e profumati."
+          },
+          {
+            "text": "Foglie e fiori possono essere usati come un delicato sostituto dell'aglio in insalate, zuppe, saltati in padella e piatti cotti, aggiungendo un sapore di allium leggero senza retrogusto forte."
+          },
+          {
+            "text": "Nella medicina tradizionale dell'Africa meridionale, decotti di rizoma e preparati di foglie sono stati usati per generazioni per trattare febbri, raffreddori, parassiti intestinali e infezioni cutanee."
+          },
+          {
+            "text": "Le ombrelle viola profumate attirano api, farfalle e altri impollinatori durante la lunga stagione di fioritura da fine inverno a estate."
+          },
+          {
+            "text": "I ciuffi compatti sempreverdi con steli fioriti ariosi rendono l'Aglio della società ideale come bordura, esemplare in vaso, coprisuolo resistente ai cervi o pianta caratteristica in giardini a bassa manutenzione."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Resilienza",
+            "description": "Prosperando in condizioni di siccità, terreni poveri e incuria con silenziosa determinazione, l'Aglio della società è diventato simbolo di resistenza costante e del potere della forza interiore di fronte alle difficoltà esterne."
+          },
+          {
+            "keyword": "Virtù nascosta",
+            "description": "Sotto un aspetto modesto si celano genuino potere medicinale e utilità culinaria — un promemoria che il vero valore non è sempre visibile a prima vista e che il merito si rivela con il tempo."
+          },
+          {
+            "keyword": "Grazia sociale",
+            "description": "La leggenda coloniale secondo cui i coloni mangiavano Aglio della società prima degli eventi sociali per garantire un alito gradevole conferisce a questa pianta un'associazione duratura con cortesia, civiltà e l'arte della buona compagnia."
+          }
+        ],
+        "toxicity": {
+          "headline": "Nessuna tossicità segnalata",
+          "active_compound_display": "Nessuno segnalato",
+          "notes_en": "Non segnalato come tossico.",
+          "human": {
+            "exposure": "Non è segnalata alcuna via di esposizione.",
+            "effect": "Non è segnalato alcun effetto tossico.",
+            "note": "In questo catalogo non è segnalata tossicità per gli umani; ciò non prova che la pianta sia commestibile o innocua."
+          },
+          "dog": {
+            "exposure": "Non è segnalata alcuna via di esposizione.",
+            "effect": "Non è segnalato alcun effetto tossico.",
+            "note": "In questo catalogo non è segnalata tossicità per i cani; ciò non prova che la pianta sia commestibile o innocua."
+          },
+          "cat": {
+            "exposure": "Non è segnalata alcuna via di esposizione.",
+            "effect": "Non è segnalato alcun effetto tossico.",
+            "note": "In questo catalogo non è segnalata tossicità per i gatti; ciò non prova che la pianta sia commestibile o innocua."
+          }
         }
       }
     }

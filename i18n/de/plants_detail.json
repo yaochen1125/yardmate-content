@@ -3,8 +3,8 @@
   "locale": "de",
   "source": {
     "resource": "plants_detail.json",
-    "sha256": "3654d7d2b7aa5239afa77c46314a1d394c23213d04938941c9985463d7843f99",
-    "record_count": 1523
+    "sha256": "31500d81259df809fcc3f70ad2d9936ec3575549ba334d888a88de98bea98760",
+    "record_count": 1525
   },
   "records": {
     "AAA0001": {
@@ -93861,11 +93861,11 @@
       }
     },
     "AAA1523": {
-      "source_hash": "89f389a161112879e89d0dbc657951b153e01c48acd9d08998845713f62d1f66",
+      "source_hash": "006a6fc9470e4c394f84e4ead7414312d919b4f052381eb407f391a53b7f3443",
       "fields": {
         "common_name": "Mānuka",
         "bloom_tip": "Die Mānuka trägt von Spätherbst bis Frühwinter auffällige weiße bis rosafarbene Blüten.",
-        "description": "Leptospermum scoparium, allgemein als Mānuka bekannt, ist ein immergrüner Strauch aus Neuseeland, geschätzt für sein aromatisches Laub und seinen wertvollen Honig.",
+        "description": "Leptospermum scoparium, allgemein als Mānuka oder Teebaum bekannt, ist ein robuster immergrüner Strauch aus Neuseeland und dem Südosten Australiens. Er wird 2–5 m hoch, wächst dicht und buschig und trägt kleine, nadelartige aromatische Blätter, die zerrieben harzig duften. Vom Spätherbst bis zum Frühwinter ist er über und über mit auffälligen fünfblättrigen Blüten bedeckt, weiß bis zartrosa, deren dunkelrote Mitte Bienen und andere Bestäuber anlockt. Als zäher Pionier auf kargem, steinigem und windigem Boden festigt er fragile Böden und schützt nachwachsenden Wald. Sein Nektar liefert den geschätzten antibakteriellen Mānuka-Honig, und die Māori nutzen seine Blätter, Rinde und sein Harz seit Langem in der traditionellen Rongoā-Medizin.",
         "history_text_short": "Endemisch in Neuseeland und Südostaustralien, ist die Mānuka seit Jahrhunderten ein Kernstück der Māori-Heilkunde (rongoā); Rinde, Blätter und Harz dienten zur Behandlung von Wunden und Fieber. Die Mannschaft von Captain Cook braute 1769 aus ihren Blättern einen Tee, was ihr den Siedlernamen „Teebaum“ einbrachte. Heute liefert ihr Nektar den begehrten antibakteriellen Mānuka-Honig.",
         "history_text_long": "Die Mānuka wächst schon lange vor der Ankunft des Menschen über Neuseelands Hügel und Küsten, ein Pionierstrauch, der kahlen und verbrannten Boden besiedelt. Für die Māori war sie ein Eckpfeiler der rongoā: Aufgüsse der Blätter linderten Fieber und Magenbeschwerden, das Harz beruhigte Husten und Verbrühungen, und das harte Holz wurde zu Werkzeugen und Waffen verarbeitet. Als Captain James Cook 1769 Neuseeland erreichte, brühte seine Mannschaft die aromatischen Blätter zu einem bitteren Tee gegen Skorbut, und der Name „Teebaum“ blieb haften. Im 20. Jahrhundert holte die Wissenschaft die Tradition ein: Der Nektar der Mānuka-Blüten ergibt einen Honig reich an Methylglyoxal, dessen antibakterielle Kraft einen bescheidenen Buschlandstrauch zu einem der wertvollsten Exportgüter des Landes machte.",
         "name_origin": "Leptospermum verbindet das griechische „leptos“ (schlank) und „sperma“ (Same), nach seinen feinen Samen; der Artname „scoparium“ ist lateinisch für „besenartig“, nach den einst zu Besen gebundenen Zweigen. „Mānuka“ ist der bleibende Māori-Name.",
@@ -93899,24 +93899,160 @@
         "symbolism_story": "Die Mānuka trägt eine leise Botschaft von Widerstandskraft und Heilung. Sie kehrt als Erste auf verbrannten und steinigen Boden zurück, ihre Wurzeln festigen fragile Küstenerde und ihr Blätterdach schützt den nachfolgenden Wald – ein Pionier, der den Boden selbst heilt. Aus derselben Zähigkeit erwächst ihre Gabe der Heilung: die rongoā der Māori-Heiler und der antibakterielle Honig aus ihren Blüten. Eine Mānuka zu pflanzen heißt, eine Ausdauer einzuladen, die zurückgibt.",
         "flower_meaning": "Widerstandskraft",
         "toxicity": {
-          "active_compound_display": "Keine bekannt",
-          "cat": {
-            "effect": "Es ist keine toxische Wirkung bekannt.",
-            "exposure": "Es ist kein Expositionsweg bekannt.",
-            "note": "In diesem Katalog wird keine Toxizität für Katzen gemeldet; dies ist kein Beleg dafür, dass die Pflanze essbar oder unschädlich ist."
+          "headline": "Menschen sicher · Haustiere sicher",
+          "active_compound_display": "Nichts bekannt",
+          "notes_en": "Laut Pet Poison Helpline und veterinärmedizinischen Quellen als ungiftig gemeldet.",
+          "human": {
+            "exposure": "Es sind keine schädlichen Expositionswege bekannt.",
+            "effect": "Für Menschen sind keine giftigen Wirkungen bekannt.",
+            "note": "Mānuka wird für Menschen als ungiftig gemeldet; das Fressen großer Mengen Pflanzenmaterial kann leichte Magenverstimmung verursachen. Das ist kein Beweis dafür, dass die Pflanze essbar ist."
           },
           "dog": {
-            "effect": "Es ist keine toxische Wirkung bekannt.",
-            "exposure": "Es ist kein Expositionsweg bekannt.",
-            "note": "In diesem Katalog wird keine Toxizität für Hunde gemeldet; dies ist kein Beleg dafür, dass die Pflanze essbar oder unschädlich ist."
+            "exposure": "Es sind keine schädlichen Expositionswege bekannt.",
+            "effect": "Für Hunde sind keine giftigen Wirkungen bekannt.",
+            "note": "Mānuka wird für Hunde als ungiftig gemeldet; das Fressen großer Mengen Pflanzenmaterial kann leichte Magenverstimmung verursachen. Das ist kein Beweis dafür, dass die Pflanze essbar ist."
           },
-          "headline": "Keine Toxizität bekannt",
+          "cat": {
+            "exposure": "Es sind keine schädlichen Expositionswege bekannt.",
+            "effect": "Für Katzen sind keine giftigen Wirkungen bekannt.",
+            "note": "Mānuka wird für Katzen als ungiftig gemeldet; das Fressen großer Mengen Pflanzenmaterial kann leichte Magenverstimmung verursachen. Das ist kein Beweis dafür, dass die Pflanze essbar ist."
+          }
+        }
+      }
+    },
+    "AAA1524": {
+      "source_hash": "0d5d9d221b7c976a771a8ddccdd06e7e220e2d5131d2077a27c4b92d1c865b6d",
+      "fields": {
+        "common_name": "Schmucklilie",
+        "bloom_tip": "Diese Pflanze bildet im Sommer Dolden auffälliger blauer Blüten.",
+        "fruit_tip": "Die markanten schwarzen Samenkapseln steigern im Spätsommer den Zierwert dieser Pflanze.",
+        "description": "Agapanthus africanus, gemeinhin Afrikanische Schmucklilie oder Nil-Lilie genannt, ist eine horstbildende Staude von den felsigen Fynbos-Hängen des südafrikanischen Westkaps. Sie bildet dichte Büschel bogig überhängender, riemenförmiger grüner Blätter, aus denen im Sommer hohe blattlose Stängel aufragen, jeder gekrönt von einer runden Dolde aus zwanzig bis dreißig trichterförmigen Blüten in tiefem Blau bis Violett. Die Blüten locken Bienen, Schmetterlinge und Nektarvögel an und weichen im Spätsommer zierenden schwarzen Samenkapseln. Sie wird 60 bis 90 cm hoch und breit, gedeiht in voller Sonne und gut durchlässigem Lehm, verträgt nach dem Anwachsen Trockenheit und Küstenwind und ist als langlebige Beet-, Kübel- und Schnittblumenpflanze in warmen, frostfreien Gärten geschätzt.",
+        "history_text_short": "Agapanthus africanus gelangte im 17. und 18. Jahrhundert durch niederländische und britische Sammler vom Kap der Guten Hoffnung in die Gärten Europas, wo seine blauen Sommerdolden ihn zu einer begehrten Gewächshaus- und Hofexotik machten. Lange rund um Kap-Gehöfte kultiviert, erhielt er in Europa den irreführenden Namen „Nil-Lilie“, obwohl er nirgends in der Nähe dieses Flusses wächst.",
+        "history_text_long": "Lange bevor europäische Schiffe das Kap der Guten Hoffnung erreichten, wuchs Agapanthus africanus wild auf den feuergeprägten Sandsteinhängen des Westkaps, wo die Khoikhoi und andere Völker seine Wurzeln und Blätter in der traditionellen Medizin und als Schutzamulette schätzten. Niederländische Siedler am Kap bemerkten seine kräftig blauen Köpfe, und schon Ende des 17. Jahrhunderts reisten Zwiebeln zurück in die botanischen Gärten der Niederlande und bald darauf Englands. Dort machte sein Bedarf an Sonne und Schutz ihn zu einer klassischen Kübelpflanze, die man im Sommer auf die Terrasse rollte und unter Glas überwinterte. Gärtner tauften ihn „Nil-Lilie“, eine romantische, aber geografisch falsche Wendung, denn die Pflanze ist am Kap endemisch. Im 19. und 20. Jahrhundert verbreitete er sich über die warmgemäßigte Welt, und heute säumen seine blauen Dolden Einfahrten und Küstengärten vom Mittelmeer bis Kalifornien und Australien.",
+        "name_origin": "Der Gattungsname Agapanthus stammt aus dem Griechischen von „agape“ (Liebe) und „anthos“ (Blume) und ergibt den poetischen Sinn „Blume der Liebe“. Das Artepitheton africanus verweist auf seine südafrikanische Heimat. Der volkstümliche Name „Nil-Lilie“ ist eine in Europa geprägte Fehlbezeichnung, denn die Pflanze stammt vom Kap und wächst nirgends in der Nähe des Nils.",
+        "symbolism_story": "Von Botanikern zur „Blume der Liebe“ ernannt, die die griechischen Wörter für Liebe und Blume verbanden, trägt Agapanthus africanus eine sanfte Botschaft von Zuneigung und beständiger Verbundenheit. In seiner südafrikanischen Heimat bedeutet er mehr als Romantik: Werdende Mütter trugen einst seine Wurzeln als Amulett für eine leichte Geburt und ein gesundes Kind, und man pflanzte ihn zum Schutz des Hauses. Ihn zu ziehen heißt, sowohl Schönheit als auch Segen einzuladen – ein sommerlanges Versprechen von Liebe und neuem Leben, das Jahr für Jahr wiederkehrt.",
+        "flower_meaning": "Liebe",
+        "uses_list": [
+          {
+            "text": "Langlebige Beet- und Kübelpflanze, kultiviert für ihre kräftig blauen Sommerdolden."
+          },
+          {
+            "text": "Nektarreiche Blüten locken Bienen, Schmetterlinge und nektarfressende Vögel an."
+          },
+          {
+            "text": "Hohe, lang haltbare Blütenstängel eignen sich hervorragend für Schnitt- und Trockengestecke."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Liebe",
+            "description": "ihr griechischer Name, die „Blume der Liebe“, verbindet sie mit Zuneigung und Hingabe"
+          },
+          {
+            "keyword": "Fruchtbarkeit",
+            "description": "in ihrer Heimat Südafrika ist sie ein traditionelles Amulett für Schwangerschaft und Schutz"
+          }
+        ],
+        "toxicity": {
+          "headline": "Menschen leicht · Haustiere leicht",
+          "active_compound_display": "Saponine",
+          "notes_en": "Saponine; basierend auf ASPCA / LSU & Colorado State veterinärmedizinischen Quellen. Bitte vor dem Umgang mit Haustieren und Kindern überprüfen.",
           "human": {
-            "effect": "Es ist keine toxische Wirkung bekannt.",
-            "exposure": "Es ist kein Expositionsweg bekannt.",
-            "note": "In diesem Katalog wird keine Toxizität für Menschen gemeldet; dies ist kein Beleg dafür, dass die Pflanze essbar oder unschädlich ist."
+            "exposure": "Umgang mit geschnittenen Stängeln oder Saft oder Verzehr eines beliebigen Teils der Pflanze.",
+            "effect": "Hautausschlag und Juckreiz durch Saft; leichte Mund- oder Magenverstimmung bei Verzehr.",
+            "note": "Agapanthus enthält Saponine. Der Saft kann Haut und Augen reizen, und der Verzehr der Pflanze kann leichte Mund- und Magenverstimmung verursachen. Schwere Vergiftung ist selten.",
+            "symptoms": [
+              "Hautausschlag, Rötung oder Juckreiz durch Saftkontakt.",
+              "Übelkeit, Erbrechen oder Durchfall bei größeren Mengen."
+            ]
           },
-          "notes_en": "Nicht als giftig bekannt."
+          "dog": {
+            "exposure": "Kauen oder Fressen von Blättern, Wurzeln oder Saft.",
+            "effect": "Leichte Magenverstimmung, normalerweise nur bei größeren Mengen.",
+            "note": "Minimal giftig für Hunde, es sei denn, sie fressen es in größeren Mengen; Saponine können Magen-Darm-Reizungen verursachen.",
+            "symptoms": [
+              "Erbrechen.",
+              "Durchfall.",
+              "Sabbern."
+            ]
+          },
+          "cat": {
+            "exposure": "Kauen oder Fressen von Blättern, Wurzeln oder Saft.",
+            "effect": "Leichte Magenverstimmung; Katzen sind normalerweise empfindlicher als Hunde.",
+            "note": "Minimal giftig, aber Katzen sind empfindlicher; Saponine können Magen-Darm- und Hautreizungen verursachen.",
+            "symptoms": [
+              "Erbrechen.",
+              "Durchfall.",
+              "Hautreizung durch Saftkontakt."
+            ]
+          }
+        }
+      }
+    },
+    "AAA1525": {
+      "source_hash": "d413e13ce36e2d499f6e30ed4a2530b36dbe511c95af4c9afd999620e2860174",
+      "fields": {
+        "common_name": "Tulbaghia",
+        "bloom_tip": "Die Blüten dieser Pflanze blühen normalerweise vom Frühling bis zum Sommer und verströmen einen bezaubernden Duft.",
+        "description": "Tulbaghia violacea, bekannt als Tulbaghia, ist eine immergrüne Staude aus den felsigen Grasländern der südafrikanischen Ostkap- und KwaZulu-Natal-Region. Sie bildet ordentliche Horste aus schmalen, riemenartigen grünen Blättern, die beim Zerreiben einen milden Knoblauchgeruch abgeben. Vom Spätwinter bis zum Sommer tragen schlanke Stiele runde Dolden aus kleinen, röhrenförmigen Blüten in weichem Flieder bis Violett, die süß nach Honig duften und von Bienen und Schmetterlingen geliebt werden. Robust und trockenheitstolerant in sonnigen, gut durchlässigen Böden, widersteht sie Hirschen und bleibt das ganze Jahr über attraktiv. Die Blätter verleihen Speisen eine sanfte Knoblauchnote, und die Pflanze hat eine lange medizinische Geschichte im südlichen Afrika.",
+        "history_text_short": "Zulu- und Sotho-Heiler im südafrikanischen Ostkap verwendeten Tulbaghia lange gegen Fieber, Erkältungen und Infektionen. Ihr Gattungsname ehrt Ryk Tulbagh, einen niederländischen Gouverneur des Kaps im 18. Jahrhundert, der ihre Botanik förderte, während der gebräuchliche Name an die Koloniallegende erinnert, dass ihre Blätter einen Knoblauchatem gaben, der höflich genug für Gesellschaft war.",
+        "history_text_long": "Tulbaghia violacea begann als Heilpflanze im südafrikanischen Ostkap und KwaZulu-Natal, wo Zulu- und Sotho-Gemeinschaften sie lange vor europäischen Botanikern kannten. Traditionelle Heiler kochten ihre Rhizome gegen Fieber, Atemwegsinfektionen und Darmparasiten und trugen zerdrückte Blätter bei Kopfschmerzen auf – eine empirische Pharmakopöe, die später von Phytochemikern bestätigt wurde, die die verantwortlichen Organoschwefelverbindungen identifizierten. Die Gattung ehrt Ryk Tulbagh (1699–1771), den niederländischen Gouverneur der Kapkolonie unter der VOC, der mit führenden Botanikern korrespondierte und half, Kap-Exemplare an europäische Herbarien zu senden; das Epitheton violacea, für die violetten Blüten, wurde von William Henry Harvey hinzugefügt. Der gebräuchliche Name „Tulbaghia“ stammt aus der Kolonialfolklore, dass der Verzehr der Blätter einen milderen, gesellschaftlich akzeptableren Knoblauchatem als echter Knoblauch ergab. Im 18. und 19. Jahrhundert in europäische Gärten eingeführt, verbreitete sie sich aufgrund ihrer immergrünen Wuchsform, langen Blütezeit und Pflegeleichtigkeit und naturalisierte sich im Mittelmeerraum, in Kalifornien und Südaustralien, wo Züchter panaschte Formen wie ‚Silver Lace‘ selektierten. Heute wird sie als wassersparende, bestäuberfreundliche, hirschresistente Gartenpflanze geschätzt, deren traditionelle Verwendung nun durch Forschung bestätigt wird, die Aktivität gegen Candida und Staphylococcus nachweist.",
+        "name_origin": "Der Gattungsname Tulbaghia ehrt Ryk Tulbagh (1699–1771), den niederländischen Gouverneur der Kapkolonie unter der Niederländischen Ostindien-Kompanie, der ein leidenschaftlicher Förderer der Naturgeschichte war und aktiv die Dokumentation der Kap-Flora für die europäische Wissenschaft unterstützte. Das Artepitheton violacea ist das lateinische Adjektiv für „violettfarben“ und bezieht sich auf den charakteristischen weichen Purpur-Fliederton der röhrenförmigen Blüten, die jeden Blütenstiel vom Spätwinter bis zum Sommer krönen.",
+        "symbolism_story": "In der viktorianischen Blumensprache wurden Pflanzen mit verborgener Stärke mit der Idee assoziiert, dass die bewundernswertesten Eigenschaften – Mut, Ausdauer, echte Nützlichkeit – oft hinter einem anspruchslosen Gesicht verborgen sind. Tulbaghia verkörpert dieses Paradox perfekt: aus der Ferne ein ordentlicher Horst schmaler grüner Blätter, gekrönt von zarten violetten Sternen; aus der Nähe ein scharfer medizinischer Duft, eine lange Geschichte der Heilung und Blüten, die süß genug sind, um Schmetterlinge aus dem ganzen Garten anzulocken. Gärtner, die sie viele Jahreszeiten lang angebaut haben, beschreiben sie als einen stillen Begleiter – einen, der seine Umgebung schützt, indem er Hirsche und Schädlinge abwehrt, Bestäuber über Monate der Blüte füttert und zuverlässig jedes Jahr zurückkehrt, ohne Aufmerksamkeit zu verlangen. Es liegt eine gewisse sanfte Weisheit in dieser Beständigkeit, eine Erinnerung daran, dass die nachhaltigsten Geschenke die sind, die sich selbst erhalten.",
+        "flower_meaning": "Widerstandsfähigkeit",
+        "fragrance": {
+          "notes": "Süßer, honig-blumiger Duft der violetten Dolden; zerdrückte Blätter verströmen ein scharfes, charakteristisches knoblauchartiges Aroma, das sich völlig vom Blumenduft unterscheidet."
+        },
+        "uses_list": [
+          {
+            "text": "Violette Dolden tragen einen süßen, honigartigen Duft, während die Blätter beim Zerreiben einen scharfen Knoblauchgeruch abgeben – ein Hingucker in Sinnes- und Duftgärten."
+          },
+          {
+            "text": "Blätter und Blüten können als milder Knoblauchersatz in Salaten, Suppen, Pfannengerichten und gekochten Speisen verwendet werden und verleihen milden Alliumgeschmack ohne scharfen Nachgeschmack."
+          },
+          {
+            "text": "In der traditionellen südafrikanischen Medizin werden Rhizom-Abkochungen und Blattzubereitungen seit Generationen zur Behandlung von Fieber, Erkältungen, Darmparasiten und Hautinfektionen eingesetzt."
+          },
+          {
+            "text": "Süß duftende violette Dolden ziehen Bienen, Schmetterlinge und andere Bestäuber während der langen Blütezeit vom Spätwinter bis zum Sommer an."
+          },
+          {
+            "text": "Kompakte immergrüne Horste mit luftigen Blütenstielen machen Tulbaghia zu einer idealen Beet-Einfassung, Kübelpflanze, hirschresistenten Bodendecker oder Blickfang in pflegeleichten Gärten."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Widerstandsfähigkeit",
+            "description": "Mit stiller Entschlossenheit gedeihend bei Trockenheit, schlechten Böden und Vernachlässigung, ist Tulbaghia zum Symbol für stetige Ausdauer und die Kraft innerer Stärke über äußere Schwierigkeiten geworden."
+          },
+          {
+            "keyword": "Verborgene Tugend",
+            "description": "Hinter einer bescheidenen Fassade verbergen sich echte medizinische Kraft und kulinarische Nützlichkeit – eine Erinnerung daran, dass wahrer Wert nicht immer auf den ersten Blick sichtbar ist und dass sich Wert mit der Zeit offenbart."
+          },
+          {
+            "keyword": "Soziale Anmut",
+            "description": "Die koloniale Legende, dass Siedler vor gesellschaftlichen Anlässen Tulbaghia aßen, um angenehmen Atem zu gewährleisten, verleiht dieser Pflanze eine anhaltende Assoziation mit Höflichkeit, Zivilität und der Kunst guter Gesellschaft."
+          }
+        ],
+        "toxicity": {
+          "headline": "Keine Toxizität berichtet",
+          "active_compound_display": "Keine bekannt",
+          "notes_en": "Nicht als giftig berichtet.",
+          "human": {
+            "exposure": "Es wird kein Expositionsweg berichtet.",
+            "effect": "Es wird keine toxische Wirkung berichtet.",
+            "note": "In diesem Katalog wird keine Toxizität für Menschen berichtet; dies ist kein Beweis dafür, dass die Pflanze essbar oder ungefährlich ist."
+          },
+          "dog": {
+            "exposure": "Es wird kein Expositionsweg berichtet.",
+            "effect": "Es wird keine toxische Wirkung berichtet.",
+            "note": "In diesem Katalog wird keine Toxizität für Hunde berichtet; dies ist kein Beweis dafür, dass die Pflanze essbar oder ungefährlich ist."
+          },
+          "cat": {
+            "exposure": "Es wird kein Expositionsweg berichtet.",
+            "effect": "Es wird keine toxische Wirkung berichtet.",
+            "note": "In diesem Katalog wird keine Toxizität für Katzen berichtet; dies ist kein Beweis dafür, dass die Pflanze essbar oder ungefährlich ist."
+          }
         }
       }
     }

@@ -3,8 +3,8 @@
   "locale": "vi",
   "source": {
     "resource": "plants_detail.json",
-    "sha256": "3654d7d2b7aa5239afa77c46314a1d394c23213d04938941c9985463d7843f99",
-    "record_count": 1523
+    "sha256": "31500d81259df809fcc3f70ad2d9936ec3575549ba334d888a88de98bea98760",
+    "record_count": 1525
   },
   "records": {
     "AAA0001": {
@@ -93861,11 +93861,11 @@
       }
     },
     "AAA1523": {
-      "source_hash": "89f389a161112879e89d0dbc657951b153e01c48acd9d08998845713f62d1f66",
+      "source_hash": "006a6fc9470e4c394f84e4ead7414312d919b4f052381eb407f391a53b7f3443",
       "fields": {
         "common_name": "Mānuka",
         "bloom_tip": "Cây Mānuka nở những chùm hoa trắng đến hồng nổi bật từ cuối thu đến đầu đông.",
-        "description": "Leptospermum scoparium, thường được gọi là Mānuka, là một loài cây bụi thường xanh có nguồn gốc từ New Zealand, được quý trọng nhờ tán lá thơm và mật ong quý giá.",
+        "description": "Leptospermum scoparium, thường gọi là mānuka hay cây trà, là một loài cây bụi thường xanh cứng cáp có nguồn gốc từ New Zealand và đông nam Australia. Cây cao 2–5 m, tán dày rậm, lá nhỏ hình kim thơm, khi vò tỏa mùi nhựa thông. Từ cuối thu đến đầu đông, cây phủ đầy hoa năm cánh nổi bật, màu trắng đến hồng nhạt, tâm hoa đỏ sẫm thu hút ong và các loài thụ phấn khác. Là loài tiên phong bền bỉ trên đất cằn nhiều sỏi đá và lộng gió, cây giữ ổn định lớp đất mỏng manh và che chở cho rừng đang tái sinh. Mật hoa của nó cho ra mật ong mānuka quý giá có tính kháng khuẩn, và người Māori từ lâu đã dùng lá, vỏ và nhựa cây trong y học cổ truyền rongoā.",
         "history_text_short": "Đặc hữu của New Zealand và đông nam Australia, Mānuka từ nhiều thế kỷ đã là trụ cột của y học cổ truyền Māori (rongoā); vỏ, lá và nhựa cây được dùng để chữa vết thương và sốt. Thủy thủ đoàn của thuyền trưởng Cook đã hãm lá cây thành trà năm 1769, khiến nó có tên gọi thời thuộc địa là «cây trà». Ngày nay mật hoa của nó cho ra mật ong Mānuka quý giá với đặc tính kháng khuẩn.",
         "history_text_long": "Mānuka đã mọc khắp đồi núi và bờ biển New Zealand từ rất lâu trước khi con người đặt chân đến, một loài cây bụi tiên phong chiếm lĩnh vùng đất trơ trọi và cháy xém. Với người Māori, nó là nền tảng của rongoā: nước hãm từ lá làm dịu cơn sốt và bệnh dạ dày, nhựa cây làm dịu ho và bỏng, còn thân gỗ cứng được chế thành công cụ và vũ khí. Khi thuyền trưởng James Cook đến New Zealand năm 1769, thủy thủ đoàn của ông hãm lá thơm thành thứ trà đắng để chống bệnh scorbut, và cái tên «cây trà» đã gắn liền. Đến thế kỷ 20, khoa học bắt kịp truyền thống: mật hoa Mānuka cho ra loại mật ong giàu methylglyoxal, sức kháng khuẩn của nó đã biến một loài cây bụi khiêm nhường thành một trong những mặt hàng xuất khẩu giá trị nhất của đất nước.",
         "name_origin": "Leptospermum ghép từ tiếng Hy Lạp «leptos» (mảnh) và «sperma» (hạt), theo những hạt nhỏ mịn; tên loài «scoparium» là tiếng Latinh nghĩa là «giống cây chổi», theo những cành từng được bó thành chổi. «Mānuka» là tên Māori vẫn còn lưu truyền.",
@@ -93899,24 +93899,160 @@
         "symbolism_story": "Mānuka mang một thông điệp lặng lẽ về sự kiên cường và chữa lành. Nó là loài đầu tiên trở lại vùng đất cháy xém và sỏi đá; rễ giữ chặt lớp đất ven biển mong manh và tán lá che chở cho khu rừng nối tiếp — một kẻ tiên phong hàn gắn chính mặt đất. Từ chính sự bền bỉ ấy sinh ra món quà chữa lành: rongoā của các thầy lang Māori và mật ong kháng khuẩn từ hoa của nó. Trồng một cây Mānuka là mời gọi một sự bền bỉ biết đền đáp.",
         "flower_meaning": "kiên cường",
         "toxicity": {
-          "active_compound_display": "Không có báo cáo",
-          "cat": {
-            "effect": "Không có tác dụng độc hại nào được báo cáo.",
-            "exposure": "Không có đường phơi nhiễm nào được báo cáo.",
-            "note": "Không có độc tính nào được báo cáo đối với mèo trong danh mục này; điều này không phải là bằng chứng cho thấy cây có thể ăn được hoặc vô hại."
+          "headline": "Con người An toàn · Thú cưng An toàn",
+          "active_compound_display": "Chưa có báo cáo",
+          "notes_en": "Được báo cáo không độc bởi Pet Poison Helpline và tài liệu thú y.",
+          "human": {
+            "exposure": "Không có đường tiếp xúc nguy hiểm.",
+            "effect": "Không có tác dụng độc hại với con người.",
+            "note": "Mānuka không độc với con người; ăn một lượng lớn có thể gây khó chịu dạ dày nhẹ. Điều này không có nghĩa cây có thể ăn được."
           },
           "dog": {
-            "effect": "Không có tác dụng độc hại nào được báo cáo.",
-            "exposure": "Không có đường phơi nhiễm nào được báo cáo.",
-            "note": "Không có độc tính nào được báo cáo đối với chó trong danh mục này; điều này không phải là bằng chứng cho thấy cây có thể ăn được hoặc vô hại."
+            "exposure": "Không có đường tiếp xúc nguy hiểm.",
+            "effect": "Không có tác dụng độc hại với chó.",
+            "note": "Mānuka không độc với chó; ăn một lượng lớn có thể gây khó chịu dạ dày nhẹ. Điều này không có nghĩa cây có thể ăn được."
           },
-          "headline": "Không có độc tính được báo cáo",
+          "cat": {
+            "exposure": "Không có đường tiếp xúc nguy hiểm.",
+            "effect": "Không có tác dụng độc hại với mèo.",
+            "note": "Mānuka không độc với mèo; ăn một lượng lớn có thể gây khó chịu dạ dày nhẹ. Điều này không có nghĩa cây có thể ăn được."
+          }
+        }
+      }
+    },
+    "AAA1524": {
+      "source_hash": "0d5d9d221b7c976a771a8ddccdd06e7e220e2d5131d2077a27c4b92d1c865b6d",
+      "fields": {
+        "common_name": "Thanh anh",
+        "bloom_tip": "Cây này ra những chùm hoa xanh lam nổi bật vào mùa hè.",
+        "fruit_tip": "Những quả nang chứa hạt màu đen nổi bật làm tăng giá trị trang trí của cây vào cuối hè.",
+        "description": "Agapanthus africanus, thường gọi là bách hợp châu Phi hay bách hợp sông Nin, là cây lâu năm mọc thành bụi, có nguồn gốc từ những sườn đồi fynbos đầy đá ở tỉnh Western Cape của Nam Phi. Cây tạo thành những bụi lá xanh hình dải cong rủ dày đặc, từ đó vào mùa hè vươn lên những cọng hoa trần cao, mỗi cọng đội một tán hoa tròn gồm hai đến ba mươi bông hình phễu, màu xanh lam đậm đến tím. Hoa thu hút ong, bướm và chim hút mật, rồi nhường chỗ cho những quả nang hạt đen mang tính trang trí vào cuối hè. Cao và rộng khoảng 60 đến 90 cm, cây phát triển tốt dưới nắng đầy đủ và đất thịt thoát nước tốt, chịu được hạn và gió biển khi đã bén rễ, và được ưa chuộng làm cây viền, cây chậu và hoa cắt cành lâu bền trong những khu vườn ấm áp, không có sương giá.",
+        "history_text_short": "Agapanthus africanus được các nhà sưu tầm người Hà Lan và Anh mang từ mũi Hảo Vọng về các khu vườn châu Âu vào thế kỷ 17 và 18, nơi những tán hoa xanh mùa hè khiến nó trở thành loài cây ngoại lai được ưa chuộng trong nhà kính và sân trong. Được trồng lâu đời quanh các trang trại vùng Cape, tại châu Âu nó có cái tên gây hiểu lầm là «bách hợp sông Nin», dù chẳng hề mọc ở nơi nào gần con sông đó.",
+        "history_text_long": "Từ rất lâu trước khi những con tàu châu Âu đến mũi Hảo Vọng, Agapanthus africanus đã mọc hoang trên những sườn đá sa thạch bị lửa quét qua ở Western Cape, nơi người Khoikhoi cùng các dân tộc khác quý trọng rễ và lá của nó trong y học cổ truyền và làm bùa hộ mệnh. Những người Hà Lan định cư ở vùng Cape để ý đến những cụm hoa xanh rực rỡ của nó, và đến cuối thế kỷ 17 những củ giống đã được đưa về các vườn thực vật của Hà Lan, rồi ít lâu sau là của Anh. Ở đó, do cần nắng và nơi che chắn, nó trở thành một loài cây chậu điển hình, được đưa ra sân hiên vào mùa hè và trú đông dưới mái kính. Các nhà vườn đặt cho nó cái tên «bách hợp sông Nin», một cách gọi lãng mạn nhưng sai về địa lý, bởi loài cây này là đặc hữu của vùng Cape. Suốt thế kỷ 19 và 20, nó lan rộng khắp vùng ôn đới ấm, và ngày nay những tán hoa xanh của nó viền quanh các lối vào và khu vườn ven biển, từ Địa Trung Hải đến California và Úc.",
+        "name_origin": "Tên chi Agapanthus bắt nguồn từ tiếng Hy Lạp «agape» (tình yêu) và «anthos» (hoa), mang nghĩa thơ mộng là «đóa hoa tình yêu». Tính từ định danh africanus chỉ quê hương Nam Phi của nó. Tên gọi phổ biến «bách hợp sông Nin» là một cách gọi sai được đặt ra ở châu Âu, bởi loài cây này có nguồn gốc từ vùng Cape và không hề mọc ở nơi nào gần sông Nin.",
+        "symbolism_story": "Được các nhà thực vật học đặt tên là «đóa hoa tình yêu» khi ghép hai từ Hy Lạp chỉ tình yêu và hoa, Agapanthus africanus mang một thông điệp dịu dàng về tình cảm và những mối gắn bó bền lâu. Ở quê hương Nam Phi, nó còn mang ý nghĩa vượt trên tình yêu đôi lứa: những người mẹ tương lai xưa kia đeo rễ của nó như một lá bùa cầu sinh nở dễ dàng và con cái khỏe mạnh, và nó được trồng để bảo vệ ngôi nhà. Trồng nó là mời gọi cả vẻ đẹp lẫn phúc lành, một lời hứa về tình yêu và sự sống mới trở lại suốt mùa hè, năm này qua năm khác.",
+        "flower_meaning": "Tình yêu",
+        "uses_list": [
+          {
+            "text": "Cây viền và cây chậu lâu bền, được trồng vì những tán hoa xanh rực rỡ mùa hè."
+          },
+          {
+            "text": "Hoa giàu mật thu hút ong, bướm và các loài chim hút mật."
+          },
+          {
+            "text": "Những cọng hoa cao, lâu tàn rất nổi bật trong các bình hoa cắt cành và hoa khô."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Tình yêu",
+            "description": "cái tên Hy Lạp «đóa hoa tình yêu» gắn nó với tình cảm và sự tận tụy"
+          },
+          {
+            "keyword": "Sinh sôi",
+            "description": "ở quê hương Nam Phi, nó là lá bùa truyền thống cầu thai nghén và sự chở che"
+          }
+        ],
+        "toxicity": {
+          "headline": "Con người Nhẹ · Thú cưng Nhẹ",
+          "active_compound_display": "Saponin",
+          "notes_en": "Saponin; dựa trên tài liệu thú y của ASPCA / LSU & Colorado State. Xác minh trước khi xử lý gần thú cưng và trẻ em.",
           "human": {
-            "effect": "Không có tác dụng độc hại nào được báo cáo.",
+            "exposure": "Tiếp xúc với thân cắt hoặc nhựa, hoặc ăn bất kỳ phần nào của cây.",
+            "effect": "Phát ban da và ngứa từ nhựa; kích ứng miệng hoặc dạ dày nhẹ nếu ăn.",
+            "note": "Agapanthus chứa saponin. Nhựa có thể kích ứng da và mắt, ăn cây có thể gây kích ứng miệng và dạ dày nhẹ. Ngộ độc nặng hiếm gặp.",
+            "symptoms": [
+              "Phát ban da, đỏ da hoặc ngứa từ tiếp xúc nhựa.",
+              "Buồn nôn, nôn hoặc tiêu chảy nếu ăn với số lượng lớn."
+            ]
+          },
+          "dog": {
+            "exposure": "Nhai hoặc ăn lá, rễ hoặc nhựa.",
+            "effect": "Khó chịu dạ dày nhẹ, thường chỉ khi ăn với số lượng lớn.",
+            "note": "Độc tính tối thiểu với chó trừ khi ăn với số lượng lớn; saponin có thể gây kích ứng đường tiêu hóa.",
+            "symptoms": [
+              "Nôn.",
+              "Tiêu chảy.",
+              "Chảy nước dãi."
+            ]
+          },
+          "cat": {
+            "exposure": "Nhai hoặc ăn lá, rễ hoặc nhựa.",
+            "effect": "Khó chịu dạ dày nhẹ; mèo thường nhạy cảm hơn chó.",
+            "note": "Độc tính tối thiểu, nhưng mèo nhạy cảm hơn; saponin có thể gây kích ứng đường tiêu hóa và da.",
+            "symptoms": [
+              "Nôn.",
+              "Tiêu chảy.",
+              "Kích ứng da từ tiếp xúc nhựa."
+            ]
+          }
+        }
+      }
+    },
+    "AAA1525": {
+      "source_hash": "d413e13ce36e2d499f6e30ed4a2530b36dbe511c95af4c9afd999620e2860174",
+      "fields": {
+        "common_name": "Tulbaghia",
+        "bloom_tip": "Hoa của loài cây này thường nở từ mùa xuân đến mùa hè và tỏa ra hương thơm quyến rũ.",
+        "description": "Tulbaghia violacea, còn được gọi là Tulbaghia, là một loại cây lâu năm thường xanh có nguồn gốc từ các đồng cỏ đá ở Đông Cape và KwaZulu-Natal của Nam Phi. Cây tạo thành những bụi nhỏ gọn với lá hẹp, hình dải, màu xanh, tỏa ra mùi tỏi nhẹ khi bị dập nát. Từ cuối mùa đông đến mùa hè, các thân mảnh mang những chùm hoa hình cầu tròn gồm các hoa nhỏ hình ống màu hoa cà đến tím nhạt, có hương mật ong ngọt ngào, được ong và bướm yêu thích. Cây chịu hạn tốt, ưa nắng và đất thoát nước tốt, kháng hươu nai và giữ được vẻ đẹp quanh năm. Lá có thể dùng trong nấu ăn với vị tỏi nhẹ, và cây có lịch sử làm thuốc lâu đời ở miền nam châu Phi.",
+        "history_text_short": "Các thầy lang Zulu và Sotho ở Đông Cape Nam Phi từ lâu đã dùng Tulbaghia để trị sốt, cảm lạnh và nhiễm trùng. Tên chi của nó vinh danh Ryk Tulbagh, một thống đốc Hà Lan thế kỷ 18 của Cape, người đã ủng hộ ngành thực vật học, trong khi tên thông thường gợi nhớ truyền thuyết thuộc địa rằng lá của nó giúp hơi thở có mùi tỏi dễ chịu khi giao tiếp.",
+        "history_text_long": "Tulbaghia violacea khởi đầu là một cây thuốc của vùng Đông Cape và KwaZulu-Natal ở Nam Phi, nơi các cộng đồng Zulu và Sotho đã biết đến nó từ lâu trước khi các nhà thực vật học châu Âu đặt chân đến. Các thầy lang truyền thống đun sôi thân rễ để chữa sốt, nhiễm trùng đường hô hấp và ký sinh trùng đường ruột, đồng thời dùng lá giã nát để trị đau đầu — một dược điển thực nghiệm sau này được các nhà hóa thực vật xác nhận khi họ tìm ra các hợp chất organosulfur chịu trách nhiệm cho hoạt tính này. Chi Tulbaghia được đặt theo tên Ryk Tulbagh (1699-1771), thống đốc gốc Hà Lan của Thuộc địa Cape dưới thời VOC, người đã trao đổi thư từ với các nhà thực vật học hàng đầu và giúp gửi các mẫu vật Cape đến các phòng mẫu thực vật châu Âu; tên loài violacea, chỉ màu hoa tím, được William Henry Harvey thêm vào. Tên thông thường \"Tulbaghia\" bắt nguồn từ truyền thuyết thuộc địa rằng ăn lá cây này giúp hơi thở có mùi tỏi nhẹ hơn, dễ chịu hơn so với tỏi thật. Được đưa vào các khu vườn châu Âu qua thế kỷ 18 và 19, nó lan rộng nhờ đặc tính thường xanh, ra hoa dài và dễ chăm sóc, tự nhiên hóa ở vùng Địa Trung Hải, California và nam Úc, nơi các nhà nhân giống đã chọn ra các dạng lá đốm như 'Silver Lace.' Ngày nay, nó được ưa chuộng như một loại cây vườn ít nước, thân thiện với thụ phấn, kháng hươu nai, với các công dụng truyền thống nay đã được nghiên cứu xác nhận hoạt tính chống Candida và Staphylococcus.",
+        "name_origin": "Tên chi Tulbaghia vinh danh Ryk Tulbagh (1699–1771), Thống đốc gốc Hà Lan của Thuộc địa Cape dưới Công ty Đông Ấn Hà Lan, người đam mê lịch sử tự nhiên và tích cực hỗ trợ việc ghi chép hệ thực vật Cape cho khoa học châu Âu. Tên loài violacea là tính từ tiếng Latin có nghĩa là \"màu tím\", chỉ màu hoa cà-tím nhạt đặc trưng của các hoa nhỏ hình ống trên mỗi cuống hoa từ cuối mùa đông đến mùa hè.",
+        "symbolism_story": "Trong ngôn ngữ hoa thời Victoria, những loài cây có sức mạnh tiềm ẩn được liên kết với ý tưởng rằng những phẩm chất đáng ngưỡng mộ nhất — lòng can đảm, sự kiên trì, tính hữu dụng thực sự — thường ẩn sau vẻ ngoài giản dị. Tulbaghia thể hiện hoàn hảo nghịch lý này: từ xa, một bụi lá hẹp xanh gọn gàng với những ngôi sao tím nhỏ xinh; đến gần, một mùi thuốc sắc nét, một lịch sử chữa bệnh lâu đời, và những bông hoa ngọt ngào đến nỗi thu hút bướm từ khắp khu vườn. Những người làm vườn đã trồng nó qua nhiều mùa mô tả nó như một người bạn đồng hành thầm lặng — một người bảo vệ môi trường xung quanh bằng cách xua đuổi hươu nai và sâu bệnh, nuôi dưỡng các loài thụ phấn suốt nhiều tháng ra hoa, và trở lại đều đặn mỗi năm mà không đòi hỏi sự chú ý. Có một sự khôn ngoan nhẹ nhàng trong sự kiên định đó, một lời nhắc nhở rằng những món quà lâu dài nhất là những món quà tự duy trì.",
+        "flower_meaning": "Kiên cường",
+        "fragrance": {
+          "notes": "Mùi hương ngọt ngào như mật ong từ các chùm hoa tím; lá bị dập nát tỏa ra mùi tỏi đặc trưng, hoàn toàn khác với hương hoa."
+        },
+        "uses_list": [
+          {
+            "text": "Các chùm hoa tím mang hương thơm ngọt ngào như mật ong, trong khi lá tỏa ra mùi tỏi nồng khi bị dập nát — một điểm nhấn trong các thiết kế vườn cảm quan và hương thơm."
+          },
+          {
+            "text": "Lá và hoa có thể dùng như một chất thay thế tỏi nhẹ trong salad, súp, món xào và các món nấu chín, thêm hương vị allium nhẹ nhàng mà không có dư vị khó chịu."
+          },
+          {
+            "text": "Trong y học cổ truyền miền nam châu Phi, nước sắc thân rễ và chế phẩm từ lá đã được sử dụng qua nhiều thế hệ để trị sốt, cảm lạnh, ký sinh trùng đường ruột và nhiễm trùng da."
+          },
+          {
+            "text": "Các chùm hoa tím thơm ngọt thu hút ong, bướm và các loài thụ phấn khác suốt mùa hoa dài từ cuối mùa đông đến mùa hè."
+          },
+          {
+            "text": "Các bụi thường xanh nhỏ gọn với cuống hoa thoáng đãng làm cho Tulbaghia trở thành lý tưởng cho viền vườn, cây trồng trong chậu, cây che phủ đất kháng hươu nai, hoặc cây điểm nhấn trong các khu vườn ít bảo dưỡng."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Kiên cường",
+            "description": "Phát triển mạnh qua hạn hán, đất nghèo dinh dưỡng và sự bỏ bê với quyết tâm thầm lặng, Tulbaghia đã trở thành biểu tượng của sức bền bỉ ổn định và sức mạnh nội tâm vượt qua khó khăn bên ngoài."
+          },
+          {
+            "keyword": "Đức tính ẩn giấu",
+            "description": "Bên dưới vẻ ngoài khiêm tốn là sức mạnh dược liệu và giá trị ẩm thực thực sự — một lời nhắc nhở rằng giá trị thực sự không phải lúc nào cũng thấy ngay từ cái nhìn đầu tiên và giá trị bộc lộ theo thời gian."
+          },
+          {
+            "keyword": "Phép xã giao",
+            "description": "Truyền thuyết thuộc địa kể rằng những người định cư ăn Tulbaghia trước các buổi giao tiếp xã hội để có hơi thở dễ chịu đã mang lại cho loài cây này sự liên kết lâu dài với phép lịch sự, văn minh và nghệ thuật giao tiếp tốt."
+          }
+        ],
+        "toxicity": {
+          "headline": "Không có độc tính nào được báo cáo",
+          "active_compound_display": "Không có báo cáo",
+          "notes_en": "Không được báo cáo là độc hại.",
+          "human": {
             "exposure": "Không có đường phơi nhiễm nào được báo cáo.",
+            "effect": "Không có tác dụng độc hại nào được báo cáo.",
             "note": "Không có độc tính nào được báo cáo đối với người trong danh mục này; điều này không phải là bằng chứng cho thấy cây có thể ăn được hoặc vô hại."
           },
-          "notes_en": "Không được báo cáo là độc hại."
+          "dog": {
+            "exposure": "Không có đường phơi nhiễm nào được báo cáo.",
+            "effect": "Không có tác dụng độc hại nào được báo cáo.",
+            "note": "Không có độc tính nào được báo cáo đối với chó trong danh mục này; điều này không phải là bằng chứng cho thấy cây có thể ăn được hoặc vô hại."
+          },
+          "cat": {
+            "exposure": "Không có đường phơi nhiễm nào được báo cáo.",
+            "effect": "Không có tác dụng độc hại nào được báo cáo.",
+            "note": "Không có độc tính nào được báo cáo đối với mèo trong danh mục này; điều này không phải là bằng chứng cho thấy cây có thể ăn được hoặc vô hại."
+          }
         }
       }
     }

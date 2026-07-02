@@ -3,8 +3,8 @@
   "locale": "es",
   "source": {
     "resource": "plants_detail.json",
-    "sha256": "3654d7d2b7aa5239afa77c46314a1d394c23213d04938941c9985463d7843f99",
-    "record_count": 1523
+    "sha256": "31500d81259df809fcc3f70ad2d9936ec3575549ba334d888a88de98bea98760",
+    "record_count": 1525
   },
   "records": {
     "AAA0001": {
@@ -93861,11 +93861,11 @@
       }
     },
     "AAA1523": {
-      "source_hash": "89f389a161112879e89d0dbc657951b153e01c48acd9d08998845713f62d1f66",
+      "source_hash": "006a6fc9470e4c394f84e4ead7414312d919b4f052381eb407f391a53b7f3443",
       "fields": {
         "common_name": "Mānuka",
         "bloom_tip": "El Mānuka produce vistosas flores de color blanco a rosa desde finales del otoño hasta principios del invierno.",
-        "description": "Leptospermum scoparium, comúnmente conocido como Mānuka, es un arbusto de hoja perenne originario de Nueva Zelanda, apreciado por su follaje aromático y su valiosa miel.",
+        "description": "Leptospermum scoparium, conocido comúnmente como mānuka o árbol del té, es un arbusto perenne y resistente originario de Nueva Zelanda y el sureste de Australia. Alcanza de 2 a 5 m de altura, con un porte denso y frondoso y hojas pequeñas, aciculares y aromáticas que desprenden un olor resinoso al estrujarse. Desde finales de otoño hasta principios de invierno se cubre de vistosas flores de cinco pétalos, de color blanco a rosa suave, con un disco central rojo oscuro que atrae a las abejas y otros polinizadores. Pionero tenaz de suelos pobres, pedregosos y expuestos al viento, estabiliza terrenos frágiles y cobija el bosque en regeneración. Su néctar produce la preciada miel de mānuka, de propiedades antibacterianas, y los maoríes han usado sus hojas, corteza y resina durante siglos en la medicina tradicional rongoā.",
         "history_text_short": "Endémico de Nueva Zelanda y el sudeste de Australia, el Mānuka ha sido durante siglos un pilar de la medicina tradicional maorí (rongoā); su corteza, hojas y savia se usaban para tratar heridas y fiebres. La tripulación del capitán Cook preparó una infusión con sus hojas en 1769, lo que le valió el nombre colonial de «árbol del té». Hoy su néctar produce la apreciada miel de Mānuka, de propiedades antibacterianas.",
         "history_text_long": "El Mānuka ha crecido por las colinas y costas de Nueva Zelanda desde mucho antes de la llegada humana, un arbusto pionero que coloniza los suelos desnudos y quemados. Para los maoríes fue una piedra angular del rongoā: las infusiones de sus hojas aliviaban la fiebre y los males de estómago, la resina calmaba la tos y las quemaduras, y su madera dura se labraba en herramientas y armas. Cuando el capitán James Cook llegó a Nueva Zelanda en 1769, su tripulación preparó con las hojas aromáticas un té amargo para combatir el escorbuto, y el nombre «árbol del té» quedó grabado. En el siglo XX la ciencia alcanzó a la tradición: el néctar de las flores del Mānuka da una miel rica en metilglioxal, cuyo poder antibacteriano convirtió a un humilde arbusto de matorral en uno de los productos de exportación más valiosos del país.",
         "name_origin": "Leptospermum une el griego «leptos» (delgado) y «sperma» (semilla), por sus semillas finas; el nombre de la especie «scoparium» es latín para «como una escoba», por las ramas que antaño se ataban en escobas. «Mānuka» es el perdurable nombre maorí.",
@@ -93899,24 +93899,160 @@
         "symbolism_story": "El Mānuka lleva un mensaje sereno de resiliencia y sanación. Es el primero en regresar a la tierra quemada y pedregosa; sus raíces afianzan los frágiles suelos costeros y su copa cobija al bosque que le sigue, un pionero que sana la tierra misma. De esa misma dureza nace su don de sanación: el rongoā de los sanadores maoríes y la miel antibacteriana de sus flores. Plantar un Mānuka es invitar a una perseverancia que devuelve.",
         "flower_meaning": "resiliencia",
         "toxicity": {
+          "headline": "Humanos Seguros · Mascotas Seguras",
           "active_compound_display": "Ninguno reportado",
-          "cat": {
-            "exposure": "No se reporta ninguna ruta de exposición.",
-            "effect": "No se reporta ningún efecto tóxico.",
-            "note": "No se reporta toxicidad para gatos en este catálogo; esto no es evidencia de que la planta sea comestible o inofensiva."
+          "notes_en": "Reportado como no tóxico por Pet Poison Helpline y referencias veterinarias.",
+          "human": {
+            "exposure": "No se reporta vía de exposición dañina.",
+            "effect": "No se reporta efecto tóxico en humanos.",
+            "note": "Se reporta que Mānuka no es tóxica para humanos; comer grandes cantidades de material vegetal puede causar malestar estomacal leve. Esto no es evidencia de que la planta sea comestible."
           },
           "dog": {
-            "exposure": "No se reporta ninguna ruta de exposición.",
-            "effect": "No se reporta ningún efecto tóxico.",
-            "note": "No se reporta toxicidad para perros en este catálogo; esto no es evidencia de que la planta sea comestible o inofensiva."
+            "exposure": "No se reporta vía de exposición dañina.",
+            "effect": "No se reporta efecto tóxico en perros.",
+            "note": "Se reporta que Mānuka no es tóxica para perros; comer grandes cantidades de material vegetal puede causar malestar estomacal leve. Esto no es evidencia de que la planta sea comestible."
           },
-          "headline": "No se reportó toxicidad",
+          "cat": {
+            "exposure": "No se reporta vía de exposición dañina.",
+            "effect": "No se reporta efecto tóxico en gatos.",
+            "note": "Se reporta que Mānuka no es tóxica para gatos; comer grandes cantidades de material vegetal puede causar malestar estomacal leve. Esto no es evidencia de que la planta sea comestible."
+          }
+        }
+      }
+    },
+    "AAA1524": {
+      "source_hash": "0d5d9d221b7c976a771a8ddccdd06e7e220e2d5131d2077a27c4b92d1c865b6d",
+      "fields": {
+        "common_name": "Agapanto",
+        "bloom_tip": "Esta planta produce en verano racimos de llamativas flores azules.",
+        "fruit_tip": "Las vistosas vainas de semillas negras aumentan el valor ornamental de esta planta a finales de verano.",
+        "description": "Agapanthus africanus, llamado comúnmente agapanto o lirio del Nilo, es una planta perenne que forma matas, nativa de las laderas rocosas de fynbos del Cabo Occidental de Sudáfrica. Forma densas fuentes de hojas verdes arqueadas y acintadas, de las que en verano se elevan altos tallos desnudos, cada uno coronado por una umbela redondeada de veinte a treinta flores en forma de embudo, de azul intenso a violeta. Las flores atraen abejas, mariposas y suimangas, y dan paso a ornamentales vainas de semillas negras a finales de verano. Alcanza de 60 a 90 cm de alto y ancho, prospera a pleno sol y en suelo franco bien drenado, tolera la sequía y el viento costero una vez establecida, y es apreciada como planta longeva de borde, maceta y flor cortada en jardines cálidos y libres de heladas.",
+        "history_text_short": "Agapanthus africanus fue llevado desde el cabo de Buena Esperanza a los jardines europeos por coleccionistas neerlandeses y británicos en los siglos XVII y XVIII, donde sus umbelas azules de verano lo convirtieron en un exótico preciado de invernadero y patio. Cultivado largo tiempo en torno a las granjas del Cabo, recibió en Europa el engañoso nombre de «lirio del Nilo», aunque no crece en ningún lugar cercano a ese río.",
+        "history_text_long": "Mucho antes de que los barcos europeos llegaran al cabo de Buena Esperanza, Agapanthus africanus crecía silvestre en las laderas de arenisca azotadas por el fuego del Cabo Occidental, donde los khoikhoi y otros pueblos valoraban sus raíces y hojas en la medicina tradicional y como amuletos protectores. Los colonos neerlandeses del Cabo repararon en sus vistosas cabezas azules, y ya a finales del siglo XVII los bulbos viajaban de regreso a los jardines botánicos de los Países Bajos y, poco después, de Inglaterra. Allí su necesidad de sol y abrigo lo convirtió en una clásica planta de tina, que se sacaba a las terrazas en verano y se resguardaba bajo cristal en invierno. Los viveristas lo bautizaron «lirio del Nilo», un giro romántico pero geográficamente erróneo, pues la planta es endémica del Cabo. A lo largo de los siglos XIX y XX se extendió por el mundo templado cálido, y hoy sus umbelas azules bordean entradas y jardines costeros desde el Mediterráneo hasta California y Australia.",
+        "name_origin": "El nombre del género Agapanthus procede del griego «agape» (amor) y «anthos» (flor), con el sentido poético de «flor del amor». El epíteto específico africanus alude a su tierra natal sudafricana. El popular nombre «lirio del Nilo» es una denominación errónea acuñada en Europa, pues la planta es nativa del Cabo y no crece en ningún lugar cercano al Nilo.",
+        "symbolism_story": "Bautizado como «flor del amor» por los botánicos que unieron las palabras griegas para amor y flor, Agapanthus africanus lleva un suave mensaje de afecto y vínculos duraderos. En su tierra natal sudafricana significa más que romance: las futuras madres llevaban antaño sus raíces como amuleto para un parto fácil y un hijo sano, y se plantaba para proteger el hogar. Cultivarlo es invitar tanto la belleza como la bendición, una promesa de amor y vida nueva que regresa verano tras verano.",
+        "flower_meaning": "Amor",
+        "uses_list": [
+          {
+            "text": "Planta longeva de borde y maceta, cultivada por sus intensas umbelas azules de verano."
+          },
+          {
+            "text": "Sus flores ricas en néctar atraen abejas, mariposas y aves nectarívoras."
+          },
+          {
+            "text": "Sus tallos florales altos y duraderos lucen en arreglos de flor cortada y seca."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Amor",
+            "description": "su nombre griego, la «flor del amor», la vincula con el afecto y la devoción"
+          },
+          {
+            "keyword": "Fertilidad",
+            "description": "en su Sudáfrica natal es un amuleto tradicional para el embarazo y la protección"
+          }
+        ],
+        "toxicity": {
+          "headline": "Humanos Leve · Mascotas Leve",
+          "active_compound_display": "Saponinas",
+          "notes_en": "Saponinas; basado en referencias veterinarias de ASPCA / LSU & Colorado State. Verifique antes de manipular cerca de mascotas y niños.",
           "human": {
-            "exposure": "No se reporta ninguna ruta de exposición.",
-            "effect": "No se reporta ningún efecto tóxico.",
+            "exposure": "Manipular tallos cortados o savia, o comer cualquier parte de la planta.",
+            "effect": "Sarpullido e picazón por savia; irritación leve de boca o estómago si se ingiere.",
+            "note": "Agapanthus contiene saponinas. La savia puede irritar la piel y los ojos, y comer la planta puede causar irritación leve de boca y estómago. El envenenamiento grave es raro.",
+            "symptoms": [
+              "Sarpullido, enrojecimiento o picazón por contacto con savia.",
+              "Náuseas, vómitos o diarrea si se ingiere en cantidad."
+            ]
+          },
+          "dog": {
+            "exposure": "Masticar o comer hojas, raíces o savia.",
+            "effect": "Malestar estomacal leve, generalmente solo si se ingiere en cantidad.",
+            "note": "De toxicidad mínima en perros a menos que se ingiera en cantidad; las saponinas pueden causar irritación gastrointestinal.",
+            "symptoms": [
+              "Vómitos.",
+              "Diarrea.",
+              "Babeo."
+            ]
+          },
+          "cat": {
+            "exposure": "Masticar o comer hojas, raíces o savia.",
+            "effect": "Malestar estomacal leve; los gatos generalmente son más sensibles que los perros.",
+            "note": "De toxicidad mínima, pero los gatos son más sensibles; las saponinas pueden causar irritación gastrointestinal y de la piel.",
+            "symptoms": [
+              "Vómitos.",
+              "Diarrea.",
+              "Irritación de la piel por contacto con savia."
+            ]
+          }
+        }
+      }
+    },
+    "AAA1525": {
+      "source_hash": "d413e13ce36e2d499f6e30ed4a2530b36dbe511c95af4c9afd999620e2860174",
+      "fields": {
+        "common_name": "Tulbaghia",
+        "bloom_tip": "Las flores de esta planta suelen florecer desde la primavera hasta el verano y desprenden una fragancia encantadora.",
+        "description": "Tulbaghia violacea, conocida como Tulbaghia, es una perenne siempreverde de los pastizales rocosos del Cabo Oriental y KwaZulu-Natal en Sudáfrica. Forma matas ordenadas de hojas estrechas y acintadas que desprenden un suave olor a ajo al triturarse. Desde finales del invierno hasta el verano, tallos delgados portan umbelas redondeadas de pequeñas flores tubulares en lila suave a violeta, con dulce aroma a miel, amadas por abejas y mariposas. Resistente y tolerante a la sequía a pleno sol y en suelos bien drenados, repele ciervos y se mantiene atractiva todo el año. Las hojas aportan un suave toque de ajo a la cocina, y la planta tiene una larga historia medicinal en el sur de África.",
+        "history_text_short": "Los curanderos zulúes y sothos del Cabo Oriental de Sudáfrica usaron durante mucho tiempo Tulbaghia para fiebres, resfriados e infecciones. El nombre del género honra a Ryk Tulbagh, un gobernador neerlandés del Cabo del siglo XVIII que impulsó su botánica, mientras que el nombre común recuerda la leyenda colonial de que sus hojas daban un aliento a ajo lo suficientemente educado para la compañía.",
+        "history_text_long": "Tulbaghia violacea comenzó como una planta medicinal del Cabo Oriental y KwaZulu-Natal en Sudáfrica, donde las comunidades zulú y sotho la conocían mucho antes que los botánicos europeos. Los curanderos tradicionales hervían sus rizomas para tratar fiebres, infecciones respiratorias y parásitos intestinales, y aplicaban hojas trituradas para los dolores de cabeza — una farmacopea empírica luego respaldada por fitoquímicos que identificaron los compuestos organosulfurados responsables de su actividad. El género honra a Ryk Tulbagh (1699-1771), el gobernador neerlandés de la Colonia del Cabo bajo la VOC, quien mantuvo correspondencia con botánicos destacados y ayudó a enviar especímenes del Cabo a herbarios europeos; el epíteto violacea, por las flores violetas, fue añadido por William Henry Harvey. El nombre común \"Tulbaghia\" proviene del folclore colonial de que comer las hojas daba un aliento a ajo más suave y socialmente aceptable que el ajo verdadero. Llevada a jardines europeos durante los siglos XVIII y XIX, se extendió por su hábito siempreverde, larga floración y fácil cuidado, naturalizándose en el Mediterráneo, California y el sur de Australia, donde los obtentores seleccionaron formas variegadas como 'Silver Lace'. Hoy se valora como planta de jardín de bajo consumo de agua, amigable con los polinizadores y resistente a ciervos, con usos tradicionales ahora respaldados por investigaciones que confirman su actividad contra Candida y Staphylococcus.",
+        "name_origin": "El nombre del género Tulbaghia honra a Ryk Tulbagh (1699–1771), el gobernador neerlandés de la Colonia del Cabo bajo la Compañía Neerlandesa de las Indias Orientales, quien fue un apasionado partidario de la historia natural y facilitó activamente la documentación de la flora del Cabo para la ciencia europea. El epíteto específico violacea es el adjetivo latino que significa \"de color violeta\", en referencia al distintivo tono lila-púrpura suave de los floretes tubulares que coronan cada tallo floral desde finales del invierno hasta el verano.",
+        "symbolism_story": "En el lenguaje victoriano de las flores, las plantas con fuerza oculta se asociaban con la idea de que las cualidades más admirables — coraje, perseverancia, utilidad genuina — a menudo están ocultas tras una fachada modesta. Tulbaghia encarna esta paradoja perfectamente: desde lejos, una mata ordenada de hojas estrechas y verdes coronada con delicadas estrellas púrpuras; de cerca, un aroma medicinal penetrante, una larga historia de curación y flores tan dulces que atraen mariposas de todo el jardín. Los jardineros que la han cultivado durante muchas temporadas la describen como una compañera silenciosa — que protege su entorno repeliendo ciervos y plagas, alimenta a los polinizadores durante meses de floración y regresa confiablemente cada año sin exigir atención. Hay una cierta sabiduría suave en esa constancia, un recordatorio de que los regalos más duraderos son aquellos que se sostienen a sí mismos.",
+        "flower_meaning": "Resiliencia",
+        "fragrance": {
+          "notes": "Dulce aroma floral a miel de las umbelas púrpuras; las hojas trituradas liberan un aroma penetrante y distintivo a ajo, completamente diferente del aroma floral."
+        },
+        "uses_list": [
+          {
+            "text": "Las umbelas púrpuras desprenden una fragancia dulce, similar a la miel, mientras que las hojas liberan un aroma penetrante a ajo al triturarse — un destacado en diseños de jardines sensoriales y aromáticos."
+          },
+          {
+            "text": "Las hojas y flores se pueden usar como un sustituto suave del ajo en ensaladas, sopas, salteados y platos cocinados, añadiendo un sabor suave a allium sin regusto fuerte."
+          },
+          {
+            "text": "En la medicina tradicional del sur de África, las decocciones de rizomas y preparaciones de hojas se han utilizado durante generaciones para tratar fiebres, resfriados, parásitos intestinales e infecciones cutáneas."
+          },
+          {
+            "text": "Las umbelas púrpuras de dulce aroma atraen abejas, mariposas y otros polinizadores durante la larga temporada de floración desde finales del invierno hasta el verano."
+          },
+          {
+            "text": "Los grupos compactos siempreverdes con tallos florales aireados hacen de Tulbaghia una planta ideal para bordes, macetas, cubresuelos resistentes a ciervos o planta destacada en jardines de bajo mantenimiento."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Resiliencia",
+            "description": "Prosperando en sequía, suelos pobres y abandono con determinación silenciosa, Tulbaghia ha llegado a simbolizar la resistencia constante y el poder de la fuerza interior frente a la dificultad externa."
+          },
+          {
+            "keyword": "Virtud Oculta",
+            "description": "Debajo de una apariencia moda yacen genuino poder medicinal y utilidad culinaria — un recordatorio de que el verdadero valor no siempre es visible a primera vista y que la valía se revela con el tiempo."
+          },
+          {
+            "keyword": "Gracia Social",
+            "description": "La leyenda colonial de que los colonos comían Tulbaghia antes de eventos sociales para asegurar un aliento agradable otorga a esta planta una asociación perdurable con la cortesía, la civilidad y el arte de la buena compañía."
+          }
+        ],
+        "toxicity": {
+          "headline": "No se reporta toxicidad",
+          "active_compound_display": "Ninguno reportado",
+          "notes_en": "No reportado como tóxico.",
+          "human": {
+            "exposure": "No se reporta vía de exposición.",
+            "effect": "No se reporta efecto tóxico.",
             "note": "No se reporta toxicidad para humanos en este catálogo; esto no es evidencia de que la planta sea comestible o inofensiva."
           },
-          "notes_en": "No se reporta como tóxico."
+          "dog": {
+            "exposure": "No se reporta vía de exposición.",
+            "effect": "No se reporta efecto tóxico.",
+            "note": "No se reporta toxicidad para perros en este catálogo; esto no es evidencia de que la planta sea comestible o inofensiva."
+          },
+          "cat": {
+            "exposure": "No se reporta vía de exposición.",
+            "effect": "No se reporta efecto tóxico.",
+            "note": "No se reporta toxicidad para gatos en este catálogo; esto no es evidencia de que la planta sea comestible o inofensiva."
+          }
         }
       }
     }
