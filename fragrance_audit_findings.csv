@@ -1,0 +1,681 @@
+id,scientific_name,common_name,issue,level,parts,notes,reason
+AAA0002,Abelia floribunda,Mexican Abelia,unsupported_level,faint,flower,Flowers very lightly sweet-scented.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0004,Abelia uniflora,Large-Flowered Abelia,unsupported_level,faint,flower,Flowers lightly honey-scented.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0007,Abelmoschus moschatus,Muskseed,non_flower_fragrance_hidden,moderate,seed,Seeds have a rich musky fragrance used in perfumery.,Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA0008,Abies concolor,Balsam Fir,non_flower_fragrance_hidden,moderate,leaf,Fresh citrus-resin scent when needles are crushed.,Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA0009,Abies fraseri,Fraser Fir,non_flower_fragrance_hidden,strong,leaf,"Classic fresh balsam Christmas tree scent, long-lasting.",Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA0010,Abies nordmanniana,Caucasian Fir,non_flower_fragrance_hidden,moderate,leaf,"Mild balsam-citrus scent, milder than Fraser fir.",Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA0010,Abies nordmanniana,Caucasian Fir,level_too_high_for_note,moderate,leaf,"Mild balsam-citrus scent, milder than Fraser fir.",Fragrance note sounds weaker than the stored level.
+AAA0022,Achillea clypeolata,Moonshine Yarrow,non_flower_fragrance_hidden,moderate,leaf,Foliage camphor-scented when brushed.,Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA0023,Achillea filipendulina,Fern-Leaf Yarrow,non_flower_fragrance_hidden,moderate,leaf,"aromatic, pungent",Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA0024,Achillea millefolium,Common Yarrow,non_flower_fragrance_hidden,moderate,leaf,Pungent camphor-herbal aroma when crushed.,Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA0025,Achillea ptarmica,Sneezewort,non_flower_fragrance_hidden,moderate,leaf,pungent aromatic,Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA0026,Achillea tomentosa,Yellow Milfoil,non_flower_fragrance_hidden,moderate,leaf,"Foliage sharply aromatic, camphor-and-chrysanthemum scent when rubbed.",Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA0027,Achlys triphylla,Vanilla Leaf,non_flower_fragrance_hidden,moderate,leaf,Sweet vanilla-hay scent when dried.,Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA0029,Acorus calamus,Eurasian Sweet-Flag,non_flower_fragrance_hidden,strong,"root,leaf",Rhizomes have a strong sweet-spicy aromatic scent when crushed.,Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA0030,Actinidia deliciosa,Chinese-Gooseberry,unsupported_level,faint,flower,Mild floral scent.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0036,Aesculus flava,Yellow Buckeye,unsupported_level,faint,flower,mild,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0037,Aesculus glabra,Ohio Buckeye,unsupported_level,faint,leaf,fetid when crushed,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0037,Aesculus glabra,Ohio Buckeye,non_flower_fragrance_hidden,faint,leaf,fetid when crushed,Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA0038,Aesculus pavia,Red Buckeye,unsupported_level,faint,flower,mild,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0039,Agarista populifolia,Florida Hobblebush,unsupported_level,faint,flower,,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0039,Agarista populifolia,Florida Hobblebush,missing_notes,faint,flower,,Non-none fragrance should have notes for the card copy.
+AAA0041,Agastache rupestris,Threadleaf Giant Hyssop,non_flower_fragrance_hidden,strong,leaf,Spicy root-beer-and-mint scent when foliage is brushed.,Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA0051,Ageratum houstonianum,Bluemink,unsupported_level,faint,flower,,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0051,Ageratum houstonianum,Bluemink,missing_notes,faint,flower,,Non-none fragrance should have notes for the card copy.
+AAA0062,Alcea rosea,Hollyhock,unsupported_level,faint,flower,Mild scent.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0063,Alcea rosea 'Nigra',Black Hollyhock,unsupported_level,faint,flower,Very light sweet scent.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0064,Allamanda cathartica,Golden Trumpet,unsupported_level,faint,flower,Light sweet scent.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0065,Alliaria petiolata,Garlic Mustard,non_flower_fragrance_hidden,moderate,leaf,Crushed leaves smell of garlic.,Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA0066,Allium cepa,Common Onion,non_flower_fragrance_hidden,strong,all,Characteristic pungent sulfur aroma.,Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA0067,Allium christophii,Star Of Persia,unsupported_level,faint,leaf,onion-like when crushed,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0067,Allium christophii,Star Of Persia,non_flower_fragrance_hidden,faint,leaf,onion-like when crushed,Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA0068,Allium fistulosum,Welsh Onion,non_flower_fragrance_hidden,moderate,leaf,Oniony aroma from leaves.,Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA0069,Allium karataviense,Turkistan Onion,unsupported_level,faint,leaf,onion-like,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0069,Allium karataviense,Turkistan Onion,non_flower_fragrance_hidden,faint,leaf,onion-like,Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA0070,Allium porrum,Leek,non_flower_fragrance_hidden,moderate,all,Mild onion-garlic aroma.,Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA0070,Allium porrum,Leek,level_too_high_for_note,moderate,all,Mild onion-garlic aroma.,Fragrance note sounds weaker than the stored level.
+AAA0071,Allium sativum,Garlic,non_flower_fragrance_hidden,strong,bulb,"Intense pungent sulfur aroma from allicin, released on crushing.",Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA0072,Allium schoenoprasum,Chives,non_flower_fragrance_hidden,moderate,leaf,Mild onion aroma from crushed leaves.,Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA0072,Allium schoenoprasum,Chives,level_too_high_for_note,moderate,leaf,Mild onion aroma from crushed leaves.,Fragrance note sounds weaker than the stored level.
+AAA0073,Allium schubertii,Allium schubertii,unsupported_level,faint,leaf,onion-like,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0073,Allium schubertii,Allium schubertii,non_flower_fragrance_hidden,faint,leaf,onion-like,Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA0074,Allium sphaerocephalon,Round-Headed Leek,unsupported_level,faint,leaf,onion-like,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0074,Allium sphaerocephalon,Round-Headed Leek,non_flower_fragrance_hidden,faint,leaf,onion-like,Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA0076,Allium ursinum,Ramsons,non_flower_fragrance_hidden,strong,"leaf,bulb",Strong garlic aroma from crushed leaves and bulbs.,Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA0089,Aloe vera,Aloe Vera,unsupported_level,faint,flower,Flowers have a light sweet scent attractive to sunbirds and bees.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0090,Aloysia citriodora,Lemon Verbena,non_flower_fragrance_hidden,strong,leaf,"Exceptionally intense pure lemon aroma, stronger than lemongrass or lemon balm.",Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA0092,Alpinia zerumbet,Shell Ginger,level_too_high_for_note,moderate,"leaf,flower",Aromatic gingery-camphorous scent from crushed leaves; flowers lightly sweet.,Fragrance note sounds weaker than the stored level.
+AAA0102,Amelanchier laevis,Smooth Shadbush,unsupported_level,faint,flower,mild almond,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0103,Amelanchier x grandiflora,Serviceberry,unsupported_level,faint,flower,Light sweet scent from flowers.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0104,Ammi majus,Bullwort,unsupported_level,faint,flower,mild sweet,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0113,Anethum graveolens,Dill,non_flower_fragrance_hidden,strong,"leaf,seed",Distinctive caraway-anise aroma from carvone.,Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA0114,Angelica archangelica,Garden Angelica,non_flower_fragrance_hidden,moderate,"leaf,root,seed",Musky-sweet anise-celery aroma.,Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA0115,Angelica gigas,Korean Angelica,non_flower_fragrance_hidden,moderate,"leaf,root",Aromatic anise-celery scent.,Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA0116,Angelonia angustifolia,Summer Snapdragon,unsupported_level,faint,"flower,leaf",Subtle grape or apple candy scent.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0118,Anthemis tinctoria,Golden Marguerite,non_flower_fragrance_hidden,moderate,leaf,aromatic herbaceous,Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA0123,Antirrhinum majus,Snapdragon,unsupported_level,faint,flower,"Light sweet scent, more noticeable in warm conditions.",Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0126,Aquilegia canadensis,Red Columbine,unsupported_level,faint,flower,Flowers lightly sweet-scented; seeds historically used as a perfume rub.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0132,Arctostaphylos hookeri,Hooker's Manzanita,unsupported_level,faint,flower,Mild honey scent from urn flowers.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0137,Argyranthemum frutescens,Marguerite Daisy,unsupported_level,faint,leaf,Aromatic foliage when bruised.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0137,Argyranthemum frutescens,Marguerite Daisy,non_flower_fragrance_hidden,faint,leaf,Aromatic foliage when bruised.,Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA0138,Aristolochia macrophylla,Pipevine,unsupported_level,faint,flower,Mild carrion-like scent attracts fly pollinators.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0139,Aronia prunifolia,Purple Chokeberry,unsupported_level,faint,flower,mild,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0140,Artemisia absinthium,Absinthe Wormwood,non_flower_fragrance_hidden,strong,leaf,Intensely bitter-aromatic sage-like scent.,Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA0141,Artemisia annua,Sweet Wormwood,non_flower_fragrance_hidden,strong,leaf,Strong sweet camphorous aroma from crushed foliage.,Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA0142,Artemisia dracunculus,Tarragon,non_flower_fragrance_hidden,strong,leaf,Distinctive anise-liquorice aroma from estragole.,Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA0143,Artemisia ludoviciana,Silver Wormwood,non_flower_fragrance_hidden,strong,leaf,Sage-camphor aroma.,Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA0144,Artemisia vulgaris,Common Mugwort,non_flower_fragrance_hidden,moderate,leaf,Distinctive sage-chamomile aroma.,Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA0145,Aruncus dioicus,Goatsbeard,unsupported_level,faint,flower,mild sweet,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0147,Asclepias tuberosa,Butterfly Milkweed,unsupported_level,faint,flower,Light sweet scent.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0148,Asimina triloba,Common Pawpaw,unsupported_level,faint,"flower,fruit",Flowers emit a faint yeasty scent; ripe fruit has tropical aroma.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0149,Asparagus densiflorus,Sprenger's Asparagus,unsupported_level,faint,flower,Small flowers have a light sweet scent.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0151,Asparagus setaceus,Common Asparagus Fern,unsupported_level,faint,flower,Tiny flowers have a faint sweet scent; rarely noticed indoors.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0155,Aster amellus,Italian Aster,unsupported_level,faint,flower,mild,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0156,Aster novae-angliae,New England Aster,unsupported_level,faint,"flower,leaf",Foliage has a mild resinous scent when crushed; flowers only lightly scented.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0157,Aster novi-belgii,New York Aster,unsupported_level,faint,flower,Mild sweet scent.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0158,Aster x frikartii,Frikart's Aster,unsupported_level,faint,flower,mild,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0159,Astilbe chinensis,Tall False-Buck's-Beard,unsupported_level,faint,flower,mild sweet,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0160,Astilbe japonica,False-Buck's-Beard,unsupported_level,faint,flower,mild,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0161,Astilbe rubra,Tall False-Buck's-Beard,unsupported_level,faint,flower,,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0161,Astilbe rubra,Tall False-Buck's-Beard,missing_notes,faint,flower,,Non-none fragrance should have notes for the card copy.
+AAA0162,Astilbe simplicifolia,Entire-Leaf False Goat’s Beard,unsupported_level,faint,flower,mild,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0163,Astilbe thunbergii,Ostrich Plume,unsupported_level,faint,flower,,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0163,Astilbe thunbergii,Ostrich Plume,missing_notes,faint,flower,,Non-none fragrance should have notes for the card copy.
+AAA0164,Astilbe x arendsii,Astilbe,unsupported_level,faint,flower,Subtle sweet scent.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0167,Atropa belladonna,Deadly Nightshade,unsupported_level,faint,flower,"Slightly unpleasant, musty.",Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0171,Azalea flammea,Oconee Azalea,unsupported_level,faint,flower,,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0171,Azalea flammea,Oconee Azalea,missing_notes,faint,flower,,Non-none fragrance should have notes for the card copy.
+AAA0174,Baccharis pilularis,Coyote Brush,unsupported_level,faint,leaf,Resinous scent from crushed leaves.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0174,Baccharis pilularis,Coyote Brush,non_flower_fragrance_hidden,faint,leaf,Resinous scent from crushed leaves.,Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA0178,Baptisia alba,Thick-Pod White Wild Indigo,unsupported_level,faint,flower,Flowers very lightly pea-scented.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0180,Baptisia tinctoria,Eastern Wild Indigo,unsupported_level,faint,flower,Flowers very lightly pea-scented.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0188,Bellis perennis,Lawn Daisy,unsupported_level,faint,flower,Flowers very lightly sweet-scented.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0189,Berberis thunbergii,Japanese Barberry,unsupported_level,faint,flower,Light sweet scent.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0196,Bignonia capreolata,Cross Vine,unsupported_level,faint,flower,Mild mocha-coffee fragrance to some noses.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0198,Borago officinalis,Borage,unsupported_level,faint,leaf,Mild cucumber-saline aroma.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0198,Borago officinalis,Borage,non_flower_fragrance_hidden,faint,leaf,Mild cucumber-saline aroma.,Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA0202,Brassica juncea,Brown Mustard,non_flower_fragrance_hidden,moderate,leaf,Sharp mustardy aroma when cut.,Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA0218,Buddleja globosa,Orange-Ball Tree,level_too_high_for_note,moderate,flower,Flowers honey-sweet with a faint citrus note.,Fragrance note sounds weaker than the stored level.
+AAA0219,Buddleja lindleyana,Lindley's Butterflybush,unsupported_level,faint,flower,Flowers lightly sweet-scented; less intense than B. davidii.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0219,Buddleja lindleyana,Lindley's Butterflybush,level_too_low_for_note,faint,flower,Flowers lightly sweet-scented; less intense than B. davidii.,Fragrance note sounds stronger than the stored level.
+AAA0220,Buxus microphylla,Small-Leaved Box,unsupported_level,faint,leaf,Characteristic musky boxwood scent—polarizing; some people find it unpleasant.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0220,Buxus microphylla,Small-Leaved Box,non_flower_fragrance_hidden,faint,leaf,Characteristic musky boxwood scent—polarizing; some people find it unpleasant.,Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA0221,Buxus sempervirens,Common Box,non_flower_fragrance_hidden,moderate,leaf,"Foliage has a distinctive pungent, musky, cat-urine-like scent in warm weather — polarizing.",Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA0222,Buxus sinica var. insularis,Korean Boxwood,unsupported_level,faint,leaf,Mild musky boxwood scent.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0222,Buxus sinica var. insularis,Korean Boxwood,non_flower_fragrance_hidden,faint,leaf,Mild musky boxwood scent.,Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA0233,Calendula arvensis,Field Marigold,unsupported_level,faint,leaf,Resinous aromatic foliage when bruised.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0233,Calendula arvensis,Field Marigold,non_flower_fragrance_hidden,faint,leaf,Resinous aromatic foliage when bruised.,Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA0237,Callicarpa americana,American Beautyberry,unsupported_level,faint,leaf,Leaves release a mild herbal scent when crushed.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0237,Callicarpa americana,American Beautyberry,non_flower_fragrance_hidden,faint,leaf,Leaves release a mild herbal scent when crushed.,Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA0242,Calocedrus decurrens,California Incense-Cedar,non_flower_fragrance_hidden,moderate,"leaf,wood",Distinctive incense-like aromatic scent from cut wood and crushed foliage — familiar as the scent of wooden pencils.,Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA0243,Calochortus superbus,Superb Mariposa Lily,unsupported_level,faint,flower,Faint sweet scent.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0244,Calochortus venustus,Butterfly Mariposa Lily,unsupported_level,faint,flower,Faint sweet scent.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0247,Calylophus drummondianus,Yellow Sundrops,unsupported_level,faint,flower,,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0247,Calylophus drummondianus,Yellow Sundrops,missing_notes,faint,flower,,Non-none fragrance should have notes for the card copy.
+AAA0248,Calystegia sepium,Hedge Bindweed,unsupported_level,faint,flower,Light sweet scent.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0249,Camassia cusickii,Cusick's Camas,unsupported_level,faint,flower,mild,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0250,Camassia leichtlinii,Great Camas,unsupported_level,faint,flower,Flowers very lightly sweet-scented.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0251,Camassia quamash,Small Camas,unsupported_level,faint,flower,Flowers very lightly sweet-scented.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0254,Camellia sasanqua,Sasanqua Camellia,unsupported_level,faint,flower,Mild tea-like scent in some cultivars.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0255,Camellia sinensis,Tea,unsupported_level,faint,flower,Light sweet scent from flowers.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0262,Capsicum annuum,Chili Pepper,unsupported_level,faint,leaf,Mild Solanaceae foliage aroma.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0262,Capsicum annuum,Chili Pepper,non_flower_fragrance_hidden,faint,leaf,Mild Solanaceae foliage aroma.,Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA0263,Capsicum baccatum,Locoto Pepper,unsupported_level,faint,fruit,Fruity citrus aroma from pods.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0263,Capsicum baccatum,Locoto Pepper,non_flower_fragrance_hidden,faint,fruit,Fruity citrus aroma from pods.,Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA0264,Capsicum chinense,Aji Pepper,non_flower_fragrance_hidden,moderate,fruit,Distinctive fruity-floral aroma unique to the species.,Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA0275,Caryopteris divaricata,Tripora,non_flower_fragrance_hidden,strong,leaf,"Foliage strongly pungent when crushed, often described as cat-urine-like.",Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA0277,Caryopteris x clandonensis,Caryopteris x clandonensis,non_flower_fragrance_hidden,moderate,leaf,Pungent aromatic sage-camphor scent when leaves are crushed.,Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA0279,Ceanothus americanus,New Jersey Tea,unsupported_level,faint,flower,Mild sweet scent.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0280,Ceanothus gloriosus,Point Reyes Ceanothus,unsupported_level,faint,flower,Mild honey scent.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0281,Ceanothus griseus horizontalis,Ceanothus griseus horizontalis,unsupported_level,faint,flower,Faint honey-like scent from flowers.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0282,Ceanothus impressus,Santa Barbara Ceanothus,unsupported_level,faint,flower,Honey-like scent.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0283,Ceanothus maritimus,Maritime Ceanothus,unsupported_level,faint,flower,Faint honey scent from flowers.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0284,Ceanothus thyrsiflorus,Blueblossom,unsupported_level,faint,flower,Honey-like scent attracting bees.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0285,Cedrus atlantica,Atlas Cedar,non_flower_fragrance_hidden,strong,"leaf,wood","Classic cedarwood aroma—warm, balsamic, long-lasting.",Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA0286,Cedrus deodara,Deodar Cedar,non_flower_fragrance_hidden,moderate,"leaf,wood","Distinctive warm, camphorous cedar scent from foliage and wood.",Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA0287,Cedrus libani,Lebanon Cedar,non_flower_fragrance_hidden,strong,"leaf,wood","Classic cedarwood aroma—warm, balsamic, resinous.",Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA0288,Celastrus orbiculatus,Asian Bittersweet,unsupported_level,faint,flower,Light sweet scent.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0297,Centaurea stoebe,Spotted Knapweed,unsupported_level,faint,flower,Light sweet scent.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0303,Cercis chinensis,Chinese Redbud,unsupported_level,faint,flower,mild sweet,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0308,Chaenomeles cathayensis,Cathay Quince,non_flower_fragrance_hidden,moderate,fruit,Ripe fruits emit a powerful sweet quince-pineapple aroma.,Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA0309,Chaenomeles japonica,Japanese Quince,unsupported_level,faint,"flower,fruit",Flowers lightly fragrant; ripe fruit strongly aromatic.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0310,Chaenomeles speciosa,Chinese Quince,non_flower_fragrance_hidden,moderate,fruit,Ripe fruit strongly aromatic like quince; flowers lightly fragrant.,Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA0310,Chaenomeles speciosa,Chinese Quince,level_too_high_for_note,moderate,fruit,Ripe fruit strongly aromatic like quince; flowers lightly fragrant.,Fragrance note sounds weaker than the stored level.
+AAA0311,Chamaecyparis pisifera,Sawara Cypress,non_flower_fragrance_hidden,moderate,"leaf,wood",Aromatic cypress scent when crushed.,Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA0312,Chamaedorea elegans,Parlour Palm,unsupported_level,faint,flower,Tiny yellow flowers have a light sweet scent.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0317,Chionodoxa forbesii,Forbes' Glory-Of-The-Snow,unsupported_level,faint,flower,Flowers very lightly sweet-scented.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0319,Chionodoxa sardensis,Lesser Glory-Of-The-Snow,unsupported_level,faint,flower,Flowers very lightly sweet-scented.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0320,Chitalpa tashkentensis,× Chitalpa,unsupported_level,faint,flower,mild,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0322,Chrysactinia mexicana,Damianita,non_flower_fragrance_hidden,strong,leaf,Sharp resinous herbal scent when foliage is brushed.,Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA0325,Chrysanthemum x morifolium,Chrysanthemum × Morifolium,unsupported_level,faint,"flower,leaf",Distinctive herbaceous chrysanthemum scent; foliage more pungent than flowers.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0325,Chrysanthemum x morifolium,Chrysanthemum × Morifolium,level_too_low_for_note,faint,"flower,leaf",Distinctive herbaceous chrysanthemum scent; foliage more pungent than flowers.,Fragrance note sounds stronger than the stored level.
+AAA0330,Cirsium arvense,Creeping Thistle,unsupported_level,faint,flower,Light honey scent.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0342,Clematis alpina,Alpine Clematis,unsupported_level,faint,flower,Mild sweet scent.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0346,Clematis virginiana,Virgin's-Bower,unsupported_level,faint,flower,Mild sweet fragrance.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0348,Cleome hassleriana,Spider Flower,non_flower_fragrance_hidden,moderate,leaf,Foliage has a pungent skunky or musky scent when brushed.,Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA0349,Cleome serrulata,Rocky Mountain Beeplant,non_flower_fragrance_hidden,moderate,leaf,Foliage emits a pungent skunky odor.,Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA0356,Coleus scutellarioides,Coleus,unsupported_level,faint,leaf,Mild minty scent when leaves crushed.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0356,Coleus scutellarioides,Coleus,non_flower_fragrance_hidden,faint,leaf,Mild minty scent when leaves crushed.,Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA0362,Convolvulus arvensis,Field Bindweed,unsupported_level,faint,flower,Light sweet scent in morning.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0367,Coriandrum sativum,Coriander,non_flower_fragrance_hidden,strong,"leaf,seed","Leaf with distinctive citrus-soap aroma (the ""soap"" perception is genetically mediated); seed with warm citrus-spice notes.",Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA0368,Cornus alternifolia,Alternate-Leaved Dogwood,unsupported_level,faint,flower,mild,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0369,Cornus controversa,Giant Dogwood,unsupported_level,faint,flower,mild,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0372,Cornus mas,Cornelian Cherry,unsupported_level,faint,flower,mild,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0378,Costus speciosus,Crêpe Ginger,unsupported_level,faint,flower,Light fresh scent.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0381,Crassula ovata,Jade Plant,unsupported_level,faint,flower,Starry clusters of small flowers have a faint sweet scent.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0386,Crocosmia aurea,Falling Stars,unsupported_level,faint,flower,mild saffron-like when dried,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0388,Crocus vernus,Spring Crocus,unsupported_level,faint,flower,Light honey scent.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0390,Cryptomeria japonica,Sugi,non_flower_fragrance_hidden,moderate,"leaf,wood",Crushed foliage and cut wood release aromatic cedar-like fragrance.,Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA0392,Cucumis sativus,Cucumber,unsupported_level,faint,"leaf,fruit",Fresh green aroma.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0392,Cucumis sativus,Cucumber,non_flower_fragrance_hidden,faint,"leaf,fruit",Fresh green aroma.,Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA0400,Cupressus arizonica,Arizona Cypress,non_flower_fragrance_hidden,moderate,leaf,Pungent resinous cypress scent.,Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA0401,Cupressus sempervirens,Mediterranean Cypress,non_flower_fragrance_hidden,moderate,"leaf,wood",Warm resinous cedar-like scent from foliage and cut wood.,Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA0402,Curcuma longa,Turmeric,non_flower_fragrance_hidden,moderate,root,Earthy musky-ginger aroma from rhizomes.,Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA0404,Cyclamen persicum,Persian Cyclamen,unsupported_level,faint,flower,Some cultivars are bred for fragrance; most modern florist types have little scent.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0406,Cymbidium goeringii,Noble Orchid,level_too_high_for_note,moderate,flower,"Subtle complex fragrance famously celebrated in Chinese literature — the ""scent of the empty valley.""",Fragrance note sounds weaker than the stored level.
+AAA0407,Cymbopogon citratus,Lemon Grass,non_flower_fragrance_hidden,strong,leaf,Intense fresh lemon citrus aroma from citral content.,Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA0409,Cynara cardunculus,Artichoke Thistle,unsupported_level,faint,flower,Mild thistle-honey aroma from open flowers.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0411,Cyperus esculentus,Yellow Nutsedge,unsupported_level,faint,tuber,Tubers sweet and nutty-flavored; plant mostly scentless.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0411,Cyperus esculentus,Yellow Nutsedge,non_flower_fragrance_hidden,faint,tuber,Tubers sweet and nutty-flavored; plant mostly scentless.,Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA0414,Cyperus rotundus,Purple Nutsedge,non_flower_fragrance_hidden,moderate,tuber,"Tubers aromatic, earthy-camphor scented; leaves faintly grassy.",Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA0427,Daucus carota,Wild Carrot,unsupported_level,faint,"leaf,root",Distinctive carrot aroma in crushed foliage and roots.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0427,Daucus carota,Wild Carrot,non_flower_fragrance_hidden,faint,"leaf,root",Distinctive carrot aroma in crushed foliage and roots.,Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA0432,Deutzia crenata,Deutzia,unsupported_level,faint,flower,Flowers very lightly sweet-scented.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0433,Deutzia gracilis,Slender Deutzia,unsupported_level,faint,flower,"Light sweet scent, not strong.",Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0433,Deutzia gracilis,Slender Deutzia,level_too_low_for_note,faint,flower,"Light sweet scent, not strong.",Fragrance note sounds stronger than the stored level.
+AAA0434,Deutzia purpurascens,Deutzia purpurascens,unsupported_level,faint,flower,Flowers lightly sweet-scented.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0435,Deutzia scabra,Deutzia,unsupported_level,faint,flower,Mild sweet scent.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0436,Deutzia x hybrida,Deutzia x hybrida,unsupported_level,faint,flower,Flowers lightly sweet-scented.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0439,Dianthus chinensis,Chinese-Pink,unsupported_level,faint,flower,Faint spicy-sweet clove scent.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0440,Dianthus deltoides,Maiden Pink,unsupported_level,faint,flower,"Very faint scent, much less pronounced than cottage pink.",Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0442,Dianthus knappii,Yellow Pink,unsupported_level,faint,flower,,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0442,Dianthus knappii,Yellow Pink,missing_notes,faint,flower,,Non-none fragrance should have notes for the card copy.
+AAA0456,Diplotaxis tenuifolia,Perennial Wall-Rocket,non_flower_fragrance_hidden,moderate,leaf,Sharp peppery mustard aroma.,Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA0460,Dracaena marginata,Dracaena Reflexa,unsupported_level,faint,flower,"Rare indoor flowers have a mild sweet scent, most noticeable at night.",Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0461,Dracaena reflexa,Song Of India,unsupported_level,faint,flower,Faint floral scent when blooming.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0475,Echinacea angustifolia,Narrow-Leaved Purple Coneflower,unsupported_level,faint,flower,Mild honey scent.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0478,Echinacea purpurea,Purple Coneflower,unsupported_level,faint,flower,Mild honey-like scent attractive to bees and butterflies.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0482,Eichhornia crassipes,Common Water Hyacinth,unsupported_level,faint,flower,Light sweet scent.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0484,Elettaria cardamomum,Green Cardamom,non_flower_fragrance_hidden,strong,seed,Intense sweet-eucalyptus-citrus aroma from crushed seeds.,Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA0497,Eremurus robustus,Foxtail Lily,unsupported_level,faint,flower,Flowers very lightly honey-scented.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0498,Erigeron canadensis,Horseweed,unsupported_level,faint,leaf,Foliage faintly aromatic when crushed.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0498,Erigeron canadensis,Horseweed,non_flower_fragrance_hidden,faint,leaf,Foliage faintly aromatic when crushed.,Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA0499,Eriogonum arborescens,Santa Cruz Island Wild Buckwheat,unsupported_level,faint,flower,Honey-like scent attracting pollinators.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0500,Eriogonum fasciculatum,California Buckwheat,unsupported_level,faint,flower,Sweet honey-like scent attracting pollinators.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0501,Eruca sativa,Rocket Salad,non_flower_fragrance_hidden,moderate,leaf,Peppery-mustard aroma when bruised.,Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA0507,Eucomis bicolor,Variegated Pineapple Lily,unsupported_level,faint,flower,Flowers very lightly musty-sweet.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0508,Eucomis comosa,Crown Pineapple Lily,unsupported_level,faint,flower,"mild, sometimes unpleasant",Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0512,Euonymus japonicus,Japanese Spindle Tree,unsupported_level,faint,flower,Mild scent—some find unpleasant.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0513,Eupatorium purpureum,Spotted Joe-Pye Weed,level_too_high_for_note,moderate,flower,"Light sweet vanilla-scented flowers (hence ""sweet-scented"" common name), stronger than related species.",Fragrance note sounds weaker than the stored level.
+AAA0522,Eustoma grandiflorum,Showy Prairie Gentian,unsupported_level,faint,flower,,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0522,Eustoma grandiflorum,Showy Prairie Gentian,missing_notes,faint,flower,,Non-none fragrance should have notes for the card copy.
+AAA0523,Exochorda giraldii,Exochorda Racemosa,unsupported_level,faint,flower,Flowers very lightly sweet-scented.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0524,Exochorda racemosa,Pearl Bush,unsupported_level,faint,flower,Mild sweet scent.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0527,Fallopia japonica,Japanese Knotweed,unsupported_level,faint,flower,Light honey scent attracting bees.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0535,Ficus carica,Common Fig,unsupported_level,faint,"fruit,leaf","Distinctive green-milky fig aroma, especially from crushed leaves.",Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0535,Ficus carica,Common Fig,non_flower_fragrance_hidden,faint,"fruit,leaf","Distinctive green-milky fig aroma, especially from crushed leaves.",Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA0542,Foeniculum vulgare,Fennel,non_flower_fragrance_hidden,strong,"leaf,seed",Sweet anise-licorice aroma from anethole.,Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA0546,Fragaria x ananassa,Strawberry,non_flower_fragrance_hidden,moderate,fruit,Distinctive sweet strawberry aroma from furaneol and other volatiles.,Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA0555,Fritillaria persica,Sand Fritillary,unsupported_level,faint,bulb,Bulbs faintly musky; flowers nearly scentless.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0555,Fritillaria persica,Sand Fritillary,non_flower_fragrance_hidden,faint,bulb,Bulbs faintly musky; flowers nearly scentless.,Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA0560,Galanthus elwesii,Greater Snowdrop,unsupported_level,faint,flower,Flowers lightly honey-scented.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0561,Galanthus nivalis,Common Snowdrop,unsupported_level,faint,flower,Flowers lightly honey-scented on warm days.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0563,Galinsoga quadriradiata,Shaggy Soldier,unsupported_level,faint,leaf,"Foliage faintly earthy-herbal, distinctive in Colombian cuisine.",Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0563,Galinsoga quadriradiata,Shaggy Soldier,non_flower_fragrance_hidden,faint,leaf,"Foliage faintly earthy-herbal, distinctive in Colombian cuisine.",Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA0571,Geranium macrorrhizum,Rock Crane's-Bill,non_flower_fragrance_hidden,strong,"leaf,root","aromatic, resinous, pine-like",Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA0574,Geranium sanguineum,Bloody Crane's-Bill,unsupported_level,faint,leaf,Mild musky scent when leaves are crushed.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0574,Geranium sanguineum,Bloody Crane's-Bill,non_flower_fragrance_hidden,faint,leaf,Mild musky scent when leaves are crushed.,Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA0578,Geum rivale,Water Avens,non_flower_fragrance_hidden,moderate,root,Roots strongly clove-scented; flowers and leaves barely scented.,Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA0580,Ginkgo biloba,Ginkgo,non_flower_fragrance_hidden,strong,fruit,Fleshy seed coat of female trees has a strong rancid-butter / vomit smell when ripe — the main reason only male trees are planted in streets.,Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA0583,Gladiolus nanus,Late Bobbejaantjie,unsupported_level,faint,flower,mild,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0586,Glechoma hederacea,Ground-Ivy,non_flower_fragrance_hidden,moderate,leaf,Foliage minty-resinous when crushed.,Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA0587,Gleditsia japonica,Japanese Honey Locust,unsupported_level,faint,flower,Mild sweet pea-like scent.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0602,Hedera helix,Common Ivy,unsupported_level,faint,flower,Autumn flowers have a faint musky scent attractive to late-season pollinators.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0604,Helianthus annuus,Common Sunflower,unsupported_level,faint,flower,Mild pollen scent.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0607,Helichrysum petiolare,Licorice Plant,unsupported_level,faint,leaf,Faint licorice-like scent from crushed foliage.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0607,Helichrysum petiolare,Licorice Plant,non_flower_fragrance_hidden,faint,leaf,Faint licorice-like scent from crushed foliage.,Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA0613,Hemerocallis fulva,Orange Day-Lily,unsupported_level,faint,flower,Most daylilies are weakly scented; some modern cultivars have been bred for stronger fragrance.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0617,Heracleum mantegazzianum,Giant Hogweed,unsupported_level,faint,flower,Light musky scent.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0632,Hosta fortunei,Hosta Sieboldiana,unsupported_level,faint,flower,,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0632,Hosta fortunei,Hosta Sieboldiana,missing_notes,faint,flower,,Non-none fragrance should have notes for the card copy.
+AAA0634,Hosta montana,Hosta Sieboldiana,unsupported_level,faint,flower,mild sweet,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0635,Hosta nigrescens,Hosta,unsupported_level,faint,flower,,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0635,Hosta nigrescens,Hosta,missing_notes,faint,flower,,Non-none fragrance should have notes for the card copy.
+AAA0638,Hosta sieboldii,Small-Leaved Plantain Lily,unsupported_level,faint,flower,,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0638,Hosta sieboldii,Small-Leaved Plantain Lily,missing_notes,faint,flower,,Non-none fragrance should have notes for the card copy.
+AAA0640,Hosta ventricosa,Blue Plantain-Lily,unsupported_level,faint,flower,,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0640,Hosta ventricosa,Blue Plantain-Lily,missing_notes,faint,flower,,Non-none fragrance should have notes for the card copy.
+AAA0650,Hydrangea anomala,Chinese Hydrangea,unsupported_level,faint,flower,Mild honey-like scent.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0651,Hydrangea arborescens,Wild Hydrangea,unsupported_level,faint,flower,Light honey scent.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0652,Hydrangea aspera,Rough-Leaved Hydrangea,unsupported_level,faint,flower,Mild sweet fragrance.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0653,Hydrangea heteromalla,Hydrangea heteromalla,unsupported_level,faint,flower,Flowers lightly honey-scented.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0655,Hydrangea macrophylla,Mophead Hydrangea,unsupported_level,faint,flower,Light honey-like scent at close range; most cultivars are weakly fragrant.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0656,Hydrangea paniculata,Panicle Hydrangea,unsupported_level,faint,flower,Light honey scent.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0657,Hydrangea petiolaris,Climbing Hydrangea,unsupported_level,faint,flower,Mild honey scent.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0658,Hydrangea quercifolia,Oakleaf Hydrangea,unsupported_level,faint,flower,Light honey scent.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0659,Hydrangea serrata,Mountain Hydrangea,unsupported_level,faint,flower,Mild sweet scent.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0660,Hypericum calycinum,Rose-Of-Sharon,unsupported_level,faint,leaf,Mild resinous scent when leaves crushed.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0660,Hypericum calycinum,Rose-Of-Sharon,non_flower_fragrance_hidden,faint,leaf,Mild resinous scent when leaves crushed.,Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA0661,Hypericum perforatum,Common St. John's Wort,unsupported_level,faint,flower,Mild herbal scent.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0663,Hyssopus officinalis,Hyssop,non_flower_fragrance_hidden,strong,leaf,Pungent mint-camphor-sage aroma.,Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA0664,Ilex aquifolium,European Holly,unsupported_level,faint,flower,Male flowers mildly honey-scented.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0665,Ilex cornuta,Chinese Holly,unsupported_level,faint,flower,Mild sweet scent from flowers.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0668,Ilex opaca,American Holly,unsupported_level,faint,flower,Mild honey-like scent from male flowers.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0669,Ilex vomitoria,Yaupon Holly,unsupported_level,faint,flower,Mild honey-like scent from male flowers.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0670,Ilex x meserveae,Ilex x meserveae,unsupported_level,faint,flower,Mild sweet scent from male flowers.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0672,Illicium parviflorum,Yellow Anise,non_flower_fragrance_hidden,strong,leaf,Powerful sweet anise-licorice fragrance when leaves crushed.,Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA0681,Ipomoea purpurea,Common Morning-Glory,unsupported_level,faint,flower,Flowers have a very faint sweet scent.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0682,Ipomoea tricolor,Garden Morning Glory,unsupported_level,faint,flower,Very faint sweet scent in morning.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0685,Iris douglasiana,Douglas Iris,unsupported_level,faint,flower,Light delicate scent.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0686,Iris ensata,Japanese Iris,unsupported_level,faint,flower,Light violet-like scent.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0688,Iris hollandica,Iris × Hollandica,unsupported_level,faint,flower,mild,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0689,Iris munzii,Munz's Iris,unsupported_level,faint,flower,Light delicate scent.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0691,Iris pseudacorus,Yellow Iris,unsupported_level,faint,flower,Light delicate scent.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0692,Iris reticulata,Netted Iris,unsupported_level,faint,flower,mild violet-like,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0693,Iris sibirica,Siberian Iris,unsupported_level,faint,flower,mild,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0694,Iris versicolor,Northern Blue Flag,unsupported_level,faint,flower,Light delicate scent.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0695,Itea japonica,Itea japonica,unsupported_level,faint,flower,Flowers lightly sweet-scented.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0697,Ixora coccinea,Jungle Flame,unsupported_level,faint,flower,Light sweet scent.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0702,Juniperus chinensis,Chinese Juniper,non_flower_fragrance_hidden,moderate,"leaf,wood",Crushed foliage and cut wood emit classic aromatic juniper scent.,Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA0703,Juniperus communis,Common Juniper,non_flower_fragrance_hidden,moderate,"leaf,fruit","Resinous, piney, gin-like aroma from crushed foliage and berries.",Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA0704,Juniperus conferta,Shore Juniper,non_flower_fragrance_hidden,moderate,"leaf,wood",Resinous juniper aroma from crushed needles and wood.,Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA0705,Juniperus horizontalis,Creeping Juniper,non_flower_fragrance_hidden,moderate,leaf,Resinous juniper scent.,Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA0706,Juniperus scopulorum,Rocky Mountain Juniper,non_flower_fragrance_hidden,strong,"leaf,wood",Resinous juniper-cedar aroma.,Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA0707,Juniperus squamata,Flaky Juniper,non_flower_fragrance_hidden,moderate,leaf,Resinous juniper scent.,Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA0708,Juniperus virginiana,Eastern Redcedar,non_flower_fragrance_hidden,strong,"leaf,wood","Classic cedar-chest aroma—warm, resinous, insect-repellent.",Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA0717,Koelreuteria paniculata,Golden Rain Tree,unsupported_level,faint,flower,mild,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0718,Kolkwitzia amabilis,Beauty Bush,unsupported_level,faint,flower,Flowers lightly sweet-scented.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0719,Laburnum anagyroides,Common Laburnum,unsupported_level,faint,flower,mild sweet,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0720,Laburnum x watereri,Golden Chain Tree,unsupported_level,faint,flower,mild sweet,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0724,Lagerstroemia fauriei,Lagerstroemia Subcostata,unsupported_level,faint,flower,mild,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0728,Lamium purpureum,Red Deadnettle,unsupported_level,faint,leaf,Foliage faintly resinous when crushed.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0728,Lamium purpureum,Red Deadnettle,non_flower_fragrance_hidden,faint,leaf,Foliage faintly resinous when crushed.,Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA0730,Lamprocapnos spectabilis,Asian Bleeding-Heart,unsupported_level,faint,flower,Flowers lightly sweet-scented.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0731,Lantana camara,Common Lantana,non_flower_fragrance_hidden,moderate,leaf,"Pungent, somewhat acrid herbal aroma when leaves are crushed; flowers mildly sweet.",Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA0732,Lantana montevidensis,Creeping Lantana,unsupported_level,faint,leaf,Strong pungent scent from crushed leaves — somewhat divisive; flowers are mildly honey-scented.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0732,Lantana montevidensis,Creeping Lantana,non_flower_fragrance_hidden,faint,leaf,Strong pungent scent from crushed leaves — somewhat divisive; flowers are mildly honey-scented.,Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA0732,Lantana montevidensis,Creeping Lantana,level_too_low_for_note,faint,leaf,Strong pungent scent from crushed leaves — somewhat divisive; flowers are mildly honey-scented.,Fragrance note sounds stronger than the stored level.
+AAA0733,Laurus nobilis,Bay Laurel,non_flower_fragrance_hidden,strong,leaf,Warm herbal-camphor aroma from fresh or dried leaves.,Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA0738,Layia platyglossa,Tidy Tips,unsupported_level,faint,flower,,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0738,Layia platyglossa,Tidy Tips,missing_notes,faint,flower,,Non-none fragrance should have notes for the card copy.
+AAA0741,Leucanthemum paludosum,Mini-Marguerite,unsupported_level,faint,leaf,,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0741,Leucanthemum paludosum,Mini-Marguerite,non_flower_fragrance_hidden,faint,leaf,,Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA0741,Leucanthemum paludosum,Mini-Marguerite,missing_notes,faint,leaf,,Non-none fragrance should have notes for the card copy.
+AAA0743,Leucanthemum x superbum,Shasta Daisy,unsupported_level,faint,flower,mild herbaceous,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0744,Leucojum aestivum,Summer Snowflake,unsupported_level,faint,flower,"Flowers lightly sweet, faintly chocolate-scented.",Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0745,Leucojum vernum,Spring Snowflake,unsupported_level,faint,flower,"Flowers lightly sweet, faintly violet-scented.",Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0746,Leucophyllum laevigatum,Leucophyllum laevigatum,level_too_high_for_note,moderate,flower,Sweet light lavender fragrance.,Fragrance note sounds weaker than the stored level.
+AAA0747,Leucophyllum langmaniae,Leucophyllum langmaniae,unsupported_level,faint,leaf,,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0747,Leucophyllum langmaniae,Leucophyllum langmaniae,non_flower_fragrance_hidden,faint,leaf,,Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA0747,Leucophyllum langmaniae,Leucophyllum langmaniae,missing_notes,faint,leaf,,Non-none fragrance should have notes for the card copy.
+AAA0749,Leucothoe populifolia,Agarista Populifolia,unsupported_level,faint,flower,,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0749,Leucothoe populifolia,Agarista Populifolia,missing_notes,faint,flower,,Non-none fragrance should have notes for the card copy.
+AAA0750,Levisticum officinale,Lovage,non_flower_fragrance_hidden,strong,"leaf,root",Intense celery-yeast-curry aroma.,Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA0755,Ligularia fischeri,Fischer’s Ragwort,non_flower_fragrance_hidden,moderate,leaf,"Young leaves with distinct aromatic, slightly resinous scent valued in Korean cuisine.",Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA0761,Lilium henryi,Henry's Lily,unsupported_level,faint,flower,mild,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0762,Lilium lancifolium,Tiger Lily,unsupported_level,faint,flower,mild,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0768,Linaria maroccana,Annual Toadflax,unsupported_level,faint,flower,,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0768,Linaria maroccana,Annual Toadflax,missing_notes,faint,flower,,Non-none fragrance should have notes for the card copy.
+AAA0770,Liquidambar formosana,Chinese Sweetgum,non_flower_fragrance_hidden,moderate,"leaf,wood",Aromatic balsamic resin when bark or leaves are bruised.,Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA0771,Liriodendron tulipifera,American Tuliptree,unsupported_level,faint,flower,"Flowers have a light, sweet scent.",Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0774,Lithops lesliei,Lithops lesliei,unsupported_level,faint,flower,Flowers have a faint sweet scent.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0783,Lonicera sempervirens,Coral Honeysuckle,unsupported_level,faint,flower,Faint or no scent—unlike the heavily fragrant L. japonica. Pollinated by hummingbirds (sight-based) rather than scent.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0785,Loropetalum chinense,Chinese Fringe Flower,unsupported_level,faint,flower,Mild sweet scent.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0789,Lupinus polyphyllus,Large-Leaved Lupine,unsupported_level,faint,flower,Subtle peppery scent.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0792,Lycoris squamigera,Surprise Lily,unsupported_level,faint,flower,Flowers very lightly sweet-scented.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0793,Lyonia lucida,Fetterbush Lyonia,unsupported_level,faint,flower,,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0793,Lyonia lucida,Fetterbush Lyonia,missing_notes,faint,flower,,Non-none fragrance should have notes for the card copy.
+AAA0795,Maclura pomifera,Osage Orange,unsupported_level,faint,fruit,Fruit has mild citrus-like scent when cut.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0795,Maclura pomifera,Osage Orange,non_flower_fragrance_hidden,faint,fruit,Fruit has mild citrus-like scent when cut.,Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA0796,Magnolia acuminata,Cucumber-Tree,unsupported_level,faint,flower,mild,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0801,Magnolia kobus,Kobus Magnolia,level_too_high_for_note,moderate,flower,"sweet, light",Fragrance note sounds weaker than the stored level.
+AAA0802,Magnolia liliiflora,Lily Magnolia,level_too_high_for_note,moderate,flower,"fruity, light",Fragrance note sounds weaker than the stored level.
+AAA0805,Magnolia stellata,Star Magnolia,level_too_high_for_note,moderate,flower,Sweet light floral scent.,Fragrance note sounds weaker than the stored level.
+AAA0807,Magnolia x soulangeana,Chinese Magnolia,level_too_high_for_note,moderate,flower,Sweet light floral scent.,Fragrance note sounds weaker than the stored level.
+AAA0809,Mahonia repens,Creeping Mahonia,unsupported_level,faint,flower,,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0809,Mahonia repens,Creeping Mahonia,missing_notes,faint,flower,,Non-none fragrance should have notes for the card copy.
+AAA0812,Malus floribunda,Japanese Crab,unsupported_level,faint,flower,Light sweet scent.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0813,Malva neglecta,Dwarf Mallow,unsupported_level,faint,flower,Flowers very lightly sweet-scented.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0818,Mangifera indica,Indian Mango,non_flower_fragrance_hidden,strong,fruit,"Complex tropical aroma from terpenes and esters, varying dramatically by cultivar.",Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA0826,Medicago lupulina,Black Medick,unsupported_level,faint,flower,Flowers lightly honey-scented.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0828,Melaleuca citrina,Crimson Bottlebrush,non_flower_fragrance_hidden,moderate,leaf,Lemony eucalyptus scent from crushed foliage.,Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA0829,Melampodium leucanthum,Blackfoot Daisy,level_too_high_for_note,moderate,flower,Light honey-like scent attracts pollinators.,Fragrance note sounds weaker than the stored level.
+AAA0830,Melissa officinalis,Lemon Balm,non_flower_fragrance_hidden,strong,leaf,Fresh lemon-mint aroma from citral and citronellal.,Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA0831,Mentha pulegium,Pennyroyal,non_flower_fragrance_hidden,strong,leaf,Strong peppermint-menthol aroma.,Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA0832,Mentha requienii,Corsican Mint,non_flower_fragrance_hidden,strong,leaf,Intense peppermint aroma released when brushed or walked on.,Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA0833,Mentha spicata,Spearmint,non_flower_fragrance_hidden,strong,leaf,Classic sweet spearmint aroma driven by carvone.,Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA0834,Mentha suaveolens,Apple Mint,non_flower_fragrance_hidden,strong,leaf,Apple-mint to pineapple-mint aroma from crushed leaves.,Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA0835,Mentha x piperita,Black Peppermint,non_flower_fragrance_hidden,strong,leaf,Intense cool menthol aroma from crushed leaves.,Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA0837,Metasequoia glyptostroboides,Dawn Redwood,unsupported_level,faint,leaf,Light resinous scent when foliage is crushed.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0837,Metasequoia glyptostroboides,Dawn Redwood,non_flower_fragrance_hidden,faint,leaf,Light resinous scent when foliage is crushed.,Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA0848,Monarda bradburiana,Eastern Beebalm,non_flower_fragrance_hidden,moderate,leaf,"minty, thyme-like",Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA0850,Monarda clinopodia,White Bergamot,non_flower_fragrance_hidden,strong,leaf,Foliage strongly thyme- and oregano-scented when crushed.,Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA0851,Monarda didyma,Scarlet Beebalm,non_flower_fragrance_hidden,strong,leaf,Oregano-bergamot aroma.,Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA0852,Monarda fistulosa,Wild Bergamot,non_flower_fragrance_hidden,moderate,leaf,Aromatic thyme-bergamot scent from crushed foliage.,Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA0854,Monarda punctata,Spotted Horsemint,non_flower_fragrance_hidden,strong,leaf,"thyme-like, oregano-like",Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA0856,Monstera deliciosa,Swiss Cheese Plant,unsupported_level,faint,fruit,Ripe fruit carries a tropical pineapple-banana scent; foliage is not fragrant.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0856,Monstera deliciosa,Swiss Cheese Plant,non_flower_fragrance_hidden,faint,fruit,Ripe fruit carries a tropical pineapple-banana scent; foliage is not fragrant.,Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA0859,Morus nigra,Black Mulberry,unsupported_level,faint,fruit,,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0859,Morus nigra,Black Mulberry,non_flower_fragrance_hidden,faint,fruit,,Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA0859,Morus nigra,Black Mulberry,missing_notes,faint,fruit,,Non-none fragrance should have notes for the card copy.
+AAA0862,Musa acuminata,Cavendish Banana,non_flower_fragrance_hidden,moderate,fruit,Distinctive banana aroma dominated by isoamyl acetate ester.,Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA0864,Muscari armeniacum,Garden Grape-Hyacinth,unsupported_level,faint,flower,"Flowers lightly sweet, reminiscent of grape jelly.",Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0865,Muscari botryoides,Common Grape Hyacinth,unsupported_level,faint,flower,Flowers lightly sweet-scented.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0866,Muscari latifolium,Broad-Leaved Grape-Hyacinth,unsupported_level,faint,flower,Flowers lightly sweet-scented.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0870,Myrrhis odorata,Sweet Cicely,non_flower_fragrance_hidden,strong,"leaf,seed,root",Sweet anise-myrrh aroma.,Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA0872,Nandina domestica,Heavenly Bamboo,unsupported_level,faint,flower,Flowers lightly sweet-scented.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0873,Narcissus cyclamineus,Cyclamen-Flowered Daffodil,unsupported_level,faint,flower,mild,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0876,Narcissus pseudonarcissus,Wild Daffodil,unsupported_level,faint,flower,Light sweet scent in most wild forms; some cultivars significantly more fragrant.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0878,Narcissus triandrus,Angel's-Tears,unsupported_level,faint,flower,mild sweet,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0883,Nemesia strumosa,Cape-Jewels,unsupported_level,faint,flower,Light sweet fragrance in some cultivars.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0886,Nepeta cataria,Catnip,non_flower_fragrance_hidden,moderate,leaf,Mint-camphor aroma with distinctive feline-attractant compound.,Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA0887,Nepeta racemosa,Eastern Cat-Mint,non_flower_fragrance_hidden,moderate,leaf,"minty, catnip-like",Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA0888,Nepeta sibirica,Siberian Catmint,non_flower_fragrance_hidden,moderate,leaf,Minty-herbal scent when foliage is crushed; attracts cats.,Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA0889,Nepeta x faassenii,Catmint,non_flower_fragrance_hidden,moderate,leaf,"minty, catnip-like",Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA0894,Nicotiana mutabilis,Nicotiana mutabilis,unsupported_level,faint,flower,Very light evening scent.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0898,Nigella sativa,Nigella,unsupported_level,faint,seed,Seeds have a distinctive peppery oregano-like aroma.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0898,Nigella sativa,Nigella,non_flower_fragrance_hidden,faint,seed,Seeds have a distinctive peppery oregano-like aroma.,Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA0899,Nymphaea alba,European White Waterlily,level_too_high_for_note,moderate,flower,"Light sweet scent, strongest in morning.",Fragrance note sounds weaker than the stored level.
+AAA0901,Ocimum basilicum,Sweet Basil,non_flower_fragrance_hidden,strong,leaf,Iconic sweet-anise-clove aroma from leaves; central to Mediterranean and Southeast Asian cuisines.,Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA0906,Oenothera lindheimeri,Clockweed,unsupported_level,faint,flower,Light delicate scent.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0907,Oenothera speciosa,Pink Evening Primrose,unsupported_level,faint,flower,Light sweet scent.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0910,Oplopanax horridus,Devil's Club,unsupported_level,faint,leaf,Ginseng-like resinous scent when bruised.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0910,Oplopanax horridus,Devil's Club,non_flower_fragrance_hidden,faint,leaf,Ginseng-like resinous scent when bruised.,Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA0914,Origanum vulgare,Oregano,non_flower_fragrance_hidden,strong,leaf,Pungent warm aroma of carvacrol and thymol.,Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA0915,Orlaya grandiflora,Large-Flowered Orlaya,unsupported_level,faint,flower,mild herbaceous,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0928,Pachysandra terminalis,Japanese Pachysandra,unsupported_level,faint,flower,Faint sweet scent from flowers in early spring.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0931,Paeonia mlokosewitschii,Paeonia Daurica Subsp. Mlokosewitschii,unsupported_level,faint,flower,,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0931,Paeonia mlokosewitschii,Paeonia Daurica Subsp. Mlokosewitschii,missing_notes,faint,flower,,Non-none fragrance should have notes for the card copy.
+AAA0936,Paeonia tenuifolia,Fern-Leaf Peony,unsupported_level,faint,flower,,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0936,Paeonia tenuifolia,Fern-Leaf Peony,missing_notes,faint,flower,,Non-none fragrance should have notes for the card copy.
+AAA0940,Papaver nudicaule,Iceland Poppy,unsupported_level,faint,flower,Faint delicate scent.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0943,Papaver somniferum,Opium Poppy,unsupported_level,faint,flower,Very light sweet scent.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0948,Passiflora caerulea,Bluecrown Passionflower,unsupported_level,faint,flower,Light sweet scent.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0952,Pelargonium graveolens,Rose-Scented Geranium,non_flower_fragrance_hidden,strong,leaf,Intense rose-lemon scent released when leaves are touched; source of commercial geranium oil.,Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA0953,Pelargonium peltatum,Ivy Geranium,unsupported_level,faint,leaf,Mild herbaceous scent from crushed leaves.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0953,Pelargonium peltatum,Ivy Geranium,non_flower_fragrance_hidden,faint,leaf,Mild herbaceous scent from crushed leaves.,Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA0954,Pelargonium x hortorum,Zonal Geranium,non_flower_fragrance_hidden,moderate,leaf,Pungent musky-citrus scent from leaves when brushed; flowers faintly scented.,Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA0973,Perilla frutescens,Beefsteak Plant,non_flower_fragrance_hidden,strong,leaf,Distinctive anise-cinnamon-basil aroma with citrus notes.,Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA0974,Perovskia atriplicifolia,Swanleaf Clouding Sage,non_flower_fragrance_hidden,strong,"leaf,stem","Whole plant aromatic, sage-and-camphor scent when brushed.",Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA0978,Petroselinum crispum,Garden Parsley,non_flower_fragrance_hidden,moderate,leaf,Fresh green herbal aroma.,Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA0980,Phacelia tanacetifolia,Lacy Phacelia,unsupported_level,faint,flower,Sweet honey fragrance attracts bees.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA0981,Phalaenopsis amabilis,Moth Orchid,unsupported_level,faint,flower,Species is nearly scentless; some hybrids have faint sweet fragrance.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA1000,Phlox pilosa,Prairie Phlox,level_too_high_for_note,moderate,flower,Sweet light fragrance attracts butterflies.,Fragrance note sounds weaker than the stored level.
+AAA1001,Phlox stolonifera,Creeping Phlox,unsupported_level,faint,flower,Mild sweet scent.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA1002,Phlox subulata,Moss Phlox,unsupported_level,faint,flower,Mild sweet scent.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA1003,Photinia x fraseri,Fraser's Photinia,unsupported_level,faint,flower,unpleasant musky,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA1008,Physocarpus capitatus,Pacific Ninebark,unsupported_level,faint,flower,Flowers mildly honey-scented.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA1009,Physocarpus opulifolius,Common Ninebark,unsupported_level,faint,flower,Flowers mildly honey-scented.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA1010,Picea abies,Norway Spruce,non_flower_fragrance_hidden,moderate,"leaf,wood",Fresh resinous Christmas-tree scent.,Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA1011,Picea engelmannii,Engelmann Spruce,non_flower_fragrance_hidden,moderate,"leaf,wood","Resinous spruce scent, somewhat pungent when crushed.",Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA1012,Picea glauca,White Spruce,non_flower_fragrance_hidden,moderate,"leaf,wood","Resinous spruce scent when crushed, somewhat acrid.",Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA1013,Picea omorika,Serbian Spruce,non_flower_fragrance_hidden,moderate,"leaf,wood",Sweet resinous spruce scent.,Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA1014,Picea orientalis,Oriental Spruce,non_flower_fragrance_hidden,moderate,"leaf,wood",Resinous spruce scent.,Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA1015,Pieris floribunda,Mountain Andromeda,unsupported_level,faint,flower,Mild sweet lily-of-the-valley-like scent to some noses.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA1016,Pieris japonica,Japanese Andromeda,unsupported_level,faint,flower,Light sweet scent reminiscent of lily-of-the-valley.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA1018,Pilosocereus pachycladus,Pilosocereus pachycladus,unsupported_level,faint,flower,Night-blooming flowers with subtle musky scent.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA1019,Pimpinella anisum,Anise,non_flower_fragrance_hidden,strong,"leaf,seed",Sweet licorice-like anethole aroma.,Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA1021,Pinus banksiana,Jack Pine,non_flower_fragrance_hidden,moderate,"leaf,wood",Sweet resinous pine scent.,Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA1022,Pinus bungeana,Lacebark Pine,non_flower_fragrance_hidden,moderate,"leaf,wood",Resinous pine scent.,Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA1023,Pinus densiflora,Japanese Red Pine,non_flower_fragrance_hidden,moderate,"leaf,wood",Sweet resinous pine scent.,Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA1024,Pinus flexilis,Limber Pine,non_flower_fragrance_hidden,moderate,"leaf,wood",Sweet resinous pine scent.,Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA1025,Pinus mugo,Mountain Pine,non_flower_fragrance_hidden,moderate,leaf,Resinous pine scent; essential oil from young needles is commercial.,Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA1026,Pinus nigra,Black Pine,non_flower_fragrance_hidden,moderate,"leaf,wood",Resinous pine scent.,Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA1027,Pinus parviflora,Japanese White Pine,non_flower_fragrance_hidden,moderate,"leaf,wood",Sweet resinous pine scent.,Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA1028,Pinus ponderosa,Western Ponderosa Pine,non_flower_fragrance_hidden,moderate,"wood,leaf",Warm bark releases distinctive butterscotch-vanilla scent on sunny afternoons — a signature sensation of western US pine forests.,Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA1029,Pinus radiata,Monterey Pine,non_flower_fragrance_hidden,moderate,"leaf,wood",Classic resinous pine fragrance from needles and cut wood.,Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA1030,Pinus sylvestris,Scots Pine,non_flower_fragrance_hidden,moderate,"leaf,wood",Classic resinous pine scent.,Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA1031,Pinus thunbergii,Japanese Black Pine,non_flower_fragrance_hidden,moderate,"leaf,wood",Strong resinous pine scent.,Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA1032,Pinus torreyana,Torrey Pine,unsupported_level,faint,leaf,Mild pine resinous scent.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA1032,Pinus torreyana,Torrey Pine,non_flower_fragrance_hidden,faint,leaf,Mild pine resinous scent.,Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA1034,Pisum sativum,Common Pea,unsupported_level,faint,flower,"Mild sweet pea fragrance (stronger in sweet pea Lathyrus odoratus, an unrelated species).",Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA1043,Platycladus orientalis,Chinese Arborvitae,non_flower_fragrance_hidden,moderate,leaf,Resinous cypress-thuja scent when crushed.,Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA1044,Plectranthus argentatus,Silver Spurflower,unsupported_level,faint,leaf,Mild herbaceous scent from crushed leaves.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA1044,Plectranthus argentatus,Silver Spurflower,non_flower_fragrance_hidden,faint,leaf,Mild herbaceous scent from crushed leaves.,Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA1049,Podophyllum peltatum,Mayapple,unsupported_level,faint,flower,Flower has light musky-sweet scent.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA1051,Polygonatum biflorum,Solomon's Seal,unsupported_level,faint,flower,Light sweet scent.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA1056,Populus alba,White Poplar,unsupported_level,faint,leaf,Resinous balsam scent from spring leaf buds.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA1056,Populus alba,White Poplar,non_flower_fragrance_hidden,faint,leaf,Resinous balsam scent from spring leaf buds.,Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA1058,Populus tremuloides,Quaking Aspen,unsupported_level,faint,leaf,Resinous balsam scent from leaf buds in spring.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA1058,Populus tremuloides,Quaking Aspen,non_flower_fragrance_hidden,faint,leaf,Resinous balsam scent from leaf buds in spring.,Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA1066,Primula vulgaris,Primrose,unsupported_level,faint,flower,Delicate sweet scent.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA1068,Prunus campanulata,Taiwan Cherry,unsupported_level,faint,flower,mild,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA1071,Prunus glandulosa,Flowering Almond,unsupported_level,faint,flower,mild almond,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA1072,Prunus incisa,Fuji Cherry,unsupported_level,faint,flower,mild,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA1076,Prunus sargentii,North Japanese Hill Cherry,unsupported_level,faint,flower,mild,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA1077,Prunus serrulata,Japanese Cherry,unsupported_level,faint,flower,Flowers mildly sweet; some cultivars almond-scented.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA1078,Prunus subhirtella,Higan Cherry,unsupported_level,faint,flower,mild,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA1079,Prunus tomentosa,Nanking Cherry,unsupported_level,faint,flower,mild,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA1080,Prunus triloba,Flowering Plum,unsupported_level,faint,flower,mild almond,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA1081,Prunus x yedoensis,Korean Flowering Cherry,unsupported_level,faint,flower,Light almond-like scent from blossoms.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA1085,Punica granatum,Pomegranate,unsupported_level,faint,flower,Mild sweet blossom scent.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA1086,Pyracantha coccinea,Scarlet Firethorn,unsupported_level,faint,flower,Light somewhat musky scent.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA1106,Ratibida columnifera,Upright Prairie Coneflower,unsupported_level,faint,flower,Anise-like scent when crushed.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA1109,Rhamnus cathartica,Common Buckthorn,unsupported_level,faint,flower,Light sweet scent.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA1115,Rhododendron augustinii,Augustine's Rhododendron,unsupported_level,faint,flower,Very light sweet scent.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA1119,Rhododendron macrophyllum,Pacific Rhododendron,unsupported_level,faint,flower,,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA1119,Rhododendron macrophyllum,Pacific Rhododendron,missing_notes,faint,flower,,Non-none fragrance should have notes for the card copy.
+AAA1120,Rhododendron minus,Gorge Rhododendron,unsupported_level,faint,flower,Mild scent.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA1121,Rhododendron ponticum,Pontic Rhododendron,unsupported_level,faint,flower,Light scent.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA1122,Rhododendron schlippenbachii,Royal Azalea,unsupported_level,faint,flower,Mild sweet scent.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA1123,Rhododendron yakushimanum,Rhododendron Degronianum,unsupported_level,faint,flower,Mild sweet scent.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA1126,Ribes nigrum,Blackcurrant,non_flower_fragrance_hidden,moderate,"leaf,fruit",Distinctive pungent musky cassis aroma from leaves and fruit.,Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA1127,Ribes rubrum,Red Currant,unsupported_level,faint,leaf,Subtle herbal aroma from crushed leaves.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA1127,Ribes rubrum,Red Currant,non_flower_fragrance_hidden,faint,leaf,Subtle herbal aroma from crushed leaves.,Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA1130,Robinia hispida,Bristly Locust,unsupported_level,faint,flower,mild sweet,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA1131,Rodgersia aesculifolia,Chinese Rodgersia,unsupported_level,faint,flower,mild sweet,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA1133,Rodgersia podophylla,Japanese Rodgersia,unsupported_level,faint,flower,Flowers lightly sweet-scented on warm days.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA1134,Rodgersia sambucifolia,Rodgersia sambucifolia,unsupported_level,faint,flower,Flowers lightly sweet-scented.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA1135,Romneya coulteri,Coulter's Matilija Poppy,unsupported_level,faint,flower,Delicate sweet scent.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA1143,Rosa 'Betty Boop',Betty Boop,level_too_high_for_note,moderate,flower,Light sweet apple scent.,Fragrance note sounds weaker than the stored level.
+AAA1144,Rosa 'Blaze',Blaze,unsupported_level,faint,flower,Light scent.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA1145,Rosa 'Bonica',Bonica,unsupported_level,faint,flower,Light scent.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA1149,Rosa 'Carefree Wonder',Carefree Wonder,unsupported_level,faint,flower,Light scent.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA1151,Rosa 'Cherish',Cherish,unsupported_level,faint,flower,Light tea scent.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA1153,Rosa 'Cupcake',Cupcake,unsupported_level,faint,flower,Very light scent.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA1154,Rosa 'Dainty Bess',Dainty Bess,level_too_high_for_note,moderate,flower,Light clove-and-rose scent.,Fragrance note sounds weaker than the stored level.
+AAA1157,Rosa 'Double Knock Out',Double Knock Out,unsupported_level,faint,flower,Light scent.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA1158,Rosa 'Drift Coral',Drift Coral,unsupported_level,faint,flower,Light scent.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA1159,Rosa 'Drift Pink',Drift Pink,unsupported_level,faint,flower,Light scent.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA1160,Rosa 'Drift Red',Drift Red,unsupported_level,faint,flower,Light scent.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA1161,Rosa 'Easy Going',Easy Going,unsupported_level,faint,flower,Light fruity scent.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA1162,Rosa 'Eden',Eden,level_too_high_for_note,moderate,flower,Light old-rose fragrance.,Fragrance note sounds weaker than the stored level.
+AAA1163,Rosa 'Elina',Elina,level_too_high_for_note,moderate,flower,Light fresh tea scent.,Fragrance note sounds weaker than the stored level.
+AAA1164,Rosa 'Europeana',Europeana,unsupported_level,faint,flower,Light scent.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA1165,Rosa 'Flower Carpet Pink',Flower Carpet Pink,unsupported_level,faint,flower,Light scent.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA1166,Rosa 'Flower Carpet Red',Flower Carpet Red,unsupported_level,faint,flower,Light scent.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA1169,Rosa 'Garden Party',Garden Party,level_too_high_for_note,moderate,flower,Light fruity scent.,Fragrance note sounds weaker than the stored level.
+AAA1171,Rosa 'Gold Medal',Gold Medal,level_too_high_for_note,moderate,flower,Light tea and fruit scent.,Fragrance note sounds weaker than the stored level.
+AAA1176,Rosa 'Home Run',Home Run,unsupported_level,faint,flower,Light scent.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA1178,Rosa 'Iceberg',Iceberg,unsupported_level,faint,flower,Light honey scent.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA1179,Rosa 'Ingrid Bergman',Ingrid Bergman,unsupported_level,faint,flower,Light tea-rose scent.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA1181,Rosa 'Joseph's Coat',Joseph's Coat,unsupported_level,faint,flower,Light tea scent.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA1185,Rosa 'Knock Out',Knock Out,unsupported_level,faint,flower,Light scent.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA1187,Rosa 'Louis Philippe',Louis Philippe,level_too_high_for_note,moderate,flower,Light sweet China-rose scent.,Fragrance note sounds weaker than the stored level.
+AAA1188,Rosa 'Macy's Pride',Macy's Pride,unsupported_level,faint,flower,Light scent.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA1190,Rosa 'Marilyn Monroe',Marilyn Monroe,unsupported_level,faint,flower,Light tea-rose scent.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA1192,Rosa 'Meidiland Red',Meidiland Red,unsupported_level,faint,flower,Light scent.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA1195,Rosa 'Nearly Wild',Nearly Wild,unsupported_level,faint,flower,Light sweet scent.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA1196,Rosa 'New Dawn',New Dawn,level_too_high_for_note,moderate,flower,Light sweet apple scent.,Fragrance note sounds weaker than the stored level.
+AAA1197,Rosa 'Old Blush',Old Blush,level_too_high_for_note,moderate,flower,Light sweet-pea scent.,Fragrance note sounds weaker than the stored level.
+AAA1199,Rosa 'Olympiad',Olympiad,unsupported_level,faint,flower,Light tea-rose scent.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA1200,Rosa 'Oso Easy Double Red',Oso Easy Double Red,unsupported_level,faint,flower,Light scent.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA1201,Rosa 'Pascali',Pascali,unsupported_level,faint,flower,Light fresh scent.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA1203,Rosa 'Peace',Peace,level_too_high_for_note,moderate,flower,Light sweet fruity scent.,Fragrance note sounds weaker than the stored level.
+AAA1205,Rosa 'Pink Knock Out',Pink Knock Out,unsupported_level,faint,flower,Light scent.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA1206,Rosa 'Pink Promise',Pink Promise,level_too_high_for_note,moderate,flower,Light old-rose scent.,Fragrance note sounds weaker than the stored level.
+AAA1207,Rosa 'Playboy',Playboy,unsupported_level,faint,flower,Light tea scent.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA1208,Rosa 'Popcorn',Popcorn,unsupported_level,faint,flower,Light honey scent.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA1210,Rosa 'Queen Elizabeth',Queen Elizabeth,level_too_high_for_note,moderate,flower,Light sweet tea-rose scent.,Fragrance note sounds weaker than the stored level.
+AAA1211,Rosa 'Queen of Sweden',Queen of Sweden,level_too_high_for_note,moderate,flower,Light myrrh and old-rose scent.,Fragrance note sounds weaker than the stored level.
+AAA1212,Rosa 'Rainbow Knock Out',Rainbow Knock Out,unsupported_level,faint,flower,Light scent.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA1213,Rosa 'Rainbow's End',Rainbow's End,unsupported_level,faint,flower,Very light scent.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA1215,Rosa 'Savoy Hotel',Savoy Hotel,level_too_high_for_note,moderate,flower,Light sweet scent.,Fragrance note sounds weaker than the stored level.
+AAA1216,Rosa 'Scarlet Meidiland',Scarlet Meidiland,unsupported_level,faint,flower,Light scent.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA1218,Rosa 'Sexy Rexy',Sexy Rexy,unsupported_level,faint,flower,Light spicy scent.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA1220,Rosa 'Showbiz',Showbiz,unsupported_level,faint,flower,Light scent.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA1221,Rosa 'Simplicity',Simplicity,unsupported_level,faint,flower,Light tea scent.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA1223,Rosa 'St. Patrick',St. Patrick,unsupported_level,faint,flower,Light tea-rose scent.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA1231,Rosa 'Tournament of Roses',Tournament of Roses,unsupported_level,faint,flower,Light scent.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA1233,Rosa 'Veterans Honor',Veterans Honor,level_too_high_for_note,moderate,flower,Light raspberry scent.,Fragrance note sounds weaker than the stored level.
+AAA1241,Rosa glauca,Red-Leaved Rose,unsupported_level,faint,flower,Mild sweet fragrance.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA1246,Rosmarinus officinalis,Rosemary,non_flower_fragrance_hidden,strong,leaf,Pungent pine-camphor aroma from needle-like leaves.,Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA1248,Rubus fruticosus,Pilated-Leaved Blackberry,non_flower_fragrance_hidden,moderate,fruit,Rich berry aroma when ripe.,Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA1249,Rubus idaeus,Red Raspberry,non_flower_fragrance_hidden,moderate,fruit,Distinctive sweet raspberry aroma from raspberry ketone and related compounds.,Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA1250,Rubus occidentalis,Black Raspberry,unsupported_level,faint,"flower,fruit",,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA1250,Rubus occidentalis,Black Raspberry,missing_notes,faint,"flower,fruit",,Non-none fragrance should have notes for the card copy.
+AAA1251,Rubus spectabilis,Salmonberry,unsupported_level,faint,flower,,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA1251,Rubus spectabilis,Salmonberry,missing_notes,faint,flower,,Non-none fragrance should have notes for the card copy.
+AAA1254,Rudbeckia subtomentosa,Sweet Black-Eyed Susan,non_flower_fragrance_hidden,moderate,leaf,"anise, vanilla",Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA1260,Ruta graveolens,Rue,non_flower_fragrance_hidden,strong,leaf,Sharp pungent aroma—acrid to many people.,Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA1261,Sabal minor,Dwarf Palmetto,unsupported_level,faint,flower,,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA1261,Sabal minor,Dwarf Palmetto,missing_notes,faint,flower,,Non-none fragrance should have notes for the card copy.
+AAA1268,Salvia apiana,White Sage,non_flower_fragrance_hidden,strong,leaf,"Distinctive camphor-sage fragrance, stronger and more pungent than culinary sage.",Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA1269,Salvia azurea,Giant Blue Sage,non_flower_fragrance_hidden,moderate,leaf,Sage-like aromatic foliage.,Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA1271,Salvia coccinea,Tropical Sage,unsupported_level,faint,leaf,Mild sage scent from crushed leaves.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA1271,Salvia coccinea,Tropical Sage,non_flower_fragrance_hidden,faint,leaf,Mild sage scent from crushed leaves.,Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA1273,Salvia farinacea,Mealy Blue Sage,non_flower_fragrance_hidden,moderate,leaf,Sage-like aromatic foliage.,Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA1274,Salvia greggii,Autumn Sage,non_flower_fragrance_hidden,moderate,leaf,Sage-like aromatic foliage when bruised.,Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA1275,Salvia guaranitica,Anise-Scented Sage,non_flower_fragrance_hidden,moderate,leaf,Mild licorice-anise scent from crushed leaves.,Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA1275,Salvia guaranitica,Anise-Scented Sage,level_too_high_for_note,moderate,leaf,Mild licorice-anise scent from crushed leaves.,Fragrance note sounds weaker than the stored level.
+AAA1276,Salvia leucantha,Mexican Bush Sage,unsupported_level,faint,leaf,Mild herbaceous sage scent.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA1276,Salvia leucantha,Mexican Bush Sage,non_flower_fragrance_hidden,faint,leaf,Mild herbaceous sage scent.,Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA1277,Salvia leucophylla,Purple Sage,non_flower_fragrance_hidden,strong,leaf,Powerful herbal-resinous scent; camphor and cineole are the allelopathic volatile compounds.,Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA1278,Salvia lycioides,Canyon Sage,non_flower_fragrance_hidden,moderate,leaf,Aromatic sage-like foliage.,Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA1279,Salvia microphylla,Baby Sage,non_flower_fragrance_hidden,strong,leaf,Distinct blackcurrant or fruit-punch aroma when foliage is crushed.,Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA1280,Salvia nemorosa,Purple Wood Sage,non_flower_fragrance_hidden,moderate,leaf,Pungent sage-mint aroma when leaves are brushed.,Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA1281,Salvia officinalis,Garden Sage,non_flower_fragrance_hidden,strong,leaf,Pungent warm herbal aroma from crushed leaves.,Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA1282,Salvia patens,Gentian Sage,unsupported_level,faint,leaf,Mild herbaceous scent from crushed leaves.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA1282,Salvia patens,Gentian Sage,non_flower_fragrance_hidden,faint,leaf,Mild herbaceous scent from crushed leaves.,Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA1283,Salvia pratensis,Meadow Sage,non_flower_fragrance_hidden,moderate,leaf,sage-like aromatic,Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA1284,Salvia regla,Mountain Sage,unsupported_level,faint,leaf,Sage-like herbal scent when leaves bruised.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA1284,Salvia regla,Mountain Sage,non_flower_fragrance_hidden,faint,leaf,Sage-like herbal scent when leaves bruised.,Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA1286,Salvia splendens,Scarlet Sage,unsupported_level,faint,leaf,Mild herbal scent when leaves are crushed.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA1286,Salvia splendens,Scarlet Sage,non_flower_fragrance_hidden,faint,leaf,Mild herbal scent when leaves are crushed.,Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA1287,Salvia texana,Texas Sage,non_flower_fragrance_hidden,moderate,leaf,Sage-like aromatic foliage.,Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA1288,Salvia verticillata,Whorled Clary,non_flower_fragrance_hidden,moderate,leaf,sage-like,Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA1289,Salvia x sylvestris,Valencian Clary,non_flower_fragrance_hidden,moderate,leaf,sage-like aromatic,Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA1293,Sansevieria cylindrica,African Spear,unsupported_level,faint,flower,"Flowers produce mild sweet scent, usually at night.",Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA1296,Sansevieria zeylanica,Dracaena,unsupported_level,faint,flower,Faint nocturnal sweet fragrance when flowering.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA1300,Satureja hortensis,Summer Savory,non_flower_fragrance_hidden,strong,leaf,Peppery thyme-oregano aroma.,Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA1307,Sciadopitys verticillata,Koyamaki,unsupported_level,faint,leaf,Mild resinous scent when crushed.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA1307,Sciadopitys verticillata,Koyamaki,non_flower_fragrance_hidden,faint,leaf,Mild resinous scent when crushed.,Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA1308,Scilla bifolia,Alpine Squill,unsupported_level,faint,flower,Flowers very lightly sweet-scented.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA1309,Scilla mischtschenkoana,Mishchenko Squill,unsupported_level,faint,flower,mild honey-like,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA1310,Scilla siberica,Siberian Squill,unsupported_level,faint,flower,Flowers very lightly sweet-scented.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA1315,Sedum spectabile,Butterfly Stonecrop,unsupported_level,faint,flower,Subtle honey scent attracts abundant pollinators.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA1327,Sequoia sempervirens,Coast Redwood,unsupported_level,faint,"leaf,wood",Faint aromatic scent from crushed foliage and cut wood.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA1327,Sequoia sempervirens,Coast Redwood,non_flower_fragrance_hidden,faint,"leaf,wood",Faint aromatic scent from crushed foliage and cut wood.,Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA1328,Sequoiadendron giganteum,Giant Sequoia,unsupported_level,faint,"leaf,wood",Mild aromatic scent from crushed foliage.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA1328,Sequoiadendron giganteum,Giant Sequoia,non_flower_fragrance_hidden,faint,"leaf,wood",Mild aromatic scent from crushed foliage.,Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA1330,Serissa foetida,Snowrose,unsupported_level,faint,flower,Flowers faintly sweet; crushed leaves have an unpleasant smell.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA1334,Silybum marianum,Milk Thistle,unsupported_level,faint,flower,Light sweet scent.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA1338,Solanum betaceum,Tamarillo,unsupported_level,faint,flower,Faint musky scent from flowers.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA1340,Solanum crispum,Chilean Potato Vine,unsupported_level,faint,flower,Mild sweet scent.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA1341,Solanum lycopersicum,Tomato,non_flower_fragrance_hidden,moderate,leaf,Distinctive green herbal aroma from crushed foliage.,Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA1345,Solidago canadensis,Canada Goldenrod,unsupported_level,faint,flower,Light honey-like scent attractive to late-season pollinators.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA1346,Solidago rugosa,Common Wrinkle-Leaved Goldenrod,unsupported_level,faint,"flower,leaf",Flowers mildly honey-sweet; foliage faintly anise-like when crushed.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA1347,Solidago sphacelata,Autumn Goldenrod,unsupported_level,faint,flower,Flowers lightly honey-scented to pollinators; barely perceptible to humans.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA1351,Sorbus alnifolia,Alder-Leaved Whitebeam,unsupported_level,faint,flower,Mild hawthorn-like scent.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA1352,Sorbus americana,American Mountain Ash,unsupported_level,faint,flower,Musky hawthorn-like scent.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA1355,Spathiphyllum wallisii,Peace Lily,unsupported_level,faint,flower,"Spathe emits a very faint sweet scent, most noticeable at close range.",Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA1357,Spiraea betulifolia,Birch-Leaved Spirea,unsupported_level,faint,flower,Flowers lightly honey-scented.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA1358,Spiraea cantoniensis,Reeve's Spirea,unsupported_level,faint,flower,Flowers lightly honey-scented.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA1360,Spiraea nipponica,Snowmound Spirea,unsupported_level,faint,flower,Mild sweet scent.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA1361,Spiraea prunifolia,Bridal-Wreath,unsupported_level,faint,flower,Flowers lightly honey-scented.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA1362,Spiraea thunbergii,Thunberg's Meadowsweet,unsupported_level,faint,flower,Mild sweet scent.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA1363,Spiraea x bumalda,Japanese Spiraea,unsupported_level,faint,flower,Mild honey-like scent.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA1364,Stachys byzantina,Woolly Hedgenettle,unsupported_level,faint,leaf,mild herbaceous,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA1364,Stachys byzantina,Woolly Hedgenettle,non_flower_fragrance_hidden,faint,leaf,mild herbaceous,Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA1365,Stachys officinalis,Common Hedge-Nettle,unsupported_level,faint,leaf,mild herbaceous,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA1365,Stachys officinalis,Common Hedge-Nettle,non_flower_fragrance_hidden,faint,leaf,mild herbaceous,Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA1368,Stevia rebaudiana,Stevia,unsupported_level,faint,leaf,Subtle sweet-herbal aroma when crushed.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA1368,Stevia rebaudiana,Stevia,non_flower_fragrance_hidden,faint,leaf,Subtle sweet-herbal aroma when crushed.,Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA1369,Stewartia koreana,Japanese Stewartia,unsupported_level,faint,flower,mild,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA1370,Stewartia monadelpha,Tall Stewartia,unsupported_level,faint,flower,mild,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA1376,Styphnolobium japonicum,Japanese Pagoda Tree,unsupported_level,faint,flower,mild sweet,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA1377,Styrax japonicus,Japanese Snowbell,level_too_high_for_note,moderate,flower,"sweet, light",Fragrance note sounds weaker than the stored level.
+AAA1380,Symphoricarpos albus,Common Snowberry,unsupported_level,faint,flower,,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA1380,Symphoricarpos albus,Common Snowberry,missing_notes,faint,flower,,Non-none fragrance should have notes for the card copy.
+AAA1381,Symphyotrichum ericoides,White Heath Aster,unsupported_level,faint,leaf,Foliage faintly aromatic when brushed; flowers nearly scentless.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA1381,Symphyotrichum ericoides,White Heath Aster,non_flower_fragrance_hidden,faint,leaf,Foliage faintly aromatic when brushed; flowers nearly scentless.,Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA1382,Symphyotrichum novae-angliae,New England Aster,unsupported_level,faint,flower,Light earthy-floral scent.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA1383,Symphyotrichum oblongifolium,Aromatic Aster,non_flower_fragrance_hidden,moderate,leaf,"Foliage strongly aromatic with a balsamic, turpentine-like scent when bruised.",Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA1389,Tagetes tenuifolia,Petite Marigold,non_flower_fragrance_hidden,moderate,leaf,Citrus-tarragon scent from crushed leaves — pleasant rather than the harsh marigold smell of T. erecta.,Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA1390,Tamarix ramosissima,Saltcedar,unsupported_level,faint,flower,Light sweet scent.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA1391,Tanacetum parthenium,Feverfew,non_flower_fragrance_hidden,moderate,leaf,Bitter camphorous-citrus aroma.,Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA1392,Taraxacum officinale,Common Dandelion,unsupported_level,faint,flower,Flowers lightly honey-scented.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA1396,Tecoma alata,Tecoma alata,unsupported_level,faint,flower,,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA1396,Tecoma alata,Tecoma alata,missing_notes,faint,flower,,Non-none fragrance should have notes for the card copy.
+AAA1397,Tecoma stans,Yellow Trumpet Flower,unsupported_level,faint,flower,Light sweet scent.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA1398,Tellima grandiflora,Fringe Cups,unsupported_level,faint,flower,Subtle fragrance at dusk.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA1404,Thelesperma filifolium,Stiff Greenthread,unsupported_level,faint,leaf,,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA1404,Thelesperma filifolium,Stiff Greenthread,non_flower_fragrance_hidden,faint,leaf,,Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA1404,Thelesperma filifolium,Stiff Greenthread,missing_notes,faint,leaf,,Non-none fragrance should have notes for the card copy.
+AAA1405,Thuja occidentalis,Northern Whitecedar,non_flower_fragrance_hidden,moderate,leaf,"Crushed foliage has a distinctive warm resinous-fruity scent, sometimes likened to pineapple.",Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA1408,Thymophylla tenuiloba,Bristleleaf Pricklyleaf,unsupported_level,faint,leaf,,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA1408,Thymophylla tenuiloba,Bristleleaf Pricklyleaf,non_flower_fragrance_hidden,faint,leaf,,Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA1408,Thymophylla tenuiloba,Bristleleaf Pricklyleaf,missing_notes,faint,leaf,,Non-none fragrance should have notes for the card copy.
+AAA1410,Thymus pseudolanuginosus,Woolly Thyme,unsupported_level,faint,leaf,Faint thyme scent compared to culinary thymes.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA1410,Thymus pseudolanuginosus,Woolly Thyme,non_flower_fragrance_hidden,faint,leaf,Faint thyme scent compared to culinary thymes.,Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA1412,Thymus vulgaris,Common Thyme,non_flower_fragrance_hidden,strong,leaf,Pungent herbal-phenolic aroma from thymol.,Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA1413,Thymus x citriodorus,Lemon Thyme,non_flower_fragrance_hidden,strong,leaf,Strong lemon-thyme aroma.,Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA1414,Tiarella cordifolia,Heartleaf Foamflower,unsupported_level,faint,flower,Flowers only lightly sweet-scented.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA1422,Tillandsia usneoides,Spanish Moss,unsupported_level,faint,flower,Tiny flowers have a light sweet scent most noticeable at night.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA1423,Tithonia rotundifolia,Red Sunflower,unsupported_level,faint,leaf,Slight resinous scent when foliage bruised.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA1423,Tithonia rotundifolia,Red Sunflower,non_flower_fragrance_hidden,faint,leaf,Slight resinous scent when foliage bruised.,Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA1426,Torreya californica,California Torreya,non_flower_fragrance_hidden,moderate,leaf,Pungent resinous aroma when needles crushed—sometimes compared to sage or tomato leaf.,Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA1432,Tragopogon porrifolius,Purple Salsify,unsupported_level,faint,flower,,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA1432,Tragopogon porrifolius,Purple Salsify,missing_notes,faint,flower,,Non-none fragrance should have notes for the card copy.
+AAA1433,Trifolium dubium,Lesser Hop Trefoil,unsupported_level,faint,flower,Flowers lightly honey-scented.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA1436,Trillium cuneatum,Little Sweet Betsy,unsupported_level,faint,flower,"spicy, fruity",Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA1438,Tropaeolum majus,Garden Nasturtium,unsupported_level,faint,"flower,leaf",Slightly peppery scent; not notable floral fragrance.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA1439,Tropaeolum minus,Dwarf Nasturtium,unsupported_level,faint,flower,,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA1439,Tropaeolum minus,Dwarf Nasturtium,missing_notes,faint,flower,,Non-none fragrance should have notes for the card copy.
+AAA1441,Tsuga mertensiana,Mountain Hemlock,unsupported_level,faint,leaf,Mild resinous conifer scent.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA1441,Tsuga mertensiana,Mountain Hemlock,non_flower_fragrance_hidden,faint,leaf,Mild resinous conifer scent.,Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA1443,Tulipa clusiana,Lady Tulip,unsupported_level,faint,flower,mild,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA1444,Tulipa gesneriana,Garden Tulip,unsupported_level,faint,flower,Most modern tulips are only lightly scented; some heirloom cultivars (particularly Double Early types) retain stronger fragrance.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA1445,Tulipa greigii,Tulipa greigii,unsupported_level,faint,flower,mild,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA1446,Tulipa kaufmanniana,Waterlily Tulip,unsupported_level,faint,flower,mild,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA1447,Tulipa tarda,Late Tulip,unsupported_level,faint,flower,mild sweet,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA1448,Tussilago farfara,Colt's-Foot,unsupported_level,faint,flower,Light honey scent.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA1453,Umbellularia californica,California Bay,non_flower_fragrance_hidden,strong,"leaf,wood",Intensely pungent camphor-laurel fragrance when crushed — stronger than Mediterranean bay.,Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA1456,Vaccinium corymbosum,Northern Highbush Blueberry,unsupported_level,faint,flower,Subtle honey aroma when in bloom.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA1460,Vanda coerulea,Blue Vanda,unsupported_level,faint,flower,Very faint or no fragrance.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA1461,Verbascum thapsus,Great Mullein,unsupported_level,faint,flower,Light honey scent.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA1462,Verbena bonariensis,Purpletop Vervain,unsupported_level,faint,flower,,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA1462,Verbena bonariensis,Purpletop Vervain,missing_notes,faint,flower,,Non-none fragrance should have notes for the card copy.
+AAA1463,Verbena canadensis,Rose Vervain,unsupported_level,faint,flower,,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA1463,Verbena canadensis,Rose Vervain,missing_notes,faint,flower,,Non-none fragrance should have notes for the card copy.
+AAA1464,Verbena officinalis,Common Vervain,unsupported_level,faint,leaf,Mild subtle aroma.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA1464,Verbena officinalis,Common Vervain,non_flower_fragrance_hidden,faint,leaf,Mild subtle aroma.,Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA1465,Verbena rigida,Slender Vervain,unsupported_level,faint,flower,,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA1465,Verbena rigida,Slender Vervain,missing_notes,faint,flower,,Non-none fragrance should have notes for the card copy.
+AAA1466,Verbena x hybrida,Verbena x hybrida,unsupported_level,faint,flower,,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA1466,Verbena x hybrida,Verbena x hybrida,missing_notes,faint,flower,,Non-none fragrance should have notes for the card copy.
+AAA1474,Viburnum dentatum,Southern Arrowwood,unsupported_level,faint,flower,Flowers very lightly sweet-scented; some describe as slightly musky.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA1477,Viburnum nudum,Southern Wild Raisin,unsupported_level,faint,flower,Flowers very lightly scented.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA1478,Viburnum opulus,Guelder-Rose,unsupported_level,faint,flower,"Light, slightly musky scent from flowers.",Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA1480,Viburnum rhytidophyllum,Leatherleaf Viburnum,unsupported_level,faint,flower,Mild scent (some find unpleasantly musky).,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA1481,Viburnum tinus,Laurustinus Viburnum,unsupported_level,faint,flower,"Light, slightly musky scent.",Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA1482,Viburnum trilobum,American Cranberrybush,unsupported_level,faint,flower,Flowers very lightly scented.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA1488,Viola 'Molly Sanderson',Black Viola,unsupported_level,faint,flower,Light classic violet scent.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA1489,Viola cornuta,Horned Pansy,unsupported_level,faint,flower,,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA1489,Viola cornuta,Horned Pansy,missing_notes,faint,flower,,Non-none fragrance should have notes for the card copy.
+AAA1491,Viola sororia,Common Blue Violet,unsupported_level,faint,flower,,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA1491,Viola sororia,Common Blue Violet,missing_notes,faint,flower,,Non-none fragrance should have notes for the card copy.
+AAA1492,Viola tricolor,Wild Pansy,unsupported_level,faint,flower,Delicate scent detectable up close.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA1493,Viola x wittrockiana,Garden Pansy,unsupported_level,faint,flower,"Light sweet scent, stronger in cool morning air.",Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA1496,Vitis labrusca,Fox Grape,non_flower_fragrance_hidden,moderate,fruit,Ripe fruits have a strong 'foxy' musky-grape aroma.,Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.
+AAA1500,Weigela middendorffiana,Weigela middendorffiana,unsupported_level,faint,flower,Flowers very lightly sweet-scented.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA1501,Weigela praecox,Old Fashioned Weigela,unsupported_level,faint,flower,Mild sweet scent.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA1502,Weigela subsessilis,Korean Weigela,unsupported_level,faint,flower,Flowers lightly scented.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA1507,Xerochrysum bracteatum,Golden Everlasting,unsupported_level,faint,flower,,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA1507,Xerochrysum bracteatum,Golden Everlasting,missing_notes,faint,flower,,Non-none fragrance should have notes for the card copy.
+AAA1508,Xerophyllum tenax,Common Beargrass,unsupported_level,faint,flower,,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA1508,Xerophyllum tenax,Common Beargrass,missing_notes,faint,flower,,Non-none fragrance should have notes for the card copy.
+AAA1509,Yucca elephantipes,Spineless Yucca,unsupported_level,faint,flower,Flowers have a light sweet scent.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA1511,Zantedeschia aethiopica,Calla Lily,unsupported_level,faint,flower,Light sweet scent.,Swift enum/docs support none/light/moderate/strong; data uses unsupported level.
+AAA1516,Zingiber officinale,Ginger,non_flower_fragrance_hidden,moderate,"root,leaf",Classic warm spicy ginger scent from rhizome.,Current FragranceNotesCard only shows when parts contains flower; this scent will be hidden.

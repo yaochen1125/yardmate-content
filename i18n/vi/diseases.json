@@ -3,7 +3,7 @@
   "locale": "vi",
   "source": {
     "resource": "diseases.json",
-    "sha256": "0bf8cfb6cc131c3183efeb4bbf453b9dd9eae1be645e2e69dc47234445a2d0b8"
+    "sha256": "d26b8cb95d85389f21f20f8f47e0aaf07a384e1fd40fc8b81ccaef4f32047c21"
   },
   "fields": {
     "categories": {
@@ -3891,6 +3891,108 @@
                 },
                 {
                   "title": "Hãy chú ý đến sự phát triển của các vết loét trên các vùng bị hư hỏng — xem [ST05](cankers.md)"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "L25": {
+        "name": "Căng thẳng do hạn hán",
+        "shortDescription": "Lá héo, cuộn và rơi; cây phát triển chậm do thiếu nước.",
+        "symptomAnalysis": "Các triệu chứng dễ thấy bao gồm lá héo, rụng lá và cây còi cọc, khi cây cố gắng giữ nước và phản ứng với tình trạng căng thẳng.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Tưới ở gốc, không tưới từ trên xuống",
+                  "body": "Tưới nước trực tiếp vào đất gần gốc thay vì phun lên lá. Dùng bình tưới vòi dài, ống rỉ nước hoặc hệ thống tưới nhỏ giọt. Lá ướt tạo điều kiện cho nấm và vi khuẩn lây lan."
+                },
+                {
+                  "title": "Tưới sâu nhưng thưa hơn",
+                  "body": "Tưới chậm và kỹ cho đến khi đất ẩm hoàn toàn, sau đó để đất khô bớt trước lần tưới tiếp theo. Cách này giúp rễ ăn sâu và cây khỏe hơn."
+                },
+                {
+                  "title": "Sang chậu lớn hơn",
+                  "body": "Chuyển cây bị chật rễ sang chậu lớn hơn 1–2 cỡ. Gỡ tơi các rễ cuộn trước khi đặt cây vào giá thể mới. Tưới đẫm một lần."
+                },
+                {
+                  "title": "Thay chậu với đất mới và thoát nước tốt",
+                  "body": "Chuyển cây sang chậu sạch có lỗ thoát nước, dùng giá thể vô trùng mới. Vùi rễ đến độ sâu như cũ. Tưới nhẹ để đất ổn định."
+                }
+              ]
+            }
+          ]
+        },
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Bổ sung đèn trồng cây",
+                  "body": "Treo hoặc đặt đèn LED trồng cây quang phổ đầy đủ cách cây 30–60 cm, hẹn giờ 12–14 tiếng. Đặc biệt hữu ích vào mùa đông hoặc trong phòng thiếu sáng."
+                },
+                {
+                  "title": "Tưới ở gốc, không tưới từ trên xuống",
+                  "body": "Tưới nước trực tiếp vào đất gần gốc thay vì phun lên lá. Dùng bình tưới vòi dài, ống rỉ nước hoặc hệ thống tưới nhỏ giọt. Lá ướt tạo điều kiện cho nấm và vi khuẩn lây lan."
+                },
+                {
+                  "title": "Tưới sâu nhưng thưa hơn",
+                  "body": "Tưới chậm và kỹ cho đến khi đất ẩm hoàn toàn, sau đó để đất khô bớt trước lần tưới tiếp theo. Cách này giúp rễ ăn sâu và cây khỏe hơn."
+                },
+                {
+                  "title": "Phủ lớp hữu cơ quanh gốc",
+                  "body": "Rải một lớp vỏ cây, rơm hoặc lá mục dày 5–8 cm quanh cây, chừa một vòng nhỏ quanh gốc. Lớp phủ ngăn mầm bệnh trong đất bắn lên và giữ ẩm ổn định."
+                },
+                {
+                  "title": "Xử lý đất bằng nhiệt mặt trời",
+                  "body": "Trải một tấm nhựa trong lên đất vườn ẩm trong 4–6 tuần vào thời điểm nóng nhất trong năm. Nhiệt tích tụ bên dưới sẽ tiêu diệt tuyến trùng, nấm và hạt cỏ dại."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "R08": {
+        "name": "Bệnh Phytophthora",
+        "shortDescription": "Rễ, thân và củ bị thối; cây héo và sụp đổ.",
+        "symptomAnalysis": "Các triệu chứng bao gồm lá vàng, héo, thối rễ, và các vết loét tối mềm trên thân và củ.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Sử dụng Thuốc Nấm Phổ Rộng",
+                  "body": "Khi đồng không đủ, sử dụng thuốc nấm hệ thống tổng hợp (ví dụ: propiconazole, myclobutanil) theo hướng dẫn trên nhãn. Phun đến khi chảy xuống. Luôn thay đổi các loại thuốc nấm để tránh kháng cự."
+                },
+                {
+                  "title": "Sử dụng Thuốc Nấm Đồng",
+                  "body": "Xịt thuốc nấm dựa trên đồng (hỗn hợp Bordeaux, sunfat đồng, hoặc hydroxit đồng thương mại) lên lá, thân, và đất xung quanh theo hướng dẫn trên nhãn. Áp dụng lại mỗi 7–14 ngày."
+                }
+              ]
+            }
+          ]
+        },
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Dọn sạch Rác Xung Quanh Cây",
+                  "body": "Dọn sạch những lá rơi, trái cây và cành chết từ dưới gốc cây - đặc biệt là vào mùa thu. Nhiều tác nhân gây bệnh tồn tại qua mùa đông trong các mảnh cây chết và tái lây nhiễm vào mùa xuân."
+                },
+                {
+                  "title": "Tiêu trùng Dụng Cụ Cắt",
+                  "body": "Nhúng kéo cắt, kéo hoặc lưỡi dao vào dung dịch tỉ lệ 1:4 (nước tẩy:nước) hoặc cồn chà xát 70% trước mỗi lần cắt và giữa mỗi cây. Lau khô trước khi cắt."
+                },
+                {
+                  "title": "Khử trùng Đất bằng Nắng",
+                  "body": "Trải tờ nhựa trong suốt lên đất vườn ẩm trong 4–6 tuần vào thời kỳ nóng nhất của năm. Nhiệt tích tụ bên dưới sẽ tiêu diệt các tuyến giun, nấm, và hạt cỏ dại."
+                },
+                {
+                  "title": "Vứt bỏ Cây Bị Nhiễm Bệnh Nặng",
+                  "body": "Khi hơn một nửa cây bị ảnh hưởng hoặc thối rễ lan rộng, đào cây lên, niêm phong nó trong bao rác dày, và vứt bỏ. Tiêu trùng khu vực trước khi trồng lại."
                 }
               ]
             }

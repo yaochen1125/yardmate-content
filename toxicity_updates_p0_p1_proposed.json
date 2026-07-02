@@ -1,0 +1,1455 @@
+[
+  {
+    "id": "AAA0075",
+    "scientific_name": "Allium tuberosum",
+    "toxicity": {
+      "human": {
+        "level": 1,
+        "routes": [
+          "ingestion"
+        ],
+        "parts": [
+          "leaf",
+          "bulb",
+          "flower"
+        ],
+        "symptoms": [
+          "nausea",
+          "vomiting",
+          "diarrhea if eaten in quantity"
+        ]
+      },
+      "dog": {
+        "level": 3,
+        "routes": [
+          "ingestion"
+        ],
+        "parts": [
+          "leaf",
+          "bulb",
+          "flower"
+        ],
+        "symptoms": [
+          "hemolytic anemia",
+          "vomiting",
+          "lethargy"
+        ]
+      },
+      "cat": {
+        "level": 3,
+        "routes": [
+          "ingestion"
+        ],
+        "parts": [
+          "leaf",
+          "bulb",
+          "flower"
+        ],
+        "symptoms": [
+          "hemolytic anemia",
+          "vomiting",
+          "lethargy"
+        ]
+      },
+      "active_compounds": [
+        "n-propyl disulfide",
+        "thiosulfates"
+      ],
+      "notes_en": "Leaves, bulbs, and flowers are edible in culinary amounts, but NC State flags poisonous-to-humans ingestion symptoms. Allium species are severe hazards for dogs and cats."
+    }
+  },
+  {
+    "id": "AAA0090",
+    "scientific_name": "Aloysia citriodora",
+    "toxicity": {
+      "human": {
+        "level": 0,
+        "routes": [],
+        "parts": [],
+        "symptoms": [
+          "Culinary and tea herb",
+          "no significant toxicity"
+        ]
+      },
+      "dog": {
+        "level": 1,
+        "routes": [
+          "ingestion"
+        ],
+        "parts": [
+          "leaf",
+          "stem",
+          "essential oil"
+        ],
+        "symptoms": [
+          "mild vomiting",
+          "diarrhea",
+          "lethargy possible with concentrated oil or large ingestion"
+        ]
+      },
+      "cat": {
+        "level": 1,
+        "routes": [
+          "ingestion"
+        ],
+        "parts": [
+          "all"
+        ],
+        "symptoms": [
+          "Essential oil can be toxic to cats",
+          "leaf consumption low-risk"
+        ]
+      },
+      "active_compounds": [
+        "citral",
+        "limonene"
+      ],
+      "notes_en": "Generally used as a culinary/tea herb for humans. NC State flags lemon verbena as a problem for dogs, cats, and horses; concentrated essential oil is the higher-risk form."
+    }
+  },
+  {
+    "id": "AAA0296",
+    "scientific_name": "Centaurea solstitialis",
+    "toxicity": {
+      "human": {
+        "level": 1,
+        "routes": [
+          "contact"
+        ],
+        "parts": [
+          "flower"
+        ],
+        "symptoms": [
+          "pricks from spines"
+        ]
+      },
+      "dog": {
+        "level": 0,
+        "routes": [],
+        "parts": [],
+        "symptoms": []
+      },
+      "cat": {
+        "level": 0,
+        "routes": [],
+        "parts": [],
+        "symptoms": []
+      },
+      "active_compounds": [
+        "sesquiterpene lactones",
+        "repin"
+      ],
+      "notes_en": "ASPCA and NC State list Barnaby/yellow starthistle as non-toxic to dogs and cats. Chronic ingestion is a serious horse hazard; flower spines remain a mechanical nuisance."
+    }
+  },
+  {
+    "id": "AAA0382",
+    "scientific_name": "Crassula perforata",
+    "toxicity": {
+      "human": {
+        "level": 1,
+        "routes": [
+          "ingestion"
+        ],
+        "parts": [
+          "leaf",
+          "stem"
+        ],
+        "symptoms": [
+          "mild GI upset possible"
+        ]
+      },
+      "dog": {
+        "level": 2,
+        "routes": [
+          "ingestion"
+        ],
+        "parts": [
+          "leaf",
+          "stem"
+        ],
+        "symptoms": [
+          "vomiting",
+          "lethargy",
+          "arrhythmia"
+        ]
+      },
+      "cat": {
+        "level": 2,
+        "routes": [
+          "ingestion"
+        ],
+        "parts": [
+          "leaf",
+          "stem"
+        ],
+        "symptoms": [
+          "vomiting",
+          "lethargy"
+        ]
+      },
+      "active_compounds": [
+        "bufadienolides (possible)"
+      ],
+      "notes_en": "ASPCA/NC State flag Crassula species as toxic to pets; NC State also flags ingestion risk for children/humans. Treat as mild human ingestion hazard and moderate pet hazard."
+    }
+  },
+  {
+    "id": "AAA0437",
+    "scientific_name": "Dianthus barbatus",
+    "toxicity": {
+      "human": {
+        "level": 1,
+        "routes": [
+          "contact",
+          "ingestion"
+        ],
+        "parts": [
+          "leaf",
+          "stem",
+          "flower",
+          "sap"
+        ],
+        "symptoms": [
+          "mild dermatitis",
+          "mild GI upset if eaten"
+        ]
+      },
+      "dog": {
+        "level": 1,
+        "routes": [
+          "ingestion"
+        ],
+        "parts": [
+          "leaf",
+          "stem",
+          "flower"
+        ],
+        "symptoms": [
+          "Mild GI upset, dermatitis from sap",
+          "per Dianthus genus ASPCA listing"
+        ]
+      },
+      "cat": {
+        "level": 1,
+        "routes": [
+          "ingestion"
+        ],
+        "parts": [
+          "leaf",
+          "stem",
+          "flower"
+        ],
+        "symptoms": [
+          "Mild GI upset, dermatitis from sap",
+          "per Dianthus genus ASPCA listing"
+        ]
+      },
+      "active_compounds": [
+        "triterpenoid saponins"
+      ],
+      "notes_en": "Dianthus species are mildly toxic/irritating to dogs and cats per ASPCA; NC State also flags poisonous characteristics. Effects are usually mild dermatitis or GI upset."
+    }
+  },
+  {
+    "id": "AAA0439",
+    "scientific_name": "Dianthus chinensis",
+    "toxicity": {
+      "human": {
+        "level": 1,
+        "routes": [
+          "contact",
+          "ingestion"
+        ],
+        "parts": [
+          "leaf",
+          "stem",
+          "flower",
+          "sap"
+        ],
+        "symptoms": [
+          "mild dermatitis",
+          "mild GI upset if eaten"
+        ]
+      },
+      "dog": {
+        "level": 1,
+        "routes": [
+          "ingestion"
+        ],
+        "parts": [
+          "all"
+        ],
+        "symptoms": [
+          "Mild GI upset, skin irritation",
+          "saponins"
+        ]
+      },
+      "cat": {
+        "level": 1,
+        "routes": [
+          "ingestion"
+        ],
+        "parts": [
+          "all"
+        ],
+        "symptoms": [
+          "Same as dogs"
+        ]
+      },
+      "active_compounds": [
+        "saponins"
+      ],
+      "notes_en": "Dianthus species are mildly toxic/irritating to dogs and cats per ASPCA; NC State also flags poisonous characteristics. Effects are usually mild dermatitis or GI upset."
+    }
+  },
+  {
+    "id": "AAA0440",
+    "scientific_name": "Dianthus deltoides",
+    "toxicity": {
+      "human": {
+        "level": 1,
+        "routes": [
+          "contact",
+          "ingestion"
+        ],
+        "parts": [
+          "leaf",
+          "stem",
+          "flower",
+          "sap"
+        ],
+        "symptoms": [
+          "mild dermatitis",
+          "mild GI upset if eaten"
+        ]
+      },
+      "dog": {
+        "level": 1,
+        "routes": [
+          "ingestion"
+        ],
+        "parts": [
+          "all"
+        ],
+        "symptoms": [
+          "Mild GI upset"
+        ]
+      },
+      "cat": {
+        "level": 1,
+        "routes": [
+          "ingestion"
+        ],
+        "parts": [
+          "all"
+        ],
+        "symptoms": [
+          "Same as dogs"
+        ]
+      },
+      "active_compounds": [
+        "saponins"
+      ],
+      "notes_en": "Dianthus species are mildly toxic/irritating to dogs and cats per ASPCA; NC State also flags poisonous characteristics. Effects are usually mild dermatitis or GI upset."
+    }
+  },
+  {
+    "id": "AAA0441",
+    "scientific_name": "Dianthus gratianopolitanus",
+    "toxicity": {
+      "human": {
+        "level": 1,
+        "routes": [
+          "contact",
+          "ingestion"
+        ],
+        "parts": [
+          "leaf",
+          "stem",
+          "flower",
+          "sap"
+        ],
+        "symptoms": [
+          "mild dermatitis",
+          "mild GI upset if eaten"
+        ]
+      },
+      "dog": {
+        "level": 1,
+        "routes": [
+          "ingestion"
+        ],
+        "parts": [
+          "leaf"
+        ],
+        "symptoms": [
+          "ASPCA-listed Dianthus: mild GI upset, vomiting, diarrhea, dermatitis"
+        ]
+      },
+      "cat": {
+        "level": 1,
+        "routes": [
+          "ingestion"
+        ],
+        "parts": [
+          "leaf"
+        ],
+        "symptoms": [
+          "ASPCA-listed Dianthus: mild GI upset, vomiting, diarrhea, dermatitis"
+        ]
+      },
+      "active_compounds": [
+        "triterpenoid saponins"
+      ],
+      "notes_en": "Dianthus species are mildly toxic/irritating to dogs and cats per ASPCA; NC State also flags poisonous characteristics. Effects are usually mild dermatitis or GI upset."
+    }
+  },
+  {
+    "id": "AAA0462",
+    "scientific_name": "Dracaena sanderiana",
+    "toxicity": {
+      "human": {
+        "level": 1,
+        "routes": [
+          "ingestion"
+        ],
+        "parts": [
+          "leaf",
+          "stem",
+          "sap"
+        ],
+        "symptoms": [
+          "mild oral irritation",
+          "mild GI upset"
+        ]
+      },
+      "dog": {
+        "level": 2,
+        "routes": [
+          "ingestion"
+        ],
+        "parts": [
+          "leaf",
+          "stem"
+        ],
+        "symptoms": [
+          "Vomiting, drooling, depression, weakness, dilated pupils (saponins)"
+        ]
+      },
+      "cat": {
+        "level": 2,
+        "routes": [
+          "ingestion"
+        ],
+        "parts": [
+          "leaf",
+          "stem"
+        ],
+        "symptoms": [
+          "Vomiting, drooling, depression, weakness, dilated pupils",
+          "more severe in cats"
+        ]
+      },
+      "active_compounds": [
+        "saponins"
+      ],
+      "notes_en": "Dracaena is ASPCA-toxic to dogs and cats. Human exposure is usually mild, but NC State flags poisonous-if-ingested/problem-for-children characteristics."
+    }
+  },
+  {
+    "id": "AAA0481",
+    "scientific_name": "Echinopsis oxygona",
+    "toxicity": {
+      "human": {
+        "level": 0,
+        "routes": [],
+        "parts": [],
+        "symptoms": []
+      },
+      "dog": {
+        "level": 1,
+        "routes": [
+          "contact"
+        ],
+        "parts": [
+          "stem"
+        ],
+        "symptoms": [
+          "puncture wounds from spines"
+        ]
+      },
+      "cat": {
+        "level": 1,
+        "routes": [
+          "contact"
+        ],
+        "parts": [
+          "stem"
+        ],
+        "symptoms": [
+          "puncture wounds from spines"
+        ]
+      },
+      "active_compounds": [],
+      "notes_en": "ASPCA/NC State treat this cactus as non-toxic. Spines are a mechanical injury hazard, not chemical toxicity."
+    }
+  },
+  {
+    "id": "AAA0482",
+    "scientific_name": "Eichhornia crassipes",
+    "toxicity": {
+      "human": {
+        "level": 0,
+        "routes": [],
+        "parts": [],
+        "symptoms": []
+      },
+      "dog": {
+        "level": 0,
+        "routes": [],
+        "parts": [],
+        "symptoms": []
+      },
+      "cat": {
+        "level": 0,
+        "routes": [],
+        "parts": [],
+        "symptoms": []
+      },
+      "active_compounds": [],
+      "notes_en": "ASPCA lists water hyacinth as non-toxic to dogs and cats. Main concern is environmental invasiveness, not household toxicity."
+    }
+  },
+  {
+    "id": "AAA0529",
+    "scientific_name": "Fatsia japonica",
+    "toxicity": {
+      "human": {
+        "level": 0,
+        "routes": [],
+        "parts": [],
+        "symptoms": []
+      },
+      "dog": {
+        "level": 0,
+        "routes": [],
+        "parts": [],
+        "symptoms": []
+      },
+      "cat": {
+        "level": 0,
+        "routes": [],
+        "parts": [],
+        "symptoms": []
+      },
+      "active_compounds": [],
+      "notes_en": "ASPCA and NC State list Fatsia japonica as non-toxic to dogs and cats; no significant household toxicity reported."
+    }
+  },
+  {
+    "id": "AAA0615",
+    "scientific_name": "Hemerocallis minor",
+    "toxicity": {
+      "human": {
+        "level": 1,
+        "routes": [
+          "ingestion"
+        ],
+        "parts": [
+          "all"
+        ],
+        "symptoms": [
+          "mild GI upset if eaten raw"
+        ]
+      },
+      "dog": {
+        "level": 0,
+        "routes": [],
+        "parts": [],
+        "symptoms": []
+      },
+      "cat": {
+        "level": 3,
+        "routes": [
+          "ingestion"
+        ],
+        "parts": [
+          "all"
+        ],
+        "symptoms": [
+          "kidney failure",
+          "vomiting",
+          "lethargy"
+        ]
+      },
+      "active_compounds": [
+        "unidentified nephrotoxin"
+      ],
+      "notes_en": "Daylilies are severe for cats, but ASPCA/NC State list them as non-toxic to dogs. Keep cat warning high; dog toxicity is not expected beyond nonspecific plant-material upset."
+    }
+  },
+  {
+    "id": "AAA0629",
+    "scientific_name": "Hibiscus syriacus",
+    "toxicity": {
+      "human": {
+        "level": 0,
+        "routes": [],
+        "parts": [],
+        "symptoms": [
+          "Flowers consumed in Korean cuisine and tea",
+          "generally regarded as safe"
+        ]
+      },
+      "dog": {
+        "level": 0,
+        "routes": [],
+        "parts": [],
+        "symptoms": []
+      },
+      "cat": {
+        "level": 0,
+        "routes": [],
+        "parts": [],
+        "symptoms": []
+      },
+      "active_compounds": [],
+      "notes_en": "ASPCA and NC State list Hibiscus syriacus as non-toxic to dogs and cats. Flowers are used in food/tea; ordinary exposure is considered safe."
+    }
+  },
+  {
+    "id": "AAA0678",
+    "scientific_name": "Ipomoea aquatica",
+    "toxicity": {
+      "human": {
+        "level": 0,
+        "routes": [],
+        "parts": [],
+        "symptoms": []
+      },
+      "dog": {
+        "level": 0,
+        "routes": [],
+        "parts": [],
+        "symptoms": []
+      },
+      "cat": {
+        "level": 0,
+        "routes": [],
+        "parts": [],
+        "symptoms": []
+      },
+      "active_compounds": [],
+      "notes_en": "Edible leafy vegetable. ASPCA has a genus-level Ipomoea morning-glory warning, mainly seed-related; I. aquatica is treated as a culinary exception pending species-specific evidence."
+    }
+  },
+  {
+    "id": "AAA0742",
+    "scientific_name": "Leucanthemum vulgare",
+    "toxicity": {
+      "human": {
+        "level": 0,
+        "routes": [],
+        "parts": [],
+        "symptoms": [
+          "No significant toxicity",
+          "young leaves edible in salads historically"
+        ]
+      },
+      "dog": {
+        "level": 1,
+        "routes": [
+          "ingestion",
+          "contact"
+        ],
+        "parts": [
+          "leaf",
+          "flower"
+        ],
+        "symptoms": [
+          "mild GI upset",
+          "dermatitis possible"
+        ]
+      },
+      "cat": {
+        "level": 1,
+        "routes": [
+          "ingestion",
+          "contact"
+        ],
+        "parts": [
+          "leaf",
+          "flower"
+        ],
+        "symptoms": [
+          "mild GI upset",
+          "dermatitis possible"
+        ]
+      },
+      "active_compounds": [
+        "sesquiterpene lactones",
+        "pyrethrin-like irritants"
+      ],
+      "notes_en": "NC State flags oxeye daisy as a problem for dogs, cats, and horses. Treat as mild pet GI/dermatitis risk rather than severe toxicity."
+    }
+  },
+  {
+    "id": "AAA0762",
+    "scientific_name": "Lilium lancifolium",
+    "toxicity": {
+      "human": {
+        "level": 1,
+        "routes": [
+          "ingestion"
+        ],
+        "parts": [
+          "all"
+        ],
+        "symptoms": [
+          "mild GI"
+        ]
+      },
+      "dog": {
+        "level": 0,
+        "routes": [],
+        "parts": [],
+        "symptoms": []
+      },
+      "cat": {
+        "level": 3,
+        "routes": [
+          "ingestion"
+        ],
+        "parts": [
+          "all"
+        ],
+        "symptoms": [
+          "acute kidney failure",
+          "vomiting",
+          "death"
+        ]
+      },
+      "active_compounds": [
+        "unidentified nephrotoxin"
+      ],
+      "notes_en": "True lilies are dangerous to cats, but ASPCA/NC State list these Lilium species as non-toxic to dogs. Keep cat warning high; dog exposure is usually not a toxicological concern."
+    }
+  },
+  {
+    "id": "AAA0763",
+    "scientific_name": "Lilium longiflorum",
+    "toxicity": {
+      "human": {
+        "level": 1,
+        "routes": [
+          "contact"
+        ],
+        "parts": [
+          "flower"
+        ],
+        "symptoms": [
+          "Pollen can stain skin and clothing",
+          "some individuals develop contact dermatitis"
+        ]
+      },
+      "dog": {
+        "level": 0,
+        "routes": [],
+        "parts": [],
+        "symptoms": []
+      },
+      "cat": {
+        "level": 4,
+        "routes": [
+          "ingestion"
+        ],
+        "parts": [
+          "flower",
+          "leaf",
+          "stem",
+          "root"
+        ],
+        "symptoms": [
+          "Acute nephrotoxicity — vomiting and lethargy within hours, progressing to anuria and fatal kidney failure within 3–7 days without aggressive fluid therapy. All parts including pollen are dangerous",
+          "ingestion of any amount warrants emergency veterinary care"
+        ]
+      },
+      "active_compounds": [
+        "unidentified nephrotoxin (cat-specific)"
+      ],
+      "notes_en": "True lilies are dangerous to cats, but ASPCA/NC State list these Lilium species as non-toxic to dogs. Keep cat warning high; dog exposure is usually not a toxicological concern."
+    }
+  },
+  {
+    "id": "AAA0765",
+    "scientific_name": "Lilium orientalis",
+    "toxicity": {
+      "human": {
+        "level": 1,
+        "routes": [
+          "contact"
+        ],
+        "parts": [
+          "flower"
+        ],
+        "symptoms": [
+          "Pollen stains skin and fabric"
+        ]
+      },
+      "dog": {
+        "level": 0,
+        "routes": [],
+        "parts": [],
+        "symptoms": []
+      },
+      "cat": {
+        "level": 4,
+        "routes": [
+          "ingestion"
+        ],
+        "parts": [
+          "flower",
+          "leaf",
+          "stem",
+          "root"
+        ],
+        "symptoms": [
+          "Acute fatal kidney failure within 3–7 days from any ingestion",
+          "pollen alone can kill. Emergency veterinary care required"
+        ]
+      },
+      "active_compounds": [
+        "unidentified nephrotoxin (cat-specific)"
+      ],
+      "notes_en": "True lilies are dangerous to cats, but ASPCA/NC State list these Lilium species as non-toxic to dogs. Keep cat warning high; dog exposure is usually not a toxicological concern."
+    }
+  },
+  {
+    "id": "AAA0767",
+    "scientific_name": "Lilium speciosum",
+    "toxicity": {
+      "human": {
+        "level": 1,
+        "routes": [
+          "ingestion"
+        ],
+        "parts": [
+          "all"
+        ],
+        "symptoms": [
+          "mild GI"
+        ]
+      },
+      "dog": {
+        "level": 0,
+        "routes": [],
+        "parts": [],
+        "symptoms": []
+      },
+      "cat": {
+        "level": 3,
+        "routes": [
+          "ingestion"
+        ],
+        "parts": [
+          "all"
+        ],
+        "symptoms": [
+          "acute kidney failure",
+          "vomiting",
+          "death"
+        ]
+      },
+      "active_compounds": [
+        "unidentified nephrotoxin"
+      ],
+      "notes_en": "True lilies are dangerous to cats, but ASPCA/NC State list these Lilium species as non-toxic to dogs. Keep cat warning high; dog exposure is usually not a toxicological concern."
+    }
+  },
+  {
+    "id": "AAA0858",
+    "scientific_name": "Morus alba",
+    "toxicity": {
+      "human": {
+        "level": 1,
+        "routes": [
+          "ingestion"
+        ],
+        "parts": [
+          "unripe fruit",
+          "leaf",
+          "stem",
+          "sap"
+        ],
+        "symptoms": [
+          "mild stomach upset",
+          "hallucinations from unripe fruit in quantity"
+        ]
+      },
+      "dog": {
+        "level": 0,
+        "routes": [],
+        "parts": [],
+        "symptoms": []
+      },
+      "cat": {
+        "level": 0,
+        "routes": [],
+        "parts": [],
+        "symptoms": []
+      },
+      "active_compounds": [
+        "latex alkaloids"
+      ],
+      "notes_en": "ASPCA/NC State list Morus as non-toxic to dogs and cats. Ripe fruit is safe; unripe fruit or sap may cause mild nonspecific upset."
+    }
+  },
+  {
+    "id": "AAA0864",
+    "scientific_name": "Muscari armeniacum",
+    "toxicity": {
+      "human": {
+        "level": 1,
+        "routes": [
+          "ingestion"
+        ],
+        "parts": [
+          "bulb"
+        ],
+        "symptoms": [
+          "vomiting",
+          "diarrhea"
+        ]
+      },
+      "dog": {
+        "level": 0,
+        "routes": [],
+        "parts": [],
+        "symptoms": []
+      },
+      "cat": {
+        "level": 0,
+        "routes": [],
+        "parts": [],
+        "symptoms": []
+      },
+      "active_compounds": [
+        "saponins"
+      ],
+      "notes_en": "ASPCA and NC State list grape hyacinth (Muscari armeniacum) as non-toxic to dogs and cats. Bulb ingestion can still cause nonspecific GI upset in quantity."
+    }
+  },
+  {
+    "id": "AAA0886",
+    "scientific_name": "Nepeta cataria",
+    "toxicity": {
+      "human": {
+        "level": 0,
+        "routes": [],
+        "parts": [],
+        "symptoms": [
+          "Used in traditional herbal teas",
+          "no significant toxicity"
+        ]
+      },
+      "dog": {
+        "level": 0,
+        "routes": [],
+        "parts": [],
+        "symptoms": [
+          "Does not produce euphoric response",
+          "may have mild calmative effect"
+        ]
+      },
+      "cat": {
+        "level": 1,
+        "routes": [
+          "ingestion"
+        ],
+        "parts": [
+          "leaf",
+          "stem",
+          "flower"
+        ],
+        "symptoms": [
+          "vomiting or diarrhea if eaten in excess",
+          "sedation or overstimulation possible"
+        ]
+      },
+      "active_compounds": [
+        "nepetalactone"
+      ],
+      "notes_en": "ASPCA and NC State list catnip as toxic/problematic for cats, usually mild and dose-related. Behavioral response is expected; excessive ingestion may cause GI upset."
+    }
+  },
+  {
+    "id": "AAA0912",
+    "scientific_name": "Opuntia microdasys",
+    "toxicity": {
+      "human": {
+        "level": 1,
+        "routes": [
+          "contact"
+        ],
+        "parts": [
+          "stem"
+        ],
+        "symptoms": [
+          "Glochids (fine barbed bristles) cause persistent skin irritation, inflammation, and splinter-like removal"
+        ]
+      },
+      "dog": {
+        "level": 1,
+        "routes": [
+          "contact"
+        ],
+        "parts": [
+          "stem"
+        ],
+        "symptoms": [
+          "Oral and paw injury from glochids"
+        ]
+      },
+      "cat": {
+        "level": 1,
+        "routes": [
+          "contact"
+        ],
+        "parts": [
+          "stem"
+        ],
+        "symptoms": [
+          "Oral and paw injury from glochids"
+        ]
+      },
+      "active_compounds": [],
+      "notes_en": "ASPCA/NC State list Opuntia as non-toxic. Glochids/spines can injure paws or mouths mechanically; this is not chemical toxicity."
+    }
+  },
+  {
+    "id": "AAA0926",
+    "scientific_name": "Pachira aquatica",
+    "toxicity": {
+      "human": {
+        "level": 1,
+        "routes": [
+          "ingestion"
+        ],
+        "parts": [
+          "seed"
+        ],
+        "symptoms": [
+          "GI upset possible from raw seeds",
+          "toxicity data conflicting"
+        ]
+      },
+      "dog": {
+        "level": 0,
+        "routes": [],
+        "parts": [],
+        "symptoms": [
+          "Non-toxic per ASPCA"
+        ]
+      },
+      "cat": {
+        "level": 1,
+        "routes": [
+          "ingestion"
+        ],
+        "parts": [
+          "seed"
+        ],
+        "symptoms": [
+          "vomiting",
+          "diarrhea",
+          "drooling possible if seeds ingested"
+        ]
+      },
+      "active_compounds": [
+        "cyclopropenoic fatty acids (in seeds)"
+      ],
+      "notes_en": "ASPCA lists money tree as non-toxic to pets, but NC State notes possible seed toxicity and mild-to-moderate GI distress for cats. Houseplants rarely produce seeds."
+    }
+  },
+  {
+    "id": "AAA1036",
+    "scientific_name": "Pittosporum tobira",
+    "toxicity": {
+      "human": {
+        "level": 0,
+        "routes": [],
+        "parts": [],
+        "symptoms": []
+      },
+      "dog": {
+        "level": 0,
+        "routes": [],
+        "parts": [],
+        "symptoms": []
+      },
+      "cat": {
+        "level": 0,
+        "routes": [],
+        "parts": [],
+        "symptoms": []
+      },
+      "active_compounds": [],
+      "notes_en": "ASPCA and NC State list Pittosporum tobira as non-toxic to dogs and cats; no significant household toxicity reported."
+    }
+  },
+  {
+    "id": "AAA1246",
+    "scientific_name": "Rosmarinus officinalis",
+    "toxicity": {
+      "human": {
+        "level": 0,
+        "routes": [],
+        "parts": [],
+        "symptoms": [
+          "Culinary herb",
+          "concentrated essential oil can cause seizures in very high doses"
+        ]
+      },
+      "dog": {
+        "level": 0,
+        "routes": [],
+        "parts": [],
+        "symptoms": [
+          "Not listed as toxic",
+          "commonly used in small quantities in pet foods"
+        ]
+      },
+      "cat": {
+        "level": 0,
+        "routes": [],
+        "parts": [],
+        "symptoms": []
+      },
+      "active_compounds": [
+        "1,8-cineole",
+        "camphor",
+        "rosmarinic acid"
+      ],
+      "notes_en": "ASPCA lists rosemary as non-toxic to cats and dogs. Culinary leaf exposure is safe; concentrated essential oil should still be avoided around cats."
+    }
+  },
+  {
+    "id": "AAA1281",
+    "scientific_name": "Salvia officinalis",
+    "toxicity": {
+      "human": {
+        "level": 0,
+        "routes": [],
+        "parts": [],
+        "symptoms": [
+          "Widely used culinary herb",
+          "concentrated essential oil contains thujone and can cause seizures in high doses"
+        ]
+      },
+      "dog": {
+        "level": 0,
+        "routes": [],
+        "parts": [],
+        "symptoms": [
+          "Not listed as toxic in dietary amounts"
+        ]
+      },
+      "cat": {
+        "level": 0,
+        "routes": [],
+        "parts": [],
+        "symptoms": []
+      },
+      "active_compounds": [
+        "thujone",
+        "camphor",
+        "rosmarinic acid"
+      ],
+      "notes_en": "ASPCA and NC State list culinary sage as non-toxic to cats and dogs. Concentrated essential oil or high-dose medicinal use is a separate caution."
+    }
+  },
+  {
+    "id": "AAA1300",
+    "scientific_name": "Satureja hortensis",
+    "toxicity": {
+      "human": {
+        "level": 0,
+        "routes": [],
+        "parts": [],
+        "symptoms": [
+          "Culinary herb",
+          "no significant toxicity"
+        ]
+      },
+      "dog": {
+        "level": 0,
+        "routes": [],
+        "parts": [],
+        "symptoms": [
+          "Not listed as toxic"
+        ]
+      },
+      "cat": {
+        "level": 0,
+        "routes": [],
+        "parts": [],
+        "symptoms": []
+      },
+      "active_compounds": [
+        "carvacrol",
+        "thymol"
+      ],
+      "notes_en": "ASPCA and NC State list summer savory as non-toxic to cats and dogs. Culinary exposure is considered safe; concentrated essential oil remains a separate caution."
+    }
+  },
+  {
+    "id": "AAA1367",
+    "scientific_name": "Stephanotis floribunda",
+    "toxicity": {
+      "human": {
+        "level": 1,
+        "routes": [
+          "contact",
+          "ingestion"
+        ],
+        "parts": [
+          "leaf",
+          "stem",
+          "sap",
+          "seed"
+        ],
+        "symptoms": [
+          "Latex may irritate skin and eyes",
+          "GI upset if ingested"
+        ]
+      },
+      "dog": {
+        "level": 0,
+        "routes": [],
+        "parts": [],
+        "symptoms": []
+      },
+      "cat": {
+        "level": 0,
+        "routes": [],
+        "parts": [],
+        "symptoms": []
+      },
+      "active_compounds": [
+        "milky latex"
+      ],
+      "notes_en": "ASPCA and NC State list Madagascar jasmine as non-toxic to dogs and cats. Milky latex may irritate sensitive skin or stomachs, but moderate pet toxicity is not supported by these sources."
+    }
+  },
+  {
+    "id": "AAA1387",
+    "scientific_name": "Tagetes erecta",
+    "toxicity": {
+      "human": {
+        "level": 1,
+        "routes": [
+          "contact",
+          "ingestion"
+        ],
+        "parts": [
+          "leaf",
+          "sap"
+        ],
+        "symptoms": [
+          "mild dermatitis",
+          "mild GI upset if eaten in quantity"
+        ]
+      },
+      "dog": {
+        "level": 1,
+        "routes": [
+          "contact"
+        ],
+        "parts": [
+          "leaf"
+        ],
+        "symptoms": [
+          "Contact dermatitis from crushed foliage in sensitive individuals",
+          "per ASPCA"
+        ]
+      },
+      "cat": {
+        "level": 1,
+        "routes": [
+          "contact",
+          "ingestion"
+        ],
+        "parts": [
+          "leaf"
+        ],
+        "symptoms": [
+          "Mild GI upset, dermatitis from crushed foliage",
+          "per ASPCA"
+        ]
+      },
+      "active_compounds": [
+        "thiophenes (nematicidal compounds)"
+      ],
+      "notes_en": "Flower petals are used as colorant/edible garnish, but NC State flags poisonous characteristics; ASPCA notes mild pet dermatitis/GI effects."
+    }
+  },
+  {
+    "id": "AAA1412",
+    "scientific_name": "Thymus vulgaris",
+    "toxicity": {
+      "human": {
+        "level": 0,
+        "routes": [],
+        "parts": [],
+        "symptoms": [
+          "Widely used culinary and medicinal herb",
+          "concentrated essential oil can cause dermatitis"
+        ]
+      },
+      "dog": {
+        "level": 0,
+        "routes": [],
+        "parts": [],
+        "symptoms": [
+          "Not listed as toxic in dietary amounts"
+        ]
+      },
+      "cat": {
+        "level": 0,
+        "routes": [],
+        "parts": [],
+        "symptoms": []
+      },
+      "active_compounds": [
+        "thymol",
+        "carvacrol"
+      ],
+      "notes_en": "ASPCA and NC State list thyme as non-toxic to cats and dogs. Culinary leaf exposure is safe; concentrated essential oil should still be avoided around cats."
+    }
+  },
+  {
+    "id": "AAA1428",
+    "scientific_name": "Toxicodendron radicans",
+    "toxicity": {
+      "human": {
+        "level": 3,
+        "routes": [
+          "contact",
+          "inhalation"
+        ],
+        "parts": [
+          "all"
+        ],
+        "symptoms": [
+          "severe contact dermatitis",
+          "blisters",
+          "intense itching",
+          "respiratory distress from smoke"
+        ]
+      },
+      "dog": {
+        "level": 0,
+        "routes": [],
+        "parts": [],
+        "symptoms": []
+      },
+      "cat": {
+        "level": 0,
+        "routes": [],
+        "parts": [],
+        "symptoms": []
+      },
+      "active_compounds": [
+        "urushiol"
+      ],
+      "notes_en": "Poison ivy is a major human contact hazard from urushiol. ASPCA/NC State list it as non-toxic to dogs and cats; pets can still carry urushiol on fur to humans."
+    }
+  },
+  {
+    "id": "AAA1429",
+    "scientific_name": "Trachelospermum jasminoides",
+    "toxicity": {
+      "human": {
+        "level": 1,
+        "routes": [
+          "contact",
+          "ingestion"
+        ],
+        "parts": [
+          "sap",
+          "leaf",
+          "stem"
+        ],
+        "symptoms": [
+          "mild skin irritation",
+          "mild GI upset if eaten"
+        ]
+      },
+      "dog": {
+        "level": 0,
+        "routes": [],
+        "parts": [],
+        "symptoms": []
+      },
+      "cat": {
+        "level": 0,
+        "routes": [],
+        "parts": [],
+        "symptoms": []
+      },
+      "active_compounds": [
+        "milky latex"
+      ],
+      "notes_en": "ASPCA and NC State list star/confederate jasmine as non-toxic to dogs and cats. Milky sap may irritate sensitive skin or stomachs, but cardiac-glycoside-level pet toxicity is not supported."
+    }
+  },
+  {
+    "id": "AAA1438",
+    "scientific_name": "Tropaeolum majus",
+    "toxicity": {
+      "human": {
+        "level": 0,
+        "routes": [],
+        "parts": [],
+        "symptoms": [
+          "Entire plant edible"
+        ]
+      },
+      "dog": {
+        "level": 1,
+        "routes": [
+          "ingestion"
+        ],
+        "parts": [
+          "leaf",
+          "stem",
+          "flower",
+          "seed"
+        ],
+        "symptoms": [
+          "mild GI upset possible"
+        ]
+      },
+      "cat": {
+        "level": 1,
+        "routes": [
+          "ingestion"
+        ],
+        "parts": [
+          "leaf",
+          "stem",
+          "flower",
+          "seed"
+        ],
+        "symptoms": [
+          "mild GI upset possible"
+        ]
+      },
+      "active_compounds": [
+        "glucotropaeolin (mustard oil glucoside)"
+      ],
+      "notes_en": "ASPCA lists nasturtium as non-toxic, while NC State flags problem-for-dogs/cats/horses. Because the plant is edible, treat as low-level GI caution rather than moderate toxicity."
+    }
+  }
+]

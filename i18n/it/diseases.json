@@ -3,7 +3,7 @@
   "locale": "it",
   "source": {
     "resource": "diseases.json",
-    "sha256": "0bf8cfb6cc131c3183efeb4bbf453b9dd9eae1be645e2e69dc47234445a2d0b8"
+    "sha256": "d26b8cb95d85389f21f20f8f47e0aaf07a384e1fd40fc8b81ccaef4f32047c21"
   },
   "fields": {
     "categories": {
@@ -3891,6 +3891,108 @@
                 },
                 {
                   "title": "Attenzione ai cancro che si sviluppano sulle aree danneggiate: vedere [ST05](cankers.md)"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "L25": {
+        "name": "Stress idrico",
+        "shortDescription": "Le foglie appassiscono, si arricciano e cadono; la crescita stenta per mancanza d'acqua.",
+        "symptomAnalysis": "I sintomi visibili includono foglie appassite, caduta delle foglie e crescita stentata, mentre la pianta cerca di conservare l'acqua e di rispondere allo stress.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Annaffia alla base, mai dall'alto",
+                  "body": "Dirigi l'acqua direttamente sul terreno vicino allo stelo anziché spruzzare le foglie. Usa un annaffiatoio dal beccuccio lungo, un tubo poroso o un impianto a goccia. Le foglie bagnate favoriscono la diffusione di funghi e batteri."
+                },
+                {
+                  "title": "Annaffia in profondità ma meno spesso",
+                  "body": "Annaffia lentamente e a fondo finché il terreno non è inumidito completamente, poi lascialo asciugare parzialmente prima della successiva annaffiatura. Favorisce radici più profonde e piante più robuste."
+                },
+                {
+                  "title": "Rinvasa in un contenitore più grande",
+                  "body": "Sposta una pianta con radici compresse in un vaso 1–2 misure più grande. Districa le radici avvolte prima di sistemare la pianta nel terriccio fresco. Annaffia a fondo una volta."
+                },
+                {
+                  "title": "Rinvasa con terriccio fresco e drenaggio",
+                  "body": "Sposta la pianta in un vaso pulito con fori di drenaggio, usando terriccio sterile fresco. Interra le radici alla stessa profondità di prima. Annaffia leggermente per assestare il terriccio."
+                }
+              ]
+            }
+          ]
+        },
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Aggiungi una lampada da coltivazione",
+                  "body": "Appendi o posiziona una lampada da coltivazione LED a spettro completo a 30–60 cm sopra la pianta, con un timer di 12–14 ore. Particolarmente utile in inverno o in stanze poco illuminate."
+                },
+                {
+                  "title": "Annaffia alla base, mai dall'alto",
+                  "body": "Dirigi l'acqua direttamente sul terreno vicino allo stelo anziché spruzzare le foglie. Usa un annaffiatoio dal beccuccio lungo, un tubo poroso o un impianto a goccia. Le foglie bagnate favoriscono la diffusione di funghi e batteri."
+                },
+                {
+                  "title": "Annaffia in profondità ma meno spesso",
+                  "body": "Annaffia lentamente e a fondo finché il terreno non è inumidito completamente, poi lascialo asciugare parzialmente prima della successiva annaffiatura. Favorisce radici più profonde e piante più robuste."
+                },
+                {
+                  "title": "Applica pacciame organico intorno alla base",
+                  "body": "Distribuisci uno strato di 5–8 cm di corteccia, paglia o pacciame di foglie intorno alla pianta, lasciando un piccolo anello libero attorno allo stelo. Il pacciame blocca gli schizzi di patogeni del terreno e stabilizza l'umidità."
+                },
+                {
+                  "title": "Solarizza il terreno",
+                  "body": "Stendi un telo di plastica trasparente sul terreno umido del giardino per 4–6 settimane durante il periodo più caldo dell'anno. Il calore si accumula sotto e uccide nematodi, funghi e semi di erbe infestanti."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "R08": {
+        "name": "Phytophthora",
+        "shortDescription": "Le radici, i fusti e i tuberi marciscono; la pianta appassisce e crolla.",
+        "symptomAnalysis": "I sintomi includono ingiallimento delle foglie, appassimento, marciume radicale e lesioni scure e molli su fusti e tuberi.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Applica un Fungicida ad Ampio Spettro",
+                  "body": "Quando il rame non è sufficiente, usa un fungicida sistemico sintetico (ad es. propiconazolo, miclobutanil) secondo l'etichetta del prodotto. Spruzza fino al deflusso. Ruota sempre i fungicidi per evitare la resistenza."
+                },
+                {
+                  "title": "Applica un Fungicida a Base di Rame",
+                  "body": "Spruzza un fungicida a base di rame (miscela di Bordeaux, solfato di rame o idrossido di rame commerciale) su foglie, fusti e terreno circostante secondo l'etichetta del prodotto. Riapplica ogni 7–14 giorni."
+                }
+              ]
+            }
+          ]
+        },
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Elimina i Detriti Intorno alle Piante",
+                  "body": "Rastrella foglie, frutta e rami morti da sotto le piante, soprattutto in autunno. Molti patogeni svernano nei detriti vegetali e si reinfettano in primavera."
+                },
+                {
+                  "title": "Sterilizza gli Attrezzi da Taglio",
+                  "body": "Immergi le forbici, le cesaie o i coltelli in una soluzione 1:4 di candeggina e acqua (o alcol isopropilico al 70%) prima di ogni taglio e tra una pianta e l'altra. Asciuga prima di tagliare."
+                },
+                {
+                  "title": "Solarizza il Terreno",
+                  "body": "Stendi un foglio di plastica trasparente sul terreno umido del giardino per 4–6 settimane durante la parte più calda dell'anno. Il calore si accumula sotto e uccide nematodi, funghi e semi di erbacce."
+                },
+                {
+                  "title": "Elimina la Pianta Gravemente Infetta",
+                  "body": "Quando più della metà della pianta è colpita o il marciume radicale è diffuso, scava la pianta, sigillala in un sacco della spazzatura pesante e gettala via. Sterilizza l'area prima di ripiantare."
                 }
               ]
             }

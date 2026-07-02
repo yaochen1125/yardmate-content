@@ -3,7 +3,7 @@
   "locale": "fr",
   "source": {
     "resource": "diseases.json",
-    "sha256": "0bf8cfb6cc131c3183efeb4bbf453b9dd9eae1be645e2e69dc47234445a2d0b8"
+    "sha256": "d26b8cb95d85389f21f20f8f47e0aaf07a384e1fd40fc8b81ccaef4f32047c21"
   },
   "fields": {
     "categories": {
@@ -3891,6 +3891,108 @@
                 },
                 {
                   "title": "Faites attention aux cankers qui se développent sur les zones endommagées - voir [ST05](cankers.md)"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "L25": {
+        "name": "Stress hydrique",
+        "shortDescription": "Les feuilles se fanent, s'enroulent et tombent ; la croissance ralentit par manque d'eau.",
+        "symptomAnalysis": "Les symptômes visibles comprennent des feuilles flétries, une chute des feuilles et une croissance ralentie, la plante peinant à conserver l'eau et à réagir au stress.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Arrosez à la base, jamais par le dessus",
+                  "body": "Dirigez l'eau directement sur le sol près de la tige plutôt que d'asperger les feuilles. Utilisez un arrosoir à long bec, un tuyau suintant ou un goutte-à-goutte. Les feuilles mouillées favorisent la propagation des champignons et des bactéries."
+                },
+                {
+                  "title": "Arrosez en profondeur mais moins souvent",
+                  "body": "Arrosez lentement et abondamment jusqu'à ce que le sol soit humidifié en profondeur, puis laissez-le sécher partiellement avant le prochain arrosage. Cela favorise des racines plus profondes et des plantes plus robustes."
+                },
+                {
+                  "title": "Rempotez dans un contenant plus grand",
+                  "body": "Placez une plante à racines à l'étroit dans un pot de 1 à 2 tailles plus grand. Démêlez les racines enroulées avant d'installer la plante dans un substrat frais. Arrosez abondamment une fois."
+                },
+                {
+                  "title": "Rempotez avec un substrat frais et un bon drainage",
+                  "body": "Placez la plante dans un pot propre muni de trous de drainage, en utilisant un terreau stérile frais. Enterrez les racines à la même profondeur qu'auparavant. Arrosez légèrement pour tasser le substrat."
+                }
+              ]
+            }
+          ]
+        },
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Ajoutez une lampe de culture",
+                  "body": "Suspendez ou placez une lampe de culture LED à spectre complet à 30–60 cm au-dessus de la plante, avec une minuterie de 12 à 14 heures. Particulièrement utile en hiver ou dans les pièces sombres."
+                },
+                {
+                  "title": "Arrosez à la base, jamais par le dessus",
+                  "body": "Dirigez l'eau directement sur le sol près de la tige plutôt que d'asperger les feuilles. Utilisez un arrosoir à long bec, un tuyau suintant ou un goutte-à-goutte. Les feuilles mouillées favorisent la propagation des champignons et des bactéries."
+                },
+                {
+                  "title": "Arrosez en profondeur mais moins souvent",
+                  "body": "Arrosez lentement et abondamment jusqu'à ce que le sol soit humidifié en profondeur, puis laissez-le sécher partiellement avant le prochain arrosage. Cela favorise des racines plus profondes et des plantes plus robustes."
+                },
+                {
+                  "title": "Appliquez un paillis organique autour de la base",
+                  "body": "Étalez une couche de 5 à 8 cm d'écorce, de paille ou de paillis de feuilles autour de la plante, en laissant un petit anneau dégagé autour de la tige. Le paillis empêche les éclaboussures de pathogènes du sol et stabilise l'humidité."
+                },
+                {
+                  "title": "Solarisez le sol",
+                  "body": "Posez une feuille de plastique transparent sur un sol de jardin humide pendant 4 à 6 semaines durant la période la plus chaude de l'année. La chaleur s'accumule en dessous et tue les nématodes, les champignons et les graines de mauvaises herbes."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "R08": {
+        "name": "Phytophthora",
+        "shortDescription": "Les racines, tiges et tubercules pourrissent; la plante se flétrit et s'effondre.",
+        "symptomAnalysis": "Les symptômes incluent le jaunissement des feuilles, le flétrissement, la pourriture des racines et des lésions sombres et molles sur les tiges et tubercules.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Appliquez un fongicide à large spectre",
+                  "body": "Quand le cuivre ne suffit pas, utilisez un fongicide systémique synthétique (p. ex. propiconazole, myclobutanil) selon l'étiquette du produit. Vaporisez jusqu'au ruissellement. Alternez toujours les fongicides pour éviter la résistance."
+                },
+                {
+                  "title": "Appliquez un fongicide à base de cuivre",
+                  "body": "Vaporisez un fongicide à base de cuivre (bouillie bordelaise, sulfate de cuivre ou hydroxyde de cuivre commercial) sur les feuilles, tiges et sol environnant selon l'étiquette du produit. Réappliquez tous les 7 à 14 jours."
+                }
+              ]
+            }
+          ]
+        },
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Éliminez les débris autour des plantes",
+                  "body": "Ratissez les feuilles, fruits et branches mortes sous les plantes — particulièrement en automne. De nombreux agents pathogènes hivernent dans les débris végétaux et réinfectent au printemps."
+                },
+                {
+                  "title": "Stérilisez les outils de coupe",
+                  "body": "Trempez les sécateurs, ciseaux ou lames de couteau dans une solution eau de Javel-eau 1:4 (ou alcool à 70%) avant chaque coupe et entre chaque plante. Séchez avant de couper."
+                },
+                {
+                  "title": "Solarisez le sol",
+                  "body": "Posez une feuille de plastique transparent sur le sol du jardin humide pendant 4 à 6 semaines pendant la période la plus chaude de l'année. La chaleur s'accumule dessous et tue les nématodes, champignons et graines de mauvaises herbes."
+                },
+                {
+                  "title": "Éliminez la plante gravement infectée",
+                  "body": "Quand plus de la moitié de la plante est affectée ou que la pourriture des racines est généralisée, déterrez la plante, enfermez-la dans un sac poubelle épais et jetez-la. Stérilisez la zone avant de replanter."
                 }
               ]
             }

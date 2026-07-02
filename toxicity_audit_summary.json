@@ -1,0 +1,23 @@
+{
+  "plants": 1522,
+  "review_rows": 263,
+  "plant_priority_counts": {
+    "P0": 13,
+    "P1": 22,
+    "P2": 237,
+    "P3": 1250
+  },
+  "review_priority_counts": {
+    "P0": 15,
+    "P1": 35,
+    "P2": 213
+  },
+  "top_false_safe_rows": 17,
+  "overwarning_rows": 51,
+  "horse_source_only_rows": 187,
+  "outputs": {
+    "combined_json": "yardmate-content/toxicity_audit_combined.json",
+    "review_csv": "yardmate-content/toxicity_review_queue.csv",
+    "summary_json": "yardmate-content/toxicity_audit_summary.json"
+  }
+}

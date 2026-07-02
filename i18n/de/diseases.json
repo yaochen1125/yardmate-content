@@ -3,7 +3,7 @@
   "locale": "de",
   "source": {
     "resource": "diseases.json",
-    "sha256": "0bf8cfb6cc131c3183efeb4bbf453b9dd9eae1be645e2e69dc47234445a2d0b8"
+    "sha256": "d26b8cb95d85389f21f20f8f47e0aaf07a384e1fd40fc8b81ccaef4f32047c21"
   },
   "fields": {
     "categories": {
@@ -3891,6 +3891,108 @@
                 },
                 {
                   "title": "Achten Sie auf die Entwicklung von Kanker an beschädigten Stellen - siehe [ST05](cankers.md)"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "L25": {
+        "name": "Trockenstress",
+        "shortDescription": "Blätter welken, kräuseln sich und fallen ab; Wachstum verkümmert durch zu wenig Wasser.",
+        "symptomAnalysis": "Sichtbare Symptome sind welkende Blätter, Blattfall und verkümmertes Wachstum, während die Pflanze versucht, Wasser zu sparen und auf den Stress zu reagieren.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Am Fuß gießen, niemals von oben",
+                  "body": "Gießen Sie das Wasser direkt auf die Erde nahe dem Stängel, statt die Blätter zu besprühen. Verwenden Sie eine Gießkanne mit langer Tülle, einen Sickerschlauch oder eine Tropfleitung. Nasse Blätter fördern die Ausbreitung von Pilzen und Bakterien."
+                },
+                {
+                  "title": "Tief, aber seltener gießen",
+                  "body": "Gießen Sie langsam und gründlich, bis die Erde vollständig durchfeuchtet ist, und lassen Sie sie vor dem nächsten Gießen teilweise abtrocknen. Das fördert tiefere Wurzeln und kräftigere Pflanzen."
+                },
+                {
+                  "title": "In einen größeren Topf umtopfen",
+                  "body": "Setzen Sie eine wurzelgebundene Pflanze in einen Topf, der 1–2 Größen größer ist. Lockern Sie kreisende Wurzeln, bevor Sie die Pflanze in frische Erde setzen. Einmal tief gießen."
+                },
+                {
+                  "title": "Mit frischer Erde und Drainage umtopfen",
+                  "body": "Setzen Sie die Pflanze in einen sauberen Topf mit Abzugslöchern und verwenden Sie frische, sterile Blumenerde. Bedecken Sie die Wurzeln bis zur gleichen Tiefe wie zuvor. Leicht gießen, um die Erde zu setzen."
+                }
+              ]
+            }
+          ]
+        },
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Eine Pflanzenlampe hinzufügen",
+                  "body": "Hängen oder stellen Sie eine Vollspektrum-LED-Pflanzenlampe 30–60 cm über die Pflanze, mit einer Zeitschaltuhr für 12–14 Stunden. Besonders nützlich im Winter oder in dunklen Räumen."
+                },
+                {
+                  "title": "Am Fuß gießen, niemals von oben",
+                  "body": "Gießen Sie das Wasser direkt auf die Erde nahe dem Stängel, statt die Blätter zu besprühen. Verwenden Sie eine Gießkanne mit langer Tülle, einen Sickerschlauch oder eine Tropfleitung. Nasse Blätter fördern die Ausbreitung von Pilzen und Bakterien."
+                },
+                {
+                  "title": "Tief, aber seltener gießen",
+                  "body": "Gießen Sie langsam und gründlich, bis die Erde vollständig durchfeuchtet ist, und lassen Sie sie vor dem nächsten Gießen teilweise abtrocknen. Das fördert tiefere Wurzeln und kräftigere Pflanzen."
+                },
+                {
+                  "title": "Organischen Mulch um den Fuß ausbringen",
+                  "body": "Verteilen Sie eine 5–8 cm dicke Schicht aus Rinde, Stroh oder Laubmulch um die Pflanze und halten Sie einen kleinen Ring um den Stängel frei. Mulch verhindert das Hochspritzen von Bodenpathogenen und stabilisiert die Feuchtigkeit."
+                },
+                {
+                  "title": "Den Boden solarisieren",
+                  "body": "Legen Sie während der heißesten Zeit des Jahres 4–6 Wochen lang eine klare Plastikfolie über feuchte Gartenerde. Darunter staut sich Hitze, die Nematoden, Pilze und Unkrautsamen abtötet."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "R08": {
+        "name": "Phytophthora-Fäule",
+        "shortDescription": "Wurzeln, Stängel und Knollen faulen; Pflanze welkt und fällt zusammen.",
+        "symptomAnalysis": "Symptome sind vergilbte Blätter, Welke, Wurzelfäule und dunkle, matschige Läsionen an Stängeln und Knollen.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Breitspektrum-Fungizid anwenden",
+                  "body": "Wenn Kupfer nicht ausreicht, verwenden Sie ein synthetisches systemisches Fungizid (z.B. Propiconazol, Myclobutanil) gemäß Produktetikett. Bis zum Abfließen sprühen. Wechseln Sie Fungizide immer ab, um Resistenz zu vermeiden."
+                },
+                {
+                  "title": "Kupfer-Fungizid anwenden",
+                  "body": "Sprühen Sie ein kupferhaltiges Fungizid (Bordeaux-Mischung, Kupfersulfat oder handelsübliches Kupferhydroxid) auf Blätter, Stängel und umgebende Erde gemäß Produktetikett. Alle 7–14 Tage erneut auftragen."
+                }
+              ]
+            }
+          ]
+        },
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Ablagerungen um Pflanzen entfernen",
+                  "body": "Abgefallene Blätter, Früchte und tote Äste unter Pflanzen entfernen — besonders im Herbst. Viele Krankheitserreger überwintern in Pflanzenabfällen und infizieren im Frühjahr erneut."
+                },
+                {
+                  "title": "Schneidewerkzeuge sterilisieren",
+                  "body": "Gartenschere, Schere oder Messer vor jedem Schnitt und zwischen Pflanzen in eine 1:4 Bleich-Wasser-Lösung (oder 70% Reinigungsalkohol) tauchen. Vor dem Schneiden trocken wischen."
+                },
+                {
+                  "title": "Den Boden solarisieren",
+                  "body": "Legen Sie eine durchsichtige Plastikfolie auf feuchte Gartenerde für 4–6 Wochen während der heißesten Jahreszeit. Die Hitze darunter tötet Fadenwürmer, Pilze und Unkrautsamen ab."
+                },
+                {
+                  "title": "Stark befallene Pflanze entsorgen",
+                  "body": "Wenn mehr als die Hälfte der Pflanze betroffen ist oder die Wurzelfäule weit verbreitet ist, graben Sie die Pflanze aus, versiegeln Sie sie in einem stabilen Müllsack und entsorgen Sie sie. Sterilisieren Sie den Bereich vor dem Neupflanzen."
                 }
               ]
             }

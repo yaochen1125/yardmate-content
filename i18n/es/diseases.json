@@ -3,7 +3,7 @@
   "locale": "es",
   "source": {
     "resource": "diseases.json",
-    "sha256": "0bf8cfb6cc131c3183efeb4bbf453b9dd9eae1be645e2e69dc47234445a2d0b8"
+    "sha256": "d26b8cb95d85389f21f20f8f47e0aaf07a384e1fd40fc8b81ccaef4f32047c21"
   },
   "fields": {
     "categories": {
@@ -3891,6 +3891,108 @@
                 },
                 {
                   "title": "Preste atención a la aparición de canker en las áreas dañadas, consulte [ST05](cankers.md)"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "L25": {
+        "name": "Estrés hídrico",
+        "shortDescription": "Las hojas se marchitan, se rizan y caen; el crecimiento se detiene por falta de agua.",
+        "symptomAnalysis": "Los síntomas visibles incluyen hojas marchitas, caída de hojas y crecimiento atrofiado, ya que la planta lucha por conservar agua y responder al estrés.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Riega en la base, nunca por encima",
+                  "body": "Dirige el agua directamente al suelo cerca del tallo en lugar de rociar las hojas. Usa una regadera de pico largo, una manguera de exudación o una línea de goteo. Las hojas mojadas favorecen la propagación de hongos y bacterias."
+                },
+                {
+                  "title": "Riega en profundidad pero con menos frecuencia",
+                  "body": "Riega lenta y abundantemente hasta que el suelo quede humedecido por completo, y deja que se seque parcialmente antes del siguiente riego. Fomenta raíces más profundas y plantas más fuertes."
+                },
+                {
+                  "title": "Trasplanta a una maceta más grande",
+                  "body": "Pasa una planta con raíces apretadas a una maceta 1 o 2 tamaños más grande. Separa las raíces enrolladas antes de asentar la planta en sustrato fresco. Riega en profundidad una vez."
+                },
+                {
+                  "title": "Trasplanta con sustrato fresco y drenaje",
+                  "body": "Pasa la planta a una maceta limpia con orificios de drenaje, usando sustrato estéril fresco. Entierra las raíces a la misma profundidad que antes. Riega ligeramente para asentar el sustrato."
+                }
+              ]
+            }
+          ]
+        },
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Añade una luz de cultivo",
+                  "body": "Cuelga o coloca una luz de cultivo LED de espectro completo de 30 a 60 cm por encima de la planta, con un temporizador de 12 a 14 horas. Especialmente útil en invierno o en habitaciones con poca luz."
+                },
+                {
+                  "title": "Riega en la base, nunca por encima",
+                  "body": "Dirige el agua directamente al suelo cerca del tallo en lugar de rociar las hojas. Usa una regadera de pico largo, una manguera de exudación o una línea de goteo. Las hojas mojadas favorecen la propagación de hongos y bacterias."
+                },
+                {
+                  "title": "Riega en profundidad pero con menos frecuencia",
+                  "body": "Riega lenta y abundantemente hasta que el suelo quede humedecido por completo, y deja que se seque parcialmente antes del siguiente riego. Fomenta raíces más profundas y plantas más fuertes."
+                },
+                {
+                  "title": "Aplica mantillo orgánico alrededor de la base",
+                  "body": "Extiende una capa de 5 a 8 cm de corteza, paja o mantillo de hojas alrededor de la planta, dejando un pequeño anillo libre alrededor del tallo. El mantillo evita las salpicaduras de patógenos del suelo y estabiliza la humedad."
+                },
+                {
+                  "title": "Solariza el suelo",
+                  "body": "Coloca una lámina de plástico transparente sobre el suelo húmedo del jardín durante 4 a 6 semanas en la época más calurosa del año. El calor se acumula debajo y elimina nematodos, hongos y semillas de malezas."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "R08": {
+        "name": "Pudrición por Phytophthora",
+        "shortDescription": "Las raíces, tallos y tubérculos se pudren; la planta se marchita y colapsa.",
+        "symptomAnalysis": "Los síntomas incluyen amarillamiento de hojas, marchitamiento, pudrición de raíces y lesiones oscuras y blandas en los tallos y tubérculos.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Aplicar fungicida de amplio espectro",
+                  "body": "Cuando el cobre no sea suficiente, use un fungicida sistémico sintético (p. ej., propiconazol, miclobutanil) según las instrucciones del producto. Rocíe hasta que escurra. Siempre alterne los fungicidas para evitar resistencia."
+                },
+                {
+                  "title": "Aplicar fungicida de cobre",
+                  "body": "Rocíe un fungicida a base de cobre (mezcla de Burdeos, sulfato de cobre o hidróxido de cobre) en las hojas, tallos y suelo circundante según las instrucciones del producto. Reaplique cada 7–14 días."
+                }
+              ]
+            }
+          ]
+        },
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Limpiar escombros alrededor de las plantas",
+                  "body": "Retire las hojas caídas, frutas y ramas muertas de debajo de las plantas, especialmente en otoño. Muchos patógenos hibernan en los escombros de las plantas y se reinfectan en primavera."
+                },
+                {
+                  "title": "Esterilizar herramientas de corte",
+                  "body": "Sumerja las podaderas, tijeras u hojas de cuchillo en una solución de blanqueador y agua 1:4 (o alcohol al 70%) antes de cada corte y entre plantas. Seque bien antes de cortar."
+                },
+                {
+                  "title": "Solarizar el suelo",
+                  "body": "Coloque una lámina de plástico transparente sobre el suelo húmedo del jardín durante 4–6 semanas en la época más calurosa del año. El calor se acumula debajo y mata los nematodos, hongos y semillas de maleza."
+                },
+                {
+                  "title": "Descartar la planta gravemente infectada",
+                  "body": "Si más de la mitad de la planta está afectada o la pudrición de raíces es generalizada, desentierre la planta, séllela en una bolsa de basura resistente y deséchela. Esterilice el área antes de replantar."
                 }
               ]
             }

@@ -1,0 +1,19 @@
+{
+  "total_findings": 680,
+  "issue_counts": {
+    "unsupported_level": 394,
+    "non_flower_fragrance_hidden": 209,
+    "level_too_high_for_note": 33,
+    "missing_notes": 40,
+    "level_too_low_for_note": 4
+  },
+  "priority": {
+    "P0_data_or_app_mismatch": 394,
+    "P1_hidden_non_flower_scent": 209,
+    "P1_missing_notes": 40,
+    "P2_level_note_mismatch": 37
+  },
+  "files": {
+    "findings_csv": "yardmate-content/fragrance_audit_findings.csv"
+  }
+}

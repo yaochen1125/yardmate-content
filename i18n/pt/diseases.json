@@ -3,7 +3,7 @@
   "locale": "pt",
   "source": {
     "resource": "diseases.json",
-    "sha256": "0bf8cfb6cc131c3183efeb4bbf453b9dd9eae1be645e2e69dc47234445a2d0b8"
+    "sha256": "d26b8cb95d85389f21f20f8f47e0aaf07a384e1fd40fc8b81ccaef4f32047c21"
   },
   "fields": {
     "categories": {
@@ -3891,6 +3891,108 @@
                 },
                 {
                   "title": "Observe a formação de cancro em áreas danificadas — veja [ST05](cankers.md)"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "L25": {
+        "name": "Estresse hídrico",
+        "shortDescription": "Folhas murcham, enroscam e caem; crescimento atrofiado por falta de água.",
+        "symptomAnalysis": "Os sintomas visíveis incluem folhas murchas, queda de folhas e crescimento atrofiado, à medida que a planta luta para conservar água e responder ao estresse.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Regue na base, nunca por cima",
+                  "body": "Direcione a água diretamente para o solo perto do caule, em vez de borrifar as folhas. Use um regador de bico longo, mangueira porosa ou linha de gotejamento. Folhas molhadas favorecem a propagação de fungos e bactérias."
+                },
+                {
+                  "title": "Regue profundamente, mas com menos frequência",
+                  "body": "Regue lenta e completamente até o solo ficar úmido por inteiro, depois deixe secar parcialmente antes da próxima rega. Estimula raízes mais profundas e plantas mais fortes."
+                },
+                {
+                  "title": "Replante para um vaso maior",
+                  "body": "Passe uma planta com raízes apertadas para um vaso 1 a 2 tamanhos maior. Solte as raízes enroladas antes de acomodar a planta em substrato fresco. Regue profundamente uma vez."
+                },
+                {
+                  "title": "Replante com substrato fresco e drenagem",
+                  "body": "Passe a planta para um vaso limpo com furos de drenagem, usando substrato estéril fresco. Enterre as raízes na mesma profundidade de antes. Regue levemente para assentar o substrato."
+                }
+              ]
+            }
+          ]
+        },
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Adicione uma luz de cultivo",
+                  "body": "Pendure ou posicione uma luz de cultivo LED de espectro completo de 30 a 60 cm acima da planta, com um temporizador de 12 a 14 horas. Especialmente útil no inverno ou em ambientes com pouca luz."
+                },
+                {
+                  "title": "Regue na base, nunca por cima",
+                  "body": "Direcione a água diretamente para o solo perto do caule, em vez de borrifar as folhas. Use um regador de bico longo, mangueira porosa ou linha de gotejamento. Folhas molhadas favorecem a propagação de fungos e bactérias."
+                },
+                {
+                  "title": "Regue profundamente, mas com menos frequência",
+                  "body": "Regue lenta e completamente até o solo ficar úmido por inteiro, depois deixe secar parcialmente antes da próxima rega. Estimula raízes mais profundas e plantas mais fortes."
+                },
+                {
+                  "title": "Aplique cobertura orgânica ao redor da base",
+                  "body": "Espalhe uma camada de 5 a 8 cm de casca, palha ou cobertura de folhas ao redor da planta, mantendo um pequeno anel livre em volta do caule. A cobertura evita respingos de patógenos do solo e estabiliza a umidade."
+                },
+                {
+                  "title": "Solarize o solo",
+                  "body": "Coloque uma lâmina de plástico transparente sobre o solo úmido do jardim por 4 a 6 semanas durante a época mais quente do ano. O calor se acumula por baixo e mata nematoides, fungos e sementes de ervas daninhas."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "R08": {
+        "name": "Podridão-aquosa",
+        "shortDescription": "Raízes, caules e tubérculos apodrecem; a planta murcha e colapsa.",
+        "symptomAnalysis": "Os sintomas incluem amarelecimento das folhas, murcha, podridão radicular e lesões escuras e moles em caules e tubérculos.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Aplicar Fungicida de Amplo Espectro",
+                  "body": "Quando o cobre não é suficiente, use um fungicida sistêmico sintético (por exemplo, propiconazole, myclobutanil) conforme o rótulo do produto. Pulverize até o escorrimento. Sempre alterne os fungicidas para evitar resistência."
+                },
+                {
+                  "title": "Aplicar Fungicida de Cobre",
+                  "body": "Pulverize um fungicida à base de cobre (calda bordalesa, sulfato de cobre ou hidróxido de cobre comercial) em folhas, caules e solo circundante conforme o rótulo do produto. Reaplique a cada 7–14 dias."
+                }
+              ]
+            }
+          ]
+        },
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Limpar Detritos ao Redor das Plantas",
+                  "body": "Retire as folhas caídas, frutos e galhos mortos de baixo das plantas — especialmente no outono. Muitos patógenos hibernam em detritos de plantas e reinfectam na primavera."
+                },
+                {
+                  "title": "Esterilizar Ferramentas de Corte",
+                  "body": "Mergulhe podadores, tesouras ou lâminas de faca em uma solução 1:4 de água sanitária para água (ou álcool isopropílico 70%) antes de cada corte e entre cada planta. Enxugue bem antes de cortar."
+                },
+                {
+                  "title": "Solarizar o Solo",
+                  "body": "Coloque uma folha de plástico transparente sobre o solo úmido do jardim por 4–6 semanas durante a época mais quente do ano. O calor se acumula por baixo e mata nematoides, fungos e sementes de ervas daninhas."
+                },
+                {
+                  "title": "Descartar a Planta Gravemente Infectada",
+                  "body": "Quando mais da metade da planta é afetada ou a podridão radicular é generalizada, retire a planta, coloque-a em um saco de lixo pesado e descarte. Esterilize a área antes de replantar."
                 }
               ]
             }
