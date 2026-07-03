@@ -27,6 +27,7 @@ FILES=(
   plants_detail.json
   plants_index.json
   plants_names_i18n.json
+  plant_image_revs.json
   explore_themes.json
   stories.json
   diseases.json
