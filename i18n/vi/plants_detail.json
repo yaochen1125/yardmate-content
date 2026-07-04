@@ -3,8 +3,8 @@
   "locale": "vi",
   "source": {
     "resource": "plants_detail.json",
-    "sha256": "c95f7e86780bcfc1e7d4154a004a9e33c71c4975f2cf903de569d7fe63fe67dc",
-    "record_count": 1526
+    "sha256": "56e6c15ae0ec041e08c3bca492041edae336f68a06023eed16ac7a1e6081bb96",
+    "record_count": 1529
   },
   "records": {
     "AAA0001": {
@@ -93312,6 +93312,171 @@
         ],
         "toxicity": {
           "headline": "Không có độc tính được báo cáo",
+          "active_compound_display": "Không có báo cáo",
+          "notes_en": "Không được báo cáo là độc hại.",
+          "human": {
+            "exposure": "Không có đường tiếp xúc nào được báo cáo.",
+            "effect": "Không có tác dụng độc hại nào được báo cáo.",
+            "note": "Không có độc tính nào được báo cáo cho người trong danh mục này; điều này không phải là bằng chứng cho thấy cây có thể ăn được hoặc vô hại."
+          },
+          "dog": {
+            "exposure": "Không có đường tiếp xúc nào được báo cáo.",
+            "effect": "Không có tác dụng độc hại nào được báo cáo.",
+            "note": "Không có độc tính nào được báo cáo cho chó trong danh mục này; điều này không phải là bằng chứng cho thấy cây có thể ăn được hoặc vô hại."
+          },
+          "cat": {
+            "exposure": "Không có đường tiếp xúc nào được báo cáo.",
+            "effect": "Không có tác dụng độc hại nào được báo cáo.",
+            "note": "Không có độc tính nào được báo cáo cho mèo trong danh mục này; điều này không phải là bằng chứng cho thấy cây có thể ăn được hoặc vô hại."
+          }
+        }
+      }
+    },
+    "AAA1527": {
+      "source_hash": "450115aa6763325ed39b9ae20258993d50712d4bab1d7c26506581c7731130ae",
+      "fields": {
+        "common_name": "Mộc qua",
+        "bloom_tip": "Hoa của cây này thường nở vào mùa xuân, thu hút nhiều côn trùng thụ phấn.",
+        "fruit_tip": "Quả sơn trà chín vào mùa thu, có hương vị độc đáo, thích hợp để làm mứt và món tráng miệng.",
+        "description": "Cydonia oblonga, cây Mộc qua, là một trong những cây ăn quả được trồng lâu đời nhất, có nguồn gốc từ vùng Caucasus và Trung Đông. Vào mùa xuân, những bông hoa lớn màu trắng đến hồng nhạt xuất hiện trước khi lá mọc, biến những cành trơ trụi thành những đám mây màu sắc tinh tế. Đến mùa thu, cây cho quả hình quả lê màu vàng óng với hương thơm say đắm. Quá chát để ăn sống, mộc qua khi nấu chín sẽ biến thành những loại mứt, thạch, mứt đặc (membrillo) và đồ bảo quản thơm ngon tuyệt vời. Vẻ đẹp, hương thơm và sự phong phú trong ẩm thực đã khiến nó trở thành báu vật trong vườn suốt hàng thiên niên kỷ.",
+        "history_text_short": "Một trong những loại quả đầu tiên được người cổ đại trồng trọt, mộc qua linh thiêng đối với Aphrodite, xuất hiện trong thần thoại Hy Lạp, và được các cô dâu La Mã mang theo—một biểu tượng vàng của tình yêu và khả năng sinh sản trên khắp thế giới Địa Trung Hải trong hơn ba nghìn năm.",
+        "history_text_long": "Cydonia oblonga lấy tên chi từ thành phố cổ Cydonia (nay là Chania) trên đảo Crete, nơi loại quả này được trồng trọt dồi dào và được người Hy Lạp cổ đại trân quý. Được nhiều học giả tin là 'quả táo vàng' trong phán xét của Paris, mộc qua được coi là linh thiêng đối với Aphrodite và nữ thần La Mã tương ứng Venus. Các cô dâu Hy Lạp nhấm nháp mộc qua trước khi vào phòng tân hôn—một phong tục mà người La Mã đã tiếp nhận và lan truyền khắp đế chế của họ.\n\nLà một trong những cây ăn quả được thuần hóa lâu đời nhất trong lịch sử loài người, mộc qua đã được trồng ở khắp Lưỡng Hà, Ba Tư và Levant hàng nghìn năm trước Công nguyên. Đến thế kỷ thứ nhất sau Công nguyên, nhà văn La Mã Pliny the Elder đã ghi chép nhiều giống có tên, và loại quả này là một phần không thể thiếu của cả vườn bếp và vườn cảnh.\n\nTrong suốt thời Trung cổ, mộc qua vẫn giữ vai trò quan trọng trong truyền thống ẩm thực và y học châu Âu và Hồi giáo. Các thầy thuốc Ả Rập kê đơn nó cho các bệnh tiêu hóa; các đầu bếp châu Âu dùng nó để làm ra những loại mứt cam đầu tiên—từ tiếng Bồ Đào Nha 'marmelada' bắt nguồn trực tiếp từ 'marmelo', tên gọi của mộc qua trong tiếng Bồ Đào Nha.\n\nĐến thế kỷ 17 và 18, mộc qua dần bị thay thế trong các căn bếp phương Tây bởi các giống táo và lê ngọt có thể ăn tươi. Ngày nay, nó đang trải qua một sự hồi sinh trong giới đam mê ẩm thực và những người trồng vườn di sản, những người trân trọng hương thơm không gì sánh bằng và chiều sâu mà nó mang lại cho các loại mứt, bánh ngọt và các món mặn nấu chậm.",
+        "name_origin": "Tên chi Cydonia bắt nguồn từ thành phố cổ Cydonia (nay là Chania, Crete), nổi tiếng thời cổ đại về việc trồng mộc qua chất lượng cao. Tên loài oblonga là tiếng Latin có nghĩa là 'thuôn dài', mô tả hình dạng kéo dài điển hình của quả.",
+        "symbolism_story": "Rất lâu trước khi táo giành được danh hiệu, chính mộc qua—vàng óng, thơm nức và đẹp đẽ—mới được gọi là trái cây của các vị thần. Người Hy Lạp cổ đại dâng mộc qua tại các đền thờ Aphrodite; các cô dâu La Mã nhấm nháp một lát trước đêm tân hôn. Ở Tây Ban Nha thời Moor, các nhà thơ so sánh tính chất chát ngọt của mộc qua với bản chất của dục vọng. Trồng một cây mộc qua là chăm sóc một thứ đòi hỏi sự kiên nhẫn: những món quà của nó không bao giờ được trao tặng khi còn sống, mà chỉ hé lộ, một cách rực rỡ, qua sự biến đổi kỳ diệu của nhiệt và thời gian.",
+        "flower_meaning": "tình yêu",
+        "fragrance": {
+          "notes": "Hoa tỏa hương thơm ngọt ngào nhẹ nhàng vào mùa xuân; quả chín tràn ngập khu vườn với hương thơm mật ong đậm đà suốt mùa thu."
+        },
+        "uses_list": [
+          {
+            "text": "Quả chín được ưa chuộng để làm mứt, thạch, mứt mộc qua (membrillo), mứt cam, và các loại sốt nấu chậm kết hợp tuyệt vời với thịt và phô mai"
+          },
+          {
+            "text": "Hoa mùa xuân rực rỡ và quả mùa thu vàng óng làm cho mộc qua trở thành cây cảnh đẹp cho vườn nhà tranh và vườn di sản"
+          },
+          {
+            "text": "Quả chín tỏa ra một trong những hương thơm ngọt ngào, mật ong đậm đà nhất trong số các loại quả ôn đới—một mùi hương đặc trưng của khu vườn mùa thu"
+          },
+          {
+            "text": "Hoa lớn mùa xuân thu hút ong và côn trùng có ích vào đầu mùa, trước khi hầu hết các cây ăn quả khác nở hoa"
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "tình yêu",
+            "description": "Linh thiêng đối với Aphrodite và được tặng làm quà cưới ở Hy Lạp và La Mã cổ đại, mộc qua đã tượng trưng cho tình yêu, khả năng sinh sản và hôn nhân trong hơn ba nghìn năm"
+          },
+          {
+            "keyword": "sự biến đổi",
+            "description": "Chát và không hấp dẫn khi ăn sống, mộc qua trở nên thơm và ngọt ngào khi nấu chín—biểu tượng của sự kiên nhẫn hé lộ vẻ đẹp tiềm ẩn"
+          }
+        ],
+        "toxicity": {
+          "headline": "Không có độc tính được báo cáo",
+          "active_compound_display": "Không có báo cáo",
+          "notes_en": "Không được báo cáo là độc.",
+          "human": {
+            "exposure": "Không có đường tiếp xúc nào được báo cáo.",
+            "effect": "Không có tác dụng độc hại nào được báo cáo.",
+            "note": "Không có độc tính nào được báo cáo đối với người trong danh mục này; điều này không chứng minh rằng cây có thể ăn được hoặc vô hại."
+          },
+          "dog": {
+            "exposure": "Không có đường tiếp xúc nào được báo cáo.",
+            "effect": "Không có tác dụng độc hại nào được báo cáo.",
+            "note": "Không có độc tính nào được báo cáo đối với chó trong danh mục này; điều này không chứng minh rằng cây có thể ăn được hoặc vô hại."
+          },
+          "cat": {
+            "exposure": "Không có đường tiếp xúc nào được báo cáo.",
+            "effect": "Không có tác dụng độc hại nào được báo cáo.",
+            "note": "Không có độc tính nào được báo cáo đối với mèo trong danh mục này; điều này không chứng minh rằng cây có thể ăn được hoặc vô hại."
+          }
+        }
+      }
+    },
+    "AAA1528": {
+      "source_hash": "b3ab91ecaf3a07c47eee7621d25acc9805ac8fc30e3243f76adb50f46ad96c43",
+      "fields": {
+        "common_name": "Lưu ly vườn",
+        "bloom_tip": "Loài cây này nở hoa từ mùa xuân đến mùa hè, với những bông hoa xinh đẹp.",
+        "description": "Myosotis arvensis, hay Lưu ly đồng, là một loài hoa dại mảnh mai sống hàng năm hoặc hai năm, có nguồn gốc từ các đồng cỏ và hàng rào khắp châu Âu và châu Á. Những bông hoa nhỏ màu xanh trời với tâm vàng tươi tắn tụ tập trên thân cây mảnh từ mùa xuân đến mùa hè, tạo thành những đám xanh bồng bềnh tự nhiên hóa dễ dàng trong các khu vườn cottage, đường viền và ven rừng. Tự gieo hạt rộng rãi, nó trở lại năm này qua năm khác mà không cần nỗ lực. Màu sắc tươi sáng và dáng vẻ khiêm tốn khiến nó trở thành một trong những người bạn đồng hành quyến rũ nhất cho các loại củ mùa xuân và cây lâu năm sớm.",
+        "history_text_short": "Được dệt vào văn hóa dân gian châu Âu và truyền thống lãng mạn trong nhiều thế kỷ, hoa lưu ly có tên từ một truyền thuyết thời trung cổ về tình yêu chung thủy—một ý nghĩa mà bông hoa xanh nhỏ bé vẫn mang trong bó hoa cưới và khu vườn tưởng niệm ngày nay.",
+        "history_text_long": "Myosotis arvensis đã được dệt vào văn hóa dân gian châu Âu và truyền thống lãng mạn trong nhiều thế kỷ, tên thông thường của nó xuất hiện trong văn học Đức, Pháp và Anh như một biểu tượng của sự tưởng nhớ và tình yêu chung thủy. Tên chi Myosotis bắt nguồn từ tiếng Hy Lạp có nghĩa là 'tai chuột', ám chỉ kết cấu mềm mại, có lông tơ của những chiếc lá nhỏ của cây.\n\nMột truyền thuyết thời trung cổ nổi tiếng của Đức kể về một hiệp sĩ hái những bông hoa xanh này cho người yêu dọc theo bờ sông chảy xiết khi anh ta mất chân và bị cuốn vào dòng nước. Khi chìm dưới nước, anh ta đã kêu lên 'Vergiss mein nicht!'—Đừng quên tôi!—và những lời đó đã đặt tên cho loài hoa này tồn tại lâu dài trong các ngôn ngữ châu Âu.\n\nĐến thế kỷ 19, hoa lưu ly đã trở thành một trong những loài hoa có sức lan tỏa văn hóa nhất ở thế giới phương Tây. Nó xuất hiện trong thơ của Coleridge, Keats và Longfellow, và trở thành biểu tượng được yêu thích của thời kỳ Lãng mạn. Hoa lưu ly xanh đặc biệt thịnh hành trong đồ trang sức tang lễ thời Victoria, được ép vào mề đay và thêu trên khăn tay như vật kỷ niệm của những người thân yêu vắng mặt. Những người Đức di cư mang theo hạt giống như một biểu tượng của ký ức quê hương.\n\nMyosotis arvensis, loài đồng ruộng, mọc hoang trên các cánh đồng canh tác, ven đường và hàng rào khắp châu Âu và Tây Á. Mặc dù là loài tự gieo hạt mạnh mẽ đôi khi bị coi là cỏ dại trong các khu vườn trang trọng, nó được những người làm vườn cottage yêu thích vì những thảm xanh rực rỡ mà nó tạo ra mỗi mùa xuân. Ngày nay, hoa lưu ly là biểu tượng thực vật của chiến dịch nâng cao nhận thức về bệnh Alzheimer, tiếp tục vai trò cổ xưa của nó như một biểu tượng của ký ức và tầm quan trọng của việc không bị lãng quên.",
+        "name_origin": "Tên chi Myosotis bắt nguồn từ tiếng Hy Lạp myos (chuột) và ous (tai), mô tả những chiếc lá nhỏ, mềm, tròn giống tai chuột. Tên loài arvensis là tiếng Latin có nghĩa là 'của đồng ruộng', phản ánh môi trường sống tự nhiên của cây trên đồng cỏ, bờ ruộng và đất bị xáo trộn.",
+        "symbolism_story": "Một truyền thuyết thời trung cổ kể về một hiệp sĩ hái những bông hoa xanh từ bờ sông chảy xiết cho người yêu khi anh ta mất chân và bị cuốn vào dòng nước. Khi chìm, anh ta kêu lên: 'Đừng quên tôi!' Những lời đó đã đặt tên cho một loài hoa—và cho một cảm xúc—tồn tại qua nhiều thế kỷ. Trên khắp châu Âu, hoa lưu ly trở thành biểu tượng của tình yêu chung thủy và sự tưởng nhớ dịu dàng, được đeo trong mề đay, ép vào thư và trồng trên mộ. Ngày nay nó vẫn là biểu tượng thầm lặng cho tất cả những ai muốn được những người họ yêu thương nhớ đến.",
+        "flower_meaning": "sự tưởng nhớ",
+        "uses_list": [
+          {
+            "text": "Hoàn hảo để tự nhiên hóa trong các khu vườn cottage, đường viền mùa xuân và ven rừng, tạo ra những thảm xanh rực rỡ giữa hoa tulip, thủy tiên và cây lâu năm sớm"
+          },
+          {
+            "text": "Những bông hoa nhỏ cung cấp nguồn mật hoa sớm cho ong và bướm nhỏ trong suốt mùa xuân và đầu mùa hè"
+          },
+          {
+            "text": "Thân cây mảnh mai tạo nên những bổ sung quyến rũ cho bó hoa nhỏ và cắm hoa mùa xuân kiểu cottage"
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "sự tưởng nhớ",
+            "description": "Chính cái tên của hoa lưu ly là một lời cầu xin được nhớ đến—một ý nghĩa mà nó đã mang qua nhiều thế kỷ trong các nền văn hóa châu Âu, từ truyền thuyết thời trung cổ đến phong tục tang lễ thời Victoria và các chiến dịch nâng cao nhận thức về mất trí nhớ hiện đại"
+          },
+          {
+            "keyword": "tình yêu chung thủy",
+            "description": "Được trao giữa những người yêu nhau và đeo như một lời cam kết tận tụy, bông hoa xanh nhỏ bé tượng trưng cho sự kiên định và chân thành của tình cảm yêu thương vượt qua khoảng cách và thời gian"
+          }
+        ],
+        "toxicity": {
+          "headline": "Không có độc tính nào được báo cáo",
+          "active_compound_display": "Không có báo cáo",
+          "notes_en": "Không được báo cáo là độc hại.",
+          "human": {
+            "exposure": "Không có đường tiếp xúc nào được báo cáo.",
+            "effect": "Không có tác dụng độc hại nào được báo cáo.",
+            "note": "Không có độc tính nào được báo cáo cho người trong danh mục này; điều này không phải là bằng chứng cho thấy cây có thể ăn được hoặc vô hại."
+          },
+          "dog": {
+            "exposure": "Không có đường tiếp xúc nào được báo cáo.",
+            "effect": "Không có tác dụng độc hại nào được báo cáo.",
+            "note": "Không có độc tính nào được báo cáo cho chó trong danh mục này; điều này không phải là bằng chứng cho thấy cây có thể ăn được hoặc vô hại."
+          },
+          "cat": {
+            "exposure": "Không có đường tiếp xúc nào được báo cáo.",
+            "effect": "Không có tác dụng độc hại nào được báo cáo.",
+            "note": "Không có độc tính nào được báo cáo cho mèo trong danh mục này; điều này không phải là bằng chứng cho thấy cây có thể ăn được hoặc vô hại."
+          }
+        }
+      }
+    },
+    "AAA1529": {
+      "source_hash": "7c40860fefabe68e66196fa722282c7aeca190e00f7623e4978d76d83420463e",
+      "fields": {
+        "common_name": "Dương xỉ vàng",
+        "description": "Phlebodium aureum, thường gọi là Dương xỉ vàng, là một loài dương xỉ nhiệt đới có nguồn gốc từ Trung và Nam Mỹ và vùng Caribe. Những tán lá xanh lam xếp tầng, uốn cong với mép lá xẻ thùy sâu và lượn sóng mọc ra từ thân rễ vàng óng như len, bò trên đất hoặc mép chậu như những ngón tay tò mò. Phát triển tốt trong ánh sáng gián tiếp và độ ẩm vừa phải, nó thích nghi dễ dàng với môi trường trong nhà và hiên râm mát. Không độc hại cho thú cưng và con người, dễ chăm sóc và nổi bật về mặt thị giác quanh năm, nó là một trong những loài dương xỉ trồng trong nhà phổ biến nhất trên thế giới.",
+        "history_text_short": "Được trồng lâu đời trong các vườn thực vật châu Âu từ thế kỷ 17, loài dương xỉ thân rễ vàng từ vùng nhiệt đới châu Mỹ này đã mê hoặc những người yêu thích thời Victoria và vẫn tồn tại cho đến ngày nay như một cây trồng trong nhà được yêu thích trên toàn thế giới.",
+        "history_text_long": "Các dân tộc bản địa Trung và Nam Mỹ đã biết đến Phlebodium aureum từ lâu trước khi các nhà thực vật học châu Âu chính thức phân loại nó. Mọc biểu sinh trên thân cây và mỏm đá từ Mexico đến Bolivia và khắp vùng Caribe, loài dương xỉ này có vị trí trong y học dân gian truyền thống, với các chế phẩm dùng để điều trị các bệnh về da và hô hấp.\n\nCác nhà thám hiểm châu Âu đã gặp loài này trong Thời đại Khám phá và mang các mẫu vật về các vườn thực vật vào thế kỷ 17 và 18. Cây nhanh chóng thu hút sự ngưỡng mộ nhờ thân rễ màu vàng phủ lông đặc biệt—bò mạnh mẽ trên đất và vỏ cây—mang lại những cái tên gợi hình như Dương xỉ vàng, Dương xỉ chân thỏ và Dương xỉ chân thỏ rừng.\n\nTrong cơn sốt dương xỉ thời Victoria vào thế kỷ 19, được gọi là 'Pteridomania', Phlebodium aureum đã tìm đường vào các phòng khách thời trang, nhà kính và tủ Wardian khắp nước Anh và châu Âu. Các nhà nhân giống đã chọn lọc về hình dạng và màu sắc, tạo ra các giống cây trồng như 'Mandaianum' với tán lá có mào xù, và sau đó là giống 'Blue Star Fern' cực kỳ phổ biến với màu xanh lam thép.\n\nNgày nay, Phlebodium aureum vẫn là một cây trồng trong nhà chủ lực, được ca ngợi vì danh tiếng thanh lọc không khí, khả năng chịu điều kiện ánh sáng yếu và vẻ đẹp kiến trúc nổi bật.",
+        "name_origin": "Tên chi Phlebodium bắt nguồn từ tiếng Hy Lạp phlébion, nghĩa là 'gân nhỏ', ám chỉ các đường gân phức tạp trên tán lá. Tính từ chỉ loài aureum là tiếng Latinh có nghĩa là 'vàng', tôn vinh đặc điểm nổi bật nhất của cây: thân rễ phủ lông vàng bò trên đất và vỏ cây.",
+        "symbolism_story": "Trong những khu rừng mù sương ở Trung Mỹ, Phlebodium aureum bám vào những cây cổ thụ, thân rễ vàng của nó lan dần trên vỏ cây và đá. Các nền văn hóa bản địa nhìn thấy trong những tán lá xòe ra của nó một biểu tượng của sự kiên cường—một loài cây không chỉ sống sót trong bóng râm mà còn biến đổi nó. Sự bò chậm rãi, kiên nhẫn của thân rễ trở thành một biểu tượng thầm lặng của những khởi đầu mới, nhắc nhở những ai chăm sóc nó rằng sự phát triển thường đến từ những nơi bị bỏ quên.",
+        "flower_meaning": "khả năng phục hồi",
+        "uses_list": [
+          {
+            "text": "Được trồng làm cây cảnh ấn tượng cho phòng khách, văn phòng và hiên râm, được ưa chuộng nhờ tán lá xanh lam xếp tầng và hình dáng kiến trúc"
+          },
+          {
+            "text": "Y học dân gian truyền thống ở Trung Mỹ sử dụng các chế phẩm từ thân rễ cho các bệnh về da và hô hấp"
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "khả năng phục hồi",
+            "description": "Phát triển mạnh trên tán cây và mỏm đá nơi ít cây sống sót, Phlebodium aureum thể hiện sự kiên trì thầm lặng và vẻ đẹp của việc phát triển trong bóng râm"
+          },
+          {
+            "keyword": "khởi đầu mới",
+            "description": "Mỗi chiếc lá cuộn tròn đã từ lâu tượng trưng cho sự khởi đầu mới và sự tái sinh không ngừng của sự sống sau bóng tối"
+          }
+        ],
+        "toxicity": {
+          "headline": "Không có độc tính nào được báo cáo",
           "active_compound_display": "Không có báo cáo",
           "notes_en": "Không được báo cáo là độc hại.",
           "human": {

@@ -3,8 +3,8 @@
   "locale": "pt",
   "source": {
     "resource": "plants_detail.json",
-    "sha256": "c95f7e86780bcfc1e7d4154a004a9e33c71c4975f2cf903de569d7fe63fe67dc",
-    "record_count": 1526
+    "sha256": "56e6c15ae0ec041e08c3bca492041edae336f68a06023eed16ac7a1e6081bb96",
+    "record_count": 1529
   },
   "records": {
     "AAA0001": {
@@ -93655,6 +93655,171 @@
             "exposure": "Nenhuma via de exposição relatada.",
             "effect": "Nenhum efeito tóxico relatado.",
             "note": "Nenhuma toxicidade relatada para gatos neste catálogo; isso não é evidência de que a planta seja comestível ou inofensiva."
+          }
+        }
+      }
+    },
+    "AAA1527": {
+      "source_hash": "450115aa6763325ed39b9ae20258993d50712d4bab1d7c26506581c7731130ae",
+      "fields": {
+        "common_name": "Marmeleiro",
+        "bloom_tip": "As flores desta planta geralmente desabrocham na primavera, atraindo muitos insetos polinizadores.",
+        "fruit_tip": "Os frutos da nêspera amadurecem no outono, com sabor único, adequados para fazer geleias e sobremesas.",
+        "description": "Cydonia oblonga, o marmeleiro, é uma das árvores frutíferas cultivadas mais antigas, nativa do Cáucaso e do Oriente Médio. Na primavera, suas grandes flores brancas a rosa-claro aparecem antes das folhas, transformando galhos nus em nuvens de cor delicada. No outono, a árvore produz frutos dourados em forma de pera com um perfume inebriante. Muito adstringente para ser consumido cru, o marmelo transforma-se com o cozimento em geleias, compotas, pasta (marmelada) e conservas gloriosamente aromáticas. Sua beleza, fragrância e riqueza culinária fazem dele um tesouro de jardim há milênios.",
+        "history_text_short": "Um dos primeiros frutos cultivados por povos antigos, o marmelo era sagrado para Afrodite, figurava na mitologia grega e era carregado por noivas romanas — um símbolo dourado de amor e fertilidade em todo o mundo mediterrâneo por mais de três mil anos.",
+        "history_text_long": "Cydonia oblonga recebe seu nome genérico da antiga cidade de Cydonia (atual Chania) na ilha de Creta, onde o fruto era abundantemente cultivado e apreciado pelos antigos gregos. Acreditado por muitos estudiosos como a 'maçã dourada' no centro do julgamento de Páris, o marmelo era considerado sagrado para Afrodite e sua contraparte romana Vênus. As noivas gregas mordiscavam marmelo antes de entrar na câmara nupcial — costume que os romanos adotaram e espalharam por todo o seu império.\n\nEntre as árvores frutíferas domesticadas mais antigas da história humana, o marmelo era cultivado na Mesopotâmia, Pérsia e Levante milhares de anos antes da Era Comum. No primeiro século d.C., o escritor romano Plínio, o Velho, documentou múltiplas variedades nomeadas, e o fruto era um elemento fixo tanto em hortas quanto em jardins de lazer.\n\nDurante a Idade Média, o marmelo permaneceu vital para as tradições culinárias e medicinais europeias e islâmicas. Médicos árabes o prescreviam para problemas digestivos; cozinheiros europeus o usavam para produzir as primeiras marmeladas — a palavra portuguesa 'marmelada' deriva diretamente de 'marmelo', o nome português para o marmelo.\n\nNos séculos XVII e XVIII, o marmelo foi gradualmente substituído nas cozinhas ocidentais por variedades doces de maçã e pera que podiam ser consumidas frescas. Hoje, está experimentando um renascimento entre entusiastas da gastronomia e produtores de pomares tradicionais que prezam sua fragrância incomparável e a profundidade que confere a conservas, doces e pratos salgados cozidos lentamente.",
+        "name_origin": "O nome genérico Cydonia deriva da antiga cidade de Cydonia (atual Chania, Creta), famosa na antiguidade por seu cultivo de marmelos finos. O epíteto específico oblonga é latim para 'oblongo', descrevendo a forma alongada típica do fruto.",
+        "symbolism_story": "Muito antes de a maçã reivindicar o título, era o marmelo — dourado, perfumado e belo — que era chamado de fruto dos deuses. Os antigos gregos deixavam oferendas de marmelo nos santuários de Afrodite; noivas romanas mordiscavam uma fatia antes da noite de núpcias. Na Espanha mourisca, poetas comparavam o caráter agridoce do marmelo à própria natureza do desejo. Cultivar um marmeleiro é cuidar de algo que pede paciência: seus dons nunca são dados crus, mas se revelam, gloriosamente, apenas através da alquimia do calor e do tempo.",
+        "flower_meaning": "amor",
+        "fragrance": {
+          "notes": "As flores exalam um perfume suave e adocicado na primavera; os frutos maduros enchem o jardim com um aroma intensamente melado durante o outono."
+        },
+        "uses_list": [
+          {
+            "text": "Os frutos maduros são apreciados para geleias, compotas, pasta de marmelo (marmelada), marmelada e molhos cozidos lentamente que combinam perfeitamente com carnes e queijos"
+          },
+          {
+            "text": "Flores vistosas na primavera e frutos dourados no outono fazem do marmeleiro uma árvore ornamental atraente para jardins campestres e pomares tradicionais"
+          },
+          {
+            "text": "Os frutos maduros exalam um dos perfumes mais intensamente doces e melados de qualquer fruta temperada — uma fragrância característica do jardim de outono"
+          },
+          {
+            "text": "As grandes flores da primavera atraem abelhas e insetos benéficos no início da estação, antes da maioria das outras árvores frutíferas florescerem"
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "amor",
+            "description": "Sagrado para Afrodite e dado como presente de casamento na Grécia e Roma antigas, o marmelo simboliza amor, fertilidade e casamento há mais de três mil anos"
+          },
+          {
+            "keyword": "transformação",
+            "description": "Adstringente e desagradável quando cru, o marmelo torna-se requintadamente perfumado e doce com o calor — um símbolo de paciência revelando beleza oculta"
+          }
+        ],
+        "toxicity": {
+          "headline": "Nenhuma toxicidade relatada",
+          "active_compound_display": "Nenhum relatado",
+          "notes_en": "Não relatado como tóxico.",
+          "human": {
+            "exposure": "Nenhuma via de exposição é relatada.",
+            "effect": "Nenhum efeito tóxico é relatado.",
+            "note": "Nenhuma toxicidade é relatada para humanos neste catálogo; isso não é evidência de que a planta seja comestível ou inofensiva."
+          },
+          "dog": {
+            "exposure": "Nenhuma via de exposição é relatada.",
+            "effect": "Nenhum efeito tóxico é relatado.",
+            "note": "Nenhuma toxicidade é relatada para cães neste catálogo; isso não é evidência de que a planta seja comestível ou inofensiva."
+          },
+          "cat": {
+            "exposure": "Nenhuma via de exposição é relatada.",
+            "effect": "Nenhum efeito tóxico é relatado.",
+            "note": "Nenhuma toxicidade é relatada para gatos neste catálogo; isso não é evidência de que a planta seja comestível ou inofensiva."
+          }
+        }
+      }
+    },
+    "AAA1528": {
+      "source_hash": "b3ab91ecaf3a07c47eee7621d25acc9805ac8fc30e3243f76adb50f46ad96c43",
+      "fields": {
+        "common_name": "Miosótis-dos-campos",
+        "bloom_tip": "Esta planta floresce da primavera ao verão, com belas flores.",
+        "description": "Myosotis arvensis, o miosótis-dos-campos, é uma delicada flor silvestre anual ou bienal nativa de prados e sebes em toda a Europa e Ásia. Minúsculas flores azul-celeste com um alegre olho amarelo aglomeram-se em seus caules esbeltos da primavera ao verão, criando manchas azuis espumosas que se naturalizam sem esforço em jardins campestres, bordaduras e bordas de bosques. Auto-semeando-se livremente, volta ano após ano sem esforço. Sua cor vívida e estatura modesta fazem dela uma das companheiras mais encantadoras para bulbos de primavera e perenes precoces.",
+        "history_text_short": "Entrelaçados no folclore europeu e na tradição romântica há séculos, os miosótis ganharam seu nome de uma lenda medieval de amor fiel—um significado que a pequena flor azul ainda carrega em buquês de casamento e jardins memoriais hoje.",
+        "history_text_long": "Myosotis arvensis está entrelaçado no folclore europeu e na tradição romântica há séculos, seu nome comum aparecendo na literatura alemã, francesa e inglesa como um símbolo de lembrança e amor fiel. O nome do gênero Myosotis vem do grego para 'orelha de rato', uma referência à textura macia e felpuda das pequenas folhas da planta.\n\nUma célebre lenda medieval alemã conta de um cavaleiro colhendo estas flores azuis para sua amada ao longo de uma margem de rio caudalosa quando perdeu o equilíbrio e foi arrastado pela corrente. Enquanto afundava sob a água, ele gritou 'Vergiss mein nicht!'—Não me esqueça!—e as palavras deram à flor um nome duradouro em todas as línguas europeias.\n\nNo século XIX, o miosótis tornou-se uma das flores culturalmente mais ressonantes do mundo ocidental. Apareceu nos versos de Coleridge, Keats e Longfellow, e tornou-se um emblema amado da era romântica. Miosótis azuis eram particularmente elegantes em joias de luto vitorianas, prensados em medalhões e bordados em lenços como lembranças de entes queridos ausentes. Emigrantes alemães carregavam as sementes como um símbolo de memória da pátria.\n\nMyosotis arvensis, a espécie dos campos, cresce selvagem em campos cultivados, beiras de estradas e sebes em toda a Europa e Ásia ocidental. Embora seja uma prolífica auto-semeadora, às vezes considerada erva daninha em jardins formais, é adorada por jardineiros campestres pelos tapetes azuis luminosos que cria a cada primavera. Hoje, o miosótis serve como emblema floral da conscientização sobre a doença de Alzheimer, continuando seu antigo papel como símbolo de memória e da importância de não ser esquecido.",
+        "name_origin": "O nome do gênero Myosotis deriva do grego myos (rato) e ous (orelha), descrevendo as folhas pequenas, macias e arredondadas que lembram uma orelha de rato. O epíteto específico arvensis é latim para 'dos campos', refletindo o habitat natural da planta em prados, margens de terras agrícolas e solo perturbado.",
+        "symbolism_story": "Uma lenda medieval conta de um cavaleiro colhendo flores azuis de uma margem de rio caudalosa para sua amada quando perdeu o equilíbrio e foi arrastado pela corrente. Enquanto afundava, ele gritou: 'Não me esqueça!' As palavras deram um nome a uma flor—e a um sentimento—que perdura há séculos. Em toda a Europa, o miosótis tornou-se o emblema do amor fiel e da terna lembrança, usado em medalhões, prensado em cartas e plantado em túmulos. Hoje permanece um símbolo silencioso para todos que desejam ser lembrados por aqueles que amam.",
+        "flower_meaning": "lembrança",
+        "uses_list": [
+          {
+            "text": "Perfeito para naturalizar em jardins campestres, bordaduras de primavera e bordas de bosques, criando manchas azuis luminosas entre tulipas, narcisos e perenes precoces"
+          },
+          {
+            "text": "Pequenas flores fornecem uma fonte precoce de néctar para abelhas e pequenas borboletas durante a primavera e início do verão"
+          },
+          {
+            "text": "Caules delicados são adições encantadoras a pequenos buquês e arranjos primaveris de estilo campestre"
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "lembrança",
+            "description": "O próprio nome do miosótis é um apelo para ser lembrado—um significado que carrega através das culturas europeias há séculos, desde a lenda medieval até os costumes de luto vitorianos e as campanhas modernas de conscientização sobre perda de memória"
+          },
+          {
+            "keyword": "amor fiel",
+            "description": "Dado entre amantes e usado como uma promessa de devoção, a pequena flor azul representa a constância e sinceridade do afeto sincero que supera a distância e o tempo"
+          }
+        ],
+        "toxicity": {
+          "headline": "Nenhuma toxicidade relatada",
+          "active_compound_display": "Nenhum relatado",
+          "notes_en": "Não relatado como tóxico.",
+          "human": {
+            "exposure": "Nenhuma via de exposição é relatada.",
+            "effect": "Nenhum efeito tóxico é relatado.",
+            "note": "Nenhuma toxicidade é relatada para humanos neste catálogo; isso não é evidência de que a planta seja comestível ou inofensiva."
+          },
+          "dog": {
+            "exposure": "Nenhuma via de exposição é relatada.",
+            "effect": "Nenhum efeito tóxico é relatado.",
+            "note": "Nenhuma toxicidade é relatada para cães neste catálogo; isso não é evidência de que a planta seja comestível ou inofensiva."
+          },
+          "cat": {
+            "exposure": "Nenhuma via de exposição é relatada.",
+            "effect": "Nenhum efeito tóxico é relatado.",
+            "note": "Nenhuma toxicidade é relatada para gatos neste catálogo; isso não é evidência de que a planta seja comestível ou inofensiva."
+          }
+        }
+      }
+    },
+    "AAA1529": {
+      "source_hash": "7c40860fefabe68e66196fa722282c7aeca190e00f7623e4978d76d83420463e",
+      "fields": {
+        "common_name": "Samambaia-dourada",
+        "description": "Phlebodium aureum, comumente chamada de Polipódio-dourado, é uma samambaia tropical nativa da América Central e do Sul e do Caribe. Suas frondes ousadas e arqueadas, verde-azuladas, com bordas profundamente lobadas e onduladas, emergem de rizomas dourados e lanosos que rastejam sobre o solo ou bordas de vasos como dedos curiosos. Prosperando em luz indireta e umidade moderada, adapta-se facilmente a ambientes internos e pátios sombreados. Não tóxica para animais de estimação e pessoas, fácil de cuidar e visualmente marcante durante todo o ano, está entre as samambaias de interior mais populares do mundo.",
+        "history_text_short": "Cultivada há muito tempo em jardins botânicos europeus desde o século XVII, esta samambaia de rizomas dourados das Américas tropicais cativou entusiastas vitorianos e perdura hoje como uma planta doméstica amada em todo o mundo.",
+        "history_text_long": "Os povos indígenas da América Central e do Sul conheciam Phlebodium aureum muito antes de os botânicos europeus formalizarem sua classificação. Crescendo epifiticamente em troncos de árvores e afloramentos rochosos do México à Bolívia e em todo o Caribe, a samambaia tinha um lugar na medicina popular tradicional, com preparações usadas para tratar problemas de pele e respiratórios.\n\nExploradores europeus encontraram a espécie durante a Era das Explorações e trouxeram espécimes para jardins botânicos nos séculos XVII e XVIII. A planta rapidamente atraiu admiração por seus distintos rizomas dourados cobertos de pelos—que rastejam ousadamente pelo solo e casca—ganhando nomes evocativos como Polipódio-dourado, Samambaia-pé-de-coelho e Samambaia-pé-de-lebre.\n\nDurante a febre vitoriana por samambaias no século XIX, conhecida como 'Pteridomania', Phlebodium aureum encontrou seu caminho para salas elegantes, conservatórios e estufas Wardian em toda a Grã-Bretanha e Europa. Os criadores selecionaram formas e cores, produzindo cultivares como 'Mandaianum' com frondes crespas e franjadas, e mais tarde a enormemente popular 'Blue Star Fern' com sua coloração verde-azulada metálica.\n\nHoje, Phlebodium aureum continua sendo um item essencial no mundo das plantas de interior, celebrada por sua reputação de purificar o ar, tolerância a condições de pouca luz e presença arquitetônica marcante.",
+        "name_origin": "O nome do gênero Phlebodium deriva do grego phlébion, que significa 'pequena veia', referindo-se aos intrincados padrões de veias em suas frondes. O epíteto específico aureum é latim para 'dourado', celebrando a característica mais distintiva da planta: seus rizomas de pelos dourados que rastejam pelo solo e casca.",
+        "symbolism_story": "Nas florestas nebulosas da América Central, Phlebodium aureum se agarra a árvores antigas, seus rizomas dourados se espalhando firmemente sobre casca e pedra. Culturas indígenas viram em suas frondes que se desenrolam um símbolo de resiliência—uma planta que não apenas sobrevive à sombra, mas a transforma. O lento e paciente rastejar de seus rizomas tornou-se um emblema silencioso de novos começos, lembrando aqueles que cuidam dela que o crescimento muitas vezes vem de lugares esquecidos.",
+        "flower_meaning": "resiliência",
+        "uses_list": [
+          {
+            "text": "Cultivada como espécime dramático para salas de estar, escritórios e pátios sombreados, valorizada por frondes verde-azuladas em cascata e forma arquitetônica"
+          },
+          {
+            "text": "A medicina popular tradicional na América Central usa preparações dos rizomas para condições de pele e respiratórias"
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "resiliência",
+            "description": "Prosperando em copas de árvores e afloramentos rochosos onde poucas plantas sobrevivem, Phlebodium aureum incorpora a persistência silenciosa e a graça de florescer na sombra"
+          },
+          {
+            "keyword": "novos começos",
+            "description": "Cada fronde em espiral que se desenrola simboliza há muito tempo novos começos e a renovação incessante da vida após a escuridão"
+          }
+        ],
+        "toxicity": {
+          "headline": "Nenhuma toxicidade relatada",
+          "active_compound_display": "Nenhum relatado",
+          "notes_en": "Não relatado como tóxico.",
+          "human": {
+            "exposure": "Nenhuma via de exposição é relatada.",
+            "effect": "Nenhum efeito tóxico é relatado.",
+            "note": "Nenhuma toxicidade é relatada para humanos neste catálogo; isto não é evidência de que a planta seja comestível ou inofensiva."
+          },
+          "dog": {
+            "exposure": "Nenhuma via de exposição é relatada.",
+            "effect": "Nenhum efeito tóxico é relatado.",
+            "note": "Nenhuma toxicidade é relatada para cães neste catálogo; isto não é evidência de que a planta seja comestível ou inofensiva."
+          },
+          "cat": {
+            "exposure": "Nenhuma via de exposição é relatada.",
+            "effect": "Nenhum efeito tóxico é relatado.",
+            "note": "Nenhuma toxicidade é relatada para gatos neste catálogo; isto não é evidência de que a planta seja comestível ou inofensiva."
           }
         }
       }

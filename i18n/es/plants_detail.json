@@ -3,8 +3,8 @@
   "locale": "es",
   "source": {
     "resource": "plants_detail.json",
-    "sha256": "c95f7e86780bcfc1e7d4154a004a9e33c71c4975f2cf903de569d7fe63fe67dc",
-    "record_count": 1526
+    "sha256": "56e6c15ae0ec041e08c3bca492041edae336f68a06023eed16ac7a1e6081bb96",
+    "record_count": 1529
   },
   "records": {
     "AAA0001": {
@@ -93791,6 +93791,171 @@
           "cat": {
             "exposure": "No se reporta ninguna vía de exposición.",
             "effect": "No se reporta ningún efecto tóxico.",
+            "note": "No se reporta toxicidad para gatos en este catálogo; esto no es evidencia de que la planta sea comestible o inofensiva."
+          }
+        }
+      }
+    },
+    "AAA1527": {
+      "source_hash": "450115aa6763325ed39b9ae20258993d50712d4bab1d7c26506581c7731130ae",
+      "fields": {
+        "common_name": "Membrillo",
+        "bloom_tip": "Las flores de esta planta suelen florecer en primavera, atrayendo a muchos insectos polinizadores.",
+        "fruit_tip": "Los frutos del níspero maduran en otoño, con un sabor único, adecuado para hacer mermeladas y postres.",
+        "description": "Cydonia oblonga, el membrillo, es uno de los árboles frutales cultivados más antiguos, originario del Cáucaso y Oriente Medio. En primavera, sus grandes flores blancas o rosa pálido aparecen antes que las hojas, convirtiendo las ramas desnudas en nubes de color delicado. En otoño, el árbol produce frutos dorados en forma de pera con un perfume embriagador. Demasiado astringentes para comer crudos, los membrillos se transforman con la cocción en gloriosas mermeladas, jaleas, pasta (membrillo) y conservas. Su belleza, fragancia y riqueza culinaria lo han convertido en un tesoro de jardín durante milenios.",
+        "history_text_short": "Uno de los primeros frutos cultivados por los pueblos antiguos, el membrillo era sagrado para Afrodita, aparecía en la mitología griega y era llevado por las novias romanas: un símbolo dorado de amor y fertilidad en el mundo mediterráneo durante más de tres mil años.",
+        "history_text_long": "Cydonia oblonga toma su nombre genérico de la antigua ciudad de Cydonia (la actual Chania) en la isla de Creta, donde el fruto se cultivaba abundantemente y era apreciado por los antiguos griegos. Considerado por muchos estudiosos como la 'manzana de oro' en el juicio de Paris, el membrillo era sagrado para Afrodita y su contraparte romana, Venus. Las novias griegas mordían un membrillo antes de entrar en la cámara nupcial, una costumbre que los romanos adoptaron y difundieron por todo su imperio.\n\nEntre los árboles frutales domesticados más antiguos de la historia humana, el membrillo se cultivó en Mesopotamia, Persia y el Levante miles de años antes de la era común. En el siglo I d.C., el escritor romano Plinio el Viejo documentó múltiples variedades con nombre, y el fruto era un elemento fijo tanto en huertos como en jardines de placer.\n\nDurante la Edad Media, el membrillo siguió siendo vital en las tradiciones culinarias y medicinales europeas e islámicas. Los médicos árabes lo recetaban para dolencias digestivas; los cocineros europeos lo usaban para producir las primeras mermeladas: la palabra portuguesa 'marmelada' deriva directamente de 'marmelo', el nombre portugués del membrillo.\n\nEn los siglos XVII y XVIII, el membrillo fue desplazado gradualmente en las cocinas occidentales por variedades dulces de manzana y pera que podían comerse frescas. Hoy en día está experimentando un resurgimiento entre los entusiastas de la comida y los cultivadores de huertos patrimoniales que valoran su fragancia incomparable y la profundidad que aporta a conservas, pasteles y platos salados cocinados a fuego lento.",
+        "name_origin": "El nombre genérico Cydonia deriva de la antigua ciudad de Cydonia (actual Chania, Creta), famosa en la antigüedad por su fino cultivo de membrillos. El epíteto específico oblonga es latín para 'oblongo', describiendo la forma alargada típica del fruto.",
+        "symbolism_story": "Mucho antes de que la manzana reclamara el título, era el membrillo —dorado, perfumado y hermoso— el que se llamaba el fruto de los dioses. Los antiguos griegos dejaban ofrendas de membrillo en los santuarios de Afrodita; las novias romanas mordían una rodaja antes de su noche de bodas. En la España morisca, los poetas comparaban el carácter agridulce del membrillo con la naturaleza del deseo mismo. Cultivar un membrillo es cuidar algo que pide paciencia: sus dones nunca se entregan crudos, sino que se revelan, gloriosamente, solo a través de la alquimia del calor y el tiempo.",
+        "flower_meaning": "amor",
+        "fragrance": {
+          "notes": "Las flores emiten un perfume suave y dulce en primavera; los frutos maduros llenan el jardín de un aroma intensamente meloso durante el otoño."
+        },
+        "uses_list": [
+          {
+            "text": "Los frutos maduros son apreciados para mermeladas, jaleas, pasta de membrillo (membrillo), mermelada y salsas cocinadas a fuego lento que combinan maravillosamente con carnes y quesos"
+          },
+          {
+            "text": "Las vistosas flores primaverales y los frutos dorados otoñales hacen del membrillo un árbol ornamental atractivo para jardines campestres y huertos patrimoniales"
+          },
+          {
+            "text": "Los frutos maduros emiten uno de los perfumes más intensamente dulces y melosos de cualquier fruta templada: un aroma característico del jardín otoñal"
+          },
+          {
+            "text": "Las grandes flores primaverales atraen abejas e insectos beneficiosos al inicio de la temporada, antes de que la mayoría de los otros árboles frutales florezcan"
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "amor",
+            "description": "Sagrado para Afrodita y regalo de bodas en la antigua Grecia y Roma, el membrillo ha simbolizado el amor, la fertilidad y el matrimonio durante más de tres mil años"
+          },
+          {
+            "keyword": "transformación",
+            "description": "Astringente y poco atractivo cuando está crudo, el membrillo se vuelve exquisitamente fragante y dulce con el calor: un símbolo de paciencia que revela la belleza oculta"
+          }
+        ],
+        "toxicity": {
+          "headline": "No se reporta toxicidad",
+          "active_compound_display": "No se reporta ninguno",
+          "notes_en": "No se reporta como tóxico.",
+          "human": {
+            "exposure": "No se reporta ninguna vía de exposición.",
+            "effect": "No se reporta ningún efecto tóxico.",
+            "note": "No se reporta toxicidad para humanos en este catálogo; esto no es evidencia de que la planta sea comestible o inofensiva."
+          },
+          "dog": {
+            "exposure": "No se reporta ninguna vía de exposición.",
+            "effect": "No se reporta ningún efecto tóxico.",
+            "note": "No se reporta toxicidad para perros en este catálogo; esto no es evidencia de que la planta sea comestible o inofensiva."
+          },
+          "cat": {
+            "exposure": "No se reporta ninguna vía de exposición.",
+            "effect": "No se reporta ningún efecto tóxico.",
+            "note": "No se reporta toxicidad para gatos en este catálogo; esto no es evidencia de que la planta sea comestible o inofensiva."
+          }
+        }
+      }
+    },
+    "AAA1528": {
+      "source_hash": "b3ab91ecaf3a07c47eee7621d25acc9805ac8fc30e3243f76adb50f46ad96c43",
+      "fields": {
+        "common_name": "Nomeolvides de los campos",
+        "bloom_tip": "Esta planta florece de primavera a verano, con hermosas flores.",
+        "description": "Myosotis arvensis, el nomeolvides de los campos, es una delicada flor silvestre anual o bienal originaria de prados y setos de Europa y Asia. Sus diminutas flores azul cielo con un alegre ojo amarillo se agrupan en tallos esbeltos desde la primavera hasta el verano, creando masas azules que se naturalizan sin esfuerzo en jardines rústicos, bordes y lindes de bosques. Se resiembra libremente y regresa año tras año sin esfuerzo. Su color vivo y su modesta estatura la convierten en una de las compañeras más encantadoras para bulbos de primavera y plantas perennes tempranas.",
+        "history_text_short": "Tejido en el folclore europeo y la tradición romántica durante siglos, el nomeolvides ganó su nombre de una leyenda medieval de amor fiel, un significado que la pequeña flor azul aún lleva en ramos de boda y jardines conmemorativos hoy.",
+        "history_text_long": "Myosotis arvensis ha estado presente en el folclore europeo y la tradición romántica durante siglos; su nombre común aparece en la literatura alemana, francesa e inglesa como símbolo de recuerdo y amor fiel. El nombre del género Myosotis proviene del griego 'oreja de ratón', en referencia a la textura suave y vellosa de las pequeñas hojas de la planta.\n\nUna célebre leyenda medieval alemana cuenta que un caballero recogía estas flores azules para su amada a orillas de un río caudaloso cuando perdió el equilibrio y fue arrastrado por la corriente. Mientras se hundía bajo el agua, gritó '¡Vergiss mein nicht!' —¡No me olvides!— y las palabras dieron a la flor un nombre perdurable en las lenguas europeas.\n\nEn el siglo XIX, el nomeolvides se había convertido en una de las flores de mayor resonancia cultural en el mundo occidental. Apareció en los versos de Coleridge, Keats y Longfellow, y se convirtió en un emblema muy querido de la era romántica. Los nomeolvides azules estaban especialmente de moda en las joyas de luto victorianas, prensados en medallones y bordados en pañuelos como recuerdos de seres queridos ausentes. Los emigrantes alemanes llevaban las semillas como símbolo de la memoria de la patria.\n\nMyosotis arvensis, la especie de campo, crece silvestre en campos cultivados, bordes de caminos y setos de toda Europa y Asia occidental. Aunque es una prolífica resiembra a veces considerada maleza en jardines formales, es adorada por los jardineros rústicos por las alfombras azules luminosas que crea cada primavera. Hoy, el nomeolvides sirve como emblema floral de la concienciación sobre la enfermedad de Alzheimer, continuando su antiguo papel como símbolo de la memoria y la importancia de no ser olvidado.",
+        "name_origin": "El nombre del género Myosotis deriva del griego myos (ratón) y ous (oreja), describiendo las hojas pequeñas, suaves y redondeadas que se asemejan a una oreja de ratón. El epíteto de especie arvensis es latín para 'de los campos', reflejando el hábitat natural de la planta en prados, márgenes de tierras de cultivo y suelos alterados.",
+        "symbolism_story": "Una leyenda medieval cuenta que un caballero recogía flores azules de la orilla de un río caudaloso para su amada cuando perdió el equilibrio y fue arrastrado por la corriente. Mientras se hundía, gritó: '¡No me olvides!' Las palabras dieron nombre a una flor —y a un sentimiento— que ha perdurado durante siglos. En toda Europa, el nomeolvides se convirtió en el emblema del amor fiel y el tierno recuerdo, llevado en medallones, prensado en cartas y plantado en tumbas. Hoy sigue siendo un símbolo silencioso para todos los que desean ser recordados por quienes aman.",
+        "flower_meaning": "recuerdo",
+        "uses_list": [
+          {
+            "text": "Perfecto para naturalizar en jardines rústicos, bordes primaverales y lindes de bosques, creando masas azules luminosas entre tulipanes, narcisos y plantas perennes tempranas."
+          },
+          {
+            "text": "Las diminutas flores proporcionan una fuente temprana de néctar para abejas y pequeñas mariposas durante la primavera y principios del verano."
+          },
+          {
+            "text": "Los tallos delicados son adiciones encantadoras para pequeños ramilletes y arreglos primaverales de estilo rústico."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "recuerdo",
+            "description": "El nombre mismo del nomeolvides es una súplica para ser recordado, un significado que ha llevado a través de las culturas europeas durante siglos, desde la leyenda medieval hasta las costumbres funerarias victorianas y las campañas modernas de concienciación sobre la pérdida de memoria."
+          },
+          {
+            "keyword": "amor fiel",
+            "description": "Regalada entre amantes y usada como prenda de devoción, la pequeña flor azul representa la constancia y sinceridad del afecto sincero que perdura más allá de la distancia y el tiempo."
+          }
+        ],
+        "toxicity": {
+          "headline": "No se reporta toxicidad",
+          "active_compound_display": "Ninguno reportado",
+          "notes_en": "No reportado como tóxico.",
+          "human": {
+            "exposure": "No se reporta ninguna vía de exposición.",
+            "effect": "No se reporta ningún efecto tóxico.",
+            "note": "No se reporta toxicidad para humanos en este catálogo; esto no es evidencia de que la planta sea comestible o inofensiva."
+          },
+          "dog": {
+            "exposure": "No se reporta ninguna vía de exposición.",
+            "effect": "No se reporta ningún efecto tóxico.",
+            "note": "No se reporta toxicidad para perros en este catálogo; esto no es evidencia de que la planta sea comestible o inofensiva."
+          },
+          "cat": {
+            "exposure": "No se reporta ninguna vía de exposición.",
+            "effect": "No se reporta ningún efecto tóxico.",
+            "note": "No se reporta toxicidad para gatos en este catálogo; esto no es evidencia de que la planta sea comestible o inofensiva."
+          }
+        }
+      }
+    },
+    "AAA1529": {
+      "source_hash": "7c40860fefabe68e66196fa722282c7aeca190e00f7623e4978d76d83420463e",
+      "fields": {
+        "common_name": "Helecho Dorado",
+        "description": "Phlebodium aureum, comúnmente llamado Polipodio Dorado, es un helecho tropical nativo de Centro y Sudamérica y el Caribe. Sus audaces frondas arqueadas de color verde azulado con bordes profundamente lobulados y ondulados emergen de rizomas dorados y lanudos que se arrastran sobre el suelo o los bordes de las macetas como dedos curiosos. Prospera con luz indirecta y humedad moderada, adaptándose sin esfuerzo a interiores y patios sombreados. No tóxico para mascotas y personas, fácil de cuidar y visualmente impactante durante todo el año, se encuentra entre los helechos de interior más populares del mundo.",
+        "history_text_short": "Cultivado desde hace mucho tiempo en jardines botánicos europeos desde el siglo XVII, este helecho de rizomas dorados de las Américas tropicales cautivó a los entusiastas victorianos y perdura hoy como una querida planta de interior en todo el mundo.",
+        "history_text_long": "Los pueblos indígenas de Centro y Sudamérica conocían Phlebodium aureum mucho antes de que los botánicos europeos formalizaran su clasificación. Creciendo epífitamente en troncos de árboles y afloramientos rocosos desde México hasta Bolivia y en todo el Caribe, el helecho tenía un lugar en la medicina popular tradicional, con preparaciones utilizadas para tratar afecciones de la piel y problemas respiratorios.\n\nLos exploradores europeos encontraron la especie durante la Era de los Descubrimientos y llevaron especímenes a jardines botánicos en los siglos XVII y XVIII. La planta rápidamente atrajo admiración por sus distintivos rizomas dorados cubiertos de pelo, que se arrastran audazmente sobre el suelo y la corteza, ganándose nombres evocadores como Polipodio Dorado, Helecho Pata de Conejo y Helecho Pata de Liebre.\n\nDurante la locura victoriana por los helechos en el siglo XIX, conocida como 'Pteridomanía', Phlebodium aureum llegó a elegantes salones, invernaderos y vitrinas Wardian en toda Gran Bretaña y Europa. Los cultivadores seleccionaron por forma y color, produciendo cultivares como 'Mandaianum' con frondas crestadas y rizadas, y más tarde el enormemente popular 'Helecho Estrella Azul' con su coloración verde azulada acerada.\n\nHoy, Phlebodium aureum sigue siendo un elemento básico del mundo de las plantas de interior, celebrado por su reputación purificadora de aire, tolerancia a condiciones de poca luz y su impactante presencia arquitectónica.",
+        "name_origin": "El nombre del género Phlebodium deriva del griego phlébion, que significa 'pequeña vena', en referencia a los intrincados patrones de venas en sus frondas. El epíteto de especie aureum es latín para 'dorado', celebrando la característica más distintiva de la planta: sus rizomas de pelo dorado que se arrastran sobre el suelo y la corteza.",
+        "symbolism_story": "En los bosques brumosos de Centroamérica, Phlebodium aureum se aferra a árboles antiguos, sus rizomas dorados extendiéndose constantemente sobre corteza y piedra. Las culturas indígenas vieron en sus frondas que se despliegan un símbolo de resiliencia: una planta que no solo sobrevive a la sombra sino que la transforma. El lento y paciente avance de sus rizomas se convirtió en un emblema silencioso de nuevos comienzos, recordando a quienes lo cuidaban que el crecimiento a menudo proviene de lugares pasados por alto.",
+        "flower_meaning": "resiliencia",
+        "uses_list": [
+          {
+            "text": "Cultivado como un ejemplar dramático para salas de estar, oficinas y patios sombreados, apreciado por sus frondas en cascada de color verde azulado y su forma arquitectónica"
+          },
+          {
+            "text": "La medicina popular tradicional en Centroamérica usa preparaciones de los rizomas para afecciones de la piel y respiratorias"
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "resiliencia",
+            "description": "Prosperando en doseles de árboles y afloramientos rocosos donde pocas plantas sobreviven, Phlebodium aureum encarna la persistencia silenciosa y la gracia de florecer en la sombra"
+          },
+          {
+            "keyword": "nuevos comienzos",
+            "description": "Cada fiddlehead que se despliega ha simbolizado durante mucho tiempo nuevos comienzos y la renovación imparable de la vida después de la oscuridad"
+          }
+        ],
+        "toxicity": {
+          "headline": "No se reporta toxicidad",
+          "active_compound_display": "Ninguno reportado",
+          "notes_en": "No reportado como tóxico.",
+          "human": {
+            "exposure": "No se reporta vía de exposición.",
+            "effect": "No se reporta efecto tóxico.",
+            "note": "No se reporta toxicidad para humanos en este catálogo; esto no es evidencia de que la planta sea comestible o inofensiva."
+          },
+          "dog": {
+            "exposure": "No se reporta vía de exposición.",
+            "effect": "No se reporta efecto tóxico.",
+            "note": "No se reporta toxicidad para perros en este catálogo; esto no es evidencia de que la planta sea comestible o inofensiva."
+          },
+          "cat": {
+            "exposure": "No se reporta vía de exposición.",
+            "effect": "No se reporta efecto tóxico.",
             "note": "No se reporta toxicidad para gatos en este catálogo; esto no es evidencia de que la planta sea comestible o inofensiva."
           }
         }

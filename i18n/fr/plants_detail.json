@@ -3,8 +3,8 @@
   "locale": "fr",
   "source": {
     "resource": "plants_detail.json",
-    "sha256": "c95f7e86780bcfc1e7d4154a004a9e33c71c4975f2cf903de569d7fe63fe67dc",
-    "record_count": 1526
+    "sha256": "56e6c15ae0ec041e08c3bca492041edae336f68a06023eed16ac7a1e6081bb96",
+    "record_count": 1529
   },
   "records": {
     "AAA0001": {
@@ -93745,6 +93745,171 @@
           {
             "keyword": "liberté",
             "description": "Son habitude de s'auto-ensemencer librement sur les falaises sauvages et les ruines antiques, échappant complètement aux limites du jardin, évoque un esprit de liberté et de beauté naturelle sans apprêt."
+          }
+        ],
+        "toxicity": {
+          "headline": "Aucune toxicité signalée",
+          "active_compound_display": "Aucun signalé",
+          "notes_en": "Non signalé toxique.",
+          "human": {
+            "exposure": "Aucune voie d'exposition signalée.",
+            "effect": "Aucun effet toxique signalé.",
+            "note": "Aucune toxicité signalée pour les humains dans ce catalogue ; cela ne prouve pas que la plante soit comestible ou inoffensive."
+          },
+          "dog": {
+            "exposure": "Aucune voie d'exposition signalée.",
+            "effect": "Aucun effet toxique signalé.",
+            "note": "Aucune toxicité signalée pour les chiens dans ce catalogue ; cela ne prouve pas que la plante soit comestible ou inoffensive."
+          },
+          "cat": {
+            "exposure": "Aucune voie d'exposition signalée.",
+            "effect": "Aucun effet toxique signalé.",
+            "note": "Aucune toxicité signalée pour les chats dans ce catalogue ; cela ne prouve pas que la plante soit comestible ou inoffensive."
+          }
+        }
+      }
+    },
+    "AAA1527": {
+      "source_hash": "450115aa6763325ed39b9ae20258993d50712d4bab1d7c26506581c7731130ae",
+      "fields": {
+        "common_name": "Cognassier",
+        "bloom_tip": "Les fleurs de cette plante fleurissent généralement au printemps, attirant de nombreux insectes pollinisateurs.",
+        "fruit_tip": "Les fruits du néflier du Japon mûrissent en automne, avec une saveur unique, adaptés à la fabrication de confitures et de desserts.",
+        "description": "Le Cydonia oblonga, le cognassier, est l'un des plus anciens arbres fruitiers cultivés, originaire du Caucase et du Moyen-Orient. Au printemps, ses grandes fleurs blanches à rose pâle apparaissent avant les feuilles, transformant les branches nues en nuages de couleur délicate. En automne, l'arbre produit des fruits jaune doré en forme de poire, au parfum enivrant. Trop astringents pour être consommés crus, les coings se transforment à la cuisson en confitures, gelées, pâtes de fruits (membrillo) et conserves merveilleusement parfumées. Sa beauté, son parfum et sa richesse culinaire en font un trésor de jardin depuis des millénaires.",
+        "history_text_short": "L'un des premiers fruits cultivés par les peuples anciens, le coing était sacré pour Aphrodite, présent dans la mythologie grecque et porté par les mariées romaines — un symbole doré d'amour et de fertilité à travers le monde méditerranéen depuis plus de trois mille ans.",
+        "history_text_long": "Cydonia oblonga tire son nom de genre de l'antique cité de Cydonia (l'actuelle La Canée) sur l'île de Crète, où le fruit était abondamment cultivé et prisé par les Grecs anciens. Considéré par de nombreux érudits comme la « pomme d'or » au centre du jugement de Pâris, le coing était considéré comme sacré pour Aphrodite et sa contrepartie romaine Vénus. Les mariées grecques croquaient un coing avant d'entrer dans la chambre nuptiale — une coutume que les Romains adoptèrent et répandirent dans tout leur empire.\n\nParmi les arbres fruitiers domestiqués les plus anciens de l'histoire humaine, le cognassier était cultivé en Mésopotamie, en Perse et au Levant des milliers d'années avant notre ère. Au premier siècle après J.-C., l'écrivain romain Pline l'Ancien documenta plusieurs variétés nommées, et le fruit était un élément incontournable des potagers et des jardins d'agrément.\n\nAu Moyen Âge, le coing resta essentiel dans les traditions culinaires et médicinales européennes et islamiques. Les médecins arabes le prescrivaient pour les troubles digestifs ; les cuisiniers européens l'utilisaient pour produire les premières marmelades — le mot portugais « marmelada » dérive directement de « marmelo », le nom portugais du coing.\n\nAux XVIIe et XVIIIe siècles, le coing fut progressivement supplanté dans les cuisines occidentales par des variétés de pommes et de poires sucrées pouvant être consommées fraîches. Aujourd'hui, il connaît un renouveau parmi les passionnés de gastronomie et les producteurs de vergers patrimoniaux qui prisent son parfum incomparable et la profondeur qu'il apporte aux conserves, pâtisseries et plats salés mijotés.",
+        "name_origin": "Le nom de genre Cydonia dérive de l'antique cité de Cydonia (l'actuelle La Canée, Crète), célèbre dans l'Antiquité pour sa belle culture du coing. L'épithète spécifique oblonga est le latin pour « oblong », décrivant la forme allongée typique du fruit.",
+        "symbolism_story": "Bien avant que la pomme ne revendique le titre, c'était le coing — doré, parfumé et beau — qui était appelé le fruit des dieux. Les Grecs anciens offraient des coings aux sanctuaires d'Aphrodite ; les mariées romaines en croquaient une tranche avant leur nuit de noces. Dans l'Espagne mauresque, les poètes comparaient le caractère amer-doux du coing à la nature même du désir. Cultiver un cognassier, c'est prendre soin de quelque chose qui demande de la patience : ses dons ne sont jamais donnés crus, mais se révèlent, glorieusement, seulement par l'alchimie de la chaleur et du temps.",
+        "flower_meaning": "amour",
+        "fragrance": {
+          "notes": "Les fleurs dégagent un parfum doux et sucré au printemps ; les fruits mûrs emplissent le jardin d'un arôme intensément mielleux tout au long de l'automne."
+        },
+        "uses_list": [
+          {
+            "text": "Les fruits mûrs sont prisés pour les confitures, gelées, pâte de coing (membrillo), marmelade et sauces mijotées qui se marient à merveille avec viandes et fromages"
+          },
+          {
+            "text": "Les fleurs printanières spectaculaires et les fruits dorés d'automne font du cognassier un bel arbre d'ornement pour les jardins de cottage et les vergers patrimoniaux"
+          },
+          {
+            "text": "Les fruits mûrs dégagent l'un des parfums les plus intensément sucrés et mielleux de tous les fruits tempérés — une odeur signature du jardin d'automne"
+          },
+          {
+            "text": "Les grandes fleurs printanières attirent les abeilles et les insectes bénéfiques tôt dans la saison, avant la floraison de la plupart des autres arbres fruitiers"
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "amour",
+            "description": "Sacré pour Aphrodite et offert en cadeau de mariage dans la Grèce et la Rome antiques, le coing symbolise l'amour, la fertilité et le mariage depuis plus de trois mille ans"
+          },
+          {
+            "keyword": "transformation",
+            "description": "Astringent et peu appétissant cru, le coing devient exquisément parfumé et sucré à la chaleur — un symbole de la patience révélant la beauté cachée"
+          }
+        ],
+        "toxicity": {
+          "headline": "Aucune toxicité signalée",
+          "active_compound_display": "Aucun signalé",
+          "notes_en": "Non signalé toxique.",
+          "human": {
+            "exposure": "Aucune voie d'exposition signalée.",
+            "effect": "Aucun effet toxique signalé.",
+            "note": "Aucune toxicité signalée pour les humains dans ce catalogue ; cela ne prouve pas que la plante soit comestible ou inoffensive."
+          },
+          "dog": {
+            "exposure": "Aucune voie d'exposition signalée.",
+            "effect": "Aucun effet toxique signalé.",
+            "note": "Aucune toxicité signalée pour les chiens dans ce catalogue ; cela ne prouve pas que la plante soit comestible ou inoffensive."
+          },
+          "cat": {
+            "exposure": "Aucune voie d'exposition signalée.",
+            "effect": "Aucun effet toxique signalé.",
+            "note": "Aucune toxicité signalée pour les chats dans ce catalogue ; cela ne prouve pas que la plante soit comestible ou inoffensive."
+          }
+        }
+      }
+    },
+    "AAA1528": {
+      "source_hash": "b3ab91ecaf3a07c47eee7621d25acc9805ac8fc30e3243f76adb50f46ad96c43",
+      "fields": {
+        "common_name": "Myosotis des champs",
+        "bloom_tip": "Cette plante fleurit du printemps à l'été, avec de belles fleurs.",
+        "description": "Le Myosotis des champs (Myosotis arvensis) est une délicate fleur sauvage annuelle ou bisannuelle originaire des prairies et des haies d'Europe et d'Asie. De minuscules fleurs bleu ciel avec un œil jaune vif garnissent ses tiges élancées du printemps à l'été, créant des nuages bleus qui se naturalisent sans effort dans les jardins de cottage, les bordures et les lisières boisées. Se ressèment librement, il revient année après année sans effort. Sa couleur vive et sa stature modeste en font l'un des compagnons les plus charmants pour les bulbes de printemps et les vivaces précoces.",
+        "history_text_short": "Tissé dans le folklore européen et la tradition romantique depuis des siècles, le myosotis a gagné son nom d'une légende médiévale d'amour fidèle — une signification que la petite fleur bleue porte encore aujourd'hui dans les bouquets de mariage et les jardins de mémoire.",
+        "history_text_long": "Le Myosotis des champs est tissé dans le folklore européen et la tradition romantique depuis des siècles, son nom commun apparaissant dans la littérature allemande, française et anglaise comme un symbole de souvenir et d'amour fidèle. Le nom de genre Myosotis vient du grec pour 'oreille de souris', en référence à la texture douce et duveteuse des petites feuilles de la plante.\n\nUne célèbre légende médiévale allemande raconte l'histoire d'un chevalier cueillant ces fleurs bleues pour sa bien-aimée le long d'une rivière tumultueuse lorsqu'il perdit pied et fut emporté par le courant. Alors qu'il coulait sous l'eau, il cria 'Vergiss mein nicht !' — Ne m'oubliez pas ! — et ces mots donnèrent à la fleur un nom durable dans les langues européennes.\n\nAu 19e siècle, le myosotis était devenu l'une des fleurs les plus culturellement marquantes du monde occidental. Il apparaissait dans les vers de Coleridge, Keats et Longfellow, et devint un emblème bien-aimé de l'ère romantique. Les myosotis bleus étaient particulièrement à la mode dans les bijoux de deuil victoriens, pressés dans des médaillons et brodés sur des mouchoirs comme gages des êtres chers absents. Les émigrants allemands emportaient les graines comme symbole de la mémoire de la patrie.\n\nLe Myosotis des champs (Myosotis arvensis) pousse à l'état sauvage dans les champs cultivés, les bords de routes et les haies à travers l'Europe et l'Asie occidentale. Bien que prolifique et parfois considéré comme envahissant dans les jardins formels, il est adoré des jardiniers de cottage pour les tapis bleus lumineux qu'il crée chaque printemps. Aujourd'hui, le myosotis sert d'emblème floral de la sensibilisation à la maladie d'Alzheimer, poursuivant son rôle ancien de symbole de la mémoire et de l'importance de ne pas être oublié.",
+        "name_origin": "Le nom de genre Myosotis dérive du grec myos (souris) et ous (oreille), décrivant les petites feuilles douces et arrondies qui ressemblent à une oreille de souris. L'épithète spécifique arvensis est latin pour 'des champs', reflétant l'habitat naturel de la plante dans les prairies, les marges des terres agricoles et les sols perturbés.",
+        "symbolism_story": "Une légende médiévale raconte l'histoire d'un chevalier cueillant des fleurs bleues sur une rive tumultueuse pour sa bien-aimée lorsqu'il perdit pied et fut emporté par le courant. Alors qu'il coulait, il cria : 'Ne m'oubliez pas !' Ces mots donnèrent un nom à une fleur — et à un sentiment — qui a perduré pendant des siècles. À travers l'Europe, le myosotis devint l'emblème de l'amour fidèle et du tendre souvenir, porté dans des médaillons, pressé dans des lettres et planté sur les tombes. Aujourd'hui, il reste un symbole discret pour tous ceux qui souhaitent être rappelés par ceux qu'ils aiment.",
+        "flower_meaning": "souvenir",
+        "uses_list": [
+          {
+            "text": "Parfait pour naturaliser dans les jardins de cottage, les bordures printanières et les lisières boisées, créant des nuages bleus lumineux parmi les tulipes, les narcisses et les vivaces précoces."
+          },
+          {
+            "text": "Les minuscules fleurs fournissent une source précoce de nectar pour les abeilles et les petits papillons au printemps et au début de l'été."
+          },
+          {
+            "text": "Les tiges délicates font des ajouts charmants aux petits bouquets et aux arrangements printaniers de style cottage."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "souvenir",
+            "description": "Le nom même du myosotis est une prière pour être rappelé — une signification qu'il porte à travers les cultures européennes depuis des siècles, de la légende médiévale aux coutumes de deuil victoriennes et aux campagnes modernes de sensibilisation à la perte de mémoire."
+          },
+          {
+            "keyword": "amour fidèle",
+            "description": "Offerte entre amants et portée comme un gage de dévotion, la petite fleur bleue représente la constance et la sincérité d'un amour sincère qui survit à la distance et au temps."
+          }
+        ],
+        "toxicity": {
+          "headline": "Aucune toxicité signalée",
+          "active_compound_display": "Aucun signalé",
+          "notes_en": "Non signalé toxique.",
+          "human": {
+            "exposure": "Aucune voie d'exposition signalée.",
+            "effect": "Aucun effet toxique signalé.",
+            "note": "Aucune toxicité signalée pour les humains dans ce catalogue ; cela ne prouve pas que la plante est comestible ou inoffensive."
+          },
+          "dog": {
+            "exposure": "Aucune voie d'exposition signalée.",
+            "effect": "Aucun effet toxique signalé.",
+            "note": "Aucune toxicité signalée pour les chiens dans ce catalogue ; cela ne prouve pas que la plante est comestible ou inoffensive."
+          },
+          "cat": {
+            "exposure": "Aucune voie d'exposition signalée.",
+            "effect": "Aucun effet toxique signalé.",
+            "note": "Aucune toxicité signalée pour les chats dans ce catalogue ; cela ne prouve pas que la plante est comestible ou inoffensive."
+          }
+        }
+      }
+    },
+    "AAA1529": {
+      "source_hash": "7c40860fefabe68e66196fa722282c7aeca190e00f7623e4978d76d83420463e",
+      "fields": {
+        "common_name": "Fougère dorée",
+        "description": "Phlebodium aureum, communément appelé Polypode doré, est une fougère tropicale originaire d'Amérique centrale et du Sud et des Caraïbes. Ses frondes audacieuses et arquées, d'un bleu-vert, aux bords profondément lobés et ondulés, émergent de rhizomes dorés et laineux qui rampent sur le sol ou le bord des pots comme des doigts curieux. Prospérant sous une lumière indirecte et une humidité modérée, elle s'adapte sans effort aux intérieurs et aux patios ombragés. Non toxique pour les animaux et les humains, facile à entretenir et visuellement frappante toute l'année, elle fait partie des fougères d'intérieur les plus populaires au monde.",
+        "history_text_short": "Cultivée depuis longtemps dans les jardins botaniques européens depuis le XVIIe siècle, cette fougère aux rhizomes dorés des Amériques tropicales a captivé les passionnés victoriens et perdure aujourd'hui comme une plante d'intérieur appréciée dans le monde entier.",
+        "history_text_long": "Les peuples autochtones d'Amérique centrale et du Sud connaissaient Phlebodium aureum bien avant que les botanistes européens ne formalisent sa classification. Poussant de manière épiphyte sur les troncs d'arbres et les affleurements rocheux du Mexique à la Bolivie et dans toutes les Caraïbes, la fougère avait une place dans la médecine traditionnelle, avec des préparations utilisées pour traiter les affections cutanées et respiratoires.\n\nLes explorateurs européens rencontrèrent l'espèce à l'époque des Grandes Découvertes et rapportèrent des spécimens dans les jardins botaniques aux XVIIe et XVIIIe siècles. La plante suscita rapidement l'admiration pour ses rhizomes dorés et velus distinctifs—qui rampent audacieusement sur le sol et l'écorce—lui valant des noms évocateurs comme Polypode doré, Fougère patte de lapin et Fougère patte de lièvre.\n\nPendant la folie victorienne des fougères au XIXe siècle, connue sous le nom de « Ptéridomanie », Phlebodium aureum trouva sa place dans les salons à la mode, les serres et les caisses Wardian à travers la Grande-Bretagne et l'Europe. Les horticulteurs sélectionnèrent des formes et des couleurs, produisant des cultivars comme 'Mandaianum' aux frondes crêtées et ondulées, et plus tard l'énormément populaire 'Blue Star Fern' à la coloration bleu-vert acier.\n\nAujourd'hui, Phlebodium aureum reste un incontournable du monde des plantes d'intérieur, célébrée pour sa réputation de purificateur d'air, sa tolérance aux conditions de faible luminosité et sa présence architecturale saisissante.",
+        "name_origin": "Le nom de genre Phlebodium dérive du grec phlébion, signifiant « petite veine », en référence aux motifs de nervures complexes sur ses frondes. L'épithète spécifique aureum est latin pour « doré », célébrant la caractéristique la plus distinctive de la plante : ses rhizomes aux poils dorés qui rampent sur le sol et l'écorce.",
+        "symbolism_story": "Dans les forêts brumeuses d'Amérique centrale, Phlebodium aureum s'accroche aux arbres anciens, ses rhizomes dorés s'étendant régulièrement sur l'écorce et la pierre. Les cultures indigènes voyaient dans ses frondes qui se déploient un symbole de résilience—une plante qui ne se contente pas de survivre à l'ombre mais la transforme. La lente et patiente progression de ses rhizomes est devenue un emblème discret des nouveaux départs, rappelant à ceux qui en prennent soin que la croissance vient souvent des endroits négligés.",
+        "flower_meaning": "résilience",
+        "uses_list": [
+          {
+            "text": "Cultivée comme spécimen spectaculaire pour les salons, les bureaux et les patios ombragés, prisée pour ses frondes bleu-vert retombantes et sa forme architecturale"
+          },
+          {
+            "text": "La médecine traditionnelle en Amérique centrale utilise des préparations à base de rhizomes pour les affections cutanées et respiratoires"
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "résilience",
+            "description": "Prospérant sur les canopées des arbres et les affleurements rocheux où peu de plantes survivent, Phlebodium aureum incarne la persistance silencieuse et la grâce de s'épanouir à l'ombre"
+          },
+          {
+            "keyword": "nouveaux départs",
+            "description": "Chaque crosse enroulée qui se déploie symbolise depuis longtemps les nouveaux départs et le renouveau inarrêtable de la vie après l'obscurité"
           }
         ],
         "toxicity": {
