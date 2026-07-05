@@ -3,8 +3,8 @@
   "locale": "fr",
   "source": {
     "resource": "plants_detail.json",
-    "sha256": "56e6c15ae0ec041e08c3bca492041edae336f68a06023eed16ac7a1e6081bb96",
-    "record_count": 1529
+    "sha256": "a52462247eb746cc3c36faf36b56a282543d13acac9b8c2e84895263b080b5b3",
+    "record_count": 1539
   },
   "records": {
     "AAA0001": {
@@ -44462,7 +44462,7 @@
     "AAA0722": {
       "source_hash": "15114aca0f655e9edc0094cf841b4d283ef4eba1df656091df538bf54834c6b3",
       "fields": {
-        "history_text_short": "La laitue piquante est l'ancêtre sauvage direct de la laitue cultivée (L. sativa), domestiquée en Égypte ancienne il y a environ 4500 ans. Linné l'a décrit en 1756. Sa sève laiteuse a été utilisée par les médecins grecs et romains comme un sédatif doux de type opium appelé « lactucarium ».",
+        "history_text_short": "La laitue scariole est l'ancêtre sauvage direct de la laitue cultivée (L. sativa), domestiquée en Égypte ancienne il y a environ 4500 ans. Linné l'a décrite en 1756. Sa sève laiteuse a été utilisée par les médecins grecs et romains comme un sédatif doux de type opium appelé « lactucarium ».",
         "symbolism_story": "Prickly Lettuce porte un héritage sauvage comme la plante mère ancestrale de chaque laitue de jardin sur l'assiette de dîner moderne. Ses feuilles s'alignent souvent nord-sud en plein soleil, gagnant le titre populaire 'plante boussole' parmi les voyageurs ruraux. C'est l'ancêtre indocile de chaque vert tendre de salade — amer où ses descendants sont doux, piquant où ils sont doux, et un rappel tranquille de la sauvagerie dont nos verdures cultivées ont été tirées.",
         "toxicity": {
           "human": {
@@ -44488,7 +44488,7 @@
           "notes_en": "Non toxique selon l'ASPCA. Le latex a des propriétés sédatives légères mais un risque minimal en consommation occasionnelle."
         },
         "bloom_tip": "Tall panicles of small jaune fleurs summer to fall",
-        "description": "La laitue épineuse est l'ancêtre sauvage européen de la laitue cultivée, une mauvaise herbe annuelle ou bisannuelle grande naturalisée à travers les États-Unis. Atteignant 2 à 7 pieds de hauteur avec des feuilles épineuses qui se tordent verticalement pour faire face nord-sud (gagnant le surnom de plante boussole), elle produit de petites fleurs jaunes suivies de têtes de graines duveteuses ressemblant à des pissenlits. Une peste agricole nuisible dans les champs de grain de l'ouest des États-Unis et une mauvaise herbe commune de terrain perturbé de côte à côte.",
+        "description": "La laitue scariole est l'ancêtre sauvage européen de la laitue cultivée, une mauvaise herbe annuelle ou bisannuelle grande naturalisée à travers les États-Unis. Atteignant 2 à 7 pieds de hauteur avec des feuilles épineuses qui se tordent verticalement pour faire face nord-sud (gagnant le surnom de plante boussole), elle produit de petites fleurs jaunes suivies de têtes de graines duveteuses ressemblant à des pissenlits. Une peste agricole nuisible dans les champs de grain de l'ouest des États-Unis et une mauvaise herbe commune de terrain perturbé de côte à côte.",
         "symbolism_list": [
           {
             "description": "les feuilles s'alignent nord-sud en plein soleil",
@@ -44499,7 +44499,7 @@
             "keyword": "Laitue sauvage"
           }
         ],
-        "common_name": "Laitue sauvage",
+        "common_name": "Laitue scariole",
         "flower_meaning": "Héritage sauvage",
         "history_text_long": "Lactuca serriola est l'ancêtre sauvage de la laitue cultivée (L. sativa), domestiquée dans l'Égypte ancienne vers 2500 av. J.-C., où des peintures tombales la représentent associée au dieu de la fertilité Min. Linné a décrit la forme sauvage dans Centuria Plantarum II (1756). Le latex laiteux amer de la plante sauvage contient des lactones sesquiterpéniques, dont la lactucopicrine, un sédatif doux avec une activité sur les récepteurs opioïdes ; les médecins grecs, romains et médiévaux européens distillaient le latex en 'lactucarium' ou 'opium de laitue', utilisé comme somnifère léger et antitussif.\n\nAu XIXe siècle, des sociétés pharmaceutiques américaines, dont Eli Lilly, produisaient du lactucarium commercialement jusqu'au début des années 1900. Les sélectionneurs de plantes modernes utilisent les gènes de L. serriola pour introduire la résistance aux maladies dans les cultures de laitue.\n\nElle est également remarquable comme 'plante boussole' — les feuilles s'orientent nord-sud pour minimiser l'exposition au soleil de midi. Des biotypes résistants aux herbicides ont émergé dans l'ouest des États-Unis, en faisant un ravageur agricole moderne sérieux.",
         "name_origin": "'Lactuca' du latin 'lac' signifiant lait, pour la sève blanche ; 'serriola' fait référence aux feuilles dentelées.",
@@ -94081,6 +94081,590 @@
             "exposure": "Aucune voie d'exposition signalée.",
             "effect": "Aucun effet toxique signalé.",
             "note": "Aucune toxicité signalée pour les chats dans ce catalogue ; cela ne prouve pas que la plante soit comestible ou inoffensive."
+          }
+        }
+      }
+    },
+    "AAA1530": {
+      "source_hash": "ee650af36fd0824fc64642eaff7315c55e1125789f80e1dcfd97853de8f7906e",
+      "fields": {
+        "common_name": "Agapanthe pendante",
+        "bloom_tip": "Les fleurs de cette plante fleurissent en été, vibrantes et accrocheuses.",
+        "fruit_tip": "Le fruit mature a une valeur ornementale, avec un aspect sombre qui attire l'attention.",
+        "description": "L'Agapanthus inapertus, ou agapanthe retombante, est une vivace sud-africaine gracieuse prisée pour ses grappes de fleurs pendantes. Contrairement à la plupart des agapanthes, elle produit des fleurs tubulaires serrées, d'un bleu violacé profond à indigo, qui pendent en ombelles retombantes au sommet de tiges hautes de juin à août. Son feuillage en forme de lanières forme des touffes soignées, et les gousses noires ornementales offrent un intérêt automnal. Un choix élégant pour les bordures ensoleillées et les conteneurs dans les zones 7 à 10.",
+        "history_text_short": "Nommé du latin inapertus — 'ne s'ouvrant pas' — pour ses fleurs tubulaires pendantes qui ne s'étalent jamais largement, cet indigène sud-africain était prisé par les chasseurs de plantes victoriens et reste apprécié pour ses riches fleurs retombantes bleu violacé et ses gousses noires ornementales.",
+        "history_text_long": "L'Agapanthus inapertus appartient à un genre dont le nom dérive du grec agape (amour) et anthos (fleur), un hommage poétique offert par les botanistes captivés par la beauté de la plante. Alors que l'Agapanthus africanus a atteint les jardins européens au XVIIe siècle, l'espèce montagnarde A. inapertus est restée largement inconnue de l'horticulture occidentale jusqu'à des expéditions ultérieures dans les prairies montagnardes du Mpumalanga, du KwaZulu-Natal et du Zimbabwe.\n\nCe qui distingue A. inapertus de ses proches est sa morphologie florale tubulaire unique. Le nom d'espèce inapertus — latin pour 'ne s'ouvrant pas' — fait référence aux fleurs tubulaires pendantes et fermées qui forment des grappes retombantes sur des tiges arquées, bien différentes des fleurs en trompette largement ouvertes de A. africanus. La coloration indigo profond à bleu violacé est parmi les plus riches du genre, prisée par les jardiniers travaillant avec des palettes de couleurs froides.\n\nL'espèce prospère dans les prairies d'été pluvieuses d'Afrique australe, poussant aux côtés d'herbes sur les collines rocheuses et les bords de ruisseaux. Dans la tradition zouloue, les espèces d'agapanthes apparentées sont connues sous le nom d'isicakathi et utilisées dans les cérémonies de grossesse pour assurer des enfants en bonne santé, symbolisant l'amour et la fertilité. Les gousses noires ornementales persistent bien en automne, ajoutant une seconde saison d'intérêt visuel et attirant les oiseaux. Aujourd'hui, A. inapertus est reconnue comme l'une des espèces d'agapanthes les plus dignes d'un jardin, gagnant des admirateurs dans les jardins spécialisés à travers l'Europe, l'Australasie et l'Amérique du Nord.",
+        "name_origin": "Du grec agape (amour) et anthos (fleur), reflétant la beauté ornementale exceptionnelle du genre. L'épithète spécifique inapertus est latin pour 'ne pas ouvert' ou 'ne s'ouvrant pas', décrivant les fleurs tubulaires unique en leur genre, pendantes, qui tombent sans s'étaler largement — une caractéristique qui distingue cette espèce des autres agapanthes.",
+        "symbolism_story": "Dans la tradition zouloue sud-africaine, l'agapanthe représente l'amour, la fertilité et la protection. La plante est intégrée aux rituels de grossesse, portée comme une bénédiction pour des enfants en bonne santé. Les fleurs unique en leur genre pendantes de l'inapertus — tenues près, ne s'ouvrant jamais complètement — portent une signification de dévotion silencieuse et de réserve douce, une beauté tournée vers l'intérieur plutôt que vers l'extérieur, un rappel que tout amour ne s'annonce pas bruyamment.",
+        "flower_meaning": "Amour",
+        "fragrance": {
+          "notes": "Léger parfum sucré des fleurs tubulaires"
+        },
+        "uses_list": [
+          {
+            "text": "Grappes retombantes bleu violacé sur tiges hautes, adaptées aux bordures ensoleillées et aux conteneurs"
+          },
+          {
+            "text": "Les fleurs tubulaires attirent les souimangas dans leur habitat d'origine et les colibris en culture"
+          },
+          {
+            "text": "Les longues tiges aux capitules pendants font de superbes compositions"
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Amour",
+            "description": "Le nom du genre, du grec agape (amour) et anthos (fleur), inscrit l'affection dans l'identité de la plante"
+          },
+          {
+            "keyword": "Élégance",
+            "description": "Les grappes retombantes pendantes incarnent une beauté raffinée et discrète"
+          },
+          {
+            "keyword": "Dévotion",
+            "description": "Persiste et revient fidèlement saison après saison, symbolisant un engagement inébranlable"
+          }
+        ],
+        "toxicity": {
+          "headline": "Humains Modéré",
+          "active_compound_display": "saponines",
+          "notes_en": "Contient des saponines ; la sève irrite la peau et les muqueuses, l'ingestion provoque des troubles gastro-intestinaux.",
+          "human": {
+            "exposure": "Contact avec la sève et les racines. Ingestion de sève et de racines.",
+            "effect": "Irritation cutanée, irritation de la bouche et de la gorge, et nausées.",
+            "note": "Contient des saponines ; la sève irrite la peau et les muqueuses, l'ingestion provoque des troubles gastro-intestinaux.",
+            "symptoms": [
+              "Irritation cutanée.",
+              "Irritation de la bouche et de la gorge.",
+              "Nausées."
+            ]
+          },
+          "dog": {
+            "exposure": "Aucune voie d'exposition signalée.",
+            "effect": "Aucun effet toxique signalé.",
+            "note": "La toxicité pour les chiens n'est pas bien documentée ; utilisez avec prudence jusqu'à vérification."
+          },
+          "cat": {
+            "exposure": "Aucune voie d'exposition signalée.",
+            "effect": "Aucun effet toxique signalé.",
+            "note": "La toxicité pour les chats n'est pas bien documentée ; utilisez avec prudence jusqu'à vérification."
+          }
+        }
+      }
+    },
+    "AAA1531": {
+      "source_hash": "83019e8a6cd1179c1631ee3e9f6754f42777a2a5a73b7f55e9af2a50e120f86e",
+      "fields": {
+        "common_name": "Bougainvillée",
+        "bloom_tip": "C'est une plante à longue période de floraison, fleurissant généralement de la fin du printemps à l'automne.",
+        "description": "Le Bougainvillea × buttiana est un arbuste grimpant tropical vigoureux, célèbre pour son superbe étalage de bractées colorées—des feuilles modifiées papyracées dans des tons de violet, magenta, rouge et orange qui entourent de minuscules fleurs blanches. Originaire d'Amérique du Sud et largement cultivé dans les jardins tropicaux et subtropicaux, il prospère en plein soleil et dans des sols bien drainés, tolérant la sécheresse une fois établi. Ce grimpeur à longue floraison couvre les murs, clôtures et treillis de couleurs spectaculaires du printemps à l'automne.",
+        "history_text_short": "Nommé d'après le navigateur français Louis-Antoine de Bougainville, ce grimpeur sud-américain fut introduit dans les jardins européens à la fin du 18e siècle. Ses bractées aux couleurs vives—longtemps prises pour des pétales—en firent une sensation immédiate dans les jardins tropicaux du monde entier.",
+        "history_text_long": "Le Bougainvillea × buttiana trouve ses origines sur les falaises côtières luxuriantes d'Amérique du Sud, où les bougainvilliers sauvages s'accrochent aux pentes rocheuses avec une ténacité remarquable. Le genre fut nommé en l'honneur de Louis-Antoine de Bougainville, le premier Français à avoir fait le tour du monde. En 1767, le botaniste Philibert Commerçon découvrit la vigne grimpante flamboyante au Brésil lors de l'expédition pacifique de Bougainville et la nomma d'après son commandant.\n\nLes 'fleurs' vives de la plante sont une illusion botanique : les couleurs brillantes sont en réalité des bractées—des feuilles modifiées—qui entourent trois minuscules fleurs tubulaires blanches discrètes. Cette supercherie est si efficace que les premiers explorateurs européens furent eux-mêmes trompés.\n\nLe Bougainvillea × buttiana est un hybride entre Bougainvillea glabra et Bougainvillea peruviana, documenté pour la première fois à Trinité-et-Tobago et largement distribué dans les colonies britanniques. Au 20e siècle, des centaines de cultivars avaient été développés dans des teintes allant du blanc et jaune au cramoisi profond et au magenta vif.\n\nEn Chine, la plante est appelée 三角梅 (Sān jiǎo méi)—fleur de prunier triangulaire—pour la formation de trois bractées entourant chaque groupe de fleurs. C'est la fleur nationale de la Grenade et l'emblème de villes comme Los Angeles, Miami, Taipei et Mumbai, célébrée dans les cultures tropicales comme symbole de chaleur, d'abondance et d'exubérance.",
+        "name_origin": "Nommé d'après Louis-Antoine de Bougainville (1729–1811), amiral français qui mena la première circumnavigation française du globe. Le botaniste Philibert Commerçon nomma le genre en son honneur en 1767. L'épithète buttiana commémore Mme R.J. Butt, une ancienne jardinière en chef à Trinité-et-Tobago où cet hybride fut documenté pour la première fois.",
+        "symbolism_story": "Dans les cultures tropicales du Brésil à la Thaïlande, le bougainvillier est la plante de la célébration—drapé sur les portails, suspendu au-dessus des portes, planté lors des festivités. Les bractées flamboyantes, avec leur intensité de couleur improbable, portent un message universel de bienvenue et d'abondance. Dans la tradition des jardins chinois, le 三角梅 est planté pour la chance et la prospérité, ses groupes de trois bractées faisant écho au nombre de la bonne fortune. Le langage des fleurs victorien associait son étalage vif à l'émotion passionnée.",
+        "flower_meaning": "Passion",
+        "fragrance": {
+          "notes": "Les petites fleurs blanches dégagent un léger parfum sucré"
+        },
+        "uses_list": [
+          {
+            "text": "Des étalages spectaculaires de bractées couvrent les murs, clôtures et treillis de couleurs vives"
+          },
+          {
+            "text": "Les vraies fleurs blanches attirent les colibris et les papillons"
+          },
+          {
+            "text": "Bractées durables utilisées dans les arrangements floraux tropicaux"
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Passion",
+            "description": "Les bractées flamboyantes en magenta et cramoisi évoquent une émotion intense et une ardeur romantique"
+          },
+          {
+            "keyword": "Résilience",
+            "description": "Prospère dans la sécheresse et les sols pauvres, symbolisant la force face à l'adversité"
+          },
+          {
+            "keyword": "Bienvenue",
+            "description": "Planté aux entrées dans les cultures tropicales comme symbole de chaleur et d'hospitalité"
+          }
+        ],
+        "toxicity": {
+          "headline": "Aucune toxicité signalée",
+          "active_compound_display": "Aucun signalé",
+          "notes_en": "Aucune correspondance de toxicité faisant autorité trouvée ; traitée comme non signalée (l'estimation du LLM n'est pas vérifiée par une source).",
+          "human": {
+            "exposure": "Aucune voie d'exposition n'est signalée.",
+            "effect": "Aucun effet toxique n'est signalé.",
+            "note": "La toxicité pour l'homme n'est pas bien documentée ; soyez prudent jusqu'à vérification."
+          },
+          "dog": {
+            "exposure": "Aucune voie d'exposition n'est signalée.",
+            "effect": "Aucun effet toxique n'est signalé.",
+            "note": "Aucune toxicité n'est signalée pour les chiens dans ce catalogue ; cela ne prouve pas que la plante soit comestible ou inoffensive."
+          },
+          "cat": {
+            "exposure": "Aucune voie d'exposition n'est signalée.",
+            "effect": "Aucun effet toxique n'est signalé.",
+            "note": "Aucune toxicité n'est signalée pour les chats dans ce catalogue ; cela ne prouve pas que la plante soit comestible ou inoffensive."
+          }
+        }
+      }
+    },
+    "AAA1532": {
+      "source_hash": "1d5b1d9ca182639f5d12814228df743012931ac8857d07e08b35f7e5330af435",
+      "fields": {
+        "common_name": "Chondrille jonciforme",
+        "bloom_tip": "Cette plante fleurit en été, avec des fleurs vibrantes qui attirent de nombreux pollinisateurs.",
+        "description": "Chondrilla juncea, communément appelée chondrille à tige de jonc ou chondrille effilée, est une herbacée vivace originaire d'Europe et d'Asie occidentale, aujourd'hui naturalisée sur plusieurs continents. Des tiges dressées, semblables à des joncs, émergent d'une racine pivotante profonde, portant des feuilles basales clairsemées et profondément lobées et de petites fleurs jaunes ressemblant à des pissenlits, de l'été à l'automne. Le latex laiteux et gommeux lui vaut le nom de chondrille effilée. Survivante remarquable, elle prospère dans les habitats perturbés, les bords de routes et les cultures en zones arides où d'autres plantes peinent à pousser.",
+        "history_text_short": "La chondrille à tige de jonc a voyagé à travers le monde comme compagnon agricole accidentel, aujourd'hui classée comme mauvaise herbe nuisible dans de nombreuses régions. Malgré sa réputation, la plante a une longue histoire en médecine traditionnelle en Europe et en Asie, et son latex gommeux était apparemment mâché dans certaines régions rurales d'Eurasie.",
+        "history_text_long": "Chondrilla juncea est originaire des steppes méditerranéennes et d'Asie centrale, où elle pousse sur des sols secs et perturbés—une caractéristique qui en a fait une voyageuse mondiale aux côtés de l'agriculture. Arrivée pour la première fois en Amérique du Nord avec des cargaisons de céréales contaminées, elle s'est établie dans les zones arides de la Californie au Kansas et a été classée parmi les pires mauvaises herbes nuisibles au monde, causant des pertes importantes dans les cultures céréalières par compétition et allélopathie.\n\nLe nom de genre Chondrilla vient du grec chondros (cartilage ou gristle), en référence au latex gommeux qui suinte des tiges coupées—la même propriété qui donne à la plante son nom commun de chondrille effilée. Ce latex laiteux était apparemment mâché comme stimulant léger dans certaines régions rurales d'Eurasie, et les racines et jeunes feuilles étaient parfois bouillies comme légumes verts en période de disette.\n\nL'histoire de la plante comporte également un chapitre scientifique plus prometteur. Dans les années 1970, des chercheurs en lutte biologique ont introduit un champignon de rouille (Puccinia chondrillina) d'Europe en Australie et aux États-Unis comme agent de lutte biologique sélectif, l'un des premiers exemples réussis de lutte biologique classique en action. Le projet a démontré que les ennemis naturels de l'aire d'origine d'une mauvaise herbe peuvent fournir un contrôle durable à long terme sans herbicides chimiques.",
+        "name_origin": "Du grec chondros (cartilage, gristle), en référence à la sève gommeuse et cartilagineuse qui exsude des tiges coupées. L'épithète spécifique juncea signifie 'semblable au jonc' en latin, décrivant l'apparence fine et élancée de la plante.",
+        "symbolism_story": "La chondrille à tige de jonc est une plante des marges et des oubliettes—bords de routes, champs abandonnés et zones arides où l'agriculture a mis le sol à nu. Sa silhouette fine et ses petites fleurs jaunes offrent une beauté sobre aux lieux inhospitaliers. Son histoire de propagation mondiale est une mise en garde sur l'interconnexion de l'agriculture, du commerce et de l'écologie.",
+        "flower_meaning": "Persistance",
+        "uses_list": [
+          {
+            "text": "Jeunes racines et feuilles parfois bouillies comme légume vert dans la tradition populaire eurasienne"
+          },
+          {
+            "text": "Latex gommeux utilisé historiquement comme préparation topique et stimulant léger"
+          },
+          {
+            "text": "Les petites fleurs jaunes fournissent du nectar aux abeilles et aux syrphes dans les habitats secs d'été"
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Persistance",
+            "description": "Une racine pivotante profonde et une constitution résistante à la sécheresse lui permettent de survivre là où rien d'autre ne pousse"
+          },
+          {
+            "keyword": "Adaptabilité",
+            "description": "A colonisé plusieurs continents, prospérant dans des climats variés et des habitats perturbés"
+          }
+        ],
+        "toxicity": {
+          "headline": "Aucune toxicité signalée",
+          "active_compound_display": "Aucun signalé",
+          "notes_en": "Aucune correspondance de toxicité faisant autorité trouvée ; traitée comme non signalée (estimation LLM non vérifiée par une source).",
+          "human": {
+            "exposure": "Aucune voie d'exposition signalée.",
+            "effect": "Aucun effet toxique signalé.",
+            "note": "Aucune toxicité pour les humains n'est signalée dans ce catalogue ; cela ne prouve pas que la plante est comestible ou inoffensive."
+          },
+          "dog": {
+            "exposure": "Aucune voie d'exposition signalée.",
+            "effect": "Aucun effet toxique signalé.",
+            "note": "Aucune toxicité pour les chiens n'est signalée dans ce catalogue ; cela ne prouve pas que la plante est comestible ou inoffensive."
+          },
+          "cat": {
+            "exposure": "Aucune voie d'exposition signalée.",
+            "effect": "Aucun effet toxique signalé.",
+            "note": "Aucune toxicité pour les chats n'est signalée dans ce catalogue ; cela ne prouve pas que la plante est comestible ou inoffensive."
+          }
+        }
+      }
+    },
+    "AAA1533": {
+      "source_hash": "9f373c2adac4d13017625bb9a618cd377e61f9b358d225d4d1074cb2ce61e048",
+      "fields": {
+        "common_name": "Orchidée Dracula Van Houtte",
+        "bloom_tip": "La période de floraison est courte, et les fleurs sont uniques et charmantes.",
+        "description": "Dracula houtteana est une orchidée épiphyte de climat frais originaire des forêts de nuages andines d'Équateur et du Pérou. Elle produit des fleurs pendantes distinctives avec de longs éperons traînants en forme de queue et un labelle en forme exacte de chapeau de champignon — une tromperie évoluée pour attirer les moucherons fongiques pour la pollinisation. Les fleurs marquées de pourpre foncé pendent sur des épis arqués de mai à juin. Nommée en l'honneur de l'horticulteur belge Louis Van Houtte, cette orchidée de collection prisée nécessite des conditions fraîches et humides.",
+        "history_text_short": "Nommée d'après l'horticulteur belge Louis Van Houtte et formellement décrite dans le genre Dracula par le botaniste Carlyle Luer en 1978, cette orchidée andine de climat frais attire les pollinisateurs par une tromperie remarquable — son labelle en forme de champignon trompe les moucherons fongiques, ce qui en fait l'une des orchidées les plus intrigantes des collections spécialisées.",
+        "history_text_long": "Le genre Dracula a été établi par le botaniste américain Carlyle Luer en 1978, lorsqu'il l'a séparé du genre proche Masdevallia. Le nom Dracula, du latin signifiant « petit dragon », fait référence aux longs éperons en forme de crocs qui s'étendent de chaque fleur — une apparence qui a suggéré la créature mythologique à l'imagination de Luer.\n\nDracula houtteana doit son nom d'espèce à Louis Van Houtte (1810–1876), le célèbre horticulteur belge dont la pépinière de Gand était l'une des plus influentes d'Europe. Van Houtte a introduit des centaines de plantes exotiques dans les jardins occidentaux et a publié la revue de référence Flore des Serres et des Jardins de l'Europe. Nommer cette orchidée en son honneur reconnaît le rôle vital de la culture des pépinières du XIXe siècle dans la diffusion des plantes des forêts de nuages.\n\nToutes les espèces de Dracula sont originaires des forêts de nuages andines de Colombie, d'Équateur et du Pérou — des habitats de brume fraîche perpétuelle, d'humidité élevée et de températures modérées à 1 500–2 500 mètres d'altitude. Les orchidées poussent comme épiphytes sur des branches moussues à l'ombre permanente.\n\nLa caractéristique la plus extraordinaire des fleurs de Dracula est leur stratégie de pollinisation. Le labelle est en forme exacte de chapeau d'un petit champignon, et la fleur émet une odeur fongique pour attirer les moucherons fongiques (Bradysia spp.). Les moucherons entrent cherchant un champignon pour pondre leurs œufs, transférant involontairement le pollen entre les fleurs — l'un des cas les plus remarquables de mimétisme floral dans le règne végétal.",
+        "name_origin": "Le nom de genre Dracula vient du latin signifiant « petit dragon », inventé par le botaniste Carlyle Luer pour les longs éperons en forme de crocs de la fleur. L'épithète spécifique houtteana honore Louis Van Houtte (1810–1876), horticulteur belge et passionné d'orchidées dont la pépinière de Gand était l'une des plus influentes du XIXe siècle.",
+        "symbolism_story": "L'orchidée Dracula n'offre pas de nectar — elle trompe. Son labelle en forme de champignon et son odeur fongique créent une illusion élaborée, trompant les moucherons pour qu'ils entrent dans sa fleur à la recherche d'un endroit où pondre leurs œufs. Cette stratégie extraordinaire, affinée depuis des millions d'années, nous rappelle que dans la nature, la beauté et la tromperie sont souvent inséparables — et que les formes les plus spectaculaires peuvent cacher les plans les plus rusés.",
+        "flower_meaning": "Mystère",
+        "fragrance": {
+          "notes": "Les fleurs dégagent une odeur de moisi, semblable à celle des champignons, pour attirer les moucherons fongiques pollinisateurs"
+        },
+        "uses_list": [
+          {
+            "text": "Fleurs pendantes extraordinaires avec des lèvres en forme de champignon prisées par les collectionneurs spécialisés d'orchidées"
+          },
+          {
+            "text": "Fleurs uniques imitant les champignons qui attirent les moucherons fongiques par la tromperie de l'odeur et de la forme"
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Mystère",
+            "description": "Vit dans la brume perpétuelle des montagnes, produisant des fleurs qui imitent les champignons — un spécialiste des lieux cachés et extraordinaires"
+          },
+          {
+            "keyword": "Tromperie",
+            "description": "Le labelle en forme de champignon trompe les moucherons par mimétisme, symbolisant l'utilisation de l'illusion par la nature pour atteindre ses fins"
+          }
+        ],
+        "toxicity": {
+          "headline": "Aucune toxicité signalée",
+          "active_compound_display": "Aucun signalé",
+          "notes_en": "Aucune correspondance de toxicité faisant autorité trouvée ; traitée comme non signalée (estimation LLM non vérifiée par une source).",
+          "human": {
+            "exposure": "Aucune voie d'exposition signalée.",
+            "effect": "Aucun effet toxique signalé.",
+            "note": "Aucune toxicité rapportée pour les humains dans ce catalogue ; cela ne prouve pas que la plante soit comestible ou inoffensive."
+          },
+          "dog": {
+            "exposure": "Aucune voie d'exposition signalée.",
+            "effect": "Aucun effet toxique signalé.",
+            "note": "Aucune toxicité rapportée pour les chiens dans ce catalogue ; cela ne prouve pas que la plante soit comestible ou inoffensive."
+          },
+          "cat": {
+            "exposure": "Aucune voie d'exposition signalée.",
+            "effect": "Aucun effet toxique signalé.",
+            "note": "Aucune toxicité rapportée pour les chats dans ce catalogue ; cela ne prouve pas que la plante soit comestible ou inoffensive."
+          }
+        }
+      }
+    },
+    "AAA1534": {
+      "source_hash": "a654d882b84cbfb58f7cd117a3ac6c7afbb621a7371f7e7c25d0090439e943cf",
+      "fields": {
+        "common_name": "Échinops bleu",
+        "bloom_tip": "Produit de superbes fleurs sphériques bleues de la fin du printemps à l'été.",
+        "description": "L'Echinops bannaticus, ou Échinops bleu, est une vivace remarquable originaire de la région du Banat en Europe du Sud-Est. Il produit des capitules parfaitement sphériques, d'un bleu acier métallique, sur de hautes tiges ramifiées de juin à août. Les fleurs architecturales audacieuses, chacune composée de dizaines de minuscules fleurons en forme d'étoile, créent des points focaux spectaculaires dans les bordures et les plantations naturalistes. Une tolérance exceptionnelle à la sécheresse et une rusticité jusqu'en zone 3 en font l'un des chardons ornementaux les plus fiables pour les jardins tempérés.",
+        "history_text_short": "Originaire de la région du Banat en Europe du Sud-Est, l'Échinops bleu est devenu un incontournable du design de 'jardin sauvage' victorien. Ses capitules parfaitement sphériques d'un bleu acier attiraient les abeilles et les défenseurs des plantations naturalistes—une tradition qui se poursuit dans les jardins pour pollinisateurs du monde entier.",
+        "history_text_long": "L'Echinops bannaticus doit son nom d'espèce au Banat, une région historique aujourd'hui partagée entre la Roumanie, la Serbie et la Hongrie, où la plante pousse à l'état sauvage dans les prairies ouvertes, les pentes rocheuses et les lisières boisées. Le nom de genre Echinops dérive du grec echinos (hérisson) et ops (ressemblance), une description appropriée pour les capitules sphériques et épineux qui se hérissent de minuscules fleurons en forme d'étoile.\n\nLes Échinops étaient cultivés dans les jardins européens depuis au moins le XVIIe siècle, lorsque les plantes architecturales audacieuses étaient à la mode. Mais c'est le mouvement du 'jardin sauvage' du XIXe siècle, défendu par le jardinier irlandais William Robinson dans son influent livre de 1870 The Wild Garden, qui a élevé l'Echinops au rang de pièce maîtresse de la conception naturaliste. Robinson a vanté les Échinops comme des plantes idéales pour le jardin naturaliste—une approche qui anticipait les plantations de style prairie et steppe du XXIe siècle de plus d'un siècle.\n\nLes capitules bleu-violet métallique attirent en grand nombre les bourdons, les abeilles solitaires et les papillons. Les capitules séchés, qui conservent leur forme sphérique et leur couleur bleue pendant des mois, sont prisés par les fleuristes et les artisans du monde entier. Rustique jusqu'en zone USDA 3 et tolérant à la sécheresse, aux sols pauvres et à la négligence générale, l'Échinops bleu reste un pilier de la bordure de vivaces à faible entretien.",
+        "name_origin": "Du grec echinos (hérisson) et ops (ressemblance), décrivant les capitules sphériques et épineux. L'épithète spécifique bannaticus fait référence au Banat, une région historique d'Europe du Sud-Est (actuelle Roumanie, Serbie et Hongrie) où cette espèce pousse à l'état sauvage.",
+        "symbolism_story": "Le capitule parfaitement sphérique de l'Échinops—chacun composé de centaines de minuscules fleurons en forme d'étoile—a été interprété comme un symbole du cosmos et du collectif : le multiple devenant un. Son bleu métallique profond lui a valu d'être associé à la sagesse et au calme dans les traditions florales européennes. Dans le jardin, il constitue un ancrage architectural, attirant l'attention et attirant des foules d'abeilles sans effort.",
+        "flower_meaning": "Unicité",
+        "uses_list": [
+          {
+            "text": "Capitules sphériques bleus architecturaux créant des points focaux spectaculaires dans les bordures"
+          },
+          {
+            "text": "Attire les bourdons, les abeilles solitaires et les papillons en grand nombre"
+          },
+          {
+            "text": "Les capitules séchés conservent leur forme sphérique et leur couleur bleu profond pendant des mois"
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Unicité",
+            "description": "Le capitule parfaitement sphérique se distingue parmi toutes les fleurs du jardin—rien de tel"
+          },
+          {
+            "keyword": "Résilience",
+            "description": "Prospère en situation sèche et dans les sols pauvres, revenant année après année sans attention"
+          },
+          {
+            "keyword": "Unité",
+            "description": "Chaque globe est composé de centaines de minuscules fleurons—force et beauté par la totalité collective"
+          }
+        ],
+        "toxicity": {
+          "headline": "Sans danger pour les animaux",
+          "active_compound_display": "Aucun signalé",
+          "notes_en": "Aucune correspondance de toxicité faisant autorité trouvée ; traitée comme non signalée (estimation LLM non vérifiée par une source).",
+          "human": {
+            "exposure": "Aucune voie d'exposition signalée.",
+            "effect": "Aucun effet toxique signalé.",
+            "note": "Aucune toxicité pour l'homme signalée dans ce catalogue ; cela ne prouve pas que la plante soit comestible ou inoffensive."
+          },
+          "dog": {
+            "exposure": "Aucune voie d'exposition signalée.",
+            "effect": "Aucun effet toxique signalé.",
+            "note": "Des sources autorisées indiquent que cette plante n'est pas toxique pour les chiens ; cela ne prouve pas que la plante soit comestible."
+          },
+          "cat": {
+            "exposure": "Aucune voie d'exposition signalée.",
+            "effect": "Aucun effet toxique signalé.",
+            "note": "Des sources autorisées indiquent que cette plante n'est pas toxique pour les chats ; cela ne prouve pas que la plante soit comestible."
+          }
+        }
+      }
+    },
+    "AAA1535": {
+      "source_hash": "989c8145322eaec160ed985998a4f0332d2fd8e930b7ad2fe36688a48d72b69c",
+      "fields": {
+        "common_name": "Nourriture de chacal",
+        "description": "Hydnora africana, connue sous les noms de Jakkalskos ou Fleur souterraine africaine, est l'une des plantes les plus extraordinaires de la Terre — un holoparasite sans feuilles, racines ni chlorophylle. Vivant entièrement sous terre en parasitant les racines d'Euphorbia, elle ne se révèle que lorsque sa fleur bulbeuse et charnue jaillit du sol. La fleur orange et brune, en forme de bouche extraterrestre aux lèvres lobées, piège temporairement les coléoptères pour la pollinisation. Ses fruits comestibles ressemblant à des pommes de terre sont appréciés des chacals et des peuples autochtones.",
+        "history_text_short": "Pendant des siècles, les peuples San et Khoikhoi d'Afrique australe ont déterré les fruits ressemblant à des pommes de terre d'Hydnora africana — connus sous le nom de Jakkalskos — du sol désertique. Le fruit et la racine sont comestibles. La fleur d'apparence extraterrestre fascine les botanistes occidentaux depuis que Carl Peter Thunberg l'a décrite pour la première fois en 1775.",
+        "history_text_long": "Hydnora africana fait partie des plantes les plus botaniquement inhabituelles sur Terre. Holoparasite — tirant toute sa nutrition de son hôte — elle a évolué pour perdre complètement feuilles, racines et chlorophylle. Il ne reste qu'un enchevêtrement souterrain de tiges ressemblant à des rhizomes qui s'enroulent autour des racines d'espèces d'Euphorbia et d'autres Euphorbiaceae.\n\nLorsque les conditions le permettent — notamment après les pluies dans le karoo aride d'Afrique du Sud — une seule fleur charnue émerge de la surface du sol. La floraison est frappante : une structure brun-orange lobée ressemblant à un champignon ou une anémone de mer, munie de dents à pointes orange. L'intérieur génère de la chaleur par thermogenèse pour attirer les coléoptères, qui sont temporairement piégés et pollinisés avant que les lobes ne se relâchent et les libèrent.\n\nLe nom commun Jakkalskos (afrikaans pour 'nourriture de chacal') reflète la pratique ancienne des chacals et autres animaux qui déterrent le fruit. Les baies comestibles — ressemblant à de petites pommes de terre et ayant un goût de châtaigne — sont une source de nourriture pour les peuples San et Khoikhoi depuis des générations, consommées crues, rôties ou séchées. La racine est également utilisée en médecine traditionnelle en Afrique australe, notamment comme astringent pour tanner les peaux et traiter la diarrhée.\n\nDécrite pour la première fois par le naturaliste suédois Carl Peter Thunberg en 1775, Hydnora africana était connue depuis longtemps des peuples autochtones. Son apparence bizarre, son mode de vie souterrain et son habitude parasitaire en ont fait un sujet perpétuel de fascination dans l'illustration botanique et la science des plantes.",
+        "name_origin": "Le nom de genre Hydnora est probablement dérivé du grec hydnon (truffe), en référence à la croissance souterraine de la plante et à son existence semblable à celle d'une truffe. L'épithète spécifique africana indique son origine sud-africaine.",
+        "symbolism_story": "Hydnora africana fleurit à partir du sol désertique nu, sans feuilles, sans tiges, sans vert — juste une étrange bouche charnue poussant à travers la terre. Pour le peuple San, c'était de la nourriture venue du sous-sol, une nourriture venue de lieux impossibles. Pour la science moderne, elle représente la limite extrême des possibilités de l'évolution : une plante qui a abandonné tout ce qui rend une plante reconnaissable, échangeant l'indépendance contre la simplicité radicale de la dépendance totale.",
+        "flower_meaning": "Mystère",
+        "fragrance": {
+          "notes": "Les fleurs émettent un parfum sucré et putride pour attirer les coléoptères pollinisateurs"
+        },
+        "uses_list": [
+          {
+            "text": "Fruits ressemblant à des pommes de terre consommés crus, rôtis ou séchés par les peuples autochtones d'Afrique australe"
+          },
+          {
+            "text": "Racines astringentes utilisées en médecine traditionnelle pour tanner les peaux et traiter la diarrhée"
+          },
+          {
+            "text": "Fruits consommés par les chacals et autres animaux du désert, dispersant les graines dans les habitats arides"
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Mystère",
+            "description": "Vit entièrement cachée sous terre, visible uniquement par sa fleur extraordinaire — symbole de profondeurs cachées"
+          },
+          {
+            "keyword": "Survie",
+            "description": "A complètement abandonné la photosynthèse, se réduisant à une adaptation parasitaire extrême pour survivre"
+          }
+        ],
+        "toxicity": {
+          "headline": "Aucune toxicité signalée",
+          "active_compound_display": "Aucun signalé",
+          "notes_en": "Aucune correspondance de toxicité faisant autorité trouvée ; traitée comme non signalée (estimation LLM non vérifiée par une source).",
+          "human": {
+            "exposure": "Aucune voie d'exposition signalée.",
+            "effect": "Aucun effet toxique signalé.",
+            "note": "Aucune toxicité pour les humains n'est signalée dans ce catalogue ; cela ne prouve pas que la plante soit comestible ou inoffensive."
+          },
+          "dog": {
+            "exposure": "Aucune voie d'exposition signalée.",
+            "effect": "Aucun effet toxique signalé.",
+            "note": "Aucune toxicité pour les chiens n'est signalée dans ce catalogue ; cela ne prouve pas que la plante soit comestible ou inoffensive."
+          },
+          "cat": {
+            "exposure": "Aucune voie d'exposition signalée.",
+            "effect": "Aucun effet toxique signalé.",
+            "note": "Aucune toxicité pour les chats n'est signalée dans ce catalogue ; cela ne prouve pas que la plante soit comestible ou inoffensive."
+          }
+        }
+      }
+    },
+    "AAA1536": {
+      "source_hash": "31861c7bffe51bf00f22fd28531377331c224fbba83c7d11ea062f113ce5ffb0",
+      "fields": {
+        "common_name": "Laitue à feuilles de saule",
+        "description": "Lactuca saligna, la Laitue à feuilles de saule, est une plante annuelle ou bisannuelle élancée originaire des prairies et des sols perturbés d'Europe et d'Asie. Ses feuilles étroites, semblables à celles du saule, enserrent des tiges dressées qui portent en été des grappes de petites fleurs jaune pâle. Les jeunes feuilles tendres sont comestibles, avec une légère amertume, apparentées à la laitue cultivée. Plante résistante des bords de champs et des routes, elle présente un intérêt botanique en tant que donneuse de résistance aux maladies pour les programmes d'amélioration de la laitue.",
+        "history_text_short": "Parent sauvage de la laitue cultivée, Lactuca saligna est cueillie comme salade verte depuis l'antiquité. Remarquée par les botanistes classiques dont Dioscoride, elle pousse en marge de l'habitat humain—jamais tout à fait cultivée, jamais tout à fait sauvage—et a contribué des gènes de résistance aux maladies à l'amélioration moderne de la laitue.",
+        "history_text_long": "Lactuca saligna appartient au même genre que la laitue cultivée (Lactuca sativa), partageant une relation évolutive étroite qui a été exploitée par les sélectionneurs à la recherche de gènes de résistance aux maladies pour l'amélioration des cultures. Alors que la laitue cultivée est cultivée depuis l'Égypte ancienne, les parents sauvages comme L. saligna ont poussé aux côtés des établissements humains pendant des millénaires, cueillis comme plantes potagères, fourrage animal et plantes médicinales.\n\nLe nom d'espèce saligna dérive du latin salix (saule), décrivant les feuilles étroitement caractéristiques qui la distinguent de la Lactuca serriola, la laitue sauvage commune des bords de routes. Les herboristes classiques reconnaissaient le genre Lactuca pour son latex (de lac, latin pour lait), et les laitues sauvages étaient prescrites de la Grèce antique jusqu'à l'Europe médiévale pour induire le sommeil et calmer l'anxiété.\n\nLactuca saligna prospère dans les habitats secs et ouverts—prairies, haies et sols perturbés à travers l'Europe et l'Asie occidentale—et s'est naturalisée dans certaines parties de l'Amérique du Nord et de l'Australie. En tant que plante de recherche, elle a fourni une résistance au mildiou (Bremia lactucae) et à d'autres maladies critiques pour l'agriculture mondiale de la laitue.",
+        "name_origin": "Du latin lactuca (laitue, lui-même de lac signifiant lait, pour le latex) et de l'épithète spécifique saligna de salix (saule), décrivant les feuilles étroites en forme de saule qui la distinguent de ses parents à feuilles plus larges.",
+        "symbolism_story": "Les laitues sauvages occupent une place humble mais historiquement riche—jamais cultivées pour le jardin, mais jamais vraiment sauvages, poussant en marge de la civilisation depuis des milliers d'années. Lactuca saligna, avec sa forme étroite de roseau, passe presque inaperçue parmi les herbes jusqu'à l'apparition de ses petites fleurs jaunes. Elle représente le monde botanique qui existe à la limite de l'attention, reconnu seulement par les yeux curieux.",
+        "flower_meaning": "Sauvagerie",
+        "uses_list": [
+          {
+            "text": "Jeunes feuilles cueillies comme salade verte sauvage légèrement amère"
+          },
+          {
+            "text": "Le latex des laitues sauvages historiquement utilisé comme sédatif léger et analgésique"
+          },
+          {
+            "text": "Les graines attirent les pinsons ; les fleurs fournissent du nectar aux petits insectes"
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Sauvagerie",
+            "description": "Prospère sur les bords de routes et en lisière de champs, s'adaptant aux côtés de la civilisation humaine depuis des millénaires"
+          },
+          {
+            "keyword": "Simplicité",
+            "description": "Fleurs jaunes discrètes et forme élancée de roseau incarnent une élégance botanique discrète et négligée"
+          }
+        ],
+        "toxicity": {
+          "headline": "Toxicité inconnue",
+          "active_compound_display": "Aucun signalé",
+          "notes_en": "Aucune correspondance de toxicité faisant autorité trouvée ; traitée comme non signalée (estimation LLM non vérifiée par une source).",
+          "human": {
+            "exposure": "Aucune voie d'exposition signalée.",
+            "effect": "Aucun effet toxique signalé.",
+            "note": "La toxicité pour les humains n'est pas bien documentée ; soyez prudent jusqu'à vérification."
+          },
+          "dog": {
+            "exposure": "Aucune voie d'exposition signalée.",
+            "effect": "Aucun effet toxique signalé.",
+            "note": "La toxicité pour les chiens n'est pas bien documentée ; soyez prudent jusqu'à vérification."
+          },
+          "cat": {
+            "exposure": "Aucune voie d'exposition signalée.",
+            "effect": "Aucun effet toxique signalé.",
+            "note": "La toxicité pour les chats n'est pas bien documentée ; soyez prudent jusqu'à vérification."
+          }
+        }
+      }
+    },
+    "AAA1537": {
+      "source_hash": "7b3717e92792f45b631c70f5b0670a8431fbb6f3652d74b6e72f167ce33e54ec",
+      "fields": {
+        "common_name": "Laitue sauvage",
+        "description": "Lactuca viminea, la Laitue flexible, est une plante herbacée bisannuelle élancée originaire des habitats secs, rocailleux et calcaires du sud et du centre de l'Europe. Ses tiges en forme de baguette, presque sans feuilles, atteignent 30 à 90 cm, portant des feuilles très étroites en forme de lance et de petites fleurs jaune pâle en panicules lâches en été. L'épithète spécifique viminea signifie « en forme d'osier » en latin, décrivant les tiges flexibles et semblables à des joncs. Proche parente de la laitue cultivée, elle habite les parois rocheuses, les talus pierreux et les bords de champs ensoleillés.",
+        "history_text_short": "Une laitue sauvage européenne peu connue, Lactuca viminea pousse sur les parois rocheuses et les talus pierreux de la Méditerranée et de l'Europe centrale. Proche parente du genre cultivé, elle a été étudiée pour ses gènes de résistance aux maladies qui profitent à la sélection de la laitue cultivée, bien qu'elle apparaisse rarement dans les jardins.",
+        "history_text_long": "Lactuca viminea est l'une des plusieurs espèces de laitues sauvages originaires d'Europe qui partagent un genre avec la laitue cultivée (Lactuca sativa). Comme ses parents L. saligna et L. serriola, L. viminea fait partie de la flore européenne depuis l'Antiquité, poussant dans des habitats secs et ensoleillés—corniches rocheuses, talus pierreux, vieux murs et prairies calcaires—en particulier autour du bassin méditerranéen.\n\nLe nom d'espèce viminea dérive du latin vimen (pousse d'osier ou brin flexible), décrivant les tiges florifères élancées, presque sans feuilles, qui se plient gracieusement au vent, ressemblant aux pousses flexibles du saule ou de l'osier. Les herboristes classiques et médiévaux qui cataloguaient les laitues sauvages utilisaient le latex laiteux (d'où le genre tire son nom—lactuca de lac, lait) pour des préparations sédatives, bien que L. viminea fût rarement l'espèce médicinale principale.\n\nLactuca viminea a suscité un intérêt scientifique en tant que ressource génétique potentielle pour l'amélioration des cultures. Les espèces sauvages de Lactuca portent des gènes de résistance au mildiou (Bremia lactucae) et à d'autres maladies qui menacent la culture de la laitue dans le monde. L. viminea contribue à la diversité génétique que les sélectionneurs exploitent pour protéger les cultures modernes de salades.\n\nL'espèce est rare en culture et principalement rencontrée comme curiosité botanique ou plante sauvage des paysages méditerranéens.",
+        "name_origin": "Du latin lactuca (laitue, lui-même de lac signifiant lait, pour le latex laiteux) et de l'épithète spécifique viminea de vimen (pousse d'osier ou brin flexible), décrivant les tiges élancées et flexibles de la plante qui se plient comme des pousses d'osier au vent.",
+        "symbolism_story": "Lactuca viminea pousse sur les parois rocheuses et les talus pierreux du sud de l'Europe—des endroits de roche nue et de soleil brûlant où les plantes plus riches ne peuvent pas s'installer. Ses tiges flexibles en forme de baguette se plient sans se casser dans les vents secs de l'été, un symbole silencieux de résilience par la flexibilité et des attentes modestes.",
+        "flower_meaning": "Résilience",
+        "uses_list": [
+          {
+            "text": "Jeunes feuilles occasionnellement cueillies comme salade sauvage amère"
+          },
+          {
+            "text": "Le latex laiteux des laitues sauvages utilisé historiquement comme sédatif léger"
+          },
+          {
+            "text": "Les petites fleurs jaunes fournissent du nectar aux petits insectes et aux syrphes"
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Résilience",
+            "description": "Pousse sur les parois rocheuses et les talus pierreux où peu d'autres plantes survivent"
+          },
+          {
+            "keyword": "Humilité",
+            "description": "Un modeste vestige botanique qui vit en marge de l'attention humaine"
+          }
+        ],
+        "toxicity": {
+          "headline": "Toxicité inconnue",
+          "active_compound_display": "Aucun signalé",
+          "notes_en": "Aucune correspondance de toxicité faisant autorité trouvée ; traitée comme non signalée (estimation LLM non vérifiée par une source).",
+          "human": {
+            "exposure": "Aucune voie d'exposition signalée.",
+            "effect": "Aucun effet toxique signalé.",
+            "note": "La toxicité pour les humains n'est pas bien documentée ; soyez prudent jusqu'à vérification."
+          },
+          "dog": {
+            "exposure": "Aucune voie d'exposition signalée.",
+            "effect": "Aucun effet toxique signalé.",
+            "note": "La toxicité pour les chiens n'est pas bien documentée ; soyez prudent jusqu'à vérification."
+          },
+          "cat": {
+            "exposure": "Aucune voie d'exposition signalée.",
+            "effect": "Aucun effet toxique signalé.",
+            "note": "La toxicité pour les chats n'est pas bien documentée ; soyez prudent jusqu'à vérification."
+          }
+        }
+      }
+    },
+    "AAA1538": {
+      "source_hash": "d79fece1c3078ca4ea3eafbb48c3c62ad2578a6e90074bb96dcac42773de28e6",
+      "fields": {
+        "common_name": "Arbre à thé d'Australie",
+        "bloom_tip": "Cette plante fleurit en été, produisant de belles fleurs qui attirent les insectes.",
+        "description": "Le Leptospermum continentale, ou Prickly Tea-tree, est un arbuste compact à feuillage persistant originaire du sud-est de l'Australie continentale. Il produit une profusion de petites fleurs blanches à cinq pétales en été, sur un feuillage fin et aromatique en forme d'aiguilles. Les feuilles dégagent un parfum propre et distinctif lorsqu'on les froisse, rappelant l'eucalyptus. Arbuste robuste et adaptable, il tolère la sécheresse, les sols pauvres et les conditions côtières, tout en attirant les abeilles et les pollinisateurs avec ses généreuses floraisons estivales.",
+        "history_text_short": "Les tea trees du genre Leptospermum étaient utilisés médicinalement par les Aborigènes d'Australie bien avant le contact européen. Les feuilles étaient infusées et appliquées sur les plaies. Le genre a acquis une renommée mondiale lorsque des espèces apparentées se sont révélées produire du miel de manuka antimicrobien.",
+        "history_text_long": "Le Leptospermum continentale appartient à un genre remarquable dont les propriétés curatives étaient reconnues par les peuples aborigènes d'Australie bien avant le contact européen. Les Aborigènes utilisaient diverses espèces de Leptospermum – collectivement appelées « tea trees » par les premiers colons – comme plantes médicinales, préparant des infusions de feuilles pour traiter les fièvres et les rhumes, et appliquant des feuilles écrasées comme cataplasmes antiseptiques.\n\nLorsque l'équipage du capitaine Cook rencontra pour la première fois des plants de Leptospermum le long de la côte est de l'Australie dans les années 1770, ils auraient infusé les feuilles aromatiques comme substitut de thé – d'où le nom commun « tea tree » qui a perduré depuis.\n\nLe nom du genre Leptospermum, du grec leptos (mince, fin) et sperma (graine), fait référence aux graines caractéristiquement petites de la plante. L'épithète spécifique continentale distingue cette espèce australienne continentale de son parent néo-zélandais Leptospermum scoparium – le célèbre Mānuka commercial – dont le nectar produit le miel de manuka antibactérien prisé en médecine moderne. L. continentale partage la chimie aromatique du genre, avec des feuilles riches en terpènes et huiles volatiles qui donnent au feuillage son parfum propre et frais distinctif.\n\nDans l'horticulture australienne, Leptospermum continentale a gagné un public fidèle pour sa fiabilité, sa tolérance à la sécheresse et sa valeur pour la faune. Les fleurs riches en nectar attirent les abeilles domestiques, les abeilles indigènes et les petits insectes du printemps à l'été. Assez rustique pour les conditions côtières et les sols pauvres, c'est un incontournable des jardins australiens nécessitant peu d'entretien.",
+        "name_origin": "Du grec leptos (mince, fin) et sperma (graine), décrivant les graines caractéristiquement petites de la plante. L'épithète spécifique continentale signifie « du continent », distinguant cette espèce australienne continentale des espèces néo-zélandaises étroitement apparentées comme le célèbre Leptospermum scoparium.",
+        "symbolism_story": "Dans les traditions aborigènes australiennes, les tea trees étaient connus pour leurs propriétés purifiantes et curatives – les feuilles étaient brûlées pour purifier les espaces et appliquées sur les plaies. Le parfum frais et propre du feuillage a longtemps été associé à la clarté et au bien-être naturels. Aujourd'hui, le nom « tea tree » résonne mondialement, synonyme de guérison par les plantes dans les cultures du monde entier.",
+        "flower_meaning": "Guérison",
+        "fragrance": {
+          "notes": "Les feuilles écrasées dégagent un parfum propre et frais rappelant l'eucalyptus"
+        },
+        "uses_list": [
+          {
+            "text": "Les feuilles aromatiques contiennent des terpènes utilisés dans la médecine traditionnelle aborigène et les soins de la peau"
+          },
+          {
+            "text": "Les fleurs estivales riches en nectar attirent les abeilles domestiques et indigènes"
+          },
+          {
+            "text": "Forme compacte à feuillage persistant adaptée aux haies, jardins côtiers et bordures"
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Guérison",
+            "description": "Longtemps utilisé dans la médecine indigène, le tea tree symbolise le pouvoir réparateur naturel"
+          },
+          {
+            "keyword": "Résilience",
+            "description": "Prospère dans les sols secs et pauvres où d'autres plantes peinent, incarnant une adaptabilité robuste"
+          },
+          {
+            "keyword": "Pureté",
+            "description": "Fleurs blanches immaculées et feuilles aromatiques antiseptiques évoquent la fraîcheur et la pureté"
+          }
+        ],
+        "toxicity": {
+          "headline": "Aucune toxicité signalée",
+          "active_compound_display": "Aucun signalé",
+          "notes_en": "Aucune correspondance de toxicité faisant autorité trouvée ; traitée comme non signalée (estimation du LLM non vérifiée par une source).",
+          "human": {
+            "exposure": "Aucune voie d'exposition signalée.",
+            "effect": "Aucun effet toxique signalé.",
+            "note": "Aucune toxicité signalée pour les humains dans ce catalogue ; cela ne prouve pas que la plante soit comestible ou inoffensive."
+          },
+          "dog": {
+            "exposure": "Aucune voie d'exposition signalée.",
+            "effect": "Aucun effet toxique signalé.",
+            "note": "Aucune toxicité signalée pour les chiens dans ce catalogue ; cela ne prouve pas que la plante soit comestible ou inoffensive."
+          },
+          "cat": {
+            "exposure": "Aucune voie d'exposition signalée.",
+            "effect": "Aucun effet toxique signalé.",
+            "note": "Aucune toxicité signalée pour les chats dans ce catalogue ; cela ne prouve pas que la plante soit comestible ou inoffensive."
+          }
+        }
+      }
+    },
+    "AAA1539": {
+      "source_hash": "03a75eff6a206f257c3cc4046b046bfe070e9e6519b297bd82d926fc1b9dd0bb",
+      "fields": {
+        "common_name": "Grande pimprenelle",
+        "bloom_tip": "Les fleurs de cette plante s'ouvrent généralement en été, attirant divers pollinisateurs.",
+        "description": "Sanguisorba officinalis, connue sous le nom de Grande Pimprenelle, est une vivace gracieuse originaire des prairies et des herbages d'Europe et d'Asie. Elle produit des tiges fines et dressées surmontées de capitules d'un rouge cramoisi profond, en forme de boutons, qui se balancent dans les brises estivales. Les fleurs rouge foncé apparaissent de juin à août, contrastant magnifiquement avec un feuillage finement penné. Aimant attirer les bourdons et les papillons, elle prospère dans les sols humides et bien drainés et convient aux plantations naturalistes, aux designs de prairie et aux jardins de cottage.",
+        "history_text_short": "La Grande Pimprenelle est une plante médicinale précieuse depuis des millénaires. Connue sous le nom de Dìyú (地榆) en médecine traditionnelle chinoise, ses racines étaient prescrites pour arrêter les saignements, traiter les brûlures et réduire l'inflammation—un héritage capturé dans son nom latin, signifiant « absorbeur de sang ».",
+        "history_text_long": "Sanguisorba officinalis porte un riche héritage dans les traditions médicinales orientales et occidentales. En médecine traditionnelle chinoise, où elle est appelée Dìyú (地榆), les racines sont utilisées depuis plus de deux millénaires comme remède astringent pour arrêter les saignements, refroidir le sang et traiter des affections allant des menstruations excessives aux brûlures et aux troubles intestinaux. Des textes classiques comme le Shennong Bencao Jing la classent parmi les herbes médicinales fondamentales, et elle reste un ingrédient dans les formulations modernes de MTC.\n\nEn Europe, la Grande Pimprenelle a trouvé sa place dans les jardins de monastères et les pharmacopées populaires comme plante vulnéraire et antidiarrhéique. Les herboristes médiévaux la valorisaient pour sa capacité à arrêter les hémorragies, et les soldats auraient emporté des préparations séchées au combat. Le nom commun « burnet » serait dérivé du vieux français brunete, reflétant les capitules d'un rouge sombre caractéristiques de la plante.\n\nAu-delà de la médecine, Sanguisorba officinalis a servi à des fins culinaires tout au long de l'histoire. Dans certaines parties de l'Asie et de l'Europe, les jeunes feuilles, avec leur saveur douce et légèrement concombresque, étaient ajoutées aux salades, aux thés et aux boissons froides—une pratique encore observée au Japon, en Corée et en Grande-Bretagne. L'espèce est également une pierre angulaire de l'écologie des prairies : ses floraisons estivales nourrissent les bourdons, les syrphes et les papillons, ce qui lui vaut une place de choix dans les jardins favorables à la faune et les projets de restauration écologique.",
+        "name_origin": "Du latin sanguis (sang) et sorbere (absorber), en référence à son usage ancien comme plante hémostatique. L'épithète officinalis indique sa reconnaissance de longue date comme plante médicinale officielle.",
+        "symbolism_story": "Dans le langage des fleurs victorien, la Grande Pimprenelle représentait la protection et la résilience. Les guérisseurs populaires à travers l'Europe croyaient que la plante possédait un pouvoir vigilant—porter de la pimprenelle séchée était censé éloigner les mauvais esprits et protéger les voyageurs. Dans la culture chinoise, Dìyú est associée à la force terrestre et guérisseuse de la nature qui éloigne le mal du corps et rétablit l'équilibre vital.",
+        "flower_meaning": "Protection",
+        "fragrance": {
+          "notes": "Les feuilles écrasées dégagent un léger parfum de concombre"
+        },
+        "uses_list": [
+          {
+            "text": "Racines utilisées en MTC pour arrêter les saignements et traiter les brûlures"
+          },
+          {
+            "text": "Les jeunes feuilles ajoutent une légère saveur de concombre aux salades et aux thés"
+          },
+          {
+            "text": "Attire les bourdons, les syrphes et les papillons"
+          },
+          {
+            "text": "Les capitules rouges en forme de boutons conviennent aux jardins naturalistes et de cottage"
+          },
+          {
+            "text": "Soutient les écosystèmes de prairie et la restauration écologique"
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Protection",
+            "description": "Utilisée depuis longtemps comme plante protectrice contre les saignements et les blessures"
+          },
+          {
+            "keyword": "Guérison",
+            "description": "Des siècles d'usage médicinal symbolisent la guérison et la récupération"
+          },
+          {
+            "keyword": "Endurance",
+            "description": "Prospère dans les prairies ouvertes, persistant dans des conditions difficiles"
+          }
+        ],
+        "toxicity": {
+          "headline": "Aucune toxicité signalée",
+          "active_compound_display": "Aucun signalé",
+          "notes_en": "Aucune correspondance de toxicité faisant autorité trouvée ; traitée comme non signalée (l'estimation LLM n'est pas vérifiée par une source).",
+          "human": {
+            "exposure": "Aucune voie d'exposition n'est signalée.",
+            "effect": "Aucun effet toxique n'est signalé.",
+            "note": "Aucune toxicité n'est signalée pour les humains dans ce catalogue ; cela ne prouve pas que la plante est comestible ou inoffensive."
+          },
+          "dog": {
+            "exposure": "Aucune voie d'exposition n'est signalée.",
+            "effect": "Aucun effet toxique n'est signalé.",
+            "note": "Aucune toxicité n'est signalée pour les chiens dans ce catalogue ; cela ne prouve pas que la plante est comestible ou inoffensive."
+          },
+          "cat": {
+            "exposure": "Aucune voie d'exposition n'est signalée.",
+            "effect": "Aucun effet toxique n'est signalé.",
+            "note": "Aucune toxicité n'est signalée pour les chats dans ce catalogue ; cela ne prouve pas que la plante est comestible ou inoffensive."
           }
         }
       }
