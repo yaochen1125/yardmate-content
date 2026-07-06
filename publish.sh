@@ -38,6 +38,9 @@ FILES=(
   version.txt
 )
 LUNAR_DIR="lunar_emotional_fortunes"
+# git 白名单（jsDelivr 兜底用）：排除整包 plants_detail.json —— 它真源在 scripts/，只上传 R2、不进 content git。
+GIT_FILES=()
+for f in "${FILES[@]}"; do [[ "$f" == "plants_detail.json" ]] || GIT_FILES+=("$f"); done
 
 DRY_RUN=0
 STAGING=0
@@ -60,8 +63,12 @@ run() { if [[ $DRY_RUN -eq 1 ]]; then echo "[dry-run] $*"; else "$@"; fi; }
 # --- 1) upload to R2 (short TTL; --s3-no-check-bucket: scoped token has no bucket-admin) ---
 echo "==> Uploading content to r2:${BUCKET}/${PREFIX}/ (Cache-Control: ${CACHE_CONTROL})"
 for f in "${FILES[@]}"; do
-  [[ -f "$f" ]] || { echo "WARN: missing $f — skipping"; continue; }
-  run rclone copy "$f" "r2:${BUCKET}/${PREFIX}/" \
+  src="$f"
+  # 整包 plants_detail.json 的真源 = 分片源 scripts/plants_detail.json（app 只读 R2 分片，此整包仅遗留
+  # 兜底、已不在 content/ 保留）。从真源上传，杜绝与分片脱节。单一英文 base 源 = scripts/plants_detail.json。
+  [[ "$f" == "plants_detail.json" ]] && src="../yardmate-swiftui/scripts/plants_detail.json"
+  [[ -f "$src" ]] || { echo "WARN: missing $src — skipping"; continue; }
+  run rclone copy "$src" "r2:${BUCKET}/${PREFIX}/" \
       --header-upload "Cache-Control: ${CACHE_CONTROL}" --s3-no-check-bucket
 done
 run rclone copy "${LUNAR_DIR}/" "r2:${BUCKET}/${PREFIX}/${LUNAR_DIR}/" \
@@ -109,8 +116,8 @@ else
   echo "==> Git push (jsDelivr fallback for old app versions)"
   if [[ $DRY_RUN -eq 1 ]]; then
     echo "[dry-run] git add <whitelist> && git commit && git push"
-  elif [[ -n "$(git status --porcelain -- "${FILES[@]}" "${LUNAR_DIR}" i18n)" ]]; then
-    git add -- "${FILES[@]}" "${LUNAR_DIR}" i18n
+  elif [[ -n "$(git status --porcelain -- "${GIT_FILES[@]}" "${LUNAR_DIR}" i18n)" ]]; then
+    git add -- "${GIT_FILES[@]}" "${LUNAR_DIR}" i18n
     git commit -m "content: publish $(date -u +%Y-%m-%dT%H:%MZ)"
     git push
   else

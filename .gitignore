@@ -1,2 +1,5 @@
 *.backup_*
 .toxicity_audit_cache/
+
+# 整包真源在 ../yardmate-swiftui/scripts/plants_detail.json；此处不再保留，publish.sh 从真源上传 R2
+plants_detail.json
