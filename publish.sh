@@ -10,6 +10,8 @@
 #
 # Usage:
 #   ./publish.sh            upload changed files to R2, purge CF, push git
+#   ./publish.sh --staging  publish to content-staging/ instead (staging app 环境；
+#                           不 git push、不同步官网法律页 — staging 只是预览通道)
 #   ./publish.sh --dry-run  print what would happen; no upload / purge / push
 
 set -euo pipefail
@@ -38,7 +40,18 @@ FILES=(
 LUNAR_DIR="lunar_emotional_fortunes"
 
 DRY_RUN=0
-[[ "${1:-}" == "--dry-run" ]] && DRY_RUN=1
+STAGING=0
+for arg in "$@"; do
+  case "$arg" in
+    --dry-run) DRY_RUN=1 ;;
+    --staging) STAGING=1 ;;
+    *) echo "unknown arg: $arg (supported: --staging --dry-run)" >&2; exit 2 ;;
+  esac
+done
+if [[ $STAGING -eq 1 ]]; then
+  PREFIX="content-staging"
+  PUBLIC_BASE="https://images.yardmate.ai/${PREFIX}"
+fi
 
 cd "$(dirname "$0")"
 
@@ -89,23 +102,28 @@ else
 fi
 
 # --- 3) transition: keep feeding jsDelivr for app versions shipped pre-R2-cutover ---
-echo "==> Git push (jsDelivr fallback for old app versions)"
-if [[ $DRY_RUN -eq 1 ]]; then
-  echo "[dry-run] git add <whitelist> && git commit && git push"
-elif [[ -n "$(git status --porcelain -- "${FILES[@]}" "${LUNAR_DIR}" i18n)" ]]; then
-  git add -- "${FILES[@]}" "${LUNAR_DIR}" i18n
-  git commit -m "content: publish $(date -u +%Y-%m-%dT%H:%MZ)"
-  git push
+# staging 发布不 git push、不碰官网：main 内容基线只由正式 publish 维护。
+if [[ $STAGING -eq 1 ]]; then
+  echo "==> staging: skip git push + website legal sync"
 else
-  echo "    no content changes to push"
-fi
+  echo "==> Git push (jsDelivr fallback for old app versions)"
+  if [[ $DRY_RUN -eq 1 ]]; then
+    echo "[dry-run] git add <whitelist> && git commit && git push"
+  elif [[ -n "$(git status --porcelain -- "${FILES[@]}" "${LUNAR_DIR}" i18n)" ]]; then
+    git add -- "${FILES[@]}" "${LUNAR_DIR}" i18n
+    git commit -m "content: publish $(date -u +%Y-%m-%dT%H:%MZ)"
+    git push
+  else
+    echo "    no content changes to push"
+  fi
 
-# 同步官网法律页静态兜底：从刚发布的 CDN 源（privacy_policy/terms_of_use.json）重生成
-# privacy.html / terms.html 并部署，保证无 JS / SEO 看到的静态正文与 CDN 不漂移。
-LEGAL_SYNC="$(dirname "$0")/../yardmate-website/deploy_legal.sh"
-if [[ -x "$LEGAL_SYNC" ]]; then
-  echo "==> Syncing website legal static fallback"
-  if [[ $DRY_RUN -eq 1 ]]; then echo "[dry-run] $LEGAL_SYNC"; else "$LEGAL_SYNC"; fi
+  # 同步官网法律页静态兜底：从刚发布的 CDN 源（privacy_policy/terms_of_use.json）重生成
+  # privacy.html / terms.html 并部署，保证无 JS / SEO 看到的静态正文与 CDN 不漂移。
+  LEGAL_SYNC="$(dirname "$0")/../yardmate-website/deploy_legal.sh"
+  if [[ -x "$LEGAL_SYNC" ]]; then
+    echo "==> Syncing website legal static fallback"
+    if [[ $DRY_RUN -eq 1 ]]; then echo "[dry-run] $LEGAL_SYNC"; else "$LEGAL_SYNC"; fi
+  fi
 fi
 
 echo "==> Done."
