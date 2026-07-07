@@ -13,6 +13,8 @@
 #   ./publish.sh --staging  publish to content-staging/ instead (staging app 环境；
 #                           不 git push、不同步官网法律页 — staging 只是预览通道)
 #   ./publish.sh --dry-run  print what would happen; no upload / purge / push
+#   ./publish.sh --legal    法律 JSON 没变也强制重部署官网法律页（法律文本先单独
+#                           commit 再跑 publish 会被自动跳过，用这个补同步）
 
 set -euo pipefail
 
@@ -44,11 +46,13 @@ for f in "${FILES[@]}"; do [[ "$f" == "plants_detail.json" ]] || GIT_FILES+=("$f
 
 DRY_RUN=0
 STAGING=0
+FORCE_LEGAL=0
 for arg in "$@"; do
   case "$arg" in
     --dry-run) DRY_RUN=1 ;;
     --staging) STAGING=1 ;;
-    *) echo "unknown arg: $arg (supported: --staging --dry-run)" >&2; exit 2 ;;
+    --legal) FORCE_LEGAL=1 ;;
+    *) echo "unknown arg: $arg (supported: --staging --dry-run --legal)" >&2; exit 2 ;;
   esac
 done
 if [[ $STAGING -eq 1 ]]; then
@@ -113,6 +117,8 @@ fi
 if [[ $STAGING -eq 1 ]]; then
   echo "==> staging: skip git push + website legal sync"
 else
+  # 法律文本本次是否有改动 — 必须在 commit 前捕获（commit 后 status 已干净）
+  LEGAL_DIRTY="$(git status --porcelain -- privacy_policy.json terms_of_use.json)"
   echo "==> Git push (jsDelivr fallback for old app versions)"
   if [[ $DRY_RUN -eq 1 ]]; then
     echo "[dry-run] git add <whitelist> && git commit && git push"
@@ -127,9 +133,11 @@ else
   # 同步官网法律页静态兜底：从刚发布的 CDN 源（privacy_policy/terms_of_use.json）重生成
   # privacy.html / terms.html 并部署，保证无 JS / SEO 看到的静态正文与 CDN 不漂移。
   LEGAL_SYNC="$(dirname "$0")/../yardmate-website/deploy_legal.sh"
-  if [[ -x "$LEGAL_SYNC" ]]; then
+  if [[ -x "$LEGAL_SYNC" && ( -n "$LEGAL_DIRTY" || $FORCE_LEGAL -eq 1 ) ]]; then
     echo "==> Syncing website legal static fallback"
     if [[ $DRY_RUN -eq 1 ]]; then echo "[dry-run] $LEGAL_SYNC"; else "$LEGAL_SYNC"; fi
+  elif [[ -x "$LEGAL_SYNC" ]]; then
+    echo "==> Legal text unchanged — skip website sync (--legal 可强制)"
   fi
 fi
 

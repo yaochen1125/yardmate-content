@@ -3,3 +3,6 @@
 
 # 整包真源在 ../yardmate-swiftui/scripts/plants_detail.json；此处不再保留，publish.sh 从真源上传 R2
 plants_detail.json
+
+# Pass1/Pass2 改名前的逐文件备份，勿入库
+*.bak_before_*
