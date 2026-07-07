@@ -79,6 +79,34 @@ if stale:
 print(f"    {len(paths)} overlays match en sha {sha[:12]}")
 PYEOF
 
+# --- 0b) stories.json freshness gate ---
+# stories.json = 从 plants_detail 母本按 history_text_short（非空才收）派生的首页故事卡源，
+# 生成逻辑同 build_stories_json.py / catalog-promote-tool/export_sharded.py。晋升新株后若没
+# 同步重生成，这份会落后 → 首页故事卡漏新株。与母本不一致时拒绝发布（按 id 集合 + 逐条文案比对）。
+echo "==> Checking stories.json freshness"
+python3 - << 'PYEOF'
+import json, sys
+def norm(r):
+    return {"id": r["id"], "common_name": r.get("common_name"),
+            "scientific_name": r.get("scientific_name"),
+            "history_text_short": (r.get("history_text_short") or "").strip()}
+detail = json.load(open("../yardmate-swiftui/scripts/plants_detail.json", encoding="utf-8"))
+expected = {r["id"]: norm(r) for r in detail
+            if r.get("id") and (r.get("history_text_short") or "").strip()}
+cur = {s["id"]: norm(s) for s in json.load(open("stories.json", encoding="utf-8")).get("stories", [])}
+if cur != expected:
+    missing = sorted(set(expected) - set(cur))
+    extra   = sorted(set(cur) - set(expected))
+    changed = sorted(i for i in set(expected) & set(cur) if expected[i] != cur[i])
+    print(f"FATAL: stories.json stale vs plants_detail (母本 {len(expected)} 条, 文件 {len(cur)} 条)")
+    if missing: print(f"  漏 {len(missing)} 株: {missing[:10]}{' …' if len(missing) > 10 else ''}")
+    if extra:   print(f"  多 {len(extra)} 株: {extra[:10]}{' …' if len(extra) > 10 else ''}")
+    if changed: print(f"  文案变 {len(changed)} 株: {changed[:10]}{' …' if len(changed) > 10 else ''}")
+    print("  重生成: (catalog-promote-tool) ./deploy_shards.sh 会回同步；或 build_stories_json.py 后重跑本脚本")
+    sys.exit(1)
+print(f"    stories.json fresh: {len(cur)} 条与 plants_detail 一致")
+PYEOF
+
 # --- 1) upload to R2 (short TTL; --s3-no-check-bucket: scoped token has no bucket-admin) ---
 echo "==> Uploading content to r2:${BUCKET}/${PREFIX}/ (Cache-Control: ${CACHE_CONTROL})"
 for f in "${FILES[@]}"; do
