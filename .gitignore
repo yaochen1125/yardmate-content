@@ -6,3 +6,6 @@ plants_detail.json
 
 # Pass1/Pass2 改名前的逐文件备份，勿入库
 *.bak_before_*
+
+# translate_explore_themes.py 断点缓存
+.translate_cache/

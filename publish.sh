@@ -60,6 +60,25 @@ cd "$(dirname "$0")"
 
 run() { if [[ $DRY_RUN -eq 1 ]]; then echo "[dry-run] $*"; else "$@"; fi; }
 
+# --- 0) i18n overlay freshness gate ---
+# explore_themes 的 overlay 在 App 端按 plants[] 下标对齐英文母本，翻译一过期就
+# 静默错位（圣诞玫瑰挂银杏的"活化石广岛"）。任一 overlay 的 source.sha256 不等于
+# 当前英文母本时拒绝发布；重生成：python3 translate_explore_themes.py
+echo "==> Checking i18n overlay freshness (explore_themes)"
+python3 - << 'PYEOF'
+import glob, hashlib, json, sys
+sha = hashlib.sha256(open("explore_themes.json", "rb").read()).hexdigest()
+paths = sorted(glob.glob("i18n/*/explore_themes.json"))
+stale = [p for p in paths
+         if json.load(open(p)).get("source", {}).get("sha256") != sha]
+if stale:
+    print("FATAL: stale explore_themes overlays — regenerate: python3 translate_explore_themes.py")
+    for p in stale:
+        print("  " + p)
+    sys.exit(1)
+print(f"    {len(paths)} overlays match en sha {sha[:12]}")
+PYEOF
+
 # --- 1) upload to R2 (short TTL; --s3-no-check-bucket: scoped token has no bucket-admin) ---
 echo "==> Uploading content to r2:${BUCKET}/${PREFIX}/ (Cache-Control: ${CACHE_CONTROL})"
 for f in "${FILES[@]}"; do
