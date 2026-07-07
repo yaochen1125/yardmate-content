@@ -1,1122 +1,1122 @@
 {
-  "schema_version": 1,
-  "locale": "it",
-  "source": {
-    "resource": "explore_themes.json",
-    "sha256": "58f16890b1e810a9f9d6e55107134e8cccb8238bdb900d5b55890c6b1b5ee8d3"
-  },
-  "fields": {
-    "themes": {
-      "air-purifiers": {
-        "description": "Dal Clean Air Study della NASA del 1989 e dalle ricerche successive.",
-        "intro": "Nel 1989, la NASA ha testato le piante da appartamento in camere sigillate e ha scoperto che diverse specie comuni rimuovono genuinamente formaldeide, benzene e tricloroetilene dall'aria. Questa collezione riunisce i vincitori di NASA Clean Air che guadagnano da vivere.",
-        "plants": [
-          {
-            "reason": "Rimozione di formaldeide, benzene e xilene; quasi indestruttibile."
-          },
-          {
-            "reason": "rimuove ammoniaca, benzene, formaldeide e tricloroetilene."
-          },
-          {
-            "reason": "Rara fotosintesi CAM, rilascia ossigeno di notte."
-          },
-          {
-            "reason": "Formaldeide e xilene; non tossici per gli animali domestici."
-          },
-          {
-            "reason": "Xilene, tricloroetilene, formaldeide."
-          },
-          {
-            "reason": "Formaldeide e xilene nei test della NASA."
-          },
-          {
-            "reason": "benzene e tricloroetilene; sicuro per gli animali domestici."
-          },
-          {
-            "reason": "benzene e formaldeide; tollerante alla scarsa illuminazione."
-          },
-          {
-            "reason": "Riduzione della muffa e del formaldeide nell'aria."
-          },
-          {
-            "reason": "Il campione della NASA per la rimozione del formaldeide."
-          }
-        ],
-        "title": "Purificatori d'aria"
-      },
-      "ancient-medicine": {
-        "description": "Piante che hanno definito la farmacologia pre-moderna.",
-        "intro": "Per 6000 anni, prima che i laboratori sintetizzassero le molecole, i guaritori entravano nei giardini. Il belladonna per il cuore, la corteccia di salice per la febbre, l'aloe per le ustioni, il ginkgo per la memoria. Questa collezione contiene le piante che hanno definito la farmacologia pre-moderna.",
-        "plants": [
-          {
-            "reason": "Fonte di digossina, pilastro del trattamento del insufficienza cardiaca dal 1785 (Withering)."
-          },
-          {
-            "reason": "Fonte di salicina nella corteccia, precursore dell'aspirina."
-          },
-          {
-            "reason": "Fonte di paclitaxel (Taxol), chemioterapia fondamentale contro il cancro."
-          },
-          {
-            "reason": "Trattamento delle ustioni di 6000 anni, dai papiri egizi alle farmacie moderne."
-          },
-          {
-            "reason": "medicina cinese tradizionale per la circolazione; integratore moderno per la memoria."
-          },
-          {
-            "reason": "Antidepressivo erboristico medievale e moderno."
-          },
-          {
-            "reason": "Fonte di thujone; antiparasitario fin dall'antichità."
-          },
-          {
-            "reason": "Mentolo - agente rinfrescante dall'Egitto faraonico in poi."
-          },
-          {
-            "reason": "La \"armadietto della medicina\" di Ippocrate; rimedio moderno per l'influenza."
-          },
-          {
-            "reason": "timole — antimicrobico usato sui campi di battaglia greci e romani."
-          }
-        ],
-        "title": "Medicina antica"
-      },
-      "bedroom-allies": {
-        "description": "Piante che continuano a rilasciare ossigeno o promuovono il rilassamento di notte.",
-        "intro": "La maggior parte delle piante assorbe ossigeno e rilascia CO₂ di notte. Alcune no: la fotosintesi CAM permette alle piante serpente e all'aloe di rilasciare ossigeno durante la notte, proprio quando lo stai respirando. Aggiungi lavanda e gelsomino per una calma naturale al fianco del letto.",
-        "plants": [
-          {
-            "reason": "Pianta CAM che rilascia ossigeno durante la notte."
-          },
-          {
-            "reason": "succulento ossigeno notturno CAM; gel per ustioni al fianco del letto."
-          },
-          {
-            "reason": "l'odore abbassa la frequenza cardiaca e aiuta il sonno."
-          },
-          {
-            "reason": "aroma floreale studiato per un effetto ansiolitico."
-          },
-          {
-            "reason": "l'aumento dell'umidità è buono per le sinusite e il russamento."
-          },
-          {
-            "reason": "Non tossico, rimozione della formaldeide mentre dormi."
-          },
-          {
-            "reason": "tollerante alla penombra della camera da letto e alla negligenza notturna."
-          },
-          {
-            "reason": "Le grandi foglie intrappolano le particelle sospese nell'aria."
-          },
-          {
-            "reason": "profumo legato a un miglioramento della consolidazione della memoria del sonno."
-          },
-          {
-            "reason": "Alto, silenzioso, rimuove i VOC."
-          }
-        ],
-        "title": "Alleati della camera da letto"
-      },
-      "bee-banquets": {
-        "description": "Le migliori piante per le api autoctone e mellifere.",
-        "intro": "Le api mellifere native, le api falcioni, le api falcioni e le api mellifere preferiscono ciascuna fioriture leggermente diverse. Questa collezione offre un buffet di api per tutta la stagione: lavanda all'inizio, margherita a metà estate, il critico flusso di polline di margherita d'oro e aster alla fine della stagione.",
-        "plants": [
-          {
-            "reason": "Magnetsita per api all'inizio dell'estate."
-          },
-          {
-            "reason": "Buffet di api in stile mediterraneo."
-          },
-          {
-            "reason": "favoreito del bumblebee nativo."
-          },
-          {
-            "reason": "Nativo ampiamente attraente."
-          },
-          {
-            "reason": "Polleno critico in fase finale della stagione."
-          },
-          {
-            "reason": "Produttore di miele autunnale."
-          },
-          {
-            "reason": "Perenne perenne amichevole con le api da miele che fiorisce a lungo."
-          },
-          {
-            "reason": "Magnetsano per api profumato per tutto l'estate."
-          },
-          {
-            "reason": "Quando fiorisce, un'autostrada per le api mellifere."
-          },
-          {
-            "reason": "Il triplo annuale di nettare più alto testato per le api."
-          }
-        ],
-        "title": "Banchetti di api"
-      },
-      "broken-hearts": {
-        "description": "Fiori di dolore, desiderio e amore perduto.",
-        "intro": "Alcune fioriture esistono per segnare la perdita: il ciclame per il saluto, la lila per il funerale, il papavero per i morti in guerra, il girasole per i defunti. Questa collezione contiene le piante che le persone coltivano quando l'amore è scivolato via o qualcuno è andato via.",
-        "plants": [
-          {
-            "reason": "il fiore di Narciso stesso, mito dell'amore per se stessi trasformato in tristezza."
-          },
-          {
-            "reason": "Nato dal sangue dell'amante ucciso di Apollo Hyacinthos."
-          },
-          {
-            "reason": "Mito greco del sangue di Adone; fiore dell'amore effimero."
-          },
-          {
-            "reason": "Il linguaggio floreale vittoriano per la rinuncia e il saluto."
-          },
-          {
-            "reason": "Il fiore della memoria dei campi di Flandria."
-          },
-          {
-            "reason": "Indossato da Kaiser Wilhelm I in memoria di sua madre; simbolo di singolare beatitudine."
-          },
-          {
-            "reason": "Il fiore che sboccia in inverno della malinconia e delle lacrime nascoste."
-          },
-          {
-            "reason": "La \"gallanteria\" vittoriana, spesso data per interrompere gli impegni."
-          },
-          {
-            "reason": "Fioraio funebre di innocenza e risurrezione."
-          },
-          {
-            "reason": "Il ricordo classico dei defunti."
-          }
-        ],
-        "title": "Cuori spezzati"
-      },
-      "butterfly-havens": {
-        "description": "Ospita e piante di nettare per monarchi, pappagalli e amici.",
-        "intro": "I monarchi hanno bisogno di erba selvatica, le zanzare nere hanno bisogno di prezzemolo, le fritillarie hanno bisogno di violette. Questa collezione copre entrambe le metà del giardinaggio delle farfalle: piante ospiti per le larve e piante di nettare per gli adulti, trasformando un cortile in un nido di farfalle.",
-        "plants": [
-          {
-            "reason": "Pianta ospite monarchica e brillante nettare arancione."
-          },
-          {
-            "reason": "Ospite della monarcha delle zone umide."
-          },
-          {
-            "reason": "Così potente che è letteralmente intitolato per loro."
-          },
-          {
-            "reason": "Nectar di coda di rondine e fritillaria."
-          },
-          {
-            "reason": "Carburante di migrazione dei monarchi alla fine dell'estate."
-          },
-          {
-            "reason": "L'annuale più facile e adatto alle farfalle, in fiore tutto l'estate."
-          },
-          {
-            "reason": "Nectar continuo nei climi meridionali."
-          },
-          {
-            "reason": "Banchettino estivo tardivo di monarca e coda di rondine."
-          },
-          {
-            "reason": "Piattaforme di atterraggio viola ariose per le fritillarie."
-          },
-          {
-            "reason": "Pianta ospite per le larve di pappagallo nero."
-          }
-        ],
-        "title": "Paradisi delle farfalle"
-      },
-      "deadly-beauty": {
-        "description": "Piante meravigliose che possono uccidere.",
-        "intro": "Alcune delle piante più belle dell'orticoltura ti uccideranno. L'oleandro ferma i cuori. La belladonna ferma i cuori. La ricina del girasole è la tossina vegetale più letale conosciuta. Questa collezione è per giardinieri istruiti - bambini lontani.",
-        "plants": [
-          {
-            "reason": "Ogni parte letale; una singola foglia ingerita può fermare il cuore."
-          },
-          {
-            "reason": "Glicosidi cardiaci; veleno storico di scelta."
-          },
-          {
-            "reason": "aconitina, \"regina dei veleni\"; assorbimento attraverso la pelle."
-          },
-          {
-            "reason": "I semi contengono ricina, tra le tossine biologiche più letali."
-          },
-          {
-            "reason": "Gli alcaloidi taxine fermano il cuore; avvelenamenti deliberati nell'antichità."
-          },
-          {
-            "reason": "Gli alcaloidi tropani causano allucinazioni e morte."
-          },
-          {
-            "reason": "Avvelenamento da alcaloidi tropani; decessi per \"esperimenti adolescenziali\"."
-          },
-          {
-            "reason": "Ogni parte letale per i gatti; insufficienza renale."
-          },
-          {
-            "reason": "Glicosidi cardiaci che sfidano la valeriana."
-          },
-          {
-            "reason": "Le bulbi sono mortali se scambiati per cipolla."
-          }
-        ],
-        "title": "Bellezza mortale"
-      },
-      "drought-warriors": {
-        "description": "Piante per il paesaggio xeriscape per giardini con limitazioni d'acqua.",
-        "intro": "Il clima si adatta più velocemente dei giardini. Questi pilastri del xeriscape - agave, lavandine, salvia bianca, cactus spinoso, manzanita - si sono evoluti per i climi mediterranei e sudoccidentali secchi d'estate e chiedono solo che smettiate di annaffiarli per amore.",
-        "plants": [
-          {
-            "reason": "Icona sud-occidentale; settimane senza acqua."
-          },
-          {
-            "reason": "Base del giardino mediterraneo secco."
-          },
-          {
-            "reason": "Originale del chaparral della California, adattato alla siccità estiva."
-          },
-          {
-            "reason": "Mediterraneo boschivo; zero acqua supplementare nella zona 8+."
-          },
-          {
-            "reason": "Base per giardino roccioso succulento CAM."
-          },
-          {
-            "reason": "Classico del deserto messicano."
-          },
-          {
-            "reason": "Adattato alla prateria, la radice principale sopravvive alla siccità."
-          },
-          {
-            "reason": "Nativo della California, fatale per l'acqua estiva."
-          },
-          {
-            "reason": "Aristocratico del chaparral della California."
-          },
-          {
-            "reason": "Cactus del deserto letterale."
-          }
-        ],
-        "title": "Guerrieri della siccità"
-      },
-      "edible-weeds": {
-        "description": "Erbe infestanti selvatiche del prato e del campo che in realtà sono cibo.",
-        "intro": "Metà di ciò che la tua erba da prato combatte è commestibile. Le verdure di tarassaco sono amere e ricche di vitamine; la spinaciola è acidula e ricca di omega-3; i quarti di agnello sono migliori degli spinaci. Questa collezione trasforma le erbacce comuni in ingredienti per insalate selvatiche.",
-        "plants": [
-          {
-            "reason": "Foglie (insalata), fiori (vino), radici (caffè)."
-          },
-          {
-            "reason": "Insalata verde leggera, ricca di vitamina C."
-          },
-          {
-            "reason": "verde croccante al limone ricco di omega-3."
-          },
-          {
-            "reason": "Verdure e semi, entrambi commestibili."
-          },
-          {
-            "reason": "Sostituto dell'spinaci, più ricco di calcio."
-          },
-          {
-            "reason": "Le giovani foglie sono commestibili, i semi sono psillio."
-          },
-          {
-            "reason": "Spinaci cotti; alto contenuto di ferro e proteine."
-          },
-          {
-            "reason": "Verdure al limone, alti livelli di ossalati: cuocere prima."
-          },
-          {
-            "reason": "Foglie acidulissime simili alla sorrel (moderazione)."
-          },
-          {
-            "reason": "Fagiolini piccanti, insalata verde."
-          }
-        ],
-        "title": "Erbe infestanti commestibili"
-      },
-      "explorer-s-prize": {
-        "description": "Introduciuto nei giardini occidentali dai cacciatori di piante del XVIII-XX secolo.",
-        "intro": "I cacciatori di piante del XVIII-XX secolo attraversarono i passi dell'Himalaya e i canyon dello Yunnan per specie che i giardinieri europei non avevano mai visto. E.H. Wilson morì quasi per il Pino Colomba. Ogni pianta qui ha cambiato l'orticoltura occidentale nel momento in cui è arrivata.",
-        "plants": [
-          {
-            "reason": "Il premio per l'esplorazione della Cina del 1904 di E.H. Wilson gli ha quasi costato la vita."
-          },
-          {
-            "reason": "una delle scoperte di Augustine Henry in Yunnan."
-          },
-          {
-            "reason": "scoperto da Frank Kingdon-Ward in Tibet, 1924."
-          },
-          {
-            "reason": "Pensato estinto per 50 milioni di anni; riscoperto in Cina nel 1944."
-          },
-          {
-            "reason": "nominato da Joseph Hooker negli Himalaya, 1855."
-          },
-          {
-            "reason": "La scoperta tibetana di Joseph Rock del 1925; la peonia più costosa del mondo."
-          },
-          {
-            "reason": "La collezione di E.H. Wilson del 1903 dello Sichuan per Veitch."
-          },
-          {
-            "reason": "Scoperta nello Shaanxi negli anni 1890 dal missionario italiano Giuseppe Giraldi."
-          },
-          {
-            "reason": "La collezione Himalayana del 1824 di Wallich."
-          },
-          {
-            "reason": "La collezione Kew del 1773 di Francis Masson dall'Sudafrica."
-          }
-        ],
-        "title": "Premio dell'esploratore"
-      },
-      "famous-legends": {
-        "description": "Piante nate dal mito e dalla leggenda.",
-        "intro": "Piante come materiale di base del mito: narciso nato da un ragazzo che si amava, laurola nata da una ninfa in fuga, loto che trasportava anime egizie verso il sole. Queste dieci specie hanno vissuto tanto nella storia quanto nel terreno.",
-        "plants": [
-          {
-            "reason": "Mito greco di Narciso, che si innamorò del suo riflesso."
-          },
-          {
-            "reason": "Creato da Apollo dal sangue di Iacinto."
-          },
-          {
-            "reason": "Daphne si trasformò in lauro per sfuggire ad Apollo; corona delle vittorie olimpiche."
-          },
-          {
-            "reason": "Fioraio di Morfeo e Demetra nel mito greco."
-          },
-          {
-            "reason": "Si dice che sia nato dalle lacrime di Afrodite per Adone."
-          },
-          {
-            "reason": "Simbolo buddista dell'illuminazione; rinascita egizia."
-          },
-          {
-            "reason": "Fossile vivente, sopravvissuto alla bomba atomica di Hiroshima."
-          },
-          {
-            "reason": "Leggenda medievale di una lacrima di una ragazza pastorella alla Natività."
-          },
-          {
-            "reason": "\"L'amore nell'idleness\" di Shakespeare da Un sogno di mezza estate."
-          },
-          {
-            "reason": "Albero celtico dell'immortalità; piantato nei cimiteri per oltre 1000 anni."
-          }
-        ],
-        "title": "Famosi leggende"
-      },
-      "gothic-garden": {
-        "description": "Piante scure, drammatiche e misteriose per bordure lunari.",
-        "intro": "Pansies neri, eonium quasi neri, hellebori nero come la prugna, colibrì neri come l'inchiostro. Questa collezione oscura i bordi con una malinconia deliberata: i culmi letterali neri del bambù nero, l'erba mondo come inchiostro versato. Un giardino gotico è moderazione con minaccia.",
-        "plants": [
-          {
-            "reason": "Rosette succulente quasi nere."
-          },
-          {
-            "reason": "Foglie quasi nere profondamente dissecte (la biblioteca ha parenti stretti)."
-          },
-          {
-            "reason": "Torretta viola-nero più scuro."
-          },
-          {
-            "reason": "simbiosi di fiori doppi sinistri."
-          },
-          {
-            "reason": "La tulipana iconica del giardino più scura (via Tulipa gesneriana)."
-          },
-          {
-            "reason": "Fioriture invernali nere all'uva passa."
-          },
-          {
-            "reason": "Piccola fiore quasi nero."
-          },
-          {
-            "reason": "Steli neri letterali alla maturità."
-          },
-          {
-            "reason": "Le foglie della cinghia lasciano segni come inchiostro versato."
-          },
-          {
-            "reason": "Rosette con ragnatele bianche, letteralmente pianta di ragni."
-          }
-        ],
-        "title": "Giardino gotico"
-      },
-      "healing-herbs": {
-        "description": "Erbe di apoteca domestica quotidiane per disturbi minori.",
-        "intro": "Le erbe che si conservano su un davanzale della cucina o in un vaso da comodino per i piccoli disturbi quotidiani: camomilla per dormire, menta piperita per mal di testa, lavanda per ansia, calendula per tagli, echinacea per raffreddori. Gli apotecari popolari nel corso dei secoli.",
-        "plants": [
-          {
-            "reason": "gel per ustioni, scottature solari e lievi irritazioni cutanee."
-          },
-          {
-            "reason": "Tè per il sonno e per la digestione."
-          },
-          {
-            "reason": "Indigestione, mal di testa e nausea."
-          },
-          {
-            "reason": "Gargarismi per mal di gola e igiene orale."
-          },
-          {
-            "reason": "Sopressore della tosse e antimicrobico."
-          },
-          {
-            "reason": "Ansia, insonnia e ustioni."
-          },
-          {
-            "reason": "Tè rilassante per lo stress e il sonno."
-          },
-          {
-            "reason": "salva topica per tagli e pelle secca."
-          },
-          {
-            "reason": "supporto immunitario durante i raffreddori."
-          },
-          {
-            "reason": "Rinciacquo per capelli di memoria, circolazione e tonicità."
-          }
-        ],
-        "title": "Erbe curative"
-      },
-      "hummingbird-magnets": {
-        "description": "Fiori rossi e tubolari affidabili per i giardini degli uccellini dal becco a sventola.",
-        "intro": "Gli uccelli-sapeone mangiano quasi il loro peso corporeo in nettare ogni giorno, aggirandosi attorno a qualsiasi fiore tubolare rosso o arancione. Pianta camomilla per api scarlatta, glicine corallina e fiore cardinale per uno spettacolo aereo quotidiano da maggio a ottobre, senza bisogno di un mangiatoio.",
-        "plants": [
-          {
-            "reason": "Standard del colibrì dell'Est degli Stati Uniti."
-          },
-          {
-            "reason": "Vigna autoctona sempreverde, preferita dagli hummer."
-          },
-          {
-            "reason": "trampette rosse in fiore di nuovo, lunga stagione."
-          },
-          {
-            "reason": "tubi di cobalto profondo, magneto per hummer luglio-ottobre."
-          },
-          {
-            "reason": "Fiore del colibrì all'inizio della primavera."
-          },
-          {
-            "reason": "trampette rosse sul lato del fiume; gli hummer cuciscono tra i fiori."
-          },
-          {
-            "reason": "Originale del sudafricano (la biblioteca ha specie correlate)."
-          },
-          {
-            "reason": "Attrattore per hummer tropicali adatto ai patii."
-          },
-          {
-            "reason": "Delicata rampicante annuale carica di fiori a forma di scale di un hummer."
-          },
-          {
-            "reason": "Base per il colibrì della costa del Golfo."
-          }
-        ],
-        "title": "Magnetti per colibrì"
-      },
-      "kitchen-herbs": {
-        "description": "Erbe da finestra e da letto per la cucina quotidiana.",
-        "intro": "Le erbe che ogni cuoco cerca quotidianamente: basilico per i pomodori, rosmarino per il agnello, timo per il pollame, salvia per il ripieno, menta per il tè, prezzemolo per tutto. Ognuna cresce felicemente su un davanzale soleggiato o in una pentola sul balcone.",
-        "plants": [
-          {
-            "reason": "Punto focale della cucina italiana e tailandese."
-          },
-          {
-            "reason": "Arrosto di carne standard."
-          },
-          {
-            "reason": "Tortino di tacchino alle erbe del Ringrazi"
-          },
-          {
-            "reason": "Bouquet garni cavallo di battaglia."
-          },
-          {
-            "reason": "Erbe per pizza; meglio essiccate."
-          },
-          {
-            "reason": "Mojito e menta al tè."
-          },
-          {
-            "reason": "Guarnizione universale e base chimichurri."
-          },
-          {
-            "reason": "Taco e curry essenziali."
-          },
-          {
-            "reason": "Insalate sottaceto e salmone."
-          },
-          {
-            "reason": "Omelette e guarnizioni in attesa."
-          }
-        ],
-        "title": "Erbe da cucina"
-      },
-      "literary-icons": {
-        "description": "Piante famose nella letteratura classica.",
-        "intro": "Piante rese famose dagli scrittori: i narcisi di Wordsworth, il cuore di Shakespeare, il rosmarino di Ophelia per il ricordo, i mangiatori di loto di Tennyson, l'albero più bello di Housman. Ogni specie qui porta un'impronta digitale della letteratura inglese impressa sulle sue foglie.",
-        "plants": [
-          {
-            "reason": "L'\"amore nell'idleness\" di Shakespeare in Un sogno di mezza estate."
-          },
-          {
-            "reason": "\"per il ricordo\" — Ophelia, Amleto."
-          },
-          {
-            "reason": "La rosa dei sonetti di Shakespeare."
-          },
-          {
-            "reason": "\"Ospite di girasoli d'oro\" di Wordsworth."
-          },
-          {
-            "reason": "Il campo di papaveri del Mago di Oz."
-          },
-          {
-            "reason": "\"Mangia-lotus\" di Tennyson."
-          },
-          {
-            "reason": "\"Il più amato degli alberi\" di Housman."
-          },
-          {
-            "reason": "Lilia del valle biblica e poesia mariana medievale."
-          },
-          {
-            "reason": "\"portalo indietro, porta indietro le violette blu\" - canzone popolare; poesia infestata da rovine."
-          },
-          {
-            "reason": "L'albero del cimitero in \"Elegia scritta in un cimitero di campagna\" di Gray."
-          }
-        ],
-        "title": "Icone letterarie"
-      },
-      "love-tokens": {
-        "description": "Piante tradizionalmente offerte come simboli di amore e devozione.",
-        "intro": "Rose, peonie e forget-me-nots: per migliaia di anni, i giardinieri hanno coltivato piante specifiche per dire ciò che le bocche non possono. Questa collezione raccoglie i classici simboli d'amore delle tradizioni occidentale ed orientale, dalla rosa persiana al gelsomino indiano.",
-        "plants": [
-          {
-            "reason": "la classica \"rosa delle rose\", fonte di attar di rosa e centro di simbolismo romantico fin dall'antica Persia."
-          },
-          {
-            "reason": "l'antenato di quasi tutte le rose moderne, coltivate nei giardini dei monasteri come \"la rosa dell'amore\"."
-          },
-          {
-            "reason": "La miscela giallo-rosa lanciata alla fondazione delle Nazioni Unite nel 1945; la rosa d'amore più iconica del XX secolo."
-          },
-          {
-            "reason": "Il fiore simbolo di Napoleone, indossato come segno di devozione a Giuseppina."
-          },
-          {
-            "reason": "Confezione floreale e lettera d'amore classica per la Festa della Mamma; rosa e rosso sono romantici."
-          },
-          {
-            "reason": "Le tulipani rosse simboleggiano il vero amore nella poesia turca e persiana."
-          },
-          {
-            "reason": "Intrecciato nelle ghirlande nuziali in tutto il Sud e il Sud-Est asiatico."
-          },
-          {
-            "reason": "Fiori da sposa che simboleggiano prosperità e romanticismo nella tradizione cinese."
-          },
-          {
-            "reason": "I \"legami dell'amore\" del linguaggio floreale vittoriano, intrecciando steli."
-          },
-          {
-            "reason": "simbolo universale di ricordo tra amanti separati."
-          }
-        ],
-        "title": "Token d'amore"
-      },
-      "low-light-champs": {
-        "description": "Piante che prosperano veramente (non solo sopravvivono) in angoli bui.",
-        "intro": "Non \"tollerare\" - in realtà prosperano. La pianta di ferro battuto ha guadagnato il suo nome negli atri illuminati a gas vittoriani. Le piante ZZ provengono dalla understoria dell'Africa orientale. Questa collezione raccoglie specie che prosperano veramente dove la maggior parte delle altre sbiadisce o diventa giallastra.",
-        "plants": [
-          {
-            "reason": "Classico del corridoio oscuro vittoriano."
-          },
-          {
-            "reason": "tollerisce una luce quasi nulla per mesi."
-          },
-          {
-            "reason": "Gestisce la scarsa illuminazione e la lunga siccità insieme."
-          },
-          {
-            "reason": "Razza nata per centri commerciali e ombra d'ufficio."
-          },
-          {
-            "reason": "Cresce nei corridoi delle scale senza finestre."
-          },
-          {
-            "reason": "Understory amazzonica adattata all'ombra."
-          },
-          {
-            "reason": "Fiorisce anche alla luce della finestra settentrionale."
-          },
-          {
-            "reason": "Nome ispirato ai salotti a gas vittoriani."
-          },
-          {
-            "reason": "Piantagione indistruttibile di centri commerciali del medio secolo."
-          },
-          {
-            "reason": "Specialista nella understoria delle foreste pluviali."
-          }
-        ],
-        "title": "Campioni a bassa illuminazione"
-      },
-      "lucky-charms": {
-        "description": "Piante tradizionalmente coltivate per la fortuna, la ricchezza e la prosperità.",
-        "intro": "In tutte le culture, alcune piante vengono coltivate per la fortuna e la prosperità. La pianta del denaro cinese ha foglie rotonde a forma di moneta; la pianta del giada è il classico vaso della ricchezza del feng-shui; il numero di steli del bambù fortunato è benedetto dal numero; il tulsi protegge la casa indù.",
-        "plants": [
-          {
-            "reason": "\"amicizia e prosperità\" — foglie a moneta rotonda."
-          },
-          {
-            "reason": "La classica pianta di denaro feng-shui cinese."
-          },
-          {
-            "reason": "Cervelli intrecciati coltivati per la fortuna nel commercio dell'Asia orientale."
-          },
-          {
-            "reason": "feng-shui \"ricchezza in base al numero di steli\"."
-          },
-          {
-            "reason": "Chiamata \"Pianta del denaro\" in India, coltivata per la ricchezza."
-          },
-          {
-            "reason": "il trecce, icona della fortuna irlandese."
-          },
-          {
-            "reason": "Simbolo cinese di abbondanza e buona fortuna."
-          },
-          {
-            "reason": "Sacra pianta protettiva indù dell'home."
-          },
-          {
-            "reason": "\"Pianta della fortuna\" moderna negli uffici dell'Asia orientale."
-          },
-          {
-            "reason": "Simbolo buddista della prosperità che sorge dalla fango."
-          }
-        ],
-        "title": "Incantesimi di fortuna"
-      },
-      "modern-drugs": {
-        "description": "Piante che producevano direttamente medicinali farmaceutici.",
-        "intro": "Alcuni dei farmaci più potenti della medicina derivano ancora da piante. La belladonna ci dà la digossina, l'ebano inglese ci dà la chemioterapia contro il cancro Taxol, il mughetto dolce ci dà l'artemisinina (premio Nobel 2015). La farmacia cresce ancora nel giardino.",
-        "plants": [
-          {
-            "reason": "Digossina/digitossina, farmaco standard per il fallimento cardiaco."
-          },
-          {
-            "reason": "Paclitaxel (Taxol), chemioterapia di prima linea per il cancro al seno e all'ovaio."
-          },
-          {
-            "reason": "Precursore 10-DAB per la produzione di paclitaxel semiesintetico."
-          },
-          {
-            "reason": "Salicina → aspirina moderna."
-          },
-          {
-            "reason": "Artemisina, l'antimalarico standard dell'OMS (Premio Nobel 2015)."
-          },
-          {
-            "reason": "Vincristina e vinblastina, chemioterapia per la leucemia."
-          },
-          {
-            "reason": "morfina, codina e tutti gli analgesici oppioidi moderni."
-          },
-          {
-            "reason": "Atropina, utilizzata in arresto cardiaco e oftalmologia."
-          },
-          {
-            "reason": "Etoposide, chemioterapia per il cancro ai testicoli e ai polmoni."
-          },
-          {
-            "reason": "Efedrina, bronchodilatatore e decongestionante."
-          }
-        ],
-        "title": "Farmaci moderni"
-      },
-      "native-remedies": {
-        "description": "Piante medicinali indigene nordamericane.",
-        "intro": "L'echinacea per le punture di serpente, la pianta di farfalla per la pleurisia, la pianta di Joe Pye per la tifo — gli erboristi indigeni nordamericani hanno assemblato una sofisticata farmacopea basata sulla conoscenza delle piante che copriva il continente, successivamente assorbita nell'erboristeria americana moderna senza che le tribù fossero riconosciute.",
-        "plants": [
-          {
-            "reason": "Remedio universale per mal di denti, punture di serpente e ferite delle tribù delle pianure."
-          },
-          {
-            "reason": "Antisettico e farmaco antipiretico Blackfoot e Ojibwa."
-          },
-          {
-            "reason": "\"radice della pleurisia\", medicina respiratoria Cherokee."
-          },
-          {
-            "reason": "Medicina respiratoria ed emetica indigena (non in biblioteca; utilizzare Lobelia cardinalis)."
-          },
-          {
-            "reason": "Pianta medicinale e cerimoniale Iroquois."
-          },
-          {
-            "reason": "Tubero base delle tribù del nord-ovest del Pacifico."
-          },
-          {
-            "reason": "Erbe indigene da fumare e medicine urinarie."
-          },
-          {
-            "reason": "erba lenitiva delle ferite (\"erba delle ferite del soldato\") di molte tribù."
-          },
-          {
-            "reason": "La cura del tifo dello erborista mohicano Joseph Shauquethqueat."
-          },
-          {
-            "reason": "Gocce per mal di orecchio Ojibwa e rimedio per il raffreddore."
-          }
-        ],
-        "title": "Remedi naturali"
-      },
-      "office-buddies": {
-        "description": "Piante di bassa manutenzione per scrivanie e uffici illuminati a fluorescenza.",
-        "intro": "Luce fluorescente, aria condizionata secca, siccità dei fine settimana, attenzione intermittente e lampeggiante: la maggior parte delle piante morirebbe in un ufficio. La pianta ZZ, la pianta serpente, il pothos e la palma da salotto hanno costruito carriere tollerando esattamente quel tipo di trascuratezza.",
-        "plants": [
-          {
-            "reason": "tollerante a settimane di trascuratezza e scarsa illuminazione."
-          },
-          {
-            "reason": "Adatto alla luce fluorescente, acquisisce acqua mensilmente."
-          },
-          {
-            "reason": "Vive bene sui banchi con una minima attenzione."
-          },
-          {
-            "reason": "Facile, sicuro per gli animali domestici, produce cuccioli affascinanti."
-          },
-          {
-            "reason": "Foglie colorate per cubicoli con poca luce."
-          },
-          {
-            "reason": "Palma resistente vittoriana, grande come una scrivania."
-          },
-          {
-            "reason": "Tracciante, perdona l'irrigazione mancata."
-          },
-          {
-            "reason": "Comatto, tollerante alla luce fluorescente."
-          },
-          {
-            "reason": "Foglie uniche, regali di propagazione facile per i colleghi."
-          },
-          {
-            "reason": "Pianta d'appartamento lucida e vistosa, adatta all'aria dell'ufficio."
-          }
-        ],
-        "title": "Amici del lavoro"
-      },
-      "pioneer-plants": {
-        "description": "Colture essenziali e piante paesaggistiche della vita della frontiera americana.",
-        "intro": "La vita sulla frontiera americana si basava su un piccolo kit di strumenti: olio di girasole, torte di zucca, ombra di salice piangente, barriere contro il vento di arancia Osage. Le Tre Sorelle dell'agricoltura indigena nutrivano i coloni coloniali e plasmarono il paesaggio dall'Ohio alle Grandi Pianure.",
-        "plants": [
-          {
-            "reason": "Il prodotto di base indigeno portato a ovest; olio, semi e mangime per bestiame."
-          },
-          {
-            "reason": "Coltura radice indigena rivitalizzata dai coloni del XIX secolo."
-          },
-          {
-            "reason": "Mezza delle \"Tre Sorelle\" insieme a mais e zucca."
-          },
-          {
-            "reason": "Base essenziale per i coloni per torte, brodo per alimenti e lanterne di carnevale."
-          },
-          {
-            "reason": "Le margherite selvatiche della prateria si sono rapidamente colonizzate sui cigli delle strade dietro i coloni."
-          },
-          {
-            "reason": "piantato dall'USDA negli anni 1930 come recinzione per il bestiame; ora invasivo."
-          },
-          {
-            "reason": "I frutteti di mele della frontiera dell'Ohio di Johnny Appleseed (John Chapman)."
-          },
-          {
-            "reason": "Base fondamentale per le fattorie meridionali; sopravvive a terreni poveri."
-          },
-          {
-            "reason": "Il recinto originale di protezione dal vento delle Grandi Pianure."
-          },
-          {
-            "reason": "Piantati nei pozzi della fattoria per ombra e cestini con foglie."
-          }
-        ],
-        "title": "Piante pionieristiche"
-      },
-      "revolutionary-tea": {
-        "description": "Sostituti del tè cinese dell'era coloniale durante il boicottaggio della Boston Tea Party.",
-        "intro": "Quando i coloni di Boston gettarono il tè della Compagnia delle Indie Orientali nel porto, dovettero preparare qualcos'altro. Il balsamo di api divenne il tè di Oswego, le pentole patriottiche riempite di menta e salvia e ogni cucina conservava un'alternativa per la casa.",
-        "plants": [
-          {
-            "reason": "\"Tè Oswego\" degli Iroquois e dei coloni di New York."
-          },
-          {
-            "reason": "Foglie infuse come tè attraverso la frontiera orientale."
-          },
-          {
-            "reason": "Le foglie erano il sostituto più preparato durante la Rivoluzione."
-          },
-          {
-            "reason": "Le foglie facevano un tè funzionante nelle cucine coloniali."
-          },
-          {
-            "reason": "I fianchi hanno prodotto un tè e una gelatina acidi ricchi di vitamina C."
-          },
-          {
-            "reason": "Giardino di insediamento in standby; facile da coltivare, facile da preparare."
-          },
-          {
-            "reason": "L'ibrido del XVIII secolo si è rapidamente naturalizzato nelle cucine americane."
-          },
-          {
-            "reason": "Una bevanda rilassante da bere prima di andare a letto portata in ogni casa."
-          },
-          {
-            "reason": "\"Tè alla salvia\" onnipresente per mal di gola e benessere generale."
-          },
-          {
-            "reason": "Capelli di fiori infusi come un tè tonico erborale amaro."
-          }
-        ],
-        "title": "Tè rivoluzionario"
-      },
-      "royal-favorites": {
-        "description": "Piante con nomi ispirati o amate dalla famiglia reale.",
-        "intro": "Piante intitolate o amate dalla monarchia: la Strelitzia per la regina Charlotte, la Victoria amazonica per la regina Vittoria, la Rosa dell'Apothecario della Casa di Lancaster, le tulipani alla luce della luna dello sultano Ahmed. Ognuna porta una piccola bandiera dell'impero impressa sui suoi petali.",
-        "plants": [
-          {
-            "reason": "nominato nel 1773 in onore della regina Charlotte, duchessa di Meclemburgo-Strelitz."
-          },
-          {
-            "reason": "Presentato a ogni delegato alla fondazione delle Nazioni Unite nel 1945."
-          },
-          {
-            "reason": "Chiamata in onore della regina Vittoria; i suoi giardinieri l'hanno coltivato a Chatsworth."
-          },
-          {
-            "reason": "succulenta compatta chiamata in suo onore."
-          },
-          {
-            "reason": "1954 Grandiflora chiamata così per la giovane regina."
-          },
-          {
-            "reason": "fioraio imperiale della corte della dinastia Tang."
-          },
-          {
-            "reason": "Lo sultano ottomano Ahmed III organizzò festival di tulipani alla luce della luna."
-          },
-          {
-            "reason": "I bouquet reali di Kate Middleton e Grace Kelly."
-          },
-          {
-            "reason": "L'imperatrice Josephine di Napoleone ha raccolto vaste collezioni a Malmaison."
-          },
-          {
-            "reason": "La \"Rosa Rossa di Lancaster\" dalle Guerre delle Rose."
-          }
-        ],
-        "title": "Preferiti reali"
-      },
-      "secret-language": {
-        "description": "La floriografia vittoriana: ogni pianta trasmette un messaggio codificato.",
-        "intro": "Nell'Inghilterra vittoriana, ogni pianta da giardino aveva un significato codificato. Heartsease diceva \"pensa a me\"; mignonette diceva \"le tue qualità superano i tuoi fascini\". Questa collezione ricostruisce un piccolo campione di quel vocabolario floreografico per lettere che non possono essere semplici.",
-        "plants": [
-          {
-            "reason": "\"pensami\"; trasportato tra amanti separati."
-          },
-          {
-            "reason": "Moderazione e fedeltà."
-          },
-          {
-            "reason": "Galeanza."
-          },
-          {
-            "reason": "\"Grazie.\""
-          },
-          {
-            "reason": "Affetto ma anche amore effimero (i fiori sbocciano per un giorno)."
-          },
-          {
-            "reason": "preferenza; \"sei la mia scelta\"."
-          },
-          {
-            "reason": "vero amore e memoria."
-          },
-          {
-            "reason": "I \"legami dell'amore\"."
-          },
-          {
-            "reason": "\"Le tue qualità superano i tuoi fascini.\""
-          },
-          {
-            "reason": "Ritorno della felicità."
-          }
-        ],
-        "title": "Lingua segreta"
-      },
-      "shade-savers": {
-        "description": "Artisti di ombra profonda per le pareti settentrionali e sotto gli alberi.",
-        "intro": "L'ombra profonda - sotto le querce, accanto alle pareti settentrionali - è dove la maggior parte delle piante fiorite rinuncia. Le hoste e gli astilbe non lo fanno. Le hellebori fioriscono nelle ombre di febbraio. Il ginepro di Salomone trasforma gli sottoboschi increspati in giardini forestali deliberati.",
-        "plants": [
-          {
-            "reason": "Il re della foglia ombreggiata."
-          },
-          {
-            "reason": "Ombreggia le piume nel terreno umido."
-          },
-          {
-            "reason": "arbusto autoctono in fiore in ombra parziale."
-          },
-          {
-            "reason": "Copertura del terreno forestale autoctona."
-          },
-          {
-            "reason": "Tollerante alla luce diretta e all'ombra."
-          },
-          {
-            "reason": "I fiori di ombra dal inverno alla primavera sbocciano."
-          },
-          {
-            "reason": "Piante sempreverdi a ombra scura per interni/esterni."
-          },
-          {
-            "reason": "Sombra arcata graziosa perenne."
-          },
-          {
-            "reason": "Bella primavera classica con ombreggiature."
-          },
-          {
-            "reason": "Foglie ombreggiate a macchie argentate + fiori blu precoci."
-          }
-        ],
-        "title": "Salvatore dell'ombra"
-      },
-      "thorny-defenders": {
-        "description": "Piante armate per siepi di sicurezza e confini antifurto.",
-        "intro": "Prima delle recinzioni a catene e delle telecamere di sicurezza, i giardinieri usavano le piante. La pyracantha copriva i muri dei ladri. L'arancia osage recintava le mucche sulle Grandi Pianure prima che esistesse la rete spinosa. Questa collezione arma i confini con spine e pungici che fanno male.",
-        "plants": [
-          {
-            "reason": "Spine dense più siepe costiera tollerante al sale."
-          },
-          {
-            "reason": "La pianta murale classica \"a prova di ladri\"."
-          },
-          {
-            "reason": "Foglie spinose e massa sempreverde."
-          },
-          {
-            "reason": "Spine fini e dense."
-          },
-          {
-            "reason": "Il ceppo di spine della siepe della Gran Bretagna rurale."
-          },
-          {
-            "reason": "introdotto negli anni 1930 specificamente come \"recinzione vivente\"."
-          },
-          {
-            "reason": "Il recinto originale di bestiame delle Grandi Pianure prima della rete spinosa."
-          },
-          {
-            "reason": "Spine malvagie da 2 pollici, resistenti alla zona 5."
-          },
-          {
-            "reason": "Il recinto vivente del Mediterraneo e del Messico."
-          },
-          {
-            "reason": "Spine terminali sulle foglie, impenetrabili."
-          }
-        ],
-        "title": "Difensori spinosi"
-      },
-      "toxic-twins": {
-        "description": "Piante che sembrano addomesticate ma nascondono una reale tossicità.",
-        "intro": "Piante che sembrano innocue ma nascondono un vero pericolo. Le foglie di hortensia contengono cianuro. La monstera e il lirio della pace immagazzinano cristalli di ossalato di calcio. Le foglie di pomodoro sono tossiche per i cani. Abbastanza comuni da coltivare in salotti - silenziosamente pericolose.",
-        "plants": [
-          {
-            "reason": "Glicosidi cianogenici nei fiori e nelle foglie."
-          },
-          {
-            "reason": "Le grayanotossine colpiscono il cuore e i nervi."
-          },
-          {
-            "reason": "I cristalli di ossalato di calcio bruciano bocca e gola."
-          },
-          {
-            "reason": "ossalati insolubili; standard veterinario di emergenza per gatti e cani."
-          },
-          {
-            "reason": "Cristalli di ossalato — nonostante il suo nome innocente."
-          },
-          {
-            "reason": "Gli ossalati di cristallo causano paralisi della gola."
-          },
-          {
-            "reason": "Foglie, steli e frutti verdi tossici per gli animali domestici (solanina)."
-          },
-          {
-            "reason": "Pianta di siepe cianogenica; avvelenamenti mortali di bestiame."
-          },
-          {
-            "reason": "L'aril rosso acceso è dolce, ma il seme all'interno è mortale."
-          },
-          {
-            "reason": "Cespuglio onnipresente; i cani muoiono mangiando bacche cadute."
-          }
-        ],
-        "title": "Gemelli tossici"
-      },
-      "wedding-classics": {
-        "description": "Piante storicamente utilizzate nei bouquet nuziali e negli altari occidentali.",
-        "intro": "Le tradizioni nuziali occidentali utilizzano un piccolo repertorio da sposa: rose per il romanticismo, peonie per la prosperità, lillio del valle per la purezza. Molti sono stati sigillati da matrimoni reali e sono rimasti nei cataloghi di fioristi da allora.",
-        "plants": [
-          {
-            "reason": "La rosa da sposa del XX secolo par eccellenza."
-          },
-          {
-            "reason": "Matrimonio classico di giugno; fiore per il 12° anniversario."
-          },
-          {
-            "reason": "La tradizionale fiore della corona nuziale."
-          },
-          {
-            "reason": "Corsage vittoriano con fiori che portano \"amore segreto\"."
-          },
-          {
-            "reason": "Purezza e verginezza; tradizioni nuziali cattoliche."
-          },
-          {
-            "reason": "Il bouquet di nozze reali del 2011 di Kate Middleton."
-          },
-          {
-            "reason": "Filler per matrimoni moderni e lussureggianti in bianco e blu."
-          },
-          {
-            "reason": "Perdono e degnosità nel simbolismo nuziale."
-          },
-          {
-            "reason": "Boutonniere standard per gli sposi dal XIX secolo."
-          },
-          {
-            "reason": "Cinture di nozze indù, filippine e indonesiane."
-          }
-        ],
-        "title": "Classici di matrimoni"
-      }
-    }
+ "schema_version": 1,
+ "locale": "it",
+ "source": {
+  "resource": "explore_themes.json",
+  "sha256": "143ce0f0b6d59b39220f52eed6323d4b5006e6f72f654db747adacd5bb6b7227"
+ },
+ "fields": {
+  "themes": {
+   "love-tokens": {
+    "title": "Memo d'amore",
+    "description": "Piante tradizionalmente donate come simboli di amore e devozione.",
+    "intro": "Alcune piante sono diventate una stenografia emotiva: rose per il desiderio, viole per la fedeltà, peonie per un matrimonio prospero, nontiscordardimé per un amore che sopravvive alla distanza. Questa collezione raccoglie fiori che la gente ha usato per dire ciò che una semplice frase non poteva.",
+    "plants": [
+     {
+      "reason": "la rosa profumata di Persia e la rosa romantica per eccellenza, ancora distillata in essenza di rosa."
+     },
+     {
+      "reason": "una delle vecchie rose europee dietro secoli di poesia d'amore, giardini farmaceutici e simbolismo della rosa rossa."
+     },
+     {
+      "reason": "una moderna rosa giallo-rosa tenue che, con il suo debutto nel 1945, divenne simbolo di riconciliazione e amore fiducioso."
+     },
+     {
+      "reason": "un fiorellino profumato da sempre associato alla modestia, alla fedeltà e alla devozione di Napoleone per Giuseppina."
+     },
+     {
+      "reason": "il vecchio garofano di lettere d'amore, corsage e Festa della Mamma, con forme rosse e rosa cariche di affetto."
+     },
+     {
+      "reason": "i tulipani rossi divennero una dichiarazione sincera di vero amore nella tradizione persiana, turca e poi fioristica."
+     },
+     {
+      "reason": "intrecciato in ghirlande nuziali e rituali serali in tutto il Sud e il Sudest asiatico per il suo profumo intimo."
+     },
+     {
+      "reason": "il fiore lussureggiante della Cina per romanticismo, onore e un matrimonio felice."
+     },
+     {
+      "reason": "i suoi fusti contorti la resero un facile emblema vittoriano dei legami d'amore."
+     },
+     {
+      "reason": "il fiore ricordo degli innamorati e degli amici che chiedono di essere ricordati."
+     }
+    ]
+   },
+   "broken-hearts": {
+    "title": "Cuori infranti",
+    "description": "Fiori di lutto, desiderio, addio e memoria.",
+    "intro": "I giardini non celebrano solo l’amore; custodiscono anche l’assenza. Queste sono piante di mitiche perdite, mazzi d’addio, rituali funerari e ricordi che si rifiutano di svanire.",
+    "plants": [
+     {
+      "reason": "porta il mito di Narciso, dove la bellezza si piega in amor proprio e dolore."
+     },
+     {
+      "reason": "legato a Giacinto, il bellissimo giovane pianto da Apollo nel mito greco."
+     },
+     {
+      "reason": "associato ad Adone e al fiore che sboccia e muore troppo presto per amore."
+     },
+     {
+      "reason": "nel linguaggio vittoriano dei fiori esprime rassegnazione, dipartita e addio."
+     },
+     {
+      "reason": "il fiore della memoria dei campi delle Fiandre e delle vite perse in guerra."
+     },
+     {
+      "reason": "un fiore azzurro di ricordo, esilio e devozione solitaria nel simbolismo europeo."
+     },
+     {
+      "reason": "fiore invernale legato alle lacrime del Presepe e alla bellezza che sboccia nel gelo."
+     },
+     {
+      "reason": "il suo portamento piangente lo ha reso uno dei più chiari emblemi del lutto in giardino."
+     },
+     {
+      "reason": "fiore funebre e di resurrezione, equilibra il lutto con la speranza del rinnovamento."
+     },
+     {
+      "reason": "una piccola promessa blu che gli assenti non saranno cancellati."
+     }
+    ]
+   },
+   "wedding-classics": {
+    "title": "Classici da Sposa",
+    "description": "Fiori intrecciati nei bouquet da sposa, nelle ghirlande, nei corsage e sugli altari.",
+    "intro": "I fiori da sposa sono un linguaggio di benedizione: le rose per l'amore, le peonie per la prosperità, il gelsomino per fragranza e cerimonia, il mughetto per la felicità ritrovata. Questa raccolta segue le piante che hanno accompagnato spose e sposi lungo navate, gradini di templi e sentieri in giardino.",
+    "plants": [
+     {
+      "reason": "una rosa moderna luminosa per il matrimonio come pubblica promessa di speranza."
+     },
+     {
+      "reason": "un sontuoso fiore da nozze di giugno, legato a prosperità, romanticismo e buona fortuna."
+     },
+     {
+      "reason": "il ceroso fiore bianco da sposa un tempo apprezzato per corone, corsage e bouquet formali."
+     },
+     {
+      "reason": "un fiore da corsage cremoso e profumato, con antiche associazioni di amore segreto."
+     },
+     {
+      "reason": "un giglio cerimoniale bianco usato dove purezza, fede e rinnovamento fanno parte del linguaggio nuziale."
+     },
+     {
+      "reason": "il fiore regale da bouquet dalle delicate campanelle e il ritorno della felicità."
+     },
+     {
+      "reason": "un cavallo da tiro della fioristica moderna per lussureggianti allestimenti nuziali bianchi, blu e rosati."
+     },
+     {
+      "reason": "un fiore nuziale primaverile pulito, specialmente bianco per grazia e nuovi inizi."
+     },
+     {
+      "reason": "il garofano resistente dietro generazioni di boutonnières e corsage familiari."
+     },
+     {
+      "reason": "un fiore sacro e profumato per ghirlande nuziali nelle tradizioni dell'Asia meridionale e sudorientale."
+     }
+    ]
+   },
+   "secret-language": {
+    "title": "Il linguaggio segreto",
+    "description": "La florigrafia vittoriana, dove ogni pianta porta un messaggio in codice.",
+    "intro": "Nella moda del linguaggio floreale, un mazzo di fiori poteva comportarsi come una lettera: la viola del pensiero diceva «pensa a me», la reseda lodava le virtù interiori e il mughetto prometteva la felicità ricambiata. Queste piante trasformano un giardino in un vocabolario privato.",
+    "plants": [
+     {
+      "reason": "l'«heartsease» del linguaggio floreale, inviato come una dolce richiesta di essere ricordati."
+     },
+     {
+      "reason": "un segno cifrato di modestia, fedeltà e affetto discreto."
+     },
+     {
+      "reason": "l'antico emblema florigrafico di galanteria e attenzione cortese."
+     },
+     {
+      "reason": "una rosa di gratitudine, profumo e riconoscimento romantico."
+     },
+     {
+      "reason": "un fiore per l'affetto che accenna anche alla fugace luminosità mattutina dell'amore."
+     },
+     {
+      "reason": "un geranio profumato usato per esprimere una preferenza: tu sei la mia scelta."
+     },
+     {
+      "reason": "la frase più diretta del giardino: ricordati di me."
+     },
+     {
+      "reason": "un'immagine vivente dell'attaccamento, con fiori accoppiati e steli che si attorcigliano."
+     },
+     {
+      "reason": "apprezzata più per il profumo che per l'aspetto, è la lode florigrafica delle qualità interiori."
+     },
+     {
+      "reason": "la classica promessa che la felicità può tornare."
+     }
+    ]
+   },
+   "famous-legends": {
+    "title": "Leggende Famosi",
+    "description": "Piante che vivono nel mito e nella leggenda tanto quanto nel suolo.",
+    "intro": "Prima che la botanica classificasse le piante in famiglie e generi, le storie le ordinavano in desiderio, lutto, vittoria, rinascita e protezione. Queste specie portano alcuni dei miti più antichi che i giardinieri riconoscono ancora.",
+    "plants": [
+     {
+      "reason": "riecheggia il mito di Narciso, dove l'autoammirazione diventa un fiore presso l'acqua."
+     },
+     {
+      "reason": "si dice che sorga dal sangue di Giacinto dopo il dolore di Apollo."
+     },
+     {
+      "reason": "l'albero trasformato di Dafne e la corona di poeti, atleti e vincitori."
+     },
+     {
+      "reason": "un fiore del sonno, della morte e del lutto di Demetra nell'immaginario classico."
+     },
+     {
+      "reason": "legato alle lacrime di Afrodite e alla breve vita di Adone."
+     },
+     {
+      "reason": "un fiore di rinascita nell'iconografia egizia e un simbolo di illuminazione nel Buddhismo."
+     },
+     {
+      "reason": "una leggenda medievale della Natività trasformata in una pianta da giardino che fiorisce d'inverno."
+     },
+     {
+      "reason": "l'amore pigro di Shakespeare, il fiore incantato che scombina il desiderio."
+     },
+     {
+      "reason": "un albero da cimitero di morte, protezione e inquietante immortalità."
+     },
+     {
+      "reason": "sacro ad Afrodite e usato per l'amore, il matrimonio e le ghirlande classiche."
+     }
+    ]
+   },
+   "royal-favorites": {
+    "title": "Preferenze Reali",
+    "description": "Piante dedicate a reali, adottate dalle corti o usate come emblemi dinastici.",
+    "intro": "Le corti trasformano le piante in simboli di status: la ninfea della regina Vittoria, i tulipani ottomani, le peonie imperiali, la rosa dei Lancaster e i crisantemi del trono giapponese. Ogni pianta qui porta con sé una piccola cerimonia nei suoi petali o foglie.",
+    "plants": [
+     {
+      "reason": "intitolata alla regina Carlotta di Meclemburgo-Strelitz, una firma regale per un fiore tropicale."
+     },
+     {
+      "reason": "la grande ninfea intitolata alla regina Vittoria, celebre per la coltivazione a Chatsworth."
+     },
+     {
+      "reason": "un gioiello del deserto compatto che porta il nome della regina nella sua identità botanica."
+     },
+     {
+      "reason": "una rosa grandiflora storica degli anni '50 intitolata alla giovane Elisabetta II."
+     },
+     {
+      "reason": "il fiore della ricchezza e dell'onore nella cultura di corte dei Tang e nell'arte cinese."
+     },
+     {
+      "reason": "il fiore degli spettacoli della corte ottomana, specialmente durante l'Epoca dei Tulipani."
+     },
+     {
+      "reason": "un delicato fiore da bouquet reale, portato da Grace Kelly e Catherine Middleton."
+     },
+     {
+      "reason": "i giardini di Malmaison di Giuseppina resero le esotiche drammatiche una fissazione di corte."
+     },
+     {
+      "reason": "la rosa rossa dei Lancaster, che porta ancora la memoria del conflitto dinastico."
+     },
+     {
+      "reason": "il crisantemo coltivato dietro uno degli emblemi floreali imperiali più riconoscibili."
+     }
+    ]
+   },
+   "explorer-s-prize": {
+    "title": "Il premio dell'esploratore",
+    "description": "Piante introdotte nei giardini occidentali grazie a spedizioni botaniche e cacce alle piante.",
+    "intro": "I cacciatori di piante attraversarono gole dello Yunnan, passi himalayani e valli sudafricane per portare in Europa specie mai viste nei giardini. Queste piante arrivarono cariche di pericolo, ambizione e un pizzico di ossessione.",
+    "plants": [
+     {
+      "reason": "Il famoso premio cinese di E. H. Wilson, inseguito dopo che un albero di un precedente collezionista era scomparso."
+     },
+     {
+      "reason": "Una delle scoperte cinesi di Augustine Henry, ambita per i fiori blu-lavanda puri."
+     },
+     {
+      "reason": "Un fiore blu quasi mitico, introdotto dalle alte quote himalayane e tibetane."
+     },
+     {
+      "reason": "Conosciuto prima come fossile, poi riscoperto vivo in Cina negli anni '40."
+     },
+     {
+      "reason": "Una magnolia himalayana che portò enormi fiori primaverili rosa nei giardini botanici."
+     },
+     {
+      "reason": "La peonia arborea di Joseph Rock divenne una rarità per i suoi fiori macchiati."
+     },
+     {
+      "reason": "Perenne fogliame del Sichuan raccolto nella grande ondata di caccia alle piante dei primi Novecento."
+     },
+     {
+      "reason": "Una callicarpa cinese legata alle raccolte di Giuseppe Giraldi nello Shaanxi."
+     },
+     {
+      "reason": "Una liana himalayana introdotta in coltivazione tramite la botanica coloniale."
+     },
+     {
+      "reason": "La raccolta sudafricana di Francis Masson divenne uno dei grandi trofei esotici di Kew."
+     }
+    ]
+   },
+   "pioneer-plants": {
+    "title": "Piante Pioniere",
+    "description": "Colture, siepi e piante domestiche che hanno plasmato i primi insediamenti americani.",
+    "intro": "Gli orti di frontiera erano pratici prima che belli. Mais, fagioli, zucche, girasoli, mele, patate dolci, salici e melo di Osage nutrivano le famiglie, recintavano gli animali, ombreggiavano i pozzi e rendevano vivibili luoghi difficili.",
+    "plants": [
+     {
+      "reason": "il cereale indigeno centrale, divenuto indispensabile per l'alimentazione coloniale e di frontiera."
+     },
+     {
+      "reason": "una coltura nordamericana per semi, olio, foraggio e vivace segno di terra aperta."
+     },
+     {
+      "reason": "un tubero indigeno capace di sopravvivere in terreni poveri e inverni gelidi."
+     },
+     {
+      "reason": "una delle 'tre sorelle', si arrampica tra il mais e nutre le famiglie con proteine."
+     },
+     {
+      "reason": "una coltura da conserva per torte, zuppe, foraggio e rituali autunnali domestici."
+     },
+     {
+      "reason": "un fiore tenace della prateria che seguiva strade, campi e terre disturbate."
+     },
+     {
+      "reason": "l'albero del sidro, della conservazione invernale e del mito di frontiera di Johnny Appleseed."
+     },
+     {
+      "reason": "una coltura domestica del Sud che produce copiosamente in climi caldi e terreni modesti."
+     },
+     {
+      "reason": "la siepe vivente delle pianure prima che il filo spinato rendesse le barriere vegetali obsolete."
+     },
+     {
+      "reason": "piantato vicino a pozzi e fattorie per l'ombra, la crescita rapida e i vimini utilizzabili."
+     }
+    ]
+   },
+   "revolutionary-tea": {
+    "title": "Infusi rivoluzionari",
+    "description": "La pianta del tè e le erbe che i coloni preparavano quando il tè importato divenne un fatto politico.",
+    "intro": "Il boicottaggio americano del tè trasformò le cucine in piccoli atti di resistenza. Il tè importato di Camellia divenne sospetto, così le famiglie prepararono infusi di tè del New Jersey, monarda, menta, foglie di lampone, salvia, camomilla e altre erbe del proprio orto.",
+    "plants": [
+     {
+      "reason": "il tè cinese importato al centro di tasse, boicottaggio e Boston Tea Party."
+     },
+     {
+      "reason": "il più noto sostituto autoctono, le cui foglie essiccate servirono per un tè patriottico."
+     },
+     {
+      "reason": "tè Oswego, appreso dall'uso indigeno e preparato dai coloni a New York."
+     },
+     {
+      "reason": "una pianta aromatica della famiglia della menta autoctona, che produceva un forte infuso da frontiera."
+     },
+     {
+      "reason": "le foglie di lampone erano un tè erboristico casalingo molto prima delle bustine di tè."
+     },
+     {
+      "reason": "facile da coltivare, difficile da uccidere e abbastanza gradevole per un infuso quotidiano in cucina."
+     },
+     {
+      "reason": "una menta coltivata vivace che divenne un infuso domestico standard."
+     },
+     {
+      "reason": "un tè di fiori calmanti adatto alla farmacia domestica."
+     },
+     {
+      "reason": "il tè di salvia era un comune rimedio casalingo e un pratico sostituto quando si evitava il tè importato."
+     },
+     {
+      "reason": "un'erba tonica amara che si poteva raccogliere o coltivare per tisane medicinali."
+     }
+    ]
+   },
+   "literary-icons": {
+    "title": "Icone Letterarie",
+    "description": "Piante immortalate da poesie, drammi, romanzi, scritture sacre e canzoni.",
+    "intro": "Alcune piante arrivano alla mente già citate: il rosmarino di Ofelia, i narcisi di Wordsworth, il «cuor contento» di Shakespeare, il loto di Tennyson, il tasso di Gray. Questa collezione è una libreria piantata nella terra.",
+    "plants": [
+     {
+      "reason": "Il «amor-ozio» di Shakespeare, il fiore che fa sbagliare il desiderio in Sogno di una notte di mezza estate."
+     },
+     {
+      "reason": "L'erba del ricordo di Ofelia nell'Amleto, ancora oggi uno degli indizi botanici più celebri della letteratura."
+     },
+     {
+      "reason": "L'antica rosa profumata che si cela dietro innumerevoli sonetti, poesie d'amore e paragoni."
+     },
+     {
+      "reason": "Wordsworth ha fissato il narciso dorato come il fiore della gioia ricordata."
+     },
+     {
+      "reason": "Il papavero rosso del sonno, della memoria di guerra e dei pericolosi campi di papaveri delle storie."
+     },
+     {
+      "reason": "I mangiatori di loto di Tennyson hanno fatto del loto un fiore del sognante oblio."
+     },
+     {
+      "reason": "Un ciliegio da fiore che si inserisce nella tradizione letteraria della bellezza fugace al suo apice."
+     },
+     {
+      "reason": "Il giglio bianco delle immagini bibliche, mariane e devozionali medievali."
+     },
+     {
+      "reason": "L'alloro del poeta, una pianta diventata sinonimo dello stesso onore letterario."
+     },
+     {
+      "reason": "L'albero del cimitero che dà alla poesia sepolcrale la sua radicata presenza oscura."
+     }
+    ]
+   },
+   "ancient-medicine": {
+    "title": "Antica Spezieria",
+    "description": "Piante che hanno plasmato la medicina antica, medievale e premoderna.",
+    "intro": "Prima della farmacologia moderna, i guaritori lavoravano con cortecce, radici, foglie, fiori e resine amare. Queste piante facevano parte dei rimedi domestici, degli orti monastici, dei trattamenti sui campi di battaglia e dei primi testi medici.",
+    "plants": [
+     {
+      "reason": "una delle piante lenitive per la pelle più antiche, usata per scottature e ferite nelle tradizioni mediterranea ed egiziana."
+     },
+     {
+      "reason": "l'antica fonte di oppio, antidolorifico e sedativo, e una delle eredità più complesse della medicina."
+     },
+     {
+      "reason": "la corteccia di salice fu usata contro dolore e febbre molto prima che la salicina portasse alla chimica dell'aspirina."
+     },
+     {
+      "reason": "un antico rimedio popolare trasformato da William Withering in un cardine della medicina per il cuore."
+     },
+     {
+      "reason": "un'erba amara della medicina antica e medievale, specialmente per digestione e parassiti."
+     },
+     {
+      "reason": "l'erba dei soldati per le ferite, usata tradizionalmente per fermare il sanguinamento."
+     },
+     {
+      "reason": "un'erba da monastero e da cucina, apprezzata per disturbi di gola, bocca e digestione."
+     },
+     {
+      "reason": "un'erba fortemente aromatica il cui profumo ricco di timolo la rese una pianta detergente tradizionale."
+     },
+     {
+      "reason": "un'erba digestiva rinfrescante che fa da ponte tra l'uso antico di spezieria e i moderni prodotti al mentolo."
+     },
+     {
+      "reason": "fiori e bacche di sambuco fanno parte della medicina domestica europea da secoli."
+     }
+    ]
+   },
+   "native-remedies": {
+    "title": "Rimedi Nativi",
+    "description": "Piante nordamericane con storie indigene di cibo, medicina e cerimonia.",
+    "intro": "La conoscenza delle piante delle popolazioni indigene del Nord America è profonda, regionale e specifica. Questa raccolta mette in luce specie successivamente assorbite nell'erboristeria americana, spesso senza sufficiente riconoscimento per le comunità che le hanno conosciute per prime.",
+    "plants": [
+     {
+      "reason": "pianta medicinale delle pianure usata per ferite, morsi, mal di denti e poi per prodotti erboristici americani."
+     },
+     {
+      "reason": "menta nativa aromatica usata da diverse tribù per tè, impiastri e lavaggi antisettici."
+     },
+     {
+      "reason": "conosciuta come 'radice di pleurite' nell'erboristeria americana, con usi indigeni respiratori all'origine del nome."
+     },
+     {
+      "reason": "pianta medicinale potente storicamente usata con cautela per scopi respiratori ed emetici."
+     },
+     {
+      "reason": "lampicante pianta di zone umide con associazioni cerimoniali e medicinali nelle tradizioni nordorientali."
+     },
+     {
+      "reason": "i tuberi di wapato erano un importante alimento in molte comunità di zone umide e della costa nordoccidentale."
+     },
+     {
+      "reason": "le foglie di kinnikinnick erano usate in miscele da fumare e rimedi urinari."
+     },
+     {
+      "reason": "pianta per ferite molto diffusa, apprezzata per impiastri e controllo del sanguinamento."
+     },
+     {
+      "reason": "legato al guaritore mohicano Joseph Shauquethqueat e alle successive tradizioni di rimedi per la febbre."
+     },
+     {
+      "reason": "usata in alcune tradizioni indigene per raffreddori, gonfiori e preparazioni topiche."
+     }
+    ]
+   },
+   "modern-drugs": {
+    "title": "Farmaci moderni",
+    "description": "Piante che hanno prodotto o ispirato direttamente importanti farmaci.",
+    "intro": "La farmacia continua a crescere in giardino. Alcuni farmaci moderni sono nati come difese vegetali: lattice, chimica della corteccia o alcaloidi, diventati poi farmaci per il cuore, terapie oncologiche, antimalarici, anestetici e analgesici.",
+    "plants": [
+     {
+      "reason": "fonte di digitalici che hanno rivoluzionato la cardiologia."
+     },
+     {
+      "reason": "la storia del tasso dietro il paclitaxel, uno dei principali farmaci antitumorali di origine vegetale."
+     },
+     {
+      "reason": "fonte di precursori dei taxani usati nella produzione semisintetica del paclitaxel."
+     },
+     {
+      "reason": "i salicilati del salice hanno ispirato l'aspirina, l'analgesico di origine vegetale più famoso."
+     },
+     {
+      "reason": "fonte di artemisinina, un farmaco rivoluzionario contro la malaria premiato con il Nobel."
+     },
+     {
+      "reason": "fonte di vincristina e vinblastina, farmaci essenziali per la chemioterapia antitumorale."
+     },
+     {
+      "reason": "fonte di morfina e codeina, composti analgesici fondamentali ma ad alto rischio."
+     },
+     {
+      "reason": "fonte di atropina, usata in oftalmologia, medicina d'urgenza e anestesia."
+     },
+     {
+      "reason": "ha ispirato i farmaci antitumorali derivati dalla podofillotossina, come l'etoposide."
+     },
+     {
+      "reason": "fonte di efedrina, un importante broncodilatatore e decongestionante."
+     }
+    ]
+   },
+   "healing-herbs": {
+    "title": "Erbe Curative",
+    "description": "Erbe quotidiane tradizionalmente tenute per la cura minore della casa.",
+    "intro": "Queste sono la parte gentile della spezieria: tisane lenitive, vapori aromatici, unguenti, gargarismi e rimedi da cucina. Non sostituiscono le cure mediche, ma spiegano perché gli orti di erbe aromatiche sono sempre stati vicino alla porta.",
+    "plants": [
+     {
+      "reason": "tenuta sul davanzale per il gel rinfrescante su piccole scottature e pelli irritate."
+     },
+     {
+      "reason": "una classica tisana calmante per la notte e lo stomaco agitato."
+     },
+     {
+      "reason": "un'erba digestiva brillante usata per nausea, pesantezza e aroma rinfrescante."
+     },
+     {
+      "reason": "tradizionalmente usata come gargarismo per la gola e medicina da cucina dal sapore forte."
+     },
+     {
+      "reason": "un'erba aromatica usata da sempre in sciroppi per la tosse, vapori e preparazioni antimicrobiali domestiche."
+     },
+     {
+      "reason": "coltivata per il profumo calmante, miscele da bagno, sacchetti profumati e unguenti minori per la pelle."
+     },
+     {
+      "reason": "una menta dal profumo di limone tradizionalmente infusa per stress, sonno e digestione."
+     },
+     {
+      "reason": "il fiore arancione degli unguenti fatti in casa per pelli screpolate, secche o graffiate."
+     },
+     {
+      "reason": "un pilastro erboristico moderno con radici nelle tradizioni di piante medicinali nordamericane."
+     },
+     {
+      "reason": "usata in risciacqui rinvigorenti, sfregamenti e tisane, con una fama per memoria e circolazione."
+     }
+    ]
+   },
+   "air-purifiers": {
+    "title": "Purificatori d'Aria",
+    "description": "Piante da appartamento rese celebri da studi sulla purificazione dell'aria in camere sigillate.",
+    "intro": "Lo Studio NASA sull'Aria Pulita ha trasformato comuni piante da appartamento in icone moderne. Le stanze vere necessitano di areazione più che di qualche vaso, ma queste piante si guadagnano comunque un posto grazie alla superficie fogliare, all'umidità, alle superfici che catturano la polvere e alla reputazione di tollerare la vita in interni.",
+    "plants": [
+     {
+      "reason": "una rampicante famosa per la resilienza, nella lista NASA, tollerante a stanze buie e cure irregolari."
+     },
+     {
+      "reason": "una pianta da fiore lucida inclusa negli studi su COV, amata per le sue ottime prestazioni in condizioni di scarsa luce."
+     },
+     {
+      "reason": "una pianta scultorea CAM che sopporta eccezionalmente bene aria interna secca e abbandono."
+     },
+     {
+      "reason": "facile, più adatta agli animali domestici di molte altre, e classica specie negli studi sulla formaldeide."
+     },
+     {
+      "reason": "una dracaena stretta e architettonica, associata a test su xilene e formaldeide in camera."
+     },
+     {
+      "reason": "un albero da interno frondoso con grande superficie per catturare polvere e fama NASA."
+     },
+     {
+      "reason": "una palma da scarsa luce con fogliame morbido, che non richiede pieno sole."
+     },
+     {
+      "reason": "una pianta da fogliame resistente e per poca luce, inclusa nei dibattiti sulla qualità dell'aria interna."
+     },
+     {
+      "reason": "una pianta ricadente studiata per gli inquinanti interni, apprezzata per le foglie dense e sempreverdi."
+     },
+     {
+      "reason": "la felce di Boston, apprezzata per umidità, fronde sottili e la sua reputazione negli studi sulla formaldeide."
+     }
+    ]
+   },
+   "bedroom-allies": {
+    "title": "Alleati da camera",
+    "description": "Piante quiete, calmanti e poco esigenti, ideali per camere da letto e comodini.",
+    "intro": "Una pianta da camera da letto dev'essere una compagna tranquilla: non delicata, non disordinata, a suo agio nella luce soffusa. Queste piante portano profumo, foglie scultoree, una delicata umidità o semplice resilienza nella stanza dove la giornata si chiude.",
+    "plants": [
+     {
+      "reason": "eretta, ordinata, tollerante alla siccità, e famosa per lo scambio notturno di CO₂."
+     },
+     {
+      "reason": "succulenta compatta per camere luminose, con il gel lenitivo sempre a portata."
+     },
+     {
+      "reason": "il classico profumo rilassante per una finestra soleggiata o un mazzo sul comodino."
+     },
+     {
+      "reason": "pianta serale profumata per stanze luminose dove l'odore fa parte del rituale."
+     },
+     {
+      "reason": "fiori bianchi morbidi e ampie foglie per camere poco luminose con umidità costante."
+     },
+     {
+      "reason": "una rilassata pianta sospesa facile da curare e visivamente leggera."
+     },
+     {
+      "reason": "una rampicante cadente che perdona, per scaffali, cassettiere e angoli poco illuminati."
+     },
+     {
+      "reason": "palma dalla consistenza soffice che porta calma da hotel senza bisogno di molta luce."
+     },
+     {
+      "reason": "compagna quasi silenziosa per camere poco luminose e annaffiature dimenticate."
+     },
+     {
+      "reason": "pianta audace dalle foglie lucide per camere da letto con spazio e luce filtrata."
+     }
+    ]
+   },
+   "office-buddies": {
+    "title": "Compagni di Ufficio",
+    "description": "Piante a bassa manutenzione per scrivanie, cubicoli e uffici illuminati da neon.",
+    "intro": "Le piante da ufficio devono sopravvivere ad aria secca, weekend senz'acqua, luce irregolare e distrazioni umane. Queste sono le compagne di scrivania indulgenti che continuano a sembrare vive mentre tutti gli altri sono in riunione.",
+    "plants": [
+     {
+      "reason": "lucida, architettonica, tollera settimane tra un'innaffiatura e l'altra."
+     },
+     {
+      "reason": "foglie erette, poca acqua e un'impronta ridotta per gli angoli stretti dell'ufficio."
+     },
+     {
+      "reason": "la classica rampicante da ufficio perché perdona ombra, cure saltuarie e scaffali scomodi."
+     },
+     {
+      "reason": "facile, allegra e generosa di piccoli planty per i colleghi."
+     },
+     {
+      "reason": "fogliame colorato che cresce bene negli interni commerciali con poca luce."
+     },
+     {
+      "reason": "una sopravvissuta vittoriana che ancora sopporta ambienti secchi e luce modesta."
+     },
+     {
+      "reason": "una pianta ricadente indulgente con simpatiche foglie a forma di cuore."
+     },
+     {
+      "reason": "compatta, ordinata e più adatta alle scrivanie di molte piante da appartamento di grandi dimensioni."
+     },
+     {
+      "reason": "una piccola pianta che fa conversazione, si moltiplica in doni facili per i colleghi."
+     },
+     {
+      "reason": "una pianta lucida da effetto per uffici con un angolo più luminoso."
+     }
+    ]
+   },
+   "low-light-champs": {
+    "title": "Campioni della penombra",
+    "description": "Piante che restano meravigliose dove altre sbiadiscono.",
+    "intro": "Poca luce non significa assenza di luce, ma alcune piante tollerano stanze in penombra molto meglio di altre. Queste sono le scelte affidabili per finestre a nord, corridoi, uffici e appartamenti dove il sole è un vago ricordo.",
+    "plants": [
+     {
+      "reason": "la classica vittoriana dei corridoi bui, famosa per pazienza e resistenza."
+     },
+     {
+      "reason": "immagazzina acqua nei rizomi spessi e conserva la forma in luce soffusa."
+     },
+     {
+      "reason": "sopporta scarsa luce e siccità meglio della maggior parte delle piante d'appartamento scultoree."
+     },
+     {
+      "reason": "selezionata e amata per centri commerciali, uffici e stanze ombreggiate."
+     },
+     {
+      "reason": "una rampicante che resta utile anche quando la variegatura sbiadisce all'ombra."
+     },
+     {
+      "reason": "un'aracea del sottobosco che accetta la luce minore delle vere case."
+     },
+     {
+      "reason": "una delle poche comuni piante d'appartamento che può fiorire in luce tenue."
+     },
+     {
+      "reason": "chiamata così per l'interno ombreggiato in cui si è guadagnata la reputazione."
+     },
+     {
+      "reason": "una pianta a canna robusta per angoli, hall e stanze con luce filtrata."
+     },
+     {
+      "reason": "una pianta fogliare del sottobosco della foresta pluviale per ombra luminosa e annaffiature attente."
+     }
+    ]
+   },
+   "deadly-beauty": {
+    "title": "Bellezza letale",
+    "description": "Piante magnifiche dalla tossicità seria.",
+    "intro": "La bellezza non equivale all'innocuità. Queste piante sono ammirate nei giardini, nelle dimore storiche e nei vasi, ma la loro chimica esige rispetto, etichette e distanza da bambini e animali.",
+    "plants": [
+     {
+      "reason": "un arbusto fiorito splendido i cui glicosidi cardiaci rendono pericolosa ogni parte se ingerita."
+     },
+     {
+      "reason": "spighe bellissime con glicosidi cardiaci: farmaco a dosaggio, veleno a dosaggio."
+     },
+     {
+      "reason": "una perenne dai fiori blu con aconitina, uno dei veleni più gravi del giardino."
+     },
+     {
+      "reason": "fogliame tropicale audace e baccelli ornamentali che nascondono la ricina nei semi."
+     },
+     {
+      "reason": "una siepe classica e albero da cimitero con alcaloidi mortali della tassina fuori dall'arillo rosso."
+     },
+     {
+      "reason": "angeliche trombe pendenti con pericolosi alcaloidi tropanici."
+     },
+     {
+      "reason": "un annuale famigerato i cui alcaloidi allucinogeni possono causare gravi avvelenamenti."
+     },
+     {
+      "reason": "elegante e profumata, ma estremamente pericolosa per i gatti anche a piccole esposizioni."
+     },
+     {
+      "reason": "campanelline minuscole con potenti glicosidi cardiaci in tutta la pianta."
+     },
+     {
+      "reason": "fiori primaverili vivaci i cui bulbi possono avvelenare persone o animali se scambiati per cibo."
+     }
+    ]
+   },
+   "toxic-twins": {
+    "title": "Gemelli Tossici",
+    "description": "Piante comuni dall'aspetto innocuo che meritano cautela.",
+    "intro": "Non sono villain gotici: sono normali piante da appartamento, siepi e ortaggi. La sorpresa è il punto: foglie familiari possono contenere ossalati, composti cianogenetici, alcaloidi o pericoli per gli animali.",
+    "plants": [
+     {
+      "reason": "aspetto lussureggiante, ma foglie e fiori contengono glicosidi cianogenetici."
+     },
+     {
+      "reason": "azalee e rododendri contengono grayanotossine che colpiscono cuore e sistema nervoso."
+     },
+     {
+      "reason": "una rampicante dall'aspetto amichevole con cristalli di ossalato di calcio che irritano bocca e gola."
+     },
+     {
+      "reason": "amata pianta da appartamento, i cui tessuti e foglie acerbi contengono ossalati irritanti."
+     },
+     {
+      "reason": "il nome pacifico nasconde lo stesso problema di ossalati comune a molte aracee."
+     },
+     {
+      "reason": "la classica canna muta, nota per la dolorosa irritazione orale se masticata."
+     },
+     {
+      "reason": "il frutto maturo è cena, ma foglie, steli e parti verdi non sono spuntini sicuri per gli animali."
+     },
+     {
+      "reason": "una siepe comune con foglie cianogenetiche che possono mettere a rischio bestiame e animali domestici."
+     },
+     {
+      "reason": "un ordinato sempreverde suburbano i cui semi e fogliame sono pericolosamente tossici."
+     },
+     {
+      "reason": "una siepe comune con bacche che possono far ammalare bambini e animali."
+     }
+    ]
+   },
+   "thorny-defenders": {
+    "title": "Difensori Spinati",
+    "description": "Piante armate per siepi di sicurezza e bordure anti-intrusione.",
+    "intro": "Prima di telecamere e filo spinato, la gente piantava confini che reagivano. Questi arbusti, rampicanti, cuscinidi fico d'India e rosette spinose rendono i bordi voluti e difficili da superare.",
+    "plants": [
+     {
+      "reason": "rosa da siepe spinosa e profumata che tollera il sale."
+     },
+     {
+      "reason": "il classico arbusto da siepe murale, armato di spine e bacche luminose."
+     },
+     {
+      "reason": "foglie sempreverdi dentate creano una barriera lucida ma ostile."
+     },
+     {
+      "reason": "crescita densa e ramificata con spine sottili per una siepe bassa e difficile."
+     },
+     {
+      "reason": "l'antico biancospino delle siepi campestri di Gran Bretagna e Europa."
+     },
+     {
+      "reason": "un tempo promossa come recinto vivente, ora esempio cauto di pianta da siepe diventata invasiva."
+     },
+     {
+      "reason": "la siepe per bovini delle Grandi Pianure prima del filo spinato."
+     },
+     {
+      "reason": "agrume rustico con lunghe spine rigide."
+     },
+     {
+      "reason": "cactus a pale usato come recinto vivente nelle regioni aride."
+     },
+     {
+      "reason": "rosette enormi con denti sui bordi delle foglie e spine terminali."
+     }
+    ]
+   },
+   "hummingbird-magnets": {
+    "title": "Magneti per Colibrì",
+    "description": "Fiori tubolari ricchi di nettare per giardini dedicati ai colibrì.",
+    "intro": "I colibrì leggono i fiori tanto dalla forma quanto dal colore. Tubi rossi, arancioni e blu, dall'aquilegia primaverile alla salvia di fine stagione, possono trasformare un giardino in una rotta del nettare.",
+    "plants": [
+     {
+      "reason": "un fiore rosso autoctono della famiglia della menta, perfetto per le visite dei colibrì."
+     },
+     {
+      "reason": "una liana autoctona con fiori tubolari corallini e una lunga stagione di fioritura."
+     },
+     {
+      "reason": "trombe rosse brillanti che rifioriscono anche con il caldo."
+     },
+     {
+      "reason": "tubi blu scuro visitatissimi dai colibrì dall'estate all'autunno."
+     },
+     {
+      "reason": "uno dei grandi fiori primaverili autoctoni per i colibrì di ritorno."
+     },
+     {
+      "reason": "fiori scarlatti di riva che sembrano disegnati per il becco dei colibrì."
+     },
+     {
+      "reason": "penstemon a tubo rosso del Sudovest, dalla classica architettura per colibrì."
+     },
+     {
+      "reason": "una liana da patio con grandi imbuti tropicali per cercatori di nettare in climi caldi."
+     },
+     {
+      "reason": "un rampicante annuale leggero con piccole trombe rosse a misura di colibrì."
+     },
+     {
+      "reason": "un ibisco di climi caldi con fiori vistosi che attirano i colibrì."
+     }
+    ]
+   },
+   "butterfly-havens": {
+    "title": "Rifugi per Farfalle",
+    "description": "Piante nutrici e nettarifere per monarche, macaoni, fritillarie e altre farfalle.",
+    "intro": "Un giardino per farfalle ha bisogno di asilo nido e sala da pranzo. L'asclepias nutre i bruchi della monarca, il prezzemolo quelli del macaone, le viole quelli delle fritillarie, e i fiori tardivi forniscono carburante agli adulti prima della migrazione e del gelo.",
+    "plants": [
+     {
+      "reason": "pianta nutrice della monarca con fiori arancioni ricchi di nettare."
+     },
+     {
+      "reason": "asclepias da suolo umido che nutre bruchi della monarca e impollinatori estivi."
+     },
+     {
+      "reason": "potenza nettarifera, meglio dove non è invasiva o con cultivar sterili."
+     },
+     {
+      "reason": "fiori robusti simili a piattaforme di atterraggio per macaoni, fritillarie ed esperie."
+     },
+     {
+      "reason": "spighe di fine estate che nutrono monarche e altre farfalle."
+     },
+     {
+      "reason": "annuale facile con colore per tutta l'estate e nettare accessibile."
+     },
+     {
+      "reason": "grappoli di nettare ininterrotti per le farfalle adulte in climi caldi."
+     },
+     {
+      "reason": "banchetto imponente di fine stagione per monarche e macaoni."
+     },
+     {
+      "reason": "steli viola ariosi che le farfalle trovano e su cui atterrano facilmente."
+     },
+     {
+      "reason": "erba aromatica da cucina che serve da cibo per i bruchi del macaone nero."
+     }
+    ]
+   },
+   "bee-banquets": {
+    "title": "Banchetti per le Api",
+    "description": "Fiori per tutta la stagione per api native e api mellifere.",
+    "intro": "Api diverse desiderano fiori diversi, ma un buon giardino per api tiene la tavola apparecchiata dalla primavera al gelo. Erbe aromatiche, composite native, verga d'oro, astri e facelia compongono un autentico calendario di polline e nettare.",
+    "plants": [
+     {
+      "reason": "fiori di inizio estate che le api visitano con entusiasmo quando le erbe aromatiche possono fiorire."
+     },
+     {
+      "reason": "una calamita mediterranea per api con lunga fioritura e fragranza concentrata."
+     },
+     {
+      "reason": "un fiore di menta nativa particolarmente indicato per i bombi."
+     },
+     {
+      "reason": "capolini larghi e margheritati offrono facile accesso a api di varie dimensioni."
+     },
+     {
+      "reason": "polline e nettare cruciali di fine stagione, quando le colonie si preparano all'inverno."
+     },
+     {
+      "reason": "fiori autunnali che tengono le api attive verso la fine della stagione."
+     },
+     {
+      "reason": "una perenne a lunga fioritura e senza pretese, adorata dai bombi."
+     },
+     {
+      "reason": "spighe porpora profumate che nutrono le api per settimane."
+     },
+     {
+      "reason": "se lasciato fiorire, l'origano diventa un'autostrada di fiorellini per le api."
+     },
+     {
+      "reason": "un'annuale ricchissima di nettare, usata in piantagioni per impollinatori e cover crop."
+     }
+    ]
+   },
+   "drought-warriors": {
+    "title": "Guerrieri della siccità",
+    "description": "Piante per giardini estivi secchi, con acqua limitata e xeriscape.",
+    "intro": "Queste piante chiedono ai giardinieri di smettere di amarle con il tubo. Agavi, lavanda, rosmarino, salvia, manzanita, ceanothus, sedum, yucca e cactus sono fatte per terreni poveri, sole e periodi di siccità.",
+    "plants": [
+     {
+      "reason": "icona del sud-ovest che immagazzina acqua in enormi foglie corazzate."
+     },
+     {
+      "reason": "ibrido di lavanda da giardino secco che prospera con sole, drenaggio e moderazione."
+     },
+     {
+      "reason": "pianta del chaparral californiano adattata a estati secche e sole aperto."
+     },
+     {
+      "reason": "erba mediterranea legnosa che non ama le annaffiature eccessive una volta stabilita."
+     },
+     {
+      "reason": "perenne succulenta che trattiene umidità e fiorisce quando molte aiuole si stancano."
+     },
+     {
+      "reason": "ardita pianta a rosetta tollerante alla siccità per vasi e giardini caldi."
+     },
+     {
+      "reason": "nativa di pendii asciutti con fiori estivi ricchi di nettare e bisogno minimo d'acqua."
+     },
+     {
+      "reason": "lillà californiano che vuole pioggia invernale, secchezza estiva e buon drenaggio."
+     },
+     {
+      "reason": "arbusto scultoreo del chaparral che fallisce prima per l'acqua estiva che per la siccità."
+     },
+     {
+      "reason": "vero cactus per caldo, sole e lunghi periodi asciutti."
+     }
+    ]
+   },
+   "shade-savers": {
+    "title": "Salvafreddo",
+    "description": "Piante per l'ombra profonda e il sottobosco, adatte a muri esposti a nord, sotto gli alberi e negli angoli tranquilli.",
+    "intro": "Il giardino all'ombra funziona quando smette di fingersi una bordatura soleggiata. Queste piante convivono con meno luce: fogliame, texture, effimera primavera, fioritura invernale e grazia boschiva al posto di fioriture estive ininterrotte.",
+    "plants": [
+     {
+      "reason": "grande fogliame blu-verde, il classico punto di partenza per le zone d'ombra."
+     },
+     {
+      "reason": "piume vaporose per l'ombra umida dove molte perenni rinunciano."
+     },
+     {
+      "reason": "un arbusto autoctono per mezz'ombra, con fiori, colori autunnali e corteccia scrostata."
+     },
+     {
+      "reason": "una tappezzante boschiva con foglie morbide e fiori primaverili schiumosi."
+     },
+     {
+      "reason": "una pianta da fogliame rustica e autoctona che sopporta l'ombra secca meglio di molte perenni."
+     },
+     {
+      "reason": "fioritura dall'inverno alla primavera per il momento in cui il giardino all'ombra ne ha più bisogno."
+     },
+     {
+      "reason": "fogliame sempreverde per ombra profonda, ideale per giardini miti e interni poco luminosi."
+     },
+     {
+      "reason": "fusti arcuati trasformano una zona d'ombra screziata in un paesaggio boschivo intenzionale."
+     },
+     {
+      "reason": "un classico primaverile da ombra con fiori romantici prima della dormienza estiva."
+     },
+     {
+      "reason": "foglie macchiate d'argento e fiori primaverili blu ravvivano il suolo del bosco."
+     }
+    ]
+   },
+   "kitchen-herbs": {
+    "title": "Erbe da Cucina",
+    "description": "Erbe essenziali per davanzali soleggiati, vasi da balcone e la cucina di ogni giorno.",
+    "intro": "Un orto di erbe aromatiche da cucina deve rispondere velocemente alla cena. Basilio per i pomodori, rosmarino per gli arrosti, timo per il pollame, coriandolo per i tacos, aneto per i sottaceti, prezzemolo per quasi tutto: queste sono le piante d'uso quotidiano che vale la pena tenere a portata di mano.",
+    "plants": [
+     {
+      "reason": "l'erba di pomodori, pesto e insalate estive che ogni cucina assolata non dovrebbe far mancare."
+     },
+     {
+      "reason": "un'erba legnosa per verdure arrosto, agnello, pollo e pane."
+     },
+     {
+      "reason": "la foglia saporita dietro ripieni, burro fuso, legumi e piatti invernali."
+     },
+     {
+      "reason": "un cavallo di battaglia del bouquet garnì per zuppe, pollame, stufati e radici arrosto."
+     },
+     {
+      "reason": "l'erba della pizza e delle verdure grigliate, che spesso è più saporita se essiccata."
+     },
+     {
+      "reason": "la menta per tè, piselli, frutta, insalate e bevande estive."
+     },
+     {
+      "reason": "un'erba da finitura universale e la base di salse come chimichurri e gremolata."
+     },
+     {
+      "reason": "foglie di coriandolo e semi fanno di una pianta un ingrediente utile in due modi diversi."
+     },
+     {
+      "reason": "l'erba fresca di sottaceti, salmone, patate, yogurt e verdure primaverili."
+     },
+     {
+      "reason": "una pianta perenne dal sapore di cipolla, ordinata per uova, zuppe, patate e guarnizioni."
+     }
+    ]
+   },
+   "edible-weeds": {
+    "title": "Erbacce commestibili",
+    "description": "Comuni erbacce di prati e campi con parti commestibili.",
+    "intro": "Alcune piante che combattiamo nei prati sono in realtà antichi alimenti travestiti. L'identificazione è importante, l'inquinamento è un fattore, la moderazione è d'obbligo, ma queste erbacce rivelano quanta conoscenza alimentare si nasconde sotto i nostri piedi.",
+    "plants": [
+     {
+      "reason": "foglie giovani, fiori e radici arrostite hanno una lunga tradizione alimentare."
+     },
+     {
+      "reason": "una tenera verdura dal sapore delicato per insalate, se raccolta giovane e pulita."
+     },
+     {
+      "reason": "una succulenta dal sapore di limone, ricca di acidi grassi omega-3."
+     },
+     {
+      "reason": "foglie giovani e semi sono commestibili, ma le piante mature diventano dure."
+     },
+     {
+      "reason": "un verde selvatico simile agli spinaci, con una lunga storia come erba da pentola."
+     },
+     {
+      "reason": "le foglie giovani sono commestibili e i semi la collegano ai parenti della psillio."
+     },
+     {
+      "reason": "pungente cruda, eccellente cotta come verde ricco di minerali."
+     },
+     {
+      "reason": "foglie giovani aspre sono commestibili con moderazione, soprattutto cotte a causa degli ossalati."
+     },
+     {
+      "reason": "le foglie di oxalis aspre sono commestibili come piccolo accento, non come verde principale."
+     },
+     {
+      "reason": "i baccelli pepati e le foglie giovani trasformano un'erbaccia da marciapiede in una nota da insalata."
+     }
+    ]
+   },
+   "lucky-charms": {
+    "title": "Portafortuna",
+    "description": "Piante coltivate per portare fortuna, ricchezza, benedizione e protezione in casa.",
+    "intro": "Le piante portafortuna funzionano perché gli uomini continuano a raccontarsele: foglie a forma di moneta, tronchi intrecciati, basilico sacro nei cortili, quadrifogli, loto che emerge puro dal fango. Questa collezione riunisce piante che rendono la prosperità visibile.",
+    "plants": [
+     {
+      "reason": "Foglie rotonde come monete e facili talee l'hanno resa la pianta moderna dell'amicizia e della prosperità."
+     },
+     {
+      "reason": "Una classica pianta della ricchezza, con foglie carnose che ricordano una fortuna accumulata."
+     },
+     {
+      "reason": "L'albero dei soldi intrecciato di uffici, negozi e piante regalo per la fortuna economica."
+     },
+     {
+      "reason": "Venduta contando gli steli nella tradizione del feng shui, pur non essendo un vero bambù."
+     },
+     {
+      "reason": "In India è largamente chiamata pianta dei soldi e coltivata per la prosperità domestica."
+     },
+     {
+      "reason": "La rara forma a quattro foglie è uno dei simboli di fortuna più chiari al mondo."
+     },
+     {
+      "reason": "Un arbusto portafortuna dell'Asia orientale, con bacche rosse e legami col Capodanno."
+     },
+     {
+      "reason": "Il tulsi è una pianta sacra indù associata alla protezione e alla benedizione."
+     },
+     {
+      "reason": "Una pianta della fortuna moderna per uffici, perché sembra prospera e non muore mai."
+     },
+     {
+      "reason": "Simbolo buddista e asiatico di prosperità, che emerge puro dall'acqua fangosa."
+     }
+    ]
+   },
+   "gothic-garden": {
+    "title": "Giardino Gotico",
+    "description": "Piante scure e drammatiche per bordi malinconici e contenitori ombrosi.",
+    "intro": "Un giardino gotico non è fatto solo di fiori neri. È contrasto, sobrietà, fogliame vellutato, fioriture invernali, steli neri e piante che, anche alla luce del giorno, sembrano un po' teatrali.",
+    "plants": [
+     {
+      "reason": "rosette succulente quasi nere dalla silhouette scultorea e quasi architettonica."
+     },
+     {
+      "reason": "foglie vellutate verde-nero con venature argentee, perfette per un tocco drammatico in casa."
+     },
+     {
+      "reason": "fogliame viola-nero finemente tagliato dalla silhouette gotica e vittoriana."
+     },
+     {
+      "reason": "alte spighe di fiori nero-vino per il fondo di una bordura malinconica."
+     },
+     {
+      "reason": "fiori doppi scuri dall'aspetto più antico che dolce."
+     },
+     {
+      "reason": "l'iconico tulipano quasi nero, lucido e teatrale in primavera."
+     },
+     {
+      "reason": "fiori invernali in prugna fumoso e forme scure che si adattano a bordure ombreggiate."
+     },
+     {
+      "reason": "piccoli fiori quasi neri per vasi e bordure fredde."
+     },
+     {
+      "reason": "i culmi maturi diventano di un nero lucido, offrendo altezza senza fiori."
+     },
+     {
+      "reason": "fogliame basso e nero a nastro che fa risaltare fiori pallidi e ghiaia."
+     }
+    ]
+   }
   }
+ }
 }

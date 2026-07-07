@@ -1,1122 +1,1122 @@
 {
-  "schema_version": 1,
-  "locale": "vi",
-  "source": {
-    "resource": "explore_themes.json",
-    "sha256": "58f16890b1e810a9f9d6e55107134e8cccb8238bdb900d5b55890c6b1b5ee8d3"
-  },
-  "fields": {
-    "themes": {
-      "air-purifiers": {
-        "description": "Từ Nghiên cứu Không khí sạch của NASA năm 1989 và các nghiên cứu sau đó.",
-        "intro": "Năm 1989, NASA đã thử nghiệm các loại cây cảnh trong các phòng kín và phát hiện ra rằng một số loài phổ biến thực sự loại bỏ formaldehyde, benzen và trichloroethylene khỏi không khí. Bộ sưu tập này thu thập các nhà chiến thắng về Không khí sạch của NASA đã kiếm được tiền của họ.",
-        "plants": [
-          {
-            "reason": "Loại bỏ formaldehyde, benzen và xylen; gần như không thể phá hủy."
-          },
-          {
-            "reason": "loại bỏ amoniac, benzen, formaldehyde và trichloroethylene."
-          },
-          {
-            "reason": "phản ứng quang hợp CAM hiếm gặp, giải phóng oxy vào ban đêm."
-          },
-          {
-            "reason": "formaldehyde và xylene; không độc hại với thú cưng."
-          },
-          {
-            "reason": "xylene, trichloroethylene, formaldehyde."
-          },
-          {
-            "reason": "Formaldehyd và xylen trong các thử nghiệm của NASA."
-          },
-          {
-            "reason": "benzen và trichloroethylene; an toàn cho thú cưng."
-          },
-          {
-            "reason": "benzen và formaldehyde; chịu ánh sáng yếu."
-          },
-          {
-            "reason": "giảm nấm mốc và formaldehyde trong không khí."
-          },
-          {
-            "reason": "nhà vô địch NASA cho việc loại bỏ formaldehyde."
-          }
-        ],
-        "title": "Máy lọc không khí"
-      },
-      "ancient-medicine": {
-        "description": "Các loài thực vật đã định nghĩa dược lý học tiền hiện đại.",
-        "intro": "Trong 6000 năm, trước khi các phòng thí nghiệm tổng hợp các phân tử, những người chữa bệnh đã bước vào các khu vườn. Thuốc lá trĩ cho tim, vỏ cây liễu cho sốt, lô hội cho bỏng, bạch mai cho trí nhớ. Bộ sưu tập này chứa các loài thực vật đã định nghĩa dược lý học tiền hiện đại.",
-        "plants": [
-          {
-            "reason": "nguồn gốc của digoxin, trụ cột trong điều trị suy tim kể từ năm 1785 (Withering)."
-          },
-          {
-            "reason": "nguồn gốc của salicin trong vỏ cây, tiền chất của aspirin."
-          },
-          {
-            "reason": "nguồn gốc của paclitaxel (Taxol), hóa trị ung thư cơ bản."
-          },
-          {
-            "reason": "Điều trị bỏng 6000 năm tuổi, từ các bản thảo papyrus Ai Cập đến các nhà thuốc hiện đại."
-          },
-          {
-            "reason": "thuốc cổ truyền Trung Quốc cho tuần hoàn máu; chất bổ sung trí nhớ hiện đại."
-          },
-          {
-            "reason": "thuốc chống trầm cảm thảo dược cổ điển và hiện đại."
-          },
-          {
-            "reason": "nguồn thujone; chống ký sinh trùng từ thời cổ đại."
-          },
-          {
-            "reason": "menthol — chất làm mát từ Ai Cập cổ đại trở đi."
-          },
-          {
-            "reason": "\"Hộp thuốc\" của Hippocrates; phương pháp chữa cảm cúm hiện đại."
-          },
-          {
-            "reason": "thymol — chất kháng khuẩn được sử dụng trên các chiến trường Hy Lạp và La Mã."
-          }
-        ],
-        "title": "Thuốc cổ truyền"
-      },
-      "bedroom-allies": {
-        "description": "Các loại cây tiếp tục giải phóng oxy hoặc thúc đẩy sự thư giãn vào ban đêm.",
-        "intro": "Hầu hết các loại cây hấp thụ oxy và thải ra CO₂ vào ban đêm. Một số loại không làm vậy - quá trình quang hợp CAM cho phép cây rắn và lô hội thải ra oxy qua đêm, chính xác là khi bạn đang hít thở nó. Thêm hoa oải hương và hoa nhài để tạo sự bình yên tự nhiên bên cạnh giường.",
-        "plants": [
-          {
-            "reason": "Cây CAM giải phóng oxy qua đêm."
-          },
-          {
-            "reason": "chất oxy ban đêm CAM có tác dụng dưỡng ẩm; gel dành cho vết bỏng ở đầu giường."
-          },
-          {
-            "reason": "hương thơm làm giảm nhịp tim và giúp ngủ ngon hơn."
-          },
-          {
-            "reason": "hương thơm hoa học được nghiên cứu về tác dụng chống lo âu."
-          },
-          {
-            "reason": "tăng độ ẩm tốt cho xoang và ngáy."
-          },
-          {
-            "reason": "không độc hại, loại bỏ formaldehyde trong khi bạn ngủ."
-          },
-          {
-            "reason": "có thể chịu đựng bóng râm phòng ngủ và sự bỏ bê vào ban đêm."
-          },
-          {
-            "reason": "những chiếc lá lớn bắt giữ các hạt bụi lơ lửng trong không khí."
-          },
-          {
-            "reason": "hương thơm liên quan đến việc cải thiện sự củng cố trí nhớ giấc ngủ."
-          },
-          {
-            "reason": "cao, yên tĩnh, loại bỏ VOCs."
-          }
-        ],
-        "title": "Đồng minh phòng ngủ"
-      },
-      "bee-banquets": {
-        "description": "Các loại cây hàng đầu cho ong bản địa và ong mật.",
-        "intro": "Những con ong mật địa phương, ong thợ, ong cắt lá và ong mật đều thích những bông hoa hơi khác nhau. Bộ sưu tập này trình bày một bữa tiệc ong kéo dài suốt mùa — hoa oải hương đầu mùa, hoa cúc đầu mùa hè, dòng phấn hoa hoa cúc vàng và hoa cúc hoàng gia cuối mùa quan trọng.",
-        "plants": [
-          {
-            "reason": "máy hút từ ong mật mùa hè đầu."
-          },
-          {
-            "reason": "Bàn tiệc ong theo phong cách Địa Trung Hải."
-          },
-          {
-            "reason": "nhân tiện ong mật ưa thích."
-          },
-          {
-            "reason": "người bản địa hấp dẫn rộng rãi."
-          },
-          {
-            "reason": "tinh phấn mùa cuối quan trọng."
-          },
-          {
-            "reason": "người sản xuất mật ong mùa thu."
-          },
-          {
-            "reason": "Cây lâu năm thân thiện với ong mật nở hoa lâu dài."
-          },
-          {
-            "reason": "máy hút hút ong thơm ngát suốt cả mùa hè."
-          },
-          {
-            "reason": "khi nở hoa, một con đường cao tốc của ong mật."
-          },
-          {
-            "reason": "sự thử nghiệm hàng năm mật hoa cao nhất dành cho ong."
-          }
-        ],
-        "title": "Bữa tiệc ong"
-      },
-      "broken-hearts": {
-        "description": "Những bông hoa của nỗi đau buồn, nỗi nhớ nhung và tình yêu đã mất.",
-        "intro": "Một số loài hoa tồn tại để đánh dấu sự mất mát - cyclamen để nói lời tạm biệt, hoa ly để tổ chức đám tang, hoa cúc để tưởng niệm những người đã hy sinh trong chiến tranh, hoa quên lãng để tưởng nhớ những người đã ra đi. Bộ sưu tập này chứa những loài cây mà mọi người trồng khi tình yêu đã tan biến hoặc khi ai đó đã ra đi.",
-        "plants": [
-          {
-            "reason": "hoa của chính Narcissus, huyền thoại về tình yêu bản thân biến thành nỗi buồn."
-          },
-          {
-            "reason": "sinh ra từ máu của người yêu bị Apollo giết hại Hyacinthos."
-          },
-          {
-            "reason": "Truyện thần thoại Hy Lạp về máu của Adonis; sự nở rộ của tình yêu thoáng qua."
-          },
-          {
-            "reason": "Ngôn ngữ hoa Victoria để từ chức và tạm biệt."
-          },
-          {
-            "reason": "hoa tưởng niệm của Flanders Fields."
-          },
-          {
-            "reason": "được Kaiser Wilhelm I đeo để tưởng nhớ mẹ mình; biểu tượng của sự hạnh phúc đơn thân."
-          },
-          {
-            "reason": "người nở hoa vào mùa đông của sự u buồn và những giọt nước mắt ẩn giấu."
-          },
-          {
-            "reason": "\"Tinh thần dũng cảm\" của thời kỳ Victoria, thường được sử dụng để chấm dứt các cuộc hẹn hò."
-          },
-          {
-            "reason": "hoa tang của sự vô tội và sự tái sinh."
-          },
-          {
-            "reason": "những kỷ niệm cổ điển của những người đã khuất."
-          }
-        ],
-        "title": "Những trái tim tan vỡ"
-      },
-      "butterfly-havens": {
-        "description": "Là nơi sinh sống và nguồn mật hoa cho các loài bướm vua, bướm đuôi ruồi và các loài bạn.",
-        "intro": "Các loài bướm Monarch cần cây sữa đậu, bướm đuôi đen cần rau mùi, bướm đuôi dài cần hoa violet. Bộ sưu tập này bao gồm cả hai nửa của việc làm vườn bướm - các loài thực vật chủ cho sâu bướm và các loài thực vật nectarin cho người lớn - biến một khu vườn thành một vườn ươm bướm.",
-        "plants": [
-          {
-            "reason": "thực vật chủ nhà của hoàng đế và mật ong cam rực rỡ."
-          },
-          {
-            "reason": "trung tâm chủ trì của vương quốc vùng ngập nước."
-          },
-          {
-            "reason": "quá mạnh đến mức nó thực sự được đặt tên theo họ."
-          },
-          {
-            "reason": "hoa đuôi bướm và mật hoa Fritillary."
-          },
-          {
-            "reason": "dầu nhiên liệu di cư của loài chim hoàng đế vào cuối mùa hè."
-          },
-          {
-            "reason": "mùa hè nở hoa hàng năm dễ dàng nhất, thân thiện với bướm."
-          },
-          {
-            "reason": "nọc mật không ngừng trong khí hậu miền nam."
-          },
-          {
-            "reason": "bữa tiệc cuối mùa hè của hoàng đế và chim đuôi bướm."
-          },
-          {
-            "reason": "những bệ đáp có màu tím thoáng mát dành cho các loài bướm đêm."
-          },
-          {
-            "reason": "cây chủ nhà cho sâu bướm đuôi chim đen."
-          }
-        ],
-        "title": "Vịnh bướm"
-      },
-      "deadly-beauty": {
-        "description": "Những loài cây tuyệt đẹp có thể giết người.",
-        "intro": "Một số loài thực vật đẹp nhất trong lĩnh vực cây trồng sẽ giết chết bạn. Oleander ngăn chặn tim đập. Foxglove ngăn chặn tim đập. Ricin từ đậu bắp là loại độc tố thực vật gây chết người nhất được biết đến. Bộ sưu tập này dành cho những người làm vườn có trình độ giáo dục - những đứa trẻ ở xa.",
-        "plants": [
-          {
-            "reason": "mỗi phần đều gây chết người; một lá cây được nuốt vào có thể ngừng tim."
-          },
-          {
-            "reason": "glycoside tim mạch; chất độc lịch sử được lựa chọn."
-          },
-          {
-            "reason": "aconitine, \"nữ hoàng của các chất độc\"; hấp thụ qua da tiếp xúc."
-          },
-          {
-            "reason": "hạt chứa ricin, một trong những độc tố sinh học gây chết người nhất."
-          },
-          {
-            "reason": "alkaloids taxine ngăn chặn tim đập; các vụ ngộ độc cố ý trong thời cổ đại."
-          },
-          {
-            "reason": "alkaloids tropane gây ảo giác và tử vong."
-          },
-          {
-            "reason": "ngộ độc alkaloid tropane; tử vong do \"thử nghiệm thiếu niên\"."
-          },
-          {
-            "reason": "mỗi phần đều gây chết người cho mèo; suy thận."
-          },
-          {
-            "reason": "các glycoside tim mạch cạnh tranh với cây hoa tử đằng."
-          },
-          {
-            "reason": "các củ đèn chết người nếu nhầm lẫn với hành tây."
-          }
-        ],
-        "title": "Sự đẹp chết chóc"
-      },
-      "drought-warriors": {
-        "description": "Cây cảnh khô hạn cho những khu vườn có hạn chế nước.",
-        "intro": "Khí hậu thích nghi nhanh hơn các khu vườn. Những cây cảnh chịu hạn này - cây agave, cây hương thảo, cây hương thảo trắng, cây đào lộn hột, cây manzanita - đã tiến hóa để thích nghi với khí hậu Địa Trung Hải và Tây Nam khô hạn vào mùa hè và chỉ yêu cầu bạn ngừng tưới chúng vì tình yêu.",
-        "plants": [
-          {
-            "reason": "Biểu tượng Tây Nam; vài tuần không có nước."
-          },
-          {
-            "reason": "Nguyên liệu chính cho vườn khô Địa Trung Hải."
-          },
-          {
-            "reason": "Cây bản địa của vùng chaparral ở California, thích nghi với mùa hè khô hạn."
-          },
-          {
-            "reason": "Mediterranean gỗ; không bổ sung nước ở khu vực 8+."
-          },
-          {
-            "reason": "Bệ vườn đá chứa cây thân nhẵn CAM."
-          },
-          {
-            "reason": "Klassic sa mạc Mexico."
-          },
-          {
-            "reason": "đã thích nghi với đồng cỏ, rễ chùm sống sót qua hạn hán."
-          },
-          {
-            "reason": "Nơi sinh ra ở California, chết đuối trong nước mùa hè."
-          },
-          {
-            "reason": "Người quý tộc rừng rậm California."
-          },
-          {
-            "reason": "cactus sa mạc thực sự."
-          }
-        ],
-        "title": "Những chiến binh chống hạn hán"
-      },
-      "edible-weeds": {
-        "description": "Rễ cỏ dại và cỏ dại trên bãi cỏ hoang dã thực sự là thức ăn.",
-        "intro": "Nửa số thứ mà bãi cỏ của bạn phải chiến đấu là có thể ăn được. Lá cây cúc vạn thọ có vị đắng và giàu vitamin; rau cải xoăn có vị chua và giàu omega-3; phần thịt của cừu ngon hơn rau chân vịt. Bộ sưu tập này biến những loại cỏ dại phổ biến thành nguyên liệu salad hoang dã.",
-        "plants": [
-          {
-            "reason": "lá cây (salad), hoa (rượu vang), rễ cây (cà phê)."
-          },
-          {
-            "reason": "Rau xà lách nhẹ, giàu vitamin C."
-          },
-          {
-            "reason": "xanh giòn chanh đậm chất omega-3."
-          },
-          {
-            "reason": "cây xanh và hạt, cả hai đều có thể ăn được."
-          },
-          {
-            "reason": "thay thế rau chân vịt, giàu canxi hơn."
-          },
-          {
-            "reason": "lá non có thể ăn được, hạt là psyllium."
-          },
-          {
-            "reason": "rau chân vịt đã nấu chín; giàu sắt và protein."
-          },
-          {
-            "reason": "rau xanh chanh, oxalat cao - nấu trước."
-          },
-          {
-            "reason": "những lá có màu xanh lá cây chua như lá dâu tây (điều độ)."
-          },
-          {
-            "reason": "hạt đậu ớt cay, rau xà lách xanh."
-          }
-        ],
-        "title": "Cây cỏ dại có thể ăn được"
-      },
-      "explorer-s-prize": {
-        "description": "Được giới thiệu vào các khu vườn phương Tây bởi những người săn tìm cây cối của thế kỷ 18-20.",
-        "intro": "Những thợ săn cây cối của thế kỷ 18-20 đã vượt qua các thung lũng Himalaya và Yunnan để tìm thấy những loài cây mà các nhà vườn châu Âu chưa từng thấy. E.H. Wilson đã gần như chết vì Cây Bạc Hà. Mọi loài cây ở đây đã thay đổi ngành cây trồng phương Tây ngay khi nó xuất hiện.",
-        "plants": [
-          {
-            "reason": "Giải thưởng cuộc thám hiểm Trung Quốc năm 1904 của E.H. Wilson gần như đã cướp đi mạng sống của ông."
-          },
-          {
-            "reason": "một trong những phát hiện của Augustine Henry ở Vân Nam."
-          },
-          {
-            "reason": "được phát hiện bởi Frank Kingdon-Ward ở Tây Tạng, năm 1924."
-          },
-          {
-            "reason": "được cho là đã tuyệt chủng trong 50 triệu năm; được phát hiện lại ở Trung Quốc vào năm 1944."
-          },
-          {
-            "reason": "được đặt tên bởi Joseph Hooker ở dãy Himalaya, năm 1855."
-          },
-          {
-            "reason": "Phát hiện của Joseph Rock ở Tây Tạng năm 1925; bông hồng đắt nhất thế giới."
-          },
-          {
-            "reason": "Bộ sưu tập Sichuan năm 1903 của E.H. Wilson dành cho Veitch."
-          },
-          {
-            "reason": "Phát hiện của nhà truyền giáo người Ý Giuseppe Giraldi ở Shaanxi vào những năm 1890."
-          },
-          {
-            "reason": "Bộ sưu tập Himalaya năm 1824 của Wallich."
-          },
-          {
-            "reason": "Bộ sưu tập Kew năm 1773 của Francis Masson từ Nam Phi."
-          }
-        ],
-        "title": "Giải thưởng của Nhà thám hiểm"
-      },
-      "famous-legends": {
-        "description": "Những loài thực vật được sinh ra từ huyền thoại và truyền thuyết.",
-        "intro": "Cây cối là nguồn vật liệu của huyền thoại - hoa mai mọc từ một cậu bé yêu bản thân, hoa nguyệt quế mọc từ một nàng tiên đang chạy trốn, hoa sen mang theo linh hồn Ai Cập vào mặt trời. Mười loài cây này đã tồn tại lâu như trong câu chuyện như trong đất.",
-        "plants": [
-          {
-            "reason": "Truyện thần thoại Hy Lạp về Narcissus, người đã yêu đắm say với hình ảnh phản chiếu của mình."
-          },
-          {
-            "reason": "được tạo ra bởi Apollo từ máu của Hyacinthos."
-          },
-          {
-            "reason": "Daphne biến thành lá nguyệt quế để trốn thoát khỏi Apollo; vương miện của những người chiến thắng Olympic."
-          },
-          {
-            "reason": "hoa của Morpheus và Demeter trong thần thoại Hy Lạp."
-          },
-          {
-            "reason": "đã được cho là xuất phát từ những giọt nước mắt của Aphrodite vì Adonis."
-          },
-          {
-            "reason": "Biểu tượng giác ngộ của Phật giáo; tái sinh của người Ai Cập."
-          },
-          {
-            "reason": "thực vật hóa thạch sống, sống sót sau vụ bom nguyên tử ở Hiroshima."
-          },
-          {
-            "reason": "lễ tích trung cổ về giọt nước mắt của một cô gái chăn cừu trong lễ Giáng sinh."
-          },
-          {
-            "reason": "\"Tình yêu trong sự lười biếng\" của Shakespeare từ Giấc Mơ Mùa Hè Trung Thu."
-          },
-          {
-            "reason": "Cây thánh giá của người Celt; được trồng trong khuôn viên nhà thờ hơn 1000 năm."
-          }
-        ],
-        "title": "Những huyền thoại nổi tiếng"
-      },
-      "gothic-garden": {
-        "description": "Những loại cây tối, kịch tính và bí ẩn để tạo nên những hàng rào mang tính tâm trạng.",
-        "intro": "Hoa cẩm tú cầu đen, cây dương xỉ gần như đen, hoa trầu bà đen như quả mận, hoa hồng nhung đen như mực. Bộ sưu tập này làm cho ranh giới trở nên tối sầm với tâm trạng u ám có chủ ý - thân cây tre đen, cỏ mondo giống như mực đổ tràn. Một khu vườn gothic là sự kiềm chế với sự đe dọa.",
-        "plants": [
-          {
-            "reason": "những bông hoa lan thân mọng nước gần như đen."
-          },
-          {
-            "reason": "được mổ xẻ sâu sắc gần các tán lá gần như đen (thư viện có họ hàng gần gũi)."
-          },
-          {
-            "reason": "cột tháp màu tím đen đậm nhất."
-          },
-          {
-            "reason": "những bông hoa kép đáng sợ."
-          },
-          {
-            "reason": "hoa tulip vườn đen nhất mang tính biểu tượng (qua Tulipa gesneriana)."
-          },
-          {
-            "reason": "hoa mùa đông màu đen tím."
-          },
-          {
-            "reason": "hoa nhỏ gần như đen."
-          },
-          {
-            "reason": "những thân cây đen một cách chính xác khi trưởng thành."
-          },
-          {
-            "reason": "những chiếc dây đeo như những giọt mực đổ tràn."
-          },
-          {
-            "reason": "hoa hồng có lưới trắng, thực chất là cây nhện."
-          }
-        ],
-        "title": "Vườn Gothic"
-      },
-      "healing-herbs": {
-        "description": "Các loại thảo mộc thuốc gia đình hàng ngày cho các bệnh nhẹ.",
-        "intro": "Những loại thảo mộc bạn giữ trên bậc thềm nhà bếp hoặc trong chậu bên giường để điều trị các bệnh nhẹ hàng ngày - cúc chàm để ngủ ngon, bạc hà để giảm đau đầu, oải hương để giảm căng thẳng, cúc vạn thọ để vết cắt, cây echinacea để phòng cảm lạnh. Các nhà thuốc dân gian qua nhiều thế kỷ.",
-        "plants": [
-          {
-            "reason": "kem gel cho vết bỏng, cháy nắng và kích ứng da nhẹ."
-          },
-          {
-            "reason": "trái cây và trà hỗ trợ tiêu hóa."
-          },
-          {
-            "reason": "chướng bụng, đau đầu và buồn nôn."
-          },
-          {
-            "reason": "giải cảm họng và vệ sinh miệng."
-          },
-          {
-            "reason": "thuốc giảm ho và kháng khuẩn."
-          },
-          {
-            "reason": "lo âu, mất ngủ và bỏng."
-          },
-          {
-            "reason": "trà thư giãn để giảm căng thẳng và ngủ ngon."
-          },
-          {
-            "reason": "kem bôi ngoài da cho vết cắt và da bị nứt nẻ."
-          },
-          {
-            "reason": "hỗ trợ miễn dịch trong thời gian bị cảm lạnh."
-          },
-          {
-            "reason": "giữ lại ký ức, tuần hoàn và xả tóc dưỡng."
-          }
-        ],
-        "title": "Các loại thảo mộc chữa bệnh"
-      },
-      "hummingbird-magnets": {
-        "description": "Những bông hoa đỏ và hình ống đáng tin cậy cho các khu vườn chim cánh cụt.",
-        "intro": "Chim ruồi ăn lượng mật hoa gần bằng trọng lượng cơ thể mỗi ngày, lơ lửng bên bất kỳ bông hoa hình ống màu đỏ hoặc cam nào. Hãy trồng bergamot đỏ tươi, kim ngân san hô và hoa hồng y để thưởng thức màn trình diễn trên không hằng ngày từ tháng Năm đến tháng Mười mà không cần máng cho ăn.",
-        "plants": [
-          {
-            "reason": "chuột túi tiêu chuẩn của miền Đông Hoa Kỳ."
-          },
-          {
-            "reason": "cây leo bản địa thường xanh, loài chim ruồi yêu thích."
-          },
-          {
-            "reason": "còi trumpet đỏ nở lại, mùa dài."
-          },
-          {
-            "reason": "ống cobalt sâu, nam châm hummer tháng Bảy đến tháng Mười."
-          },
-          {
-            "reason": "hoa ong bướm mùa xuân đầu."
-          },
-          {
-            "reason": "còi trumpet đỏ bên bờ suối; chim sáo sùng khâu giữa các bông hoa."
-          },
-          {
-            "reason": "Loài chim hạc phương Tây (thư viện có các loài liên quan)."
-          },
-          {
-            "reason": "trực giác thu hút côn trùng nhiệt đới thân thiện với sân hiên."
-          },
-          {
-            "reason": "cây leo hàng năm tinh tế được tải đầy hoa có kích thước giống như cánh tay của chim cú."
-          },
-          {
-            "reason": "Nguyên liệu chính của chim cánh cụt biển Gulf Coast."
-          }
-        ],
-        "title": "Bút hút chim họa mi"
-      },
-      "kitchen-herbs": {
-        "description": "Các loại thảo mộc đặt trên cửa sổ và cạnh giường để nấu ăn hàng ngày.",
-        "intro": "Những loại thảo mộc mà mọi đầu bếp đều sử dụng hàng ngày - húng quế cho cà chua, hương thảo cho cừu, thì là cho gia cầm, cây bạc hà cho đồ ăn, bạc hà cho trà, mùi tây cho mọi thứ. Mỗi loại cây đều phát triển vui vẻ trên ban công hoặc chậu cây ven cửa sổ có ánh nắng mặt trời.",
-        "plants": [
-          {
-            "reason": "Trung tâm ẩm thực Ý và Thái."
-          },
-          {
-            "reason": "chuẩn mực nướng thịt."
-          },
-          {
-            "reason": "Rau thơm gà tây Lễ Tạ ơn."
-          },
-          {
-            "reason": "hoa tươi làm việc chăm chỉ."
-          },
-          {
-            "reason": "rau thơm pizza; khô tốt nhất."
-          },
-          {
-            "reason": "mojito và bạc hà trà."
-          },
-          {
-            "reason": "bánh trang trí và nền chimichurri phổ biến."
-          },
-          {
-            "reason": "taco và cà ri là điều cần thiết."
-          },
-          {
-            "reason": "cà rốt ngâm chua và cá hồi."
-          },
-          {
-            "reason": "Bánh trứng chiên và đồ trang trí sẵn sàng."
-          }
-        ],
-        "title": "Các loại thảo mộc trong nhà bếp"
-      },
-      "literary-icons": {
-        "description": "Các loài thực vật nổi tiếng trong văn học cổ điển.",
-        "intro": "Những loài cây được các nhà văn làm nổi tiếng - những bông hoa tulip của Wordsworth, cây tâm sự của Shakespeare, cây hương thảo của Ophelia để tưởng nhớ, những loài ăn hoa sen của Tennyson, cây đẹp nhất của Housman. Mỗi loài cây ở đây đều mang theo dấu vân tay của văn học Anh được in lên lá của chúng.",
-        "plants": [
-          {
-            "reason": "\"Tình yêu trong sự lười biếng\" của Shakespeare trong Giấc Mơ Mùa Hè Trung Thu."
-          },
-          {
-            "reason": "\"để tưởng nhớ\" — Ophelia, Hamlet."
-          },
-          {
-            "reason": "hoa hồng của những sonnet của Shakespeare."
-          },
-          {
-            "reason": "\"Hàng loạt hoa anh đào vàng\" của Wordsworth."
-          },
-          {
-            "reason": "Vùng đồng hoa cúc của Nhà Ma thuật Oz."
-          },
-          {
-            "reason": "\"Người ăn hoa sen\" của Tennyson."
-          },
-          {
-            "reason": "\"Cây đẹp nhất trên thế giới\" của Housman."
-          },
-          {
-            "reason": "hoa lily của thung lũng trong Kinh thánh và thơ ca Marian thời trung cổ."
-          },
-          {
-            "reason": "\"mang về, mang về những bông hoa chuông xanh\" - bài hát dân gian; thơ ca đầy ám ảnh về sự hủy diệt."
-          },
-          {
-            "reason": "cây cây trong nghĩa trang trong bài \"Bài ca buồn viết trong một nghĩa trang nhà thờ quê hương\" của Gray."
-          }
-        ],
-        "title": "Biểu tượng văn học"
-      },
-      "love-tokens": {
-        "description": "Cây cối truyền thống được coi là biểu tượng của tình yêu và sự cống hiến.",
-        "intro": "Hoa hồng, hoa anh đào và hoa quên lãng - trong hàng nghìn năm qua, các nhà làm vườn đã trồng các loại cây cụ thể để nói lên những điều mà lời nói không thể diễn đạt được. Bộ sưu tập này thu thập những món quà tình yêu cổ điển của truyền thống phương Tây và phương Đông, từ hoa hồng Ba Tư đến hoa nhài Ấn Độ.",
-        "plants": [
-          {
-            "reason": "\"hoa hồng của những bông hồng\" cổ điển, nguồn gốc của dầu thơm hoa hồng và trung tâm biểu tượng lãng mạn từ thời cổ đại Ba Tư."
-          },
-          {
-            "reason": "cái tổ tiên của hầu hết các loại hoa hồng hiện đại, được trồng trong vườn tu viện như là \"hoa hồng của tình yêu\"."
-          },
-          {
-            "reason": "hợp hợp màu vàng-tím được ra mắt tại lễ thành lập Liên Hợp Quốc năm 1945; đó là bông hồng tình yêu mang tính biểu tượng nhất thế kỷ 20."
-          },
-          {
-            "reason": "Hoa đặc trưng của Napoleon, được mặc như một dấu hiệu của sự cống hiến cho Josephine."
-          },
-          {
-            "reason": "Hoa ngày lễ của mẹ và hộp thư tình cổ điển; màu hồng và đỏ là lãng mạn."
-          },
-          {
-            "reason": "hoa tulip đỏ tượng trưng cho tình yêu đích thực trong thơ ca Thổ Nhĩ Kỳ và Ba Tư."
-          },
-          {
-            "reason": "được dệt thành vòng hoa cưới trên khắp Nam Á và Đông Nam Á."
-          },
-          {
-            "reason": "hoa dâu tượng trưng cho sự thịnh vượng và lãng mạn trong truyền thống Trung Quốc."
-          },
-          {
-            "reason": "\"cặp buộc tình yêu\" của ngôn ngữ hoa Victoria, những cành hoa xoắn vào nhau."
-          },
-          {
-            "reason": "biểu tượng phổ quát của sự nhớ nhung giữa những người yêu đã chia tay."
-          }
-        ],
-        "title": "Các mã thông báo tình yêu"
-      },
-      "low-light-champs": {
-        "description": "Những loài thực vật thực sự phát triển mạnh (không chỉ tồn tại) trong những góc tối.",
-        "intro": "Không phải 'chấp nhận' — thực sự phát triển mạnh mẽ. Nhà máy Đúc sắt đã giành được tên của mình trong những hành lang chiếu đèn gas của thời kỳ Victoria. Các loài cây ZZ xuất phát từ tầng cây bụi ở Đông Phi. Bộ sưu tập này thu thập các loài thực vật thực sự phát triển mạnh nơi hầu hết các loài khác biến mất hoặc vàng nhạt.",
-        "plants": [
-          {
-            "reason": "Klassic lối đi tối màu kiểu Victoria."
-          },
-          {
-            "reason": "có thể chịu đựng ánh sáng gần bằng không trong nhiều tháng."
-          },
-          {
-            "reason": "chống chịu ánh sáng yếu và hạn hán kéo dài cùng một lúc."
-          },
-          {
-            "reason": "được lai tạo cho các trung tâm thương mại và bóng mát văn phòng."
-          },
-          {
-            "reason": "trồng trong những hành lang cầu thang không có cửa sổ."
-          },
-          {
-            "reason": "miền dưới tán rừng Amazon thích nghi với bóng râm."
-          },
-          {
-            "reason": "hoa nở ngay cả trong ánh sáng cửa sổ phía bắc."
-          },
-          {
-            "reason": "được đặt tên theo các phòng trà chiếu đèn gas thời Victoria."
-          },
-          {
-            "reason": "Cây trồng trong trung tâm thương mại không thể phá hủy giữa thế kỷ."
-          },
-          {
-            "reason": "chuyên gia về tầng cây bụi rừng nhiệt đới."
-          }
-        ],
-        "title": "Các đấu trường ánh sáng yếu"
-      },
-      "lucky-charms": {
-        "description": "Cây trồng truyền thống được trồng để mang lại may mắn, tài lộc và thịnh vượng.",
-        "intro": "Trên khắp các nền văn hóa, một số loại cây được trồng để mang lại may mắn và thịnh vượng. Cây tiền của Trung Quốc có lá hình đồng xu; cây ngọc trai là bình tài lộc cổ điển của phong thủy; thân cây tre may mắn được đếm số để được chúc phúc; cây tulsi bảo vệ ngôi nhà của người Hindu.",
-        "plants": [
-          {
-            "reason": "\"tình bạn và thịnh vượng\" — lá đồng xu tròn."
-          },
-          {
-            "reason": "cây tiền phong thủy truyền thống của Trung Quốc."
-          },
-          {
-            "reason": "Những thân cây đan chéo được trồng để kiếm tiền trong thương mại Đông Á."
-          },
-          {
-            "reason": "feng-shui \"tài lộc theo số lượng cành cây.\""
-          },
-          {
-            "reason": "được gọi là \"Cây Tiền\" ở Ấn Độ, được trồng để kiếm tiền."
-          },
-          {
-            "reason": "cây bốn lá may mắn, biểu tượng may mắn của Ireland."
-          },
-          {
-            "reason": "Biểu tượng của sự sung túc và may mắn của người Trung Quốc."
-          },
-          {
-            "reason": "thần thánh cây bảo vệ người Hindu của ngôi nhà."
-          },
-          {
-            "reason": "\"Cây may mắn\" hiện đại trong các văn phòng ở Đông Á."
-          },
-          {
-            "reason": "Biểu tượng Phật giáo về sự thịnh vượng mọc lên từ bùn."
-          }
-        ],
-        "title": "Những điều may mắn"
-      },
-      "modern-drugs": {
-        "description": "Cây trồng sản xuất trực tiếp các loại thuốc dược phẩm.",
-        "intro": "Một số loại thuốc mạnh nhất trong y học vẫn được chiết xuất từ thực vật. Thuốc foxglove cho chúng ta digoxin, cây yew Anh cho chúng ta thuốc hóa trị ung thư Taxol, cây thuốc đắng ngọt cho chúng ta artemisinin (Giải Nobel năm 2015). Nhà thuốc vẫn còn mọc trong vườn.",
-        "plants": [
-          {
-            "reason": "digoxin/digitoxin, thuốc điều trị suy tim tiêu chuẩn."
-          },
-          {
-            "reason": "paclitaxel (Taxol), hóa trị đầu tiên cho ung thư vú và buồng trứng."
-          },
-          {
-            "reason": "10-DAB tiền chất cho sản xuất paclitaxel bán tổng hợp."
-          },
-          {
-            "reason": "salicin → aspirin hiện đại."
-          },
-          {
-            "reason": "artemisinin, thuốc chống sốt rét tiêu chuẩn của WHO (Giải Nobel năm 2015)."
-          },
-          {
-            "reason": "vincristine và vinblastine, hóa trị ung thư bạch cầu."
-          },
-          {
-            "reason": "morphine, codeine và tất cả các thuốc giảm đau opioid hiện đại."
-          },
-          {
-            "reason": "atropine, được sử dụng trong trường hợp ngừng tim và nhãn khoa."
-          },
-          {
-            "reason": "etoposide, hóa trị ung thư tinh hoàn và phổi."
-          },
-          {
-            "reason": "ephedrine, chất giãn phế quản và thuốc giảm nghẹt mũi."
-          }
-        ],
-        "title": "Thuốc Hiện Đại"
-      },
-      "native-remedies": {
-        "description": "Các loại cây thuốc bản địa Bắc Mỹ.",
-        "intro": "Echinacea dùng để trị vết cắn rắn, cỏ bướm dùng để trị viêm màng phổi, cỏ Joe Pye dùng để trị sốt thương hàn — Các nhà thảo dược bản địa Bắc Mỹ đã thu thập một bộ dược điển tinh vi từ kiến thức về thực vật trải dài trên lục địa sau đó được hấp thụ vào dược điển thảo dược Mỹ hiện đại mà các bộ lạc không được công nhận.",
-        "plants": [
-          {
-            "reason": "Thuốc chữa đau răng, cắn rắn và vết thương phổ biến của các bộ lạc vùng đồng bằng."
-          },
-          {
-            "reason": "Thuốc sát khuẩn và hạ sốt Blackfoot và Ojibwa."
-          },
-          {
-            "reason": "\"củ viêm phổi,\" thuốc hô hấp Cherokee."
-          },
-          {
-            "reason": "Thuốc hô hấp và nôn độc bản địa (không có trong thư viện; sử dụng Lobelia cardinalis)."
-          },
-          {
-            "reason": "Cây thuốc và lễ nghi của người Iroquois."
-          },
-          {
-            "reason": "thân rễ là thực phẩm chính của các bộ lạc ở Tây Bắc Thái Bình Dương."
-          },
-          {
-            "reason": "Thuốc thảo dược và thuốc tiểu tiện tự nhiên."
-          },
-          {
-            "reason": "thảo dược cầm máu (\"thuốc cầm máu của binh lính\") của nhiều bộ lạc."
-          },
-          {
-            "reason": "Thuốc chữa sốt thương hàn của nhà thảo dược Mohican Joseph Shauquethqueat."
-          },
-          {
-            "reason": "Thuốc nhỏ giảm đau tai Ojibwa và thuốc trị cảm lạnh."
-          }
-        ],
-        "title": "Thuốc chữa bệnh tự nhiên"
-      },
-      "office-buddies": {
-        "description": "Cây trồng ít cần bảo trì cho bàn làm việc và văn phòng có đèn huỳnh quang.",
-        "intro": "Ánh sáng huỳnh quang, không khí khô và điều hòa, hạn hán vào cuối tuần, sự chú ý nhấp nháy không thường xuyên - hầu hết các loại cây sẽ chết trong một văn phòng. Cây ZZ, cây rắn, cây pothos và cây cọ phòng khách đã xây dựng được sự nghiệp chịu đựng chính xác loại bỏ lãng quên đó.",
-        "plants": [
-          {
-            "reason": "có thể chịu đựng được nhiều tuần bỏ bê và ánh sáng yếu."
-          },
-          {
-            "reason": "thích hợp với ánh sáng huỳnh quang, rửa hàng tháng."
-          },
-          {
-            "reason": "thúc đẩy sự phát triển trên các bàn làm việc với sự chú ý tối thiểu."
-          },
-          {
-            "reason": "dễ dàng, an toàn cho thú cưng, tạo ra những chú chó con đáng yêu."
-          },
-          {
-            "reason": "lá cây đầy màu sắc cho các phòng làm việc có ánh sáng yếu."
-          },
-          {
-            "reason": "Gỗ sồi cứng cáp kiểu Victoria, kích thước bàn."
-          },
-          {
-            "reason": "theo dõi, tha thứ cho việc tưới nước bị bỏ lỡ."
-          },
-          {
-            "reason": "hợp lý, chịu được ánh sáng huỳnh quang."
-          },
-          {
-            "reason": "những lá cây độc đáo, những món quà dễ dàng nhân giống dành cho đồng nghiệp."
-          },
-          {
-            "reason": "Cây cảnh có vẻ ngoài bóng bẩy, thân thiện với không khí văn phòng."
-          }
-        ],
-        "title": "Bạn đồng nghiệp văn phòng"
-      },
-      "pioneer-plants": {
-        "description": "Những loại cây trồng thiết yếu và cây cảnh của cuộc sống biên giới Mỹ.",
-        "intro": "Cuộc sống biên giới Mỹ diễn ra trên một bộ công cụ nhỏ - dầu hướng dương, bánh bí ngô, bóng mát cây liễu đung đưa, hàng rào gió Osage Orange. Ba chị em nông nghiệp bản địa đã nuôi sống những người định cư thuộc địa và định hình cảnh quan từ Ohio đến Đồng bằng Lớn.",
-        "plants": [
-          {
-            "reason": "Thực phẩm chính bản địa được mang đi phía tây; dầu mỏ, hạt giống và thức ăn chăn nuôi."
-          },
-          {
-            "reason": "Cây lương thực rễ bản địa được người định cư thế kỷ 19 hồi sinh."
-          },
-          {
-            "reason": "một nửa của \"Ba Chị Em\" cùng với ngô và bí ngô."
-          },
-          {
-            "reason": "nguyên liệu chính cho bánh tét, thức ăn cho gà và đèn lồng ma quái."
-          },
-          {
-            "reason": "Những loài hoa dại trên đồng cỏ nhanh chóng chiếm lĩnh các lề đường phía sau những người định cư."
-          },
-          {
-            "reason": "được trồng bởi USDA vào những năm 1930 như hàng rào chăn nuôi; hiện nay xâm lấn."
-          },
-          {
-            "reason": "Những vườn táo biên giới Ohio của Johnny Appleseed (John Chapman)."
-          },
-          {
-            "reason": "Thực phẩm chính của trang trại miền Nam; tồn tại trong điều kiện đất đai kém."
-          },
-          {
-            "reason": "cành rào chắn gió ban đầu của Đồng bằng Lớn."
-          },
-          {
-            "reason": "được trồng ở các giếng nhà để bóng mát và làm giỏ bằng tre."
-          }
-        ],
-        "title": "Cây tiên phong"
-      },
-      "revolutionary-tea": {
-        "description": "Các loại trà thay thế trà Trung Quốc thời kỳ thuộc địa trong thời kỳ tẩy chay Hội chợ Trà Boston.",
-        "intro": "Khi những người định cư Boston ném trà của Công ty Đông Ấn vào bến cảng, họ phải pha chế thứ gì đó khác. Cây Bạc hà trở thành trà Oswego, nồi trà đầy lá bạc hà và cây hương thảo, và mọi nhà bếp đều giữ một lựa chọn thay thế cho nhà ở.",
-        "plants": [
-          {
-            "reason": "\"Trà Oswego\" của người Iroquois và những người định cư ở New York."
-          },
-          {
-            "reason": "những lá trà ngâm như trà trên biên giới phía đông."
-          },
-          {
-            "reason": "những chiếc lá là loại thay thế được pha chế nhiều nhất trong suốt cuộc Cách mạng."
-          },
-          {
-            "reason": "những lá cây đã tạo ra một loại trà có thể sử dụng được trong các nhà bếp thuộc địa."
-          },
-          {
-            "reason": "hông đã tạo ra một loại trà chua giàu vitamin C và thạch."
-          },
-          {
-            "reason": "vườn định cư sẵn sàng; dễ trồng, dễ pha chế."
-          },
-          {
-            "reason": "Loài lai thế kỷ 18 đã nhanh chóng được tự nhiên hóa trong các nhà bếp Mỹ."
-          },
-          {
-            "reason": "một loại trà buổi tối dịu nhẹ được mang theo trong mỗi ngôi nhà."
-          },
-          {
-            "reason": "\"trà thảo mộc\" phổ biến cho các cơn đau họng và sức khỏe tổng thể."
-          },
-          {
-            "reason": "các đầu hoa được pha chế thành một loại trà thảo mộc đắng."
-          }
-        ],
-        "title": "Trà Cách mạng"
-      },
-      "royal-favorites": {
-        "description": "Các loài thực vật được đặt tên theo hoặc được hoàng gia yêu thích.",
-        "intro": "Những loài cây được đặt tên theo hoặc được yêu thích bởi hoàng gia - Strelitzia dành cho Nữ hoàng Charlotte, Victoria amazonica dành cho Nữ hoàng Victoria, Hoa hồng của Nhà thuốc của Nhà Lancaster, Tulip hoa trăng của Sultan Ahmed. Mỗi loài đều mang theo một lá cờ nhỏ của đế chế được ép vào cánh hoa của chúng.",
-        "plants": [
-          {
-            "reason": "được đặt tên vào năm 1773 để vinh danh Nữ hoàng Charlotte, Công chúa xứ Mecklenburg-Strelitz."
-          },
-          {
-            "reason": "được trình bày cho mọi đại biểu tại lễ thành lập Liên Hợp Quốc năm 1945."
-          },
-          {
-            "reason": "được đặt theo tên của Nữ hoàng Victoria; những người làm vườn của bà đã trồng nó ở Chatsworth."
-          },
-          {
-            "reason": "một loại cây thân mềm nhỏ gọn được đặt theo tên của cô ấy."
-          },
-          {
-            "reason": "1954 Grandiflora được đặt tên theo nữ hoàng trẻ."
-          },
-          {
-            "reason": "hoa hoàng gia của triều đình nhà Đường."
-          },
-          {
-            "reason": "Sultan Ottoman Ahmed III đã tổ chức Lễ hội Tulip dưới ánh trăng."
-          },
-          {
-            "reason": "Những bó hoa hoàng gia của Kate Middleton và Grace Kelly."
-          },
-          {
-            "reason": "Nữ hoàng Josephine của Napoleon đã xây dựng một bộ sưu tập rộng lớn tại Malmaison."
-          },
-          {
-            "reason": "\"Hoa Hồng Đỏ của Lancaster\" từ Cuộc Chiến Hoa Hồng."
-          }
-        ],
-        "title": "Những món yêu thích của Hoàng gia"
-      },
-      "secret-language": {
-        "description": "Hoa học Victoria - mỗi loại cây đều mang một thông điệp mã hóa.",
-        "intro": "Ở nước Anh thời Victoria, mỗi loại cây trong vườn đều mang một ý nghĩa mã hóa. Heartsease nói 'nhớ đến tôi'; mignonette nói 'những phẩm chất của bạn vượt trội hơn sức quyến rũ của bạn.' Bộ sưu tập này tái tạo một mẫu nhỏ từ vựng về hoa học cho những bức thư không thể đơn giản.",
-        "plants": [
-          {
-            "reason": "\"nhớ đến tôi\"; được mang theo giữa những người yêu xa cách."
-          },
-          {
-            "reason": "những phẩm chất khiêm tốn và trung thành."
-          },
-          {
-            "reason": "tinh thần dũng cảm."
-          },
-          {
-            "reason": "\"Cảm ơn bạn.\""
-          },
-          {
-            "reason": "tình cảm nhưng cũng là tình yêu thoáng qua (hoa nở trong một ngày)."
-          },
-          {
-            "reason": "lựa chọn; \"bạn là lựa chọn của tôi.\""
-          },
-          {
-            "reason": "tình yêu chân thành và ký ức."
-          },
-          {
-            "reason": "cặp \"cống hiến của tình yêu.\""
-          },
-          {
-            "reason": "\"những phẩm chất của bạn vượt trội hơn cả sự quyến rũ của bạn.\""
-          },
-          {
-            "reason": "trở lại hạnh phúc."
-          }
-        ],
-        "title": "Ngôn ngữ bí mật"
-      },
-      "shade-savers": {
-        "description": "Những người biểu diễn bóng râm sâu cho các bức tường phía bắc và dưới gốc cây.",
-        "intro": "Ánh sáng mờ - dưới tán cây sồi, bên cạnh các bức tường phía bắc - là nơi hầu hết các loài thực vật có hoa bỏ cuộc. Hostas và astilbes không phải vậy. Hellebores nở hoa trong bóng râm của tháng Hai. Loài cây có lá kép Solomon biến những tán cây bụi thưa thớt thành những khu vườn rừng được sắp xếp một cách có chủ ý.",
-        "plants": [
-          {
-            "reason": "vua của tán lá bóng mát."
-          },
-          {
-            "reason": "tả bóng của các cánh hoa trong đất ẩm."
-          },
-          {
-            "reason": "Cây bụi nở hoa bản địa có bóng râm một phần."
-          },
-          {
-            "reason": "Cây bụi bản địa phủ đất rừng."
-          },
-          {
-            "reason": "có khả năng chịu được bóng râm khô."
-          },
-          {
-            "reason": "hoa bóng mát nở rộ từ mùa đông đến mùa xuân."
-          },
-          {
-            "reason": "Cây xanh lá vĩnh cửu có bóng râm sâu cả trong và ngoài trời."
-          },
-          {
-            "reason": "màu bóng uốn cong thanh lịch lâu năm."
-          },
-          {
-            "reason": "tài năng mùa xuân cổ điển với ánh sáng mờ ảo."
-          },
-          {
-            "reason": "lá cây có đốm bạc + hoa màu xanh lam sớm."
-          }
-        ],
-        "title": "Những người cứu trợ bóng mát"
-      },
-      "thorny-defenders": {
-        "description": "Cây cối có vũ khí để làm hàng rào bảo vệ và hàng rào chống xâm nhập.",
-        "intro": "Trước khi có hàng rào dây thép gai và camera an ninh, các nhà vườn đã sử dụng cây cối. Pyracantha che phủ các bức tường của kẻ trộm. Cây cam Osage bao quanh đàn gia súc bằng hàng rào trước khi có lưới gai tồn tại. Bộ sưu tập này trang bị ranh giới bằng gai và gai nhọn gây đau đớn.",
-        "plants": [
-          {
-            "reason": "những bụi gai dày đặc cộng với hàng rào ven biển chịu mặn."
-          },
-          {
-            "reason": "Cây trồng tường \"chống trộm\" cổ điển."
-          },
-          {
-            "reason": "lá gai và khối lượng lá thường xanh."
-          },
-          {
-            "reason": "những gai nhọn mịn dày đặc."
-          },
-          {
-            "reason": "cành gai rào ven đường của vùng nông thôn Anh."
-          },
-          {
-            "reason": "được giới thiệu vào những năm 1930 cụ thể là \"cây rào sống\"."
-          },
-          {
-            "reason": "cây rào bò Great Plains ban đầu trước khi có lưới gai."
-          },
-          {
-            "reason": "những chiếc gai 2 inch độc ác, chịu đựng được vùng 5."
-          },
-          {
-            "reason": "cành rào sống của Địa Trung Hải và Mexico."
-          },
-          {
-            "reason": "các gai đỉnh trên lá, không thể xuyên qua."
-          }
-        ],
-        "title": "Những Người Bảo Vệ Độc Đáo"
-      },
-      "toxic-twins": {
-        "description": "Những loại cây trông hiền lành nhưng ẩn chứa độc tính thực sự.",
-        "intro": "Những loại cây trông vô hại nhưng ẩn chứa nguy hiểm thực sự. Lá hoa hồng chứa xyanua. Monstera và hoa sen hòa bình chứa các tinh thể oxalat canxi. Lá cà chua có độc hại đối với chó. Chúng đủ phổ biến để trồng trong phòng khách - nguy hiểm một cách lặng lẽ.",
-        "plants": [
-          {
-            "reason": "các glycoside cyanogenic trong hoa và lá."
-          },
-          {
-            "reason": "các độc tố grayanotoxin ảnh hưởng đến tim và dây thần kinh."
-          },
-          {
-            "reason": "các tinh thể oxalat canxi gây bỏng miệng và cổ họng."
-          },
-          {
-            "reason": "axit oxalat không hòa tan; tiêu chuẩn thú y cấp cứu cho mèo và chó."
-          },
-          {
-            "reason": "những tinh thể oxalat — mặc dù có cái tên vô tội."
-          },
-          {
-            "reason": "axit oxalat tinh thể gây liệt cổ họng."
-          },
-          {
-            "reason": "lá, thân và trái cây xanh có độc hại cho thú cưng (solanine)."
-          },
-          {
-            "reason": "cây hàng rào cyanogenic; ngộ độc động vật nuôi chết người."
-          },
-          {
-            "reason": "vỏ đỏ tươi sáng ngọt ngào nhưng hạt bên trong lại vô cùng độc hại."
-          },
-          {
-            "reason": "rào chắn vô cùng phổ biến; chó chết vì ăn quả mọng rơi xuống."
-          }
-        ],
-        "title": "Hai anh em song sinh độc hại"
-      },
-      "wedding-classics": {
-        "description": "Các loại cây đã được sử dụng trong lịch sử trong các bó hoa và bàn thờ cưới ở phương Tây.",
-        "intro": "Những truyền thống đám cưới phương Tây sử dụng một dàn nhạc nhỏ dành cho cô dâu - hoa hồng cho tình yêu lãng mạn, hoa anh đào cho sự thịnh vượng, hoa sen núi cho sự trong trắng. Nhiều trong số đó đã được niêm phong bởi các đám cưới hoàng gia và đã tồn tại trong các danh mục của các nhà bán hoa kể từ đó.",
-        "plants": [
-          {
-            "reason": "hoa cưới thế kỷ 20 xuất sắc nhất."
-          },
-          {
-            "reason": "Tiệc cưới cổ điển tháng Sáu; hoa kỷ niệm 12 năm."
-          },
-          {
-            "reason": "hoa vương miện cô dâu truyền thống."
-          },
-          {
-            "reason": "Hoa cài áo cổ điển mang theo \"tình yêu bí mật.\""
-          },
-          {
-            "reason": "tinh khiết và trinh khiết; truyền thống đám cưới của người Công giáo."
-          },
-          {
-            "reason": "Bouquet đám cưới hoàng gia năm 2011 của Kate Middleton."
-          },
-          {
-            "reason": "màu trắng và xanh dương là những màu sắc phổ biến trong các sản phẩm trang trí đám cưới hiện đại và tươi sáng"
-          },
-          {
-            "reason": "sự tha thứ và xứng đáng trong biểu tượng của cô dâu."
-          },
-          {
-            "reason": "bó hoa boutonniere tiêu chuẩn cho các chú rể kể từ thế kỷ 19."
-          },
-          {
-            "reason": "Các sợi tóc cưới của người Hindu, người Philippines và người Indonesia."
-          }
-        ],
-        "title": "Những bộ phim cổ điển về đám cưới"
-      }
-    }
+ "schema_version": 1,
+ "locale": "vi",
+ "source": {
+  "resource": "explore_themes.json",
+  "sha256": "143ce0f0b6d59b39220f52eed6323d4b5006e6f72f654db747adacd5bb6b7227"
+ },
+ "fields": {
+  "themes": {
+   "love-tokens": {
+    "title": "Biểu tượng tình yêu",
+    "description": "Những loài cây từ xưa được trao tặng như biểu tượng của tình yêu và lòng chung thủy.",
+    "intro": "Một số loài cây trở thành ngôn ngữ thầm kín của trái tim: hoa hồng cho khát khao, hoa violet cho lòng chung thủy, hoa mẫu đơn cho hôn nhân viên mãn, hoa lưu ly cho tình yêu vượt qua cách trở. Bộ sưu tập này gom lại những bông hoa mà con người đã dùng để nói thay cho những điều không thể thốt nên lời.",
+    "plants": [
+     {
+      "reason": "Hoa hồng thơm Ba Tư và là biểu tượng kinh điển của lãng mạn, vẫn được chưng cất thành tinh dầu."
+     },
+     {
+      "reason": "Một trong những giống hồng cổ châu Âu, chứng nhân của biết bao thi ca tình yêu và vườn thuốc cổ."
+     },
+     {
+      "reason": "Đóa hồng vàng phớt hồng hiện đại, ra mắt năm 1945 với thông điệp hòa giải và hy vọng."
+     },
+     {
+      "reason": "Đóa hoa nhỏ bé thơm ngát, tượng trưng cho sự khiêm nhường, chung thủy; loài hoa Napoléon dành tặng Joséphine."
+     },
+     {
+      "reason": "Cẩm chướng trong thư tình, khăn cài áo và Ngày của Mẹ, với nhánh đỏ, hồng thay lời yêu mến."
+     },
+     {
+      "reason": "Hoa tulip đỏ trở thành lời tỏ tình trong văn hóa Ba Tư, Thổ Nhĩ Kỳ rồi toàn thế giới."
+     },
+     {
+      "reason": "Loài hoa được tết vòng cưới và dùng trong các lễ tối ở Nam Á, Đông Nam Á bởi hương thơm triền miên."
+     },
+     {
+      "reason": "Hoa mẫu đơn rực rỡ tượng trưng cho tình yêu, danh dự và dụi mai hôn nhân phú quý."
+     },
+     {
+      "reason": "Chòm thân leo của nó dễ dàng trở thành biểu tượng thời Victoria cho sự ràng buộc yêu thương."
+     },
+     {
+      "reason": "Bông hoa kỷ niệm của những người yêu và bằng hữu nhắn nhủ: xin đừng quên tôi."
+     }
+    ]
+   },
+   "broken-hearts": {
+    "title": "Trái Tim Tan Vỡ",
+    "description": "Những bông hoa của bi thương, nhung nhớ, chia ly và tưởng niệm.",
+    "intro": "Khu vườn không chỉ tôn vinh tình yêu; chúng cũng lưu giữ những khoảng trống. Đây là những loài cây gắn với huyền thoại mất mát, bó hoa tiễn biệt, phong tục tang lễ và những ký ức không chịu phai nhòa.",
+    "plants": [
+     {
+      "reason": "gắn liền với huyền thoại Narcissus, nơi sắc đẹp cúi xuống thành tự yêu và đau khổ."
+     },
+     {
+      "reason": "liên quan đến Hyacinthos, chàng thiếu niên tuấn mỹ được Apollo khóc thương trong thần thoại Hy Lạp."
+     },
+     {
+      "reason": "gắn với Adonis và ánh tình yêu ngắn ngủi rực rỡ rồi vụt tắt."
+     },
+     {
+      "reason": "trong ngôn ngữ hoa Victoria, nó tượng trưng cho sự cam chịu, ra đi và lời từ biệt."
+     },
+     {
+      "reason": "hoài niệm của cánh đồng Flanders và những sinh mệnh mất đi trong chiến tranh."
+     },
+     {
+      "reason": "đóa hoa xanh của hoài niệm, xa xứ và lòng tận tụy đơn độc trong biểu tượng học châu Âu."
+     },
+     {
+      "reason": "đóa hoa mùa đông gắn với nước mắt Chúa Giáng Sinh và vẻ đẹp giữa mùa lạnh nhất."
+     },
+     {
+      "reason": "hình dáng rủ xuống khiến nó trở thành biểu tượng tang chế rõ ràng trong vườn."
+     },
+     {
+      "reason": "hoa mai táng và phục sinh, kết nối nỗi buồn với hy vọng tái sinh."
+     },
+     {
+      "reason": "lời hứa xanh nhỏ rằng người vắng mặt không bị xóa nhòa."
+     }
+    ]
+   },
+   "wedding-classics": {
+    "title": "Kinh điển đám cưới",
+    "description": "Những loài hoa dệt nên bó hoa cưới, vòng hoa, hoa cài áo và bàn thờ.",
+    "intro": "Hoa cưới là ngôn ngữ của phước lành: hoa hồng cho tình yêu, mẫu đơn cho sự thịnh vượng, hoa nhài cho hương thơm và nghi lễ, hoa chuông cho hạnh phúc trở về. Bộ sưu tập này kể về những loài cây đã sánh bước cùng cô dâu chú rễ trên lễ đường, bậc thềm chùa chiền, những lối đi trong vườn.",
+    "plants": [
+     {
+      "reason": "một đóa hồng hiện đại rực rỡ cho hôn nhân như lời hứa hy vọng công khai."
+     },
+     {
+      "reason": "hoa cưới tháng Sáu lộng lẫy, tượng trưng cho thịnh vượng, lãng mạn, may mắn."
+     },
+     {
+      "reason": "hoa trắng có sáp đội đầu từng được ưa chuộng cho vương miện, hoa cài áo, bó hoa trang trọng."
+     },
+     {
+      "reason": "hoa cài áo kem thơm ngát gợi âm thầm tình yêu một thời."
+     },
+     {
+      "reason": "hoa loa kèn trắng được dùng nơi có sự tinh khiết, đức tin, tái sinh là ngôn ngữ hôn lễ."
+     },
+     {
+      "reason": "hoa hoàng hậu ngọt ngào hình chuông mảnh dẻ, mang niềm hạnh phúc quay về."
+     },
+     {
+      "reason": "ngựa kéo hiện đại dịu dàng tạo nên cấu trúc hoa cưới trắng, xanh, hồng phong phú."
+     },
+     {
+      "reason": "hoa xuân trong lành cho duyên mới, thanh lịch ngập trời."
+     },
+     {
+      "reason": "cẩm chướng vững bền xuyên suốt nhiều thế hệ cài áo và hoa đội gia tộc."
+     },
+     {
+      "reason": "vòng hoa hương nhài huyền diệu qua nhiều thế hệ Đông Nam Á."
+     }
+    ]
+   },
+   "secret-language": {
+    "title": "Ngôn ngữ bí mật",
+    "description": "Nghệ thuật chơi hoa thời Victoria, nơi mỗi loài hoa đều mang một thông điệp mã hóa.",
+    "intro": "Trong cơn sốt ngôn ngữ hoa thời Victoria, một bó hoa có thể hoạt động như một bức thư: nhị thảo là \"nghĩ về em\", mộc hương ca ngợi phẩm giá bên trong, và linh lan hứa hẹn \"hạnh phúc trở về\". Những loài cây này biến khu vườn thành một từ vựng riêng tư.",
+    "plants": [
+     {
+      "reason": "loài nhị thảo trong ngôn ngữ hoa, gửi lời nhẹ nhàng \"xin hãy nhớ đến em\"."
+     },
+     {
+      "reason": "một dấu hiệu mã hóa của sự khiêm tốn, chung thủy và tình cảm thầm lặng."
+     },
+     {
+      "reason": "biểu tượng lâu đời trong văn chương hoa về sự hào hoa và lịch thiệp."
+     },
+     {
+      "reason": "một bông hồng của lòng biết ơn, hương thơm và sự thừa nhận lãng mạn."
+     },
+     {
+      "reason": "loài hoa của tình cảm, đồng thời gợi sự ngắn ngủi, đẹp chỉ buổi sáng của tình yêu."
+     },
+     {
+      "reason": "một loài phong lữ thơm dùng để nói \"em là lựa chọn của anh\"."
+     },
+     {
+      "reason": "câu nói trực tiếp và nhỏ nhẹ nhất trong vườn: \"hãy nhớ đến em\"."
+     },
+     {
+      "reason": "hình ảnh sống động của sự gắn bó, với từng đôi hoa và thân leo quấn quýt."
+     },
+     {
+      "reason": "được quý trọng vì hương hơn là sắc, tạo nên lời ca ngợi phẩm chất bên trong."
+     },
+     {
+      "reason": "lời hứa cổ điển rằng hạnh phúc có thể trở lại."
+     }
+    ]
+   },
+   "famous-legends": {
+    "title": "Huyền Thoại Nổi Tiếng",
+    "description": "Những loài cây sống mạnh mẽ trong thần thoại và truyền thuyết cũng như trong đất.",
+    "intro": "Trước khi thực vật học phân loại cây thành các họ và chi, những câu chuyện đã phân loại chúng thành dục vọng, đau buồn, chiến thắng, tái sinh và bảo vệ. Những loài này mang theo một số huyền thoại cổ xưa nhất mà người làm vườn vẫn còn nhận ra.",
+    "plants": [
+     {
+      "reason": "gợi lại huyền thoại Narcissus, nơi tự ái hóa thành hoa bên dòng nước."
+     },
+     {
+      "reason": "sinh ra từ máu của Hyacinthos sau nỗi đau của Apollo."
+     },
+     {
+      "reason": "cây hóa thân của Daphne và vòng nguyệt quế của thi sĩ, vận động viên và kẻ chiến thắng."
+     },
+     {
+      "reason": "hoa của giấc ngủ, cái chết và nỗi thương tiếc của Demeter trong trí tưởng tượng cổ điển."
+     },
+     {
+      "reason": "gắn liền với nước mắt của Aphrodite và cuộc đời ngắn ngủi của Adonis."
+     },
+     {
+      "reason": "hoa tái sinh trong hình ảnh Ai Cập và biểu tượng giác ngộ trong Phật giáo."
+     },
+     {
+      "reason": "truyền thuyết Giáng sinh thời trung cổ thành cây vườn nở hoa mùa đông."
+     },
+     {
+      "reason": "love-in-idleness của Shakespeare, loài hoa mê hoặc xáo trộn dục vọng."
+     },
+     {
+      "reason": "cây nghĩa trang của cái chết, bảo vệ và sự bất tử bất an."
+     },
+     {
+      "reason": "thiêng liêng đối với Aphrodite, dùng trong tình yêu, hôn nhân và vòng hoa cổ điển."
+     }
+    ]
+   },
+   "royal-favorites": {
+    "title": "Yêu thích Hoàng gia",
+    "description": "Thực vật được đặt tên theo hoàng tộc, được triều đình ưa chuộng, hoặc được dùng làm biểu tượng của các vương triều.",
+    "intro": "Triều đình biến thực vật thành biểu tượng địa vị: hoa súng của Nữ hoàng Victoria, hoa tulip Ottoman, mẫu đơn hoàng gia, hoa hồng Lancaster, và hoa cúc của ngai vàng Nhật Bản. Mỗi loài ở đây đều mang theo một chút nghi lễ trong cánh hoa hay phiến lá của chúng.",
+    "plants": [
+     {
+      "reason": "được đặt tên theo Vương hậu Charlotte xứ Mecklenburg-Strelitz, tạo dấu ấn hoàng gia cho loài hoa nhiệt đới này."
+     },
+     {
+      "reason": "loài hoa súng khổng lồ mang tên Nữ hoàng Victoria, nổi tiếng vì được trồng tại Chatsworth."
+     },
+     {
+      "reason": "viên ngọc sa mạc nhỏ gọn mang tên nữ hoàng trong danh pháp thực vật."
+     },
+     {
+      "reason": "giống hồng grandiflora mang tính biểu tượng thập niên 1950, đặt tên theo Nữ hoàng Elizabeth II trẻ tuổi."
+     },
+     {
+      "reason": "hoa của sự giàu sang và vinh hiển trong văn hóa triều đình nhà Đường và nghệ thuật Trung Hoa sau này."
+     },
+     {
+      "reason": "hoa biểu tượng của sự lộng lẫy triều đình Ottoman, đặc biệt là trong thời kỳ Tulip."
+     },
+     {
+      "reason": "loài hoa bó thanh nhã của hoàng gia, được Grace Kelly và Catherine Middleton nâng niu."
+     },
+     {
+      "reason": "khu vườn Malmaison của Hoàng hậu Joséphine góp phần biến các loài ngoại lai ấn tượng thành nỗi ám ảnh triều đình."
+     },
+     {
+      "reason": "hoa hồng đỏ của nhà Lancaster, vẫn mang ký ức về những tranh chấp triều đại."
+     },
+     {
+      "reason": "hoa cúc trồng trọt là nền tảng của một trong những biểu tượng đế quốc dễ nhận biết nhất thế giới."
+     }
+    ]
+   },
+   "explorer-s-prize": {
+    "title": "Giải thưởng của Nhà thám hiểm",
+    "description": "Những loài thực vật được du nhập vào vườn phương Tây nhờ các cuộc thám hiểm và khảo sát thực vật.",
+    "intro": "Các nhà săn thực vật đã băng qua hẻm núi Vân Nam, đèo Himalaya và thung lũng Nam Phi để tìm kiếm những loài mà vườn châu Âu chưa từng thấy. Những cây này đến với nguy hiểm, tham vọng và một chút ám ảnh.",
+    "plants": [
+     {
+      "reason": "Giải thưởng nổi tiếng của E. H. Wilson từ Trung Quốc, săn đuổi sau khi cây của nhà sưu tập trước đó đã biến mất."
+     },
+     {
+      "reason": "Một trong những khám phá Trung Quốc của Augustine Henry, được ưa chuộng vì hoa xanh oải hương rực rỡ."
+     },
+     {
+      "reason": "Loài hoa xanh gần như huyền thoại được du nhập từ vùng cao Himalaya và Tây Tạng."
+     },
+     {
+      "reason": "Được biết đến đầu tiên như hóa thạch, sau đó được tái khám phá còn sống ở Trung Quốc vào những năm 1940."
+     },
+     {
+      "reason": "Một loài magnolia Himalaya mang đến những bông hoa xuân hồng to vào vườn sưu tập."
+     },
+     {
+      "reason": "Mẫu đơn của Joseph Rock trở thành cây sưu tập nhờ hoa lốm đốm ấn tượng."
+     },
+     {
+      "reason": "Cây lá perennial Tứ Xuyên được thu thập trong làn sóng săn thực vật lớn đầu thế kỷ 20."
+     },
+     {
+      "reason": "Một loài beautyberry Trung Quốc gắn với bộ sưu tập của Giuseppe Giraldi ở Thiểm Tây."
+     },
+     {
+      "reason": "Một dây leo Himalaya được đưa vào trồng nhờ thực vật học thuộc địa sớm."
+     },
+     {
+      "reason": "Bộ sưu tập Nam Phi của Francis Masson trở thành một trong những chiến lợi phẩm lớn nhất của Kew."
+     }
+    ]
+   },
+   "pioneer-plants": {
+    "title": "Cây tiên phong",
+    "description": "Cây trồng, hàng rào và những loài cây khai hoang đã định hình thời kỳ đầu lập nghiệp của người Mỹ.",
+    "intro": "Những khu vườn vùng biên giới trước hết phải thực dụng rồi mới đẹp. Ngô, đậu, bí, hướng dương, táo, khoai lang, liễu và cam Osage đã nuôi sống các gia đình, làm hàng rào cho gia súc, che bóng cho giếng nước, và biến những vùng đất khắc nghiệt thành nơi có thể sinh sống.",
+    "plants": [
+     {
+      "reason": "là lương thực bản địa chính, trở thành cây trồng không thể thiếu của người dân thuộc địa và vùng biên."
+     },
+     {
+      "reason": "một loài cây bản địa Bắc Mỹ lấy hạt, dầu, thức ăn gia súc và là dấu hiệu rực rỡ của đất canh tác."
+     },
+     {
+      "reason": "loại củ bản địa có thể sống sót qua đất nghèo và mùa đông lạnh giá."
+     },
+     {
+      "reason": "một trong Tam tỷ muội, quấn quanh thân ngô và cung cấp chất đạm cho gia đình."
+     },
+     {
+      "reason": "cây trữ lâu để làm bánh, súp, thức ăn gia súc và làm phong tục mùa thu."
+     },
+     {
+      "reason": "một loài hoa đồng nội cứng cáp, mọc ven đường, trên đồng và đất hoang."
+     },
+     {
+      "reason": "cây ăn quả cho rượu táo, trữ đông và là huyền thoại về Johnny Appleseed khai hoang."
+     },
+     {
+      "reason": "một cây lương thực miền Nam, cho năng suất cao ở vùng nóng và đất xấu."
+     },
+     {
+      "reason": "hàng rào sống của vùng Đồng bằng trước khi dây thép gai thay thế."
+     },
+     {
+      "reason": "trồng gần giếng và nhà để lấy bóng mát, lớn nhanh và cho cành chẻ."
+     }
+    ]
+   },
+   "revolutionary-tea": {
+    "title": "Phong Trào Pha Trà Cách Mạng",
+    "description": "Cây chè và các loại thảo mộc mà người dân thuộc địa pha khi trà nhập khẩu trở thành vấn đề chính trị.",
+    "intro": "Cuộc tẩy chay trà của người Mỹ đã biến những căn bếp thành những hành động kháng cự nhỏ. Trà Camellia nhập khẩu trở nên đáng ngờ, thế nên các hộ gia đình pha trà New Jersey, tía tô đất, bạc hà, lá mâm xôi, cây xô thơm, hoa cúc và nhiều loại dịch truyền trồng tại nhà khác.",
+    "plants": [
+     {
+      "reason": "loại trà Trung Quốc nhập khẩu là trung tâm của thuế, tẩy chay và Sự kiện Chè Boston."
+     },
+     {
+      "reason": "loại thay thế bản địa nổi tiếng nhất, với lá phơi khô pha trà yêu nước."
+     },
+     {
+      "reason": "Oswego tea, học từ người bản địa và được người định cư ở New York pha chế."
+     },
+     {
+      "reason": "một loại cây bạc hà bản địa có hương thơm, cho dịch truyền mạnh mẽ nơi biên ải."
+     },
+     {
+      "reason": "lá mâm xôi là một loại trà thảo mộc gia dụng từ lâu trước khi có túi trà."
+     },
+     {
+      "reason": "dễ trồng, khó chết và đủ dễ chịu cho việc pha trà hàng ngày trong bếp."
+     },
+     {
+      "reason": "một loại bạc hà trồng trọt tươi mát đã trở thành dịch truyền tiêu chuẩn trong nhà."
+     },
+     {
+      "reason": "một loại trà hoa dịu nhẹ, phù hợp với tủ thuốc gia đình."
+     },
+     {
+      "reason": "trà xô thơm là bài thuốc gia truyền phổ biến và thay thế thiết thực khi tránh trà nhập khẩu."
+     },
+     {
+      "reason": "một loại thảo dược đắng, bổ, có thể hái hoặc trồng để pha trà thuốc."
+     }
+    ]
+   },
+   "literary-icons": {
+    "title": "Biểu tượng Văn chương",
+    "description": "Những loài cây được thơ ca, kịch, tiểu thuyết, kinh thánh và âm nhạc làm nên bất hủ.",
+    "intro": "Một số loài cây đến trong tâm trí ta đã mang sẵn câu trích: Hương thảo của Ophelia, Thủy tiên vàng của Wordsworth, Viola ba màu của Shakespeare, Sen của Tennyson, Thủy tùng của Gray... Bộ sưu tập này là một tủ sách được trồng trong đất.",
+    "plants": [
+     {
+      "reason": "Loài hoa 'tình yêu vu vơ' của Shakespeare, thứ hoa làm lệch lạc ham muốn trong 'Giấc mộng đêm hè'."
+     },
+     {
+      "reason": "Cây hương thảo của Ophelia trong Hamlet, vẫn là một trong những tín hiệu thực vật rõ ràng nhất văn chương."
+     },
+     {
+      "reason": "Hoa hồng cổ thơm, xuất hiện trong vô số bài sonnet, thơ tình và văn so sánh."
+     },
+     {
+      "reason": "Wordsworth đã khắc họa hoa thủy tiên vàng thành biểu tượng của niềm vui hoài niệm."
+     },
+     {
+      "reason": "Hoa anh túc đỏ tượng trưng cho giấc ngủ, tưởng niệm chiến tranh và những cánh đồng anh túc nguy hiểm trong truyện."
+     },
+     {
+      "reason": "Sen của người ăn sen trong thơ Tennyson, loài hoa của giấc quên mộng mơ."
+     },
+     {
+      "reason": "Hoa anh đào gợi liên tưởng đến truyền thống về cái đẹp chóng tàn ở đỉnh cao rực rỡ."
+     },
+     {
+      "reason": "Hoa huệ trắng trong hình tượng Kinh Thánh, Đức Mẹ và nghệ thuật sùng kính thời Trung cổ."
+     },
+     {
+      "reason": "Vòng nguyệt quế của thi nhân, loài cây trở thành biểu tượng ngắn gọn cho vinh quang văn chương."
+     },
+     {
+      "reason": "Cây nghĩa địa, tạo nên sự hiện diện u tối ma mị cho thơ ca nhà thờ."
+     }
+    ]
+   },
+   "ancient-medicine": {
+    "title": "Cựu Dược Thảo",
+    "description": "Những loài cây đã định hình y học cổ đại, trung cổ và cận đại.",
+    "intro": "Trước khi ngành dược lý hiện đại ra đời, những người chữa bệnh làm việc từ vỏ cây, rễ, lá, hoa và những nhựa đắng. Những loài cây này thuộc về các phương thuốc gia đình, vườn tu viện, phương pháp điều trị trên chiến trường và các văn bản y học cổ sơ.",
+    "plants": [
+     {
+      "reason": "một trong những cây làm dịu da xưa nhất, dùng trị bỏng và vết thương trong các truyền thống Địa Trung Hải và Ai Cập."
+     },
+     {
+      "reason": "nguồn thuốc phiện cổ xưa, giảm đau, an thần và một trong những di sản phức tạp nhất của y học."
+     },
+     {
+      "reason": "vỏ liễu được dùng giảm đau và hạ sốt từ lâu trước khi salicin dẫn đến hóa học aspirin."
+     },
+     {
+      "reason": "một bài thuốc dân gian cũ được William Withering chuyển hóa thành thuốc tim mạch mang tính bước ngoặt."
+     },
+     {
+      "reason": "một loại thảo mộc đắng trong y học cổ đại và trung cổ, đặc biệt cho chứng tiêu hóa và ký sinh trùng."
+     },
+     {
+      "reason": "thảo dược cầm máu của người lính, theo truyền thống dùng để cầm máu."
+     },
+     {
+      "reason": "một loại thảo mộc trong tu viện và nhà bếp, từng được quý trọng cho các bệnh về họng, miệng và tiêu hóa."
+     },
+     {
+      "reason": "một loại thảo mộc thơm mạnh mà thành phần thymol phong phú khiến nó trở thành cây làm sạch truyền thống."
+     },
+     {
+      "reason": "một loại thảo dược tiêu hóa làm mát kết nối giữa sử dụng trong cựu dược viện và các sản phẩm menthol hiện đại."
+     },
+     {
+      "reason": "hoa và quả cơm cháy đã là một phần của y học gia đình châu Âu trong nhiều thế kỷ."
+     }
+    ]
+   },
+   "native-remedies": {
+    "title": "Bài thuốc bản địa",
+    "description": "Các loài cây Bắc Mỹ có lịch sử làm thực phẩm, dược liệu và nghi lễ của người bản địa.",
+    "intro": "Tri thức thực vật của người bản địa Bắc Mỹ rất sâu rộng, mang tính địa phương và đặc thù. Bộ sưu tập này nêu bật các loài về sau được hấp thu vào thảo dược học Mỹ, nhưng thường ít ghi nhận cho các cộng đồng đã biết đến chúng trước hết.",
+    "plants": [
+     {
+      "reason": "cây thuốc Tây Nguyên, dùng chữa vết thương, rắn cắn, đau răng, sau là nguyên liệu dược phẩm Mỹ."
+     },
+     {
+      "reason": "bạc hà bản địa thơm, được nhiều bộ lạc pha trà, đắp và rửa sát khuẩn."
+     },
+     {
+      "reason": "gọi là \"rễ viêm màng phổi\" trong thảo dược Mỹ, liên quan đến công dụng hô hấp của người bản địa."
+     },
+     {
+      "reason": "cây thuốc mạnh, xưa dùng cẩn thận trong điều trị hô hấp và gây nôn."
+     },
+     {
+      "reason": "loài cây đầm lầy rực rỡ, gắn với nghi lễ và dược liệu ở vùng Đông Bắc."
+     },
+     {
+      "reason": "củ wapato là thức ăn quan trọng của nhiều cộng đồng vùng đầm lầy và Tây Bắc Thái Bình Dương."
+     },
+     {
+      "reason": "lá kinnikinnick dùng trong hỗn hợp hút và chữa bệnh đường tiết niệu."
+     },
+     {
+      "reason": "cây chữa thương phổ biến, dùng đắp và cầm máu."
+     },
+     {
+      "reason": "gắn với thầy lang Mohican Joseph Shauquethqueat, sau là bài thuốc trị sốt."
+     },
+     {
+      "reason": "được dùng theo truyền thống bản địa chữa cảm lạnh, sưng tấy và đắp ngoài da."
+     }
+    ]
+   },
+   "modern-drugs": {
+    "title": "Dược liệu hiện đại",
+    "description": "Những loài thực vật trực tiếp sản sinh hoặc truyền cảm hứng cho các dược phẩm quan trọng.",
+    "intro": "Hiệu thuốc vẫn mọc trong vườn. Một số loại thuốc hiện đại khởi đầu từ chất phòng vệ thực vật, nhựa, hóa chất vỏ cây hay alkaloid, sau đó trở thành thuốc tim, liệu pháp ung thư, thuốc trị sốt rét, thuốc gây mê và giảm đau.",
+    "plants": [
+     {
+      "reason": "nguồn cung cấp digitalis glycoside đã cách mạng hóa ngành thuốc tim mạch."
+     },
+     {
+      "reason": "câu chuyện về cây thủy tùng phía sau paclitaxel, một trong những thuốc ung thư nguồn gốc thực vật chính."
+     },
+     {
+      "reason": "nguồn tiền chất taxane dùng trong sản xuất bán tổng hợp paclitaxel."
+     },
+     {
+      "reason": "salicylate cây liễu đã góp phần ra đời aspirin, thuốc giảm đau nổi tiếng nhất từ thực vật."
+     },
+     {
+      "reason": "nguồn artemisinin, bước đột phá được giải Nobel trong điều trị sốt rét."
+     },
+     {
+      "reason": "nguồn vincristine và vinblastine, thuốc thiết yếu trong hóa trị ung thư."
+     },
+     {
+      "reason": "nguồn morphine và codeine, hợp chất giảm đau nền tảng nhưng mang rủi ro cao."
+     },
+     {
+      "reason": "nguồn atropine, dùng trong nhãn khoa, y học cấp cứu và gây mê."
+     },
+     {
+      "reason": "truyền cảm hứng cho các thuốc ung thư từ podophyllotoxin như etoposide."
+     },
+     {
+      "reason": "nguồn ephedrine, hợp chất giãn phế quản và thông mũi quan trọng."
+     }
+    ]
+   },
+   "healing-herbs": {
+    "title": "Thảo mộc chữa lành",
+    "description": "Các loại thảo mộc hàng ngày theo truyền thống được giữ để chăm sóc sức khỏe gia đình nhỏ.",
+    "intro": "Đây là những phương thuốc nhẹ nhàng của dược tủ xưa: trà an thần, xông hương, cao dán, nước súc miệng và bài thuốc bếp. Chúng không thay thế y tế chuyên nghiệp, nhưng lý giải vì sao vườn thảo dược luôn được đặt gần tay sờ nhất.",
+    "plants": [
+     {
+      "reason": "đặt trên bệ cửa vì gel mát dùng cho bỏng nhẹ và da kích ứng"
+     },
+     {
+      "reason": "trà thư giãn quen thuộc cho giờ ngủ và dạ dày khó chịu"
+     },
+     {
+      "reason": "thảo mộc tiêu hóa tươi sáng, dùng cho buồn nôn, nặng bụng và hương thơm mát"
+     },
+     {
+      "reason": "dùng theo truyền thống như nước súc họng và thuốc bếp đậm vị"
+     },
+     {
+      "reason": "thảo mộc thơm từ lâu được dùng trong siro ho, xông hơi và chế phẩm kháng khuẩn gia dụng"
+     },
+     {
+      "reason": "trồng vì hương thơm an thần, pha tắm, túi thơm và cao dán da nhẹ"
+     },
+     {
+      "reason": "bạc hà hương chanh theo truyền thống pha cho căng thẳng, giấc ngủ và tiêu hóa"
+     },
+     {
+      "reason": "hoa cam màu cam trong cao tự chế cho da nứt nẻ, khô hoặc trầy xước"
+     },
+     {
+      "reason": "thảo mộc hiện đại chủ lực gốc từ truyền thống cây thuốc Bắc Mỹ"
+     },
+     {
+      "reason": "dùng trong nước xông tỉnh táo, xoa bóp và trà, nổi tiếng với tác dụng nhớ và lưu thông"
+     }
+    ]
+   },
+   "air-purifiers": {
+    "title": "Máy lọc không khí xanh",
+    "description": "Cây trồng trong nhà nổi danh nhờ các nghiên cứu làm sạch không khí trong buồng kín.",
+    "intro": "Nghiên cứu Không khí sạch của NASA đã biến những cây trồng trong nhà tầm thường thành biểu tượng hiện đại. Các căn phòng thực tế cần thông gió hơn là vài chậu cây, nhưng những loài này vẫn xứng đáng với diện tích lá, độ ẩm, bề mặt bắt bụi và danh tiếng chịu được điều kiện sống trong nhà.",
+    "plants": [
+     {
+      "reason": "Dây leo nổi tiếng dễ sống, có mặt trong danh sách NASA, chịu được phòng tối và chăm sóc thất thường."
+     },
+     {
+      "reason": "Cây có hoa bóng mượt, tham gia nghiên cứu VOC trong buồng kín, được yêu thích vì phát triển tốt trong điều kiện thiếu sáng."
+     },
+     {
+      "reason": "Cây CAM tạo dáng, chịu hạn tốt, xử lý không khí khô trong nhà một cách xuất sắc."
+     },
+     {
+      "reason": "Dễ trồng, thân thiện với thú cưng hơn nhiều cây nội thất, là loài cổ điển trong các thí nghiệm về formaldehyde."
+     },
+     {
+      "reason": "Cây huyết dụ kiến trúc, mảnh mai, gắn liền với các thử nghiệm trong buồng xylene và formaldehyde."
+     },
+     {
+      "reason": "Cây trong nhà nhiều lá, diện tích bắt bụi lớn, nổi tiếng từ nghiên cứu NASA."
+     },
+     {
+      "reason": "Cây cọ chịu bóng, mang tán lá mềm mại mà không cần nắng gắt."
+     },
+     {
+      "reason": "Cây lá màu bền bỉ ưa bóng, được nhắc đến trong các cuộc thảo luận về chất lượng không khí trong nhà."
+     },
+     {
+      "reason": "Cây leo được nghiên cứu về khả năng hấp thụ chất ô nhiễm trong nhà, được đánh giá cao nhờ tán lá xanh dày."
+     },
+     {
+      "reason": "Dương xỉ Boston, được quý vì khả năng tạo ẩm, lá mảnh và danh tiếng trong nghiên cứu formaldehyde."
+     }
+    ]
+   },
+   "bedroom-allies": {
+    "title": "Bạn Cùng Phòng",
+    "description": "Cây êm dịu, dễ chăm, hợp phòng ngủ và góc tủ đầu giường.",
+    "intro": "Cây trong phòng ngủ nên là người bạn điềm tĩnh: không phiền phức, không bừa bộn, thoải mái với ánh sáng dịu. Những cây này mang hương thơm, lá điêu khắc, độ ẩm nhẹ nhàng hoặc sức sống bình dị vào căn phòng nơi ngày tàn.",
+    "plants": [
+     {
+      "reason": "thẳng đứng, gọn gàng, chịu hạn, nổi tiếng với cơ chế trao đổi khí đêm CAM"
+     },
+     {
+      "reason": "mọng nước nhỏ gọn hợp phòng sáng, sẵn gel hữu ích trong tầm tay"
+     },
+     {
+      "reason": "hương thơm an dịu kinh điển cho cửa sổ phòng ngủ đón nắng hoặc bó hoa đầu giường"
+     },
+     {
+      "reason": "cây hương về đêm cho phòng sáng, nơi hương là một phần nghi lễ"
+     },
+     {
+      "reason": "hoa trắng mềm, lá rộng, hợp phòng ngủ thiếu sáng với độ ẩm ổn định"
+     },
+     {
+      "reason": "cây treo thư thái, dễ chăm và nhẹ thị giác"
+     },
+     {
+      "reason": "dây leo dễ tha thứ cho kệ, tủ và góc thiếu sáng"
+     },
+     {
+      "reason": "cây cau kết cấu mềm mang sự bình yên khách sạn mà không cần nhiều sáng"
+     },
+     {
+      "reason": "đối tác gần như im lặng cho phòng ngủ thiếu sáng và lịch tưới hay quên"
+     },
+     {
+      "reason": "cây bóng lá dày dạn cho phòng ngủ đủ rộng và ánh sáng lọc"
+     }
+    ]
+   },
+   "office-buddies": {
+    "title": "Bạn Đồng Hành",
+    "description": "Cây cảnh ít chăm cho bàn làm việc, phòng họp và văn phòng chỉ có đèn huỳnh quang.",
+    "intro": "Cây văn phòng phải chịu đựng không khí khô, hết nước cuối tuần, ánh sáng thất thường và sự lơ đãng của con người. Đây là những người bạn đồng hành dễ tính, luôn tươi xanh khi cả phòng đang mải mê họp hành.",
+    "plants": [
+     {
+      "reason": "lá bóng, cấu trúc đẹp, và sống sót cả tuần không cần tưới."
+     },
+     {
+      "reason": "lá mọc thẳng, không cần nhiều nước, chỉ chiếm một góc nhỏ nơi làm việc."
+     },
+     {
+      "reason": "loại dây leo cổ điển vì tha thứ bóng râm, thiếu nước và những kệ chật ních."
+     },
+     {
+      "reason": "dễ trồng, vui tươi, rộng rãi 'đẻ' cây con tặng đồng nghiệp."
+     },
+     {
+      "reason": "tán lá nhiều màu sắc, vẫn xanh tốt trong các khu văn phòng thiếu sáng."
+     },
+     {
+      "reason": "kẻ sống sót thời Victoria, vẫn khỏe nơi khô ráo và ánh sáng yếu."
+     },
+     {
+      "reason": "loại cây treo dễ tha thứ, lá hình tim thân thiện."
+     },
+     {
+      "reason": "nhỏ gọn, tươm tất, phù hợp bàn hơn các cây văn phòng thông thường."
+     },
+     {
+      "reason": "cây trò chuyện sinh sôi dễ, thuận lợi làm quà tặng đồng nghiệp."
+     },
+     {
+      "reason": "cây bóng bẩy tạo điểm nhấn cho các góc văn phòng sáng hơn."
+     }
+    ]
+   },
+   "low-light-champs": {
+    "title": "Ánh sáng yếu – Không vấn đề",
+    "description": "Những cây vẫn đẹp mặc cho nơi sáng yếu.",
+    "intro": "Ánh sáng yếu không có nghĩa là không có ánh sáng, nhưng một số cây chịu được phòng tối tốt hơn nhiều so với các loài khác. Đây là những lựa chọn đáng tin cậy cho cửa sổ hướng bắc, hành lang, văn phòng và căn hộ nơi mặt trời chỉ là lời đồn.",
+    "plants": [
+     {
+      "reason": "cổ điển cho hành lang tối thời Victoria, nổi tiếng với sự kiên nhẫn và bền bỉ."
+     },
+     {
+      "reason": "trữ nước trong thân rễ dày và giữ dáng dưới ánh sáng dịu."
+     },
+     {
+      "reason": "chịu được thiếu sáng và hạn hán hơn hầu hết cây kiểng dáng điêu khắc."
+     },
+     {
+      "reason": "được trồng và yêu thích trong trung tâm thương mại, văn phòng và phòng thiếu sáng."
+     },
+     {
+      "reason": "dây leo bám vách, vẫn hữu ích ngay cả khi màu sắc nhạt đi trong bóng râm."
+     },
+     {
+      "reason": "cây ráy ưa bóng, chấp nhận ánh sáng yếu trong nhà thực tế."
+     },
+     {
+      "reason": "một trong số ít cây nội thất có hoa dưới ánh sáng nhẹ trong nhà."
+     },
+     {
+      "reason": "được đặt tên theo loại nội thất râm mát nơi nó nổi tiếng."
+     },
+     {
+      "reason": "cây thân cứng cho góc nhà, sảnh và phòng có ánh sáng lọc."
+     },
+     {
+      "reason": "cây lá tầng rừng mưa, cho bóng sáng và tưới nước kỹ."
+     }
+    ]
+   },
+   "deadly-beauty": {
+    "title": "Vẻ Đẹp Chết Người",
+    "description": "Những loài cây tuyệt đẹp nhưng cực kỳ độc hại.",
+    "intro": "Vẻ đẹp không đồng nghĩa với vô hại. Những loài cây này được ngưỡng mộ trong vườn, những khuôn viên cổ và chậu trồng, nhưng thành phần hóa học của chúng đòi hỏi sự tôn trọng, nhãn mác rõ ràng và khoảng cách với trẻ em và thú cưng.",
+    "plants": [
+     {
+      "reason": "cây bụi có hoa rực rỡ, toàn bộ các bộ phận đều chứa glycoside tim mạch nguy hiểm nếu ăn phải."
+     },
+     {
+      "reason": "cành hoa tua rua tuyệt đẹp với glycoside tác động lên tim, vừa là thuốc vừa là chất độc tùy liều lượng."
+     },
+     {
+      "reason": "cây lâu năm hoa xanh chứa aconitine, một trong những chất độc nguy hiểm nhất trong vườn."
+     },
+     {
+      "reason": "tán lá nhiệt đới nổi bật và quả dạng hạt trang trí ẩn chứa ricin trong hạt."
+     },
+     {
+      "reason": "hàng rào cổ điển và cây trong sân nhà thờ chứa alkaloid taxine gây chết người ngoại trừ lớp áo đỏ của hạt."
+     },
+     {
+      "reason": "hoa chuông treo như thiên thần với alkaloid tropane nguy hiểm."
+     },
+     {
+      "reason": "loài cây hàng năm khét tiếng với alkaloid gây ảo giác, có thể gây ngộ độc nghiêm trọng."
+     },
+     {
+      "reason": "thanh lịch và thơm ngát, nhưng cực kỳ nguy hiểm cho mèo dù chỉ tiếp xúc nhỏ."
+     },
+     {
+      "reason": "chuông nhỏ xinh chứa glycoside tim mạch mạnh trong toàn cây."
+     },
+     {
+      "reason": "hoa xuân rực rỡ với củ có thể gây ngộ độc cho người hoặc thú cưng nếu nhầm lẫn với thực phẩm."
+     }
+    ]
+   },
+   "toxic-twins": {
+    "title": "Cặp Đôi Độc Hại",
+    "description": "Những cây quen mắt, trông hiền lành nhưng cần cẩn trọng.",
+    "intro": "Đây không phải kẻ ác trong chuyện ma; mà là cây trồng trong nhà, hàng rào, hay vườn rau bình thường. Điều bất ngờ chính ở đó: tán lá quen thuộc vẫn có thể chứa oxalat, hợp chất sinh xyanua, ancaloit hoặc nguy hại cho thú cưng.",
+    "plants": [
+     {
+      "reason": "dáng hoa tươi tắn, nhưng lá và hoa chứa glycoside sinh xyanua."
+     },
+     {
+      "reason": "hoa đỗ quyên và cây đỗ quyên chứa grayanotoxin gây ảnh hưởng tim và thần kinh."
+     },
+     {
+      "reason": "dạng dây leo hiền lành với tinh thể oxalat canxi gây kích ứng miệng và họng."
+     },
+     {
+      "reason": "cây trồng trong nhà được yêu thích, nhưng mô non và lá chứa oxalat gây kích ứng."
+     },
+     {
+      "reason": "cái tên thanh bình che giấu vấn đề oxalat thường thấy ở nhiều cây họ ráy."
+     },
+     {
+      "reason": "cây mía lùn kinh điển, nổi tiếng gây đau rát miệng nếu nhai."
+     },
+     {
+      "reason": "quả chín là bữa tối, nhưng lá, thân và phần xanh không an toàn cho thú cưng."
+     },
+     {
+      "reason": "hàng rào phổ biến với lá chứa xyanua, có thể gây hại cho gia súc và thú cưng."
+     },
+     {
+      "reason": "cây thường xanh vùng ngoại ô gọn gàng, hạt và lá cực độc."
+     },
+     {
+      "reason": "hàng rào thường ngày với quả mọng có thể gây bệnh cho thú cưng và trẻ em."
+     }
+    ]
+   },
+   "thorny-defenders": {
+    "title": "Phòng thủ gai góc",
+    "description": "Cây có vũ khí cho hàng rào an ninh và ranh giới chống xâm nhập.",
+    "intro": "Trước khi có camera và hàng rào thép, người ta trồng những ranh giới biết tự vệ. Những bụi cây, dây leo, xương rồng và hình hoa thị gai góc này khiến ranh giới trở nên hữu ý và khó vượt qua.",
+    "plants": [
+     {
+      "reason": "tường hoa hồng chịu mặn với gai dày và hoa thơm."
+     },
+     {
+      "reason": "cây bụi bám tường kinh điển có gai và quả đỏ tươi."
+     },
+     {
+      "reason": "lá xanh bóng gai nhọn tạo hàng rào khó chịu."
+     },
+     {
+      "reason": "mọc dày cành nhỏ gai mịn thành hàng rào thấp khó vượt."
+     },
+     {
+      "reason": "gai góc hàng rào làng quê cổ xưa của Anh và châu Âu."
+     },
+     {
+      "reason": "từng được quảng bá làm hàng rào sống, nay là bài học về xâm lấn."
+     },
+     {
+      "reason": "hàng rào chăn bò trước thời dây thép gai ở Đại Bình nguyên."
+     },
+     {
+      "reason": "họ hàng cam chịu rét với gai dài cứng."
+     },
+     {
+      "reason": "xương rồng đốt dùng làm hàng rào sống ở vùng khô hạn."
+     },
+     {
+      "reason": "hoa thị khổng lồ với răng cưa ở mép lá và gai đầu lá."
+     }
+    ]
+   },
+   "hummingbird-magnets": {
+    "title": "Nam Châm Hút Chim Ruồi",
+    "description": "Hoa hình ống, giàu mật hoa cho khu vườn thu hút chim ruồi.",
+    "intro": "Loài chim ruồi đọc hiểu hoa qua hình dạng cũng như màu sắc. Những ống hoa đỏ, cam và xanh lam từ hoa bìm bịp mùa xuân đến cây xô thơm cuối vụ có thể biến khu vườn thành một tuyến đường mật hoa.",
+    "plants": [
+     {
+      "reason": "một loài hoa bản địa màu đỏ thuộc họ bạc hà, sinh ra để chim ruồi ghé thăm."
+     },
+     {
+      "reason": "một loài dây leo bản địa với hoa ống màu san hô và mùa cho ăn dài."
+     },
+     {
+      "reason": "kèn đỏ tươi nở lại suốt mùa nắng nóng."
+     },
+     {
+      "reason": "ống hoa xanh lam đậm đà, chim ruồi miệt mài hút mật từ hè sang thu."
+     },
+     {
+      "reason": "một trong những hoa bản địa đầu xuân tuyệt vời cho chim ruồi trở về."
+     },
+     {
+      "reason": "hoa đỏ rực bên suối như thiết kế riêng cho mỏ chim ruồi."
+     },
+     {
+      "reason": "một loài hoa mõm sói ống đỏ vùng Tây Nam với kiến trúc đặc trưng thu hút chim ruồi."
+     },
+     {
+      "reason": "dây leo sân vườn với phễu nhiệt đới lớn cho kẻ tìm mật hoa nơi khí hậu ấm."
+     },
+     {
+      "reason": "dây leo nhẹ một mùa với kèn đỏ nhỏ vừa tầm chim ruồi."
+     },
+     {
+      "reason": "một loài dâm bụt vùng ấm với hoa sặc sỡ hút ánh nhìn chim ruồi."
+     }
+    ]
+   },
+   "butterfly-havens": {
+    "title": "Thiên đường bướm",
+    "description": "Cây chủ và cây mật cho bướm vua, bướm cánh én, bướm fritillary và nhiều loài khác.",
+    "intro": "Một khu vườn bướm cần cả phòng trẻ và phòng ăn. Cây bông tai nuôi sâu bướm vua, rau mùi tây nuôi sâu bướm cánh én, hoa violet nuôi sâu fritillary, và các loài hoa nở muộn nuôi bướm trưởng thành trước khi di cư và sương giá.",
+    "plants": [
+     {
+      "reason": "cây chủ cho bướm vua với hoa mật màu cam rực rỡ."
+     },
+     {
+      "reason": "cây bông tai ưa ẩm, hỗ trợ sâu bướm vua và côn trùng thụ phấn mùa hè."
+     },
+     {
+      "reason": "cối xay mật, dùng tốt nhất nơi không xâm lấn hoặc ưa giống vô sinh."
+     },
+     {
+      "reason": "hoa có bệ vững chãi cho bướm cánh én, fritillary và xuồng vượt."
+     },
+     {
+      "reason": "bông muộn hè cung cấp thức ăn cho bướm vua và các loài bướm khác."
+     },
+     {
+      "reason": "cây hàng năm dễ trồng, hoa nhiều màu suốt hè, dễ lấy mật."
+     },
+     {
+      "reason": "chùm mật liên tục cho bướm trưởng thành ở vùng khí hậu ấm."
+     },
+     {
+      "reason": "yến tiệc cuối mùa cao vời cho bướm vua và bướm cánh én."
+     },
+     {
+      "reason": "thân tím thanh thoát, bướm dễ tìm và đậu."
+     },
+     {
+      "reason": "rau thơm quen thuộc trong bếp cũng là thức ăn cho sâu bướm đuôi én đen."
+     }
+    ]
+   },
+   "bee-banquets": {
+    "title": "Tiệc ong mật",
+    "description": "Hoa nở suốt mùa cho ong bản địa và ong mật.",
+    "intro": "Mỗi loài ong thích những bông hoa khác nhau, nhưng một khu vườn ong tốt sẽ luôn sẵn sàng bữa tiệc từ xuân đến băng giá. Các loại thảo mộc thơm, họ cúc bản địa, cây hoàng kim, cúc tây và phacelia tạo nên một lịch phấn hoa mật hoa thực sự.",
+    "plants": [
+     {
+      "reason": "Hoa đầu hè mà ong miệt mài hút khi thảo mộc được để nở."
+     },
+     {
+      "reason": "Cây hút ong Địa Trung Hải, nở lâu và hương thơm đậm đà."
+     },
+     {
+      "reason": "Hoa bạc hà bản địa đặc biệt tốt cho ong vò vẽ."
+     },
+     {
+      "reason": "Đầu hoa cúc rộng, dễ tiếp cận cho nhiều kích cỡ ong."
+     },
+     {
+      "reason": "Phấn hoa và mật hoa cuối mùa quan trọng khi đàn ong chuẩn bị đông."
+     },
+     {
+      "reason": "Hoa thu giữ ong hoạt động gần cuối mùa."
+     },
+     {
+      "reason": "Cây lâu năm nở lâu, ít phiền, được ong vò vẽ yêu thích."
+     },
+     {
+      "reason": "Chùm tím thơm nuôi ong trong nhiều tuần."
+     },
+     {
+      "reason": "Khi để ra hoa, oregano trở thành đường cao tốc hoa nhỏ cho ong."
+     },
+     {
+      "reason": "Một cây hàng năm giàu mật hoa nổi tiếng, dùng trong trồng thụ phấn và trồng phủ đất."
+     }
+    ]
+   },
+   "drought-warriors": {
+    "title": "Chiến binh hạn hán",
+    "description": "Cây cho khu vườn khô hạn mùa hè, hạn chế nước và vườn kiểu xeriscape.",
+    "intro": "Những loại cây này yêu cầu người làm vườn đừng quá yêu thương chúng bằng vòi nước. Agave, oải hương, hương thảo, xô thơm, manzanita, ceanothus, sedum, yucca và xương rồng được sinh ra để sống trên đất cằn cỗi, nắng gắt và khô hạn.",
+    "plants": [
+     {
+      "reason": "biểu tượng vùng Tây Nam, trữ nước trong lá khổng lồ."
+     },
+     {
+      "reason": "giống lai khô hạn, ưa nắng, thoát nước tốt và kiềm chế nước."
+     },
+     {
+      "reason": "cây chà Nam California thích ứng với mùa hè khô và nắng gắt."
+     },
+     {
+      "reason": "loại thảo mộc Địa Trung Hải, ghét tưới quá nhiều khi đã bén rễ."
+     },
+     {
+      "reason": "cây mọng nước sống lâu, ẩm và nở hoa khi nhiều bồn hoa lụi tàn."
+     },
+     {
+      "reason": "cây hình hoa thị chịu hạn mạnh cho chậu và vườn ấm."
+     },
+     {
+      "reason": "cây bản địa sườn dốc khô, hoa mùa hè giàu mật, cần ít nước."
+     },
+     {
+      "reason": "cây tử đinh hương California chỉ cần mưa đông, khô hè và thoát nước tốt."
+     },
+     {
+      "reason": "cây bụi chà điêu khắc, chết nhanh vì nước mùa hè hơn vì hạn hán."
+     },
+     {
+      "reason": "xương rồng thật cho nắng nóng và khô hạn kéo dài."
+     }
+    ]
+   },
+   "shade-savers": {
+    "title": "Cư dân bóng râm",
+    "description": "Các loài cây ưa bóng sâu và rừng, lý tưởng cho tường hướng bắc, dưới tán cây và góc vườn yên tĩnh.",
+    "intro": "Khu vườn bóng râm thành công khi không cố gắng giả làm luống đầy nắng. Những cây này tận dụng ánh sáng yếu: tán lá, kết cấu, vẻ đẹp phù du mùa xuân, hoa nở mùa đông, và nét duyên dáng của rừng cây thay vì hoa rực rỡ suốt mùa hè.",
+    "plants": [
+     {
+      "reason": "tán lá xanh xám khổng lồ, nền tảng kinh điển cho vườn bóng râm."
+     },
+     {
+      "reason": "chùy hoa mềm mại cho bóng ẩm, nơi nhiều cây lâu năm khó phát triển."
+     },
+     {
+      "reason": "bụi bản địa cho bóng bán phần, hoa đẹp, lá thu rực rỡ, vỏ bong tróc."
+     },
+     {
+      "reason": "thảm phủ rừng với lá mềm và hoa trắng như bọt vào mùa xuân."
+     },
+     {
+      "reason": "cây lá cứng cáp bản địa, chịu được bóng khô tốt hơn nhiều loại lâu năm khác."
+     },
+     {
+      "reason": "nở hoa từ đông sang xuân, đúng lúc vườn bóng râm cần nhất."
+     },
+     {
+      "reason": "tán lá thường xanh cho bóng sâu, hợp với nơi khí hậu ôn hòa và góc tối."
+     },
+     {
+      "reason": "thân uốn cong biến bóng rải rác thành cảnh rừng cố ý."
+     },
+     {
+      "reason": "huyền thoại mùa xuân với hoa lãng mạn trước khi ngủ hè."
+     },
+     {
+      "reason": "lá đốm bạc và hoa xanh sớm tô điểm nền rừng."
+     }
+    ]
+   },
+   "kitchen-herbs": {
+    "title": "Rau thơm nhà bếp",
+    "description": "Các loại rau thơm thiết yếu cho bệ cửa sổ đầy nắng, chậu ban công và nấu ăn hàng ngày.",
+    "intro": "Một vườn rau thơm trong bếp nên trả lời nhanh cho bữa tối. Húng quế cho cà chua, hương thảo cho món nướng, húng tây cho gia cầm, ngò rí cho tacos, thì là cho dưa muối, mùi tây cho hầu hết mọi thứ: đó là những loại cây dùng hàng ngày nên có sẵn trong tầm tay.",
+    "plants": [
+     {
+      "reason": "loại rau thơm cho cà chua, pesto và salad mùa hè mà bếp nào có nắng cũng không nên bỏ qua."
+     },
+     {
+      "reason": "một loại thảo mộc thân gỗ cho rau củ nướng, thịt cừu, gà và bánh mì."
+     },
+     {
+      "reason": "chiếc lá đậm đà tạo nên nhân nhồi, bơ nâu, đậu và các món mùa đông."
+     },
+     {
+      "reason": "lá gia vị chính cho súp, gia cầm, món hầm và rau củ nướng."
+     },
+     {
+      "reason": "loại thảo mộc cho pizza, rau nướng thường có mùi vị mạnh hơn khi phơi khô."
+     },
+     {
+      "reason": "bạc hà cho trà, đậu, trái cây, salad và đồ uống mùa hè."
+     },
+     {
+      "reason": "rau thơm kết thúc món ăn và là nền tảng của các loại sốt từ chimichurri đến gremolata."
+     },
+     {
+      "reason": "lá ngò rí và hạt rau mùi là hai dùng khiến một cây có hai lợi ích."
+     },
+     {
+      "reason": "rau thơm tươi cho dưa muối, cá hồi, khoai tây, sữa chua và rau củ mùa xuân."
+     },
+     {
+      "reason": "một loại thân thảo sống lâu có vị hành nhẹ cho trứng, súp, khoai tây và trang trí."
+     }
+    ]
+   },
+   "edible-weeds": {
+    "title": "Cỏ Dại Ăn Được",
+    "description": "Các loại cỏ dại phổ biến ở bãi cỏ và ruộng vườn có bộ phận ăn được.",
+    "intro": "Một số loài ta tìm cách diệt trên bãi cỏ thực chất là thực phẩm cổ xưa trá hình. Cần nhận dạng đúng, tránh ô nhiễm và dùng điều độ, nhưng những loại cỏ dại này cho thấy biết bao kiến thức về lương thực đang ẩn giấu dưới chân ta.",
+    "plants": [
+     {
+      "reason": "lá non, hoa và rễ rang đều có truyền thống thực phẩm lâu đời."
+     },
+     {
+      "reason": "một loại rau xanh dịu, mềm cho món salad khi thu hoạch còn non và sạch."
+     },
+     {
+      "reason": "một loại rau mọng nước, vị chanh, nổi bật nhờ axit béo omega-3."
+     },
+     {
+      "reason": "rau non và hạt đều ăn được, nhưng cây già trở nên thô và dai."
+     },
+     {
+      "reason": "một loại rau dại vị như cải bó xôi, với lịch sử lâu đời như một loại rau nấu canh."
+     },
+     {
+      "reason": "lá non có thể ăn được; hạt của nó có họ hàng với cây psyllium."
+     },
+     {
+      "reason": "sống thì cay nóng, nhưng nấu chín cho ra một loại rau xanh giàu khoáng chất."
+     },
+     {
+      "reason": "lá non có vị chua, ăn được nếu chế biến kỹ do chứa oxalat."
+     },
+     {
+      "reason": "lá chua của cây oxalis ăn được như một loại gia vị, không thay thế rau chính."
+     },
+     {
+      "reason": "vỏ hạt có vị cay và lá non biến loại cỏ dại ven đường thành điểm nhấn cho salad."
+     }
+    ]
+   },
+   "lucky-charms": {
+    "title": "Bùa May Mắn",
+    "description": "Cây trồng mang lại may mắn, tài lộc, phước lành và bảo vệ gia đình.",
+    "intro": "Cây may mắn có tác dụng nhờ người ta cứ truyền tai nhau: lá hình đồng xu, thân bện lại, húng quế trong sân chùa, cỏ ba lá bốn cánh, hoa sen vươn lên từ bùn. Bộ sưu tập này gồm những loại cây giúp sự thịnh vượng trở nên hữu hình.",
+    "plants": [
+     {
+      "reason": "Lá tròn như đồng xu và dễ nhân giống, trở thành cây tình bạn và thịnh vượng thời hiện đại."
+     },
+     {
+      "reason": "Cây tài lộc cổ điển, lá mọng nước gợi sự giàu có tích trữ."
+     },
+     {
+      "reason": "Cây kim tiền bện gặp ở văn phòng, cửa hàng, làm quà cầu may tài chính."
+     },
+     {
+      "reason": "Được bán theo số cành trong văn hóa quà tặng phong thủy, dù không phải tre thật."
+     },
+     {
+      "reason": "Ở Ấn Độ thường gọi là cây kim tiền, trồng trong nhà cầu thịnh vượng."
+     },
+     {
+      "reason": "Dạng bốn lá hiếm hoi là một trong những biểu tượng may mắn rõ nét nhất thế giới."
+     },
+     {
+      "reason": "Cây bụi phong thủy Đông Á tượng trưng may mắn, quả đỏ gắn với Tết Nguyên Đán."
+     },
+     {
+      "reason": "Tulsi là cây linh thiêng của Ấn Độ giáo, trồng trong nhà để bảo vệ và ban phước."
+     },
+     {
+      "reason": "Cây tài lộc hiện đại ở văn phòng nhờ bề ngoài giàu có và sức sống bền bỉ."
+     },
+     {
+      "reason": "Biểu tượng thịnh vượng của Phật giáo và châu Á, vươn lên tinh khiết từ nước bùn."
+     }
+    ]
+   },
+   "gothic-garden": {
+    "title": "Khu vườn Gothic",
+    "description": "Cây ưa bóng tối, kịch tính cho viền vườn u ám và chậu cảnh bí ẩn.",
+    "intro": "Khu vườn gothic không chỉ có hoa đen. Đó là sự tương phản, tiết chế, tán lá mượt mà, hoa nở đông, thân đen và những loại cây mang vẻ kịch tính ngay cả dưới ánh sáng ban ngày.",
+    "plants": [
+     {
+      "reason": "hoa thị mọng nước gần như đen, với dáng điêu khắc, kiến trúc"
+     },
+     {
+      "reason": "lá nhung đen pha xanh với gân bạc, lý tưởng tạo kịch tính trong nhà"
+     },
+     {
+      "reason": "tán lá tím đen xẻ thùy, dáng thướt tha kiểu Victoria"
+     },
+     {
+      "reason": "tháp hoa rượu vang đen vươn cao làm điểm nhấn cuối luống u tối"
+     },
+     {
+      "reason": "hoa kép sẫm màu, trông cổ điển hơn là ngọt ngào"
+     },
+     {
+      "reason": "hoa tulip gần như đen biểu tượng, bóng và kịch tính vào mùa xuân"
+     },
+     {
+      "reason": "hoa đông trong tông mận khói và dạng tối màu, hợp viền bóng râm"
+     },
+     {
+      "reason": "hoa nhỏ gần như đen cho chậu và viền mùa mát"
+     },
+     {
+      "reason": "thân trưởng thành đen bóng, cao vút không cần hoa"
+     },
+     {
+      "reason": "lá thấp đen tuyền làm nổi bật hoa nhạt và sỏi"
+     }
+    ]
+   }
   }
+ }
 }
