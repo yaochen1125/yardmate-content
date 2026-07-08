@@ -3,8 +3,8 @@
   "locale": "es",
   "source": {
     "resource": "plants_detail.json",
-    "sha256": "e7ad91cfc14c18ec6edfb9fc0e0f07c0c3c3724c1373e405c89d6cd2dc45ea7a",
-    "record_count": 1614
+    "sha256": "0260234865a3770f0eabd2f9d489507be375802679c7637b2d6860c26f20a533",
+    "record_count": 1621
   },
   "records": {
     "AAA0001": {
@@ -99249,6 +99249,374 @@
               "Salivación excesiva.",
               "Dolor abdominal."
             ]
+          }
+        }
+      }
+    },
+    "AAA1616": {
+      "source_hash": "21681a795344600bd7844ac35ff028f9cf34519dfabf25aff02abf9f0a795b9d",
+      "fields": {
+        "common_name": "Hierba de Santa Bárbara",
+        "bloom_tip": "Esta planta florece en primavera, proporcionando hermosas flores amarillas.",
+        "fruit_tip": "El fruto de esta planta es verde cuando madura y es excelente para usar como hierba y condimento.",
+        "description": "Hierba de Santa Bárbara es una bienal baja y resistente de la familia de las mostazas, cultivada por sus hojas picantes similares a las del berro, que permanecen verdes y comestibles durante las heladas invernales. Nativa de Europa y Asia occidental, forma una roseta de hojas profundamente lobuladas antes de producir tallos con pequeñas flores amarillas de cuatro pétalos en primavera. A diferencia del berro verdadero, prospera en suelo de jardín ordinario en lugar de agua corriente, lo que la convierte en un sustituto fácil para jardineros que desean verduras frescas y picantes para ensaladas durante los meses fríos. Sus vainas estrechas maduran erguidas a principios del verano, y la recolección regular de las hojas exteriores mantiene la roseta produciendo durante meses.",
+        "history_text_short": "Nombrada por Santa Bárbara porque permanece verde durante las profundidades del invierno, esta resistente verdura de la familia de las mostazas fue durante mucho tiempo apreciada por los jardineros europeos y coloniales americanos como una de las pocas verduras frescas y ricas en vitaminas disponibles en los meses más fríos.",
+        "history_text_long": "Hierba de Santa Bárbara debe su nombre genérico, Barbarea, a Santa Bárbara, patrona invocada contra desgracias repentinas y asociada desde hace mucho con las profundidades del invierno: en la antigua tradición herbolaria europea, la planta permanecía verde y recolectable alrededor de su festividad en diciembre, cuando casi nada más en el jardín lo hacía, y se recogía como hierba curativa de heridas bajo el antiguo nombre herba Sanctae Barbarae. Esa misma resistencia al frío resultó valiosa por una razón muy diferente siglos después. Mucho antes de los invernaderos o los productos importados de invierno, Barbarea era apreciada como una de las pocas verduras de hoja que podían cosecharse frescas de un lecho de jardín abierto en pleno invierno y principios de primavera, cuando las dietas cargadas de alimentos conservados y salados dejaban a los hogares escasos de vitaminas frescas. Los colonos europeos llevaron sus semillas a América del Norte, donde se estableció en huertos coloniales como sustituto del berro, necesitando solo suelo húmedo ordinario en lugar de un arroyo. Su nombre común alternativo, berro americano, data de este período, cuando se convirtió en una vista familiar en los huertos domésticos a lo largo de la costa este, valorada menos por su elegancia que por el simple y confiable hecho de que seguía produciendo un verde picante y rico en vitaminas cuando casi nada más crecía.",
+        "name_origin": "El nombre genérico Barbarea honra a Santa Bárbara, ya que la planta tradicionalmente permanecía lo suficientemente verde para recolectarse alrededor de su festividad en diciembre; el nombre específico verna es latín para 'de primavera', refiriéndose a su floración temprana en primavera.",
+        "symbolism_story": "El vínculo de Barbarea con Santa Bárbara, patrona invocada para protección contra peligros repentinos, le dio una carga simbólica silenciosa en la antigua tradición herbolaria: un verde que sobrevivía cuando el año del jardín parecía terminar se convirtió, por asociación, en un pequeño emblema de resistencia y vigilancia a través de la adversidad. Más tarde, en huertos coloniales lejos de esa tradición europea, mantuvo un significado similar en términos más prácticos, representando el ingenio de un hogar que aún podía encontrar algo fresco y nutritivo en la mesa en la parte más magra del invierno.",
+        "flower_meaning": "Resistencia",
+        "fragrance": {
+          "notes": "Las hojas desprenden un aroma picante similar a la mostaza al triturarlas o cortarlas."
+        },
+        "uses_list": [
+          {
+            "text": "Hojas picantes similares al berro, cosechadas para ensaladas y cocina"
+          },
+          {
+            "text": "Tradicionalmente valorada como un verde invernal temprano para curar heridas y rico en vitaminas"
+          },
+          {
+            "text": "Las flores de primavera proporcionan néctar temprano para polinizadores"
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Resistencia",
+            "description": "Su capacidad para permanecer verde y comestible a través de heladas y nieve la convirtió en un símbolo de resistencia silenciosa en las tradiciones de jardinería de climas fríos."
+          },
+          {
+            "keyword": "Protección",
+            "description": "Nombrada por Santa Bárbara, patrona contra desgracias repentinas, la planta llevaba viejas asociaciones con protección y cuidado en tiempos de dificultad."
+          }
+        ],
+        "toxicity": {
+          "headline": "No se reporta toxicidad",
+          "active_compound_display": "Ninguno reportado",
+          "notes_en": "No se encontró una coincidencia de toxicidad autorizada; se trata como no reportado (la estimación del LLM no está verificada por fuentes).",
+          "human": {
+            "exposure": "No se reporta ninguna vía de exposición.",
+            "effect": "No se reporta ningún efecto tóxico.",
+            "note": "No se reporta toxicidad para humanos en este catálogo; esto no es evidencia de que la planta sea comestible o inofensiva."
+          },
+          "dog": {
+            "exposure": "No se reporta ninguna vía de exposición.",
+            "effect": "No se reporta ningún efecto tóxico.",
+            "note": "No se reporta toxicidad para perros en este catálogo; esto no es evidencia de que la planta sea comestible o inofensiva."
+          },
+          "cat": {
+            "exposure": "No se reporta ninguna vía de exposición.",
+            "effect": "No se reporta ningún efecto tóxico.",
+            "note": "No se reporta toxicidad para gatos en este catálogo; esto no es evidencia de que la planta sea comestible o inofensiva."
+          }
+        }
+      }
+    },
+    "AAA1617": {
+      "source_hash": "abb71c64447c2b229ae340c696612f8510d4deba813c0699f3a1fe06a56c57c0",
+      "fields": {
+        "common_name": "Fimbristylis autumnalis",
+        "description": "Fimbristylis autumnalis es una pequeña juncia anual, amacollada, con una de las distribuciones más amplias de su género, nativa de praderas húmedas y orillas de estanques en el este de Norteamérica y, de forma independiente, en el este de Asia, desde Japón y Corea hasta China y Taiwán. Sus finas hojas, parecidas a las de la hierba, se elevan de 5 a 30 cm desde una mata de base blanda, rematada por racimos sueltos y ramificados de pequeñas espiguillas de color marrón verdoso, rodeadas de delicadas brácteas con cerdas, el fleco que da nombre al género. Prefiere suelos húmedos, arenosos, turbosos o limosos —filtraciones, zanjas y bordes de estanques donde el nivel del agua sube y baja a lo largo del año— y florece desde finales del verano hasta el otoño, la estación registrada en su propio epíteto. Rápida para colonizar suelo desnudo y húmedo, es adecuada para jardines de lluvia y plantaciones de humedales nativos que busquen un sutil acento textural más que una floración llamativa.",
+        "history_text_short": "Nombrada por su floración otoñal, Fimbristylis autumnalis es una pequeña juncia fibrosa que se encuentra en ambos lados del Pacífico: orillas de estanques desde Maine hasta Texas y humedales de Japón, Corea, China y Taiwán. Sus grupos de flores con flecos dieron nombre al género Fimbristylis, y su habilidad para brotar en suelo desnudo y húmedo fluctuante hace que los botánicos la lean como un indicador vivo del agua de una costa.",
+        "history_text_long": "Fimbristylis autumnalis pertenece a Fimbristylis, un gran género de juncias cuyo nombre proviene del latín fimbriae, que significa fleco, por las delicadas brácteas con cerdas que rodean cada grupo de flores. El epíteto de la especie autumnalis significa simplemente 'de otoño', marcando la ventana de final de temporada, de agosto a octubre, cuando sus espigas fibrosas finalmente se abren en las orillas de los estanques y las zanjas con filtraciones que llama hogar. Los botánicos europeos colocaron por primera vez la planta en el género más antiguo de juncias Scirpus durante el siglo XVIII; cuando Georg Roemer y Josef Schultes revisaron las Ciperáceas a principios del siglo XIX para su edición de Systema Vegetabilium, la trasladaron a Fimbristylis, donde ha permanecido desde entonces. Su distribución es inusualmente dividida para una juncia de su tamaño: una población se extiende por el este de Norteamérica desde Maine hasta Texas, otra a través de Japón, Corea, China y Taiwán, y los botánicos japoneses la conocen con su propio nombre, Himehira-tentsuki, en el mismo grupo tentsuki (Fimbristylis) que las otras juncias con flecos de la región. En estado silvestre es una planta de bordes y lugares intermedios: el borde fangoso de un estanque que se seca durante un verano seco, una zanja al borde de la carretera, una filtración en la base de una pendiente arenosa. Debido a que germina rápidamente en suelo desnudo y saturado y luego florece y produce semillas en una sola temporada, los botánicos la interpretan como un indicador de márgenes de humedales expuestos y fluctuantes, más que de agua estable. Ese mismo oportunismo la ha hecho rara en el extremo norte de su área de distribución norteamericana —se monitorea como una especie de preocupación para la conservación en Vermont—, aunque sigue siendo común más al sur. Los ecólogos que estudian las comunidades de plantas en las orillas de los estanques utilizan su presencia o ausencia para medir cuánto sube y baja aún el nivel del agua de una costa con las estaciones, una señal pequeña pero reveladora de la salud del humedal.",
+        "name_origin": "Del latín fimbriae, 'fleco', por las brácteas con cerdas que rodean cada grupo de flores, más el griego stylos, 'estilo/columna' — y autumnalis, 'de otoño', por su floración tardía.",
+        "symbolism_story": "Fimbristylis autumnalis nunca pide mucho: el suelo desnudo y saturado es una oportunidad, no un obstáculo. Germina rápido en el barro seco de una orilla de estanque que retrocede, florece en semanas y produce semillas antes de que el suelo se inunde de nuevo la primavera siguiente — un pequeño ciclo anual de llegada, floración y renovación repetido cada año en el mismo borde cambiante.",
+        "flower_meaning": "Resiliencia",
+        "uses_list": [
+          {
+            "text": "Coloniza orillas desnudas y húmedas y proporciona cobertura en hábitats de humedales estacionales"
+          },
+          {
+            "text": "Añade una textura fina, similar a la hierba, a jardines de lluvia y plantaciones nativas en bordes de estanques"
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Resiliencia",
+            "description": "Brota rápido en suelo desnudo y anegado que la mayoría de las plantas evitan, luego resiste el descenso del nivel del agua de una costa que retrocede cada verano."
+          },
+          {
+            "keyword": "Renovación",
+            "description": "Como anual, completa todo su ciclo de vida en una temporada, formando parte de la primera ola de verde en recuperar los bordes fangosos y perturbados de los humedales."
+          }
+        ],
+        "toxicity": {
+          "headline": "No se reporta toxicidad",
+          "active_compound_display": "No reportado",
+          "notes_en": "No se encontró una coincidencia de toxicidad autorizada; se trata como no reportado (la estimación del LLM no está verificada por fuentes).",
+          "human": {
+            "exposure": "No se reporta ninguna vía de exposición.",
+            "effect": "No se reporta ningún efecto tóxico.",
+            "note": "No se reporta toxicidad para humanos en este catálogo; esto no es evidencia de que la planta sea comestible o inofensiva."
+          },
+          "dog": {
+            "exposure": "No se reporta ninguna vía de exposición.",
+            "effect": "No se reporta ningún efecto tóxico.",
+            "note": "No se reporta toxicidad para perros en este catálogo; esto no es evidencia de que la planta sea comestible o inofensiva."
+          },
+          "cat": {
+            "exposure": "No se reporta ninguna vía de exposición.",
+            "effect": "No se reporta ningún efecto tóxico.",
+            "note": "No se reporta toxicidad para gatos en este catálogo; esto no es evidencia de que la planta sea comestible o inofensiva."
+          }
+        }
+      }
+    },
+    "AAA1618": {
+      "source_hash": "f3b16fe757d025cbd71c1b8c396426552ca54e9089a0fb5d5df0e610c4ff8ae2",
+      "fields": {
+        "common_name": "Fimbria asiática",
+        "description": "La Fimbria asiática es una delicada ciperácea anual, cespitosa, nativa de los trópicos y subtrópicos del Viejo Mundo, desde el Cáucaso a través del sur y este de Asia hasta el centro de Japón. Los tallos delgados, de raíces fibrosas, alcanzan solo 20-40 cm, cada uno rematado por pequeñas espiguillas verde-marrones, lanceoladas, cuyas escamas presentan una punta de cerda distintiva curvada hacia afuera. Favorece la arena húmeda o el limo en terrenos bajos, abiertos y perturbados —claros, campos y otros lugares soleados y estacionalmente húmedos— y tiene un hábito oportunista y maleable típico de su género. Fuera de su área de distribución nativa, es esencialmente desconocida en cultivo; si se cultiva, pertenece a una colección especializada de gramíneas nativas o ciperáceas marginales, más que a un borde ordinario, valorada por su textura fina y tenue más que por su exhibición floral.",
+        "history_text_short": "La Fimbria asiática es común en campos húmedos desde el Cáucaso hasta Japón, pero solo ha aparecido una vez en Norteamérica: un único espécimen extraído de un montón de tierra de lastre de barco depositado en Camden, Nueva Jersey, en 1865. Los botánicos aún citan ese hallazgo solitario como un clásico 'ballast waif' —una planta extranjera que brotó brevemente de tierra importada y luego desapareció.",
+        "history_text_long": "La Fimbria asiática pertenece a un género que el botánico danés Martin Vahl estableció formalmente en 1805, agrupando ciperáceas cuyos racimos florales están rodeados de escamas delicadas con cerdas en forma de flecos —las fimbrias que dan nombre al género. Nativa del Viejo Mundo desde el Cáucaso hasta Japón, solo se ha registrado una vez en el continente norteamericano: un único espécimen recolectado de lastre de barco en Camden, Nueva Jersey, en 1865 por el botánico C. F. Parker. En el siglo XIX, los barcos que cargaban exportaciones estadounidenses primero vaciaban la tierra, arena y roca que llevaban como lastre en el viaje de ida, depositándola en montones a lo largo de los muelles de ciudades portuarias como Camden y Filadelfia. Las semillas enterradas en esa tierra extranjera a veces germinaban en breves e inesperadas colonias de plantas exóticas que los botánicos locales llamaban 'ballast waifs' —y durante unos años, estos vertederos se convirtieron en codiciados terrenos de caza para cualquier curioso de la flora de países lejanos. La única colección de Parker de Fimbria asiática fue exactamente este tipo de hallazgo: una planta que nunca había crecido silvestre cerca de Nueva Jersey antes y, según los registros, nunca volvió a crecer allí una vez que ese montón particular de tierra de lastre desapareció. Los botánicos aún citan el registro hoy como un caso de libro de texto de 'waif' —presente una vez, ligado a un acto humano específico de importar tierra extranjera, y desaparecido una vez que esa tierra fue perturbada o construida. En su verdadera área de distribución en Asia, por el contrario, sigue siendo una presencia ordinaria, aunque fácilmente pasada por alto, en claros húmedos y campos perturbados.",
+        "name_origin": "Del latín fimbriae, 'fleco', por las escamas con cerdas que rodean cada racimo floral, más el griego stylos, 'estilo/columna'; squarrosa es latín para 'áspero, con puntas de escamas extendidas', describiendo la cerda curvada hacia afuera en cada escama floral.",
+        "symbolism_story": "Por un breve momento en 1865, la Fimbria asiática creció en un lugar donde nunca antes había crecido: un montón de tierra de lastre importada depositada en un muelle de Nueva Jersey, a medio mundo de su área de distribución nativa. Un solo botánico la encontró, la prensó y la registró —y luego la tierra desapareció, y con ella la planta. Sigue siendo un pequeño emblema de cuán brevemente puede una semilla extranjera echar raíces antes de que el lugar que la trajo desaparezca.",
+        "flower_meaning": "Impermanencia",
+        "uses_list": [
+          {
+            "text": "Coloniza suelo desnudo, húmedo y perturbado en su área nativa asiática"
+          },
+          {
+            "text": "Ocasionalmente cultivada en colecciones especializadas de ciperáceas por su textura fina y tenue"
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Impermanencia",
+            "description": "Su único registro norteamericano provino de un solo montón de tierra de lastre de barco en 1865 y desapareció una vez que esa tierra fue perturbada, nunca vista silvestre en la región nuevamente."
+          },
+          {
+            "keyword": "Adaptabilidad",
+            "description": "Prospera en una vasta área nativa de terreno húmedo y perturbado desde el Cáucaso hasta Japón, dondequiera que el suelo desnudo y húmedo se abra brevemente."
+          }
+        ],
+        "toxicity": {
+          "headline": "No se reporta toxicidad",
+          "active_compound_display": "Ninguno reportado",
+          "notes_en": "No se encontró coincidencia de toxicidad autorizada; tratado como no reportado (la estimación del LLM no está verificada por fuentes).",
+          "human": {
+            "exposure": "No se reporta vía de exposición.",
+            "effect": "No se reporta efecto tóxico.",
+            "note": "No se reporta toxicidad para humanos en este catálogo; esto no es evidencia de que la planta sea comestible o inofensiva."
+          },
+          "dog": {
+            "exposure": "No se reporta vía de exposición.",
+            "effect": "No se reporta efecto tóxico.",
+            "note": "No se reporta toxicidad para perros en este catálogo; esto no es evidencia de que la planta sea comestible o inofensiva."
+          },
+          "cat": {
+            "exposure": "No se reporta vía de exposición.",
+            "effect": "No se reporta efecto tóxico.",
+            "note": "No se reporta toxicidad para gatos en este catálogo; esto no es evidencia de que la planta sea comestible o inofensiva."
+          }
+        }
+      }
+    },
+    "AAA1619": {
+      "source_hash": "15f343ccb752902aae842a5e09d71ab5e528ab2367b97647abb4df88376bed57",
+      "fields": {
+        "common_name": "Fimbristylis vahlii",
+        "description": "Fimbristylis vahlii es una pequeña juncia anual, una de las más pequeñas de su género, que forma delicados manojos de solo 4-15 cm de altura a partir de hojas rizadas y filiformes. Sus tallos delgados llevan un puñado de espiguillas pequeñas y puntiagudas envueltas en brácteas largas y retorcidas, lo que le da a toda la planta una textura fina y vaporosa en lugar de una exhibición llamativa. Nativa del sur de Estados Unidos, México y Centroamérica, y llegando hasta Brasil, Perú y Venezuela, crece en suelos húmedos, arenosos y estacionalmente inundados: bordes de estanques, zanjas al borde de caminos y campos bajos que se inundan y secan a lo largo del año. Fácil de pasar por alto y sin exigir nada más que suelo constantemente húmedo, funciona mejor en plantaciones nativas de humedales o en jardines naturalistas de grava y arena donde su hábito fino y filiforme se lee como textura más que como flor focal.",
+        "history_text_short": "Nombrada en honor a Martin Vahl, el botánico formado por Linneo que fundó el género Fimbristylis en 1805, esta pequeña juncia anual crece apenas a un palmo del suelo en terrenos húmedos y arenosos desde el sur de Estados Unidos hasta Perú y Brasil. Lamarck la nombró en honor a Vahl antes de que fuera incorporada al mismo género que Vahl había creado.",
+        "history_text_long": "Fimbristylis vahlii lleva el nombre de Martin Vahl, un botánico danés que estudió con Carl Linnaeus en Copenhague y Uppsala antes de convertirse en profesor de botánica en la Universidad de Copenhague. En 1805, Vahl describió formalmente el género Fimbristylis, reuniendo un grupo disperso de juncias con brácteas con flecos bajo un solo nombre. Esta especie en particular fue descrita por primera vez por Jean-Baptiste Lamarck, quien honró a Vahl en el epíteto; cuando el botánico alemán Johann Heinrich Friedrich Link trasladó más tarde la planta a Fimbristylis, terminó clasificada dentro del mismo género que su propio homónimo había fundado. En el campo, es una planta modesta de suelos abiertos y húmedos en el Nuevo Mundo: márgenes arenosos de estanques en Florida y Texas, humedales estacionales en México y Centroamérica, tierras bajas húmedas hasta el sur de Perú y Brasil. Debido a que es una anual de solo unos centímetros de altura, rara vez atrae la atención junto a plantas de pantano más altas, y gran parte de lo que se registra sobre ella proviene de especímenes de herbario recolectados por estudios de flora regionales más que de tradiciones de jardín o populares. Esa historia tranquila y laboriosa, una planta definida más por la cuidadosa clasificación de los taxónomos que por el uso humano, es en sí misma parte de lo que hace que Fimbristylis vahlii valga la pena conocer: una pequeña juncia fácilmente pasada por alto que, sin embargo, lleva el nombre del hombre que le dio un hogar a todo su género.",
+        "name_origin": "Nombrada en honor a Martin Vahl (1749-1804), el botánico danés y estudiante de Linneo que estableció el género Fimbristylis en 1805; Lamarck lo honró primero con el epíteto de especie vahlii antes de que la planta fuera trasladada más tarde al propio género de Vahl.",
+        "symbolism_story": "Fimbristylis vahlii nunca intenta destacar. Se eleva apenas un palmo sobre la arena húmeda, coloca sus pequeñas espiguillas con flecos y desaparece en una temporada, el tipo de planta que los botánicos notan solo al arrodillarse. Sin embargo, lleva el nombre de Martin Vahl, quien pasó su carrera clasificando exactamente estas pequeñas juncias pasadas por alto en el ordenado género que aún las contiene hoy.",
+        "flower_meaning": "Humildad",
+        "uses_list": [
+          {
+            "text": "Cobertura estacional fina en hábitat de margen arenoso de estanques y humedales"
+          },
+          {
+            "text": "Añade una textura delicada y filiforme a plantaciones nativas de grava y humedales"
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Humildad",
+            "description": "Una planta de solo unos centímetros de altura, fácil de pasar por alto, que sin embargo lleva el nombre del botánico que le dio un hogar a todo su género."
+          },
+          {
+            "keyword": "Persistencia",
+            "description": "Completa todo su ciclo de vida como una pequeña anual en suelo que alternativamente se inunda y se seca, regresando de semilla cada temporada de lluvias."
+          }
+        ],
+        "toxicity": {
+          "headline": "No se reporta toxicidad",
+          "active_compound_display": "Ninguno reportado",
+          "notes_en": "No se encontró una coincidencia de toxicidad autorizada; se trata como no reportado (la estimación del LLM no está verificada por fuentes).",
+          "human": {
+            "exposure": "No se reporta ninguna vía de exposición.",
+            "effect": "No se reporta ningún efecto tóxico.",
+            "note": "No se reporta toxicidad para humanos en este catálogo; esto no es evidencia de que la planta sea comestible o inofensiva."
+          },
+          "dog": {
+            "exposure": "No se reporta ninguna vía de exposición.",
+            "effect": "No se reporta ningún efecto tóxico.",
+            "note": "No se reporta toxicidad para perros en este catálogo; esto no es evidencia de que la planta sea comestible o inofensiva."
+          },
+          "cat": {
+            "exposure": "No se reporta ninguna vía de exposición.",
+            "effect": "No se reporta ningún efecto tóxico.",
+            "note": "No se reporta toxicidad para gatos en este catálogo; esto no es evidencia de que la planta sea comestible o inofensiva."
+          }
+        }
+      }
+    },
+    "AAA1620": {
+      "source_hash": "1e67f6fa1029e54e7e929b4fdc5652d3abff1be42e65127c67451f0ac103910f",
+      "fields": {
+        "common_name": "Loto tenue",
+        "description": "El loto tenue es una leguminosa perenne baja y rastrera, estrechamente relacionada con el loto corniculado, pero con folíolos más finos, parecidos a agujas, y grupos de flores más dispersos de una a tres flores. Nativo de Europa, norte de África y oeste de Asia, favorece prados húmedos y pastizales de llanura aluvial, tolerando el encharcamiento y la salinidad leve del suelo que derrotan a muchas otras leguminosas. Flores amarillas alegres, con forma de guisante, se abren durante el verano sobre tallos delgados, atrayendo abejas y polinizadores. Sus raíces albergan bacterias fijadoras de nitrógeno, enriqueciendo silenciosamente el suelo, lo que la convierte en una cubierta vegetal resistente y de bajo mantenimiento para céspedes húmedos y áreas naturalizadas.",
+        "history_text_short": "Se cree que llegó a Argentina como polizón en semillas de alfalfa importadas alrededor de 1900, este modesto loto de flores amarillas prosperó donde el suelo salino y propenso a inundaciones de la pampa derrotó a otras leguminosas, convirtiéndose en una planta forrajera resistente y apreciada para los ganaderos.",
+        "history_text_long": "El capítulo más trascendental del loto tenue se desarrolló lejos de su área de distribución nativa mediterránea y templada euroasiática. Alrededor del cambio de siglo XX, la semilla de esta modesta leguminosa llegó a Argentina, probablemente mezclada con envíos de semillas de alfalfa y otros forrajes traídos por inmigrantes europeos que se asentaban en las vastas praderas al sur de Buenos Aires. En la mayor parte del mundo siguió siendo una planta de carretera oscura, pero en la Pampa Deprimida, las llanuras bajas y estacionalmente inundadas donde los suelos salinos y anegados derrotaban a las leguminosas forrajeras comunes, el loto tenue encontró un nicho que casi ninguna otra planta podía llenar. Los ganaderos y agrónomos notaron que donde la alfalfa y el trébol se pudrían y morían bajo el agua estancada, esta pequeña leguminosa fibrosa seguía creciendo, fijando nitrógeno y alimentando al ganado durante las estaciones húmedas que antes significaban meses de pastoreo pobre. A mediados del siglo XX, los científicos agrícolas argentinos estaban criando y promoviendo activamente variedades mejoradas, y se convirtió en una de las especies forrajeras emblemáticas de las pampas inundables, remodelando silenciosamente cómo los ganaderos manejaban millones de hectáreas de pastizales marginales. Lo que comenzó como un polizón accidental en sacos de semillas importados terminó como un pilar agrícola, valorado menos por su belleza que por su pura resiliencia en condiciones que quebraban todo lo demás.",
+        "name_origin": "El nombre del género Lotus es una palabra griega antigua que se aplicaba ampliamente a plantas parecidas al trébol y al loto, mientras que el nombre de la especie tenuis es latín para 'delgado' o 'fino', describiendo los folíolos estrechos y finos que distinguen a esta planta de su pariente de hojas más anchas, el loto corniculado.",
+        "symbolism_story": "El loto tenue no tiene la mitología antigua de las flores más vistosas, pero ganó su peso simbólico de manera práctica: sobreviviendo donde plantas forrajeras más ricas y celebradas no podían. Para generaciones de ganaderos en las pampas bajas inundables de Argentina, sus alfombras fibrosas de flores amarillas se convirtieron en un marcador silencioso de resiliencia y providencia, prueba de que incluso la tierra marginal y anegada podía seguir produciendo abundancia.",
+        "flower_meaning": "Resiliencia",
+        "uses_list": [
+          {
+            "text": "Atrae abejas y otros polinizadores con sus flores de verano"
+          },
+          {
+            "text": "Forraje fijador de nitrógeno valorado para el ganado en pastoreo"
+          },
+          {
+            "text": "Se naturaliza como cubierta vegetal de bajo mantenimiento en suelos húmedos"
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Resiliencia",
+            "description": "Su capacidad para prosperar en pastos inundados y salinos donde otras plantas forrajeras fallan la ha convertido en un emblema de resiliencia silenciosa en la tradición agrícola."
+          },
+          {
+            "keyword": "Abundancia",
+            "description": "Como leguminosa fijadora de nitrógeno que renueva el suelo en el que crece, se asocia con la fertilidad y las abundantes tierras de pastoreo."
+          }
+        ],
+        "toxicity": {
+          "headline": "No se reporta toxicidad",
+          "active_compound_display": "Ninguno reportado",
+          "notes_en": "No se encontró una coincidencia de toxicidad autorizada; se trata como no reportado (la estimación del LLM no está verificada por fuentes).",
+          "human": {
+            "exposure": "No se reporta ninguna vía de exposición.",
+            "effect": "No se reporta ningún efecto tóxico.",
+            "note": "No se reporta toxicidad para humanos en este catálogo; esto no es evidencia de que la planta sea comestible o inofensiva."
+          },
+          "dog": {
+            "exposure": "No se reporta ninguna vía de exposición.",
+            "effect": "No se reporta ningún efecto tóxico.",
+            "note": "No se reporta toxicidad para perros en este catálogo; esto no es evidencia de que la planta sea comestible o inofensiva."
+          },
+          "cat": {
+            "exposure": "No se reporta ninguna vía de exposición.",
+            "effect": "No se reporta ningún efecto tóxico.",
+            "note": "No se reporta toxicidad para gatos en este catálogo; esto no es evidencia de que la planta sea comestible o inofensiva."
+          }
+        }
+      }
+    },
+    "AAA1621": {
+      "source_hash": "d81769c333fae5eee2e883d7591be91a43562529520515692a3db87d0cba4970",
+      "fields": {
+        "common_name": "Amapola de Gales",
+        "description": "La amapola de Gales es una perenne que forma matas en suelos húmedos, rocosos y sombreados del oeste de Europa, desde las Islas Británicas hasta la Península Ibérica. Flores papiráceas de cuatro pétalos en amarillo claro a naranja suave se mecen sobre tallos delgados y peludos sobre un follaje verde fresco, profundamente dividido, parecido a un helecho, que florece desde finales de primavera hasta verano y se resiembra libremente una vez establecida. Las plantas forman montículos sueltos de 30-60 cm de altura, igualmente a gusto en el borde de un bosque, una grieta rocosa sombreada o un viejo muro de piedra. Poco exigente en suelos ricos en humus y constantemente húmedos, y feliz en semisombra donde muchas amapolas se marchitarían, se naturaliza fácilmente en jardines rústicos y de bosque, apareciendo sin ser invitada año tras año una vez que encuentra un lugar que le gusta.",
+        "history_text_short": "Linneo nombró por primera vez esta amapola por Gales en 1753, después de la región donde se registró creciendo silvestre en piedra húmeda y sombreada. Más tarde separada en su propio género, Meconopsis, se convirtió en la flor del condado de Montgomeryshire y, desde 2006, en el emblema del partido Plaid Cymru: una pequeña flor silvestre amarilla que lleva una sorprendente cantidad de identidad nacional.",
+        "history_text_long": "La amapola de Gales fue descrita por primera vez por Carlos Linneo en 1753, quien la clasificó simplemente como otra amapola, Papaver cambricum - cambricum es latín para 'de Gales', la región donde la planta fue registrada por primera vez creciendo silvestre en las Islas Británicas por el herbolario del siglo XVII John Parkinson. En 1814, el botánico francés Louis Viguier examinó más de cerca su distintiva cápsula de semillas peluda de cuatro partes y la separó en un nuevo género, Meconopsis, aunque el nombre más antiguo Papaver cambricum ha seguido circulando junto a él desde entonces. En la naturaleza, crece en suelos húmedos, sombreados y rocosos en las tierras altas de Europa occidental, desde Gales, Inglaterra e Irlanda hacia el sur a través de Francia hasta España y Portugal, siempre en los márgenes más fríos y húmedos donde la sombra profunda y la piedra evitan que el suelo se seque. En la propia Gales, la flor se convirtió en algo más que una flor silvestre: es la flor del condado de Montgomeryshire, sus brillantes pétalos amarillos se leen como un emblema de continuidad y recuerdo, y desde 2006, una amapola de Gales estilizada sirve como logotipo del partido político Plaid Cymru, haciendo eco de la amapola roja del recuerdo mientras marca una identidad distintivamente galesa. La creencia popular más antigua atribuía a la flor un tipo más suave de protección, diciendo que ahuyentaba a los espíritus traviesos de la casa y el jardín, una reputación modesta para una planta que se siembra en cada grieta húmeda y rincón sombreado que puede alcanzar, y luego persiste silenciosamente allí durante generaciones.",
+        "name_origin": "Cambricum es latín para 'de Gales' (de Cambria, el nombre latino de Gales), reflejando dónde se registró por primera vez la planta creciendo silvestre en las Islas Británicas; Linneo la nombró Papaver cambricum en 1753 antes de que fuera separada más tarde en su propio género, Meconopsis.",
+        "symbolism_story": "Una modesta flor silvestre amarilla de los valles húmedos de Gales llegó, a lo largo de los siglos, a representar algo más grande que sí misma: el emblema floral de un condado, el logotipo de un partido político y, en la creencia popular antigua, un pequeño guardián contra las travesuras en la puerta del jardín. La amapola de Gales no pide más que sombra y piedra húmeda, pero sigue regresando, resembrada, a los mismos rincones tranquilos año tras año.",
+        "flower_meaning": "Recuerdo",
+        "uses_list": [
+          {
+            "text": "Flores papiráceas amarillas a naranjas para bordes sombreados, bordes de bosque y muros de piedra"
+          },
+          {
+            "text": "Flores abiertas y ricas en polen atraen abejas a rincones sombreados del jardín"
+          },
+          {
+            "text": "Tallos cortados de corta duración aportan color brillante a arreglos informales y casuales"
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Recuerdo",
+            "description": "Flor del condado de Montgomeryshire y, desde 2006, emblema de Plaid Cymru: una pequeña flor silvestre que lleva la identidad y continuidad galesa."
+          },
+          {
+            "keyword": "Protección",
+            "description": "En la antigua creencia popular galesa, se decía que la amapola ahuyentaba a los espíritus traviesos de la casa y el jardín."
+          }
+        ],
+        "toxicity": {
+          "headline": "Toxicidad desconocida",
+          "active_compound_display": "Ninguno reportado",
+          "notes_en": "No se encontró una coincidencia de toxicidad autorizada; se trata como no reportado (la estimación del LLM no está verificada por fuentes).",
+          "human": {
+            "exposure": "No se reporta vía de exposición.",
+            "effect": "No se reporta efecto tóxico.",
+            "note": "La toxicidad para humanos no está bien documentada; usar con precaución hasta que se verifique."
+          },
+          "dog": {
+            "exposure": "No se reporta vía de exposición.",
+            "effect": "No se reporta efecto tóxico.",
+            "note": "La toxicidad para perros no está bien documentada; usar con precaución hasta que se verifique."
+          },
+          "cat": {
+            "exposure": "No se reporta vía de exposición.",
+            "effect": "No se reporta efecto tóxico.",
+            "note": "La toxicidad para gatos no está bien documentada; usar con precaución hasta que se verifique."
+          }
+        }
+      }
+    },
+    "AAA1622": {
+      "source_hash": "2eb4de02c961955a00eafa8f3255fd47d4ffea423fdea4a2ab29cf34905ab6c6",
+      "fields": {
+        "common_name": "Amapola española",
+        "bloom_tip": "Esta planta florece en primavera, con un período de floración corto y hermoso.",
+        "description": "La amapola española es una amapola perenne de vida corta nativa de las laderas rocosas de montaña del sur de España y Marruecos, donde hunde sus raíces en grietas de acantilados de piedra caliza a 700-1600 metros de altitud. Flores de papel arrugadas en tonos de rojo ladrillo a naranja suave, de 3-4.5 cm de diámetro con anteras amarillo dorado, se abren sobre una roseta baja de hojas peludas y profundamente lobuladas de color verde grisáceo desde finales de primavera hasta verano. Las plantas forman grupos sueltos y ramificados de 15-45 cm de altura y se auto-siembran fácilmente una vez establecidas. Dale pleno sol y suelo afilado, pobre y bien drenado (un lecho de grava, grieta de rocalla o muro seco) y volverá año tras año a partir de sus propias semillas dispersas, sin apenas necesitar cuidados más allá de un buen drenaje.",
+        "history_text_short": "El nombre científico de la amapola española significa 'rompedora de rocas', por la forma en que se siembra en grietas de acantilados de caliza desnuda sobre Andalucía y Marruecos. El botánico suizo Edmond Boissier y Georges Reuter la describieron en 1852 a partir de un espécimen recolectado en una de las duras expediciones autofinanciadas de Boissier a través de la Sierra de Ronda, que por primera vez abrió la flora montañosa del sur de España a la ciencia europea.",
+        "history_text_long": "La amapola española toma su nombre científico, rupifragum, del latín rupes (roca) y frangere (romper) - 'rompedora de rocas' - por la forma en que se siembra en grietas estrechas de acantilados de caliza desnuda. Fue descrita formalmente en 1852 por el botánico suizo Edmond Boissier y su colaborador Georges Reuter, quienes pasaron 1849 viajando por las montañas del sur de España y Marruecos en una de las varias expediciones botánicas autofinanciadas que Boissier realizó en la Península Ibérica y el norte de África. Su espécimen tipo provino de la Serranía de Ronda, una cadena caliza en Andalucía, y la especie fue publicada entre docenas de plantas recién reconocidas en su Pugillus Plantarum Novarum Africae Borealis Hispaniaeque Australis, un estudio en latín de la flora norteafricana y del sur de España previamente no descrita. Las expediciones de Boissier, realizadas por su cuenta y luego destiladas en su monumental Voyage botanique dans le midi de l'Espagne, abrieron la flora montañosa de Andalucía a la botánica europea por primera vez, y la amapola española sigue siendo una de las especialistas en grietas de roca que sus estudios sacaron a la luz. En sus acantilados nativos sobrevive con casi nada: un puñado de tierra alojado en una grieta, pleno sol abrasador y la lluvia que la cara de la roca dirige hacia sus raíces. Introducida en jardines como amapola de rocalla y lecho de grava precisamente por esa resistencia, desde entonces ha escapado del cultivo suave en algunas áreas fuera de su rango nativo, buscando aún el mismo suelo pobre y pedregoso que colonizó por primera vez en la Sierra de Ronda.",
+        "name_origin": "Del latín rupes, 'roca', y frangere, 'romper/partir' - 'rompedora de rocas', por la forma en que se siembra en grietas desnudas de acantilados de caliza; descrita en 1852 por Edmond Boissier y Georges Reuter a partir de un espécimen recolectado en la Serranía de Ronda, España.",
+        "symbolism_story": "La amapola española hace su hogar en el único lugar que otras plantas evitan: una grieta desnuda en la cara de un acantilado, horneada todo el día por el sol. No pide nada más que ese estrecho punto de apoyo, y luego estalla en flor rojo ladrillo cada primavera: una exhibición corta y vívida de una planta que sobrevive con casi nada de suelo.",
+        "flower_meaning": "Tenacidad",
+        "uses_list": [
+          {
+            "text": "Flores de papel rojo ladrillo a naranja para rocallas, lechos de grava y muros secos"
+          },
+          {
+            "text": "Flores abiertas y ricas en polen atraen abejas a plantaciones soleadas y secas"
+          },
+          {
+            "text": "Los tallos cortados son adiciones efímeras pero vívidas a arreglos informales"
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Tenacidad",
+            "description": "Se arraiga en grietas desnudas de acantilados de caliza soleados donde casi nada más puede sostenerse, necesitando solo una pizca de tierra y pleno sol."
+          },
+          {
+            "keyword": "Belleza efímera",
+            "description": "Como la mayoría de las amapolas, cada flor de papel dura solo unos días, abriéndose arrugada desde el capullo y deshaciéndose poco después."
+          }
+        ],
+        "toxicity": {
+          "headline": "Toxicidad desconocida",
+          "active_compound_display": "Ninguna reportada",
+          "notes_en": "No se encontró una coincidencia de toxicidad autorizada; se trata como no reportada (la estimación del LLM no está verificada por fuentes).",
+          "human": {
+            "exposure": "No se reporta ninguna vía de exposición.",
+            "effect": "No se reporta ningún efecto tóxico.",
+            "note": "La toxicidad para humanos no está bien documentada; usar con precaución hasta que se verifique."
+          },
+          "dog": {
+            "exposure": "No se reporta ninguna vía de exposición.",
+            "effect": "No se reporta ningún efecto tóxico.",
+            "note": "La toxicidad para perros no está bien documentada; usar con precaución hasta que se verifique."
+          },
+          "cat": {
+            "exposure": "No se reporta ninguna vía de exposición.",
+            "effect": "No se reporta ningún efecto tóxico.",
+            "note": "La toxicidad para gatos no está bien documentada; usar con precaución hasta que se verifique."
           }
         }
       }

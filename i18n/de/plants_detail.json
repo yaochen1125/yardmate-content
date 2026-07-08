@@ -3,8 +3,8 @@
   "locale": "de",
   "source": {
     "resource": "plants_detail.json",
-    "sha256": "e7ad91cfc14c18ec6edfb9fc0e0f07c0c3c3724c1373e405c89d6cd2dc45ea7a",
-    "record_count": 1614
+    "sha256": "0260234865a3770f0eabd2f9d489507be375802679c7637b2d6860c26f20a533",
+    "record_count": 1621
   },
   "records": {
     "AAA0001": {
@@ -99235,6 +99235,374 @@
               "Übermäßiger Speichelfluss.",
               "Bauchschmerzen."
             ]
+          }
+        }
+      }
+    },
+    "AAA1616": {
+      "source_hash": "21681a795344600bd7844ac35ff028f9cf34519dfabf25aff02abf9f0a795b9d",
+      "fields": {
+        "common_name": "Winterkresse",
+        "bloom_tip": "Diese Pflanze blüht im Frühling und bringt schöne gelbe Blüten hervor.",
+        "fruit_tip": "Die Frucht dieser Pflanze ist grün, wenn sie reif ist, und eignet sich hervorragend als Küchenkraut und Gewürz.",
+        "description": "Winterkresse ist ein niedriger, winterharter Zweijähriger aus der Familie der Kreuzblütler, der wegen seiner pfeffrigen, brunnenkresseähnlichen Blätter angebaut wird, die auch bei Winterfrost grün und essbar bleiben. Ursprünglich aus Europa und Westasien stammend, bildet sie eine Rosette aus tief gelappten Blättern, bevor sie im Frühjahr Stängel mit kleinen, vierblättrigen gelben Blüten treibt. Anders als echte Brunnenkresse gedeiht sie in normalem Gartenboden statt in fließendem Wasser, was sie zu einem einfachen Ersatz für Gärtner macht, die auch in der kalten Jahreszeit frische, würzige Salatblätter haben möchten. Ihre schmalen Schoten reifen im Frühsommer aufrecht heran, und regelmäßiges Pflücken der äußeren Blätter hält die Rosette monatelang produktiv.",
+        "history_text_short": "Benannt nach der heiligen Barbara, weil sie mitten im Winter grün bleibt, wurde dieses winterharte Kreuzblütler-Grün von europäischen und kolonialamerikanischen Gärtnern lange als eines der wenigen frischen, vitaminreichen Salatgrüns geschätzt, das in den kältesten Monaten verfügbar war.",
+        "history_text_long": "Die Winterkresse verdankt ihren Gattungsnamen Barbarea der heiligen Barbara, einer Schutzpatronin gegen plötzliches Unglück, die seit jeher mit den Tiefen des Winters verbunden ist: In der alten europäischen Kräutertradition blieb die Pflanze um ihren Namenstag im Dezember herum grün und pflückbar, wenn fast nichts anderes im Garten wuchs, und wurde unter dem alten Namen herba Sanctae Barbarae als wundheilendes Kraut gesammelt. Dieselbe Kältehärte erwies sich Jahrhunderte später aus einem ganz anderen Grund als wertvoll. Lange vor Gewächshäusern oder importiertem Winterobst wurde Winterkresse als eines der wenigen Blattgemüse geschätzt, das mitten im Winter und zeitigen Frühjahr frisch aus dem Gartenbeet geerntet werden konnte, wenn die Ernährung hauptsächlich aus Konserven und Gepökeltem bestand und es an frischen Vitaminen mangelte. Europäische Siedler brachten ihre Samen nach Nordamerika, wo sie in kolonialen Küchengärten als Ersatz für Brunnenkresse Fuß fasste – sie brauchte nur gewöhnlichen feuchten Boden statt eines fließenden Baches. Ihr alternativer Trivialname „Amerikanische Kresse“ stammt aus dieser Zeit, als sie in Hausgärten an der gesamten Ostküste allgegenwärtig war, weniger wegen ihrer Eleganz geschätzt als wegen der einfachen, verlässlichen Tatsache, dass sie ein pfeffriges, vitaminreiches Grün lieferte, wenn sonst fast nichts wuchs.",
+        "name_origin": "Der Gattungsname Barbarea ehrt die heilige Barbara, da die Pflanze traditionell um ihren Dezember-Namenstag herum grün genug zum Pflücken blieb; das Artepitheton verna ist lateinisch für „zum Frühling gehörend“ und bezieht sich auf die frühe Frühlingsblüte.",
+        "symbolism_story": "Die Verbindung der Winterkresse zur heiligen Barbara, Schutzpatronin gegen plötzliche Gefahren, verlieh ihr in der alten Kräutertradition eine stille symbolische Bedeutung: Ein Grün, das überlebte, wenn das Gartenjahr zu Ende schien, wurde zum kleinen Sinnbild für Ausdauer und Wachsamkeit in schweren Zeiten. Später, in kolonialen Küchengärten fernab dieser europäischen Tradition, behielt es eine ähnliche Bedeutung in praktischerer Hinsicht – es stand für den Einfallsreichtum eines Haushalts, der selbst in der magersten Winterzeit noch etwas Frisches und Nährendes auf den Tisch bringen konnte.",
+        "flower_meaning": "Ausdauer",
+        "fragrance": {
+          "notes": "Beim Zerreiben oder Schneiden verströmen die Blätter ein pfeffriges, senfartiges Aroma."
+        },
+        "uses_list": [
+          {
+            "text": "Pfeffrige, brunnenkresseähnliche Blätter für Salate und zum Kochen"
+          },
+          {
+            "text": "Traditionell als frühes wundheilendes, vitaminreiches Wintergrün geschätzt"
+          },
+          {
+            "text": "Frühlingsblüten bieten frühe Nektarquellen für Bestäuber"
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Ausdauer",
+            "description": "Ihre Fähigkeit, bei Frost und Schnee grün und essbar zu bleiben, machte sie in gärtnerischen Traditionen kalter Klimazonen zu einem Symbol stiller Ausdauer."
+          },
+          {
+            "keyword": "Schutz",
+            "description": "Benannt nach der heiligen Barbara, Schutzpatronin gegen plötzliches Unglück, trug die Pflanze alte Assoziationen von Schutz und Fürsorge in schweren Zeiten."
+          }
+        ],
+        "toxicity": {
+          "headline": "Keine Toxizität bekannt",
+          "active_compound_display": "Keine bekannt",
+          "notes_en": "Keine autoritative Übereinstimmung zur Toxizität gefunden; als nicht gemeldet behandelt (LLM-Schätzung ist nicht quellenverifiziert).",
+          "human": {
+            "exposure": "Es ist kein Expositionsweg bekannt.",
+            "effect": "Es ist keine toxische Wirkung bekannt.",
+            "note": "In diesem Katalog wird keine Toxizität für Menschen gemeldet; dies ist kein Beleg dafür, dass die Pflanze essbar oder unbedenklich ist."
+          },
+          "dog": {
+            "exposure": "Es ist kein Expositionsweg bekannt.",
+            "effect": "Es ist keine toxische Wirkung bekannt.",
+            "note": "In diesem Katalog wird keine Toxizität für Hunde gemeldet; dies ist kein Beleg dafür, dass die Pflanze essbar oder unbedenklich ist."
+          },
+          "cat": {
+            "exposure": "Es ist kein Expositionsweg bekannt.",
+            "effect": "Es ist keine toxische Wirkung bekannt.",
+            "note": "In diesem Katalog wird keine Toxizität für Katzen gemeldet; dies ist kein Beleg dafür, dass die Pflanze essbar oder unbedenklich ist."
+          }
+        }
+      }
+    },
+    "AAA1617": {
+      "source_hash": "abb71c64447c2b229ae340c696612f8510d4deba813c0699f3a1fe06a56c57c0",
+      "fields": {
+        "common_name": "Herbst-Fimbristylis",
+        "description": "Die Herbst-Fimbristylis ist eine kleine, büschelige einjährige Segge mit einem der größten Verbreitungsgebiete ihrer Gattung. Sie ist heimisch in Feuchtwiesen und an Teichufern im östlichen Nordamerika sowie unabhängig davon in Ostasien von Japan und Korea bis China und Taiwan. Feine, grasartige Blätter wachsen 5–30 cm aus einem weichbasigen Büschel, gekrönt von locker verzweigten Büscheln winziger grünlich-brauner Ährchen, die von zarten borstigen Hochblättern umgeben sind – der Franse, die der Gattung ihren lateinischen Namen gibt. Sie bevorzugt feuchte, sandige, torfige oder schluffige Böden – Sickerquellen, Gräben und Teichränder, deren Wasserstand im Jahresverlauf schwankt – und blüht vom Spätsommer bis in den Herbst, die Jahreszeit, die ihr Artname festhält. Sie besiedelt schnell nackten, nassen Boden und eignet sich für Regen- und naturnahe Feuchtbepflanzungen, die eine subtile Textur statt auffälliger Blüten wünschen.",
+        "history_text_short": "Benannt nach ihrer Herbstblüte, ist die Herbst-Fimbristylis eine drahtige kleine Segge, die auf beiden Seiten des Pazifiks vorkommt – an Teichufern von Maine bis Texas und in Feuchtgebieten Japans, Koreas, Chinas und Taiwans. Ihre gefransten Blütenstände gaben der Gattung Fimbristylis ihren Namen, und ihre Fähigkeit, auf nacktem, schwankend nassem Boden zu sprießen, macht sie für Botaniker zu einem lebenden Maßstab für den Wasserstand eines Ufers.",
+        "history_text_long": "Die Herbst-Fimbristylis gehört zu Fimbristylis, einer großen Seggengattung, deren Name vom lateinischen fimbriae („Fransen“) für die zarten borstigen Hochblätter stammt, die jeden Blütenstand umgeben. Das Artepitheton autumnalis bedeutet schlicht „des Herbstes“ und verweist auf das späte Blühfenster von August bis Oktober, in dem sich die drahtigen Ährchen an den Teichufern und sickernden Gräben öffnen, die sie ihr Zuhause nennt. Europäische Botaniker ordneten die Pflanze im 18. Jahrhundert zunächst der älteren Seggengattung Scirpus zu; als Georg Roemer und Josef Schultes im frühen 19. Jahrhundert die Cyperaceae für ihre Ausgabe von Systema Vegetabilium revidierten, überführten sie sie in Fimbristylis, wo sie seitdem verblieben ist. Ihr Verbreitungsgebiet ist für eine Segge ihrer Größe ungewöhnlich geteilt: Eine Population erstreckt sich über das östliche Nordamerika von Maine bis Texas, eine andere über Japan, Korea, China und Taiwan; japanische Botaniker kennen sie unter dem eigenen Namen Himehira-tentsuki in derselben tentsuki-Gruppe (Fimbristylis) wie die anderen Fransenseggen der Region. In der Wildnis ist sie eine Pflanze der Ränder und Zwischenräume: des schlammigen Ufers eines Teichs, der im trockenen Sommer absinkt, eines Straßengrabens, einer Sickerquelle am Fuß eines Sandhangs. Da sie auf nacktem, wassergesättigtem Boden schnell keimt und dann innerhalb einer Saison blüht und Samen setzt, gilt sie Botanikern als Indikator für exponierte, schwankende Feuchtgebietsränder und nicht für stabile Gewässer. Derselbe Opportunismus hat sie am Nordrand ihres nordamerikanischen Verbreitungsgebiets selten gemacht – in Vermont wird sie als Art von Schutzinteresse geführt –, während sie weiter südlich häufig bleibt. Ökologen, die Pflanzengesellschaften an Teichufern untersuchen, nutzen ihr Vorkommen oder Fehlen, um abzuschätzen, wie stark der Wasserstand eines Ufers noch jahreszeitlich schwankt – ein kleines, aber aussagekräftiges Signal für die Gesundheit des Feuchtgebiets.",
+        "name_origin": "Vom lateinischen fimbriae, „Fransen“, für die borstigen Hochblätter, die jeden Blütenstand umgeben, plus griechisch stylos, „Griffel/Säule“ – und autumnalis, „des Herbstes“, für ihre späte Blüte.",
+        "symbolism_story": "Die Herbst-Fimbristylis verlangt nie viel: Nackter, wassergesättigter Boden ist für sie eine Chance, kein Hindernis. Sie keimt schnell auf dem trocknenden Schlamm eines zurückweichenden Teichufers, blüht innerhalb weniger Wochen und setzt Samen, bevor der Boden im folgenden Frühjahr wieder überschwemmt wird – ein kleiner einjähriger Kreislauf aus Ankunft, Blüte und Erneuerung, der sich jedes Jahr am selben wechselnden Rand wiederholt.",
+        "flower_meaning": "Widerstandsfähigkeit",
+        "uses_list": [
+          {
+            "text": "Besiedelt nackte, nasse Ufer und bietet Deckung in saisonalen Feuchtgebieten"
+          },
+          {
+            "text": "Verleiht Regen- und naturnahen Teichbepflanzungen eine feine, grasartige Textur"
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Widerstandsfähigkeit",
+            "description": "Schießt schnell auf nacktem, wassergesättigtem Boden auf, den die meisten Pflanzen meiden, und übersteht dann das Austrocknen eines zurückweichenden Ufers jeden Sommer."
+          },
+          {
+            "keyword": "Erneuerung",
+            "description": "Als Einjährige vollendet sie ihren gesamten Lebenszyklus innerhalb einer Saison und gehört zur ersten grünen Welle, die schlammige, gestörte Feuchtgebietsränder zurückerobert."
+          }
+        ],
+        "toxicity": {
+          "headline": "Keine Toxizität berichtet",
+          "active_compound_display": "Keine bekannt",
+          "notes_en": "Keine autoritative Übereinstimmung zur Toxizität gefunden; als nicht berichtet behandelt (LLM-Schätzung ist nicht quellgeprüft).",
+          "human": {
+            "exposure": "Es wird kein Expositionsweg berichtet.",
+            "effect": "Es wird keine toxische Wirkung berichtet.",
+            "note": "In diesem Katalog wird keine Toxizität für Menschen berichtet; dies ist kein Beleg dafür, dass die Pflanze essbar oder unschädlich ist."
+          },
+          "dog": {
+            "exposure": "Es wird kein Expositionsweg berichtet.",
+            "effect": "Es wird keine toxische Wirkung berichtet.",
+            "note": "In diesem Katalog wird keine Toxizität für Hunde berichtet; dies ist kein Beleg dafür, dass die Pflanze essbar oder unschädlich ist."
+          },
+          "cat": {
+            "exposure": "Es wird kein Expositionsweg berichtet.",
+            "effect": "Es wird keine toxische Wirkung berichtet.",
+            "note": "In diesem Katalog wird keine Toxizität für Katzen berichtet; dies ist kein Beleg dafür, dass die Pflanze essbar oder unschädlich ist."
+          }
+        }
+      }
+    },
+    "AAA1618": {
+      "source_hash": "f3b16fe757d025cbd71c1b8c396426552ca54e9089a0fb5d5df0e610c4ff8ae2",
+      "fields": {
+        "common_name": "Asiatische Fimbristylis",
+        "description": "Asiatische Fimbristylis ist eine zarte, büschelige einjährige Segge, die in den Tropen und Subtropen der Alten Welt heimisch ist, vom Kaukasus über Süd- und Ostasien bis nach Zentraljapan. Schlanke, faserwurzelige Stängel erreichen nur 20-40 cm, jeder mit kleinen grünlich-braunen, lanzettlichen Ährchen, deren Schuppen eine charakteristische auswärts gebogene Borstenspitze tragen. Sie bevorzugt feuchten Sand oder Schlamm in niedrigen, offenen, gestörten Böden – Lichtungen, Felder und andere saisonal nasse, sonnige Stellen – und hat ein unkrautartiges, opportunistisches Verhalten, das für ihre Gattung typisch ist. Außerhalb ihres natürlichen Verbreitungsgebiets ist sie im Anbau praktisch unbekannt; wenn überhaupt, gehört sie in eine spezialisierte Sammlung von Gräsern oder Randseggen, eher wegen ihrer feinen, wispeligen Textur als wegen einer Blütenpracht.",
+        "history_text_short": "Asiatische Fimbristylis ist in feuchten Feldern vom Kaukasus bis Japan häufig, aber in Nordamerika tauchte sie nur ein einziges Mal auf: ein einzelnes Exemplar, das 1865 aus einem Haufen Schiffsballastboden in Camden, New Jersey, gezogen wurde. Botaniker zitieren diesen Einzelfund noch heute als klassischen „Ballastwaif“ – eine fremde Pflanze, die kurz aus importiertem Dreck spross und dann verschwand.",
+        "history_text_long": "Asiatische Fimbristylis gehört zu einer Gattung, die der dänische Botaniker Martin Vahl 1805 formal aufstellte und Seggen zusammenfasste, deren Blütenstände von zarten, fransenartig borstigen Schuppen umgeben sind – den Fimbrien, die der Gattung ihren Namen geben. Heimisch in der Alten Welt vom Kaukasus bis Japan, wurde sie auf dem nordamerikanischen Kontinent nur ein einziges Mal nachgewiesen: ein einzelnes Exemplar, das 1865 von dem Botaniker C. F. Parker aus Schiffsballast in Camden, New Jersey, gesammelt wurde. Im 19. Jahrhundert leerten Schiffe, die amerikanische Exporte luden, zuerst den Boden, Sand und Gestein, der als Ballast auf der Ausreise mitgeführt wurde, und kippten ihn in Haufen entlang der Kais von Hafenstädten wie Camden und Philadelphia. In diesem fremden Boden vergrabene Samen keimten manchmal zu kurzlebigen, unerwarteten Kolonien exotischer Pflanzen, die lokale Botaniker „Ballastwaifs“ nannten – und für einige Jahre wurden diese Müllkippen zu begehrten Jagdgründen für alle, die neugierig auf die Flora ferner Länder waren. Parkers einzelne Sammlung der Asiatischen Fimbristylis war genau ein solcher Fund: eine Pflanze, die zuvor nie wild in der Nähe von New Jersey gewachsen war und, soweit Aufzeichnungen zeigen, dort nie wieder wuchs, nachdem dieser bestimmte Haufen Ballastboden verschwunden war. Botaniker zitieren den Fund noch heute als Lehrbuchbeispiel eines „Waifs“ – einmal vorhanden, gebunden an eine spezifische menschliche Handlung des Imports fremden Bodens, und wieder verschwunden, sobald dieser Boden gestört oder überbaut wurde. In ihrem eigentlichen Verbreitungsgebiet in Asien ist sie dagegen eine gewöhnliche, wenn auch leicht übersehene Erscheinung in feuchten Lichtungen und gestörten Feldern.",
+        "name_origin": "Vom lateinischen fimbriae, „Fransen“, für die borstigen Schuppen, die jeden Blütenstand umgeben, plus griechisch stylos, „Griffel/Säule“; squarrosa ist lateinisch für „rau, mit abstehenden Schuppenspitzen“ und beschreibt die auswärts gebogene Borste auf jeder Blütenschuppe.",
+        "symbolism_story": "Für einen kurzen Moment im Jahr 1865 wuchs Asiatische Fimbristylis an einem Ort, an dem sie nie zuvor gewachsen war: einem Haufen importierten Ballastbodens, der auf einem Kai in New Jersey abgeladen wurde, eine halbe Welt von ihrem natürlichen Verbreitungsgebiet entfernt. Ein einziger Botaniker fand sie, presste sie und dokumentierte sie – und dann war der Boden weg, und die Pflanze war es auch. Sie bleibt ein kleines Sinnbild dafür, wie kurzlebig ein fremder Samen Wurzeln schlagen kann, bevor der Ort, der ihn dorthin brachte, verschwindet.",
+        "flower_meaning": "Vergänglichkeit",
+        "uses_list": [
+          {
+            "text": "Besiedelt nackten, feuchten, gestörten Boden in ihrem heimischen asiatischen Verbreitungsgebiet"
+          },
+          {
+            "text": "Gelegentlich in spezialisierten Seggensammlungen wegen ihrer feinen, wispeligen Textur angebaut"
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Vergänglichkeit",
+            "description": "Ihr einziger nordamerikanischer Nachweis stammt von einem einzelnen Haufen Schiffsballastboden von 1865 und verschwand, sobald dieser Boden gestört wurde; nie wieder wild in der Region gesehen."
+          },
+          {
+            "keyword": "Anpassungsfähigkeit",
+            "description": "Gedeiht in einem riesigen heimischen Verbreitungsgebiet von feuchtem, gestörtem Boden vom Kaukasus bis Japan, wo immer nackter, nasser Boden kurzzeitig offen liegt."
+          }
+        ],
+        "toxicity": {
+          "headline": "Keine Toxizität bekannt",
+          "active_compound_display": "Keine bekannt",
+          "notes_en": "Keine autoritative Toxizitätsübereinstimmung gefunden; als nicht berichtet behandelt (LLM-Schätzung ist nicht quellenverifiziert).",
+          "human": {
+            "exposure": "Es wird kein Expositionsweg berichtet.",
+            "effect": "Es wird keine toxische Wirkung berichtet.",
+            "note": "In diesem Katalog wird keine Toxizität für Menschen berichtet; dies ist kein Beweis dafür, dass die Pflanze essbar oder unbedenklich ist."
+          },
+          "dog": {
+            "exposure": "Es wird kein Expositionsweg berichtet.",
+            "effect": "Es wird keine toxische Wirkung berichtet.",
+            "note": "In diesem Katalog wird keine Toxizität für Hunde berichtet; dies ist kein Beweis dafür, dass die Pflanze essbar oder unbedenklich ist."
+          },
+          "cat": {
+            "exposure": "Es wird kein Expositionsweg berichtet.",
+            "effect": "Es wird keine toxische Wirkung berichtet.",
+            "note": "In diesem Katalog wird keine Toxizität für Katzen berichtet; dies ist kein Beweis dafür, dass die Pflanze essbar oder unbedenklich ist."
+          }
+        }
+      }
+    },
+    "AAA1619": {
+      "source_hash": "15f343ccb752902aae842a5e09d71ab5e528ab2367b97647abb4df88376bed57",
+      "fields": {
+        "common_name": "Vahl-Fimbristylis",
+        "description": "Vahl-Fimbristylis ist eine winzige einjährige Segge, eine der kleinsten ihrer Gattung, die aus kräuselnden, fadenförmigen Blättern zarte Büschel von nur 4–15 cm Höhe bildet. Ihre drahtigen Stängel tragen jeweils eine Handvoll kleiner, spitzer Ährchen, die von langen, gedrehten Hochblättern umhüllt sind, was der gesamten Pflanze eine feine, wispelige Textur verleiht, statt einer auffälligen Blüte. Heimisch in den südlichen USA, Mexiko und Mittelamerika sowie bis nach Brasilien, Peru und Venezuela, wächst sie auf feuchten, sandigen, saisonal nassen Böden – an Teichrändern, Straßengräben und in niedrigen Feldern, die im Jahresverlauf überfluten und austrocknen. Leicht zu übersehen und ohne Ansprüche außer konstant feuchtem Boden, eignet sie sich am besten für naturnahe Feuchtbepflanzungen oder naturalistische Kies- und Sandgärten, wo ihre feine, fadenartige Wuchsform als Textur und nicht als Blickfang wirkt.",
+        "history_text_short": "Benannt nach Martin Vahl, dem von Linné ausgebildeten Botaniker, der 1805 die Gattung Fimbristylis begründete, wächst diese winzige einjährige Segge kaum eine Handbreit hoch auf feuchten, sandigen Böden von den südlichen USA bis nach Peru und Brasilien. Lamarck benannte sie zu Vahls Ehren, bevor sie in die Gattung eingeordnet wurde, die Vahl selbst geschaffen hatte.",
+        "history_text_long": "Vahl-Fimbristylis trägt den Namen von Martin Vahl, einem dänischen Botaniker, der bei Carl von Linné in Kopenhagen und Uppsala ausgebildet wurde, bevor er Professor für Botanik an der Universität Kopenhagen wurde. 1805 beschrieb Vahl formal die Gattung Fimbristylis und fasste eine verstreute Gruppe von Seggen mit gefransten Hochblättern unter einem Namen zusammen. Diese spezielle Art wurde zuerst von Jean-Baptiste Lamarck beschrieben, der Vahl im Epitheton ehrte; als der deutsche Botaniker Johann Heinrich Friedrich Link die Pflanze später in Fimbristylis überführte, landete sie innerhalb der Gattung, die ihr Namensgeber selbst begründet hatte. Im Feld ist sie eine unscheinbare Pflanze feuchter, offener Böden in der Neuen Welt – sandige Teichränder in Florida und Texas, saisonale Feuchtgebiete in Mexiko und Mittelamerika, feuchte Niederungen bis nach Peru und Brasilien. Da sie als Einjährige nur wenige Zentimeter hoch wird, fällt sie neben höheren Sumpfpflanzen selten auf, und vieles, was über sie bekannt ist, stammt von Herbarbögen regionaler Floraerhebungen, nicht aus Garten- oder Volkstradition. Diese stille, arbeitsame Geschichte – eine Pflanze, die mehr durch die sorgfältige Sortierarbeit der Taxonomen als durch menschliche Nutzung definiert wird – ist selbst ein Teil dessen, was Vahl-Fimbristylis wissenswert macht: eine kleine, leicht übersehene Segge, die dennoch den Namen des Mannes trägt, der ihrer gesamten Gattung ein Zuhause gab.",
+        "name_origin": "Benannt nach Martin Vahl (1749–1804), dem dänischen Botaniker und Studenten Linnés, der die Gattung Fimbristylis 1805 etablierte; Lamarck ehrte ihn zuerst mit dem Artepitheton vahlii, bevor die Pflanze später in Vahls eigene Gattung überführt wurde.",
+        "symbolism_story": "Vahl-Fimbristylis versucht nie, aufzufallen. Sie erhebt sich kaum eine Handbreit über feuchten Sand, setzt ihre kleinen gefransten Ährchen an und ist innerhalb einer Saison wieder verschwunden – die Art Pflanze, die Botaniker nur bemerken, wenn sie niederknien. Doch sie trägt den Namen von Martin Vahl, der seine Karriere damit verbrachte, genau diese kleinen, übersehenen Seggen in die geordnete Gattung zu sortieren, die sie noch heute beherbergt.",
+        "flower_meaning": "Bescheidenheit",
+        "uses_list": [
+          {
+            "text": "Feine saisonale Deckung in sandigen Teichrand- und Feuchtgebieten"
+          },
+          {
+            "text": "Verleiht naturnahen Kies- und Feuchtbepflanzungen eine zarte, fadenartige Textur"
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Bescheidenheit",
+            "description": "Eine Pflanze, die nur wenige Zentimeter hoch ist und leicht übersehen wird, die aber den Namen des Botanikers trägt, der ihrer gesamten Gattung ein Zuhause gab."
+          },
+          {
+            "keyword": "Beharrlichkeit",
+            "description": "Vollendet ihren gesamten Lebenszyklus als winzige Einjährige auf Böden, die abwechselnd überfluten und austrocknen, und kehrt jede nasse Jahreszeit aus Samen zurück."
+          }
+        ],
+        "toxicity": {
+          "headline": "Keine Toxizität berichtet",
+          "active_compound_display": "Keine bekannt",
+          "notes_en": "Keine autoritative Toxizitätsübereinstimmung gefunden; als nicht berichtet behandelt (LLM-Schätzung ist nicht quellenverifiziert).",
+          "human": {
+            "exposure": "Es wird kein Expositionsweg berichtet.",
+            "effect": "Es wird keine toxische Wirkung berichtet.",
+            "note": "In diesem Katalog wird keine Toxizität für Menschen berichtet; dies ist kein Beleg dafür, dass die Pflanze essbar oder ungefährlich ist."
+          },
+          "dog": {
+            "exposure": "Es wird kein Expositionsweg berichtet.",
+            "effect": "Es wird keine toxische Wirkung berichtet.",
+            "note": "In diesem Katalog wird keine Toxizität für Hunde berichtet; dies ist kein Beleg dafür, dass die Pflanze essbar oder ungefährlich ist."
+          },
+          "cat": {
+            "exposure": "Es wird kein Expositionsweg berichtet.",
+            "effect": "Es wird keine toxische Wirkung berichtet.",
+            "note": "In diesem Katalog wird keine Toxizität für Katzen berichtet; dies ist kein Beleg dafür, dass die Pflanze essbar oder ungefährlich ist."
+          }
+        }
+      }
+    },
+    "AAA1620": {
+      "source_hash": "1e67f6fa1029e54e7e929b4fdc5652d3abff1be42e65127c67451f0ac103910f",
+      "fields": {
+        "common_name": "Schmalblättriger Hornklee",
+        "description": "Der Schmalblättrige Hornklee ist ein niedriges, kriechendes, mehrjähriges Leguminosengewächs, das eng mit dem Gewöhnlichen Hornklee verwandt ist, aber feinere, nadelartige Blättchen und spärlichere Blütenstände mit ein bis drei Blüten aufweist. Ursprünglich in Europa, Nordafrika und Westasien beheimatet, bevorzugt er feuchte Wiesen und Überschwemmungsrasen und verträgt Staunässe und leichte Bodenversalzung, die viele andere Leguminosen nicht überstehen. Von Sommer an öffnen sich über drahtigen Stängeln fröhlich gelbe, schmetterlingsförmige Blüten, die Bienen und Bestäuber anlocken. Seine Wurzeln beherbergen stickstofffixierende Bakterien, die den Boden anreichern, was ihn zu einem widerstandsfähigen, pflegeleichten Bodendecker für feuchte Rasenflächen und naturnahe Bereiche macht.",
+        "history_text_short": "Es wird angenommen, dass dieser bescheidene, gelb blühende Hornklee um 1900 als blinder Passagier in importiertem Luzernesaatgut nach Argentinien gelangte und dort gedieh, wo salzige, überschwemmungsgefährdete Pampaböden andere Leguminosen absterben ließen. Er wurde zu einer geschätzten, widerstandsfähigen Futterpflanze für Rinderweiden.",
+        "history_text_long": "Das bedeutendste Kapitel des Schmalblättrigen Hornklees spielte sich weit entfernt von seinem ursprünglichen mediterranen und gemäßigten eurasischen Verbreitungsgebiet ab. Um die Wende zum 20. Jahrhundert gelangte das Saatgut dieser unscheinbaren Leguminose nach Argentinien, höchstwahrscheinlich vermischt mit Lieferungen von Luzerne- und anderen Futtersaatgütern, die europäische Einwanderer bei der Besiedlung der weiten Grasländer südlich von Buenos Aires mitbrachten. In den meisten Teilen der Welt blieb er eine unbedeutende Wegerichpflanze, aber in der Pampa Deprimida, den tiefliegenden, saisonal überfluteten Ebenen, wo salzige, staunasse Böden gewöhnliche Weideleguminosen absterben ließen, fand der Schmalblättrige Hornklee eine Nische, die fast keine andere Pflanze füllen konnte. Viehzüchter und Agronomen bemerkten, dass dieser drahtige kleine Hornklee dort weiterwuchs, wo Luzerne und Klee unter stehendem Wasser faulten und abstarben, Stickstoff band und Rinder auch in nassen Jahreszeiten ernährte, die zuvor Monate schlechter Beweidung bedeutet hatten. Mitte des 20. Jahrhunderts züchteten und förderten argentinische Agrarwissenschaftler aktiv verbesserte Sorten, und er wurde zu einer der charakteristischen Futterpflanzen der Überschwemmungspampa, die leise die Bewirtschaftung von Millionen Hektar Grenzertragsrasen veränderte. Was als zufälliger blinder Passagier in importierten Saatsäcken begann, endete als landwirtschaftlicher Eckpfeiler, weniger geschätzt für seine Schönheit als für seine schiere Widerstandsfähigkeit unter Bedingungen, die alles andere zerstörten.",
+        "name_origin": "Der Gattungsname Lotus ist ein altgriechisches Wort, das einst allgemein für klee- und lotusartige Pflanzen verwendet wurde, während die Artbezeichnung tenuis lateinisch für 'schlank' oder 'dünn' ist und die feinen, schmalen Blättchen beschreibt, die diese Pflanze von ihrem breitblättrigeren Verwandten, dem Gewöhnlichen Hornklee, unterscheiden.",
+        "symbolism_story": "Der Schmalblättrige Hornklee trägt keine der alten Mythen, die mit auffälligeren Blumen verbunden sind, aber er hat sich sein symbolisches Gewicht auf praktische Weise verdient: indem er dort überlebt, wo reichere, gefeiertere Weidepflanzen nicht konnten. Für Generationen von Viehzüchtern in den überfluteten Tieflandpampas Argentiniens wurden seine drahtigen, gelb blühenden Teppiche zu einem stillen Zeichen von Widerstandsfähigkeit und Vorsehung, ein Beweis dafür, dass selbst marginales, wasserdurchtränktes Land noch Überfluss hervorbringen kann.",
+        "flower_meaning": "Widerstandsfähigkeit",
+        "uses_list": [
+          {
+            "text": "Lockt mit Sommerblüten Bienen und andere Bestäuber an"
+          },
+          {
+            "text": "Geschätzte stickstofffixierende Futterpflanze für Weidevieh"
+          },
+          {
+            "text": "Verwildert als pflegeleichter Bodendecker in feuchten Böden"
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Widerstandsfähigkeit",
+            "description": "Seine Fähigkeit, in überfluteten, salzigen Weiden zu gedeihen, wo andere Futterpflanzen versagen, hat ihn in der landwirtschaftlichen Tradition zu einem Symbol stiller Widerstandsfähigkeit gemacht."
+          },
+          {
+            "keyword": "Überfluss",
+            "description": "Als stickstofffixierende Leguminose, die den Boden, in dem sie wächst, erneuert, wird sie mit Fruchtbarkeit und üppigem Weideland assoziiert."
+          }
+        ],
+        "toxicity": {
+          "headline": "Keine Toxizität berichtet",
+          "active_compound_display": "Keine bekannt",
+          "notes_en": "Keine autoritative Übereinstimmung zur Toxizität gefunden; als nicht berichtet behandelt (LLM-Schätzung ist nicht quellengeprüft).",
+          "human": {
+            "exposure": "Es wird kein Expositionsweg berichtet.",
+            "effect": "Es wird keine toxische Wirkung berichtet.",
+            "note": "In diesem Katalog wird keine Toxizität für Menschen berichtet; dies ist kein Beleg dafür, dass die Pflanze essbar oder ungefährlich ist."
+          },
+          "dog": {
+            "exposure": "Es wird kein Expositionsweg berichtet.",
+            "effect": "Es wird keine toxische Wirkung berichtet.",
+            "note": "In diesem Katalog wird keine Toxizität für Hunde berichtet; dies ist kein Beleg dafür, dass die Pflanze essbar oder ungefährlich ist."
+          },
+          "cat": {
+            "exposure": "Es wird kein Expositionsweg berichtet.",
+            "effect": "Es wird keine toxische Wirkung berichtet.",
+            "note": "In diesem Katalog wird keine Toxizität für Katzen berichtet; dies ist kein Beleg dafür, dass die Pflanze essbar oder ungefährlich ist."
+          }
+        }
+      }
+    },
+    "AAA1621": {
+      "source_hash": "d81769c333fae5eee2e883d7591be91a43562529520515692a3db87d0cba4970",
+      "fields": {
+        "common_name": "Wald-Scheinmohn",
+        "description": "Der Wald-Scheinmohn ist eine horstbildende Staude feuchter, felsiger Schattenstandorte in Westeuropa, von den Britischen Inseln bis zur Iberischen Halbinsel. Papierartige, vierblättrige Blüten in klarem Gelb bis sanftem Orange nicken auf schlanken, behaarten Stielen über tief eingeschnittenem, farnartigem, frischgrünem Laub. Sie öffnen sich vom späten Frühjahr bis zum Sommer und versamen sich nach der Etablierung reichlich. Die Pflanzen bilden lockere Horste von 30-60 cm Höhe, gleichermaßen geeignet für Waldränder, schattige Felsspalten oder alte Steinmauern. Anspruchslos an humusreichen, zuverlässig feuchten Boden und zufrieden im Halbschatten, wo viele Mohnarten kümmern würden, verwildert er leicht in Bauerngärten und schattigen Beeten und taucht Jahr für Jahr ungebeten auf, sobald er einen geeigneten Platz gefunden hat.",
+        "history_text_short": "Linné benannte diesen Mohn 1753 nach Wales, der Region, in der er wild auf feuchtem, schattigem Gestein nachgewiesen wurde. Später in die eigene Gattung Meconopsis ausgegliedert, wurde er zur Grafschaftsblume von Montgomeryshire und seit 2006 zum Emblem der Partei Plaid Cymru – eine kleine gelbe Wildblume, die eine überraschende Menge nationaler Identität trägt.",
+        "history_text_long": "Der Wald-Scheinmohn wurde 1753 von Carl von Linné erstbeschrieben, der ihn schlicht als weiteren Mohn einstufte, Papaver cambricum – cambricum ist lateinisch für ‚aus Wales‘, der Region, in der die Pflanze nach Aufzeichnungen des Kräuterkundigen John Parkinson im 17. Jahrhundert erstmals wild in den Britischen Inseln wuchs. 1814 untersuchte der französische Botaniker Louis Viguier die charakteristische vierfächrige, behaarte Samenkapsel genauer und stellte sie in eine neue Gattung, Meconopsis, obwohl der ältere Name Papaver cambricum seither daneben weiter verwendet wird. In der Wildnis wächst sie auf feuchten, schattigen, felsigen Böden im Bergland Westeuropas, von Wales, England und Irland südwärts durch Frankreich bis nach Spanien und Portugal – stets in den kühleren, feuchteren Randbereichen, wo tiefer Schatten und Stein den Boden vor dem Austrocknen bewahren. In Wales selbst wurde die Blume mehr als nur eine Wildblume: Sie ist die Grafschaftsblume von Montgomeryshire, ihre leuchtend gelben Blütenblätter gelten als Symbol für Kontinuität und Erinnerung, und seit 2006 dient ein stilisierter Wald-Scheinmohn als Logo der politischen Partei Plaid Cymru, das den roten Erinnerungsmohn aufgreift und zugleich eine eigenständige walisische Identität markiert. Älterer Volksglaube schrieb der Blume eine sanftere Art von Schutz zu: Sie sollte schelmische Geister von Haus und Garten fernhalten – ein bescheidener Ruf für eine Pflanze, die sich in jede feuchte Ritze und schattige Ecke sät, die sie erreichen kann, und dort dann still für Generationen verharrt.",
+        "name_origin": "Cambricum ist lateinisch für ‚aus Wales‘ (von Cambria, dem lateinischen Namen für Wales) und spiegelt wider, wo die Pflanze erstmals wild in den Britischen Inseln nachgewiesen wurde; Linné nannte sie 1753 Papaver cambricum, bevor sie später in die eigene Gattung Meconopsis ausgegliedert wurde.",
+        "symbolism_story": "Eine bescheidene gelbe Wildblume feuchter walisischer Täler wurde im Laufe der Jahrhunderte zu etwas Größerem: zum Wahrzeichen einer Grafschaft, zum Logo einer politischen Partei und im älteren Volksglauben zu einem kleinen Wächter gegen Unfug am Gartentor. Der Wald-Scheinmohn verlangt nichts weiter als Schatten und feuchten Stein und kehrt dennoch Jahr für Jahr in dieselben stillen Ecken zurück, selbstversamt.",
+        "flower_meaning": "Erinnerung",
+        "uses_list": [
+          {
+            "text": "Papierartige gelbe bis orangefarbene Blüten für schattige Beete, Waldränder und Steinmauern"
+          },
+          {
+            "text": "Offene, pollenreiche Blüten locken Bienen in schattige Gartenecken"
+          },
+          {
+            "text": "Kurzlebige Schnittstiele bringen leuchtende Farbe in informelle, lässige Arrangements"
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Erinnerung",
+            "description": "Grafschaftsblume von Montgomeryshire und seit 2006 das Emblem von Plaid Cymru – eine kleine Wildblume, die walisische Identität und Kontinuität verkörpert."
+          },
+          {
+            "keyword": "Schutz",
+            "description": "Im älteren walisischen Volksglauben sollte der Mohn schelmische Geister von Haus und Garten fernhalten."
+          }
+        ],
+        "toxicity": {
+          "headline": "Toxizität unbekannt",
+          "active_compound_display": "Keine bekannt",
+          "notes_en": "Keine autoritative Übereinstimmung zur Toxizität gefunden; als nicht berichtet behandelt (LLM-Schätzung ist nicht quellgeprüft).",
+          "human": {
+            "exposure": "Es wird kein Aufnahmeweg berichtet.",
+            "effect": "Es wird keine toxische Wirkung berichtet.",
+            "note": "Toxizität für Menschen ist nicht gut dokumentiert; Vorsicht walten lassen, bis bestätigt."
+          },
+          "dog": {
+            "exposure": "Es wird kein Aufnahmeweg berichtet.",
+            "effect": "Es wird keine toxische Wirkung berichtet.",
+            "note": "Toxizität für Hunde ist nicht gut dokumentiert; Vorsicht walten lassen, bis bestätigt."
+          },
+          "cat": {
+            "exposure": "Es wird kein Aufnahmeweg berichtet.",
+            "effect": "Es wird keine toxische Wirkung berichtet.",
+            "note": "Toxizität für Katzen ist nicht gut dokumentiert; Vorsicht walten lassen, bis bestätigt."
+          }
+        }
+      }
+    },
+    "AAA1622": {
+      "source_hash": "2eb4de02c961955a00eafa8f3255fd47d4ffea423fdea4a2ab29cf34905ab6c6",
+      "fields": {
+        "common_name": "Spanischer Mohn",
+        "bloom_tip": "Diese Pflanze blüht im Frühling mit einer kurzen und schönen Blütezeit.",
+        "description": "Spanischer Mohn ist ein kurzlebiger, mehrjähriger Mohn, der an den felsigen Berghängen Südspaniens und Marokkos heimisch ist, wo er seine Wurzeln in Spalten von Kalksteinklippen in 700-1600 Metern Höhe treibt. Papierartige, gekräuselte Blüten in ziegelroten bis weichen Orangetönen, 3-4,5 cm breit mit goldgelben Staubbeuteln, öffnen sich ab dem späten Frühling bis in den Sommer über einer niedrigen Rosette aus behaarten, tief gelappten graugrünen Blättern. Die Pflanzen bilden lockere, verzweigte Horste von 15-45 cm Höhe und säen sich leicht selbst aus, sobald sie sich etabliert haben. Geben Sie ihr volle Sonne und scharfen, mageren, gut durchlässigen Boden – ein Kiesbeet, eine Felsspalt im Steingarten oder eine Trockenmauer – und sie wird Jahr für Jahr aus ihren verstreuten Samen zurückkehren und braucht fast keine Pflege außer guter Drainage.",
+        "history_text_short": "Der wissenschaftliche Name des Spanischen Mohns bedeutet ‚Felsbrecher‘, für die Art, wie er sich in Spalten nackter Kalksteinklippen oberhalb Andalusiens und Marokkos sät. Die Schweizer Botaniker Edmond Boissier und Georges Reuter beschrieben ihn 1852 anhand eines Exemplars, das auf einer von Boissiers rauen, selbstfinanzierten Expeditionen durch die Sierra de Ronda gesammelt wurde, die erstmals die Gebirgsflora Südspaniens der europäischen Wissenschaft erschloss.",
+        "history_text_long": "Der Spanische Mohn verdankt seinen wissenschaftlichen Namen rupifragum dem lateinischen rupes (Fels) und frangere (brechen) – ‚Felsbrecher‘ – für die Art, wie er sich in enge Spalten nackter Kalksteinklippen sät. Er wurde 1852 vom Schweizer Botaniker Edmond Boissier und seinem Mitarbeiter Georges Reuter formal beschrieben, die 1849 durch die Berge Südspaniens und Marokkos gereist waren, auf einer von mehreren selbstfinanzierten botanischen Expeditionen, die Boissier auf die Iberische Halbinsel und nach Nordafrika unternahm. Ihr Typusexemplar stammte aus der Serranía de Ronda, einem Kalksteingebirge in Andalusien, und die Art wurde unter Dutzenden neu erkannter Pflanzen in ihrem Pugillus Plantarum Novarum Africae Borealis Hispaniaeque Australis veröffentlicht, einer lateinischen Übersicht bisher unbeschriebener nordafrikanischer und südspanischer Flora. Boissiers Expeditionen, die er auf eigene Kosten unternahm und später in seiner monumentalen Voyage botanique dans le midi de l'Espagne zusammenfasste, öffneten die Gebirgsflora Andalusiens erstmals der europäischen Botanik, und der Spanische Mohn ist einer der Felsspalten-Spezialisten, die seine Erhebungen ans Licht brachten. In seinen heimischen Klippen überlebt er auf fast nichts: einer Handvoll Erde in einem Spalt, voller Sonne und dem Regen, den die Felswand zu seinen Wurzeln leitet. In Gärten als Steingarten- und Kiesbeetmohn genau wegen dieser Zähigkeit eingeführt, ist er in einigen Gebieten außerhalb seines natürlichen Verbreitungsgebiets aus der Kultur entkommen und sucht immer noch denselben mageren, steinigen Boden, den er zuerst in der Sierra de Ronda besiedelte.",
+        "name_origin": "Vom lateinischen rupes, ‚Fels‘, und frangere, ‚brechen/spalten‘ – ‚Felsbrecher‘, für die Art, wie er sich in nackte Spalten von Kalksteinklippen sät; 1852 von Edmond Boissier und Georges Reuter anhand eines in Spaniens Serranía de Ronda gesammelten Exemplars beschrieben.",
+        "symbolism_story": "Der Spanische Mohn macht sein Zuhause an dem einen Ort, den andere Pflanzen meiden: einem nackten Spalt in einer Klippe, den ganzen Tag von der Sonne gebacken. Er verlangt nichts als diesen schmalen Halt und bricht dann jeden Frühling in ziegelroter Blüte aus – eine kurze, lebhafte Darbietung einer Pflanze, die auf fast gar keinem Boden überlebt.",
+        "flower_meaning": "Zähigkeit",
+        "uses_list": [
+          {
+            "text": "Papierartige ziegelrote bis orangefarbene Blüten für Steingärten, Kiesbeete und Trockenmauern"
+          },
+          {
+            "text": "Offene, pollenreiche Blüten locken Bienen in sonnige, trockene Pflanzungen"
+          },
+          {
+            "text": "Schnittstiele ergeben kurzlebige, aber lebhafte Ergänzungen für lockere Arrangements"
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Zähigkeit",
+            "description": "Wurzelt in nackten Spalten sonnenverbrannter Kalksteinklippen, wo fast nichts anderes Fuß fassen kann, und braucht nur eine Prise Erde und volle Sonne."
+          },
+          {
+            "keyword": "Vergängliche Schönheit",
+            "description": "Wie die meisten Mohnarten hält jede papierartige Blüte nur wenige Tage, öffnet sich zerknittert aus der Knospe und zerfällt bald danach."
+          }
+        ],
+        "toxicity": {
+          "headline": "Toxizität unbekannt",
+          "active_compound_display": "Keine bekannt",
+          "notes_en": "Keine autoritative Toxizitätsübereinstimmung gefunden; als nicht berichtet behandelt (LLM-Schätzung ist nicht quellenverifiziert).",
+          "human": {
+            "exposure": "Es wird kein Expositionsweg berichtet.",
+            "effect": "Es wird keine toxische Wirkung berichtet.",
+            "note": "Die Toxizität für Menschen ist nicht gut dokumentiert; Vorsicht walten lassen, bis bestätigt."
+          },
+          "dog": {
+            "exposure": "Es wird kein Expositionsweg berichtet.",
+            "effect": "Es wird keine toxische Wirkung berichtet.",
+            "note": "Die Toxizität für Hunde ist nicht gut dokumentiert; Vorsicht walten lassen, bis bestätigt."
+          },
+          "cat": {
+            "exposure": "Es wird kein Expositionsweg berichtet.",
+            "effect": "Es wird keine toxische Wirkung berichtet.",
+            "note": "Die Toxizität für Katzen ist nicht gut dokumentiert; Vorsicht walten lassen, bis bestätigt."
           }
         }
       }

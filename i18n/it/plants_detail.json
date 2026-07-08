@@ -3,8 +3,8 @@
   "locale": "it",
   "source": {
     "resource": "plants_detail.json",
-    "sha256": "e7ad91cfc14c18ec6edfb9fc0e0f07c0c3c3724c1373e405c89d6cd2dc45ea7a",
-    "record_count": 1614
+    "sha256": "0260234865a3770f0eabd2f9d489507be375802679c7637b2d6860c26f20a533",
+    "record_count": 1621
   },
   "records": {
     "AAA0001": {
@@ -99249,6 +99249,374 @@
               "Salivazione eccessiva.",
               "Dolore addominale."
             ]
+          }
+        }
+      }
+    },
+    "AAA1616": {
+      "source_hash": "21681a795344600bd7844ac35ff028f9cf34519dfabf25aff02abf9f0a795b9d",
+      "fields": {
+        "common_name": "Erba di Santa Barbara",
+        "bloom_tip": "Questa pianta fiorisce in primavera, regalando bellissimi fiori gialli.",
+        "fruit_tip": "Il frutto di questa pianta è verde quando maturo ed è ottimo come erba aromatica e condimento.",
+        "description": "L'erba di Santa Barbara è una biennale bassa e resistente della famiglia delle Brassicaceae, coltivata per le foglie piccanti simili al crescione, che rimangono verdi e commestibili durante le gelate invernali. Originaria dell'Europa e dell'Asia occidentale, forma una rosetta di foglie profondamente lobate prima di emettere steli con piccoli fiori gialli a quattro petali in primavera. A differenza del vero crescione, prospera nel normale terreno da giardino anziché in acqua corrente, rendendola un facile sostituto per i giardinieri che desiderano insalate verdi fresche e speziate nei mesi freddi. I suoi stretti silique maturano eretti all'inizio dell'estate, e la raccolta regolare delle foglie esterne mantiene la rosetta produttiva per mesi.",
+        "history_text_short": "Chiamata così per Santa Barbara perché rimane verde nel cuore dell'inverno, questa resistente verdura della famiglia delle Brassicaceae è stata a lungo apprezzata dai giardinieri europei e coloniali americani come una delle poche insalate verdi fresche e ricche di vitamine disponibili nei mesi più freddi.",
+        "history_text_long": "La Barbarea deve il suo nome di genere, Barbarea, a Santa Barbara, patrona invocata contro le disgrazie improvvise e a lungo associata al cuore dell'inverno: nell'antica tradizione erboristica europea, la pianta rimaneva verde e raccoglibile intorno alla sua festa di dicembre, quando quasi nient'altro nell'orto lo faceva, e veniva raccolta come erba curativa per le ferite sotto l'antico nome herba Sanctae Barbarae. Quella stessa resistenza al freddo si rivelò preziosa per un motivo molto diverso secoli dopo. Molto prima delle serre o dei prodotti importati invernali, l'erba di Santa Barbara era apprezzata come una delle poche verdure a foglia che potevano essere raccolte fresche da un'aiuola all'aperto nel cuore dell'inverno e all'inizio della primavera, quando le diete pesanti di cibi conservati e salati lasciavano le famiglie a corto di vitamine fresche. I coloni europei portarono i suoi semi in Nord America, dove attecchì negli orti coloniali come sostituto del crescione, necessitando solo di terreno umido ordinario invece di un corso d'acqua. Il suo nome comune alternativo, crescione americano, risale a questo periodo, quando divenne una presenza familiare negli orti domestici lungo la costa orientale, apprezzato meno per l'eleganza che per il semplice e affidabile fatto che continuava a produrre una verdura pepata e ricca di vitamine quando quasi nient'altro cresceva.",
+        "name_origin": "Il nome del genere Barbarea onora Santa Barbara, poiché la pianta tradizionalmente rimaneva abbastanza verde da essere raccolta intorno alla sua festa di dicembre; il nome della specie verna è latino per 'di primavera', riferito alla sua fioritura primaverile precoce.",
+        "symbolism_story": "Il legame della Barbarea con Santa Barbara, patrona invocata per la protezione contro il pericolo improvviso, le conferiva una carica simbolica silenziosa nell'antica tradizione erboristica: una verdura che sopravviveva quando l'anno dell'orto sembrava finito diventava, per associazione, un piccolo emblema di resistenza e vigilanza attraverso le difficoltà. Più tardi, negli orti coloniali lontani da quella tradizione europea, mantenne un significato simile in termini più pratici, rappresentando l'intraprendenza di una famiglia che riusciva ancora a trovare qualcosa di fresco e nutriente sulla tavola nella parte più magra dell'inverno.",
+        "flower_meaning": "Resistenza",
+        "fragrance": {
+          "notes": "Le foglie rilasciano un aroma pepato, simile alla senape, quando vengono schiacciate o tagliate."
+        },
+        "uses_list": [
+          {
+            "text": "Foglie piccanti simili al crescione raccolte per insalate e cottura"
+          },
+          {
+            "text": "Tradizionalmente apprezzata come verdura invernale precoce per la guarigione delle ferite e ricca di vitamine"
+          },
+          {
+            "text": "I fiori primaverili forniscono nettare precoce per gli impollinatori"
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Resistenza",
+            "description": "La sua capacità di rimanere verde e commestibile attraverso gelo e neve l'ha resa un simbolo di silenziosa resistenza nelle tradizioni dei giardini a clima freddo."
+          },
+          {
+            "keyword": "Protezione",
+            "description": "Chiamata per Santa Barbara, patrona contro le disgrazie improvvise, la pianta portava antiche associazioni con protezione e cura nelle difficoltà."
+          }
+        ],
+        "toxicity": {
+          "headline": "Nessuna tossicità segnalata",
+          "active_compound_display": "Nessuno segnalato",
+          "notes_en": "Nessuna corrispondenza tossicologica autorevole trovata; trattata come non segnalata (stima LLM non verificata da fonti).",
+          "human": {
+            "exposure": "Nessuna via di esposizione segnalata.",
+            "effect": "Nessun effetto tossico segnalato.",
+            "note": "In questo catalogo non è segnalata tossicità per gli umani; ciò non è prova che la pianta sia commestibile o innocua."
+          },
+          "dog": {
+            "exposure": "Nessuna via di esposizione segnalata.",
+            "effect": "Nessun effetto tossico segnalato.",
+            "note": "In questo catalogo non è segnalata tossicità per i cani; ciò non è prova che la pianta sia commestibile o innocua."
+          },
+          "cat": {
+            "exposure": "Nessuna via di esposizione segnalata.",
+            "effect": "Nessun effetto tossico segnalato.",
+            "note": "In questo catalogo non è segnalata tossicità per i gatti; ciò non è prova che la pianta sia commestibile o innocua."
+          }
+        }
+      }
+    },
+    "AAA1617": {
+      "source_hash": "abb71c64447c2b229ae340c696612f8510d4deba813c0699f3a1fe06a56c57c0",
+      "fields": {
+        "common_name": "Fimbristylis autumnalis",
+        "description": "Fimbristylis autumnalis è una piccola ciperacea annuale cespitosa con uno degli areali più ampi del suo genere, nativa delle praterie umide e delle rive degli stagni dell'America settentrionale orientale e, indipendentemente, dell'Asia orientale dal Giappone e Corea alla Cina e Taiwan. Foglie sottili, simili a erba, si elevano per 5-30 cm da un ciuffo a base molle, sormontate da grappoli lassamente ramificati di minuscole spighette bruno-verdastre circondate da delicate brattee sfrangiate, la frangia che dà il nome al genere. Predilige terreni umidi, sabbiosi, torbosi o limosi – stillicidi, fossi e margini di stagni dove i livelli dell'acqua salgono e scendono durante l'anno – fiorisce dalla fine dell'estate all'autunno, la stagione registrata nel suo stesso epiteto. Rapida a colonizzare il terreno nudo e umido, è adatta per giardini pluviali e piantagioni di zone umide autoctone che desiderano un accento tessutale sottile piuttosto che una fioritura vistosa.",
+        "history_text_short": "Chiamata per la sua fioritura autunnale, Fimbristylis autumnalis è una piccola ciperacea filiforme che si trova su entrambi i lati del Pacifico – rive di stagni dal Maine al Texas e zone umide in Giappone, Corea, Cina e Taiwan. I suoi grappoli di fiori sfrangiati hanno dato il nome al genere Fimbristylis, e la sua capacità di spuntare su terreno nudo e umido fluttuante fa sì che i botanici la leggano come un indicatore vivente dell'acqua di una riva.",
+        "history_text_long": "Fimbristylis autumnalis appartiene a Fimbristylis, un grande genere di ciperacee il cui nome deriva dal latino fimbriae, che significa frangia, per le delicate brattee sfrangiate che circondano ogni grappolo di fiori. L'epiteto specifico autumnalis significa semplicemente 'd'autunno', segnando la finestra di fine stagione, da agosto a ottobre, in cui le sue spighette filiformi si aprono finalmente lungo le rive degli stagni e i fossi stillicidi che chiama casa. I botanici europei collocarono inizialmente la pianta nel più antico genere di ciperacee Scirpus durante il XVIII secolo; quando Georg Roemer e Josef Schultes revisionarono le Cyperaceae all'inizio del 1800 per la loro edizione di Systema Vegetabilium, la spostarono in Fimbristylis, dove è rimasta da allora. Il suo areale è insolitamente diviso per una ciperacea delle sue dimensioni: una popolazione si estende lungo l'America settentrionale orientale dal Maine al Texas, un'altra attraverso Giappone, Corea, Cina e Taiwan, e i botanici giapponesi la conoscono con il loro nome, Himehira-tentsuki, nello stesso gruppo tentsuki (Fimbristylis) delle altre ciperacee sfrangiate della regione. In natura è una pianta di margini e luoghi intermedi: il bordo fangoso di uno stagno che si abbassa durante un'estate secca, un fosso stradale, uno stillicidio alla base di un pendio sabbioso. Poiché germina rapidamente su terreno nudo e saturo e poi fiorisce e produce semi in una singola stagione, i botanici la leggono come un indicatore di margini umidi esposti e fluttuanti piuttosto che di acqua stabile. Questo stesso opportunismo l'ha resa rara al limite settentrionale del suo areale nordamericano – è monitorata come specie di interesse conservazionistico in Vermont – anche se rimane comune più a sud. Gli ecologi che studiano le comunità vegetali delle rive degli stagni usano la sua presenza o assenza per valutare quanto il livello dell'acqua di una riva salga e scenda ancora con le stagioni, un piccolo ma significativo segnale della salute delle zone umide.",
+        "name_origin": "Dal latino fimbriae, 'frangia', per le brattee sfrangiate che circondano ogni grappolo di fiori, più il greco stylos, 'stilo/colonna' – e autumnalis, 'd'autunno', per la sua fioritura di fine stagione.",
+        "symbolism_story": "Fimbristylis autumnalis non chiede mai molto: il terreno nudo e saturo è un'opportunità, non un ostacolo. Germina velocemente sul fango che si asciuga di una riva di stagno che si ritira, fiorisce entro settimane e produce semi prima che il terreno si allaghi di nuovo la primavera successiva – un piccolo ciclo annuale di arrivo, fioritura e rinnovamento ripetuto sullo stesso margine mutevole ogni anno.",
+        "flower_meaning": "Resilienza",
+        "uses_list": [
+          {
+            "text": "Colonizza rive umide nude e fornisce copertura nell'habitat di zone umide stagionali"
+          },
+          {
+            "text": "Aggiunge una tessitura fine, simile a erba, a giardini pluviali e piantagioni autoctone ai bordi di stagni"
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Resilienza",
+            "description": "Spunta velocemente su terreno nudo e saturo d'acqua che la maggior parte delle piante evita, poi resiste all'asciugatura di una riva che si ritira ogni estate."
+          },
+          {
+            "keyword": "Rinnovamento",
+            "description": "Come annuale, completa il suo intero ciclo vitale in una stagione, parte della prima ondata di verde a reclamare i margini umidi fangosi disturbati."
+          }
+        ],
+        "toxicity": {
+          "headline": "Nessuna tossicità segnalata",
+          "active_compound_display": "Nessuna segnalata",
+          "notes_en": "Nessuna corrispondenza di tossicità autorevole trovata; trattata come non segnalata (la stima LLM non è verificata da fonti).",
+          "human": {
+            "exposure": "Non è riportata alcuna via di esposizione.",
+            "effect": "Non è riportato alcun effetto tossico.",
+            "note": "In questo catalogo non è riportata tossicità per gli umani; ciò non prova che la pianta sia commestibile o innocua."
+          },
+          "dog": {
+            "exposure": "Non è riportata alcuna via di esposizione.",
+            "effect": "Non è riportato alcun effetto tossico.",
+            "note": "In questo catalogo non è riportata tossicità per i cani; ciò non prova che la pianta sia commestibile o innocua."
+          },
+          "cat": {
+            "exposure": "Non è riportata alcuna via di esposizione.",
+            "effect": "Non è riportato alcun effetto tossico.",
+            "note": "In questo catalogo non è riportata tossicità per i gatti; ciò non prova che la pianta sia commestibile o innocua."
+          }
+        }
+      }
+    },
+    "AAA1618": {
+      "source_hash": "f3b16fe757d025cbd71c1b8c396426552ca54e9089a0fb5d5df0e610c4ff8ae2",
+      "fields": {
+        "common_name": "Fimbristylis squarrosa",
+        "description": "La Fimbristylis squarrosa è una delicata ciperacea annuale cespitosa originaria delle regioni tropicali e subtropicali del Vecchio Mondo, dal Caucaso attraverso l'Asia meridionale e orientale fino al Giappone centrale. I fusti sottili, con radici fibrose, raggiungono solo 20-40 cm, ciascuno sormontato da piccole spighette lanceolate di colore verde-brunastro, le cui squame portano una caratteristica punta a setola incurvata verso l'esterno. Predilige sabbia o limo umidi in terreni bassi, aperti e disturbati – radure, campi e altri luoghi umidi e soleggiati stagionalmente – e ha un'abitudine infestante e opportunistica tipica del suo genere. Al di fuori del suo areale nativo è essenzialmente sconosciuta in coltivazione; se coltivata, appartiene a una collezione specializzata di graminacee native o ciperacee marginali piuttosto che a un bordo comune, apprezzata per la sua consistenza fine e sottile più che per qualsiasi esposizione di fioritura.",
+        "history_text_short": "La Fimbristylis squarrosa è comune nei campi umidi dal Caucaso al Giappone, ma è apparsa solo una volta in Nord America: un singolo esemplare raccolto da un cumulo di terreno di zavorra di una nave scaricato a Camden, New Jersey, nel 1865. I botanici citano ancora quel ritrovamento solitario come un classico 'ballast waif' – una pianta straniera germogliata brevemente da terra importata, poi scomparsa.",
+        "history_text_long": "La Fimbristylis squarrosa appartiene a un genere che il botanico danese Martin Vahl stabilì formalmente nel 1805, raggruppando ciperacee i cui grappoli di fiori sono circondati da delicate squame sfrangiate a setola – le fimbrie che danno il nome al genere. Originaria del Vecchio Mondo dal Caucaso al Giappone, è stata registrata solo una volta nel continente nordamericano: un singolo esemplare raccolto dalla zavorra di una nave a Camden, New Jersey, nel 1865 dal botanico C. F. Parker. Nel diciannovesimo secolo, le navi che caricavano esportazioni americane svuotavano prima il terreno, la sabbia e la roccia portati come zavorra nel viaggio di andata, scaricandoli in cumuli lungo i moli di città portuali come Camden e Filadelfia. I semi sepolti in quel terreno straniero a volte germogliavano in brevi e inaspettate colonie di piante esotiche che i botanici locali chiamavano 'ballast waifs' – e per alcuni anni queste discariche divennero ambiti terreni di caccia per chiunque fosse curioso della flora di paesi lontani. La singola raccolta di Parker di Fimbristylis squarrosa era esattamente questo tipo di scoperta: una pianta che non era mai cresciuta spontanea vicino al New Jersey prima, e, per quanto ne sappiano i documenti, non vi è mai più cresciuta una volta sparito quel particolare cumulo di terreno di zavorra. I botanici citano ancora oggi il ritrovamento come un caso da manuale di 'waif' – presente una volta, legato a un atto umano specifico di importazione di terreno straniero, e scomparso una volta che quel terreno è stato disturbato o edificato. Nel suo vero areale attraverso l'Asia, al contrario, rimane una presenza ordinaria, sebbene facilmente trascurabile, in radure umide e campi disturbati.",
+        "name_origin": "Dal latino fimbriae, 'frangia', per le squame setolose che circondano ogni grappolo di fiori, più il greco stylos, 'stilo/colonna'; squarrosa è latino per 'ruvida, con punte delle squame divaricate', che descrive la setola incurvata verso l'esterno su ogni squama floreale.",
+        "symbolism_story": "Per un breve momento nel 1865, la Fimbristylis squarrosa crebbe dove non era mai cresciuta prima: un cumulo di terreno di zavorra importato scaricato su un molo del New Jersey, a metà mondo dal suo areale nativo. Un singolo botanico la trovò, la pressò e la registrò – e poi il terreno scomparve, e così la pianta. Rimane un piccolo emblema di quanto brevemente un seme straniero possa attecchire prima che il luogo che lo ha portato lì scompaia.",
+        "flower_meaning": "Impermanenza",
+        "uses_list": [
+          {
+            "text": "Colonizza terreno nudo, umido e disturbato nel suo areale nativo asiatico"
+          },
+          {
+            "text": "Occasionalmente coltivata in collezioni specializzate di ciperacee per la sua consistenza fine e sottile"
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Impermanenza",
+            "description": "La sua unica registrazione nordamericana proveniva da un singolo cumulo di terreno di zavorra di una nave nel 1865 e scomparve una volta che quel terreno fu disturbato, mai più vista spontanea nella regione."
+          },
+          {
+            "keyword": "Adattabilità",
+            "description": "Prospera in un vasto areale nativo di terreno umido e disturbato dal Caucaso al Giappone, ovunque si apra brevemente terreno nudo e umido."
+          }
+        ],
+        "toxicity": {
+          "headline": "Nessuna tossicità segnalata",
+          "active_compound_display": "Nessuno segnalato",
+          "notes_en": "Nessuna corrispondenza di tossicità autorevole trovata; trattata come non segnalata (la stima LLM non è verificata dalla fonte).",
+          "human": {
+            "exposure": "Nessuna via di esposizione segnalata.",
+            "effect": "Nessun effetto tossico segnalato.",
+            "note": "In questo catalogo non è segnalata tossicità per gli umani; ciò non è prova che la pianta sia commestibile o innocua."
+          },
+          "dog": {
+            "exposure": "Nessuna via di esposizione segnalata.",
+            "effect": "Nessun effetto tossico segnalato.",
+            "note": "In questo catalogo non è segnalata tossicità per i cani; ciò non è prova che la pianta sia commestibile o innocua."
+          },
+          "cat": {
+            "exposure": "Nessuna via di esposizione segnalata.",
+            "effect": "Nessun effetto tossico segnalato.",
+            "note": "In questo catalogo non è segnalata tossicità per i gatti; ciò non è prova che la pianta sia commestibile o innocua."
+          }
+        }
+      }
+    },
+    "AAA1619": {
+      "source_hash": "15f343ccb752902aae842a5e09d71ab5e528ab2367b97647abb4df88376bed57",
+      "fields": {
+        "common_name": "Fimbristylis vahlii",
+        "description": "La Fimbristylis vahlii è una minuscola ciperacea annuale, una delle più piccole del suo genere, che forma delicati cespi alti solo 4-15 cm da foglie sottili e arricciate. I suoi steli filiformi portano ciascuno una manciata di piccole spighette appuntite avvolte in brattee lunghe e attorcigliate, conferendo all'intera pianta una consistenza fine e vaporosa piuttosto che un aspetto vistoso. Originaria degli Stati Uniti meridionali, del Messico e dell'America centrale, e diffusa fino a Brasile, Perù e Venezuela, cresce in terreni umidi, sabbiosi e stagionalmente bagnati - bordi di stagni, fossi stradali e campi bassi che si allagano e si asciugano durante l'anno. Facile da trascurare e senza richiedere altro che terreno costantemente umido, funziona meglio in piantagioni di zone umide autoctone o in giardini naturalistici di ghiaia e sabbia dove la sua fine abitudine filiforme viene letta come consistenza piuttosto che come fiore focale.",
+        "history_text_short": "Chiamata così in onore di Martin Vahl, il botanico allievo di Linneo che fondò il genere Fimbristylis nel 1805, questa minuscola ciperacea annuale cresce alta appena un palmo su terreni umidi e sabbiosi dagli Stati Uniti meridionali al Perù e al Brasile. Lamarck la chiamò in onore di Vahl prima che fosse inserita nel genere che Vahl stesso aveva creato.",
+        "history_text_long": "La Fimbristylis vahlii porta il nome di Martin Vahl, un botanico danese che studiò sotto Carl Linneo a Copenaghen e Uppsala prima di diventare professore di botanica all'Università di Copenaghen. Nel 1805 Vahl descrisse formalmente il genere Fimbristylis stesso, riunendo un gruppo sparso di ciperacee con brattee frangiate sotto un unico nome. Questa particolare specie era stata descritta per la prima volta da Jean-Baptiste Lamarck, che onorò Vahl nell'epiteto; quando il botanico tedesco Johann Heinrich Friedrich Link spostò poi la pianta in Fimbristylis, essa finì classificata all'interno del genere che il suo stesso omonimo aveva fondato. In campo è una pianta modesta di terreni umidi e aperti del Nuovo Mondo - margini sabbiosi di stagni in Florida e Texas, zone umide stagionali attraverso Messico e America centrale, pianure umide fino a sud del Perù e del Brasile. Poiché è una pianta annuale alta solo pochi centimetri, raramente attira l'attenzione accanto a piante palustri più alte, e gran parte di ciò che è registrato su di essa proviene da campioni d'erbario raccolti da rilevamenti floristici regionali piuttosto che da tradizione da giardino o popolare. Questa storia tranquilla e operosa - una pianta definita più dall'attenta classificazione dei tassonomi che dall'uso umano - è essa stessa parte di ciò che rende la Fimbristylis vahlii degna di essere conosciuta: una piccola ciperacea facilmente trascurabile che porta comunque il nome dell'uomo che ha dato una casa a tutto il suo genere.",
+        "name_origin": "Chiamata così in onore di Martin Vahl (1749-1804), il botanico danese e allievo di Linneo che istituì il genere Fimbristylis nel 1805; Lamarck lo onorò per primo con l'epiteto specifico vahlii prima che la pianta fosse poi spostata nel genere di Vahl.",
+        "symbolism_story": "La Fimbristylis vahlii non cerca mai di distinguersi. Si alza appena un palmo sopra la sabbia umida, mette le sue piccole spighette frangiate e scompare di nuovo in una stagione - il tipo di pianta che i botanici notano solo inginocchiandosi. Eppure porta il nome di Martin Vahl, che ha passato la sua carriera a ordinare proprio queste piccole e trascurate ciperacee nell'ordinato genere che ancora oggi le contiene.",
+        "flower_meaning": "Umiltà",
+        "uses_list": [
+          {
+            "text": "Copertura stagionale fine in habitat di stagni sabbiosi e zone umide"
+          },
+          {
+            "text": "Aggiunge una consistenza delicata e filiforme a giardini di ghiaia e zone umide autoctone"
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Umiltà",
+            "description": "Una pianta alta solo pochi centimetri, facile da oltrepassare, che porta comunque il nome del botanico che ha dato una casa a tutto il suo genere."
+          },
+          {
+            "keyword": "Persistenza",
+            "description": "Completa il suo intero ciclo vitale come una minuscola annuale su terreno che alternativamente si allaga e si asciuga, tornando dal seme ogni stagione umida."
+          }
+        ],
+        "toxicity": {
+          "headline": "Nessuna tossicità segnalata",
+          "active_compound_display": "Nessuna segnalata",
+          "notes_en": "Nessuna corrispondenza di tossicità autorevole trovata; trattata come non segnalata (la stima LLM non è verificata da fonti).",
+          "human": {
+            "exposure": "Non è riportata alcuna via di esposizione.",
+            "effect": "Non è riportato alcun effetto tossico.",
+            "note": "In questo catalogo non è riportata tossicità per gli umani; ciò non è prova che la pianta sia commestibile o innocua."
+          },
+          "dog": {
+            "exposure": "Non è riportata alcuna via di esposizione.",
+            "effect": "Non è riportato alcun effetto tossico.",
+            "note": "In questo catalogo non è riportata tossicità per i cani; ciò non è prova che la pianta sia commestibile o innocua."
+          },
+          "cat": {
+            "exposure": "Non è riportata alcuna via di esposizione.",
+            "effect": "Non è riportato alcun effetto tossico.",
+            "note": "In questo catalogo non è riportata tossicità per i gatti; ciò non è prova che la pianta sia commestibile o innocua."
+          }
+        }
+      }
+    },
+    "AAA1620": {
+      "source_hash": "1e67f6fa1029e54e7e929b4fdc5652d3abff1be42e65127c67451f0ac103910f",
+      "fields": {
+        "common_name": "Ginestrino sottile",
+        "description": "Il ginestrino sottile è una leguminosa perenne bassa e strisciante, strettamente imparentata con il ginestrino, ma con foglioline più sottili, simili ad aghi, e infiorescenze più rade di uno o tre fiori. Originario di Europa, Nordafrica e Asia occidentale, predilige prati umidi e praterie alluvionali, tollerando ristagni idrici e lieve salinità del suolo che mettono in difficoltà molte altre leguminose. I suoi allegri fiori gialli a forma di pisello sbocciano per tutta l'estate su steli sottili, attirando api e impollinatori. Le radici ospitano batteri azotofissatori, arricchendo silenziosamente il terreno, rendendolo una copertura del suolo resiliente e a bassa manutenzione per prati umidi e aree naturalizzate.",
+        "history_text_short": "Si ritiene che sia arrivato in Argentina come clandestino in semi di erba medica importati intorno al 1900; questo modesto loto dai fiori gialli prosperava dove il suolo salino e soggetto a inondazioni della pampa sconfiggeva altre leguminose, diventando una pianta da pascolo resiliente e apprezzata per i bovini.",
+        "history_text_long": "Il capitolo più importante del ginestrino sottile si è svolto lontano dal suo areale nativo mediterraneo e temperato eurasiatico. Intorno alla svolta del ventesimo secolo, i semi di questa modesta leguminosa arrivarono in Argentina, molto probabilmente mescolati a spedizioni di semi di erba medica e altri foraggi portati da immigrati europei che colonizzavano le vaste praterie a sud di Buenos Aires. In gran parte del mondo rimase un'oscura pianta da strada, ma nella Pampa Deprimida, le pianure basse e stagionalmente allagate dove i terreni salini e impregnati d'acqua sconfiggevano le leguminose da pascolo comuni, il loto tenue trovò una nicchia che quasi nessun'altra pianta poteva riempire. Allevatori e agronomi notarono che dove l'erba medica e il trifoglio marcivano e morivano sotto l'acqua stagnante, questo piccolo loto sottile continuava a crescere, fissando azoto e nutrendo il bestiame durante le stagioni umide che un tempo significavano mesi di pascolo scarso. Entro la metà del ventesimo secolo, gli scienziati agricoli argentini stavano attivamente selezionando e promuovendo varietà migliorate, e divenne una delle specie foraggere simbolo delle pampas allagate, rimodellando silenziosamente il modo in cui gli allevatori gestivano milioni di ettari di praterie marginali. Quello che iniziò come un clandestino accidentale in sacchi di semi importati finì per diventare un pilastro agricolo, apprezzato meno per la bellezza che per la pura resilienza in condizioni che distruggevano tutto il resto.",
+        "name_origin": "Il nome del genere Lotus è un'antica parola greca un tempo applicata genericamente a piante simili al trifoglio e al loto, mentre il nome della specie tenuis è latino per 'snello' o 'sottile', descrivendo le foglioline strette che distinguono questa pianta dal suo parente dalle foglie più larghe, il ginestrino.",
+        "symbolism_story": "Il ginestrino sottile non porta con sé l'antica mitologia legata ai fiori più appariscenti, ma ha guadagnato il suo peso simbolico in modo pratico: sopravvivendo dove piante da pascolo più ricche e celebrate non potevano. Per generazioni di allevatori nelle pianure allagate della pampa argentina, i suoi tappeti sottili dai fiori gialli sono diventati un silenzioso simbolo di resilienza e provvidenza, la prova che anche terreni marginali e impregnati d'acqua potevano ancora produrre abbondanza.",
+        "flower_meaning": "Resilienza",
+        "uses_list": [
+          {
+            "text": "Attira api e altri impollinatori con le fioriture estive"
+          },
+          {
+            "text": "Apprezzata leguminosa azotofissatrice per il foraggio del bestiame al pascolo"
+          },
+          {
+            "text": "Si naturalizza come copertura del suolo a bassa manutenzione in terreni umidi"
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Resilienza",
+            "description": "La sua capacità di prosperare in pascoli allagati e salini dove altre piante foraggere falliscono l'ha resa un emblema di silenziosa resilienza nella tradizione agricola."
+          },
+          {
+            "keyword": "Abbondanza",
+            "description": "Come leguminosa azotofissatrice che rinnova il terreno in cui cresce, è associata alla fertilità e all'abbondanza di pascolo."
+          }
+        ],
+        "toxicity": {
+          "headline": "Nessuna tossicità segnalata",
+          "active_compound_display": "Nessuno segnalato",
+          "notes_en": "Nessuna corrispondenza tossicologica autorevole trovata; trattata come non segnalata (la stima LLM non è verificata da fonti).",
+          "human": {
+            "exposure": "Non è segnalata alcuna via di esposizione.",
+            "effect": "Non è segnalato alcun effetto tossico.",
+            "note": "Non è segnalata tossicità per gli esseri umani in questo catalogo; ciò non prova che la pianta sia commestibile o innocua."
+          },
+          "dog": {
+            "exposure": "Non è segnalata alcuna via di esposizione.",
+            "effect": "Non è segnalato alcun effetto tossico.",
+            "note": "Non è segnalata tossicità per i cani in questo catalogo; ciò non prova che la pianta sia commestibile o innocua."
+          },
+          "cat": {
+            "exposure": "Non è segnalata alcuna via di esposizione.",
+            "effect": "Non è segnalato alcun effetto tossico.",
+            "note": "Non è segnalata tossicità per i gatti in questo catalogo; ciò non prova che la pianta sia commestibile o innocua."
+          }
+        }
+      }
+    },
+    "AAA1621": {
+      "source_hash": "d81769c333fae5eee2e883d7591be91a43562529520515692a3db87d0cba4970",
+      "fields": {
+        "common_name": "Papavero del Galles",
+        "description": "Il Papavero del Galles è una perenne cespitosa di terreni umidi, rocciosi e ombreggiati dell'Europa occidentale, dalle isole britanniche a sud fino alla penisola iberica. Fiori cartacei a quattro petali, dal giallo chiaro all'arancione tenue, ondeggiano su steli sottili e pelosi sopra un fogliame fresco, profondamente inciso, simile a felce, che fiorisce dalla tarda primavera all'estate e si auto-semina liberamente una volta stabilito. Le piante formano ciuffi sciolti alti 30-60 cm, a proprio agio sia ai margini di un bosco, in una fessura rocciosa ombreggiata o su un vecchio muro di pietra. Poco esigente in terreno ricco di humus e costantemente umido, felice in mezz'ombra dove molti papaveri languirebbero, si naturalizza facilmente nei giardini cottage e boschivi, spuntando spontaneamente anno dopo anno una volta trovato un posto che gli piace.",
+        "history_text_short": "Linneo chiamò per la prima volta questo papavero per il Galles nel 1753, dopo la regione dove fu registrato crescere spontaneo in pietra umida e ombreggiata. In seguito separato nel suo genere, Meconopsis, divenne il fiore della contea di Montgomeryshire e, dal 2006, l'emblema del partito Plaid Cymru - un piccolo fiore selvatico giallo che porta una sorprendente quantità di identità nazionale.",
+        "history_text_long": "Il Papavero del Galles fu descritto per la prima volta da Carlo Linneo nel 1753, che lo classificò semplicemente come un altro papavero, Papaver cambricum - cambricum è latino per 'del Galles', la regione dove la pianta fu registrata per la prima volta allo stato selvatico nelle isole britanniche dall'erborista del XVII secolo John Parkinson. Nel 1814 il botanico francese Louis Viguier esaminò più attentamente la sua caratteristica capsula seminale pelosa a quattro parti e lo separò in un nuovo genere, Meconopsis, anche se il nome più vecchio Papaver cambricum ha continuato a circolare insieme da allora. In natura cresce in terreni umidi, ombreggiati e rocciosi attraverso gli altopiani dell'Europa occidentale, dal Galles, Inghilterra e Irlanda a sud attraverso la Francia fino a Spagna e Portogallo - sempre nei margini più freschi e umidi dove l'ombra profonda e la pietra impediscono al terreno di seccarsi. Nel Galles stesso il fiore divenne qualcosa di più di un fiore selvatico: è il fiore della contea di Montgomeryshire, i suoi petali giallo brillante letti come emblema di continuità e ricordo, e dal 2006 un papavero del Galles stilizzato funge da logo del partito politico Plaid Cymru, riecheggiando il papavero rosso del ricordo mentre segna una identità distintamente gallese. La credenza popolare più antica attribuiva al fiore un tipo più gentile di protezione, si diceva allontanasse gli spiriti maliziosi dalla casa e dal giardino - una reputazione modesta per una pianta che si semina in ogni fessura umida e angolo ombreggiato che riesce a raggiungere, poi persiste silenziosamente lì per generazioni.",
+        "name_origin": "Cambricum è latino per 'del Galles' (da Cambria, il nome latino del Galles), riflettendo dove la pianta fu registrata per la prima volta allo stato selvatico nelle isole britanniche; Linneo la chiamò Papaver cambricum nel 1753 prima che fosse poi separata nel suo genere, Meconopsis.",
+        "symbolism_story": "Un modesto fiore selvatico giallo delle umide valli gallesi è arrivato, nei secoli, a rappresentare qualcosa di più grande di sé: l'emblema floreale di una contea, il logo di un partito politico e, nell'antica credenza popolare, un piccolo guardiano contro il malanno al cancello del giardino. Il Papavero del Galles non chiede altro che ombra e pietra umida, ma continua a tornare, auto-seminato, negli stessi angoli tranquilli anno dopo anno.",
+        "flower_meaning": "Ricordo",
+        "uses_list": [
+          {
+            "text": "Fioriture cartacee gialle o arancioni per bordure ombreggiate, margini boschivi e muri di pietra"
+          },
+          {
+            "text": "Fiori aperti e ricchi di polline attirano le api negli angoli ombreggiati del giardino"
+          },
+          {
+            "text": "Steli recisi di breve durata portano colore vivace in composizioni informali e casuali"
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Ricordo",
+            "description": "Fiore della contea di Montgomeryshire e, dal 2006, emblema di Plaid Cymru - un piccolo fiore selvatico che porta identità e continuità gallese."
+          },
+          {
+            "keyword": "Protezione",
+            "description": "Nell'antica credenza popolare gallese, si diceva che il papavero allontanasse gli spiriti maliziosi dalla casa e dal giardino."
+          }
+        ],
+        "toxicity": {
+          "headline": "Tossicità sconosciuta",
+          "active_compound_display": "Nessuno segnalato",
+          "notes_en": "Nessuna corrispondenza di tossicità autorevole trovata; trattato come non segnalato (stima LLM non verificata da fonti).",
+          "human": {
+            "exposure": "Non è segnalata alcuna via di esposizione.",
+            "effect": "Non è segnalato alcun effetto tossico.",
+            "note": "La tossicità per gli umani non è ben documentata; usare cautela fino a verifica."
+          },
+          "dog": {
+            "exposure": "Non è segnalata alcuna via di esposizione.",
+            "effect": "Non è segnalato alcun effetto tossico.",
+            "note": "La tossicità per i cani non è ben documentata; usare cautela fino a verifica."
+          },
+          "cat": {
+            "exposure": "Non è segnalata alcuna via di esposizione.",
+            "effect": "Non è segnalato alcun effetto tossico.",
+            "note": "La tossicità per i gatti non è ben documentata; usare cautela fino a verifica."
+          }
+        }
+      }
+    },
+    "AAA1622": {
+      "source_hash": "2eb4de02c961955a00eafa8f3255fd47d4ffea423fdea4a2ab29cf34905ab6c6",
+      "fields": {
+        "common_name": "Papavero spagnolo",
+        "bloom_tip": "Questa pianta fiorisce in primavera, con un periodo di fioritura breve e bellissimo.",
+        "description": "Il Papavero spagnolo è un papavero perenne di breve durata originario dei pendii rocciosi montuosi della Spagna meridionale e del Marocco, dove infila le radici nelle fessure delle scogliere calcaree a 700-1600 metri di altitudine. Fiori cartacei e increspati nelle tonalità dal rosso mattone all'arancione tenue, larghi 3-4,5 cm con antere giallo-oro, si aprono sopra una rosetta bassa di foglie pelose, profondamente lobate, di colore grigio-verde, dalla tarda primavera all'estate. Le piante formano cespi sciolti e ramificati alti 15-45 cm e si auto-seminano prontamente una volta stabilite. Datele pieno sole e terreno povero, affilato e ben drenato – un letto di ghiaia, una fessura in un giardino roccioso o un muro a secco – e tornerà anno dopo anno dai suoi stessi semi sparsi, senza bisogno di quasi nessuna cura oltre a un buon drenaggio.",
+        "history_text_short": "Il nome scientifico del Papavero spagnolo significa 'spaccaroccia', per il modo in cui si insemina nelle fessure delle scogliere calcaree nude sopra l'Andalusia e il Marocco. Il botanico svizzero Edmond Boissier e Georges Reuter lo descrissero nel 1852 da un esemplare raccolto durante una delle spedizioni autofinanziate e accidentate di Boissier attraverso la Sierra de Ronda, che per prima aprì la flora montana della Spagna meridionale alla scienza europea.",
+        "history_text_long": "Il Papavero spagnolo prende il suo nome scientifico, rupifragum, dal latino rupes (roccia) e frangere (rompere) – 'spaccaroccia' – per il modo in cui si insemina in strette fessure nelle scogliere calcaree nude. Fu descritto formalmente nel 1852 dal botanico svizzero Edmond Boissier e dal suo collaboratore Georges Reuter, che avevano trascorso il 1849 viaggiando attraverso le montagne della Spagna meridionale e del Marocco in una delle numerose spedizioni botaniche autofinanziate che Boissier fece nella penisola iberica e in Nord Africa. Il loro esemplare tipo proveniva dalla Serrania de Ronda, una catena calcarea in Andalusia, e la specie fu pubblicata tra dozzine di piante appena riconosciute nel loro Pugillus Plantarum Novarum Africae Borealis Hispaniaeque Australis, un'indagine latina della flora nordafricana e spagnola meridionale precedentemente non descritta. Le spedizioni di Boissier, intraprese a sue spese e successivamente distillate nel suo monumentale Voyage botanique dans le midi de l'Espagne, aprirono per la prima volta la flora montana dell'Andalusia alla botanica europea, e il Papavero spagnolo rimane uno degli specialisti delle fessure rocciose che i suoi studi portarono alla luce. Nelle sue scogliere native sopravvive su quasi nulla: una manciata di terreno incastrata in una fessura, pieno sole cocente e la pioggia che la parete rocciosa convoglia verso le sue radici. Introdotto nei giardini come papavero da giardino roccioso e letto di ghiaia proprio per quella robustezza, è poi sfuggito alla coltivazione mite in alcune aree al di fuori del suo areale nativo, cercando ancora lo stesso terreno magro e sassoso che colonizzò per la prima volta nella Sierra de Ronda.",
+        "name_origin": "Dal latino rupes, 'roccia', e frangere, 'rompere/spaccare' – 'spaccaroccia', per il modo in cui si insemina in fessure nude nelle scogliere calcaree; descritto nel 1852 da Edmond Boissier e Georges Reuter da un esemplare raccolto nella Serrania de Ronda in Spagna.",
+        "symbolism_story": "Il Papavero spagnolo si stabilisce nell'unico posto che altre piante evitano: una fessura nuda in una parete rocciosa, cotta tutto il giorno dal sole. Non chiede altro che quella stretta nicchia, poi esplode in fioriture rosso mattone ogni primavera – uno spettacolo breve e vivido da una pianta che sopravvive su quasi nessun suolo.",
+        "flower_meaning": "Tenacia",
+        "uses_list": [
+          {
+            "text": "Fiori cartacei dal rosso mattone all'arancione per giardini rocciosi, letti di ghiaia e muri a secco"
+          },
+          {
+            "text": "Fiori aperti e ricchi di polline attirano le api in piantagioni soleggiate e asciutte"
+          },
+          {
+            "text": "Gli steli recisi danno contributi di breve durata ma vividi a composizioni informali"
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Tenacia",
+            "description": "Radica in fessure nude in scogliere calcaree assolate dove quasi nient'altro può attecchire, necessitando solo di un pizzico di terra e pieno sole."
+          },
+          {
+            "keyword": "Bellezza fugace",
+            "description": "Come la maggior parte dei papaveri, ogni fiore cartaceo dura solo pochi giorni, aprendosi increspato dal bocciolo e disfacendosi poco dopo."
+          }
+        ],
+        "toxicity": {
+          "headline": "Tossicità sconosciuta",
+          "active_compound_display": "Nessuno segnalato",
+          "notes_en": "Nessuna corrispondenza di tossicità autorevole trovata; trattato come non segnalato (la stima LLM non è verificata da fonti).",
+          "human": {
+            "exposure": "Non è segnalata alcuna via di esposizione.",
+            "effect": "Non è segnalato alcun effetto tossico.",
+            "note": "La tossicità per gli umani non è ben documentata; usare cautela fino a verifica."
+          },
+          "dog": {
+            "exposure": "Non è segnalata alcuna via di esposizione.",
+            "effect": "Non è segnalato alcun effetto tossico.",
+            "note": "La tossicità per i cani non è ben documentata; usare cautela fino a verifica."
+          },
+          "cat": {
+            "exposure": "Non è segnalata alcuna via di esposizione.",
+            "effect": "Non è segnalato alcun effetto tossico.",
+            "note": "La tossicità per i gatti non è ben documentata; usare cautela fino a verifica."
           }
         }
       }

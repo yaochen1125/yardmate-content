@@ -3,8 +3,8 @@
   "locale": "fr",
   "source": {
     "resource": "plants_detail.json",
-    "sha256": "e7ad91cfc14c18ec6edfb9fc0e0f07c0c3c3724c1373e405c89d6cd2dc45ea7a",
-    "record_count": 1614
+    "sha256": "0260234865a3770f0eabd2f9d489507be375802679c7637b2d6860c26f20a533",
+    "record_count": 1621
   },
   "records": {
     "AAA0001": {
@@ -99235,6 +99235,374 @@
               "Salivation excessive.",
               "Douleurs abdominales."
             ]
+          }
+        }
+      }
+    },
+    "AAA1616": {
+      "source_hash": "21681a795344600bd7844ac35ff028f9cf34519dfabf25aff02abf9f0a795b9d",
+      "fields": {
+        "common_name": "Barbarée",
+        "bloom_tip": "Cette plante fleurit au printemps, offrant de magnifiques fleurs jaunes.",
+        "fruit_tip": "Le fruit de cette plante est vert à maturité et est excellent comme herbe aromatique et assaisonnement.",
+        "description": "La barbarée est une bisannuelle basse et rustique de la famille des moutardes, cultivée pour ses feuilles poivrées rappelant le cresson, qui restent vertes et comestibles pendant les gelées hivernales. Originaire d'Europe et d'Asie occidentale, elle forme une rosette de feuilles profondément lobées avant de produire des tiges de petites fleurs jaunes à quatre pétales au printemps. Contrairement au vrai cresson, elle prospère dans un sol de jardin ordinaire plutôt que dans l'eau courante, ce qui en fait un substitut facile pour les jardiniers souhaitant des salades vertes fraîches et épicées pendant les mois froids. Ses siliques étroites mûrissent dressées au début de l'été, et une cueillette régulière des feuilles extérieures maintient la rosette productive pendant des mois.",
+        "history_text_short": "Nommée d'après sainte Barbe car elle reste verte pendant les profondeurs de l'hiver, cette rustique verdure de la famille des moutardes a longtemps été prisée par les jardiniers européens et américains coloniaux comme l'un des rares légumes-feuilles frais et riches en vitamines disponibles pendant les mois les plus froids.",
+        "history_text_long": "La barbarée doit son nom de genre, Barbarea, à sainte Barbe, patronne invoquée contre les malheurs soudains et longtemps associée aux profondeurs de l'hiver : dans la tradition herbale européenne, la plante restait verte et cueillable autour de sa fête en décembre, alors que presque rien d'autre dans le jardin ne l'était, et elle était récoltée comme plante cicatrisante sous l'ancien nom herba Sanctae Barbarae. Cette même rusticité face au froid s'est avérée précieuse pour une raison très différente des siècles plus tard. Bien avant les serres ou les produits d'hiver importés, la barbarée était prisée comme l'un des rares légumes-feuilles pouvant être récoltés frais dans un jardin ouvert en plein hiver et au début du printemps, lorsque les régimes alimentaires alourdis par les aliments conservés et salés laissaient les ménages à court de vitamines fraîches. Les colons européens ont apporté ses graines en Amérique du Nord, où elle s'est implantée dans les potagers coloniaux comme substitut du cresson, ne nécessitant qu'un sol humide ordinaire au lieu d'un ruisseau. Son autre nom commun, cresson d'Amérique, date de cette période, où elle est devenue un incontournable des potagers familiaux le long de la côte Est, appréciée moins pour son élégance que pour le fait simple et fiable qu'elle continuait à produire un vert poivré et riche en vitamines quand presque rien d'autre ne poussait.",
+        "name_origin": "Le nom de genre Barbarea honore sainte Barbe, car la plante restait traditionnellement assez verte pour être cueillie autour de sa fête en décembre ; le nom d'espèce verna est latin pour 'du printemps', faisant référence à sa floraison printanière précoce.",
+        "symbolism_story": "Le lien de la barbarée avec sainte Barbe, patronne invoquée pour la protection contre le danger soudain, lui a conféré une charge symbolique discrète dans la tradition herbale ancienne : une verdure qui survivait quand l'année de jardin semblait à sa fin devenait, par association, un petit emblème d'endurance et de vigilance face à l'adversité. Plus tard, dans les potagers coloniaux loin de cette tradition européenne, elle a conservé une signification similaire en termes plus pratiques, représentant la débrouillardise d'un ménage qui pouvait encore trouver quelque chose de frais et nourrissant sur la table pendant la partie la plus maigre de l'hiver.",
+        "flower_meaning": "Endurance",
+        "fragrance": {
+          "notes": "Les feuilles dégagent un arôme poivré, semblable à celui de la moutarde, lorsqu'on les froisse ou les coupe."
+        },
+        "uses_list": [
+          {
+            "text": "Feuilles poivrées rappelant le cresson, récoltées pour les salades et la cuisine"
+          },
+          {
+            "text": "Traditionnellement appréciée comme un vert d'hiver précoce, cicatrisant et riche en vitamines"
+          },
+          {
+            "text": "Les fleurs printanières fournissent un nectar précoce pour les pollinisateurs"
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Endurance",
+            "description": "Sa capacité à rester verte et comestible malgré le gel et la neige en a fait un symbole de discrète endurance dans les traditions jardinières des climats froids."
+          },
+          {
+            "keyword": "Protection",
+            "description": "Nommée d'après sainte Barbe, patronne contre les malheurs soudains, la plante portait d'anciennes associations de protection et de soin face à l'adversité."
+          }
+        ],
+        "toxicity": {
+          "headline": "Aucune toxicité signalée",
+          "active_compound_display": "Aucun signalé",
+          "notes_en": "Aucune correspondance de toxicité faisant autorité trouvée ; traitée comme non signalée (l'estimation LLM n'est pas vérifiée par une source).",
+          "human": {
+            "exposure": "Aucune voie d'exposition signalée.",
+            "effect": "Aucun effet toxique signalé.",
+            "note": "Aucune toxicité signalée pour les humains dans ce catalogue ; cela ne prouve pas que la plante est comestible ou inoffensive."
+          },
+          "dog": {
+            "exposure": "Aucune voie d'exposition signalée.",
+            "effect": "Aucun effet toxique signalé.",
+            "note": "Aucune toxicité signalée pour les chiens dans ce catalogue ; cela ne prouve pas que la plante est comestible ou inoffensive."
+          },
+          "cat": {
+            "exposure": "Aucune voie d'exposition signalée.",
+            "effect": "Aucun effet toxique signalé.",
+            "note": "Aucune toxicité signalée pour les chats dans ce catalogue ; cela ne prouve pas que la plante est comestible ou inoffensive."
+          }
+        }
+      }
+    },
+    "AAA1617": {
+      "source_hash": "abb71c64447c2b229ae340c696612f8510d4deba813c0699f3a1fe06a56c57c0",
+      "fields": {
+        "common_name": "Fimbristylis autumnalis",
+        "description": "Le Fimbristylis autumnalis est une petite laîche annuelle en touffe, à l'aire de répartition la plus vaste de son genre, originaire des prairies humides et des rives d'étangs de l'est de l'Amérique du Nord et, indépendamment, de l'Asie de l'Est, du Japon et de la Corée à la Chine et à Taïwan. De fines feuilles semblables à de l'herbe s'élèvent de 5 à 30 cm d'une touffe à base molle, surmontée de grappes lâchement ramifiées de minuscules épillets brun-vert entourés de délicates bractées frangées, la frange qui donne son nom latin au genre. Il affectionne les sols humides, sableux, tourbeux ou limoneux – suintements, fossés et bords d'étangs où le niveau d'eau monte et descend au fil de l'année – fleurissant de la fin de l'été à l'automne, la saison enregistrée dans son propre épithète. Rapide à coloniser les sols nus et humides, il convient aux jardins de pluie et aux plantations de zones humides indigènes recherchant un accent textural subtil plutôt qu'une floraison voyante.",
+        "history_text_short": "Nommé pour sa floraison automnale, le Fimbristylis autumnalis est une petite laîche filiforme que l'on trouve des deux côtés du Pacifique – rives d'étangs du Maine au Texas, et zones humides du Japon, de Corée, de Chine et de Taïwan. Ses grappes de fleurs frangées ont donné son nom au genre Fimbristylis, et son talent pour surgir sur un sol nu et fluctuant humide fait que les botanistes le lisent comme un indicateur vivant de l'eau d'un rivage.",
+        "history_text_long": "Le Fimbristylis autumnalis appartient à Fimbristylis, un grand genre de laîches dont le nom vient du latin fimbriae, signifiant frange, pour les délicates bractées frangées qui entourent chaque grappe de fleurs. L'épithète spécifique autumnalis signifie simplement « d'automne », marquant la fenêtre de fin de saison, d'août à octobre, où ses épis filiformes s'ouvrent enfin le long des rives d'étangs et des fossés suintants qu'il habite. Les botanistes européens ont d'abord placé la plante dans l'ancien genre de laîches Scirpus au XVIIIe siècle ; lorsque Georg Roemer et Josef Schultes ont révisé les Cyperaceae au début des années 1800 pour leur édition de Systema Vegetabilium, ils l'ont déplacée dans Fimbristylis, où elle est restée depuis. Son aire de répartition est inhabituellement divisée pour une laîche de sa taille : une population s'étend le long de l'est de l'Amérique du Nord, du Maine au Texas, une autre traverse le Japon, la Corée, la Chine et Taïwan, et les botanistes japonais la connaissent sous leur propre nom, Himehira-tentsuki, dans le même groupe tentsuki (Fimbristylis) que les autres laîches frangées de la région. Dans la nature, c'est une plante de lisières et d'entre-deux : la bordure boueuse d'un étang qui s'assèche pendant un été sec, un fossé en bordure de route, un suintement au bas d'une pente sablonneuse. Parce qu'elle germe rapidement sur un sol nu et saturé puis fleurit et produit des graines en une seule saison, les botanistes la considèrent comme un indicateur de marges humides exposées et fluctuantes plutôt que d'eau stable. Ce même opportunisme l'a rendue rare à la limite nord de son aire nord-américaine – elle est suivie comme une espèce préoccupante pour la conservation au Vermont – même si elle reste commune plus au sud. Les écologistes étudiant les communautés végétales des rives d'étangs utilisent sa présence ou son absence pour évaluer à quel point le niveau d'eau d'un rivage monte et descend encore avec les saisons, un petit signal mais révélateur de la santé des zones humides.",
+        "name_origin": "Du latin fimbriae, « frange », pour les bractées frangées entourant chaque grappe de fleurs, plus le grec stylos, « style/colonne » – et autumnalis, « d'automne », pour sa floraison tardive.",
+        "symbolism_story": "Le Fimbristylis autumnalis ne demande jamais grand-chose : un sol nu et saturé est une opportunité, pas un obstacle. Il germe rapidement sur la boue qui sèche d'un rivage d'étang qui se retire, fleurit en quelques semaines et produit des graines avant que le sol ne soit à nouveau inondé au printemps suivant – un petit cycle annuel d'arrivée, de floraison et de renouveau répété chaque année sur la même lisière changeante.",
+        "flower_meaning": "Résilience",
+        "uses_list": [
+          {
+            "text": "Colonise les rivages nus et humides et fournit un couvert dans les habitats de zones humides saisonnières"
+          },
+          {
+            "text": "Ajoute une texture fine, semblable à de l'herbe, aux jardins de pluie et aux plantations indigènes en bord d'étang"
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Résilience",
+            "description": "Pousse rapidement sur un sol nu et détrempé que la plupart des plantes évitent, puis supporte l'assèchement d'un rivage qui se retire chaque été."
+          },
+          {
+            "keyword": "Renouveau",
+            "description": "En tant qu'annuelle, elle accomplit tout son cycle de vie en une saison, faisant partie de la première vague de verdure à reconquérir les bords de zones humides nus et perturbés."
+          }
+        ],
+        "toxicity": {
+          "headline": "Aucune toxicité signalée",
+          "active_compound_display": "Aucun signalé",
+          "notes_en": "Aucune correspondance de toxicité faisant autorité trouvée ; traitée comme non signalée (estimation LLM non vérifiée par source).",
+          "human": {
+            "exposure": "Aucune voie d'exposition n'est signalée.",
+            "effect": "Aucun effet toxique n'est signalé.",
+            "note": "Aucune toxicité n'est signalée pour les humains dans ce catalogue ; ce n'est pas une preuve que la plante est comestible ou inoffensive."
+          },
+          "dog": {
+            "exposure": "Aucune voie d'exposition n'est signalée.",
+            "effect": "Aucun effet toxique n'est signalé.",
+            "note": "Aucune toxicité n'est signalée pour les chiens dans ce catalogue ; ce n'est pas une preuve que la plante est comestible ou inoffensive."
+          },
+          "cat": {
+            "exposure": "Aucune voie d'exposition n'est signalée.",
+            "effect": "Aucun effet toxique n'est signalé.",
+            "note": "Aucune toxicité n'est signalée pour les chats dans ce catalogue ; ce n'est pas une preuve que la plante est comestible ou inoffensive."
+          }
+        }
+      }
+    },
+    "AAA1618": {
+      "source_hash": "f3b16fe757d025cbd71c1b8c396426552ca54e9089a0fb5d5df0e610c4ff8ae2",
+      "fields": {
+        "common_name": "Fimbristylis annua",
+        "description": "Le Fimbristylis annua est une élégante laîche annuelle, cespiteuse et délicate, originaire des tropiques et subtropiques de l'Ancien Monde, du Caucase à l'Asie du Sud et de l'Est jusqu'au centre du Japon. Ses tiges fines, à racines fibreuses, atteignent seulement 20 à 40 cm, chacune surmontée de petits épillets lancéolés brun-vert dont les écailles portent une pointe de soie caractéristique recourbée vers l'extérieur. Il affectionne les sols sablonneux ou limoneux humides dans les zones basses, ouvertes et perturbées – clairières, champs et autres endroits ensoleillés et humides de façon saisonnière – et a un comportement adventice et opportuniste typique de son genre. En dehors de son aire d'origine, il est pratiquement inconnu en culture ; s'il est cultivé, il trouve sa place dans une collection spécialisée de graminées indigènes ou de laîches de bordure, plus apprécié pour sa texture fine et vaporeuse que pour ses fleurs.",
+        "history_text_short": "Le Fimbristylis annua est commun dans les champs humides du Caucase au Japon, mais il n'est apparu qu'une seule fois en Amérique du Nord : un unique spécimen prélevé dans un tas de terre de ballast de navire déversé à Camden, New Jersey, en 1865. Les botanistes citent encore cette trouvaille isolée comme un « ballast waif » classique – une plante étrangère qui a germé brièvement à partir de terre importée, puis a disparu.",
+        "history_text_long": "Le Fimbristylis annua appartient à un genre que le botaniste danois Martin Vahl a officiellement établi en 1805, regroupant des laîches dont les inflorescences sont entourées d'écailles délicates et frangées – les fimbriae qui donnent leur nom au genre. Originaire de l'Ancien Monde, du Caucase au Japon, il n'a été recensé qu'une seule fois sur le continent nord-américain : un unique spécimen collecté dans du ballast de navire déversé à Camden, New Jersey, en 1865 par le botaniste C. F. Parker. Au XIXe siècle, les navires chargeant des exportations américaines vidaient d'abord la terre, le sable et les roches transportés comme ballast lors du voyage aller, les déversant en tas le long des quais des villes portuaires comme Camden et Philadelphie. Les graines enfouies dans cette terre étrangère germaient parfois en colonies éphémères et inattendues de plantes exotiques que les botanistes locaux appelaient « ballast waifs » – et pendant quelques années, ces décharges devinrent des terrains de chasse prisés pour les curieux de la flore de pays lointains. La collecte unique de Parker de Fimbristylis annua était exactement ce type de découverte : une plante qui n'avait jamais poussé à l'état sauvage près du New Jersey auparavant, et, d'après les archives, n'y a plus jamais poussé une fois ce tas de ballast disparu. Les botanistes citent encore aujourd'hui cette observation comme un cas d'école de « waif » – présente une fois, liée à un acte humain spécifique d'importation de terre étrangère, et disparue une fois cette terre perturbée ou construite. Dans son aire de répartition naturelle en Asie, en revanche, elle reste une présence ordinaire, bien que facilement négligée, dans les clairières humides et les champs perturbés.",
+        "name_origin": "Du latin fimbriae, « frange », pour les écailles barbelées entourant chaque inflorescence, plus le grec stylos, « style/colonne » ; squarrosa est le latin pour « rugueux, avec des pointes d'écailles étalées », décrivant la soie recourbée sur chaque écaille florale.",
+        "symbolism_story": "Pendant un bref instant en 1865, le Fimbristylis annua a poussé là où il n'avait jamais poussé auparavant : un tas de terre de ballast importée déversé sur un quai du New Jersey, à l'autre bout du monde de son aire d'origine. Un seul botaniste l'a trouvé, pressé et enregistré – puis la terre a disparu, et la plante aussi. Il reste un petit emblème de la brièveté avec laquelle une graine étrangère peut prendre racine avant que le lieu qui l'a portée ne disparaisse.",
+        "flower_meaning": "Impermanence",
+        "uses_list": [
+          {
+            "text": "Colonise les sols nus, humides et perturbés dans son aire asiatique d'origine"
+          },
+          {
+            "text": "Parfois cultivé dans des collections spécialisées de laîches pour sa texture fine et vaporeuse"
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Impermanence",
+            "description": "Sa seule observation nord-américaine provenait d'un unique tas de terre de ballast de navire en 1865 et a disparu une fois cette terre perturbée, jamais revue à l'état sauvage dans la région."
+          },
+          {
+            "keyword": "Adaptabilité",
+            "description": "Prospère dans une vaste aire d'origine de sols humides et perturbés, du Caucase au Japon, partout où un sol nu et humide s'ouvre brièvement."
+          }
+        ],
+        "toxicity": {
+          "headline": "Aucune toxicité signalée",
+          "active_compound_display": "Aucun signalé",
+          "notes_en": "Aucune correspondance de toxicité faisant autorité trouvée ; traitée comme non signalée (l'estimation LLM n'est pas vérifiée par une source).",
+          "human": {
+            "exposure": "Aucune voie d'exposition signalée.",
+            "effect": "Aucun effet toxique signalé.",
+            "note": "Aucune toxicité n'est signalée pour les humains dans ce catalogue ; ce n'est pas une preuve que la plante est comestible ou inoffensive."
+          },
+          "dog": {
+            "exposure": "Aucune voie d'exposition signalée.",
+            "effect": "Aucun effet toxique signalé.",
+            "note": "Aucune toxicité n'est signalée pour les chiens dans ce catalogue ; ce n'est pas une preuve que la plante est comestible ou inoffensive."
+          },
+          "cat": {
+            "exposure": "Aucune voie d'exposition signalée.",
+            "effect": "Aucun effet toxique signalé.",
+            "note": "Aucune toxicité n'est signalée pour les chats dans ce catalogue ; ce n'est pas une preuve que la plante est comestible ou inoffensive."
+          }
+        }
+      }
+    },
+    "AAA1619": {
+      "source_hash": "15f343ccb752902aae842a5e09d71ab5e528ab2367b97647abb4df88376bed57",
+      "fields": {
+        "common_name": "Fimbristylis de Vahl",
+        "description": "Le Fimbristylis de Vahl est un petit carex annuel, l'un des plus petits de son genre, formant de délicates touffes de 4 à 15 cm de haut à partir de feuilles fines et enroulées. Ses tiges filiformes portent chacune quelques épillets pointus enveloppés de longues bractées tordues, donnant à la plante une texture fine et vaporeuse plutôt qu'un aspect voyant. Originaire du sud des États-Unis, du Mexique et d'Amérique centrale, et s'étendant jusqu'au Brésil, au Pérou et au Venezuela, il pousse dans les sols humides, sablonneux et saisonnièrement détrempés – bords d'étangs, fossés en bordure de route et champs basses qui inondent et sèchent au fil de l'année. Facile à négliger et ne demandant rien de plus qu'un sol constamment humide, il convient parfaitement aux plantations indigènes de zones humides ou aux jardins naturalistes de gravier et de sable où son port fin et filiforme apporte de la texture plutôt qu'une floraison voyante.",
+        "history_text_short": "Nommé d'après Martin Vahl, le botaniste formé par Linné qui fonda le genre Fimbristylis en 1805, ce petit carex annuel pousse à peine à la hauteur d'une main sur les sols humides et sablonneux du sud des États-Unis jusqu'au Pérou et au Brésil. Lamarck le nomma en l'honneur de Vahl avant qu'il ne soit intégré dans le genre même que Vahl avait créé.",
+        "history_text_long": "Le Fimbristylis de Vahl porte le nom de Martin Vahl, un botaniste danois formé par Carl von Linné à Copenhague et Uppsala avant de devenir professeur de botanique à l'Université de Copenhague. En 1805, Vahl décrivit formellement le genre Fimbristylis lui-même, rassemblant sous un seul nom un groupe épars de carex à bractées frangées. Cette espèce particulière avait été décrite pour la première fois par Jean-Baptiste Lamarck, qui honora Vahl dans l'épithète ; lorsque le botaniste allemand Johann Heinrich Friedrich Link déplaça plus tard la plante dans Fimbristylis, elle se retrouva classée dans le genre même que son homonyme avait fondé. Sur le terrain, c'est une plante modeste des sols humides et ouverts du Nouveau Monde – marges sablonneuses d'étangs en Floride et au Texas, zones humides saisonnières à travers le Mexique et l'Amérique centrale, basses terres humides jusqu'au Pérou et au Brésil. Comme c'est une annuelle de quelques centimètres seulement, elle attire rarement l'attention à côté de plantes marécageuses plus hautes, et une grande partie de ce qui est rapporté à son sujet provient de spécimens d'herbier collectés lors d'inventaires régionaux plutôt que de traditions de jardin ou populaires. Cette histoire discrète et laborieuse – une plante définie davantage par le tri minutieux des taxonomistes que par l'usage humain – fait elle-même partie de ce qui rend le Fimbristylis de Vahl digne d'intérêt : un petit carex facilement négligé qui porte néanmoins le nom de l'homme qui a donné un foyer à tout son genre.",
+        "name_origin": "Nommé d'après Martin Vahl (1749-1804), le botaniste danois et étudiant de Linné qui établit le genre Fimbristylis en 1805 ; Lamarck l'honora d'abord avec l'épithète spécifique vahlii avant que la plante ne soit ensuite déplacée dans le genre de Vahl.",
+        "symbolism_story": "Le Fimbristylis de Vahl n'essaie jamais de se démarquer. Il s'élève à peine à une hauteur de main au-dessus du sable humide, produit ses petits épillets frangés, et disparaît en une saison – le genre de plante que les botanistes ne remarquent qu'en s'agenouillant. Pourtant, il porte le nom de Martin Vahl, qui passa sa carrière à trier ces petits carex négligés dans le genre ordonné qui les abrite encore aujourd'hui.",
+        "flower_meaning": "Humilité",
+        "uses_list": [
+          {
+            "text": "Couverture saisonnière fine dans les habitats de marges d'étangs sablonneuses et de zones humides"
+          },
+          {
+            "text": "Ajoute une texture délicate et filiforme aux plantations indigènes de gravier et de zones humides"
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Humilité",
+            "description": "Une plante de quelques centimètres de haut, facile à ignorer, qui porte pourtant le nom du botaniste qui a donné un foyer à tout son genre."
+          },
+          {
+            "keyword": "Persistance",
+            "description": "Achève son cycle de vie entier comme une petite annuelle sur un sol qui alterne inondation et sécheresse, revenant de graine à chaque saison des pluies."
+          }
+        ],
+        "toxicity": {
+          "headline": "Aucune toxicité signalée",
+          "active_compound_display": "Aucun signalé",
+          "notes_en": "Aucune correspondance de toxicité faisant autorité trouvée ; traitée comme non signalée (estimation LLM non vérifiée par une source).",
+          "human": {
+            "exposure": "Aucune voie d'exposition signalée.",
+            "effect": "Aucun effet toxique signalé.",
+            "note": "Aucune toxicité signalée pour les humains dans ce catalogue ; cela ne prouve pas que la plante soit comestible ou inoffensive."
+          },
+          "dog": {
+            "exposure": "Aucune voie d'exposition signalée.",
+            "effect": "Aucun effet toxique signalé.",
+            "note": "Aucune toxicité signalée pour les chiens dans ce catalogue ; cela ne prouve pas que la plante soit comestible ou inoffensive."
+          },
+          "cat": {
+            "exposure": "Aucune voie d'exposition signalée.",
+            "effect": "Aucun effet toxique signalé.",
+            "note": "Aucune toxicité signalée pour les chats dans ce catalogue ; cela ne prouve pas que la plante soit comestible ou inoffensive."
+          }
+        }
+      }
+    },
+    "AAA1620": {
+      "source_hash": "1e67f6fa1029e54e7e929b4fdc5652d3abff1be42e65127c67451f0ac103910f",
+      "fields": {
+        "common_name": "Lotier grêle",
+        "description": "Le lotier grêle est une légumineuse vivace basse et rampante, proche du lotier corniculé, mais avec des folioles plus fines, en forme d'aiguilles, et des grappes florales plus clairsemées de une à trois fleurs. Originaire d'Europe, d'Afrique du Nord et d'Asie occidentale, il affectionne les prairies humides et les plaines inondables, tolérant l'engorgement et une légère salinité du sol qui déciment de nombreuses autres légumineuses. Ses fleurs jaunes et joyeuses en forme de pois s'ouvrent tout l'été sur des tiges filiformes, attirant les abeilles et les pollinisateurs. Ses racines hébergent des bactéries fixatrices d'azote, enrichissant discrètement le sol, ce qui en fait un couvre-sol résistant et facile d'entretien pour les pelouses humides et les zones naturalisées.",
+        "history_text_short": "On pense qu'il est arrivé en Argentine comme passager clandestin dans des semences de luzerne importées vers 1900 ; ce modeste lotier à fleurs jaunes a prospéré là où les sols salins et sujets aux inondations de la pampa décimaient d'autres légumineuses, devenant une plante fourragère résistante et prisée des éleveurs de bovins.",
+        "history_text_long": "Le chapitre le plus marquant du lotier grêle s'est déroulé loin de son aire d'origine méditerranéenne et eurasiatique tempérée. Aux alentours du tournant du XXe siècle, les graines de cette modeste légumineuse sont arrivées en Argentine, probablement mélangées à des cargaisons de luzerne et d'autres semences fourragères apportées par des immigrants européens qui s'installaient dans les vastes prairies au sud de Buenos Aires. Dans la majeure partie du monde, elle est restée une plante rudérale discrète, mais dans la Pampa Deprimida, ces plaines basses et inondables où les sols salins et gorgés d'eau décimaient les légumineuses fourragères ordinaires, le lotier grêle a trouvé une niche qu'aucune autre plante ne pouvait occuper. Les éleveurs et les agronomes ont remarqué que là où la luzerne et le trèfle pourrissaient et mouraient sous l'eau stagnante, ce petit lotier filiforme continuait de pousser, fixant l'azote et nourrissant le bétail pendant les saisons humides qui signifiaient auparavant des mois de pâturage médiocre. Au milieu du XXe siècle, les scientifiques agricoles argentins sélectionnaient et promouvaient activement des variétés améliorées, et il est devenu l'une des espèces fourragères emblématiques de la pampa inondable, transformant discrètement la gestion de millions d'hectares de prairies marginales par les éleveurs. Ce qui avait commencé comme un passager clandestin accidentel dans des sacs de semences importés est devenu une pierre angulaire agricole, apprécié moins pour sa beauté que pour sa résilience pure dans des conditions qui brisaient tout le reste.",
+        "name_origin": "Le nom de genre Lotus est un mot grec ancien autrefois appliqué largement aux plantes ressemblant au trèfle et au lotus, tandis que le nom d'espèce tenuis est latin pour 'mince' ou 'fin', décrivant les folioles fines et étroites qui distinguent cette plante de son parent à feuilles plus larges, le lotier corniculé.",
+        "symbolism_story": "Le lotier grêle ne porte aucune des mythologies anciennes attachées aux fleurs plus voyantes, mais il a gagné son poids symbolique de manière pratique : en survivant là où des plantes fourragères plus riches et plus célèbres ne le pouvaient pas. Pour des générations d'éleveurs des plaines inondables de la basse pampa argentine, ses tapis filiformes à fleurs jaunes sont devenus un marqueur discret de résilience et de providence, la preuve que même les terres marginales et gorgées d'eau pouvaient encore produire de l'abondance.",
+        "flower_meaning": "Résilience",
+        "uses_list": [
+          {
+            "text": "Attire les abeilles et autres pollinisateurs avec ses floraisons estivales"
+          },
+          {
+            "text": "Fourrage fixateur d'azote apprécié pour le bétail au pâturage"
+          },
+          {
+            "text": "Se naturalise comme couvre-sol facile d'entretien dans les sols humides"
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Résilience",
+            "description": "Sa capacité à prospérer dans les pâturages inondés et salins où d'autres plantes fourragères échouent en a fait un emblème de résilience discrète dans la tradition agricole."
+          },
+          {
+            "keyword": "Abondance",
+            "description": "En tant que légumineuse fixatrice d'azote qui renouvelle le sol dans lequel elle pousse, elle est associée à la fertilité et aux pâturages abondants."
+          }
+        ],
+        "toxicity": {
+          "headline": "Aucune toxicité signalée",
+          "active_compound_display": "Aucun signalé",
+          "notes_en": "Aucune correspondance de toxicité faisant autorité trouvée ; traitée comme non signalée (estimation LLM non vérifiée par source).",
+          "human": {
+            "exposure": "Aucune voie d'exposition signalée.",
+            "effect": "Aucun effet toxique signalé.",
+            "note": "Aucune toxicité signalée pour les humains dans ce catalogue ; cela ne prouve pas que la plante est comestible ou inoffensive."
+          },
+          "dog": {
+            "exposure": "Aucune voie d'exposition signalée.",
+            "effect": "Aucun effet toxique signalé.",
+            "note": "Aucune toxicité signalée pour les chiens dans ce catalogue ; cela ne prouve pas que la plante est comestible ou inoffensive."
+          },
+          "cat": {
+            "exposure": "Aucune voie d'exposition signalée.",
+            "effect": "Aucun effet toxique signalé.",
+            "note": "Aucune toxicité signalée pour les chats dans ce catalogue ; cela ne prouve pas que la plante est comestible ou inoffensive."
+          }
+        }
+      }
+    },
+    "AAA1621": {
+      "source_hash": "d81769c333fae5eee2e883d7591be91a43562529520515692a3db87d0cba4970",
+      "fields": {
+        "common_name": "Pavot du Pays de Galles",
+        "description": "Le Pavot du Pays de Galles est une vivace cespiteuse des sols humides, rocailleux et ombragés de l'Europe occidentale, des îles Britanniques au sud jusqu'à la péninsule Ibérique. Des fleurs papyracées à quatre pétales, d'un jaune clair à un orange doux, penchent sur des tiges fines et velues au-dessus d'un feuillage frais, vert vif, profondément découpé, ressemblant à des fougères, s'épanouissant de la fin du printemps à l'été et se ressèment librement une fois établies. Les plantes forment des touffes lâches de 30 à 60 cm de haut, aussi à l'aise en lisière de bois, dans une fissure rocheuse ombragée ou sur un vieux mur de pierre. Peu exigeant dans un sol riche en humus, frais de manière fiable, et heureux à mi-ombre là où de nombreux pavots bouderaient, il se naturalise facilement dans les jardins de cottage et de sous-bois, apparaissant sans être invité année après année une fois qu'il a trouvé un endroit qui lui plaît.",
+        "history_text_short": "Linné a nommé ce pavot pour le Pays de Galles en 1753, d'après la région où il a été enregistré à l'état sauvage dans la pierre humide et ombragée. Plus tard séparé dans son propre genre, Meconopsis, il est devenu la fleur du comté de Montgomeryshire et, depuis 2006, l'emblème du parti Plaid Cymru - une petite fleur sauvage jaune portant une quantité surprenante d'identité nationale.",
+        "history_text_long": "Le Pavot du Pays de Galles a été décrit pour la première fois par Carl Linné en 1753, qui l'a simplement classé comme un autre pavot, Papaver cambricum - cambricum étant le latin pour 'du Pays de Galles', la région où la plante a été enregistrée pour la première fois à l'état sauvage dans les îles Britanniques par l'herboriste du XVIIe siècle John Parkinson. En 1814, le botaniste français Louis Viguier a examiné de plus près sa capsule de graines velue distinctive à quatre parties et l'a séparée dans un nouveau genre, Meconopsis, bien que l'ancien nom Papaver cambricum ait continué à circuler à ses côtés depuis. Dans la nature, il pousse dans les sols humides, ombragés et rocailleux des hautes terres d'Europe occidentale, du Pays de Galles, de l'Angleterre et de l'Irlande au sud à travers la France jusqu'en Espagne et au Portugal - toujours dans les marges plus fraîches et plus humides où l'ombre profonde et la pierre empêchent le sol de se dessécher. Au Pays de Galles même, la fleur est devenue plus qu'une fleur sauvage : c'est la fleur du comté de Montgomeryshire, ses pétales jaune vif lus comme un emblème de continuité et de souvenir, et depuis 2006, un pavot du Pays de Galles stylisé sert de logo au parti politique Plaid Cymru, faisant écho au coquelicot du souvenir tout en marquant une identité distinctement galloise. Une croyance populaire ancienne attribuait à la fleur une protection plus douce, censée éloigner les esprits malicieux de la maison et du jardin - une réputation modeste pour une plante qui se sème dans chaque fissure humide et chaque coin ombragé qu'elle peut atteindre, puis persiste tranquillement là pendant des générations.",
+        "name_origin": "Cambricum est le latin pour 'du Pays de Galles' (de Cambria, le nom latin du Pays de Galles), reflétant l'endroit où la plante a été enregistrée pour la première fois à l'état sauvage dans les îles Britanniques ; Linné l'a nommée Papaver cambricum en 1753 avant qu'elle ne soit plus tard séparée dans son propre genre, Meconopsis.",
+        "symbolism_story": "Une modeste fleur sauvage jaune des vallées humides galloises est venue, au fil des siècles, représenter quelque chose de plus grand qu'elle-même : l'emblème floral d'un comté, le logo d'un parti politique et, dans la croyance populaire ancienne, un petit gardien contre les méfaits à la porte du jardin. Le Pavot du Pays de Galles ne demande rien de plus que l'ombre et la pierre humide, mais continue de revenir, ressemé, aux mêmes coins tranquilles année après année.",
+        "flower_meaning": "Souvenir",
+        "uses_list": [
+          {
+            "text": "Fleurs papyracées jaunes à oranges pour les bordures ombragées, les lisières de bois et les murs de pierre"
+          },
+          {
+            "text": "Fleurs ouvertes, riches en pollen, attirent les abeilles dans les coins ombragés du jardin"
+          },
+          {
+            "text": "Tiges coupées de courte durée apportent une couleur vive aux arrangements informels et décontractés"
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Souvenir",
+            "description": "Fleur du comté de Montgomeryshire et, depuis 2006, emblème de Plaid Cymru - une petite fleur sauvage portant l'identité et la continuité galloises."
+          },
+          {
+            "keyword": "Protection",
+            "description": "Dans la croyance populaire galloise ancienne, on disait que le pavot éloignait les esprits malicieux de la maison et du jardin."
+          }
+        ],
+        "toxicity": {
+          "headline": "Toxicité inconnue",
+          "active_compound_display": "Aucun signalé",
+          "notes_en": "Aucune correspondance de toxicité faisant autorité trouvée ; traitée comme non signalée (l'estimation LLM n'est pas vérifiée par une source).",
+          "human": {
+            "exposure": "Aucune voie d'exposition n'est signalée.",
+            "effect": "Aucun effet toxique n'est signalé.",
+            "note": "La toxicité pour les humains n'est pas bien documentée ; utilisez la prudence jusqu'à vérification."
+          },
+          "dog": {
+            "exposure": "Aucune voie d'exposition n'est signalée.",
+            "effect": "Aucun effet toxique n'est signalé.",
+            "note": "La toxicité pour les chiens n'est pas bien documentée ; utilisez la prudence jusqu'à vérification."
+          },
+          "cat": {
+            "exposure": "Aucune voie d'exposition n'est signalée.",
+            "effect": "Aucun effet toxique n'est signalé.",
+            "note": "La toxicité pour les chats n'est pas bien documentée ; utilisez la prudence jusqu'à vérification."
+          }
+        }
+      }
+    },
+    "AAA1622": {
+      "source_hash": "2eb4de02c961955a00eafa8f3255fd47d4ffea423fdea4a2ab29cf34905ab6c6",
+      "fields": {
+        "common_name": "Pavot d'Espagne",
+        "bloom_tip": "Cette plante fleurit au printemps, avec une période de floraison courte et magnifique.",
+        "description": "Le Pavot d'Espagne est un pavot vivace de courte durée originaire des pentes rocheuses des montagnes du sud de l'Espagne et du Maroc, où il ancre ses racines dans les crevasses des falaises calcaires entre 700 et 1600 mètres d'altitude. Des fleurs froissées et papyracées dans des tons de rouge brique à orange doux, de 3 à 4,5 cm de diamètre avec des anthères jaune doré, s'ouvrent au-dessus d'une rosette basse de feuilles velues, profondément lobées, vert grisâtre, de la fin du printemps à l'été. Les plantes forment des touffes lâches et ramifiées de 15 à 45 cm de haut et se ressèment facilement une fois installées. Donnez-lui le plein soleil et un sol acide, pauvre et bien drainé - un lit de gravier, une crevasse de rocaille ou un mur sec - et il reviendra année après année à partir de ses propres graines dispersées, ne nécessitant presque aucun soin au-delà d'un bon drainage.",
+        "history_text_short": "Le nom scientifique du Pavot d'Espagne signifie 'brise-rocher', pour la façon dont il s'installe dans les fissures des falaises calcaires nues au-dessus de l'Andalousie et du Maroc. Le botaniste suisse Edmond Boissier et Georges Reuter l'ont décrit en 1852 à partir d'un spécimen recueilli lors de l'une des expéditions robustes et autofinancées de Boissier à travers la Sierra de Ronda, qui a ouvert pour la première fois la flore montagnarde du sud de l'Espagne à la science européenne.",
+        "history_text_long": "Le Pavot d'Espagne tire son nom scientifique, rupifragum, du latin rupes (rocher) et frangere (briser) - 'brise-rocher' - pour la façon dont il s'installe dans les fissures étroites des falaises calcaires nues. Il a été formellement décrit en 1852 par le botaniste suisse Edmond Boissier et son collaborateur Georges Reuter, qui avaient voyagé en 1849 à travers les montagnes du sud de l'Espagne et du Maroc lors de l'une des nombreuses expéditions botaniques autofinancées de Boissier dans la péninsule ibérique et l'Afrique du Nord. Leur spécimen type provenait de la Serranía de Ronda, une chaîne calcaire d'Andalousie, et l'espèce a été publiée parmi des dizaines de plantes nouvellement reconnues dans leur Pugillus Plantarum Novarum Africae Borealis Hispaniaeque Australis, une étude latine de la flore nord-africaine et sud-espagnole jusqu'alors non décrite. Les expéditions de Boissier, entreprises à ses frais et plus tard distillées dans son monumental Voyage botanique dans le midi de l'Espagne, ont ouvert la flore montagnarde andalouse à la botanique européenne pour la première fois, et le Pavot d'Espagne reste l'un des spécialistes des crevasses rocheuses que ses études ont mis en lumière. Dans ses falaises natales, il survit avec presque rien : une poignée de terre logée dans une fissure, un plein soleil brûlant, et la pluie que la paroi rocheuse dirige vers ses racines. Introduit dans les jardins comme pavot de rocaille et de gravier précisément pour cette robustesse, il s'est depuis échappé de la culture douce dans quelques zones hors de son aire d'origine, cherchant toujours le même sol maigre et pierreux qu'il a colonisé pour la première fois dans la Sierra de Ronda.",
+        "name_origin": "Du latin rupes, 'rocher', et frangere, 'briser/fendre' - 'brise-rocher', pour la façon dont il s'installe dans les fissures nues des falaises calcaires ; décrit en 1852 par Edmond Boissier et Georges Reuter à partir d'un spécimen collecté dans la Serranía de Ronda en Espagne.",
+        "symbolism_story": "Le Pavot d'Espagne fait sa maison dans l'endroit que les autres plantes évitent : une fissure nue dans une paroi rocheuse, cuite toute la journée par le soleil. Il ne demande rien d'autre que cet étroit point d'appui, puis éclate en fleurs rouge brique chaque printemps - un spectacle court et vif d'une plante qui survit avec presque pas de terre du tout.",
+        "flower_meaning": "Ténacité",
+        "uses_list": [
+          {
+            "text": "Fleurs papyracées rouge brique à orange pour rocailles, lits de gravier et murs secs"
+          },
+          {
+            "text": "Fleurs ouvertes et riches en pollen attirent les abeilles dans les plantations ensoleillées et sèches"
+          },
+          {
+            "text": "Les tiges coupées font des ajouts de courte durée mais vifs aux arrangements informels"
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Ténacité",
+            "description": "S'enracine dans les fissures nues des falaises calcaires chauffées par le soleil où presque rien d'autre ne peut s'accrocher, ne nécessitant qu'une pincée de terre et le plein soleil."
+          },
+          {
+            "keyword": "Beauté éphémère",
+            "description": "Comme la plupart des pavots, chaque fleur papyracée ne dure que quelques jours, s'ouvrant froissée du bouton et se brisant peu après."
+          }
+        ],
+        "toxicity": {
+          "headline": "Toxicité inconnue",
+          "active_compound_display": "Aucun signalé",
+          "notes_en": "Aucune correspondance de toxicité faisant autorité trouvée ; traitée comme non signalée (estimation LLM non vérifiée par source).",
+          "human": {
+            "exposure": "Aucune voie d'exposition signalée.",
+            "effect": "Aucun effet toxique signalé.",
+            "note": "La toxicité pour les humains n'est pas bien documentée ; utilisez la prudence jusqu'à vérification."
+          },
+          "dog": {
+            "exposure": "Aucune voie d'exposition signalée.",
+            "effect": "Aucun effet toxique signalé.",
+            "note": "La toxicité pour les chiens n'est pas bien documentée ; utilisez la prudence jusqu'à vérification."
+          },
+          "cat": {
+            "exposure": "Aucune voie d'exposition signalée.",
+            "effect": "Aucun effet toxique signalé.",
+            "note": "La toxicité pour les chats n'est pas bien documentée ; utilisez la prudence jusqu'à vérification."
           }
         }
       }

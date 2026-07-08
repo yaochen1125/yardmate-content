@@ -3,8 +3,8 @@
   "locale": "pt",
   "source": {
     "resource": "plants_detail.json",
-    "sha256": "e7ad91cfc14c18ec6edfb9fc0e0f07c0c3c3724c1373e405c89d6cd2dc45ea7a",
-    "record_count": 1614
+    "sha256": "0260234865a3770f0eabd2f9d489507be375802679c7637b2d6860c26f20a533",
+    "record_count": 1621
   },
   "records": {
     "AAA0001": {
@@ -99249,6 +99249,374 @@
               "Salivação excessiva.",
               "Dor abdominal."
             ]
+          }
+        }
+      }
+    },
+    "AAA1616": {
+      "source_hash": "21681a795344600bd7844ac35ff028f9cf34519dfabf25aff02abf9f0a795b9d",
+      "fields": {
+        "common_name": "Agrião-da-terra",
+        "bloom_tip": "Esta planta floresce na primavera, produzindo lindas flores amarelas.",
+        "fruit_tip": "O fruto desta planta é verde quando maduro e ótimo para uso como erva e tempero.",
+        "description": "O agrião-da-terra é uma bienal baixa e resistente da família das mostardas, cultivada por suas folhas picantes, semelhantes ao agrião, que permanecem verdes e comestíveis durante as geadas de inverno. Nativo da Europa e Ásia ocidental, forma uma roseta de folhas profundamente lobadas antes de produzir hastes com pequenas flores amarelas de quatro pétalas na primavera. Ao contrário do agrião verdadeiro, prospera em solo comum de jardim, em vez de água corrente, sendo um substituto fácil para jardineiros que desejam saladas verdes frescas e picantes durante os meses frios. Suas vagens estreitas amadurecem eretas no início do verão, e a colheita regular das folhas externas mantém a roseta produzindo por meses.",
+        "history_text_short": "Nomeado em homenagem a Santa Bárbara por permanecer verde durante o auge do inverno, esta resistente verdura da família das mostardas foi por muito tempo valorizada por jardineiros europeus e americanos coloniais como uma das poucas saladas verdes frescas e ricas em vitaminas disponíveis nos meses mais frios.",
+        "history_text_long": "O agrião-da-terra deve seu nome de gênero, Barbarea, a Santa Bárbara, uma santa padroeira invocada contra infortúnios súbitos e há muito associada às profundezas do inverno: na antiga tradição herbal europeia, a planta permanecia verde e colhível em torno de sua festa em dezembro, quando quase nada mais no jardim o fazia, e era colhida como uma erva cicatrizante sob o antigo nome herba Sanctae Barbarae. Essa mesma resistência ao frio mostrou-se valiosa por uma razão muito diferente séculos depois. Muito antes de estufas ou produtos importados de inverno, o agrião-da-terra era valorizado como uma das poucas folhas verdes que podiam ser colhidas frescas de um canteiro aberto no auge do inverno e início da primavera, quando dietas pesadas em alimentos preservados e salgados deixavam as famílias carentes de vitaminas frescas. Colonos europeus levaram suas sementes para a América do Norte, onde se enraizou em hortas coloniais como substituto do agrião, precisando apenas de solo úmido comum em vez de um riacho corrente. Seu nome comum alternativo, agrião-americano, data desse período, quando se tornou uma visão familiar em hortas domésticas ao longo da costa leste, valorizado menos pela elegância do que pelo fato simples e confiável de que continuava produzindo uma verdura picante e rica em vitaminas quando quase nada mais crescia.",
+        "name_origin": "O nome do gênero Barbarea homenageia Santa Bárbara, já que a planta tradicionalmente permanecia verde o suficiente para ser colhida em torno de sua festa em dezembro; o nome da espécie verna é latim para 'da primavera', referindo-se à sua floração no início da primavera.",
+        "symbolism_story": "A ligação do agrião-da-terra com Santa Bárbara, santa padroeira invocada para proteção contra perigo súbito, deu-lhe uma carga simbólica discreta na antiga tradição herbal: uma verdura que sobrevivia quando o ano do jardim parecia no fim tornou-se, por associação, um pequeno emblema de resistência e vigilância através das dificuldades. Mais tarde, em hortas coloniais distantes dessa tradição europeia, manteve um significado semelhante em termos mais práticos, representando a engenhosidade de uma família que ainda podia encontrar algo fresco e nutritivo na mesa na parte mais magra do inverno.",
+        "flower_meaning": "Resistência",
+        "fragrance": {
+          "notes": "As folhas liberam um aroma picante, semelhante ao da mostarda, quando esmagadas ou cortadas."
+        },
+        "uses_list": [
+          {
+            "text": "Folhas picantes, semelhantes ao agrião, colhidas para saladas e culinária"
+          },
+          {
+            "text": "Tradicionalmente valorizada como uma verdura cicatrizante precoce e rica em vitaminas no inverno"
+          },
+          {
+            "text": "Flores da primavera fornecem néctar precoce para polinizadores"
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Resistência",
+            "description": "Sua capacidade de permanecer verde e comestível através de geadas e neve fez dela um símbolo de resistência silenciosa nas tradições de jardins de clima frio."
+          },
+          {
+            "keyword": "Proteção",
+            "description": "Nomeado em homenagem a Santa Bárbara, padroeira contra infortúnios súbitos, a planta carregava antigas associações com proteção e cuidado através das dificuldades."
+          }
+        ],
+        "toxicity": {
+          "headline": "Nenhuma toxicidade relatada",
+          "active_compound_display": "Nenhum relatado",
+          "notes_en": "Nenhuma correspondência de toxicidade autoritativa encontrada; tratado como não relatado (estimativa de LLM não verificada por fonte).",
+          "human": {
+            "exposure": "Nenhuma via de exposição é relatada.",
+            "effect": "Nenhum efeito tóxico é relatado.",
+            "note": "Nenhuma toxicidade é relatada para humanos neste catálogo; isso não é evidência de que a planta seja comestível ou inofensiva."
+          },
+          "dog": {
+            "exposure": "Nenhuma via de exposição é relatada.",
+            "effect": "Nenhum efeito tóxico é relatado.",
+            "note": "Nenhuma toxicidade é relatada para cães neste catálogo; isso não é evidência de que a planta seja comestível ou inofensiva."
+          },
+          "cat": {
+            "exposure": "Nenhuma via de exposição é relatada.",
+            "effect": "Nenhum efeito tóxico é relatado.",
+            "note": "Nenhuma toxicidade é relatada para gatos neste catálogo; isso não é evidência de que a planta seja comestível ou inofensiva."
+          }
+        }
+      }
+    },
+    "AAA1617": {
+      "source_hash": "abb71c64447c2b229ae340c696612f8510d4deba813c0699f3a1fe06a56c57c0",
+      "fields": {
+        "common_name": "Fimbristylis autumnalis",
+        "description": "Fimbristylis autumnalis é uma pequena ciperácea anual, entouceirada, com uma das maiores distribuições em seu gênero, nativa de prados úmidos e margens de lagoas no leste da América do Norte e, independentemente, no leste da Ásia, do Japão e Coreia à China e Taiwan. Folhas finas, semelhantes a grama, crescem 5-30 cm a partir de uma touceira de base macia, encimadas por cachos frouxamente ramificados de pequenas espiguetas verde-acastanhadas, circundadas por brácteas delicadas com cerdas, a franja que dá ao gênero seu nome latino. Favorece solos úmidos, arenosos, turfosos ou siltosos - infiltrações, valas e margens de lagoas onde o nível da água sobe e desce ao longo do ano - florescendo do final do verão ao outono, estação registrada em seu próprio epíteto. Rápida em colonizar solo nu e úmido, é adequada para jardins de chuva e plantios de zonas úmidas nativas que desejam um sutil acento textural em vez de floração vistosa.",
+        "history_text_short": "Nomeada por sua floração de outono, Fimbristylis autumnalis é uma pequena ciperácea fibrosa encontrada em ambos os lados do Pacífico - margens de lagoas do Maine ao Texas e zonas úmidas no Japão, Coreia, China e Taiwan. Seus aglomerados de flores franjadas deram ao gênero Fimbristylis seu nome, e sua habilidade de brotar em solo nu e úmido e flutuante faz com que botânicos a leiam como um medidor vivo da água de uma margem.",
+        "history_text_long": "Fimbristylis autumnalis pertence a Fimbristylis, um grande gênero de ciperáceas cujo nome vem do latim fimbriae, que significa franja, pelas brácteas delicadas com cerdas que circundam cada aglomerado de flores. O epíteto específico autumnalis significa simplesmente 'do outono', marcando a janela do final da estação, de agosto a outubro, quando suas espigas finas finalmente se abrem nas margens das lagoas e valas com infiltração que ela chama de lar. Botânicos europeus colocaram a planta no gênero mais antigo de ciperáceas Scirpus durante o século XVIII; quando Georg Roemer e Josef Schultes revisaram as Cyperaceae no início do século XIX para sua edição de Systema Vegetabilium, eles a moveram para Fimbristylis, onde permanece desde então. Sua distribuição é incomumente dividida para uma ciperácea de seu tamanho: uma população se estende pelo leste da América do Norte, do Maine ao Texas, outra pelo Japão, Coreia, China e Taiwan, e botânicos japoneses a conhecem por seu próprio nome, Himehira-tentsuki, no mesmo grupo tentsuki (Fimbristylis) que as outras ciperáceas franjadas da região. Na natureza, é uma planta de bordas e lugares intermediários: a margem lamacenta de uma lagoa que seca no verão, uma vala à beira da estrada, uma infiltração na base de uma encosta arenosa. Por germinar rapidamente em solo nu e saturado e depois florescer e produzir sementes em uma única estação, os botânicos a interpretam como um indicador de margens úmidas expostas e flutuantes, em vez de água estável. Esse mesmo oportunismo a tornou rara na borda norte de sua distribuição norte-americana - é monitorada como espécie de preocupação para conservação em Vermont - mesmo sendo comum mais ao sul. Ecologistas que estudam comunidades de plantas em margens de lagoas usam sua presença ou ausência para avaliar o quanto o nível da água de uma margem ainda sobe e desce com as estações, um sinal pequeno, mas revelador, da saúde da zona úmida.",
+        "name_origin": "Do latim fimbriae, 'franja', pelas brácteas com cerdas que circundam cada aglomerado de flores, mais o grego stylos, 'estilo/coluna' - e autumnalis, 'do outono', por sua floração tardia.",
+        "symbolism_story": "Fimbristylis autumnalis nunca pede muito: solo nu e saturado é uma oportunidade, não um obstáculo. Germina rápido na lama seca de uma margem de lagoa que recua, floresce em semanas e produz sementes antes que o solo inunde novamente na primavera seguinte - um pequeno ciclo anual de chegada, floração e renovação repetido na mesma borda mutável a cada ano.",
+        "flower_meaning": "Resiliência",
+        "uses_list": [
+          {
+            "text": "Coloniza margens úmidas nuas e fornece cobertura em habitat sazonal de zona úmida"
+          },
+          {
+            "text": "Adiciona textura fina, semelhante a grama, a jardins de chuva e plantios nativos de borda de lagoa"
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Resiliência",
+            "description": "Brota rapidamente em solo nu e encharcado que a maioria das plantas evita, depois resiste à secagem de uma margem recuando a cada verão."
+          },
+          {
+            "keyword": "Renovação",
+            "description": "Como anual, completa todo o seu ciclo de vida em uma estação, parte da primeira onda de verde a recuperar bordas úmidas lamacentas e perturbadas."
+          }
+        ],
+        "toxicity": {
+          "headline": "Nenhuma toxicidade relatada",
+          "active_compound_display": "Nenhum relatado",
+          "notes_en": "Nenhuma correspondência de toxicidade autoritativa encontrada; tratado como não relatado (estimativa LLM não verificada por fonte).",
+          "human": {
+            "exposure": "Nenhuma via de exposição é relatada.",
+            "effect": "Nenhum efeito tóxico é relatado.",
+            "note": "Nenhuma toxicidade é relatada para humanos neste catálogo; isso não é evidência de que a planta seja comestível ou inofensiva."
+          },
+          "dog": {
+            "exposure": "Nenhuma via de exposição é relatada.",
+            "effect": "Nenhum efeito tóxico é relatado.",
+            "note": "Nenhuma toxicidade é relatada para cães neste catálogo; isso não é evidência de que a planta seja comestível ou inofensiva."
+          },
+          "cat": {
+            "exposure": "Nenhuma via de exposição é relatada.",
+            "effect": "Nenhum efeito tóxico é relatado.",
+            "note": "Nenhuma toxicidade é relatada para gatos neste catálogo; isso não é evidência de que a planta seja comestível ou inofensiva."
+          }
+        }
+      }
+    },
+    "AAA1618": {
+      "source_hash": "f3b16fe757d025cbd71c1b8c396426552ca54e9089a0fb5d5df0e610c4ff8ae2",
+      "fields": {
+        "common_name": "Fimbristylis asiática",
+        "description": "Fimbristylis asiática é uma ciperácea anual delicada e entouceirada, nativa dos trópicos e subtrópicos do Velho Mundo, do Cáucaso ao sul e leste da Ásia até o centro do Japão. Caules finos e fibrosos atingem apenas 20-40 cm, cada um encimado por pequenas espiguetas castanho-esverdeadas, lanceoladas, cujas escamas têm uma ponta de cerda distintamente curvada para fora. Prefere areia úmida ou silte em locais baixos, abertos e perturbados - clareiras, campos e outros pontos úmidos e ensolarados sazonalmente - e tem um hábito oportunista e invasivo típico de seu gênero. Fora de sua área nativa, é essencialmente desconhecida em cultivo; quando cultivada, pertence a uma coleção especializada de gramíneas nativas ou ciperáceas marginais, valorizada por sua textura fina e etérea, mais do que por qualquer exibição de floração.",
+        "history_text_short": "Fimbristylis asiática é comum em campos úmidos do Cáucaso ao Japão, mas só apareceu uma vez na América do Norte: um único espécime retirado de um monte de solo de lastro de navio despejado em Camden, Nova Jersey, em 1865. Os botânicos ainda citam essa descoberta solitária como um clássico 'errante do lastro' - uma planta estrangeira que brotou brevemente de terra importada e depois desapareceu.",
+        "history_text_long": "Fimbristylis asiática pertence a um gênero que o botânico dinamarquês Martin Vahl estabeleceu formalmente em 1805, agrupando ciperáceas cujos aglomerados de flores são circundados por escamas delicadas com cerdas franjadas - as fímbrias que dão nome ao gênero. Nativa do Velho Mundo, do Cáucaso ao Japão, foi registrada apenas uma vez no continente norte-americano: um único espécime coletado de lastro de navio em Camden, Nova Jersey, em 1865, pelo botânico C. F. Parker. No século XIX, os navios que carregavam exportações americanas primeiro esvaziavam o solo, areia e rocha transportados como lastro na viagem de ida, despejando-os em montes ao longo dos cais de cidades portuárias como Camden e Filadélfia. Sementes enterradas naquele solo estrangeiro às vezes germinavam em breves e inesperadas colônias de plantas exóticas que os botânicos locais chamavam de 'errantes do lastro' - e por alguns anos esses locais de descarte se tornaram áreas de caça cobiçadas por qualquer um curioso sobre a flora de países distantes. A única coleta de Parker de Fimbristylis asiática foi exatamente esse tipo de descoberta: uma planta que nunca havia crescido selvagem perto de Nova Jersey antes e, até onde os registros mostram, nunca mais cresceu lá depois que aquele monte específico de solo de lastro desapareceu. Os botânicos ainda citam o registro hoje como um caso clássico de 'errante' - presente uma vez, ligado a um ato humano específico de importar solo estrangeiro, e desaparecido assim que esse solo foi perturbado ou construído. Em sua verdadeira distribuição pela Ásia, por outro lado, permanece uma presença comum, embora facilmente ignorada, em clareiras úmidas e campos perturbados.",
+        "name_origin": "Do latim fimbriae, 'franja', pelas escamas cerdosas que circundam cada aglomerado de flores, mais o grego stylos, 'estilete/coluna'; squarrosa é latim para 'áspero, com pontas de escamas espalhadas', descrevendo a cerda curvada para fora em cada escama floral.",
+        "symbolism_story": "Por um breve momento em 1865, Fimbristylis asiática cresceu onde nunca havia crescido antes: um monte de solo de lastro importado despejado em um cais de Nova Jersey, a meio mundo de sua área nativa. Um único botânico a encontrou, prensou e registrou - e então o solo desapareceu, e a planta também. Ela permanece um pequeno emblema de quão brevemente uma semente estrangeira pode criar raízes antes que o lugar que a trouxe desapareça.",
+        "flower_meaning": "Impermanência",
+        "uses_list": [
+          {
+            "text": "Coloniza solo nu, úmido e perturbado em sua área nativa asiática"
+          },
+          {
+            "text": "Ocasionalmente cultivada em coleções especializadas de ciperáceas por sua textura fina e etérea"
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Impermanência",
+            "description": "Seu único registro norte-americano veio de um único monte de solo de lastro de navio em 1865 e desapareceu assim que esse solo foi perturbado, nunca mais visto selvagem na região."
+          },
+          {
+            "keyword": "Adaptabilidade",
+            "description": "Prospera em uma vasta área nativa de solo úmido e perturbado, do Cáucaso ao Japão, onde quer que solo nu e úmido se abra brevemente."
+          }
+        ],
+        "toxicity": {
+          "headline": "Nenhuma toxicidade relatada",
+          "active_compound_display": "Nenhum relatado",
+          "notes_en": "Nenhuma correspondência de toxicidade autoritativa encontrada; tratado como não relatado (estimativa de LLM não é verificada por fonte).",
+          "human": {
+            "exposure": "Nenhuma via de exposição é relatada.",
+            "effect": "Nenhum efeito tóxico é relatado.",
+            "note": "Nenhuma toxicidade é relatada para humanos neste catálogo; isso não é evidência de que a planta seja comestível ou inofensiva."
+          },
+          "dog": {
+            "exposure": "Nenhuma via de exposição é relatada.",
+            "effect": "Nenhum efeito tóxico é relatado.",
+            "note": "Nenhuma toxicidade é relatada para cães neste catálogo; isso não é evidência de que a planta seja comestível ou inofensiva."
+          },
+          "cat": {
+            "exposure": "Nenhuma via de exposição é relatada.",
+            "effect": "Nenhum efeito tóxico é relatado.",
+            "note": "Nenhuma toxicidade é relatada para gatos neste catálogo; isso não é evidência de que a planta seja comestível ou inofensiva."
+          }
+        }
+      }
+    },
+    "AAA1619": {
+      "source_hash": "15f343ccb752902aae842a5e09d71ab5e528ab2367b97647abb4df88376bed57",
+      "fields": {
+        "common_name": "Fimbristylis vahlii",
+        "description": "Fimbristylis vahlii é uma ciperácea anual diminuta, uma das menores do seu gênero, formando tufos delicados de apenas 4-15 cm de altura a partir de folhas finas e encaracoladas. Seus caules finos carregam algumas espiguetas pequenas e pontiagudas envoltas em brácteas longas e retorcidas, dando a toda a planta uma textura fina e esvoaçante, em vez de uma exibição vistosa. Nativa do sul dos Estados Unidos, México e América Central, chegando ao Brasil, Peru e Venezuela, cresce em solo úmido, arenoso e sazonalmente alagado — margens de lagoas, valas de estradas e campos baixos que inundam e secam ao longo do ano. Fácil de ignorar e sem exigir nada além de solo consistentemente úmido, funciona melhor em plantios de áreas úmidas nativas ou em jardins naturalistas de cascalho e areia, onde seu hábito fino e filiforme é lido como textura, não como floração focal.",
+        "history_text_short": "Nomeada em homenagem a Martin Vahl, o botânico treinado por Linnaeus que fundou o gênero Fimbristylis em 1805, esta pequena ciperácea anual cresce mal a um palmo de altura em solo úmido e arenoso, do sul dos Estados Unidos ao Peru e Brasil. Lamarck a nomeou em homenagem a Vahl antes de ser incorporada ao próprio gênero que Vahl havia criado.",
+        "history_text_long": "Fimbristylis vahlii carrega o nome de Martin Vahl, um botânico dinamarquês que estudou com Carl Linnaeus em Copenhague e Uppsala antes de se tornar professor de botânica na Universidade de Copenhague. Em 1805, Vahl descreveu formalmente o gênero Fimbristylis, reunindo um grupo disperso de ciperáceas com brácteas franjadas sob um único nome. Esta espécie em particular foi descrita pela primeira vez por Jean-Baptiste Lamarck, que homenageou Vahl no epíteto; quando o botânico alemão Johann Heinrich Friedrich Link posteriormente transferiu a planta para Fimbristylis, ela acabou classificada dentro do próprio gênero que seu homônimo havia fundado. No campo, é uma planta modesta de solo úmido e aberto em todo o Novo Mundo — margens arenosas de lagoas na Flórida e Texas, zonas úmidas sazonais no México e América Central, terras baixas úmidas até o Peru e Brasil. Por ser uma planta anual de apenas alguns centímetros de altura, raramente chama a atenção ao lado de plantas de pântano mais altas, e muito do que se sabe sobre ela vem de espécimes de herbário coletados em levantamentos regionais de flora, e não de tradição de jardim ou popular. Essa história tranquila e laboriosa — uma planta definida mais pela classificação cuidadosa dos taxonomistas do que pelo uso humano — é em si parte do que torna Fimbristylis vahlii digna de ser conhecida: uma pequena ciperácea facilmente ignorada que, no entanto, carrega o nome do homem que deu um lar a todo o seu gênero.",
+        "name_origin": "Nomeada em homenagem a Martin Vahl (1749-1804), o botânico dinamarquês e estudante de Linnaeus que estabeleceu o gênero Fimbristylis em 1805; Lamarck o homenageou primeiro com o epíteto específico vahlii antes de a planta ser posteriormente transferida para o gênero de Vahl.",
+        "symbolism_story": "Fimbristylis vahlii nunca tenta se destacar. Ela se ergue mal a um palmo acima da areia úmida, produz suas pequenas espiguetas franjadas e desaparece dentro de uma estação — o tipo de planta que os botânicos notam apenas ao se ajoelhar. No entanto, carrega o nome de Martin Vahl, que passou sua carreira classificando exatamente essas pequenas ciperáceas ignoradas no gênero ordenado que ainda as abriga hoje.",
+        "flower_meaning": "Humildade",
+        "uses_list": [
+          {
+            "text": "Cobertura sazonal fina em habitat de margem de lagoa arenosa e zona úmida"
+          },
+          {
+            "text": "Adiciona uma textura delicada e filiforme a plantios nativos de cascalho e áreas úmidas"
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Humildade",
+            "description": "Uma planta de apenas alguns centímetros de altura, fácil de passar despercebida, que no entanto carrega o nome do botânico que deu um lar a todo o seu gênero."
+          },
+          {
+            "keyword": "Persistência",
+            "description": "Completa todo o seu ciclo de vida como uma pequena anual em solo que alternadamente inunda e seca, retornando das sementes a cada estação chuvosa."
+          }
+        ],
+        "toxicity": {
+          "headline": "Nenhuma toxicidade relatada",
+          "active_compound_display": "Nenhum relatado",
+          "notes_en": "Nenhuma correspondência de toxicidade autoritativa encontrada; tratado como não relatado (estimativa de LLM não verificada por fonte).",
+          "human": {
+            "exposure": "Nenhuma via de exposição é relatada.",
+            "effect": "Nenhum efeito tóxico é relatado.",
+            "note": "Nenhuma toxicidade é relatada para humanos neste catálogo; isso não é evidência de que a planta seja comestível ou inofensiva."
+          },
+          "dog": {
+            "exposure": "Nenhuma via de exposição é relatada.",
+            "effect": "Nenhum efeito tóxico é relatado.",
+            "note": "Nenhuma toxicidade é relatada para cães neste catálogo; isso não é evidência de que a planta seja comestível ou inofensiva."
+          },
+          "cat": {
+            "exposure": "Nenhuma via de exposição é relatada.",
+            "effect": "Nenhum efeito tóxico é relatado.",
+            "note": "Nenhuma toxicidade é relatada para gatos neste catálogo; isso não é evidência de que a planta seja comestível ou inofensiva."
+          }
+        }
+      }
+    },
+    "AAA1620": {
+      "source_hash": "1e67f6fa1029e54e7e929b4fdc5652d3abff1be42e65127c67451f0ac103910f",
+      "fields": {
+        "common_name": "Lotus tenuis",
+        "description": "O Lotus tenuis é uma leguminosa perene baixa e rasteira, intimamente relacionada ao cornichão, mas com folíolos mais finos, semelhantes a agulhas, e cachos de flores mais esparsos, com uma a três flores. Nativo da Europa, Norte da África e Ásia ocidental, prefere prados úmidos e pastagens de várzea, tolerando alagamentos e salinidade moderada do solo que derrotam muitas outras leguminosas. Flores amarelas e alegres, em forma de ervilha, desabrocham durante o verão em hastes finas, atraindo abelhas e polinizadores. Suas raízes abrigam bactérias fixadoras de nitrogênio, enriquecendo silenciosamente o solo, tornando-o uma cobertura vegetal resistente e de baixa manutenção para gramados úmidos e áreas naturalizadas.",
+        "history_text_short": "Acredita-se que tenha chegado à Argentina como clandestino em sementes de alfafa importadas por volta de 1900, este modesto trevo de flores amarelas prosperou onde o solo salino e sujeito a inundações dos pampas derrotava outras leguminosas, tornando-se uma planta forrageira resistente e valiosa para criadores de gado.",
+        "history_text_long": "O capítulo mais consequente do Lotus tenuis se desenrolou longe de sua região nativa do Mediterrâneo e da Eurásia temperada. Por volta da virada do século XX, sementes desta modesta leguminosa chegaram à Argentina, provavelmente misturadas em carregamentos de alfafa e outras sementes forrageiras trazidas por imigrantes europeus que se estabeleceram nas vastas pastagens ao sul de Buenos Aires. Na maior parte do mundo, permaneceu uma planta obscura de beira de estrada, mas na Pampa Deprimida, as planícies baixas e sazonalmente alagadas, onde solos salinos e encharcados derrotavam leguminosas forrageiras comuns, o Lotus tenuis encontrou um nicho que quase nenhuma outra planta conseguia preencher. Fazendeiros e agrônomos notaram que, onde a alfafa e o trevo apodreciam e morriam sob água parada, este pequeno trevo fibroso continuava crescendo, fixando nitrogênio e alimentando o gado durante estações chuvosas que antes significavam meses de pastagem pobre. Em meados do século XX, cientistas agrícolas argentinos já estavam ativamente cultivando e promovendo variedades melhoradas, e ele se tornou uma das espécies forrageiras emblemáticas dos pampas alagadiços, remodelando silenciosamente a forma como os fazendeiros manejavam milhões de hectares de pastagens marginais. O que começou como um clandestino acidental em sacos de sementes importados acabou se tornando uma pedra angular agrícola, valorizado menos pela beleza do que pela pura resiliência em condições que destruíam tudo o mais.",
+        "name_origin": "O nome do gênero Lotus é uma palavra grega antiga aplicada amplamente a plantas semelhantes a trevos e lótus, enquanto o nome da espécie tenuis é latim para 'esbelto' ou 'fino', descrevendo os folíolos finos e estreitos que distinguem esta planta de seu parente de folhas mais largas, o cornichão.",
+        "symbolism_story": "O Lotus tenuis não carrega a mitologia antiga atribuída a flores mais vistosas, mas conquistou seu peso simbólico de forma prática: sobrevivendo onde plantas forrageiras mais ricas e celebradas não conseguiam. Para gerações de fazendeiros nos pampas baixos e alagadiços da Argentina, seus tapetes fibrosos de flores amarelas tornaram-se um marcador silencioso de resiliência e providência, prova de que mesmo terras marginais e encharcadas ainda podiam produzir abundância.",
+        "flower_meaning": "Resiliência",
+        "uses_list": [
+          {
+            "text": "Atrai abelhas e outros polinizadores com flores de verão"
+          },
+          {
+            "text": "Forragem fixadora de nitrogênio valorizada para gado em pastejo"
+          },
+          {
+            "text": "Naturaliza-se como cobertura vegetal de baixa manutenção em solo úmido"
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Resiliência",
+            "description": "Sua capacidade de prosperar em pastagens alagadas e salinas onde outras plantas forrageiras falham fez dela um emblema de resiliência silenciosa na tradição agrícola."
+          },
+          {
+            "keyword": "Abundância",
+            "description": "Como leguminosa fixadora de nitrogênio que renova o solo em que cresce, está ligada à fertilidade e a pastagens abundantes."
+          }
+        ],
+        "toxicity": {
+          "headline": "Nenhuma toxicidade relatada",
+          "active_compound_display": "Nenhum relatado",
+          "notes_en": "Nenhuma correspondência de toxicidade autoritativa encontrada; tratado como não relatado (estimativa de LLM não verificada por fonte).",
+          "human": {
+            "exposure": "Nenhuma via de exposição é relatada.",
+            "effect": "Nenhum efeito tóxico é relatado.",
+            "note": "Nenhuma toxicidade é relatada para humanos neste catálogo; isso não é evidência de que a planta seja comestível ou inofensiva."
+          },
+          "dog": {
+            "exposure": "Nenhuma via de exposição é relatada.",
+            "effect": "Nenhum efeito tóxico é relatado.",
+            "note": "Nenhuma toxicidade é relatada para cães neste catálogo; isso não é evidência de que a planta seja comestível ou inofensiva."
+          },
+          "cat": {
+            "exposure": "Nenhuma via de exposição é relatada.",
+            "effect": "Nenhum efeito tóxico é relatado.",
+            "note": "Nenhuma toxicidade é relatada para gatos neste catálogo; isso não é evidência de que a planta seja comestível ou inofensiva."
+          }
+        }
+      }
+    },
+    "AAA1621": {
+      "source_hash": "d81769c333fae5eee2e883d7591be91a43562529520515692a3db87d0cba4970",
+      "fields": {
+        "common_name": "Papoila-dos-muros",
+        "description": "A Papoila-dos-muros é uma perene que forma touceiras, de solo húmido, rochoso e sombreado, distribuída pela Europa ocidental, desde as Ilhas Britânicas até à Península Ibérica. Flores papiráceas, de quatro pétalas, em amarelo claro a laranja suave, balançam em caules finos e peludos acima de folhagem verde-fresca, profundamente recortada, semelhante a fetos, desabrochando durante o final da primavera e verão e semeando-se livremente uma vez estabelecida. As plantas formam montes soltos de 30-60 cm de altura, igualmente à vontade na borda de um bosque, numa fenda rochosa sombreada ou numa velha parede de pedra. Pouco exigente em solo rico em húmus, consistentemente húmido, e feliz em meia-sombra onde muitas papoilas murchariam, naturaliza-se facilmente em jardins de campo e bosques, aparecendo sem ser convidada ano após ano assim que encontra um local de que gosta.",
+        "history_text_short": "Linnaeus nomeou esta papoila pelo País de Gales em 1753, após a região onde foi registada a crescer selvagem em pedra sombreada e húmida. Mais tarde separada no seu próprio género, Meconopsis, tornou-se a flor do condado de Montgomeryshire e, desde 2006, o emblema do partido Plaid Cymru - uma pequena flor silvestre amarela carregando uma quantidade surpreendente de identidade nacional.",
+        "history_text_long": "A Papoila-dos-muros foi descrita pela primeira vez por Carl Linnaeus em 1753, que a classificou simplesmente como outra papoila, Papaver cambricum - cambricum sendo latim para 'do País de Gales', a região onde a planta foi registada pela primeira vez a crescer selvagem nas Ilhas Britânicas pelo herbalista do século XVII John Parkinson. Em 1814, o botânico francês Louis Viguier examinou mais de perto a sua cápsula de sementes distinta, de quatro partes e peluda, e separou-a num novo género, Meconopsis, embora o nome mais antigo Papaver cambricum tenha continuado a circular ao lado dele desde então. Na natureza, cresce em solo húmido, sombreado e rochoso nas terras altas da Europa ocidental, desde o País de Gales, Inglaterra e Irlanda para sul, através de França, até Espanha e Portugal - sempre nas margens mais frescas e húmidas onde a sombra profunda e a pedra impedem o solo de secar. No próprio País de Gales, a flor tornou-se algo mais do que uma flor silvestre: é a flor do condado de Montgomeryshire, as suas pétalas amarelas brilhantes lidas como um emblema de continuidade e memória, e desde 2006, uma papoila-dos-muros estilizada serve como logótipo do partido político Plaid Cymru, ecoando a papoila vermelha da memória enquanto marca uma identidade distintamente galesa. A crença popular mais antiga atribuía à flor um tipo mais suave de proteção, dizendo-se que afastava espíritos maliciosos da casa e do jardim - uma reputação modesta para uma planta que se semeia em cada fenda húmida e canto sombreado que consegue alcançar, e depois persiste silenciosamente ali durante gerações.",
+        "name_origin": "Cambricum é latim para 'do País de Gales' (de Cambria, o nome latino para o País de Gales), refletindo onde a planta foi registada pela primeira vez a crescer selvagem nas Ilhas Britânicas; Linnaeus nomeou-a Papaver cambricum em 1753 antes de ser mais tarde separada no seu próprio género, Meconopsis.",
+        "symbolism_story": "Uma modesta flor silvestre amarela dos vales húmidos galeses veio, ao longo dos séculos, a representar algo maior do que ela própria: o emblema floral de um condado, o logótipo de um partido político e, na crença popular mais antiga, um pequeno guardião contra a maldade no portão do jardim. A Papoila-dos-muros não pede nada mais do que sombra e pedra húmida, mas continua a regressar, auto-semeada, aos mesmos cantos silenciosos ano após ano.",
+        "flower_meaning": "Memória",
+        "uses_list": [
+          {
+            "text": "Flores papiráceas amarelas a laranja para bordaduras sombreadas, bordas de bosques e paredes de pedra"
+          },
+          {
+            "text": "Flores abertas e ricas em pólen atraem abelhas para cantos sombreados do jardim"
+          },
+          {
+            "text": "Caules cortados de curta duração trazem cor brilhante a arranjos informais e casuais"
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Memória",
+            "description": "Flor do condado de Montgomeryshire e, desde 2006, emblema do Plaid Cymru - uma pequena flor silvestre carregando identidade e continuidade galesas."
+          },
+          {
+            "keyword": "Proteção",
+            "description": "Na crença popular galesa mais antiga, dizia-se que a papoila afastava espíritos maliciosos da casa e do jardim."
+          }
+        ],
+        "toxicity": {
+          "headline": "Toxicidade desconhecida",
+          "active_compound_display": "Nenhum relatado",
+          "notes_en": "Nenhuma correspondência de toxicidade autoritária encontrada; tratado como não relatado (estimativa LLM não verificada por fonte).",
+          "human": {
+            "exposure": "Nenhuma via de exposição é relatada.",
+            "effect": "Nenhum efeito tóxico é relatado.",
+            "note": "A toxicidade para humanos não está bem documentada; use cautela até ser verificada."
+          },
+          "dog": {
+            "exposure": "Nenhuma via de exposição é relatada.",
+            "effect": "Nenhum efeito tóxico é relatado.",
+            "note": "A toxicidade para cães não está bem documentada; use cautela até ser verificada."
+          },
+          "cat": {
+            "exposure": "Nenhuma via de exposição é relatada.",
+            "effect": "Nenhum efeito tóxico é relatado.",
+            "note": "A toxicidade para gatos não está bem documentada; use cautela até ser verificada."
+          }
+        }
+      }
+    },
+    "AAA1622": {
+      "source_hash": "2eb4de02c961955a00eafa8f3255fd47d4ffea423fdea4a2ab29cf34905ab6c6",
+      "fields": {
+        "common_name": "Papoila-espanhola",
+        "bloom_tip": "Esta planta floresce na primavera, com um período de floração curto e bonito.",
+        "description": "A Papoila-espanhola é uma papoila perene de vida curta, nativa das encostas rochosas do sul de Espanha e Marrocos, onde fixa as suas raízes em fendas de falésias calcárias a 700-1600 metros de altitude. Flores de textura papirácea e enrugadas, em tons de vermelho-tijolo a laranja suave, com 3-4,5 cm de diâmetro e anteras amarelo-douradas, abrem-se acima de uma roseta baixa de folhas peludas, profundamente lobadas, verde-acinzentadas, do final da primavera ao verão. As plantas formam tufos soltos e ramificados de 15-45 cm de altura e propagam-se facilmente por semente uma vez estabelecidas. Dê-lhe pleno sol e solo pobre, aguçado e bem drenado – um canteiro de gravilha, uma fenda num jardim de rochas ou um muro seco – e ela voltará ano após ano a partir das suas próprias sementes dispersas, necessitando de quase nenhum cuidado além de boa drenagem.",
+        "history_text_short": "O nome científico da Papoila-espanhola significa 'quebra-rochas', pela forma como se semeia em fendas em falésias calcárias nuas acima da Andaluzia e Marrocos. O botânico suíço Edmond Boissier e Georges Reuter descreveram-na em 1852 a partir de um espécime colhido numa das expedições autofinanciadas e árduas de Boissier pela Sierra de Ronda, que abriram pela primeira vez a flora montanhosa do sul de Espanha à ciência europeia.",
+        "history_text_long": "A Papoila-espanhola recebe o seu nome científico, rupifragum, do latim rupes (rocha) e frangere (quebrar) – 'quebra-rochas' – pela forma como se semeia em fendas estreitas em falésias calcárias nuas. Foi formalmente descrita em 1852 pelo botânico suíço Edmond Boissier e seu colaborador Georges Reuter, que passaram 1849 viajando pelas montanhas do sul de Espanha e Marrocos numa de várias expedições botânicas autofinanciadas que Boissier fez à Península Ibérica e Norte de África. O seu espécime-tipo veio da Serrania de Ronda, uma cordilheira calcária na Andaluzia, e a espécie foi publicada entre dezenas de plantas recentemente reconhecidas no seu Pugillus Plantarum Novarum Africae Borealis Hispaniaeque Australis, um levantamento em latim da flora norte-africana e do sul de Espanha anteriormente não descrita. As expedições de Boissier, realizadas à sua própria custa e posteriormente destiladas no seu monumental Voyage botanique dans le midi de l'Espagne, abriram a flora montanhosa da Andaluzia à botânica europeia pela primeira vez, e a Papoila-espanhola continua a ser uma das especialistas em fendas rochosas que os seus levantamentos trouxeram à luz. Nas suas falésias nativas, sobrevive com quase nada: um punhado de solo alojado numa fenda, sol escaldante e a chuva que a face rochosa derrama para as suas raízes. Introduzida nos jardins como uma papoila para jardins de rochas e canteiros de gravilha exatamente por essa resistência, escapou ao cultivo moderado em algumas áreas fora da sua distribuição nativa, ainda à procura do mesmo solo pobre e pedregoso que colonizou pela primeira vez na Sierra de Ronda.",
+        "name_origin": "Do latim rupes, 'rocha', e frangere, 'quebrar/partir' – 'quebra-rochas', pela forma como se semeia em fendas nuas em falésias calcárias; descrita em 1852 por Edmond Boissier e Georges Reuter a partir de um espécime colhido na Serrania de Ronda, Espanha.",
+        "symbolism_story": "A Papoila-espanhola faz da sua casa o único lugar que outras plantas evitam: uma fenda nua numa face de falésia, exposta ao sol o dia todo. Não pede nada além desse estreito apoio, e depois explode em floração vermelho-tijolo a cada primavera – uma exibição curta e vívida de uma planta que sobrevive com quase nenhum solo.",
+        "flower_meaning": "Tenacidade",
+        "uses_list": [
+          {
+            "text": "Flores papiráceas vermelho-tijolo a laranja para jardins de rochas, canteiros de gravilha e muros secos"
+          },
+          {
+            "text": "Flores abertas e ricas em pólen atraem abelhas para plantações ensolaradas e secas"
+          },
+          {
+            "text": "Hastes cortadas dão contribuições de curta duração mas vívidas a arranjos informais"
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Tenacidade",
+            "description": "Enraíza-se em fendas nuas em falésias calcárias expostas ao sol onde quase mais nada consegue agarrar-se, necessitando apenas de uma pitada de solo e pleno sol."
+          },
+          {
+            "keyword": "Beleza efémera",
+            "description": "Como a maioria das papoilas, cada flor papirácea dura apenas alguns dias, abrindo-se enrugada a partir do botão e desfazendo-se pouco depois."
+          }
+        ],
+        "toxicity": {
+          "headline": "Toxicidade desconhecida",
+          "active_compound_display": "Nenhum relatado",
+          "notes_en": "Nenhuma correspondência de toxicidade autoritativa encontrada; tratado como não relatado (estimativa LLM não verificada por fonte).",
+          "human": {
+            "exposure": "Nenhuma via de exposição é relatada.",
+            "effect": "Nenhum efeito tóxico é relatado.",
+            "note": "A toxicidade para humanos não está bem documentada; use com cautela até verificação."
+          },
+          "dog": {
+            "exposure": "Nenhuma via de exposição é relatada.",
+            "effect": "Nenhum efeito tóxico é relatado.",
+            "note": "A toxicidade para cães não está bem documentada; use com cautela até verificação."
+          },
+          "cat": {
+            "exposure": "Nenhuma via de exposição é relatada.",
+            "effect": "Nenhum efeito tóxico é relatado.",
+            "note": "A toxicidade para gatos não está bem documentada; use com cautela até verificação."
           }
         }
       }
