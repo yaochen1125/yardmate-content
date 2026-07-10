@@ -1,5 +1,5 @@
 {
- "version": 3,
+ "version": 4,
  "shared": {
   "steps": {
    "S01": {
@@ -472,7 +472,8 @@
     "L22",
     "L23",
     "L24",
-    "L25"
+    "L25",
+    "L26"
    ]
   },
   {
@@ -8504,6 +8505,9 @@
    "slug": "drought-stress",
    "name": "Drought stress",
    "fullName": "L25 — Drought stress",
+   "aliases": [
+    "O1"
+   ],
    "shortDescription": "Leaves wilt, curl and drop; growth stunts from too little water.",
    "symptomAnalysis": "Visible symptoms include wilting leaves, leaf drop, and stunted growth as the plant struggles to conserve water and respond to stress.",
    "heroImage": null,
@@ -8607,6 +8611,9 @@
    "slug": "phytophthora",
    "name": "Phytophthora",
    "fullName": "R08 — Phytophthora",
+   "aliases": [
+    "O2"
+   ],
    "shortDescription": "Roots, stems and tubers rot; plant wilts and collapses.",
    "symptomAnalysis": "Symptoms include yellowing leaves, wilting, root rot, and dark, mushy lesions on stems and tubers.",
    "heroImage": null,
@@ -8672,6 +8679,112 @@
         "body": "When more than half the plant is affected or root rot is widespread, dig the plant up, seal it in a heavy trash bag, and dispose. Sterilize the area before replanting.",
         "image": "v9xLBG.png",
         "title": "Discard the Severely Infected Plant",
+        "subSteps": []
+       }
+      ]
+     }
+    ]
+   }
+  },
+  "L26": {
+   "id": "L26",
+   "category": "Leaves",
+   "categoryFolder": "01_leaves",
+   "slug": "fungi",
+   "name": "Fungi",
+   "fullName": "L26 — Fungi",
+   "aliases": [
+    "O3"
+   ],
+   "shortDescription": "Leaves yellowing and wilting; spots or lesions present.",
+   "symptomAnalysis": "Visible lesions on leaves and stems; plant appears unhealthy.",
+   "heroImage": null,
+   "crossReferences": [],
+   "treatment": {
+    "groups": [
+     {
+      "label": null,
+      "steps": [
+       {
+        "num": 1,
+        "ref": "S25",
+        "body": "Spray a copper-based fungicide (Bordeaux mixture, copper sulfate, or commercial copper hydroxide) on leaves, stems, and surrounding soil per the product label. Reapply every 7–14 days.",
+        "image": "aKC90.png",
+        "title": "Apply Copper Fungicide",
+        "subSteps": []
+       },
+       {
+        "num": 2,
+        "ref": "S26",
+        "body": "When copper is not enough, use a synthetic systemic fungicide (e.g. propiconazole, myclobutanil) per the product label. Spray to runoff. Always rotate fungicides to avoid resistance.",
+        "image": "Rg3ID.png",
+        "title": "Apply Broad-Spectrum Fungicide",
+        "subSteps": []
+       },
+       {
+        "num": 3,
+        "ref": "S04",
+        "body": "Cut off affected foliage and twigs with sterilized tools, cutting back into healthy tissue. Bag and discard cuttings — never compost diseased material.",
+        "image": "xti0O.png",
+        "title": "Prune Infected Leaves and Stems",
+        "subSteps": []
+       }
+      ]
+     }
+    ]
+   },
+   "homeRemedies": [],
+   "prevention": {
+    "groups": [
+     {
+      "label": null,
+      "steps": [
+       {
+        "num": 1,
+        "ref": "S40",
+        "body": "When buying plants, look for cultivars labeled resistant to common diseases (e.g. \"Verticillium-resistant tomatoes\", \"rust-resistant roses\"). Local nurseries and seed packets list resistance codes.",
+        "image": "QdMqW.png",
+        "title": "Choose Resistant Varieties",
+        "subSteps": []
+       },
+       {
+        "num": 2,
+        "ref": "S12",
+        "body": "Lay a clear plastic sheet over moist garden soil for 4–6 weeks during the hottest part of the year. Heat builds underneath and kills nematodes, fungi, and weed seeds.",
+        "image": "ii7HG.png",
+        "title": "Solarize the Soil",
+        "subSteps": []
+       },
+       {
+        "num": 3,
+        "ref": "S21",
+        "body": "Space plants apart so leaves do not touch when fully grown. Indoors, run a small oscillating fan part of the day. Outdoors, prune neighboring vegetation that blocks breeze.",
+        "image": "eQxUm.png",
+        "title": "Increase Airflow and Spacing",
+        "subSteps": []
+       },
+       {
+        "num": 4,
+        "ref": "S22",
+        "body": "Mist the foliage daily, group plants together, set the pot on a tray of pebbles in shallow water, or run a humidifier. Aim for 40–60% relative humidity.",
+        "image": "gYv0v.png",
+        "title": "Increase Humidity Around Plant",
+        "subSteps": []
+       },
+       {
+        "num": 5,
+        "ref": "S23",
+        "body": "Cover vulnerable plants with a frost cloth, burlap, sheet, or row cover before nightfall. Bring potted plants indoors. Remove the cover the next morning.",
+        "image": "PV4RP.png",
+        "title": "Protect From Frost",
+        "subSteps": []
+       },
+       {
+        "num": 6,
+        "ref": "S41",
+        "body": "Rake fallen leaves, fruit, and dead branches out from under plants — especially in autumn. Many pathogens overwinter in plant debris and reinfect in spring.",
+        "image": "ToDy4.png",
+        "title": "Clear Debris Around Plants",
         "subSteps": []
        }
       ]

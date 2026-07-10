@@ -3,7 +3,7 @@
   "locale": "fr",
   "source": {
     "resource": "diseases.json",
-    "sha256": "d26b8cb95d85389f21f20f8f47e0aaf07a384e1fd40fc8b81ccaef4f32047c21"
+    "sha256": "b6e3c001b9f0892ef3705039b3ac272e0221ef3952c988e0283c65a6c9e3e903"
   },
   "fields": {
     "categories": {
@@ -3993,6 +3993,63 @@
                 {
                   "title": "Éliminez la plante gravement infectée",
                   "body": "Quand plus de la moitié de la plante est affectée ou que la pourriture des racines est généralisée, déterrez la plante, enfermez-la dans un sac poubelle épais et jetez-la. Stérilisez la zone avant de replanter."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "L26": {
+        "name": "Maladie fongique",
+        "shortDescription": "Feuilles jaunissantes et flétries ; taches ou lésions présentes.",
+        "symptomAnalysis": "Lésions visibles sur les feuilles et les tiges ; la plante paraît affaiblie.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Appliquer un fongicide à base de cuivre",
+                  "body": "Pulvérisez un fongicide à base de cuivre (bouillie bordelaise, sulfate de cuivre ou hydroxyde de cuivre du commerce) sur les feuilles, les tiges et le sol environnant selon l'étiquette du produit. Renouvelez tous les 7 à 14 jours."
+                },
+                {
+                  "title": "Appliquer un fongicide à large spectre",
+                  "body": "Si le cuivre ne suffit pas, utilisez un fongicide systémique de synthèse (par ex. propiconazole, myclobutanil) selon l'étiquette du produit. Pulvérisez jusqu'à ruissellement. Alternez toujours les fongicides pour éviter les résistances."
+                },
+                {
+                  "title": "Tailler les feuilles et tiges infectées",
+                  "body": "Coupez le feuillage et les rameaux atteints avec des outils stérilisés, en revenant jusqu'au tissu sain. Mettez les résidus en sac et jetez-les — ne les compostez jamais."
+                }
+              ]
+            }
+          ]
+        },
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Choisir des variétés résistantes",
+                  "body": "Lors de l'achat de plantes, recherchez des cultivars étiquetés résistants aux maladies courantes (par ex. « tomates résistantes au verticillium », « rosiers résistants à la rouille »). Les pépinières locales et les sachets de graines indiquent les codes de résistance."
+                },
+                {
+                  "title": "Solariser le sol",
+                  "body": "Étalez une bâche plastique transparente sur un sol de jardin humide pendant 4 à 6 semaines durant la période la plus chaude de l'année. La chaleur accumulée en dessous tue les nématodes, les champignons et les graines de mauvaises herbes."
+                },
+                {
+                  "title": "Augmenter la circulation d'air et l'espacement",
+                  "body": "Espacez les plantes pour que les feuilles ne se touchent pas une fois adultes. En intérieur, faites fonctionner un petit ventilateur oscillant une partie de la journée. En extérieur, taillez la végétation voisine qui bloque la brise."
+                },
+                {
+                  "title": "Augmenter l'humidité autour de la plante",
+                  "body": "Vaporisez le feuillage quotidiennement, regroupez les plantes, posez le pot sur un plateau de graviers avec un peu d'eau, ou utilisez un humidificateur. Visez 40 à 60 % d'humidité relative."
+                },
+                {
+                  "title": "Protéger du gel",
+                  "body": "Couvrez les plantes vulnérables d'un voile d'hivernage, de toile de jute, d'un drap ou d'un tunnel avant la tombée de la nuit. Rentrez les plantes en pot à l'intérieur. Retirez la protection le lendemain matin."
+                },
+                {
+                  "title": "Éliminer les débris autour des plantes",
+                  "body": "Ratissez les feuilles mortes, fruits et branches mortes sous les plantes — surtout en automne. De nombreux agents pathogènes hivernent dans les débris végétaux et réinfectent au printemps."
                 }
               ]
             }

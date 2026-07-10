@@ -3,7 +3,7 @@
   "locale": "es",
   "source": {
     "resource": "diseases.json",
-    "sha256": "d26b8cb95d85389f21f20f8f47e0aaf07a384e1fd40fc8b81ccaef4f32047c21"
+    "sha256": "b6e3c001b9f0892ef3705039b3ac272e0221ef3952c988e0283c65a6c9e3e903"
   },
   "fields": {
     "categories": {
@@ -3993,6 +3993,63 @@
                 {
                   "title": "Descartar la planta gravemente infectada",
                   "body": "Si más de la mitad de la planta está afectada o la pudrición de raíces es generalizada, desentierre la planta, séllela en una bolsa de basura resistente y deséchela. Esterilice el área antes de replantar."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "L26": {
+        "name": "Enfermedad fúngica",
+        "shortDescription": "Hojas amarillentas y marchitas; presencia de manchas o lesiones.",
+        "symptomAnalysis": "Lesiones visibles en hojas y tallos; la planta luce enferma.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Aplicar fungicida a base de cobre",
+                  "body": "Rocíe un fungicida a base de cobre (caldo bordelés, sulfato de cobre o hidróxido de cobre comercial) sobre hojas, tallos y el suelo circundante según la etiqueta del producto. Repita cada 7–14 días."
+                },
+                {
+                  "title": "Aplicar fungicida de amplio espectro",
+                  "body": "Cuando el cobre no sea suficiente, use un fungicida sistémico sintético (p. ej. propiconazol, miclobutanil) según la etiqueta del producto. Rocíe hasta el punto de goteo. Alterne siempre los fungicidas para evitar resistencias."
+                },
+                {
+                  "title": "Podar hojas y tallos infectados",
+                  "body": "Corte el follaje y las ramas afectadas con herramientas esterilizadas, cortando hasta tejido sano. Embolse y deseche los recortes — nunca los composte."
+                }
+              ]
+            }
+          ]
+        },
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Elegir variedades resistentes",
+                  "body": "Al comprar plantas, busque cultivares etiquetados como resistentes a enfermedades comunes (p. ej. «tomates resistentes a Verticillium», «rosas resistentes a la roya»). Los viveros locales y los paquetes de semillas indican los códigos de resistencia."
+                },
+                {
+                  "title": "Solarizar el suelo",
+                  "body": "Cubra el suelo húmedo del jardín con una lámina de plástico transparente durante 4–6 semanas en la época más calurosa del año. El calor generado debajo elimina nematodos, hongos y semillas de malas hierbas."
+                },
+                {
+                  "title": "Aumentar la ventilación y el espaciado",
+                  "body": "Separe las plantas para que las hojas no se toquen al alcanzar su tamaño adulto. En interiores, use un ventilador oscilante parte del día. En exteriores, pode la vegetación vecina que bloquee la brisa."
+                },
+                {
+                  "title": "Aumentar la humedad alrededor de la planta",
+                  "body": "Rocíe el follaje a diario, agrupe las plantas, coloque la maceta sobre una bandeja de guijarros con agua poco profunda, o use un humidificador. Procure un 40–60 % de humedad relativa."
+                },
+                {
+                  "title": "Proteger de las heladas",
+                  "body": "Cubra las plantas vulnerables con tela antiheladas, arpillera, una sábana o manta térmica antes del anochecer. Traiga las plantas en maceta al interior. Retire la cubierta a la mañana siguiente."
+                },
+                {
+                  "title": "Retirar los restos vegetales",
+                  "body": "Rastrille las hojas caídas, frutos y ramas muertas debajo de las plantas, especialmente en otoño. Muchos patógenos invernan en los restos vegetales y reinfectan en primavera."
                 }
               ]
             }

@@ -3,7 +3,7 @@
   "locale": "vi",
   "source": {
     "resource": "diseases.json",
-    "sha256": "d26b8cb95d85389f21f20f8f47e0aaf07a384e1fd40fc8b81ccaef4f32047c21"
+    "sha256": "b6e3c001b9f0892ef3705039b3ac272e0221ef3952c988e0283c65a6c9e3e903"
   },
   "fields": {
     "categories": {
@@ -3993,6 +3993,63 @@
                 {
                   "title": "Vứt bỏ Cây Bị Nhiễm Bệnh Nặng",
                   "body": "Khi hơn một nửa cây bị ảnh hưởng hoặc thối rễ lan rộng, đào cây lên, niêm phong nó trong bao rác dày, và vứt bỏ. Tiêu trùng khu vực trước khi trồng lại."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "L26": {
+        "name": "Bệnh nấm",
+        "shortDescription": "Lá vàng và héo; xuất hiện đốm hoặc vết bệnh.",
+        "symptomAnalysis": "Có thể thấy vết bệnh trên lá và thân; cây trông kém khỏe mạnh.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Phun thuốc diệt nấm gốc đồng",
+                  "body": "Phun thuốc diệt nấm gốc đồng (hỗn hợp Bordeaux, đồng sunfat, hoặc đồng hydroxit thương phẩm) lên lá, thân và đất xung quanh theo hướng dẫn trên nhãn sản phẩm. Phun lại mỗi 7–14 ngày."
+                },
+                {
+                  "title": "Phun thuốc diệt nấm phổ rộng",
+                  "body": "Khi thuốc gốc đồng không đủ hiệu quả, dùng thuốc diệt nấm nội hấp tổng hợp (ví dụ: propiconazole, myclobutanil) theo hướng dẫn trên nhãn sản phẩm. Phun cho đến khi ướt đẫm lá. Luôn luân phiên các loại thuốc diệt nấm để tránh kháng thuốc."
+                },
+                {
+                  "title": "Cắt tỉa lá và thân bị nhiễm bệnh",
+                  "body": "Dùng dụng cụ đã khử trùng cắt bỏ phần lá và cành bị ảnh hưởng, cắt sâu vào mô khỏe mạnh. Cho phần cắt tỉa vào túi và vứt bỏ — tuyệt đối không ủ làm phân compost."
+                }
+              ]
+            }
+          ]
+        },
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Chọn giống kháng bệnh",
+                  "body": "Khi mua cây, tìm các giống được ghi nhãn kháng các bệnh phổ biến (ví dụ: «cà chua kháng Verticillium», «hoa hồng kháng bệnh gỉ sắt»). Các vườn ươm địa phương và bao hạt giống có ghi mã kháng bệnh."
+                },
+                {
+                  "title": "Xử lý đất bằng nhiệt mặt trời",
+                  "body": "Trải một tấm nhựa trong suốt lên đất vườn ẩm trong 4–6 tuần vào thời điểm nóng nhất trong năm. Nhiệt tích tụ bên dưới sẽ tiêu diệt tuyến trùng, nấm và hạt cỏ dại."
+                },
+                {
+                  "title": "Tăng độ thông thoáng và khoảng cách trồng",
+                  "body": "Trồng cây cách xa nhau để lá không chạm vào nhau khi trưởng thành. Trong nhà, chạy quạt xoay nhỏ một phần thời gian trong ngày. Ngoài trời, cắt tỉa cây cối xung quanh cản gió."
+                },
+                {
+                  "title": "Tăng độ ẩm quanh cây",
+                  "body": "Phun sương lên lá hàng ngày, đặt các chậu cây gần nhau, đặt chậu lên khay sỏi có ít nước, hoặc dùng máy tạo ẩm. Hướng tới độ ẩm tương đối 40–60%."
+                },
+                {
+                  "title": "Bảo vệ khỏi sương giá",
+                  "body": "Che phủ những cây dễ bị tổn thương bằng vải chống sương giá, bao tải, tấm vải hoặc vải nông nghiệp trước khi trời tối. Đưa cây trồng chậu vào trong nhà. Bỏ lớp che phủ vào sáng hôm sau."
+                },
+                {
+                  "title": "Dọn sạch tàn dư quanh cây",
+                  "body": "Cào lá rụng, quả rụng và cành chết ra khỏi gốc cây — đặc biệt vào mùa thu. Nhiều mầm bệnh trú đông trong tàn dư thực vật và tái nhiễm vào mùa xuân."
                 }
               ]
             }

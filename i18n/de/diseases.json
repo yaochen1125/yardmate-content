@@ -3,7 +3,7 @@
   "locale": "de",
   "source": {
     "resource": "diseases.json",
-    "sha256": "d26b8cb95d85389f21f20f8f47e0aaf07a384e1fd40fc8b81ccaef4f32047c21"
+    "sha256": "b6e3c001b9f0892ef3705039b3ac272e0221ef3952c988e0283c65a6c9e3e903"
   },
   "fields": {
     "categories": {
@@ -3993,6 +3993,63 @@
                 {
                   "title": "Stark befallene Pflanze entsorgen",
                   "body": "Wenn mehr als die Hälfte der Pflanze betroffen ist oder die Wurzelfäule weit verbreitet ist, graben Sie die Pflanze aus, versiegeln Sie sie in einem stabilen Müllsack und entsorgen Sie sie. Sterilisieren Sie den Bereich vor dem Neupflanzen."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "L26": {
+        "name": "Pilzkrankheit",
+        "shortDescription": "Blätter vergilben und welken; Flecken oder Läsionen sind sichtbar.",
+        "symptomAnalysis": "Sichtbare Läsionen an Blättern und Stängeln; die Pflanze wirkt geschwächt.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Kupferfungizid anwenden",
+                  "body": "Sprühen Sie ein kupferhaltiges Fungizid (Bordeauxbrühe, Kupfersulfat oder handelsübliches Kupferhydroxid) gemäß Produktetikett auf Blätter, Stängel und den umgebenden Boden. Alle 7–14 Tage wiederholen."
+                },
+                {
+                  "title": "Breitband-Fungizid anwenden",
+                  "body": "Reicht Kupfer nicht aus, verwenden Sie ein synthetisches systemisches Fungizid (z. B. Propiconazol, Myclobutanil) gemäß Produktetikett. Bis zum Abtropfen besprühen. Fungizide stets abwechseln, um Resistenzen zu vermeiden."
+                },
+                {
+                  "title": "Befallene Blätter und Triebe zurückschneiden",
+                  "body": "Schneiden Sie befallenes Laub und Triebe mit sterilisiertem Werkzeug bis ins gesunde Gewebe zurück. Schnittgut einsacken und entsorgen — niemals kompostieren."
+                }
+              ]
+            }
+          ]
+        },
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Widerstandsfähige Sorten wählen",
+                  "body": "Achten Sie beim Pflanzenkauf auf Sorten, die als resistent gegen häufige Krankheiten gekennzeichnet sind (z. B. „Verticillium-resistente Tomaten“, „rostresistente Rosen“). Örtliche Gärtnereien und Saatguttüten listen entsprechende Resistenzcodes."
+                },
+                {
+                  "title": "Boden solarisieren",
+                  "body": "Legen Sie während der heißesten Jahreszeit für 4–6 Wochen eine klare Plastikfolie über feuchten Gartenboden. Die darunter entstehende Hitze tötet Nematoden, Pilze und Unkrautsamen ab."
+                },
+                {
+                  "title": "Luftzirkulation und Pflanzabstand erhöhen",
+                  "body": "Pflanzen Sie mit ausreichend Abstand, sodass sich ausgewachsene Blätter nicht berühren. Drinnen zeitweise einen kleinen Ventilator laufen lassen. Draußen benachbarte Vegetation zurückschneiden, die den Luftzug blockiert."
+                },
+                {
+                  "title": "Luftfeuchtigkeit um die Pflanze erhöhen",
+                  "body": "Besprühen Sie das Laub täglich, stellen Sie Pflanzen gruppiert zusammen, setzen Sie den Topf auf eine Kiesschale mit flachem Wasser oder betreiben Sie einen Luftbefeuchter. Streben Sie 40–60 % relative Luftfeuchtigkeit an."
+                },
+                {
+                  "title": "Vor Frost schützen",
+                  "body": "Decken Sie gefährdete Pflanzen vor Einbruch der Nacht mit Frostschutzvlies, Jute, einem Laken oder Vlieshaube ab. Topfpflanzen ins Haus holen. Abdeckung am nächsten Morgen entfernen."
+                },
+                {
+                  "title": "Pflanzenreste entfernen",
+                  "body": "Rechen Sie abgefallenes Laub, Früchte und totes Geäst unter den Pflanzen weg — besonders im Herbst. Viele Erreger überwintern in Pflanzenresten und infizieren im Frühjahr erneut."
                 }
               ]
             }

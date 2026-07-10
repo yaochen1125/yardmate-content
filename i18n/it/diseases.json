@@ -3,7 +3,7 @@
   "locale": "it",
   "source": {
     "resource": "diseases.json",
-    "sha256": "d26b8cb95d85389f21f20f8f47e0aaf07a384e1fd40fc8b81ccaef4f32047c21"
+    "sha256": "b6e3c001b9f0892ef3705039b3ac272e0221ef3952c988e0283c65a6c9e3e903"
   },
   "fields": {
     "categories": {
@@ -3993,6 +3993,63 @@
                 {
                   "title": "Elimina la Pianta Gravemente Infetta",
                   "body": "Quando più della metà della pianta è colpita o il marciume radicale è diffuso, scava la pianta, sigillala in un sacco della spazzatura pesante e gettala via. Sterilizza l'area prima di ripiantare."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "L26": {
+        "name": "Malattia fungina",
+        "shortDescription": "Foglie ingiallite e appassite; presenza di macchie o lesioni.",
+        "symptomAnalysis": "Lesioni visibili su foglie e steli; la pianta appare sofferente.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Applicare un fungicida a base di rame",
+                  "body": "Spruzzare un fungicida a base di rame (poltiglia bordolese, solfato di rame o idrossido di rame commerciale) su foglie, steli e terreno circostante seguendo l'etichetta del prodotto. Ripetere ogni 7–14 giorni."
+                },
+                {
+                  "title": "Applicare un fungicida ad ampio spettro",
+                  "body": "Quando il rame non basta, usare un fungicida sistemico sintetico (ad es. propiconazolo, miclobutanil) seguendo l'etichetta del prodotto. Spruzzare fino a gocciolamento. Alternare sempre i fungicidi per evitare resistenze."
+                },
+                {
+                  "title": "Potare foglie e steli infetti",
+                  "body": "Tagliare il fogliame e i rametti colpiti con strumenti sterilizzati, rientrando nel tessuto sano. Insaccare e gettare gli scarti — non compostarli mai."
+                }
+              ]
+            }
+          ]
+        },
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Scegliere varietà resistenti",
+                  "body": "Al momento dell'acquisto, cercare cultivar etichettate come resistenti alle malattie comuni (ad es. «pomodori resistenti alla verticillosi», «rose resistenti alla ruggine»). I vivai locali e le bustine di semi riportano i codici di resistenza."
+                },
+                {
+                  "title": "Solarizzare il terreno",
+                  "body": "Stendere un telo di plastica trasparente sul terreno umido del giardino per 4–6 settimane nel periodo più caldo dell'anno. Il calore che si accumula sotto uccide nematodi, funghi e semi di infestanti."
+                },
+                {
+                  "title": "Aumentare aerazione e distanza tra le piante",
+                  "body": "Distanziare le piante in modo che le foglie non si tocchino a maturità. In interno, far funzionare un piccolo ventilatore oscillante parte della giornata. In esterno, potare la vegetazione vicina che blocca la brezza."
+                },
+                {
+                  "title": "Aumentare l'umidità intorno alla pianta",
+                  "body": "Nebulizzare il fogliame quotidianamente, raggruppare le piante, porre il vaso su un vassoio di ciottoli con poca acqua, oppure usare un umidificatore. Puntare a un'umidità relativa del 40–60%."
+                },
+                {
+                  "title": "Proteggere dal gelo",
+                  "body": "Coprire le piante vulnerabili con un telo antigelo, iuta, un lenzuolo o una copertura a rete prima del calare della notte. Portare in casa le piante in vaso. Rimuovere la copertura la mattina seguente."
+                },
+                {
+                  "title": "Rimuovere i detriti intorno alle piante",
+                  "body": "Rastrellare foglie cadute, frutti e rami morti sotto le piante — soprattutto in autunno. Molti patogeni svernano nei detriti vegetali e reinfettano in primavera."
                 }
               ]
             }

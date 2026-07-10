@@ -3,7 +3,7 @@
   "locale": "pt",
   "source": {
     "resource": "diseases.json",
-    "sha256": "d26b8cb95d85389f21f20f8f47e0aaf07a384e1fd40fc8b81ccaef4f32047c21"
+    "sha256": "b6e3c001b9f0892ef3705039b3ac272e0221ef3952c988e0283c65a6c9e3e903"
   },
   "fields": {
     "categories": {
@@ -3993,6 +3993,63 @@
                 {
                   "title": "Descartar a Planta Gravemente Infectada",
                   "body": "Quando mais da metade da planta é afetada ou a podridão radicular é generalizada, retire a planta, coloque-a em um saco de lixo pesado e descarte. Esterilize a área antes de replantar."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "L26": {
+        "name": "Doença fúngica",
+        "shortDescription": "Folhas amareladas e murchas; manchas ou lesões presentes.",
+        "symptomAnalysis": "Lesões visíveis nas folhas e caules; a planta parece debilitada.",
+        "treatment": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Aplicar fungicida à base de cobre",
+                  "body": "Pulverize um fungicida à base de cobre (calda bordalesa, sulfato de cobre ou hidróxido de cobre comercial) sobre folhas, caules e o solo ao redor, conforme a bula do produto. Reaplique a cada 7–14 dias."
+                },
+                {
+                  "title": "Aplicar fungicida de amplo espectro",
+                  "body": "Quando o cobre não for suficiente, use um fungicida sistêmico sintético (ex.: propiconazol, miclobutanil) conforme a bula do produto. Pulverize até escorrer. Alterne sempre os fungicidas para evitar resistência."
+                },
+                {
+                  "title": "Podar folhas e caules infectados",
+                  "body": "Corte a folhagem e os ramos afetados com ferramentas esterilizadas, cortando até o tecido saudável. Ensaque e descarte os restos — nunca os composte."
+                }
+              ]
+            }
+          ]
+        },
+        "prevention": {
+          "groups": [
+            {
+              "steps": [
+                {
+                  "title": "Escolher variedades resistentes",
+                  "body": "Ao comprar plantas, procure cultivares rotuladas como resistentes a doenças comuns (ex.: «tomates resistentes a Verticillium», «rosas resistentes à ferrugem»). Viveiros locais e pacotes de sementes trazem os códigos de resistência."
+                },
+                {
+                  "title": "Solarizar o solo",
+                  "body": "Cubra o solo úmido do jardim com uma lona plástica transparente por 4–6 semanas durante o período mais quente do ano. O calor acumulado embaixo mata nematoides, fungos e sementes de ervas daninhas."
+                },
+                {
+                  "title": "Aumentar a ventilação e o espaçamento",
+                  "body": "Espace as plantas para que as folhas não se toquem quando adultas. Em ambientes internos, use um pequeno ventilador oscilante parte do dia. Ao ar livre, pode a vegetação vizinha que bloqueia a brisa."
+                },
+                {
+                  "title": "Aumentar a umidade ao redor da planta",
+                  "body": "Borrife a folhagem diariamente, agrupe as plantas, coloque o vaso sobre uma bandeja de seixos com um pouco de água, ou use um umidificador. Procure manter 40–60% de umidade relativa."
+                },
+                {
+                  "title": "Proteger contra geadas",
+                  "body": "Cubra as plantas vulneráveis com manta anti-geada, aniagem, um lençol ou tecido agrícola antes do anoitecer. Traga as plantas em vaso para dentro de casa. Remova a cobertura na manhã seguinte."
+                },
+                {
+                  "title": "Remover detritos ao redor das plantas",
+                  "body": "Rastele folhas caídas, frutos e galhos mortos sob as plantas — especialmente no outono. Muitos patógenos hibernam nos restos vegetais e reinfectam na primavera."
                 }
               ]
             }
