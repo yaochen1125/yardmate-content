@@ -3,8 +3,8 @@
   "locale": "pt",
   "source": {
     "resource": "plants_detail.json",
-    "sha256": "d674df65ba47a794dc47c43803183e7433cc611a0edb9a386cd30f37bc151b94",
-    "record_count": 1622
+    "sha256": "81cab1f453ea8a4d4d295deb474ecefbeed8abadbc9bf286f3136df93de52746",
+    "record_count": 1631
   },
   "records": {
     "AAA0001": {
@@ -99675,6 +99675,488 @@
             "exposure": "Nenhuma via de exposição relatada.",
             "effect": "Nenhum efeito tóxico relatado.",
             "note": "Fontes confiáveis relatam que esta planta não é tóxica para gatos; isso não é evidência de que seja comestível."
+          }
+        }
+      }
+    },
+    "AAA1624": {
+      "fields": {
+        "common_name": "Palmeira-anã",
+        "description": "A palmeira-anã é a única palmeira nativa da Europa continental e uma das mais resistentes ao frio entre todas as palmeiras cultivadas. Cresce formando touceiras densas e multicaules de folhas rígidas em forma de leque, em tons que vão do verde-azulado ao cinza-prateado, com espinhos afiados ao longo da base de cada pecíolo. Originária de encostas costeiras rochosas e de matagais mediterrânicos, desde a península Ibérica e o sul da França até ao norte de África, desenvolve-se bem em solo arenoso e bem drenado, a pleno sol, suportando sem dificuldade a seca, a maresia e temperaturas invernais próximas dos -9 °C. De crescimento lento e porte compacto, raramente ultrapassando os seis metros, adapta-se tanto a jardins costeiros e xerojardins como a grandes vasos.",
+        "history_text_short": "Muito antes de embelezar jardins, a palmeira-anã era uma cultura comercial. Ao longo do século XIX, famílias da Provença e do norte de África penteavam a fibra do tronco e dos pecíolos para obter 'crina vegetal', vendida às toneladas para encher colchões e móveis estofados.",
+        "history_text_long": "Durante boa parte do século XIX e início do século XX, a palmeira-anã foi mais matéria-prima do que planta ornamental. Trabalhadores da Provença francesa, da Córsega e do Magrebe colhiam a massa fibrosa na base do tronco e ao longo dos pecíolos, penteando-a e cardando-a até obter uma fibra grosseira e elástica conhecida no comércio de móveis como crina vegetal. Cidades como Marselha e Argel viram surgir verdadeiras indústrias artesanais em torno desta modesta palmeira, fornecendo enchimento para colchões, poltronas estofadas, selas e até os primeiros bancos de automóvel — um substituto mais barato e abundante do que a crina animal verdadeira. Fardos desta fibra eram enviados às toneladas para fabricantes de móveis por toda a Europa, e o comércio sustentava milhares de famílias rurais que tinham poucas outras fontes de rendimento. A própria planta raramente era destruída no processo: nova fibra crescia todos os anos a partir das bases persistentes das folhas, pelo que uma única touceira selvagem podia ser colhida durante gerações. Só com o surgimento das espumas e fibras sintéticas, em meados do século XX, é que o comércio da crina vegetal declinou, e a palmeira-anã passou a ser redescoberta pela sua surpreendente resistência ao frio e pela sua forma escultural, em jardins bem longe da sua área de origem.",
+        "name_origin": "O nome do género Chamaerops vem do grego chamai, 'ao solo,' e rhops, 'arbusto,' descrevendo o seu porte baixo e arbustivo em comparação com palmeiras mais altas; o epíteto humilis é o termo latino para 'baixo' ou 'humilde.'",
+        "symbolism_story": "Crescendo selvagem em encostas rochosas e varridas pelo vento, onde pouco mais sobrevive, a palmeira-anã passou a representar uma resistência silenciosa — uma planta que suporta a seca, o sal e a geada sem se queixar. Sendo a única palmeira nativa da Europa continental, está também profundamente ligada à identidade mediterrânica, evocando, onde quer que cresça, as encostas abrasadas pelo sol da Ibéria, da Provença e do norte de África.",
+        "flower_meaning": "Resiliência",
+        "fragrance": {
+          "notes": "Os pequenos cachos de flores amarelas da primavera libertam uma fragrância suave e adocicada."
+        },
+        "uses_list": [
+          {
+            "text": "Muito apreciada como palmeira de destaque resistente ao frio em jardins de estilo mediterrânico, pátios e grandes vasos."
+          },
+          {
+            "text": "A sua fibra foliar era historicamente cardada para produzir crina vegetal, usada para encher colchões e estofos."
+          },
+          {
+            "text": "O seu cerne tenro (o palmito) é apreciado como iguaria em Espanha desde a época romana."
+          },
+          {
+            "text": "As suas pequenas flores amarelas atraem abelhas, e os frutos maduros alimentam aves e pequenos mamíferos."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Resiliência",
+            "description": "A sua capacidade de suportar a seca, a maresia e as geadas de inverno tornou-a num símbolo de resistência em terrenos costeiros hostis."
+          },
+          {
+            "keyword": "Lar",
+            "description": "Sendo a única palmeira nativa da Europa continental, está intimamente ligada à identidade mediterrânica e a um sentido de pertença ao longo das suas costas de origem."
+          }
+        ],
+        "toxicity": {
+          "headline": "Nenhuma toxicidade relatada",
+          "active_compound_display": "Nenhum relatado",
+          "notes_en": "Nenhuma correspondência de toxicidade autoritativa encontrada; tratado como não relatado (estimativa de LLM não verificada por fonte).",
+          "human": {
+            "exposure": "Nenhuma via de exposição é relatada.",
+            "effect": "Nenhum efeito tóxico é relatado.",
+            "note": "Nenhuma toxicidade é relatada para humanos neste catálogo; isso não é evidência de que a planta seja comestível ou inofensiva."
+          },
+          "dog": {
+            "exposure": "Nenhuma via de exposição é relatada.",
+            "effect": "Nenhum efeito tóxico é relatado.",
+            "note": "Nenhuma toxicidade é relatada para cães neste catálogo; isso não é evidência de que a planta seja comestível ou inofensiva."
+          },
+          "cat": {
+            "exposure": "Nenhuma via de exposição é relatada.",
+            "effect": "Nenhum efeito tóxico é relatado.",
+            "note": "Nenhuma toxicidade é relatada para gatos neste catálogo; isso não é evidência de que a planta seja comestível ou inofensiva."
+          }
+        }
+      },
+      "source_hash": "14760c5db094614c7d38c860f43d6e1020df99f95136aa679dd26b60625eacf9"
+    },
+    "AAA1625": {
+      "source_hash": "f26ca055c7307e6ba72d93b356d8c9ead6ff06db961d4ee11e2071b5ba4436ec",
+      "fields": {
+        "common_name": "Palmeira-leque-da-Califórnia",
+        "description": "A palmeira-leque-da-Califórnia é a única palmeira nativa do oeste dos Estados Unidos, formando exemplares imponentes de tronco único que se erguem em oásis desérticos do deserto do Colorado, no sul da Califórnia, oeste do Arizona e norte da Baixa Califórnia. Seu tronco espesso e fibroso sustenta uma copa densa de grandes folhas pregueadas em forma de leque, e, a menos que seja podada, uma 'saia' desgrenhada de frondes mortas cobre o tronco em grande parte de sua altura. No verão, hastes arqueadas trazem pequenas flores branco-cremosas, seguidas por cachos de pequenos frutos negros semelhantes a tâmaras. Profundamente enraizada para alcançar as águas subterrâneas de nascentes desérticas e infiltrações de falhas, tolera calor intenso e seca uma vez estabelecida, e pode atingir de 18 a 23 metros de altura ao longo de muitas décadas. De crescimento rápido e silhueta marcante, continua sendo uma palmeira emblemática do sudoeste americano, tanto em seus oásis nativos quanto em jardins e ruas de climas quentes.",
+        "history_text_short": "Muito antes de se tornar símbolo dos resorts desérticos, a palmeira-leque-da-Califórnia sustentava o povo cahuilla do deserto do Colorado. Seu fruto doce era comido fresco, seco ou moído; suas frondes cobriam moradias e eram tecidas em cestos; e os oásis onde crescia, alimentados por nascentes desérticas, foram locais centrais de reunião por gerações.",
+        "history_text_long": "Por séculos, a palmeira-leque-da-Califórnia foi muito mais do que cenário para o povo cahuilla, que vive no deserto do Colorado, no sul da Califórnia, desde muito antes do contato europeu. Onde quer que a palmeira crescesse em densos povoamentos, ela sinalizava a presença de uma nascente desértica permanente ou de uma infiltração de falha, e esses oásis tornaram-se locais essenciais de reunião e assentamento. O pequeno fruto escuro da palmeira, semelhante a uma tâmara, amadurecia no final do verão e era comido fresco, seco para armazenamento, ou moído em uma farinha doce; suas amplas folhas em forma de leque eram cortadas e tecidas em cestos, sandálias e esteiras, ou amarradas para cobrir os telhados de moradias chamadas kish. As famílias cahuilla também ateavam fogo periodicamente às saias desgrenhadas de frondes mortas que se acumulam ao redor de cada tronco, uma prática que eliminava detritos, afastava pragas e, ao que parece, favorecia uma produção de frutos mais abundante na temporada seguinte — uma forma precoce de manejo ativo da terra naquilo que, à primeira vista, parece natureza intocada. Os próprios oásis, espalhados por cânions como o Palm Canyon, perto do que hoje é Palm Springs, deram nome à região quando visitantes americanos e europeus começaram a chegar no século XIX, atraídos pela mesma água confiável que havia sustentado as comunidades cahuilla gerações antes.",
+        "name_origin": "O nome do género Washingtonia homenageia George Washington, atribuído por botânicos do século XIX; o nome da espécie, filifera, é latim para 'portador de fios', referindo-se às fibras pálidas e encaracoladas que se desfiam das margens de suas folhas em forma de leque.",
+        "symbolism_story": "Onde quer que a água oculta do deserto alcance a superfície, ergue-se a palmeira-leque-da-Califórnia, há muito considerada um marcador natural de refúgio — um sinal, visível a quilómetros de distância, de que água vital e sombra encontram-se adiante. Para o povo cahuilla, assim como para a fauna do deserto que ainda se abriga sob seu tronco saiado, ela representa tanto a resistência num clima severo quanto a promessa silenciosa de refúgio.",
+        "flower_meaning": "Refúgio",
+        "uses_list": [
+          {
+            "text": "Plantada há muito como palmeira emblemática ao longo de ruas, resorts e jardins em todo o sudoeste de invernos amenos, apreciada por sua silhueta imponente."
+          },
+          {
+            "text": "Seu pequeno fruto doce, semelhante a uma tâmara, era um alimento tradicional do povo cahuilla, comido fresco, seco ou moído."
+          },
+          {
+            "text": "Suas amplas folhas em forma de leque eram tecidas em cestos, sandálias e esteiras, e usadas para cobrir moradias tradicionais."
+          },
+          {
+            "text": "Seu fruto e as saias desgrenhadas de frondes oferecem alimento e abrigo a aves do deserto, morcegos e outra fauna selvagem."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Refúgio",
+            "description": "Ao sinalizar a presença de água escassa no deserto por milhares de anos, a palmeira-leque-da-Califórnia passou a simbolizar refúgio e abrigo vital numa paisagem implacável."
+          },
+          {
+            "keyword": "Resistência",
+            "description": "Sua capacidade de prosperar durante décadas em nascentes desérticas dispersas faz dela um emblema de resiliência e permanência em terras áridas."
+          }
+        ],
+        "toxicity": {
+          "headline": "Nenhuma toxicidade relatada",
+          "active_compound_display": "Nenhum relatado",
+          "notes_en": "Nenhuma correspondência de toxicidade autoritativa encontrada; tratado como não relatado (estimativa de LLM não verificada por fonte).",
+          "human": {
+            "exposure": "Nenhuma via de exposição é relatada.",
+            "effect": "Nenhum efeito tóxico é relatado.",
+            "note": "Nenhuma toxicidade é relatada para humanos neste catálogo; isso não é evidência de que a planta seja comestível ou inofensiva."
+          },
+          "dog": {
+            "exposure": "Nenhuma via de exposição é relatada.",
+            "effect": "Nenhum efeito tóxico é relatado.",
+            "note": "Nenhuma toxicidade é relatada para cães neste catálogo; isso não é evidência de que a planta seja comestível ou inofensiva."
+          },
+          "cat": {
+            "exposure": "Nenhuma via de exposição é relatada.",
+            "effect": "Nenhum efeito tóxico é relatado.",
+            "note": "Nenhuma toxicidade é relatada para gatos neste catálogo; isso não é evidência de que a planta seja comestível ou inofensiva."
+          }
+        }
+      }
+    },
+    "AAA1626": {
+      "fields": {
+        "common_name": "Iuca-de-folha-mole",
+        "bloom_tip": "As flores surgem no verão, elevando-se acima da folhagem, em tons branco-cremoso.",
+        "fruit_tip": "Os frutos são cápsulas secas peculiares que acrescentam interesse ao jardim de inverno.",
+        "description": "A iuca-de-folha-mole é uma perene baixa, formadora de touceiras, nativa dos solos arenosos e secos e dos bosques abertos do sudeste dos Estados Unidos. As suas rosetas de folhas rígidas, verde-azuladas, em forma de espada, curvam-se suavemente na ponta — a característica que dá nome à espécie — e apresentam finos filamentos claros que se desfiam nas margens das folhas. No início do verão, hastes florais altas erguem-se bem acima da folhagem, com cachos pendentes de flores branco-cremoso em forma de sino que se abrem ao anoitecer para as mariposas noturnas. No outono, as hastes já floridas produzem cápsulas secas de três câmaras que persistem até ao inverno. Compacta e resistente à seca, raramente ultrapassa um metro de altura, desenvolve-se bem a pleno sol e em solo muito bem drenado, tornando-se ideal para jardins de pedras, encostas secas e canteiros xerófilos.",
+        "history_text_short": "Muito antes de entrar nos jardins, a iuca-de-folha-mole fornecia às tribos do sudeste corda, fio e sandálias. As suas fibras foliares resistentes eram extraídas, torcidas e tecidas em cordoaria e calçado, enquanto as raízes ricas em saponinas eram maceradas para obter uma espuma natural usada para lavar cabelo, roupa e objetos cerimoniais.",
+        "history_text_long": "Durante gerações, os povos nativos do sudeste dos atuais Estados Unidos recorreram à iuca-de-folha-mole como planta utilitária, e não ornamental. As suas longas folhas fibrosas eram colhidas, maceradas e despojadas da polpa verde para expor fibras resistentes e sedosas, que podiam ser torcidas em cordas fortes, tecidas em esteiras e cestos, ou trançadas em sandálias suficientemente robustas para terrenos rochosos. Como a fibra resistia à putrefação e segurava bem os nós, era procurada para cordas de arco, linhas de pesca e confeção de redes. Igualmente importante era a raiz da planta, rica em saponinas naturais: macerada e agitada em água, produz uma espuma semelhante a sabão usada para lavar cabelo, limpar tecidos e preparar indumentária cerimonial, o que lhe deu um dos seus nomes populares duradouros, 'erva-de-sabão.' A espécie depende também de um parceiro igualmente dedicado para a sua própria reprodução: as mariposas fêmeas da iuca reúnem deliberadamente o pólen numa bola, transportam-no até outra flor e depositam-no no estigma antes de porem os ovos dentro da cápsula em desenvolvimento — uma troca precisa e mútua em que as larvas da mariposa consomem apenas uma parte das sementes, deixando o suficiente para a planta se reproduzir. Nenhuma das duas espécies consegue completar o seu ciclo de vida sem a outra, o que faz da iuca-de-folha-mole um dos exemplos vivos mais claros de coevolução na flora norte-americana.",
+        "name_origin": "O nome do género Yucca provém da palavra taína para a mandioca, uma planta diferente e sem parentesco, aplicada por engano a este grupo pelos primeiros botânicos europeus; o epíteto flaccida é o termo latino para 'flácido' ou 'pendente', referindo-se às pontas das suas folhas, que se curvam para baixo, ao contrário da folhagem rígida e ereta de iucas aparentadas.",
+        "symbolism_story": "Armada de folhas rígidas e pontiagudas, mas generosa em fibra, corda e sabão, a iuca-de-folha-mole passou a simbolizar tanto a proteção como a engenhosidade — uma planta que defende o seu território ao mesmo tempo que fornece discretamente os materiais da vida quotidiana. A sua associação íntima e exclusiva com a mariposa da iuca acrescenta uma camada adicional de significado: um lembrete de que até o sobrevivente de aparência mais resistente depende da cooperação para perdurar.",
+        "flower_meaning": "Proteção",
+        "fragrance": {
+          "notes": "As suas flores brancas pendentes libertam uma fragrância suave e adocicada ao anoitecer para atrair as mariposas noturnas da iuca."
+        },
+        "uses_list": [
+          {
+            "text": "Um destaque arquitetónico fiável para jardins de pedras, canteiros secos e jardins xerófilos, apreciado pelas suas rosetas persistentes e altas hastes florais de verão."
+          },
+          {
+            "text": "As suas resistentes fibras foliares eram tradicionalmente extraídas, torcidas e tecidas em cordoaria, esteiras e sandálias pelos povos nativos do sudeste."
+          },
+          {
+            "text": "As suas flores, que se abrem à noite, são polinizadas quase exclusivamente por mariposas da iuca, uma das parcerias planta-inseto mais precisas da natureza."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Proteção",
+            "description": "As suas folhas rígidas e pontiagudas tornaram a iuca num símbolo natural de proteção e defesa, tanto no folclore do sudeste como na tradição de jardinagem."
+          },
+          {
+            "keyword": "Engenhosidade",
+            "description": "Como planta capaz de fornecer corda, sandálias e sabão a partir de um único conjunto de folhas e raízes, há muito que simboliza engenhosidade e autossuficiência."
+          }
+        ],
+        "toxicity": {
+          "headline": "Humanos Ligeiro · Animais de estimação Moderado",
+          "active_compound_display": "saponinas esteroides",
+          "notes_en": "Contém saponinas esteroides; a ingestão de folhas ou raiz pode causar perturbações gastrointestinais em animais de estimação, e a seiva pode irritar ligeiramente a pele ou os olhos.",
+          "human": {
+            "exposure": "Ingestão de folhas e seiva. Contacto com folhas e seiva.",
+            "effect": "Ligeiro mal-estar estomacal se ingerida em grandes quantidades, e irritação da pele ou dos olhos por contacto com a seiva.",
+            "note": "Contém saponinas esteroides; a ingestão de folhas ou raiz pode causar perturbações gastrointestinais em animais de estimação, e a seiva pode irritar ligeiramente a pele ou os olhos.",
+            "symptoms": [
+              "Ligeiro mal-estar estomacal se ingerida em grandes quantidades.",
+              "Irritação da pele ou dos olhos por contacto com a seiva."
+            ]
+          },
+          "dog": {
+            "exposure": "Ingestão de folhas, raízes e frutos.",
+            "effect": "Vómitos, diarreia, prostração e salivação excessiva.",
+            "note": "Contém saponinas esteroides; a ingestão de folhas ou raiz pode causar perturbações gastrointestinais em animais de estimação, e a seiva pode irritar ligeiramente a pele ou os olhos.",
+            "symptoms": [
+              "Vómitos.",
+              "Diarreia.",
+              "Prostração.",
+              "Salivação excessiva."
+            ]
+          },
+          "cat": {
+            "exposure": "Ingestão de folhas, raízes e frutos.",
+            "effect": "Vómitos, diarreia e perda de apetite.",
+            "note": "Contém saponinas esteroides; a ingestão de folhas ou raiz pode causar perturbações gastrointestinais em animais de estimação, e a seiva pode irritar ligeiramente a pele ou os olhos.",
+            "symptoms": [
+              "Vómitos.",
+              "Diarreia.",
+              "Perda de apetite."
+            ]
+          }
+        }
+      },
+      "source_hash": "2f7d0fffbcb3543cec9e22c616733f30b2a24f82f200f8480904973d5d047438"
+    },
+    "AAA1627": {
+      "fields": {
+        "common_name": "Acanto",
+        "bloom_tip": "Suas flores costumam desabrochar no verão, atraindo muitos polinizadores.",
+        "fruit_tip": "O fruto costuma ter cor marrom, o que aumenta o valor ornamental da planta.",
+        "description": "O acanto é uma perene mediterrânea vigorosa, apreciada por suas folhas verde-escuras, brilhantes e profundamente lobadas, que se abrem em uma roseta espetacular de quase 60 centímetros de diâmetro. No final da primavera e no verão, altas hastes florais se elevam de 90 a 120 centímetros acima da folhagem, cobertas por flores brancas em forma de capuz envoltas por brácteas espinhosas de tom arroxeado que atraem abelhas por semanas. Tolera tanto a sombra clara quanto o sol pleno em climas mais frescos, resiste bem à seca depois de estabelecido e se espalha por rizomas formando touceiras densas e arquitetônicas. Suas folhas esculturais inspiraram tanto o design de jardins quanto a arquitetura, sendo o exemplo mais célebre o modelo do capitel coríntio.",
+        "history_text_short": "O acanto cresce nas costas do Mediterrâneo desde a Antiguidade; suas largas folhas de bordas espinhosas eram tão admiradas que escultores da Grécia antiga esculpiram sua forma ondulada nos capitéis das colunas coríntias. Introduzido nos jardins do norte da Europa já no século XVI, ainda hoje é valorizado por sua folhagem imponente e suas altas hastes florais de verão.",
+        "history_text_long": "Segundo o arquiteto romano Vitrúvio, o legado ornamental do acanto começou na antiga Corinto. Uma jovem morreu antes de seu casamento, e sua ama, enlutada, reuniu os objetos favoritos da moça em uma pequena cesta, colocou-a perto do túmulo e a cobriu com uma telha para proteger o conteúdo das intempéries. A cesta acabou pousando bem sobre a raiz de um acanto que crescia junto à sepultura, e na primavera suas largas folhas espinhosas brotaram ao redor da cesta, curvando-se para fora onde quer que encontrassem a resistência da borda da telha.\n\nO escultor Calímaco, conhecido entre seus contemporâneos por seu cuidado meticuloso com os detalhes, passou pelo túmulo e ficou impressionado com a combinação graciosa entre folha e cesta. Ele levou essa imagem para seu ateliê e a traduziu em pedra, esculpindo um novo capitel para o topo das colunas: um anel de folhas de acanto enroladas sustentando um ábaco raso em forma de tigela. Construtores gregos adotaram o desenho, e mais tarde arquitetos romanos o espalharam por todo o seu império, onde se tornou o traço definidor da ordem coríntia, ainda visível hoje em templos, tribunais e edifícios públicos, todos descendentes das folhas de uma única planta junto a um túmulo. Muito depois de aquele primeiro capitel ser esculpido, jardineiros do Renascimento italiano e de outros lugares passaram a cultivar a própria planta, valorizando sua robusta roseta de folhas como um eco vivo da arquitetura clássica.",
+        "name_origin": "Acanthus vem do grego akantha, «espinho» ou «espeto», em referência às brácteas espinhosas e às bordas das folhas da planta; mollis é o termo latino para «macio», descrevendo a textura das largas lâminas foliares apesar de suas bordas pontiagudas.",
+        "symbolism_story": "Como suas folhas enroladas deram forma ao capitel coríntio, o acanto há muito simboliza a arte e o poder duradouro da inspiração tirada da natureza. Seu hábito de rebrotar fielmente da mesma raiz ano após ano, mesmo depois que a folhagem seca, também o tornou um discreto emblema de perseverança.",
+        "flower_meaning": "Arte"
+      }
+    },
+    "AAA1628": {
+      "source_hash": "563441a49c0e3305cacf55f3f5a515e2d4698b8411a9c88fccf0afdd2778cd0d",
+      "fields": {
+        "common_name": "Palmeira-de-Formosa",
+        "description": "A Palmeira-de-Formosa — conhecida em taiwanês como shan zong (山棕) — é uma palmeira cespitosa de crescimento lento, nativa dos sub-bosques sombreados de Taiwan e das ilhas Ryukyu, no Japão. Vários troncos delgados formam uma touceira densa sob frondes verde-escuras e plumosas, cujos folíolos terminam em pontas irregulares em forma de garra. Tolera invernos mais frios melhor do que a maioria das palmeiras e raramente ultrapassa seis metros, o que a torna um exemplar popular de sub-bosque para jardins e pátios sombreados. Suas fibras resistentes das bainhas foliares há muito são extraídas e tecidas em capas de chuva e cordas.",
+        "history_text_short": "Muito antes de entrar nos jardins ornamentais, a Palmeira-de-Formosa — shan zong em taiwanês — fornecia às comunidades de montanha uma fibra resistente extraída de suas bainhas foliares, tecida em capas de chuva e cordas. Suas touceiras densas e estoloníferas, e frondas de pontas em forma de garra, ainda abrigam os sub-bosques de Taiwan e das ilhas Ryukyu japonesas.",
+        "history_text_long": "Muito antes de os botânicos ocidentais lhe darem um nome latino, a Palmeira-de-Formosa já era indispensável para as comunidades de montanha de Taiwan, que a conheciam como shan zong — «palmeira da montanha». Ao longo das bainhas fibrosas que envolvem cada nova fronde na base do tronco, a planta produz uma fibra grosseira e resistente às intempéries. Povos indígenas e agricultores hakka das encostas de Taiwan aprenderam a extrair e bater essa fibra até formar longos fios, tecendo-a então em shan zong suo yi — capas de chuva jogadas sobre os ombros durante as frequentes chuvas de montanha da ilha — além de cordas, escovas e vassouras muito mais resistentes que algodão ou palha.\n\nA própria palmeira crescia silvestre no sub-bosque sombreado das florestas de Taiwan e das vizinhas ilhas Ryukyu do Japão; suas touceiras densas de múltiplos troncos e frondes escuras e plumosas, com folíolos denteados em forma de garra, prosperavam na luz fraca sob árvores mais altas. Os coletores também aprenderam a ter cautela com os frutos maduros, cuja polpa contém finos cristais pontiagudos que ardem ao toque — um risco compartilhado com sua parente maior, a palmeira-de-açúcar, sangrada em outras partes da Ásia para obtenção de açúcar e vinho de palma.\n\nO reconhecimento botânico formal só veio em 1919, quando o especialista italiano em palmeiras Odoardo Beccari classificou a espécie e a nomeou engleri em homenagem ao botânico alemão Adolf Engler. Hoje, as capas de chuva shan zong tecidas à mão sobrevivem principalmente como um ofício artesanal revivido em oficinas de patrimônio cultural taiwanesas, mas a palmeira que as tornava possíveis ainda cresce facilmente em pátios e jardins sombreados bem além de suas montanhas nativas.",
+        "name_origin": "O nome do gênero Arenga vem da palavra malaia 'areng', usada para o grupo das palmeiras-de-açúcar; o epíteto engleri homenageia o botânico alemão Adolf Engler, embora a planta tenha sido formalmente descrita pelo especialista italiano em palmeiras Odoardo Beccari em 1919.",
+        "symbolism_story": "Por gerações, as comunidades de montanha de Taiwan transformaram a fibra grosseira desta palmeira em capas de chuva e cordas, fazendo da Palmeira-de-Formosa um símbolo discreto de engenhosidade — proteção prática tecida a partir do que crescia ao alcance da mão.",
+        "flower_meaning": "Engenhosidade",
+        "fragrance": {
+          "notes": "Os cachos de flores exalam um aroma leve e adocicado que atrai insetos polinizadores."
+        },
+        "uses_list": [
+          {
+            "text": "A fibra extraída das bainhas foliares é tradicionalmente tecida em Taiwan para fazer capas de chuva, cordas e escovas."
+          },
+          {
+            "text": "Apreciada como exemplar viçoso de sub-bosque ou pátio por sua forma cespitosa e arquitetônica e tolerância ao frio."
+          },
+          {
+            "text": "Os cachos de frutos maduros são comidos por aves, que ajudam a dispersar as sementes."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Engenhosidade",
+            "description": "Sua fibra foliar grosseira, outrora extraída e tecida pelas comunidades de montanha de Taiwan em capas de chuva e cordas, fez da Palmeira-de-Formosa um símbolo discreto de engenhosidade — uma planta comum da floresta transformada em proteção cotidiana contra os elementos."
+          }
+        ],
+        "toxicity": {
+          "headline": "Toxicidade desconhecida",
+          "active_compound_display": "Nenhum relatado",
+          "notes_en": "Nenhuma fonte confiável confirma a toxicidade; portanto, é considerada não relatada (a estimativa da IA não é verificada por fontes).",
+          "human": {
+            "exposure": "Nenhuma via de exposição relatada.",
+            "effect": "Nenhum efeito tóxico relatado.",
+            "note": "A toxicidade para humanos não está bem documentada; recomenda-se cautela até verificação."
+          },
+          "dog": {
+            "exposure": "Nenhuma via de exposição relatada.",
+            "effect": "Nenhum efeito tóxico relatado.",
+            "note": "A toxicidade para cães não está bem documentada; recomenda-se cautela até verificação."
+          },
+          "cat": {
+            "exposure": "Nenhuma via de exposição relatada.",
+            "effect": "Nenhum efeito tóxico relatado.",
+            "note": "A toxicidade para gatos não está bem documentada; recomenda-se cautela até verificação."
+          }
+        }
+      }
+    },
+    "AAA1629": {
+      "source_hash": "ebbe0066ca661b4d5f346bf75922c5538f1081147a804c54f4fe8b0f0ef0f9a7",
+      "fields": {
+        "common_name": "Veludo-roxo",
+        "bloom_tip": "As flores desta planta desabrocham no verão, têm cores vivas e são muito atraentes para os insetos polinizadores.",
+        "description": "O veludo-roxo é uma planta tropical rasteira originária do chão da floresta de Java, apreciada por suas folhas e caules cobertos por uma densa penugem roxa iridescente que capta a luz como veludo violeta. Suas folhas ovais e serrilhadas são verde-escuras na face superior e roxo vivo na inferior, conferindo à planta inteira um brilho cintilante sob luz indireta forte. Pequenos cachos de flores alaranjadas, parecidas com margaridas, surgem no verão, embora muitos cultivadores retirem os botões antes que se abram. De crescimento rápido e fácil cultivo em vasos ou cestos suspensos, prospera em ambientes internos durante todo o ano.",
+        "history_text_short": "Nativo das florestas tropicais de Java, o veludo-roxo tornou-se uma estrela inesperada das salas de estar americanas nos anos 1970, com suas folhas de pelos roxos brilhando sob a luz de lamparinas — embora a maioria dos donos retire discretamente suas flores de cheiro peculiar antes que cheguem a abrir.",
+        "history_text_long": "O veludo-roxo cresce em estado selvagem no chão sombreado das florestas de Java, na Indonésia, onde seus caules rasteiros e folhas de pelos roxos se espalham pelo sub-bosque úmido. Botânicos europeus o introduziram no cultivo no século XIX, mas ele só alcançou sua verdadeira fama um século depois, durante o boom das plantas de interior nos Estados Unidos, nos anos 1970. Vendida em lojas de variedades e catálogos de venda por correspondência, a planta se tornou popular por seu brilho roxo iridescente quase irreal, que reluzia de forma quase elétrica sob a iluminação fluorescente comum em escritórios e apartamentos da época — uma novidade que a tornou um elemento fixo da estética de 'selva interior' da década, ao lado de cestos de macramê e tapetes de pelo longo. No entanto, os colecionadores logo descobriram uma peculiaridade que os guias de cultivo repetem até hoje: suas pequenas flores alaranjadas, parecidas com margaridas, embora bonitas de se ver, liberam um odor almiscarado forte, que muitos comparam a feno molhado ou meias velhas, ao se abrirem em um ambiente fechado. Em vez de tolerar o cheiro, gerações de cultivadores simplesmente arrancam os botões à mão antes que floresçam, trocando uma temporada de flores por uma folhagem aveludada ininterrupta — um pequeno ritual prático transmitido desde então entre os entusiastas de plantas de interior.",
+        "name_origin": "O nome do gênero Gynura vem do grego gyne (mulher) e oura (cauda), descrevendo os estigmas filiformes, em forma de cauda, no centro de suas flores; o nome da espécie, aurantiaca, é latim para 'alaranjado', em referência à cor de suas flores.",
+        "symbolism_story": "Seu brilho roxo cintilante fez do veludo-roxo um pequeno emblema do brilho oculto — uma folha aparentemente comum que parece opaca na sombra, mas se ilumina com uma cor inesperada assim que a luz a atinge no ângulo certo, refletindo a ideia de que a vitalidade muitas vezes está apenas à espera de ser revelada, não criada.",
+        "flower_meaning": "Resplendor",
+        "fragrance": {
+          "notes": "Pequenos cachos de flores exalam um odor almiscarado forte que muitos consideram desagradável, frequentemente comparado a feno molhado ou meias velhas; por isso, os cultivadores costumam arrancar os botões antes que se abram para evitá-lo."
+        },
+        "uses_list": [
+          {
+            "text": "Cultivada por sua folhagem roxa aveludada e cintilante como planta de interior chamativa ou destaque em cestos suspensos."
+          },
+          {
+            "text": "Suas pequenas flores alaranjadas atraem insetos polinizadores quando deixadas florescer ao ar livre."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Resplendor",
+            "description": "Seu brilho roxo cintilante fez do veludo-roxo um pequeno emblema do brilho oculto — uma folha aparentemente comum que parece opaca na sombra, mas se ilumina com uma cor inesperada assim que a luz a atinge no ângulo certo."
+          },
+          {
+            "keyword": "Individualidade",
+            "description": "Destacando-se entre fileiras de folhagem verde comum, seu incomum manto violeta o tornou favorito entre colecionadores que valorizam plantas que se recusam a passar despercebidas."
+          }
+        ],
+        "toxicity": {
+          "headline": "Seguro para animais de estimação",
+          "active_compound_display": "Nenhum relatado",
+          "notes_en": "Nenhuma correspondência confiável sobre toxicidade foi encontrada; tratada como não relatada (a estimativa por IA não é verificada por fontes).",
+          "human": {
+            "exposure": "Nenhuma via de exposição relatada.",
+            "effect": "Nenhum efeito tóxico relatado.",
+            "note": "Nenhuma toxicidade é relatada para humanos neste catálogo; isso não é evidência de que a planta seja comestível ou inofensiva."
+          },
+          "dog": {
+            "exposure": "Nenhuma via de exposição relatada.",
+            "effect": "Nenhum efeito tóxico relatado.",
+            "note": "Fontes confiáveis relatam que esta planta não é tóxica para cães; isso não é evidência de que a planta seja comestível."
+          },
+          "cat": {
+            "exposure": "Nenhuma via de exposição relatada.",
+            "effect": "Nenhum efeito tóxico relatado.",
+            "note": "Fontes confiáveis relatam que esta planta não é tóxica para gatos; isso não é evidência de que a planta seja comestível."
+          }
+        }
+      }
+    },
+    "AAA1630": {
+      "source_hash": "1573ce22c1992b85798c9870adc418d59a5a792b8fb50cd7dcaaec3f3d8ff375",
+      "fields": {
+        "common_name": "Trapoeraba",
+        "bloom_tip": "As flores desta planta desabrocham no verão, coloridas e atraentes para os insetos.",
+        "fruit_tip": "Seus frutos aparecem do final do verão ao início do outono, com cores chamativas.",
+        "description": "A trapoeraba é uma perene rasteira originária de campos, afloramentos rochosos e dunas costeiras do sudeste do Brasil, do Uruguai e do nordeste da Argentina, onde os caules rastejantes enraízam onde quer que toquem o solo. Suas folhas carnosas e lanceoladas são verde-escuras na face superior e tingidas de roxo por baixo, cobertas por finos pelos prateados que capturam a luz. Flores de três pétalas, rosa-magenta, abrem-se em cachos soltos durante o verão, envoltas em brácteas em forma de barco. Fácil de cultivar e de crescimento rápido, prospera como forração, em vasos suspensos ou como planta de interior, tolerando tanto luz intensa quanto sombra parcial com cuidados mínimos.",
+        "history_text_short": "Batizada em homenagem à família Tradescant, célebres jardineiros reais ingleses, esta forração sul-americana foi descrita formalmente em 1843. Apreciada por sua folhagem rasteira tingida de roxo, espalhou-se como ornamental pelo mundo todo — e, em dunas costeiras como as da Nova Zelândia, tornou-se uma preocupação de conservação.",
+        "history_text_long": "O gênero Tradescantia homenageia John Tradescant, o Velho, e seu filho, dois dos mais célebres jardineiros da Inglaterra do século XVII. Como responsáveis pelos jardins reais sob Carlos I, os Tradescant viajaram ao exterior e negociaram com outros colecionadores para encher seu jardim em Londres e seu famoso gabinete de curiosidades, a Arca, com plantas e objetos singulares reunidos de todo o mundo então conhecido. Dois séculos depois, em 1843, o botânico alemão Carl Sigismund Kunth descreveu formalmente esta espécie a partir de exemplares coletados nos campos, afloramentos rochosos e dunas costeiras do sudeste do Brasil, do Uruguai e do nordeste da Argentina, batizando-a de cerinthoides pela semelhança de suas folhas com o gênero Cerinthe. Apreciada por jardineiros do mundo todo por sua resistência e folhagem rasteira tingida de roxo, a trapoeraba foi levada muito além de sua área de ocorrência natural como forração e planta de interior. Em lugares como a Nova Zelândia e partes da Austrália, escapou do cultivo e hoje forma tapetes densos ao longo de dunas costeiras e bordas de mata, sufocando mudas nativas — transformando uma planta de jardim outrora estimada em alvo de voluntários da conservação que trabalham para restaurar ecossistemas dunares ameaçados.",
+        "name_origin": "O gênero homenageia John Tradescant, o Velho, e seu filho, jardineiros reais e colecionadores de plantas ingleses do século XVII; cerinthoides refere-se à semelhança das folhas com o gênero Cerinthe.",
+        "symbolism_story": "Como um único caule quebrado da trapoeraba pode enraizar e se multiplicar em quase qualquer lugar onde caia — de dunas castigadas pelo sol a parapeitos sombreados —, os jardineiros há muito a veem como emblema de resiliência e abundância, uma planta que transforma escassez em uma exuberante cobertura verde.",
+        "flower_meaning": "Resiliência",
+        "uses_list": [
+          {
+            "text": "Forração rasteira e planta de interior muito popular para vasos e cestas suspensas."
+          },
+          {
+            "text": "As flores de verão, de três pétalas, atraem abelhas e outros pequenos polinizadores."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Resiliência",
+            "description": "Sua capacidade de enraizar a partir de qualquer caule quebrado e prosperar tanto em dunas hostis quanto em sub-bosques sombreados a torna um símbolo de perseverança silenciosa."
+          },
+          {
+            "keyword": "Abundância",
+            "description": "Seus densos tapetes de folhagem rasteira e flores estivais abundantes evocam um crescimento exuberante e imparável."
+          }
+        ],
+        "toxicity": {
+          "headline": "Humanos Leve · Animais de estimação Moderado",
+          "active_compound_display": "calcium oxalate raphides",
+          "notes_en": "A seiva causa dermatite de contato em animais de estimação e pessoas sensíveis; a ingestão pode causar salivação leve e mal-estar estomacal em cães e gatos.",
+          "human": {
+            "exposure": "Tocar a seiva, os caules e as folhas.",
+            "effect": "Irritação cutânea leve em pessoas sensíveis.",
+            "note": "A seiva causa dermatite de contato em animais de estimação e pessoas sensíveis; a ingestão pode causar salivação leve e mal-estar estomacal em cães e gatos.",
+            "symptoms": [
+              "Irritação cutânea leve em pessoas sensíveis."
+            ]
+          },
+          "dog": {
+            "exposure": "Tocar a seiva, os caules e as folhas. Contato com a seiva, os caules e as folhas. Ingerir seiva, caules e folhas.",
+            "effect": "Dermatite de contato, vermelhidão na pele, salivação e vômito leve se ingerido.",
+            "note": "A seiva causa dermatite de contato em animais de estimação e pessoas sensíveis; a ingestão pode causar salivação leve e mal-estar estomacal em cães e gatos.",
+            "symptoms": [
+              "Dermatite de contato.",
+              "Vermelhidão na pele.",
+              "Salivação.",
+              "Vômito leve se ingerido."
+            ]
+          },
+          "cat": {
+            "exposure": "Tocar a seiva, os caules e as folhas. Contato com a seiva, os caules e as folhas. Ingerir seiva, caules e folhas.",
+            "effect": "Dermatite de contato, vermelhidão na pele, salivação e vômito leve se ingerido.",
+            "note": "A seiva causa dermatite de contato em animais de estimação e pessoas sensíveis; a ingestão pode causar salivação leve e mal-estar estomacal em cães e gatos.",
+            "symptoms": [
+              "Dermatite de contato.",
+              "Vermelhidão na pele.",
+              "Salivação.",
+              "Vômito leve se ingerido."
+            ]
+          }
+        }
+      }
+    },
+    "AAA1631": {
+      "source_hash": "6f45ca76eb29cdde19f8cd7933aae19dc9407ac139af009b8b933f8472f71e1f",
+      "fields": {
+        "common_name": "Jacarandá-mimoso",
+        "bloom_tip": "Esta planta floresce no verão, exibindo lindas flores roxas.",
+        "fruit_tip": "O fruto amadurece no outono, trazendo cor adicional para as estações seguintes.",
+        "description": "O Jacarandá-mimoso é uma árvore decídua de crescimento rápido, famosa por seu espetáculo primaveril: folhas compostas parecidas com samambaia caem enquanto cachos de flores roxo-lavanda em forma de trombeta cobrem a copa, formando depois um tapete violeta no chão. Nativa das florestas subtropicais da Argentina e da Bolívia, tornou-se uma amada árvore ornamental de sombra e arborização urbana em todo o mundo, de Pretória a Los Angeles e Sydney. As árvores adultas atingem de 9 a 15 metros de altura, com copa ampla e espalhada, seguidas por vagens de sementes achatadas e lenhosas. Prospera em sol pleno com solo bem drenado e, uma vez estabelecida, tolera bem a seca.",
+        "history_text_short": "Batizado com uma palavra guarani que descreve sua madeira perfumada, o Jacarandá-mimoso deixou sua Argentina e Bolívia natais para se tornar uma árvore de rua icônica em todo o mundo. Ele cobre Pretória, na África do Sul, de violeta a cada primavera, onde gerações de estudantes observam as flores caindo como um sinal de sorte nos exames.",
+        "history_text_long": "O Jacarandá-mimoso é nativo das florestas subtropicais secas do noroeste da Argentina e do sul da Bolívia, onde cresce disperso entre outras árvores decíduas ao longo de margens de rios e encostas rochosas. O nome do gênero vem de uma palavra guarani para a árvore, há muito valorizada por marceneiros sul-americanos por sua madeira perfumada e de fácil entalhe. No século XIX, jardins botânicos e colecionadores de plantas coloniais levaram o Jacarandá-mimoso muito além da América do Sul, e no início do século XX ele já havia sido plantado como árvore de avenida em todo o mundo subtropical. Nenhum lugar o adotou mais do que Pretória, na África do Sul, onde mais de setenta mil jacarandás foram plantados ao longo das ruas da cidade a partir da década de 1880, o que lhe rendeu o apelido de Cidade dos Jacarandás. Como as árvores desabrocham em plena floração violeta todo mês de outubro e novembro, exatamente quando o ano letivo da Universidade de Pretória chega ao fim, gerações de estudantes caminharam sob ruas cobertas de tapetes roxos observando as flores caindo, acreditando que uma flor pousando na sua cabeça, ou sendo apanhada antes de tocar o chão, traz boa sorte nos exames finais. As mesmas árvores hoje margeiam bulevares de Buenos Aires a Los Angeles e Sydney, sua breve mas brilhante temporada de floração marcando a virada das estações em cidades a meio mundo de distância de onde a espécie cresceu originalmente na natureza.",
+        "name_origin": "O nome do gênero Jacaranda vem de uma palavra guarani que descreve a madeira perfumada e de grão rico da árvore, há muito usada por marceneiros sul-americanos. O nome da espécie mimosifolia se refere às suas folhas compostas parecidas com samambaia, semelhantes às da mimosa. O nome comum Jacarandá-mimoso reflete simplesmente suas flores violetas características.",
+        "symbolism_story": "Em Pretória, na África do Sul, apelidada de Cidade dos Jacarandás por suas dezenas de milhares de árvores de flores roxas, os estudantes universitários acreditam há muito tempo que apanhar uma flor de jacarandá em queda, ou tê-la pousada na cabeça, traz boa sorte nos exames finais. Como as árvores florescem todo mês de outubro e novembro, exatamente quando o ano letivo termina, gerações de estudantes caminharam sob ruas cobertas de tapetes roxos observando as flores caindo como um sinal de boa sorte por vir.",
+        "flower_meaning": "Boa Sorte",
+        "fragrance": {
+          "notes": "Os cachos de flores em forma de trombeta exalam um leve aroma doce, semelhante ao de mel, mais perceptível quando a árvore está em plena floração."
+        },
+        "uses_list": [
+          {
+            "text": "Plantada em todo o mundo como árvore de sombra florida e arborização urbana por seu espetacular florescimento primaveril."
+          },
+          {
+            "text": "As flores em forma de trombeta atraem abelhas e outros insetos polinizadores."
+          },
+          {
+            "text": "Sua madeira perfumada e de fácil entalhe é usada há muito tempo por marceneiros sul-americanos para móveis e pequenos artesanatos."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Boa Sorte",
+            "description": "Em Pretória, na África do Sul, os estudantes acreditam há muito tempo que uma flor de jacarandá caindo sobre a cabeça, ou apanhada antes de tocar o chão, traz sorte nos exames finais — as árvores florescem todos os anos exatamente quando o semestre termina."
+          },
+          {
+            "keyword": "Renovação",
+            "description": "Sua transição dramática de galhos nus para uma copa de violeta sólido, antes mesmo de surgir uma única folha, fez do Jacarandá-mimoso um símbolo sazonal de transformação e renovação em cidades por todo o Hemisfério Sul."
+          }
+        ],
+        "toxicity": {
+          "headline": "Seguro para Pets",
+          "active_compound_display": "Nenhum relatado",
+          "notes_en": "Nenhuma correspondência de toxicidade em fontes confiáveis foi encontrada; tratado como não relatado (a estimativa da IA não foi verificada por fonte).",
+          "human": {
+            "exposure": "Nenhuma via de exposição é relatada.",
+            "effect": "Nenhum efeito tóxico é relatado.",
+            "note": "Nenhuma toxicidade é relatada para humanos neste catálogo; isso não é evidência de que a planta seja comestível ou inofensiva."
+          },
+          "dog": {
+            "exposure": "Nenhuma via de exposição é relatada.",
+            "effect": "Nenhum efeito tóxico é relatado.",
+            "note": "Fontes confiáveis relatam que esta planta não é tóxica para cães; isso não é evidência de que a planta seja comestível."
+          },
+          "cat": {
+            "exposure": "Nenhuma via de exposição é relatada.",
+            "effect": "Nenhum efeito tóxico é relatado.",
+            "note": "Fontes confiáveis relatam que esta planta não é tóxica para gatos; isso não é evidência de que a planta seja comestível."
+          }
+        }
+      }
+    },
+    "AAA1632": {
+      "source_hash": "24bdc101f93dd04ed37bd8e2a326e28dbee6c5f06aac62caa8b867bccbc79dd8",
+      "fields": {
+        "common_name": "Dioneia",
+        "bloom_tip": "As flores desta planta desabrocham entre maio e junho, atraindo insetos.",
+        "description": "A dioneia é uma das poucas plantas verdadeiramente carnívoras do mundo, nativa de uma estreita faixa de zonas húmidas subtropicais ao longo da costa da Carolina. As suas folhas articuladas, em forma de mandíbula, têm pelos sensoriais que se fecham numa fração de segundo quando um inseto lhes toca duas vezes em cerca de vinte segundos, aprisionando a presa para ser lentamente dissolvida por enzimas digestivas. Esta armadilha evoluiu como estratégia de sobrevivência nos solos pantanosos e pobres em azoto do seu habitat nativo, onde os insetos capturados fornecem os nutrientes que o solo não consegue oferecer. Compacta e de porte baixo, forma uma roseta de armadilhas em torno de uma haste com pequenas flores brancas, muito apreciada por colecionadores em todo o mundo.",
+        "history_text_short": "Muito antes de se tornar uma curiosidade de peitoril de janela, a dioneia crescia selvagem apenas numa pequena área pantanosa da Carolina. O governador colonial Arthur Dobbs descreveu pela primeira vez as suas folhas de fecho rápido em 1759, chamando-lhe «uma grande maravilha do reino vegetal». Charles Darwin dedicou-lhe mais tarde anos de estudo, tendo-a classificado, numa frase célebre, como «uma das plantas mais maravilhosas do mundo».",
+        "history_text_long": "A área de distribuição selvagem da dioneia é surpreendentemente pequena: um anel de savanas de pinheiros e pântanos num raio de pouco mais de cento e sessenta quilómetros à volta de Wilmington, na Carolina do Norte, e em nenhum outro lugar da Terra. Os europeus souberam da sua existência pela primeira vez em 1759, quando Arthur Dobbs, governador colonial da Carolina do Norte, escreveu ao botânico Peter Collinson, em Londres, descrevendo uma planta cujas folhas se fechavam «como uma armadilha de mola» ao toque de qualquer inseto, chamando-lhe «a grande maravilha do reino vegetal». Em 1768, o botânico John Ellis enviou uma descrição a Carl Lineu, cunhando o nome do género Dionaea em homenagem a Dione, mãe de Vénus na mitologia grega, enquanto o nome comum prestava homenagem à própria deusa do amor. Nenhuma planta cativou tanto a imaginação de Charles Darwin. No início da década de 1870, trabalhando na estufa da sua casa, Down House, passou meses a alimentar à mão as dioneias com carne e clara de ovo, cronometrando a rapidez com que as armadilhas se fechavam e testando o que as acionava ou não. As suas experiências preencheram grande parte do seu livro de 1875, Insectivorous Plants, e numa carta a um amigo chamou-lhe «uma das plantas mais maravilhosas do mundo». As observações meticulosas de Darwin ajudaram a estabelecer que a armadilha era um verdadeiro órgão digestivo, e não uma mera curiosidade mecânica, e o seu fascínio contribuiu bastante para popularizar as plantas carnívoras entre os colecionadores vitorianos. Essa popularidade tornou-se, entretanto, uma ameaça em si mesma: as dioneias selvagens são hoje vulneráveis, pressionadas pela perda de habitat e, na Carolina do Norte, por caçadores furtivos que as desenterram para as vender ilegalmente, um crime considerado suficientemente grave para o estado o classificar como crime grave em 2014.",
+        "name_origin": "O nome do género Dionaea deriva de Dione, mãe de Afrodite/Vénus na mitologia grega, enquanto o nome comum dioneia presta homenagem diretamente à deusa do amor, numa referência ao fascínio sedutor mas letal da armadilha para os insetos; o nome da espécie, muscipula, significa «ratoeira» em latim.",
+        "symbolism_story": "Por atrair, seduzir e depois devorar, a dioneia é há muito símbolo de beleza perigosa ou enganadora, cuja aparência aparentemente inofensiva esconde uma ação súbita e decisiva. O público vitoriano ficou fascinado por este contraste entre as delicadas flores brancas e as folhas predadoras, e continua a ser um emblema popular de resiliência e adaptabilidade: uma pequena planta que transformou a escassez numa vantagem evolutiva.",
+        "flower_meaning": "Charme enganador",
+        "fragrance": {
+          "notes": "As pequenas flores brancas exalam um perfume ténue e doce para atrair polinizadores, bem distinto das armadilhas por baixo, que usam sinais visuais e néctar, em vez de perfume, para atrair presas rastejantes."
+        },
+        "uses_list": [
+          {
+            "text": "Uma planta espetacular cultivada em interiores ou em jardins de turfeira pelas suas armadilhas de fecho rápido e forma baixa em roseta."
+          },
+          {
+            "text": "As suas pequenas flores brancas erguem-se numa haste alta, bem acima das armadilhas, atraindo abelhas e outros polinizadores enquanto os mantêm fora do alcance das folhas em baixo."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Charme enganador",
+            "description": "As delicadas flores brancas e as folhas verdes de aparência inofensiva da armadilha escondem uma captura súbita e decisiva, tornando esta planta um emblema duradouro da beleza que oculta perigo sob a superfície."
+          }
+        ],
+        "toxicity": {
+          "headline": "Segura para animais de estimação",
+          "active_compound_display": "Nenhum reportado",
+          "notes_en": "Não foi encontrada correspondência com fontes autorizadas sobre toxicidade; considerada não reportada (a estimativa do modelo não é verificada por fontes).",
+          "human": {
+            "exposure": "Não é reportada nenhuma via de exposição.",
+            "effect": "Não é reportado nenhum efeito tóxico.",
+            "note": "Não é reportada toxicidade para humanos neste catálogo; isto não é prova de que a planta seja comestível ou inofensiva."
+          },
+          "dog": {
+            "exposure": "Não é reportada nenhuma via de exposição.",
+            "effect": "Não é reportado nenhum efeito tóxico.",
+            "note": "Fontes autorizadas indicam que esta planta não é tóxica para cães; isto não é prova de que a planta seja comestível."
+          },
+          "cat": {
+            "exposure": "Não é reportada nenhuma via de exposição.",
+            "effect": "Não é reportado nenhum efeito tóxico.",
+            "note": "Fontes autorizadas indicam que esta planta não é tóxica para gatos; isto não é prova de que a planta seja comestível."
           }
         }
       }

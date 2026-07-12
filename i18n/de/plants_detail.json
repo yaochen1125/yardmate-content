@@ -3,8 +3,8 @@
   "locale": "de",
   "source": {
     "resource": "plants_detail.json",
-    "sha256": "d674df65ba47a794dc47c43803183e7433cc611a0edb9a386cd30f37bc151b94",
-    "record_count": 1622
+    "sha256": "81cab1f453ea8a4d4d295deb474ecefbeed8abadbc9bf286f3136df93de52746",
+    "record_count": 1631
   },
   "records": {
     "AAA0001": {
@@ -99661,6 +99661,488 @@
             "exposure": "Kein Expositionsweg gemeldet.",
             "effect": "Keine toxische Wirkung gemeldet.",
             "note": "Autoritative Quellen stufen diese Pflanze als für Katzen unbedenklich ein; das ist kein Beleg dafür, dass sie essbar ist."
+          }
+        }
+      }
+    },
+    "AAA1624": {
+      "fields": {
+        "common_name": "Zwergpalme",
+        "description": "Die Zwergpalme ist die einzige Palme, die auf dem europäischen Festland heimisch ist, und eine der frosthärtesten Palmenarten überhaupt. Sie wächst als dichter, mehrstämmiger Horst aus steifen, fächerförmigen Wedeln in Blaugrün- bis Silbergrautönen, deren Blattstiele an der Basis von scharfen Dornen gesäumt sind. Sie stammt von felsigen Küstenhängen und Gebüschlandschaften von der Iberischen Halbinsel und Südfrankreich bis Nordafrika und gedeiht in sandigem, gut durchlässigem Boden in voller Sonne, wobei sie Trockenheit, Salzsprühnebel und Wintertemperaturen bis knapp unter -10 °C locker übersteht. Langsamwüchsig und kompakt – selten über sechs Meter hoch – eignet sie sich gleichermaßen für Küstengärten, Steppenbeete und große Kübel.",
+        "history_text_short": "Lange bevor sie Gärten zierte, war die Zwergpalme eine Nutzpflanze. Im 19. Jahrhundert kämmten Familien in der Provence und Nordafrika die Fasern aus Stamm und Blattstielen zu 'Pflanzenhaar' (crin végétal) – tonnenweise verkauft zum Füllen von Matratzen und Polstermöbeln.",
+        "history_text_long": "Über weite Strecken des 19. und frühen 20. Jahrhunderts war die Zwergpalme weniger Zierpflanze als Rohstoff. Arbeiter in der französischen Provence, auf Korsika und im Maghreb ernteten die faserige Masse an der Stammbasis und entlang der Blattstiele, kämmten und kardierten sie zu einer groben, elastischen Faser, die im Möbelhandel als 'crin végétal' – Pflanzenhaar – bekannt wurde. In Städten wie Marseille und Algier entstanden ganze Heimindustrien um diese bescheidene Palme, die Füllmaterial für Matratzen, Polstermöbel, Sattelunterlagen und sogar frühe Autositze lieferte – ein billigerer, reichlich verfügbarer Ersatz für echtes Rosshaar. Ballen dieser Faser wurden tonnenweise zu Möbelherstellern in ganz Europa verschifft, und der Handel sicherte zahllosen Landfamilien eine ihrer wenigen Bargeldeinnahmen. Die Palme selbst wurde dabei kaum je getötet: Aus den bleibenden Blattbasen wuchs jedes Jahr neue Faser nach, sodass ein einziger wilder Horst über Generationen hinweg geerntet werden konnte. Erst mit dem Aufkommen synthetischer Schäume und Fasern in der Mitte des 20. Jahrhunderts verschwand der Handel mit crin végétal, und die Zwergpalme wurde stattdessen wegen ihrer erstaunlichen Winterhärte und ihrer skulpturalen Form in Gärten weit außerhalb ihrer Heimat neu entdeckt.",
+        "name_origin": "Der Gattungsname Chamaerops setzt sich aus dem griechischen chamai, 'am Boden,' und rhops, 'Strauch,' zusammen und beschreibt ihren niedrigen, strauchartigen Wuchs im Vergleich zu höheren Palmen; der Artname humilis ist lateinisch für 'niedrig' oder 'bescheiden.'",
+        "symbolism_story": "Wild wachsend auf felsigen, windgepeitschten Hängen, wo kaum etwas anderes gedeiht, steht die Zwergpalme für stille Widerstandskraft – eine Pflanze, die Trockenheit, Salz und Frost klaglos erträgt. Als einzige auf dem europäischen Festland heimische Palme ist sie zugleich eng mit der mediterranen Identität verbunden und weckt überall, wo sie wächst, das Bild der sonnenverbrannten Hänge Iberiens, der Provence und Nordafrikas.",
+        "flower_meaning": "Widerstandskraft",
+        "fragrance": {
+          "notes": "Kleine Büschel gelber Frühlingsblüten verströmen einen zarten, süßlichen Duft."
+        },
+        "uses_list": [
+          {
+            "text": "Geschätzt als winterharte Akzentpalme für mediterran gestaltete Gärten, Innenhöfe und große Kübel."
+          },
+          {
+            "text": "Die Blattfaser wurde historisch zu 'crin végétal' verarbeitet, um Matratzen und Polstermöbel zu füllen."
+          },
+          {
+            "text": "Das zarte Herz im Stamm (Palmito) gilt seit der Römerzeit in Spanien als Delikatesse."
+          },
+          {
+            "text": "Die kleinen gelben Blüten locken Bienen an, und die reifen Früchte dienen Vögeln und Kleinsäugern als Nahrung."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Widerstandskraft",
+            "description": "Ihre Fähigkeit, Trockenheit, Salzsprühnebel und Frost zu überstehen, macht sie zu einem Symbol der Ausdauer in rauem Küstengelände."
+          },
+          {
+            "keyword": "Heimat",
+            "description": "Als einzige auf dem europäischen Festland heimische Palme ist sie eng mit der mediterranen Identität und dem Gefühl der Zugehörigkeit entlang ihrer Küstenheimat verbunden."
+          }
+        ],
+        "toxicity": {
+          "headline": "Keine Toxizität berichtet",
+          "active_compound_display": "Keine bekannt",
+          "notes_en": "Keine autoritative Übereinstimmung zur Toxizität gefunden; als nicht berichtet behandelt (LLM-Schätzung ist nicht quellenverifiziert).",
+          "human": {
+            "exposure": "Es wird kein Expositionsweg berichtet.",
+            "effect": "Es wird keine toxische Wirkung berichtet.",
+            "note": "In diesem Katalog wird keine Toxizität für Menschen berichtet; dies ist kein Nachweis dafür, dass die Pflanze essbar oder ungefährlich ist."
+          },
+          "dog": {
+            "exposure": "Es wird kein Expositionsweg berichtet.",
+            "effect": "Es wird keine toxische Wirkung berichtet.",
+            "note": "In diesem Katalog wird keine Toxizität für Hunde berichtet; dies ist kein Nachweis dafür, dass die Pflanze essbar oder ungefährlich ist."
+          },
+          "cat": {
+            "exposure": "Es wird kein Expositionsweg berichtet.",
+            "effect": "Es wird keine toxische Wirkung berichtet.",
+            "note": "In diesem Katalog wird keine Toxizität für Katzen berichtet; dies ist kein Nachweis dafür, dass die Pflanze essbar oder ungefährlich ist."
+          }
+        }
+      },
+      "source_hash": "14760c5db094614c7d38c860f43d6e1020df99f95136aa679dd26b60625eacf9"
+    },
+    "AAA1625": {
+      "source_hash": "f26ca055c7307e6ba72d93b356d8c9ead6ff06db961d4ee11e2071b5ba4436ec",
+      "fields": {
+        "common_name": "Kalifornische Fächerpalme",
+        "description": "Die Kalifornische Fächerpalme ist die einzige im Westen der USA heimische Palme und bildet hochragende Einzelstamm-Exemplare, die aus Wüstenoasen in der Colorado-Wüste Südkaliforniens, im Westen Arizonas und im Norden Baja Californias emporwachsen. Ihr dicker, faseriger Stamm trägt eine dichte Krone großer, gefalteter, fächerförmiger Blätter, und sofern nicht beschnitten, umhüllt ein zotteliger 'Rock' aus abgestorbenen Wedeln den Stamm über einen Großteil seiner Höhe. Im Sommer tragen bogige Blütenstände kleine cremeweiße Blüten, gefolgt von Büscheln kleiner schwarzer, dattelartiger Früchte. Tief verwurzelt, um das Grundwasser von Wüstenquellen und Verwerfungssickerstellen zu erreichen, erträgt sie nach der Etablierung sengende Hitze und Trockenheit und kann über viele Jahrzehnte hinweg 18 bis 23 Meter hoch werden. Schnellwachsend und mit markanter Silhouette bleibt sie eine charakteristische Palme des amerikanischen Südwestens, sowohl in ihren heimischen Oasen als auch in warmen Gärten und Straßenzügen.",
+        "history_text_short": "Lange bevor sie zum Symbol von Wüstenresorts wurde, versorgte die Kalifornische Fächerpalme die Cahuilla im Colorado-Wüstengebiet. Ihre süße Frucht wurde frisch gegessen, getrocknet oder zu Mehl gemahlen; ihre Wedel deckten Behausungen und wurden zu Körben geflochten; und die Oasen, in denen sie wuchs, gespeist von Wüstenquellen, waren über Generationen hinweg zentrale Versammlungsorte.",
+        "history_text_long": "Jahrhundertelang war die Kalifornische Fächerpalme für die Cahuilla, die schon lange vor dem europäischen Kontakt in der Colorado-Wüste Südkaliforniens lebten, weit mehr als Landschaftskulisse. Wo immer die Palme in dichten Beständen wuchs, kennzeichnete sie das Vorhandensein einer dauerhaften Wüstenquelle oder einer Verwerfungssickerstelle, und diese Oasen wurden zu wesentlichen Versammlungsorten und Siedlungsplätzen. Die kleine, dunkle, dattelartige Frucht der Palme reifte im Spätsommer und wurde frisch gegessen, zur Aufbewahrung getrocknet oder zu einem süßen Mehl gemahlen; ihre breiten, fächerförmigen Blätter wurden geschnitten und zu Körben, Sandalen und Matten geflochten oder zusammengebunden, um die Dächer von Behausungen namens kish zu decken. Cahuilla-Familien setzten zudem regelmäßig die zotteligen Röcke abgestorbener Wedel in Brand, die sich um jeden Stamm bilden — eine Praxis, die Unrat beseitigte, Schädlinge fernhielt und offenbar in der folgenden Saison eine reichere Fruchternte begünstigte, eine frühe Form aktiver Landbewirtschaftung in dem, was auf den ersten Blick wie unberührte Wildnis aussieht. Die Oasen selbst, die sich durch Schluchten wie den Palm Canyon nahe dem heutigen Palm Springs ziehen, gaben der Region ihren Namen, sobald amerikanische und europäische Besucher im neunzehnten Jahrhundert eintrafen, angezogen vom selben verlässlichen Wasser, das Cahuilla-Gemeinschaften Generationen zuvor ernährt hatte.",
+        "name_origin": "Der Gattungsname Washingtonia ehrt George Washington, vergeben von Botanikern des neunzehnten Jahrhunderts; der Artname filifera ist Lateinisch für 'fadentragend' und bezieht sich auf die blassen, sich kräuselnden Fasern, die sich von den Rändern ihrer fächerförmigen Blätter lösen.",
+        "symbolism_story": "Wo immer verborgenes Wüstenwasser die Oberfläche erreicht, erhebt sich die Kalifornische Fächerpalme und gilt seit langem als natürliches Zeichen der Zuflucht — ein meilenweit sichtbares Signal, dass lebenspendendes Wasser und Schatten voraus liegen. Für die Cahuilla, ebenso wie für die Wüstentiere, die noch heute unter ihrem beröckten Stamm Schutz suchen, verkörpert sie sowohl Ausdauer in einem harten Klima als auch das stille Versprechen der Zuflucht.",
+        "flower_meaning": "Zuflucht",
+        "uses_list": [
+          {
+            "text": "Seit langem als charakteristische Palme entlang von Straßen, Resorts und Gärten im warmen Winterklima des Südwestens gepflanzt, geschätzt für ihre hochragende Silhouette."
+          },
+          {
+            "text": "Ihre kleine, süße, dattelartige Frucht war eine traditionelle Nahrung der Cahuilla, roh, getrocknet oder zu Mehl gemahlen gegessen."
+          },
+          {
+            "text": "Breite, fächerförmige Blätter wurden zu Körben, Sandalen und Matten geflochten und zum Decken traditioneller Behausungen verwendet."
+          },
+          {
+            "text": "Ihre Frucht und die zotteligen Wedelröcke bieten Nahrung und Unterschlupf für Wüstenvögel, Fledermäuse und andere Wildtiere."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Zuflucht",
+            "description": "Da sie seit Jahrtausenden das Vorhandensein von seltenem Wüstenwasser anzeigt, ist die Kalifornische Fächerpalme zum Symbol für Zuflucht und lebensspendenden Schutz in einer unbarmherzigen Landschaft geworden."
+          },
+          {
+            "keyword": "Ausdauer",
+            "description": "Ihre Fähigkeit, über Jahrzehnte an verstreuten Wüstenquellen zu gedeihen, macht sie zu einem Sinnbild für Widerstandsfähigkeit und Beständigkeit in ariden Regionen."
+          }
+        ],
+        "toxicity": {
+          "headline": "Keine Toxizität bekannt",
+          "active_compound_display": "Keine bekannt",
+          "notes_en": "Keine autoritative Toxizitätsübereinstimmung gefunden; als nicht berichtet behandelt (LLM-Schätzung ist nicht quellgeprüft).",
+          "human": {
+            "exposure": "Es wird kein Expositionsweg berichtet.",
+            "effect": "Es wird keine toxische Wirkung berichtet.",
+            "note": "In diesem Katalog wird keine Toxizität für Menschen berichtet; dies ist kein Beleg dafür, dass die Pflanze essbar oder unbedenklich ist."
+          },
+          "dog": {
+            "exposure": "Es wird kein Expositionsweg berichtet.",
+            "effect": "Es wird keine toxische Wirkung berichtet.",
+            "note": "In diesem Katalog wird keine Toxizität für Hunde berichtet; dies ist kein Beleg dafür, dass die Pflanze essbar oder unbedenklich ist."
+          },
+          "cat": {
+            "exposure": "Es wird kein Expositionsweg berichtet.",
+            "effect": "Es wird keine toxische Wirkung berichtet.",
+            "note": "In diesem Katalog wird keine Toxizität für Katzen berichtet; dies ist kein Beleg dafür, dass die Pflanze essbar oder unbedenklich ist."
+          }
+        }
+      }
+    },
+    "AAA1626": {
+      "fields": {
+        "common_name": "Weichblättrige Palmlilie",
+        "bloom_tip": "Die Blüten erscheinen im Sommer über dem Blattwerk und zeigen sich in cremeweißer Farbe.",
+        "fruit_tip": "Die Früchte sind ungewöhnliche, trockene Kapseln, die dem Wintergarten zusätzlichen Reiz verleihen.",
+        "description": "Die Weichblättrige Palmlilie ist eine niedrige, horstbildende, immergrüne Art, die in den trockenen Sandböden und lichten Wäldern des Südostens der USA heimisch ist. Ihre Rosetten aus steifen, blaugrünen, schwertförmigen Blättern hängen an den Spitzen sanft herab – daher der Artname – und tragen helle, sich einrollende Fasern an den Blatträndern. Im Frühsommer erheben sich hohe Blütenstände weit über das Laub und tragen nickende Trauben cremeweißer, glockenförmiger Blüten, die sich in der Abenddämmerung für nachtaktive Motten öffnen. Im Herbst bilden die verblühten Stände trockene, dreikammerige Samenkapseln, die bis in den Winter hinein erhalten bleiben. Kompakt und trockenheitsverträglich, selten höher als einen Meter, gedeiht sie in voller Sonne und stark durchlässigem Boden und eignet sich hervorragend für Steingärten, trockene Hänge und Kiesbeete.",
+        "history_text_short": "Lange bevor sie in Gärten Einzug hielt, lieferte die Weichblättrige Palmlilie den Stämmen im Südosten der USA Seil, Garn und Sandalen. Ihre zähen Blattfasern wurden abgezogen, gedreht und zu Schnüren und Schuhwerk verarbeitet, während die saponinreichen Wurzeln zu einem natürlichen Schaum für Haar, Kleidung und rituelle Gegenstände zerstoßen wurden.",
+        "history_text_long": "Über Generationen hinweg nutzten indigene Völker im Südosten der heutigen USA die Weichblättrige Palmlilie als Nutzpflanze, nicht als Zierde. Ihre langen, faserigen Blätter wurden geerntet, zerstoßen und von ihrem grünen Fruchtfleisch befreit, um zähe, seidige Fasern freizulegen, die zu kräftigen Schnüren gedreht, zu Matten und Körben verwoben oder zu Sandalen geflochten wurden, die selbst felsigem Untergrund standhielten. Da die Faser kaum verrottete und Knoten gut hielt, war sie für Bogensehnen, Angelschnüre und Netze begehrt. Ebenso wichtig war die Wurzel der Pflanze, reich an natürlichen Saponinen: Zerstoßen und in Wasser aufgeschlagen, ergibt sie einen schaumigen, seifenähnlichen Schaum, der zum Waschen von Haar und gewebten Stoffen sowie zur Vorbereitung von Zeremonialkleidung diente – daher einer ihrer bleibenden Volksnamen, 'Seifenkraut.' Die Art ist zugleich auf einen ebenso hingebungsvollen Partner für ihre eigene Fortpflanzung angewiesen: Weibliche Yucca-Motten sammeln gezielt Pollen zu einer Kugel, tragen sie zu einer anderen Blüte und drücken sie auf die Narbe, bevor sie ihre Eier in die heranwachsende Samenkapsel legen – ein präziser, wechselseitiger Austausch, bei dem die Raupen der Motte nur einen Teil der Samen fressen und genug für die Fortpflanzung der Pflanze übrig lassen. Keine der beiden Arten kann ihren Lebenszyklus ohne die andere vollenden, was die Weichblättrige Palmlilie zu einem der anschaulichsten lebenden Beispiele für Koevolution in der nordamerikanischen Flora macht.",
+        "name_origin": "Der Gattungsname Yucca stammt vom Taíno-Wort für Maniok, eine andere, nicht verwandte Pflanze, die von frühen europäischen Botanikern irrtümlich auf diese Gruppe übertragen wurde; der Artname flaccida ist lateinisch für 'schlaff' oder 'herabhängend' und bezieht sich auf die Blattspitzen, die sich abwärts biegen, anders als die steif aufrechten Blätter eng verwandter Yucca-Arten.",
+        "symbolism_story": "Bewaffnet mit steifen, spitzen Blättern und dennoch großzügig mit Faser, Seil und Seife, steht die Weichblättrige Palmlilie sowohl für Schutz als auch für Erfindungsreichtum – eine Pflanze, die ihr Terrain verteidigt und zugleich still die Rohstoffe des Alltags liefert. Ihre enge, exklusive Partnerschaft mit der Yucca-Motte fügt eine weitere Bedeutungsebene hinzu: eine Erinnerung daran, dass selbst der widerstandsfähigste Überlebenskünstler auf Zusammenarbeit angewiesen ist.",
+        "flower_meaning": "Schutz",
+        "fragrance": {
+          "notes": "Die nickenden weißen Blüten verströmen in der Abenddämmerung einen zarten, süßen Duft, um nachtaktive Yucca-Motten anzulocken."
+        },
+        "uses_list": [
+          {
+            "text": "Ein verlässlicher, architektonischer Akzent für Steingärten, trockene Beete und Kiesgärten, geschätzt für ihre immergrünen Rosetten und hohen Sommerblütenstände."
+          },
+          {
+            "text": "Ihre zähen Blattfasern wurden traditionell von den indigenen Völkern des Südostens abgezogen, gedreht und zu Schnüren, Matten und Sandalen verwoben."
+          },
+          {
+            "text": "Die nachts blühenden Blüten werden fast ausschließlich von Yucca-Motten bestäubt – eine der präzisesten Pflanzen-Insekten-Partnerschaften der Natur."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Schutz",
+            "description": "Ihre steifen, spitz zulaufenden Blätter machten die Yucca im Südosten zu einem natürlichen Symbol für Schutz und Verteidigung, sowohl in der Folklore als auch in der Gartentradition."
+          },
+          {
+            "keyword": "Erfindungsreichtum",
+            "description": "Als Pflanze, die aus denselben Blättern und Wurzeln Schnur, Sandalen und Seife lieferte, steht sie seit Langem für Erfindungsreichtum und Selbstversorgung."
+          }
+        ],
+        "toxicity": {
+          "headline": "Menschen Gering · Haustiere Mäßig",
+          "active_compound_display": "Steroidsaponine",
+          "notes_en": "Enthält Steroidsaponine; der Verzehr von Blättern oder Wurzeln kann bei Haustieren Magen-Darm-Beschwerden verursachen, und der Pflanzensaft kann Haut oder Augen leicht reizen.",
+          "human": {
+            "exposure": "Verzehr von Blättern und Pflanzensaft. Berührung von Blättern und Pflanzensaft.",
+            "effect": "Leichte Magenverstimmung bei Verzehr größerer Mengen sowie Haut- oder Augenreizung durch Kontakt mit dem Pflanzensaft.",
+            "note": "Enthält Steroidsaponine; der Verzehr von Blättern oder Wurzeln kann bei Haustieren Magen-Darm-Beschwerden verursachen, und der Pflanzensaft kann Haut oder Augen leicht reizen.",
+            "symptoms": [
+              "Leichte Magenverstimmung bei Verzehr größerer Mengen.",
+              "Haut- oder Augenreizung durch Kontakt mit dem Pflanzensaft."
+            ]
+          },
+          "dog": {
+            "exposure": "Verzehr von Blättern, Wurzeln und Früchten.",
+            "effect": "Erbrechen, Durchfall, Mattigkeit und vermehrter Speichelfluss.",
+            "note": "Enthält Steroidsaponine; der Verzehr von Blättern oder Wurzeln kann bei Haustieren Magen-Darm-Beschwerden verursachen, und der Pflanzensaft kann Haut oder Augen leicht reizen.",
+            "symptoms": [
+              "Erbrechen.",
+              "Durchfall.",
+              "Mattigkeit.",
+              "Vermehrter Speichelfluss."
+            ]
+          },
+          "cat": {
+            "exposure": "Verzehr von Blättern, Wurzeln und Früchten.",
+            "effect": "Erbrechen, Durchfall und Appetitlosigkeit.",
+            "note": "Enthält Steroidsaponine; der Verzehr von Blättern oder Wurzeln kann bei Haustieren Magen-Darm-Beschwerden verursachen, und der Pflanzensaft kann Haut oder Augen leicht reizen.",
+            "symptoms": [
+              "Erbrechen.",
+              "Durchfall.",
+              "Appetitlosigkeit."
+            ]
+          }
+        }
+      },
+      "source_hash": "2f7d0fffbcb3543cec9e22c616733f30b2a24f82f200f8480904973d5d047438"
+    },
+    "AAA1627": {
+      "fields": {
+        "common_name": "Akanthus",
+        "bloom_tip": "Seine Blüten erscheinen meist im Sommer und locken zahlreiche Bestäuber an.",
+        "fruit_tip": "Die Frucht ist meist braun gefärbt und trägt zum dekorativen Wert der Pflanze bei.",
+        "description": "Der Akanthus ist eine kräftige mediterrane Staude, geschätzt für ihre glänzenden, tief gelappten dunkelgrünen Blätter, die sich zu einer eindrucksvollen Rosette von fast 60 Zentimetern Durchmesser ausbreiten. Im späten Frühling und Sommer ragen hohe Blütenstände 90 bis 120 Zentimeter über das Laub hinaus, besetzt mit weißen, kapuzenartigen Blüten, die von stacheligen, violett getönten Tragblättern umhüllt werden und wochenlang Bienen anlocken. Er verträgt hellen Schatten ebenso wie volle Sonne in kühleren Klimazonen, übersteht Trockenheit, sobald er etabliert ist, und breitet sich über Rhizome zu dichten, architektonischen Horsten aus. Seine skulpturalen Blätter haben Garten- wie Baukunst gleichermaßen inspiriert – am bekanntesten als Vorbild für das korinthische Säulenkapitell.",
+        "history_text_short": "Der Akanthus wächst seit der Antike an den Küsten des Mittelmeers; seine breiten, dornig gerandeten Blätter wurden so bewundert, dass antike griechische Bildhauer ihre geschwungene Form in die Kapitelle korinthischer Säulen meißelten. Seit dem 16. Jahrhundert in nordischen Gärten heimisch, wird er bis heute für sein kraftvolles Laub und seine hohen sommerlichen Blütenstände geschätzt.",
+        "history_text_long": "Dem römischen Architekten Vitruv zufolge begann das gestalterische Erbe des Akanthus im antiken Korinth. Ein junges Mädchen starb vor ihrer Hochzeit, und ihre trauernde Amme legte die Lieblingsgegenstände des Mädchens in ein kleines Körbchen, stellte es an ihr Grab und deckte es mit einem Dachziegel ab, um den Inhalt vor der Witterung zu schützen. Der Korb kam zufällig genau über der Wurzel eines Akanthus zu stehen, der am Grab wuchs, und im Frühling hatten sich dessen breite, dornige Blätter um den Korb herum emporgeschoben und sich überall dort nach außen gebogen, wo sie auf den Widerstand der Ziegelkante trafen.\n\nDer Bildhauer Kallimachos, bei seinen Zeitgenossen für seine akribische Detailgenauigkeit bekannt, kam am Grab vorbei und war von dem anmutigen Zusammenspiel aus Blatt und Korb fasziniert. Er nahm das Bild mit in seine Werkstatt und übersetzte es in Stein: ein neues Kapitell für Säulenköpfe, ein Kranz aus sich einrollenden Akanthusblättern, der eine flache, schalenförmige Deckplatte trägt. Griechische Baumeister übernahmen den Entwurf, und römische Architekten trugen ihn später durch ihr gesamtes Reich, wo er zum bestimmenden Merkmal der korinthischen Ordnung wurde – bis heute sichtbar an Tempeln, Gerichtsgebäuden und öffentlichen Bauten, die alle auf die Blätter einer einzigen Pflanze an einem Grab zurückgehen. Lange nachdem jenes erste Kapitell gemeißelt worden war, begannen Gärtner der italienischen Renaissance und darüber hinaus, die Pflanze selbst zu kultivieren und ihre kraftvolle Blattrosette als lebendiges Echo klassischer Baukunst zu schätzen.",
+        "name_origin": "Akanthus stammt vom griechischen akantha, „Dorn“ oder „Stachel“, ein Hinweis auf die stacheligen Tragblätter und Blattränder der Pflanze; mollis ist lateinisch für „weich“ und beschreibt die Textur der breiten Blattspreiten trotz ihrer stacheligen Ränder.",
+        "symbolism_story": "Weil seine sich einrollenden Blätter dem korinthischen Kapitell seine Form gaben, steht der Akanthus seit langem für Kunstfertigkeit und die anhaltende Kraft der von der Natur geschenkten Inspiration. Seine Gewohnheit, Jahr für Jahr zuverlässig aus demselben Wurzelstock wiederzukehren, selbst nachdem das Laub abgestorben ist, hat ihn außerdem zu einem stillen Sinnbild der Beständigkeit gemacht.",
+        "flower_meaning": "Kunstfertigkeit"
+      }
+    },
+    "AAA1628": {
+      "source_hash": "563441a49c0e3305cacf55f3f5a515e2d4698b8411a9c88fccf0afdd2778cd0d",
+      "fields": {
+        "common_name": "Formosa-Palme",
+        "description": "Die Formosa-Palme – auf Taiwanisch shan zong (山棕) genannt – ist eine langsam wachsende, horstbildende Palme, die in schattigen Waldunterwuchszonen Taiwans und der japanischen Ryukyu-Inseln heimisch ist. Mehrere schlanke Stämme bilden einen dichten Horst unter dunkelgrünen, gefiederten Wedeln, deren Fiederblättchen in zerfransten, krallenartigen Spitzen enden. Sie verträgt kühlere Winter besser als die meisten Palmen und wird selten höher als sechs Meter, was sie zu einem beliebten Unterwuchs-Exemplar für schattige Gärten und Innenhöfe macht. Ihre zähen Blattscheidenfasern werden seit langem abgezogen und zu Regenumhängen und Seilen verwoben.",
+        "history_text_short": "Lange bevor sie in Ziergärten Einzug hielt, versorgte die Formosa-Palme – auf Taiwanisch shan zong – Bergvölker mit zähen Fasern aus ihren Blattscheiden, die zu Regenumhängen und Seilen verwoben wurden. Ihre dichten, sprossenden Horste und krallenartigen Wedelspitzen schützen bis heute Waldunterwuchszonen in Taiwan und auf Japans Ryukyu-Inseln.",
+        "history_text_long": "Lange bevor westliche Botaniker ihr einen lateinischen Namen gaben, war die Formosa-Palme für die Bergvölker Taiwans bereits unentbehrlich; sie kannten sie als shan zong – „Bergpalme“. Entlang der faserigen Scheiden, die jeden neuen Wedel an der Stammbasis umhüllen, bildet die Pflanze eine grobe, witterungsbeständige Faser. Indigene Völker und Hakka-Bauern in Taiwans Vorgebirgen lernten, diese Faser abzuziehen, zu klopfen und zu langen Strängen zu verarbeiten, um daraus shan zong suo yi zu weben – Regenumhänge, die während der häufigen Bergregen der Insel über die Schultern geworfen wurden – ebenso wie Seile, Bürsten und Besen, die weit haltbarer waren als Baumwolle oder Stroh.\n\nDie Palme selbst wuchs wild im schattigen Unterwuchs der Wälder Taiwans und der benachbarten japanischen Ryukyu-Inseln; ihre dichten, vielstämmigen Horste und dunklen, gefiederten Wedel mit gezackten, krallenartigen Fiederblättchen gediehen im schwachen Licht unter höheren Bäumen. Erntende lernten zudem, bei den reifenden Früchten vorsichtig zu sein, deren Fruchtfleisch feine, nadelspitze Kristalle enthält, die bei Kontakt brennen – eine Gefahr, die sie mit ihrer größeren Verwandten, der Zuckerpalme, teilt, die anderswo in Asien für Palmzucker und -wein angezapft wird.\n\nDie formelle botanische Erstbeschreibung erfolgte erst 1919, als der italienische Palmenspezialist Odoardo Beccari die Art klassifizierte und sie zu Ehren des deutschen Botanikers Adolf Engler engleri nannte. Heute überleben handgewebte shan-zong-Regenumhänge vor allem als wiederbelebtes Kunsthandwerk in taiwanischen Kulturerbe-Werkstätten, doch die Palme, die sie einst ermöglichte, wächst noch immer bereitwillig in schattigen Innenhöfen und Gärten weit jenseits ihrer heimischen Berge.",
+        "name_origin": "Der Gattungsname Arenga stammt vom malaiischen Wort ‘areng’ für die Zuckerpalmengruppe; der Artname engleri ehrt den deutschen Botaniker Adolf Engler, wenngleich die Pflanze offiziell vom italienischen Palmenspezialisten Odoardo Beccari im Jahr 1919 beschrieben wurde.",
+        "symbolism_story": "Über Generationen hinweg verarbeiteten taiwanische Bergvölker die groben Blattfasern dieser Palme zu Regenumhängen und Seilen, wodurch die Formosa-Palme zu einem stillen Sinnbild für Erfindungsreichtum wurde – praktischer Schutz, gewoben aus dem, was in Reichweite wuchs.",
+        "flower_meaning": "Erfindungsreichtum",
+        "fragrance": {
+          "notes": "Die Blütenstände verströmen einen leichten, süßlichen Duft, der bestäubende Insekten anlockt."
+        },
+        "uses_list": [
+          {
+            "text": "Aus den Blattscheiden gewonnene Fasern werden in Taiwan traditionell zu Regenumhängen, Seilen und Bürsten verwoben."
+          },
+          {
+            "text": "Als üppiges Unterwuchs- oder Innenhofexemplar wegen ihrer architektonischen, horstbildenden Form und Kältetoleranz geschätzt."
+          },
+          {
+            "text": "Reifende Fruchtstände werden von Vögeln gefressen, die zur Samenverbreitung beitragen."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Erfindungsreichtum",
+            "description": "Ihre groben Blattfasern, einst von taiwanischen Bergvölkern zu Regenumhängen und Seilen verwoben, haben die Formosa-Palme zu einem stillen Sinnbild für Erfindungsreichtum gemacht – aus einer gewöhnlichen Waldpflanze wurde alltäglicher Schutz vor den Elementen."
+          }
+        ],
+        "toxicity": {
+          "headline": "Toxizität unbekannt",
+          "active_compound_display": "Keine gemeldet",
+          "notes_en": "Keine autoritative Quelle bestätigt die Toxizität; daher als nicht gemeldet eingestuft (die KI-Schätzung ist nicht quellengeprüft).",
+          "human": {
+            "exposure": "Kein Expositionsweg gemeldet.",
+            "effect": "Keine toxische Wirkung gemeldet.",
+            "note": "Die Toxizität für Menschen ist nicht gut dokumentiert; bis zur Überprüfung Vorsicht walten lassen."
+          },
+          "dog": {
+            "exposure": "Kein Expositionsweg gemeldet.",
+            "effect": "Keine toxische Wirkung gemeldet.",
+            "note": "Die Toxizität für Hunde ist nicht gut dokumentiert; bis zur Überprüfung Vorsicht walten lassen."
+          },
+          "cat": {
+            "exposure": "Kein Expositionsweg gemeldet.",
+            "effect": "Keine toxische Wirkung gemeldet.",
+            "note": "Die Toxizität für Katzen ist nicht gut dokumentiert; bis zur Überprüfung Vorsicht walten lassen."
+          }
+        }
+      }
+    },
+    "AAA1629": {
+      "source_hash": "ebbe0066ca661b4d5f346bf75922c5538f1081147a804c54f4fe8b0f0ef0f9a7",
+      "fields": {
+        "common_name": "Samtpflanze",
+        "bloom_tip": "Die Blüten dieser Pflanze erscheinen im Sommer, sind kräftig gefärbt und wirken sehr anziehend auf bestäubende Insekten.",
+        "description": "Die Samtpflanze ist eine kriechende tropische Blattschmuckpflanze vom Regenwaldboden Javas, geschätzt für Blätter und Stängel, die von dichten, schillernd purpurnen Härchen bedeckt sind und das Licht wie violetter Samt einfangen. Ihre ovalen, gezähnten Blätter sind oberseits dunkelgrün und unterseits leuchtend violett, wodurch die ganze Pflanze bei hellem, indirektem Licht schimmert. Im Sommer erscheinen kleine, orange-gelbe, gänseblümchenartige Blütenbüschel, doch viele Pflanzenfreunde kneifen die Knospen ab, bevor sie sich öffnen. Schnellwüchsig und pflegeleicht in Töpfen oder Ampeln, gedeiht sie das ganze Jahr über auch drinnen.",
+        "history_text_short": "Die aus den Regenwäldern Javas stammende Samtpflanze wurde in den 1970er-Jahren unerwartet zum Star amerikanischer Wohnzimmer – ihre violett behaarten Blätter schimmerten im Lampenlicht, während die meisten Besitzer ihre eigentümlich streng riechenden Blüten still und heimlich abzwickten, bevor sie sich je öffnen konnten.",
+        "history_text_long": "Die Samtpflanze wächst wild am schattigen Waldboden Javas in Indonesien, wo ihre kriechenden Triebe und violett behaarten Blätter den feuchten Unterwuchs überziehen. Europäische Botaniker brachten sie im neunzehnten Jahrhundert in Kultur, doch ihren eigentlichen Ruhm erlangte sie erst ein Jahrhundert später, während des amerikanischen Zimmerpflanzenbooms der 1970er-Jahre. In Kaufhäusern und Versandkatalogen verkauft, wurde die Pflanze wegen ihres unwirklich schillernden Purpurglanzes beliebt, der unter dem damals üblichen Leuchtstofflicht in Büros und Wohnungen geradezu elektrisch aufleuchtete – eine Neuheit, die sie neben Makramee-Ampeln und Hochflorteppichen zu einem festen Bestandteil der Dschungel-Ästhetik jenes Jahrzehnts machte. Doch Sammler lernten bald eine Eigenheit kennen, die Pflegeanleitungen bis heute wiederholen: Ihre kleinen, orangefarbenen, gänseblümchenartigen Blüten sind zwar hübsch anzusehen, verströmen aber beim Öffnen in geschlossenen Räumen einen strengen, moschusartigen Geruch, den viele mit nassem Heu oder alten Socken vergleichen. Statt den Geruch hinzunehmen, kneifen Generationen von Pflanzenfreunden die Blütenknospen einfach von Hand ab, bevor sie aufblühen, und tauschen so eine Saison voller Blüten gegen ununterbrochenes Samtlaub – ein kleines, praktisches Ritual, das seither unter Zimmerpflanzenliebhabern weitergegeben wird.",
+        "name_origin": "Der Gattungsname Gynura stammt vom griechischen gyne (Frau) und oura (Schwanz) und beschreibt die fadenförmigen, schwanzartigen Narben in der Mitte ihrer Blüten; der Artname aurantiaca ist lateinisch für 'orange' und bezieht sich auf die Farbe ihrer Blüten.",
+        "symbolism_story": "Ihr schillernder purpurner Glanz hat die Samtpflanze zu einem kleinen Sinnbild verborgener Brillanz gemacht – ein gewöhnliches Blatt, das im Schatten unscheinbar wirkt, aber in unerwarteter Farbe aufleuchtet, sobald das Licht im richtigen Winkel darauf fällt, und damit die Vorstellung widerspiegelt, dass Lebendigkeit oft nur darauf wartet, entdeckt zu werden, statt erst erschaffen werden zu müssen.",
+        "flower_meaning": "Ausstrahlung",
+        "fragrance": {
+          "notes": "Kleine Blütenbüschel verströmen einen strengen, moschusartigen Geruch, den viele als unangenehm empfinden und oft mit nassem Heu oder alten Socken vergleichen; Pflanzenfreunde kneifen die Knospen daher meist ab, bevor sie sich öffnen."
+        },
+        "uses_list": [
+          {
+            "text": "Wird wegen seines schimmernden purpurnen Samtlaubs als auffällige Zimmerpflanze oder Blickfang in Ampeln kultiviert."
+          },
+          {
+            "text": "Ihre kleinen orange-gelben Blüten locken im Freien bestäubende Insekten an, wenn man sie aufblühen lässt."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Ausstrahlung",
+            "description": "Ihr schillernder purpurner Glanz hat die Samtpflanze zu einem kleinen Sinnbild verborgener Brillanz gemacht – ein gewöhnliches Blatt, das im Schatten unscheinbar wirkt, aber im richtigen Licht in unerwarteter Farbe aufleuchtet."
+          },
+          {
+            "keyword": "Individualität",
+            "description": "Inmitten gewöhnlicher grüner Blattpflanzen fällt sie durch ihr ungewöhnliches violettes Kleid auf und ist bei Sammlern beliebt, die Pflanzen schätzen, die sich nicht einfügen."
+          }
+        ],
+        "toxicity": {
+          "headline": "Für Haustiere unbedenklich",
+          "active_compound_display": "Keine bekannt",
+          "notes_en": "Keine autoritative Übereinstimmung zur Toxizität gefunden; daher als nicht gemeldet eingestuft (LLM-Einschätzung ist nicht quellengeprüft).",
+          "human": {
+            "exposure": "Kein Expositionsweg gemeldet.",
+            "effect": "Keine toxische Wirkung gemeldet.",
+            "note": "Für den Menschen ist in diesem Katalog keine Toxizität gemeldet; dies ist kein Beleg dafür, dass die Pflanze essbar oder unbedenklich ist."
+          },
+          "dog": {
+            "exposure": "Kein Expositionsweg gemeldet.",
+            "effect": "Keine toxische Wirkung gemeldet.",
+            "note": "Autoritative Quellen stufen diese Pflanze als ungiftig für Hunde ein; dies ist kein Beleg dafür, dass die Pflanze essbar ist."
+          },
+          "cat": {
+            "exposure": "Kein Expositionsweg gemeldet.",
+            "effect": "Keine toxische Wirkung gemeldet.",
+            "note": "Autoritative Quellen stufen diese Pflanze als ungiftig für Katzen ein; dies ist kein Beleg dafür, dass die Pflanze essbar ist."
+          }
+        }
+      }
+    },
+    "AAA1630": {
+      "source_hash": "1573ce22c1992b85798c9870adc418d59a5a792b8fb50cd7dcaaec3f3d8ff375",
+      "fields": {
+        "common_name": "Dreimasterblume",
+        "bloom_tip": "Die Blüten dieser Pflanze erscheinen im Sommer, sind farbenfroh und ziehen Insekten an.",
+        "fruit_tip": "Ihre Früchte erscheinen von Spätsommer bis Frühherbst und fallen durch auffällige Farben auf.",
+        "description": "Die Dreimasterblume ist eine kriechende, ausdauernde Staude aus den Grasländern, Felsvorsprüngen und Küstendünen im Südosten Brasiliens, in Uruguay und im Nordosten Argentiniens, wo die kriechenden Triebe überall dort Wurzeln schlagen, wo sie den Boden berühren. Ihre fleischigen, lanzettlichen Blätter sind oberseits tiefgrün und unterseits purpurn überhaucht, dicht mit feinen silbrigen Härchen bedeckt, die das Licht einfangen. Die dreiblättrigen, magentarosa Blüten öffnen sich im Sommer in lockeren Büscheln, eingebettet in bootförmige Hochblätter. Genügsam und schnell wuchernd gedeiht sie als Bodendecker, Ampelpflanze oder Zimmerpflanze und verträgt sowohl helles Licht als auch Halbschatten bei minimaler Pflege.",
+        "history_text_short": "Benannt nach der englischen Gärtnerfamilie Tradescant, wurde dieser südamerikanische Bodendecker 1843 wissenschaftlich beschrieben. Wegen seiner kriechenden, purpurn überhauchten Blätter beliebt, verbreitete er sich weltweit als Zierpflanze — und wurde an Küstendünen etwa in Neuseeland zu einem Naturschutzproblem.",
+        "history_text_long": "Die Gattung Tradescantia ehrt John Tradescant den Älteren und seinen Sohn, zwei der berühmtesten Gärtner des England des 17. Jahrhunderts. Als Hüter der königlichen Gärten unter Karl I. reisten die Tradescants ins Ausland und handelten mit anderen Sammlern, um ihren Londoner Garten und ihr berühmtes Kuriositätenkabinett, die „Arche“, mit Pflanzen und Kuriositäten aus aller Welt zu füllen. Zwei Jahrhunderte später, im Jahr 1843, beschrieb der deutsche Botaniker Carl Sigismund Kunth diese Art formell anhand von Exemplaren, die in den Grasländern, Felsvorsprüngen und Küstendünen im Südosten Brasiliens, in Uruguay und im Nordosten Argentiniens gesammelt worden waren, und nannte sie cerinthoides, da ihre Blätter an die Gattung Cerinthe (Wachsblume) erinnern. Von Gärtnern weltweit wegen ihrer Widerstandsfähigkeit und ihres kriechenden, purpurn überhauchten Laubs geschätzt, wurde die Dreimasterblume weit über ihr natürliches Verbreitungsgebiet hinaus als Bodendecker und Zimmerpflanze verbreitet. An Orten wie Neuseeland und Teilen Australiens entkam sie der Kultivierung und bildet heute dichte Matten entlang von Küstendünen und Waldrändern, wodurch sie einheimische Sämlinge verdrängt — aus einer geschätzten Gartenpflanze wurde so ein Ziel für Naturschutz-Freiwillige, die bedrohte Dünenökosysteme wiederherstellen wollen.",
+        "name_origin": "Die Gattung ehrt John Tradescant den Älteren und seinen Sohn, englische königliche Gärtner und Pflanzensammler des 17. Jahrhunderts; cerinthoides verweist auf die Ähnlichkeit der Blätter mit der Wachsblumengattung Cerinthe.",
+        "symbolism_story": "Weil schon ein einzelner abgebrochener Trieb der Dreimasterblume fast überall dort Wurzeln schlägt und sich vermehrt, wo er landet — von sonnenversengten Dünen bis zu schattigen Fensterbänken —, gilt sie Gärtnern seit langem als Sinnbild für Widerstandsfähigkeit und Fülle, eine Pflanze, die aus Mangel üppige grüne Bedeckung macht.",
+        "flower_meaning": "Widerstandsfähigkeit",
+        "uses_list": [
+          {
+            "text": "Beliebter kriechender Bodendecker und Zimmerpflanze für Kübel und Ampeln."
+          },
+          {
+            "text": "Die dreiblättrigen Sommerblüten locken Bienen und andere kleine Bestäuber an."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Widerstandsfähigkeit",
+            "description": "Ihre Fähigkeit, aus jedem abgebrochenen Trieb Wurzeln zu schlagen und sowohl auf rauen Dünen als auch im schattigen Unterwuchs zu gedeihen, macht sie zu einem Symbol stiller Ausdauer."
+          },
+          {
+            "keyword": "Fülle",
+            "description": "Dichte, kriechende Blattteppiche und üppige Sommerblüten stehen für üppiges, unaufhaltsames Wachstum."
+          }
+        ],
+        "toxicity": {
+          "headline": "Menschen Gering · Haustiere Mäßig",
+          "active_compound_display": "calcium oxalate raphides",
+          "notes_en": "Der Pflanzensaft verursacht bei Haustieren und empfindlichen Menschen Kontaktdermatitis; wird er gefressen, kann es bei Hunden und Katzen zu leichtem Speicheln und Magenverstimmung kommen.",
+          "human": {
+            "exposure": "Berühren von Pflanzensaft, Stängeln und Blättern.",
+            "effect": "Leichte Hautreizung bei empfindlichen Personen.",
+            "note": "Der Pflanzensaft verursacht bei Haustieren und empfindlichen Menschen Kontaktdermatitis; wird er gefressen, kann es bei Hunden und Katzen zu leichtem Speicheln und Magenverstimmung kommen.",
+            "symptoms": [
+              "Leichte Hautreizung bei empfindlichen Personen."
+            ]
+          },
+          "dog": {
+            "exposure": "Berühren von Pflanzensaft, Stängeln und Blättern. Kontakt mit Pflanzensaft, Stängeln und Blättern. Fressen von Pflanzensaft, Stängeln und Blättern.",
+            "effect": "Kontaktdermatitis, Hautrötung, Speicheln und bei Verschlucken leichtes Erbrechen.",
+            "note": "Der Pflanzensaft verursacht bei Haustieren und empfindlichen Menschen Kontaktdermatitis; wird er gefressen, kann es bei Hunden und Katzen zu leichtem Speicheln und Magenverstimmung kommen.",
+            "symptoms": [
+              "Kontaktdermatitis.",
+              "Hautrötung.",
+              "Speicheln.",
+              "Bei Verschlucken leichtes Erbrechen."
+            ]
+          },
+          "cat": {
+            "exposure": "Berühren von Pflanzensaft, Stängeln und Blättern. Kontakt mit Pflanzensaft, Stängeln und Blättern. Fressen von Pflanzensaft, Stängeln und Blättern.",
+            "effect": "Kontaktdermatitis, Hautrötung, Speicheln und bei Verschlucken leichtes Erbrechen.",
+            "note": "Der Pflanzensaft verursacht bei Haustieren und empfindlichen Menschen Kontaktdermatitis; wird er gefressen, kann es bei Hunden und Katzen zu leichtem Speicheln und Magenverstimmung kommen.",
+            "symptoms": [
+              "Kontaktdermatitis.",
+              "Hautrötung.",
+              "Speicheln.",
+              "Bei Verschlucken leichtes Erbrechen."
+            ]
+          }
+        }
+      }
+    },
+    "AAA1631": {
+      "source_hash": "6f45ca76eb29cdde19f8cd7933aae19dc9407ac139af009b8b933f8472f71e1f",
+      "fields": {
+        "common_name": "Jacarandabaum",
+        "bloom_tip": "Diese Pflanze blüht im Sommer und zeigt wunderschöne violette Blüten.",
+        "fruit_tip": "Die Früchte reifen im Herbst heran und verleihen auch den nachfolgenden Jahreszeiten auffällige Farbtupfer.",
+        "description": "Der Jacarandabaum ist ein schnellwachsender, laubabwerfender Baum, berühmt für sein Frühlingsschauspiel: Die farnartigen, gefiederten Blätter fallen ab, während Büschel trompetenförmiger, lavendel-violetter Blüten die Krone überziehen und anschließend den Boden darunter in Violett hüllen. Er stammt aus den subtropischen Wäldern Argentiniens und Boliviens und ist weltweit zu einem beliebten Schatten- und Straßenbaum geworden, von Pretoria über Los Angeles bis Sydney. Ausgewachsene Bäume erreichen eine Höhe von 9 bis 15 Metern mit einer breiten, ausladenden Krone, gefolgt von flachen, holzigen Samenkapseln. Er gedeiht in voller Sonne bei gut durchlässigem Boden und verträgt, einmal etabliert, Trockenheit gut.",
+        "history_text_short": "Benannt nach einem Guaraní-Wort für sein duftendes Holz, verließ der Jacarandabaum seine Heimat Argentinien und Bolivien und wurde weltweit zu einem ikonischen Straßenbaum. Jeden Frühling hüllt er Pretoria in Südafrika in Violett, wo Generationen von Studierenden in fallenden Blüten ein Zeichen für Prüfungsglück sehen.",
+        "history_text_long": "Der Jacarandabaum stammt ursprünglich aus den trockenen subtropischen Wäldern im Nordwesten Argentiniens und im Süden Boliviens, wo er verstreut zwischen anderen laubabwerfenden Bäumen entlang von Flussufern und felsigen Hängen wächst. Sein Gattungsname geht auf ein Guaraní-Wort für den Baum zurück, dessen duftendes, leicht zu bearbeitendes Holz von südamerikanischen Holzhandwerkern seit langem geschätzt wird. Im neunzehnten Jahrhundert trugen botanische Gärten und koloniale Pflanzensammler den Jacarandabaum weit über Südamerika hinaus, und zu Beginn des zwanzigsten Jahrhunderts wurde er bereits als Alleebaum in der gesamten subtropischen Welt gepflanzt. Nirgends fand er größeren Anklang als in Pretoria, Südafrika, wo ab den 1880er-Jahren mehr als siebzigtausend Jacarandabäume entlang der Straßen der Stadt gepflanzt wurden, was ihr den Beinamen Jacaranda-Stadt einbrachte. Da die Bäume jedes Jahr im Oktober und November in voller violetter Blüte stehen – genau dann, wenn das akademische Jahr der University of Pretoria zu Ende geht –, sind Generationen von Studierenden unter violett gepflasterten Straßen entlanggegangen und haben nach fallenden Blüten Ausschau gehalten, in dem Glauben, dass eine Blüte, die auf den Kopf fällt oder aufgefangen wird, bevor sie den Boden berührt, Glück bei den Abschlussprüfungen bringt. Dieselben Bäume säumen heute Boulevards von Buenos Aires über Los Angeles bis Sydney, wo ihre kurze, aber prachtvolle Blütezeit den Wechsel der Jahreszeiten in Städten markiert, die eine halbe Welt von dem Ort entfernt liegen, an dem die Art ursprünglich wild wuchs.",
+        "name_origin": "Der Gattungsname Jacaranda stammt von einem Guaraní-Wort, das das duftende, reich gemaserte Holz des Baumes beschreibt, welches südamerikanische Holzhandwerker seit langem verwenden. Der Artname mimosifolia bezieht sich auf die farnartigen, mimosenähnlichen gefiederten Blätter. Der gebräuchliche deutsche Name Jacarandabaum leitet sich direkt vom Gattungsnamen ab, um eine Verwechslung mit dem ebenfalls blauviolett blühenden Blauglockenbaum (Paulownia tomentosa) zu vermeiden.",
+        "symbolism_story": "In Pretoria, Südafrika, das wegen seiner Zehntausenden violett blühenden Bäume den Beinamen Jacaranda-Stadt trägt, glauben Studierende seit langem, dass das Auffangen einer fallenden Jacaranda-Blüte oder eine Blüte, die auf den Kopf fällt, Glück bei den Abschlussprüfungen bringt. Da die Bäume jedes Jahr im Oktober und November blühen – genau dann, wenn das akademische Jahr endet –, sind Generationen von Studierenden unter violett gepflasterten Straßen entlanggegangen und haben in fallenden Blüten ein Zeichen für kommendes Glück gesehen.",
+        "flower_meaning": "Glück",
+        "fragrance": {
+          "notes": "Büschel trompetenförmiger Blüten verströmen einen zarten, honigsüßen Duft, der am deutlichsten wahrzunehmen ist, wenn ein Baum in voller Blüte steht."
+        },
+        "uses_list": [
+          {
+            "text": "Wird weltweit wegen seiner spektakulären Frühlingsblüte als blühender Schatten- und Straßenbaum gepflanzt."
+          },
+          {
+            "text": "Die trompetenförmigen Blüten locken Bienen und andere bestäubende Insekten an."
+          },
+          {
+            "text": "Sein duftendes, leicht zu bearbeitendes Holz wird von südamerikanischen Holzhandwerkern seit langem für Möbel und kleine Handwerksarbeiten verwendet."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Glück",
+            "description": "In Pretoria, Südafrika, glauben Studierende seit langem, dass eine Jacaranda-Blüte, die auf den Kopf fällt, oder das Auffangen einer Blüte, bevor sie den Boden berührt, Glück bei den Abschlussprüfungen bringt – die Bäume blühen jedes Jahr genau dann, wenn das Semester endet."
+          },
+          {
+            "keyword": "Erneuerung",
+            "description": "Sein dramatischer Übergang von kahlen Ästen zu einer durchgehend violetten Krone, noch bevor ein einziges Blatt erscheint, hat den Jacarandabaum in Städten der Südhalbkugel zu einem saisonalen Symbol für Wandel und Erneuerung gemacht."
+          }
+        ],
+        "toxicity": {
+          "headline": "Für Haustiere unbedenklich",
+          "active_compound_display": "Keine gemeldet",
+          "notes_en": "Keine Übereinstimmung mit einer autoritativen Toxizitätsquelle gefunden; wird als nicht gemeldet behandelt (die LLM-Einschätzung ist nicht quellengeprüft).",
+          "human": {
+            "exposure": "Es ist kein Aufnahmeweg gemeldet.",
+            "effect": "Es ist keine toxische Wirkung gemeldet.",
+            "note": "Für Menschen ist in diesem Katalog keine Toxizität gemeldet; dies ist kein Beleg dafür, dass die Pflanze essbar oder ungefährlich ist."
+          },
+          "dog": {
+            "exposure": "Es ist kein Aufnahmeweg gemeldet.",
+            "effect": "Es ist keine toxische Wirkung gemeldet.",
+            "note": "Autoritative Quellen stufen diese Pflanze als für Hunde ungiftig ein; dies ist kein Beleg dafür, dass die Pflanze essbar ist."
+          },
+          "cat": {
+            "exposure": "Es ist kein Aufnahmeweg gemeldet.",
+            "effect": "Es ist keine toxische Wirkung gemeldet.",
+            "note": "Autoritative Quellen stufen diese Pflanze als für Katzen ungiftig ein; dies ist kein Beleg dafür, dass die Pflanze essbar ist."
+          }
+        }
+      }
+    },
+    "AAA1632": {
+      "source_hash": "24bdc101f93dd04ed37bd8e2a326e28dbee6c5f06aac62caa8b867bccbc79dd8",
+      "fields": {
+        "common_name": "Venusfliegenfalle",
+        "bloom_tip": "Die Blüten dieser Pflanze erscheinen zwischen Mai und Juni und locken Insekten an.",
+        "description": "Die Venusfliegenfalle ist eine der wenigen wirklich fleischfressenden Pflanzen der Welt und stammt aus einem schmalen Streifen subtropischer Feuchtgebiete an der Küste von Carolina. Ihre klappbaren, kieferähnlichen Blätter tragen Sinneshaare, die in Sekundenbruchteilen zuschnappen, sobald ein Insekt sie innerhalb von zwanzig Sekunden zweimal berührt, wodurch die Beute eingeschlossen und langsam von Verdauungsenzymen aufgelöst wird. Diese Falle entwickelte sich als Überlebensstrategie in den sumpfigen, stickstoffarmen Böden ihres Heimatgebiets, wo gefangene Insekten die Nährstoffe liefern, die der Boden nicht bieten kann. Kompakt und niedrig wachsend, bildet sie eine Rosette aus Fallen um einen Stängel mit kleinen weißen Blüten und wird von Sammlern weltweit geschätzt.",
+        "history_text_short": "Lange bevor sie zur Fensterbank-Kuriosität wurde, wuchs die Venusfliegenfalle wild nur in einem winzigen Fleckchen Moorland in Carolina. Gouverneur Arthur Dobbs beschrieb ihre zuschnappenden Blätter erstmals 1759 und nannte sie ein „großes Wunder des Pflanzenreichs“. Charles Darwin widmete ihr später jahrelange Studien und bezeichnete sie berühmt als „eine der wunderbarsten Pflanzen der Welt“.",
+        "history_text_long": "Das gesamte natürliche Verbreitungsgebiet der Venusfliegenfalle ist erstaunlich klein: ein Ring aus Kiefernsavannen und Mooren im Umkreis von etwa hundertsechzig Kilometern um Wilmington, North Carolina – und nirgendwo sonst auf der Erde. Europäer erfuhren erstmals 1759 von ihr, als Arthur Dobbs, der Kolonialgouverneur von North Carolina, dem Botaniker Peter Collinson in London von einer Pflanze berichtete, deren Blätter sich „wie eine Sprungfalle“ schlossen, sobald ein Insekt sie berührte, und sie „das große Wunder des Pflanzenreichs“ nannte. 1768 sandte der Botaniker John Ellis eine Beschreibung an Carl von Linné und prägte den Gattungsnamen Dionaea nach Dione, der Mutter der Venus in der griechischen Mythologie, während der gebräuchliche Name der Göttin der Liebe selbst huldigte. Keine Pflanze faszinierte Charles Darwin so sehr wie diese. In den frühen 1870er-Jahren fütterte er im Gewächshaus seines Hauses, Down House, monatelang von Hand Fliegenfallen mit Fleisch und Eiweiß, maß, wie schnell sich die Fallen schlossen, und testete, was sie auslöste und was nicht. Seine Experimente füllten weite Teile seines 1875 erschienenen Buches „Insectivorous Plants“, und in einem Brief an einen Freund nannte er sie „eine der wunderbarsten Pflanzen der Welt“. Darwins sorgfältige Beobachtungen trugen dazu bei nachzuweisen, dass die Falle ein echtes Verdauungsorgan und keine bloße mechanische Kuriosität war, und seine Faszination trug wesentlich dazu bei, fleischfressende Pflanzen bei viktorianischen Sammlern populär zu machen. Diese Beliebtheit ist inzwischen selbst zu einer Bedrohung geworden: Wilde Venusfliegenfallen sind heute gefährdet, bedrängt durch Lebensraumverlust und, in North Carolina, durch Wilderer, die Pflanzen ausgraben, um sie illegal zu verkaufen – ein Verbrechen, das der Bundesstaat 2014 zum Straftatbestand erhoben hat.",
+        "name_origin": "Der Gattungsname Dionaea leitet sich von Dione ab, der Mutter der Aphrodite/Venus in der griechischen Mythologie, während der gebräuchliche Name Venusfliegenfalle direkt der Liebesgöttin huldigt – eine Anspielung auf die verführerische, aber tödliche Anziehungskraft der Falle auf Insekten; der Artname muscipula ist lateinisch für „Mausefalle“.",
+        "symbolism_story": "Weil sie lockt, verführt und dann verschlingt, steht die Venusfliegenfalle seit Langem als Symbol für gefährliche oder trügerische Schönheit, deren scheinbar unschuldige Oberfläche eine plötzliche, entschlossene Handlung verbirgt. Das viktorianische Publikum war fasziniert von diesem Widerspruch zwischen den zarten weißen Blüten und den räuberischen Blättern, und sie bleibt ein beliebtes Sinnbild für Widerstandsfähigkeit und Anpassungsfähigkeit – eine kleine Pflanze, die aus Mangel einen evolutionären Vorteil machte.",
+        "flower_meaning": "Trügerische Verführung",
+        "fragrance": {
+          "notes": "Die kleinen weißen Blüten verströmen einen schwachen, süßen Duft, um Bestäuber anzulocken – anders als die Fallen darunter, die visuelle Reize und Nektar statt Duft nutzen, um kriechende Beute anzulocken."
+        },
+        "uses_list": [
+          {
+            "text": "Eine dramatische Kuriositätenpflanze, die drinnen oder in Moorbeeten wegen ihrer zuschnappenden Fallen und ihrer niedrigen Rosettenform kultiviert wird."
+          },
+          {
+            "text": "Ihre kleinen weißen Blüten sitzen an einem hohen Stängel weit über den Fallen und locken Bienen und andere Bestäuber an, während sie diese sicher außer Reichweite der Blätter darunter halten."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Trügerische Verführung",
+            "description": "Die zarten weißen Blüten und die unschuldig wirkenden grünen Blätter der Falle verbergen einen plötzlichen, entschlossenen Zugriff und machen die Pflanze zu einem bleibenden Sinnbild für Schönheit, die Gefahr unter der Oberfläche verbirgt."
+          }
+        ],
+        "toxicity": {
+          "headline": "Für Haustiere sicher",
+          "active_compound_display": "Keine bekannt",
+          "notes_en": "Keine autoritative Übereinstimmung zur Giftigkeit gefunden; als nicht gemeldet eingestuft (LLM-Einschätzung ist nicht quellengeprüft).",
+          "human": {
+            "exposure": "Kein Expositionsweg gemeldet.",
+            "effect": "Keine toxische Wirkung gemeldet.",
+            "note": "Für Menschen ist in diesem Katalog keine Giftigkeit gemeldet; dies ist kein Beleg dafür, dass die Pflanze essbar oder unbedenklich ist."
+          },
+          "dog": {
+            "exposure": "Kein Expositionsweg gemeldet.",
+            "effect": "Keine toxische Wirkung gemeldet.",
+            "note": "Autoritative Quellen stufen diese Pflanze als ungiftig für Hunde ein; dies ist kein Beleg dafür, dass die Pflanze essbar ist."
+          },
+          "cat": {
+            "exposure": "Kein Expositionsweg gemeldet.",
+            "effect": "Keine toxische Wirkung gemeldet.",
+            "note": "Autoritative Quellen stufen diese Pflanze als ungiftig für Katzen ein; dies ist kein Beleg dafür, dass die Pflanze essbar ist."
           }
         }
       }

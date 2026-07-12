@@ -3,8 +3,8 @@
   "locale": "fr",
   "source": {
     "resource": "plants_detail.json",
-    "sha256": "d674df65ba47a794dc47c43803183e7433cc611a0edb9a386cd30f37bc151b94",
-    "record_count": 1622
+    "sha256": "81cab1f453ea8a4d4d295deb474ecefbeed8abadbc9bf286f3136df93de52746",
+    "record_count": 1631
   },
   "records": {
     "AAA0001": {
@@ -99661,6 +99661,488 @@
             "exposure": "Aucune voie d'exposition signalée.",
             "effect": "Aucun effet toxique signalé.",
             "note": "Des sources faisant autorité indiquent que cette plante n'est pas toxique pour les chats ; cela ne prouve pas qu'elle soit comestible."
+          }
+        }
+      }
+    },
+    "AAA1624": {
+      "fields": {
+        "common_name": "Palmier nain méditerranéen",
+        "description": "Le palmier nain méditerranéen est le seul palmier indigène d'Europe continentale et l'un des plus rustiques au froid parmi toutes les espèces cultivées. Il forme une touffe dense et multi-caule de palmes raides en éventail, du vert bleuté au gris argenté, dont la base des pétioles est bordée d'épines acérées. Originaire des versants côtiers rocailleux et des garrigues, de la péninsule Ibérique et du sud de la France jusqu'en Afrique du Nord, il prospère en sol sableux et bien drainé, en plein soleil, supportant sans peine la sécheresse, les embruns salés et des températures hivernales avoisinant -9 °C. À croissance lente et de port compact, dépassant rarement six mètres, il convient aussi bien aux jardins littoraux et aux jardins secs qu'aux grands bacs.",
+        "history_text_short": "Bien avant d'orner les jardins, le palmier nain méditerranéen fut une culture commerciale. Tout au long du XIXe siècle, des familles de Provence et d'Afrique du Nord peignaient sa fibre de tronc et de pétioles pour en faire du 'crin végétal', vendu par tonnes pour rembourrer matelas et meubles capitonnés.",
+        "history_text_long": "Durant une bonne partie du XIXe et du début du XXe siècle, le palmier nain méditerranéen fut moins une plante d'ornement qu'une matière première. Des ouvriers de Provence, de Corse et du Maghreb récoltaient la masse fibreuse à la base du tronc et le long des pétioles, la peignant et la cardant pour en tirer une fibre grossière et élastique connue dans l'industrie du meuble sous le nom de crin végétal. De véritables industries artisanales se sont développées dans des villes comme Marseille et Alger autour de cette modeste plante, fournissant le rembourrage des matelas, des fauteuils capitonnés, des selles et même des premiers sièges d'automobile — un substitut moins coûteux et plus abondant que le vrai crin animal. Des balles de cette fibre étaient expédiées par tonnes vers les fabricants de meubles de toute l'Europe, et ce commerce faisait vivre des milliers de familles rurales qui disposaient de peu d'autres revenus en espèces. La plante elle-même était rarement détruite par cette récolte : une nouvelle fibre repoussait chaque année à partir des bases persistantes des feuilles, si bien qu'une même touffe sauvage pouvait être exploitée pendant des générations. Ce n'est qu'avec l'arrivée des mousses et fibres synthétiques, au milieu du XXe siècle, que le commerce du crin végétal déclina, et le palmier fut alors redécouvert pour son étonnante résistance au froid et sa silhouette sculpturale, bien au-delà de son aire d'origine.",
+        "name_origin": "Le nom de genre Chamaerops vient du grec chamai, 'à même le sol,' et rhops, 'arbrisseau,' décrivant son port bas et buissonnant comparé à des palmiers plus élevés ; l'épithète humilis est le mot latin pour 'bas' ou 'humble.'",
+        "symbolism_story": "Poussant à l'état sauvage sur des pentes rocailleuses et balayées par le vent où peu d'autres plantes survivent, le palmier nain méditerranéen en est venu à symboliser une endurance tranquille — une plante qui supporte sans faiblir la sécheresse, le sel et le gel. Étant le seul palmier indigène d'Europe continentale, il est aussi intimement lié à l'identité méditerranéenne, évoquant partout où il pousse les collines brûlées de soleil d'Ibérie, de Provence et d'Afrique du Nord.",
+        "flower_meaning": "Résilience",
+        "fragrance": {
+          "notes": "Ses petites grappes de fleurs jaunes printanières dégagent un parfum léger et sucré."
+        },
+        "uses_list": [
+          {
+            "text": "Très apprécié comme palmier d'accent rustique au froid pour les jardins de style méditerranéen, les cours et les grands bacs."
+          },
+          {
+            "text": "Sa fibre foliaire était autrefois cardée pour produire du crin végétal, utilisé pour rembourrer matelas et sièges capitonnés."
+          },
+          {
+            "text": "Son cœur tendre (le palmito) est consommé comme mets fin en Espagne depuis l'époque romaine."
+          },
+          {
+            "text": "Ses petites fleurs jaunes attirent les abeilles, et ses fruits mûrs nourrissent oiseaux et petits mammifères."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Résilience",
+            "description": "Sa capacité à résister à la sécheresse, aux embruns salés et aux gels hivernaux en a fait un symbole d'endurance dans les terrains côtiers difficiles."
+          },
+          {
+            "keyword": "Foyer",
+            "description": "Étant le seul palmier indigène d'Europe continentale, il est étroitement lié à l'identité méditerranéenne et à un sentiment d'appartenance tout au long de ses côtes d'origine."
+          }
+        ],
+        "toxicity": {
+          "headline": "Aucune toxicité signalée",
+          "active_compound_display": "Aucun signalé",
+          "notes_en": "Aucune correspondance de toxicité faisant autorité trouvée ; traitée comme non signalée (l'estimation du LLM n'est pas vérifiée par une source).",
+          "human": {
+            "exposure": "Aucune voie d'exposition signalée.",
+            "effect": "Aucun effet toxique signalé.",
+            "note": "Aucune toxicité signalée pour les humains dans ce catalogue ; cela ne prouve pas que la plante est comestible ou inoffensive."
+          },
+          "dog": {
+            "exposure": "Aucune voie d'exposition signalée.",
+            "effect": "Aucun effet toxique signalé.",
+            "note": "Aucune toxicité signalée pour les chiens dans ce catalogue ; cela ne prouve pas que la plante est comestible ou inoffensive."
+          },
+          "cat": {
+            "exposure": "Aucune voie d'exposition signalée.",
+            "effect": "Aucun effet toxique signalé.",
+            "note": "Aucune toxicité signalée pour les chats dans ce catalogue ; cela ne prouve pas que la plante est comestible ou inoffensive."
+          }
+        }
+      },
+      "source_hash": "14760c5db094614c7d38c860f43d6e1020df99f95136aa679dd26b60625eacf9"
+    },
+    "AAA1625": {
+      "source_hash": "f26ca055c7307e6ba72d93b356d8c9ead6ff06db961d4ee11e2071b5ba4436ec",
+      "fields": {
+        "common_name": "Palmier de Californie",
+        "description": "Le palmier de Californie est le seul palmier indigène de l'ouest des États-Unis, formant des sujets imposants à tronc unique qui s'élèvent dans les oasis désertiques du désert de Colorado, dans le sud de la Californie, l'ouest de l'Arizona et le nord de la Basse-Californie. Son tronc épais et fibreux porte une couronne dense de grandes feuilles plissées en éventail, et, à moins d'être taillé, une 'jupe' hirsute de palmes mortes recouvre le tronc sur une grande partie de sa hauteur. En été, des hampes arquées portent de petites fleurs blanc crème, suivies de grappes de petits fruits noirs ressemblant à des dattes. Profondément enraciné pour atteindre les eaux souterraines des sources désertiques et des suintements de faille, il tolère une chaleur intense et la sécheresse une fois établi, et peut atteindre 18 à 23 mètres de hauteur au fil de nombreuses décennies. À croissance rapide et à la silhouette frappante, il reste un palmier emblématique du sud-ouest américain, tant dans ses oasis natives que dans les jardins et rues des climats chauds.",
+        "history_text_short": "Bien avant de devenir le symbole des complexes touristiques désertiques, le palmier de Californie nourrissait le peuple cahuilla du désert de Colorado. Son fruit sucré était mangé frais, séché ou moulu ; ses palmes couvraient les habitations et étaient tissées en paniers ; et les oasis où il poussait, alimentées par des sources désertiques, étaient des lieux de rassemblement centraux depuis des générations.",
+        "history_text_long": "Pendant des siècles, le palmier de Californie fut bien plus qu'un simple décor pour le peuple cahuilla, qui vit dans le désert de Colorado, dans le sud de la Californie, depuis bien avant le contact européen. Partout où le palmier poussait en peuplements denses, il signalait la présence d'une source désertique permanente ou d'un suintement de faille, et ces oasis devinrent des lieux de rassemblement et des sites de village essentiels. Le petit fruit sombre du palmier, semblable à une datte, mûrissait à la fin de l'été et était mangé frais, séché pour être conservé, ou moulu en une farine sucrée ; ses larges feuilles en éventail étaient coupées et tissées en paniers, sandales et nattes, ou attachées pour couvrir les toits d'habitations appelées kish. Les familles cahuilla mettaient également le feu périodiquement aux jupes hirsutes de palmes mortes qui s'accumulent autour de chaque tronc, une pratique qui éliminait les débris, dissuadait les nuisibles et semble avoir favorisé une production de fruits plus abondante la saison suivante — une forme précoce de gestion active des terres dans ce qui ressemble, à première vue, à une nature vierge. Les oasis elles-mêmes, disséminées à travers des canyons comme Palm Canyon, près de ce qui est aujourd'hui Palm Springs, donnèrent son nom à la région lorsque des visiteurs américains et européens commencèrent à y arriver au dix-neuvième siècle, attirés par la même eau fiable qui avait nourri les communautés cahuilla des générations auparavant.",
+        "name_origin": "Le nom de genre Washingtonia honore George Washington, attribué par des botanistes du dix-neuvième siècle ; le nom d'espèce filifera signifie 'porteur de fils' en latin, en référence aux fibres pâles et bouclées qui s'effilochent des bords de ses feuilles en éventail.",
+        "symbolism_story": "Là où l'eau cachée du désert atteint la surface, le palmier de Californie s'élève, considéré depuis longtemps comme un marqueur naturel de refuge — un signe, visible à des kilomètres, que de l'eau vitale et de l'ombre se trouvent à proximité. Pour le peuple cahuilla, comme pour la faune désertique qui s'abrite encore sous son tronc jupé, il représente à la fois l'endurance dans un climat rude et la promesse silencieuse d'un refuge.",
+        "flower_meaning": "Refuge",
+        "uses_list": [
+          {
+            "text": "Planté depuis longtemps comme palmier emblématique le long des rues, des complexes touristiques et des jardins dans tout le sud-ouest aux hivers doux, apprécié pour sa silhouette imposante."
+          },
+          {
+            "text": "Son petit fruit sucré, semblable à une datte, était un aliment traditionnel du peuple cahuilla, mangé frais, séché ou moulu."
+          },
+          {
+            "text": "Ses larges feuilles en éventail étaient tissées en paniers, sandales et nattes, et utilisées pour couvrir les habitations traditionnelles."
+          },
+          {
+            "text": "Son fruit et ses jupes hirsutes de palmes offrent nourriture et abri aux oiseaux du désert, aux chauves-souris et à d'autres animaux sauvages."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Refuge",
+            "description": "Signalant la présence d'une eau désertique rare depuis des milliers d'années, le palmier de Californie en est venu à symboliser le refuge et l'abri vital dans un paysage impitoyable."
+          },
+          {
+            "keyword": "Endurance",
+            "description": "Sa capacité à prospérer pendant des décennies sur des sources désertiques dispersées en fait un emblème de résilience et de permanence en terre aride."
+          }
+        ],
+        "toxicity": {
+          "headline": "Aucune toxicité signalée",
+          "active_compound_display": "Aucun signalé",
+          "notes_en": "Aucune correspondance de toxicité faisant autorité trouvée ; traitée comme non signalée (estimation LLM non vérifiée par une source).",
+          "human": {
+            "exposure": "Aucune voie d'exposition signalée.",
+            "effect": "Aucun effet toxique signalé.",
+            "note": "Aucune toxicité signalée pour les humains dans ce catalogue ; cela ne prouve pas que la plante est comestible ou inoffensive."
+          },
+          "dog": {
+            "exposure": "Aucune voie d'exposition signalée.",
+            "effect": "Aucun effet toxique signalé.",
+            "note": "Aucune toxicité signalée pour les chiens dans ce catalogue ; cela ne prouve pas que la plante est comestible ou inoffensive."
+          },
+          "cat": {
+            "exposure": "Aucune voie d'exposition signalée.",
+            "effect": "Aucun effet toxique signalé.",
+            "note": "Aucune toxicité signalée pour les chats dans ce catalogue ; cela ne prouve pas que la plante est comestible ou inoffensive."
+          }
+        }
+      }
+    },
+    "AAA1626": {
+      "fields": {
+        "common_name": "Yucca à feuilles molles",
+        "bloom_tip": "Les fleurs apparaissent en été, s'élevant au-dessus du feuillage, dans des tons blanc crème.",
+        "fruit_tip": "Les fruits sont des capsules sèches singulières qui apportent de l'intérêt au jardin hivernal.",
+        "description": "Le yucca à feuilles molles est une vivace basse et touffue, persistante, originaire des sols sableux et secs et des bois clairs du sud-est des États-Unis. Ses rosettes de feuilles rigides, vert bleuté, en forme d'épée, retombent doucement à leur extrémité — trait qui donne son nom à l'espèce — et portent de fins filaments clairs qui s'effilochent sur les bords du limbe. Au début de l'été, de hautes hampes florales s'élèvent bien au-dessus du feuillage, portant des grappes retombantes de fleurs blanc crème en forme de cloche qui s'ouvrent au crépuscule pour les papillons de nuit. En automne, les hampes fanées portent des capsules sèches à trois loges qui persistent jusqu'en hiver. Compact et résistant à la sécheresse, dépassant rarement un mètre, il prospère en plein soleil et en sol très bien drainé, ce qui en fait un excellent choix pour les jardins de rocaille, les pentes sèches et les bordures xérophiles.",
+        "history_text_short": "Bien avant d'entrer dans les jardins, le yucca à feuilles molles fournissait aux peuples du sud-est corde, fil et sandales. Ses fibres foliaires résistantes étaient extraites, torsadées et tissées en cordages et en chaussures, tandis que ses racines riches en saponines étaient pilées pour obtenir une mousse naturelle utilisée pour laver les cheveux, les vêtements et les objets cérémoniels.",
+        "history_text_long": "Pendant des générations, les peuples autochtones du sud-est des actuels États-Unis ont utilisé le yucca à feuilles molles comme plante utilitaire plutôt qu'ornementale. Ses longues feuilles fibreuses étaient récoltées, pilées et débarrassées de leur pulpe verte pour révéler des fibres résistantes et soyeuses, que l'on pouvait torsader en cordes solides, tisser en nattes et paniers, ou tresser en sandales assez robustes pour les terrains rocailleux. Comme la fibre résistait à la pourriture et tenait bien les nœuds, elle était prisée pour les cordes d'arc, les lignes de pêche et la confection de filets. La racine de la plante, riche en saponines naturelles, était tout aussi précieuse : pilée et agitée dans l'eau, elle produit une mousse savonneuse utilisée pour laver les cheveux, nettoyer les tissus tissés et préparer les parures cérémonielles, d'où l'un de ses noms populaires durables, 'herbe à savon.' L'espèce dépend elle-même d'un partenaire tout aussi dévoué pour sa propre reproduction : les papillons femelles du yucca rassemblent délibérément le pollen en une boule, le transportent vers une autre fleur et le déposent sur le stigmate avant de pondre leurs œufs dans la capsule en développement — un échange précis et mutuel où les larves du papillon ne consomment qu'une partie des graines, en laissant assez pour que la plante se reproduise. Aucune des deux espèces ne peut achever son cycle de vie sans l'autre, ce qui fait du yucca à feuilles molles l'un des exemples vivants les plus clairs de coévolution dans la flore nord-américaine.",
+        "name_origin": "Le nom de genre Yucca vient du mot taïno désignant le manioc, une plante différente et sans lien de parenté, appliqué par erreur à ce groupe par les premiers botanistes européens ; l'épithète flaccida est le mot latin pour 'flasque' ou 'tombant', en référence à l'extrémité de ses feuilles, qui retombe contrairement au feuillage rigide et dressé des yuccas apparentés.",
+        "symbolism_story": "Armé de feuilles rigides et pointues, mais généreux en fibre, en corde et en savon, le yucca à feuilles molles en est venu à incarner à la fois la protection et l'ingéniosité — une plante qui défend son territoire tout en fournissant discrètement les matériaux du quotidien. Son association intime et exclusive avec le papillon du yucca ajoute une autre couche de sens : un rappel que même le survivant à l'allure la plus robuste dépend de la coopération pour perdurer.",
+        "flower_meaning": "Protection",
+        "fragrance": {
+          "notes": "Ses fleurs blanches retombantes dégagent un parfum léger et sucré au crépuscule pour attirer les papillons nocturnes du yucca."
+        },
+        "uses_list": [
+          {
+            "text": "Un accent architectural fiable pour les jardins de rocaille, les bordures sèches et les jardins xérophiles, apprécié pour ses rosettes persistantes et ses hautes hampes florales estivales."
+          },
+          {
+            "text": "Ses fibres foliaires résistantes étaient traditionnellement extraites, torsadées et tissées en cordages, nattes et sandales par les peuples autochtones du sud-est."
+          },
+          {
+            "text": "Ses fleurs, qui s'ouvrent la nuit, sont pollinisées presque exclusivement par les papillons du yucca, l'un des partenariats plante-insecte les plus précis de la nature."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Protection",
+            "description": "Ses feuilles rigides et pointues ont fait du yucca un symbole naturel de protection et de défense, tant dans le folklore du sud-est que dans la tradition des jardins."
+          },
+          {
+            "keyword": "Ingéniosité",
+            "description": "En tant que plante capable de fournir corde, sandales et savon à partir d'un même ensemble de feuilles et de racines, il symbolise depuis longtemps l'ingéniosité et l'autosuffisance."
+          }
+        ],
+        "toxicity": {
+          "headline": "Humains Léger · Animaux Modéré",
+          "active_compound_display": "saponines stéroïdiennes",
+          "notes_en": "Contient des saponines stéroïdiennes ; l'ingestion de feuilles ou de racine peut provoquer des troubles gastro-intestinaux chez les animaux de compagnie, et la sève peut légèrement irriter la peau ou les yeux.",
+          "human": {
+            "exposure": "Ingestion de feuilles et de sève. Contact avec les feuilles et la sève.",
+            "effect": "Légers troubles gastriques en cas d'ingestion en grande quantité, et irritation de la peau ou des yeux au contact de la sève.",
+            "note": "Contient des saponines stéroïdiennes ; l'ingestion de feuilles ou de racine peut provoquer des troubles gastro-intestinaux chez les animaux de compagnie, et la sève peut légèrement irriter la peau ou les yeux.",
+            "symptoms": [
+              "Légers troubles gastriques en cas d'ingestion en grande quantité.",
+              "Irritation de la peau ou des yeux au contact de la sève."
+            ]
+          },
+          "dog": {
+            "exposure": "Ingestion de feuilles, de racines et de fruits.",
+            "effect": "Vomissements, diarrhée, abattement et salivation excessive.",
+            "note": "Contient des saponines stéroïdiennes ; l'ingestion de feuilles ou de racine peut provoquer des troubles gastro-intestinaux chez les animaux de compagnie, et la sève peut légèrement irriter la peau ou les yeux.",
+            "symptoms": [
+              "Vomissements.",
+              "Diarrhée.",
+              "Abattement.",
+              "Salivation excessive."
+            ]
+          },
+          "cat": {
+            "exposure": "Ingestion de feuilles, de racines et de fruits.",
+            "effect": "Vomissements, diarrhée et perte d'appétit.",
+            "note": "Contient des saponines stéroïdiennes ; l'ingestion de feuilles ou de racine peut provoquer des troubles gastro-intestinaux chez les animaux de compagnie, et la sève peut légèrement irriter la peau ou les yeux.",
+            "symptoms": [
+              "Vomissements.",
+              "Diarrhée.",
+              "Perte d'appétit."
+            ]
+          }
+        }
+      },
+      "source_hash": "2f7d0fffbcb3543cec9e22c616733f30b2a24f82f200f8480904973d5d047438"
+    },
+    "AAA1627": {
+      "fields": {
+        "common_name": "Acanthe",
+        "bloom_tip": "Ses fleurs s'épanouissent généralement en été, attirant de nombreux pollinisateurs.",
+        "fruit_tip": "Le fruit est généralement de couleur brune, ce qui ajoute à la valeur ornementale de la plante.",
+        "description": "L'acanthe est une vivace méditerranéenne robuste, appréciée pour son feuillage vert foncé, brillant et profondément lobé, qui s'étale en une rosette spectaculaire de près de 60 centimètres de diamètre. À la fin du printemps et en été, de hautes hampes florales s'élèvent de 90 à 120 centimètres au-dessus du feuillage, garnies de fleurs blanches en forme de capuchon entourées de bractées épineuses teintées de pourpre qui attirent les abeilles pendant des semaines. Elle tolère aussi bien l'ombre lumineuse que le plein soleil dans les climats plus frais, résiste à la sécheresse une fois établie, et se propage par rhizomes en touffes denses et architecturales. Son feuillage sculptural a inspiré aussi bien les jardins que l'architecture, le plus célèbre exemple étant le modèle du chapiteau corinthien.",
+        "history_text_short": "L'acanthe pousse sur les rivages de la Méditerranée depuis l'Antiquité; ses larges feuilles aux bords épineux étaient si admirées que les sculpteurs de la Grèce antique en gravèrent la forme enroulée sur les chapiteaux des colonnes corinthiennes. Introduite dans les jardins du nord de l'Europe dès le XVIe siècle, elle reste aujourd'hui prisée pour son feuillage imposant et ses hautes hampes florales estivales.",
+        "history_text_long": "Selon l'architecte romain Vitruve, l'héritage ornemental de l'acanthe commence dans l'Antiquité, à Corinthe. Une jeune fille mourut avant son mariage, et sa nourrice éplorée réunit les objets préférés de la défunte dans un petit panier, le déposa près de sa tombe et le recouvrit d'une tuile pour protéger son contenu des intempéries. Le panier se trouva justement placé au-dessus de la racine d'une acanthe qui poussait près de la sépulture, et au printemps, ses larges feuilles épineuses s'élevèrent autour du panier, s'incurvant vers l'extérieur partout où elles rencontraient la résistance du bord de la tuile.\n\nLe sculpteur Callimaque, réputé parmi ses contemporains pour son souci méticuleux du détail, passa devant la tombe et fut frappé par l'harmonieuse rencontre de la feuille et du panier. Il rapporta cette image dans son atelier et la traduisit dans la pierre, sculptant un nouveau chapiteau destiné au sommet des colonnes: un anneau de feuilles d'acanthe enroulées soutenant un tailloir peu profond en forme de coupe. Les bâtisseurs grecs adoptèrent ce motif, et les architectes romains le diffusèrent plus tard dans tout leur empire, où il devint le trait caractéristique de l'ordre corinthien, encore visible aujourd'hui sur des temples, des palais de justice et des bâtiments publics, tous héritiers des feuilles d'une seule plante poussée près d'une tombe. Longtemps après que ce premier chapiteau eut été sculpté, les jardiniers de la Renaissance italienne et d'ailleurs commencèrent à cultiver la plante elle-même, appréciant sa robuste rosette de feuilles comme un écho vivant de l'architecture classique.",
+        "name_origin": "Acanthus vient du grec akantha, « épine » ou « piquant », en référence aux bractées et aux bords de feuilles épineux de la plante; mollis est le terme latin pour « doux », décrivant la texture des larges feuilles malgré leurs bords piquants.",
+        "symbolism_story": "Parce que ses feuilles enroulées ont donné sa forme au chapiteau corinthien, l'acanthe symbolise depuis longtemps l'art et le pouvoir durable de l'inspiration puisée dans la nature. Son habitude de repousser fidèlement de la même souche année après année, même après que son feuillage a disparu, en a aussi fait un discret emblème de persévérance.",
+        "flower_meaning": "Art"
+      }
+    },
+    "AAA1628": {
+      "source_hash": "563441a49c0e3305cacf55f3f5a515e2d4698b8411a9c88fccf0afdd2778cd0d",
+      "fields": {
+        "common_name": "Palmier de Formose",
+        "description": "Le Palmier de Formose — appelé shan zong (山棕) en taïwanais — est un palmier cespiteux à croissance lente, originaire des sous-bois ombragés de Taïwan et des îles Ryūkyū au Japon. Plusieurs troncs fins forment une touffe dense sous des frondes vert foncé et plumeuses, dont les folioles se terminent par des pointes déchiquetées en forme de griffe. Il supporte les hivers frais mieux que la plupart des palmiers et dépasse rarement six mètres, ce qui en fait un sujet de sous-bois apprécié dans les jardins et cours ombragés. Ses fibres coriaces de gaine foliaire sont depuis longtemps prélevées et tissées en capes de pluie et en cordes.",
+        "history_text_short": "Bien avant d'entrer dans les jardins d'ornement, le Palmier de Formose — shan zong en taïwanais — fournissait aux communautés montagnardes une fibre coriace prélevée sur ses gaines foliaires, tissée en capes de pluie et en cordes. Ses touffes denses et drageonnantes, aux frondes à pointes en forme de griffe, abritent encore les sous-bois de Taïwan et des îles Ryūkyū japonaises.",
+        "history_text_long": "Bien avant que les botanistes occidentaux ne lui donnent un nom latin, le Palmier de Formose était déjà indispensable aux communautés montagnardes de Taïwan, qui le connaissaient sous le nom de shan zong — « palmier de montagne ». Le long des gaines fibreuses qui enveloppent chaque nouvelle fronde à la base du tronc, la plante produit une fibre grossière et résistante aux intempéries. Les peuples autochtones et les fermiers hakka des contreforts de Taïwan ont appris à prélever et à battre cette fibre en longs brins, puis à la tisser en shan zong suo yi — des capes de pluie jetées sur les épaules lors des fréquentes averses de montagne de l'île — ainsi qu'en cordes, brosses et balais bien plus résistants que le coton ou la paille.\n\nLe palmier lui-même poussait à l'état sauvage dans le sous-bois ombragé des forêts de Taïwan et des îles Ryūkyū voisines du Japon ; ses touffes denses à troncs multiples et ses frondes sombres et plumeuses aux folioles dentelées en forme de griffe prospéraient dans la faible lumière sous des arbres plus hauts. Les cueilleurs apprenaient aussi à se méfier de ses fruits mûrs, dont la pulpe renferme de fins cristaux aigus qui piquent au contact — un risque partagé avec son grand cousin, le palmier à sucre, dont on tire ailleurs en Asie du sucre et du vin de palme.\n\nLa reconnaissance botanique officielle n'est venue qu'en 1919, lorsque le spécialiste italien des palmiers Odoardo Beccari a classé l'espèce et l'a nommée engleri en l'honneur du botaniste allemand Adolf Engler. Aujourd'hui, les capes de pluie shan zong tissées à la main survivent surtout comme un artisanat renaissant dans des ateliers du patrimoine taïwanais, mais le palmier qui les rendait possibles pousse encore aisément dans des cours et jardins ombragés bien au-delà de ses montagnes d'origine.",
+        "name_origin": "Le nom de genre Arenga vient du mot malais « areng », utilisé pour le groupe des palmiers à sucre ; l'épithète engleri honore le botaniste allemand Adolf Engler, bien que la plante ait été formellement décrite par le spécialiste italien des palmiers Odoardo Beccari en 1919.",
+        "symbolism_story": "Pendant des générations, les communautés montagnardes de Taïwan ont transformé la fibre grossière de ce palmier en capes de pluie et en cordes, faisant du Palmier de Formose un symbole discret d'ingéniosité — une protection pratique tissée à partir de ce qui poussait à portée de main.",
+        "flower_meaning": "Ingéniosité",
+        "fragrance": {
+          "notes": "Les grappes de fleurs dégagent un parfum léger et sucré qui attire les insectes pollinisateurs."
+        },
+        "uses_list": [
+          {
+            "text": "La fibre prélevée sur les gaines foliaires est traditionnellement tissée à Taïwan pour fabriquer capes de pluie, cordes et brosses."
+          },
+          {
+            "text": "Apprécié comme sujet luxuriant de sous-bois ou de cour pour sa forme cespiteuse architecturale et sa résistance au froid."
+          },
+          {
+            "text": "Les grappes de fruits mûrs sont mangées par les oiseaux, qui aident à disperser les graines."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Ingéniosité",
+            "description": "Sa fibre foliaire grossière, autrefois prélevée et tissée par les communautés montagnardes de Taïwan en capes de pluie et en cordes, a fait du Palmier de Formose un symbole discret d'ingéniosité — une plante forestière ordinaire transformée en protection quotidienne contre les éléments."
+          }
+        ],
+        "toxicity": {
+          "headline": "Toxicité inconnue",
+          "active_compound_display": "Aucun signalé",
+          "notes_en": "Aucune source faisant autorité ne confirme sa toxicité ; elle est donc considérée comme non signalée (l'estimation de l'IA n'est pas vérifiée par des sources).",
+          "human": {
+            "exposure": "Aucune voie d'exposition signalée.",
+            "effect": "Aucun effet toxique signalé.",
+            "note": "La toxicité pour l'humain n'est pas bien documentée ; la prudence est recommandée jusqu'à vérification."
+          },
+          "dog": {
+            "exposure": "Aucune voie d'exposition signalée.",
+            "effect": "Aucun effet toxique signalé.",
+            "note": "La toxicité pour les chiens n'est pas bien documentée ; la prudence est recommandée jusqu'à vérification."
+          },
+          "cat": {
+            "exposure": "Aucune voie d'exposition signalée.",
+            "effect": "Aucun effet toxique signalé.",
+            "note": "La toxicité pour les chats n'est pas bien documentée ; la prudence est recommandée jusqu'à vérification."
+          }
+        }
+      }
+    },
+    "AAA1629": {
+      "source_hash": "ebbe0066ca661b4d5f346bf75922c5538f1081147a804c54f4fe8b0f0ef0f9a7",
+      "fields": {
+        "common_name": "Plante de velours",
+        "bloom_tip": "Les fleurs de cette plante s'épanouissent en été, sont vivement colorées et attirent beaucoup les insectes pollinisateurs.",
+        "description": "La plante de velours est une plante tropicale rampante originaire du sol forestier de Java, appréciée pour ses feuilles et ses tiges recouvertes d'un duvet pourpre dense et irisé qui capte la lumière comme du velours violet. Ses feuilles ovales et dentées sont vert foncé sur le dessus et pourpre vif en dessous, donnant à toute la plante un éclat chatoyant sous une lumière vive et indirecte. De petites grappes de fleurs orangées en forme de marguerite apparaissent en été, bien que de nombreux jardiniers pincent les boutons avant qu'ils ne s'ouvrent. À croissance rapide et facile à cultiver en pot ou en suspension, elle prospère à l'intérieur toute l'année.",
+        "history_text_short": "Originaire des forêts tropicales de Java, la plante de velours est devenue, sans crier gare, une vedette des salons américains des années 1970, ses feuilles duveteuses violettes brillant sous la lumière des lampes — même si la plupart de ses propriétaires pincent discrètement ses fleurs à l'odeur étrange avant qu'elles ne s'ouvrent.",
+        "history_text_long": "La plante de velours pousse à l'état sauvage sur le sol ombragé des forêts de Java, en Indonésie, où ses tiges rampantes et ses feuilles duveteuses violettes envahissent le sous-bois humide. Les botanistes européens l'ont introduite en culture au dix-neuvième siècle, mais elle n'a connu sa véritable célébrité qu'un siècle plus tard, lors de l'engouement américain pour les plantes d'intérieur dans les années 1970. Vendue dans les grands magasins et les catalogues de vente par correspondance, la plante est devenue prisée pour son étrange éclat pourpre irisé, qui scintillait presque électriquement sous l'éclairage fluorescent alors courant dans les bureaux et les appartements — une nouveauté qui en a fait un élément incontournable de l'esthétique 'jungle intérieure' de la décennie, aux côtés des suspensions en macramé et des tapis à longues mèches. Les collectionneurs ont cependant vite découvert une particularité que les guides d'entretien répètent encore aujourd'hui : ses petites fleurs orangées en forme de marguerite, bien que jolies à regarder, dégagent une odeur musquée puissante que beaucoup comparent à du foin mouillé ou à de vieilles chaussettes une fois ouvertes dans une pièce fermée. Plutôt que de supporter cette odeur, des générations de jardiniers ont simplement pincé les boutons à la main avant qu'ils ne fleurissent, sacrifiant une saison de fleurs pour un feuillage velouté ininterrompu — un petit rituel pratique transmis depuis lors parmi les amateurs de plantes d'intérieur.",
+        "name_origin": "Le nom de genre Gynura vient du grec gyne (femme) et oura (queue), décrivant les stigmates filiformes en forme de queue au centre de ses fleurs ; le nom d'espèce aurantiaca signifie 'orange' en latin, en référence à la couleur de ses fleurs.",
+        "symbolism_story": "Son éclat pourpre chatoyant a fait de la plante de velours un petit emblème de l'éclat caché — une feuille ordinaire qui semble terne à l'ombre mais s'illumine d'une couleur inattendue dès que la lumière la frappe sous le bon angle, reflétant l'idée que l'éclat attend souvent d'être révélé plutôt que créé.",
+        "flower_meaning": "Éclat",
+        "fragrance": {
+          "notes": "De petites grappes de fleurs dégagent une odeur musquée forte que beaucoup trouvent désagréable, souvent comparée à du foin mouillé ou à de vieilles chaussettes ; les jardiniers pincent donc généralement les boutons avant qu'ils ne s'ouvrent pour l'éviter."
+        },
+        "uses_list": [
+          {
+            "text": "Cultivée pour son feuillage pourpre velouté et chatoyant, elle fait une plante d'intérieur ou une suspension remarquable."
+          },
+          {
+            "text": "Ses petites fleurs orangées attirent les insectes pollinisateurs lorsqu'on la laisse fleurir en extérieur."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Éclat",
+            "description": "Son éclat pourpre chatoyant a fait de la plante de velours un petit emblème de l'éclat caché — une feuille ordinaire qui semble terne à l'ombre mais s'illumine d'une couleur inattendue dès que la lumière la frappe sous le bon angle."
+          },
+          {
+            "keyword": "Individualité",
+            "description": "Se distinguant parmi des rangées de feuillage vert ordinaire, son manteau violet peu commun en a fait une favorite des collectionneurs qui apprécient les plantes qui refusent de se fondre dans la masse."
+          }
+        ],
+        "toxicity": {
+          "headline": "Sans danger pour les animaux",
+          "active_compound_display": "Aucun signalé",
+          "notes_en": "Aucune correspondance faisant autorité sur la toxicité n'a été trouvée ; considérée comme non signalée (l'estimation par IA n'est pas vérifiée par des sources).",
+          "human": {
+            "exposure": "Aucune voie d'exposition signalée.",
+            "effect": "Aucun effet toxique signalé.",
+            "note": "Aucune toxicité n'est signalée pour l'humain dans ce catalogue ; cela ne prouve pas que la plante soit comestible ou inoffensive."
+          },
+          "dog": {
+            "exposure": "Aucune voie d'exposition signalée.",
+            "effect": "Aucun effet toxique signalé.",
+            "note": "Des sources faisant autorité signalent que cette plante n'est pas toxique pour les chiens ; cela ne prouve pas que la plante soit comestible."
+          },
+          "cat": {
+            "exposure": "Aucune voie d'exposition signalée.",
+            "effect": "Aucun effet toxique signalé.",
+            "note": "Des sources faisant autorité signalent que cette plante n'est pas toxique pour les chats ; cela ne prouve pas que la plante soit comestible."
+          }
+        }
+      }
+    },
+    "AAA1630": {
+      "source_hash": "1573ce22c1992b85798c9870adc418d59a5a792b8fb50cd7dcaaec3f3d8ff375",
+      "fields": {
+        "common_name": "Tradescantia",
+        "bloom_tip": "Les fleurs de cette plante s'épanouissent en été, colorées et attirent les insectes.",
+        "fruit_tip": "Ses fruits apparaissent de la fin de l'été au début de l'automne, avec des couleurs voyantes.",
+        "description": "La Tradescantia est une vivace rampante originaire des prairies, affleurements rocheux et dunes côtières du sud-est du Brésil, de l'Uruguay et du nord-est de l'Argentine, où ses tiges traçantes s'enracinent partout où elles touchent le sol. Ses feuilles charnues et lancéolées sont d'un vert profond dessus et teintées de pourpre dessous, couvertes de fins poils argentés qui accrochent la lumière. Ses fleurs à trois pétales, rose magenta, s'ouvrent en grappes lâches tout l'été, nichées dans des bractées en forme de nacelle. Facile à vivre et à croissance rapide, elle prospère en couvre-sol, en suspension ou comme plante d'intérieur, tolérant aussi bien la lumière vive que l'ombre partielle avec un minimum d'entretien.",
+        "history_text_short": "Nommée d'après les Tradescant, célèbres jardiniers royaux d'Angleterre, cette plante couvre-sol sud-américaine fut décrite formellement en 1843. Appréciée pour son feuillage rampant teinté de pourpre, elle s'est répandue comme plante ornementale dans le monde entier — et, sur des dunes côtières comme celles de Nouvelle-Zélande, elle est devenue un sujet de préoccupation pour la conservation.",
+        "history_text_long": "Le genre Tradescantia rend hommage à John Tradescant l'Ancien et à son fils, deux des jardiniers les plus célèbres de l'Angleterre du XVIIe siècle. Gardiens des jardins royaux sous Charles Ier, les Tradescant voyagèrent à l'étranger et commercèrent avec d'autres collectionneurs pour remplir leur jardin londonien et leur célèbre cabinet de curiosités, l'Arche, de plantes et d'objets singuliers rassemblés aux quatre coins du monde connu. Deux siècles plus tard, en 1843, le botaniste allemand Carl Sigismund Kunth décrivit formellement cette espèce à partir d'échantillons récoltés dans les prairies, affleurements rocheux et dunes côtières du sud-est du Brésil, de l'Uruguay et du nord-est de l'Argentine, la nommant cerinthoides en raison de la ressemblance de ses feuilles avec le genre Cerinthe, la mélinet. Appréciée des jardiniers du monde entier pour sa résistance et son feuillage rampant teinté de pourpre, la Tradescantia fut diffusée bien au-delà de son aire d'origine comme couvre-sol et plante d'intérieur. Dans des lieux comme la Nouvelle-Zélande et certaines régions d'Australie, elle s'est échappée des jardins et forme aujourd'hui des tapis denses le long des dunes côtières et des lisières forestières, étouffant les jeunes plants indigènes — transformant une plante de jardin appréciée en cible pour les bénévoles de la conservation qui s'efforcent de restaurer des écosystèmes dunaires menacés.",
+        "name_origin": "Le genre honore John Tradescant l'Ancien et son fils, jardiniers royaux et collectionneurs de plantes anglais du XVIIe siècle ; cerinthoides fait référence à la ressemblance des feuilles avec le genre Cerinthe, la mélinet.",
+        "symbolism_story": "Parce qu'une seule tige brisée de cette plante peut s'enraciner et se multiplier presque partout où elle atterrit — des dunes brûlées de soleil aux rebords de fenêtre ombragés —, les jardiniers y voient depuis longtemps un emblème de résilience et d'abondance, une plante qui transforme la rareté en une luxuriante couverture verte.",
+        "flower_meaning": "Résilience",
+        "uses_list": [
+          {
+            "text": "Couvre-sol rampant et plante d'intérieur très appréciée, en pot ou en suspension."
+          },
+          {
+            "text": "Ses fleurs estivales à trois pétales attirent les abeilles et d'autres petits pollinisateurs."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Résilience",
+            "description": "Sa capacité à s'enraciner à partir de n'importe quelle tige brisée et à prospérer aussi bien sur des dunes hostiles que dans des sous-bois ombragés en fait un symbole de résistance discrète."
+          },
+          {
+            "keyword": "Abondance",
+            "description": "Ses tapis denses de feuillage rampant et ses fleurs estivales abondantes évoquent une croissance luxuriante et inarrêtable."
+          }
+        ],
+        "toxicity": {
+          "headline": "Humains Léger · Animaux Modéré",
+          "active_compound_display": "calcium oxalate raphides",
+          "notes_en": "La sève provoque une dermatite de contact chez les animaux et les personnes sensibles ; son ingestion peut entraîner une légère salivation et des troubles digestifs chez les chiens et les chats.",
+          "human": {
+            "exposure": "Toucher la sève, les tiges et les feuilles.",
+            "effect": "Légère irritation cutanée chez les personnes sensibles.",
+            "note": "La sève provoque une dermatite de contact chez les animaux et les personnes sensibles ; son ingestion peut entraîner une légère salivation et des troubles digestifs chez les chiens et les chats.",
+            "symptoms": [
+              "Légère irritation cutanée chez les personnes sensibles."
+            ]
+          },
+          "dog": {
+            "exposure": "Toucher la sève, les tiges et les feuilles. Contact avec la sève, les tiges et les feuilles. Ingestion de sève, de tiges et de feuilles.",
+            "effect": "Dermatite de contact, rougeur cutanée, salivation et légers vomissements en cas d'ingestion.",
+            "note": "La sève provoque une dermatite de contact chez les animaux et les personnes sensibles ; son ingestion peut entraîner une légère salivation et des troubles digestifs chez les chiens et les chats.",
+            "symptoms": [
+              "Dermatite de contact.",
+              "Rougeur cutanée.",
+              "Salivation.",
+              "Légers vomissements en cas d'ingestion."
+            ]
+          },
+          "cat": {
+            "exposure": "Toucher la sève, les tiges et les feuilles. Contact avec la sève, les tiges et les feuilles. Ingestion de sève, de tiges et de feuilles.",
+            "effect": "Dermatite de contact, rougeur cutanée, salivation et légers vomissements en cas d'ingestion.",
+            "note": "La sève provoque une dermatite de contact chez les animaux et les personnes sensibles ; son ingestion peut entraîner une légère salivation et des troubles digestifs chez les chiens et les chats.",
+            "symptoms": [
+              "Dermatite de contact.",
+              "Rougeur cutanée.",
+              "Salivation.",
+              "Légers vomissements en cas d'ingestion."
+            ]
+          }
+        }
+      }
+    },
+    "AAA1631": {
+      "source_hash": "6f45ca76eb29cdde19f8cd7933aae19dc9407ac139af009b8b933f8472f71e1f",
+      "fields": {
+        "common_name": "Jacaranda",
+        "bloom_tip": "Cet arbre fleurit en été, offrant de magnifiques fleurs violettes.",
+        "fruit_tip": "Le fruit mûrit en automne, apportant une belle touche de couleur aux saisons suivantes.",
+        "description": "Le jacaranda est un arbre à croissance rapide et à feuillage caduc, réputé pour sa floraison printanière spectaculaire : ses feuilles composées, semblables à des frondes de fougère, tombent tandis que des grappes de fleurs en forme de trompette, d'un mauve-violet éclatant, recouvrent la cime, puis tapissent le sol d'un manteau violet. Originaire des forêts subtropicales d'Argentine et de Bolivie, il est devenu dans le monde entier un arbre d'ombrage et d'alignement très apprécié, de Pretoria à Los Angeles en passant par Sydney. Les arbres adultes atteignent 9 à 15 mètres de hauteur, avec une large couronne étalée, suivie de gousses plates et ligneuses. Il préfère le plein soleil et un sol bien drainé et, une fois bien établi, supporte bien la sécheresse.",
+        "history_text_short": "Son nom vient d'un mot guarani désignant son bois parfumé, le jacaranda a quitté son Argentine et sa Bolivie natales pour devenir un arbre d'alignement emblématique dans le monde entier. Chaque printemps, il recouvre Pretoria, en Afrique du Sud, d'un tapis violet, où des générations d'étudiants guettent la chute d'une fleur, signe de chance aux examens.",
+        "history_text_long": "Le jacaranda est originaire des forêts subtropicales sèches du nord-ouest de l'Argentine et du sud de la Bolivie, où il pousse de façon éparse parmi d'autres arbres à feuilles caduques, le long des berges de rivières et des pentes rocheuses. Le nom de son genre vient d'un mot guarani désignant l'arbre, dont le bois parfumé et facile à travailler est depuis longtemps prisé des ébénistes sud-américains. Au XIXe siècle, les jardins botaniques et les collectionneurs de plantes de l'époque coloniale ont fait voyager le jacaranda bien au-delà de l'Amérique du Sud, et dès le début du XXe siècle, il était planté en alignement dans les régions subtropicales du monde entier. Nulle part il ne s'est autant enraciné qu'à Pretoria, en Afrique du Sud, où plus de soixante-dix mille jacarandas ont été plantés le long des rues de la ville à partir des années 1880, lui valant le surnom de « ville des jacarandas ». Comme les arbres éclatent chaque année en pleine floraison violette en octobre et novembre, exactement au moment où l'année universitaire de l'Université de Pretoria touche à sa fin, des générations d'étudiants ont marché sous des rues tapissées de violet en guettant la chute des fleurs, croyant qu'une fleur atterrissant sur la tête, ou attrapée avant de toucher le sol, porte chance aux examens finaux. Ces mêmes arbres bordent aujourd'hui des boulevards de Buenos Aires à Los Angeles en passant par Sydney, leur floraison brève mais éclatante marquant le changement de saison dans des villes à des milliers de kilomètres de là où l'espèce a poussé à l'état sauvage pour la première fois.",
+        "name_origin": "Le nom de genre Jacaranda vient d'un mot guarani décrivant le bois parfumé et richement veiné de l'arbre, longtemps utilisé par les ébénistes sud-américains. Le nom d'espèce mimosifolia fait référence à ses feuilles composées, semblables à des frondes de fougère ou de mimosa. Le nom commun « jacaranda » reflète simplement ses fleurs violettes caractéristiques.",
+        "symbolism_story": "À Pretoria, en Afrique du Sud, surnommée la « ville des jacarandas » pour ses dizaines de milliers d'arbres à floraison violette, les étudiants pensent depuis longtemps qu'attraper une fleur de jacaranda qui tombe, ou en recevoir une sur la tête, porte chance aux examens finaux. Comme les arbres fleurissent chaque année en octobre et novembre, exactement à la fin de l'année universitaire, des générations d'étudiants ont marché sous des rues tapissées de violet en guettant la chute des fleurs, signe de bonne fortune à venir.",
+        "flower_meaning": "Bonne Fortune",
+        "fragrance": {
+          "notes": "Les grappes de fleurs en forme de trompette dégagent un léger parfum sucré, évoquant le miel, particulièrement perceptible lorsque l'arbre est en pleine floraison."
+        },
+        "uses_list": [
+          {
+            "text": "Planté dans le monde entier comme arbre d'ombrage et d'alignement à fleurs pour sa floraison printanière spectaculaire."
+          },
+          {
+            "text": "Ses fleurs en forme de trompette attirent les abeilles et autres insectes pollinisateurs."
+          },
+          {
+            "text": "Son bois parfumé et facile à travailler est depuis longtemps utilisé par les ébénistes sud-américains pour la fabrication de meubles et de petits objets artisanaux."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Bonne Fortune",
+            "description": "À Pretoria, en Afrique du Sud, les étudiants croient depuis longtemps qu'une fleur de jacaranda tombant sur la tête, ou attrapée avant de toucher le sol, porte chance aux examens finaux — les arbres fleurissent chaque année exactement au moment où le trimestre se termine."
+          },
+          {
+            "keyword": "Renouveau",
+            "description": "Sa transformation spectaculaire, passant de branches nues à une canopée entièrement violette avant même l'apparition de la moindre feuille, a fait du jacaranda un symbole saisonnier de transformation et de renouveau dans les villes de l'hémisphère Sud."
+          }
+        ],
+        "toxicity": {
+          "headline": "Sans danger pour les animaux",
+          "active_compound_display": "Aucun signalé",
+          "notes_en": "Aucune correspondance de toxicité trouvée dans les sources faisant autorité ; considéré comme non signalé (l'estimation de l'IA n'est pas vérifiée par une source).",
+          "human": {
+            "exposure": "Aucune voie d'exposition n'est signalée.",
+            "effect": "Aucun effet toxique n'est signalé.",
+            "note": "Aucune toxicité n'est signalée pour les humains dans ce catalogue ; cela ne constitue pas une preuve que la plante est comestible ou inoffensive."
+          },
+          "dog": {
+            "exposure": "Aucune voie d'exposition n'est signalée.",
+            "effect": "Aucun effet toxique n'est signalé.",
+            "note": "Des sources faisant autorité indiquent que cette plante n'est pas toxique pour les chiens ; cela ne constitue pas une preuve que la plante est comestible."
+          },
+          "cat": {
+            "exposure": "Aucune voie d'exposition n'est signalée.",
+            "effect": "Aucun effet toxique n'est signalé.",
+            "note": "Des sources faisant autorité indiquent que cette plante n'est pas toxique pour les chats ; cela ne constitue pas une preuve que la plante est comestible."
+          }
+        }
+      }
+    },
+    "AAA1632": {
+      "source_hash": "24bdc101f93dd04ed37bd8e2a326e28dbee6c5f06aac62caa8b867bccbc79dd8",
+      "fields": {
+        "common_name": "Dionée attrape-mouches",
+        "bloom_tip": "Les fleurs de cette plante s'épanouissent entre mai et juin, attirant les insectes.",
+        "description": "La dionée attrape-mouches est l'une des rares plantes véritablement carnivores au monde, originaire d'une étroite bande de zones humides subtropicales sur la côte des Carolines. Ses feuilles articulées, en forme de mâchoire, sont bordées de poils sensitifs qui se referment en une fraction de seconde lorsqu'un insecte les touche deux fois en une vingtaine de secondes, emprisonnant la proie pour la dissoudre lentement grâce à des enzymes digestives. Ce piège a évolué comme stratégie de survie dans les sols marécageux et pauvres en azote de son habitat d'origine, où les insectes capturés apportent les nutriments que le sol ne peut fournir. Compacte et basse, elle forme une rosette de pièges autour d'une tige portant de petites fleurs blanches, très prisée des collectionneurs du monde entier.",
+        "history_text_short": "Bien avant de devenir une curiosité de rebord de fenêtre, la dionée attrape-mouches ne poussait à l'état sauvage que dans un minuscule coin des tourbières des Carolines. Le gouverneur colonial Arthur Dobbs décrivit pour la première fois ses feuilles claquantes en 1759, la qualifiant de « grande merveille du règne végétal ». Charles Darwin lui consacra plus tard des années d'étude, la déclarant célèbrement « l'une des plantes les plus merveilleuses du monde ».",
+        "history_text_long": "L'aire de répartition sauvage de la dionée attrape-mouches est étonnamment restreinte : un anneau de savanes de pins et de tourbières dans un rayon d'à peine cent soixante kilomètres autour de Wilmington, en Caroline du Nord, et nulle part ailleurs sur Terre. Les Européens en entendirent parler pour la première fois en 1759, lorsque Arthur Dobbs, gouverneur colonial de Caroline du Nord, écrivit au botaniste Peter Collinson à Londres pour décrire une plante dont les feuilles se refermaient « comme un piège à ressort » au contact de tout insecte, la qualifiant de « grande merveille du règne végétal ». En 1768, le botaniste John Ellis envoya une description à Carl von Linné, forgeant le nom de genre Dionaea d'après Dioné, mère de Vénus dans la mythologie grecque, tandis que le nom commun rendait hommage à la déesse de l'amour elle-même. Aucune plante n'a autant captivé l'imagination de Charles Darwin. Au début des années 1870, dans la serre de sa demeure, Down House, il passa des mois à nourrir à la main des dionées avec de la viande et du blanc d'œuf, chronométrant la vitesse de fermeture des pièges et testant ce qui les déclenchait ou non. Ses expériences remplirent une grande partie de son livre de 1875, Insectivorous Plants, et dans une lettre à un ami, il la qualifia d'« une des plantes les plus merveilleuses du monde ». Les observations minutieuses de Darwin contribuèrent à établir que le piège était un véritable organe digestif, et non une simple curiosité mécanique, et sa fascination contribua largement à populariser les plantes carnivores auprès des collectionneurs victoriens. Cette popularité est depuis devenue elle-même une menace : les dionées sauvages sont aujourd'hui vulnérables, fragilisées par la perte d'habitat et, en Caroline du Nord, par des braconniers qui les déterrent pour les vendre illégalement, un délit jugé assez grave pour que l'État en fasse un crime en 2014.",
+        "name_origin": "Le nom de genre Dionaea vient de Dioné, mère d'Aphrodite/Vénus dans la mythologie grecque, tandis que le nom commun dionée attrape-mouches rend directement hommage à la déesse de l'amour, en clin d'œil à l'attrait séduisant mais mortel du piège pour les insectes ; le nom d'espèce muscipula signifie « souricière » en latin.",
+        "symbolism_story": "Parce qu'elle attire, séduit puis dévore, la dionée attrape-mouches symbolise depuis longtemps une beauté dangereuse ou trompeuse, dont l'apparence en apparence innocente dissimule une action soudaine et décisive. Le public victorien fut fasciné par ce contraste entre ses délicates fleurs blanches et ses feuilles prédatrices, et elle demeure un emblème populaire de résilience et d'adaptabilité, une petite plante ayant transformé la rareté en avantage évolutif.",
+        "flower_meaning": "Charme trompeur",
+        "fragrance": {
+          "notes": "Les petites fleurs blanches dégagent un parfum léger et sucré pour attirer les pollinisateurs, bien distinct des pièges situés en dessous, qui utilisent des signaux visuels et du nectar plutôt qu'un parfum pour attirer les proies rampantes."
+        },
+        "uses_list": [
+          {
+            "text": "Une plante spectaculaire cultivée en intérieur ou dans les jardins de tourbière pour ses pièges claquants et sa forme basse en rosette."
+          },
+          {
+            "text": "Ses petites fleurs blanches se dressent sur une tige haute, bien au-dessus des pièges, attirant abeilles et autres pollinisateurs tout en les gardant hors de portée des feuilles situées en dessous."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Charme trompeur",
+            "description": "Les délicates fleurs blanches et les feuilles vertes d'apparence innocente du piège dissimulent une capture soudaine et décisive, faisant de cette plante un emblème durable de la beauté qui cache un danger sous la surface."
+          }
+        ],
+        "toxicity": {
+          "headline": "Sans danger pour les animaux",
+          "active_compound_display": "Aucun signalé",
+          "notes_en": "Aucune correspondance avec une source faisant autorité sur la toxicité ; considérée comme non signalée (l'estimation du modèle n'est pas vérifiée par une source).",
+          "human": {
+            "exposure": "Aucune voie d'exposition signalée.",
+            "effect": "Aucun effet toxique signalé.",
+            "note": "Aucune toxicité n'est signalée pour l'être humain dans ce catalogue ; cela ne prouve pas que la plante soit comestible ou inoffensive."
+          },
+          "dog": {
+            "exposure": "Aucune voie d'exposition signalée.",
+            "effect": "Aucun effet toxique signalé.",
+            "note": "Des sources faisant autorité indiquent que cette plante n'est pas toxique pour les chiens ; cela ne prouve pas que la plante soit comestible."
+          },
+          "cat": {
+            "exposure": "Aucune voie d'exposition signalée.",
+            "effect": "Aucun effet toxique signalé.",
+            "note": "Des sources faisant autorité indiquent que cette plante n'est pas toxique pour les chats ; cela ne prouve pas que la plante soit comestible."
           }
         }
       }

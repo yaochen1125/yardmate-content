@@ -3,8 +3,8 @@
   "locale": "it",
   "source": {
     "resource": "plants_detail.json",
-    "sha256": "d674df65ba47a794dc47c43803183e7433cc611a0edb9a386cd30f37bc151b94",
-    "record_count": 1622
+    "sha256": "81cab1f453ea8a4d4d295deb474ecefbeed8abadbc9bf286f3136df93de52746",
+    "record_count": 1631
   },
   "records": {
     "AAA0001": {
@@ -99675,6 +99675,488 @@
             "exposure": "Nessuna via di esposizione segnalata.",
             "effect": "Nessun effetto tossico segnalato.",
             "note": "Fonti autorevoli riportano che questa pianta non è tossica per i gatti; ciò non è prova che sia commestibile."
+          }
+        }
+      }
+    },
+    "AAA1624": {
+      "fields": {
+        "common_name": "Palma nana",
+        "description": "La palma nana è l'unica palma autoctona dell'Europa continentale e una delle più resistenti al freddo tra tutte le palme coltivate. Cresce formando cespi densi e multicaule di foglie rigide a ventaglio, dai toni verde-bluastro al grigio argento, con spine appuntite lungo la base di ogni picciolo. Originaria dei versanti costieri rocciosi e della macchia mediterranea, dalla penisola iberica e dal sud della Francia fino al Nord Africa, prospera in terreni sabbiosi e ben drenati in pieno sole, sopportando senza difficoltà siccità, spruzzi salini e temperature invernali fino a circa -9 °C. A crescita lenta e portamento compatto, raramente supera i sei metri, adattandosi bene sia a giardini costieri e xerogiardini sia a grandi vasi.",
+        "history_text_short": "Molto prima di ornare i giardini, la palma nana era una coltura da reddito. Nell'Ottocento, intere famiglie in Provenza e Nord Africa pettinavano la fibra del tronco e dei piccioli per ricavarne il 'crine vegetale', venduto a tonnellate per imbottire materassi e mobili imbottiti.",
+        "history_text_long": "Per gran parte dell'Ottocento e dei primi del Novecento, la palma nana fu più una materia prima che una pianta ornamentale. Lavoratori della Provenza francese, della Corsica e del Maghreb raccoglievano la massa fibrosa alla base del tronco e lungo i piccioli, pettinandola e cardandola fino a ottenere una fibra grezza ed elastica nota, nel commercio dei mobili, come crine vegetale. Interi piccoli distretti artigianali sorsero in città come Marsiglia e Algeri attorno a questa umile palma, fornendo imbottitura per materassi, poltrone, sellini e persino i primi sedili delle automobili, come sostituto più economico e abbondante del vero crine animale. Balle di questa fibra venivano spedite a tonnellate verso i produttori di mobili di tutta Europa, e il commercio sosteneva migliaia di famiglie rurali che avevano poche altre fonti di reddito. La pianta stessa veniva raramente uccisa dalla raccolta: nuova fibra ricresceva ogni anno dalle basi persistenti delle foglie, così un unico cespo selvatico poteva essere sfruttato per generazioni. Solo con l'arrivo di schiume e fibre sintetiche, a metà Novecento, il commercio del crine vegetale declinò, e la palma nana venne poi riscoperta per la sua sorprendente resistenza al freddo e per la sua forma scultorea in giardini ben lontani dal suo areale d'origine.",
+        "name_origin": "Il nome del genere Chamaerops deriva dal greco chamai, 'a terra,' e rhops, 'arbusto,' a indicare il portamento basso e cespuglioso rispetto a palme più alte; l'epiteto humilis è il termine latino per 'basso' o 'umile.'",
+        "symbolism_story": "Crescendo spontaneamente su pendii rocciosi e battuti dal vento dove poco altro sopravvive, la palma nana è diventata simbolo di una resistenza silenziosa: una pianta che sopporta senza lamentarsi siccità, sale e gelo. Essendo l'unica palma autoctona dell'Europa continentale, è anche profondamente legata all'identità mediterranea, evocando ovunque cresca le colline assolate dell'Iberia, della Provenza e del Nord Africa.",
+        "flower_meaning": "Resilienza",
+        "fragrance": {
+          "notes": "I piccoli grappoli di fiori gialli primaverili emanano una fragranza lieve e dolce."
+        },
+        "uses_list": [
+          {
+            "text": "Molto apprezzata come palma d'accento resistente al freddo per giardini in stile mediterraneo, cortili e grandi vasi."
+          },
+          {
+            "text": "La sua fibra fogliare veniva storicamente cardata per ottenere il crine vegetale, usato per imbottire materassi e tappezzerie."
+          },
+          {
+            "text": "Il tenero cuore interno (il palmito) è considerato una prelibatezza in Spagna fin dall'epoca romana."
+          },
+          {
+            "text": "I piccoli fiori gialli attirano le api, e i frutti maturi nutrono uccelli e piccoli mammiferi."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Resilienza",
+            "description": "La sua capacità di resistere a siccità, spruzzi salini e gelate invernali ne ha fatto un simbolo di resistenza nei terreni costieri più difficili."
+          },
+          {
+            "keyword": "Casa",
+            "description": "Essendo l'unica palma autoctona dell'Europa continentale, è strettamente legata all'identità mediterranea e a un senso di appartenenza lungo le sue coste d'origine."
+          }
+        ],
+        "toxicity": {
+          "headline": "Nessuna tossicità segnalata",
+          "active_compound_display": "Nessuno segnalato",
+          "notes_en": "Nessuna corrispondenza di tossicità autorevole trovata; trattato come non segnalato (la stima LLM non è verificata dalla fonte).",
+          "human": {
+            "exposure": "Non è segnalata alcuna via di esposizione.",
+            "effect": "Non è segnalato alcun effetto tossico.",
+            "note": "In questo catalogo non è segnalata tossicità per gli umani; ciò non è prova che la pianta sia commestibile o innocua."
+          },
+          "dog": {
+            "exposure": "Non è segnalata alcuna via di esposizione.",
+            "effect": "Non è segnalato alcun effetto tossico.",
+            "note": "In questo catalogo non è segnalata tossicità per i cani; ciò non è prova che la pianta sia commestibile o innocua."
+          },
+          "cat": {
+            "exposure": "Non è segnalata alcuna via di esposizione.",
+            "effect": "Non è segnalato alcun effetto tossico.",
+            "note": "In questo catalogo non è segnalata tossicità per i gatti; ciò non è prova che la pianta sia commestibile o innocua."
+          }
+        }
+      },
+      "source_hash": "14760c5db094614c7d38c860f43d6e1020df99f95136aa679dd26b60625eacf9"
+    },
+    "AAA1625": {
+      "source_hash": "f26ca055c7307e6ba72d93b356d8c9ead6ff06db961d4ee11e2071b5ba4436ec",
+      "fields": {
+        "common_name": "Palma della California",
+        "description": "La palma della California è l'unica palma originaria dell'ovest degli Stati Uniti, e forma esemplari imponenti a tronco unico che si innalzano da oasi desertiche nel deserto del Colorado, nella California meridionale, nell'Arizona occidentale e nella Baja California settentrionale. Il suo tronco spesso e fibroso sostiene una chioma densa di grandi foglie pieghettate a ventaglio, e, a meno che non venga potata, una 'gonna' arruffata di foglie morte avvolge il tronco per gran parte della sua altezza. In estate, steli arcuati portano piccoli fiori bianco crema, seguiti da grappoli di piccoli frutti neri simili a datteri. Profondamente radicata per raggiungere le acque sotterranee di sorgenti desertiche e infiltrazioni di faglia, tollera calore intenso e siccità una volta stabilita, e può raggiungere i 18-23 metri di altezza nel corso di molti decenni. A crescita rapida e dalla silhouette suggestiva, rimane una palma simbolo del sud-ovest americano, sia nelle sue oasi native sia nei giardini e nei viali delle zone dal clima caldo.",
+        "history_text_short": "Molto prima di diventare simbolo dei resort desertici, la palma della California sostentava il popolo cahuilla del deserto del Colorado. Il suo frutto dolce veniva mangiato fresco, essiccato o macinato; le sue foglie coprivano le abitazioni ed erano intrecciate in ceste; e le oasi dove cresceva, alimentate da sorgenti desertiche, erano luoghi di ritrovo centrali per generazioni.",
+        "history_text_long": "Per secoli, la palma della California fu molto più di un semplice scenario per il popolo cahuilla, che vive nel deserto del Colorado, nella California meridionale, da ben prima del contatto europeo. Ovunque la palma crescesse in fitti popolamenti, segnalava la presenza di una sorgente desertica permanente o di un'infiltrazione di faglia, e queste oasi divennero luoghi di ritrovo e insediamenti essenziali. Il piccolo frutto scuro della palma, simile a un dattero, maturava a fine estate e veniva mangiato fresco, essiccato per la conservazione, o macinato in una farina dolce; le sue ampie foglie a ventaglio venivano tagliate e intrecciate in ceste, sandali e stuoie, oppure legate insieme per coprire i tetti delle abitazioni chiamate kish. Le famiglie cahuilla appiccavano anche periodicamente il fuoco alle arruffate gonne di foglie morte che si accumulano intorno a ogni tronco, una pratica che eliminava i detriti, scoraggiava i parassiti e sembra aver favorito una produzione di frutta più abbondante nella stagione successiva — una forma precoce di gestione attiva del territorio in quella che, a prima vista, sembra natura incontaminata. Le oasi stesse, disseminate lungo canyon come Palm Canyon, vicino a quella che oggi è Palm Springs, diedero il nome alla regione quando visitatori americani ed europei iniziarono ad arrivarvi nel diciannovesimo secolo, attratti dalla stessa acqua affidabile che aveva sostenuto le comunità cahuilla generazioni prima.",
+        "name_origin": "Il nome del genere Washingtonia onora George Washington, attribuito da botanici del diciannovesimo secolo; il nome della specie, filifera, è latino per 'portatore di fili', in riferimento alle fibre pallide e arricciate che si sfilacciano dai margini delle sue foglie a ventaglio.",
+        "symbolism_story": "Ovunque l'acqua nascosta del deserto raggiunga la superficie, si innalza la palma della California, da tempo considerata un marcatore naturale di rifugio — un segno, visibile per chilometri, che acqua vitale e ombra si trovano nei paraggi. Per il popolo cahuilla, così come per la fauna del deserto che ancora oggi si ripara sotto il suo tronco ingonnellato, rappresenta sia la resistenza in un clima ostile sia la silenziosa promessa di rifugio.",
+        "flower_meaning": "Rifugio",
+        "uses_list": [
+          {
+            "text": "Piantata da tempo come palma simbolo lungo strade, resort e giardini in tutto il sud-ovest dagli inverni miti, apprezzata per la sua silhouette imponente."
+          },
+          {
+            "text": "Il suo piccolo frutto dolce, simile a un dattero, era un alimento tradizionale del popolo cahuilla, mangiato fresco, essiccato o macinato."
+          },
+          {
+            "text": "Le sue ampie foglie a ventaglio venivano intrecciate in ceste, sandali e stuoie, e usate per coprire le abitazioni tradizionali."
+          },
+          {
+            "text": "Il suo frutto e le arruffate gonne di foglie offrono cibo e riparo a uccelli del deserto, pipistrelli e altra fauna selvatica."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Rifugio",
+            "description": "Segnalando la presenza di acqua scarsa nel deserto per migliaia di anni, la palma della California è diventata simbolo di rifugio e riparo vitale in un paesaggio spietato."
+          },
+          {
+            "keyword": "Resistenza",
+            "description": "La sua capacità di prosperare per decenni su sorgenti desertiche sparse ne fa un emblema di resilienza e permanenza in terre aride."
+          }
+        ],
+        "toxicity": {
+          "headline": "Nessuna tossicità segnalata",
+          "active_compound_display": "Nessuno segnalato",
+          "notes_en": "Nessuna corrispondenza tossicologica autorevole trovata; trattata come non segnalata (la stima LLM non è verificata dalla fonte).",
+          "human": {
+            "exposure": "Nessuna via di esposizione segnalata.",
+            "effect": "Nessun effetto tossico segnalato.",
+            "note": "In questo catalogo non è segnalata tossicità per gli umani; ciò non costituisce prova che la pianta sia commestibile o innocua."
+          },
+          "dog": {
+            "exposure": "Nessuna via di esposizione segnalata.",
+            "effect": "Nessun effetto tossico segnalato.",
+            "note": "In questo catalogo non è segnalata tossicità per i cani; ciò non costituisce prova che la pianta sia commestibile o innocua."
+          },
+          "cat": {
+            "exposure": "Nessuna via di esposizione segnalata.",
+            "effect": "Nessun effetto tossico segnalato.",
+            "note": "In questo catalogo non è segnalata tossicità per i gatti; ciò non costituisce prova che la pianta sia commestibile o innocua."
+          }
+        }
+      }
+    },
+    "AAA1626": {
+      "fields": {
+        "common_name": "Yucca a foglie molli",
+        "bloom_tip": "I fiori compaiono in estate, sollevandosi sopra il fogliame, con tonalità bianco crema.",
+        "fruit_tip": "I frutti sono capsule secche particolari che aggiungono interesse al giardino invernale.",
+        "description": "La yucca a foglie molli è una specie sempreverde bassa e cespitosa, originaria dei suoli sabbiosi e secchi e dei boschi radi del sud-est degli Stati Uniti. Le rosette di foglie rigide, verde-bluastre, a forma di spada, si piegano dolcemente verso il basso alla punta — il tratto che dà il nome alla specie — e presentano sottili filamenti chiari che si sfilacciano dai margini fogliari. All'inizio dell'estate, alte infiorescenze si innalzano ben al di sopra del fogliame, portando grappoli pendenti di fiori bianco crema a forma di campana che si aprono al crepuscolo per le falene notturne. In autunno, gli steli fioriti esausti portano capsule secche a tre logge che persistono fino all'inverno. Compatta e resistente alla siccità, raramente supera il metro di altezza, prospera in pieno sole e in terreno molto ben drenato, risultando ideale per giardini rocciosi, pendii asciutti e bordure xerofile.",
+        "history_text_short": "Molto prima di entrare nei giardini, la yucca a foglie molli forniva alle popolazioni del sud-est corda, filo e sandali. Le sue robuste fibre fogliari venivano estratte, ritorte e intrecciate in corde e calzature, mentre le radici ricche di saponine venivano pestate per ottenere una schiuma naturale usata per lavare capelli, vestiti e oggetti cerimoniali.",
+        "history_text_long": "Per generazioni, i popoli nativi del sud-est degli odierni Stati Uniti utilizzarono la yucca a foglie molli come pianta utile più che ornamentale. Le sue lunghe foglie fibrose venivano raccolte, pestate e private della polpa verde per rivelare fibre resistenti e seriche, che potevano essere ritorte in corde robuste, intrecciate in stuoie e cesti, o intessute in sandali abbastanza solidi per i terreni rocciosi. Poiché la fibra resisteva alla putrefazione e tratteneva bene i nodi, era ricercata per corde d'arco, lenze da pesca e reti. Altrettanto importante era la radice della pianta, ricca di saponine naturali: pestata e agitata in acqua, produce una schiuma simile al sapone usata per lavare capelli e tessuti intrecciati e per preparare gli abiti cerimoniali, da cui uno dei suoi nomi popolari duraturi, 'erba saponaria.' La specie dipende a sua volta da un partner altrettanto dedicato per la propria riproduzione: le falene femmine dello yucca raccolgono deliberatamente il polline in una pallina, lo trasportano su un altro fiore e lo depositano sullo stigma prima di deporre le uova all'interno della capsula in sviluppo — uno scambio preciso e reciproco in cui le larve della falena consumano solo una parte dei semi, lasciandone a sufficienza perché la pianta si riproduca. Nessuna delle due specie può completare il proprio ciclo vitale senza l'altra, il che rende la yucca a foglie molli uno degli esempi viventi più chiari di coevoluzione nella flora nordamericana.",
+        "name_origin": "Il nome del genere Yucca deriva dalla parola taina per la manioca, una pianta diversa e non imparentata, applicata per errore a questo gruppo dai primi botanici europei; l'epiteto flaccida è il termine latino per 'floscio' o 'cadente', in riferimento alla punta delle foglie, che si piega verso il basso a differenza del fogliame rigido ed eretto delle yucche affini.",
+        "symbolism_story": "Armata di foglie rigide e appuntite eppure generosa di fibra, corda e sapone, la yucca a foglie molli è giunta a incarnare sia la protezione sia l'ingegno — una pianta che difende il proprio territorio mentre fornisce silenziosamente i materiali della vita quotidiana. Il suo legame intimo ed esclusivo con la falena dello yucca aggiunge un ulteriore livello di significato: un promemoria che anche il sopravvissuto dall'aspetto più resistente dipende dalla cooperazione per durare.",
+        "flower_meaning": "Protezione",
+        "fragrance": {
+          "notes": "I suoi fiori bianchi pendenti emanano una fragranza lieve e dolce al crepuscolo per attirare le falene notturne dello yucca."
+        },
+        "uses_list": [
+          {
+            "text": "Un accento architettonico affidabile per giardini rocciosi, bordure asciutte e giardini xerofili, apprezzato per le sue rosette sempreverdi e le alte infiorescenze estive."
+          },
+          {
+            "text": "Le sue robuste fibre fogliari venivano tradizionalmente estratte, ritorte e intrecciate in corde, stuoie e sandali dalle popolazioni native del sud-est."
+          },
+          {
+            "text": "I suoi fiori, che si aprono di notte, sono impollinati quasi esclusivamente dalle falene dello yucca, una delle collaborazioni pianta-insetto più precise della natura."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Protezione",
+            "description": "Le sue foglie rigide e appuntite hanno reso la yucca un simbolo naturale di protezione e difesa, sia nel folklore del sud-est sia nella tradizione dei giardini."
+          },
+          {
+            "keyword": "Ingegno",
+            "description": "Come pianta capace di fornire corda, sandali e sapone da un unico insieme di foglie e radici, è da tempo simbolo di ingegno e autosufficienza."
+          }
+        ],
+        "toxicity": {
+          "headline": "Umani Lieve · Animali domestici Moderato",
+          "active_compound_display": "saponine steroidee",
+          "notes_en": "Contiene saponine steroidee; l'ingestione di foglie o radice può causare disturbi gastrointestinali negli animali domestici, e la linfa può irritare lievemente pelle o occhi.",
+          "human": {
+            "exposure": "Ingestione di foglie e linfa. Contatto con foglie e linfa.",
+            "effect": "Lieve disturbo di stomaco se ingerita in grandi quantità, e irritazione di pelle o occhi per contatto con la linfa.",
+            "note": "Contiene saponine steroidee; l'ingestione di foglie o radice può causare disturbi gastrointestinali negli animali domestici, e la linfa può irritare lievemente pelle o occhi.",
+            "symptoms": [
+              "Lieve disturbo di stomaco se ingerita in grandi quantità.",
+              "Irritazione di pelle o occhi per contatto con la linfa."
+            ]
+          },
+          "dog": {
+            "exposure": "Ingestione di foglie, radici e frutti.",
+            "effect": "Vomito, diarrea, abbattimento e salivazione eccessiva.",
+            "note": "Contiene saponine steroidee; l'ingestione di foglie o radice può causare disturbi gastrointestinali negli animali domestici, e la linfa può irritare lievemente pelle o occhi.",
+            "symptoms": [
+              "Vomito.",
+              "Diarrea.",
+              "Abbattimento.",
+              "Salivazione eccessiva."
+            ]
+          },
+          "cat": {
+            "exposure": "Ingestione di foglie, radici e frutti.",
+            "effect": "Vomito, diarrea e perdita di appetito.",
+            "note": "Contiene saponine steroidee; l'ingestione di foglie o radice può causare disturbi gastrointestinali negli animali domestici, e la linfa può irritare lievemente pelle o occhi.",
+            "symptoms": [
+              "Vomito.",
+              "Diarrea.",
+              "Perdita di appetito."
+            ]
+          }
+        }
+      },
+      "source_hash": "2f7d0fffbcb3543cec9e22c616733f30b2a24f82f200f8480904973d5d047438"
+    },
+    "AAA1627": {
+      "fields": {
+        "common_name": "Acanto",
+        "bloom_tip": "I suoi fiori sbocciano generalmente in estate, attirando numerosi impollinatori.",
+        "fruit_tip": "Il frutto è generalmente di colore marrone, il che contribuisce al valore ornamentale della pianta.",
+        "description": "L'acanto è una vigorosa perenne mediterranea apprezzata per le sue foglie verde scuro, lucide e profondamente lobate, che si allargano in una spettacolare rosetta di quasi 60 centimetri di diametro. Tra la tarda primavera e l'estate, alte spighe fiorali si innalzano da 90 a 120 centimetri sopra il fogliame, ricoperte di fiori bianchi a forma di cappuccio racchiusi da brattee spinose dalle sfumature purpuree che attirano le api per settimane. Tollera sia l'ombra luminosa sia il pieno sole nei climi più freschi, resiste bene alla siccità una volta radicato, e si diffonde per rizoma formando cespi densi e architettonici. Le sue foglie scultoree hanno ispirato sia il giardinaggio sia l'architettura, l'esempio più celebre essendo il modello del capitello corinzio.",
+        "history_text_short": "L'acanto cresce lungo le coste del Mediterraneo fin dall'antichità; le sue ampie foglie dai bordi spinosi erano talmente ammirate che gli scultori dell'antica Grecia ne incisero la forma arricciata nei capitelli delle colonne corinzie. Introdotto nei giardini del nord Europa già nel XVI secolo, è ancora oggi apprezzato per il suo fogliame imponente e le sue alte spighe fiorali estive.",
+        "history_text_long": "Secondo l'architetto romano Vitruvio, l'eredità ornamentale dell'acanto ebbe inizio nell'antica Corinto. Una giovane fanciulla morì prima delle nozze, e la sua nutrice, addolorata, raccolse gli oggetti preferiti della ragazza in un piccolo cesto, lo pose accanto alla tomba e lo coprì con una tegola per proteggerne il contenuto dalle intemperie. Il cesto si trovò a poggiare proprio sopra la radice di un acanto che cresceva accanto alla sepoltura, e in primavera le sue larghe foglie spinose spuntarono attorno al cesto, incurvandosi verso l'esterno ovunque incontrassero la resistenza del bordo della tegola.\n\nLo scultore Callimaco, noto ai suoi contemporanei per la meticolosa cura del dettaglio, passò accanto alla tomba e rimase colpito dal grazioso intreccio tra foglia e cesto. Portò quell'immagine nella sua bottega e la tradusse in pietra, scolpendo un nuovo capitello per la sommità delle colonne: un anello di foglie di acanto arricciate che sorregge un abaco poco profondo a forma di coppa. I costruttori greci adottarono il disegno, e in seguito gli architetti romani lo diffusero in tutto il loro impero, dove divenne il tratto distintivo dell'ordine corinzio, ancora oggi visibile su templi, tribunali ed edifici pubblici, tutti discendenti dalle foglie di un'unica pianta cresciuta accanto a una tomba. Molto dopo che quel primo capitello fu scolpito, i giardinieri del Rinascimento italiano e oltre iniziarono a coltivare la pianta stessa, apprezzando la sua robusta rosetta di foglie come un'eco vivente dell'architettura classica.",
+        "name_origin": "Acanthus deriva dal greco akantha, «spina» o «aculeo», in riferimento alle brattee spinose e ai margini fogliari della pianta; mollis è il termine latino per «morbido», che descrive la consistenza delle ampie lamine fogliari nonostante i loro bordi pungenti.",
+        "symbolism_story": "Poiché le sue foglie arricciate diedero forma al capitello corinzio, l'acanto è da lungo tempo simbolo d'arte e del potere duraturo dell'ispirazione tratta dalla natura. La sua abitudine di ricrescere fedelmente dalla stessa radice anno dopo anno, anche dopo che il fogliame è disseccato, ne ha fatto anche un discreto emblema di perseveranza.",
+        "flower_meaning": "Arte"
+      }
+    },
+    "AAA1628": {
+      "source_hash": "563441a49c0e3305cacf55f3f5a515e2d4698b8411a9c88fccf0afdd2778cd0d",
+      "fields": {
+        "common_name": "Palma di Formosa",
+        "description": "La Palma di Formosa — chiamata in taiwanese shan zong (山棕) — è una palma cespitosa a crescita lenta, originaria dei sottoboschi ombreggiati di Taiwan e delle isole Ryukyu del Giappone. Diversi fusti sottili formano un ciuffo denso sotto fronde verde scuro e piumose, i cui segmenti terminano in punte frastagliate a forma di artiglio. Tollera gli inverni freddi meglio della maggior parte delle palme e raramente supera i sei metri, il che la rende un esemplare da sottobosco molto apprezzato per giardini e cortili ombreggiati. Le sue robuste fibre della guaina fogliare vengono da tempo prelevate e intrecciate in mantelli antipioggia e corde.",
+        "history_text_short": "Molto prima di entrare nei giardini ornamentali, la Palma di Formosa — shan zong in taiwanese — forniva alle comunità montane una fibra robusta ricavata dalle guaine fogliari, intrecciata in mantelli antipioggia e corde. I suoi densi ciuffi pollonanti e le fronde dalle punte ad artiglio proteggono ancora oggi i sottoboschi di Taiwan e delle isole Ryukyu giapponesi.",
+        "history_text_long": "Molto prima che i botanici occidentali le dessero un nome latino, la Palma di Formosa era già indispensabile per le comunità montane di Taiwan, che la conoscevano come shan zong — «palma di montagna». Lungo le guaine fibrose che avvolgono ogni nuova fronda alla base del fusto, la pianta produce una fibra grezza e resistente alle intemperie. Le popolazioni indigene e gli agricoltori hakka delle zone pedemontane di Taiwan impararono a prelevare e battere questa fibra fino a ottenere lunghi filamenti, per poi intrecciarli in shan zong suo yi — mantelli antipioggia gettati sulle spalle durante i frequenti acquazzoni montani dell'isola — insieme a corde, spazzole e scope molto più resistenti del cotone o della paglia.\n\nLa palma stessa cresceva spontanea nel sottobosco ombreggiato delle foreste di Taiwan e delle vicine isole Ryukyu giapponesi; i suoi densi ciuffi multitronco e le fronde scure e piumose dai segmenti frastagliati ad artiglio prosperavano nella luce fioca sotto alberi più alti. I raccoglitori impararono anche a diffidare dei frutti maturi, la cui polpa contiene minuscoli cristalli aguzzi che pungono al contatto — un rischio condiviso con la sua parente maggiore, la palma da zucchero, incisa altrove in Asia per ricavarne zucchero e vino di palma.\n\nIl riconoscimento botanico formale arrivò solo nel 1919, quando lo specialista italiano di palme Odoardo Beccari classificò la specie e la chiamò engleri in onore del botanico tedesco Adolf Engler. Oggi i mantelli shan zong intrecciati a mano sopravvivono soprattutto come artigianato rinato nei laboratori del patrimonio culturale taiwanese, ma la palma che li rendeva possibili cresce ancora facilmente in cortili e giardini ombreggiati ben oltre le sue montagne d'origine.",
+        "name_origin": "Il nome del genere Arenga deriva dalla parola malese 'areng', usata per il gruppo delle palme da zucchero; l'epiteto engleri onora il botanico tedesco Adolf Engler, sebbene la pianta sia stata descritta formalmente dallo specialista italiano di palme Odoardo Beccari nel 1919.",
+        "symbolism_story": "Per generazioni, le comunità montane di Taiwan hanno trasformato la fibra grezza di questa palma in mantelli antipioggia e corde, rendendo la Palma di Formosa un discreto simbolo di ingegnosità — una protezione pratica intrecciata con ciò che cresceva a portata di mano.",
+        "flower_meaning": "Ingegnosità",
+        "fragrance": {
+          "notes": "I grappoli di fiori emanano un profumo lieve e dolce che attira gli insetti impollinatori."
+        },
+        "uses_list": [
+          {
+            "text": "La fibra ricavata dalle guaine fogliari viene tradizionalmente intrecciata a Taiwan in mantelli antipioggia, corde e spazzole."
+          },
+          {
+            "text": "Apprezzata come esemplare rigoglioso da sottobosco o cortile per la forma cespitosa e architettonica e la tolleranza al freddo."
+          },
+          {
+            "text": "I grappoli di frutti maturi vengono mangiati dagli uccelli, che aiutano a disperdere i semi."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Ingegnosità",
+            "description": "La sua fibra fogliare grezza, un tempo prelevata e intrecciata dalle comunità montane di Taiwan in mantelli antipioggia e corde, ha reso la Palma di Formosa un discreto simbolo di ingegnosità — una comune pianta forestale trasformata in protezione quotidiana dagli elementi."
+          }
+        ],
+        "toxicity": {
+          "headline": "Tossicità sconosciuta",
+          "active_compound_display": "Nessuno segnalato",
+          "notes_en": "Nessuna fonte autorevole conferma la tossicità; è quindi considerata non segnalata (la stima dell'IA non è verificata da fonti).",
+          "human": {
+            "exposure": "Nessuna via di esposizione segnalata.",
+            "effect": "Nessun effetto tossico segnalato.",
+            "note": "La tossicità per l'uomo non è ben documentata; si raccomanda cautela fino a verifica."
+          },
+          "dog": {
+            "exposure": "Nessuna via di esposizione segnalata.",
+            "effect": "Nessun effetto tossico segnalato.",
+            "note": "La tossicità per i cani non è ben documentata; si raccomanda cautela fino a verifica."
+          },
+          "cat": {
+            "exposure": "Nessuna via di esposizione segnalata.",
+            "effect": "Nessun effetto tossico segnalato.",
+            "note": "La tossicità per i gatti non è ben documentata; si raccomanda cautela fino a verifica."
+          }
+        }
+      }
+    },
+    "AAA1629": {
+      "source_hash": "ebbe0066ca661b4d5f346bf75922c5538f1081147a804c54f4fe8b0f0ef0f9a7",
+      "fields": {
+        "common_name": "Velluto porporino",
+        "bloom_tip": "I fiori di questa pianta sbocciano in estate, hanno colori vivaci e risultano molto attraenti per gli insetti impollinatori.",
+        "description": "Il velluto porporino è una pianta tropicale strisciante originaria del sottobosco di Giava, apprezzata per le foglie e i fusti ricoperti da una fitta peluria viola cangiante che cattura la luce come velluto violetto. Le sue foglie ovali e dentate sono verde scuro nella pagina superiore e viola intenso in quella inferiore, conferendo all'intera pianta un bagliore scintillante sotto una luce vivace e indiretta. In estate compaiono piccoli grappoli di fiori arancio-gialli simili a margherite, anche se molti coltivatori ne recidono i boccioli prima che si aprano. A crescita rapida e facile da coltivare in vaso o in cesti sospesi, prospera in casa tutto l'anno.",
+        "history_text_short": "Originario delle foreste pluviali di Giava, il velluto porporino divenne inaspettatamente una star dei salotti americani degli anni Settanta, con le sue foglie vellutate viola che brillavano sotto la luce delle lampade, anche se la maggior parte dei proprietari ne recideva silenziosamente i fiori dall'odore singolare prima che potessero sbocciare.",
+        "history_text_long": "Il velluto porporino cresce spontaneo sul suolo ombreggiato delle foreste di Giava, in Indonesia, dove i suoi fusti striscianti e le foglie vellutate viola si diffondono nel sottobosco umido. I botanici europei lo introdussero in coltivazione nell'Ottocento, ma raggiunse la vera fama solo un secolo dopo, durante il boom americano delle piante d'appartamento negli anni Settanta. Venduto nei grandi magazzini e nei cataloghi per corrispondenza, divenne popolare per il suo insolito riflesso viola cangiante, che brillava quasi elettricamente sotto le luci fluorescenti allora comuni in uffici e appartamenti — una novità che lo rese un elemento fisso dell'estetica da 'giungla domestica' del decennio, accanto ai macramè appesi e ai tappeti a pelo lungo. I collezionisti impararono presto però una particolarità che le guide di coltivazione ripetono ancora oggi: i suoi piccoli fiori arancioni a forma di margherita, per quanto graziosi da vedere, rilasciano un odore muschiato intenso che molti paragonano a fieno bagnato o calzini vecchi una volta aperti in una stanza chiusa. Piuttosto che tollerare l'odore, generazioni di coltivatori hanno semplicemente reciso a mano i boccioli prima della fioritura, rinunciando a una stagione di fiori in cambio di un fogliame vellutato ininterrotto — un piccolo rituale pratico tramandato da allora tra gli appassionati di piante d'appartamento.",
+        "name_origin": "Il nome del genere Gynura deriva dal greco gyne (donna) e oura (coda), a indicare gli stigmi filiformi a forma di coda al centro dei suoi fiori; il nome della specie, aurantiaca, in latino significa 'arancione', in riferimento al colore dei suoi fiori.",
+        "symbolism_story": "Il suo bagliore viola cangiante ha reso il velluto porporino un piccolo emblema di splendore nascosto — una foglia apparentemente comune che sembra spenta all'ombra ma si accende di un colore inaspettato non appena la luce la colpisce nell'angolazione giusta, a testimonianza dell'idea che la vitalità attende spesso solo di essere rivelata, non creata.",
+        "flower_meaning": "Splendore",
+        "fragrance": {
+          "notes": "Piccoli grappoli di fiori emanano un odore muschiato intenso che molti trovano sgradevole, spesso paragonato a fieno bagnato o calzini vecchi; per questo i coltivatori recidono solitamente i boccioli prima che si aprano."
+        },
+        "uses_list": [
+          {
+            "text": "Coltivato per il suo fogliame viola vellutato e cangiante come pianta d'appartamento vistosa o accento nei cesti sospesi."
+          },
+          {
+            "text": "I suoi piccoli fiori arancio-gialli attirano gli insetti impollinatori quando gli si permette di fiorire all'aperto."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Splendore",
+            "description": "Il suo bagliore viola cangiante ha reso il velluto porporino un piccolo emblema di splendore nascosto — una foglia apparentemente comune che sembra spenta all'ombra ma si accende di un colore inaspettato non appena la luce la colpisce nell'angolazione giusta."
+          },
+          {
+            "keyword": "Individualità",
+            "description": "Spiccando tra file di fogliame verde comune, il suo insolito manto violetto lo ha reso un favorito tra i collezionisti che apprezzano le piante che rifiutano di passare inosservate."
+          }
+        ],
+        "toxicity": {
+          "headline": "Sicuro per gli animali domestici",
+          "active_compound_display": "Nessuno segnalato",
+          "notes_en": "Non è stata trovata alcuna corrispondenza autorevole sulla tossicità; considerata non segnalata (la stima dell'IA non è verificata da fonti).",
+          "human": {
+            "exposure": "Nessuna via di esposizione segnalata.",
+            "effect": "Nessun effetto tossico segnalato.",
+            "note": "In questo catalogo non è segnalata alcuna tossicità per l'uomo; ciò non dimostra che la pianta sia commestibile o innocua."
+          },
+          "dog": {
+            "exposure": "Nessuna via di esposizione segnalata.",
+            "effect": "Nessun effetto tossico segnalato.",
+            "note": "Fonti autorevoli segnalano che questa pianta non è tossica per i cani; ciò non dimostra che la pianta sia commestibile."
+          },
+          "cat": {
+            "exposure": "Nessuna via di esposizione segnalata.",
+            "effect": "Nessun effetto tossico segnalato.",
+            "note": "Fonti autorevoli segnalano che questa pianta non è tossica per i gatti; ciò non dimostra che la pianta sia commestibile."
+          }
+        }
+      }
+    },
+    "AAA1630": {
+      "source_hash": "1573ce22c1992b85798c9870adc418d59a5a792b8fb50cd7dcaaec3f3d8ff375",
+      "fields": {
+        "common_name": "Tradescantia",
+        "bloom_tip": "I fiori di questa pianta sbocciano in estate, sono colorati e attirano gli insetti.",
+        "fruit_tip": "I suoi frutti compaiono dalla fine dell'estate all'inizio dell'autunno, con colori vivaci.",
+        "description": "La Tradescantia è una perenne strisciante originaria delle praterie, degli affioramenti rocciosi e delle dune costiere del Brasile sud-orientale, dell'Uruguay e dell'Argentina nord-orientale, dove i fusti striscianti radicano ovunque tocchino il suolo. Le foglie carnose e lanceolate sono verde intenso nella pagina superiore e sfumate di porpora in quella inferiore, coperte da una fitta peluria argentata che cattura la luce. I fiori a tre petali, di colore rosa magenta, si aprono in grappoli radi durante l'estate, avvolti da brattee a forma di scafo. Facile da coltivare e a crescita rapida, prospera come tappezzante, in cesti sospesi o come pianta d'appartamento, tollerando sia la luce intensa sia l'ombra parziale con cure minime.",
+        "history_text_short": "Chiamata così in onore della famiglia Tradescant, celebri giardinieri reali inglesi, questa tappezzante sudamericana fu descritta formalmente nel 1843. Amata per il suo fogliame strisciante sfumato di porpora, si è diffusa come pianta ornamentale in tutto il mondo — e, lungo dune costiere come quelle della Nuova Zelanda, è diventata un problema per la conservazione ambientale.",
+        "history_text_long": "Il genere Tradescantia rende omaggio a John Tradescant il Vecchio e a suo figlio, due tra i più celebri giardinieri dell'Inghilterra del Seicento. Custodi dei giardini reali sotto Carlo I, i Tradescant viaggiarono all'estero e commerciarono con altri collezionisti per riempire il loro giardino londinese e il loro celebre gabinetto delle curiosità, l'Arca, di piante e oggetti singolari raccolti da tutto il mondo allora conosciuto. Due secoli più tardi, nel 1843, il botanico tedesco Carl Sigismund Kunth descrisse formalmente questa specie a partire da esemplari raccolti nelle praterie, negli affioramenti rocciosi e nelle dune costiere del Brasile sud-orientale, dell'Uruguay e dell'Argentina nord-orientale, chiamandola cerinthoides per la somiglianza delle sue foglie con il genere Cerinthe. Apprezzata dai giardinieri di tutto il mondo per la sua resistenza e il suo fogliame strisciante sfumato di porpora, la Tradescantia fu diffusa ben oltre il suo areale originario come tappezzante e pianta d'appartamento. In luoghi come la Nuova Zelanda e alcune zone dell'Australia è sfuggita alla coltivazione e forma oggi tappeti fitti lungo le dune costiere e i margini boschivi, soffocando le giovani piante autoctone — trasformando così una pianta da giardino un tempo amata in un bersaglio per i volontari della conservazione impegnati a ripristinare ecosistemi dunali minacciati.",
+        "name_origin": "Il genere onora John Tradescant il Vecchio e suo figlio, giardinieri reali e collezionisti di piante inglesi del Seicento; cerinthoides fa riferimento alla somiglianza delle foglie con il genere Cerinthe.",
+        "symbolism_story": "Poiché un solo fusto spezzato di questa pianta può radicare e moltiplicarsi quasi ovunque cada — dalle dune arse dal sole ai davanzali in ombra — i giardinieri l'hanno da sempre considerata un emblema di resilienza e abbondanza, una pianta capace di trasformare la scarsità in una rigogliosa copertura verde.",
+        "flower_meaning": "Resilienza",
+        "uses_list": [
+          {
+            "text": "Tappezzante strisciante e pianta d'appartamento molto amata, ideale in vaso o in cesti sospesi."
+          },
+          {
+            "text": "I fiori estivi a tre petali attirano api e altri piccoli impollinatori."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Resilienza",
+            "description": "La capacità di radicare da qualsiasi fusto spezzato e di prosperare sia su dune ostili sia nel sottobosco ombreggiato ne fa un simbolo di silenziosa resistenza."
+          },
+          {
+            "keyword": "Abbondanza",
+            "description": "I fitti tappeti di fogliame strisciante e i fiori estivi abbondanti evocano una crescita rigogliosa e inarrestabile."
+          }
+        ],
+        "toxicity": {
+          "headline": "Umani Lieve · Animali domestici Moderato",
+          "active_compound_display": "calcium oxalate raphides",
+          "notes_en": "La linfa provoca dermatite da contatto negli animali domestici e nelle persone sensibili; l'ingestione può causare lieve scialorrea e disturbi gastrici in cani e gatti.",
+          "human": {
+            "exposure": "Toccare la linfa, i fusti e le foglie.",
+            "effect": "Lieve irritazione cutanea nelle persone sensibili.",
+            "note": "La linfa provoca dermatite da contatto negli animali domestici e nelle persone sensibili; l'ingestione può causare lieve scialorrea e disturbi gastrici in cani e gatti.",
+            "symptoms": [
+              "Lieve irritazione cutanea nelle persone sensibili."
+            ]
+          },
+          "dog": {
+            "exposure": "Toccare la linfa, i fusti e le foglie. Contatto con la linfa, i fusti e le foglie. Ingerire linfa, fusti e foglie.",
+            "effect": "Dermatite da contatto, arrossamento della pelle, scialorrea e lieve vomito in caso di ingestione.",
+            "note": "La linfa provoca dermatite da contatto negli animali domestici e nelle persone sensibili; l'ingestione può causare lieve scialorrea e disturbi gastrici in cani e gatti.",
+            "symptoms": [
+              "Dermatite da contatto.",
+              "Arrossamento della pelle.",
+              "Scialorrea.",
+              "Lieve vomito in caso di ingestione."
+            ]
+          },
+          "cat": {
+            "exposure": "Toccare la linfa, i fusti e le foglie. Contatto con la linfa, i fusti e le foglie. Ingerire linfa, fusti e foglie.",
+            "effect": "Dermatite da contatto, arrossamento della pelle, scialorrea e lieve vomito in caso di ingestione.",
+            "note": "La linfa provoca dermatite da contatto negli animali domestici e nelle persone sensibili; l'ingestione può causare lieve scialorrea e disturbi gastrici in cani e gatti.",
+            "symptoms": [
+              "Dermatite da contatto.",
+              "Arrossamento della pelle.",
+              "Scialorrea.",
+              "Lieve vomito in caso di ingestione."
+            ]
+          }
+        }
+      }
+    },
+    "AAA1631": {
+      "source_hash": "6f45ca76eb29cdde19f8cd7933aae19dc9407ac139af009b8b933f8472f71e1f",
+      "fields": {
+        "common_name": "Jacaranda",
+        "bloom_tip": "Questa pianta fiorisce in estate, mostrando splendide fioriture viola.",
+        "fruit_tip": "I frutti maturano in autunno, aggiungendo un tocco di colore alle stagioni successive.",
+        "description": "Il Jacaranda viola è un albero deciduo a crescita rapida, famoso per la sua spettacolare fioritura primaverile: le foglie composte, simili a felci, cadono mentre grappoli di fiori a forma di tromba, di colore lavanda-violaceo, ricoprono la chioma, per poi tappezzare di viola il terreno sottostante. Originario dei boschi subtropicali di Argentina e Bolivia, è diventato un amato albero ornamentale da ombra e da strada in tutto il mondo, da Pretoria a Los Angeles fino a Sydney. Gli esemplari maturi raggiungono i 9-15 metri di altezza con una chioma ampia ed espansa, seguita da baccelli piatti e legnosi. Predilige il pieno sole e un terreno ben drenato e, una volta radicato, tollera bene la siccità.",
+        "history_text_short": "Il nome deriva da una parola guaraní che indica il suo legno profumato: il Jacaranda viola ha lasciato la sua terra d'origine, tra Argentina e Bolivia, per diventare un iconico albero da strada in tutto il mondo. Ogni primavera ricopre di viola le strade di Pretoria, in Sudafrica, dove generazioni di studenti hanno osservato la caduta dei fiori come segno di buona sorte per gli esami.",
+        "history_text_long": "Il Jacaranda viola è originario dei boschi subtropicali aridi dell'Argentina nord-occidentale e della Bolivia meridionale, dove cresce sparso tra altri alberi decidui lungo le rive dei fiumi e i pendii rocciosi. Il nome del genere deriva da una parola guaraní usata per indicare l'albero, da sempre apprezzato dai falegnami sudamericani per il suo legno profumato e facile da intagliare. Nell'Ottocento, orti botanici e collezionisti di piante coloniali portarono il Jacaranda viola ben oltre i confini del Sudamerica, e all'inizio del Novecento era ormai piantato come albero da viale in tutto il mondo subtropicale. Nessun luogo lo ha adottato quanto Pretoria, in Sudafrica, dove a partire dagli anni ottanta dell'Ottocento furono piantati più di settantamila jacaranda lungo le strade cittadine, guadagnandole il soprannome di Città dei Jacaranda. Poiché gli alberi esplodono in una piena fioritura viola ogni ottobre e novembre, esattamente quando l'anno accademico dell'Università di Pretoria volge al termine, generazioni di studenti hanno camminato sotto strade tappezzate di viola osservando la caduta dei fiori, convinti che un fiore atterrato sulla testa, o afferrato al volo prima che tocchi terra, porti fortuna agli esami finali. Gli stessi alberi oggi costeggiano i viali da Buenos Aires a Los Angeles fino a Sydney, con la loro breve ma splendida stagione di fioritura che segna il cambio delle stagioni in città lontanissime dal luogo in cui la specie è nata allo stato selvatico.",
+        "name_origin": "Il nome del genere Jacaranda deriva da una parola guaraní che descrive il legno profumato e dalla venatura ricca dell'albero, da sempre utilizzato dai falegnami sudamericani. Il nome della specie, mimosifolia, si riferisce alle sue foglie composte, simili a felci e simili a quelle della mimosa. Il nome comune Jacaranda viola riflette semplicemente i suoi caratteristici fiori violetti.",
+        "symbolism_story": "A Pretoria, in Sudafrica, soprannominata la Città dei Jacaranda per le decine di migliaia di alberi dalla fioritura viola, gli studenti universitari credono da tempo che afferrare al volo un fiore di jacaranda in caduta, o vederselo posare sulla testa, porti fortuna agli esami finali. Poiché gli alberi fioriscono ogni ottobre e novembre, esattamente quando termina l'anno accademico, generazioni di studenti hanno camminato sotto strade tappezzate di viola osservando la caduta dei fiori come segno di buona sorte in arrivo.",
+        "flower_meaning": "Buona Fortuna",
+        "fragrance": {
+          "notes": "I grappoli di fiori a forma di tromba emanano un profumo lieve e dolce, simile al miele, particolarmente percepibile quando l'albero è in piena fioritura."
+        },
+        "uses_list": [
+          {
+            "text": "Piantato in tutto il mondo come albero ornamentale da ombra e da strada per la sua spettacolare fioritura primaverile."
+          },
+          {
+            "text": "I fiori a forma di tromba attirano api e altri insetti impollinatori."
+          },
+          {
+            "text": "Il suo legno profumato e facile da intagliare è utilizzato da tempo dai falegnami sudamericani per mobili e piccoli manufatti artigianali."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Buona Fortuna",
+            "description": "A Pretoria, in Sudafrica, gli studenti credono da tempo che un fiore di jacaranda caduto sulla testa, o afferrato al volo prima che tocchi terra, porti fortuna agli esami finali — gli alberi fioriscono ogni anno esattamente quando termina il semestre."
+          },
+          {
+            "keyword": "Rinnovamento",
+            "description": "La sua spettacolare trasformazione da rami spogli a una chioma di un viola compatto, prima ancora che spunti una singola foglia, ha reso il Jacaranda viola un simbolo stagionale di trasformazione e rinnovamento nelle città dell'emisfero australe."
+          }
+        ],
+        "toxicity": {
+          "headline": "Sicuro per gli animali domestici",
+          "active_compound_display": "Nessuno segnalato",
+          "notes_en": "Nessuna corrispondenza autorevole trovata sulla tossicità; trattato come non segnalato (la stima generata dall'IA non è verificata da fonti).",
+          "human": {
+            "exposure": "Non è segnalata alcuna via di esposizione.",
+            "effect": "Non è segnalato alcun effetto tossico.",
+            "note": "In questo catalogo non è segnalata alcuna tossicità per l'uomo; ciò non costituisce prova che la pianta sia commestibile o innocua."
+          },
+          "dog": {
+            "exposure": "Non è segnalata alcuna via di esposizione.",
+            "effect": "Non è segnalato alcun effetto tossico.",
+            "note": "Fonti autorevoli riportano questa pianta come non tossica per i cani; ciò non costituisce prova che la pianta sia commestibile."
+          },
+          "cat": {
+            "exposure": "Non è segnalata alcuna via di esposizione.",
+            "effect": "Non è segnalato alcun effetto tossico.",
+            "note": "Fonti autorevoli riportano questa pianta come non tossica per i gatti; ciò non costituisce prova che la pianta sia commestibile."
+          }
+        }
+      }
+    },
+    "AAA1632": {
+      "source_hash": "24bdc101f93dd04ed37bd8e2a326e28dbee6c5f06aac62caa8b867bccbc79dd8",
+      "fields": {
+        "common_name": "Dionea acchiappamosche",
+        "bloom_tip": "I fiori di questa pianta sbocciano tra maggio e giugno, attirando gli insetti.",
+        "description": "La dionea acchiappamosche è una delle poche piante veramente carnivore al mondo, originaria di una stretta fascia di zone umide subtropicali lungo la costa delle Caroline. Le sue foglie snodate, a forma di mascella, sono bordate da peli sensitivi che scattano in una frazione di secondo quando un insetto le tocca due volte entro circa venti secondi, intrappolando la preda per dissolverla lentamente con enzimi digestivi. Questa trappola si è evoluta come strategia di sopravvivenza nei suoli paludosi e poveri di azoto del suo habitat originario, dove gli insetti catturati forniscono i nutrienti che il terreno non può offrire. Compatta e di portamento basso, forma una rosetta di trappole attorno a uno stelo con piccoli fiori bianchi, molto apprezzata dai collezionisti di tutto il mondo.",
+        "history_text_short": "Molto prima di diventare una curiosità da davanzale, la dionea acchiappamosche cresceva spontanea solo in un piccolo angolo delle paludi delle Caroline. Il governatore coloniale Arthur Dobbs descrisse per primo le sue foglie scattanti nel 1759, definendola «una grande meraviglia del regno vegetale». Charles Darwin le dedicò poi anni di studio, definendola celebremente «una delle piante più meravigliose del mondo».",
+        "history_text_long": "L'areale selvatico della dionea acchiappamosche è sorprendentemente ristretto: un anello di savane di pini e paludi entro un raggio di poco più di centosessanta chilometri intorno a Wilmington, nella Carolina del Nord, e in nessun altro luogo della Terra. Gli europei ne vennero a conoscenza per la prima volta nel 1759, quando Arthur Dobbs, governatore coloniale della Carolina del Nord, scrisse al botanico Peter Collinson a Londra descrivendo una pianta le cui foglie si chiudevano «come una trappola a molla» al tocco di qualsiasi insetto, definendola «la grande meraviglia del regno vegetale». Nel 1768 il botanico John Ellis inviò una descrizione a Linneo, coniando il nome del genere Dionaea da Dione, madre di Venere nella mitologia greca, mentre il nome comune rendeva omaggio alla dea dell'amore stessa. Nessuna pianta catturò l'immaginazione di Charles Darwin quanto questa. All'inizio degli anni 1870, lavorando nella serra della sua casa, Down House, trascorse mesi a nutrire a mano le dionee con carne e albume d'uovo, cronometrando la velocità di chiusura delle trappole e verificando cosa le attivasse e cosa no. I suoi esperimenti riempirono gran parte del suo libro del 1875, Insectivorous Plants, e in una lettera a un amico la definì «una delle piante più meravigliose del mondo». Le meticolose osservazioni di Darwin contribuirono a dimostrare che la trappola era un vero organo digestivo e non una semplice curiosità meccanica, e il suo fascino contribuì non poco a diffondere le piante carnivore tra i collezionisti vittoriani. Quella popolarità è oggi diventata essa stessa una minaccia: le dionee selvatiche sono ora vulnerabili, minacciate dalla perdita di habitat e, in Carolina del Nord, dai bracconieri che le dissotterrano per venderle illegalmente, un reato considerato abbastanza grave da essere classificato come crimine nel 2014.",
+        "name_origin": "Il nome del genere Dionaea deriva da Dione, madre di Afrodite/Venere nella mitologia greca, mentre il nome comune dionea acchiappamosche rende omaggio direttamente alla dea dell'amore, un rimando al fascino seducente ma letale della trappola per gli insetti; il nome della specie, muscipula, in latino significa «trappola per topi».",
+        "symbolism_story": "Poiché attira, seduce e poi divora, la dionea acchiappamosche è da tempo simbolo di bellezza pericolosa o ingannevole, la cui apparenza apparentemente innocente nasconde un'azione improvvisa e decisiva. Il pubblico vittoriano fu affascinato da questo contrasto tra i suoi delicati fiori bianchi e le sue foglie predatrici, e resta un emblema popolare di resilienza e adattabilità: una piccola pianta che ha trasformato la scarsità in un vantaggio evolutivo.",
+        "flower_meaning": "Fascino ingannevole",
+        "fragrance": {
+          "notes": "I piccoli fiori bianchi emanano un profumo lieve e dolce per attirare gli impollinatori, ben distinto dalle trappole sottostanti, che per attrarre le prede striscianti usano richiami visivi e nettare anziché il profumo."
+        },
+        "uses_list": [
+          {
+            "text": "Una pianta spettacolare coltivata in casa o in giardini palustri per le sue trappole scattanti e la forma bassa a rosetta."
+          },
+          {
+            "text": "I suoi piccoli fiori bianchi sono portati su uno stelo alto, ben al di sopra delle trappole, attirando api e altri impollinatori mentre li tiene al sicuro fuori dalla portata delle foglie sottostanti."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Fascino ingannevole",
+            "description": "I delicati fiori bianchi e le foglie verdi dall'aspetto innocente della trappola nascondono uno scatto improvviso e decisivo, rendendo la pianta un emblema duraturo della bellezza che cela un pericolo sotto la superficie."
+          }
+        ],
+        "toxicity": {
+          "headline": "Sicura per gli animali domestici",
+          "active_compound_display": "Nessuno segnalato",
+          "notes_en": "Nessuna corrispondenza con fonti autorevoli sulla tossicità; considerata non segnalata (la stima del modello non è verificata da fonti).",
+          "human": {
+            "exposure": "Nessuna via di esposizione segnalata.",
+            "effect": "Nessun effetto tossico segnalato.",
+            "note": "In questo catalogo non è segnalata alcuna tossicità per l'uomo; ciò non dimostra che la pianta sia commestibile o innocua."
+          },
+          "dog": {
+            "exposure": "Nessuna via di esposizione segnalata.",
+            "effect": "Nessun effetto tossico segnalato.",
+            "note": "Fonti autorevoli indicano che questa pianta non è tossica per i cani; ciò non dimostra che la pianta sia commestibile."
+          },
+          "cat": {
+            "exposure": "Nessuna via di esposizione segnalata.",
+            "effect": "Nessun effetto tossico segnalato.",
+            "note": "Fonti autorevoli indicano che questa pianta non è tossica per i gatti; ciò non dimostra che la pianta sia commestibile."
           }
         }
       }
