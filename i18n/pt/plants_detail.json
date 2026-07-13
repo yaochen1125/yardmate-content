@@ -3,8 +3,8 @@
   "locale": "pt",
   "source": {
     "resource": "plants_detail.json",
-    "sha256": "81cab1f453ea8a4d4d295deb474ecefbeed8abadbc9bf286f3136df93de52746",
-    "record_count": 1631
+    "sha256": "915bda074c33f0957177bacbe28916284091158ff02de7107fd0f2260ce96243",
+    "record_count": 1632
   },
   "records": {
     "AAA0001": {
@@ -100157,6 +100157,63 @@
             "exposure": "Não é reportada nenhuma via de exposição.",
             "effect": "Não é reportado nenhum efeito tóxico.",
             "note": "Fontes autorizadas indicam que esta planta não é tóxica para gatos; isto não é prova de que a planta seja comestível."
+          }
+        }
+      }
+    },
+    "AAA1633": {
+      "source_hash": "5a67baeb732bf437dfccc44aa5c32606dcaf53f87c7741b1aa2dd560187c9108",
+      "fields": {
+        "common_name": "Junco Espiralado",
+        "bloom_tip": "Pequenas flores castanhas imperceptíveis surgem lateralmente nos caules retorcidos no verão; cultivado pela folhagem, não pela floração.",
+        "description": "O junco espiralado (Juncus effusus 'Spiralis') é uma cultivar ornamental do junco-mole comum, apreciado inteiramente por seus caules bizarramente retorcidos e espiralados, que se enroscam e curvam em todas as direções como saca-rolhas verdes. Atingindo apenas 30-45 cm, forma uma touceira emaranhada e acolchoada, muito mais compacta que a espécie de hastes retas. Prospera em solo constantemente úmido ou água parada e é um favorito para margens de lagos, jardins pantanosos e vasos com espelhos d'água. Cultivado a pleno sol ou meia-sombra, mantém-se semi-perene em invernos amenos. Como as mudas revertem a hastes retas, 'Spiralis' é sempre propagada por divisão. Suas pequenas flores castanhas são insignificantes — a folhagem caprichosa é o espetáculo principal.",
+        "history_text_short": "O junco espiralado é um esporte curiosamente retorcido do junco-mole comum, propagado puramente por seus caules espiralados. Tornou-se uma novidade querida da moda vitoriana por plantas estranhas e 'monstruosas', e perdura como uma curiosidade básica de centros de lagos e parapeitos — cultivado por puro capricho, não por utilidade.",
+        "history_text_long": "Onde o junco-mole selvagem é uma planta de pura utilidade — sua medula já foi descascada para velas de junco e seus parentes japoneses tecidos em tatames — o junco espiralado é seu completo oposto: uma planta mantida por nenhuma razão além do deleite. 'Spiralis' surgiu como uma mutação espontânea, um 'esporte', no qual os caules cilíndricos normalmente retos torcem e se enrolam em espirais soltas, caindo uns sobre os outros em uma massa verde emaranhada.\n\nPlantas contorcidas e espiraladas exerciam um fascínio especial sobre os jardineiros vitorianos, cujo gosto pendia para o curioso, o monstruoso e o francamente peculiar. Junto com a aveleira retorcida e o salgueiro contorcido, o junco espiralado foi propagado e passado entre colecionadores como uma curiosidade viva — um tema de conversa para a estufa e o parapeito da sala. Como o hábito retorcido não passa de forma confiável pela semente (as mudas revertem a hastes retas comuns), todo junco espiralado em cultivo é propagado vegetativamente por divisão, cada planta um clone daquele cacho original.\n\nHoje continua sendo uma das plantas novidade mais reconhecíveis vendidas, cultivada em margens de lagos, jardins pantanosos, tigelas de água parada e parapeitos de cozinha iluminados. Só pede umidade constante e é indestrutível. Os jardineiros ou amam sua alegre desordem ou a acham levemente perturbadora — poucas plantas provocam uma resposta tão dividida a partir de um tufo de verde tão modesto.",
+        "name_origin": "'Junco espiralado' descreve os caules selvagemente retorcidos e espiralados que se enrolam como um saca-rolhas. O nome da cultivar 'Spiralis' é latim para 'espiralado' ou 'enrolado'. 'Juncus' deriva do latim 'jungere', amarrar, e 'effusus' significa 'amplamente espalhado', da espécie parental de junco-mole.",
+        "symbolism_story": "O junco espiralado é o pequeno inconformista do jardim — onde todos os outros juncos crescem retos e úteis, ele se enrola em espirais, bom para nada além do deleite. Tornou-se um emblema silencioso de individualidade e ludicidade: prova de que uma planta, como uma pessoa, pode ganhar seu lugar simplesmente sendo alegre e teimosamente ela mesma.",
+        "flower_meaning": "Individualidade",
+        "fragrance": {
+          "notes": "Sem fragrância notável."
+        },
+        "uses_list": [
+          {
+            "text": "Caules verdes espiralados criam um elemento de novidade em lagos, jardins pantanosos e tigelas d'água"
+          },
+          {
+            "text": "Caules encaracolados são valorizados por floristas como arame vivo em arranjos de corte"
+          },
+          {
+            "text": "Touceiras densas e emaranhadas oferecem abrigo para sapos e insetos na beira da água"
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Individualidade",
+            "description": "seus caules se recusam a crescer retos, espiralando inteiramente à sua própria maneira"
+          },
+          {
+            "keyword": "Ludicidade",
+            "description": "uma planta mantida puramente por capricho e deleite, não por utilidade"
+          }
+        ],
+        "toxicity": {
+          "headline": "Nenhuma toxicidade relatada",
+          "active_compound_display": "Nenhum relatado",
+          "notes_en": "Nenhuma correspondência de toxicidade autoritativa encontrada; tratado como não relatado (estimativa de LLM não verificada por fonte).",
+          "human": {
+            "exposure": "Nenhuma via de exposição é relatada.",
+            "effect": "Nenhum efeito tóxico é relatado.",
+            "note": "Nenhuma toxicidade é relatada para humanos neste catálogo; isso não é evidência de que a planta seja comestível ou inofensiva."
+          },
+          "dog": {
+            "exposure": "Nenhuma via de exposição é relatada.",
+            "effect": "Nenhum efeito tóxico é relatado.",
+            "note": "Nenhuma toxicidade é relatada para cães neste catálogo; isso não é evidência de que a planta seja comestível ou inofensiva."
+          },
+          "cat": {
+            "exposure": "Nenhuma via de exposição é relatada.",
+            "effect": "Nenhum efeito tóxico é relatado.",
+            "note": "Nenhuma toxicidade é relatada para gatos neste catálogo; isso não é evidência de que a planta seja comestível ou inofensiva."
           }
         }
       }

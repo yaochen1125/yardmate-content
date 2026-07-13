@@ -3,8 +3,8 @@
   "locale": "fr",
   "source": {
     "resource": "plants_detail.json",
-    "sha256": "81cab1f453ea8a4d4d295deb474ecefbeed8abadbc9bf286f3136df93de52746",
-    "record_count": 1631
+    "sha256": "915bda074c33f0957177bacbe28916284091158ff02de7107fd0f2260ce96243",
+    "record_count": 1632
   },
   "records": {
     "AAA0001": {
@@ -100143,6 +100143,63 @@
             "exposure": "Aucune voie d'exposition signalée.",
             "effect": "Aucun effet toxique signalé.",
             "note": "Des sources faisant autorité indiquent que cette plante n'est pas toxique pour les chats ; cela ne prouve pas que la plante soit comestible."
+          }
+        }
+      }
+    },
+    "AAA1633": {
+      "source_hash": "5a67baeb732bf437dfccc44aa5c32606dcaf53f87c7741b1aa2dd560187c9108",
+      "fields": {
+        "common_name": "Jonc spiralé",
+        "bloom_tip": "De petites fleurs brunes discrètes apparaissent latéralement sur les tiges torsadées en été ; cultivé pour son feuillage, pas pour ses fleurs.",
+        "description": "Le jonc spiralé (Juncus effusus 'Spiralis') est un cultivar ornemental du jonc épars commun, apprécié uniquement pour ses tiges bizarrement tordues et spiralées qui s'enroulent et se courbent dans toutes les directions comme des tire-bouchons verts. Atteignant seulement 30 à 45 cm, il forme une touffe emmêlée et coussinée bien plus compacte que l'espèce à tiges droites. Il prospère dans un sol constamment humide ou dans l'eau stagnante et est un favori pour les bordures d'étang, les jardins de marais et les pièces d'eau en pot. Cultivé en plein soleil ou à mi-ombre, il reste semi-persistant pendant les hivers doux. Comme les semis reviennent à des tiges droites, 'Spiralis' est toujours propagé par division. Ses petites fleurs brunes sont insignifiantes — le feuillage fantaisiste est tout le spectacle.",
+        "history_text_short": "Le jonc spiralé est un sport curieusement spiralé du jonc épars commun, propagé uniquement pour ses tiges enroulées. Il est devenu une nouveauté appréciée lors de la mode victorienne pour les plantes étranges et 'monstrueuses', et perdure comme une curiosité de base des centres d'étangs et des rebords de fenêtre — cultivé pour le pur caprice plutôt que pour l'utilité.",
+        "history_text_long": "Là où le jonc épars sauvage est une plante d'utilité pure — sa moelle autrefois pelée pour les chandelles de jonc et ses parents japonais tissés en tatami — le jonc spiralé est son opposé complet : une plante conservée pour aucune raison autre que le plaisir. 'Spiralis' est apparu comme une mutation spontanée, un 'sport', dans lequel les tiges cylindriques normalement droites se tordent et s'enroulent en spirales lâches, se chevauchant en une masse verte emmêlée.\n\nLes plantes contorsionnées et spiralées fascinaient particulièrement les jardiniers victoriens, dont le goût allait au curieux, au monstrueux et au franchement étrange. Aux côtés du noisetier tortueux et du saule tortueux, le jonc spiralé était propagé et échangé entre collectionneurs comme une curiosité vivante — un sujet de conversation pour la serre et le rebord de fenêtre du salon. Parce que la torsion ne se transmet pas de manière fiable par graines (les semis reviennent à des tiges droites ordinaires), chaque jonc spiralé en culture est propagé végétativement par division, chaque plante étant un clone de cette boucle originale.\n\nAujourd'hui, il reste l'une des plantes de nouveauté les plus reconnaissables vendues, cultivée au bord des étangs, dans les jardins de marais, dans des bols en verre d'eau stagnante et sur les rebords de fenêtre lumineux de la cuisine. Il ne demande qu'une humidité constante et est par ailleurs indestructible. Les jardiniers soit aiment son chaos joyeux, soit le trouvent légèrement dérangeant — peu de plantes provoquent une réponse aussi divisée d'une touffe de verdure aussi modeste.",
+        "name_origin": "'Jonc spiralé' décrit les tiges sauvagement torsadées et spiralées qui s'enroulent comme un tire-bouchon. Le nom de cultivar 'Spiralis' est latin pour 'spiralé' ou 'enroulé'. 'Juncus' dérive du latin 'jungere', lier, et 'effusus' signifie 'étalé de manière lâche', de l'espèce parente de jonc épars.",
+        "symbolism_story": "Le jonc spiralé est le petit non-conformiste du jardin — là où chaque autre jonc se tient droit et utile, il s'enroule en spirales, bon à rien d'autre que le plaisir. Il est devenu un emblème discret d'individualité et d'espièglerie : la preuve qu'une plante, comme une personne, peut gagner sa place simplement en étant joyeusement, obstinément elle-même.",
+        "flower_meaning": "Individualité",
+        "fragrance": {
+          "notes": "Aucun parfum notable."
+        },
+        "uses_list": [
+          {
+            "text": "Les tiges vertes spiralées créent un élément de nouveauté dans les étangs, les jardins de marais et les bols d'eau"
+          },
+          {
+            "text": "Les tiges enroulées sont prisées par les fleuristes comme fil vivant dans les compositions coupées"
+          },
+          {
+            "text": "Les touffes denses et emmêlées offrent un abri aux grenouilles et aux insectes au bord de l'eau"
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Individualité",
+            "description": "ses tiges refusent de pousser droites, spiralant entièrement à leur manière"
+          },
+          {
+            "keyword": "Espièglerie",
+            "description": "une plante conservée purement pour le caprice et le plaisir plutôt que pour l'utilité"
+          }
+        ],
+        "toxicity": {
+          "headline": "Aucune toxicité signalée",
+          "active_compound_display": "Aucun signalé",
+          "notes_en": "Aucune correspondance de toxicité faisant autorité trouvée ; traitée comme non signalée (l'estimation LLM n'est pas vérifiée par source).",
+          "human": {
+            "exposure": "Aucune voie d'exposition n'est signalée.",
+            "effect": "Aucun effet toxique n'est signalé.",
+            "note": "Aucune toxicité n'est signalée pour les humains dans ce catalogue ; ce n'est pas une preuve que la plante est comestible ou inoffensive."
+          },
+          "dog": {
+            "exposure": "Aucune voie d'exposition n'est signalée.",
+            "effect": "Aucun effet toxique n'est signalé.",
+            "note": "Aucune toxicité n'est signalée pour les chiens dans ce catalogue ; ce n'est pas une preuve que la plante est comestible ou inoffensive."
+          },
+          "cat": {
+            "exposure": "Aucune voie d'exposition n'est signalée.",
+            "effect": "Aucun effet toxique n'est signalé.",
+            "note": "Aucune toxicité n'est signalée pour les chats dans ce catalogue ; ce n'est pas une preuve que la plante est comestible ou inoffensive."
           }
         }
       }

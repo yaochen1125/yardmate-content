@@ -3,8 +3,8 @@
   "locale": "it",
   "source": {
     "resource": "plants_detail.json",
-    "sha256": "81cab1f453ea8a4d4d295deb474ecefbeed8abadbc9bf286f3136df93de52746",
-    "record_count": 1631
+    "sha256": "915bda074c33f0957177bacbe28916284091158ff02de7107fd0f2260ce96243",
+    "record_count": 1632
   },
   "records": {
     "AAA0001": {
@@ -100157,6 +100157,63 @@
             "exposure": "Nessuna via di esposizione segnalata.",
             "effect": "Nessun effetto tossico segnalato.",
             "note": "Fonti autorevoli indicano che questa pianta non è tossica per i gatti; ciò non dimostra che la pianta sia commestibile."
+          }
+        }
+      }
+    },
+    "AAA1633": {
+      "source_hash": "5a67baeb732bf437dfccc44aa5c32606dcaf53f87c7741b1aa2dd560187c9108",
+      "fields": {
+        "common_name": "Giunco a spirale",
+        "bloom_tip": "Piccoli fiori marroni poco appariscenti compaiono lateralmente sui fusti contorti in estate; coltivata per il fogliame, non per la fioritura",
+        "description": "Il giunco a spirale (Juncus effusus 'Spiralis') è una cultivar ornamentale del giunco comune, apprezzata esclusivamente per i suoi fusti bizzarramente attorcigliati e spiraliformi che si avvolgono e si arricciano in ogni direzione come cavatappi verdi. Raggiungendo solo 30-45 cm, forma un ciuffo aggrovigliato e compatto, molto più piccolo della specie a fusti dritti. Prospera in terreno costantemente umido o in acqua stagnante ed è una pianta amata per bordi di laghetti, giardini palustri e composizioni acquatiche in contenitori smaltati. Coltivata in pieno sole o mezz'ombra, rimane semi-sempreverde negli inverni miti. Poiché le piantine tornano a fusti dritti, 'Spiralis' viene sempre propagata per divisione. I suoi piccoli fiori marroni sono insignificanti: il fogliame stravagante è l'intero spettacolo.",
+        "history_text_short": "Il giunco a spirale è uno sport curiosamente spiraliforme del giunco comune, propagato puramente per i suoi fusti arricciati. Divenne una novità amata durante la mania vittoriana per le piante strane e 'mostruose', e perdura come curiosità essenziale dei centri per laghetti e dei davanzali — coltivato per puro capriccio piuttosto che per utilità.",
+        "history_text_long": "Mentre il giunco comune è una pianta puramente utilitaria — il suo midollo un tempo veniva sbucciato per candele e i suoi parenti giapponesi intrecciati per stuoie tatami — il giunco a spirale è il suo completo opposto: una pianta tenuta per nessun'altra ragione se non il diletto. 'Spiralis' è nata come mutazione spontanea, uno 'sport', in cui i fusti cilindrici normalmente dritti si attorcigliano e si avvolgono in spirali lasche, accavallandosi in una massa verde aggrovigliata.\n\nLe piante contorte e spiraliformi esercitavano un fascino speciale sui giardinieri vittoriani, il cui gusto prediligeva il curioso, il mostruoso e il francamente bizzarro. Insieme al nocciolo contorto e al salice contorto, il giunco spiraliforme veniva propagato e scambiato tra collezionisti come una stranezza vivente — un argomento di conversazione per la serra e il davanzale del salotto. Poiché l'abitudine contorta non si trasmette in modo affidabile attraverso i semi (le piantine tornano a fusti dritti ordinari), ogni giunco a spirale in coltivazione viene propagato vegetativamente per divisione, ogni pianta un clone di quella prima curva.\n\nOggi rimane una delle piante novità più riconoscibili in vendita, coltivata ai bordi dei laghetti, nei giardini palustri, in ciotole smaltate con acqua stagnante e su luminosi davanzali di cucina. Chiede solo umidità costante ed è per il resto indistruttibile. I giardinieri o amano il suo caos allegro o lo trovano leggermente inquietante — poche piante provocano una reazione così divisa da un ciuffo di verde così modesto.",
+        "name_origin": "'Giunco a spirale' descrive i fusti selvaggiamente attorcigliati e spiraliformi che si avvolgono come un cavatappi. Il nome della cultivar 'Spiralis' è latino per 'a spirale' o 'arrotolato'. 'Juncus' deriva dal latino 'jungere', legare, e 'effusus' significa 'largo e sparso', dalla specie del giunco comune.",
+        "symbolism_story": "Il giunco a spirale è il piccolo anticonformista del giardino — mentre ogni altro giunco sta dritto e utile, lui si arriccia in spirali, buono solo per il diletto. È diventato un emblema silenzioso di individualità e giocosità: la prova che una pianta, come una persona, può guadagnarsi il suo posto semplicemente essendo allegramente, ostinatamente se stessa.",
+        "flower_meaning": "Individualità",
+        "fragrance": {
+          "notes": "Nessuna fragranza notevole."
+        },
+        "uses_list": [
+          {
+            "text": "I fusti verdi spiraliformi creano un elemento di novità in laghetti, giardini palustri e ciotole d'acqua"
+          },
+          {
+            "text": "I fusti arricciati sono apprezzati dai fioristi come filo vivo nelle composizioni recise"
+          },
+          {
+            "text": "I densi ciuffi aggrovigliati offrono riparo a rane e insetti sul bordo dell'acqua"
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Individualità",
+            "description": "i suoi fusti si rifiutano di crescere dritti, spiraleggiando completamente a modo loro"
+          },
+          {
+            "keyword": "Giocosità",
+            "description": "una pianta tenuta puramente per capriccio e diletto piuttosto che per utilità"
+          }
+        ],
+        "toxicity": {
+          "headline": "Nessuna tossicità segnalata",
+          "active_compound_display": "Nessuno segnalato",
+          "notes_en": "Nessuna corrispondenza tossicologica autorevole trovata; trattata come non segnalata (la stima LLM non è verificata da fonti).",
+          "human": {
+            "exposure": "Non è segnalata alcuna via di esposizione.",
+            "effect": "Non è segnalato alcun effetto tossico.",
+            "note": "In questo catalogo non è segnalata tossicità per gli umani; ciò non prova che la pianta sia commestibile o innocua."
+          },
+          "dog": {
+            "exposure": "Non è segnalata alcuna via di esposizione.",
+            "effect": "Non è segnalato alcun effetto tossico.",
+            "note": "In questo catalogo non è segnalata tossicità per i cani; ciò non prova che la pianta sia commestibile o innocua."
+          },
+          "cat": {
+            "exposure": "Non è segnalata alcuna via di esposizione.",
+            "effect": "Non è segnalato alcun effetto tossico.",
+            "note": "In questo catalogo non è segnalata tossicità per i gatti; ciò non prova che la pianta sia commestibile o innocua."
           }
         }
       }

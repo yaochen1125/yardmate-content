@@ -3,8 +3,8 @@
   "locale": "es",
   "source": {
     "resource": "plants_detail.json",
-    "sha256": "81cab1f453ea8a4d4d295deb474ecefbeed8abadbc9bf286f3136df93de52746",
-    "record_count": 1631
+    "sha256": "915bda074c33f0957177bacbe28916284091158ff02de7107fd0f2260ce96243",
+    "record_count": 1632
   },
   "records": {
     "AAA0001": {
@@ -100157,6 +100157,63 @@
             "exposure": "No se reporta ninguna vía de exposición.",
             "effect": "No se reporta ningún efecto tóxico.",
             "note": "Fuentes autorizadas indican que esta planta no es tóxica para gatos; esto no es evidencia de que la planta sea comestible."
+          }
+        }
+      }
+    },
+    "AAA1633": {
+      "source_hash": "5a67baeb732bf437dfccc44aa5c32606dcaf53f87c7741b1aa2dd560187c9108",
+      "fields": {
+        "common_name": "Junco espiral",
+        "bloom_tip": "Pequeñas flores marrones poco llamativas aparecen lateralmente en los tallos retorcidos en verano; se cultiva por el follaje, no por la flor.",
+        "description": "El junco espiral (Juncus effusus 'Spiralis') es un cultivar ornamental del junco común, apreciado exclusivamente por sus tallos extrañamente retorcidos y en espiral que se enroscan y curvan en todas direcciones como sacacorchos verdes. Alcanza solo 30-45 cm, formando un grupo denso y almohadillado mucho más compacto que la especie de tallos rectos. Prospera en suelos constantemente húmedos o en agua estancada y es un favorito para bordes de estanques, jardines de turba y recipientes acuáticos de vidrio. Se cultiva a pleno sol o sombra parcial y se mantiene semiperennifolio en inviernos suaves. Como las plántulas revierten a tallos rectos, 'Spiralis' siempre se propaga por división. Sus pequeñas flores marrones son insignificantes: el follaje caprichoso es el verdadero espectáculo.",
+        "history_text_short": "El junco espiral es un deporte curiosamente retorcido del junco común, propagado puramente por sus tallos en espiral. Se convirtió en una novedad querida de la moda victoriana por las plantas extrañas y 'monstruosas', y perdura como una curiosidad básica de los centros de estanques y repisas —cultivado por puro capricho más que por utilidad.",
+        "history_text_long": "Mientras que el junco común silvestre es una planta de pura utilidad —su médula se pelaba para velas de junco y sus parientes japoneses se tejen en tatamis—, el junco espiral es todo lo contrario: una planta mantenida solo por placer. 'Spiralis' surgió como una mutación espontánea, un 'deporte', en el que los tallos cilíndricos normalmente rectos se retuercen y enroscan en espirales sueltas, cayendo unos sobre otros formando una masa verde enmarañada.\n\nLas plantas retorcidas y en espiral fascinaban a los jardineros victorianos, cuyo gusto se inclinaba por lo curioso, lo monstruoso y lo francamente peculiar. Junto con el avellano retorcido y el sauce contorsionado, el junco espiral se propagaba e intercambiaba entre coleccionistas como una rareza viviente —un tema de conversación para el invernadero y la repisa de la sala. Dado que el hábito retorcido no se transmite de forma fiable por semilla (las plántulas revierten a tallos rectos ordinarios), cada junco espiral en cultivo se propaga vegetativamente por división, siendo cada planta un clon de ese rizo original.\n\nHoy sigue siendo una de las plantas novedosas más reconocibles que se venden, cultivada en bordes de estanques, jardines de turba, cuencos de vidrio con agua estancada y en repisas de cocina luminosas. Solo pide humedad constante y por lo demás es indestructible. Los jardineros o aman su caos alegre o lo encuentran ligeramente inquietante —pocas plantas provocan una respuesta tan dividida a partir de un mechón de verde tan modesto.",
+        "name_origin": "'Junco espiral' describe los tallos salvajemente retorcidos que se enroscan como un sacacorchos. El nombre del cultivar 'Spiralis' es latín para 'en espiral' o 'enrollado'. 'Juncus' deriva del latín 'jungere', atar, y 'effusus' significa 'extendido sueltamente', por la especie parental de junco común.",
+        "symbolism_story": "El junco espiral es el pequeño inconformista del jardín —mientras que todos los demás juncos se mantienen rectos y útiles, él se curva en espirales, bueno solo para el deleite. Se ha convertido en un emblema silencioso de individualidad y alegría: prueba de que una planta, como una persona, puede ganarse su lugar simplemente siendo alegre y obstinadamente ella misma.",
+        "flower_meaning": "Individualidad",
+        "fragrance": {
+          "notes": "Sin fragancia notable."
+        },
+        "uses_list": [
+          {
+            "text": "Los tallos verdes en espiral crean un elemento novedoso en estanques, jardines de turba y cuencos de agua"
+          },
+          {
+            "text": "Los tallos rizados son apreciados por floristas como alambre vivo en arreglos florales cortados"
+          },
+          {
+            "text": "Los grupos densos y enmarañados ofrecen refugio para ranas e insectos en la orilla del agua"
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Individualidad",
+            "description": "sus tallos se niegan a crecer rectos, enroscándose completamente a su manera"
+          },
+          {
+            "keyword": "Juguetón",
+            "description": "una planta mantenida puramente por capricho y placer, no por utilidad"
+          }
+        ],
+        "toxicity": {
+          "headline": "No se reporta toxicidad",
+          "active_compound_display": "Ninguno reportado",
+          "notes_en": "No se encontró una coincidencia de toxicidad autorizada; se trata como no reportado (la estimación del LLM no está verificada por fuentes).",
+          "human": {
+            "exposure": "No se reporta ninguna vía de exposición.",
+            "effect": "No se reporta ningún efecto tóxico.",
+            "note": "No se reporta toxicidad para humanos en este catálogo; esto no es evidencia de que la planta sea comestible o inofensiva."
+          },
+          "dog": {
+            "exposure": "No se reporta ninguna vía de exposición.",
+            "effect": "No se reporta ningún efecto tóxico.",
+            "note": "No se reporta toxicidad para perros en este catálogo; esto no es evidencia de que la planta sea comestible o inofensiva."
+          },
+          "cat": {
+            "exposure": "No se reporta ninguna vía de exposición.",
+            "effect": "No se reporta ningún efecto tóxico.",
+            "note": "No se reporta toxicidad para gatos en este catálogo; esto no es evidencia de que la planta sea comestible o inofensiva."
           }
         }
       }

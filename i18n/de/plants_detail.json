@@ -3,8 +3,8 @@
   "locale": "de",
   "source": {
     "resource": "plants_detail.json",
-    "sha256": "81cab1f453ea8a4d4d295deb474ecefbeed8abadbc9bf286f3136df93de52746",
-    "record_count": 1631
+    "sha256": "915bda074c33f0957177bacbe28916284091158ff02de7107fd0f2260ce96243",
+    "record_count": 1632
   },
   "records": {
     "AAA0001": {
@@ -100143,6 +100143,63 @@
             "exposure": "Kein Expositionsweg gemeldet.",
             "effect": "Keine toxische Wirkung gemeldet.",
             "note": "Autoritative Quellen stufen diese Pflanze als ungiftig für Katzen ein; dies ist kein Beleg dafür, dass die Pflanze essbar ist."
+          }
+        }
+      }
+    },
+    "AAA1633": {
+      "source_hash": "5a67baeb732bf437dfccc44aa5c32606dcaf53f87c7741b1aa2dd560187c9108",
+      "fields": {
+        "common_name": "Spiralsimse",
+        "bloom_tip": "Unscheinbare kleine braune Blütenstände erscheinen seitlich an den gedrehten Stängeln im Sommer; wird wegen des Laubs kultiviert, nicht wegen der Blüte",
+        "description": "Die Spiralsimse (Juncus effusus 'Spiralis') ist eine Zierform der gewöhnlichen Flatterbinse, die ausschließlich wegen ihrer bizarr gedrehten, spiralförmigen Stängel geschätzt wird, die sich wie grüne Korkenzieher in alle Richtungen ringeln. Sie erreicht nur 30–45 cm und bildet einen verworrenen, kissenartigen Horst, der viel kompakter ist als die geradstämmige Art. Sie gedeiht in ständig feuchter Erde oder im Stehenwasser und ist ein Favorit für Teichränder, Sumpfbeete und glasierte Wasserschalen im Kübel. An sonnigen bis halbschattigen Standorten bleibt sie in milden Wintern halbimmergrün. Da Sämlinge zu geraden Stängeln zurückfallen, wird 'Spiralis' stets durch Teilung vermehrt. Die kleinen braunen Blüten sind unbedeutend – das verspielte Laub ist die Hauptattraktion.",
+        "history_text_short": "Die Spiralsimse ist ein kurios gedrehter Sport der gewöhnlichen Flatterbinse, der ausschließlich wegen seiner geringelten Stängel vermehrt wird. Sie wurde zu einer beliebten Neuheit der viktorianischen Vorliebe für Kuriositäten und 'monströse' Pflanzen und ist bis heute eine Standard-Kuriosität in Teichcentern und auf Fensterbrettern – kultiviert aus purer Verspieltheit statt Nutzen.",
+        "history_text_long": "Während die wilde Flatterbinse eine reine Nutzpflanze ist – ihr Mark wurde einst für Binsenlichter geschält und ihre japanischen Verwandten zu Tatami verwebt – ist die Spiralsimse ihr komplettes Gegenteil: eine Pflanze, die nur aus Freude gehalten wird. 'Spiralis' entstand als spontane Mutation, ein 'Sport', bei dem sich die normalerweise geraden zylindrischen Stängel in lockeren Spiralen drehen und übereinander zu einer verworrenen grünen Masse türmen.\n\nVerdrehte und spiralförmige Pflanzen übten eine besondere Faszination auf viktorianische Gärtner aus, deren Geschmack auf Kurioses, Monströses und schlicht Eigenartiges gerichtet war. Neben der Korkenzieherhasel und der Korkenzieherweide wurde die Spiralsimse als lebende Kuriosität vermehrt und zwischen Sammlern weitergegeben – ein Gesprächsthema für das Wintergarten- und Wohnzimmerfensterbrett. Da sich die gedrehte Wuchsform nicht zuverlässig über Samen vererbt (Sämlinge fallen zu gewöhnlichen geraden Stängeln zurück), wird jede Spiralsimse in Kultur vegetativ durch Teilung vermehrt – jede Pflanze ein Klon der ursprünglichen Locke.\n\nHeute ist sie eine der bekanntesten Neuheitenpflanzen, die an Teichrändern, in Sumpfbeeten, in glasierten Schalen mit Stehenwasser und auf hellen Küchenfensterbrettern wächst. Sie verlangt nur nach ständiger Feuchtigkeit und ist sonst unverwüstlich. Gärtner lieben entweder ihr fröhliches Chaos oder finden sie leicht beunruhigend – wenige Pflanzen rufen eine so geteilte Reaktion hervor wie ein so bescheidener grüner Horst.",
+        "name_origin": "'Spiralsimse' beschreibt die wild gedrehten, spiralförmigen Stängel, die sich wie ein Korkenzieher ringeln. Der Sortenname 'Spiralis' ist lateinisch für 'spiralförmig' oder 'geringelt'. 'Juncus' leitet sich vom lateinischen 'jungere' (binden) ab, und 'effusus' bedeutet 'locker ausgebreitet', bezogen auf die Elternart der Flatterbinse.",
+        "symbolism_story": "Die Spiralsimse ist der kleine Nonkonformist im Garten – während jede andere Binse gerade und nützlich dasteht, ringelt sie sich in Spiralen, zu nichts gut außer Freude. Sie ist zu einem stillen Symbol für Individualität und Verspieltheit geworden: ein Beweis, dass eine Pflanze, wie ein Mensch, ihren Platz verdienen kann, indem sie einfach fröhlich und stur sie selbst ist.",
+        "flower_meaning": "Individualität",
+        "fragrance": {
+          "notes": "Kein nennenswerter Duft."
+        },
+        "uses_list": [
+          {
+            "text": "Spiralförmige grüne Stängel sind eine Neuheit in Teichen, Sumpfbeeten und Wasserschalen"
+          },
+          {
+            "text": "Geringelte Stängel werden von Floristen als lebender Draht in Schnittarrangements geschätzt"
+          },
+          {
+            "text": "Dichte verworrene Horste bieten Deckung für Frösche und Insekten am Wasserrand"
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Individualität",
+            "description": "ihre Stängel weigern sich, gerade zu wachsen, und spiralförmig ihren eigenen Weg zu gehen"
+          },
+          {
+            "keyword": "Verspieltheit",
+            "description": "eine Pflanze, die nur aus Verspieltheit und Freude gehalten wird, nicht aus Nutzen"
+          }
+        ],
+        "toxicity": {
+          "headline": "Keine Toxizität gemeldet",
+          "active_compound_display": "Keine gemeldet",
+          "notes_en": "Keine autoritative Toxizitätsübereinstimmung gefunden; als nicht gemeldet behandelt (LLM-Schätzung ist nicht quellenverifiziert).",
+          "human": {
+            "exposure": "Es ist kein Expositionsweg gemeldet.",
+            "effect": "Es ist keine toxische Wirkung gemeldet.",
+            "note": "In diesem Katalog ist keine Toxizität für Menschen gemeldet; dies ist kein Beleg dafür, dass die Pflanze essbar oder unbedenklich ist."
+          },
+          "dog": {
+            "exposure": "Es ist kein Expositionsweg gemeldet.",
+            "effect": "Es ist keine toxische Wirkung gemeldet.",
+            "note": "In diesem Katalog ist keine Toxizität für Hunde gemeldet; dies ist kein Beleg dafür, dass die Pflanze essbar oder unbedenklich ist."
+          },
+          "cat": {
+            "exposure": "Es ist kein Expositionsweg gemeldet.",
+            "effect": "Es ist keine toxische Wirkung gemeldet.",
+            "note": "In diesem Katalog ist keine Toxizität für Katzen gemeldet; dies ist kein Beleg dafür, dass die Pflanze essbar oder unbedenklich ist."
           }
         }
       }
