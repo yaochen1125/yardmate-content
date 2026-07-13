@@ -3,8 +3,8 @@
   "locale": "es",
   "source": {
     "resource": "plants_detail.json",
-    "sha256": "915bda074c33f0957177bacbe28916284091158ff02de7107fd0f2260ce96243",
-    "record_count": 1632
+    "sha256": "91cc1fdc5e6d29e18ff37e53eb43dca173a96fcb5e82c9805f6215a20c0ab965",
+    "record_count": 1633
   },
   "records": {
     "AAA0001": {
@@ -100214,6 +100214,71 @@
             "exposure": "No se reporta ninguna vía de exposición.",
             "effect": "No se reporta ningún efecto tóxico.",
             "note": "No se reporta toxicidad para gatos en este catálogo; esto no es evidencia de que la planta sea comestible o inofensiva."
+          }
+        }
+      }
+    },
+    "AAA1634": {
+      "source_hash": "08e81e5d5a95c1ba110d3cec924fd2cb8810f72fb2eb70ef988fab90303c56fe",
+      "fields": {
+        "common_name": "Senecio Alas de Ángel",
+        "description": "El Senecio Alas de Ángel se aprecia por sus hojas afieltradas, de un blanco plateado, profundamente lobuladas como alas espolvoreadas de escarcha. Originario de las costas azotadas por el viento de Chile y Argentina, este arbusto compacto forma matas densas de 30 a 90 cm de altura, cuyo follaje capta la luz con un brillo suave y aterciopelado. En verano, racimos de pequeñas flores amarillas parecidas a margaritas se alzan sobre las hojas, aunque muchos jardineros lo cultivan sobre todo por su llamativo follaje. Prospera en suelo bien drenado y a pleno sol, tolera la brisa salina costera y breves periodos de sequía, lo que lo convierte en un elemento destacado en jardines costeros, macetas y arriates mixtos.",
+        "history_text_short": "Llamado así por sus hojas afieltradas de un blanco brillante, este Senecio crece silvestre en las costas azotadas por el viento de Chile, donde su fino vello refleja el sol y retiene la humedad. En 2010, un viverista chileno descubrió una plántula inusualmente plateada y la propagó, dando origen a la ahora famosa variedad Angel Wings, cultivada hoy en jardines de todo el mundo.",
+        "history_text_long": "El nombre del género Senecio proviene del latín senex, 'anciano', en alusión a los mechones de semillas blancas y filamentosas que siguen a las flores en muchas especies. El epíteto candidans, de candidus, 'blanco resplandeciente', describe algo más inmediato: el denso vello afieltrado que cubre las anchas hojas en forma de ala de esta planta, dándoles un brillo plateado, casi luminoso. Ambos nombres apuntan a la misma adaptación. En las costas azotadas por el viento de Chile y Argentina, donde esta planta crece silvestre entre dunas rocosas y acantilados salpicados de sal, ese fino vello blanco refleja el sol intenso y ralentiza la pérdida de humedad, permitiéndole prosperar donde pocas otras plantas pueden. Los botánicos europeos la catalogaron por primera vez en la década de 1830, a partir de ejemplares de herbario recolectados en la costa chilena, parte de una oleada de exploración botánica sudamericana que llenó los jardines y museos de Europa con formas nuevas y desconocidas. La especie siguió siendo una curiosidad botánica durante más de un siglo, apreciada sobre todo por coleccionistas, hasta que en 2010 el viverista chileno Matías Avendaño, de Floricultura Novazel en Puerto Montt, encontró entre un lote de polinización abierta una plántula especialmente compacta y de hojas plateadas. La propagó, y en 2017 fue patentada como 'Senaw', vendida en todo el mundo bajo el nombre comercial Angel Wings. Lo que comenzó como un camuflaje costero contra el viento se convirtió en una de las plantas de follaje más reconocibles de la jardinería en maceta moderna.",
+        "name_origin": "Senecio: del latín senex, 'anciano', por los mechones de semillas blancas y filamentosas comunes en el género. candidans (de candidus, 'blanco resplandeciente'): describe las hojas densamente afieltradas y blanco plateadas de esta especie.",
+        "symbolism_story": "Arraigado en los acantilados azotados por la sal de la Patagonia, el Senecio Alas de Ángel simboliza desde hace tiempo la resiliencia: una planta que convierte la dura exposición costera en una ventaja, con su denso fieltro blanco que refleja el sol y resiste la brisa salina. Ese mismo recubrimiento le confiere un resplandor casi luminoso, hojas que captan la luz como plata cepillada. Juntos, estos rasgos la han convertido en un emblema silencioso de la prosperidad en la adversidad: una planta que parece delicada pero resulta extraordinariamente resistente.",
+        "flower_meaning": "Resiliencia",
+        "uses_list": [
+          {
+            "text": "Cultivado sobre todo por su follaje afieltrado de blanco plateado, un acento llamativo en macetas, parterres costeros y arriates mixtos."
+          },
+          {
+            "text": "En verano, los racimos de pequeñas flores amarillas parecidas a margaritas atraen abejas y otros polinizadores."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Resiliencia",
+            "description": "prospera en la brisa salina y el viento costero donde pocas otras plantas sobreviven"
+          },
+          {
+            "keyword": "Resplandor",
+            "description": "hojas afieltradas de blanco plateado que parecen brillar a pleno sol"
+          }
+        ],
+        "toxicity": {
+          "headline": "Humanos Moderado · Mascotas Moderado",
+          "active_compound_display": "alcaloides pirrolizidínicos",
+          "notes_en": "Contiene alcaloides pirrolizidínicos; la ingestión puede causar daño hepático en humanos y mascotas con el tiempo.",
+          "human": {
+            "exposure": "Ingerir cualquier parte de la planta.",
+            "effect": "Náuseas, vómitos y daño hepático.",
+            "note": "Contiene alcaloides pirrolizidínicos; la ingestión puede causar daño hepático en humanos y mascotas con el tiempo.",
+            "symptoms": [
+              "Náuseas.",
+              "Vómitos.",
+              "Daño hepático."
+            ]
+          },
+          "dog": {
+            "exposure": "Ingerir cualquier parte de la planta.",
+            "effect": "Vómitos, diarrea y daño hepático.",
+            "note": "Contiene alcaloides pirrolizidínicos; la ingestión puede causar daño hepático en humanos y mascotas con el tiempo.",
+            "symptoms": [
+              "Vómitos.",
+              "Diarrea.",
+              "Daño hepático."
+            ]
+          },
+          "cat": {
+            "exposure": "Ingerir cualquier parte de la planta.",
+            "effect": "Vómitos, diarrea y daño hepático.",
+            "note": "Contiene alcaloides pirrolizidínicos; la ingestión puede causar daño hepático en humanos y mascotas con el tiempo.",
+            "symptoms": [
+              "Vómitos.",
+              "Diarrea.",
+              "Daño hepático."
+            ]
           }
         }
       }

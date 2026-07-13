@@ -3,8 +3,8 @@
   "locale": "it",
   "source": {
     "resource": "plants_detail.json",
-    "sha256": "915bda074c33f0957177bacbe28916284091158ff02de7107fd0f2260ce96243",
-    "record_count": 1632
+    "sha256": "91cc1fdc5e6d29e18ff37e53eb43dca173a96fcb5e82c9805f6215a20c0ab965",
+    "record_count": 1633
   },
   "records": {
     "AAA0001": {
@@ -100214,6 +100214,71 @@
             "exposure": "Non è segnalata alcuna via di esposizione.",
             "effect": "Non è segnalato alcun effetto tossico.",
             "note": "In questo catalogo non è segnalata tossicità per i gatti; ciò non prova che la pianta sia commestibile o innocua."
+          }
+        }
+      }
+    },
+    "AAA1634": {
+      "source_hash": "08e81e5d5a95c1ba110d3cec924fd2cb8810f72fb2eb70ef988fab90303c56fe",
+      "fields": {
+        "common_name": "Senecio Ali d'Angelo",
+        "description": "Il Senecio Ali d'Angelo è apprezzato per le sue foglie tomentose, bianco argentate, profondamente lobate come ali spolverate di brina. Originario delle coste ventose del Cile e dell'Argentina, questo arbusto compatto forma cespi densi alti da 30 a 90 cm, il cui fogliame cattura la luce con una lucentezza morbida e vellutata. In estate, piccoli grappoli di fiori gialli simili a margherite si alzano sopra le foglie, anche se molti giardinieri lo coltivano soprattutto per il suo fogliame appariscente. Prospera in terreno ben drenato e in pieno sole, tollera la spruzzata salina costiera e brevi periodi di siccità, rendendolo protagonista in giardini costieri, vasi e bordure miste.",
+        "history_text_short": "Chiamato così per le sue foglie tomentose di un bianco brillante, questo Senecio cresce spontaneo sulle coste ventose del Cile, dove una fitta peluria riflette il sole e trattiene l'umidità. Nel 2010 un vivaista cileno notò una plantula insolitamente argentata e la propagò, dando origine alla ormai famosa cultivar Angel Wings, oggi coltivata nei giardini di tutto il mondo.",
+        "history_text_long": "Il nome del genere Senecio deriva dal latino senex, 'vecchio', in riferimento ai ciuffi di semi bianchi e filamentosi che in molte specie seguono i fiori. L'epiteto candidans, da candidus, 'bianco splendente', descrive qualcosa di più immediato: la fitta peluria tomentosa che ricopre le larghe foglie a forma d'ala di questa pianta, dando loro un bagliore argenteo, quasi luminoso. Entrambi i nomi rimandano alla stessa strategia adattativa. Sulle coste ventose del Cile e dell'Argentina, dove questa pianta cresce spontanea tra dune rocciose e scogliere spruzzate di sale, quella fine peluria bianca riflette il sole intenso e rallenta la perdita di umidità, permettendole di prosperare dove poche altre piante riescono a farlo. I botanici europei la catalogarono per la prima volta negli anni '30 dell'Ottocento, sulla base di esemplari d'erbario raccolti lungo la costa cilena, parte di un'ondata di esplorazione botanica sudamericana che riempì giardini e musei europei di forme nuove e sconosciute. La specie rimase una curiosità botanica per oltre un secolo, apprezzata soprattutto dai collezionisti, finché nel 2010 il vivaista cileno Matías Avendaño, della Floricultura Novazel di Puerto Montt, notò tra un lotto a impollinazione libera una plantula particolarmente compatta dalle foglie argentate. La propagò, e nel 2017 fu brevettata come 'Senaw', venduta in tutto il mondo con il nome commerciale Angel Wings. Ciò che iniziò come un camuffamento costiero contro il vento è diventato una delle piante da fogliame più riconoscibili nel giardinaggio in vaso moderno.",
+        "name_origin": "Senecio: dal latino senex, 'vecchio', per i ciuffi di semi bianchi e filamentosi comuni al genere. candidans (da candidus, 'bianco splendente'): descrive le foglie densamente tomentose e bianco argentate di questa specie.",
+        "symbolism_story": "Radicato nelle scogliere spruzzate di sale della Patagonia, il Senecio Ali d'Angelo rappresenta da tempo la resilienza — una pianta che trasforma una dura esposizione costiera in un vantaggio, con il suo denso feltro bianco che riflette il sole e resiste agli spruzzi salini. Lo stesso rivestimento le conferisce un bagliore quasi luminoso, foglie che catturano la luce come argento spazzolato. Insieme, questi tratti l'hanno resa un emblema silenzioso della prosperità nell'avversità: una pianta che sembra delicata ma si rivela sorprendentemente resistente.",
+        "flower_meaning": "Resilienza",
+        "uses_list": [
+          {
+            "text": "Coltivato soprattutto per il suo fogliame tomentoso bianco argentato, un accento notevole in vasi, aiuole costiere e bordure miste."
+          },
+          {
+            "text": "In estate, grappoli di piccoli fiori gialli simili a margherite attirano api e altri impollinatori."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Resilienza",
+            "description": "prospera negli spruzzi salini e nel vento costiero dove poche altre piante sopravvivono"
+          },
+          {
+            "keyword": "Splendore",
+            "description": "foglie tomentose bianco argentate che sembrano brillare in pieno sole"
+          }
+        ],
+        "toxicity": {
+          "headline": "Umani Moderato · Animali domestici Moderato",
+          "active_compound_display": "alcaloidi pirrolizidinici",
+          "notes_en": "Contiene alcaloidi pirrolizidinici; l'ingestione può causare danni al fegato in esseri umani e animali domestici nel tempo.",
+          "human": {
+            "exposure": "Ingestione di qualsiasi parte della pianta.",
+            "effect": "Nausea, vomito e danni al fegato.",
+            "note": "Contiene alcaloidi pirrolizidinici; l'ingestione può causare danni al fegato in esseri umani e animali domestici nel tempo.",
+            "symptoms": [
+              "Nausea.",
+              "Vomito.",
+              "Danni al fegato."
+            ]
+          },
+          "dog": {
+            "exposure": "Ingestione di qualsiasi parte della pianta.",
+            "effect": "Vomito, diarrea e danni al fegato.",
+            "note": "Contiene alcaloidi pirrolizidinici; l'ingestione può causare danni al fegato in esseri umani e animali domestici nel tempo.",
+            "symptoms": [
+              "Vomito.",
+              "Diarrea.",
+              "Danni al fegato."
+            ]
+          },
+          "cat": {
+            "exposure": "Ingestione di qualsiasi parte della pianta.",
+            "effect": "Vomito, diarrea e danni al fegato.",
+            "note": "Contiene alcaloidi pirrolizidinici; l'ingestione può causare danni al fegato in esseri umani e animali domestici nel tempo.",
+            "symptoms": [
+              "Vomito.",
+              "Diarrea.",
+              "Danni al fegato."
+            ]
           }
         }
       }

@@ -3,8 +3,8 @@
   "locale": "de",
   "source": {
     "resource": "plants_detail.json",
-    "sha256": "915bda074c33f0957177bacbe28916284091158ff02de7107fd0f2260ce96243",
-    "record_count": 1632
+    "sha256": "91cc1fdc5e6d29e18ff37e53eb43dca173a96fcb5e82c9805f6215a20c0ab965",
+    "record_count": 1633
   },
   "records": {
     "AAA0001": {
@@ -100200,6 +100200,71 @@
             "exposure": "Es ist kein Expositionsweg gemeldet.",
             "effect": "Es ist keine toxische Wirkung gemeldet.",
             "note": "In diesem Katalog ist keine Toxizität für Katzen gemeldet; dies ist kein Beleg dafür, dass die Pflanze essbar oder unbedenklich ist."
+          }
+        }
+      }
+    },
+    "AAA1634": {
+      "source_hash": "08e81e5d5a95c1ba110d3cec924fd2cb8810f72fb2eb70ef988fab90303c56fe",
+      "fields": {
+        "common_name": "Engelsflügel-Greiskraut",
+        "description": "Das Engelsflügel-Greiskraut wird für seine filzigen, silberweißen Blätter geschätzt, tief gelappt wie mit Reif bestäubte Flügel. Es stammt von den windgepeitschten Küsten Chiles und Argentiniens und bildet als kompakter Strauch dichte, 30 bis 90 cm hohe Horste, deren Laub das Licht mit einem weichen, samtigen Schimmer einfängt. Im Sommer erheben sich über den Blättern Büschel kleiner, gelber, gänseblümchenartiger Blüten, auch wenn viele Gärtner die Pflanze vor allem wegen ihres auffälligen Laubs anbauen. In durchlässigem Boden und voller Sonne gedeiht sie prächtig, verträgt Salzsprühnebel an der Küste und kurze Trockenperioden und setzt so in Küstengärten, Kübeln und gemischten Rabatten einen markanten Akzent.",
+        "history_text_short": "Benannt nach seinen glänzend weißen, filzigen Blättern wächst dieses Greiskraut wild an windgepeitschten Küsten Chiles, wo feine Härchen die Sonne reflektieren und Feuchtigkeit speichern. 2010 entdeckte ein chilenischer Gärtner einen ungewöhnlich silbrigen Sämling und vermehrte ihn – der Beginn der heute weltberühmten Sorte 'Angel Wings'.",
+        "history_text_long": "Der Gattungsname Senecio stammt vom lateinischen senex, 'alter Mann', eine Anspielung auf die weißen, haarartigen Samenbüschel, die bei vielen Arten der Gattung auf die Blüten folgen. Das Artepitheton candidans, von candidus, 'strahlend weiß', beschreibt etwas Unmittelbareres: die dichten, filzigen Härchen, die die breiten, flügelförmigen Blätter dieser Pflanze bedecken und ihnen einen silbrigen, fast leuchtenden Glanz verleihen. Beide Namen verweisen auf dieselbe Anpassung. An den windumtosten Küsten Chiles und Argentiniens, wo diese Pflanze wild zwischen felsigen Dünen und salzbesprühten Klippen wächst, reflektiert dieser feine weiße Flaum intensives Sonnenlicht und verlangsamt den Feuchtigkeitsverlust – so gedeiht sie, wo kaum etwas anderes bestehen kann. Europäische Botaniker katalogisierten sie erstmals in den 1830er-Jahren anhand von Herbarbelegen von der chilenischen Küste, Teil einer Welle südamerikanischer Pflanzenerkundung, die Europas Gärten und Museen mit unbekannten neuen Formen füllte. Über ein Jahrhundert blieb die Art eine botanische Kuriosität, vor allem bei Sammlern geschätzt, bis 2010 der chilenische Gärtner Matías Avendaño von Floricultura Novazel in Puerto Montt unter einer offen bestäubten Aussaat einen besonders kompakten, silberblättrigen Sämling entdeckte. Er vermehrte ihn, und 2017 wurde er als 'Senaw' patentiert und weltweit unter dem Handelsnamen Angel Wings verkauft. Was als windgepeitschte Küstentarnung begann, wurde zu einer der bekanntesten Blattschmuckpflanzen im modernen Kübelgarten.",
+        "name_origin": "Senecio: vom lateinischen senex, 'alter Mann', nach den weißen, haarartigen Samenbüscheln, die für die Gattung typisch sind. candidans (von candidus, 'strahlend weiß'): beschreibt die dicht filzigen, silberweißen Blätter dieser Art.",
+        "symbolism_story": "Verwurzelt in den salzumtosten Klippen Patagoniens, steht das Engelsflügel-Greiskraut seit Langem für Widerstandskraft – eine Pflanze, die extreme Küstenlagen in einen Vorteil verwandelt, ihr dichter weißer Filz reflektiert die Sonne und trotzt der Gischt. Derselbe Belag verleiht ihr eine fast leuchtende Strahlkraft, Blätter, die das Licht wie gebürstetes Silber einfangen. Zusammen machen diese Eigenschaften sie zu einem stillen Sinnbild des Gedeihens unter widrigen Umständen: eine Pflanze, die zerbrechlich wirkt, sich aber als bemerkenswert widerstandsfähig erweist.",
+        "flower_meaning": "Widerstandskraft",
+        "uses_list": [
+          {
+            "text": "Wird vor allem wegen seines filzigen, silberweißen Laubs kultiviert – ein markanter Akzent in Kübeln, Küstenbeeten und gemischten Rabatten."
+          },
+          {
+            "text": "Im Sommer ziehen Büschel kleiner, gelber, gänseblümchenartiger Blüten Bienen und andere Bestäuber an."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Widerstandskraft",
+            "description": "gedeiht in Salzgischt und Küstenwind, wo kaum etwas anderes überlebt"
+          },
+          {
+            "keyword": "Strahlkraft",
+            "description": "filzige, silberweiße Blätter, die in voller Sonne zu leuchten scheinen"
+          }
+        ],
+        "toxicity": {
+          "headline": "Menschen Mäßig · Haustiere Mäßig",
+          "active_compound_display": "Pyrrolizidinalkaloide",
+          "notes_en": "Enthält Pyrrolizidinalkaloide; der Verzehr kann bei Menschen und Haustieren mit der Zeit Leberschäden verursachen.",
+          "human": {
+            "exposure": "Verzehr eines beliebigen Pflanzenteils.",
+            "effect": "Übelkeit, Erbrechen und Leberschäden.",
+            "note": "Enthält Pyrrolizidinalkaloide; der Verzehr kann bei Menschen und Haustieren mit der Zeit Leberschäden verursachen.",
+            "symptoms": [
+              "Übelkeit.",
+              "Erbrechen.",
+              "Leberschäden."
+            ]
+          },
+          "dog": {
+            "exposure": "Verzehr eines beliebigen Pflanzenteils.",
+            "effect": "Erbrechen, Durchfall und Leberschäden.",
+            "note": "Enthält Pyrrolizidinalkaloide; der Verzehr kann bei Menschen und Haustieren mit der Zeit Leberschäden verursachen.",
+            "symptoms": [
+              "Erbrechen.",
+              "Durchfall.",
+              "Leberschäden."
+            ]
+          },
+          "cat": {
+            "exposure": "Verzehr eines beliebigen Pflanzenteils.",
+            "effect": "Erbrechen, Durchfall und Leberschäden.",
+            "note": "Enthält Pyrrolizidinalkaloide; der Verzehr kann bei Menschen und Haustieren mit der Zeit Leberschäden verursachen.",
+            "symptoms": [
+              "Erbrechen.",
+              "Durchfall.",
+              "Leberschäden."
+            ]
           }
         }
       }

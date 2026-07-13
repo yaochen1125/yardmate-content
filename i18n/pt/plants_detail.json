@@ -3,8 +3,8 @@
   "locale": "pt",
   "source": {
     "resource": "plants_detail.json",
-    "sha256": "915bda074c33f0957177bacbe28916284091158ff02de7107fd0f2260ce96243",
-    "record_count": 1632
+    "sha256": "91cc1fdc5e6d29e18ff37e53eb43dca173a96fcb5e82c9805f6215a20c0ab965",
+    "record_count": 1633
   },
   "records": {
     "AAA0001": {
@@ -100214,6 +100214,71 @@
             "exposure": "Nenhuma via de exposição é relatada.",
             "effect": "Nenhum efeito tóxico é relatado.",
             "note": "Nenhuma toxicidade é relatada para gatos neste catálogo; isso não é evidência de que a planta seja comestível ou inofensiva."
+          }
+        }
+      }
+    },
+    "AAA1634": {
+      "source_hash": "08e81e5d5a95c1ba110d3cec924fd2cb8810f72fb2eb70ef988fab90303c56fe",
+      "fields": {
+        "common_name": "Senecio Asas de Anjo",
+        "description": "O Senecio Asas de Anjo é apreciado por suas folhas aveludadas, branco-prateadas, profundamente lobadas como asas cobertas de geada. Nativo das costas varridas pelo vento do Chile e da Argentina, este arbusto compacto forma touceiras densas de 30 a 90 cm de altura, cuja folhagem capta a luz com um brilho suave e aveludado. No verão, pequenos cachos de flores amarelas semelhantes a margaridas surgem acima das folhas, embora muitos jardineiros o cultivem principalmente por sua folhagem marcante. Prosperando em solo bem drenado e sob sol pleno, tolera a maresia costeira e curtos períodos de seca, tornando-se um destaque em jardins litorâneos, vasos e canteiros mistos.",
+        "history_text_short": "Batizado por suas folhas aveludadas de um branco brilhante, este Senecio cresce silvestre nas costas varridas pelo vento do Chile, onde pelos finos refletem o sol e retêm a umidade. Em 2010, um viveirista chileno encontrou uma muda incomumente prateada e a propagou, dando origem à hoje famosa cultivar Angel Wings, cultivada em jardins ao redor do mundo.",
+        "history_text_long": "O nome do gênero Senecio vem do latim senex, 'velho', em referência aos tufos de sementes brancas e filamentosas que sucedem as flores em muitas espécies. O epíteto candidans, de candidus, 'branco brilhante', descreve algo mais imediato: os densos pelos aveludados que cobrem as largas folhas em forma de asa desta planta, dando-lhes um brilho prateado, quase luminoso. Ambos os nomes apontam para a mesma adaptação. Nas costas varridas pelo vento do Chile e da Argentina, onde esta planta cresce silvestre entre dunas rochosas e falésias salpicadas de sal, essa fina penugem branca reflete o sol intenso e reduz a perda de umidade, permitindo-lhe prosperar onde poucas outras plantas conseguem. Botânicos europeus a catalogaram pela primeira vez na década de 1830, a partir de espécimes de herbário coletados na costa chilena, parte de uma onda de exploração botânica sul-americana que encheu jardins e museus europeus com formas novas e desconhecidas. A espécie permaneceu uma curiosidade botânica por mais de um século, apreciada sobretudo por colecionadores, até que em 2010 o viveirista chileno Matías Avendaño, da Floricultura Novazel em Puerto Montt, notou entre um lote de polinização aberta uma muda especialmente compacta e de folhas prateadas. Ele a propagou, e em 2017 ela foi patenteada como 'Senaw', vendida no mundo todo sob o nome comercial Angel Wings. O que começou como uma camuflagem costeira contra o vento tornou-se uma das plantas de folhagem mais reconhecíveis da jardinagem em vasos moderna.",
+        "name_origin": "Senecio: do latim senex, 'velho', pelos tufos de sementes brancas e filamentosas comuns ao gênero. candidans (de candidus, 'branco brilhante'): descreve as folhas densamente aveludadas e branco-prateadas desta espécie.",
+        "symbolism_story": "Enraizado nos penhascos batidos pelo sal da Patagônia, o Senecio Asas de Anjo há muito simboliza a resiliência — uma planta que transforma a dura exposição costeira em vantagem, com seu denso feltro branco refletindo o sol e resistindo à maresia. Esse mesmo revestimento lhe dá um brilho quase luminoso, folhas que capturam a luz como prata escovada. Juntas, essas características a tornaram um emblema silencioso de prosperar na adversidade: uma planta que parece delicada, mas se revela notavelmente resistente.",
+        "flower_meaning": "Resiliência",
+        "uses_list": [
+          {
+            "text": "Cultivado sobretudo por sua folhagem aveludada branco-prateada, um destaque marcante em vasos, canteiros costeiros e bordaduras mistas."
+          },
+          {
+            "text": "No verão, cachos de pequenas flores amarelas semelhantes a margaridas atraem abelhas e outros polinizadores."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Resiliência",
+            "description": "prospera na maresia e no vento costeiro onde poucas outras plantas sobrevivem"
+          },
+          {
+            "keyword": "Brilho",
+            "description": "folhas aveludadas branco-prateadas que parecem brilhar sob sol pleno"
+          }
+        ],
+        "toxicity": {
+          "headline": "Humanos Moderado · Animais de estimação Moderado",
+          "active_compound_display": "alcaloides pirrolizidínicos",
+          "notes_en": "Contém alcaloides pirrolizidínicos; a ingestão pode causar danos hepáticos em humanos e animais de estimação ao longo do tempo.",
+          "human": {
+            "exposure": "Ingestão de qualquer parte da planta.",
+            "effect": "Náusea, vômito e danos hepáticos.",
+            "note": "Contém alcaloides pirrolizidínicos; a ingestão pode causar danos hepáticos em humanos e animais de estimação ao longo do tempo.",
+            "symptoms": [
+              "Náusea.",
+              "Vômito.",
+              "Danos hepáticos."
+            ]
+          },
+          "dog": {
+            "exposure": "Ingestão de qualquer parte da planta.",
+            "effect": "Vômito, diarreia e danos hepáticos.",
+            "note": "Contém alcaloides pirrolizidínicos; a ingestão pode causar danos hepáticos em humanos e animais de estimação ao longo do tempo.",
+            "symptoms": [
+              "Vômito.",
+              "Diarreia.",
+              "Danos hepáticos."
+            ]
+          },
+          "cat": {
+            "exposure": "Ingestão de qualquer parte da planta.",
+            "effect": "Vômito, diarreia e danos hepáticos.",
+            "note": "Contém alcaloides pirrolizidínicos; a ingestão pode causar danos hepáticos em humanos e animais de estimação ao longo do tempo.",
+            "symptoms": [
+              "Vômito.",
+              "Diarreia.",
+              "Danos hepáticos."
+            ]
           }
         }
       }

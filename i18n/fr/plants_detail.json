@@ -3,8 +3,8 @@
   "locale": "fr",
   "source": {
     "resource": "plants_detail.json",
-    "sha256": "915bda074c33f0957177bacbe28916284091158ff02de7107fd0f2260ce96243",
-    "record_count": 1632
+    "sha256": "91cc1fdc5e6d29e18ff37e53eb43dca173a96fcb5e82c9805f6215a20c0ab965",
+    "record_count": 1633
   },
   "records": {
     "AAA0001": {
@@ -100200,6 +100200,71 @@
             "exposure": "Aucune voie d'exposition n'est signalée.",
             "effect": "Aucun effet toxique n'est signalé.",
             "note": "Aucune toxicité n'est signalée pour les chats dans ce catalogue ; ce n'est pas une preuve que la plante est comestible ou inoffensive."
+          }
+        }
+      }
+    },
+    "AAA1634": {
+      "source_hash": "08e81e5d5a95c1ba110d3cec924fd2cb8810f72fb2eb70ef988fab90303c56fe",
+      "fields": {
+        "common_name": "Séneçon Ailes d'Ange",
+        "description": "Le Séneçon Ailes d'Ange est apprécié pour son feuillage feutré, blanc argenté, profondément lobé comme des ailes saupoudrées de givre. Originaire des côtes venteuses du Chili et d'Argentine, cet arbuste compact forme des touffes denses de 30 à 90 cm de haut, son feuillage captant la lumière avec un éclat doux et velouté. En été, de petits bouquets de fleurs jaunes semblables à des marguerites s'élèvent au-dessus des feuilles, bien que de nombreux jardiniers le cultivent surtout pour son feuillage spectaculaire. Prospérant en sol bien drainé et en plein soleil, il tolère les embruns salés côtiers et de courtes périodes de sécheresse, ce qui en fait une plante remarquable dans les jardins côtiers, les pots et les massifs mixtes.",
+        "history_text_short": "Nommé pour son feuillage feutré d'un blanc éclatant, ce Séneçon pousse à l'état sauvage sur les côtes venteuses du Chili, où de fins poils reflètent le soleil et retiennent l'humidité. En 2010, un pépiniériste chilien a repéré un semis inhabituellement argenté et l'a multiplié, donnant naissance au célèbre cultivar Angel Wings, aujourd'hui cultivé dans le monde entier.",
+        "history_text_long": "Le nom de genre Senecio vient du latin senex, 'vieil homme', en référence aux touffes de graines blanches et filamenteuses qui succèdent aux fleurs chez de nombreuses espèces. L'épithète candidans, de candidus, 'blanc éclatant', décrit quelque chose de plus immédiat : les poils feutrés et denses qui recouvrent les larges feuilles en forme d'aile de cette plante, leur donnant un éclat argenté, presque lumineux. Les deux noms renvoient à la même adaptation. Sur les côtes balayées par le vent du Chili et d'Argentine, où cette plante pousse à l'état sauvage parmi les dunes rocheuses et les falaises exposées aux embruns salés, ce fin duvet blanc réfléchit le soleil intense et ralentit la perte d'humidité, lui permettant de prospérer là où peu d'autres plantes le peuvent. Les botanistes européens l'ont cataloguée pour la première fois dans les années 1830, à partir de spécimens d'herbier récoltés sur la côte chilienne, dans le cadre d'une vague d'exploration botanique sud-américaine qui a rempli les jardins et musées d'Europe de formes nouvelles et inconnues. L'espèce est restée une curiosité botanique pendant plus d'un siècle, appréciée surtout des collectionneurs, jusqu'en 2010, lorsque le pépiniériste chilien Matías Avendaño, de Floricultura Novazel à Puerto Montt, a repéré, parmi un lot issu de pollinisation libre, un semis particulièrement compact aux feuilles argentées. Il l'a multiplié, et en 2017 il a été breveté sous le nom 'Senaw', vendu dans le monde entier sous le nom commercial Angel Wings. Ce qui a commencé comme un camouflage côtier contre le vent est devenu l'une des plantes à feuillage les plus reconnaissables de la culture en pot moderne.",
+        "name_origin": "Senecio : du latin senex, 'vieil homme', pour les touffes de graines blanches et filamenteuses communes à ce genre. candidans (de candidus, 'blanc éclatant') : décrit les feuilles densément feutrées et blanc argenté de cette espèce.",
+        "symbolism_story": "Enraciné dans les falaises balayées par le sel de Patagonie, le Séneçon Ailes d'Ange symbolise depuis longtemps la résilience — une plante qui transforme une exposition côtière rude en atout, son épais feutre blanc reflétant le soleil et résistant aux embruns. Ce même revêtement lui confère un éclat presque lumineux, des feuilles qui captent la lumière comme de l'argent brossé. Ensemble, ces traits en ont fait un emblème discret de la prospérité dans l'adversité : une plante qui paraît délicate mais se révèle remarquablement résistante.",
+        "flower_meaning": "Résilience",
+        "uses_list": [
+          {
+            "text": "Cultivé surtout pour son feuillage feutré blanc argenté, un accent remarquable dans les pots, les massifs côtiers et les bordures mixtes."
+          },
+          {
+            "text": "En été, des bouquets de petites fleurs jaunes semblables à des marguerites attirent les abeilles et autres pollinisateurs."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Résilience",
+            "description": "prospère dans les embruns salés et le vent côtier là où peu d'autres plantes survivent"
+          },
+          {
+            "keyword": "Éclat",
+            "description": "feuilles feutrées blanc argenté qui semblent briller en plein soleil"
+          }
+        ],
+        "toxicity": {
+          "headline": "Humains Modéré · Animaux Modéré",
+          "active_compound_display": "alcaloïdes pyrrolizidiniques",
+          "notes_en": "Contient des alcaloïdes pyrrolizidiniques ; l'ingestion peut provoquer des lésions hépatiques chez l'humain et les animaux domestiques avec le temps.",
+          "human": {
+            "exposure": "Ingestion de n'importe quelle partie de la plante.",
+            "effect": "Nausées, vomissements et lésions hépatiques.",
+            "note": "Contient des alcaloïdes pyrrolizidiniques ; l'ingestion peut provoquer des lésions hépatiques chez l'humain et les animaux domestiques avec le temps.",
+            "symptoms": [
+              "Nausées.",
+              "Vomissements.",
+              "Lésions hépatiques."
+            ]
+          },
+          "dog": {
+            "exposure": "Ingestion de n'importe quelle partie de la plante.",
+            "effect": "Vomissements, diarrhée et lésions hépatiques.",
+            "note": "Contient des alcaloïdes pyrrolizidiniques ; l'ingestion peut provoquer des lésions hépatiques chez l'humain et les animaux domestiques avec le temps.",
+            "symptoms": [
+              "Vomissements.",
+              "Diarrhée.",
+              "Lésions hépatiques."
+            ]
+          },
+          "cat": {
+            "exposure": "Ingestion de n'importe quelle partie de la plante.",
+            "effect": "Vomissements, diarrhée et lésions hépatiques.",
+            "note": "Contient des alcaloïdes pyrrolizidiniques ; l'ingestion peut provoquer des lésions hépatiques chez l'humain et les animaux domestiques avec le temps.",
+            "symptoms": [
+              "Vomissements.",
+              "Diarrhée.",
+              "Lésions hépatiques."
+            ]
           }
         }
       }
