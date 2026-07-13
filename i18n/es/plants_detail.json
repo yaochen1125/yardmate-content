@@ -3,8 +3,8 @@
   "locale": "es",
   "source": {
     "resource": "plants_detail.json",
-    "sha256": "91cc1fdc5e6d29e18ff37e53eb43dca173a96fcb5e82c9805f6215a20c0ab965",
-    "record_count": 1633
+    "sha256": "5ac6f1e9a74fcadcfc125079507c522e17e89a9bc4e99e4186ac02a3a1bd8936",
+    "record_count": 1643
   },
   "records": {
     "AAA0001": {
@@ -100278,6 +100278,597 @@
               "Vómitos.",
               "Diarrea.",
               "Daño hepático."
+            ]
+          }
+        }
+      }
+    },
+    "AAA1635": {
+      "source_hash": "65ed4eec0803d04d993e1b6c90b005eb3ab22cd6fb80e84c23356f40c68dac33",
+      "fields": {
+        "common_name": "Pata de Oso",
+        "bloom_tip": "Esta planta florece en primavera, con flores vibrantes que atraen a muchos colibríes.",
+        "fruit_tip": "El fruto forma pequeñas cápsulas secas en forma de estrella; no es comestible y conviene mantener la planta alejada de niños y mascotas.",
+        "description": "La Pata de Oso (Cotyledon tomentosa) es una suculenta compacta y arbustiva originaria de las laderas semiáridas de las provincias del Cabo en Sudáfrica. Sus hojas verdes, gruesas y afelpadas están suavemente cubiertas de vello y bordeadas de dientes rojizos, lo que le da a cada hoja el aspecto de una pequeña garra. De crecimiento lento y fácil cuidado, la Pata de Oso forma tallos ramificados y compactos rematados en rosetas que se mantienen ordenados en maceta, siendo una suculenta de alféizar muy apreciada. A finales del invierno y en primavera, tallos florales altos se elevan sobre el follaje portando racimos de flores colgantes, acampanadas, de color naranja-rojizo, que atraen a aves nectarívoras y abejas.",
+        "history_text_short": "En las áridas laderas del Cabo, en Sudáfrica, la Pata de Oso sobrevive almacenando agua en hojas gruesas y afelpadas cuyas puntas rojizas y dentadas recuerdan pequeñas garras. Los granjeros del Cabo antes vigilaban a su ganado cerca de ella, ya que las plantas de Cotyledon contienen toxinas vinculadas al krimpsiekte. Ese aspecto peludo y con garras la convierte hoy en una querida suculenta de interior.",
+        "history_text_long": "Mucho antes de convertirse en un elemento habitual de las colecciones de suculentas de todo el mundo, la Pata de Oso crecía discretamente en las laderas rocosas y soleadas de las provincias del Cabo en Sudáfrica, una más entre las numerosas plantas de hojas carnosas adaptadas a las largas temporadas secas de la región. Los botánicos europeos que recolectaban en el Cabo durante los siglos XVIII y XIX quedaron fascinados por las hojas gruesas y afelpadas de la planta y sus puntas dentadas, una textura poco frecuente en la flora suculenta de la época; el epíteto tomentosa, del latín para densamente velloso, fue elegido precisamente para describir esto. Los granjeros del Cabo que pastaban cabras y ovejas cerca de estas laderas aprendieron a vigilar cuidadosamente a su ganado, pues las especies de Cotyledon, entre ellas la Pata de Oso, contienen amargos glucósidos cardíacos responsables del krimpsiekte, o enfermedad del encogimiento, una dolencia debilitante que periódicamente afectaba al ganado del Karoo. Esa misma toxicidad, irónicamente, ayudó a la planta a sobrevivir sin ser devorada por completo, permitiendo que persistieran poblaciones densas y saludables para que los primeros coleccionistas las documentaran. Ya en el siglo XX, la Pata de Oso había dejado atrás el Cabo, propagada en jardines botánicos y viveros de Europa y Norteamérica, apreciada menos por su peligro que por su encanto: sus hojas afelpadas y con puntas en forma de garra la convirtieron en una favorita instantánea entre los cultivadores de suculentas de alféizar, que hasta hoy intercambian esquejes.",
+        "name_origin": "El nombre del género Cotyledon proviene del griego kotyledon, una cavidad en forma de copa, en referencia a las bases cóncavas de las hojas de algunas especies del grupo. El epíteto de la especie, tomentosa, es latín para densamente velloso o lanoso, y describe el fino fieltro que cubre las hojas, una textura que también inspiró el nombre común Pata de Oso.",
+        "symbolism_story": "En los círculos de cultivadores de suculentas, la Pata de Oso ha llegado a simbolizar una resiliencia silenciosa: una planta que sobrevive en terrenos duros y rocosos volcando sus defensas hacia adentro, almacenando agua y toxinas en lugar de crecer vistosa o rápidamente. Las puntas de sus hojas en forma de garra suelen interpretarse como un pequeño emblema de fuerza protectora, un recordatorio de que la resistencia puede disfrazarse de algo suave y peludo.",
+        "flower_meaning": "Fuerza Protectora",
+        "uses_list": [
+          {
+            "text": "Se cultiva por sus hojas afelpadas y con puntas en forma de garra como una suculenta ornamental llamativa en alféizares, patios y jardines de rocas."
+          },
+          {
+            "text": "Sus flores tubulares de color naranja-rojizo en primavera atraen a aves nectarívoras y abejas en su área nativa de Sudáfrica."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Fuerza Protectora",
+            "description": "Las puntas endurecidas y en forma de garra de sus hojas evocan una pequeña pata lista para defenderse, simbolizando una resiliencia silenciosa ante condiciones adversas."
+          },
+          {
+            "keyword": "Resistencia",
+            "description": "Al prosperar en suelos delgados y pedregosos del Cabo durante largas temporadas secas, la planta representa una supervivencia constante más que un crecimiento vistoso."
+          }
+        ],
+        "toxicity": {
+          "headline": "Toxicidad desconocida",
+          "active_compound_display": "Ninguno reportado",
+          "notes_en": "No se encontró una coincidencia de toxicidad autorizada; se trata como no reportado (la estimación del LLM no está verificada por fuentes).",
+          "human": {
+            "exposure": "No se reporta vía de exposición.",
+            "effect": "No se reporta efecto tóxico.",
+            "note": "La toxicidad para humanos no está bien documentada; usar precaución hasta que se verifique."
+          },
+          "dog": {
+            "exposure": "No se reporta vía de exposición.",
+            "effect": "No se reporta efecto tóxico.",
+            "note": "La toxicidad para perros no está bien documentada; usar precaución hasta que se verifique."
+          },
+          "cat": {
+            "exposure": "No se reporta vía de exposición.",
+            "effect": "No se reporta efecto tóxico.",
+            "note": "La toxicidad para gatos no está bien documentada; usar precaución hasta que se verifique."
+          }
+        }
+      }
+    },
+    "AAA1636": {
+      "source_hash": "9cc6c391e4068a585790ef7c5d632f49e9a1954f320abd0d703012e706032f97",
+      "fields": {
+        "common_name": "Euforbia mirsinites",
+        "bloom_tip": "Esta planta florece en verano, con un período de floración prolongado.",
+        "fruit_tip": "Los frutos tienen un aspecto distintivo que llama la atención.",
+        "description": "La Euforbia mirsinites (Euphorbia myrsinites) es una suculenta baja y rastrera originaria del Mediterráneo y el sur de Europa, apreciada en jardines de rocalla y xerojardinería por sus hojas carnosas, verdiazuladas y dispuestas en espiral, que se enroscan apretadamente en torno a tallos gruesos y extendidos. En primavera, ciatios de color amarillo verdoso coronan cada tallo en racimos densos y vistosos que perduran varias semanas. Extremadamente tolerante a la sequía y perenne, la Euforbia mirsinites prospera en suelos pobres y bien drenados con un cuidado mínimo. Sin embargo, se autosiembra de forma agresiva y está oficialmente catalogada como mala hierba nociva en Colorado, Oregón y otros estados del oeste de EE. UU., por lo que los jardineros de esas zonas deberían elegir con cuidado dónde plantarla o evitarla directamente. Su savia lechosa puede irritar la piel y los ojos al contacto.",
+        "history_text_short": "Cultivada desde antiguo en jardines de rocalla mediterráneos por su follaje rastrero verdiazulado y sus flores primaverales amarillo verdosas, la Euforbia mirsinites se convirtió en una planta popular de xerojardinería en el oeste de EE. UU. Su agresiva autosiembra le permitió escapar de los jardines, y hoy figura como mala hierba nociva en Colorado y Oregón, donde voluntarios organizan cada primavera jornadas de arranque manual para retirarla de los pastizales nativos antes de que se siembre.",
+        "history_text_long": "La Euforbia mirsinites ha crecido de forma silvestre en laderas pedregosas y linderos de bosques abiertos de la cuenca mediterránea y el sureste de Europa durante milenios; sus tallos rastreros y verdiazulados están adaptados para aferrarse a laderas rocosas y abrasadas por el sol donde apenas sobrevive otra cosa. Los jardineros europeos la cultivan desde al menos el siglo XVII como planta de borde y de rocalla, valorada por cómo su follaje suculento dispuesto en espiral y sus brácteas primaverales de un amarillo intenso suavizan muros de piedra y arriates de grava con casi nada de agua ni cuidados.\n\nEsa misma resistencia la llevó al otro lado del Atlántico. Introducida en viveros norteamericanos en el siglo XX como ornamental para jardines secos, la Euforbia mirsinites se plantó ampliamente a lo largo del Front Range de Colorado y en zonas de Oregón y Utah, apreciada por los jardineros xérofilos precisamente por los rasgos que la hacían útil en su lugar de origen. Pero esos mismos rasgos le permitieron escapar del jardín: cada inflorescencia agotada puede lanzar semillas varios metros, y la planta coloniza terrenos áridos alterados más deprisa de lo que pueden competir las gramíneas y flores silvestres autóctonas. Hacia principios de la década de 2000 ya se había extendido por los espacios abiertos de las estribaciones cerca de Boulder y más allá, y tanto Colorado como Oregón la catalogaron oficialmente como mala hierba nociva, restringiendo por ley su venta y plantación.\n\nLa respuesta se convirtió en una tradición local propia: el personal de espacios abiertos y equipos de voluntarios celebran hoy jornadas anuales de arranque, recorriendo laderas infestadas cada primavera para desenterrar las plantas a mano antes de que suelten semilla, siempre con guantes, ya que la savia lechosa provoca ampollas en la piel. Una planta de jardín nacida para las laderas pedregosas del Mediterráneo define hoy un ritual muy distinto en las Montañas Rocosas.",
+        "name_origin": "El género Euphorbia rinde homenaje a Euforbo, médico griego del rey Juba II de Numidia, quien según la tradición empleó la savia lechosa de una suculenta emparentada con fines medicinales. El epíteto myrsinites proviene del griego myrsine (mirto) y describe cómo las hojas pequeñas, puntiagudas y verdiazuladas se enroscan en torno al tallo como el follaje del mirto, de ahí el nombre común Euforbia mirsinites.",
+        "symbolism_story": "En los jardines de rocalla del Mediterráneo, la Euforbia mirsinites se ganó la discreta reputación de ser una planta que prospera donde casi nada más sobrevive, extendiéndose sobre suelos pedregosos y resecos que vencen a especies más delicadas. Los jardineros han valorado desde hace tiempo esa tenacidad como una forma de resiliencia. Pero trasplantada a los pastizales áridos del oeste estadounidense, ese mismo rasgo transformó a la Euforbia mirsinites de superviviente admirada en invasora indeseada, un recordatorio vivo de que la mayor fortaleza de una planta puede convertirse en su mayor defecto en cuanto sale de las condiciones que antes la mantenían a raya.",
+        "flower_meaning": "Resiliencia",
+        "fragrance": {
+          "notes": "La Euforbia mirsinites no tiene una fragancia floral apreciable."
+        },
+        "uses_list": [
+          {
+            "text": "Un acento estructural y de bajo consumo de agua para jardines de rocalla, arriates de grava y bordes xérofilos, donde su follaje rastrero verdiazulado contrasta bien con la piedra."
+          },
+          {
+            "text": "Sus tempranos ciatios amarillo verdosos se encuentran entre las primeras fuentes de néctar para las abejas en jardines de rocalla secos."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Resiliencia",
+            "description": "La Euforbia mirsinites no pide nada: el suelo pobre, la sequía y el abandono le sientan igual de bien, por lo que los jardineros la han interpretado durante mucho tiempo como símbolo de una tenacidad obstinada en terreno duro y seco."
+          },
+          {
+            "keyword": "Precaución",
+            "description": "Su savia lechosa irritante y su condición de mala hierba nociva catalogada en partes del oeste de EE. UU. recuerdan que la resistencia de una planta puede ser un rasgo de doble filo."
+          }
+        ],
+        "toxicity": {
+          "headline": "Humanos Moderado · Mascotas Leve",
+          "active_compound_display": "Ésteres diterpénicos (ésteres irritantes de tipo euforbol en la savia lechosa)",
+          "notes_en": "La savia lechosa es un irritante cutáneo y ocular bien documentado al contacto, y puede causar leves molestias gastrointestinales si se mastica o ingiere por mascotas o personas; use guantes al manipularla o podarla.",
+          "human": {
+            "exposure": "Tocar la savia, los tallos y las hojas. Contacto con la savia, los tallos y las hojas.",
+            "effect": "Irritación/enrojecimiento de la piel, formación de ampollas al contacto con la savia, además de irritación ocular, lagrimeo y fotofobia temporal si la savia entra en contacto con los ojos.",
+            "note": "La savia lechosa es un irritante cutáneo y ocular bien documentado al contacto, y puede causar leves molestias gastrointestinales si se mastica o ingiere por mascotas o personas; use guantes al manipularla o podarla.",
+            "symptoms": [
+              "Irritación/enrojecimiento de la piel.",
+              "Formación de ampollas al contacto con la savia.",
+              "Irritación ocular, lagrimeo y fotofobia temporal si la savia entra en contacto con los ojos."
+            ]
+          },
+          "dog": {
+            "exposure": "Comer savia, tallos y hojas. Tocar la savia, los tallos y las hojas.",
+            "effect": "Salivación, irritación de la boca y los labios, y vómitos si se mastica o ingiere.",
+            "note": "La savia lechosa es un irritante cutáneo y ocular bien documentado al contacto, y puede causar leves molestias gastrointestinales si se mastica o ingiere por mascotas o personas; use guantes al manipularla o podarla.",
+            "symptoms": [
+              "Salivación.",
+              "Irritación de la boca y los labios.",
+              "Vómitos si se mastica o ingiere."
+            ]
+          },
+          "cat": {
+            "exposure": "Comer savia, tallos y hojas. Tocar la savia, los tallos y las hojas.",
+            "effect": "Salivación, irritación de la boca y vómitos si se mastica o ingiere.",
+            "note": "La savia lechosa es un irritante cutáneo y ocular bien documentado al contacto, y puede causar leves molestias gastrointestinales si se mastica o ingiere por mascotas o personas; use guantes al manipularla o podarla.",
+            "symptoms": [
+              "Salivación.",
+              "Irritación de la boca.",
+              "Vómitos si se mastica o ingiere."
+            ]
+          }
+        }
+      }
+    },
+    "AAA1637": {
+      "source_hash": "f07e769cc344142ad2eca0d1d5927e9f135134103f165079d56e359f35e7ca52",
+      "fields": {
+        "common_name": "Haworthia",
+        "bloom_tip": "Las flores son pequeñas y llamativas, y suelen abrirse durante mayo.",
+        "description": "La Haworthia (Haworthia cymbiformis) es una suculenta compacta originaria de Sudáfrica que forma rosetas apretadas de hojas gruesas y en forma de barca, cada una rematada por una ventana translúcida que conduce la luz solar hacia el interior carnoso de la hoja. En su hábitat nativo de la provincia del Cabo Oriental, se aloja en grietas rocosas sombreadas y matas de hierba, usando estas ventanas para seguir fotosintetizando incluso cuando queda mayormente oculta bajo tierra. De crecimiento lento y hábito cespitoso, se multiplica en cojines densos que rara vez superan los quince centímetros de diámetro, lo que la convierte en una planta agradecida para el alféizar o el terrario, capaz de producir pequeñas flores blancas en forma de estrella a finales de primavera con cuidados mínimos.",
+        "history_text_short": "Bautizada en honor al botánico inglés Adrian Hardy Haworth, la Haworthia crece escondida entre rocas y hierba en el Cabo Oriental de Sudáfrica, con ventanas translúcidas en las puntas de las hojas que conducen la luz hacia una roseta enterrada. Importada sin complicaciones a los invernaderos victorianos, sigue siendo hoy una suculenta agradecida para alféizares y terrarios.",
+        "history_text_long": "La Haworthia pertenece al género Haworthia, separado en 1809 del antiguo y extenso género Aloe por el botánico francés Henri Auguste Duval, quien lo nombró en honor a Adrian Hardy Haworth, entomólogo inglés y botánico autodidacta que trabajaba desde su jardín en Chelsea. Haworth había pasado décadas catalogando las curiosas suculentas sin espinas que llegaban desde la Colonia del Cabo, y pocas plantas recompensaron tanto su atención como la Haworthia. Mientras que la mayoría de las suculentas muestran su carácter hacia afuera, esta lo oculta: sus hojas gruesas, cimbiformes (en forma de barca), terminan en puntas aplanadas y translúcidas que Haworth y coleccionistas posteriores inclinaban hacia una ventana o la llama de una vela para observar cómo la luz atravesaba esas ventanas como paneles de cristal hasta el interior carnoso de la hoja. En estado silvestre, a lo largo del Cabo Oriental sudafricano, este truco de translucidez permite a la planta encajarse casi por completo bajo rocas y matas de hierba, con las puntas de las hojas a ras del suelo, absorbiendo luz desde arriba mientras el grueso de la planta queda protegido del sol intenso y de los animales que pastan. Los cazadores de plantas del siglo XIX que enviaban suculentas del Cabo a Europa encontraron en la Haworthia una viajera fácil y dócil comparada con sus parientes más espinosos, y pronto se instaló en colecciones de invernadero y alféizar, donde su hábito de formar matas convirtió una sola roseta en un cojín de hijuelos. Esa misma naturaleza poco exigente ha llevado a la Haworthia desde los invernaderos victorianos hasta los terrarios y alféizares soleados de hoy, donde sigue atrapando la luz a través de las mismas pequeñas ventanas que cautivaron la mirada de un botánico hace dos siglos.",
+        "name_origin": "El género Haworthia honra al botánico inglés y especialista en suculentas Adrian Hardy Haworth (1767-1833); el epíteto cymbiformis proviene del latín cymba ('barca') y forma ('forma'), en referencia a sus hojas en forma de barca.",
+        "symbolism_story": "Escondida casi por completo bajo piedra y hierba, la Haworthia sobrevive convirtiendo una limitación en ventaja: sus hojas enterradas siguen captando luz a través de pequeñas ventanas translúcidas. Esa adaptación silenciosa la ha convertido durante mucho tiempo en símbolo de luz interior y resiliencia en lugares discretos.",
+        "flower_meaning": "Luz Interior",
+        "uses_list": [
+          {
+            "text": "Una suculenta muy apreciada por los coleccionistas, cultivada por sus ventanas foliares translúcidas que capturan la luz y su ordenada forma de roseta."
+          },
+          {
+            "text": "Sus pequeñas flores tubulares de primavera atraen abejas y otros insectos polinizadores."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Luz Interior",
+            "description": "Las ventanas translúcidas de la hoja, que conducen la luz solar hacia una roseta por lo demás oculta, evocan claridad interior e iluminación silenciosa."
+          },
+          {
+            "keyword": "Resiliencia",
+            "description": "Encajada en grietas rocosas con poca agua y apenas visible, la planta encarna la resistencia paciente en un paisaje árido y expuesto."
+          }
+        ],
+        "toxicity": {
+          "headline": "Segura para mascotas",
+          "active_compound_display": "Ninguno reportado",
+          "notes_en": "No se encontró ninguna coincidencia en fuentes autorizadas sobre toxicidad; se considera no reportada (la estimación de la IA no está verificada por fuentes).",
+          "human": {
+            "exposure": "No se reporta ninguna vía de exposición.",
+            "effect": "No se reporta ningún efecto tóxico.",
+            "note": "No se reporta toxicidad para humanos en este catálogo; esto no es evidencia de que la planta sea comestible o inofensiva."
+          },
+          "dog": {
+            "exposure": "No se reporta ninguna vía de exposición.",
+            "effect": "No se reporta ningún efecto tóxico.",
+            "note": "Fuentes autorizadas indican que esta planta no es tóxica para perros; esto no es evidencia de que sea comestible."
+          },
+          "cat": {
+            "exposure": "No se reporta ninguna vía de exposición.",
+            "effect": "No se reporta ningún efecto tóxico.",
+            "note": "Fuentes autorizadas indican que esta planta no es tóxica para gatos; esto no es evidencia de que sea comestible."
+          }
+        }
+      }
+    },
+    "AAA1638": {
+      "source_hash": "3087f60ebc8b512b90a1b8076d5010a9c3f59e23cac563163bac386e92e324b3",
+      "fields": {
+        "common_name": "Planta del pepino",
+        "fruit_tip": "El fruto de color naranja vivo resulta muy atractivo en otoño.",
+        "description": "La planta del pepino (Kleinia stapeliiformis) es una suculenta sudafricana apreciada por sus tallos erguidos, cilíndricos y verde azulados, sutilmente rayados como una hilera de pequeños pepinillos puestos en pie. Originaria del árido Cabo Oriental, almacena agua en sus tallos carnosos y prospera en suelos arenosos y bien drenados a pleno sol, soportando con facilidad largos períodos de sequía. A finales de invierno y en primavera, tallos delgados se elevan sobre los tallos agrupados y se abren en pequeñas flores de margarita de color naranja rojizo que atraen abejas y mariposas. De crecimiento lento y porte compacto por naturaleza, resulta ideal para un alféizar soleado, un jardín de rocalla o una maceta de patio, y sus hijuelos son fáciles de compartir.",
+        "history_text_short": "Los tallos cilíndricos y moteados de la planta del pepino se parecen tanto a los de Stapelia que los primeros coleccionistas sudafricanos la confundieron con una pariente, incorporándola a sus colecciones de Stapelia. Solo sus pequeñas flores de margarita naranja rojizas la delataron como planta del grupo de los senecios, un error que perdura en su nombre, stapeliiformis, «con forma de Stapelia».",
+        "history_text_long": "Mucho antes de que coleccionar suculentas se convirtiera en una afición mundial, los cazadores de plantas que recorrían el árido karoo y el Cabo Oriental de Sudáfrica tropezaban una y otra vez con un enigma. Entre matas de auténticas Stapelia —suculentas bajas y angulosas cuyos tallos carnosos y moteados producen grandes flores en forma de estrella que huelen a carroña para atraer moscas— crecía otra planta de tallos casi idénticos: erguidos, verde azulados, sutilmente rayados y con forma de pepinillo. A simple vista parecía una prima más alta de la Stapelia, y los primeros coleccionistas la clasificaron así, incorporando esquejes a sus colecciones de Stapelia e intercambiándolos en los viveros bajo esa suposición.\n\nLa confusión solo se resolvió cuando las plantas florecieron. En lugar de las anchas flores estrelladas de una Stapelia, tallos delgados se alzaron desde las puntas de los tallos y se abrieron en pequeñas margaritas de color naranja rojizo, inconfundiblemente la flor de la tribu de los senecios, y no de las asclepiadáceas a las que pertenece Stapelia. Los botánicos reclasificaron la planta dentro de Senecio, y más tarde de Kleinia, pero conservaron el viejo parecido en su nombre científico: stapeliiformis, «con forma de Stapelia». El episodio se convirtió en una anécdota preferida entre los cultivadores de suculentas, un recordatorio de que dos plantas sin relación, adaptadas a las mismas laderas duras y abrasadas por el sol, pueden evolucionar hasta parecer casi idénticas, y de que son las flores, no los tallos, las que cuentan la verdadera historia. Hoy la planta del pepino se cultiva en todo el mundo precisamente por el rasgo que engañó a sus primeros coleccionistas: esos tallos asombrosamente parecidos a pepinillos.",
+        "name_origin": "El nombre del género Kleinia honra a Jacob Theodor Klein, un naturalista alemán del siglo XVIII, mientras que el epíteto de la especie, stapeliiformis, significa en latín «con forma de Stapelia», en alusión a lo mucho que los tallos moteados y cilíndricos de la planta del pepino recuerdan a los de las flores carroñeras del género Stapelia, sin relación con ella.",
+        "symbolism_story": "Enraizada en una de las regiones más áridas de Sudáfrica, la planta del pepino se ha convertido entre los cultivadores de suculentas en un discreto emblema de resiliencia: una planta que prospera con el abandono y guarda sus propias reservas frente a la adversidad. Su largo episodio de identidad confundida, resuelto solo al florecer, también le confiere un simbolismo de individualidad: el verdadero carácter siempre acaba mostrándose, por parecido que sea el disfraz.",
+        "flower_meaning": "Resiliencia",
+        "uses_list": [
+          {
+            "text": "Se cultiva en interiores y en jardines de suculentas por sus tallos escultóricos con forma de pepinillo."
+          },
+          {
+            "text": "Sus flores de margarita, de invierno a primavera, atraen abejas y mariposas a los jardines soleados."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Resiliencia",
+            "description": "Sus tallos, que almacenan agua y sobreviven en laderas áridas y hostiles, convierten a la planta del pepino en un símbolo de resiliencia y adaptabilidad silenciosas."
+          },
+          {
+            "keyword": "Individualidad",
+            "description": "Confundida durante mucho tiempo con una pariente de Stapelia, ha llegado a representar el destacar una vez que se revela la verdadera naturaleza."
+          }
+        ],
+        "toxicity": {
+          "headline": "Segura para mascotas",
+          "active_compound_display": "Ninguno reportado",
+          "notes_en": "No se encontró coincidencia con fuentes autorizadas sobre toxicidad; se trata como no reportada (la estimación del LLM no está verificada por fuentes).",
+          "human": {
+            "exposure": "No se reporta ninguna vía de exposición.",
+            "effect": "No se reporta ningún efecto tóxico.",
+            "note": "La toxicidad para los seres humanos no está bien documentada; se recomienda precaución hasta su verificación."
+          },
+          "dog": {
+            "exposure": "No se reporta ninguna vía de exposición.",
+            "effect": "No se reporta ningún efecto tóxico.",
+            "note": "Fuentes autorizadas señalan que esta planta no es tóxica para los perros; esto no es prueba de que la planta sea comestible."
+          },
+          "cat": {
+            "exposure": "No se reporta ninguna vía de exposición.",
+            "effect": "No se reporta ningún efecto tóxico.",
+            "note": "Fuentes autorizadas señalan que esta planta no es tóxica para los gatos; esto no es prueba de que la planta sea comestible."
+          }
+        }
+      }
+    },
+    "AAA1639": {
+      "source_hash": "22406421cce91c2ea5aac07d2c78b82bcd6da0483274a5884f9f2bffc914289c",
+      "fields": {
+        "common_name": "Ortiga muerta manchada",
+        "bloom_tip": "Esta planta florece en primavera y verano, con flores de forma elegante que atraen a los polinizadores.",
+        "description": "La Ortiga muerta manchada (Lamium maculatum) es una cubresuelos baja y extendida de la familia de la menta, apreciada por sus hojas acorazonadas marcadas con una franja central blanco-plateada. En primavera tardía y verano, verticilos de pequeñas flores bilabiadas en tonos rosa, púrpura o blanco se elevan sobre el follaje y atraen abejas y otros polinizadores. Pese a parecerse a la ortiga común en la forma de sus hojas, la Ortiga muerta manchada no pica en absoluto, lo que le valió precisamente el nombre de ortiga «muerta». Prospera en semisombra o sombra total y en suelo húmedo y bien drenado, formando una alfombra densa que suprime las malas hierbas de poco menos de medio metro de altura, ideal para bordes de bosque y arriates sombreados.",
+        "history_text_short": "Llamada ortiga «muerta» porque sus hojas acorazonadas imitan a la ortiga común sin picar, esta cubresuelos euroasiática permitía a herbolarios y recolectores distinguir una de otra al tacto. Su franja plateada dio origen al epíteto «maculatum», latín para «manchada», y siglos más tarde la convirtió en una favorita para iluminar jardines sombreados.",
+        "history_text_long": "Mucho antes de convertirse en una favorita de los jardines de sombra, la Ortiga muerta manchada era conocida simplemente como ortiga «muerta»: una planta que se parecía lo suficiente a la ortiga común como para engañar a un recolector apresurado, pero que no picaba en absoluto. Los herbolarios europeos de los siglos XVI y XVII, entre ellos el botánico inglés John Gerard, catalogaron las «ortigas muertas» del género Lamium como parecidas inofensivas, útiles para enseñar qué hojas con forma de ortiga en un seto podían recogerse sin dolor. La gente del campo aprendió a distinguirlas al tacto, y por la mancha plateada que recorre el centro de las hojas, una marca ausente en su prima urticante. El epíteto «maculatum», latín para «manchada», recoge precisamente este rasgo. En la medicina popular, la planta sirvió como astringente suave para cortes e irritaciones de la piel, y sus hojas jóvenes se añadían de vez en cuando a sopas de primavera en partes de Europa y Asia occidental, aunque nunca rivalizó con la ortiga verdadera como alimento. Originaria de bosques, setos y terrenos rocosos sombreados, prosperaba en la luz moteada, entretejiendo esteras entre raíces y piedras. Su carrera como planta de jardín llegó más tarde, cuando los coleccionistas llevaron formas de hojas plateadas a jardines de sombra cultivados en toda Europa y Norteamérica, apreciadas por iluminar bordes sombríos con follaje variegado y flores rosadas o blancas en primavera. Resultó ser una huésped casi demasiado dispuesta: en climas suaves y húmedos, hoy se extiende más allá de los arriates hacia los bosques, ganándose en algunas regiones fama de escapada levemente invasora. Aun así, sigue siendo una de las cubresuelos más fiables para la sombra difícil, y su nombre popular todavía recuerda la sencilla sabiduría práctica de los jardineros que antaño necesitaban saber, al tacto, qué ortiga era segura de tocar.",
+        "name_origin": "Lamium proviene de la palabra griega y latina para «garganta», que describe la forma tubular y con capucha de las flores. El epíteto maculatum es latín para «manchada», en referencia a la franja central clara que marca cada hoja. El nombre común «ortiga muerta» proviene de su parecido con la ortiga verdadera en la forma de las hojas, aunque sin los pelos urticantes que dan a las ortigas reales su picor; de ahí «muerta», es decir, inofensiva.",
+        "symbolism_story": "Durante generaciones, recolectores y jardineros juzgaron las hojas con forma de ortiga tanto al tacto como a la vista, ya que un roce descuidado con la ortiga verdadera significaba horas de picor. La imitación inofensiva de la Ortiga muerta manchada la convirtió en una especie de emblema popular silencioso: una planta que lleva la forma de una amenaza sin llevar su aguijón, un pequeño recordatorio de no juzgar solo por las apariencias.",
+        "flower_meaning": "Disfraz Amable",
+        "uses_list": [
+          {
+            "text": "Una popular cubresuelos de follaje variegado para iluminar bordes sombreados, jardines boscosos y macetas."
+          },
+          {
+            "text": "Las flores de primavera y verano atraen abejas y otros polinizadores tempranos."
+          },
+          {
+            "text": "Sus alfombras densas y bajas ofrecen refugio y forraje para la pequeña fauna del jardín."
+          },
+          {
+            "text": "Utilizada tradicionalmente en la medicina popular europea como astringente suave para cortes menores e irritaciones de la piel."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Disfraz Amable",
+            "description": "Sus hojas con forma de ortiga advierten sin picar jamás, convirtiendo a la planta en un emblema perdurable de apariencias inofensivas y falsas alarmas."
+          },
+          {
+            "keyword": "Resiliencia Silenciosa",
+            "description": "Al extenderse con confianza por la sombra profunda donde pocas plantas logran arraigar, ha llegado a representar la persistencia silenciosa en condiciones difíciles."
+          }
+        ],
+        "toxicity": {
+          "headline": "No se reporta toxicidad",
+          "active_compound_display": "Ninguno reportado",
+          "notes_en": "No se encontró una coincidencia de toxicidad autorizada; se trata como no reportado (la estimación del LLM no está verificada por fuentes).",
+          "human": {
+            "exposure": "No se reporta vía de exposición.",
+            "effect": "No se reporta efecto tóxico.",
+            "note": "No se reporta toxicidad para humanos en este catálogo; esto no es evidencia de que la planta sea comestible o inofensiva."
+          },
+          "dog": {
+            "exposure": "No se reporta vía de exposición.",
+            "effect": "No se reporta efecto tóxico.",
+            "note": "No se reporta toxicidad para perros en este catálogo; esto no es evidencia de que la planta sea comestible o inofensiva."
+          },
+          "cat": {
+            "exposure": "No se reporta vía de exposición.",
+            "effect": "No se reporta efecto tóxico.",
+            "note": "No se reporta toxicidad para gatos en este catálogo; esto no es evidencia de que la planta sea comestible o inofensiva."
+          }
+        }
+      }
+    },
+    "AAA1640": {
+      "source_hash": "efe9bbfa700428a10a4c5994cda19103774f851390d1ca54c7cbefb82ce3ae9c",
+      "fields": {
+        "common_name": "Leonotis",
+        "bloom_tip": "Esta planta florece en otoño, atrayendo a muchas abejas y mariposas.",
+        "fruit_tip": "Los frutos maduran a finales de otoño, aportando interés visual adicional.",
+        "description": "Leonotis (Leonotis ocymifolia) es un arbusto semiperenne de crecimiento rápido de la familia de la menta, originario de pastizales y laderas rocosas del este y el sur de África. Sus tallos cuadrangulares y aterciopelados llevan hojas con aroma a albahaca y alcanzan entre 90 cm y 1,2 m de altura; de finales de verano a otoño se coronan con verticilos de flores tubulares anaranjadas apiladas como mechones difusos a lo largo del tallo, flores desgreñadas que dieron nombre al género en griego, \"oreja de león\". Le conviene el sol pleno y el suelo bien drenado, y una vez establecida resiste la sequía sin problemas, atrayendo a suimangas, abejas y mariposas hacia sus flores ricas en néctar. En algunas partes de su área nativa, las hojas secas y las puntas florales se han preparado tradicionalmente en infusión o se han fumado en pequeñas cantidades por su efecto calmante suave, un uso también registrado en su pariente más conocido, el Wild Dagga, aunque hoy Leonotis se cultiva sobre todo como ornamental de fácil cuidado.",
+        "history_text_short": "Originaria del este y el sur de África, Leonotis ha servido durante generaciones a los curanderos tradicionales como remedio casero, preparada en infusión para la tos y la fiebre o fumada en pequeñas cantidades por su efecto calmante suave. Su nombre de género, del griego \"oreja de león\", honra los desgreñados verticilos de flores anaranjadas que rodean sus tallos.",
+        "history_text_long": "Leonotis crece silvestre en los pastizales, laderas rocosas y linderos de bosque del este y el sur de África, desde Etiopía y Kenia hasta Sudáfrica. Durante generaciones, los curanderos tradicionales de estas regiones han recolectado sus hojas y puntas florales como parte de la medicina vegetal cotidiana, preparándolas en infusión contra la tos, los resfriados y la fiebre, o aplicando preparados para aliviar afecciones cutáneas, picaduras de insectos y mordeduras de serpiente. En algunas comunidades, las hojas secas y las espigas florales también se fuman en pequeñas cantidades, valoradas por su efecto suave y calmante, un uso paralelo al de su pariente más conocido, el Wild Dagga (Leonotis leonurus), con el que se confundió y clasificó durante mucho tiempo. Los botánicos finalmente separaron las dos especies por la forma de sus hojas y su área de distribución: Leonotis presenta hojas más estrechas, parecidas a la albahaca, lo que le dio el epíteto ocymifolia, y tiende a preferir terrenos algo más altos y frescos que su prima de tierras bajas. El propio nombre del género, del griego \"oreja de león\", se inspiró en los desgreñados verticilos de flores anaranjadas que rodean el tallo a intervalos, semejantes a la oreja flequillada de un león rugiendo. Los recolectores botánicos europeos documentaron la planta durante expediciones al interior de África en el siglo XIX, y más tarde se extendió a jardines de todo el mundo, apreciada no por un episodio dramático concreto sino por el papel discreto y constante que ha desempeñado durante generaciones como remedio casero, imán de polinizadores y arbusto de jardín llamativo y de fácil cuidado.",
+        "name_origin": "El nombre de género Leonotis proviene del griego leon ('león') y ous/otis ('oreja'), en alusión a los desgreñados verticilos florales que recuerdan la oreja peluda de un león. El nombre de especie ocymifolia significa 'de hoja de albahaca', describiendo un follaje similar en forma y aroma a la albahaca (Ocimum).",
+        "symbolism_story": "Como sus desgreñados verticilos de flores anaranjadas se asemejaban a la oreja mechada de un león, Leonotis quedó asociada en la imaginación popular con el coraje y la vigilancia del propio león, una planta que se creía montaba guardia allí donde crecía. Su capacidad para prosperar en suelos pobres y pedregosos y resistir largas sequías no hizo sino reforzar esa fama, convirtiéndola en un símbolo discreto de resiliencia tanto en jardines como en hogares rurales.",
+        "flower_meaning": "Coraje",
+        "fragrance": {
+          "notes": "Las hojas trituradas desprenden un aroma herbáceo suave, similar a la albahaca; las flores en sí no son notablemente fragantes."
+        },
+        "uses_list": [
+          {
+            "text": "Los verticilos florales, ricos en néctar, atraen a suimangas, abejas y mariposas de finales de verano a otoño."
+          },
+          {
+            "text": "Las hojas y las puntas florales tienen una larga tradición de uso medicinal en el sur y el este de África, preparadas en infusión o fumadas en pequeñas cantidades."
+          },
+          {
+            "text": "Sus altas espigas de desgreñados verticilos anaranjados forman un arbusto de borde o acento llamativo y de fácil cuidado."
+          },
+          {
+            "text": "Una fuente fiable de néctar que sostiene a los polinizadores del jardín y a las aves durante la estación seca."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Coraje",
+            "description": "Bautizada en honor al león, Leonotis ha llevado durante mucho tiempo asociaciones de audacia y protección en las culturas donde crece de forma silvestre."
+          },
+          {
+            "keyword": "Resiliencia",
+            "description": "Al prosperar en suelos pobres y pedregosos y resistir la sequía, la planta es un emblema natural de fortaleza y perseverancia."
+          }
+        ],
+        "toxicity": {
+          "headline": "No se reporta toxicidad",
+          "active_compound_display": "Ninguno reportado",
+          "notes_en": "No se encontró coincidencia de toxicidad autorizada; se trata como no reportado (la estimación del LLM no está verificada por fuentes).",
+          "human": {
+            "exposure": "No se reporta vía de exposición.",
+            "effect": "No se reporta efecto tóxico.",
+            "note": "La toxicidad para humanos no está bien documentada; usar con precaución hasta verificar."
+          },
+          "dog": {
+            "exposure": "No se reporta vía de exposición.",
+            "effect": "No se reporta efecto tóxico.",
+            "note": "No se reporta toxicidad para perros en este catálogo; esto no es evidencia de que la planta sea comestible o inofensiva."
+          },
+          "cat": {
+            "exposure": "No se reporta vía de exposición.",
+            "effect": "No se reporta efecto tóxico.",
+            "note": "No se reporta toxicidad para gatos en este catálogo; esto no es evidencia de que la planta sea comestible o inofensiva."
+          }
+        }
+      }
+    },
+    "AAA1641": {
+      "source_hash": "ae1bfd52710564a6dc1ccca542f6f97a10a41a716125dd5d8f2dafda3fe05408",
+      "fields": {
+        "common_name": "Leucospermum",
+        "bloom_tip": "Ofrezca al Leucospermum pleno sol y un drenaje muy rápido; una vez establecido tolera la sequía y recompensa con vistosas flores en forma de cúpula desde finales de primavera hasta el verano.",
+        "fruit_tip": "Tras la floración aparecen pequeños frutos parecidos a nueces, que a menudo recogen las hormigas nativas, las cuales entierran las semillas y ayudan a la planta a regenerarse de forma natural tras un incendio.",
+        "description": "El Leucospermum (Leucospermum cordifolium) es un arbusto redondeado y perenne originario del fynbos del Cabo, en Sudáfrica, apreciado por sus cabezuelas florales en forma de cúpula, formadas por decenas de estilos curvados rematados con diminutos estigmas ganchudos que recuerdan a un alfiletero lleno de alfileres. Florece en tonos naranja, rojo y amarillo desde finales de primavera hasta el verano, con las cabezuelas asintiendo sobre tallos alambrados y atrayendo a suimangas nectarívoras. Sus hojas acorazonadas de color verde azulado permanecen atractivas todo el año. Prosperando en suelos arenosos, pobres en nutrientes y bien drenados, a pleno sol, este arbusto tolerante a la sequía es un ícono del fynbos y un favorito de los productores de flor cortada de todo el mundo.",
+        "history_text_short": "Originario del fynbos del Cabo, en Sudáfrica, propenso a incendios, las flores cubiertas de púas del Leucospermum atraen a suimangas para su polinización, mientras las hormigas entierran sus semillas para protegerlas. Antaño una curiosidad regional, se convirtió en una estrella mundial del comercio de flor cortada hacia la década de 1970.",
+        "history_text_long": "Mucho antes de llegar a los cubos de las floristerías de todo el mundo, el Leucospermum crecía silvestre en la Región Florística del Cabo, en Sudáfrica, una estrecha franja de vegetación de fynbos famosa por su extraordinaria diversidad vegetal. Allí, en laderas rocosas y pobres en nutrientes azotadas por incendios y vientos cargados de sal, desarrolló su cabezuela floral característica: una densa cúpula de estilos curvados rematados con pequeños estigmas ganchudos, diseñados para depositar polen en la frente de las suimangas y los mielívoros del Cabo mientras buscan néctar. Tras la floración, la planta esparce sus semillas por el suelo, donde las hormigas nativas las trasladan bajo tierra hasta elaiosomas ricos en grasas, enterrándolas sin saberlo a salvo del fuego y los roedores hasta que el siguiente incendio despeja el terreno para la germinación. Los botánicos europeos documentaron por primera vez las proteáceas del Cabo en el siglo XVIII, y entre ellas se nombró cordifolium, que significa 'de hoja acorazonada', en referencia a su follaje redondeado y verde azulado. Durante casi dos siglos la planta siguió siendo una curiosidad regional, apreciada sobre todo por los jardineros del Cabo. Eso cambió a mediados del siglo XX, cuando productores de Sudáfrica, California y Hawái descubrieron lo bien que viajaban sus flores espinosas y duraderas, y cuánto color aportaban a los ramos mixtos. Los mejoradores seleccionaron las formas más llamativas en naranja, rojo y amarillo, y hacia la década de 1970 el Leucospermum se había convertido en una de las estrellas más reconocibles del comercio internacional de flor cortada, todavía recolectado a mano en extensas fincas florales durante cada temporada de floración.",
+        "name_origin": "El nombre del género, Leucospermum, proviene del griego leukos ('blanco') y sperma ('semilla'), en referencia a sus semillas pálidas, mientras que el epíteto cordifolium es un término latino que significa 'de hoja acorazonada', describiendo su follaje redondeado con forma de corazón. El nombre alude a su aspecto más reconocible: cabezuelas florales densas y erizadas como un alfiletero, que asienten o se inclinan sobre sus tallos.",
+        "symbolism_story": "En su fynbos natal del Cabo, el Leucospermum sobrevive a incendios, sequías y suelos pobres confiando en que las hormigas entierren sus semillas hasta que el fuego despeje el terreno para un nuevo crecimiento. Esta tenacidad, unida a su audaz cabezuela de tonos solares, ha convertido al Leucospermum en un emblema favorito de resiliencia y belleza intrépida entre productores y floristas sudafricanos.",
+        "flower_meaning": "Audacia",
+        "fragrance": {
+          "notes": "Polinizado por suimangas que responden al color y al néctar más que al aroma, este Leucospermum es prácticamente inodoro."
+        },
+        "uses_list": [
+          {
+            "text": "Sus tallos espinosos y de larga duración lo convierten en una opción destacada para arreglos de flor cortada y exportación."
+          },
+          {
+            "text": "Sus cabezuelas ricas en néctar atraen suimangas y otros polinizadores al jardín."
+          },
+          {
+            "text": "Sus audaces flores en forma de cúpula aportan color y textura llamativos a bordes y jardines de rocalla."
+          },
+          {
+            "text": "Favorece a las aves e insectos beneficiosos en jardines de estilo fynbos y tolerantes a la sequía."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Audacia",
+            "description": "La cabezuela ardiente y espinosa del Leucospermum suele interpretarse como símbolo de audacia y energía vibrante, destacando de forma dramática en cualquier arreglo."
+          },
+          {
+            "keyword": "Resiliencia",
+            "description": "Al prosperar en suelos duros, propensos a incendios y pobres en nutrientes del fynbos, la planta ha llegado a representar la resiliencia y la capacidad de adaptación frente a la adversidad."
+          }
+        ],
+        "toxicity": {
+          "headline": "No se reporta toxicidad",
+          "active_compound_display": "Ninguno reportado",
+          "notes_en": "No se encontró ninguna coincidencia toxicológica autorizada; se trata como no reportada (la estimación del modelo no está verificada por fuentes).",
+          "human": {
+            "exposure": "No se reporta ninguna vía de exposición.",
+            "effect": "No se reporta ningún efecto tóxico.",
+            "note": "En este catálogo no se reporta toxicidad para los humanos; esto no es prueba de que la planta sea comestible o inofensiva."
+          },
+          "dog": {
+            "exposure": "No se reporta ninguna vía de exposición.",
+            "effect": "No se reporta ningún efecto tóxico.",
+            "note": "En este catálogo no se reporta toxicidad para los perros; esto no es prueba de que la planta sea comestible o inofensiva."
+          },
+          "cat": {
+            "exposure": "No se reporta ninguna vía de exposición.",
+            "effect": "No se reporta ningún efecto tóxico.",
+            "note": "En este catálogo no se reporta toxicidad para los gatos; esto no es prueba de que la planta sea comestible o inofensiva."
+          }
+        }
+      }
+    },
+    "AAA1642": {
+      "source_hash": "c36b4c9aa988ca24568aae1c49c28fb46d4cba0eb77075a9f7415c5598b675e5",
+      "fields": {
+        "common_name": "Petunia",
+        "bloom_tip": "Esta flor florece de mayo a octubre, mostrando colores vibrantes.",
+        "fruit_tip": "",
+        "description": "La Petunia (Petunia x atkinsiana) es una de las anuales de flor más populares del mundo, valorada por sus flores en forma de trompeta en tonos que van del púrpura intenso y el magenta al rosa suave, blanco y amarillo, muchas con vetas llamativas o bordes picotee. Obtenida por hibridación de especies silvestres sudamericanas en el siglo XIX, florece sin parar desde finales de la primavera hasta la primera helada con un cuidado mínimo. Compacta y de floración generosa, la Petunia cae en cascada desde cestas colgantes y jardineras, llena los bordes del jardín y prospera en macetas de patio; sus flores ricas en néctar atraen de forma fiable a colibríes, abejas y polillas.",
+        "history_text_short": "En las décadas de 1820 y 1830, botánicos franceses y el recolector escocés James Tweedie llevaron a Europa dos petunias silvestres sudamericanas: una especie blanca y fragante, y otra de un violeta intenso. Los viveristas las cruzaron y crearon la Petunia, apreciada por su amplia gama de colores y su vigorosa floración. Los jardineros victorianos la convirtieron en una favorita de los parterres, y las cruzas posteriores la difundieron por jardines de todo el mundo.",
+        "history_text_long": "La historia de la Petunia comienza en Sudamérica, donde dos especies silvestres sentaron las bases de uno de los grandes éxitos híbridos de la horticultura. A principios de la década de 1820, naturalistas franceses que recolectaban cerca de Buenos Aires y Montevideo describieron una planta de flores blancas y fragancia nocturna a la que llamaron Petunia axillaris, cuyo nombre proviene de «petun», la palabra tupí-guaraní para tabaco, ya que los botánicos la reconocieron como pariente del tabaco dentro de la familia de las solanáceas. Pocos años después, el recolector escocés James Tweedie envió semillas de una petunia silvestre más pequeña y de color violeta púrpura, Petunia integrifolia, desde Argentina a viveros europeos ávidos de nuevas flores para parterres.\n\nHacia las décadas de 1830 y 1840, viveristas de Inglaterra, Bélgica y Alemania comenzaron a cruzar deliberadamente la especie blanca y fragante con la violeta de colores vivos. El híbrido resultante, formalizado más tarde como Petunia x atkinsiana (también llamada Petunia x hybrida), combinó lo mejor de ambos progenitores: una gama de colores mucho más amplia, flores más grandes y un crecimiento vigoroso y floración generosa. Los jardineros victorianos la adoptaron de inmediato, y hacia la década de 1850 la Petunia era un elemento fijo de los parterres formales en Europa y Norteamérica.\n\nLos criadores siguieron perfeccionando el híbrido durante más de un siglo, desarrollando tipos Grandiflora de enormes flores onduladas y tipos Multiflora criados por su resistencia al clima y su abundante color. El salto más espectacular llegó en la década de 1990, cuando los criadores japoneses de Suntory presentaron la petunia Wave, una forma baja y extendida que revolucionó las cestas colgantes y las plantaciones de cobertura del suelo en todo el mundo. La Petunia actual lleva los genes de aquellas flores silvestres argentinas y uruguayas a millones de jardines, patios y jardineras cada verano.",
+        "name_origin": "Del vocablo tupí-guaraní «petun», que significa tabaco. Los primeros botánicos sudamericanos ubicaron el género Petunia en la familia de las solanáceas, junto al tabaco, y tomaron prestado su nombre para estas plantas recién descritas.",
+        "symbolism_story": "A los jardineros victorianos les encantaba enviar mensajes cifrados a través de las flores, y la Petunia llevaba dos significados contradictorios según su forma. Una petunia sencilla colocada en un ramo señalaba en silencio resentimiento o disgusto hacia quien la recibía, mientras que una petunia doble significaba lo contrario: «tu presencia me reconforta». Un solo tallo podía transmitir así un reproche certero, mientras que su prima doble y rizada ofrecía consuelo, permitiendo a quienes regalaban flores en la época victoriana decir lo que la etiqueta por sí sola no permitía.",
+        "flower_meaning": "resentimiento",
+        "fragrance": {
+          "notes": "Muchas petunias, especialmente las variedades blancas y de tonos pastel que florecen al anochecer, desprenden una fragancia dulce y melosa después del atardecer para atraer a las polillas nocturnas."
+        },
+        "uses_list": [
+          {
+            "text": "Una opción excelente para cestas colgantes, jardineras y bordes de parterres gracias a su floración continua y colorida."
+          },
+          {
+            "text": "Sus flores en forma de trompeta, ricas en néctar, atraen a colibríes, abejas y polillas nocturnas."
+          },
+          {
+            "text": "Las variedades blancas y pastel desprenden una fragancia dulce después del atardecer."
+          },
+          {
+            "text": "Ofrece néctar durante toda la temporada, de primavera a otoño, para los polinizadores del jardín."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "resentimiento",
+            "description": "En el lenguaje victoriano de las flores, la petunia significaba comúnmente resentimiento o disgusto, siendo una forma cifrada de expresar desagrado dentro de un ramo."
+          },
+          {
+            "keyword": "consuelo",
+            "description": "Las variedades de petunia doble llevaban un significado más suave, «tu presencia me reconforta», ofrecido como mensaje de consuelo a un ser querido."
+          }
+        ],
+        "toxicity": {
+          "headline": "Segura para mascotas",
+          "active_compound_display": "Ninguno reportado",
+          "notes_en": "No se encontró ninguna coincidencia toxicológica autorizada; se trata como no reportada (la estimación del LLM no está verificada por fuentes).",
+          "human": {
+            "exposure": "No se reporta ninguna vía de exposición.",
+            "effect": "No se reporta ningún efecto tóxico.",
+            "note": "No se reporta toxicidad para humanos en este catálogo; esto no es evidencia de que la planta sea comestible o inofensiva."
+          },
+          "dog": {
+            "exposure": "No se reporta ninguna vía de exposición.",
+            "effect": "No se reporta ningún efecto tóxico.",
+            "note": "Fuentes autorizadas indican que esta planta no es tóxica para los perros; esto no es evidencia de que la planta sea comestible."
+          },
+          "cat": {
+            "exposure": "No se reporta ninguna vía de exposición.",
+            "effect": "No se reporta ningún efecto tóxico.",
+            "note": "Fuentes autorizadas indican que esta planta no es tóxica para los gatos; esto no es evidencia de que la planta sea comestible."
+          }
+        }
+      }
+    },
+    "AAA1643": {
+      "source_hash": "43c43815b3b0e52b84ed5b34114ac42210da97b09931651ef14512d79f5f431e",
+      "fields": {
+        "common_name": "Senecio",
+        "bloom_tip": "Las flores de esta planta brotan de abril a septiembre, aportando color al jardín.",
+        "description": "Senecio es una suculenta sudafricana apreciada por sus tallos rastreros y articulados, cubiertos de hojas carnosas azul-verdosas con forma de punta de lanza que se afinan hasta un extremo fino. Pertenece al mismo grupo de suculentas «de cuerda» que la Planta Vela, muy valorada por coleccionistas por su follaje escultural y de fácil cuidado. Una fina capa cérea recubre las hojas carnosas, ayudando a la planta a reflejar el sol intenso y conservar agua durante largos períodos de sequía. A finales de verano, tallos delgados elevan pequeñas flores amarillo-anaranjadas por encima del follaje. Resistente y tolerante a la sequía, Senecio prospera con luz intensa y un sustrato bien drenado, siendo una elección llamativa para cestas colgantes o un alféizar soleado.",
+        "history_text_short": "Llamada así por su parecido con el antiguo género suculento Kleinia, Senecio es una suculenta sudafricana cuyas hojas colgantes en forma de punta de lanza la convirtieron en una planta «de cuerda» favorita entre coleccionistas y cultivadores de cestas colgantes de todo el mundo.",
+        "history_text_long": "Senecio pertenece a un curioso grupo de suculentas sudafricanas cuya historia de nomenclatura es casi tan enredada como sus tallos rastreros. En 1754, el botánico inglés Philip Miller nombró el género Kleinia en honor a Jacob Theodor Klein, un naturalista alemán que había catalogado suculentas recolectadas en el Cabo. Generaciones de estas plantas «de cuerda» de tono azul-verdoso y tallos articulados pasaron de Kleinia a Senecio a medida que los botánicos debatían su parentesco, y a la especie hoy conocida como Senecio se le dio el epíteto kleiniiformis —literalmente «con forma de Kleinia»— en honor a ese nombre anterior. Recolectada en los pastizales áridos y laderas rocosas del Cabo Oriental de Sudáfrica, crece junto a parientes como la Planta Vela, formando alfombras sueltas de hojas carnosas y puntiagudas que almacenan agua durante largas sequías. En el siglo XX, los coleccionistas de suculentas comenzaron a intercambiar esquejes de estas plantas «de cuerda» de fácil cultivo para cestas colgantes y jardines en miniatura, y Senecio se convirtió en una favorita por su follaje escultural y de tono ligeramente escarchado. Una revisión de 2012 de la familia de las margaritas dividió muchas de estas suculentas sudafricanas en un nuevo género, Curio, aunque viveros y jardineros siguen vendiéndola ampliamente bajo su conocido nombre Senecio. Hoy sigue siendo un elemento básico y de bajo mantenimiento en alféizares y colecciones de suculentas de todo el mundo, valorada por sobrevivir con poco más que luz intensa y un riego profundo ocasional.",
+        "name_origin": "El nombre de la especie, kleiniiformis, significa «con forma de Kleinia», en referencia a un género antiguo usado para suculentas sudafricanas similares y nombrado en honor al naturalista del siglo XVIII Jacob Theodor Klein. El nombre común, Senecio, hace referencia a su género y a sus hojas puntiagudas en forma de punta de lanza a lo largo de los tallos rastreros.",
+        "symbolism_story": "Entre los coleccionistas de suculentas, las hojas puntiagudas de Senecio suelen interpretarse como pequeñas puntas de lanza que vigilan a lo largo de sus tallos rastreros, dando a la planta una asociación con la vigilancia y la resiliencia silenciosa. Como muchas suculentas de tallo del árido Karoo y el Cabo Oriental de Sudáfrica, sobrevive a sequías severas almacenando agua en sus hojas, y los cultivadores han visto durante mucho tiempo en esa resistencia un símbolo de perseverancia: una planta que mantiene su forma y color pese al abandono que marchitaría a especies más delicadas.",
+        "flower_meaning": "Resiliencia",
+        "fragrance": {
+          "notes": "Los pequeños racimos de flores amarillo-anaranjadas desprenden un aroma tenue y dulce, parecido a la miel, más perceptible de cerca en clima cálido."
+        },
+        "uses_list": [
+          {
+            "text": "Se cultiva como suculenta colgante para cestas, jardines en miniatura y alféizares soleados."
+          },
+          {
+            "text": "Los pequeños racimos de flores amarillo-anaranjadas atraen abejas y otros polinizadores."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Resiliencia",
+            "description": "Su capacidad para sobrevivir largos períodos de sequía almacenando agua la convierte en un símbolo de resistencia silenciosa."
+          },
+          {
+            "keyword": "Vigilancia",
+            "description": "Sus hojas puntiagudas en forma de lanza evocan alerta y protección, recordando antiguas asociaciones entre las lanzas y la vigilancia."
+          }
+        ],
+        "toxicity": {
+          "headline": "Personas Leve · Mascotas Leve",
+          "active_compound_display": "alcaloides pirrolizidínicos (trazas, típico del género)",
+          "notes_en": "Como ocurre con muchas suculentas Senecio/Curio, los alcaloides pirrolizidínicos en trazas pueden causar molestias digestivas leves si se mastican o se ingieren en cantidad; no está documentado como un riesgo grave para esta especie en particular.",
+          "human": {
+            "exposure": "Ingestión de hojas y tallos.",
+            "effect": "Náuseas leves y malestar estomacal si se ingiere en cantidad.",
+            "note": "Como ocurre con muchas suculentas Senecio/Curio, los alcaloides pirrolizidínicos en trazas pueden causar molestias digestivas leves si se mastican o se ingieren en cantidad; no está documentado como un riesgo grave para esta especie en particular.",
+            "symptoms": [
+              "Náuseas leves.",
+              "Malestar estomacal si se ingiere en cantidad."
+            ]
+          },
+          "dog": {
+            "exposure": "Ingestión de hojas y tallos.",
+            "effect": "Vómitos leves y diarrea.",
+            "note": "Como ocurre con muchas suculentas Senecio/Curio, los alcaloides pirrolizidínicos en trazas pueden causar molestias digestivas leves si se mastican o se ingieren en cantidad; no está documentado como un riesgo grave para esta especie en particular.",
+            "symptoms": [
+              "Vómitos leves.",
+              "Diarrea."
+            ]
+          },
+          "cat": {
+            "exposure": "Ingestión de hojas y tallos.",
+            "effect": "Vómitos leves y diarrea.",
+            "note": "Como ocurre con muchas suculentas Senecio/Curio, los alcaloides pirrolizidínicos en trazas pueden causar molestias digestivas leves si se mastican o se ingieren en cantidad; no está documentado como un riesgo grave para esta especie en particular.",
+            "symptoms": [
+              "Vómitos leves.",
+              "Diarrea."
+            ]
+          }
+        }
+      }
+    },
+    "AAA1644": {
+      "source_hash": "9e21e3572ec68ecd7850201a3bce52b8d73fea23a3cf8d4de979ce59b315433b",
+      "fields": {
+        "common_name": "Naranjillo",
+        "description": "El naranjillo es un miembro modesto y arbustivo de la familia de las solanáceas, nativo de los pastizales y matorrales de Argentina y Uruguay. Alcanza entre 60 y 90 cm de altura, con una extensión algo mayor, y presenta hojas onduladas y lobuladas de color verde y pequeñas flores violetas en forma de estrella, cada una con un llamativo cono de anteras amarillas típico del género Solanum, seguidas de pequeñas bayas redondas. Prospera en suelo bien drenado a húmedo y con sol parcial, lo que lo convierte en un acento fácil y de bajo mantenimiento para el patio o el borde del jardín. Como sus parientes, su follaje y sus frutos verdes son tóxicos si se ingieren, por lo que conviene ubicarlo lejos del alcance de mascotas curiosas y niños.",
+        "history_text_short": "El naranjillo debe su nombre a Bonaria, el antiguo nombre latino de Buenos Aires, donde botánicos europeos, entre ellos Linneo, documentaron por primera vez este arbusto solanáceo en los pastizales del Río de la Plata en la década de 1750. Pariente modesto de la papa y el tomate, se valora menos por su fama que por su resistencia y sus flores violetas en forma de estrella.",
+        "history_text_long": "El naranjillo (Solanum bonariense) lleva un nombre que conserva un fragmento de la botánica de la época colonial: el epíteto bonariense deriva de Bonaria, la antigua forma latina de Buenos Aires, y señala la región donde los primeros recolectores europeos encontraron la planta entre los pastizales y los matorrales ribereños del Río de la Plata. Carlos Linneo describió formalmente la especie en 1753, en la misma época en que decenas de plantas sudamericanas con el epíteto bonariense entraron en la literatura botánica europea, mientras los ejemplares prensados cruzaban el Atlántico desde puertos coloniales hasta los herbarios de Europa.\n\nEl naranjillo pertenece a Solanum, uno de los géneros más grandes y económicamente importantes del reino vegetal, hogar de cultivos básicos como la papa, el tomate y la berenjena, junto a miles de parientes silvestres y malezas repartidos por casi todos los continentes. Dentro de este vasto árbol genealógico, se sitúa entre las numerosas especies sudamericanas arbustivas y de hojas espinosas que los botánicos aún trabajan por clasificar, con un follaje ondulado y flores violetas en forma de estrella que reflejan la misma arquitectura floral básica que se observa en sus primos cultivados.\n\nEn su área de distribución natural en Argentina y Uruguay, el naranjillo persiste como un arbusto resistente de terrenos abiertos y hábitats alterados, el tipo de solanácea resiliente que prospera en los márgenes de las tierras cultivadas. Su resistencia ha llamado ocasionalmente la atención de horticultores, que han considerado a parientes silvestres de Solanum como este como posible portainjerto para la berenjena cultivada y otras solanáceas, aunque el naranjillo en sí nunca se ha cultivado ampliamente como planta ornamental. Hoy se le conoce menos por su fama que por su discreto lugar en la historia de un género que también alimenta a buena parte del mundo.",
+        "name_origin": "El epíteto bonariense deriva de Bonaria, el nombre latino histórico de Buenos Aires, Argentina, y marca a esta planta como \"de Buenos Aires\", la región donde fue documentada por primera vez por botánicos europeos a mediados del siglo XVIII.",
+        "symbolism_story": "Arraigado en los pastizales y matorrales abiertos de Argentina y Uruguay, el naranjillo ha crecido durante mucho tiempo donde pocas otras plantas logran establecerse, a lo largo de caminos alterados, riberas y márgenes de pastizales. Los jardineros que lo cultivan hoy ven en su resistencia un modesto emblema de resiliencia: una planta que pide poco y se mantiene firme sin importar el entorno.",
+        "flower_meaning": "Resiliencia",
+        "uses_list": [
+          {
+            "text": "Se cultiva como arbusto resistente y de bajo mantenimiento para patios y bordes de jardín, apreciado por sus flores violetas en forma de estrella."
+          },
+          {
+            "text": "Sus flores atraen abejas y otros polinizadores típicos de la familia de las solanáceas."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Resiliencia",
+            "description": "prospera en terrenos abiertos y alterados de la pampa donde pocas otras plantas logran establecerse"
+          },
+          {
+            "keyword": "Humildad",
+            "description": "un arbusto modesto y discreto que exige poco de su entorno"
+          }
+        ],
+        "toxicity": {
+          "headline": "Mascotas Moderado",
+          "active_compound_display": "solanina, solasodina y otros glicoalcaloides de Solanum",
+          "notes_en": "Como otras especies de Solanum, el follaje, los tallos y las bayas verdes contienen glicoalcaloides del tipo solanina y pueden causar molestias gastrointestinales si los ingieren personas o mascotas; las bayas maduras se consideran menos tóxicas que el follaje verde y el fruto inmaduro.",
+          "human": {
+            "exposure": "No se reporta ninguna vía de exposición.",
+            "effect": "No se reporta ningún efecto tóxico.",
+            "note": "La toxicidad en humanos no está bien documentada; se recomienda precaución hasta que se confirme."
+          },
+          "dog": {
+            "exposure": "Ingerir hojas, tallos y frutos.",
+            "effect": "Vómitos, diarrea, babeo y letargo.",
+            "note": "Como otras especies de Solanum, el follaje, los tallos y las bayas verdes contienen glicoalcaloides del tipo solanina y pueden causar molestias gastrointestinales si los ingieren personas o mascotas; las bayas maduras se consideran menos tóxicas que el follaje verde y el fruto inmaduro.",
+            "symptoms": [
+              "Vómitos.",
+              "Diarrea.",
+              "Babeo.",
+              "Letargo."
+            ]
+          },
+          "cat": {
+            "exposure": "Ingerir hojas, tallos y frutos.",
+            "effect": "Vómitos, diarrea y pérdida de apetito.",
+            "note": "Como otras especies de Solanum, el follaje, los tallos y las bayas verdes contienen glicoalcaloides del tipo solanina y pueden causar molestias gastrointestinales si los ingieren personas o mascotas; las bayas maduras se consideran menos tóxicas que el follaje verde y el fruto inmaduro.",
+            "symptoms": [
+              "Vómitos.",
+              "Diarrea.",
+              "Pérdida de apetito."
             ]
           }
         }
