@@ -3,8 +3,8 @@
   "locale": "es",
   "source": {
     "resource": "plants_detail.json",
-    "sha256": "290a7d96118b433551b8b3292f10510f94cb70a42dcce8db4efbe91f7dbaefef",
-    "record_count": 1656
+    "sha256": "f5ceba9edbc022b391d26d0894726ed5c75dd038fa0760527733752bd505fe1d",
+    "record_count": 1657
   },
   "records": {
     "AAA0001": {
@@ -101693,6 +101693,64 @@
           {
             "keyword": "Individualidad",
             "description": "Sus flores pálidas y apagadas la distinguen de sus llamativos parientes isleños, convirtiéndola en un emblema de destacar por contenerse."
+          }
+        ]
+      }
+    },
+    "AAA1658": {
+      "source_hash": "c574be1b0110749694f3ab7bc945e57c2311cda063a50492e60926db4705932a",
+      "fields": {
+        "common_name": "Polígala de hoja de mirto",
+        "bloom_tip": "Las flores de esta planta son muy atractivas y aparecen en los meses de primavera y verano.",
+        "fruit_tip": "El fruto es de color marrón y posee cierto valor ornamental.",
+        "description": "La Polígala de hoja de mirto es un arbusto perennifolio de crecimiento rápido, originario de la región del Cabo en Sudáfrica, apreciado por sus hojas delgadas parecidas al mirto y sus alegres flores púrpura-rosadas con forma de guisante. Racimos sueltos de flores aparecen casi todo el año en climas templados, con su punto máximo en primavera y verano, y cada flor lleva una pequeña quilla en forma de mechón que imita a un guisante de olor verdadero para atraer abejas. Compacta y tolerante a la sal, se adapta bien al sol pleno, resiste la sequía una vez establecida, y se poda fácilmente en un seto denso o una pantalla informal, lo que la convierte en una opción fiable para jardines costeros y de estilo mediterráneo.",
+        "history_text_short": "Conocida en su Sudáfrica natal como arbusto de septiembre por anunciar el fin de la estación seca, la Polígala de hoja de mirto esconde un pequeño truco en cada flor púrpura-rosada: una quilla accionada por resorte que lanza polen sobre cualquier abeja lo bastante pesada como para activarla.",
+        "history_text_long": "Mucho antes de que los colonos europeos la llamaran polígala por su parecido con los guisantes de jardín, la planta ya había perfeccionado una pequeña pieza de ingeniería floral propia. Cada flor púrpura-rosada lleva una quilla flecada, en forma de cepillo, un pétalo modificado que parece decorativo pero funciona como un interruptor accionado por resorte. Cuando una abeja se posa en la quilla buscando néctar, su peso hace que los estambres y el estilo se lancen hacia adelante y espolvoreen de polen la parte inferior de la abeja, para luego volver a su posición para el siguiente visitante. Es el mismo truco que usan los guisantes verdaderos y sus parientes, aunque Polygala myrtifolia pertenece a una familia completamente distinta: dos linajes vegetales no emparentados que llegaron por separado a la misma solución para el mismo problema, cómo hacer que una abeja trabaje para uno.\n\nEn su región natal del Cabo, en Sudáfrica, el arbusto es conocido simplemente como arbusto de septiembre, porque suele ser el primer arbusto en estallar en color al final de la estación seca, y su explosión de flores púrpura-rosadas se interpreta como una señal informal de que ha llegado la primavera. El nombre del género, Polygala, se remonta aún más atrás, a una vieja tradición popular europea en torno a un pariente muy distinto y mucho más pequeño, la polígala común, que los curanderos daban antiguamente a las madres lactantes y al ganado lechero en la creencia de que aumentaba la producción de leche, de ahí polys, «mucho», y gala, «leche». Los jardineros ornamentales de otras tierras no tenían interés en los rendimientos lecheros; querían el hábito compacto y de rápido crecimiento de la planta y sus meses de color, y ya en el siglo XIX la Polígala de hoja de mirto había viajado desde el fynbos del Cabo hasta jardines de Australia, California y el Mediterráneo, donde su tolerancia a la sequía y su facilidad de poda la convirtieron en un seto fiable lejos de casa.",
+        "name_origin": "El nombre del género, Polygala, proviene del griego polys («mucho») y gala («leche»), por una antigua creencia europea de que el ganado que pastaba polígala producía más leche. El nombre de la especie, myrtifolia, es latín para «de hoja de mirto», en referencia a su follaje pequeño y brillante.",
+        "symbolism_story": "En el fynbos del Cabo, el estallido de flores púrpura-rosadas de la Polígala de hoja de mirto al final de la estación seca se ha interpretado durante mucho tiempo como una señal pequeña y fiable de que los meses más duros están terminando: una planta que convierte la expectativa en color antes que casi cualquier otra cosa.",
+        "flower_meaning": "Renovación",
+        "fragrance": {
+          "notes": "A pesar de su nombre común, las flores tienen poco o ningún olor detectable: el parecido con los guisantes de olor verdaderos es puramente visual."
+        },
+        "toxicity": {
+          "headline": "No se reporta toxicidad",
+          "active_compound_display": "Ninguno reportado",
+          "notes_en": "No se encontró una coincidencia de toxicidad autorizada; se trata como no reportado (la estimación del LLM no está verificada por fuentes).",
+          "human": {
+            "exposure": "No se reporta vía de exposición.",
+            "effect": "No se reporta efecto tóxico.",
+            "note": "No se reporta toxicidad para humanos en este catálogo; esto no es evidencia de que la planta sea comestible o inofensiva."
+          },
+          "dog": {
+            "exposure": "No se reporta vía de exposición.",
+            "effect": "No se reporta efecto tóxico.",
+            "note": "No se reporta toxicidad para perros en este catálogo; esto no es evidencia de que la planta sea comestible o inofensiva."
+          },
+          "cat": {
+            "exposure": "No se reporta vía de exposición.",
+            "effect": "No se reporta efecto tóxico.",
+            "note": "No se reporta toxicidad para gatos en este catálogo; esto no es evidencia de que la planta sea comestible o inofensiva."
+          }
+        },
+        "uses_list": [
+          {
+            "text": "Su rápido crecimiento, hábito ordenado y color casi todo el año la convierten en un seto florido y una planta de pantalla popular."
+          },
+          {
+            "text": "Las flores en forma de guisante son una fuente confiable de néctar para las abejas, que activan el mecanismo de liberación de polen de la quilla en cada visita."
+          },
+          {
+            "text": "El crecimiento denso y perenne ofrece cobertura y sitios de anidación para pequeñas aves de jardín."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Renovación",
+            "description": "Como uno de los primeros arbustos en florecer al final de la estación seca de Sudáfrica, la Polygala myrtifolia ha llegado a representar el punto de inflexión entre el letargo y el nuevo crecimiento."
+          },
+          {
+            "keyword": "Ingenio",
+            "description": "Su flor con resorte, diseñada para lanzar polen sobre las abejas visitantes, la ha convertido en un pequeño emblema de la astucia de la naturaleza para obtener exactamente lo que necesita."
           }
         ]
       }
