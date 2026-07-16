@@ -3,8 +3,8 @@
   "locale": "de",
   "source": {
     "resource": "plants_detail.json",
-    "sha256": "3e7dad9e00ff2297e0e8dff903aecf13a4209dc2105929fa283ea2fc85927725",
-    "record_count": 1653
+    "sha256": "a6da3c45a8713642c8ecc57e1abca9b1ff19c4f2e57b1ee35fd79598f797bc9b",
+    "record_count": 1654
   },
   "records": {
     "AAA0001": {
@@ -101466,6 +101466,57 @@
             "exposure": "Es ist kein Expositionsweg bekannt.",
             "effect": "Es ist keine toxische Wirkung bekannt.",
             "note": "In diesem Katalog wird keine Toxizität für Katzen gemeldet; dies ist kein Beleg dafür, dass die Pflanze essbar oder unschädlich ist."
+          }
+        }
+      }
+    },
+    "AAA1655": {
+      "source_hash": "11e6d6e8adb77c48e7e8ba749a0f7ccdc010990b2c387d3a6de2593d7a4508a5",
+      "fields": {
+        "common_name": "Fliegende-Enten-Orchidee",
+        "bloom_tip": "Diese Pflanze blüht im Herbst, die Blütezeit dauert in der Regel mehrere Wochen.",
+        "description": "Die Fliegende-Enten-Orchidee ist eine kleine terrestrische Orchidee, die in den Heidelandschaften und offenen Wäldern im Osten und Süden Australiens beheimatet ist. Sie ist berühmt für eine Blüte, die so verblüffend wie eine im Flug befindliche Ente geformt ist, dass sie eher geschnitzt als gewachsen wirkt. Ihre glänzende, dunkel maronenbraune Lippe bildet den 'Kopf' des Vogels, während die Säule einen ausgestreckten Körper nachahmt und heimische Blattwespen in ein raffiniertes Fallen-Bestäubungssystem lockt, das bei jedem Insekt, das es auslöst, zuschnappt. Die Pflanze wächst aus einer unterirdischen Knolle in sandigem, gut durchlässigem Boden, ist auf einen symbiotischen Bodenpilz zum Überleben angewiesen und wird außerhalb der Wildnis so gut wie nie gesehen.",
+        "history_text_short": "Erstmals 1810 vom Botaniker Robert Brown beschrieben, gab die Fliegende-Enten-Orchidee Naturforschern jahrzehntelang Rätsel auf, bis ihr Fallen-Bestäubungstrick, ausgelöst von ahnungslosen heimischen Blattwespen, endlich verstanden wurde. Diese Entdeckung festigte ihren Ruf als eine der seltsamsten und meistfotografierten Wildblumen Australiens.",
+        "history_text_long": "Als der englische Botaniker Robert Brown diese kleine terrestrische Orchidee 1810 formell beschrieb, nachdem er in der jungen Kolonie Sydney gesammelt hatte, konnte er kaum ahnen, wie seltsam ihre Lebensgeschichte sein würde. Er stellte sie in eine neue Gattung, Caleana, benannt nach dem botanischen Sammler George Caley, der jahrelang das Buschland von New South Wales nach unbekannten Pflanzen durchkämmt und Exemplare nach Kew geschickt hatte. Jahrzehntelang wurde die verblüffend entenförmige Blüte der Orchidee einfach als Kuriosität des australischen Busches bewundert, bis genauere Beobachtung ihren Fallen-Bestäubungsmechanismus enthüllte. Die gelenkige, reizbare Lippe balanciert auf einem federnden Riemen; landet eine männliche Blattwespe, angezogen von der Blüte, auf der Suche nach einer Partnerin darauf, schnappt der Auslöser die Lippe nach unten, klemmt das Insekt kurz gegen die Säule und bestäubt es, bevor es sich befreit, um die nächste Blüte zu besuchen. Da die Orchidee für Keimung und Überleben vollständig auf einen bestimmten Bodenpilz angewiesen ist, wie die meisten australischen terrestrischen Orchideen, konnte sie nie in großem Maßstab kultiviert werden, und keine Gärtnerei kann sie anbieten. Ihr einziges wirkliches Publikum sind Wanderer und Orchideenliebhaber, die Frühlingsausflüge in sandiges Heideland und offene Wälder planen, in der Hoffnung, ihre unverwechselbare Silhouette zwischen dem Laubstreu zu entdecken, Kameras bereit für eine Blüte, die aussieht wie eine Ente mitten im Flug.",
+        "name_origin": "Die Gattung Caleana ehrt George Caley (1770-1829), einen englischen Botaniker und Pflanzensammler, der Anfang des 19. Jahrhunderts das Buschland um das koloniale Sydney erforschte. Das Artepitheton major ist Lateinisch für 'größer' und unterscheidet diese Orchidee von ihrer kleineren Verwandten, Caleana minor.",
+        "symbolism_story": "Für australische Wanderer ist die Fliegende-Enten-Orchidee zu einem kleinen Sinnbild für die List der Natur geworden: eine Blüte, die einen Vogel nachahmt, nur um dem Insekt, das sie anlockt, eine Falle zu stellen. Da sie ausschließlich neben ihren wilden Pilzpartnern gedeiht und verschwindet, sobald sich die Bedingungen ändern, fühlt es sich an, ein flüchtiges Geheimnis des Busches zu erhaschen, wenn man eine in Blüte entdeckt.",
+        "flower_meaning": "Täuschung",
+        "uses_list": [
+          {
+            "text": "Ist für ihr einzigartiges Fallen-Bestäubungssystem auf heimische Blattwespen angewiesen und damit eine Kuriosität unter den australischen einheimischen Bestäubern."
+          },
+          {
+            "text": "Wird von Orchideenliebhabern und Wanderern wegen ihrer verblüffend entenförmigen Blüte gesucht, obwohl sie nie als Gartenpflanze verkauft wird."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Täuschung",
+            "description": "Die gelenkige Fallenblüte der Orchidee, die zuschnappt, um ahnungslose Blattwespen zur Bestäubung zu fangen, hat sie zu einem Sinnbild für die List und Tarnung der Natur gemacht."
+          },
+          {
+            "keyword": "Seltenheit",
+            "description": "Da sie sich nicht ohne ihre wilden Pilzpartner kultivieren lässt, symbolisiert die Fliegende-Enten-Orchidee flüchtige Schönheit, die nur in ihrem natürlichen Lebensraum zu finden ist."
+          }
+        ],
+        "toxicity": {
+          "headline": "Keine Toxizität bekannt",
+          "active_compound_display": "Keine bekannt",
+          "notes_en": "Keine autoritative Toxizitätsübereinstimmung gefunden; als nicht berichtet behandelt (LLM-Schätzung ist nicht quellgeprüft).",
+          "human": {
+            "exposure": "Es wird kein Expositionsweg berichtet.",
+            "effect": "Es wird keine toxische Wirkung berichtet.",
+            "note": "In diesem Katalog wird keine Toxizität für Menschen berichtet; dies ist kein Beleg dafür, dass die Pflanze essbar oder unbedenklich ist."
+          },
+          "dog": {
+            "exposure": "Es wird kein Expositionsweg berichtet.",
+            "effect": "Es wird keine toxische Wirkung berichtet.",
+            "note": "In diesem Katalog wird keine Toxizität für Hunde berichtet; dies ist kein Beleg dafür, dass die Pflanze essbar oder unbedenklich ist."
+          },
+          "cat": {
+            "exposure": "Es wird kein Expositionsweg berichtet.",
+            "effect": "Es wird keine toxische Wirkung berichtet.",
+            "note": "In diesem Katalog wird keine Toxizität für Katzen berichtet; dies ist kein Beleg dafür, dass die Pflanze essbar oder unbedenklich ist."
           }
         }
       }

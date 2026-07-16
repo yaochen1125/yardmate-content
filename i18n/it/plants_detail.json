@@ -3,8 +3,8 @@
   "locale": "it",
   "source": {
     "resource": "plants_detail.json",
-    "sha256": "3e7dad9e00ff2297e0e8dff903aecf13a4209dc2105929fa283ea2fc85927725",
-    "record_count": 1653
+    "sha256": "a6da3c45a8713642c8ecc57e1abca9b1ff19c4f2e57b1ee35fd79598f797bc9b",
+    "record_count": 1654
   },
   "records": {
     "AAA0001": {
@@ -101479,6 +101479,57 @@
           "cat": {
             "exposure": "Non è segnalata alcuna via di esposizione.",
             "effect": "Non è segnalato alcun effetto tossico.",
+            "note": "In questo catalogo non è segnalata tossicità per i gatti; ciò non costituisce prova che la pianta sia commestibile o innocua."
+          }
+        }
+      }
+    },
+    "AAA1655": {
+      "source_hash": "11e6d6e8adb77c48e7e8ba749a0f7ccdc010990b2c387d3a6de2593d7a4508a5",
+      "fields": {
+        "common_name": "Orchidea Anatra Volante",
+        "bloom_tip": "Questa pianta fiorisce in autunno, con un periodo di fioritura che dura generalmente diverse settimane.",
+        "description": "L'Orchidea Anatra Volante è una piccola orchidea terrestre originaria delle brughiere e dei boschi radi dell'Australia orientale e meridionale, apprezzata per un fiore dalla forma così sorprendentemente simile a quella di un'anatra in volo da sembrare scolpito più che cresciuto. Il suo labello lucido, marrone scuro come il mogano, forma la 'testa' dell'uccello, mentre la colonna imita un corpo disteso, attirando le mosche segantine autoctone in un ingegnoso sistema di impollinazione a trappola che scatta su qualsiasi insetto lo attivi. Crescendo da un tubero sotterraneo in terreno sabbioso e ben drenato, dipende da un fungo simbiotico del suolo per sopravvivere e non si vede quasi mai al di fuori del suo ambiente selvatico.",
+        "history_text_short": "Descritta per la prima volta dal botanico Robert Brown nel 1810, l'Orchidea Anatra Volante ha lasciato perplessi i naturalisti per decenni prima che il suo trucco di impollinazione a trappola, innescato da ignare mosche segantine autoctone, fosse finalmente compreso. Quella scoperta ne ha consolidato la fama come uno dei fiori selvatici più strani e fotografati d'Australia.",
+        "history_text_long": "Quando il botanico inglese Robert Brown descrisse formalmente questa piccola orchidea terrestre nel 1810, dopo aver raccolto esemplari intorno alla giovane colonia di Sydney, difficilmente avrebbe potuto immaginare quanto sarebbe stata strana la sua storia naturale. La collocò in un nuovo genere, Caleana, in onore del collezionista botanico George Caley, che aveva trascorso anni a setacciare il bush del Nuovo Galles del Sud alla ricerca di piante sconosciute, inviando esemplari a Kew. Per decenni, il fiore straordinariamente a forma di anatra dell'orchidea fu semplicemente ammirato come una curiosità del bush australiano, finché un'osservazione più attenta ne rivelò il meccanismo di impollinazione a trappola. Il labello articolato e irritabile è in equilibrio su una fascia elastica; quando una mosca segantina maschio, attratta dal fiore, vi si posa in cerca di una compagna, il grilletto fa scattare il labello verso il basso, intrappolando brevemente l'insetto contro la colonna e cospargendolo di polline prima che riesca a liberarsi per visitare il fiore successivo. Poiché l'orchidea dipende interamente da un particolare fungo del suolo per germinare e sopravvivere, come la maggior parte delle orchidee terrestri australiane, non è mai stata coltivata su larga scala e nessun vivaio può offrirla. Il suo unico vero pubblico sono gli escursionisti e gli appassionati di orchidee, che pianificano gite primaverili in brughiere sabbiose e boschi radi sperando di scorgere la sua sagoma inconfondibile tra la lettiera di foglie, macchine fotografiche pronte per un fiore che sembra, in tutto e per tutto, un'anatra colta a metà del volo.",
+        "name_origin": "Il genere Caleana onora George Caley (1770-1829), botanico e raccoglitore di piante inglese che esplorò il bush intorno alla Sydney coloniale nei primi anni del XIX secolo. L'epiteto specifico major è latino per 'maggiore' o 'più grande', distinguendo questa orchidea dalla sua parente più piccola, Caleana minor.",
+        "symbolism_story": "Per gli escursionisti australiani, l'Orchidea Anatra Volante è diventata un piccolo emblema dell'astuzia della natura: un fiore che imita un uccello solo per tendere una trappola all'insetto che attira. Poiché prospera solo accanto ai suoi partner fungini selvatici e scompare non appena le condizioni cambiano, avvistarne uno in fiore dà la sensazione di cogliere un segreto fugace del bush.",
+        "flower_meaning": "Inganno",
+        "uses_list": [
+          {
+            "text": "Dipende dalle mosche segantine autoctone per il suo esclusivo sistema di impollinazione a trappola, il che la rende una curiosità tra gli impollinatori nativi australiani."
+          },
+          {
+            "text": "Ricercata da appassionati di orchidee ed escursionisti per il suo fiore sorprendentemente a forma di anatra, sebbene non venga mai venduta come pianta da giardino."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Inganno",
+            "description": "Il fiore articolato a trappola dell'orchidea, che scatta sulle ignare mosche segantine per assicurarsi l'impollinazione, ne ha fatto un emblema dell'astuzia e del travestimento della natura."
+          },
+          {
+            "keyword": "Rarità",
+            "description": "Poiché non può essere coltivata lontano dai suoi partner fungini selvatici, l'Orchidea Anatra Volante simboleggia una bellezza fugace che si trova solo nel suo habitat nativo."
+          }
+        ],
+        "toxicity": {
+          "headline": "Nessuna tossicità segnalata",
+          "active_compound_display": "Nessuno segnalato",
+          "notes_en": "Nessuna corrispondenza tossicologica autorevole trovata; trattata come non segnalata (la stima LLM non è verificata dalla fonte).",
+          "human": {
+            "exposure": "Nessuna via di esposizione segnalata.",
+            "effect": "Nessun effetto tossico segnalato.",
+            "note": "In questo catalogo non è segnalata tossicità per gli umani; ciò non costituisce prova che la pianta sia commestibile o innocua."
+          },
+          "dog": {
+            "exposure": "Nessuna via di esposizione segnalata.",
+            "effect": "Nessun effetto tossico segnalato.",
+            "note": "In questo catalogo non è segnalata tossicità per i cani; ciò non costituisce prova che la pianta sia commestibile o innocua."
+          },
+          "cat": {
+            "exposure": "Nessuna via di esposizione segnalata.",
+            "effect": "Nessun effetto tossico segnalato.",
             "note": "In questo catalogo non è segnalata tossicità per i gatti; ciò non costituisce prova che la pianta sia commestibile o innocua."
           }
         }

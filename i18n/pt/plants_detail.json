@@ -3,8 +3,8 @@
   "locale": "pt",
   "source": {
     "resource": "plants_detail.json",
-    "sha256": "3e7dad9e00ff2297e0e8dff903aecf13a4209dc2105929fa283ea2fc85927725",
-    "record_count": 1653
+    "sha256": "a6da3c45a8713642c8ecc57e1abca9b1ff19c4f2e57b1ee35fd79598f797bc9b",
+    "record_count": 1654
   },
   "records": {
     "AAA0001": {
@@ -101466,6 +101466,57 @@
           "headline": "Nenhuma toxicidade relatada",
           "active_compound_display": "Nenhum relatado",
           "notes_en": "Nenhuma correspondência de toxicidade autoritativa encontrada; tratado como não relatado (estimativa de LLM não é verificada por fonte).",
+          "human": {
+            "exposure": "Nenhuma via de exposição é relatada.",
+            "effect": "Nenhum efeito tóxico é relatado.",
+            "note": "Nenhuma toxicidade é relatada para humanos neste catálogo; isso não é evidência de que a planta seja comestível ou inofensiva."
+          },
+          "dog": {
+            "exposure": "Nenhuma via de exposição é relatada.",
+            "effect": "Nenhum efeito tóxico é relatado.",
+            "note": "Nenhuma toxicidade é relatada para cães neste catálogo; isso não é evidência de que a planta seja comestível ou inofensiva."
+          },
+          "cat": {
+            "exposure": "Nenhuma via de exposição é relatada.",
+            "effect": "Nenhum efeito tóxico é relatado.",
+            "note": "Nenhuma toxicidade é relatada para gatos neste catálogo; isso não é evidência de que a planta seja comestível ou inofensiva."
+          }
+        }
+      }
+    },
+    "AAA1655": {
+      "source_hash": "11e6d6e8adb77c48e7e8ba749a0f7ccdc010990b2c387d3a6de2593d7a4508a5",
+      "fields": {
+        "common_name": "Orquídea Pato Voador",
+        "bloom_tip": "Esta planta floresce no outono, com o período de floração normalmente durando várias semanas.",
+        "description": "A Orquídea Pato Voador é uma pequena orquídea terrestre nativa das charnecas e florestas abertas do leste e sul da Austrália, apreciada por uma flor com formato tão surpreendentemente parecido com o de um pato em voo que parece esculpida, e não crescida. Seu labelo brilhante, de um marrom-mogno escuro, forma a 'cabeça' da ave, enquanto a coluna imita um corpo estendido, atraindo moscas-serra nativas para um engenhoso sistema de polinização por armadilha que se fecha bruscamente sobre qualquer inseto que o acione. Crescendo a partir de um tubérculo subterrâneo em solo arenoso e bem drenado, depende de um fungo simbiótico do solo para sobreviver e quase nunca é vista fora do seu habitat selvagem.",
+        "history_text_short": "Descrita pela primeira vez pelo botânico Robert Brown em 1810, a Orquídea Pato Voador intrigou naturalistas por décadas até que seu truque de polinização por armadilha, acionado por moscas-serra nativas desavisadas, fosse finalmente compreendido. Essa descoberta consolidou sua reputação como uma das flores silvestres mais estranhas e mais fotografadas da Austrália.",
+        "history_text_long": "Quando o botânico inglês Robert Brown descreveu formalmente esta pequena orquídea terrestre em 1810, após coletar espécimes ao redor da jovem colônia de Sydney, ele dificilmente poderia imaginar o quão estranha sua história natural se revelaria. Ele a colocou em um novo gênero, Caleana, em homenagem ao coletor botânico George Caley, que passara anos vasculhando o mato de Nova Gales do Sul em busca de plantas desconhecidas e enviando espécimes a Kew. Por décadas, a flor surpreendentemente em formato de pato da orquídea foi simplesmente admirada como uma curiosidade do mato australiano, até que uma observação mais atenta revelasse seu mecanismo de polinização por armadilha. O labelo articulado e irritável fica equilibrado sobre uma tira elástica; quando uma mosca-serra macho, atraída pela flor, pousa nele em busca de uma parceira, o gatilho faz o labelo se fechar bruscamente para baixo, prendendo brevemente o inseto contra a coluna e cobrindo-o de pólen antes que ele se liberte para visitar a próxima flor. Como a orquídea depende inteiramente de um fungo do solo específico para germinar e sobreviver, como a maioria das orquídeas terrestres australianas, ela nunca foi cultivada em grande escala, e nenhum viveiro consegue oferecê-la. Seu único público de fato são caminhantes e entusiastas de orquídeas, que planejam excursões de primavera a charnecas arenosas e florestas abertas justamente na esperança de avistar sua silhueta inconfundível entre a serapilheira, câmeras prontas para uma flor que parece, em tudo, um pato flagrado em pleno voo.",
+        "name_origin": "O gênero Caleana homenageia George Caley (1770-1829), botânico e coletor de plantas inglês que explorou o mato ao redor da Sydney colonial no início do século XIX. O epíteto específico major é latim para 'maior', distinguindo esta orquídea de sua parente menor, Caleana minor.",
+        "symbolism_story": "Para os caminhantes australianos, a Orquídea Pato Voador se tornou um pequeno emblema da astúcia da natureza: uma flor que imita uma ave apenas para armar uma cilada ao inseto que atrai. Como só prospera ao lado de seus parceiros fúngicos selvagens e desaparece assim que as condições mudam, avistar uma em flor dá a sensação de capturar um segredo fugaz do mato.",
+        "flower_meaning": "Engano",
+        "uses_list": [
+          {
+            "text": "Depende de moscas-serra nativas para seu sistema exclusivo de polinização por armadilha, o que a torna uma curiosidade entre os polinizadores nativos da Austrália."
+          },
+          {
+            "text": "Procurada por entusiastas de orquídeas e caminhantes por sua flor surpreendentemente em formato de pato, embora nunca seja vendida como planta de jardim."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Engano",
+            "description": "A flor articulada e armadilhada da orquídea, que se fecha sobre moscas-serra desavisadas para garantir a polinização, tornou-a um emblema da astúcia e da camuflagem da natureza."
+          },
+          {
+            "keyword": "Raridade",
+            "description": "Por não poder ser cultivada longe de seus parceiros fúngicos selvagens, a Orquídea Pato Voador simboliza uma beleza fugaz encontrada apenas em seu habitat nativo."
+          }
+        ],
+        "toxicity": {
+          "headline": "Nenhuma toxicidade relatada",
+          "active_compound_display": "Nenhum relatado",
+          "notes_en": "Nenhuma correspondência de toxicidade autoritativa encontrada; tratado como não relatado (estimativa de LLM não verificada por fonte).",
           "human": {
             "exposure": "Nenhuma via de exposição é relatada.",
             "effect": "Nenhum efeito tóxico é relatado.",

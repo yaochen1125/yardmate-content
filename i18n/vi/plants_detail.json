@@ -3,8 +3,8 @@
   "locale": "vi",
   "source": {
     "resource": "plants_detail.json",
-    "sha256": "3e7dad9e00ff2297e0e8dff903aecf13a4209dc2105929fa283ea2fc85927725",
-    "record_count": 1653
+    "sha256": "a6da3c45a8713642c8ecc57e1abca9b1ff19c4f2e57b1ee35fd79598f797bc9b",
+    "record_count": 1654
   },
   "records": {
     "AAA0001": {
@@ -101466,6 +101466,57 @@
           "headline": "Không có độc tính được báo cáo",
           "active_compound_display": "Không có báo cáo",
           "notes_en": "Không tìm thấy kết quả khớp về độc tính từ nguồn đáng tin cậy; được coi là chưa được báo cáo (ước tính từ LLM không được xác minh nguồn).",
+          "human": {
+            "exposure": "Không có đường phơi nhiễm nào được báo cáo.",
+            "effect": "Không có tác dụng độc hại nào được báo cáo.",
+            "note": "Không có độc tính nào được báo cáo đối với người trong danh mục này; điều này không phải là bằng chứng cho thấy cây có thể ăn được hoặc vô hại."
+          },
+          "dog": {
+            "exposure": "Không có đường phơi nhiễm nào được báo cáo.",
+            "effect": "Không có tác dụng độc hại nào được báo cáo.",
+            "note": "Không có độc tính nào được báo cáo đối với chó trong danh mục này; điều này không phải là bằng chứng cho thấy cây có thể ăn được hoặc vô hại."
+          },
+          "cat": {
+            "exposure": "Không có đường phơi nhiễm nào được báo cáo.",
+            "effect": "Không có tác dụng độc hại nào được báo cáo.",
+            "note": "Không có độc tính nào được báo cáo đối với mèo trong danh mục này; điều này không phải là bằng chứng cho thấy cây có thể ăn được hoặc vô hại."
+          }
+        }
+      }
+    },
+    "AAA1655": {
+      "source_hash": "11e6d6e8adb77c48e7e8ba749a0f7ccdc010990b2c387d3a6de2593d7a4508a5",
+      "fields": {
+        "common_name": "Lan Vịt Bay",
+        "bloom_tip": "Loài cây này ra hoa vào mùa thu, thời kỳ nở hoa thường kéo dài vài tuần.",
+        "description": "Lan Vịt Bay là một loài lan địa sinh nhỏ có nguồn gốc từ các vùng đồng hoang và rừng thưa ở miền đông và miền nam nước Úc, nổi tiếng với bông hoa có hình dạng giống một con vịt đang bay đến mức kỳ lạ, trông như được điêu khắc hơn là mọc tự nhiên. Cánh môi bóng, màu nâu hạt dẻ sẫm tạo thành 'đầu' của con chim, trong khi trụ hoa mô phỏng một thân hình vươn ra, dụ dỗ các loài ong cưa bản địa vào một hệ thống thụ phấn kiểu bẫy tinh vi, sập lại ngay khi bất kỳ côn trùng nào chạm vào cơ chế kích hoạt. Mọc lên từ một củ ngầm dưới đất trong nền đất cát, thoát nước tốt, loài lan này phụ thuộc hoàn toàn vào một loại nấm cộng sinh trong đất để tồn tại và gần như không bao giờ được nhìn thấy bên ngoài môi trường hoang dã.",
+        "history_text_short": "Được nhà thực vật học Robert Brown mô tả lần đầu tiên vào năm 1810, Lan Vịt Bay đã khiến các nhà tự nhiên học bối rối suốt nhiều thập kỷ trước khi mẹo thụ phấn kiểu bẫy của nó, được kích hoạt bởi những con ong cưa bản địa vô tình, cuối cùng cũng được hiểu rõ. Khám phá đó đã củng cố danh tiếng của nó như một trong những loài hoa dại kỳ lạ và được chụp ảnh nhiều nhất ở Úc.",
+        "history_text_long": "Khi nhà thực vật học người Anh Robert Brown chính thức mô tả loài lan địa sinh nhỏ bé này vào năm 1810, sau khi thu thập mẫu vật quanh thuộc địa Sydney còn non trẻ, ông khó có thể ngờ rằng câu chuyện tự nhiên của nó lại kỳ lạ đến vậy. Ông xếp nó vào một chi mới, Caleana, để vinh danh nhà sưu tập thực vật George Caley, người đã dành nhiều năm lùng sục khắp vùng bụi rậm New South Wales để tìm những loài cây xa lạ và gửi mẫu vật về Kew. Trong nhiều thập kỷ sau đó, bông hoa hình vịt kỳ lạ của loài lan này chỉ đơn thuần được ngưỡng mộ như một điều kỳ thú của vùng bụi rậm nước Úc, cho đến khi những quan sát kỹ lưỡng hơn hé lộ cơ chế thụ phấn kiểu bẫy của nó. Cánh môi khớp nối, nhạy cảm nằm cân bằng trên một dải đàn hồi như lò xo; khi một con ong cưa đực, bị bông hoa thu hút, đậu xuống để tìm bạn tình, cơ chế kích hoạt khiến cánh môi sập xuống, ghim tạm thời con côn trùng vào trụ hoa và phủ phấn hoa lên nó trước khi nó vùng vẫy thoát ra để đến thăm bông hoa tiếp theo. Vì loài lan này phụ thuộc hoàn toàn vào một loại nấm đất đặc thù để nảy mầm và sinh tồn, giống như hầu hết các loài lan địa sinh của Úc, nó chưa bao giờ được trồng thành công trên quy mô lớn, và không vườn ươm nào có thể cung cấp nó. Khán giả thực sự duy nhất của nó là những người đi bộ đường dài và những người yêu thích lan, những người lên kế hoạch cho các chuyến đi mùa xuân đến vùng đồng hoang cát và rừng thưa với hy vọng bắt gặp bóng dáng không thể lẫn vào đâu được của nó giữa lớp lá rụng, sẵn sàng máy ảnh để chụp một bông hoa trông chẳng khác gì một con vịt bị bắt gặp giữa lúc đang bay.",
+        "name_origin": "Chi Caleana được đặt tên để vinh danh George Caley (1770-1829), nhà thực vật học và nhà sưu tập thực vật người Anh, người đã khám phá vùng bụi rậm quanh Sydney thời thuộc địa vào đầu thế kỷ 19. Tính ngữ loài major trong tiếng Latin có nghĩa là 'lớn hơn', phân biệt loài lan này với họ hàng nhỏ hơn của nó, Caleana minor.",
+        "symbolism_story": "Đối với những người đi bộ đường dài ở Úc, Lan Vịt Bay đã trở thành một biểu tượng nhỏ cho sự khôn khéo của tự nhiên: một bông hoa bắt chước hình dáng một con chim chỉ để giăng bẫy con côn trùng mà nó dụ dỗ. Vì nó chỉ phát triển mạnh bên cạnh các loài nấm cộng sinh hoang dã và biến mất ngay khi điều kiện thay đổi, việc bắt gặp một bông hoa nở rộ mang lại cảm giác như nắm bắt được một bí mật thoáng qua của vùng bụi rậm.",
+        "flower_meaning": "Lừa dối",
+        "uses_list": [
+          {
+            "text": "Phụ thuộc vào các loài ong cưa bản địa cho hệ thống thụ phấn kiểu bẫy độc đáo của mình, khiến nó trở thành một điều kỳ thú giữa các loài thụ phấn bản địa của Úc."
+          },
+          {
+            "text": "Được những người yêu thích lan và người đi bộ đường dài săn tìm vì bông hoa hình vịt kỳ lạ của nó, dù nó không bao giờ được bán như một loại cây cảnh trong vườn."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Lừa dối",
+            "description": "Bông hoa khớp nối kiểu bẫy của loài lan, sập xuống những con ong cưa vô tình để đảm bảo thụ phấn, đã biến nó thành biểu tượng cho sự khôn khéo và ngụy trang của tự nhiên."
+          },
+          {
+            "keyword": "Hiếm có",
+            "description": "Vì không thể trồng được nếu tách rời khỏi các loài nấm cộng sinh hoang dã, Lan Vịt Bay tượng trưng cho vẻ đẹp thoáng qua chỉ được tìm thấy trong môi trường sống tự nhiên của nó."
+          }
+        ],
+        "toxicity": {
+          "headline": "Không có độc tính nào được báo cáo",
+          "active_compound_display": "Không có báo cáo",
+          "notes_en": "Không tìm thấy kết quả độc tính có thẩm quyền; được coi là không được báo cáo (ước tính LLM không được xác minh nguồn).",
           "human": {
             "exposure": "Không có đường phơi nhiễm nào được báo cáo.",
             "effect": "Không có tác dụng độc hại nào được báo cáo.",

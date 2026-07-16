@@ -3,8 +3,8 @@
   "locale": "fr",
   "source": {
     "resource": "plants_detail.json",
-    "sha256": "3e7dad9e00ff2297e0e8dff903aecf13a4209dc2105929fa283ea2fc85927725",
-    "record_count": 1653
+    "sha256": "a6da3c45a8713642c8ecc57e1abca9b1ff19c4f2e57b1ee35fd79598f797bc9b",
+    "record_count": 1654
   },
   "records": {
     "AAA0001": {
@@ -101466,6 +101466,57 @@
             "exposure": "Aucune voie d'exposition n'est signalée.",
             "effect": "Aucun effet toxique n'est signalé.",
             "note": "Aucune toxicité n'est signalée pour les chats dans ce catalogue ; cela ne prouve pas que la plante soit comestible ou inoffensive."
+          }
+        }
+      }
+    },
+    "AAA1655": {
+      "source_hash": "11e6d6e8adb77c48e7e8ba749a0f7ccdc010990b2c387d3a6de2593d7a4508a5",
+      "fields": {
+        "common_name": "Orchidée Canard Volant",
+        "bloom_tip": "Cette plante fleurit en automne, la période de floraison durant généralement plusieurs semaines.",
+        "description": "L'Orchidée Canard Volant est une petite orchidée terrestre originaire des landes et des forêts claires de l'est et du sud de l'Australie, prisée pour une fleur dont la forme évoque si étrangement un canard en plein vol qu'elle semble sculptée plutôt que poussée. Son labelle brillant, brun marron foncé, forme la 'tête' de l'oiseau, tandis que la colonne imite un corps déployé, attirant les mouches à scie indigènes dans un ingénieux système de pollinisation-piège qui se referme brusquement sur tout insecte qui le déclenche. Poussant à partir d'un tubercule souterrain dans un sol sableux et bien drainé, elle dépend d'un champignon symbiotique du sol pour survivre et n'est presque jamais observée en dehors de son milieu sauvage.",
+        "history_text_short": "Décrite pour la première fois par le botaniste Robert Brown en 1810, l'Orchidée Canard Volant a intrigué les naturalistes pendant des décennies avant que son astuce de pollinisation-piège, déclenchée par des mouches à scie indigènes sans méfiance, ne soit enfin comprise. Cette découverte a consacré sa réputation de fleur sauvage parmi les plus étranges et les plus photographiées d'Australie.",
+        "history_text_long": "Lorsque le botaniste anglais Robert Brown décrivit formellement cette petite orchidée terrestre en 1810, après avoir récolté des spécimens autour de la jeune colonie de Sydney, il ne pouvait guère imaginer à quel point son histoire naturelle allait s'avérer étrange. Il la plaça dans un nouveau genre, Caleana, en hommage au collecteur botaniste George Caley, qui avait passé des années à parcourir le bush de Nouvelle-Galles du Sud à la recherche de plantes inconnues et à envoyer des spécimens à Kew. Pendant des décennies, la fleur étrangement formée en canard de l'orchidée fut simplement admirée comme une curiosité du bush australien, jusqu'à ce qu'une observation plus attentive révèle son mécanisme de pollinisation-piège. Le labelle articulé et irritable repose en équilibre sur une lanière élastique ; lorsqu'une mouche à scie mâle, attirée par la fleur, s'y pose à la recherche d'une partenaire, le déclencheur fait claquer le labelle vers le bas, coinçant brièvement l'insecte contre la colonne et le couvrant de pollen avant qu'il ne se libère pour visiter la fleur suivante. Comme l'orchidée dépend entièrement d'un champignon du sol particulier pour germer et survivre, comme la plupart des orchidées terrestres australiennes, elle n'a jamais pu être cultivée à grande échelle, et aucune pépinière ne peut la proposer. Son seul véritable public est constitué de randonneurs et d'amateurs d'orchidées, qui planifient des excursions printanières dans les landes sableuses et les forêts claires dans l'espoir d'apercevoir sa silhouette reconnaissable entre les feuilles mortes, appareils photo prêts pour une fleur qui ressemble, en tout point, à un canard saisi en plein vol.",
+        "name_origin": "Le genre Caleana rend hommage à George Caley (1770-1829), botaniste et collecteur de plantes anglais qui explora le bush autour de la colonie de Sydney au début du XIXe siècle. L'épithète spécifique major signifie 'plus grand' en latin, distinguant cette orchidée de sa parente plus petite, Caleana minor.",
+        "symbolism_story": "Pour les randonneurs australiens, l'Orchidée Canard Volant est devenue un petit emblème de la ruse de la nature : une fleur qui imite un oiseau pour mieux tendre un piège à l'insecte qu'elle attire. Comme elle ne prospère qu'aux côtés de ses partenaires fongiques sauvages et disparaît dès que les conditions changent, apercevoir une fleur en pleine floraison donne l'impression de saisir un secret fugace du bush.",
+        "flower_meaning": "Tromperie",
+        "uses_list": [
+          {
+            "text": "Dépend des mouches à scie indigènes pour son système unique de pollinisation-piège, ce qui en fait une curiosité parmi les pollinisateurs indigènes d'Australie."
+          },
+          {
+            "text": "Recherchée par les amateurs d'orchidées et les randonneurs pour sa fleur étrangement formée en canard, bien qu'elle ne soit jamais vendue comme plante de jardin."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Tromperie",
+            "description": "La fleur articulée et piégeuse de l'orchidée, qui se referme sur les mouches à scie sans méfiance pour assurer sa pollinisation, en a fait un emblème de la ruse et du camouflage de la nature."
+          },
+          {
+            "keyword": "Rareté",
+            "description": "Comme elle ne peut être cultivée loin de ses partenaires fongiques sauvages, l'Orchidée Canard Volant symbolise une beauté fugace que l'on ne trouve que dans son habitat d'origine."
+          }
+        ],
+        "toxicity": {
+          "headline": "Aucune toxicité signalée",
+          "active_compound_display": "Aucun signalé",
+          "notes_en": "Aucune correspondance de toxicité faisant autorité trouvée ; traitée comme non signalée (estimation LLM non vérifiée par une source).",
+          "human": {
+            "exposure": "Aucune voie d'exposition signalée.",
+            "effect": "Aucun effet toxique signalé.",
+            "note": "Aucune toxicité signalée pour les humains dans ce catalogue ; cela ne prouve pas que la plante est comestible ou inoffensive."
+          },
+          "dog": {
+            "exposure": "Aucune voie d'exposition signalée.",
+            "effect": "Aucun effet toxique signalé.",
+            "note": "Aucune toxicité signalée pour les chiens dans ce catalogue ; cela ne prouve pas que la plante est comestible ou inoffensive."
+          },
+          "cat": {
+            "exposure": "Aucune voie d'exposition signalée.",
+            "effect": "Aucun effet toxique signalé.",
+            "note": "Aucune toxicité signalée pour les chats dans ce catalogue ; cela ne prouve pas que la plante est comestible ou inoffensive."
           }
         }
       }

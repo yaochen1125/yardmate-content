@@ -3,8 +3,8 @@
   "locale": "es",
   "source": {
     "resource": "plants_detail.json",
-    "sha256": "3e7dad9e00ff2297e0e8dff903aecf13a4209dc2105929fa283ea2fc85927725",
-    "record_count": 1653
+    "sha256": "a6da3c45a8713642c8ecc57e1abca9b1ff19c4f2e57b1ee35fd79598f797bc9b",
+    "record_count": 1654
   },
   "records": {
     "AAA0001": {
@@ -101479,6 +101479,57 @@
           "cat": {
             "exposure": "No se reporta ninguna ruta de exposición.",
             "effect": "No se reporta ningún efecto tóxico.",
+            "note": "No se reporta toxicidad para gatos en este catálogo; esto no es evidencia de que la planta sea comestible o inofensiva."
+          }
+        }
+      }
+    },
+    "AAA1655": {
+      "source_hash": "11e6d6e8adb77c48e7e8ba749a0f7ccdc010990b2c387d3a6de2593d7a4508a5",
+      "fields": {
+        "common_name": "Orquídea Pato Volador",
+        "bloom_tip": "Esta planta florece en otoño, y el periodo de floración suele durar varias semanas.",
+        "description": "La Orquídea Pato Volador es una pequeña orquídea terrestre originaria de los brezales y bosques abiertos del este y sur de Australia, apreciada por una flor con una forma tan asombrosamente parecida a la de un pato en pleno vuelo que parece esculpida más que crecida. Su labelo brillante, de color marrón caoba oscuro, forma la 'cabeza' del ave, mientras que la columna imita un cuerpo extendido, atrayendo a las moscas sierra nativas hacia un ingenioso sistema de polinización por trampa que se cierra de golpe sobre cualquier insecto que lo activa. Crece a partir de un tubérculo subterráneo en suelo arenoso y bien drenado, depende de un hongo simbiótico del suelo para sobrevivir y casi nunca se ve fuera de su hábitat silvestre.",
+        "history_text_short": "Descrita por primera vez por el botánico Robert Brown en 1810, la Orquídea Pato Volador desconcertó a los naturalistas durante décadas antes de que se comprendiera finalmente su truco de polinización por trampa, activado por incautas moscas sierra nativas. Ese descubrimiento consolidó su fama como una de las flores silvestres más extrañas y fotografiadas de Australia.",
+        "history_text_long": "Cuando el botánico inglés Robert Brown describió formalmente esta pequeña orquídea terrestre en 1810, tras recolectar especímenes en la joven colonia de Sídney, difícilmente podía imaginar lo extraña que resultaría su historia natural. La incluyó en un nuevo género, Caleana, en honor al recolector botánico George Caley, quien había pasado años recorriendo el monte de Nueva Gales del Sur en busca de plantas desconocidas y enviando especímenes a Kew. Durante décadas, la asombrosa flor con forma de pato de la orquídea fue admirada simplemente como una curiosidad del monte australiano, hasta que una observación más detallada reveló su mecanismo de polinización por trampa. El labelo articulado e irritable se mantiene en equilibrio sobre una tira elástica; cuando una mosca sierra macho, atraída por la flor, se posa en él buscando pareja, el disparador hace que el labelo se cierre bruscamente hacia abajo, atrapando brevemente al insecto contra la columna y cubriéndolo de polen antes de que logre liberarse para visitar la siguiente flor. Como la orquídea depende por completo de un hongo del suelo específico para germinar y sobrevivir, como la mayoría de las orquídeas terrestres australianas, nunca ha podido cultivarse a gran escala, y ningún vivero puede ofrecerla. Su único público real son los excursionistas y los aficionados a las orquídeas, que planean viajes de primavera a brezales arenosos y bosques abiertos con la esperanza de descubrir su silueta inconfundible asomando entre la hojarasca, cámaras listas para una flor que parece, en todos los sentidos, un pato atrapado a mitad de vuelo.",
+        "name_origin": "El género Caleana rinde homenaje a George Caley (1770-1829), un botánico y recolector de plantas inglés que exploró el monte alrededor de la colonial Sídney a comienzos del siglo XIX. El epíteto de la especie, major, significa 'mayor' o 'más grande' en latín, y distingue a esta orquídea de su pariente más pequeña, Caleana minor.",
+        "symbolism_story": "Para los excursionistas australianos, la Orquídea Pato Volador se ha convertido en un pequeño emblema de la astucia de la naturaleza: una flor que imita a un ave solo para tender una trampa al insecto que atrae. Como prospera únicamente junto a sus socios fúngicos silvestres y desaparece en cuanto cambian las condiciones, descubrir una en flor se siente como capturar un secreto fugaz del monte.",
+        "flower_meaning": "Engaño",
+        "uses_list": [
+          {
+            "text": "Depende de las moscas sierra nativas para su singular sistema de polinización por trampa, lo que la convierte en una curiosidad entre los polinizadores nativos de Australia."
+          },
+          {
+            "text": "Buscada por aficionados a las orquídeas y excursionistas por su asombrosa flor con forma de pato, aunque nunca se vende como planta de jardín."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Engaño",
+            "description": "La flor articulada y armada como trampa de la orquídea, que se cierra de golpe sobre incautas moscas sierra para asegurar la polinización, la ha convertido en un emblema de la astucia y el disfraz de la naturaleza."
+          },
+          {
+            "keyword": "Rareza",
+            "description": "Como no puede cultivarse lejos de sus socios fúngicos silvestres, la Orquídea Pato Volador simboliza una belleza fugaz que solo se encuentra en su hábitat nativo."
+          }
+        ],
+        "toxicity": {
+          "headline": "No se reporta toxicidad",
+          "active_compound_display": "Ninguno reportado",
+          "notes_en": "No se encontró una coincidencia de toxicidad autorizada; se trata como no reportado (la estimación del LLM no está verificada por fuentes).",
+          "human": {
+            "exposure": "No se reporta vía de exposición.",
+            "effect": "No se reporta efecto tóxico.",
+            "note": "No se reporta toxicidad para humanos en este catálogo; esto no es evidencia de que la planta sea comestible o inofensiva."
+          },
+          "dog": {
+            "exposure": "No se reporta vía de exposición.",
+            "effect": "No se reporta efecto tóxico.",
+            "note": "No se reporta toxicidad para perros en este catálogo; esto no es evidencia de que la planta sea comestible o inofensiva."
+          },
+          "cat": {
+            "exposure": "No se reporta vía de exposición.",
+            "effect": "No se reporta efecto tóxico.",
             "note": "No se reporta toxicidad para gatos en este catálogo; esto no es evidencia de que la planta sea comestible o inofensiva."
           }
         }
