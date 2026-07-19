@@ -3,8 +3,8 @@
   "locale": "it",
   "source": {
     "resource": "plants_detail.json",
-    "sha256": "f5ceba9edbc022b391d26d0894726ed5c75dd038fa0760527733752bd505fe1d",
-    "record_count": 1657
+    "sha256": "f7f31c2254d94bf443b732b38e02ab79c69c13f7b856f6734861b18980e75151",
+    "record_count": 1658
   },
   "records": {
     "AAA0001": {
@@ -101753,6 +101753,78 @@
             "description": "Il suo fiore a molla, costruito per sparare polline sulle api visitatrici, l'ha resa un piccolo emblema dell'ingegnosità della natura nell'ottenere esattamente ciò di cui ha bisogno."
           }
         ]
+      }
+    },
+    "AAA1659": {
+      "source_hash": "6ca0a2c79b985262254a02ab012bc09c089118cc094c06020af4891e5425c41f",
+      "fields": {
+        "common_name": "Asclepiade fascicolata",
+        "bloom_tip": "I fiori di questa pianta attirano numerosi impollinatori e sbocciano da aprile ad agosto.",
+        "fruit_tip": "I frutti di questa pianta sono visibili in agosto e settembre, con una forma particolare e valore ornamentale.",
+        "description": "L'Asclepiade fascicolata è un'erbacea perenne slanciata, originaria dei pendii aridi, delle rive dei ruscelli e delle praterie aperte della California e del sud-ovest americano. Le sue foglie sottili, simili a quelle del salice, crescono in verticilli lungo fusti eretti e, dalla tarda primavera all'estate, si coronano di rade ombrelle di piccoli fiori dal rosa pallido al lavanda. Spezzando un fusto fuoriesce una linfa lattiginosa e amara che da sempre scoraggia gli animali al pascolo. Oltre al suo valore ornamentale, l'Asclepiade fascicolata è la pianta ospite principale dei bruchi della farfalla monarca lungo la rotta migratoria del Pacifico, il che la rende un pilastro dei progetti di ripristino degli habitat californiani e un richiamo per api e farfalle autoctone.",
+        "history_text_short": "Per generazioni, i popoli indigeni della California hanno attorcigliato le fibre essiccate del fusto dell'Asclepiade fascicolata per farne corde, reti e sandali. Oggi la pianta svolge un ruolo ancora più importante come unica fonte di cibo per i bruchi della farfalla monarca lungo la rotta migratoria del Pacifico.",
+        "history_text_long": "Molto prima di diventare la pianta preferita dei giardinieri di habitat naturali, l'Asclepiade fascicolata era usata dai popoli indigeni della California come fonte di fibra. Una volta che i fusti si seccavano a fine estate, i raccoglitori li spaccavano ed estraevano le resistenti fibre interne, che venivano attorcigliate a mano per ottenere corde abbastanza robuste per reti da pesca, trappole e sandali. I Chumash, i Miwok e altre comunità native della California tramandarono questa abilità per generazioni, apprezzando l'Asclepiade fascicolata per la sua abbondanza lungo le rive dei corsi d'acqua e i terreni disturbati.\n\nIl ruolo oggi più noto della pianta emerse molto più tardi. Quando le popolazioni di farfalle monarca subirono un forte declino nel corso del ventesimo secolo, i biologi confermarono che l'asclepiade è l'unica fonte di cibo dei bruchi: le monarche femmine depongono le uova esclusivamente su questa pianta. L'Asclepiade fascicolata, autoctona e diffusa nell'Ovest, divenne un elemento centrale dei lavori di ripristino lungo la rotta migratoria del Pacifico, il corridoio migratorio seguito dalle monarche occidentali tra i boschetti costieri di svernamento della California e le zone di riproduzione nell'entroterra. Oggi, progetti comunitari di raccolta dei semi e giardini di habitat autoctoni piantano deliberatamente l'Asclepiade fascicolata per ricostruire il legame spezzato tra farfalla e fiore, trasformando quella che un tempo era una pianta di bordo strada trascurata in un silenzioso simbolo di riparazione ecologica.",
+        "name_origin": "Il nome del genere Asclepias onora Asclepio, il dio greco della medicina, in riferimento alla lunga storia della famiglia dell'asclepiade nella medicina popolare. Il nome della specie fascicularis deriva dal latino fasciculus, 'piccolo fascio', e descrive come le foglie strette si raggruppino in fasci verticillati lungo il fusto.",
+        "symbolism_story": "Poiché le farfalle monarca depongono le uova esclusivamente sull'asclepiade, l'Asclepiade fascicolata è diventata un simbolo di trasformazione e rinascita. I conservazionisti che la piantano in tutta la California vedono in ogni nuovo popolamento un piccolo gesto di ripristino di un'antica e fragile alleanza tra pianta e farfalla.",
+        "flower_meaning": "Trasformazione",
+        "fragrance": {
+          "notes": "Un profumo lieve e dolce, simile al miele, che proviene dalle ombrelle di fiori, più percepibile nei pomeriggi caldi."
+        },
+        "uses_list": [
+          {
+            "text": "Pianta ospite principale dei bruchi della farfalla monarca lungo la rotta migratoria del Pacifico"
+          },
+          {
+            "text": "Fonte di nettare per api autoctone, farfalle e altri impollinatori"
+          },
+          {
+            "text": "Le fibre del fusto venivano tradizionalmente attorcigliate per fare corde, reti e sandali dai popoli indigeni della California"
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Trasformazione",
+            "description": "Essendo l'unica pianta ospite dei bruchi della monarca, l'Asclepiade fascicolata è diventata un simbolo vivente di metamorfosi e rinnovamento nei giardini di ripristino californiani."
+          },
+          {
+            "keyword": "Resilienza",
+            "description": "Prosperando in suoli aridi e disturbati dove quasi nulla attecchisce, rappresenta silenziosamente resistenza e recupero."
+          }
+        ],
+        "toxicity": {
+          "headline": "Animali domestici: Moderato",
+          "active_compound_display": "cardenolidi (glicosidi cardiotonici)",
+          "notes_en": "Tutte le parti contengono cardenolidi tossici; la linfa lattiginosa può anche irritare pelle e occhi al contatto.",
+          "human": {
+            "exposure": "Non è segnalata alcuna via di esposizione.",
+            "effect": "Non è segnalato alcun effetto tossico.",
+            "note": "La tossicità per l'uomo non è ben documentata; si raccomanda cautela fino a verifica."
+          },
+          "dog": {
+            "exposure": "Ingestione di qualsiasi parte della pianta.",
+            "effect": "Vomito, diarrea, ipersalivazione, debolezza e, a dosi elevate, aritmia cardiaca.",
+            "note": "Tutte le parti contengono cardenolidi tossici; la linfa lattiginosa può anche irritare pelle e occhi al contatto.",
+            "symptoms": [
+              "Vomito.",
+              "Diarrea.",
+              "Ipersalivazione.",
+              "Debolezza.",
+              "Aritmia cardiaca a dosi elevate."
+            ]
+          },
+          "cat": {
+            "exposure": "Ingestione di qualsiasi parte della pianta.",
+            "effect": "Vomito, diarrea, ipersalivazione, debolezza e, a dosi elevate, aritmia cardiaca.",
+            "note": "Tutte le parti contengono cardenolidi tossici; la linfa lattiginosa può anche irritare pelle e occhi al contatto.",
+            "symptoms": [
+              "Vomito.",
+              "Diarrea.",
+              "Ipersalivazione.",
+              "Debolezza.",
+              "Aritmia cardiaca a dosi elevate."
+            ]
+          }
+        }
       }
     }
   }

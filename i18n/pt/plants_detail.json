@@ -3,8 +3,8 @@
   "locale": "pt",
   "source": {
     "resource": "plants_detail.json",
-    "sha256": "f5ceba9edbc022b391d26d0894726ed5c75dd038fa0760527733752bd505fe1d",
-    "record_count": 1657
+    "sha256": "f7f31c2254d94bf443b732b38e02ab79c69c13f7b856f6734861b18980e75151",
+    "record_count": 1658
   },
   "records": {
     "AAA0001": {
@@ -101753,6 +101753,78 @@
             "description": "Sua flor de mola, construída para lançar pólen nas abelhas visitantes, tornou-se um pequeno emblema da inteligência da natureza em conseguir exatamente o que precisa."
           }
         ]
+      }
+    },
+    "AAA1659": {
+      "source_hash": "6ca0a2c79b985262254a02ab012bc09c089118cc094c06020af4891e5425c41f",
+      "fields": {
+        "common_name": "Erva-leiteira-de-folha-estreita",
+        "bloom_tip": "As flores desta planta atraem muitos polinizadores e florescem de abril a agosto.",
+        "fruit_tip": "Os frutos desta planta podem ser vistos em agosto e setembro, com formato peculiar e valor ornamental.",
+        "description": "A Erva-leiteira-de-folha-estreita é uma perene esguia, nativa de encostas secas, margens de riachos e campos abertos da Califórnia e do sudoeste dos Estados Unidos. Suas folhas finas, semelhantes às do salgueiro, crescem em verticilos ao longo de hastes eretas e, do final da primavera ao verão, exibem umbelas soltas de pequenas flores que vão do rosa-claro ao lavanda. Ao quebrar uma haste, libera-se uma seiva leitosa e amarga que sempre afastou os animais de pastagem. Além de seu valor ornamental, a Erva-leiteira-de-folha-estreita é a principal planta hospedeira das lagartas da borboleta-monarca ao longo da Rota Migratória do Pacífico, tornando-se um pilar dos projetos de restauração de habitat na Califórnia e um ímã para abelhas e borboletas nativas.",
+        "history_text_short": "Por gerações, os povos indígenas da Califórnia torceram as fibras secas do caule da Erva-leiteira-de-folha-estreita para fazer cordas, redes e sandálias. Hoje a planta desempenha um papel ainda maior como única fonte de alimento das lagartas da borboleta-monarca ao longo da Rota Migratória do Pacífico.",
+        "history_text_long": "Muito antes de se tornar a favorita dos jardineiros de habitats nativos, a Erva-leiteira-de-folha-estreita era usada pelos povos indígenas da Califórnia como fonte de fibra. Depois que os caules secavam no final do verão, os coletores os rachavam e extraíam as resistentes fibras internas, torcidas à mão até formar cordas fortes o bastante para redes de pesca, armadilhas e sandálias. Os chumash, os miwok e outras comunidades nativas da Califórnia transmitiram essa habilidade por gerações, valorizando a Erva-leiteira-de-folha-estreita por sua abundância ao longo de margens de riachos e terrenos alterados.\n\nO papel mais conhecido da planta surgiu muito mais tarde. Quando as populações da borboleta-monarca começaram um forte declínio ao longo do século vinte, biólogos confirmaram que a erva-leiteira é a única fonte de alimento das lagartas — as fêmeas da monarca não depositam ovos em nenhuma outra planta. A Erva-leiteira-de-folha-estreita, nativa e amplamente distribuída pelo oeste, tornou-se peça central dos trabalhos de restauração ao longo da Rota Migratória do Pacífico, o corredor migratório seguido pelas monarcas ocidentais entre os bosques costeiros de invernada da Califórnia e suas áreas de reprodução no interior. Hoje, projetos comunitários de coleta de sementes e jardins de habitat nativo plantam deliberadamente a Erva-leiteira-de-folha-estreita para reconstruir o elo rompido entre borboleta e flor, transformando o que antes era uma planta de acostamento negligenciada em um símbolo silencioso de reparação ecológica.",
+        "name_origin": "O nome do gênero, Asclepias, homenageia Asclépio, o deus grego da medicina, uma referência à longa história da família da erva-leiteira na medicina popular. O nome da espécie, fascicularis, vem do latim fasciculus, 'pequeno feixe', descrevendo como as folhas estreitas se agrupam em feixes verticilados ao longo do caule.",
+        "symbolism_story": "Como as borboletas-monarca depositam seus ovos exclusivamente na erva-leiteira, a Erva-leiteira-de-folha-estreita passou a simbolizar transformação e renascimento. Conservacionistas que a plantam por toda a Califórnia veem em cada novo talhão um pequeno ato de restauração de uma antiga e frágil parceria entre planta e borboleta.",
+        "flower_meaning": "Transformação",
+        "fragrance": {
+          "notes": "Um aroma leve e doce, semelhante ao mel, exalado pelas umbelas de flores, mais perceptível nas tardes quentes."
+        },
+        "uses_list": [
+          {
+            "text": "Principal planta hospedeira das lagartas da borboleta-monarca ao longo da Rota Migratória do Pacífico"
+          },
+          {
+            "text": "Fonte de néctar para abelhas nativas, borboletas e outros polinizadores"
+          },
+          {
+            "text": "As fibras do caule eram tradicionalmente torcidas para fazer cordas, redes e sandálias pelos povos indígenas da Califórnia"
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Transformação",
+            "description": "Sendo a única planta hospedeira das lagartas da monarca, a Erva-leiteira-de-folha-estreita tornou-se um símbolo vivo de metamorfose e renovação nos jardins de restauração da Califórnia."
+          },
+          {
+            "keyword": "Resiliência",
+            "description": "Prosperando em solos secos e alterados onde quase nada mais se fixa, ela representa silenciosamente resistência e recuperação."
+          }
+        ],
+        "toxicity": {
+          "headline": "Animais de estimação: Moderado",
+          "active_compound_display": "cardenolídeos (glicosídeos cardiotônicos)",
+          "notes_en": "Todas as partes contêm cardenolídeos tóxicos; a seiva leitosa também pode irritar a pele e os olhos ao contato.",
+          "human": {
+            "exposure": "Nenhuma via de exposição é relatada.",
+            "effect": "Nenhum efeito tóxico é relatado.",
+            "note": "A toxicidade para humanos não está bem documentada; recomenda-se cautela até verificação."
+          },
+          "dog": {
+            "exposure": "Ingestão de qualquer parte da planta.",
+            "effect": "Vômito, diarreia, hipersalivação, fraqueza e, em doses elevadas, arritmia cardíaca.",
+            "note": "Todas as partes contêm cardenolídeos tóxicos; a seiva leitosa também pode irritar a pele e os olhos ao contato.",
+            "symptoms": [
+              "Vômito.",
+              "Diarreia.",
+              "Hipersalivação.",
+              "Fraqueza.",
+              "Arritmia cardíaca em doses elevadas."
+            ]
+          },
+          "cat": {
+            "exposure": "Ingestão de qualquer parte da planta.",
+            "effect": "Vômito, diarreia, hipersalivação, fraqueza e, em doses elevadas, arritmia cardíaca.",
+            "note": "Todas as partes contêm cardenolídeos tóxicos; a seiva leitosa também pode irritar a pele e os olhos ao contato.",
+            "symptoms": [
+              "Vômito.",
+              "Diarreia.",
+              "Hipersalivação.",
+              "Fraqueza.",
+              "Arritmia cardíaca em doses elevadas."
+            ]
+          }
+        }
       }
     }
   }

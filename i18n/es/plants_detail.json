@@ -3,8 +3,8 @@
   "locale": "es",
   "source": {
     "resource": "plants_detail.json",
-    "sha256": "f5ceba9edbc022b391d26d0894726ed5c75dd038fa0760527733752bd505fe1d",
-    "record_count": 1657
+    "sha256": "f7f31c2254d94bf443b732b38e02ab79c69c13f7b856f6734861b18980e75151",
+    "record_count": 1658
   },
   "records": {
     "AAA0001": {
@@ -101753,6 +101753,78 @@
             "description": "Su flor con resorte, diseñada para lanzar polen sobre las abejas visitantes, la ha convertido en un pequeño emblema de la astucia de la naturaleza para obtener exactamente lo que necesita."
           }
         ]
+      }
+    },
+    "AAA1659": {
+      "source_hash": "6ca0a2c79b985262254a02ab012bc09c089118cc094c06020af4891e5425c41f",
+      "fields": {
+        "common_name": "Algodoncillo de Hoja Angosta",
+        "bloom_tip": "Las flores de esta planta atraen a numerosos polinizadores y florecen de abril a agosto.",
+        "fruit_tip": "Los frutos de esta planta pueden verse en agosto y septiembre, con una forma singular y valor ornamental.",
+        "description": "El Algodoncillo de Hoja Angosta es una hierba perenne y esbelta, nativa de laderas secas, riberas de arroyos y pastizales abiertos de California y el suroeste de Estados Unidos. Sus hojas delgadas, semejantes a las del sauce, crecen en verticilos a lo largo de tallos erguidos y se coronan, de finales de primavera a verano, con umbelas sueltas de pequeñas flores de color rosa pálido a lavanda. Al romper un tallo brota una savia lechosa y amarga que desde siempre ha disuadido a los animales de pastar. Más allá de su atractivo ornamental, el Algodoncillo de Hoja Angosta es la planta hospedera principal de las orugas de la mariposa monarca a lo largo de la Ruta Migratoria del Pacífico, lo que lo convierte en un pilar de la restauración de hábitats en California y en un imán para abejas y mariposas nativas.",
+        "history_text_short": "Durante generaciones, los pueblos indígenas de California retorcieron las fibras secas del tallo del Algodoncillo de Hoja Angosta para hacer cordeles, redes y sandalias. Hoy la planta cumple un papel aún mayor como única fuente de alimento de las orugas de la mariposa monarca a lo largo de la Ruta Migratoria del Pacífico.",
+        "history_text_long": "Mucho antes de que el Algodoncillo de Hoja Angosta se convirtiera en la planta favorita de los jardineros de hábitats nativos, los pueblos indígenas de California la usaban como fuente de fibra. Una vez que los tallos se secaban a finales del verano, los recolectores los partían y extraían las resistentes fibras internas, que retorcían a mano para formar cordeles lo bastante fuertes para redes de pesca, trampas y sandalias. Los chumash, los miwok y otras comunidades nativas de California transmitieron esta habilidad durante generaciones, apreciando el Algodoncillo de Hoja Angosta por su abundancia a lo largo de riberas y terrenos alterados.\n\nEl papel más conocido de la planta surgió mucho después. Cuando las poblaciones de mariposa monarca comenzaron un fuerte declive durante el siglo veinte, los biólogos confirmaron que el algodoncillo es la única fuente de alimento de las orugas: las hembras de la monarca no ponen huevos en ninguna otra planta. El Algodoncillo de Hoja Angosta, nativo y ampliamente distribuido en el oeste, se convirtió en pieza central de los trabajos de restauración a lo largo de la Ruta Migratoria del Pacífico, el corredor migratorio que siguen las monarcas occidentales entre las arboledas costeras de invernada de California y sus zonas de reproducción tierra adentro. Hoy, proyectos comunitarios de recolección de semillas y jardines de hábitat nativo plantan deliberadamente Algodoncillo de Hoja Angosta para reconstruir el vínculo roto entre la mariposa y la flor, convirtiendo lo que antes era una planta de cuneta pasada por alto en un silencioso símbolo de reparación ecológica.",
+        "name_origin": "El nombre del género, Asclepias, honra a Asclepio, el dios griego de la medicina, en referencia a la larga historia de la familia del algodoncillo en la medicina popular. El nombre de la especie, fascicularis, proviene del latín fasciculus, 'pequeño manojo', y describe cómo las hojas angostas se agrupan en manojos verticilados a lo largo del tallo.",
+        "symbolism_story": "Como las mariposas monarca ponen sus huevos exclusivamente en el algodoncillo, el Algodoncillo de Hoja Angosta ha llegado a simbolizar la transformación y el renacimiento. Los conservacionistas que lo plantan por toda California ven en cada nuevo rodal un pequeño acto de restauración de una antigua y frágil alianza entre planta y mariposa.",
+        "flower_meaning": "Transformación",
+        "fragrance": {
+          "notes": "Un aroma tenue y dulce, similar a la miel, que desprenden las umbelas de flores, más perceptible en las tardes cálidas."
+        },
+        "uses_list": [
+          {
+            "text": "Planta hospedera principal de las orugas de la mariposa monarca a lo largo de la Ruta Migratoria del Pacífico"
+          },
+          {
+            "text": "Fuente de néctar para abejas nativas, mariposas y otros polinizadores"
+          },
+          {
+            "text": "Las fibras del tallo se retorcían tradicionalmente para hacer cordeles, redes y sandalias entre los pueblos indígenas de California"
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Transformación",
+            "description": "Como única planta hospedera de las orugas de la monarca, el Algodoncillo de Hoja Angosta se ha convertido en un símbolo vivo de metamorfosis y renovación en los jardines de restauración de California."
+          },
+          {
+            "keyword": "Resiliencia",
+            "description": "Al prosperar en suelos secos y alterados donde casi nada más arraiga, representa en silencio la resistencia y la recuperación."
+          }
+        ],
+        "toxicity": {
+          "headline": "Mascotas: Moderado",
+          "active_compound_display": "cardenólidos (glucósidos cardiotónicos)",
+          "notes_en": "Todas las partes contienen cardenólidos tóxicos; la savia lechosa también puede irritar la piel y los ojos al contacto.",
+          "human": {
+            "exposure": "No se reporta ninguna vía de exposición.",
+            "effect": "No se reporta ningún efecto tóxico.",
+            "note": "La toxicidad para los humanos no está bien documentada; se recomienda precaución hasta su verificación."
+          },
+          "dog": {
+            "exposure": "Ingerir cualquier parte de la planta.",
+            "effect": "Vómito, diarrea, hipersalivación, debilidad y, en dosis grandes, arritmia cardíaca.",
+            "note": "Todas las partes contienen cardenólidos tóxicos; la savia lechosa también puede irritar la piel y los ojos al contacto.",
+            "symptoms": [
+              "Vómito.",
+              "Diarrea.",
+              "Hipersalivación.",
+              "Debilidad.",
+              "Arritmia cardíaca en dosis grandes."
+            ]
+          },
+          "cat": {
+            "exposure": "Ingerir cualquier parte de la planta.",
+            "effect": "Vómito, diarrea, hipersalivación, debilidad y, en dosis grandes, arritmia cardíaca.",
+            "note": "Todas las partes contienen cardenólidos tóxicos; la savia lechosa también puede irritar la piel y los ojos al contacto.",
+            "symptoms": [
+              "Vómito.",
+              "Diarrea.",
+              "Hipersalivación.",
+              "Debilidad.",
+              "Arritmia cardíaca en dosis grandes."
+            ]
+          }
+        }
       }
     }
   }
