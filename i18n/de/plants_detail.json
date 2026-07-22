@@ -3,8 +3,8 @@
   "locale": "de",
   "source": {
     "resource": "plants_detail.json",
-    "sha256": "8039e61a5ee1ddaa73e438fe3012ef331083a949e2106d633084c4bba314c921",
-    "record_count": 1664
+    "sha256": "099d6aa79675e75b76fa5aa1a3c78e5d2744c19db59f905a7496fc96af2e582a",
+    "record_count": 1665
   },
   "records": {
     "AAA0001": {
@@ -102108,6 +102108,55 @@
             "exposure": "Kein Expositionsweg wird gemeldet.",
             "effect": "Keine toxische Wirkung wird gemeldet.",
             "note": "Die Toxizität für Katzen ist nicht gut dokumentiert; Vorsicht ist geboten, bis dies bestätigt wird."
+          }
+        }
+      }
+    },
+    "AAA1666": {
+      "source_hash": "2690e950863a1b36613335069786b02a7c93ab11a89c48d26cc3c7898d01073d",
+      "fields": {
+        "common_name": "Lanzettliche Chroesthes",
+        "description": "Die Lanzettliche Chroesthes ist ein schlanker, selten verzweigter Strauch aus der Familie der Acanthaceae, geschätzt für seine schmalen, glänzenden, lanzettlichen Blätter, die in eine feine Spitze auslaufen. In den warmen Monaten bildet er lockere Büschel röhrenförmiger weißer Blüten, die rosa oder violett gesprenkelt sind, jede etwa 2,5 Zentimeter lang und nahe den Triebspitzen sitzend. In seinem natürlichen Verbreitungsgebiet von Yunnan über die Wälder Myanmars, Laos', Vietnams, Thailands und Malaysias wächst er still im schattigen Unterwuchs unter einem höheren Waldkronendach. In Kübeln oder einem schattigen Beet belohnt er Geduld mit einer zurückhaltenden Wuchsform und ungewöhnlichen, gesprenkelten Blüten, die in der Kultur nur selten zu sehen sind.",
+        "history_text_short": "Während Dietrich Brandis' wegweisender Teakholz-Vermessungen im britischen Burma der 1860er Jahre gesammelt, wurde dieser bescheidene Unterwuchsstrauch 1867 als Asystasia lanceolata benannt und 1983 in eine eigene Gattung, Chroesthes, überführt. Er zählt bis heute zu den seltensten Pflanzen seiner Familie und ist nur von wenigen wilden Exemplaren bekannt.",
+        "history_text_long": "1857 traf der deutschstämmige Förster Dietrich Brandis in Pegu ein, im damaligen Britisch-Burma, mit einem radikal neuen Auftrag: die Teakwälder der Region zu vermessen und ein System zu entwerfen, das ihre Nutzung ermöglichte, ohne sie zu zerstören. Unter den hoch aufragenden Teakkronen arbeiteten sich seine Vermessungsteams landeinwärts entlang des Flusses Thaungyin vor und erfassten jeden Baum und Strauch, dem sie begegneten. Unter den Exemplaren, die Brandis nach Kalkutta sandte, befand sich eine unscheinbare Unterwuchspflanze mit schmalen, lanzettlichen Blättern und kleinen weißen, rosa gesprenkelten Blüten — nichts, das wirtschaftlich so geschätzt war wie das Teakholz ringsum, doch ebenso sorgfältig gepresst und beschriftet. 1867 beschrieb Thomas Anderson, der Leiter des Botanischen Gartens von Kalkutta, sie als Asystasia lanceolata, eine von Hunderten neuer Arten, die aus Brandis' forstlichen Vermessungen hervorgingen. Über ein Jahrhundert blieb sie unter diesem Namen, bis der dänische Botaniker Bertel Hansen 1983 ihre Blüten erneut untersuchte und sie in eine eigene Gattung, Chroesthes, überführte. Bis heute ist die Lanzettliche Chroesthes ähnlich schwer zu finden wie zu Brandis' Zeiten: In Yunnan, Myanmar, Laos, Vietnam, Thailand und Malaysia ist sie nur von einer Handvoll Exemplaren bekannt, jedes davon still verborgen im tiefen Schatten eines weitaus höheren Waldes.",
+        "name_origin": "Das Artepitheton lanceolata ist Lateinisch für „lanzettförmig\" und beschreibt die schmalen, spitz zulaufenden Blätter dieses Strauchs. Seine Gattung, Chroesthes, wurde 1927 aufgestellt; diese Art wurde 1983 aus der älteren Gattung Asystasia in sie überführt, als der Botaniker Bertel Hansen erkannte, dass ihr Blütenbau sie davon abhob.",
+        "symbolism_story": "Um die Lanzettliche Chroesthes ranken sich keine alten Überlieferungen — dafür ist sie viel zu selten und zu jung klassifiziert. Stattdessen lesen Gärtner, die sie suchen, die Bedeutung oft aus ihrer Seltenheit selbst heraus: ein bescheidener Strauch mit nur einer Handvoll bekannter Wildexemplare, der seine schmalen Blätter und gesprenkelten Blüten im Schatten weit größerer Wälder bewahrt.",
+        "flower_meaning": "Stille Seltenheit",
+        "fragrance": {
+          "notes": "Für diese Art ist kein Duft dokumentiert."
+        },
+        "uses_list": [
+          {
+            "text": "Wird vor allem von Sammlern seltener Acanthaceae als Kuriosität kultiviert, geschätzt für sein schmales, lanzettliches Laub und seine ungewöhnlichen, rosa gesprenkelten weißen Blüten."
+          },
+          {
+            "text": "Seine röhrenförmigen, nektarreichen Blüten locken in seinem natürlichen Waldunterwuchs kleine bestäubende Insekten an."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Stille Seltenheit",
+            "description": "Da sie nur von einer Handvoll wilder Exemplare bekannt ist und stets im tiefen Schatten eines weit höheren Waldes zu finden war, ist die Lanzettliche Chroesthes zum Sinnbild für stille, leicht übersehene Werte geworden — es lohnt sich nur für jene, die genau hinsehen."
+          }
+        ],
+        "toxicity": {
+          "headline": "Keine Toxizität bekannt",
+          "active_compound_display": "Keine bekannt",
+          "notes_en": "Keine autoritative Toxizitätsübereinstimmung gefunden; als nicht berichtet behandelt (LLM-Schätzung ist nicht quellgeprüft).",
+          "human": {
+            "exposure": "Es wird kein Expositionsweg berichtet.",
+            "effect": "Es wird keine toxische Wirkung berichtet.",
+            "note": "In diesem Katalog wird keine Toxizität für Menschen berichtet; dies ist kein Beleg dafür, dass die Pflanze essbar oder unbedenklich ist."
+          },
+          "dog": {
+            "exposure": "Es wird kein Expositionsweg berichtet.",
+            "effect": "Es wird keine toxische Wirkung berichtet.",
+            "note": "In diesem Katalog wird keine Toxizität für Hunde berichtet; dies ist kein Beleg dafür, dass die Pflanze essbar oder unbedenklich ist."
+          },
+          "cat": {
+            "exposure": "Es wird kein Expositionsweg berichtet.",
+            "effect": "Es wird keine toxische Wirkung berichtet.",
+            "note": "In diesem Katalog wird keine Toxizität für Katzen berichtet; dies ist kein Beleg dafür, dass die Pflanze essbar oder unbedenklich ist."
           }
         }
       }

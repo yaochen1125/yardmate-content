@@ -3,8 +3,8 @@
   "locale": "es",
   "source": {
     "resource": "plants_detail.json",
-    "sha256": "8039e61a5ee1ddaa73e438fe3012ef331083a949e2106d633084c4bba314c921",
-    "record_count": 1664
+    "sha256": "099d6aa79675e75b76fa5aa1a3c78e5d2744c19db59f905a7496fc96af2e582a",
+    "record_count": 1665
   },
   "records": {
     "AAA0001": {
@@ -102122,6 +102122,55 @@
             "exposure": "No se reporta ninguna vía de exposición.",
             "effect": "No se reporta ningún efecto tóxico.",
             "note": "La toxicidad para los gatos no está bien documentada; se recomienda precaución hasta que se verifique."
+          }
+        }
+      }
+    },
+    "AAA1666": {
+      "source_hash": "2690e950863a1b36613335069786b02a7c93ab11a89c48d26cc3c7898d01073d",
+      "fields": {
+        "common_name": "Chroesthes lanceolada",
+        "description": "Chroesthes lanceolada es un arbusto esbelto y rara vez ramificado de la familia Acanthaceae, apreciado por sus hojas estrechas, brillantes y lanceoladas que se afinan en una punta delicada. En los meses cálidos produce racimos sueltos de flores tubulares blancas moteadas de rosa o púrpura, cada una de unos 2,5 centímetros de largo, agrupadas cerca de las puntas de los tallos. En su área nativa, que se extiende por Yunnan y los bosques de Myanmar, Laos, Vietnam, Tailandia y Malasia, crece calladamente en el sotobosque sombreado bajo un dosel forestal más alto. Cultivada en macetas o en un arriate sombreado, recompensa la paciencia con un porte discreto y unas flores moteadas poco comunes en cultivo.",
+        "history_text_short": "Recolectada durante los pioneros levantamientos de bosques de teca de Dietrich Brandis en la Birmania británica de la década de 1860, este modesto arbusto de sotobosque fue nombrado Asystasia lanceolata en 1867 y trasladado a su propio género, Chroesthes, en 1983. Sigue siendo una de las plantas más raras de su familia, conocida solo por unos pocos ejemplares silvestres.",
+        "history_text_long": "En 1857 el forestal de origen alemán Dietrich Brandis llegó a Pegu, en la entonces Birmania británica, encargado de una misión radicalmente nueva: inventariar los bosques de teca de la región y diseñar un sistema que permitiera talarlos sin destruirlos. Bajo las imponentes copas de teca, sus equipos de reconocimiento avanzaron tierra adentro a lo largo del río Thaungyin, catalogando cada árbol y arbusto que encontraban. Entre los ejemplares que Brandis envió a Calcuta había una modesta planta de sotobosque de hojas estrechas y lanceoladas y pequeñas flores blancas moteadas de rosa — nada tan valioso comercialmente como la teca que la rodeaba, pero igualmente prensada y etiquetada con esmero. En 1867 el superintendente del Jardín Botánico de Calcuta, Thomas Anderson, la describió como Asystasia lanceolata, una de cientos de especies nuevas surgidas de los levantamientos forestales de Brandis. Permaneció bajo ese nombre durante más de un siglo, hasta que en 1983 el botánico danés Bertel Hansen reexaminó sus flores y la trasladó a un género propio, Chroesthes. Hoy, Chroesthes lanceolada sigue siendo tan esquiva como en tiempos de Brandis: en Yunnan, Myanmar, Laos, Vietnam, Tailandia y Malasia se conoce solo por un puñado de ejemplares, cada uno hallado persistiendo calladamente en la sombra profunda de un bosque mucho más alto.",
+        "name_origin": "El epíteto específico lanceolata es latín para 'en forma de lanza', describiendo las hojas estrechas y puntiagudas de este arbusto. Su género, Chroesthes, se estableció en 1927; esta especie fue trasladada a él desde el antiguo género Asystasia en 1983, cuando el botánico Bertel Hansen reconoció que la estructura de su flor la distinguía.",
+        "symbolism_story": "No hay folclore antiguo asociado a Chroesthes lanceolada — es demasiado rara y de clasificación demasiado reciente para eso. En cambio, quienes la buscan suelen encontrar sentido en su propia escasez: un arbusto modesto con solo un puñado de ejemplares silvestres conocidos, que conserva sus hojas estrechas y sus flores moteadas a la sombra de bosques mucho más grandes que él.",
+        "flower_meaning": "Rareza Silenciosa",
+        "fragrance": {
+          "notes": "No se ha documentado fragancia alguna para esta especie."
+        },
+        "uses_list": [
+          {
+            "text": "Cultivada principalmente como curiosidad por coleccionistas de Acanthaceae raras, apreciada por su follaje lanceolado y sus inusuales flores blancas moteadas de rosa."
+          },
+          {
+            "text": "Sus flores tubulares y ricas en néctar atraen a pequeños insectos polinizadores en el sotobosque de su hábitat natural."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Rareza Silenciosa",
+            "description": "Conocida solo por un puñado de ejemplares silvestres, siempre escondida en la sombra profunda de un bosque mucho más alto, Chroesthes lanceolada ha llegado a representar aquello de valor callado y fácil de pasar por alto — que solo merece la pena buscar para quien mira con atención."
+          }
+        ],
+        "toxicity": {
+          "headline": "No se reporta toxicidad",
+          "active_compound_display": "Ninguno reportado",
+          "notes_en": "No se encontró una coincidencia de toxicidad autorizada; se trata como no reportado (la estimación del LLM no está verificada por fuentes).",
+          "human": {
+            "exposure": "No se reporta vía de exposición.",
+            "effect": "No se reporta efecto tóxico.",
+            "note": "No se reporta toxicidad para humanos en este catálogo; esto no es evidencia de que la planta sea comestible o inofensiva."
+          },
+          "dog": {
+            "exposure": "No se reporta vía de exposición.",
+            "effect": "No se reporta efecto tóxico.",
+            "note": "No se reporta toxicidad para perros en este catálogo; esto no es evidencia de que la planta sea comestible o inofensiva."
+          },
+          "cat": {
+            "exposure": "No se reporta vía de exposición.",
+            "effect": "No se reporta efecto tóxico.",
+            "note": "No se reporta toxicidad para gatos en este catálogo; esto no es evidencia de que la planta sea comestible o inofensiva."
           }
         }
       }

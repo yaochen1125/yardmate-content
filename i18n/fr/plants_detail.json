@@ -3,8 +3,8 @@
   "locale": "fr",
   "source": {
     "resource": "plants_detail.json",
-    "sha256": "8039e61a5ee1ddaa73e438fe3012ef331083a949e2106d633084c4bba314c921",
-    "record_count": 1664
+    "sha256": "099d6aa79675e75b76fa5aa1a3c78e5d2744c19db59f905a7496fc96af2e582a",
+    "record_count": 1665
   },
   "records": {
     "AAA0001": {
@@ -102108,6 +102108,55 @@
             "exposure": "Aucune voie d'exposition n'est signalée.",
             "effect": "Aucun effet toxique n'est signalé.",
             "note": "La toxicité pour les chats n'est pas bien documentée ; la prudence est recommandée jusqu'à vérification."
+          }
+        }
+      }
+    },
+    "AAA1666": {
+      "source_hash": "2690e950863a1b36613335069786b02a7c93ab11a89c48d26cc3c7898d01073d",
+      "fields": {
+        "common_name": "Chroesthes lancéolé",
+        "description": "Le Chroesthes lancéolé est un arbuste élancé, rarement ramifié, de la famille des Acanthaceae, apprécié pour ses feuilles étroites, luisantes et lancéolées qui s'effilent en une pointe fine. Durant les mois chauds, il produit des grappes lâches de fleurs tubulaires blanches mouchetées de rose ou de violet, longues d'environ 2,5 centimètres, groupées près des extrémités des tiges. Dans son aire d'origine, qui s'étend du Yunnan aux forêts du Myanmar, du Laos, du Vietnam, de la Thaïlande et de la Malaisie, il pousse discrètement dans le sous-bois ombragé, sous un couvert forestier plus haut. Cultivé en pot ou dans un massif ombragé, il récompense la patience par un port sobre et des fleurs mouchetées peu communes en culture.",
+        "history_text_short": "Récolté lors des levés pionniers des forêts de teck menés par Dietrich Brandis dans la Birmanie britannique des années 1860, ce modeste arbuste de sous-bois fut nommé Asystasia lanceolata en 1867, puis transféré dans son propre genre, Chroesthes, en 1983. Il demeure l'une des plantes les plus rares de sa famille, connue seulement par quelques spécimens sauvages.",
+        "history_text_long": "En 1857, le forestier d'origine allemande Dietrich Brandis arriva à Pégou, dans ce qui était alors la Birmanie britannique, chargé d'une mission radicalement nouvelle : recenser les forêts de teck de la région et concevoir un système permettant de les exploiter sans les détruire. Sous les hautes frondaisons de teck, ses équipes de prospection progressèrent à l'intérieur des terres le long de la rivière Thaungyin, répertoriant chaque arbre et arbuste rencontré. Parmi les spécimens que Brandis envoya à Calcutta figurait une modeste plante de sous-bois aux feuilles étroites et lancéolées et aux petites fleurs blanches mouchetées de rose — rien d'aussi prisé commercialement que le teck alentour, mais tout aussi soigneusement pressée et étiquetée. En 1867, le surintendant du Jardin botanique de Calcutta, Thomas Anderson, la décrivit sous le nom d'Asystasia lanceolata, l'une des centaines d'espèces nouvelles issues des levés forestiers de Brandis. Elle porta ce nom pendant plus d'un siècle, jusqu'à ce qu'en 1983 le botaniste danois Bertel Hansen réexamine ses fleurs et la transfère dans un genre qui lui est propre, Chroesthes. Aujourd'hui, le Chroesthes lancéolé reste presque aussi insaisissable qu'à l'époque de Brandis : au Yunnan, au Myanmar, au Laos, au Vietnam, en Thaïlande et en Malaisie, on ne le connaît que par une poignée de spécimens, chacun retrouvé se maintenant discrètement à l'ombre profonde d'une forêt bien plus haute.",
+        "name_origin": "L'épithète spécifique lanceolata vient du latin et signifie « en forme de lance », décrivant les feuilles étroites et pointues de cet arbuste. Son genre, Chroesthes, a été établi en 1927 ; cette espèce y a été transférée depuis l'ancien genre Asystasia en 1983, lorsque le botaniste Bertel Hansen a reconnu que la structure de sa fleur la distinguait.",
+        "symbolism_story": "Aucun folklore ancien n'entoure le Chroesthes lancéolé — il est bien trop rare et trop récemment classifié pour cela. Ceux qui le recherchent tendent plutôt à trouver un sens dans sa rareté même : un arbuste modeste, connu par seulement une poignée de spécimens sauvages, conservant ses feuilles étroites et ses fleurs mouchetées à l'ombre de forêts bien plus vastes que lui.",
+        "flower_meaning": "Rareté Silencieuse",
+        "fragrance": {
+          "notes": "Aucun parfum n'a été documenté pour cette espèce."
+        },
+        "uses_list": [
+          {
+            "text": "Cultivé surtout comme curiosité par les collectionneurs d'Acanthaceae rares, apprécié pour son feuillage lancéolé et ses fleurs blanches mouchetées de rose peu communes."
+          },
+          {
+            "text": "Ses fleurs tubulaires riches en nectar attirent de petits insectes pollinisateurs dans le sous-bois de son habitat naturel."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Rareté Silencieuse",
+            "description": "Connu par seulement une poignée de spécimens sauvages, toujours niché à l'ombre profonde d'une forêt bien plus haute, le Chroesthes lancéolé en est venu à représenter les valeurs discrètes et facilement négligées — qui ne se révèlent qu'à ceux qui prennent la peine de regarder de près."
+          }
+        ],
+        "toxicity": {
+          "headline": "Aucune toxicité signalée",
+          "active_compound_display": "Aucun signalé",
+          "notes_en": "Aucune correspondance de toxicité faisant autorité trouvée ; traitée comme non signalée (estimation LLM non vérifiée par une source).",
+          "human": {
+            "exposure": "Aucune voie d'exposition signalée.",
+            "effect": "Aucun effet toxique signalé.",
+            "note": "Aucune toxicité signalée pour les humains dans ce catalogue ; cela ne prouve pas que la plante est comestible ou inoffensive."
+          },
+          "dog": {
+            "exposure": "Aucune voie d'exposition signalée.",
+            "effect": "Aucun effet toxique signalé.",
+            "note": "Aucune toxicité signalée pour les chiens dans ce catalogue ; cela ne prouve pas que la plante est comestible ou inoffensive."
+          },
+          "cat": {
+            "exposure": "Aucune voie d'exposition signalée.",
+            "effect": "Aucun effet toxique signalé.",
+            "note": "Aucune toxicité signalée pour les chats dans ce catalogue ; cela ne prouve pas que la plante est comestible ou inoffensive."
           }
         }
       }
