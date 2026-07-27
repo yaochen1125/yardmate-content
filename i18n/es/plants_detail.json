@@ -3,8 +3,8 @@
   "locale": "es",
   "source": {
     "resource": "plants_detail.json",
-    "sha256": "099d6aa79675e75b76fa5aa1a3c78e5d2744c19db59f905a7496fc96af2e582a",
-    "record_count": 1665
+    "sha256": "fc358842921e18529815c21b68ab5b5f5f28a7a5834ebdbbb28140c26bb53b81",
+    "record_count": 1666
   },
   "records": {
     "AAA0001": {
@@ -102170,6 +102170,61 @@
           "cat": {
             "exposure": "No se reporta vía de exposición.",
             "effect": "No se reporta efecto tóxico.",
+            "note": "No se reporta toxicidad para gatos en este catálogo; esto no es evidencia de que la planta sea comestible o inofensiva."
+          }
+        }
+      }
+    },
+    "AAA1667": {
+      "source_hash": "55645c44a5a11b4b0ba50362f9f962797cabf4d4085f858bd070f1b9aa749adc",
+      "fields": {
+        "common_name": "Evolvulus",
+        "bloom_tip": "Esta planta florece desde finales de primavera hasta el verano, con flores vibrantes y encantadoras.",
+        "fruit_tip": "El fruto madura en otoño, añadiendo valor ornamental al jardín.",
+        "description": "Evolvulus es una planta de cobertura baja y extendida, apreciada por sus flores azules en forma de embudo que se abren frescas cada mañana y se desvanecen a primera hora de la tarde, cubriendo la planta en una neblina diaria de color durante la temporada cálida. Sus tallos rastreros llevan hojas pequeñas de un verde plateado con una textura suave y aterciopelada que ayuda a la planta a soportar el calor y la sequía una vez establecida. Originaria de las praderas de Sudamérica, prospera a pleno sol y en suelo bien drenado, formando una alfombra densa y abultada, ideal para bordes de jardín, cestas colgantes y macetas. Las abejas visitan sus flores con frecuencia, lo que convierte a Evolvulus en una opción alegre y de bajo mantenimiento para parterres soleados y patios.",
+        "history_text_short": "Su nombre proviene de una palabra latina que significa 'desenrollarse'; Evolvulus nunca se enreda como sus primas de la familia de la campanilla, sino que se extiende bajo por el suelo. En sus praderas nativas de Brasil, sus flores azules se abren solo en las horas frescas de la mañana para las abejas polinizadoras. Los jardineros de la costa del Golfo la adoptaron después como una alternativa resistente al calor frente a las petunias, que se marchitan con la humedad del verano.",
+        "history_text_long": "Evolvulus pertenece al género del mismo nombre, cuyo nombre latino proviene de evolvere, 'desenrollarse' o 'destorcerse'. Los botánicos eligieron este nombre deliberadamente como contraste con sus parientes cercanos de la familia de la campanilla, la mayoría de los cuales trepan enroscando sus tallos alrededor de cualquier soporte que encuentran. Evolvulus hace lo contrario: nunca se enreda ni trepa, sino que se extiende bajo por el suelo formando una alfombra suelta y desenrollada, un hábito lo bastante distintivo como para dar nombre a todo el género. En su área nativa, entre los campos rocosos y las praderas abiertas de Brasil, Paraguay y Argentina, la planta crece baja entre las hierbas sobre suelos pobres y abrasados por el sol, un entorno que moldeó su tolerancia a la sequía y su costumbre de abrir las flores solo en las horas más frescas de la mañana, cuando las abejas polinizadoras están más activas, antes de cerrarlas frente al duro sol de la tarde.\n\nEvolvulus encontró una segunda vida lejos de su hogar en los jardines del sureste de Estados Unidos, especialmente a lo largo de la costa del Golfo y en toda Florida. Las plantas de temporada tradicionales, como las petunias y la verbena, sufren durante los largos y húmedos veranos de la región, marchitándose o sucumbiendo a enfermedades fúngicas en cuestión de semanas. Los viveristas y los jardineros domésticos recurrieron en su lugar a Evolvulus, cuyo origen en la sabana brasileña lo hacía naturalmente apto para el calor, la humedad y la sequía. Los programas de extensión universitaria que promovían paisajismo resistente al calor y de bajo consumo de agua comenzaron a recomendarla como sustituta fiable, y se convirtió en una vista habitual, cayendo por los bordes de los bancales elevados, en cascada desde cestas colgantes y suavizando los bordes de los senderos en jardines donde flores más delicadas simplemente no podían sobrevivir a la temporada.",
+        "name_origin": "El nombre del género Evolvulus proviene del latín evolvere, que significa 'desenrollarse' o 'destorcerse', un nombre elegido deliberadamente en contraste con sus parientes trepadores de la familia de la campanilla. A diferencia de la mayoría de las Convolvulaceae, las especies de Evolvulus se extienden y forman matas en lugar de trepar. El epíteto de la especie, glomeratus, significa 'agrupado', y describe cómo las flores se agrupan a lo largo de los tallos. El popular nombre comercial en inglés, Blue Daze, capta el rasgo distintivo de la planta: sus intensas flores azules se abren frescas cada mañana y se desvanecen a primera hora de la tarde, dejando los parterres envueltos en una neblina diaria de color.",
+        "symbolism_story": "Como sus flores se abren de nuevo cada mañana y se desvanecen por la tarde, los jardineros han interpretado durante mucho tiempo a Evolvulus como un pequeño símbolo diario de renovación, un recordatorio de que cada día trae un nuevo comienzo. Su resistencia en suelos pobres y bajo el calor implacable del verano también la ha convertido en un emblema de resiliencia silenciosa, prosperando donde flores más delicadas no pueden.",
+        "flower_meaning": "Renovación",
+        "fragrance": {
+          "notes": "Sin fragancia perceptible: Evolvulus se cultiva por sus vívidas flores azules, no por su aroma."
+        },
+        "uses_list": [
+          {
+            "text": "Se cultiva como planta de cobertura baja y extendida, y como colgante en macetas, apreciada por su floración azul ininterrumpida."
+          },
+          {
+            "text": "Sus flores abiertas y ricas en néctar atraen abejas y otros polinizadores durante la temporada cálida."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Renovación",
+            "description": "Las flores azules frescas se abren con cada amanecer y se desvanecen hacia la tarde, un ciclo diario interpretado como símbolo de renovación y nuevos comienzos."
+          },
+          {
+            "keyword": "Resiliencia",
+            "description": "Al prosperar en suelos pobres y abrasados por el sol, lejos de sus praderas nativas, Evolvulus ha llegado a representar una resiliencia silenciosa frente al calor y la sequía."
+          }
+        ],
+        "toxicity": {
+          "headline": "No se ha reportado toxicidad",
+          "active_compound_display": "Ninguno reportado",
+          "notes_en": "No se encontró coincidencia de toxicidad autorizada; se trata como no reportada (la estimación del LLM no está verificada por fuentes).",
+          "human": {
+            "exposure": "No se reporta ninguna vía de exposición.",
+            "effect": "No se reporta ningún efecto tóxico.",
+            "note": "No se reporta toxicidad para humanos en este catálogo; esto no es evidencia de que la planta sea comestible o inofensiva."
+          },
+          "dog": {
+            "exposure": "No se reporta ninguna vía de exposición.",
+            "effect": "No se reporta ningún efecto tóxico.",
+            "note": "No se reporta toxicidad para perros en este catálogo; esto no es evidencia de que la planta sea comestible o inofensiva."
+          },
+          "cat": {
+            "exposure": "No se reporta ninguna vía de exposición.",
+            "effect": "No se reporta ningún efecto tóxico.",
             "note": "No se reporta toxicidad para gatos en este catálogo; esto no es evidencia de que la planta sea comestible o inofensiva."
           }
         }
