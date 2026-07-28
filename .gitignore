@@ -9,3 +9,6 @@ plants_detail.json
 
 # translate_explore_themes.py 断点缓存
 .translate_cache/
+
+# 单位换算等批量改写的逐语言快照，勿入库
+_backups/

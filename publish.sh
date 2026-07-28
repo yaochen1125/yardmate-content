@@ -125,7 +125,10 @@ run rclone copy "${LUNAR_DIR}/" "r2:${BUCKET}/${PREFIX}/${LUNAR_DIR}/" \
 # locale/file falls back to English (the flat whitelist above). Whole tree, paths preserved.
 if [[ -d i18n ]]; then
   echo "==> Uploading i18n/ per-locale overlays"
+  # 整树上传，但**必须**排掉工作备份：.gitignore 拦得住 git，拦不住 rclone。
+  # 实测这些 .bak_before_* 早已被传上 R2 并公开可访问（i18n/ 下 52 个、449MB）。
   run rclone copy "i18n/" "r2:${BUCKET}/${PREFIX}/i18n/" \
+      --exclude "*.bak_before_*" --exclude "*.backup_*" --exclude "*.bak" \
       --header-upload "Cache-Control: ${CACHE_CONTROL}" --s3-no-check-bucket
 fi
 
