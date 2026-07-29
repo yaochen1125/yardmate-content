@@ -3,8 +3,8 @@
   "locale": "it",
   "source": {
     "resource": "plants_detail.json",
-    "sha256": "fc358842921e18529815c21b68ab5b5f5f28a7a5834ebdbbb28140c26bb53b81",
-    "record_count": 1666
+    "sha256": "63d96c90dcd50e8d2e6f5110c7c823154c58bb4ff4210ea358c0257c09bc8844",
+    "record_count": 1668
   },
   "records": {
     "AAA0001": {
@@ -102218,6 +102218,112 @@
             "exposure": "Nessuna via di esposizione segnalata.",
             "effect": "Nessun effetto tossico segnalato.",
             "note": "Nessuna tossicità è segnalata per i gatti in questo catalogo; ciò non prova che la pianta sia commestibile o innocua."
+          }
+        }
+      }
+    },
+    "AAA1668": {
+      "source_hash": "b7dea74e8fd376fcf13d247d59d3518edd55825464c73a83373c341701718845",
+      "fields": {
+        "common_name": "Collana di cuori",
+        "description": "La collana di cuori è una succulenta rampicante originaria delle praterie del KwaZulu-Natal, in Sudafrica, apprezzata per i suoi fusti sottili e filiformi che portano coppie di foglie a forma di cuore, marmorizzate di verde argenteo sopra e sfumate di viola sotto. Lungo i fusti si formano piccoli tuberi grandi come piselli, che immagazzinano acqua durante i periodi di siccità e radicano facilmente al contatto con il terreno. In estate produce fiori rosa sottili e rigonfi a forma di piccole gabbie, parte di un meccanismo di impollinazione a trappola condiviso da tutto il genere Ceropegia. Poco esigente e tollerante alla siccità, prospera in luce intensa e indiretta ed è molto amata per i cesti pensili, dove i suoi fusti ricadenti possono superare il metro di lunghezza.",
+        "history_text_short": "Nelle praterie del KwaZulu-Natal, la collana di cuori si ancora con un tubero e infila altri tuberi lungo i suoi fusti ricadenti come perle su un cordoncino, un'abitudine che le è valsa in inglese il nome di Rosary Vine ('liana del rosario'). I coltivatori la propagano semplicemente piantando uno di questi tuberi grandi come piselli nel terreno, dove radica in una nuova pianta.",
+        "history_text_long": "La collana di cuori cresce spontanea nelle praterie e negli affioramenti rocciosi del KwaZulu-Natal, dove fu raccolta e descritta alla fine dell'Ottocento mentre i botanici catalogavano la flora succulenta della regione; l'epiteto woodii onora John Medley Wood, un prolifico botanico anglo-sudafricano e primo curatore dei Giardini Botanici di Durban, che raccolse migliaia di esemplari nelle praterie e nei boschi della provincia. Allo stato selvatico la pianta si arrampica tra i cespi d'erba e sulle rocce, ancorata da un tubero basale rigonfio e da altri tuberi infilati lungo i fusti come nodi su una corda. Fu proprio questo portamento a perle infilate a dare origine, in inglese, al nome Rosary Vine, che evoca le piccole perle dure di un rosario fatte scorrere tra le dita. Introdotta nelle serre occidentali come succulenta curiosa all'inizio del Novecento, rimase per decenni una pianta di nicchia prima che gli appassionati di piante d'appartamento la riscoprissero, apprezzando la liana per la facilità con cui un singolo tubero grande come un pisello, piantato in un vaso nuovo, radica fino a diventare una pianta del tutto nuova. Oggi la pratica di propagarla dai suoi tuberi infilati è centrale nel modo in cui viene scambiata tra i coltivatori, facendo eco proprio alle perle che le hanno dato il nome.",
+        "name_origin": "Il nome del genere Ceropegia deriva dal greco keros (cera) e pege (fontana), a descrivere la forma cerosa e a fontana dei suoi fiori. L'epiteto di specie woodii onora John Medley Wood, il botanico sudafricano che la raccolse nel KwaZulu-Natal. In inglese viene chiamata Rosary Vine per i piccoli tuberi a forma di perla infilati lungo i suoi fusti ricadenti, che ricordano le perle di un rosario. Il nome italiano collana di cuori richiama invece le coppie di foglie a forma di cuore infilate lungo i fusti ricadenti, lo stesso tratto che le ha valso il nome internazionale String of Hearts.",
+        "symbolism_story": "Poiché i suoi fusti ricadenti sono infilati di piccoli tuberi come le perle di un rosario, la collana di cuori è arrivata a simboleggiare la devozione silenziosa; le sue foglie a forma di cuore aggiungono un secondo livello di significato, dato che le talee vengono spesso donate tra amici come segno di affetto.",
+        "flower_meaning": "Devozione",
+        "fragrance": {
+          "notes": "I fiori sono praticamente inodori."
+        },
+        "uses_list": [
+          {
+            "text": "Succulenta rampicante coltivata in cesti pensili e su mensole per i suoi fusti ricadenti infilati di perle."
+          },
+          {
+            "text": "I fiori a forma di gabbia attirano piccole mosche e le trattengono brevemente, trasportando il polline tra i fiori."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Devozione",
+            "description": "I tuberi a forma di perla infilati lungo i fusti ricordano le perle di un rosario, legando la pianta alla devozione silenziosa e alla consapevolezza."
+          },
+          {
+            "keyword": "Connessione",
+            "description": "Le sue foglie a forma di cuore e le talee facili da condividere ne hanno fatto un dono comune, simbolo di affetto tra amici."
+          }
+        ],
+        "toxicity": {
+          "headline": "Nessuna tossicità segnalata",
+          "active_compound_display": "Nessuna segnalata",
+          "notes_en": "Nessuna corrispondenza tossicologica autorevole trovata; trattata come non segnalata (stima LLM non verificata da fonti).",
+          "human": {
+            "exposure": "Non è riportata alcuna via di esposizione.",
+            "effect": "Non è riportato alcun effetto tossico.",
+            "note": "In questo catalogo non è riportata tossicità per gli umani; ciò non è prova che la pianta sia commestibile o innocua."
+          },
+          "dog": {
+            "exposure": "Nessuna via di esposizione segnalata.",
+            "effect": "Nessun effetto tossico segnalato.",
+            "note": "La tossicità per i cani non è ben documentata; usare cautela fino a verifica."
+          },
+          "cat": {
+            "exposure": "Nessuna via di esposizione segnalata.",
+            "effect": "Nessun effetto tossico segnalato.",
+            "note": "La tossicità per i gatti non è ben documentata; usare cautela fino a verifica."
+          }
+        }
+      }
+    },
+    "AAA1669": {
+      "source_hash": "7f58f6daed3a34b9f0899ac690fbb4e23838b3dd7f1fc22dd79df27fd7073d5d",
+      "fields": {
+        "common_name": "Singonio argentato",
+        "description": "Il Singonio argentato è una liana tropicale originaria delle foreste pluviali del Costa Rica, apprezzata per le sue foglie vellutate di un verde intenso, segnate da una marcata striatura argentata lungo le nervature. Le piante giovani formano foglie basse, semplici e a forma di freccia vicino al suolo; man mano che la liana matura e inizia ad arrampicarsi grazie alle radici aeree, le foglie si allungano e sviluppano profondi lobi. Nel sottobosco del suo habitat naturale cresce come emiepifita, radicando dapprima nel terreno e poi arrampicandosi sui tronchi degli alberi verso una luce più intensa. Coltivata in casa per il suo fogliame spettacolare, predilige condizioni calde e umide e luce intensa e indiretta, ricompensando chi la coltiva con foglie sempre più grandi e drammatiche man mano che si arrampica su un sostegno.",
+        "history_text_short": "Raccolto nella foresta pluviale del Costa Rica e chiamato in onore del botanico tedesco Hermann Wendland, questo rampicante inizia come una piccola foglia a freccia striata d'argento sul terreno del bosco. Arrampicandosi sui tronchi degli alberi con radici aeree, le sue foglie si trasformano in un fogliame molto più grande e profondamente lobato, un cambiamento così drastico che i primi collezionisti scambiarono le piante giovani e quelle rampicanti per specie diverse.",
+        "history_text_long": "Il singonio argentato (Syngonium wendlandii) fu raccolto nelle foreste pluviali montane del Costa Rica a metà dell'Ottocento e chiamato in onore di Hermann Wendland, il botanico tedesco che diresse i Giardini Reali di Herrenhausen ad Hannover e viaggiò attraverso l'America Centrale raccogliendo piante per le collezioni europee. Allo stato selvatico, la specie inizia la propria vita come una piccola plantula sul suolo ombreggiato del bosco, con le prime foglie semplici e a forma di freccia, segnate da una tenue striatura argentata al centro. Crescendo, emette radici aeree che si aggrappano ai tronchi vicini e si arrampica come emiepifita, radicata nel terreno ma protesa fino alla chioma degli alberi. Con questa scalata arriva una trasformazione sorprendente: le modeste foglie giovanili lasciano il posto a un fogliame adulto molto più grande e profondamente lobato, un cambiamento così marcato che gli esemplari rampicanti e quelli a livello del suolo furono un tempo scambiati per specie distinte. Introdotta nelle serre europee poco dopo la sua scoperta, divenne apprezzata per la sua consistenza vellutata e la venatura argentata, e resta ancora oggi una pianta d'appartamento popolare, apprezzata proprio per lo stesso drammatico cambiamento di forma che catturò l'attenzione dei primi collezionisti.",
+        "name_origin": "Il nome del genere Syngonium deriva dal greco syn (insieme) e gone (utero), in riferimento agli ovari fusi all'interno dell'infiorescenza della pianta. Il nome della specie, wendlandii, onora Hermann Wendland, il botanico tedesco che la raccolse in Costa Rica. Il nome comune Singonio argentato descrive le sue foglie giovanili a forma di freccia, segnate da una striatura centrale argentata.",
+        "symbolism_story": "Poiché inizia come una piccola foglia semplice sul terreno del bosco e si trasforma in un grande rampicante dai lobi profondi mentre cerca la luce, il Singonio argentato è arrivato a simboleggiare la crescita personale e la trasformazione, con la sua paziente scalata che riflette resilienza e capacità di adattamento.",
+        "flower_meaning": "Trasformazione",
+        "fragrance": {
+          "notes": "In casa la pianta fiorisce raramente, e i suoi piccoli fiori aroidei non emanano alcun profumo percepibile."
+        },
+        "uses_list": [
+          {
+            "text": "Coltivato come pianta d'appartamento per le sue foglie vellutate a forma di freccia dalle venature argentate, spesso guidato a salire su un tutore di muschio."
+          },
+          {
+            "text": "La sua forma giovanile compatta e screziata d'argento è apprezzata dagli appassionati di terrari e vivari."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Trasformazione",
+            "description": "Il drastico cambiamento da una piccola foglia argentata a forma di freccia a un fogliame grande e profondamente lobato mentre la liana si arrampica simboleggia la crescita personale e la trasformazione."
+          },
+          {
+            "keyword": "Resilienza",
+            "description": "Il suo comportamento emiepifita, che radica nel terreno del bosco prima di protendersi verso la luce della chioma, riflette una silenziosa resilienza e capacità di adattamento."
+          }
+        ],
+        "toxicity": {
+          "headline": "Tossicità sconosciuta",
+          "active_compound_display": "Nessuno segnalato",
+          "notes_en": "Nessuna fonte autorevole conferma la tossicità; è quindi considerata non segnalata (la stima dell'IA non è verificata da fonti).",
+          "human": {
+            "exposure": "Nessuna via di esposizione segnalata.",
+            "effect": "Nessun effetto tossico segnalato.",
+            "note": "La tossicità per l'uomo non è ben documentata; si raccomanda cautela fino a verifica."
+          },
+          "dog": {
+            "exposure": "Nessuna via di esposizione segnalata.",
+            "effect": "Nessun effetto tossico segnalato.",
+            "note": "La tossicità per i cani non è ben documentata; si raccomanda cautela fino a verifica."
+          },
+          "cat": {
+            "exposure": "Nessuna via di esposizione segnalata.",
+            "effect": "Nessun effetto tossico segnalato.",
+            "note": "La tossicità per i gatti non è ben documentata; si raccomanda cautela fino a verifica."
           }
         }
       }

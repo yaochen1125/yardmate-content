@@ -3,8 +3,8 @@
   "locale": "es",
   "source": {
     "resource": "plants_detail.json",
-    "sha256": "fc358842921e18529815c21b68ab5b5f5f28a7a5834ebdbbb28140c26bb53b81",
-    "record_count": 1666
+    "sha256": "63d96c90dcd50e8d2e6f5110c7c823154c58bb4ff4210ea358c0257c09bc8844",
+    "record_count": 1668
   },
   "records": {
     "AAA0001": {
@@ -102218,6 +102218,112 @@
             "exposure": "No se reporta ninguna vía de exposición.",
             "effect": "No se reporta ningún efecto tóxico.",
             "note": "No se reporta toxicidad para gatos en este catálogo; esto no es evidencia de que la planta sea comestible o inofensiva."
+          }
+        }
+      }
+    },
+    "AAA1668": {
+      "source_hash": "b7dea74e8fd376fcf13d247d59d3518edd55825464c73a83373c341701718845",
+      "fields": {
+        "common_name": "Cadena de corazones",
+        "description": "La cadena de corazones es una suculenta trepadora originaria de los pastizales de KwaZulu-Natal, Sudáfrica, apreciada por sus tallos delgados y alambrados con pares de hojas acorazonadas jaspeadas de verde plateado por encima y teñidas de púrpura por debajo. A lo largo de los tallos se forman pequeños tubérculos del tamaño de un guisante, que almacenan agua durante las sequías y enraízan con facilidad al tocar el suelo. En verano abre flores rosadas, delgadas e infladas en forma de jaulita, parte de un mecanismo de polinización por trampa compartido por todo el género Ceropegia. Poco exigente y tolerante a la sequía, prospera con luz brillante e indirecta y es una favorita para cestas colgantes, donde sus tallos colgantes pueden alcanzar más de un metro.",
+        "history_text_short": "En los pastizales de KwaZulu-Natal, la cadena de corazones se ancla con un tubérculo y enhebra más tubérculos a lo largo de sus tallos colgantes como cuentas en un cordón, un hábito que le valió el nombre en inglés de Rosary Vine ('enredadera del rosario'). Los cultivadores la propagan simplemente clavando una de estas cuentas del tamaño de un guisante en tierra, donde enraíza y forma una planta nueva.",
+        "history_text_long": "La cadena de corazones crece de forma silvestre en los pastizales y afloramientos rocosos de KwaZulu-Natal, donde fue recolectada y descrita a finales del siglo XIX mientras los botánicos catalogaban la flora suculenta de la región; el epíteto woodii honra a John Medley Wood, un prolífico botánico británico-sudafricano y primer curador de los Jardines Botánicos de Durban, que reunió miles de especímenes de los pastizales y bosques de la provincia. En estado silvestre, la planta trepa entre matas de hierba y sobre rocas, anclada por un tubérculo basal hinchado y más tubérculos ensartados a lo largo de sus tallos como nudos en una cuerda. Fue este hábito de cuentas ensartadas lo que dio origen al nombre en inglés Rosary Vine, que evoca las pequeñas cuentas duras de un rosario pasando entre los dedos. Introducida en los invernaderos occidentales como una suculenta curiosa a principios del siglo XX, siguió siendo una planta de nicho durante décadas antes de que los cultivadores de plantas de interior la redescubrieran, apreciando la enredadera por la facilidad con la que un solo tubérculo del tamaño de un guisante, clavado en una maceta nueva, enraíza hasta convertirse en una planta completamente nueva. Hoy, la práctica de propagarla a partir de sus tubérculos ensartados es fundamental en cómo se comparte entre cultivadores, haciendo eco de las mismas cuentas que le dieron nombre.",
+        "name_origin": "El nombre del género Ceropegia proviene del griego keros (cera) y pege (fuente), describiendo la forma cérea y de fuente de sus flores. El epíteto de la especie, woodii, honra a John Medley Wood, el botánico sudafricano que la recolectó en KwaZulu-Natal. En inglés se la llama Rosary Vine por los pequeños tubérculos en forma de cuenta ensartados a lo largo de sus tallos colgantes, que recuerdan a las cuentas de un rosario. Su nombre en español, cadena de corazones, alude a los pares de hojas acorazonadas ensartados a lo largo de sus tallos colgantes, el mismo rasgo que le dio el nombre internacional String of Hearts.",
+        "symbolism_story": "Como sus tallos colgantes están ensartados con pequeños tubérculos a modo de cuentas de rosario, la cadena de corazones ha llegado a simbolizar la devoción silenciosa; sus hojas acorazonadas añaden una segunda capa de significado, pues los esquejes se comparten a menudo entre amigos como muestra de afecto.",
+        "flower_meaning": "Devoción",
+        "fragrance": {
+          "notes": "Las flores son prácticamente inodoras."
+        },
+        "uses_list": [
+          {
+            "text": "Suculenta trepadora cultivada en cestas colgantes y estantes por sus tallos colgantes ensartados de cuentas."
+          },
+          {
+            "text": "Las flores en forma de jaula atraen y retienen brevemente a pequeñas moscas, que transportan polen entre flores."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Devoción",
+            "description": "Los tubérculos en forma de cuenta ensartados a lo largo de sus tallos recuerdan a las cuentas de un rosario, vinculando la planta con la devoción silenciosa y la atención plena."
+          },
+          {
+            "keyword": "Conexión",
+            "description": "Sus hojas acorazonadas y esquejes fáciles de compartir la han convertido en un regalo habitual que simboliza el afecto entre amigos."
+          }
+        ],
+        "toxicity": {
+          "headline": "No se reporta toxicidad",
+          "active_compound_display": "Ninguno reportado",
+          "notes_en": "No se encontró una coincidencia de toxicidad autorizada; se trata como no reportado (la estimación del LLM no está verificada por fuentes).",
+          "human": {
+            "exposure": "No se reporta vía de exposición.",
+            "effect": "No se reporta efecto tóxico.",
+            "note": "No se reporta toxicidad para humanos en este catálogo; esto no es evidencia de que la planta sea comestible o inofensiva."
+          },
+          "dog": {
+            "exposure": "No se reporta vía de exposición.",
+            "effect": "No se reporta efecto tóxico.",
+            "note": "La toxicidad para perros no está bien documentada; usar precaución hasta que se verifique."
+          },
+          "cat": {
+            "exposure": "No se reporta vía de exposición.",
+            "effect": "No se reporta efecto tóxico.",
+            "note": "La toxicidad para gatos no está bien documentada; usar precaución hasta que se verifique."
+          }
+        }
+      }
+    },
+    "AAA1669": {
+      "source_hash": "7f58f6daed3a34b9f0899ac690fbb4e23838b3dd7f1fc22dd79df27fd7073d5d",
+      "fields": {
+        "common_name": "Singonio plateado",
+        "description": "El Singonio plateado es una enredadera tropical originaria de las selvas tropicales de Costa Rica, apreciada por sus hojas aterciopeladas de un verde oscuro marcadas con una llamativa franja plateada a lo largo de las venas. Las plantas jóvenes forman hojas bajas, simples y en forma de flecha cerca del suelo; a medida que la enredadera madura y comienza a trepar con raíces aéreas, sus hojas se alargan y desarrollan lóbulos profundos. En el sotobosque de su hábitat natural crece como hemiepífita, enraizando en el suelo antes de trepar por los troncos de los árboles hacia una luz más intensa. Cultivada en interiores por su llamativo follaje, prefiere condiciones cálidas y húmedas y luz brillante e indirecta, recompensando a quienes la cultivan con hojas cada vez más grandes y espectaculares a medida que trepa por un soporte.",
+        "history_text_short": "Recolectada en la selva tropical de Costa Rica y nombrada en honor al botánico alemán Hermann Wendland, esta enredadera comienza como una pequeña hoja en forma de flecha con rayas plateadas en el suelo del bosque. A medida que trepa por los troncos de los árboles con raíces aéreas, sus hojas se transforman en un follaje mucho más grande y profundamente lobulado, un cambio tan drástico que los primeros recolectores confundieron las plantas jóvenes y las trepadoras con especies diferentes.",
+        "history_text_long": "La especie Syngonium wendlandii, conocida como singonio plateado, fue recolectada en las selvas montañosas de Costa Rica a mediados del siglo XIX y nombrada en honor a Hermann Wendland, el botánico alemán que dirigió los Jardines Reales de Herrenhausen en Hannover y viajó por Centroamérica reuniendo plantas para colecciones europeas. En estado silvestre, la especie comienza su vida como una pequeña plántula en el suelo sombreado del bosque, con sus primeras hojas simples y en forma de flecha, marcadas por una tenue franja plateada que recorre el centro. A medida que crece, emite raíces aéreas que se aferran a los troncos cercanos y trepa como hemiepífita, enraizada en el suelo pero alcanzando el dosel superior. Con esta trepada llega una transformación notable: las modestas hojas juveniles dan paso a un follaje adulto mucho más grande y profundamente lobulado, un cambio tan pronunciado que los ejemplares trepadores y los de nivel del suelo alguna vez se confundieron con especies distintas. Introducida en los invernaderos europeos poco después de su descubrimiento, se convirtió en una favorita por su textura aterciopelada y su venación plateada, y sigue siendo hoy una planta de interior popular, apreciada aún por ese mismo cambio dramático de forma que cautivó a los primeros recolectores.",
+        "name_origin": "El nombre del género Syngonium proviene del griego syn (juntos) y gone (matriz), en referencia a los ovarios fusionados dentro de la inflorescencia de la planta. El nombre de la especie, wendlandii, honra a Hermann Wendland, el botánico alemán que la recolectó en Costa Rica. El nombre común Singonio plateado describe sus hojas juveniles en forma de flecha, marcadas por una franja central plateada.",
+        "symbolism_story": "Porque comienza como una hoja pequeña y simple en el suelo del bosque y se transforma en una trepadora grande y profundamente lobulada al buscar la luz, el Singonio plateado ha llegado a simbolizar el crecimiento personal y la transformación, con su paciente ascenso reflejando resiliencia y capacidad de adaptación.",
+        "flower_meaning": "Transformación",
+        "fragrance": {
+          "notes": "En interiores la planta rara vez florece, y sus pequeñas flores de arácea no desprenden ningún aroma perceptible."
+        },
+        "uses_list": [
+          {
+            "text": "Se cultiva como planta de interior por sus hojas aterciopeladas en forma de flecha con venas plateadas, a menudo guiada para trepar por un tutor de musgo."
+          },
+          {
+            "text": "Su forma juvenil, compacta y marcada de plateado, es popular entre los aficionados a los terrarios y vivarios."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Transformación",
+            "description": "El cambio drástico de una pequeña hoja plateada en forma de flecha a un follaje grande y profundamente lobulado al trepar simboliza el crecimiento personal y la transformación."
+          },
+          {
+            "keyword": "Resiliencia",
+            "description": "Su hábito hemiepífito, que enraíza en el suelo del bosque antes de alcanzar la luz del dosel, refleja una resiliencia y capacidad de adaptación silenciosas."
+          }
+        ],
+        "toxicity": {
+          "headline": "Toxicidad desconocida",
+          "active_compound_display": "Ninguno reportado",
+          "notes_en": "No se encontró ninguna fuente autorizada que confirme su toxicidad; se considera no reportada (la estimación de la IA no está verificada por fuentes).",
+          "human": {
+            "exposure": "No se reporta ninguna vía de exposición.",
+            "effect": "No se reporta ningún efecto tóxico.",
+            "note": "La toxicidad en humanos no está bien documentada; se recomienda precaución hasta su verificación."
+          },
+          "dog": {
+            "exposure": "No se reporta ninguna vía de exposición.",
+            "effect": "No se reporta ningún efecto tóxico.",
+            "note": "La toxicidad en perros no está bien documentada; se recomienda precaución hasta su verificación."
+          },
+          "cat": {
+            "exposure": "No se reporta ninguna vía de exposición.",
+            "effect": "No se reporta ningún efecto tóxico.",
+            "note": "La toxicidad en gatos no está bien documentada; se recomienda precaución hasta su verificación."
           }
         }
       }

@@ -3,8 +3,8 @@
   "locale": "fr",
   "source": {
     "resource": "plants_detail.json",
-    "sha256": "fc358842921e18529815c21b68ab5b5f5f28a7a5834ebdbbb28140c26bb53b81",
-    "record_count": 1666
+    "sha256": "63d96c90dcd50e8d2e6f5110c7c823154c58bb4ff4210ea358c0257c09bc8844",
+    "record_count": 1668
   },
   "records": {
     "AAA0001": {
@@ -102204,6 +102204,112 @@
             "exposure": "Aucune voie d'exposition n'est signalée.",
             "effect": "Aucun effet toxique n'est signalé.",
             "note": "Aucune toxicité n'est signalée pour les chats dans ce catalogue ; cela ne prouve pas que la plante est comestible ou inoffensive."
+          }
+        }
+      }
+    },
+    "AAA1668": {
+      "source_hash": "b7dea74e8fd376fcf13d247d59d3518edd55825464c73a83373c341701718845",
+      "fields": {
+        "common_name": "Chaîne des cœurs",
+        "description": "La chaîne des cœurs est une plante grasse grimpante originaire des prairies du KwaZulu-Natal, en Afrique du Sud, appréciée pour ses tiges fines et filiformes portant des paires de feuilles en forme de cœur, marbrées de vert argenté dessus et teintées de pourpre dessous. De petits tubercules, de la taille d'un pois, se forment le long des tiges, stockant l'eau pendant les périodes sèches et s'enracinant facilement au contact du sol. En été, elle ouvre de fines fleurs roses renflées en forme de petites cages, faisant partie d'un mécanisme de pollinisation piège commun à tout le genre Ceropegia. Peu exigeante et tolérante à la sécheresse, elle prospère en lumière vive et indirecte et fait le bonheur des paniers suspendus, où ses tiges retombantes peuvent dépasser un mètre.",
+        "history_text_short": "Dans les prairies du KwaZulu-Natal, la chaîne des cœurs s'ancre par un tubercule et enfile d'autres tubercules le long de ses tiges retombantes comme des perles sur un cordon, une particularité qui lui a valu en anglais le nom de Rosary Vine (« liane du rosaire »). Les jardiniers la multiplient simplement en piquant l'un de ces tubercules de la taille d'un pois dans la terre, où il s'enracine pour former une nouvelle plante.",
+        "history_text_long": "La chaîne des cœurs pousse à l'état sauvage dans les prairies et les affleurements rocheux du KwaZulu-Natal, où elle fut collectée et décrite à la fin du XIXe siècle alors que les botanistes cataloguaient la flore grasse de la région ; l'épithète woodii honore John Medley Wood, un botaniste britanno-sud-africain prolifique et premier conservateur des jardins botaniques de Durban, qui rassembla des milliers de spécimens dans les prairies et les forêts de la province. À l'état sauvage, la plante grimpe à travers les touffes d'herbe et sur les rochers, ancrée par un tubercule basal renflé et d'autres tubercules enfilés le long de ses tiges comme des nœuds sur une corde. C'est cette allure de perles enfilées qui donna naissance, en anglais, au nom de Rosary Vine, évoquant les petites perles dures d'un chapelet égrenées entre les doigts. Introduite dans les serres occidentales comme curiosité grasse au début du XXe siècle, elle resta une plante de niche pendant des décennies avant que les amateurs de plantes d'intérieur ne la redécouvrent, appréciant la liane pour la facilité avec laquelle un seul tubercule de la taille d'un pois, planté dans un nouveau pot, s'enracine en une toute nouvelle plante. Aujourd'hui, la pratique consistant à la multiplier à partir de ses tubercules enfilés est au cœur de la façon dont elle se transmet entre jardiniers, faisant écho aux perles mêmes qui lui ont donné son nom.",
+        "name_origin": "Le nom de genre Ceropegia vient du grec keros (cire) et pege (fontaine), décrivant la forme cireuse et fontainiforme de ses fleurs. L'épithète d'espèce woodii honore John Medley Wood, le botaniste sud-africain qui l'a collectée au KwaZulu-Natal. En anglais, on l'appelle Rosary Vine en raison des petits tubercules en forme de perle enfilés le long de ses tiges retombantes, rappelant les perles d'un chapelet. Son nom français, chaîne des cœurs, renvoie aux paires de feuilles en forme de cœur enfilées le long de ses tiges retombantes, le trait qui lui a aussi valu le nom international de String of Hearts.",
+        "symbolism_story": "Parce que ses tiges retombantes sont enfilées de petits tubercules comme les perles d'un chapelet, cette plante en est venue à symboliser la dévotion silencieuse ; ses feuilles en forme de cœur ajoutent une seconde dimension, car ses boutures sont volontiers offertes entre amis en signe d'affection.",
+        "flower_meaning": "Dévotion",
+        "fragrance": {
+          "notes": "Les fleurs sont pratiquement inodores."
+        },
+        "uses_list": [
+          {
+            "text": "Plante grasse grimpante cultivée en paniers suspendus et sur étagères pour ses tiges retombantes enfilées de perles."
+          },
+          {
+            "text": "Les fleurs en forme de cage attirent de petites mouches et les retiennent brièvement, assurant le transport du pollen entre les fleurs."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Dévotion",
+            "description": "Les tubercules en forme de perle enfilés le long de ses tiges rappellent les perles d'un chapelet, associant la plante à la dévotion silencieuse et à la pleine conscience."
+          },
+          {
+            "keyword": "Connexion",
+            "description": "Ses feuilles en forme de cœur et ses boutures faciles à partager en ont fait un cadeau courant symbolisant l'affection entre amis."
+          }
+        ],
+        "toxicity": {
+          "headline": "Aucune toxicité signalée",
+          "active_compound_display": "Aucun signalé",
+          "notes_en": "Aucune correspondance de toxicité faisant autorité trouvée ; traitée comme non signalée (estimation LLM non vérifiée par source).",
+          "human": {
+            "exposure": "Aucune voie d'exposition signalée.",
+            "effect": "Aucun effet toxique signalé.",
+            "note": "Aucune toxicité signalée pour les humains dans ce catalogue ; cela ne prouve pas que la plante soit comestible ou inoffensive."
+          },
+          "dog": {
+            "exposure": "Aucune voie d'exposition signalée.",
+            "effect": "Aucun effet toxique signalé.",
+            "note": "La toxicité pour les chiens n'est pas bien documentée ; soyez prudent jusqu'à vérification."
+          },
+          "cat": {
+            "exposure": "Aucune voie d'exposition signalée.",
+            "effect": "Aucun effet toxique signalé.",
+            "note": "La toxicité pour les chats n'est pas bien documentée ; soyez prudent jusqu'à vérification."
+          }
+        }
+      }
+    },
+    "AAA1669": {
+      "source_hash": "7f58f6daed3a34b9f0899ac690fbb4e23838b3dd7f1fc22dd79df27fd7073d5d",
+      "fields": {
+        "common_name": "Syngonium argenté",
+        "description": "Le Syngonium argenté est une liane tropicale originaire des forêts tropicales du Costa Rica, appréciée pour ses feuilles veloutées d'un vert profond marquées d'une large bande argentée le long des nervures. Les jeunes plants forment des feuilles basses, simples et en forme de flèche près du sol ; à mesure que la liane mûrit et commence à grimper à l'aide de racines aériennes, ses feuilles s'allongent et se dotent de lobes profonds. Dans le sous-bois de son habitat naturel, elle pousse en hémiépiphyte, s'enracinant d'abord dans le sol avant de grimper le long des troncs vers une lumière plus vive. Cultivée en intérieur pour son feuillage spectaculaire, elle préfère des conditions chaudes et humides ainsi qu'une lumière vive et indirecte, récompensant les jardiniers de feuilles toujours plus grandes et spectaculaires à mesure qu'elle grimpe sur un support.",
+        "history_text_short": "Collecté dans la forêt tropicale du Costa Rica et nommé en l'honneur du botaniste allemand Hermann Wendland, ce grimpant commence par une petite feuille en forme de flèche rayée d'argent au sol de la forêt. En grimpant le long des troncs à l'aide de racines aériennes, ses feuilles se transforment en un feuillage bien plus grand et profondément lobé, un changement si spectaculaire que les premiers collecteurs prenaient les jeunes plants et les plants grimpants pour des espèces différentes.",
+        "history_text_long": "Le syngonium argenté (Syngonium wendlandii) fut collecté dans les forêts tropicales montagneuses du Costa Rica au milieu du XIXe siècle et nommé en l'honneur d'Hermann Wendland, le botaniste allemand qui dirigea les Jardins royaux de Herrenhausen à Hanovre et parcourut l'Amérique centrale pour rassembler des plantes destinées aux collections européennes. À l'état sauvage, l'espèce débute sa vie sous forme de petit semis au sol ombragé de la forêt, ses premières feuilles étant simples et en forme de flèche, marquées d'une pâle bande argentée en leur centre. En grandissant, elle émet des racines aériennes qui s'agrippent aux troncs voisins et grimpe en hémiépiphyte, enracinée dans le sol tout en atteignant la canopée. Cette ascension s'accompagne d'une transformation frappante : les modestes feuilles juvéniles cèdent la place à un feuillage adulte bien plus grand et profondément lobé, un changement si prononcé que les spécimens grimpants et ceux poussant au sol furent autrefois pris pour des espèces distinctes. Introduite dans les serres européennes peu après sa découverte, elle devint appréciée pour sa texture veloutée et sa nervation argentée, et demeure aujourd'hui une plante d'intérieur populaire, toujours prisée pour ce même changement de forme spectaculaire qui avait d'abord attiré l'attention des collectionneurs.",
+        "name_origin": "Le nom de genre Syngonium vient du grec syn (ensemble) et gone (matrice), faisant référence aux ovaires soudés au sein de l'inflorescence de la plante. Le nom d'espèce wendlandii honore Hermann Wendland, le botaniste allemand qui l'a collecté au Costa Rica. Le nom commun Syngonium argenté décrit ses feuilles juvéniles en forme de flèche, marquées d'une bande centrale argentée.",
+        "symbolism_story": "Parce qu'elle débute comme une petite feuille simple au sol de la forêt et se transforme en un grand grimpant profondément lobé en quête de lumière, le Syngonium argenté en est venu à symboliser la croissance personnelle et la transformation, son ascension patiente reflétant résilience et capacité d'adaptation.",
+        "flower_meaning": "Transformation",
+        "fragrance": {
+          "notes": "En intérieur, la plante fleurit rarement, et ses petites fleurs d'aracée ne dégagent aucune odeur perceptible."
+        },
+        "uses_list": [
+          {
+            "text": "Cultivé en intérieur pour ses feuilles veloutées en forme de flèche aux nervures argentées, souvent guidé pour grimper sur un tuteur en mousse."
+          },
+          {
+            "text": "Sa forme juvénile compacte, marquée d'argent, est appréciée des amateurs de terrariums et de vivariums."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Transformation",
+            "description": "Le changement spectaculaire d'une petite feuille argentée en forme de flèche à un feuillage grand et profondément lobé à mesure que la liane grimpe symbolise la croissance personnelle et la transformation."
+          },
+          {
+            "keyword": "Résilience",
+            "description": "Son mode de vie hémiépiphyte, s'enracinant au sol de la forêt avant de s'élever vers la lumière de la canopée, reflète une résilience et une capacité d'adaptation discrètes."
+          }
+        ],
+        "toxicity": {
+          "headline": "Toxicité inconnue",
+          "active_compound_display": "Aucun signalé",
+          "notes_en": "Aucune source faisant autorité ne confirme sa toxicité ; elle est donc considérée comme non signalée (l'estimation de l'IA n'est pas vérifiée par des sources).",
+          "human": {
+            "exposure": "Aucune voie d'exposition signalée.",
+            "effect": "Aucun effet toxique signalé.",
+            "note": "La toxicité pour l'humain n'est pas bien documentée ; la prudence est recommandée jusqu'à vérification."
+          },
+          "dog": {
+            "exposure": "Aucune voie d'exposition signalée.",
+            "effect": "Aucun effet toxique signalé.",
+            "note": "La toxicité pour les chiens n'est pas bien documentée ; la prudence est recommandée jusqu'à vérification."
+          },
+          "cat": {
+            "exposure": "Aucune voie d'exposition signalée.",
+            "effect": "Aucun effet toxique signalé.",
+            "note": "La toxicité pour les chats n'est pas bien documentée ; la prudence est recommandée jusqu'à vérification."
           }
         }
       }
