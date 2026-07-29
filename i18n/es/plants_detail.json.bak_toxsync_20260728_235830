@@ -9741,38 +9741,28 @@
       }
     },
     "AAA0156": {
-      "source_hash": "6b19ac0d5d619ea61449f2a5bb87724b2fd8c10c528af0cb4b731a5573fab062",
+      "source_hash": "fd01ac758ce1975f0b4a21f7885df805f82795ddd56008109cf6ebadfc7e6485",
       "fields": {
         "bloom_tip": "Masas de flores de margarita moradas de septiembre a octubre",
         "toxicity": {
           "active_compound_display": "Ninguno reportado",
           "human": {
-            "effect": "No notablemente tóxico y los pueblos nativos utilizaban hojas medicinalmente.",
             "note": "No se reporta toxicidad humana en este catálogo; evite comer plantas ornamentales a menos que se confirme que son comestibles.",
-            "symptoms": [
-              "No notablemente tóxico.",
-              "Los pueblos nativos usaban las hojas con fines medicinales."
-            ],
-            "exposure": "No se reporta ninguna ruta de exposición."
-          },
-          "cat": {
-            "effect": "No listado como tóxico.",
             "exposure": "No se reporta ninguna ruta de exposición.",
-            "symptoms": [
-              "No listado como tóxico."
-            ],
+            "effect": "No se reporta ningún efecto tóxico."
+          },
+          "notes_en": "No listada como tóxica por ASPCA; generalmente considerada segura alrededor de mascotas y personas.",
+          "cat": {
+            "exposure": "No se reporta ninguna ruta de exposición.",
+            "effect": "No se reporta ningún efecto tóxico.",
             "note": "No se reporta toxicidad para gatos en este catálogo; esto no es evidencia de que la planta sea comestible o inofensiva."
           },
           "dog": {
-            "effect": "No listado como tóxico.",
             "exposure": "No se reporta ninguna ruta de exposición.",
-            "symptoms": [
-              "No listado como tóxico."
-            ],
+            "effect": "No se reporta ningún efecto tóxico.",
             "note": "No se reporta toxicidad para perros en este catálogo; esto no es evidencia de que la planta sea comestible o inofensiva."
           },
-          "headline": "No se reportó toxicidad",
-          "notes_en": "No listado por la ASPCA. Generalmente considerado seguro."
+          "headline": "No se reportó toxicidad"
         },
         "description": "Áster de Nueva Inglaterra es una flor silvestre perenne nativa de América del Norte oriental produciendo masas de flores margarita lavanda-púrpura o rosa de 2,5 a 5 cm en finales de verano y otoño. Creciendo 0,9 a 1,8 m de alto con tallos fuzzy y hojas abrazadoras, es una pradera nativa de firma y planta silvestre de pradera floreciente de otoño, alimentando mariposas monarcas migrantes y polinizadores de estación tardía a través del noreste estadounidense y Midwest.",
         "history_text_long": "Áster de Nueva Inglaterra crece silvestre en prados y praderas húmedas de América del Norte oriental y central. Varias naciones indígenas, incluyendo los Iroqueses y Ojibwe, quemaban las raíces como humo ceremonial y usaban decoctos para fiebres y dolencias de la piel. Las semillas llegaron a jardines botánicos europeos a principios de los 1700s, donde la planta fue apreciada por sus flores de rayos violeta vívidos floreciendo de finales de verano hasta heladas.\n\nLos criadores victorianos en Bretaña y Alemania produjeron una larga serie de cultivares como 'Harrington's Pink' (Ontario de 1940s) y 'Purple Dome'. En 1994 el género Aster fue dividido y la especie reclasificada como Symphyotrichum novae-angliae, aunque el nombre antiguo permanece común en horticultura. Ahora es un básico de jardines de polinizadores en todo el mundo.\n\nNativo de América del Norte oriental y central desde Manitoba a Alabama. Fuente crucial de néctar de otoño para mariposas monarcas migrando al sur hacia México. Los cultivares Purple Dome y Alma Potschke lo popularizaron para uso de frontera americana a finales del siglo XX.",
@@ -27448,44 +27438,39 @@
       }
     },
     "AAA0447": {
-      "source_hash": "aec9cc574d8664a5d83e02ac6331c6821a4a7d6ade39d85dbe1b7f9e0f29eab5",
+      "source_hash": "6a26391f98ccc7789e8dfcd24e4877f6b1f3b47655e12fa947dcaf9fb637f1e8",
       "fields": {
         "bloom_tip": "Flores colgantes en forma de corazón rosa se arquean a lo largo de los tallos en la mitad o finales de la primavera.",
         "toxicity": {
-          "active_compound_display": "Alcaloides isoquinolina y protopina",
+          "active_compound_display": "Alcaloides isoquinolina y protoanemonina",
           "cat": {
-            "note": "ASPCA lista especies de Dicentra como tóxicas para perros, gatos y caballos. Puede causar signos neurológicos en mascotas.",
-            "exposure": "Comiendo raíces y hojas.",
+            "effect": "Temblores, convulsiones, dificultad respiratoria.",
+            "note": "ASPCA lista Dicentra como tóxico para perros y gatos. Mantener fuera del alcance.",
             "symptoms": [
-              "Temblores.",
-              "Convulsiones.",
-              "Tambaleándose.",
-              "Vómitos."
+              "Temblores, convulsiones, dificultad respiratoria."
             ],
-            "effect": "Temblores, convulsiones, tambaleo y vómitos."
+            "exposure": "Comer cualquier parte de la planta."
           },
           "dog": {
-            "note": "ASPCA lista especies de Dicentra como tóxicas para perros, gatos y caballos. Puede causar signos neurológicos en mascotas.",
-            "exposure": "Comiendo raíces y hojas.",
+            "effect": "Temblores, convulsiones, dificultad respiratoria.",
+            "note": "ASPCA lista Dicentra como tóxico para perros y gatos. Mantener fuera del alcance.",
             "symptoms": [
-              "Temblores.",
-              "Convulsiones.",
-              "Tambaleándose.",
-              "Vómitos."
+              "Temblores, convulsiones, dificultad respiratoria."
             ],
-            "effect": "Temblores, convulsiones, tambaleo y vómitos."
+            "exposure": "Comer cualquier parte de la planta."
           },
           "human": {
-            "effect": "Irritación cutánea y vómitos si se ingiere en cantidad.",
-            "exposure": "Comer cualquier parte de la planta. Tocar cualquier parte de la planta.",
-            "note": "Preocupación documentada en humanos: irritación de la piel y vómitos si se ingiere en cantidad.",
+            "exposure": "Tocar cualquier parte de la planta. Comer cualquier parte de la planta.",
+            "note": "Preocupación documentada para humanos: alcaloides isoquinolínicos, irritación cutánea al contacto, y náuseas y temblores si se ingiere.",
+            "effect": "Alcaloides de isoquinolina, irritación de la piel en contacto, y náusea y temblores si se ingiere.",
             "symptoms": [
-              "Irritación de la piel.",
-              "Vómitos si se ingiere en cantidad."
+              "Alcaloides de isoquinolina.",
+              "Irritación cutánea al contacto.",
+              "Náuseas y temblores si se ingiere."
             ]
           },
-          "notes_en": "ASPCA lista especies de Dicentra como tóxicas para perros, gatos y caballos. Puede causar signos neurológicos en mascotas.",
-          "headline": "Humanos Moderado · Mascotas Moderado"
+          "notes_en": "ASPCA lista Dicentra como tóxico para perros y gatos. Mantener fuera del alcance.",
+          "headline": "Humanos Leve · Mascotas Moderado"
         },
         "description": "Corazón sangrante (sin. Lamprocapnos spectabilis), corazón sangrante, es una perenne que florece en primavera nativa de Siberia, norte de China, Corea y Japón. Sus tallos arqueados de 60-90 cm portan hileras de distintivas flores colgantes en forma de corazón rosadas y blancas con una 'gota lágrima' sobresaliente, creando uno de los perfiles más reconocibles en el jardín de primavera.\n\nEl corazón sangrante prospera en condiciones frías, húmedas y parcialmente sombreadas. Las plantas emergen a mediados de primavera, florecen de 4-6 semanas, luego se vuelven latentes en verano en la mayoría de climas — el follaje amarillea y desaparece hasta la próxima primavera. Las plantas acompañantes que llenan la brecha (hostas, helechos, astilbes) son práctica estándar del jardín de cabaña.\n\nRobert Fortune introdujo la especie a la horticultura europea en 1846 desde la región de Shanghai, y se convirtió en una de las perennes de jardín de cabaña que define la era victoriana. La forma blanca 'Alba' y la de hojas doradas 'Gold Heart' son variantes populares.",
         "history_text_short": "Corazón sangrante (recientemente reclasificada como Lamprocapnos spectabilis por sistemática molecular, aunque la horticultura retiene el nombre antiguo) es nativa de Siberia, Heilongjiang, Liaoning y otras partes norteñas de China, Corea y norte de Japón.",
@@ -39325,28 +39310,39 @@
       }
     },
     "AAA0642": {
-      "source_hash": "084bb96e3f50d34ac8ff33737577cd00eaee0a7d0bb2c8f883ca6ce5bd31f803",
+      "source_hash": "ae07358fdda1cd85015f0bf3ed92136bc82dc696f8903186d20a24571afdf4f8",
       "fields": {
         "bloom_tip": "Colas de estrellas resbaladizas fragantes; florecen de los mismos brotes cada año, no podar los tallos muertos.",
         "toxicity": {
-          "active_compound_display": "Ninguno reportado",
+          "active_compound_display": "Latex (no tóxico)",
           "cat": {
-            "note": "Enumerado como no tóxico para gatos; evitar comer plantas ornamentales a menos que se confirme que es comestible.",
+            "effect": "No tóxico y el género hoya no figura como tóxico según la ASPCA.",
+            "symptoms": [
+              "No tóxico.",
+              "El género Hoya no figura como tóxico según la ASPCA."
+            ],
             "exposure": "No se reporta ninguna ruta de exposición.",
-            "effect": "No se reporta ningún efecto tóxico."
+            "note": "No se reporta toxicidad para gatos en este catálogo; esto no es evidencia de que la planta sea comestible o inofensiva."
           },
           "dog": {
-            "note": "Enumerado como no tóxico para perros; evitar comer plantas ornamentales a menos que se confirme que es comestible.",
+            "effect": "No tóxico y el género hoya no figura como tóxico según la ASPCA.",
+            "symptoms": [
+              "No tóxico.",
+              "El género Hoya no figura como tóxico según la ASPCA."
+            ],
             "exposure": "No se reporta ninguna ruta de exposición.",
-            "effect": "No se reporta ningún efecto tóxico."
+            "note": "No se reporta toxicidad para perros en este catálogo; esto no es evidencia de que la planta sea comestible o inofensiva."
           },
           "human": {
-            "note": "No se reporta toxicidad humana en este catálogo; evite comer plantas ornamentales a menos que se confirme que son comestibles.",
+            "effect": "La savia de látex puede causar irritación leve de la piel en individuos sensibles.",
+            "symptoms": [
+              "La savia de látex puede causar irritación leve de la piel en individuos sensibles."
+            ],
             "exposure": "No se reporta ninguna ruta de exposición.",
-            "effect": "No se reporta ningún efecto tóxico."
+            "note": "No se reporta toxicidad para humanos en este catálogo; esto no es evidencia de que la planta sea comestible o inofensiva."
           },
-          "notes_en": "Hoya carnosa aparece en la lista de la ASPCA como no tóxica.",
-          "headline": "Mascotas Seguras"
+          "notes_en": "Generalmente considerada segura para mascotas; la savia de látex blanco es solo un leve irritante cutáneo.",
+          "headline": "No se reportó toxicidad"
         },
         "description": "Flor de cera, la planta de cera, es una vid trepadora o colgante de larga vida con hojas gruesas, cerosas, verde oscuro y racimos espectaculares de flores en forma de estrella, fragantes, que brillan como si estuvieran cubiertas de cristales de azúcar. Nativa del Este de Asia y Australia, las plantas individuales pueden vivir décadas, convirtiéndose en reliquias familiares. Los racimos de flores de porcelana aparecen de los mismos espolones año tras año — nunca cortes tallos de flores gastadas. Prospera en negligencia benigna, prefiriendo estar ligeramente enlazada y secada entre riegos. Los cultivares abigarrados como 'Krimson Queen' y la hoja torcida 'Compacta' son populares.",
         "fragrance": {
@@ -46129,7 +46125,7 @@
       }
     },
     "AAA0749": {
-      "source_hash": "2a6eb361e2580ecb460f1d96d3d0ea88542fd0d47820c2915a3658f08e40d5b0",
+      "source_hash": "3bc0c7e44167a761dcbacd59864018969375f877ed5df0b9eb3b30e7eaf151c1",
       "fields": {
         "bloom_tip": "Colas de pequeñas flores blancas en forma de campana en primavera",
         "common_name": "leucothoe de hoja de álamo",
@@ -55613,10 +55609,10 @@
       }
     },
     "AAA0902": {
-      "source_hash": "8781e0e6fd079442c4df3a31225e252a4477ad3d8f7041e6c8e983826e3ef2d3",
+      "source_hash": "df81342545d914c9558460ca74ba3b3b1a115ada69c135ef209d3cdf442d33d4",
       "fields": {
         "toxicity": {
-          "active_compound_display": "Eugenol, ácido rosmarínico y ácido ursolico",
+          "active_compound_display": "Eugenol, ácido ursolico y ácido rosmarínico",
           "cat": {
             "note": "Enumerado como no tóxico para gatos; evitar comer plantas ornamentales a menos que se confirme que es comestible.",
             "exposure": "No se reporta ninguna ruta de exposición.",
@@ -55633,7 +55629,7 @@
             "effect": "No se reporta ningún efecto tóxico."
           },
           "headline": "Mascotas Seguras",
-          "notes_en": "Albahaca no tóxica según ASPCA."
+          "notes_en": "Especies de Albahaca no tóxicas según ASPCA."
         },
         "description": "La Albahaca Sagrada o Tulsi es una hierba perenne sagrada india que alcanza de 30 a 90 cm de altura, con hojas aromáticas verdes o púrpuras y pequeñas espigafloras blancas-rosadas. Considerada una planta sagrada en la tradición hindú y cultivada en casi todos los hogares hindú en India. Utilizada en la medicina ayurvédica para alivio del estrés, inmunidad y salud respiratoria, y en infusiones de hierbas. Cada vez más cultivada en jardines estadounidenses ya que la conciencia de hierbas ayurvédicas y adaptogénicas crece. A menudo cultivada como anual fuera de zonas tropicales.",
         "name_origin": "'Ocimum' del griego 'okimon', el antiguo nombre griego de albahaca; 'sanctum' del latín que significa sagrado.",
@@ -65471,39 +65467,39 @@
       }
     },
     "AAA1063": {
-      "source_hash": "e99013adcf87c488aded3304db865797a7a9b6cfcb49178e986466080f018456",
+      "source_hash": "ade2a6bf4bce7220d082c046d2db0e9537368dd9232475b19b75390c97f4dfa8",
       "fields": {
         "bloom_tip": "Extremadamente raro en interiores",
         "toxicity": {
           "active_compound_display": "Cristales de oxalato de calcio insolubles (rafides)",
           "cat": {
-            "note": "Toxicidad es generalmente leve pero puede ser alarmante en gatos y perros pequeños debido a hinchazón bucal.",
+            "effect": "Irritación oral, babeo, vómitos, dificultad para tragar y según la lista ASPCA para Epipremnum aureum.",
             "symptoms": [
-              "Irritación oral, ardor e hinchazón intensos, babeo excesivo, vómitos, dificultad para tragar.",
-              "Por ASPCA."
+              "Irritación oral, babeo, vómitos, dificultad para tragar.",
+              "Según la lista de la ASPCA para Epipremnum aureum."
             ],
             "exposure": "Comiendo hojas y tallos.",
-            "effect": "Irritación oral, ardor e hinchazón intensos, babeo excesivo, vómitos, dificultad para tragar según la ASPCA."
+            "note": "Sinónimo taxonómico — los datos coinciden con Epipremnum aureum."
           },
           "dog": {
-            "effect": "Irritación oral, dolor e hinchazón de boca, lengua y labios, salivación excesiva, vómitos, dificultad para tragar y según ASPCA.",
-            "note": "Toxicidad es generalmente leve pero puede ser alarmante en gatos y perros pequeños debido a hinchazón bucal.",
+            "effect": "Irritación oral, babeo, vómitos, dificultad para tragar y según la lista ASPCA para Epipremnum aureum.",
             "symptoms": [
-              "Irritación oral, dolor e hinchazón de boca, lengua y labios, salivación excesiva, vómitos, dificultad para tragar.",
-              "Por ASPCA."
+              "Irritación oral, babeo, vómitos, dificultad para tragar.",
+              "Según la lista de la ASPCA para Epipremnum aureum."
             ],
-            "exposure": "Comiendo hojas y tallos."
+            "exposure": "Comiendo hojas y tallos.",
+            "note": "Sinónimo taxonómico — los datos coinciden con Epipremnum aureum."
           },
           "human": {
-            "effect": "Ardor bucal, hinchazón de labios y lengua, salivación y piel puede desarrollar dermatitis leve de savia.",
             "exposure": "Tocar hojas, tallos y savia. Comer hojas, tallos y savia.",
-            "note": "Toxicidad es generalmente leve pero puede ser alarmante en gatos y perros pequeños debido a hinchazón bucal.",
+            "effect": "Sensación ardiente oral, hinchazón de labios y lengua, babeo e irritación de piel leve.",
+            "note": "Sinónimo taxonómico — los datos coinciden con Epipremnum aureum.",
             "symptoms": [
-              "Ardor oral, hinchazón de labios y lengua, babeo.",
-              "La piel puede desarrollar dermatitis leve por la savia."
+              "Ardor bucal, hinchazón de labios y lengua, babeo.",
+              "Irritación leve en la piel."
             ]
           },
-          "notes_en": "Toxicidad es generalmente leve pero puede ser alarmante en gatos y perros pequeños debido a hinchazón bucal.",
+          "notes_en": "Sinónimo taxonómico — los datos coinciden con Epipremnum aureum.",
           "headline": "Humanos Leve · Mascotas Leve"
         },
         "description": "Potos (a menudo vendido como Epipremnum aureum 'Golden Pothos') presenta hojas en forma de corazón salpicadas de variegación amarillo dorado en vides rastreras. Es prácticamente idéntico en cuidados a otras variedades de potos — prosperando en luz indirecta baja a brillante, tolerando riegos olvidados y creciendo rápidamente. La variegación dorada se vuelve más pronunciada con condiciones más brillantes. En regiones tropicales, los potos escapados pueden volverse invasores, subiendo a los árboles con hojas que crecen a tamaños enormes. En interiores, se mantiene compacto y es una de las plantas para principiantes más populares en todo el mundo.",
@@ -79766,40 +79762,40 @@
       }
     },
     "AAA1295": {
-      "source_hash": "7d62d6f1920ce00b37192e53d4acb6e1eef48907b847279704c85c37b4d9e52d",
+      "source_hash": "8bfc16705aea5d7a49c7d1ffe480a174f78f665d4a3ad0d6a85603104633cc57",
       "fields": {
         "bloom_tip": "Raras flores fragantes",
         "toxicity": {
           "active_compound_display": "saponinas",
           "cat": {
-            "note": "La ASPCA enumera Sansevieria/Dracaena trifasciata como tóxica para mascotas.",
-            "effect": "Vómitos y diarrea.",
+            "effect": "Náuseas, vómitos, diarrea según la ASPCA.",
+            "note": "Saponinas causan espuma e irritación GI pero se absorben mal; envenenamientos graves son raros.",
             "exposure": "Comer hojas.",
             "symptoms": [
-              "Vómitos.",
-              "Diarrea."
+              "Náusea, vómito, diarrea.",
+              "Por ASPCA."
             ]
           },
           "dog": {
-            "note": "La ASPCA enumera Sansevieria/Dracaena trifasciata como tóxica para mascotas.",
-            "effect": "Vómitos y diarrea.",
+            "effect": "Náuseas, vómitos, diarrea según la ASPCA.",
+            "note": "Saponinas causan espuma e irritación GI pero se absorben mal; envenenamientos graves son raros.",
             "exposure": "Comer hojas.",
             "symptoms": [
-              "Vómitos.",
-              "Diarrea."
+              "Náusea, vómito, diarrea.",
+              "Por ASPCA."
             ]
           },
           "human": {
-            "note": "Preocupación documentada para humanos: irritación oral y náuseas.",
+            "effect": "Náuseas, vómitos y malestar gastrointestinal leve y raramente grave.",
+            "note": "Saponinas causan espuma e irritación GI pero se absorben mal; envenenamientos graves son raros.",
             "exposure": "Comer hojas.",
             "symptoms": [
-              "Irritación oral.",
-              "Náuseas."
-            ],
-            "effect": "Irritación oral y náuseas."
+              "Náuseas, vómitos y malestar gastrointestinal leve.",
+              "Raramente Grave."
+            ]
           },
-          "notes_en": "La ASPCA enumera Sansevieria/Dracaena trifasciata como tóxica para mascotas.",
-          "headline": "Humanos Leve · Mascotas Moderado"
+          "notes_en": "Saponinas causan espuma e irritación GI pero se absorben mal; envenenamientos graves son raros.",
+          "headline": "Humanos Leve · Mascotas Leve"
         },
         "description": "La lengua de suegra es una de las plantas de interior más resilientes en la tierra, nativa del terreno rocoso seco de África Occidental. Sus hojas rígidas tipo espada con bandas distintivas pueden sobrevivir semanas sin agua, calor extremo y casi total oscuridad. Únicamente, realiza fotosíntesis CAM—convirtiendo CO₂ a oxígeno de noche—lo que la convierte en una planta ideal para dormitorio. Es prácticamente indestructible, tolerando el tipo de negligencia que mataría la mayoría de otras plantas de interior.",
         "history_text_long": "Sansevieria trifasciata fue descrita por primera vez en 1794 y nombrada después de Raimondo di Sangro, un príncipe italiano del siglo XVIII. Estudios moleculares la reclasificaron como Dracaena trifasciata en 2017, aunque el nombre más antiguo sigue siendo dominante comercialmente. En su oeste de África nativa—particularmente Nigeria y la Cuenca del Congo—sus fibras de hojas duras fueron hiladas en cuerdas de arco, dando origen al nombre 'cáñamo de arco'.\n\nLos británicos victorianos la importaron como una planta de sala robusta tolerante a los vapores de gas, y se convirtió en una fijación del modernismo de mediados de siglo por la misma razón. El Estudio de Aire Limpio de NASA de 1989 documentó su capacidad de convertir CO2 en oxígeno por la noche a través de fotosíntesis CAM, uno de los pocos houseplants que lo hacen, convirtiéndola en una planta de dormitorio popular.\n\nEn Nigeria se asocia con Ogún, el dios del hierro y la guerra, y se coloca en puertas para protección espiritual. Los chinos la consideran una planta de tesoro—se dice que sus hojas apuntando hacia arriba canalizan buena fortuna hacia arriba a través del hogar. Durante la Segunda Guerra Mundial, las fibras duras de la planta se usaron como sustituto del cáñamo de arco cuando las cadenas de suministro se rompieron.",
@@ -81489,13 +81485,13 @@
       }
     },
     "AAA1322": {
-      "source_hash": "3362008348bf82c802da0d505575dba4baca67769778a2577fe00b08ff65671c",
+      "source_hash": "5557ee1bf16271e17a41dc4575c06e7adb17a87305d8a6cf01c2806b28cc3c98",
       "fields": {
         "bloom_tip": "Cultivado para hojas plateadas; pequeñas flores amarillas en el segundo año si se deja pasar el invierno",
         "toxicity": {
           "active_compound_display": "alcaloides pirrolizidinas",
           "cat": {
-            "note": "Como parientes Senecio, contiene alcaloides pirrolizidínicos hepatotóxicos; evitar la ingestión.",
+            "note": "Contiene alcaloides pirrolizidínicos hepatotóxicos; evitar la ingestión.",
             "exposure": "Comer hojas.",
             "effect": "Los alcaloides pirrolizidínicos causan daño hepático.",
             "symptoms": [
@@ -81503,7 +81499,7 @@
             ]
           },
           "dog": {
-            "note": "Como parientes Senecio, contiene alcaloides pirrolizidínicos hepatotóxicos; evitar la ingestión.",
+            "note": "Contiene alcaloides pirrolizidínicos hepatotóxicos; evitar la ingestión.",
             "exposure": "Comer hojas.",
             "effect": "Los alcaloides pirrolizidínicos causan daño hepático.",
             "symptoms": [
@@ -81511,14 +81507,14 @@
             ]
           },
           "human": {
-            "note": "Como parientes Senecio, contiene alcaloides pirrolizidínicos hepatotóxicos; evitar la ingestión.",
+            "note": "Contiene alcaloides pirrolizidínicos hepatotóxicos; evitar la ingestión.",
             "effect": "Los alcaloides pirrolizidínicos causan daño hepático progresivo con ingestión crónica.",
             "exposure": "Comer hojas.",
             "symptoms": [
               "Los alcaloides pirrolizidínicos causan daño hepático progresivo con ingestión crónica."
             ]
           },
-          "notes_en": "Como parientes Senecio, contiene alcaloides pirrolizidínicos hepatotóxicos; evitar la ingestión.",
+          "notes_en": "Contiene alcaloides pirrolizidínicos hepatotóxicos; evitar la ingestión.",
           "headline": "Humanos Moderado · Mascotas Moderado"
         },
         "description": "La cineraria marítima es una perenne tierna mediterránea cultivada como anual en toda EE.UU. por su follaje profundamente lobulado de color plata-gris impactante. Crece de 30 a 60 cm de alto en forma redondeada y frondosa, valorada por su follaje distintivo en lugar de sus modestas flores amarillas de verano, combinando bellamente con geranios rojos, salvia púrpura y petunias rosas en esquemas clásicos estadounidenses de contenedores y macizos de flores.",
@@ -84455,33 +84451,37 @@
       }
     },
     "AAA1371": {
-      "source_hash": "f9f4ef8e685dd3eae4f4eadf438fafec5e2e44d966650b0e0f7951cbfd24c6c2",
+      "source_hash": "e827a953913e61f1ee898200ff457588546fb44d2a45e271007f3d99d073ea16",
       "fields": {
         "toxicity": {
-          "active_compound_display": "Principio tóxico desconocido",
-          "cat": {
-            "effect": "Las aristas pueden alojarse en orejas, ojos, garganta.",
-            "note": "No químicamente tóxico; las aristas de semillas causan lesión mecánica al ganado (lesiones tipo cola de zorro).",
-            "symptoms": [
-              "Las aristas pueden alojarse en orejas, ojos, garganta."
-            ],
-            "exposure": "Tocar semillas. Comer semillas."
-          },
+          "active_compound_display": "Ninguno reportado",
           "dog": {
-            "effect": "Las aristas pueden alojarse en orejas, ojos, garganta.",
-            "note": "No químicamente tóxico; las aristas de semillas causan lesión mecánica al ganado (lesiones tipo cola de zorro).",
+            "effect": "No se lista como tóxico y aristas afiladas en semilla pueden causar lesión mecánica/problemas de oído en perros.",
             "symptoms": [
-              "Las aristas pueden alojarse en orejas, ojos, garganta."
+              "No listado como tóxico.",
+              "Las aristas afiladas en semillas pueden causar lesión mecánica/problemas de oído en perros."
             ],
-            "exposure": "Tocar semillas. Comer semillas."
-          },
-          "notes_en": "No químicamente tóxico; las aristas de semillas causan lesión mecánica al ganado (lesiones tipo cola de zorro).",
-          "headline": "Mascotas Leve",
-          "human": {
             "exposure": "No se reporta ninguna ruta de exposición.",
-            "effect": "No se reporta ningún efecto tóxico.",
-            "note": "No se reporta toxicidad para humanos en este catálogo; esto no es evidencia de que la planta sea comestible o inofensiva."
-          }
+            "note": "No se reporta toxicidad para perros en este catálogo; esto no es evidencia de que la planta sea comestible o inofensiva."
+          },
+          "human": {
+            "note": "No se reporta toxicidad humana en este catálogo; evite comer plantas ornamentales a menos que se confirme que son comestibles.",
+            "effect": "Sin toxicidad significativa.",
+            "exposure": "No se reporta ninguna ruta de exposición.",
+            "symptoms": [
+              "Sin toxicidad significativa."
+            ]
+          },
+          "notes_en": "No listado por ASPCA. Las semillas barbadas pueden alojarse en oídos y patas de perros — un problema veterinario reconocido con muchos pastos ornamentales.",
+          "cat": {
+            "effect": "No listado como tóxico.",
+            "exposure": "No se reporta ninguna ruta de exposición.",
+            "symptoms": [
+              "No listado como tóxico."
+            ],
+            "note": "No se reporta toxicidad para gatos en este catálogo; esto no es evidencia de que la planta sea comestible o inofensiva."
+          },
+          "headline": "No se reportó toxicidad"
         },
         "bloom_tip": "Cabezas de semillas sedosas en principios de verano; peina el crecimiento viejo en primavera",
         "description": "Hierba pluma mexicana, comúnmente llamada pasto pluma mexicano o nassella, es uno de los pastos ornamentales más elegantes disponibles, nativo de las regiones áridas del suroeste de Estados Unidos, México y Argentina. Forma fuentes de textura fina y pelo fino de follaje verde brillante que se descolora a un hermoso rubio dorado en verano y otoño. Toda la planta se mueve fluidamente en la más ligera brisa, creando un movimiento ondulante hipnotizante que ningún otro pasto puede igualar. Creciendo de 40 a 60 centímetros de alto, es ideal para plantación masiva, jardines de pradera y suavizar bordes de paisaje duro. Es extremadamente tolerante a la sequía y prospera en suelos pobres y bien drenados donde otras plantas luchan. Las cabezas de semilla delgadas como un hilo emergen a principios de verano, añadiendo un brillo brillante sobre el follaje. Se auto siembra libremente en climas suaves y se considera invasivo en partes de Australia y Nueva Zelanda, aunque generalmente es bien portado en climas continentales con inviernos fríos.",
@@ -84653,27 +84653,35 @@
       }
     },
     "AAA1374": {
-      "source_hash": "75844c27d9f40e072df05a796375ded7e3dc4266ad89502048c6e8c1877e80d2",
+      "source_hash": "01a14302ec73d99f82d9be302eb9e9fe008793259364caf1100e204bf49b4810",
       "fields": {
         "toxicity": {
           "active_compound_display": "Ninguno reportado",
           "cat": {
-            "note": "Enumerado como no tóxico para gatos; evitar comer plantas ornamentales a menos que se confirme que es comestible.",
+            "effect": "No tóxico y la familia Marantaceae listada como segura por ASPCA.",
+            "symptoms": [
+              "No tóxico.",
+              "Familia Marantaceae listada como segura por ASPCA."
+            ],
             "exposure": "No se reporta ninguna ruta de exposición.",
-            "effect": "No se reporta ningún efecto tóxico."
+            "note": "No se reporta toxicidad para gatos en este catálogo; esto no es evidencia de que la planta sea comestible o inofensiva."
           },
           "dog": {
-            "note": "Enumerado como no tóxico para perros; evitar comer plantas ornamentales a menos que se confirme que es comestible.",
+            "effect": "No tóxico y la familia Marantaceae listada como segura por ASPCA.",
+            "symptoms": [
+              "No tóxico.",
+              "Familia Marantaceae listada como segura por ASPCA."
+            ],
             "exposure": "No se reporta ninguna ruta de exposición.",
-            "effect": "No se reporta ningún efecto tóxico."
+            "note": "No se reporta toxicidad para perros en este catálogo; esto no es evidencia de que la planta sea comestible o inofensiva."
           },
+          "headline": "No se reportó toxicidad",
           "human": {
-            "note": "No se reporta toxicidad humana en este catálogo; evite comer plantas ornamentales a menos que se confirme que son comestibles.",
             "exposure": "No se reporta ninguna ruta de exposición.",
-            "effect": "No se reporta ningún efecto tóxico."
+            "effect": "No se reporta ningún efecto tóxico.",
+            "note": "No se reporta toxicidad para humanos en este catálogo; esto no es evidencia de que la planta sea comestible o inofensiva."
           },
-          "notes_en": "Marantaceae (incluyendo Stromanthe) listada por la ASPCA como no tóxica.",
-          "headline": "Mascotas Seguras"
+          "notes_en": "Seguro para mascotas."
         },
         "description": "Estromante 'Triostar' es una de las plantas de follaje más coloridas disponibles, con hojas pintadas en rosa, crema y verde en la parte superior y magenta profundo en la parte inferior. Miembro de la familia de la planta de oración (Marantaceae), realiza movimientos foliares nocturnos. Nativa de las selvas tropicales de Brasil, crece 60–90 cm de alto y prefiere condiciones húmedas con luz filtrada. La combinación de color dramática: especialmente los bordes magenta impactante revelados durante el movimiento de oración nocturno: la hace una planta sorprendente. Es más tolerante que Calatheas pero sigue apreciando humedad por encima del 50%.",
         "history_text_long": "Estromante es nativa de la selva tropical del Atlántico del este de Brasil, donde forma grupos de hojas lanceoladas amplias con enveses burdeos en el piso del bosque húmedo. Formalmente descrita en 1847, fue una planta de invernadero especialista durante la mayor parte del siglo XX. El deporte abigarrado 'Triostar' (también comercializado como 'Tricolor' o 'Magicstar'), con follaje tricolor rosa, crema y verde, fue introducido a finales de los años 1990 y rápidamente se convirtió en una de las plantas de Marantaceae de interior más vendidas de los años 2000 y 2010.\n\nComo sus parientes Calathea y Maranta realiza plegado de hojas nocturno, y como ellas se considera no tóxica para gatos y perros. En invierno — desencadenado por la duración del día — produce inflorescencias verticales de brácteas rojas y flores blancas pequeñas. Estromante ganó popularidad generalizada a través de su cultivar 'Triostar' (también vendido como 'Tricolor'), que amplifica la variegación natural rosa y crema de la especie a niveles dramáticos.\n\nEn la selva tropical del Atlántico brasileño, la forma verde silvestre crece en colonias densas en el piso del bosque. El nombre de la especie 'sanguinea' (rojo sangre) se refiere a los enveses de hojas magenta vibrantes. La familia entera Marantaceae — aproximadamente 550 especies — es casi exclusivamente tropical, con la mayor diversidad en las Américas. Los brasileños llaman a la familia 'maranta', y muchas especies se usan en artesanías indígenas y medicina tradicional.",

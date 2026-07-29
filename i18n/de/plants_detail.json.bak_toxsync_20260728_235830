@@ -9741,37 +9741,27 @@
       }
     },
     "AAA0156": {
-      "source_hash": "6b19ac0d5d619ea61449f2a5bb87724b2fd8c10c528af0cb4b731a5573fab062",
+      "source_hash": "fd01ac758ce1975f0b4a21f7885df805f82795ddd56008109cf6ebadfc7e6485",
       "fields": {
         "toxicity": {
           "active_compound_display": "Keine bekannt",
           "cat": {
-            "effect": "Nicht als giftig gelistet.",
+            "effect": "Es ist keine toxische Wirkung bekannt.",
             "exposure": "Es ist kein Expositionsweg bekannt.",
-            "note": "In diesem Katalog wird keine Toxizität für Katzen gemeldet; dies ist kein Beleg dafür, dass die Pflanze essbar oder unschädlich ist.",
-            "symptoms": [
-              "Nicht als giftig gelistet."
-            ]
+            "note": "In diesem Katalog wird keine Toxizität für Katzen gemeldet; dies ist kein Beleg dafür, dass die Pflanze essbar oder unschädlich ist."
           },
           "dog": {
-            "effect": "Nicht als giftig gelistet.",
+            "effect": "Es ist keine toxische Wirkung bekannt.",
             "exposure": "Es ist kein Expositionsweg bekannt.",
-            "note": "In diesem Katalog wird keine Toxizität für Hunde gemeldet; dies ist kein Beleg dafür, dass die Pflanze essbar oder unschädlich ist.",
-            "symptoms": [
-              "Nicht als giftig gelistet."
-            ]
+            "note": "In diesem Katalog wird keine Toxizität für Hunde gemeldet; dies ist kein Beleg dafür, dass die Pflanze essbar oder unschädlich ist."
           },
           "headline": "Keine Toxizität bekannt",
           "human": {
+            "effect": "Es ist keine toxische Wirkung bekannt.",
             "exposure": "Es ist kein Expositionsweg bekannt.",
-            "note": "In diesem Katalog wird keine Toxizität für Menschen gemeldet; vermeiden Sie es, Zierpflanzen zu essen, es sei denn, sie sind als essbar bestätigt.",
-            "effect": "Nicht nennenswert giftig; indigene Völker nutzten die Blätter medizinisch.",
-            "symptoms": [
-              "Nicht nennenswert giftig.",
-              "Indigene Völker nutzten die Blätter medizinisch."
-            ]
+            "note": "In diesem Katalog wird keine Toxizität für Menschen gemeldet; vermeiden Sie es, Zierpflanzen zu essen, es sei denn, sie sind als essbar bestätigt."
           },
-          "notes_en": "Nicht von der ASPCA gelistet. Allgemein als unbedenklich angesehen."
+          "notes_en": "Von der ASPCA nicht als giftig gelistet; gilt allgemein als unbedenklich für Haustiere und Menschen."
         },
         "bloom_tip": "Massen von violetten Gänseblümchenblüten von September bis Oktober",
         "common_name": "Raublattaster",
@@ -27448,7 +27438,7 @@
       }
     },
     "AAA0447": {
-      "source_hash": "aec9cc574d8664a5d83e02ac6331c6821a4a7d6ade39d85dbe1b7f9e0f29eab5",
+      "source_hash": "6a26391f98ccc7789e8dfcd24e4877f6b1f3b47655e12fa947dcaf9fb637f1e8",
       "fields": {
         "history_text_long": "Tränendes Herz (neulich umklassifiziert wie Lamprocapnos spectabilis durch molecular Systematik, obwohl Gärtnerei behält alt Name) ist heimisch zu Sibirien, Heilongjiang, Liaoning und Ander nördlich Teile China, Korea und nördlich Japan. Schottisch Anlage Jäger Robert Fortune eingeführt Spezies zu europäisch Gärtnerei in 1846, sammeln lebend Pflanzen von Shanghai Region für Horticultural Society von London. Es verursacht unmittelbar Sensation – Gardeners' Chronicle schrieb in 1847, dass es 'meist schön winterhart Anlage neulich eingeführt.'\n\nEs wurde einer meist universell wachsen Bauerngarten-Stauden von Victorian Ära und bleibt daher heute. Bogen 60-90 cm Stämme tragen 10-20 Herz-förmig Blüten in doppel Reihe, jeder Blüte 2-3 cm lang mit rosa Außen Blütenblätter, weiß Inner Blütenblätter und klein weiß 'tropfen' hervorkommen von Boden.\n\nRein weiß Form 'Alba' und golden-blättrig 'Gold Herz' (Hadspen Gärten, 1997) sind populär Varianten. Pflanzen gehen Sommer-ruhend in Mehrheit Klimate – Eigenschaft zu Plan rund später-aufstieg Begleiter.",
         "bloom_tip": "Rosa herzförmige, herabhängende Blüten wölben sich im mittleren bis späten Frühjahr entlang der Stängel.",
@@ -27472,40 +27462,35 @@
         ],
         "symbolism_story": "Das Tränende Herz hängt seine perfekten rosafarbenen Medaillons in einer Reihe entlang überhängender Stängel, die wahre Gestalt unsterblicher Liebe. In der viktorianischen Blumensprache bedeutete es zärtliche Emotion und treues Mitgefühl, und es erscheint noch immer im späten Frühjahr wie eine stille Liebeserklärung. Es ist die Erinnerung des alten Gartens daran, dass das Herz, selbst durchbohrt, selbst hängend, immer wieder dieselbe Form macht.",
         "toxicity": {
-          "active_compound_display": "Isochinolin-Alkaloide und Protopin",
+          "active_compound_display": "Isochinolin-Alkaloide und Protoanemonin",
           "cat": {
-            "effect": "Zittern, Krämpfe, Taumeln und Erbrechen.",
-            "exposure": "Fressen von Wurzeln und Blättern.",
-            "note": "Die ASPCA listet Dicentra-Arten als giftig für Hunde, Katzen und Pferde. Kann bei Haustieren neurologische Symptome verursachen.",
+            "effect": "Zittern, Krampfanfälle, Atemnot.",
+            "exposure": "Verzehr jeglicher Pflanzenteile.",
+            "note": "Die ASPCA führt Dicentra als giftig für Hunde und Katzen auf. Außerhalb der Reichweite aufbewahren.",
             "symptoms": [
-              "Zittern.",
-              "Krämpfe.",
-              "Taumeln.",
-              "Erbrechen."
+              "Zittern, Krampfanfälle, Atemnot."
             ]
           },
           "dog": {
-            "effect": "Zittern, Krämpfe, Taumeln und Erbrechen.",
-            "exposure": "Fressen von Wurzeln und Blättern.",
-            "note": "Die ASPCA listet Dicentra-Arten als giftig für Hunde, Katzen und Pferde. Kann bei Haustieren neurologische Symptome verursachen.",
+            "effect": "Zittern, Krampfanfälle, Atemnot.",
+            "exposure": "Verzehr jeglicher Pflanzenteile.",
+            "note": "Die ASPCA führt Dicentra als giftig für Hunde und Katzen auf. Außerhalb der Reichweite aufbewahren.",
             "symptoms": [
-              "Zittern.",
-              "Krämpfe.",
-              "Taumeln.",
-              "Erbrechen."
+              "Zittern, Krampfanfälle, Atemnot."
             ]
           },
-          "headline": "Menschen Mäßig · Haustiere Mäßig",
+          "headline": "Menschen Gering · Haustiere Mäßig",
           "human": {
-            "effect": "Hautreizung und Erbrechen bei Verzehr größerer Mengen.",
-            "exposure": "Verzehr von Pflanzenteilen. Berührung von Pflanzenteilen.",
-            "note": "Dokumentierte Bedenken für Menschen: Hautreizung und Erbrechen bei Verzehr größerer Mengen.",
+            "effect": "Isochinolin-Alkaloide, Hautreizung bei Kontakt und Übelkeit und Zittern bei Verschlucken.",
+            "exposure": "Berühren eines Pflanzenteils. Essen eines Pflanzenteils.",
+            "note": "Dokumentierte Bedenken für Menschen: Isochinolin-Alkaloide, Hautreizung bei Kontakt und Übelkeit und Zittern bei Verschlucken.",
             "symptoms": [
-              "Hautreizung.",
-              "Erbrechen bei Verzehr größerer Mengen."
+              "Isochinolin-Alkaloide.",
+              "Hautreizung bei Kontakt.",
+              "Übelkeit und Zittern bei Verschlucken."
             ]
           },
-          "notes_en": "Die ASPCA listet Dicentra-Arten als giftig für Hunde, Katzen und Pferde. Kann bei Haustieren neurologische Symptome verursachen."
+          "notes_en": "Die ASPCA führt Dicentra als giftig für Hunde und Katzen auf. Außerhalb der Reichweite aufbewahren."
         },
         "uses_list": [
           {
@@ -39325,28 +39310,39 @@
       }
     },
     "AAA0642": {
-      "source_hash": "084bb96e3f50d34ac8ff33737577cd00eaee0a7d0bb2c8f883ca6ce5bd31f803",
+      "source_hash": "ae07358fdda1cd85015f0bf3ed92136bc82dc696f8903186d20a24571afdf4f8",
       "fields": {
         "history_text_long": "Wachsblume ist heimisch zu breit Schwung von östlich und südöstlich Asien von südlich China und Indien durch die Malaiisch Archipel zu Queensland, Australien, wo es klettert als epiphyt in feucht Wälder. Das Genus war benannt in 1810 in Ehre von Thomas Hoy, Gärtner zu der Herzog von Northumberland. Es war eins von der frühest tropisch Ranken gebracht zu europäisch Kultivierung, erreichend England in 1802 und es blieb ein Standard viktorianisch Parlor Pflanze durchgehend die 19. Jahrhundert.\n\nIhre Blüten sind ihr Signatur: perfekt symmetrisch fünf-gespitzt Sterne gehäuft in hängend Sphären, mit Porzellan Glanz und ein sternförmig Sekundär Corona bei der Zentrum. Sie freigeben ein intensiv süß Duft stärkst bei Nacht und produzieren sichtbar klebrig Nektar-Tröpfchen. Bestätigt nicht-giftig zu Haustiere.\n\nWachsblume wurde bestanden unten durch Generationen als Familie Erbstück-Pflanze, mit einige Exemplare dokumentiert bei über 50 Jahre alt. In Korea, es ist genannt ‚Choyong Blume' und gegeben als Geschenk zu Neuvermählte, geglaubt zu bringen Harmonie zu der Haushalt. Der süß Nacht-Duft lockt Motte-Bestäuber in den wild.",
         "toxicity": {
-          "active_compound_display": "Keine bekannt",
           "cat": {
-            "effect": "Es ist keine toxische Wirkung bekannt.",
             "exposure": "Es ist kein Expositionsweg bekannt.",
-            "note": "Als ungiftig für Katzen gelistet; vermeiden Sie den Verzehr von Zierpflanzen, sofern nicht als essbar bestätigt."
+            "note": "In diesem Katalog wird keine Toxizität für Katzen gemeldet; dies ist kein Beleg dafür, dass die Pflanze essbar oder unschädlich ist.",
+            "effect": "Ungiftig; die Gattung Hoya wird von der ASPCA nicht als giftig geführt.",
+            "symptoms": [
+              "Ungiftig.",
+              "Die Gattung Hoya wird von der ASPCA nicht als giftig geführt."
+            ]
           },
           "dog": {
-            "effect": "Es ist keine toxische Wirkung bekannt.",
             "exposure": "Es ist kein Expositionsweg bekannt.",
-            "note": "Als ungiftig für Hunde gelistet; vermeiden Sie den Verzehr von Zierpflanzen, sofern nicht als essbar bestätigt."
+            "note": "In diesem Katalog wird keine Toxizität für Hunde gemeldet; dies ist kein Beleg dafür, dass die Pflanze essbar oder unschädlich ist.",
+            "effect": "Ungiftig; die Gattung Hoya wird von der ASPCA nicht als giftig geführt.",
+            "symptoms": [
+              "Ungiftig.",
+              "Die Gattung Hoya wird von der ASPCA nicht als giftig geführt."
+            ]
           },
+          "headline": "Keine Toxizität bekannt",
           "human": {
-            "effect": "Es ist keine toxische Wirkung bekannt.",
             "exposure": "Es ist kein Expositionsweg bekannt.",
-            "note": "In diesem Katalog wird keine Toxizität für Menschen gemeldet; vermeiden Sie es, Zierpflanzen zu essen, es sei denn, sie sind als essbar bestätigt."
+            "note": "In diesem Katalog wird keine Toxizität für Menschen gemeldet; dies ist kein Beleg dafür, dass die Pflanze essbar oder unschädlich ist.",
+            "effect": "Latexsaft kann bei empfindlichen Personen leichte Hautreizungen verursachen.",
+            "symptoms": [
+              "Latexsaft kann bei empfindlichen Personen leichte Hautreizungen verursachen."
+            ]
           },
-          "headline": "Haustiere sicher",
-          "notes_en": "Hoya carnosa wird von der ASPCA als ungiftig geführt."
+          "active_compound_display": "Latex (ungiftig)",
+          "notes_en": "Gilt allgemein als haustiersicher; weißer Latexsaft ist nur ein geringfügiges Hautreizmittel."
         },
         "bloom_tip": "Duftende wachsartige Sternblüten in Büscheln; Blüte aus denselben Sporen jährlich – verblühte Stiele nicht zurückschneiden",
         "common_name": "Wachsblume",
@@ -46129,7 +46125,7 @@
       }
     },
     "AAA0749": {
-      "source_hash": "2a6eb361e2580ecb460f1d96d3d0ea88542fd0d47820c2915a3658f08e40d5b0",
+      "source_hash": "3bc0c7e44167a761dcbacd59864018969375f877ed5df0b9eb3b30e7eaf151c1",
       "fields": {
         "flower_meaning": "Anmut",
         "symbolism_list": [
@@ -55613,7 +55609,7 @@
       }
     },
     "AAA0902": {
-      "source_hash": "8781e0e6fd079442c4df3a31225e252a4477ad3d8f7041e6c8e983826e3ef2d3",
+      "source_hash": "df81342545d914c9558460ca74ba3b3b1a115ada69c135ef209d3cdf442d33d4",
       "fields": {
         "toxicity": {
           "cat": {
@@ -55631,9 +55627,9 @@
             "exposure": "Es ist kein Expositionsweg bekannt.",
             "note": "In diesem Katalog wird keine Toxizität für Menschen gemeldet; vermeiden Sie es, Zierpflanzen zu essen, es sei denn, sie sind als essbar bestätigt."
           },
-          "active_compound_display": "Eugenol, Rosmarinsäure und Ursolsäure",
+          "active_compound_display": "Eugenol, Ursolsäure und Rosmarinsäure",
           "headline": "Haustiere sicher",
-          "notes_en": "Basilikum ist laut ASPCA ungiftig."
+          "notes_en": "Basilikum-Arten sind laut ASPCA ungiftig."
         },
         "bloom_tip": "Kleine rosa-weiße Blütenähren den Sommer über",
         "common_name": "Indisches Basilikum",
@@ -65471,7 +65467,7 @@
       }
     },
     "AAA1063": {
-      "source_hash": "e99013adcf87c488aded3304db865797a7a9b6cfcb49178e986466080f018456",
+      "source_hash": "ade2a6bf4bce7220d082c046d2db0e9537368dd9232475b19b75390c97f4dfa8",
       "fields": {
         "flower_meaning": "Ausdauer",
         "symbolism_list": [
@@ -65492,34 +65488,34 @@
         "toxicity": {
           "active_compound_display": "unlösliche Calciumoxalat-Kristalle (Raphiden)",
           "cat": {
-            "effect": "Orale Reizung, starkes Brennen und Schwellung, übermäßiges Sabbern, Erbrechen, Schluckbeschwerden laut ASPCA.",
+            "effect": "Orale Reizung, Speicheln, Erbrechen, Schluckbeschwerden gemäß ASPCA-Auflistung für Epipremnum aureum.",
             "exposure": "Fressen von Blättern und Stängeln.",
-            "note": "Die Toxizität ist im Allgemeinen mild, kann aber bei Katzen und kleinen Hunden aufgrund oraler Schwellung alarmierend sein.",
+            "note": "Taxonomisches Synonym – Daten entsprechen Epipremnum aureum.",
             "symptoms": [
-              "Orale Reizung, starkes Brennen und Schwellung, übermäßiges Sabbern, Erbrechen, Schluckbeschwerden.",
-              "Laut ASPCA."
+              "Orale Reizung, Speicheln, Erbrechen, Schluckbeschwerden.",
+              "Gemäß ASPCA-Auflistung für Epipremnum aureum."
             ]
           },
           "dog": {
-            "effect": "Orale Reizung, Schmerzen und Schwellung von Mund, Zunge und Lippen, übermäßiges Sabbern, Erbrechen, Schluckbeschwerden laut ASPCA.",
+            "effect": "Orale Reizung, Speicheln, Erbrechen, Schluckbeschwerden gemäß ASPCA-Auflistung für Epipremnum aureum.",
             "exposure": "Fressen von Blättern und Stängeln.",
-            "note": "Die Toxizität ist im Allgemeinen mild, kann aber bei Katzen und kleinen Hunden aufgrund oraler Schwellung alarmierend sein.",
+            "note": "Taxonomisches Synonym – Daten entsprechen Epipremnum aureum.",
             "symptoms": [
-              "Orale Reizung, Schmerzen und Schwellung von Mund, Zunge und Lippen, übermäßiges Sabbern, Erbrechen, Schluckbeschwerden.",
-              "Laut ASPCA."
+              "Orale Reizung, Speicheln, Erbrechen, Schluckbeschwerden.",
+              "Gemäß ASPCA-Auflistung für Epipremnum aureum."
             ]
           },
           "headline": "Menschen Gering · Haustiere Gering",
           "human": {
-            "effect": "Brennen im Mund, Schwellung von Lippen und Zunge, Sabbern; die Haut kann durch Saft eine leichte Dermatitis entwickeln.",
+            "effect": "Orale Brennen, Schwellung von Lippen und Zunge, Speicheln und leichte Hautreizung.",
             "exposure": "Berühren von Blättern, Stängeln und Pflanzensaft. Fressen von Blättern, Stängeln und Pflanzensaft.",
-            "note": "Die Toxizität ist im Allgemeinen mild, kann aber bei Katzen und kleinen Hunden aufgrund oraler Schwellung alarmierend sein.",
+            "note": "Taxonomisches Synonym – Daten entsprechen Epipremnum aureum.",
             "symptoms": [
-              "Brennen im Mund, Schwellung von Lippen und Zunge, Speichelfluss.",
-              "Die Haut kann durch Saft eine leichte Dermatitis entwickeln."
+              "Orale Brennen, Schwellung von Lippen und Zunge, Speicheln.",
+              "Leichte Hautreizung."
             ]
           },
-          "notes_en": "Die Toxizität ist im Allgemeinen mild, kann aber bei Katzen und kleinen Hunden aufgrund oraler Schwellung alarmierend sein."
+          "notes_en": "Taxonomisches Synonym – Daten entsprechen Epipremnum aureum."
         },
         "uses_list": [
           {
@@ -79766,7 +79762,7 @@
       }
     },
     "AAA1295": {
-      "source_hash": "7d62d6f1920ce00b37192e53d4acb6e1eef48907b847279704c85c37b4d9e52d",
+      "source_hash": "8bfc16705aea5d7a49c7d1ffe480a174f78f665d4a3ad0d6a85603104633cc57",
       "fields": {
         "flower_meaning": "Widerstandsfähigkeit",
         "symbolism_list": [
@@ -79791,34 +79787,34 @@
         "toxicity": {
           "active_compound_display": "Saponine",
           "cat": {
-            "effect": "Erbrechen und Durchfall.",
+            "effect": "Übelkeit, Erbrechen, Durchfall und gemäß ASPCA.",
             "exposure": "Fressen von Blättern.",
-            "note": "Die ASPCA listet Sansevieria/Dracaena trifasciata als giftig für Haustiere.",
+            "note": "Saponine verursachen Schäumen und Magen-Darm-Reizungen, werden aber schlecht resorbiert; ernsthafte Vergiftungen sind selten.",
             "symptoms": [
-              "Erbrechen.",
-              "Durchfall."
+              "Übelkeit, Erbrechen, Durchfall.",
+              "Laut ASPCA."
             ]
           },
           "dog": {
-            "effect": "Erbrechen und Durchfall.",
+            "effect": "Übelkeit, Erbrechen, Durchfall und gemäß ASPCA.",
             "exposure": "Fressen von Blättern.",
-            "note": "Die ASPCA listet Sansevieria/Dracaena trifasciata als giftig für Haustiere.",
+            "note": "Saponine verursachen Schäumen und Magen-Darm-Reizungen, werden aber schlecht resorbiert; ernsthafte Vergiftungen sind selten.",
             "symptoms": [
-              "Erbrechen.",
-              "Durchfall."
+              "Übelkeit, Erbrechen, Durchfall.",
+              "Laut ASPCA."
             ]
           },
-          "headline": "Menschen Gering · Haustiere Mäßig",
+          "headline": "Menschen Gering · Haustiere Gering",
           "human": {
-            "effect": "Mundreizung und Übelkeit.",
+            "effect": "Übelkeit, Erbrechen und leichte Magen-Darm-Beschwerden und selten schwerwiegend.",
             "exposure": "Fressen von Blättern.",
-            "note": "Dokumentierte Bedenken für Menschen: Mundreizung und Übelkeit.",
+            "note": "Saponine verursachen Schäumen und Magen-Darm-Reizungen, werden aber schlecht resorbiert; ernsthafte Vergiftungen sind selten.",
             "symptoms": [
-              "Orale Reizung.",
-              "Übelkeit."
+              "Übelkeit, Erbrechen und leichte Magen-Darm-Beschwerden.",
+              "Selten schwerwiegend."
             ]
           },
-          "notes_en": "Die ASPCA listet Sansevieria/Dracaena trifasciata als giftig für Haustiere."
+          "notes_en": "Saponine verursachen Schäumen und Magen-Darm-Reizungen, werden aber schlecht resorbiert; ernsthafte Vergiftungen sind selten."
         },
         "uses_list": [
           {
@@ -81489,7 +81485,7 @@
       }
     },
     "AAA1322": {
-      "source_hash": "3362008348bf82c802da0d505575dba4baca67769778a2577fe00b08ff65671c",
+      "source_hash": "5557ee1bf16271e17a41dc4575c06e7adb17a87305d8a6cf01c2806b28cc3c98",
       "fields": {
         "bloom_tip": "Wegen des silbrigen Laubs gezogen; kleine gelbe Blüten im zweiten Jahr, wenn überwintert",
         "common_name": "Weißfilziges Greiskraut",
@@ -81512,7 +81508,7 @@
           "cat": {
             "effect": "Pyrrolizidinalkaloide verursachen Leberschäden.",
             "exposure": "Fressen von Blättern.",
-            "note": "Wie Senecio-Verwandte enthält es hepatotoxische Pyrrolizidinalkaloide; Einnahme vermeiden.",
+            "note": "Enthält hepatotoxische Pyrrolizidinalkaloide; Verzehr vermeiden.",
             "symptoms": [
               "Pyrrolizidinalkaloide verursachen Leberschäden."
             ]
@@ -81520,7 +81516,7 @@
           "dog": {
             "effect": "Pyrrolizidinalkaloide verursachen Leberschäden.",
             "exposure": "Fressen von Blättern.",
-            "note": "Wie Senecio-Verwandte enthält es hepatotoxische Pyrrolizidinalkaloide; Einnahme vermeiden.",
+            "note": "Enthält hepatotoxische Pyrrolizidinalkaloide; Verzehr vermeiden.",
             "symptoms": [
               "Pyrrolizidinalkaloide verursachen Leberschäden."
             ]
@@ -81529,12 +81525,12 @@
           "human": {
             "effect": "Pyrrolizidinalkaloide verursachen bei chronischer Einnahme fortschreitende Leberschäden.",
             "exposure": "Fressen von Blättern.",
-            "note": "Wie Senecio-Verwandte enthält es hepatotoxische Pyrrolizidinalkaloide; Einnahme vermeiden.",
+            "note": "Enthält hepatotoxische Pyrrolizidinalkaloide; Verzehr vermeiden.",
             "symptoms": [
               "Pyrrolizidinalkaloide verursachen bei chronischer Einnahme fortschreitende Leberschäden."
             ]
           },
-          "notes_en": "Wie Senecio-Verwandte enthält es hepatotoxische Pyrrolizidinalkaloide; Einnahme vermeiden."
+          "notes_en": "Enthält hepatotoxische Pyrrolizidinalkaloide; Verzehr vermeiden."
         },
         "uses_list": [
           {
@@ -84455,7 +84451,7 @@
       }
     },
     "AAA1371": {
-      "source_hash": "f9f4ef8e685dd3eae4f4eadf438fafec5e2e44d966650b0e0f7951cbfd24c6c2",
+      "source_hash": "e827a953913e61f1ee898200ff457588546fb44d2a45e271007f3d99d073ea16",
       "fields": {
         "flower_meaning": "Anmut",
         "fragrance": {
@@ -84472,30 +84468,34 @@
           }
         ],
         "toxicity": {
-          "human": {
-            "effect": "Es ist keine toxische Wirkung bekannt.",
-            "exposure": "Es ist kein Expositionsweg bekannt.",
-            "note": "In diesem Katalog wird keine Toxizität für Menschen gemeldet; dies ist kein Beleg dafür, dass die Pflanze essbar oder unschädlich ist."
-          },
-          "active_compound_display": "Unbekannter Wirkstoff",
+          "active_compound_display": "Keine bekannt",
           "cat": {
-            "effect": "Grannen können sich in Ohren, Augen, Rachen festsetzen.",
-            "exposure": "Berühren von Samen. Essen von Samen.",
-            "note": "Nicht chemisch giftig; Samengrannen verursachen mechanische Verletzungen bei grasenden Haustieren (Grannenverletzungen).",
+            "effect": "Nicht als giftig gelistet.",
+            "exposure": "Es ist kein Expositionsweg bekannt.",
+            "note": "In diesem Katalog wird keine Toxizität für Katzen gemeldet; dies ist kein Beleg dafür, dass die Pflanze essbar oder unschädlich ist.",
             "symptoms": [
-              "Grannen können sich in Ohren, Augen, Rachen festsetzen."
+              "Nicht als giftig gelistet."
             ]
           },
           "dog": {
-            "effect": "Grannen können sich in Ohren, Augen, Rachen festsetzen.",
-            "exposure": "Berühren von Samen. Essen von Samen.",
-            "note": "Nicht chemisch giftig; Samengrannen verursachen mechanische Verletzungen bei grasenden Haustieren (Grannenverletzungen).",
+            "exposure": "Es ist kein Expositionsweg bekannt.",
+            "note": "In diesem Katalog wird keine Toxizität für Hunde gemeldet; dies ist kein Beleg dafür, dass die Pflanze essbar oder unschädlich ist.",
             "symptoms": [
-              "Grannen können sich in Ohren, Augen, Rachen festsetzen."
+              "Nicht als giftig gelistet.",
+              "Scharfe Grannen an den Samen können mechanische Verletzungen/Ohrenprobleme bei Hunden verursachen."
+            ],
+            "effect": "Nicht als giftig gelistet, aber scharfe Grannen an den Samen können mechanische Verletzungen/Ohrenprobleme bei Hunden verursachen."
+          },
+          "headline": "Keine Toxizität bekannt",
+          "human": {
+            "exposure": "Es ist kein Expositionsweg bekannt.",
+            "note": "In diesem Katalog wird keine Toxizität für Menschen gemeldet; vermeiden Sie es, Zierpflanzen zu essen, es sei denn, sie sind als essbar bestätigt.",
+            "effect": "Keine signifikante Toxizität.",
+            "symptoms": [
+              "Keine signifikante Toxizität."
             ]
           },
-          "headline": "Haustiere gering",
-          "notes_en": "Nicht chemisch giftig; Samengrannen verursachen mechanische Verletzungen bei grasenden Haustieren (Grannenverletzungen)."
+          "notes_en": "Nicht von der ASPCA gelistet. Grannenbesetzte Samen können sich in den Ohren und Pfoten von Hunden festsetzen – ein bekanntes tierärztliches Problem bei vielen Ziergräsern."
         },
         "bloom_tip": "Seidige Samenstände im Frühsommer; alten Wuchs im Frühjahr auskämmen",
         "common_name": "Mexikanisches Federgras",
@@ -84653,28 +84653,36 @@
       }
     },
     "AAA1374": {
-      "source_hash": "75844c27d9f40e072df05a796375ded7e3dc4266ad89502048c6e8c1877e80d2",
+      "source_hash": "01a14302ec73d99f82d9be302eb9e9fe008793259364caf1100e204bf49b4810",
       "fields": {
         "history_text_long": "Blutrote Stromanthe ist heimisch in dem Atlantischen Regenwald des östlichen Brasiliens, wo es Klumpe breiter lanzettlicher Blätter mit burgunderroten Unterseiten auf dem feuchten Waldboden bildet. Formal 1847 beschrieben, war es eine Spezialist-Wintergartenpflanze durch die meiste 20. Jahrhundert. Der bunte Sport «Triostar» (auch als «Tricolor» oder «Magicstar» vermarktet), mit dreitöniger rosa, Sahne- und grüner Laubwerk, wurde Ende 1990er Jahren eingeführt und wurde schnell zu einer der meistverkauften Marantaceae-Zimmerpflanzen der 2000er und 2010er Jahre.\n\nWie seine Calathea und Maranta-Verwandten führt es nächtliche Blattfällung aus, und wie sie wird es als nicht-giftig zu Katzen und Hunden betrachtet. Im Winter – Tageslänge ausgelöst – produziert es aufrechte Blütenstände von roten Hochblättern und kleinen weißen Blüten. Blutrote Stromanthe gewann Haupt-Popularität durch seinen Kultivar «Triostar» (auch als «Tricolor» verkauft), das das Wildform-rosa- und Creme-Buntes der Art zu dramatischen Ebenen verstärkt.\n\nIm brasilianischen Atlantischen Regenwald wächst die wilde grüne Form in dichten Kolonien auf dem Waldboden. Der Speziename «sanguinea» (blutig-rot) bezieht sich auf die lebendige Magenta-Blattunterseite. Die ganze Marantaceae-Familie – ungefähr 550 Arten – ist fast ausschließlich tropisch, mit höchster Vielfalt in den Amerika. Brasilianer nennen die Familie «maranta» und viele Arten werden in indigenen Handwerk und traditioneller Medizin verwendet.",
         "toxicity": {
           "active_compound_display": "Keine bekannt",
           "cat": {
-            "effect": "Es ist keine toxische Wirkung bekannt.",
             "exposure": "Es ist kein Expositionsweg bekannt.",
-            "note": "Als ungiftig für Katzen gelistet; vermeiden Sie den Verzehr von Zierpflanzen, sofern nicht als essbar bestätigt."
+            "note": "In diesem Katalog wird keine Toxizität für Katzen gemeldet; dies ist kein Beleg dafür, dass die Pflanze essbar oder unschädlich ist.",
+            "effect": "Ungiftig und von der ASPCA als sicher eingestufte Marantaceae-Familie.",
+            "symptoms": [
+              "Ungiftig.",
+              "Marantaceae-Familie von der ASPCA als sicher eingestuft."
+            ]
           },
           "dog": {
-            "effect": "Es ist keine toxische Wirkung bekannt.",
             "exposure": "Es ist kein Expositionsweg bekannt.",
-            "note": "Als ungiftig für Hunde gelistet; vermeiden Sie den Verzehr von Zierpflanzen, sofern nicht als essbar bestätigt."
+            "note": "In diesem Katalog wird keine Toxizität für Hunde gemeldet; dies ist kein Beleg dafür, dass die Pflanze essbar oder unschädlich ist.",
+            "effect": "Ungiftig und von der ASPCA als sicher eingestufte Marantaceae-Familie.",
+            "symptoms": [
+              "Ungiftig.",
+              "Marantaceae-Familie von der ASPCA als sicher eingestuft."
+            ]
           },
+          "headline": "Keine Toxizität bekannt",
           "human": {
             "effect": "Es ist keine toxische Wirkung bekannt.",
             "exposure": "Es ist kein Expositionsweg bekannt.",
-            "note": "In diesem Katalog wird keine Toxizität für Menschen gemeldet; vermeiden Sie es, Zierpflanzen zu essen, es sei denn, sie sind als essbar bestätigt."
+            "note": "In diesem Katalog wird keine Toxizität für Menschen gemeldet; dies ist kein Beleg dafür, dass die Pflanze essbar oder unschädlich ist."
           },
-          "headline": "Haustiere sicher",
-          "notes_en": "Marantaceae (einschließlich Stromanthe) werden von der ASPCA als ungiftig eingestuft."
+          "notes_en": "Haustiersicher."
         },
         "bloom_tip": "Kleine rot-orange Blüten an Stielen im Frühling",
         "common_name": "Blutrote Stromanthe",

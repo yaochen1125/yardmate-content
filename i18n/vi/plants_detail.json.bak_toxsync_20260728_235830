@@ -9741,7 +9741,7 @@
       }
     },
     "AAA0156": {
-      "source_hash": "6b19ac0d5d619ea61449f2a5bb87724b2fd8c10c528af0cb4b731a5573fab062",
+      "source_hash": "fd01ac758ce1975f0b4a21f7885df805f82795ddd56008109cf6ebadfc7e6485",
       "fields": {
         "bloom_tip": "Vô số hoa cúc tím nở từ tháng Chín đến tháng Mười",
         "common_name": "Cúc sao New England",
@@ -9765,32 +9765,22 @@
         "toxicity": {
           "active_compound_display": "Không có báo cáo",
           "cat": {
-            "effect": "Không được liệt kê là độc hại.",
+            "effect": "Không có tác dụng độc hại nào được báo cáo.",
             "exposure": "Không có đường phơi nhiễm nào được báo cáo.",
-            "note": "Không có độc tính nào được báo cáo đối với mèo trong danh mục này; điều này không phải là bằng chứng cho thấy cây có thể ăn được hoặc vô hại.",
-            "symptoms": [
-              "Không được liệt kê là độc hại."
-            ]
+            "note": "Không có độc tính nào được báo cáo đối với mèo trong danh mục này; điều này không phải là bằng chứng cho thấy cây có thể ăn được hoặc vô hại."
           },
           "dog": {
-            "effect": "Không được liệt kê là độc hại.",
+            "effect": "Không có tác dụng độc hại nào được báo cáo.",
             "exposure": "Không có đường phơi nhiễm nào được báo cáo.",
-            "note": "Không có độc tính nào được báo cáo đối với chó trong danh mục này; điều này không phải là bằng chứng cho thấy cây có thể ăn được hoặc vô hại.",
-            "symptoms": [
-              "Không được liệt kê là độc hại."
-            ]
+            "note": "Không có độc tính nào được báo cáo đối với chó trong danh mục này; điều này không phải là bằng chứng cho thấy cây có thể ăn được hoặc vô hại."
           },
           "headline": "Không có độc tính được báo cáo",
           "human": {
-            "effect": "Không độc đáng kể và người bản địa đã dùng lá làm thuốc.",
+            "effect": "Không có tác dụng độc hại nào được báo cáo.",
             "exposure": "Không có đường phơi nhiễm nào được báo cáo.",
-            "note": "Không có độc tính nào đối với người được báo cáo trong danh mục này; tránh ăn cây cảnh trừ khi được xác nhận là ăn được.",
-            "symptoms": [
-              "Không độc hại đáng kể.",
-              "Người bản địa đã dùng lá làm thuốc."
-            ]
+            "note": "Không có độc tính nào đối với người được báo cáo trong danh mục này; tránh ăn cây cảnh trừ khi được xác nhận là ăn được."
           },
-          "notes_en": "Không được ASPCA liệt kê. Nhìn chung được coi là an toàn."
+          "notes_en": "Không được ASPCA liệt kê là độc; thường được coi là an toàn cho vật nuôi và con người."
         },
         "uses_list": [
           {
@@ -27448,7 +27438,7 @@
       }
     },
     "AAA0447": {
-      "source_hash": "aec9cc574d8664a5d83e02ac6331c6821a4a7d6ade39d85dbe1b7f9e0f29eab5",
+      "source_hash": "6a26391f98ccc7789e8dfcd24e4877f6b1f3b47655e12fa947dcaf9fb637f1e8",
       "fields": {
         "bloom_tip": "Hoa hình trái tim màu hồng rủ xuống dọc theo thân vào giữa đến cuối mùa xuân.",
         "common_name": "Hoa tim vỡ",
@@ -27472,40 +27462,35 @@
         ],
         "symbolism_story": "Hoa tim vỡ treo những chiếc mề đay màu hồng hoàn hảo thành hàng dọc theo thân cong, chính là hình dạng của tình yêu bất diệt. Trong ngôn ngữ hoa thời Victoria, nó có nghĩa là cảm xúc dịu dàng và lòng trắc ẩn trung thành, và nó vẫn đến vào cuối mùa xuân như một lời tuyên bố thầm lặng. Đó là lời nhắc nhở của khu vườn cũ rằng trái tim, dù bị xuyên thủng, dù rũ xuống, vẫn tiếp tục tạo ra cùng một hình dạng lặp đi lặp lại.",
         "toxicity": {
-          "active_compound_display": "alkaloid isoquinoline và protopine",
+          "active_compound_display": "alkaloid isoquinoline và protoanemonin",
           "cat": {
-            "effect": "Run rẩy, co giật, loạng choạng và nôn mửa.",
-            "exposure": "Ăn phải rễ và lá.",
-            "note": "ASPCA liệt kê các loài Dicentra là độc đối với chó, mèo và ngựa. Có thể gây ra các dấu hiệu thần kinh ở vật nuôi.",
+            "effect": "Run rẩy, co giật, suy hô hấp.",
+            "exposure": "Ăn bất kỳ bộ phận nào của cây.",
+            "note": "ASPCA liệt kê Dicentra là độc đối với chó và mèo. Để xa tầm với.",
             "symptoms": [
-              "Run rẩy.",
-              "Co giật.",
-              "Loạng choạng.",
-              "Nôn mửa."
+              "Run rẩy, co giật, suy hô hấp."
             ]
           },
           "dog": {
-            "effect": "Run rẩy, co giật, loạng choạng và nôn mửa.",
-            "exposure": "Ăn phải rễ và lá.",
-            "note": "ASPCA liệt kê các loài Dicentra là độc đối với chó, mèo và ngựa. Có thể gây ra các dấu hiệu thần kinh ở vật nuôi.",
+            "effect": "Run rẩy, co giật, suy hô hấp.",
+            "exposure": "Ăn bất kỳ bộ phận nào của cây.",
+            "note": "ASPCA liệt kê Dicentra là độc đối với chó và mèo. Để xa tầm với.",
             "symptoms": [
-              "Run rẩy.",
-              "Co giật.",
-              "Loạng choạng.",
-              "Nôn mửa."
+              "Run rẩy, co giật, suy hô hấp."
             ]
           },
-          "headline": "Người Trung bình · Vật nuôi Trung bình",
+          "headline": "Người Nhẹ · Vật nuôi Trung bình",
           "human": {
-            "effect": "Kích ứng da và nôn mửa nếu ăn với số lượng lớn.",
-            "exposure": "Ăn bất kỳ bộ phận nào của cây. Chạm vào bất kỳ bộ phận nào của cây.",
-            "note": "Mối quan ngại đã được ghi nhận ở người: Kích ứng da và nôn mửa nếu ăn với số lượng lớn.",
+            "effect": "Alkaloid isoquinoline, kích ứng da khi tiếp xúc, và buồn nôn và run rẩy nếu ăn phải.",
+            "exposure": "Chạm vào bất kỳ bộ phận nào của cây. Ăn bất kỳ bộ phận nào của cây.",
+            "note": "Mối quan ngại đã được ghi nhận đối với con người: Alkaloid isoquinoline, kích ứng da khi tiếp xúc, và buồn nôn và run rẩy nếu ăn phải.",
             "symptoms": [
-              "Kích ứng da.",
-              "Nôn mửa nếu ăn với số lượng lớn."
+              "Alkaloid isoquinoline.",
+              "Kích ứng da khi tiếp xúc.",
+              "Buồn nôn và run rẩy nếu ăn phải."
             ]
           },
-          "notes_en": "ASPCA liệt kê các loài Dicentra là độc đối với chó, mèo và ngựa. Có thể gây ra các dấu hiệu thần kinh ở vật nuôi."
+          "notes_en": "ASPCA liệt kê Dicentra là độc đối với chó và mèo. Để xa tầm với."
         },
         "uses_list": [
           {
@@ -39325,7 +39310,7 @@
       }
     },
     "AAA0642": {
-      "source_hash": "084bb96e3f50d34ac8ff33737577cd00eaee0a7d0bb2c8f883ca6ce5bd31f803",
+      "source_hash": "ae07358fdda1cd85015f0bf3ed92136bc82dc696f8903186d20a24571afdf4f8",
       "fields": {
         "bloom_tip": "Chùm hoa hình sao có sáp thơm; nở từ cùng một chồi hàng năm — không cắt bỏ cuống hoa đã tàn",
         "common_name": "Cẩm cù",
@@ -39345,24 +39330,35 @@
         ],
         "symbolism_story": "Cây Sáp có thể tượng trưng cho sự bảo vệ, theo truyền thống được tặng cho các cặp vợ chồng mới cưới ở Hàn Quốc như một người bảo vệ sự hòa thuận gia đình. Những bông hoa hình sao, nhiều sáp và dây leo giống như sợi thừng gợi lên những mối ràng buộc bền chặt, càng thêm mạnh mẽ theo thời gian. Ít có cây trồng trong nhà nào lại gắn liền với những năm đầu đời hôn nhân như vậy — một món quà phát triển chậm, thơm ngát, có ý nghĩa canh giữ một gia đình qua những mùa đầu tiên dễ tổn thương.",
         "toxicity": {
-          "active_compound_display": "Không có báo cáo",
+          "active_compound_display": "latex (không độc)",
           "cat": {
-            "effect": "Không có tác dụng độc hại nào được báo cáo.",
+            "effect": "Không độc và chi Hoya không được ASPCA liệt kê là độc hại.",
             "exposure": "Không có đường phơi nhiễm nào được báo cáo.",
-            "note": "Được liệt kê là không độc hại cho mèo; tránh ăn cây cảnh trừ khi được xác nhận là ăn được."
+            "note": "Không có độc tính nào được báo cáo đối với mèo trong danh mục này; điều này không phải là bằng chứng cho thấy cây có thể ăn được hoặc vô hại.",
+            "symptoms": [
+              "Không độc.",
+              "Chi Hoya không được ASPCA liệt kê là độc hại."
+            ]
           },
           "dog": {
-            "effect": "Không có tác dụng độc hại nào được báo cáo.",
+            "effect": "Không độc và chi Hoya không được ASPCA liệt kê là độc hại.",
             "exposure": "Không có đường phơi nhiễm nào được báo cáo.",
-            "note": "Được liệt kê là không độc hại cho chó; tránh ăn cây cảnh trừ khi được xác nhận là ăn được."
+            "note": "Không có độc tính nào được báo cáo đối với chó trong danh mục này; điều này không phải là bằng chứng cho thấy cây có thể ăn được hoặc vô hại.",
+            "symptoms": [
+              "Không độc.",
+              "Chi Hoya không được ASPCA liệt kê là độc hại."
+            ]
           },
-          "headline": "An toàn cho thú cưng",
+          "headline": "Không có độc tính được báo cáo",
           "human": {
-            "effect": "Không có tác dụng độc hại nào được báo cáo.",
+            "effect": "Nhựa mủ có thể gây kích ứng da nhẹ ở người nhạy cảm.",
             "exposure": "Không có đường phơi nhiễm nào được báo cáo.",
-            "note": "Không có độc tính nào đối với người được báo cáo trong danh mục này; tránh ăn cây cảnh trừ khi được xác nhận là ăn được."
+            "note": "Không có độc tính nào được báo cáo đối với người trong danh mục này; điều này không phải là bằng chứng cho thấy cây có thể ăn được hoặc vô hại.",
+            "symptoms": [
+              "Nhựa mủ có thể gây kích ứng da nhẹ ở người nhạy cảm."
+            ]
           },
-          "notes_en": "Hoya carnosa được ASPCA liệt kê là không độc."
+          "notes_en": "Nhìn chung được coi là an toàn cho thú cưng; nhựa mủ trắng chỉ gây kích ứng da nhẹ."
         },
         "uses_list": [
           {
@@ -46129,7 +46125,7 @@
       }
     },
     "AAA0749": {
-      "source_hash": "2a6eb361e2580ecb460f1d96d3d0ea88542fd0d47820c2915a3658f08e40d5b0",
+      "source_hash": "3bc0c7e44167a761dcbacd59864018969375f877ed5df0b9eb3b30e7eaf151c1",
       "fields": {
         "bloom_tip": "Chùm hoa nhỏ màu trắng hình chuông vào mùa xuân",
         "common_name": "Cây leucothoe lá dương",
@@ -55613,7 +55609,7 @@
       }
     },
     "AAA0902": {
-      "source_hash": "8781e0e6fd079442c4df3a31225e252a4477ad3d8f7041e6c8e983826e3ef2d3",
+      "source_hash": "df81342545d914c9558460ca74ba3b3b1a115ada69c135ef209d3cdf442d33d4",
       "fields": {
         "bloom_tip": "Chùm hoa nhỏ màu hồng trắng suốt mùa hè",
         "common_name": "Hương nhu",
@@ -55637,7 +55633,7 @@
         ],
         "symbolism_story": "Hương nhu là sự linh thiêng được hóa xanh. Được đặt cạnh nhà và đền thờ, chăm sóc hàng ngày, và gắn liền với nữ thần Tulsi, nó biến một chậu thảo mộc thành một sự hiện diện sùng kính. Ngoài nghi lễ, lá thơm đinh hương và hoa thu hút ong làm nó sống động và hào phóng. Biểu tượng của nó là sự tôn kính trong gia đình.",
         "toxicity": {
-          "active_compound_display": "eugenol, axit rosmarinic và axit ursolic",
+          "active_compound_display": "eugenol, axit ursolic và axit rosmarinic",
           "cat": {
             "effect": "Không có tác dụng độc hại nào được báo cáo.",
             "exposure": "Không có đường phơi nhiễm nào được báo cáo.",
@@ -55654,7 +55650,7 @@
             "exposure": "Không có đường phơi nhiễm nào được báo cáo.",
             "note": "Không có độc tính nào đối với người được báo cáo trong danh mục này; tránh ăn cây cảnh trừ khi được xác nhận là ăn được."
           },
-          "notes_en": "Húng quế không độc theo ASPCA."
+          "notes_en": "Các loài húng quế không độc theo ASPCA."
         },
         "uses_list": [
           {
@@ -65471,7 +65467,7 @@
       }
     },
     "AAA1063": {
-      "source_hash": "e99013adcf87c488aded3304db865797a7a9b6cfcb49178e986466080f018456",
+      "source_hash": "ade2a6bf4bce7220d082c046d2db0e9537368dd9232475b19b75390c97f4dfa8",
       "fields": {
         "bloom_tip": "Cực kỳ hiếm khi ra hoa trong nhà",
         "common_name": "Trầu bà vàng",
@@ -65491,34 +65487,34 @@
         "toxicity": {
           "active_compound_display": "tinh thể canxi oxalat không hòa tan (raphides)",
           "cat": {
-            "effect": "Kích ứng miệng, nóng rát và sưng tấy dữ dội, chảy nước dãi quá mức, nôn mửa, khó nuốt theo ASPCA.",
+            "effect": "Kích ứng miệng, chảy nước dãi, nôn mửa, khó nuốt theo danh sách ASPCA cho Epipremnum aureum.",
             "exposure": "Ăn lá và thân.",
-            "note": "Độc tính thường nhẹ nhưng có thể gây lo ngại ở mèo và chó nhỏ do sưng miệng.",
+            "note": "Từ đồng nghĩa phân loại — dữ liệu khớp với Epipremnum aureum.",
             "symptoms": [
-              "Kích ứng miệng, nóng rát và sưng tấy dữ dội, chảy nước dãi quá mức, nôn mửa, khó nuốt.",
-              "Theo ASPCA."
+              "Kích ứng miệng, chảy nước dãi, nôn mửa, khó nuốt.",
+              "Theo danh sách ASPCA cho Epipremnum aureum."
             ]
           },
           "dog": {
-            "effect": "Kích ứng miệng, đau và sưng miệng, lưỡi và môi, chảy nước dãi quá mức, nôn mửa, khó nuốt theo ASPCA.",
+            "effect": "Kích ứng miệng, chảy nước dãi, nôn mửa, khó nuốt theo danh sách ASPCA cho Epipremnum aureum.",
             "exposure": "Ăn lá và thân.",
-            "note": "Độc tính thường nhẹ nhưng có thể gây lo ngại ở mèo và chó nhỏ do sưng miệng.",
+            "note": "Từ đồng nghĩa phân loại — dữ liệu khớp với Epipremnum aureum.",
             "symptoms": [
-              "Kích ứng miệng, đau và sưng miệng, lưỡi và môi, chảy nước dãi quá mức, nôn mửa, khó nuốt.",
-              "Theo ASPCA."
+              "Kích ứng miệng, chảy nước dãi, nôn mửa, khó nuốt.",
+              "Theo danh sách ASPCA cho Epipremnum aureum."
             ]
           },
           "headline": "Người Nhẹ · Thú cưng Nhẹ",
           "human": {
-            "effect": "Nóng rát miệng, sưng môi và lưỡi, chảy nước dãi và da có thể bị viêm da nhẹ do nhựa cây.",
+            "effect": "Nóng rát miệng, sưng môi và lưỡi, chảy nước dãi và kích ứng da nhẹ.",
             "exposure": "Chạm vào lá, thân và nhựa cây. Ăn lá, thân và nhựa cây.",
-            "note": "Độc tính thường nhẹ nhưng có thể gây lo ngại ở mèo và chó nhỏ do sưng miệng.",
+            "note": "Từ đồng nghĩa phân loại — dữ liệu khớp với Epipremnum aureum.",
             "symptoms": [
-              "Bỏng miệng, sưng môi và lưỡi, chảy nước dãi.",
-              "Da có thể bị viêm da nhẹ do nhựa cây."
+              "Nóng rát miệng, sưng môi và lưỡi, chảy nước dãi.",
+              "Kích ứng da nhẹ."
             ]
           },
-          "notes_en": "Độc tính thường nhẹ nhưng có thể gây lo ngại ở mèo và chó nhỏ do sưng miệng."
+          "notes_en": "Từ đồng nghĩa phân loại — dữ liệu khớp với Epipremnum aureum."
         },
         "uses_list": [
           {
@@ -79766,7 +79762,7 @@
       }
     },
     "AAA1295": {
-      "source_hash": "7d62d6f1920ce00b37192e53d4acb6e1eef48907b847279704c85c37b4d9e52d",
+      "source_hash": "8bfc16705aea5d7a49c7d1ffe480a174f78f665d4a3ad0d6a85603104633cc57",
       "fields": {
         "bloom_tip": "Hoa thơm hiếm",
         "common_name": "Cây Lưỡi Hổ",
@@ -79792,34 +79788,34 @@
         "toxicity": {
           "active_compound_display": "saponin",
           "cat": {
-            "effect": "Nôn mửa và tiêu chảy.",
+            "effect": "Buồn nôn, nôn mửa, tiêu chảy theo ASPCA.",
             "exposure": "Ăn lá.",
-            "note": "ASPCA liệt kê Sansevieria/Dracaena trifasciata là độc đối với vật nuôi.",
+            "note": "Saponin gây tạo bọt và kích ứng đường tiêu hóa nhưng hấp thu kém; ngộ độc nghiêm trọng hiếm gặp.",
             "symptoms": [
-              "Nôn mửa.",
-              "Tiêu chảy."
+              "Buồn nôn, nôn mửa, tiêu chảy.",
+              "Theo ASPCA."
             ]
           },
           "dog": {
-            "effect": "Nôn mửa và tiêu chảy.",
+            "effect": "Buồn nôn, nôn mửa, tiêu chảy theo ASPCA.",
             "exposure": "Ăn lá.",
-            "note": "ASPCA liệt kê Sansevieria/Dracaena trifasciata là độc đối với vật nuôi.",
+            "note": "Saponin gây tạo bọt và kích ứng đường tiêu hóa nhưng hấp thu kém; ngộ độc nghiêm trọng hiếm gặp.",
             "symptoms": [
-              "Nôn mửa.",
-              "Tiêu chảy."
+              "Buồn nôn, nôn mửa, tiêu chảy.",
+              "Theo ASPCA."
             ]
           },
-          "headline": "Người Nhẹ · Vật nuôi Trung bình",
+          "headline": "Người Nhẹ · Thú cưng Nhẹ",
           "human": {
-            "effect": "Kích ứng miệng và buồn nôn.",
+            "effect": "Buồn nôn, nôn mửa và rối loạn tiêu hóa nhẹ, hiếm khi nghiêm trọng.",
             "exposure": "Ăn lá.",
-            "note": "Mối quan ngại đã được ghi nhận ở người: Kích ứng miệng và buồn nôn.",
+            "note": "Saponin gây tạo bọt và kích ứng đường tiêu hóa nhưng hấp thu kém; ngộ độc nghiêm trọng hiếm gặp.",
             "symptoms": [
-              "Kích ứng miệng.",
-              "Buồn nôn."
+              "Buồn nôn, nôn mửa và rối loạn tiêu hóa nhẹ.",
+              "Hiếm khi nghiêm trọng."
             ]
           },
-          "notes_en": "ASPCA liệt kê Sansevieria/Dracaena trifasciata là độc đối với vật nuôi."
+          "notes_en": "Saponin gây tạo bọt và kích ứng đường tiêu hóa nhưng hấp thu kém; ngộ độc nghiêm trọng hiếm gặp."
         },
         "uses_list": [
           {
@@ -81489,7 +81485,7 @@
       }
     },
     "AAA1322": {
-      "source_hash": "3362008348bf82c802da0d505575dba4baca67769778a2577fe00b08ff65671c",
+      "source_hash": "5557ee1bf16271e17a41dc4575c06e7adb17a87305d8a6cf01c2806b28cc3c98",
       "fields": {
         "bloom_tip": "Được trồng để lấy tán lá bạc; hoa nhỏ màu vàng vào năm thứ hai nếu qua đông",
         "common_name": "Cúc bạc",
@@ -81513,7 +81509,7 @@
           "cat": {
             "effect": "Các alkaloid pyrrolizidine gây tổn thương gan.",
             "exposure": "Ăn lá.",
-            "note": "Giống như các họ hàng Senecio, chứa alkaloid pyrrolizidine gây độc cho gan; tránh ăn phải.",
+            "note": "Chứa alkaloid pyrrolizidine gây độc cho gan; tránh ăn.",
             "symptoms": [
               "Các alkaloid pyrrolizidine gây tổn thương gan."
             ]
@@ -81521,7 +81517,7 @@
           "dog": {
             "effect": "Các alkaloid pyrrolizidine gây tổn thương gan.",
             "exposure": "Ăn lá.",
-            "note": "Giống như các họ hàng Senecio, chứa alkaloid pyrrolizidine gây độc cho gan; tránh ăn phải.",
+            "note": "Chứa alkaloid pyrrolizidine gây độc cho gan; tránh ăn.",
             "symptoms": [
               "Các alkaloid pyrrolizidine gây tổn thương gan."
             ]
@@ -81530,12 +81526,12 @@
           "human": {
             "effect": "Các alkaloid pyrrolizidine gây tổn thương gan tiến triển khi ăn phải mãn tính.",
             "exposure": "Ăn lá.",
-            "note": "Giống như các họ hàng Senecio, chứa alkaloid pyrrolizidine gây độc cho gan; tránh ăn phải.",
+            "note": "Chứa alkaloid pyrrolizidine gây độc cho gan; tránh ăn.",
             "symptoms": [
               "Các alkaloid pyrrolizidine gây tổn thương gan tiến triển khi ăn phải mãn tính."
             ]
           },
-          "notes_en": "Giống như các họ hàng Senecio, chứa alkaloid pyrrolizidine gây độc cho gan; tránh ăn phải."
+          "notes_en": "Chứa alkaloid pyrrolizidine gây độc cho gan; tránh ăn."
         },
         "uses_list": [
           {
@@ -84455,7 +84451,7 @@
       }
     },
     "AAA1371": {
-      "source_hash": "f9f4ef8e685dd3eae4f4eadf438fafec5e2e44d966650b0e0f7951cbfd24c6c2",
+      "source_hash": "e827a953913e61f1ee898200ff457588546fb44d2a45e271007f3d99d073ea16",
       "fields": {
         "bloom_tip": "Đầu hạt mượt vào đầu mùa hè; tỉa bỏ phần già vào mùa xuân",
         "common_name": "Cỏ lông vũ Mexico",
@@ -84479,30 +84475,34 @@
         ],
         "symbolism_story": "Cỏ lông vũ Mexico là sự duyên dáng trong chuyển động — những phiến lá mảnh như sợi tóc chảy như nước xanh-vàng theo từng làn gió, là loại cây năng động nhất trong khu vườn khô hạn. Sức chịu đựng của nó là đức tính thứ hai: hạn hán, nắng nóng và đất nghèo dinh dưỡng không phải là trở ngại, mà là điều kiện nó thực sự phát triển mạnh. Loại cỏ này biến sự khắc nghiệt thành thanh lịch, một vũ đạo nhỏ của sự sống sót ở những nơi mà những cây tĩnh lặng hơn sẽ bị thiêu đốt.",
         "toxicity": {
-          "active_compound_display": "Hoạt chất chưa rõ",
+          "active_compound_display": "Không có báo cáo",
           "cat": {
-            "effect": "Râu hạt có thể mắc vào tai, mắt, họng.",
-            "exposure": "Chạm vào hạt. Ăn hạt.",
-            "note": "Không độc về mặt hóa học; râu hạt gây tổn thương cơ học cho vật nuôi gặm cỏ (chấn thương kiểu đuôi chồn).",
+            "effect": "Không được liệt kê là độc hại.",
+            "exposure": "Không có đường phơi nhiễm nào được báo cáo.",
+            "note": "Không có độc tính nào được báo cáo đối với mèo trong danh mục này; điều này không phải là bằng chứng cho thấy cây có thể ăn được hoặc vô hại.",
             "symptoms": [
-              "Râu hạt có thể mắc vào tai, mắt, họng."
+              "Không được liệt kê là độc hại."
             ]
           },
           "dog": {
-            "effect": "Râu hạt có thể mắc vào tai, mắt, họng.",
-            "exposure": "Chạm vào hạt. Ăn hạt.",
-            "note": "Không độc về mặt hóa học; râu hạt gây tổn thương cơ học cho vật nuôi gặm cỏ (chấn thương kiểu đuôi chồn).",
+            "effect": "Không được liệt kê là độc hại và các râu nhọn trên hạt có thể gây thương tích cơ học/các vấn đề về tai ở chó.",
+            "exposure": "Không có đường phơi nhiễm nào được báo cáo.",
+            "note": "Không có độc tính nào được báo cáo đối với chó trong danh mục này; điều này không phải là bằng chứng cho thấy cây có thể ăn được hoặc vô hại.",
             "symptoms": [
-              "Râu hạt có thể mắc vào tai, mắt, họng."
+              "Không được liệt kê là độc hại.",
+              "Các râu nhọn trên hạt có thể gây thương tích cơ học/các vấn đề về tai ở chó."
             ]
           },
-          "headline": "Vật nuôi Nhẹ",
+          "headline": "Không có độc tính được báo cáo",
           "human": {
-            "effect": "Không có tác dụng độc hại nào được báo cáo.",
+            "effect": "Không có độc tính đáng kể.",
             "exposure": "Không có đường phơi nhiễm nào được báo cáo.",
-            "note": "Không có độc tính nào được báo cáo đối với người trong danh mục này; điều này không phải là bằng chứng cho thấy cây có thể ăn được hoặc vô hại."
+            "note": "Không có độc tính nào đối với người được báo cáo trong danh mục này; tránh ăn cây cảnh trừ khi được xác nhận là ăn được.",
+            "symptoms": [
+              "Không có độc tính đáng kể."
+            ]
           },
-          "notes_en": "Không độc về mặt hóa học; râu hạt gây tổn thương cơ học cho vật nuôi gặm cỏ (chấn thương kiểu đuôi chồn)."
+          "notes_en": "Không được ASPCA liệt kê. Hạt có râu có thể mắc vào tai và chân chó — một vấn đề thú y được công nhận với nhiều loại cỏ cảnh."
         },
         "uses_list": [
           {
@@ -84653,7 +84653,7 @@
       }
     },
     "AAA1374": {
-      "source_hash": "75844c27d9f40e072df05a796375ded7e3dc4266ad89502048c6e8c1877e80d2",
+      "source_hash": "01a14302ec73d99f82d9be302eb9e9fe008793259364caf1100e204bf49b4810",
       "fields": {
         "bloom_tip": "Hoa nhỏ màu đỏ cam trên cuống vào mùa xuân",
         "common_name": "Stromanthe đỏ",
@@ -84675,22 +84675,30 @@
         "toxicity": {
           "active_compound_display": "Không có báo cáo",
           "cat": {
-            "effect": "Không có tác dụng độc hại nào được báo cáo.",
+            "effect": "Không độc và họ Marantaceae được ASPCA liệt kê là an toàn.",
             "exposure": "Không có đường phơi nhiễm nào được báo cáo.",
-            "note": "Được liệt kê là không độc hại cho mèo; tránh ăn cây cảnh trừ khi được xác nhận là ăn được."
+            "note": "Không có độc tính nào được báo cáo đối với mèo trong danh mục này; điều này không phải là bằng chứng cho thấy cây có thể ăn được hoặc vô hại.",
+            "symptoms": [
+              "Không độc.",
+              "Họ Marantaceae được ASPCA liệt kê là an toàn."
+            ]
           },
           "dog": {
-            "effect": "Không có tác dụng độc hại nào được báo cáo.",
+            "effect": "Không độc và họ Marantaceae được ASPCA liệt kê là an toàn.",
             "exposure": "Không có đường phơi nhiễm nào được báo cáo.",
-            "note": "Được liệt kê là không độc hại cho chó; tránh ăn cây cảnh trừ khi được xác nhận là ăn được."
+            "note": "Không có độc tính nào được báo cáo đối với chó trong danh mục này; điều này không phải là bằng chứng cho thấy cây có thể ăn được hoặc vô hại.",
+            "symptoms": [
+              "Không độc.",
+              "Họ Marantaceae được ASPCA liệt kê là an toàn."
+            ]
           },
-          "headline": "An toàn cho thú cưng",
+          "headline": "Không có độc tính được báo cáo",
           "human": {
             "effect": "Không có tác dụng độc hại nào được báo cáo.",
             "exposure": "Không có đường phơi nhiễm nào được báo cáo.",
-            "note": "Không có độc tính nào đối với người được báo cáo trong danh mục này; tránh ăn cây cảnh trừ khi được xác nhận là ăn được."
+            "note": "Không có độc tính nào được báo cáo đối với người trong danh mục này; điều này không phải là bằng chứng cho thấy cây có thể ăn được hoặc vô hại."
           },
-          "notes_en": "Marantaceae (bao gồm Stromanthe) được ASPCA liệt kê là không độc."
+          "notes_en": "An toàn cho vật nuôi."
         },
         "uses_list": [
           {

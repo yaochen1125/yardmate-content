@@ -9741,7 +9741,7 @@
       }
     },
     "AAA0156": {
-      "source_hash": "6b19ac0d5d619ea61449f2a5bb87724b2fd8c10c528af0cb4b731a5573fab062",
+      "source_hash": "fd01ac758ce1975f0b4a21f7885df805f82795ddd56008109cf6ebadfc7e6485",
       "fields": {
         "history_text_long": "L'Aster de Nouvelle-Angleterre pousse à l'état sauvage dans les prairies et les prairies humides de l'est et du centre de l'Amérique du Nord. Plusieurs nations autochtones, y compris les Iroquois et les Ojibwés, ont brûlé les racines comme fumée cérémonielle et utilisé des décoctions pour les fièvres et les affections cutanées. Les graines ont atteint les jardins botaniques européens au début des années 1700, où la plante était prisée pour ses fleurs de rayon violet vif fleurissant de la fin de l'été jusqu'aux gelées.\n\nLes hybrideurs victoriens en Grande-Bretagne et en Allemagne ont produit une longue série de cultivars tels que 'Harrington's Pink' (années 1940 Ontario) et 'Purple Dome'. En 1994, le genre Aster a été divisé et l'espèce reclassée comme Symphyotrichum novae-angliae, bien que le nom plus ancien reste courant en horticulture. C'est maintenant un incontournable des jardins des pollinisateurs du monde entier.\n\nIndigène à l'est et au centre de l'Amérique du Nord du Manitoba à l'Alabama. Source cruciale de nectar d'automne pour les papillons monarques qui migrent vers le sud vers le Mexique. Les cultivars Purple Dome et Alma Potschke l'ont popularisée pour l'utilisation américaine en bordures à la fin du XXe siècle.",
         "symbolism_story": "L'Aster de Nouvelle-Angleterre est un enseignant de patience : il attend pendant les longs mois verts, puis explose en étoiles pourpres seulement alors que les nuits refroidissent et que les autres vivaces se retirent. Ces fleurs tardives sont du carburant d'automne essentiel pour les monarques migrateurs, soutenant les ailes sur leur long vol vers le Mexique. La planter c'est honorer la récompense retardée — la beauté qui arrive précisément quand elle est la plus nécessaire.",
@@ -9759,34 +9759,24 @@
           }
         ],
         "toxicity": {
+          "headline": "Pas de toxicité rapportée",
+          "active_compound_display": "Aucun signalé",
           "cat": {
-            "effect": "Non répertorié comme toxique.",
-            "symptoms": [
-              "Non répertorié comme toxique."
-            ],
+            "effect": "Aucun effet toxique n'est signalé.",
             "exposure": "Aucune voie d'exposition n'est signalée.",
             "note": "Aucune toxicité n'est signalée pour les chats dans ce catalogue ; cela ne prouve pas que la plante soit comestible ou inoffensive."
           },
           "dog": {
-            "effect": "Non répertorié comme toxique.",
-            "symptoms": [
-              "Non répertorié comme toxique."
-            ],
+            "effect": "Aucun effet toxique n'est signalé.",
             "exposure": "Aucune voie d'exposition n'est signalée.",
             "note": "Aucune toxicité n'est signalée pour les chiens dans ce catalogue ; cela ne prouve pas que la plante soit comestible ou inoffensive."
           },
-          "headline": "Pas de toxicité rapportée",
           "human": {
-            "effect": "Non notablement toxique et les peuples autochtones utilisaient les feuilles en médecine.",
-            "symptoms": [
-              "Non notablement toxique.",
-              "Les peuples autochtones utilisaient les feuilles à titre médicinal."
-            ],
+            "effect": "Aucun effet toxique n'est signalé.",
             "exposure": "Aucune voie d'exposition n'est signalée.",
             "note": "Aucune toxicité humaine n'est signalée dans ce catalogue ; évitez de consommer des plantes ornementales sauf si leur comestibilité est confirmée."
           },
-          "active_compound_display": "Aucun signalé",
-          "notes_en": "Non répertorié par l'ASPCA. Généralement considéré comme sûr."
+          "notes_en": "Non répertorié comme toxique par l'ASPCA ; généralement considéré comme sûr pour les animaux domestiques et les humains."
         },
         "uses_list": [
           {
@@ -27448,7 +27438,7 @@
       }
     },
     "AAA0447": {
-      "source_hash": "aec9cc574d8664a5d83e02ac6331c6821a4a7d6ade39d85dbe1b7f9e0f29eab5",
+      "source_hash": "6a26391f98ccc7789e8dfcd24e4877f6b1f3b47655e12fa947dcaf9fb637f1e8",
       "fields": {
         "bloom_tip": "Fleurs en forme de cœur rose-pend arquées le long des tiges au milieu à la fin du printemps.",
         "fragrance": {
@@ -27470,40 +27460,35 @@
           }
         ],
         "toxicity": {
-          "cat": {
+          "human": {
+            "exposure": "Toucher toute partie de la plante. Manger toute partie de la plante.",
+            "effect": "Alcaloïdes isoquinoléiques, irritation cutanée au contact, et nausées et tremblements en cas d'ingestion.",
+            "note": "Préoccupation documentée pour les humains : alcaloïdes isoquinoléiques, irritation cutanée au contact, et nausées et tremblements en cas d'ingestion.",
             "symptoms": [
-              "Tremblements.",
-              "Crises convulsives.",
-              "Titubation.",
-              "Vomissements."
-            ],
-            "effect": "Tremblements, convulsions, titubation et vomissements.",
-            "exposure": "Ingestion de racines et de feuilles.",
-            "note": "L'ASPCA liste les espèces de Dicentra comme toxiques pour les chiens, les chats et les chevaux. Peut provoquer des signes neurologiques chez les animaux de compagnie."
+              "Alcaloïdes isoquinoléiques.",
+              "Irritation cutanée au contact.",
+              "Nausées et tremblements en cas d'ingestion."
+            ]
+          },
+          "active_compound_display": "alcaloïdes isoquinoléiques et protoanémonine",
+          "cat": {
+            "effect": "Tremblements, convulsions, détresse respiratoire.",
+            "exposure": "Ingestion de toute partie de la plante.",
+            "note": "L'ASPCA classe le Dicentra comme toxique pour les chiens et les chats. Tenir hors de portée.",
+            "symptoms": [
+              "Tremblements, convulsions, détresse respiratoire."
+            ]
           },
           "dog": {
+            "effect": "Tremblements, convulsions, détresse respiratoire.",
+            "exposure": "Ingestion de toute partie de la plante.",
+            "note": "L'ASPCA classe le Dicentra comme toxique pour les chiens et les chats. Tenir hors de portée.",
             "symptoms": [
-              "Tremblements.",
-              "Crises convulsives.",
-              "Titubation.",
-              "Vomissements."
-            ],
-            "effect": "Tremblements, convulsions, titubation et vomissements.",
-            "exposure": "Ingestion de racines et de feuilles.",
-            "note": "L'ASPCA liste les espèces de Dicentra comme toxiques pour les chiens, les chats et les chevaux. Peut provoquer des signes neurologiques chez les animaux de compagnie."
+              "Tremblements, convulsions, détresse respiratoire."
+            ]
           },
-          "active_compound_display": "isoquinoline alkaloids and protopine",
-          "human": {
-            "effect": "Irritation cutanée et vomissements en cas d'ingestion en quantité.",
-            "exposure": "Manger toute partie de la plante. Toucher toute partie de la plante.",
-            "symptoms": [
-              "Irritation cutanée.",
-              "Vomissements en cas d'ingestion en quantité."
-            ],
-            "note": "Préoccupation documentée pour les humains : irritation cutanée et vomissements en cas d'ingestion en quantité."
-          },
-          "headline": "Humains Modéré · Animaux Modéré",
-          "notes_en": "L'ASPCA liste les espèces de Dicentra comme toxiques pour les chiens, les chats et les chevaux. Peut provoquer des signes neurologiques chez les animaux de compagnie."
+          "headline": "Humains Légère · Animaux Modérée",
+          "notes_en": "L'ASPCA classe le Dicentra comme toxique pour les chiens et les chats. Tenir hors de portée."
         },
         "uses_list": [
           {
@@ -39325,7 +39310,7 @@
       }
     },
     "AAA0642": {
-      "source_hash": "084bb96e3f50d34ac8ff33737577cd00eaee0a7d0bb2c8f883ca6ce5bd31f803",
+      "source_hash": "ae07358fdda1cd85015f0bf3ed92136bc82dc696f8903186d20a24571afdf4f8",
       "fields": {
         "description": "Fleur de porcelaine, la plante de cire, est une liane vivante longue à grimper ou traînante avec des feuilles épaisses, cirées et vert foncé et des grappes spectaculaires de fleurs parfumées en forme d'étoile qui brillent comme si elles étaient enrobées de cristaux de sucre. Originaire d'Asie de l'Est et d'Australie, les plantes individuelles peuvent vivre pendant des décennies, devenant des héritages familiaux. Les grappes de fleurs ressemblant à de la porcelaine apparaissent sur les mêmes épines année après année — ne coupez jamais les tiges de fleurs dépensées. Elle prospère sous la négligence bienveillante, préférant être légèrement lié à la racine et asséché entre les arrosages. Les formes panachées comme 'Krimson Queen' et la feuille tordue 'Compacta' sont des cultivars populaires.",
         "history_text_long": "Fleur de porcelaine est originaire d'une vaste région de l'Asie de l'Est et du Sud-Est, du sud de la Chine et de l'Inde à travers l'archipel malais jusqu'au Queensland, en Australie, où elle grimpe en épiphyte dans les forêts humides. Le genre a été nommé en 1810 en l'honneur de Thomas Hoy, jardinier du duc de Northumberland. C'était l'une des premières vignes tropicales introduites en culture européenne, arrivant en Angleterre en 1802, et elle est restée une plante de salon victorienne standard tout au long du XIXe siècle.\n\nSes fleurs sont sa signature : des étoiles à cinq pointes parfaitement symétriques regroupées en sphères pendantes, avec un lustre de porcelaine et une corona secondaire en forme d'étoile au centre. Elles dégagent un intense parfum sucré plus fort la nuit et produisent des gouttelettes visibles de nectar collant. Confirmé comme non toxique pour les animaux domestiques.\n\nFleur de porcelaine a été transmis de génération en génération comme plante d'héritage familial, certains spécimens documentés ayant plus de 50 ans. En Corée, on l'appelle 'Choyong flower' et elle est offerte en cadeau aux jeunes mariés, censée apporter l'harmonie au foyer. Le parfum sucré nocturne attire les pollinisateurs papillons de nuit à l'état sauvage.",
@@ -39351,24 +39336,35 @@
           }
         ],
         "toxicity": {
-          "headline": "Animaux en sécurité",
-          "active_compound_display": "Aucun signalé",
           "cat": {
-            "effect": "Aucun effet toxique n'est signalé.",
+            "symptoms": [
+              "Non-toxique.",
+              "Le genre Hoya n'est pas listé comme toxique par l'ASPCA."
+            ],
+            "effect": "Non toxique et le genre Hoya n'est pas listé comme toxique par l'ASPCA.",
             "exposure": "Aucune voie d'exposition n'est signalée.",
-            "note": "Considéré comme non toxique pour les chats ; éviter de consommer les plantes ornementales sauf confirmation de comestibilité."
+            "note": "Aucune toxicité n'est signalée pour les chats dans ce catalogue ; cela ne prouve pas que la plante soit comestible ou inoffensive."
           },
           "dog": {
-            "effect": "Aucun effet toxique n'est signalé.",
+            "symptoms": [
+              "Non-toxique.",
+              "Le genre Hoya n'est pas listé comme toxique par l'ASPCA."
+            ],
+            "effect": "Non toxique et le genre Hoya n'est pas listé comme toxique par l'ASPCA.",
             "exposure": "Aucune voie d'exposition n'est signalée.",
-            "note": "Considéré comme non toxique pour les chiens ; éviter de consommer les plantes ornementales sauf confirmation de comestibilité."
+            "note": "Aucune toxicité n'est signalée pour les chiens dans ce catalogue ; cela ne prouve pas que la plante soit comestible ou inoffensive."
           },
+          "headline": "Pas de toxicité rapportée",
+          "active_compound_display": "latex (non toxique)",
           "human": {
-            "effect": "Aucun effet toxique n'est signalé.",
+            "effect": "La sève de latex peut provoquer une légère irritation cutanée chez les personnes sensibles.",
             "exposure": "Aucune voie d'exposition n'est signalée.",
-            "note": "Aucune toxicité humaine n'est signalée dans ce catalogue ; évitez de consommer des plantes ornementales sauf si leur comestibilité est confirmée."
+            "note": "Aucune toxicité n'est signalée pour les humains dans ce catalogue ; cela ne prouve pas que la plante soit comestible ou inoffensive.",
+            "symptoms": [
+              "La sève de latex peut provoquer une légère irritation cutanée chez les personnes sensibles."
+            ]
           },
-          "notes_en": "Hoya carnosa est répertorié par l'ASPCA comme non toxique."
+          "notes_en": "Généralement considéré comme sûr pour les animaux de compagnie ; la sève de latex blanche n'est qu'un irritant cutané mineur."
         },
         "bloom_tip": "Grappes de cires parfumées ; fleurit sur les mêmes épis chaque année — ne taillez pas les tiges fanées",
         "fragrance": {
@@ -46129,7 +46125,7 @@
       }
     },
     "AAA0749": {
-      "source_hash": "2a6eb361e2580ecb460f1d96d3d0ea88542fd0d47820c2915a3658f08e40d5b0",
+      "source_hash": "3bc0c7e44167a761dcbacd59864018969375f877ed5df0b9eb3b30e7eaf151c1",
       "fields": {
         "history_text_short": "Le Leucothoé à feuilles de peuplier, aussi appelé Agarista populifolia dans les traitements modernes, est un élégant arbuste à feuilles persistantes arqué des ravins du sud-est des États-Unis. Collectée par les premiers botanistes américains dans les années 1700, elle est prisée dans les jardins du sud pour la tolérance à l'ombre profonde et le feuillage en cascade.",
         "symbolism_story": "Le Leucothoé à feuilles de peuplier est la grâce installée à l'ombre, une plante persistante des branches arquées et des petits cloches blancs qui apportent l'élégance aux bois du Sud humide. En tant qu'endémique du sud-est à distribution limitée, elle porte une rareté tranquille digne de conservation. Dans une bordure ombragée, sa ligne tombante donne une douceur que peu d'autres arbustes peuvent offrir.",
@@ -55613,7 +55609,7 @@
       }
     },
     "AAA0902": {
-      "source_hash": "8781e0e6fd079442c4df3a31225e252a4477ad3d8f7041e6c8e983826e3ef2d3",
+      "source_hash": "df81342545d914c9558460ca74ba3b3b1a115ada69c135ef209d3cdf442d33d4",
       "fields": {
         "symbolism_story": "Le Basilic sacré est la sacralité rendue verte. Gardé près des maisons et des sanctuaires, entretenu quotidiennement, et lié à la déesse Tulsi, il transforme un pot d'herbes en présence dévotionnelle. Au-delà du rituel, ses feuilles parfumées au clou de girofle et ses fleurs d'abeilles le rendent vivant et généreux. Son symbolisme est la révérence domestique.",
         "common_name": "Basilic sacré",
@@ -55631,7 +55627,8 @@
         ],
         "toxicity": {
           "headline": "Animaux en sécurité",
-          "active_compound_display": "Eugénol, acide rosmarinique et acide ursolique.",
+          "notes_en": "L'ASPCA liste comme toxique.",
+          "active_compound_display": "Eugénol, acide ursolique et acide rosmarinique.",
           "cat": {
             "effect": "Aucun effet toxique n'est signalé.",
             "exposure": "Aucune voie d'exposition n'est signalée.",
@@ -55646,8 +55643,7 @@
             "effect": "Aucun effet toxique n'est signalé.",
             "exposure": "Aucune voie d'exposition n'est signalée.",
             "note": "Aucune toxicité humaine n'est signalée dans ce catalogue ; évitez de consommer des plantes ornementales sauf si leur comestibilité est confirmée."
-          },
-          "notes_en": "Basilic non toxique selon l'ASPCA."
+          }
         },
         "bloom_tip": "Petits épis de fleurs rose-blanc tout l'été.",
         "fragrance": {
@@ -65471,7 +65467,7 @@
       }
     },
     "AAA1063": {
-      "source_hash": "e99013adcf87c488aded3304db865797a7a9b6cfcb49178e986466080f018456",
+      "source_hash": "ade2a6bf4bce7220d082c046d2db0e9537368dd9232475b19b75390c97f4dfa8",
       "fields": {
         "description": "Pothos (souvent vendu comme Epipremnum aureum 'Golden Pothos') présente des feuilles en forme de cœur éclaboussées de variegata doré-jaune sur des vignes retombantes. Elle est pratiquement identique dans les soins aux autres variétés de pothos — prospérant en lumière indirecte basse à vive, tolérant les arrosages manqués et croissant rapidement. La variegata dorée devient plus prononcée dans des conditions plus lumineuses. Dans les régions tropicales, les pothos échappés peuvent devenir envahissants, grimpant les arbres avec des feuilles devenant énormes. À l'intérieur, elle reste compacte et est l'une des plantes pour débutants les plus populaires au monde.",
         "history_text_long": "Pothos est un synonyme historique pour ce qui s'appelle maintenant correctement Epipremnum aureum. La plante a d'abord été décrite dans le genre Pothos en 1880, réorganisée dans Scindapsus, brièvement placée dans Rhaphidophora, et finalement établie comme Epipremnum aureum en 1964. Malgré la mise à jour taxonomique, l'ancien nom survit dans le commerce horticole mondial, dans la littérature populaire et sur de nombreuses étiquettes de plantes — en particulier en Asie du Sud-Est et aux Amériques, où les détaillants le commercialisent toujours comme 'Pothos'.\n\nIl n'a jamais été observé en fleur dans la culture — la dernière floraison confirmée a été documentée en 1962. Il est considéré comme envahissant à Hawaï, au Sri Lanka et dans certaines parties de l'Australie.\n\nLa plante elle-même est identique: la vigne à feuilles en cœur panachée dorée des îles Salomon, avec les mêmes références de purification de l'air de la NASA, la même croissance vigoureuse, et la même légère toxicité à l'oxalate de calcium que son équivalent de nom accepté.",
@@ -65485,36 +65481,36 @@
           }
         ],
         "toxicity": {
-          "cat": {
-            "symptoms": [
-              "Irritation buccale, brûlure et gonflement intenses, bave excessive, vomissements, difficulté à avaler.",
-              "Selon l'ASPCA."
-            ],
-            "effect": "Irritation buccale, brûlure et gonflement intenses, bave excessive, vomissements, difficulté à avaler selon l'ASPCA.",
-            "exposure": "Ingestion de feuilles et de tiges.",
-            "note": "La toxicité est généralement légère mais peut être alarmante chez les chats et les petits chiens en raison du gonflement buccal."
-          },
-          "dog": {
-            "effect": "Irritation buccale, douleur et gonflement de la bouche, de la langue et des lèvres, bave excessive, vomissements, difficulté à avaler selon l'ASPCA.",
-            "symptoms": [
-              "Irritation buccale, douleur et gonflement de la bouche, de la langue et des lèvres, bave excessive, vomissements, difficulté à avaler.",
-              "Selon l'ASPCA."
-            ],
-            "exposure": "Ingestion de feuilles et de tiges.",
-            "note": "La toxicité est généralement légère mais peut être alarmante chez les chats et les petits chiens en raison du gonflement buccal."
-          },
           "human": {
             "symptoms": [
               "Brûlure buccale, gonflement des lèvres et de la langue, bave.",
-              "La peau peut développer une légère dermatite due à la sève."
+              "Légère irritation cutanée."
             ],
-            "effect": "Brûlure buccale, gonflement des lèvres et de la langue, bave et la peau peut développer une légère dermatite due à la sève.",
+            "effect": "Brûlure buccale, gonflement des lèvres et de la langue, bave et légère irritation cutanée.",
             "exposure": "Contact avec les feuilles, tiges et sève. Ingestion de feuilles, tiges et sève.",
-            "note": "La toxicité est généralement légère mais peut être alarmante chez les chats et les petits chiens en raison du gonflement buccal."
+            "note": "Synonyme taxonomique — les données correspondent à Epipremnum aureum."
           },
           "active_compound_display": "cristaux d'oxalate de calcium insolubles (raphides)",
+          "cat": {
+            "effect": "Irritation buccale, bave, vomissements, difficulté à avaler selon la liste ASPCA pour Epipremnum aureum.",
+            "exposure": "Ingestion de feuilles et de tiges.",
+            "note": "Synonyme taxonomique — les données correspondent à Epipremnum aureum.",
+            "symptoms": [
+              "Irritation buccale, bave, vomissements, difficulté à avaler.",
+              "Selon la liste ASPCA pour Epipremnum aureum."
+            ]
+          },
+          "dog": {
+            "effect": "Irritation buccale, bave, vomissements, difficulté à avaler selon la liste ASPCA pour Epipremnum aureum.",
+            "exposure": "Ingestion de feuilles et de tiges.",
+            "note": "Synonyme taxonomique — les données correspondent à Epipremnum aureum.",
+            "symptoms": [
+              "Irritation buccale, bave, vomissements, difficulté à avaler.",
+              "Selon la liste ASPCA pour Epipremnum aureum."
+            ]
+          },
           "headline": "Humains Légère · Animaux Légère",
-          "notes_en": "La toxicité est généralement légère mais peut être alarmante chez les chats et les petits chiens en raison du gonflement buccal."
+          "notes_en": "Synonyme taxonomique — les données correspondent à Epipremnum aureum."
         },
         "fragrance": {
           "notes": "Les fleurs ne sont pratiquement jamais produites en culture."
@@ -79766,7 +79762,7 @@
       }
     },
     "AAA1295": {
-      "source_hash": "7d62d6f1920ce00b37192e53d4acb6e1eef48907b847279704c85c37b4d9e52d",
+      "source_hash": "8bfc16705aea5d7a49c7d1ffe480a174f78f665d4a3ad0d6a85603104633cc57",
       "fields": {
         "bloom_tip": "Fleurs parfumées rares",
         "description": "La Langue de belle-mère est l'une des plantes d'intérieur les plus résilientes sur terre, native du terrain sec rocheux d'Afrique de l'Ouest. Ses feuilles rigides ressemblant à une épée avec des bandes distinctives peuvent survivre à des semaines sans eau, une chaleur extrême et presque la totale obscurité. Uniquement, elle effectue la photosynthèse CAM — convertissant le CO₂ en oxygène la nuit — la rendant une plante de chambre à coucher idéale. C'est pratiquement indestructible, tolérant le genre de négligence qui tuerait la plupart des autres plantes d'intérieur.",
@@ -79774,36 +79770,36 @@
         "name_origin": "Le nom Plante Serpent décrit ses feuilles dressées et bandées. « Sansevieria » honore Raimondo di Sangro, Prince de San Seviero, un patron italien du XVIIIe siècle de la botanique. « Trifasciata » signifie « trois faisceaux » se référant à son bandage de feuilles.",
         "symbolism_story": "La Langue de belle-mère est la résilience dans un pot, prospérant en lumière faible, air sec et arrosage oublieux avec une ténacité indifférente dont la plupart des plantes d'intérieur rêvent seulement. Elle porte aussi de vieilles associations protectrices, traditionnellement placée près des portes dans les maisons ouest-africaines et chinoises pour écarter l'énergie indésirable. Son symbolisme est la garde régulière : les feuilles dressées, peu de tracas, et la force calme d'un coin oublié.",
         "toxicity": {
-          "cat": {
-            "symptoms": [
-              "Vomissements.",
-              "Diarrhée."
-            ],
-            "effect": "Vomissements et diarrhée.",
-            "exposure": "Manger les feuilles.",
-            "note": "L'ASPCA liste Sansevieria/Dracaena trifasciata comme toxique pour les animaux de compagnie."
-          },
-          "dog": {
-            "symptoms": [
-              "Vomissements.",
-              "Diarrhée."
-            ],
-            "effect": "Vomissements et diarrhée.",
-            "exposure": "Manger les feuilles.",
-            "note": "L'ASPCA liste Sansevieria/Dracaena trifasciata comme toxique pour les animaux de compagnie."
-          },
           "human": {
-            "symptoms": [
-              "Irritation buccale.",
-              "Nausée."
-            ],
+            "effect": "Nausées, vomissements et légers troubles gastro-intestinaux, rarement graves.",
             "exposure": "Manger les feuilles.",
-            "effect": "Irritation buccale et nausées.",
-            "note": "Préoccupation documentée pour les humains : irritation buccale et nausées."
+            "symptoms": [
+              "Nausea, vomissements, and mild gastrointestinal upset.",
+              "Rarement grave."
+            ],
+            "note": "Les saponines provoquent une irritation gastro-intestinale et des mousses, mais sont mal absorbées ; les intoxications graves sont rares."
           },
           "active_compound_display": "saponines",
-          "headline": "Humains Légère · Animaux Modérée",
-          "notes_en": "L'ASPCA liste Sansevieria/Dracaena trifasciata comme toxique pour les animaux de compagnie."
+          "cat": {
+            "exposure": "Manger les feuilles.",
+            "symptoms": [
+              "Nausées, vomissements, diarrhée.",
+              "Selon l'ASPCA."
+            ],
+            "effect": "Nausées, vomissements, diarrhée et selon l'ASPCA.",
+            "note": "Les saponines provoquent une irritation gastro-intestinale et des mousses, mais sont mal absorbées ; les intoxications graves sont rares."
+          },
+          "dog": {
+            "exposure": "Manger les feuilles.",
+            "symptoms": [
+              "Nausées, vomissements, diarrhée.",
+              "Selon l'ASPCA."
+            ],
+            "effect": "Nausées, vomissements, diarrhée et selon l'ASPCA.",
+            "note": "Les saponines provoquent une irritation gastro-intestinale et des mousses, mais sont mal absorbées ; les intoxications graves sont rares."
+          },
+          "headline": "Humains Légère · Animaux Légère",
+          "notes_en": "Les saponines provoquent une irritation gastro-intestinale et des mousses, mais sont mal absorbées ; les intoxications graves sont rares."
         },
         "uses_list": [
           {
@@ -81489,7 +81485,7 @@
       }
     },
     "AAA1322": {
-      "source_hash": "3362008348bf82c802da0d505575dba4baca67769778a2577fe00b08ff65671c",
+      "source_hash": "5557ee1bf16271e17a41dc4575c06e7adb17a87305d8a6cf01c2806b28cc3c98",
       "fields": {
         "description": "Le Cinéraire maritime est une vivace tendre méditerranéenne cultivée comme annuelle à travers les États-Unis pour son frappant feuillage gris-argent profondément lobé. Atteignant 30 à 60 cm de hauteur en forme touffue monticuleuse, elle est valorisée pour son accent de feuillage plutôt que pour ses modestes fleurs jaunes d'été, s'associant magnifiquement avec les géraniums rouges, la sauge pourpre et les pétunias roses dans les schémas de conteneur et de lit d'été classiques américains.",
         "history_text_short": "Le Cinéraire maritime est le classique feuillage argenté victorien de partherre, maintenant correctement nommé Jacobaea maritima. Ses feuilles blanches lainées feutrées accentuent presque chaque schéma de partherre en tapis depuis que Paris au XIXe siècle l'a rendu à la mode dans les parcs publics.",
@@ -81520,7 +81516,7 @@
           "cat": {
             "exposure": "Manger les feuilles.",
             "effect": "Les alcaloïdes pyrrolizidiniques provoquent des lésions hépatiques.",
-            "note": "Comme les parents Senecio, contient des alcaloïdes pyrrolizidiniques hépatotoxiques ; éviter l'ingestion.",
+            "note": "Contient des alcaloïdes pyrrolizidiniques hépatotoxiques ; éviter l'ingestion.",
             "symptoms": [
               "Les alcaloïdes pyrrolizidiniques provoquent des lésions hépatiques."
             ]
@@ -81528,7 +81524,7 @@
           "dog": {
             "exposure": "Manger les feuilles.",
             "effect": "Les alcaloïdes pyrrolizidiniques provoquent des lésions hépatiques.",
-            "note": "Comme les parents Senecio, contient des alcaloïdes pyrrolizidiniques hépatotoxiques ; éviter l'ingestion.",
+            "note": "Contient des alcaloïdes pyrrolizidiniques hépatotoxiques ; éviter l'ingestion.",
             "symptoms": [
               "Les alcaloïdes pyrrolizidiniques provoquent des lésions hépatiques."
             ]
@@ -81536,14 +81532,14 @@
           "human": {
             "exposure": "Manger les feuilles.",
             "effect": "Les alcaloïdes pyrrolizidiniques provoquent des lésions hépatiques progressives en cas d'ingestion chronique.",
-            "note": "Comme les parents Senecio, contient des alcaloïdes pyrrolizidiniques hépatotoxiques ; éviter l'ingestion.",
+            "note": "Contient des alcaloïdes pyrrolizidiniques hépatotoxiques ; éviter l'ingestion.",
             "symptoms": [
               "Les alcaloïdes pyrrolizidiniques provoquent des lésions hépatiques progressives en cas d'ingestion chronique."
             ]
           },
           "active_compound_display": "alcaloïdes pyrrolizidiniques",
           "headline": "Humains Modéré · Animaux Modéré",
-          "notes_en": "Comme les parents Senecio, contient des alcaloïdes pyrrolizidiniques hépatotoxiques ; éviter l'ingestion."
+          "notes_en": "Contient des alcaloïdes pyrrolizidiniques hépatotoxiques ; éviter l'ingestion."
         },
         "bloom_tip": "Cultivé pour son feuillage argenté ; petites fleurs jaunes la deuxième année si hiverné."
       }
@@ -84455,37 +84451,41 @@
       }
     },
     "AAA1371": {
-      "source_hash": "f9f4ef8e685dd3eae4f4eadf438fafec5e2e44d966650b0e0f7951cbfd24c6c2",
+      "source_hash": "e827a953913e61f1ee898200ff457588546fb44d2a45e271007f3d99d073ea16",
       "fields": {
         "description": "Cheveux d'ange, communément appelée herbe à plumes mexicaine ou nassella, est l'une des graminées ornementales les plus gracieuses disponibles, native des régions arides du sud-ouest des États-Unis, du Mexique et de l'Argentine. Elle forme des fontaines fines et délicates ressemblant à des cheveux de feuillage vert vif qui se décolorent en un beau blond doré en été et automne. Toute la plante se déplace fluidement à la moindre brise, créant un mouvement ondulant hypnotisant qu'aucune autre graminée ne peut égaler. Atteignant 40 à 60 centimètres de hauteur, elle est idéale pour la plantation en masse, les jardins de prairie et l'adoucissement des bords des éléments de paysage durci. Elle est extrêmement tolérante à la sécheresse et prospère dans les sols mal drainés et pauvres où d'autres plantes luttent. Les épillets fins comme des cheveux émergent au début de l'été, ajoutant une brume scintillante au-dessus du feuillage. Elle s'auto-sème librement dans les climats doux et est considérée comme envahissante dans les parties de l'Australie et de la Nouvelle-Zélande, bien qu'elle soit généralement bien comportée dans les climats continentaux avec des hivers froids.",
         "history_text_long": "Cheveux d'ange (maintenant taxonomiquement acceptée comme Nassella tenuissima) est indigène au centre-nord du Mexique, à la région du Trans-Pecos au Texas, au sud du Nouveau-Mexique et aux populations disjointes en Argentine. Elle pousse sur les pentes calcaires rocheuses et les prairies sèches, formant des touffes compactes de 40–60 cm de hauteur avec un feuillage extraordinairement fin, semblable à des cheveux, gris-vert qui se déplace visiblement au souffle d'air le plus léger — une propriété qui l'a fait l'une des graminées ornementales les plus visuellement distinctives et largement utilisées du naturalistique de fin du XXe et début du XXIe siècle et du design de style méditerranéen. Les schémas de plantation de Piet Oudolf et les mouvements de design « prairie » et « nouvelle vivace » des années 2000–2010 déploient largement Cheveux d'ange pour son mouvement et son contraste texturel.\n\nCependant, la graine largement dispersée par le vent de l'espèce et la tolérance à la sécheresse ont conduit à ce qu'elle devienne une espèce envahissante émergente en Californie, Victoria et Nouvelle-Galles du Sud (Australie) et dans certaines parties de l'Europe du sud. La Californie examine activement son statut ; l'Australie a restreint sa vente dans plusieurs États.\n\nCertaines pépinières et concepteurs responsables recommandent maintenant des alternatives stériles ou quasi-stériles comme Bouteloua gracilis « Blonde Ambition » ou Stipa barbata. Le feuillage devient souvent tan-paille en été et en hiver. Cheveux d'ange a acquis la célébrité horticole dans les années 1990 quand les concepteurs de paysages ont commencé à l'utiliser pour apporter le mouvement naturaliste aux jardins modernes.",
         "history_text_short": "Cheveux d'ange est originaire du Mexique, du Texas, du Nouveau-Mexique et de certaines parties de l'Argentine. Son feuillage extraordinairement fin, doux et vert-gris argenté qui se déplace visiblement dans la brise la plus légère l'a rendue l'une des graminées ornementales déterminantes du design naturaliste du 21ème siècle — mais c'est aussi un envahisseur émergent en Californie, en Australie et dans certaines parties de l'Europe. Taxonomiquement maintenant connue sous le nom de Nassella tenuissima.",
         "symbolism_story": "Cheveux d'ange est la grâce en mouvement — ses lames fines comme les cheveux coulent comme de l'eau vert-or avec chaque respiration du vent, l'usine la plus kinétique du jardin sec. Sa résilience est la deuxième vertu : la sécheresse, la chaleur et le sol pauvre ne sont pas un obstacle, les conditions où elle prospère réellement. L'herbe se transforme en sévérité en élégance, une petite chorégraphie de survie dans les lieux où les usines plus immobiles brûleraient.",
         "toxicity": {
-          "cat": {
-            "effect": "Les arêtes peuvent se loger dans les oreilles, yeux, gorge.",
-            "symptoms": [
-              "Les arêtes peuvent se loger dans les oreilles, yeux, gorge."
-            ],
-            "exposure": "Toucher les graines. Manger les graines.",
-            "note": "Non toxique chimiquement ; les barbes des graines provoquent des lésions mécaniques chez les animaux de compagnie qui broutent (blessures de type queue-de-renard)."
-          },
           "dog": {
-            "effect": "Les arêtes peuvent se loger dans les oreilles, yeux, gorge.",
             "symptoms": [
-              "Les arêtes peuvent se loger dans les oreilles, yeux, gorge."
+              "Non répertorié comme toxique.",
+              "Les arêtes pointues sur les graines peuvent causer des blessures mécaniques/problèmes d'oreille chez les chiens."
             ],
-            "exposure": "Toucher les graines. Manger les graines.",
-            "note": "Non toxique chimiquement ; les barbes des graines provoquent des lésions mécaniques chez les animaux de compagnie qui broutent (blessures de type queue-de-renard)."
-          },
-          "headline": "Léger pour animaux",
-          "active_compound_display": "Principe toxique inconnu",
-          "human": {
-            "effect": "Aucun effet toxique n'est signalé.",
+            "effect": "Non répertorié comme toxique mais les arêtes acérées des graines peuvent causer des blessures mécaniques/problèmes d'oreilles chez les chiens.",
             "exposure": "Aucune voie d'exposition n'est signalée.",
-            "note": "Aucune toxicité n'est signalée pour les humains dans ce catalogue ; cela ne prouve pas que la plante soit comestible ou inoffensive."
+            "note": "Aucune toxicité n'est signalée pour les chiens dans ce catalogue ; cela ne prouve pas que la plante soit comestible ou inoffensive."
           },
-          "notes_en": "Non toxique chimiquement ; les barbes des graines provoquent des lésions mécaniques chez les animaux de compagnie qui broutent (blessures de type queue-de-renard)."
+          "cat": {
+            "effect": "Non répertorié comme toxique.",
+            "symptoms": [
+              "Non répertorié comme toxique."
+            ],
+            "exposure": "Aucune voie d'exposition n'est signalée.",
+            "note": "Aucune toxicité n'est signalée pour les chats dans ce catalogue ; cela ne prouve pas que la plante soit comestible ou inoffensive."
+          },
+          "headline": "Pas de toxicité rapportée",
+          "active_compound_display": "Aucun signalé",
+          "human": {
+            "effect": "Aucune toxicité significative.",
+            "exposure": "Aucune voie d'exposition n'est signalée.",
+            "note": "Aucune toxicité humaine n'est signalée dans ce catalogue ; évitez de consommer des plantes ornementales sauf si leur comestibilité est confirmée.",
+            "symptoms": [
+              "Aucune toxicité significative."
+            ]
+          },
+          "notes_en": "Non répertorié par l'ASPCA. Les graines barbues peuvent se loger dans les oreilles et les pattes des chiens — un problème vétérinaire reconnu avec de nombreuses graminées ornementales."
         },
         "common_name": "Cheveux d'ange",
         "fragrance": {
@@ -84653,7 +84653,7 @@
       }
     },
     "AAA1374": {
-      "source_hash": "75844c27d9f40e072df05a796375ded7e3dc4266ad89502048c6e8c1877e80d2",
+      "source_hash": "01a14302ec73d99f82d9be302eb9e9fe008793259364caf1100e204bf49b4810",
       "fields": {
         "description": "Stromanthe triostar est l'une des plantes de feuillage les plus colorées disponibles, avec des feuilles peintes en rose, crème et vert en haut et en magenta profond en dessous. Membre de la famille des plantes priantes (Marantaceae), elle effectue des mouvements foliaires nocturnes. Native des forêts tropicales brésiliennes, elle pousse entre 60–90 cm de hauteur et préfère des conditions humides avec une lumière filtrée. La combinaison de couleurs dramatique — en particulier les revers choquant rose révélés lors du mouvement de prière du soir — en fait une vedette. Elle est plus tolérante que les Calathea mais apprécie toujours une humidité supérieure à 50 %.",
         "fragrance": {
@@ -84669,24 +84669,32 @@
           }
         ],
         "toxicity": {
-          "headline": "Animaux en sécurité",
-          "active_compound_display": "Aucun signalé",
           "cat": {
-            "effect": "Aucun effet toxique n'est signalé.",
+            "effect": "Non toxique et la famille des marantacées est listée comme sûre par l'ASPCA.",
+            "symptoms": [
+              "Non-toxique.",
+              "Famille des Marantacées considérée comme sûre par l'ASPCA."
+            ],
             "exposure": "Aucune voie d'exposition n'est signalée.",
-            "note": "Considéré comme non toxique pour les chats ; éviter de consommer les plantes ornementales sauf confirmation de comestibilité."
+            "note": "Aucune toxicité n'est signalée pour les chats dans ce catalogue ; cela ne prouve pas que la plante soit comestible ou inoffensive."
           },
           "dog": {
-            "effect": "Aucun effet toxique n'est signalé.",
+            "effect": "Non toxique et la famille des marantacées est listée comme sûre par l'ASPCA.",
+            "symptoms": [
+              "Non-toxique.",
+              "Famille des Marantacées considérée comme sûre par l'ASPCA."
+            ],
             "exposure": "Aucune voie d'exposition n'est signalée.",
-            "note": "Considéré comme non toxique pour les chiens ; éviter de consommer les plantes ornementales sauf confirmation de comestibilité."
+            "note": "Aucune toxicité n'est signalée pour les chiens dans ce catalogue ; cela ne prouve pas que la plante soit comestible ou inoffensive."
           },
+          "headline": "Pas de toxicité rapportée",
+          "notes_en": "Sûr pour les animaux.",
+          "active_compound_display": "Aucun signalé",
           "human": {
             "effect": "Aucun effet toxique n'est signalé.",
             "exposure": "Aucune voie d'exposition n'est signalée.",
-            "note": "Aucune toxicité humaine n'est signalée dans ce catalogue ; évitez de consommer des plantes ornementales sauf si leur comestibilité est confirmée."
-          },
-          "notes_en": "Les Marantaceae (y compris Stromanthe) sont listées par l'ASPCA comme non toxiques."
+            "note": "Aucune toxicité n'est signalée pour les humains dans ce catalogue ; cela ne prouve pas que la plante soit comestible ou inoffensive."
+          }
         },
         "uses_list": [
           {

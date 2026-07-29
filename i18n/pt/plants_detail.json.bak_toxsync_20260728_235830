@@ -9741,7 +9741,7 @@
       }
     },
     "AAA0156": {
-      "source_hash": "6b19ac0d5d619ea61449f2a5bb87724b2fd8c10c528af0cb4b731a5573fab062",
+      "source_hash": "fd01ac758ce1975f0b4a21f7885df805f82795ddd56008109cf6ebadfc7e6485",
       "fields": {
         "bloom_tip": "Massas de flores margarida roxas de setembro a outubro",
         "common_name": "Áster da Nova Inglaterra",
@@ -9764,32 +9764,22 @@
         "toxicity": {
           "active_compound_display": "Nenhum relatado",
           "cat": {
-            "effect": "Não listado como tóxico.",
+            "effect": "Nenhum efeito tóxico é relatado.",
             "exposure": "Nenhuma via de exposição é relatada.",
-            "note": "Nenhuma toxicidade é relatada para gatos neste catálogo; isso não é evidência de que a planta seja comestível ou inofensiva.",
-            "symptoms": [
-              "Não listado como tóxico."
-            ]
+            "note": "Nenhuma toxicidade é relatada para gatos neste catálogo; isso não é evidência de que a planta seja comestível ou inofensiva."
           },
           "dog": {
-            "effect": "Não listado como tóxico.",
+            "effect": "Nenhum efeito tóxico é relatado.",
             "exposure": "Nenhuma via de exposição é relatada.",
-            "note": "Nenhuma toxicidade é relatada para cães neste catálogo; isso não é evidência de que a planta seja comestível ou inofensiva.",
-            "symptoms": [
-              "Não listado como tóxico."
-            ]
+            "note": "Nenhuma toxicidade é relatada para cães neste catálogo; isso não é evidência de que a planta seja comestível ou inofensiva."
           },
           "headline": "Nenhuma toxicidade relatada",
           "human": {
-            "effect": "Não notavelmente tóxico e os povos nativos usavam as folhas medicinalmente.",
+            "effect": "Nenhum efeito tóxico é relatado.",
             "exposure": "Nenhuma via de exposição é relatada.",
-            "note": "Nenhuma toxicidade humana é relatada neste catálogo; evite comer plantas ornamentais a menos que seja confirmado que são comestíveis.",
-            "symptoms": [
-              "Não é notavelmente tóxica.",
-              "Os povos nativos usavam as folhas medicinalmente."
-            ]
+            "note": "Nenhuma toxicidade humana é relatada neste catálogo; evite comer plantas ornamentais a menos que seja confirmado que são comestíveis."
           },
-          "notes_en": "Não listado pela ASPCA. Geralmente considerado seguro."
+          "notes_en": "Não listado como tóxico pela ASPCA; geralmente considerado seguro perto de animais de estimação e pessoas."
         },
         "uses_list": [
           {
@@ -27448,7 +27438,7 @@
       }
     },
     "AAA0447": {
-      "source_hash": "aec9cc574d8664a5d83e02ac6331c6821a4a7d6ade39d85dbe1b7f9e0f29eab5",
+      "source_hash": "6a26391f98ccc7789e8dfcd24e4877f6b1f3b47655e12fa947dcaf9fb637f1e8",
       "fields": {
         "bloom_tip": "Flores cor-de-rosa pendentes em forma de coração arqueiam ao longo dos caules no meio ao final da primavera.",
         "common_name": "Coração-sangrento",
@@ -27472,40 +27462,35 @@
         ],
         "symbolism_story": "O Coração-Sangrento pendura seus perfeitos cadeados cor-de-rosa em fileira ao longo de caules arqueados, a própria forma do amor eterno. Na linguagem floral vitoriana, significava emoção terna e compaixão fiel, e ainda chega no final da primavera como uma declaração silenciosa. É o lembrete do velho jardim de que o coração, mesmo perfurado, mesmo pendente, continua fazendo a mesma forma repetidamente.",
         "toxicity": {
-          "active_compound_display": "alcaloides isoquinolínicos e protopina",
+          "active_compound_display": "alcaloides isoquinolínicos e protoanemonina",
           "cat": {
-            "effect": "Tremores, convulsões, cambaleio e vômito.",
-            "exposure": "Ingestão de raízes e folhas.",
-            "note": "A ASPCA lista espécies de Dicentra como tóxicas para cães, gatos e cavalos. Pode causar sinais neurológicos em animais de estimação.",
+            "effect": "Tremores, convulsões, dificuldade respiratória.",
+            "exposure": "Ingestão de qualquer parte da planta.",
+            "note": "A ASPCA lista Dicentra como tóxico para cães e gatos. Mantenha fora do alcance.",
             "symptoms": [
-              "Tremores.",
-              "Convulsões.",
-              "Cambaleio.",
-              "Vômito."
+              "Tremores, convulsões, dificuldade respiratória."
             ]
           },
           "dog": {
-            "effect": "Tremores, convulsões, cambaleio e vômito.",
-            "exposure": "Ingestão de raízes e folhas.",
-            "note": "A ASPCA lista espécies de Dicentra como tóxicas para cães, gatos e cavalos. Pode causar sinais neurológicos em animais de estimação.",
+            "effect": "Tremores, convulsões, dificuldade respiratória.",
+            "exposure": "Ingestão de qualquer parte da planta.",
+            "note": "A ASPCA lista Dicentra como tóxico para cães e gatos. Mantenha fora do alcance.",
             "symptoms": [
-              "Tremores.",
-              "Convulsões.",
-              "Cambaleio.",
-              "Vômito."
+              "Tremores, convulsões, dificuldade respiratória."
             ]
           },
-          "headline": "Humanos Moderado · Animais de Estimação Moderado",
+          "headline": "Humanos Leve · Animais de Estimação Moderado",
           "human": {
-            "effect": "Irritação na pele e vômito se ingerido em quantidade.",
-            "exposure": "Ingestão de qualquer parte da planta. Contato com qualquer parte da planta.",
-            "note": "Preocupação documentada para humanos: Irritação na pele e vômito se ingerido em quantidade.",
+            "effect": "Alcaloides isoquinolínicos, irritação cutânea ao contato e náuseas e tremores se ingerido.",
+            "exposure": "Tocar qualquer parte da planta. Ingerir qualquer parte da planta.",
+            "note": "Preocupação documentada para humanos: Alcaloides isoquinolínicos, irritação cutânea ao contato e náuseas e tremores se ingerido.",
             "symptoms": [
-              "Irritação cutânea.",
-              "Vômito se ingerido em quantidade."
+              "Alcaloides isoquinolínicos.",
+              "Irritação cutânea ao contato.",
+              "Náuseas e tremores se ingerido."
             ]
           },
-          "notes_en": "A ASPCA lista espécies de Dicentra como tóxicas para cães, gatos e cavalos. Pode causar sinais neurológicos em animais de estimação."
+          "notes_en": "A ASPCA lista Dicentra como tóxico para cães e gatos. Mantenha fora do alcance."
         },
         "uses_list": [
           {
@@ -39325,7 +39310,7 @@
       }
     },
     "AAA0642": {
-      "source_hash": "084bb96e3f50d34ac8ff33737577cd00eaee0a7d0bb2c8f883ca6ce5bd31f803",
+      "source_hash": "ae07358fdda1cd85015f0bf3ed92136bc82dc696f8903186d20a24571afdf4f8",
       "fields": {
         "bloom_tip": "Cachos estrelados e cerosos perfumados; florescem dos mesmos esporões anualmente — não podar hastes gastas",
         "common_name": "Flor-de-cera",
@@ -39345,24 +39330,35 @@
         ],
         "symbolism_story": "A Flor-de-cera pode simbolizar proteção, tradicionalmente dada a recém-casados coreanos como guardiã da harmonia doméstica. Suas flores estreladas e cerosas e vinhas semelhantes a cordas sugerem laços duradouros que se fortalecem em vez de se desgastar com o tempo. Poucas plantas de interior estão tão intimamente ligadas aos primeiros anos de vida conjugal — um presente de crescimento lento e perfumado destinado a vigiar uma casa durante suas primeiras estações vulneráveis.",
         "toxicity": {
-          "active_compound_display": "Nenhum relatado",
+          "active_compound_display": "látex (não tóxico)",
           "cat": {
-            "effect": "Nenhum efeito tóxico é relatado.",
+            "effect": "Não tóxico e o gênero Hoya não listado como tóxico pela ASPCA.",
             "exposure": "Nenhuma via de exposição é relatada.",
-            "note": "Listado como não tóxico para gatos; evite comer plantas ornamentais a menos que seja confirmado que são comestíveis."
+            "note": "Nenhuma toxicidade é relatada para gatos neste catálogo; isso não é evidência de que a planta seja comestível ou inofensiva.",
+            "symptoms": [
+              "Não tóxico.",
+              "Gênero Hoya não listado como tóxico pela ASPCA."
+            ]
           },
           "dog": {
-            "effect": "Nenhum efeito tóxico é relatado.",
+            "effect": "Não tóxico e o gênero Hoya não listado como tóxico pela ASPCA.",
             "exposure": "Nenhuma via de exposição é relatada.",
-            "note": "Listado como não tóxico para cães; evite comer plantas ornamentais a menos que seja confirmado que são comestíveis."
+            "note": "Nenhuma toxicidade é relatada para cães neste catálogo; isso não é evidência de que a planta seja comestível ou inofensiva.",
+            "symptoms": [
+              "Não tóxico.",
+              "Gênero Hoya não listado como tóxico pela ASPCA."
+            ]
           },
-          "headline": "Animais de Estimação Seguros",
+          "headline": "Nenhuma toxicidade relatada",
           "human": {
-            "effect": "Nenhum efeito tóxico é relatado.",
+            "effect": "Seiva de látex pode causar irritação cutânea leve em indivíduos sensíveis.",
             "exposure": "Nenhuma via de exposição é relatada.",
-            "note": "Nenhuma toxicidade humana é relatada neste catálogo; evite comer plantas ornamentais a menos que seja confirmado que são comestíveis."
+            "note": "Nenhuma toxicidade é relatada para humanos neste catálogo; isso não é evidência de que a planta seja comestível ou inofensiva.",
+            "symptoms": [
+              "Seiva de látex pode causar irritação cutânea leve em indivíduos sensíveis."
+            ]
           },
-          "notes_en": "Hoya carnosa listada pela ASPCA como não tóxica."
+          "notes_en": "Geralmente considerado seguro para animais de estimação; seiva de látex branca é apenas um irritante cutâneo menor."
         },
         "uses_list": [
           {
@@ -46129,7 +46125,7 @@
       }
     },
     "AAA0749": {
-      "source_hash": "2a6eb361e2580ecb460f1d96d3d0ea88542fd0d47820c2915a3658f08e40d5b0",
+      "source_hash": "3bc0c7e44167a761dcbacd59864018969375f877ed5df0b9eb3b30e7eaf151c1",
       "fields": {
         "bloom_tip": "Cachos de pequenas flores brancas em sino na primavera",
         "common_name": "Leucótoe-de-folhas-de-choupo",
@@ -55613,7 +55609,7 @@
       }
     },
     "AAA0902": {
-      "source_hash": "8781e0e6fd079442c4df3a31225e252a4477ad3d8f7041e6c8e983826e3ef2d3",
+      "source_hash": "df81342545d914c9558460ca74ba3b3b1a115ada69c135ef209d3cdf442d33d4",
       "fields": {
         "bloom_tip": "Pequenas espigas de flores rosa-brancas durante o verão",
         "common_name": "manjericão-santo",
@@ -55636,7 +55632,7 @@
         ],
         "symbolism_story": "O manjericão-santo é a sacralidade tornada verde. Mantido ao lado de casas e santuários, cuidado diariamente e ligado à deusa Tulsi, transforma um vaso de ervas em uma presença devocional. Além do ritual, suas folhas com aroma de cravo e flores para abelhas o tornam vivo e generoso. Seu simbolismo é a reverência doméstica.",
         "toxicity": {
-          "active_compound_display": "eugenol, ácido rosmarínico e ácido ursólico",
+          "active_compound_display": "eugenol, ácido ursólico e ácido rosmarínico",
           "cat": {
             "effect": "Nenhum efeito tóxico é relatado.",
             "exposure": "Nenhuma via de exposição é relatada.",
@@ -55653,7 +55649,7 @@
             "exposure": "Nenhuma via de exposição é relatada.",
             "note": "Nenhuma toxicidade humana é relatada neste catálogo; evite comer plantas ornamentais a menos que seja confirmado que são comestíveis."
           },
-          "notes_en": "Manjericão não tóxico segundo a ASPCA."
+          "notes_en": "Espécies de manjericão não tóxicas segundo a ASPCA."
         },
         "uses_list": [
           {
@@ -65471,7 +65467,7 @@
       }
     },
     "AAA1063": {
-      "source_hash": "e99013adcf87c488aded3304db865797a7a9b6cfcb49178e986466080f018456",
+      "source_hash": "ade2a6bf4bce7220d082c046d2db0e9537368dd9232475b19b75390c97f4dfa8",
       "fields": {
         "bloom_tip": "Extremamente raro em ambientes internos",
         "common_name": "Jiboia",
@@ -65493,34 +65489,34 @@
         "toxicity": {
           "active_compound_display": "cristais insolúveis de oxalato de cálcio (ráfides)",
           "cat": {
-            "effect": "Irritação oral, queimação e inchaço intensos, salivação excessiva, vômito, dificuldade para engolir, segundo a ASPCA.",
+            "effect": "Irritação oral, salivação, vômito, dificuldade para engolir conforme listagem da ASPCA para Epipremnum aureum.",
             "exposure": "Ingestão de folhas e caules.",
-            "note": "A toxicidade é geralmente leve, mas pode ser alarmante em gatos e cães pequenos devido ao inchaço oral.",
+            "note": "Sinônimo taxonômico — dados correspondem a Epipremnum aureum.",
             "symptoms": [
-              "Irritação oral, queimação e inchaço intensos, salivação excessiva, vômito, dificuldade para engolir.",
-              "Segundo a ASPCA."
+              "Irritação oral, salivação, vômito, dificuldade para engolir.",
+              "Conforme listagem da ASPCA para Epipremnum aureum."
             ]
           },
           "dog": {
-            "effect": "Irritação oral, dor e inchaço da boca, língua e lábios, salivação excessiva, vômito, dificuldade para engolir, segundo a ASPCA.",
+            "effect": "Irritação oral, salivação, vômito, dificuldade para engolir conforme listagem da ASPCA para Epipremnum aureum.",
             "exposure": "Ingestão de folhas e caules.",
-            "note": "A toxicidade é geralmente leve, mas pode ser alarmante em gatos e cães pequenos devido ao inchaço oral.",
+            "note": "Sinônimo taxonômico — dados correspondem a Epipremnum aureum.",
             "symptoms": [
-              "Irritação oral, dor e inchaço da boca, língua e lábios, salivação excessiva, vômito, dificuldade para engolir.",
-              "Segundo a ASPCA."
+              "Irritação oral, salivação, vômito, dificuldade para engolir.",
+              "Conforme listagem da ASPCA para Epipremnum aureum."
             ]
           },
           "headline": "Humanos Leve · Animais Leve",
           "human": {
-            "effect": "Queimação oral, inchaço dos lábios e língua, salivação; a pele pode desenvolver dermatite leve devido à seiva.",
+            "effect": "Ardor oral, inchaço dos lábios e língua, salivação e irritação cutânea leve.",
             "exposure": "Toque em folhas, caules e seiva. Ingestão de folhas, caules e seiva.",
-            "note": "A toxicidade é geralmente leve, mas pode ser alarmante em gatos e cães pequenos devido ao inchaço oral.",
+            "note": "Sinônimo taxonômico — dados correspondem a Epipremnum aureum.",
             "symptoms": [
-              "Queimação oral, inchaço dos lábios e língua, salivação.",
-              "A pele pode desenvolver dermatite leve devido à seiva."
+              "Ardor oral, inchaço dos lábios e língua, salivação.",
+              "Irritação cutânea leve."
             ]
           },
-          "notes_en": "A toxicidade é geralmente leve, mas pode ser alarmante em gatos e cães pequenos devido ao inchaço oral."
+          "notes_en": "Sinônimo taxonômico — dados correspondem a Epipremnum aureum."
         },
         "uses_list": [
           {
@@ -79766,7 +79762,7 @@
       }
     },
     "AAA1295": {
-      "source_hash": "7d62d6f1920ce00b37192e53d4acb6e1eef48907b847279704c85c37b4d9e52d",
+      "source_hash": "8bfc16705aea5d7a49c7d1ffe480a174f78f665d4a3ad0d6a85603104633cc57",
       "fields": {
         "bloom_tip": "Flores raras e perfumadas",
         "common_name": "Espada-de-São-Jorge",
@@ -79792,34 +79788,34 @@
         "toxicity": {
           "active_compound_display": "saponinas",
           "cat": {
-            "effect": "Vômito e diarreia.",
+            "effect": "Náusea, vômito, diarreia e, segundo a ASPCA.",
             "exposure": "Comer folhas.",
-            "note": "A ASPCA lista Sansevieria/Dracaena trifasciata como tóxica para animais de estimação.",
+            "note": "As saponinas causam espuma e irritação gastrointestinal, mas são mal absorvidas; envenenamentos graves são raros.",
             "symptoms": [
-              "Vômito.",
-              "Diarreia."
+              "Náusea, vômito, diarreia.",
+              "Segundo a ASPCA."
             ]
           },
           "dog": {
-            "effect": "Vômito e diarreia.",
+            "effect": "Náusea, vômito, diarreia e, segundo a ASPCA.",
             "exposure": "Comer folhas.",
-            "note": "A ASPCA lista Sansevieria/Dracaena trifasciata como tóxica para animais de estimação.",
+            "note": "As saponinas causam espuma e irritação gastrointestinal, mas são mal absorvidas; envenenamentos graves são raros.",
             "symptoms": [
-              "Vômito.",
-              "Diarreia."
+              "Náusea, vômito, diarreia.",
+              "Segundo a ASPCA."
             ]
           },
-          "headline": "Humanos Leve · Animais de Estimação Moderado",
+          "headline": "Humanos Leve · Animais Leve",
           "human": {
-            "effect": "Irritação oral e náusea.",
+            "effect": "Náusea, vômito e desconforto gastrointestinal leve e raramente grave.",
             "exposure": "Comer folhas.",
-            "note": "Preocupação documentada para humanos: Irritação oral e náusea.",
+            "note": "As saponinas causam espuma e irritação gastrointestinal, mas são mal absorvidas; envenenamentos graves são raros.",
             "symptoms": [
-              "Irritação oral.",
-              "Náusea."
+              "Náusea, vômito e desconforto gastrointestinal leve.",
+              "Raramente grave."
             ]
           },
-          "notes_en": "A ASPCA lista Sansevieria/Dracaena trifasciata como tóxica para animais de estimação."
+          "notes_en": "As saponinas causam espuma e irritação gastrointestinal, mas são mal absorvidas; envenenamentos graves são raros."
         },
         "uses_list": [
           {
@@ -81489,7 +81485,7 @@
       }
     },
     "AAA1322": {
-      "source_hash": "3362008348bf82c802da0d505575dba4baca67769778a2577fe00b08ff65671c",
+      "source_hash": "5557ee1bf16271e17a41dc4575c06e7adb17a87305d8a6cf01c2806b28cc3c98",
       "fields": {
         "bloom_tip": "Cultivada pela folhagem prateada; pequenas flores amarelas no segundo ano se hibernada",
         "common_name": "cinerária-marítima",
@@ -81512,7 +81508,7 @@
           "cat": {
             "effect": "Alcaloides pirrolizidínicos causam danos ao fígado.",
             "exposure": "Comer folhas.",
-            "note": "Como parentes de Senecio, contém alcaloides pirrolizidínicos hepatotóxicos; evitar ingestão.",
+            "note": "Contém alcaloides pirrolizidínicos hepatotóxicos; evitar ingestão.",
             "symptoms": [
               "Alcaloides pirrolizidínicos causam danos ao fígado."
             ]
@@ -81520,7 +81516,7 @@
           "dog": {
             "effect": "Alcaloides pirrolizidínicos causam danos ao fígado.",
             "exposure": "Comer folhas.",
-            "note": "Como parentes de Senecio, contém alcaloides pirrolizidínicos hepatotóxicos; evitar ingestão.",
+            "note": "Contém alcaloides pirrolizidínicos hepatotóxicos; evitar ingestão.",
             "symptoms": [
               "Alcaloides pirrolizidínicos causam danos ao fígado."
             ]
@@ -81529,12 +81525,12 @@
           "human": {
             "effect": "Alcaloides pirrolizidínicos causam danos hepáticos progressivos com ingestão crônica.",
             "exposure": "Comer folhas.",
-            "note": "Como parentes de Senecio, contém alcaloides pirrolizidínicos hepatotóxicos; evitar ingestão.",
+            "note": "Contém alcaloides pirrolizidínicos hepatotóxicos; evitar ingestão.",
             "symptoms": [
               "Alcaloides pirrolizidínicos causam danos hepáticos progressivos com ingestão crônica."
             ]
           },
-          "notes_en": "Como parentes de Senecio, contém alcaloides pirrolizidínicos hepatotóxicos; evitar ingestão."
+          "notes_en": "Contém alcaloides pirrolizidínicos hepatotóxicos; evitar ingestão."
         },
         "uses_list": [
           {
@@ -84455,7 +84451,7 @@
       }
     },
     "AAA1371": {
-      "source_hash": "f9f4ef8e685dd3eae4f4eadf438fafec5e2e44d966650b0e0f7951cbfd24c6c2",
+      "source_hash": "e827a953913e61f1ee898200ff457588546fb44d2a45e271007f3d99d073ea16",
       "fields": {
         "bloom_tip": "Cabeças de sementes sedosas no início do verão; remova o crescimento velho na primavera",
         "common_name": "Estipa",
@@ -84479,30 +84475,34 @@
         ],
         "symbolism_story": "A Estipa é graça em movimento — suas lâminas finas como cabelo fluem como água verde-dourada a cada sopro de vento, a planta mais cinética do jardim seco. Sua resiliência é a segunda virtude: seca, calor e solo pobre não são obstáculos, as condições onde ela realmente prospera. A grama transforma severidade em elegância, uma pequena coreografia de sobrevivência em lugares onde plantas mais paradas queimariam.",
         "toxicity": {
-          "active_compound_display": "Princípio tóxico desconhecido",
+          "active_compound_display": "Nenhum relatado",
           "cat": {
-            "effect": "As aristas podem alojar-se em orelhas, olhos, garganta.",
-            "exposure": "Tocar nas sementes. Comer sementes.",
-            "note": "Não é quimicamente tóxico; as aristas das sementes representam lesão mecânica para animais de estimação que pastam (lesões do tipo foxtail).",
+            "effect": "Não listado como tóxico.",
+            "exposure": "Nenhuma via de exposição é relatada.",
+            "note": "Nenhuma toxicidade é relatada para gatos neste catálogo; isso não é evidência de que a planta seja comestível ou inofensiva.",
             "symptoms": [
-              "As aristas podem alojar-se em orelhas, olhos, garganta."
+              "Não listado como tóxico."
             ]
           },
           "dog": {
-            "effect": "As aristas podem alojar-se em orelhas, olhos, garganta.",
-            "exposure": "Tocar nas sementes. Comer sementes.",
-            "note": "Não é quimicamente tóxico; as aristas das sementes representam lesão mecânica para animais de estimação que pastam (lesões do tipo foxtail).",
+            "effect": "Não listado como tóxico e as aristas afiadas nas sementes podem causar lesões mecânicas/problemas de ouvido em cães.",
+            "exposure": "Nenhuma via de exposição é relatada.",
+            "note": "Nenhuma toxicidade é relatada para cães neste catálogo; isso não é evidência de que a planta seja comestível ou inofensiva.",
             "symptoms": [
-              "As aristas podem alojar-se em orelhas, olhos, garganta."
+              "Não listado como tóxico.",
+              "Aristas afiadas nas sementes podem causar lesões mecânicas/problemas de ouvido em cães."
             ]
           },
-          "headline": "Animais de estimação Ligeiro",
+          "headline": "Nenhuma toxicidade relatada",
           "human": {
-            "effect": "Nenhum efeito tóxico é relatado.",
+            "effect": "Sem toxicidade significativa.",
             "exposure": "Nenhuma via de exposição é relatada.",
-            "note": "Nenhuma toxicidade é relatada para humanos neste catálogo; isso não é evidência de que a planta seja comestível ou inofensiva."
+            "note": "Nenhuma toxicidade humana é relatada neste catálogo; evite comer plantas ornamentais a menos que seja confirmado que são comestíveis.",
+            "symptoms": [
+              "Sem toxicidade significativa."
+            ]
           },
-          "notes_en": "Não é quimicamente tóxico; as aristas das sementes representam lesão mecânica para animais de estimação que pastam (lesões do tipo foxtail)."
+          "notes_en": "Não listado pela ASPCA. Sementes com aristas podem alojar-se em orelhas e patas de cães — um problema veterinário reconhecido com muitas gramíneas ornamentais."
         },
         "uses_list": [
           {
@@ -84653,7 +84653,7 @@
       }
     },
     "AAA1374": {
-      "source_hash": "75844c27d9f40e072df05a796375ded7e3dc4266ad89502048c6e8c1877e80d2",
+      "source_hash": "01a14302ec73d99f82d9be302eb9e9fe008793259364caf1100e204bf49b4810",
       "fields": {
         "bloom_tip": "Pequenas flores vermelho-alaranjadas em hastes na primavera",
         "common_name": "Estromante",
@@ -84675,22 +84675,30 @@
         "toxicity": {
           "active_compound_display": "Nenhum relatado",
           "cat": {
-            "effect": "Nenhum efeito tóxico é relatado.",
+            "effect": "Não tóxico e família Marantaceae listada como segura pela ASPCA.",
             "exposure": "Nenhuma via de exposição é relatada.",
-            "note": "Listado como não tóxico para gatos; evite comer plantas ornamentais a menos que seja confirmado que são comestíveis."
+            "note": "Nenhuma toxicidade é relatada para gatos neste catálogo; isso não é evidência de que a planta seja comestível ou inofensiva.",
+            "symptoms": [
+              "Não tóxico.",
+              "Família Marantaceae listada como segura pela ASPCA."
+            ]
           },
           "dog": {
-            "effect": "Nenhum efeito tóxico é relatado.",
+            "effect": "Não tóxico e família Marantaceae listada como segura pela ASPCA.",
             "exposure": "Nenhuma via de exposição é relatada.",
-            "note": "Listado como não tóxico para cães; evite comer plantas ornamentais a menos que seja confirmado que são comestíveis."
+            "note": "Nenhuma toxicidade é relatada para cães neste catálogo; isso não é evidência de que a planta seja comestível ou inofensiva.",
+            "symptoms": [
+              "Não tóxico.",
+              "Família Marantaceae listada como segura pela ASPCA."
+            ]
           },
-          "headline": "Animais de Estimação Seguros",
+          "headline": "Nenhuma toxicidade relatada",
           "human": {
             "effect": "Nenhum efeito tóxico é relatado.",
             "exposure": "Nenhuma via de exposição é relatada.",
-            "note": "Nenhuma toxicidade humana é relatada neste catálogo; evite comer plantas ornamentais a menos que seja confirmado que são comestíveis."
+            "note": "Nenhuma toxicidade é relatada para humanos neste catálogo; isso não é evidência de que a planta seja comestível ou inofensiva."
           },
-          "notes_en": "Marantaceae (incluindo Stromanthe) listada pela ASPCA como não tóxica."
+          "notes_en": "Seguro para animais de estimação."
         },
         "uses_list": [
           {
