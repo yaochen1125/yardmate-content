@@ -3,8 +3,8 @@
   "locale": "de",
   "source": {
     "resource": "plants_detail.json",
-    "sha256": "63d96c90dcd50e8d2e6f5110c7c823154c58bb4ff4210ea358c0257c09bc8844",
-    "record_count": 1668
+    "sha256": "1fff082fb478383c97021175380c08b9b40bb55aef1e3b3123923b3bc5c1c7dc",
+    "record_count": 1669
   },
   "records": {
     "AAA0001": {
@@ -102310,6 +102310,63 @@
             "exposure": "Kein Expositionsweg gemeldet.",
             "effect": "Keine toxische Wirkung gemeldet.",
             "note": "Die Toxizität für Katzen ist nicht gut dokumentiert; bis zur Überprüfung Vorsicht walten lassen."
+          }
+        }
+      }
+    },
+    "AAA1670": {
+      "source_hash": "6c940a040cdc5d7144b6853b7531fd9bb04d9542f3f24ebd230e9010c5168db6",
+      "fields": {
+        "common_name": "Gänsefingerkraut",
+        "bloom_tip": "Von leuchtend gelben, fünfblättrigen Blüten, die den Sommer über einzeln auf schlanken Stielen über dem silbrigen Laub erscheinen.",
+        "description": "Das Gänsefingerkraut ist eine niedrige, teppichbildende Staude, die sich über feuchte Wiesen und ausgetretene Wege ausbreitet – mit drahtigen, rötlichen Ausläufern, die an jedem Knoten neu Wurzeln schlagen. Sein Markenzeichen ist das Laub: gefiederte Blätter mit gezähnten Fiederblättchen, oben tiefgrün und unten von einem dichten silbrigen Flaum überzogen, der im Wind silberweiß aufblitzt. Von spätem Frühling bis in den Sommer erheben sich einzelne, fünfblättrige gelbe Blüten auf schlanken Stielen über dem Laub und locken kleine Bienen und Fliegen an. Bemerkenswert widerstandsfähig, verträgt es verdichteten, salzigen oder zeitweise überschwemmten Boden, wo kaum andere Pflanzen Fuß fassen – und ist so an Küstenwegen und beweideten Gemeindeflächen der gemäßigten Nordhalbkugel weit verbreitet.",
+        "history_text_short": "Als echte Nahrungsquelle in den kühleren Regionen der Nordhalbkugel versorgten die stärkehaltigen Wurzeln des Gänsefingerkrauts schottische Pächter durch karge Winter, während der lateinische Name anserina an die Gänse erinnert, die einst sein Laub auf Gemeindeweiden abgrasten. Heute breitet sich dieser robuste, silberblättrige Bodendecker still an Küstenwegen und ausgetretenen Pfaden aus.",
+        "history_text_long": "Lange bevor die Kartoffel die europäischen Tische erreichte, waren die stärkehaltigen Wurzeln des Gänsefingerkrauts ein echtes Grundnahrungsmittel in den kühleren Regionen Europas. In den schottischen Highlands und auf den Hebriden gruben Pächter die schlanken Wurzelstöcke – auf Gälisch brisgein genannt – jeden Herbst aus dem sandigen Machair-Boden und rösteten oder kochten sie als verlässliche Nahrung durch karge Winter. Der Botaniker John Lightfoot hielt 1772 auf einer Schottlandreise fest, dass ein einziger mit Gänsefingerkraut bepflanzter Morgen Land eine Familie ein Jahr lang ernähren könne – eine Aussage, die über Generationen als Zeugnis der stillen Bedeutung der Pflanze für das Überleben in den Highlands weitergegeben wurde, bevor bessere Feldfrüchte verfügbar waren. Der Artname anserina stammt vom lateinischen anser, „Gans“, nach den Gänseschwärmen, die einst ihr Laub und ihre Wurzeln auf Gemeindeweiden und an Flussufern abgrasten – daher englische Volksnamen wie „goose-grass“ und „goose-tansy“. Ihr Nutzen endete nicht auf dem Teller: Reisenden und Pilgern auf langen Wegen soll man ein Blatt des Gänsefingerkrauts in jeden Schuh gesteckt haben, dessen kühlendes, adstringierendes Gewebe wundgelaufene Füße linderte – ein Brauch, der ihr den alten Namen „traveler's ease“ einbrachte. Dieselbe adstringierende Wirkung machte einen einfachen Aufguss aus Blättern und Wurzeln bis ins 20. Jahrhundert zu einem Hausmittel gegen Halsschmerzen und Magenverstimmungen. Die moderne Taxonomie hat die Pflanze inzwischen aus der weitläufigen Gattung Potentilla in ihre eigene kleine Gattung Argentina verschoben, doch an Küstenwegen und beweideten Gemeindeflächen der gemäßigten Nordhalbkugel wächst der silberblättrige Bodendecker noch immer genau dort, wo er es immer getan hat – zertreten, meist unbeachtet, und einst still unentbehrlich.",
+        "name_origin": "Die Gattung Argentina leitet sich vom lateinischen argentum, „Silber“, ab und bezieht sich auf die glänzende Unterseite der Blätter; das Artepitheton anserina kommt von anser, „Gans“, nach den Gänsen, die traditionell auf der Pflanze entlang von Gemeindeweiden und Flussufern grasten.",
+        "symbolism_story": "Die Bedeutung des Gänsefingerkrauts erwächst aus hartem Boden, nicht aus sanfter Sentimentalität. Es wurzelt und breitet sich genau dort aus, wo Füße, Hufe und Gezeiten am härtesten vorbeiziehen, was Widerstandskraft zu seiner deutlichsten Eigenschaft macht. Diese Härte hatte einst einen praktischen Zweck: Für Pächter in den Highlands und Reisende, die ihre Wurzeln gruben oder ihre Blätter in abgetragene Schuhe steckten, war das Gänsefingerkraut stille Nahrung – eine unscheinbare Pflanze, die die Menschen einfach am Leben hielt.",
+        "flower_meaning": "Widerstandskraft",
+        "uses_list": [
+          {
+            "text": "Die stärkehaltigen Wurzeln wurden historisch geröstet, gekocht oder getrocknet als Not- und Reiseproviant in ganz Europa."
+          },
+          {
+            "text": "Adstringierende Blätter und Wurzeln wurden als Hausmittel gegen Halsschmerzen, Mundgeschwüre und Magenverstimmungen aufgebrüht."
+          },
+          {
+            "text": "Die einfachen gelben Blüten bieten kleinen Bienen und Fliegen den Sommer über Nektar und Pollen."
+          },
+          {
+            "text": "Laub und Wurzeln werden gerne von Gänsen und anderem Wassergeflügel entlang von Gemeindeflächen und Flussufern gefressen."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Widerstandskraft",
+            "description": "gedeiht auf zertretenem, verdichtetem und salzbesprühtem Boden, wo kaum etwas anderes überlebt"
+          },
+          {
+            "keyword": "Nahrung",
+            "description": "erinnert an Generationen, die sich auf seine Wurzeln verließen, um karge Winter zu überstehen"
+          }
+        ],
+        "toxicity": {
+          "headline": "Keine Toxizität gemeldet",
+          "active_compound_display": "Keine gemeldet",
+          "notes_en": "Kein autoritativer Toxizitätsnachweis gefunden; als nicht gemeldet eingestuft (LLM-Schätzung ist nicht quellenverifiziert).",
+          "human": {
+            "exposure": "Kein Expositionsweg gemeldet.",
+            "effect": "Keine toxische Wirkung gemeldet.",
+            "note": "Für Menschen ist in diesem Katalog keine Toxizität gemeldet; dies ist kein Beleg dafür, dass die Pflanze essbar oder unbedenklich ist."
+          },
+          "dog": {
+            "exposure": "Kein Expositionsweg gemeldet.",
+            "effect": "Keine toxische Wirkung gemeldet.",
+            "note": "Für Hunde ist in diesem Katalog keine Toxizität gemeldet; dies ist kein Beleg dafür, dass die Pflanze essbar oder unbedenklich ist."
+          },
+          "cat": {
+            "exposure": "Kein Expositionsweg gemeldet.",
+            "effect": "Keine toxische Wirkung gemeldet.",
+            "note": "Für Katzen ist in diesem Katalog keine Toxizität gemeldet; dies ist kein Beleg dafür, dass die Pflanze essbar oder unbedenklich ist."
           }
         }
       }

@@ -3,8 +3,8 @@
   "locale": "fr",
   "source": {
     "resource": "plants_detail.json",
-    "sha256": "63d96c90dcd50e8d2e6f5110c7c823154c58bb4ff4210ea358c0257c09bc8844",
-    "record_count": 1668
+    "sha256": "1fff082fb478383c97021175380c08b9b40bb55aef1e3b3123923b3bc5c1c7dc",
+    "record_count": 1669
   },
   "records": {
     "AAA0001": {
@@ -102310,6 +102310,63 @@
             "exposure": "Aucune voie d'exposition signalée.",
             "effect": "Aucun effet toxique signalé.",
             "note": "La toxicité pour les chats n'est pas bien documentée ; la prudence est recommandée jusqu'à vérification."
+          }
+        }
+      }
+    },
+    "AAA1670": {
+      "source_hash": "6c940a040cdc5d7144b6853b7531fd9bb04d9542f3f24ebd230e9010c5168db6",
+      "fields": {
+        "common_name": "Potentille ansérine",
+        "bloom_tip": "Fleurs jaunes à cinq pétales s'ouvrant une à une sur de fines tiges tout au long de l'été, juste au-dessus du feuillage argenté.",
+        "description": "La Potentille ansérine est une vivace basse et tapissante qui s'étend sur les prairies humides et les chemins piétinés grâce à de fins stolons rougeâtres s'enracinant à chaque nœud. Son trait distinctif est le feuillage : des feuilles pennées et bien ordonnées, aux folioles dentées, vert profond dessus et couvertes dessous d'un duvet argenté dense qui scintille au vent. De la fin du printemps à l'été, des fleurs jaunes solitaires à cinq pétales s'élèvent sur de fines tiges au-dessus des feuilles, attirant petites abeilles et mouches. Remarquablement robuste, elle tolère les sols compactés, salés ou temporairement inondés où peu d'autres plantes s'installent, ce qui la rend courante le long des sentiers côtiers et des communaux pâturés de tout l'hémisphère nord tempéré.",
+        "history_text_short": "Autrefois véritable source de nourriture dans les régions fraîches de l'hémisphère nord, les racines féculentes de la Potentille ansérine ont nourri les métayers écossais durant les hivers difficiles, tandis que son nom latin, anserina, rappelle les oies qui broutaient jadis son feuillage sur les pâturages communaux. Aujourd'hui, ce robuste couvre-sol au feuillage argenté continue de s'étendre discrètement le long des sentiers côtiers et des sols piétinés.",
+        "history_text_long": "Bien avant que la pomme de terre n'arrive sur les tables européennes, les racines féculentes de la Potentille ansérine constituaient un véritable aliment de base dans les régions les plus fraîches d'Europe. Dans les Highlands écossais et les Hébrides, les métayers déterraient chaque automne les fins rhizomes — appelés brisgein en gaélique — du sol sableux du machair, les faisant rôtir ou bouillir comme source fiable de nourriture pendant les hivers difficiles. Le botaniste John Lightfoot, lors d'un voyage en Écosse en 1772, nota qu'un seul acre planté de racines de Potentille ansérine pouvait nourrir une famille pendant un an — une affirmation répétée pendant des générations comme témoignage de l'importance discrète de la plante dans la subsistance des Highlands avant l'arrivée de meilleures cultures. L'épithète de l'espèce, anserina, vient du latin anser, « oie », d'après les volées d'oies qui broutaient son feuillage et ses racines le long des pâturages communaux et des berges de rivières — donnant naissance à des noms populaires anglais comme goose-grass et goose-tansy. Ses usages ne s'arrêtaient pas à la table : voyageurs et pèlerins effectuant de longues marches auraient glissé une feuille de Potentille ansérine dans chaque chaussure, son tissu rafraîchissant et astringent soulageant les pieds meurtris en chemin — une habitude qui lui valut l'ancien nom de « soulagement du voyageur ». La même astringence a fait d'une simple infusion de feuilles et de racines un remède populaire contre les maux de gorge et les troubles digestifs jusqu'au XXe siècle. La taxonomie moderne a depuis déplacé la plante du vaste genre Potentilla vers son propre petit genre, Argentina, mais le long des sentiers côtiers et des communaux pâturés de tout l'hémisphère nord tempéré, ce couvre-sol au feuillage argenté pousse toujours exactement là où il l'a toujours fait — piétiné, la plupart du temps ignoré, et autrefois discrètement essentiel.",
+        "name_origin": "Le genre Argentina vient du latin argentum, « argent », en référence à l'éclat argenté du revers des feuilles ; l'épithète de l'espèce, anserina, vient d'anser, « oie », d'après les oies qui broutaient traditionnellement la plante le long des pâturages communaux et des berges de rivières.",
+        "symbolism_story": "La signification de la Potentille ansérine naît d'un sol dur, non d'une sentimentalité douce. Elle s'enracine et s'étend précisément là où passent le plus durement les pieds, les sabots et les marées, faisant de la Résilience son trait le plus évident. Cette robustesse avait autrefois un usage pratique : pour les métayers des Highlands et les voyageurs qui déterraient ses racines ou glissaient ses feuilles dans des chaussures usées, la Potentille ansérine était une Subsistance discrète, une plante modeste qui permettait simplement de tenir bon.",
+        "flower_meaning": "Résilience",
+        "uses_list": [
+          {
+            "text": "Ses racines féculentes étaient historiquement rôties, bouillies ou séchées comme nourriture de disette et de voyage à travers l'Europe."
+          },
+          {
+            "text": "Ses feuilles et racines astringentes étaient infusées comme remède populaire contre les maux de gorge, les aphtes et les troubles digestifs."
+          },
+          {
+            "text": "Ses simples fleurs jaunes offrent nectar et pollen aux petites abeilles et mouches tout l'été."
+          },
+          {
+            "text": "Son feuillage et ses racines sont volontiers broutés par les oies et autres oiseaux d'eau le long des communaux et des berges de rivières."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Résilience",
+            "description": "prospère sur des sols piétinés, compactés et exposés aux embruns salés où presque rien d'autre ne survit"
+          },
+          {
+            "keyword": "Subsistance",
+            "description": "rappelle des générations qui comptaient sur ses racines pour traverser les hivers difficiles"
+          }
+        ],
+        "toxicity": {
+          "headline": "Aucune toxicité signalée",
+          "active_compound_display": "Aucun signalé",
+          "notes_en": "Aucune correspondance toxicologique faisant autorité n'a été trouvée ; considérée comme non signalée (l'estimation du modèle n'est pas vérifiée par une source).",
+          "human": {
+            "exposure": "Aucune voie d'exposition signalée.",
+            "effect": "Aucun effet toxique signalé.",
+            "note": "Aucune toxicité n'est signalée pour l'humain dans ce catalogue ; cela ne prouve pas que la plante soit comestible ou inoffensive."
+          },
+          "dog": {
+            "exposure": "Aucune voie d'exposition signalée.",
+            "effect": "Aucun effet toxique signalé.",
+            "note": "Aucune toxicité n'est signalée pour le chien dans ce catalogue ; cela ne prouve pas que la plante soit comestible ou inoffensive."
+          },
+          "cat": {
+            "exposure": "Aucune voie d'exposition signalée.",
+            "effect": "Aucun effet toxique signalé.",
+            "note": "Aucune toxicité n'est signalée pour le chat dans ce catalogue ; cela ne prouve pas que la plante soit comestible ou inoffensive."
           }
         }
       }

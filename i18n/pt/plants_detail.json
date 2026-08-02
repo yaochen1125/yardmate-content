@@ -3,8 +3,8 @@
   "locale": "pt",
   "source": {
     "resource": "plants_detail.json",
-    "sha256": "63d96c90dcd50e8d2e6f5110c7c823154c58bb4ff4210ea358c0257c09bc8844",
-    "record_count": 1668
+    "sha256": "1fff082fb478383c97021175380c08b9b40bb55aef1e3b3123923b3bc5c1c7dc",
+    "record_count": 1669
   },
   "records": {
     "AAA0001": {
@@ -102324,6 +102324,63 @@
             "exposure": "Nenhuma via de exposição relatada.",
             "effect": "Nenhum efeito tóxico relatado.",
             "note": "A toxicidade para gatos não está bem documentada; recomenda-se cautela até verificação."
+          }
+        }
+      }
+    },
+    "AAA1670": {
+      "source_hash": "6c940a040cdc5d7144b6853b7531fd9bb04d9542f3f24ebd230e9010c5168db6",
+      "fields": {
+        "common_name": "Argentina-prateada",
+        "bloom_tip": "Flores amarelas de cinco pétalas que se abrem uma a uma em hastes finas durante os meses de verão, logo acima da folhagem prateada.",
+        "description": "A Argentina-prateada é uma perene baixa e tapetante que se espalha por prados úmidos e caminhos pisoteados por meio de estolhos finos e avermelhados que enraízam a cada nó. Sua marca registrada é a folhagem: folhas pinadas e ordenadas, com folíolos serrilhados, verde-escuras por cima e cobertas por baixo com uma densa penugem prateada que reluz ao vento. Do final da primavera ao verão, flores amarelas solitárias de cinco pétalas erguem-se em hastes finas acima das folhas, atraindo pequenas abelhas e moscas. Notavelmente resistente, tolera solos compactados, salinos ou sazonalmente inundados onde poucas outras plantas conseguem se estabelecer, sendo comum ao longo de trilhas costeiras e terrenos comunais pastoreados por todo o hemisfério norte temperado.",
+        "history_text_short": "Outrora uma verdadeira fonte de alimento nas regiões frias do hemisfério norte, as raízes amiláceas da Argentina-prateada sustentaram arrendatários escoceses durante invernos escassos, enquanto seu nome latino, anserina, recorda os gansos que antes pastavam sua folhagem em terras comunais. Hoje, essa resistente cobertura de solo de folhas prateadas ainda se espalha silenciosamente por trilhas costeiras e solos pisoteados.",
+        "history_text_long": "Muito antes de a batata chegar às mesas europeias, as raízes amiláceas da Argentina-prateada eram um alimento básico genuíno nas regiões mais frias da Europa. Nas Terras Altas escocesas e nas Hébridas, arrendatários desenterravam a cada outono os finos rizomas — chamados brisgein em gaélico — do solo arenoso conhecido como machair, assando-os ou fervendo-os como fonte confiável de alimento durante invernos escassos. O botânico John Lightfoot, em viagem pela Escócia em 1772, registrou que um único acre plantado com raízes de Argentina-prateada podia sustentar uma família por um ano, uma afirmação repetida por gerações como testemunho da silenciosa importância da planta para a subsistência nas Terras Altas antes da chegada de melhores lavouras. O epíteto da espécie, anserina, vem do latim anser, «ganso», em referência aos bandos de gansos que pastavam sua folhagem e raízes ao longo de terras comunais e margens de rios — dando origem a nomes populares em inglês como goose-grass e goose-tansy. Seus usos não terminavam à mesa: dizia-se que viajantes e peregrinos em longas caminhadas colocavam uma folha de Argentina-prateada em cada sapato, cujo tecido refrescante e adstringente aliviava os pés machucados pelo caminho — hábito que lhe rendeu o antigo nome de «alívio do viajante». A mesma adstringência tornou uma simples infusão de folhas e raízes um remédio caseiro para dor de garganta e desconforto estomacal até bem entrado o século XX. A taxonomia moderna desde então moveu a planta do amplo gênero Potentilla para seu próprio gênero reduzido, Argentina, mas ao longo de trilhas costeiras e terrenos comunais pastoreados por todo o hemisfério norte temperado, essa cobertura de solo de folhas prateadas ainda cresce exatamente onde sempre cresceu — pisoteada, majoritariamente ignorada, e outrora silenciosamente essencial.",
+        "name_origin": "O gênero Argentina deriva do latim argentum, «prata», em referência ao brilho prateado do verso das folhas; o epíteto da espécie, anserina, vem de anser, «ganso», em referência aos gansos que tradicionalmente pastavam a planta ao longo de terras comunais e margens de rios.",
+        "symbolism_story": "O significado da Argentina-prateada nasce de um solo duro, não de sentimentalismo brando. Ela enraíza e se espalha exatamente onde pés, cascos e marés passam com mais força, fazendo da Resiliência seu traço mais evidente. Essa resistência já teve um propósito prático: para arrendatários das Terras Altas e viajantes que desenterravam suas raízes ou colocavam suas folhas em sapatos gastos, a Argentina-prateada era um Sustento silencioso, uma planta discreta que simplesmente mantinha as pessoas em pé.",
+        "flower_meaning": "Resiliência",
+        "uses_list": [
+          {
+            "text": "Suas raízes amiláceas eram historicamente assadas, fervidas ou secas como alimento de emergência e de viagem por toda a Europa."
+          },
+          {
+            "text": "Folhas e raízes adstringentes eram preparadas em infusão como remédio caseiro para dor de garganta, aftas e desconforto estomacal."
+          },
+          {
+            "text": "Suas flores amarelas simples oferecem néctar e pólen a pequenas abelhas e moscas durante o verão."
+          },
+          {
+            "text": "Folhagem e raízes são prontamente pastadas por gansos e outras aves aquáticas ao longo de terras comunais e margens de rios."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Resiliência",
+            "description": "prospera em solo pisoteado, compactado e exposto ao sal onde quase nada mais sobrevive"
+          },
+          {
+            "keyword": "Sustento",
+            "description": "recorda gerações que dependiam de suas raízes para superar invernos escassos"
+          }
+        ],
+        "toxicity": {
+          "headline": "Nenhuma toxicidade relatada",
+          "active_compound_display": "Nenhum relatado",
+          "notes_en": "Nenhuma correspondência toxicológica confiável encontrada; tratada como não relatada (a estimativa do modelo não é verificada por fontes).",
+          "human": {
+            "exposure": "Nenhuma via de exposição relatada.",
+            "effect": "Nenhum efeito tóxico relatado.",
+            "note": "Nenhuma toxicidade é relatada para humanos neste catálogo; isso não é prova de que a planta seja comestível ou inofensiva."
+          },
+          "dog": {
+            "exposure": "Nenhuma via de exposição relatada.",
+            "effect": "Nenhum efeito tóxico relatado.",
+            "note": "Nenhuma toxicidade é relatada para cães neste catálogo; isso não é prova de que a planta seja comestível ou inofensiva."
+          },
+          "cat": {
+            "exposure": "Nenhuma via de exposição relatada.",
+            "effect": "Nenhum efeito tóxico relatado.",
+            "note": "Nenhuma toxicidade é relatada para gatos neste catálogo; isso não é prova de que a planta seja comestível ou inofensiva."
           }
         }
       }

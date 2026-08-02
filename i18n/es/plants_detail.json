@@ -3,8 +3,8 @@
   "locale": "es",
   "source": {
     "resource": "plants_detail.json",
-    "sha256": "63d96c90dcd50e8d2e6f5110c7c823154c58bb4ff4210ea358c0257c09bc8844",
-    "record_count": 1668
+    "sha256": "1fff082fb478383c97021175380c08b9b40bb55aef1e3b3123923b3bc5c1c7dc",
+    "record_count": 1669
   },
   "records": {
     "AAA0001": {
@@ -102324,6 +102324,63 @@
             "exposure": "No se reporta ninguna vía de exposición.",
             "effect": "No se reporta ningún efecto tóxico.",
             "note": "La toxicidad en gatos no está bien documentada; se recomienda precaución hasta su verificación."
+          }
+        }
+      }
+    },
+    "AAA1670": {
+      "source_hash": "6c940a040cdc5d7144b6853b7531fd9bb04d9542f3f24ebd230e9010c5168db6",
+      "fields": {
+        "common_name": "Argentina plateada",
+        "bloom_tip": "Flores amarillas de cinco pétalos que se abren una a una sobre tallos delgados durante los meses de verano, justo por encima del follaje plateado.",
+        "description": "La Argentina plateada es una perenne baja y tapizante que se extiende por prados húmedos y caminos pisoteados mediante estolones delgados y rojizos que enraízan en cada nudo a su paso. Su rasgo distintivo es el follaje: hojas pinnadas y bien ordenadas, de foliolos dentados, verde intenso por encima y cubiertas por debajo de un denso vello plateado que destella blanco-plateado con el viento. Desde finales de primavera hasta el verano, flores amarillas solitarias de cinco pétalos se alzan sobre tallos delgados por encima de las hojas, atrayendo pequeñas abejas y moscas. Notablemente resistente, tolera suelos compactados, salinos o estacionalmente inundados donde pocas otras plantas logran establecerse, lo que la hace habitual en caminos costeros y terrenos comunales pastoreados de todo el hemisferio norte templado.",
+        "history_text_short": "Antaño una auténtica fuente de alimento en las regiones frías del hemisferio norte, las raíces feculentas de la Argentina plateada sostuvieron a los arrendatarios escoceses durante inviernos escasos, mientras su nombre latino, anserina, recuerda a los gansos que pastaban sus hojas en tierras comunales. Hoy, esta resistente cubierta de suelo de hojas plateadas sigue extendiéndose calladamente por caminos costeros y suelos pisoteados.",
+        "history_text_long": "Mucho antes de que la patata llegara a las mesas europeas, las raíces feculentas de la Argentina plateada eran un alimento básico genuino en las regiones más frías de Europa. En las Tierras Altas escocesas y las Hébridas, los arrendatarios desenterraban cada otoño los delgados rizomas —llamados brisgein en gaélico— del suelo arenoso conocido como machair, asándolos o hirviéndolos como fuente fiable de alimento durante los inviernos escasos. El botánico John Lightfoot, durante un recorrido por Escocia en 1772, anotó que un solo acre plantado con raíces de Argentina plateada podía sostener a una familia durante un año, una afirmación repetida durante generaciones como testimonio de la silenciosa importancia de la planta en la subsistencia de las Tierras Altas antes de la llegada de mejores cultivos. El epíteto de la especie, anserina, proviene del latín anser, «ganso», por las bandadas de gansos que pastaban sus hojas y raíces en pastos comunales y riberas de ríos, dando origen a nombres populares ingleses como goose-grass y goose-tansy. Sus usos no terminaban en la mesa: se decía que viajeros y peregrinos en largas caminatas se metían una hoja de Argentina plateada en cada zapato, cuyo tejido refrescante y astringente aliviaba los pies ampollados en el camino, costumbre que le valió el antiguo nombre de «alivio del viajero». La misma astringencia convirtió una simple infusión de hojas y raíces en un remedio casero para el dolor de garganta y las molestias estomacales hasta bien entrado el siglo XX. La taxonomía moderna ha trasladado la planta del extenso género Potentilla a su propio género reducido, Argentina, pero en caminos costeros y terrenos comunales pastoreados de todo el hemisferio norte templado, esta cubierta de suelo de hojas plateadas sigue creciendo justo donde siempre lo ha hecho: pisoteada, mayormente ignorada, y en su día silenciosamente esencial.",
+        "name_origin": "El género Argentina deriva del latín argentum, «plata», por el brillo plateado del envés de las hojas; el epíteto de la especie, anserina, proviene de anser, «ganso», por los gansos que tradicionalmente pastaban la planta en tierras comunales y riberas de ríos.",
+        "symbolism_story": "El significado de la Argentina plateada nace de un suelo duro, no de un sentimentalismo blando. Enraíza y se extiende justo donde pisan más fuerte los pies, las pezuñas y las mareas, lo que hace de la Resiliencia su rasgo más claro. Esa dureza tuvo antaño un propósito práctico: para los arrendatarios de las Tierras Altas y los viajeros que desenterraban sus raíces o se metían sus hojas en zapatos gastados, la Argentina plateada era un sustento silencioso, una planta poco vistosa que simplemente mantenía a la gente en pie.",
+        "flower_meaning": "Resiliencia",
+        "uses_list": [
+          {
+            "text": "Sus raíces feculentas se asaban, hervían o secaban históricamente como alimento de emergencia y de viaje en toda Europa."
+          },
+          {
+            "text": "Las hojas y raíces astringentes se preparaban en infusión como remedio casero para el dolor de garganta, las llagas bucales y las molestias estomacales."
+          },
+          {
+            "text": "Sus sencillas flores amarillas ofrecen néctar y polen a pequeñas abejas y moscas durante el verano."
+          },
+          {
+            "text": "El follaje y las raíces son pastoreados con frecuencia por gansos y otras aves acuáticas en terrenos comunales y riberas de ríos."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Resiliencia",
+            "description": "prospera en suelos pisoteados, compactados y salpicados de sal donde casi nada más sobrevive"
+          },
+          {
+            "keyword": "Sustento",
+            "description": "recuerda a generaciones que dependieron de sus raíces para superar inviernos escasos"
+          }
+        ],
+        "toxicity": {
+          "headline": "Sin toxicidad reportada",
+          "active_compound_display": "Ninguno reportado",
+          "notes_en": "No se encontró ninguna coincidencia toxicológica autorizada; se trata como no reportada (la estimación del modelo no está verificada por fuentes).",
+          "human": {
+            "exposure": "No se reporta ninguna vía de exposición.",
+            "effect": "No se reporta ningún efecto tóxico.",
+            "note": "No se reporta toxicidad para humanos en este catálogo; esto no es prueba de que la planta sea comestible o inocua."
+          },
+          "dog": {
+            "exposure": "No se reporta ninguna vía de exposición.",
+            "effect": "No se reporta ningún efecto tóxico.",
+            "note": "No se reporta toxicidad para perros en este catálogo; esto no es prueba de que la planta sea comestible o inocua."
+          },
+          "cat": {
+            "exposure": "No se reporta ninguna vía de exposición.",
+            "effect": "No se reporta ningún efecto tóxico.",
+            "note": "No se reporta toxicidad para gatos en este catálogo; esto no es prueba de que la planta sea comestible o inocua."
           }
         }
       }

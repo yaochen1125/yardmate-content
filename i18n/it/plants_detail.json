@@ -3,8 +3,8 @@
   "locale": "it",
   "source": {
     "resource": "plants_detail.json",
-    "sha256": "63d96c90dcd50e8d2e6f5110c7c823154c58bb4ff4210ea358c0257c09bc8844",
-    "record_count": 1668
+    "sha256": "1fff082fb478383c97021175380c08b9b40bb55aef1e3b3123923b3bc5c1c7dc",
+    "record_count": 1669
   },
   "records": {
     "AAA0001": {
@@ -102324,6 +102324,63 @@
             "exposure": "Nessuna via di esposizione segnalata.",
             "effect": "Nessun effetto tossico segnalato.",
             "note": "La tossicità per i gatti non è ben documentata; si raccomanda cautela fino a verifica."
+          }
+        }
+      }
+    },
+    "AAA1670": {
+      "source_hash": "6c940a040cdc5d7144b6853b7531fd9bb04d9542f3f24ebd230e9010c5168db6",
+      "fields": {
+        "common_name": "Argentina comune",
+        "bloom_tip": "Fiori gialli a cinque petali che si aprono singolarmente su steli sottili durante i mesi estivi, appena sopra il fogliame argentato.",
+        "description": "L'Argentina comune è una perenne bassa e tappezzante che si diffonde su prati umidi e sentieri calpestati grazie a stoloni sottili e rossastri che radicano a ogni nodo. Il suo tratto distintivo è il fogliame: foglie pennate e ordinate, con foglioline dentate, verde intenso sopra e coperte sotto da una fitta peluria argentata che scintilla al vento. Dalla tarda primavera all'estate, fiori gialli solitari a cinque petali si innalzano su steli sottili sopra le foglie, attirando piccole api e mosche. Sorprendentemente resistente, tollera terreni compattati, salini o stagionalmente allagati dove poche altre piante riescono ad attecchire, rendendola comune lungo sentieri costieri e terreni comuni pascolati in tutto l'emisfero settentrionale temperato.",
+        "history_text_short": "Un tempo autentica fonte di cibo nelle regioni fresche dell'emisfero settentrionale, le radici amidacee dell'Argentina comune sostenevano i mezzadri scozzesi durante gli inverni magri, mentre il suo nome latino, anserina, ricorda le oche che un tempo pascolavano il suo fogliame sui pascoli comuni. Oggi questa robusta copertura del terreno dalle foglie argentate continua a diffondersi silenziosamente lungo sentieri costieri e terreni calpestati.",
+        "history_text_long": "Molto prima che la patata arrivasse sulle tavole europee, le radici amidacee dell'Argentina comune erano un vero e proprio alimento base nelle regioni più fresche d'Europa. Negli Highlands scozzesi e nelle Ebridi, i mezzadri ogni autunno dissotterravano i sottili rizomi — chiamati brisgein in gaelico — dal suolo sabbioso del machair, arrostendoli o bollendoli come fonte affidabile di cibo durante gli inverni magri. Il botanico John Lightfoot, in viaggio in Scozia nel 1772, annotò che un solo acro piantato con radici di Argentina comune poteva sostenere una famiglia per un anno, un'affermazione ripetuta per generazioni come testimonianza della silenziosa importanza della pianta per la sussistenza negli Highlands prima dell'arrivo di colture migliori. L'epiteto della specie, anserina, deriva dal latino anser, «oca», per gli stormi di oche che pascolavano il suo fogliame e le sue radici lungo pascoli comuni e rive di fiumi — dando origine a nomi popolari inglesi come goose-grass e goose-tansy. I suoi usi non si fermavano alla tavola: si narra che viaggiatori e pellegrini nei lunghi cammini infilassero una foglia di Argentina comune in ogni scarpa, il cui tessuto rinfrescante e astringente alleviava i piedi doloranti lungo la strada — un'abitudine che le valse l'antico nome di «sollievo del viandante». La stessa astringenza rese un semplice infuso di foglie e radici un rimedio casalingo per mal di gola e disturbi di stomaco fino al Novecento. La tassonomia moderna ha da allora spostato la pianta dall'ampio genere Potentilla al proprio piccolo genere, Argentina, ma lungo i sentieri costieri e i terreni comuni pascolati di tutto l'emisfero settentrionale temperato, questa copertura del terreno dalle foglie argentate cresce ancora esattamente dove ha sempre fatto — calpestata, per lo più ignorata, e un tempo silenziosamente essenziale.",
+        "name_origin": "Il genere Argentina deriva dal latino argentum, «argento», per il riflesso argentato della pagina inferiore delle foglie; l'epiteto della specie, anserina, viene da anser, «oca», per le oche che tradizionalmente pascolavano la pianta lungo pascoli comuni e rive di fiumi.",
+        "symbolism_story": "Il significato dell'Argentina comune nasce da un terreno duro, non da un sentimentalismo delicato. Radica e si diffonde proprio dove passano più duramente piedi, zoccoli e maree, rendendo la Resilienza il suo tratto più evidente. Quella durezza aveva un tempo uno scopo pratico: per i mezzadri degli Highlands e i viaggiatori che ne dissotterravano le radici o infilavano le sue foglie in scarpe consumate, l'Argentina comune era un silenzioso Sostentamento, una pianta modesta che semplicemente teneva in piedi le persone.",
+        "flower_meaning": "Resilienza",
+        "uses_list": [
+          {
+            "text": "Le sue radici amidacee venivano storicamente arrostite, bollite o essiccate come cibo di emergenza e da viaggio in tutta Europa."
+          },
+          {
+            "text": "Foglie e radici astringenti venivano infuse come rimedio casalingo per mal di gola, afte e disturbi di stomaco."
+          },
+          {
+            "text": "I semplici fiori gialli offrono nettare e polline a piccole api e mosche durante l'estate."
+          },
+          {
+            "text": "Fogliame e radici vengono volentieri brucati da oche e altri uccelli acquatici lungo terreni comuni e rive di fiumi."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Resilienza",
+            "description": "prospera su terreni calpestati, compattati e spruzzati di sale dove quasi nient'altro sopravvive"
+          },
+          {
+            "keyword": "Sostentamento",
+            "description": "ricorda generazioni che facevano affidamento sulle sue radici per superare inverni magri"
+          }
+        ],
+        "toxicity": {
+          "headline": "Nessuna tossicità segnalata",
+          "active_compound_display": "Nessuno segnalato",
+          "notes_en": "Nessuna corrispondenza tossicologica autorevole trovata; considerata non segnalata (la stima del modello non è verificata da fonti).",
+          "human": {
+            "exposure": "Nessuna via di esposizione segnalata.",
+            "effect": "Nessun effetto tossico segnalato.",
+            "note": "Nessuna tossicità è segnalata per l'uomo in questo catalogo; ciò non prova che la pianta sia commestibile o innocua."
+          },
+          "dog": {
+            "exposure": "Nessuna via di esposizione segnalata.",
+            "effect": "Nessun effetto tossico segnalato.",
+            "note": "Nessuna tossicità è segnalata per il cane in questo catalogo; ciò non prova che la pianta sia commestibile o innocua."
+          },
+          "cat": {
+            "exposure": "Nessuna via di esposizione segnalata.",
+            "effect": "Nessun effetto tossico segnalato.",
+            "note": "Nessuna tossicità è segnalata per il gatto in questo catalogo; ciò non prova che la pianta sia commestibile o innocua."
           }
         }
       }
