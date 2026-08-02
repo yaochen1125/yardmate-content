@@ -3,8 +3,8 @@
   "locale": "it",
   "source": {
     "resource": "plants_detail.json",
-    "sha256": "1fff082fb478383c97021175380c08b9b40bb55aef1e3b3123923b3bc5c1c7dc",
-    "record_count": 1669
+    "sha256": "d074bdd6a5ac776aad010277fab5af921502c2464e673ce2dfae82cf33b85889",
+    "record_count": 1672
   },
   "records": {
     "AAA0001": {
@@ -102381,6 +102381,159 @@
             "exposure": "Nessuna via di esposizione segnalata.",
             "effect": "Nessun effetto tossico segnalato.",
             "note": "Nessuna tossicità è segnalata per il gatto in questo catalogo; ciò non prova che la pianta sia commestibile o innocua."
+          }
+        }
+      }
+    },
+    "AAA1671": {
+      "source_hash": "e58370a98de723cb8980068905ccb49c3431296dc0b52e3afcb1f875fc81b1c7",
+      "fields": {
+        "common_name": "Coleus",
+        "bloom_tip": "I suoi fiori sbocciano in estate, attirando numerosi impollinatori.",
+        "description": "Il Coleus è un'erba bassa e strisciante originaria dell'Australia orientale e delle isole del Pacifico, che si diffonde lungo i margini della foresta pluviale e gli affioramenti rocciosi come resistente tappezzante. Le sue foglie morbide e leggermente aromatiche formano un portamento prostrato largo appena trenta-sessanta centimetri, ugualmente adatto a ricadere sui bordi delle aiuole o a colmare gli spazi tra le pietre di un vialetto. Dall'inizio dell'estate fino all'autunno produce spighe rade di piccoli fiori blu e bianchi che gli impollinatori visitano con entusiasmo. Tollerante al caldo, alla mezz'ombra e a una certa trascuratezza, ripaga cure minime con una copertura ordinata e costante, anno dopo anno.",
+        "history_text_short": "Lungo il fiume Robertson, nel Queensland settentrionale, i guaritori aborigeni un tempo pestavano le foglie del Coleus per preparare lavande e cataplasmi contro le piaghe cutanee. Nel 1802 Robert Brown descrisse formalmente la specie durante la circumnavigazione dell'Australia guidata da Flinders. Da allora, questa pianta rustica e strisciante è diventata una tappezzante prediletta nelle isole del Pacifico e alle Hawaii.",
+        "history_text_long": "Molto prima dell'arrivo dei botanici europei, la pianta oggi nota come Coleus tappezzava i margini della foresta pluviale e i pendii rocciosi dell'Australia orientale, dove le comunità aborigene lungo il fiume Robertson, nel Queensland settentrionale, la utilizzavano come rimedio. I guaritori pestavano le foglie tenere in una lavanda infusa, oppure le applicavano direttamente sulla pelle come cataplasma, per curare piaghe e disturbi cutanei: un sapere tramandato per generazioni attraverso l'attenta osservazione della flora locale.\n\nNel 1802 la pianta attirò l'attenzione di Robert Brown, il botanico scozzese che navigava con Matthew Flinders a bordo della HMS Investigator nella prima circumnavigazione completa dell'Australia. Brown descrisse formalmente la specie, aggiungendola al crescente catalogo della flora australiana spedito agli erbari d'Europa. Il suo portamento basso e diffuso, unito alla sua natura poco esigente, la resero presto apprezzata anche lontano da casa: i giardinieri delle isole del Pacifico e delle Hawaii la adottarono come tappezzante, ed essa si naturalizzò silenziosamente nella regione. Ancora oggi il Coleus svolge lo stesso ruolo modesto e affidabile di sempre: ricopre il terreno nudo, nutre gli impollinatori e non chiede quasi nulla in cambio.",
+        "name_origin": "Il nome del genere Coleus deriva dal greco koleos, 'guaina', che descrive come gli stami del fiore si fondano in un tubo simile a una guaina; l'epiteto australis è latino per 'meridionale', a indicare la sua origine nel sud e nell'est dell'Australia.",
+        "symbolism_story": "Lontano dai fiori vistosi celebrati dal linguaggio floreale classico, il Coleus ha guadagnato il suo significato attraverso la cura pratica piuttosto che il romanticismo. Generazioni di uso come rimedio popolare lungo i fiumi del nord dell'Australia gli hanno conferito una fama silenziosa di guarigione senza clamore: una pianta che cura le ferite e ricopre il suolo allo stesso modo, senza chiedere quasi nulla in cambio.",
+        "flower_meaning": "Guarigione Silenziosa",
+        "fragrance": {
+          "notes": "Le foglie sprigionano un lieve profumo erbaceo se stropicciate o schiacciate."
+        },
+        "uses_list": [
+          {
+            "text": "Coltivato come tappezzante basso e diffuso e come bordura nei giardini caldi."
+          },
+          {
+            "text": "I suoi piccoli fiori estivi attirano api e altri impollinatori."
+          },
+          {
+            "text": "Tradizionalmente usato dagli aborigeni australiani come lavanda o cataplasma per le piaghe cutanee."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Guarigione Silenziosa",
+            "description": "Radicato nella sua storia di rimedio tradizionale per le ferite lungo i fiumi del Queensland, il Coleus è giunto a simboleggiare una cura modesta e discreta: una guarigione che chiede poco e dà con costanza."
+          }
+        ],
+        "toxicity": {
+          "headline": "Tossicità sconosciuta",
+          "active_compound_display": "Nessuno segnalato",
+          "notes_en": "Non è stata trovata alcuna fonte autorevole sulla tossicità; pertanto è considerata non segnalata (la stima dell'IA non è verificata da fonti).",
+          "human": {
+            "exposure": "Nessuna via di esposizione segnalata.",
+            "effect": "Nessun effetto tossico segnalato.",
+            "note": "La tossicità per l'uomo non è ben documentata; si consiglia cautela fino a verifica."
+          },
+          "dog": {
+            "exposure": "Nessuna via di esposizione segnalata.",
+            "effect": "Nessun effetto tossico segnalato.",
+            "note": "La tossicità per i cani non è ben documentata; si consiglia cautela fino a verifica."
+          },
+          "cat": {
+            "exposure": "Nessuna via di esposizione segnalata.",
+            "effect": "Nessun effetto tossico segnalato.",
+            "note": "La tossicità per i gatti non è ben documentata; si consiglia cautela fino a verifica."
+          }
+        }
+      }
+    },
+    "AAA1672": {
+      "source_hash": "bf81a6a9c2564baeb65a6af63e6fb7f93147f9f385b76a246e2ee9404d462118",
+      "fields": {
+        "common_name": "Pietra Vivente",
+        "bloom_tip": "I suoi fiori sbocciano in agosto, spettacolari e unici.",
+        "description": "La Pietra Vivente è una piccola succulenta senza fusto originaria delle pianure sassose della Namibia, dove la sua coppia di foglie carnose e fuse cresce a filo del terreno, screziata e colorata per confondersi con il pietrisco di quarzo e dolomite circostante. Raramente più alta di due o tre centimetri, resta quasi immobile per gran parte dell'anno, attingendo all'umidità immagazzinata durante siccità che farebbero appassire piante comuni. A fine estate, un unico fiore giallo simile a una margherita emerge dalla stretta fessura tra le foglie, aprendosi solo alla luce intensa del sole. Coltivata in terriccio sabbioso a drenaggio rapido e annaffiata con parsimonia, ricompensa i collezionisti pazienti con una crescita lenta e silenziosa.",
+        "history_text_short": "Nel 1811 l'esploratore William Burchell raccolse quello che credeva un semplice sasso su una pianura sudafricana, scoprendo invece che era vivo — dando origine alla scoperta del genere delle pietre viventi, Lithops. Questa specie fu poi raccolta presso Windhoek dal botanico Kurt Dinter, descritta formalmente nel 1908 e collocata nel genere Lithops nel 1922.",
+        "history_text_long": "Molto prima che i botanici comprendessero cosa avessero davanti, i viaggiatori delle pianure sassose dell'Africa australe raccoglievano talvolta ciò che sembrava un semplice sasso, scoprendo che era vivo. L'esploratore inglese William Burchell registrò il primo incontro di questo tipo nel 1811, descrivendo una pianta così perfettamente colorata e sagomata come le pietre circostanti da sembrare svanire nel terreno — la scoperta che avrebbe infine dato il nome all'intero genere, Lithops, dal greco per 'volto di pietra'.\n\nQuesta particolare pietra vivente, oggi nota come Pietra Vivente, attirò l'attenzione scientifica quasi un secolo dopo. Il botanico tedesco Kurt Dinter, che trascorse decenni a catalogare la flora di quella che allora era l'Africa Sud-Occidentale Tedesca, raccolse esemplari sugli altopiani sassosi vicino a Windhoek. Nel 1908 Alwin Berger descrisse formalmente la pianta, chiamandola pseudotruncatella — 'falsamente troncata' — per distinguere le sue cime fogliari arrotondate e lievemente bombate dalla forma più piatta, come tagliata, della sua stretta parente Lithops truncata. La specie fu poi collocata nel genere Lithops quando il botanico N. E. Brown lo istituì nel 1922.\n\nOggi, giardinieri lontani dall'altopiano di Khomas coltivano la Pietra Vivente su davanzali soleggiati e in vassoi da collezione, attratti dallo stesso trucco del mimetismo che un tempo la nascondeva ad animali al pascolo e viaggiatori curiosi.",
+        "name_origin": "Il nome del genere Lithops deriva dal greco lithos ('pietra') e ops ('volto' o 'aspetto'), descrivendo come queste piante imitino i sassi. L'epiteto pseudotruncatella significa 'falsamente troncata', distinguendo le sue cime fogliari dolcemente arrotondate dalla forma più piatta e tagliata della stretta parente Lithops truncata.",
+        "symbolism_story": "A differenza dei fiori coltivati per lo sfarzo, la Pietra Vivente sopravvive scomparendo — le sue foglie screziate color pietra si confondono così completamente con ghiaia e quarzo che animali al pascolo e osservatori casuali la ignorano allo stesso modo. Questo istinto di autoconservazione discreta ne ha fatto, tra i collezionisti di succulente, un simbolo di resilienza raggiunta con pazienza e sobrietà anziché con l'ostentazione.",
+        "flower_meaning": "Resistenza Silenziosa",
+        "fragrance": {
+          "notes": "I suoi fiori di fine estate emanano un lieve profumo di miele."
+        },
+        "uses_list": [
+          {
+            "text": "Coltivata come succulenta da collezione su davanzali soleggiati e in vassoi da esposizione."
+          },
+          {
+            "text": "I suoi fiori di fine estate attirano api e altri insetti impollinatori."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Resistenza Silenziosa",
+            "description": "Essendosi evoluta per svanire nella pietra nuda anziché farsi notare, la Pietra Vivente è giunta a rappresentare la resistenza silenziosa — prospera inosservata attraverso estremi di caldo e siccità che avrebbero la meglio su piante più appariscenti."
+          }
+        ],
+        "toxicity": {
+          "headline": "Sicura per gli animali domestici",
+          "active_compound_display": "Nessuno segnalato",
+          "notes_en": "Non è stata trovata alcuna fonte autorevole sulla tossicità; pertanto è considerata non segnalata (la stima dell'IA non è verificata da fonti).",
+          "human": {
+            "exposure": "Nessuna via di esposizione segnalata.",
+            "effect": "Nessun effetto tossico segnalato.",
+            "note": "Nessuna tossicità è segnalata per l'uomo in questo catalogo; ciò non dimostra che la pianta sia commestibile o innocua."
+          },
+          "dog": {
+            "exposure": "Nessuna via di esposizione segnalata.",
+            "effect": "Nessun effetto tossico segnalato.",
+            "note": "Fonti autorevoli segnalano che questa pianta non è tossica per i cani; ciò non dimostra che sia commestibile."
+          },
+          "cat": {
+            "exposure": "Nessuna via di esposizione segnalata.",
+            "effect": "Nessun effetto tossico segnalato.",
+            "note": "Fonti autorevoli segnalano che questa pianta non è tossica per i gatti; ciò non dimostra che sia commestibile."
+          }
+        }
+      }
+    },
+    "AAA1673": {
+      "source_hash": "a8aed6fcfbf5d9ed5c9400b64c716a0a3ce163588108b3bbb6575ba1ec11fe7a",
+      "fields": {
+        "common_name": "Granito Vivente",
+        "bloom_tip": "Questa pianta fiorisce in primavera, con fiori vivaci e attraenti.",
+        "description": "Il Granito Vivente è una succulenta compatta e senza fusto originaria del Karoo sudafricano, dove la sua coppia di foglie emisferiche cresce semisepolta nella ghiaia vicino ai monti Swartberg, screziata per confondersi così bene con il granito circostante che una pianta a riposo è quasi impossibile da individuare. Ogni anno si rinnova dall'interno: una nuova coppia di foglie emerge dalla fessura tra quelle vecchie, attingendo alla loro umidità immagazzinata finché la vecchia coppia non appassisce del tutto. In autunno, un unico fiore simile a una margherita, giallo o arancio ramato, si apre solo al sole pomeridiano, emanando un sorprendente profumo di cocco prima di richiudersi al crepuscolo. Coltivato in terriccio sabbioso a drenaggio rapido e annaffiato con parsimonia, prospera con l'incuria e ricompensa i coltivatori pazienti con una presenza silenziosa e pietrosa.",
+        "history_text_short": "Nel 1930, il tassonomo tedesco Gustav Schwantes chiamò questa succulenta del Karoo nelii in onore di Gert Cornelius Nel, botanico di Stellenbosch che studiava le piante mimetiche di pietra della regione. La sua somiglianza con il granito fratturato è così convincente che persino i collezionisti a volte la scambiano per una pietra, finché il suo unico fiore profumato di cocco non si apre al sole pomeridiano.",
+        "history_text_long": "All'inizio del Novecento, il Karoo sudafricano, ricco di succulente, offriva ancora nuove scoperte ai botanici disposti a chinarsi e osservare da vicino ciò che sembrava semplice ghiaia. Tra loro c'era Gert Cornelius Nel, professore di botanica all'Università di Stellenbosch, che trascorse anni a studiare le piante mimetiche di pietra della regione e in seguito avrebbe scritto la prima monografia completa sul genere affine Lithops. Il lavoro sul campo e gli esemplari di Nel, raccolti nella vegetazione rada su entrambi i lati dei monti Swartberg, attirarono l'attenzione di Gustav Schwantes, tassonomo tedesco specializzato nella classificazione a distanza delle succulente mimetiche sudafricane, in corrispondenza con collezionisti e nella descrizione di nuove specie a partire da materiale pressato e vivo inviatogli in Europa.\n\nNel 1930, Schwantes descrisse formalmente questa piccola succulenta a due foglie come nuova specie, chiamandola nelii, in onore del contributo di Nel allo studio delle pietre viventi della regione. A differenza delle sue parenti più lisce, questa specie si distingueva per la sua somiglianza sorprendentemente convincente con un pezzo di granito fratturato, completo di una fessura poco profonda che ne attraversa il centro e di una spolverata di macchie scure su ciascuna metà — un mimetismo così efficace che anche collezionisti esperti dovevano talvolta guardare due volte per essere certi di non aver semplicemente raccolto un sasso.\n\nOggi, coltivatori di tutto il mondo la conoscono con un nome che non necessita di traduzione: Granito Vivente. Ogni autunno compie ancora lo stesso trucco silenzioso che un tempo catturò l'attenzione di Nel — producendo un unico fiore profumato di cocco al sole pomeridiano, mentre le sue vecchie foglie appassiscono fino a scomparire e una nuova coppia identica ne prende il posto.",
+        "name_origin": "Il nome del genere Pleiospilos unisce il greco pleios ('molti' o 'pieno') e spilos ('macchia'), descrivendo la fitta screziatura sulla superficie delle foglie. L'epiteto nelii onora Gert Cornelius Nel, il botanico sudafricano che scrisse la prima monografia sul genere affine Lithops.",
+        "symbolism_story": "Laddove altre piante perdono le foglie verso l'esterno, il Granito Vivente si rinnova dall'interno, attingendo a ogni riserva delle foglie dell'anno precedente finché non rimane altro che una nuova coppia identica di pietre. Questo ciclo privato e autonomo — ripetuto anno dopo anno sotto un discreto travestimento di pietra — ne ha fatto un silenzioso simbolo di rinnovamento raggiunto senza sfarzo né spreco.",
+        "flower_meaning": "Rinnovamento Silenzioso",
+        "fragrance": {
+          "notes": "Il suo unico fiore pomeridiano emana un profumo dolce e caratteristico di cocco."
+        },
+        "uses_list": [
+          {
+            "text": "Coltivato come succulenta da collezione, apprezzata per la sua sorprendente somiglianza con il granito spaccato."
+          },
+          {
+            "text": "I suoi fiori pomeridiani profumati di cocco attirano api e altri insetti impollinatori."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Rinnovamento Silenzioso",
+            "description": "Ogni anno il Granito Vivente consuma le proprie foglie per alimentare la crescita della coppia successiva, un atto privato di trasformazione nascosto sotto il suo travestimento di pietra — il che ne ha fatto, tra i collezionisti di succulente, un emblema di rinnovamento silenzioso e resilienza autosufficiente."
+          }
+        ],
+        "toxicity": {
+          "headline": "Nessuna tossicità segnalata",
+          "active_compound_display": "Nessuno segnalato",
+          "notes_en": "Non è stata trovata alcuna fonte autorevole sulla tossicità; pertanto è considerata non segnalata (la stima dell'IA non è verificata da fonti).",
+          "human": {
+            "exposure": "Nessuna via di esposizione segnalata.",
+            "effect": "Nessun effetto tossico segnalato.",
+            "note": "Nessuna tossicità è segnalata per l'uomo in questo catalogo; ciò non dimostra che la pianta sia commestibile o innocua."
+          },
+          "dog": {
+            "exposure": "Nessuna via di esposizione segnalata.",
+            "effect": "Nessun effetto tossico segnalato.",
+            "note": "Nessuna tossicità è segnalata per i cani in questo catalogo; ciò non dimostra che la pianta sia commestibile o innocua."
+          },
+          "cat": {
+            "exposure": "Nessuna via di esposizione segnalata.",
+            "effect": "Nessun effetto tossico segnalato.",
+            "note": "Nessuna tossicità è segnalata per i gatti in questo catalogo; ciò non dimostra che la pianta sia commestibile o innocua."
           }
         }
       }

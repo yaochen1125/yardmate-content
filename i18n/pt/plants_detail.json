@@ -3,8 +3,8 @@
   "locale": "pt",
   "source": {
     "resource": "plants_detail.json",
-    "sha256": "1fff082fb478383c97021175380c08b9b40bb55aef1e3b3123923b3bc5c1c7dc",
-    "record_count": 1669
+    "sha256": "d074bdd6a5ac776aad010277fab5af921502c2464e673ce2dfae82cf33b85889",
+    "record_count": 1672
   },
   "records": {
     "AAA0001": {
@@ -102381,6 +102381,159 @@
             "exposure": "Nenhuma via de exposição relatada.",
             "effect": "Nenhum efeito tóxico relatado.",
             "note": "Nenhuma toxicidade é relatada para gatos neste catálogo; isso não é prova de que a planta seja comestível ou inofensiva."
+          }
+        }
+      }
+    },
+    "AAA1671": {
+      "source_hash": "e58370a98de723cb8980068905ccb49c3431296dc0b52e3afcb1f875fc81b1c7",
+      "fields": {
+        "common_name": "Coleus",
+        "bloom_tip": "Suas flores desabrocham no verão, atraindo muitos polinizadores.",
+        "description": "O Coleus é uma erva baixa e rasteira nativa do leste da Austrália e das ilhas do Pacífico, que se espalha pelas margens da floresta tropical e afloramentos rochosos como uma resistente cobertura de solo. Suas folhas macias e levemente aromáticas formam um hábito prostrado com apenas trinta a sessenta centímetros de largura, tão à vontade caindo sobre as bordas do jardim quanto preenchendo espaços entre pedras de caminho. Do início do verão ao outono, produz espigas soltas de pequenas flores azuis e brancas visitadas com entusiasmo pelos polinizadores. Tolerante ao calor, à meia-sombra e a certo descuido, recompensa cuidados mínimos com uma cobertura constante e bem cuidada, ano após ano.",
+        "history_text_short": "Ao longo do rio Robertson, no norte de Queensland, curandeiros aborígenes costumavam triturar as folhas do Coleus para preparar loções e cataplasmas contra feridas na pele. Em 1802, Robert Brown descreveu formalmente a espécie durante a circum-navegação da Austrália liderada por Flinders. Desde então, essa planta resistente e rasteira tornou-se uma cobertura de solo favorita nas ilhas do Pacífico e no Havaí.",
+        "history_text_long": "Muito antes da chegada dos botânicos europeus, a planta hoje conhecida como Coleus cobria as margens da floresta tropical e as encostas rochosas do leste da Austrália, onde comunidades aborígenes ao longo do rio Robertson, no norte de Queensland, a utilizavam como remédio. Os curandeiros trituravam as folhas macias em uma loção infusionada, ou as aplicavam diretamente sobre a pele como cataplasma, para tratar feridas e afecções cutâneas — um conhecimento transmitido por gerações de observação cuidadosa da flora local.\n\nEm 1802, a planta chamou a atenção de Robert Brown, o botânico escocês que navegava ao lado de Matthew Flinders a bordo do HMS Investigator na primeira circum-navegação completa da Austrália. Brown descreveu formalmente a espécie, somando-a ao crescente catálogo da flora australiana enviado aos herbários da Europa. Seu porte baixo e espalhado, aliado à sua natureza pouco exigente, logo a tornaram popular longe de casa: jardineiros das ilhas do Pacífico e do Havaí a adotaram como cobertura de solo, e ela se naturalizou discretamente na região. Ainda hoje, o Coleus cumpre o mesmo papel modesto e confiável de sempre — cobrindo o solo nu, alimentando polinizadores e quase nada pedindo em troca.",
+        "name_origin": "O nome do gênero Coleus vem do grego koleos, 'bainha', descrevendo como os estames da flor se fundem em um tubo em forma de bainha; o epíteto australis é latim para 'do sul', referindo-se à sua origem no sul e leste da Austrália.",
+        "symbolism_story": "Longe das flores vistosas celebradas pela linguagem floral clássica, o Coleus conquistou seu significado por meio do cuidado prático, não do romantismo. Gerações de uso como remédio popular ao longo dos rios do norte da Austrália lhe renderam uma fama discreta de cura sem alarde — uma planta que trata feridas e cobre o solo igualmente, quase sem pedir nada em troca.",
+        "flower_meaning": "Cura Silenciosa",
+        "fragrance": {
+          "notes": "As folhas exalam um leve aroma herbáceo quando amassadas ou esmagadas."
+        },
+        "uses_list": [
+          {
+            "text": "Cultivado como cobertura de solo baixa e espalhada, e como bordadura em jardins quentes."
+          },
+          {
+            "text": "Suas pequenas flores de verão atraem abelhas e outros polinizadores."
+          },
+          {
+            "text": "Tradicionalmente usado por aborígenes australianos como loção ou cataplasma para feridas na pele."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Cura Silenciosa",
+            "description": "Enraizado em sua história como remédio tradicional para feridas ao longo dos rios de Queensland, o Coleus passou a simbolizar um cuidado modesto e discreto — uma cura que pede pouco e dá constantemente."
+          }
+        ],
+        "toxicity": {
+          "headline": "Toxicidade desconhecida",
+          "active_compound_display": "Nenhum relatado",
+          "notes_en": "Nenhuma fonte confiável sobre toxicidade foi encontrada; portanto, é tratada como não relatada (a estimativa da IA não foi verificada por fontes).",
+          "human": {
+            "exposure": "Nenhuma via de exposição relatada.",
+            "effect": "Nenhum efeito tóxico relatado.",
+            "note": "A toxicidade para humanos não está bem documentada; recomenda-se cautela até a confirmação."
+          },
+          "dog": {
+            "exposure": "Nenhuma via de exposição relatada.",
+            "effect": "Nenhum efeito tóxico relatado.",
+            "note": "A toxicidade para cães não está bem documentada; recomenda-se cautela até a confirmação."
+          },
+          "cat": {
+            "exposure": "Nenhuma via de exposição relatada.",
+            "effect": "Nenhum efeito tóxico relatado.",
+            "note": "A toxicidade para gatos não está bem documentada; recomenda-se cautela até a confirmação."
+          }
+        }
+      }
+    },
+    "AAA1672": {
+      "source_hash": "bf81a6a9c2564baeb65a6af63e6fb7f93147f9f385b76a246e2ee9404d462118",
+      "fields": {
+        "common_name": "Pedra Viva",
+        "bloom_tip": "Suas flores desabrocham em agosto, espetaculares e únicas.",
+        "description": "A Pedra Viva é uma pequena suculenta sem caule nativa das planícies pedregosas da Namíbia, onde seu par de folhas carnudas e fundidas cresce rente ao solo, mosqueado e colorido para se confundir com o cascalho de quartzo e dolomita ao redor. Raramente ultrapassando dois ou três centímetros, ela permanece quase imóvel durante a maior parte do ano, recorrendo à umidade armazenada em secas que murchariam plantas comuns. No fim do verão, uma única flor amarela semelhante a uma margarida emerge da estreita fenda entre suas folhas, abrindo-se apenas sob sol forte. Cultivada em solo arenoso de drenagem rápida e regada com moderação, recompensa colecionadores pacientes com um crescimento lento e silencioso.",
+        "history_text_short": "Em 1811, o explorador William Burchell pegou o que julgava ser uma simples pedrinha em uma planície sul-africana, apenas para descobrir que estava viva — o que levou à descoberta do gênero das pedras vivas, Lithops. Essa espécie foi mais tarde coletada perto de Windhoek pelo botânico Kurt Dinter, descrita formalmente em 1908 e situada no gênero Lithops em 1922.",
+        "history_text_long": "Muito antes de os botânicos entenderem o que tinham diante de si, viajantes pelas planícies pedregosas da África Austral às vezes pegavam o que parecia uma pedrinha comum, apenas para descobrir que estava viva. O explorador inglês William Burchell registrou o primeiro encontro desse tipo em 1811, descrevendo uma planta tão perfeitamente colorida e moldada quanto as pedras ao redor que parecia desaparecer no solo — a descoberta que acabaria por dar nome a todo o gênero, Lithops, do grego para 'rosto de pedra'.\n\nEssa pedra viva em particular, hoje conhecida como Pedra Viva, chamou a atenção científica quase um século depois. O botânico alemão Kurt Dinter, que passou décadas catalogando a flora do que então era o Sudoeste Africano Alemão, coletou espécimes nas altas planícies pedregosas perto de Windhoek. Em 1908, Alwin Berger descreveu formalmente a planta, batizando-a de pseudotruncatella — 'falsamente truncada' — para distinguir seus topos foliares arredondados e levemente abaulados da forma mais achatada, como cortada, de sua parente próxima Lithops truncata. A espécie foi mais tarde situada no gênero Lithops quando o botânico N. E. Brown o estabeleceu em 1922.\n\nHoje, jardineiros longe do planalto de Khomas cultivam a Pedra Viva em parapeitos ensolarados e bandejas de colecionador, atraídos pelo mesmo truque de camuflagem que antes a escondia de animais em pastagem e viajantes curiosos.",
+        "name_origin": "O nome do gênero Lithops vem do grego lithos ('pedra') e ops ('rosto' ou 'aparência'), descrevendo como essas plantas imitam pedregulhos. O epíteto pseudotruncatella significa 'falsamente truncada', distinguindo seus topos foliares suavemente arredondados da forma mais achatada e cortada de sua parente próxima, Lithops truncata.",
+        "symbolism_story": "Diferente das flores cultivadas para o espetáculo, a Pedra Viva sobrevive desaparecendo — suas folhas mosqueadas, cor de pedra, se confundem tão completamente com o cascalho e o quartzo que tanto animais em pastagem quanto observadores casuais passam por ela despercebidos. Esse instinto de autopreservação discreta a transformou, entre colecionadores de suculentas, em um símbolo de resiliência alcançada pela paciência e pela contenção, não pelo espetáculo.",
+        "flower_meaning": "Resistência Silenciosa",
+        "fragrance": {
+          "notes": "Suas flores de fim de verão exalam um leve aroma de mel."
+        },
+        "uses_list": [
+          {
+            "text": "Cultivada como suculenta de coleção em parapeitos ensolarados e bandejas de exibição."
+          },
+          {
+            "text": "Suas flores de fim de verão atraem abelhas e outros insetos polinizadores."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Resistência Silenciosa",
+            "description": "Tendo evoluído para desaparecer na pedra nua em vez de se destacar, a Pedra Viva passou a representar a resistência silenciosa — prosperando despercebida em extremos de calor e seca que derrotariam plantas mais vistosas."
+          }
+        ],
+        "toxicity": {
+          "headline": "Seguro para animais de estimação",
+          "active_compound_display": "Nenhum relatado",
+          "notes_en": "Nenhuma fonte confiável sobre toxicidade foi encontrada; portanto, é tratada como não relatada (a estimativa da IA não foi verificada por fontes).",
+          "human": {
+            "exposure": "Nenhuma via de exposição relatada.",
+            "effect": "Nenhum efeito tóxico relatado.",
+            "note": "Nenhuma toxicidade é relatada para humanos neste catálogo; isso não é evidência de que a planta seja comestível ou inofensiva."
+          },
+          "dog": {
+            "exposure": "Nenhuma via de exposição relatada.",
+            "effect": "Nenhum efeito tóxico relatado.",
+            "note": "Fontes confiáveis relatam que esta planta não é tóxica para cães; isso não é evidência de que seja comestível."
+          },
+          "cat": {
+            "exposure": "Nenhuma via de exposição relatada.",
+            "effect": "Nenhum efeito tóxico relatado.",
+            "note": "Fontes confiáveis relatam que esta planta não é tóxica para gatos; isso não é evidência de que seja comestível."
+          }
+        }
+      }
+    },
+    "AAA1673": {
+      "source_hash": "a8aed6fcfbf5d9ed5c9400b64c716a0a3ce163588108b3bbb6575ba1ec11fe7a",
+      "fields": {
+        "common_name": "Granito Vivo",
+        "bloom_tip": "Esta planta floresce na primavera, com flores vibrantes e atraentes.",
+        "description": "O Granito Vivo é uma suculenta compacta e sem caule nativa do Karoo sul-africano, onde seu par de folhas hemisféricas cresce meio enterrado no cascalho perto das montanhas Swartberg, mosqueado para se confundir tão bem com o granito ao redor que uma planta em repouso é quase impossível de detectar. A cada ano ela se renova por dentro: um novo par de folhas emerge da fenda entre as antigas, alimentando-se da umidade armazenada nelas até que o par antigo murche por completo. No outono, uma única flor amarela ou laranja acobreada, semelhante a uma margarida, abre-se apenas sob o sol da tarde, exalando um surpreendente aroma de coco antes de se fechar ao entardecer. Cultivada em solo arenoso de drenagem rápida e regada com moderação, ela prospera com o descuido e recompensa cultivadores pacientes com uma presença silenciosa e pétrea.",
+        "history_text_short": "Em 1930, o taxonomista alemão Gustav Schwantes batizou essa suculenta do Karoo de nelii em homenagem a Gert Cornelius Nel, botânico de Stellenbosch que estudava as plantas miméticas de pedra da região. Sua semelhança com granito fraturado é tão convincente que até colecionadores às vezes a confundem com uma pedra — até que sua única flor com aroma de coco se abra ao sol da tarde.",
+        "history_text_long": "No início do século XX, o Karoo sul-africano, rico em suculentas, ainda revelava novas descobertas a botânicos dispostos a se abaixar e observar de perto o que parecia cascalho comum. Entre eles estava Gert Cornelius Nel, professor de botânica na Universidade de Stellenbosch, que passou anos estudando as plantas miméticas de pedra da região e mais tarde escreveria a primeira monografia completa sobre o gênero aparentado Lithops. O trabalho de campo e os espécimes de Nel, coletados na vegetação esparsa de ambos os lados das montanhas Swartberg, chamaram a atenção de Gustav Schwantes, taxonomista alemão especializado em classificar à distância as suculentas miméticas da África do Sul, correspondendo-se com colecionadores e descrevendo novas espécies a partir de material prensado e vivo enviado a ele na Europa.\n\nEm 1930, Schwantes descreveu formalmente essa pequena suculenta de duas folhas como uma nova espécie e a batizou de nelii, em homenagem à contribuição de Nel ao estudo das pedras vivas da região. Diferente de suas parentes mais lisas, essa espécie se destacava por sua semelhança surpreendentemente convincente com um pedaço de granito fraturado, com uma fenda rasa percorrendo seu centro e um polvilhado de manchas escuras em cada metade — uma camuflagem tão eficaz que até colecionadores experientes às vezes precisavam olhar duas vezes para se certificar de que não tinham simplesmente pegado uma pedra.\n\nHoje, cultivadores ao redor do mundo a conhecem por um nome que dispensa tradução: Granito Vivo. A cada outono, ela ainda realiza o mesmo truque silencioso que outrora capturou a atenção de Nel — produzindo uma única flor com aroma de coco ao sol da tarde, enquanto suas folhas antigas murcham até desaparecer e um novo par idêntico toma seu lugar.",
+        "name_origin": "O nome do gênero Pleiospilos combina o grego pleios ('muitos' ou 'cheio') e spilos ('mancha'), descrevendo o denso mosqueado na superfície de suas folhas. O epíteto nelii homenageia Gert Cornelius Nel, o botânico sul-africano que escreveu a primeira monografia sobre o gênero aparentado Lithops.",
+        "symbolism_story": "Enquanto outras plantas descartam folhas para fora, o Granito Vivo se renova por dentro, consumindo toda a reserva das folhas do ano anterior até que reste apenas um novo par idêntico de pedras. Esse ciclo privado e autossuficiente — repetido ano após ano sob um discreto disfarce pétreo — o transformou em um símbolo silencioso de renovação alcançada sem espetáculo ou desperdício.",
+        "flower_meaning": "Renovação Silenciosa",
+        "fragrance": {
+          "notes": "Sua única flor vespertina exala um aroma doce e característico de coco."
+        },
+        "uses_list": [
+          {
+            "text": "Cultivada como suculenta de coleção, apreciada por sua impressionante semelhança com granito rachado."
+          },
+          {
+            "text": "Suas flores vespertinas com aroma de coco atraem abelhas e outros insetos polinizadores."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Renovação Silenciosa",
+            "description": "A cada ano, o Granito Vivo consome suas próprias folhas para alimentar o crescimento do próximo par, um ato privado de transformação escondido sob seu disfarce pétreo — o que o transformou, entre colecionadores de suculentas, em um emblema de renovação silenciosa e resiliência autossuficiente."
+          }
+        ],
+        "toxicity": {
+          "headline": "Nenhuma toxicidade relatada",
+          "active_compound_display": "Nenhum relatado",
+          "notes_en": "Nenhuma fonte confiável sobre toxicidade foi encontrada; portanto, é tratada como não relatada (a estimativa da IA não foi verificada por fontes).",
+          "human": {
+            "exposure": "Nenhuma via de exposição relatada.",
+            "effect": "Nenhum efeito tóxico relatado.",
+            "note": "Nenhuma toxicidade é relatada para humanos neste catálogo; isso não é evidência de que a planta seja comestível ou inofensiva."
+          },
+          "dog": {
+            "exposure": "Nenhuma via de exposição relatada.",
+            "effect": "Nenhum efeito tóxico relatado.",
+            "note": "Nenhuma toxicidade é relatada para cães neste catálogo; isso não é evidência de que a planta seja comestível ou inofensiva."
+          },
+          "cat": {
+            "exposure": "Nenhuma via de exposição relatada.",
+            "effect": "Nenhum efeito tóxico relatado.",
+            "note": "Nenhuma toxicidade é relatada para gatos neste catálogo; isso não é evidência de que a planta seja comestível ou inofensiva."
           }
         }
       }
