@@ -3,8 +3,8 @@
   "locale": "pt",
   "source": {
     "resource": "plants_detail.json",
-    "sha256": "d074bdd6a5ac776aad010277fab5af921502c2464e673ce2dfae82cf33b85889",
-    "record_count": 1672
+    "sha256": "3be3db583a11cdd199253a2f84c9d876208580bb72130e294c113968b0184140",
+    "record_count": 1673
   },
   "records": {
     "AAA0001": {
@@ -102533,6 +102533,64 @@
           "cat": {
             "exposure": "Nenhuma via de exposição relatada.",
             "effect": "Nenhum efeito tóxico relatado.",
+            "note": "Nenhuma toxicidade é relatada para gatos neste catálogo; isso não é evidência de que a planta seja comestível ou inofensiva."
+          }
+        }
+      }
+    },
+    "AAA1674": {
+      "source_hash": "1bfbd5ac69dfd0cec5fd80dc8f103c48b7cfe708699facfe89b0ba77d422f420",
+      "fields": {
+        "common_name": "Triodanis",
+        "bloom_tip": "Triodanis produz delicadas flores azuis do final da primavera ao verão.",
+        "fruit_tip": "Os frutos castanhos de Triodanis trazem interesse ao jardim no final do verão.",
+        "description": "Triodanis é uma planta silvestre anual e esguia, nativa da América do Norte, apreciada pela forma como suas folhas redondas e recortadas envolvem estreitamente o caule ereto, abrigando pequenas flores azul-violeta em forma de estrela em suas axilas. A maioria dessas flores nunca chega a abrir totalmente; elas se autopolinizam silenciosamente dentro de botões fechados, enquanto apenas algumas, no topo do caule, se abrem por completo para atrair abelhas. Prosperando em solos secos e perturbados ao longo de estradas, pradarias e bordas de mata aberta, floresce do final da primavera ao verão, antes de formar cápsulas redondas cheias de sementes que chocalham ao vento do outono.",
+        "history_text_short": "Triodanis é uma flor silvestre norte-americana cujo nome em inglês remonta a uma lenda europeia sobre o espelho perdido de Vênus, já que suas flores azul-violeta em forma de estrela pareciam capturar a luz como vidro. A maioria das flores permanece fechada e se autopoliniza em silêncio, enquanto apenas poucas se abrem totalmente para receber abelhas de passagem.",
+        "history_text_long": "O nome em inglês, «espelho de Vênus», remonta à Europa, onde uma flor silvestre aparentada, Legousia speculum-veneris, crescia como erva daninha entre os campos de cereais. Suas pequenas pétalas brilhantes como espelhos e sementes redondas e lustrosas lembravam agricultores e herboristas de um espelho de mão, e a tradição popular associava a flor a Vênus, deusa da beleza, que, segundo a lenda, teria deixado cair o espelho em um campo de trigo. Quando colonos e botânicos europeus começaram a catalogar as pradarias e terrenos abertos da América do Norte, encontraram uma prima próxima daquela flor-espelho do Velho Mundo: uma anual esguia com as mesmas flores azul-violeta em forma de estrela, mais tarde classificada como Triodanis perfoliata. O nome em inglês a acompanhou, ainda que a planta tenha forjado sua própria identidade entre as gramíneas de acostamento, as savanas e os campos perturbados de um novo continente.\n\nO que distinguia a planta americana, quando observada de perto pelos naturalistas, era sua forma incomum de garantir sementes independentemente da sorte da estação. Ao longo da maioria de suas folhas envolventes, em forma de taça, os botões florais nunca chegam a abrir; lacrados, autofecundam-se em segredo e ainda assim produzem cápsulas cheias de sementes. Somente as flores mais altas se desdobram nas verdadeiras estrelas azul-violeta de cinco pontas que atraem o olhar de uma abelha. Botânicos que estudavam a reprodução das plantas no século XIX achavam essas flores de dupla estratégia verdadeiramente intrigantes: por que se dar ao trabalho de uma floração vistosa e dependente de insetos se uma oculta e autopolinizadora funciona igualmente bem? A resposta, ainda hoje estudada, é a resiliência. Triodanis aposta nos dois lados, de modo que uma estação nublada sem polinizadores e uma única abelha visitante terminam da mesma forma: sementes soltando-se de cápsulas redondas, espalhando-se exatamente pelos acostamentos e terrenos baldios onde a planta tem persistido silenciosamente por gerações.",
+        "name_origin": "O nome do gênero, Triodanis, vem do grego e significa «três dentes», referindo-se aos lóbulos do cálice da flor, enquanto o epíteto perfoliata alude a folhas que parecem atravessadas pelo caule. Seu nome comum em inglês, espelho de Vênus, foi herdado de uma parente europeia cujas sementes brilhantes, semelhantes a espelhos, e pétalas reflexivas foram associadas na tradição popular ao espelho de mão perdido pela deusa Vênus.",
+        "symbolism_story": "Batizada em homenagem a um espelho que a própria Vênus teria deixado cair, essa modesta flor silvestre passou a simbolizar uma beleza que não precisa ser vista para ser real. A maioria de suas flores nunca se abre e se autofecunda em silêncio dentro de botões lacrados — um lembrete de que a resiliência costuma agir despercebida, e de que bastam poucas flores para captar a luz e fazer toda a planta prosperar.",
+        "flower_meaning": "Resiliência Silenciosa",
+        "fragrance": {
+          "notes": "Nenhum aroma notável relatado."
+        },
+        "uses_list": [
+          {
+            "text": "Suas flores abertas azul-violeta são uma fonte de néctar confiável, ainda que breve, para pequenas abelhas nativas em campos e pradarias."
+          },
+          {
+            "text": "Suas alegres flores azuis em forma de estrela e a folhagem envolvente trazem textura a jardins de flores silvestres e plantios de pradaria nativa."
+          },
+          {
+            "text": "Por ser nativa da América do Norte, favorece polinizadores e fornece sementes para aves que se alimentam no solo no final do verão."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Resiliência Silenciosa",
+            "description": "Sua capacidade de se autopolinizar em segredo dentro de flores lacradas a torna símbolo de uma persistência silenciosa e autossuficiente."
+          },
+          {
+            "keyword": "Reflexo",
+            "description": "Batizada em homenagem ao espelho mítico de Vênus, há muito simboliza a introspecção e uma beleza discreta."
+          }
+        ],
+        "toxicity": {
+          "headline": "Nenhuma toxicidade relatada",
+          "active_compound_display": "Nenhum relatado",
+          "notes_en": "Nenhuma fonte confiável confirmou toxicidade; classificada como não relatada (a estimativa da IA não é verificada por fontes).",
+          "human": {
+            "exposure": "Nenhuma via de exposição é relatada.",
+            "effect": "Nenhum efeito tóxico é relatado.",
+            "note": "Nenhuma toxicidade é relatada para humanos neste catálogo; isso não é evidência de que a planta seja comestível ou inofensiva."
+          },
+          "dog": {
+            "exposure": "Nenhuma via de exposição é relatada.",
+            "effect": "Nenhum efeito tóxico é relatado.",
+            "note": "Nenhuma toxicidade é relatada para cães neste catálogo; isso não é evidência de que a planta seja comestível ou inofensiva."
+          },
+          "cat": {
+            "exposure": "Nenhuma via de exposição é relatada.",
+            "effect": "Nenhum efeito tóxico é relatado.",
             "note": "Nenhuma toxicidade é relatada para gatos neste catálogo; isso não é evidência de que a planta seja comestível ou inofensiva."
           }
         }
