@@ -3,8 +3,8 @@
   "locale": "fr",
   "source": {
     "resource": "plants_detail.json",
-    "sha256": "6111bef4f76de193b48c73810e76c19c06e872168c0874eda69886b5636840a4",
-    "record_count": 1674
+    "sha256": "ff2ab6d676829f770efe9d35a3bd343c489ba41ce46012f44562c73e4cacdf39",
+    "record_count": 1675
   },
   "records": {
     "AAA0001": {
@@ -102632,6 +102632,56 @@
             "exposure": "Aucune voie d'exposition signalée.",
             "effect": "Aucun effet toxique signalé.",
             "note": "Aucune toxicité n'est signalée pour le chat dans ce catalogue ; cela ne prouve pas que la plante soit comestible ou inoffensive."
+          }
+        }
+      }
+    },
+    "AAA1676": {
+      "source_hash": "186ef144ebdebfb40012563110c7b34db739155469da937e88374f47ae9b006d",
+      "fields": {
+        "common_name": "Distimake aturensis",
+        "description": "Distimake aturensis est une herbe ou sous-arbrisseau grêle de la famille des liserons (Convolvulaceae), inhabituel parmi ses parents volubiles car il pousse droit ou s'étale bas sur le sol au lieu de grimper. Originaire d'Amérique du Sud, il pousse dans la région de l'Amazonas au Venezuela et à travers la savane du Cerrado saisonnièrement sèche et le bassin amazonien du Brésil, enraciné dans un sol sableux et bien drainé qui peut cuire pendant des mois entre les pluies. Ses tiges sont fines et peu feuillues, son feuillage étroit réduit pour limiter la perte d'eau, et il porte de petites fleurs pâles en entonnoir typiques de la famille. Chaque saison sèche, il meurt pour survivre à la sécheresse et au feu, puis repousse au retour des pluies.",
+        "history_text_short": "Recueillie près des tonitruants rapides d'Atures sur l'Orénoque lors de l'expédition de Humboldt et Bonpland en 1800, cette plante modeste tire son nom de la cataracte elle-même. Kunth la décrivit en Europe à partir de leurs spécimens pressés, et en 2017, des botanistes la déplacèrent dans le genre nouvellement reconnu Distimake.",
+        "history_text_long": "En avril 1800, Alexander von Humboldt et Aimé Bonpland forcèrent leur canoë à travers les rapides d'Atures, un tronçon tumultueux de l'Orénoque dans ce qui est aujourd'hui l'État d'Amazonas au Venezuela, portageant autour de blocs de granit qui avaient détruit d'innombrables embarcations avant eux. Humboldt fut frappé par le site : des falaises creusées de grottes funéraires abritant les morts momifiés du peuple Atures, un groupe dont la langue et les descendants avaient déjà disparu, ne survivant que dans le nom des rapides. Au milieu des relevés astronomiques, des sondages de la rivière et des spécimens d'oiseaux et de poissons exotiques qui remplissaient les carnets de l'expédition, les deux naturalistes pressèrent également une plante discrète et facilement négligée poussant près de la cataracte : à tige fine, peu feuillue, portant de petites fleurs pâles, un modeste membre de la famille des liserons. Carl Sigismund Kunth, travaillant en Europe à partir des collections de Humboldt et Bonpland, décrivit formellement l'espèce des années plus tard et lui donna le nom aturensis, la liant de façon permanente aux rapides où elle fut trouvée. Pendant près de deux siècles, elle fut classée parmi les centaines d'espèces d'Ipomoea et de Merremia, son port dressé et non volubile étant un ajustement étrange dans un genre surtout connu pour ses vignes grimpantes. Puis en 2017, les botanistes Ana Rita Simões et George Staples, travaillant sur la taxonomie embrouillée de la tribu des Merremieae à l'aide de preuves ADN, créèrent un nouveau genre, Distimake, pour un groupe d'espèces qui ne correspondaient pas tout à fait à leurs parents mieux connus. Distimake aturensis fut réassigné avec elles, son identité scientifique révisée alors même que les brousses et savanes de saison sèche du Brésil et du Venezuela où il pousse ont peu changé depuis que Humboldt posa les yeux sur les rapides qui lui donnèrent son nom.",
+        "name_origin": "L'épithète spécifique aturensis signifie « d'Atures », en référence aux rapides d'Atures sur l'Orénoque au Venezuela, où Alexander von Humboldt et Aimé Bonpland collectèrent le spécimen original lors de leur expédition de 1800. Le botaniste allemand Carl Sigismund Kunth formalisa plus tard la description à partir de leur matériel pressé. En 2017, les taxonomistes Ana Rita Simões et George Staples placèrent l'espèce dans le genre nouvellement établi Distimake, la distinguant des Ipomoea et Merremia d'apparence similaire.",
+        "symbolism_story": "Distimake aturensis ne porte aucune légende populaire propre ; son histoire est celle de sa dénomination. Pressée sur une rive près de l'une des cataractes les plus célèbres d'Amérique du Sud et cataloguée à un océan de distance, elle a discrètement enduré deux siècles de classification changeante, de saisons de feux de brousse et de dormance saisonnière, se dressant comme un petit emblème honnête d'endurance et des innombrables découvertes négligées qui constituent le bilan d'une seule expédition renommée.",
+        "flower_meaning": "Endurance",
+        "fragrance": {
+          "notes": "Aucun parfum n'a été documenté pour cette espèce."
+        },
+        "uses_list": [
+          {
+            "text": "Ses petites fleurs en entonnoir offrent du nectar aux abeilles et autres insectes typiques de la famille des liserons."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Endurance",
+            "description": "Mourant et repoussant à travers les feux et sécheresses de la saison sèche du Cerrado, il est devenu, parmi les botanistes qui étudient la région, un symbole discret de persistance dans un paysage impitoyable."
+          },
+          {
+            "keyword": "Découverte",
+            "description": "Emportée parmi les milliers de spécimens pressés lors du relevé de l'Orénoque par Humboldt et Bonpland, elle représente la vie végétale vaste et souvent sans gloire documentée lors de l'une des expéditions les plus célèbres de l'histoire."
+          }
+        ],
+        "toxicity": {
+          "headline": "Aucune toxicité signalée",
+          "active_compound_display": "Aucun signalé",
+          "notes_en": "Aucune correspondance de toxicité faisant autorité trouvée ; traitée comme non signalée (l'estimation LLM n'est pas vérifiée par une source).",
+          "human": {
+            "exposure": "Aucune voie d'exposition n'est signalée.",
+            "effect": "Aucun effet toxique n'est signalé.",
+            "note": "Aucune toxicité n'est signalée pour les humains dans ce catalogue ; ce n'est pas une preuve que la plante est comestible ou inoffensive."
+          },
+          "dog": {
+            "exposure": "Aucune voie d'exposition n'est signalée.",
+            "effect": "Aucun effet toxique n'est signalé.",
+            "note": "Aucune toxicité n'est signalée pour les chiens dans ce catalogue ; ce n'est pas une preuve que la plante est comestible ou inoffensive."
+          },
+          "cat": {
+            "exposure": "Aucune voie d'exposition n'est signalée.",
+            "effect": "Aucun effet toxique n'est signalé.",
+            "note": "Aucune toxicité n'est signalée pour les chats dans ce catalogue ; ce n'est pas une preuve que la plante est comestible ou inoffensive."
           }
         }
       }

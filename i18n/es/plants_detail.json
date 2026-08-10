@@ -3,8 +3,8 @@
   "locale": "es",
   "source": {
     "resource": "plants_detail.json",
-    "sha256": "6111bef4f76de193b48c73810e76c19c06e872168c0874eda69886b5636840a4",
-    "record_count": 1674
+    "sha256": "ff2ab6d676829f770efe9d35a3bd343c489ba41ce46012f44562c73e4cacdf39",
+    "record_count": 1675
   },
   "records": {
     "AAA0001": {
@@ -102646,6 +102646,56 @@
             "exposure": "No se reporta ninguna vía de exposición.",
             "effect": "No se reporta ningún efecto tóxico.",
             "note": "En este catálogo no se reporta toxicidad para gatos; esto no es evidencia de que la planta sea comestible o inofensiva."
+          }
+        }
+      }
+    },
+    "AAA1676": {
+      "source_hash": "186ef144ebdebfb40012563110c7b34db739155469da937e88374f47ae9b006d",
+      "fields": {
+        "common_name": "Distimake aturensis",
+        "description": "Distimake aturensis es una hierba o subarbusto esbelto de la familia de las campanillas (Convolvulaceae), inusual entre sus parientes trepadores por crecer erguido o extendido a ras de suelo en lugar de trepar. Nativa de Sudamérica, crece en la región de Amazonas en Venezuela y a través de la sabana del Cerrado estacionalmente seca y la cuenca amazónica de Brasil, enraizada en suelos arenosos y bien drenados que pueden endurecerse durante meses entre lluvias. Sus tallos son delgados y con pocas hojas, su follaje estrecho reducido para limitar la pérdida de agua, y produce pequeñas flores pálidas en forma de embudo típicas de la familia. Cada estación seca, muere hasta el suelo para sobrevivir a la sequía y al fuego, rebrotando cuando vuelven las lluvias.",
+        "history_text_short": "Recolectada junto a los atronadores rápidos de Atures en el río Orinoco durante la expedición de Humboldt y Bonpland de 1800, esta modesta planta toma su nombre de la catarata misma. Kunth la describió en Europa a partir de sus especímenes prensados, y en 2017 los botánicos la trasladaron al género recién reconocido Distimake.",
+        "history_text_long": "En abril de 1800, Alexander von Humboldt y Aimé Bonpland forzaron su canoa más allá de los rápidos de Atures, un tramo turbulento del río Orinoco en lo que hoy es el estado Amazonas de Venezuela, portando sus botes alrededor de bloques de granito que habían destrozado innumerables embarcaciones antes que ellos. Humboldt quedó impresionado por el lugar: acantilados con cuevas funerarias que contenían los muertos momificados del pueblo Atures, un grupo cuya lengua y descendientes ya habían desaparecido, recordados solo en el nombre de los rápidos. En medio de las lecturas astronómicas, sondeos del río y especímenes de aves y peces exóticos que llenaban los cuadernos de la expedición, los dos naturalistas también prensaron una planta pequeña y fácil de pasar por alto que crecía cerca de la catarata: de tallos delgados, con pocas hojas, que producía pequeñas flores pálidas, un miembro modesto de la extensa familia de las campanillas. Carl Sigismund Kunth, trabajando en Europa a partir de las colecciones de Humboldt y Bonpland, describió formalmente la especie años después y le dio el nombre aturensis, vinculándola permanentemente a los rápidos donde fue encontrada. Durante casi dos siglos se clasificó entre los cientos de especies de Ipomoea y Merremia, su hábito erguido y no trepador era un ajuste extraño dentro de un género conocido principalmente por enredaderas trepadoras. Luego, en 2017, las botánicas Ana Rita Simões y George Staples, trabajando en la taxonomía enredada de la tribu Merremieae con evidencia de ADN, crearon un nuevo género, Distimake, para un grupo de especies que no encajaban del todo con sus parientes más conocidos. Distimake aturensis fue reasignada junto con ellas, su identidad científica revisada incluso mientras los matorrales y sabanas de estación seca de Brasil y Venezuela donde crece han cambiado poco desde que Humboldt vio por primera vez los rápidos que le dieron su nombre.",
+        "name_origin": "El epíteto específico aturensis significa 'de Atures', en referencia a los rápidos de Atures en el río Orinoco en Venezuela, donde Alexander von Humboldt y Aimé Bonpland recolectaron el espécimen original durante su expedición de 1800. El botánico alemán Carl Sigismund Kunth formalizó la descripción a partir de su material prensado. En 2017, los taxónomos Ana Rita Simões y George Staples colocaron la especie en el género recién establecido Distimake, distinguiéndola de las aparentemente similares Ipomoea y Merremia.",
+        "symbolism_story": "Distimake aturensis no lleva ninguna leyenda popular propia; su historia es la historia de su nombre. Prensada en una ribera junto a una de las cataratas más famosas de Sudamérica y catalogada a un océano de distancia, ha perdurado silenciosamente a través de dos siglos de clasificaciones cambiantes, temporadas de incendios forestales y letargo de estación seca por igual, erigiéndose como un pequeño y honesto emblema de resistencia y de los innumerables descubrimientos pasados por alto que conforman el registro de una sola expedición renombrada.",
+        "flower_meaning": "Resistencia",
+        "fragrance": {
+          "notes": "No se ha documentado fragancia para esta especie."
+        },
+        "uses_list": [
+          {
+            "text": "Sus pequeñas flores en forma de embudo ofrecen néctar a las abejas y otros insectos típicos de la familia de las campanillas."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Resistencia",
+            "description": "Muriendo y rebrotando a través de los incendios y sequías de la estación seca del Cerrado, se ha convertido, entre los botánicos que estudian la región, en un símbolo silencioso de persistencia en un paisaje implacable."
+          },
+          {
+            "keyword": "Descubrimiento",
+            "description": "Barrida entre los miles de especímenes prensados durante el estudio del Orinoco de Humboldt y Bonpland, representa la vasta y a menudo poco glamorosa vida vegetal documentada en una de las expediciones más célebres de la historia."
+          }
+        ],
+        "toxicity": {
+          "headline": "No se reporta toxicidad",
+          "active_compound_display": "No se reporta ninguna",
+          "notes_en": "No se encontró una coincidencia de toxicidad autorizada; se trata como no reportada (la estimación del LLM no está verificada por fuentes).",
+          "human": {
+            "exposure": "No se reporta ninguna vía de exposición.",
+            "effect": "No se reporta ningún efecto tóxico.",
+            "note": "No se reporta toxicidad para humanos en este catálogo; esto no es evidencia de que la planta sea comestible o inofensiva."
+          },
+          "dog": {
+            "exposure": "No se reporta ninguna vía de exposición.",
+            "effect": "No se reporta ningún efecto tóxico.",
+            "note": "No se reporta toxicidad para perros en este catálogo; esto no es evidencia de que la planta sea comestible o inofensiva."
+          },
+          "cat": {
+            "exposure": "No se reporta ninguna vía de exposición.",
+            "effect": "No se reporta ningún efecto tóxico.",
+            "note": "No se reporta toxicidad para gatos en este catálogo; esto no es evidencia de que la planta sea comestible o inofensiva."
           }
         }
       }

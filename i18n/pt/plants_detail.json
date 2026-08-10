@@ -3,8 +3,8 @@
   "locale": "pt",
   "source": {
     "resource": "plants_detail.json",
-    "sha256": "6111bef4f76de193b48c73810e76c19c06e872168c0874eda69886b5636840a4",
-    "record_count": 1674
+    "sha256": "ff2ab6d676829f770efe9d35a3bd343c489ba41ce46012f44562c73e4cacdf39",
+    "record_count": 1675
   },
   "records": {
     "AAA0001": {
@@ -102645,6 +102645,56 @@
           "cat": {
             "exposure": "Nenhuma via de exposição relatada.",
             "effect": "Nenhum efeito tóxico relatado.",
+            "note": "Nenhuma toxicidade é relatada para gatos neste catálogo; isso não é evidência de que a planta seja comestível ou inofensiva."
+          }
+        }
+      }
+    },
+    "AAA1676": {
+      "source_hash": "186ef144ebdebfb40012563110c7b34db739155469da937e88374f47ae9b006d",
+      "fields": {
+        "common_name": "Distimake aturensis",
+        "description": "Distimake aturensis é uma erva ou subarbusto esguio da família das ipomeias (Convolvulaceae), incomum entre seus parentes trepadores por crescer ereto ou espalhado rente ao chão, em vez de escalar. Nativa da América do Sul, cresce na região do Amazonas, na Venezuela, e pelo Cerrado sazonalmente seco e pela bacia amazônica do Brasil, enraizada em solo arenoso e bem drenado que pode ficar ressecado por meses entre as chuvas. Seus caules são finos e com poucas folhas, sua folhagem estreita é reduzida para limitar a perda de água, e produz pequenas flores em forma de funil, pálidas, típicas da família. A cada estação seca, ela morre para sobreviver à seca e ao fogo, rebrotando quando as chuvas retornam.",
+        "history_text_short": "Coletada junto às estrondosas Corredeiras de Atures, no rio Orinoco, durante a expedição de Humboldt e Bonpland em 1800, esta planta modesta recebe seu nome da própria catarata. Kunth a descreveu na Europa a partir de seus espécimes prensados, e em 2017 os botânicos a moveram para o gênero recém-reconhecido Distimake.",
+        "history_text_long": "Em abril de 1800, Alexander von Humboldt e Aimé Bonpland forçaram sua canoa além das Corredeiras de Atures, um trecho agitado do rio Orinoco, no que hoje é o estado do Amazonas, na Venezuela, transportando a canoa ao redor de blocos de granito que haviam destruído inúmeras embarcações antes deles. Humboldt ficou impressionado com o local: penhascos marcados por cavernas funerárias que guardavam os mortos mumificados do povo Atures, um grupo cuja língua e descendentes já haviam desaparecido, lembrados apenas no nome das corredeiras. Em meio às leituras astronômicas, sondagens do rio e espécimes de aves e peixes exóticos que preencheram os cadernos da expedição, os dois naturalistas também prensaram uma planta discreta e facilmente ignorada que crescia perto da catarata: caule fino, folhas esparsas, pequenas flores pálidas, um membro modesto da extensa família das ipomeias. Carl Sigismund Kunth, trabalhando na Europa a partir das coleções de Humboldt e Bonpland, descreveu formalmente a espécie anos depois e deu-lhe o nome aturensis, ligando-a permanentemente às corredeiras onde foi encontrada. Por quase dois séculos, foi classificada entre as centenas de espécies de Ipomoea e Merremia, seu hábito ereto e não trepador sendo um ajuste estranho em um gênero conhecido principalmente por vinhas trepadeiras. Então, em 2017, as botânicas Ana Rita Simões e George Staples, trabalhando na taxonomia emaranhada da tribo Merremieae usando evidências de DNA, criaram um novo gênero, Distimake, para um grupo de espécies que não pertenciam exatamente aos seus parentes mais conhecidos. Distimake aturensis foi reatribuída junto com elas, sua identidade científica revisada mesmo enquanto os arbustos baixos e as savanas da estação seca do Brasil e da Venezuela, onde cresce, mudaram pouco desde que Humboldt viu pela primeira vez as corredeiras que lhe deram o nome.",
+        "name_origin": "O epíteto específico aturensis significa 'de Atures', referindo-se às Corredeiras de Atures no rio Orinoco, na Venezuela, onde Alexander von Humboldt e Aimé Bonpland coletaram o espécime original durante sua expedição de 1800. O botânico alemão Carl Sigismund Kunth formalizou a descrição a partir do material prensado. Em 2017, as taxonomistas Ana Rita Simões e George Staples colocaram a espécie no gênero recém-estabelecido Distimake, distinguindo-a das Ipomoea e Merremia superficialmente semelhantes.",
+        "symbolism_story": "Distimake aturensis não carrega lenda folclórica própria; sua história é a história de sua nomeação. Prensada na margem de um rio junto a uma das cataratas mais famosas da América do Sul e catalogada a um oceano de distância, ela resistiu silenciosamente a dois séculos de classificação mutável, temporadas de incêndios florestais e dormência na estação seca, permanecendo como um pequeno e honesto emblema de resistência e das inúmeras descobertas negligenciadas que compõem o registro de uma única expedição renomada.",
+        "flower_meaning": "Resistência",
+        "fragrance": {
+          "notes": "Nenhuma fragrância foi documentada para esta espécie."
+        },
+        "uses_list": [
+          {
+            "text": "Suas pequenas flores em forma de funil oferecem néctar a abelhas e outros insetos típicos da família das ipomeias."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Resistência",
+            "description": "Morrendo e rebrotando através dos incêndios e secas da estação seca do Cerrado, tornou-se, entre os botânicos que estudam a região, um símbolo silencioso de persistência em uma paisagem implacável."
+          },
+          {
+            "keyword": "Descoberta",
+            "description": "Levada entre os milhares de espécimes prensados durante o levantamento de Humboldt e Bonpland do Orinoco, representa a vasta e muitas vezes pouco glamorosa vida vegetal documentada em uma das expedições mais celebradas da história."
+          }
+        ],
+        "toxicity": {
+          "headline": "Nenhuma toxicidade relatada",
+          "active_compound_display": "Nenhum relato",
+          "notes_en": "Nenhuma correspondência de toxicidade autoritativa encontrada; tratada como não relatada (estimativa de LLM não é verificada por fonte).",
+          "human": {
+            "exposure": "Nenhuma via de exposição é relatada.",
+            "effect": "Nenhum efeito tóxico é relatado.",
+            "note": "Nenhuma toxicidade é relatada para humanos neste catálogo; isso não é evidência de que a planta seja comestível ou inofensiva."
+          },
+          "dog": {
+            "exposure": "Nenhuma via de exposição é relatada.",
+            "effect": "Nenhum efeito tóxico é relatado.",
+            "note": "Nenhuma toxicidade é relatada para cães neste catálogo; isso não é evidência de que a planta seja comestível ou inofensiva."
+          },
+          "cat": {
+            "exposure": "Nenhuma via de exposição é relatada.",
+            "effect": "Nenhum efeito tóxico é relatado.",
             "note": "Nenhuma toxicidade é relatada para gatos neste catálogo; isso não é evidência de que a planta seja comestível ou inofensiva."
           }
         }

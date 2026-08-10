@@ -3,8 +3,8 @@
   "locale": "it",
   "source": {
     "resource": "plants_detail.json",
-    "sha256": "6111bef4f76de193b48c73810e76c19c06e872168c0874eda69886b5636840a4",
-    "record_count": 1674
+    "sha256": "ff2ab6d676829f770efe9d35a3bd343c489ba41ce46012f44562c73e4cacdf39",
+    "record_count": 1675
   },
   "records": {
     "AAA0001": {
@@ -102646,6 +102646,56 @@
             "exposure": "Nessuna via di esposizione segnalata.",
             "effect": "Nessun effetto tossico segnalato.",
             "note": "In questo catalogo non è segnalata alcuna tossicità per il gatto; ciò non è prova che la pianta sia commestibile o innocua."
+          }
+        }
+      }
+    },
+    "AAA1676": {
+      "source_hash": "186ef144ebdebfb40012563110c7b34db739155469da937e88374f47ae9b006d",
+      "fields": {
+        "common_name": "Distimake aturensis",
+        "description": "La Distimake aturensis è un'erba o un sottoarbusto slanciato della famiglia delle Convolvulaceae, insolita tra i suoi parenti volubili per il portamento eretto o prostrato, che si estende basso sul terreno invece di arrampicarsi. Originaria del Sud America, cresce nella regione dell'Amazzonia venezuelana e nella savana del Cerrado, stagionalmente secca, e nel bacino amazzonico del Brasile, radicata in terreni sabbiosi e ben drenati che possono restare aridi per mesi tra una pioggia e l'altra. I suoi fusti sono sottili e con poche foglie, il fogliame stretto è ridotto per limitare la perdita d'acqua, e porta piccoli fiori a imbuto, tipici della famiglia. Ogni stagione secca la pianta si secca per sopravvivere alla siccità e al fuoco, per poi ricacciare al ritorno delle piogge.",
+        "history_text_short": "Raccolta accanto alle fragorose rapide di Atures sul fiume Orinoco durante la spedizione di Humboldt e Bonpland del 1800, questa pianta modesta prende il nome dalla cascata stessa. Kunth la descrisse in Europa dai loro esemplari pressati, e nel 2017 i botanici la spostarono nel genere di nuova costituzione Distimake.",
+        "history_text_long": "Nell'aprile del 1800, Alexander von Humboldt e Aimé Bonpland spinsero la loro canoa oltre le rapide di Atures, un tratto vorticoso del fiume Orinoco nell'attuale stato venezuelano dell'Amazzonia, trasportando le barche attorno a massi di granito che avevano distrutto innumerevoli imbarcazioni prima di loro. Humboldt fu colpito dal luogo: scogliere con grotte sepolcrali che custodivano i morti mummificati del popolo Atures, un gruppo di cui erano già scomparsi lingua e discendenti, ricordato solo nel nome delle rapide. Tra le letture astronomiche, le misurazioni del fiume e gli esemplari di uccelli e pesci esotici che riempivano i taccuini della spedizione, i due naturalisti raccolsero anche una pianta modesta e facilmente trascurabile che cresceva vicino alla cascata: fusti sottili, poche foglie, piccoli fiori pallidi, un membro umile della vasta famiglia delle Convolvulaceae. Carl Sigismund Kunth, lavorando in Europa sulle collezioni di Humboldt e Bonpland, descrisse formalmente la specie anni dopo e le diede il nome aturensis, legandola per sempre alle rapide dove era stata trovata. Per quasi due secoli fu classificata tra le centinaia di specie di Ipomoea e Merremia, con il suo portamento eretto e non volubile, una stranezza in un genere noto soprattutto per le viti rampicanti. Poi, nel 2017, le botaniche Ana Rita Simões e George Staples, lavorando sulla tassonomia intricata della tribù Merremieae usando prove dal DNA, crearono un nuovo genere, Distimake, per un gruppo di specie che non appartenevano del tutto ai loro parenti più noti. La Distimake aturensis fu riclassificata insieme a loro, la sua identità scientifica rivista anche se le basse boscaglie e le savane del Brasile e del Venezuela dove cresce sono cambiate poco da quando Humboldt vide per la prima volta le rapide che le hanno dato il nome.",
+        "name_origin": "L'epiteto specifico aturensis significa 'di Atures', riferendosi alle rapide di Atures sul fiume Orinoco in Venezuela, dove Alexander von Humboldt e Aimé Bonpland raccolsero l'esemplare originale durante la loro spedizione del 1800. Il botanico tedesco Carl Sigismund Kunth formalizzò in seguito la descrizione dal loro materiale pressato. Nel 2017, le tassonomiste Ana Rita Simões e George Staples collocarono la specie nel genere di nuova costituzione Distimake, distinguendola dalle Ipomoea e Merremia apparentemente simili.",
+        "symbolism_story": "La Distimake aturensis non porta alcuna leggenda popolare propria; la sua storia è la storia del suo nome. Pressata su una riva accanto a una delle cascate più famose del Sud America e catalogata a un oceano di distanza, ha resistito silenziosamente a due secoli di mutevoli classificazioni, stagioni di incendi e dormienza nella stagione secca, ergendosi come un piccolo e onesto emblema di resistenza e delle innumerevoli scoperte trascurate che compongono il resoconto di una singola rinomata spedizione.",
+        "flower_meaning": "Resistenza",
+        "fragrance": {
+          "notes": "Per questa specie non è documentata alcuna fragranza."
+        },
+        "uses_list": [
+          {
+            "text": "I suoi piccoli fiori a imbuto offrono nettare alle api e ad altri insetti tipici della famiglia delle Convolvulaceae."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Resistenza",
+            "description": "Morendo e ricacciando attraverso i fuochi e le siccità della stagione secca del Cerrado, è diventata, tra i botanici che studiano la regione, un simbolo silenzioso di persistenza in un paesaggio spietato."
+          },
+          {
+            "keyword": "Scoperta",
+            "description": "Inclusa tra le migliaia di esemplari pressati durante il rilevamento dell'Orinoco di Humboldt e Bonpland, rappresenta la vasta e spesso poco appariscente vita vegetale documentata in una delle spedizioni più celebri della storia."
+          }
+        ],
+        "toxicity": {
+          "headline": "Nessuna tossicità segnalata",
+          "active_compound_display": "Nessuna segnalata",
+          "notes_en": "Nessuna corrispondenza di tossicità autorevole trovata; trattata come non segnalata (la stima LLM non è verificata da fonti).",
+          "human": {
+            "exposure": "Nessuna via di esposizione segnalata.",
+            "effect": "Nessun effetto tossico segnalato.",
+            "note": "In questo catalogo non è segnalata alcuna tossicità per gli esseri umani; ciò non è prova che la pianta sia commestibile o innocua."
+          },
+          "dog": {
+            "exposure": "Nessuna via di esposizione segnalata.",
+            "effect": "Nessun effetto tossico segnalato.",
+            "note": "In questo catalogo non è segnalata alcuna tossicità per i cani; ciò non è prova che la pianta sia commestibile o innocua."
+          },
+          "cat": {
+            "exposure": "Nessuna via di esposizione segnalata.",
+            "effect": "Nessun effetto tossico segnalato.",
+            "note": "In questo catalogo non è segnalata alcuna tossicità per i gatti; ciò non è prova che la pianta sia commestibile o innocua."
           }
         }
       }
