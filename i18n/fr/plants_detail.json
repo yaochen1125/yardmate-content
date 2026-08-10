@@ -3,8 +3,8 @@
   "locale": "fr",
   "source": {
     "resource": "plants_detail.json",
-    "sha256": "3be3db583a11cdd199253a2f84c9d876208580bb72130e294c113968b0184140",
-    "record_count": 1673
+    "sha256": "6111bef4f76de193b48c73810e76c19c06e872168c0874eda69886b5636840a4",
+    "record_count": 1674
   },
   "records": {
     "AAA0001": {
@@ -102578,6 +102578,60 @@
             "exposure": "Aucune voie d'exposition n'est signalée.",
             "effect": "Aucun effet toxique n'est signalé.",
             "note": "Aucune toxicité n'est signalée pour les chats dans ce catalogue ; cela ne prouve pas que la plante soit comestible ou sans danger."
+          }
+        }
+      }
+    },
+    "AAA1675": {
+      "source_hash": "c3cd9400d090f36661d5acbedfd1991b88c27bbd5389cbca676dedf4d2455a41",
+      "fields": {
+        "common_name": "Grand Iris sauvage",
+        "bloom_tip": "Le Grand Iris sauvage produit de spectaculaires fleurs blanches marquées de violet, de la fin de l'été à l'automne.",
+        "description": "Dietes grandiflora, le Grand Iris sauvage, est une plante vivace persistante et cespiteuse de la famille des Iridacées, originaire des lisières forestières côtières et des pentes rocheuses du Cap-Oriental et du KwaZulu-Natal, en Afrique du Sud. Des éventails de feuilles rigides en forme de glaive portent des tiges fines couronnées de grandes fleurs blanches, chaque pétale extérieur marqué d'un guide à nectar jaune, les segments intérieurs tachés de violet. Chaque fleur ne dure qu'un jour ou deux, mais la plante produit de nouvelles vagues de floraison environ toutes les deux semaines en fin d'été et en automne, d'où son nom commun anglais, Fortnight Lily.",
+        "history_text_short": "Baptisé Dietes -du grec pour « doublement apparenté »- par Richard Anthony Salisbury, ce nom de genre resta inédit pendant des décennies avant d'être validé en 1866 par le botaniste allemand Friedrich Klatt. L'espèce elle-même fut formellement décrite en 1928 par le botaniste de Kew N. E. Brown, prolifique inventaire de la flore d'Afrique australe.",
+        "history_text_long": "Au début du XIXe siècle, le botaniste britannique Richard Anthony Salisbury proposa un nouveau genre pour un groupe d'iris sud-africains qui ne s'accordaient bien ni avec Iris ni avec Moraea, les deux genres auxquels ils ressemblaient le plus. Il le nomma Dietes, formé du grec pour « double » et « apparenté », en référence à la double appartenance de la plante entre ses deux parents. Ses contemporains restèrent sceptiques, et à la mort de Salisbury en 1829, le nom demeura une proposition inédite, la plupart des botanistes continuant de classer ces plantes sous Moraea.\n\nIl fallut près de quarante ans pour que le nom refasse surface. En 1866, le botaniste allemand Friedrich Klatt, en dépouillant d'anciens manuscrits et du matériel nouvellement arrivé du Cap, publia formellement Dietes, reconnaissant l'idée originale de Salisbury et donnant enfin au genre sa validité. La description de Klatt ouvrit la voie à d'autres botanistes pour classer d'autres iris d'Afrique australe dans ce genre ressuscité.\n\nL'un de ces botanistes fut Nicholas Edward Brown, prolifique inventaire des plantes d'Afrique australe aux Royal Botanic Gardens de Kew, qui décrivit formellement en 1928 une espèce à grandes fleurs originaire du Cap-Oriental et du KwaZulu-Natal sous le nom de Dietes grandiflora. Ses fleurs, chacune ne durant guère qu'un jour ou deux mais renouvelées par vagues environ toutes les deux semaines durant la saison de floraison, lui valurent bientôt le nom populaire de Fortnight Lily. Appréciée pour son feuillage persistant et sa résistance à la sécheresse et au gel, l'espèce fut diffusée bien au-delà de ses forêts côtières natales dans des jardins du monde entier, au point que dans certaines régions d'Australie, elle s'est échappée de la culture pour se naturaliser d'elle-même.",
+        "name_origin": "Le nom de genre Dietes associe le grec dis (« double ») et etes (« apparenté »), forgé pour situer la plante entre les genres apparentés Iris et Moraea. Proposé par Richard Anthony Salisbury au début du XIXe siècle, il resta inédit à sa mort en 1829, jusqu'à ce que, des décennies plus tard, en 1866, le botaniste allemand Friedrich Klatt le valide. L'épithète spécifique grandiflora signifie en latin « à grandes fleurs », et le nom commun anglais Fortnight Lily fait référence à l'habitude de la plante d'ouvrir une nouvelle vague de fleurs environ toutes les deux semaines.",
+        "symbolism_story": "Dietes grandiflora ne porte aucune légende ancienne, seulement l'histoire honnête de son propre nom et de son habitude de floraison. Coincée pendant des décennies entre deux genres apparentés avant de recevoir enfin un nom bien à elle, et remplaçant chacune de ses fleurs éphémères en quelques jours, elle est devenue un symbole modeste de renouveau et d'identités qui résistent à une classification simple, ce qui convient bien à une plante connue populairement sous le nom de Fortnight Lily.",
+        "flower_meaning": "Renouveau",
+        "fragrance": {
+          "notes": "Aucun parfum n'a été documenté pour cette espèce."
+        },
+        "uses_list": [
+          {
+            "text": "Appréciée dans le monde entier en aménagement paysager pour son feuillage persistant en forme de glaive et sa longue saison de floraison, elle est un pilier des jardins publics, des plantations en bordure de route et des massifs faciles d'entretien."
+          },
+          {
+            "text": "Les guides à nectar jaunes de ses pétales extérieurs orientent les abeilles et autres insectes pollinisateurs vers le nectar de la fleur."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Renouveau",
+            "description": "Chaque fleur blanche et papyracée ne dure guère plus d'un jour avant de se faner, mais la plante répond par une nouvelle vague toutes les quelques semaines durant toute sa saison de floraison, en faisant un emblème vivant du renouveau constant."
+          },
+          {
+            "keyword": "Parenté",
+            "description": "Son nom de genre, formé à partir de mots grecs signifiant « double » et « apparenté », rappelle la parenté ambiguë de la plante entre Iris et Moraea, une identité botanique dont la clarification demanda des décennies et deux botanistes distincts."
+          }
+        ],
+        "toxicity": {
+          "headline": "Aucune toxicité signalée",
+          "active_compound_display": "Aucun signalé",
+          "notes_en": "Aucune correspondance avec une source faisant autorité n'a été trouvée pour la toxicité ; elle est donc considérée comme non signalée (l'estimation du modèle n'est pas vérifiée par une source).",
+          "human": {
+            "exposure": "Aucune voie d'exposition signalée.",
+            "effect": "Aucun effet toxique signalé.",
+            "note": "Aucune toxicité n'est signalée pour l'humain dans ce catalogue ; cela ne prouve pas que la plante soit comestible ou inoffensive."
+          },
+          "dog": {
+            "exposure": "Aucune voie d'exposition signalée.",
+            "effect": "Aucun effet toxique signalé.",
+            "note": "Aucune toxicité n'est signalée pour le chien dans ce catalogue ; cela ne prouve pas que la plante soit comestible ou inoffensive."
+          },
+          "cat": {
+            "exposure": "Aucune voie d'exposition signalée.",
+            "effect": "Aucun effet toxique signalé.",
+            "note": "Aucune toxicité n'est signalée pour le chat dans ce catalogue ; cela ne prouve pas que la plante soit comestible ou inoffensive."
           }
         }
       }

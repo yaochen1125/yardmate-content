@@ -3,8 +3,8 @@
   "locale": "pt",
   "source": {
     "resource": "plants_detail.json",
-    "sha256": "3be3db583a11cdd199253a2f84c9d876208580bb72130e294c113968b0184140",
-    "record_count": 1673
+    "sha256": "6111bef4f76de193b48c73810e76c19c06e872168c0874eda69886b5636840a4",
+    "record_count": 1674
   },
   "records": {
     "AAA0001": {
@@ -102591,6 +102591,60 @@
           "cat": {
             "exposure": "Nenhuma via de exposição é relatada.",
             "effect": "Nenhum efeito tóxico é relatado.",
+            "note": "Nenhuma toxicidade é relatada para gatos neste catálogo; isso não é evidência de que a planta seja comestível ou inofensiva."
+          }
+        }
+      }
+    },
+    "AAA1675": {
+      "source_hash": "c3cd9400d090f36661d5acbedfd1991b88c27bbd5389cbca676dedf4d2455a41",
+      "fields": {
+        "common_name": "Íris-selvagem-grande",
+        "bloom_tip": "A íris-selvagem-grande produz vistosas flores brancas com manchas violetas do fim do verão ao outono.",
+        "description": "Dietes grandiflora, a íris-selvagem-grande, é uma perene perenifólia e touceirosa da família das íris (Iridaceae), nativa das margens de mata costeira e encostas rochosas do Cabo Oriental e de KwaZulu-Natal, na África do Sul. Leques de folhas rígidas em forma de espada sustentam hastes finas com grandes flores brancas, cada pétala externa marcada por um guia de néctar amarelo e os segmentos internos manchados de violeta. Cada flor individual dura apenas um ou dois dias, mas a planta produz novas floradas a cada duas semanas, aproximadamente, do fim do verão ao outono, o que lhe deu o nome comum em inglês, Fortnight Lily.",
+        "history_text_short": "Batizada Dietes -grego para 'duplamente aparentado'- por Richard Anthony Salisbury, o nome do gênero permaneceu inédito por décadas até ser validado em 1866 pelo botânico alemão Friedrich Klatt. A espécie em si foi formalmente descrita em 1928 pelo botânico de Kew N. E. Brown, prolífico catalogador da flora sul-africana.",
+        "history_text_long": "No início do século XIX, o botânico britânico Richard Anthony Salisbury propôs um novo gênero para um grupo de íris sul-africanas que não se encaixavam bem nem em Iris nem em Moraea, os dois gêneros aos quais mais se assemelhavam. Chamou-o de Dietes, formado a partir do grego para 'duplo' e 'aparentado', em referência à dupla filiação da planta entre seus dois parentes. Seus contemporâneos não ficaram convencidos, e quando Salisbury morreu em 1829, o nome permaneceu uma proposta inédita, com a maioria dos botânicos mantendo as plantas classificadas sob Moraea.\n\nLevou quase quarenta anos para que o nome ressurgisse. Em 1866, o botânico alemão Friedrich Klatt, revisando manuscritos antigos e material recém-chegado do Cabo, publicou formalmente Dietes, reconhecendo a ideia original de Salisbury e finalmente dando validade ao gênero. A descrição de Klatt abriu caminho para que botânicos posteriores incluíssem outras íris sul-africanas no gênero ressuscitado.\n\nUm desses botânicos foi Nicholas Edward Brown, prolífico catalogador de plantas sul-africanas nos Royal Botanic Gardens de Kew, que em 1928 descreveu formalmente uma espécie de flores grandes do Cabo Oriental e de KwaZulu-Natal como Dietes grandiflora. Suas flores, cada uma durando apenas um ou dois dias, mas renovadas em floradas a cada duas semanas, aproximadamente, durante a estação de floração, logo lhe renderam o nome popular de Fortnight Lily. Valorizada por sua estrutura perenifólia e resistência à seca e ao frio, a espécie se espalhou muito além de suas matas costeiras nativas para jardins do mundo todo, a ponto de, em partes da Austrália, ter escapado do cultivo e se naturalizado por conta própria.",
+        "name_origin": "O nome do gênero Dietes combina o grego dis ('duplo') e etes ('aparentado'), cunhado para posicionar a planta entre os gêneros aparentados Iris e Moraea. Proposto por Richard Anthony Salisbury no início do século XIX, permaneceu inédito após sua morte em 1829, até que décadas depois, em 1866, o botânico alemão Friedrich Klatt o validasse. O epíteto específico grandiflora é latim para 'de flores grandes', e o nome comum em inglês Fortnight Lily faz referência ao hábito da planta de abrir uma nova florada a cada duas semanas, aproximadamente.",
+        "symbolism_story": "Dietes grandiflora não carrega nenhuma lenda antiga, apenas a história honesta de seu próprio nome e de seu hábito de floração. Presa por décadas entre dois gêneros aparentados antes de finalmente receber um nome só seu, e substituindo cada uma de suas flores efêmeras em poucos dias, tornou-se um símbolo modesto de renovação e de identidades que resistem a uma classificação simples, algo bem apropriado para uma planta popularmente conhecida como Fortnight Lily.",
+        "flower_meaning": "Renovação",
+        "fragrance": {
+          "notes": "Nenhum aroma foi documentado para esta espécie."
+        },
+        "uses_list": [
+          {
+            "text": "Valorizada no paisagismo em todo o mundo por sua folhagem perenifólia em forma de espada e sua longa estação de floração, é um elemento constante em jardins públicos, plantios à beira de estradas e canteiros de baixa manutenção."
+          },
+          {
+            "text": "Os guias de néctar amarelos em suas pétalas externas direcionam abelhas e outros insetos polinizadores até o néctar da flor."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Renovação",
+            "description": "Cada flor branca e papirácea dura apenas um dia antes de murchar, mas a planta responde com uma nova florada a cada poucas semanas ao longo de toda a estação, tornando-se um emblema vivo de renovação constante."
+          },
+          {
+            "keyword": "Parentesco",
+            "description": "O nome de seu gênero, formado a partir de palavras gregas para 'duplo' e 'aparentado', celebra o parentesco ambíguo da planta entre Iris e Moraea, uma identidade botânica cuja definição levou décadas e dois botânicos distintos."
+          }
+        ],
+        "toxicity": {
+          "headline": "Nenhuma toxicidade relatada",
+          "active_compound_display": "Nenhum relatado",
+          "notes_en": "Nenhuma correspondência com fontes confiáveis sobre toxicidade foi encontrada; é tratada como não relatada (a estimativa do modelo não é verificada por fontes).",
+          "human": {
+            "exposure": "Nenhuma via de exposição relatada.",
+            "effect": "Nenhum efeito tóxico relatado.",
+            "note": "Nenhuma toxicidade é relatada para humanos neste catálogo; isso não é evidência de que a planta seja comestível ou inofensiva."
+          },
+          "dog": {
+            "exposure": "Nenhuma via de exposição relatada.",
+            "effect": "Nenhum efeito tóxico relatado.",
+            "note": "Nenhuma toxicidade é relatada para cães neste catálogo; isso não é evidência de que a planta seja comestível ou inofensiva."
+          },
+          "cat": {
+            "exposure": "Nenhuma via de exposição relatada.",
+            "effect": "Nenhum efeito tóxico relatado.",
             "note": "Nenhuma toxicidade é relatada para gatos neste catálogo; isso não é evidência de que a planta seja comestível ou inofensiva."
           }
         }

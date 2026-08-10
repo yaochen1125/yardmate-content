@@ -3,8 +3,8 @@
   "locale": "de",
   "source": {
     "resource": "plants_detail.json",
-    "sha256": "3be3db583a11cdd199253a2f84c9d876208580bb72130e294c113968b0184140",
-    "record_count": 1673
+    "sha256": "6111bef4f76de193b48c73810e76c19c06e872168c0874eda69886b5636840a4",
+    "record_count": 1674
   },
   "records": {
     "AAA0001": {
@@ -102577,6 +102577,60 @@
           "cat": {
             "exposure": "Es ist kein Aufnahmeweg gemeldet.",
             "effect": "Es ist keine toxische Wirkung gemeldet.",
+            "note": "Für Katzen ist in diesem Katalog keine Toxizität gemeldet; dies ist kein Beleg dafür, dass die Pflanze essbar oder unbedenklich ist."
+          }
+        }
+      }
+    },
+    "AAA1675": {
+      "source_hash": "c3cd9400d090f36661d5acbedfd1991b88c27bbd5389cbca676dedf4d2455a41",
+      "fields": {
+        "common_name": "Große Wildiris",
+        "bloom_tip": "Die Große Wildiris bringt von Spätsommer bis Herbst auffällige weiße Blüten mit violetten Zeichnungen hervor.",
+        "description": "Dietes grandiflora, die Große Wildiris, ist eine immergrüne, horstbildende Staude aus der Familie der Schwertliliengewächse (Iridaceae), heimisch an bewaldeten Küstensäumen und Felshängen der südafrikanischen Ostkap-Provinz und KwaZulu-Natals. Fächerförmige Büschel steifer, schwertförmiger Blätter tragen drahtige Stängel mit großen weißen Blüten, deren äußere Blütenblätter jeweils von einem gelben Nektarmal gezeichnet sind, während die inneren Segmente violett gefleckt sind. Einzelne Blüten halten nur ein bis zwei Tage, doch die Pflanze bringt im Spätsommer und Herbst etwa alle vierzehn Tage einen neuen Blütenschub hervor, was ihr den englischen Namen 'Fortnight Lily' einbrachte.",
+        "history_text_short": "Von Richard Anthony Salisbury 'Dietes' genannt – griechisch für 'zweifach verwandt' –, blieb der Gattungsname jahrzehntelang unveröffentlicht, bis ihn der deutsche Botaniker Friedrich Klatt 1866 gültig machte. Die Art selbst wurde 1928 vom Kew-Botaniker N. E. Brown, einem produktiven Erforscher der südafrikanischen Flora, formal beschrieben.",
+        "history_text_long": "Anfang des 19. Jahrhunderts schlug der britische Botaniker Richard Anthony Salisbury eine neue Gattung für eine Gruppe südafrikanischer Schwertlilien vor, die weder recht zu Iris noch zu Moraea passten, den beiden Gattungen, denen sie am ähnlichsten waren. Er nannte sie Dietes, gebildet aus dem Griechischen für 'zweifach' und 'verwandt' – ein Hinweis auf die geteilte Zugehörigkeit der Pflanze zu ihren beiden Verwandten. Seine Zeitgenossen waren nicht überzeugt, und als Salisbury 1829 starb, blieb der Name ein unveröffentlichter Vorschlag; die meisten Botaniker führten die Pflanzen weiterhin unter Moraea.\n\nEs dauerte fast vierzig Jahre, bis der Name wieder auftauchte. 1866 veröffentlichte der deutsche Botaniker Friedrich Klatt, der ältere Manuskripte und neu eingetroffenes Material vom Kap durcharbeitete, formell den Namen Dietes, wobei er Salisburys ursprüngliche Idee würdigte und der Gattung endlich Gültigkeit verlieh. Klatts Beschreibung öffnete späteren Botanikern die Tür, weitere südafrikanische Schwertliliengewächse in die wiederbelebte Gattung einzuordnen.\n\nEiner dieser Botaniker war Nicholas Edward Brown, ein produktiver Erforscher südafrikanischer Pflanzen an den Royal Botanic Gardens, Kew, der 1928 eine großblütige Art aus dem Ostkap und KwaZulu-Natal formell als Dietes grandiflora beschrieb. Ihre Blüten, jede kaum ein bis zwei Tage haltbar, aber in Schüben etwa alle vierzehn Tage während der Blütezeit erneuert, brachten ihr bald den volkstümlichen Namen Fortnight Lily ein. Geschätzt für ihre immergrüne Struktur sowie Trocken- und Frostverträglichkeit, wurde die Art weit über ihre heimischen Küstenwälder hinaus in Gärten weltweit verbreitet – so verbreitet, dass sie in Teilen Australiens der Kultur entkommen ist und sich selbst ausgesät hat.",
+        "name_origin": "Der Gattungsname Dietes setzt sich aus dem griechischen dis ('zweifach') und etes ('verwandt') zusammen und wurde geprägt, um die Pflanze zwischen den verwandten Gattungen Iris und Moraea einzuordnen. Vorgeschlagen wurde er von Richard Anthony Salisbury Anfang des 19. Jahrhunderts, blieb bei seinem Tod 1829 jedoch unveröffentlicht; erst Jahrzehnte später, 1866, wurde der Name vom deutschen Botaniker Friedrich Klatt gültig gemacht. Das Artepitheton grandiflora ist Lateinisch für 'großblütig', und der englische Name Fortnight Lily bezieht sich auf die Gewohnheit der Pflanze, etwa alle vierzehn Tage einen frischen Blütenschub zu öffnen.",
+        "symbolism_story": "Dietes grandiflora trägt keine alte Legende, nur die ehrliche Geschichte ihres eigenen Namens und ihrer Blühgewohnheit. Jahrzehntelang zwischen zwei verwandten Gattungen gefangen, bevor sie endlich einen eigenen Namen erhielt, und dabei jede kurzlebige Blüte innerhalb weniger Tage durch eine neue ersetzend, ist sie zu einem bescheidenen Symbol für Erneuerung geworden und für Identitäten, die sich nicht leicht einordnen lassen – passend für eine Pflanze, die im Englischen als Fortnight Lily bekannt ist.",
+        "flower_meaning": "Erneuerung",
+        "fragrance": {
+          "notes": "Für diese Art ist kein Duft dokumentiert."
+        },
+        "uses_list": [
+          {
+            "text": "Wegen ihres immergrünen, schwertförmigen Laubs und ihrer langen Blütezeit weltweit im Landschaftsbau geschätzt, ist sie ein fester Bestandteil öffentlicher Gärten, Straßenbepflanzungen und pflegeleichter Beete."
+          },
+          {
+            "text": "Die gelben Nektarmale auf den äußeren Blütenblättern leiten Bienen und andere bestäubende Insekten zum Nektar der Blüte."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Erneuerung",
+            "description": "Jede papierartige weiße Blüte hält kaum einen Tag, bevor sie verwelkt, doch die Pflanze antwortet während ihrer gesamten Blütezeit alle paar Wochen mit einem neuen Schub – ein lebendiges Sinnbild für stete Erneuerung."
+          },
+          {
+            "keyword": "Verwandtschaft",
+            "description": "Ihr Gattungsname, gebildet aus griechischen Wörtern für 'zweifach' und 'verwandt', erinnert an die zweifelhafte Verwandtschaft der Pflanze zwischen Iris und Moraea – eine botanische Identität, deren Klärung Jahrzehnte und zwei verschiedene Botaniker brauchte."
+          }
+        ],
+        "toxicity": {
+          "headline": "Keine Toxizität gemeldet",
+          "active_compound_display": "Keine gemeldet",
+          "notes_en": "Keine autoritative Übereinstimmung zur Toxizität gefunden; wird als nicht gemeldet behandelt (LLM-Einschätzung ist nicht quellengeprüft).",
+          "human": {
+            "exposure": "Kein Expositionsweg gemeldet.",
+            "effect": "Keine toxische Wirkung gemeldet.",
+            "note": "Für Menschen ist in diesem Katalog keine Toxizität gemeldet; dies ist kein Beleg dafür, dass die Pflanze essbar oder unbedenklich ist."
+          },
+          "dog": {
+            "exposure": "Kein Expositionsweg gemeldet.",
+            "effect": "Keine toxische Wirkung gemeldet.",
+            "note": "Für Hunde ist in diesem Katalog keine Toxizität gemeldet; dies ist kein Beleg dafür, dass die Pflanze essbar oder unbedenklich ist."
+          },
+          "cat": {
+            "exposure": "Kein Expositionsweg gemeldet.",
+            "effect": "Keine toxische Wirkung gemeldet.",
             "note": "Für Katzen ist in diesem Katalog keine Toxizität gemeldet; dies ist kein Beleg dafür, dass die Pflanze essbar oder unbedenklich ist."
           }
         }
