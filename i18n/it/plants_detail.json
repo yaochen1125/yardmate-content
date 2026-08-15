@@ -3,8 +3,8 @@
   "locale": "it",
   "source": {
     "resource": "plants_detail.json",
-    "sha256": "ff2ab6d676829f770efe9d35a3bd343c489ba41ce46012f44562c73e4cacdf39",
-    "record_count": 1675
+    "sha256": "8013986e3f2858059f4f7c6fdadd6051901e3bf885d6426fa40abb446a286bf5",
+    "record_count": 1676
   },
   "records": {
     "AAA0001": {
@@ -102696,6 +102696,63 @@
             "exposure": "Nessuna via di esposizione segnalata.",
             "effect": "Nessun effetto tossico segnalato.",
             "note": "In questo catalogo non è segnalata alcuna tossicità per i gatti; ciò non è prova che la pianta sia commestibile o innocua."
+          }
+        }
+      }
+    },
+    "AAA1677": {
+      "source_hash": "3d190757bd5237da6e7cc38bfaed1001fb476a81288d4aa542f25e3d50c3d8e6",
+      "fields": {
+        "common_name": "scardaccione laciniato",
+        "bloom_tip": "Questa pianta si distingue per le sue infiorescenze spinose e uniche, che attirano gli impollinatori durante i mesi estivi.",
+        "description": "Lo scardaccione laciniato è una biennale alta e spinosa, riconoscibile per le foglie profondamente lobate, quasi simili a felci, un tratto che la distingue dagli scardaccioni dalle foglie più lisce. Nel primo anno la pianta forma solo una rosetta bassa; nel secondo produce un fusto costoluto e ricoperto di spine, coronato da densi capolini ovali irti di brattee ricurve. Piccoli fiori bianco-lavanda si aprono in anelli stretti che procedono dal centro verso entrambe le estremità durante l'estate, attirando api e farfalle. Le foglie opposte avvolgono e si fondono attorno al fusto, formando piccole coppe che raccolgono l'acqua piovana dopo ogni temporale.",
+        "history_text_short": "Originario dell'Europa e dell'Asia temperata, lo scardaccione laciniato raggiunse il Nord America nell'Ottocento e si diffuse rapidamente nel Novecento lungo i nuovi corridoi autostradali, con i suoi capolini spinosi che viaggiavano nei macchinari per lo sfalcio e nel terreno smosso dei cigli, finché intere cunette non si tingevano di lavanda ogni luglio.",
+        "history_text_long": "Lo scardaccione laciniato è originario dell'Europa e dell'Asia temperata, dove cresce come una discreta biennale di ciglio stradale tra centinaia di altre piante alte da bordo strada. Giunse in Nord America come clandestino accidentale nell'Ottocento, probabilmente mescolato a carichi di grano o zavorra delle navi, e per decenni rimase una curiosità minore in chiazze sparse vicino a porti e scali ferroviari. La sua vera espansione arrivò più tardi, spinta dal boom della costruzione autostradale della metà del Novecento. Mentre autostrade e strade rurali del Midwest americano venivano livellate, sfalciate e riseminate, i capolini duri e spinosi dello scardaccione viaggiavano nei cingoli delle falciatrici e nella terra spostata tra i cantieri. Nel giro di pochi decenni, folti popolamenti dei suoi fusti costoluti e spinosi bordavano fossati e spartitraffico dal Missouri al Wisconsin, e diversi stati oggi lo classificano come erbaccia nociva o invasiva per la sua tendenza a soppiantare graminacee e fiori selvatici nativi della prateria nel terreno smosso che predilige. Eppure le stesse qualità che ne fanno una pianta problematica le regalano anche una discreta seconda vita. Ogni coppia di foglie avvolgenti si fonde in una piccola coppa che raccoglie l'acqua piovana; gli erboristi di un tempo chiamavano quest'acqua raccolta 'il bacino di Venere' e la tamponavano su verruche e occhi irritati, credendo che le foglie a forma di coppa stesse portassero parte della cura. In inverno, quando i capolini si sono seccati fino a un marrone rigido e pungente, stormi di cardellini americani lavorano i capolini in cerca di cibo, aggrappandosi di lato per estrarre gli ultimi semi dalla neve — uno dei luoghi più affidabili per osservarli nutrirsi quando le altre fonti di semi si sono esaurite.",
+        "name_origin": "Il nome del genere Dipsacus deriva dal greco dipsa, 'sete', un riferimento alle piccole coppe che si formano dove ogni coppia di foglie avvolgenti si fonde attorno al fusto, raccogliendo l'acqua piovana da cui un tempo si credeva bevessero insetti e uccelli assetati. Il nome della specie, laciniatus, è latino per 'strappato' o 'tagliato in lobi stretti', e descrive le foglie profondamente incise che distinguono questo scardaccione dai suoi parenti dalle foglie semplici.",
+        "symbolism_story": "Poiché prospera dove quasi nient'altro riesce a crescere — asfalto screpolato, banchine ghiaiose, terreni sovrapascolati —, lo scardaccione è diventato un emblema popolare di resilienza, una pianta che trasforma le avversità in altezza. La sua corona di brattee spinose, abbastanza robusta da sopravvivere intatta all'inverno, ha aggiunto un secondo significato: protezione, l'idea di un'armatura eretta attorno a qualcosa che merita di essere custodito. Entrambi i fili attraversano il modo in cui questa pianta è sempre stata letta — non fragile, non appariscente, ma ostinatamente, difensivamente viva.",
+        "flower_meaning": "Resilienza",
+        "fragrance": {
+          "notes": "Praticamente inodore; api e farfalle sono attratte dal suo nettare, non da alcun profumo."
+        },
+        "uses_list": [
+          {
+            "text": "I capolini estivi sono un magnete per api e farfalle che percorrono gli anelli di nettare."
+          },
+          {
+            "text": "I capolini secchi invernali nutrono stormi di cardellini americani quando le altre fonti di semi scarseggiano."
+          },
+          {
+            "text": "I suoi robusti e spinosi capolini secchi vengono raccolti per composizioni naturali di fiori secchi e lavori artigianali."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Resilienza",
+            "description": "prospera in terreno povero e smosso dove quasi nient'altro riesce ad attecchire"
+          },
+          {
+            "keyword": "Protezione",
+            "description": "una corona di brattee spinose a fare la guardia in ogni stagione"
+          }
+        ],
+        "toxicity": {
+          "headline": "Nessuna tossicità segnalata",
+          "active_compound_display": "Nessuno segnalato",
+          "notes_en": "Nessuna corrispondenza di tossicità autorevole trovata; trattata come non segnalata (la stima LLM non è verificata da fonti).",
+          "human": {
+            "exposure": "Non è segnalata alcuna via di esposizione.",
+            "effect": "Non è segnalato alcun effetto tossico.",
+            "note": "In questo catalogo non è segnalata tossicità per gli umani; ciò non prova che la pianta sia commestibile o innocua."
+          },
+          "dog": {
+            "exposure": "Non è segnalata alcuna via di esposizione.",
+            "effect": "Non è segnalato alcun effetto tossico.",
+            "note": "In questo catalogo non è segnalata tossicità per i cani; ciò non prova che la pianta sia commestibile o innocua."
+          },
+          "cat": {
+            "exposure": "Non è segnalata alcuna via di esposizione.",
+            "effect": "Non è segnalato alcun effetto tossico.",
+            "note": "In questo catalogo non è segnalata tossicità per i gatti; ciò non prova che la pianta sia commestibile o innocua."
           }
         }
       }

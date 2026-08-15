@@ -3,8 +3,8 @@
   "locale": "pt",
   "source": {
     "resource": "plants_detail.json",
-    "sha256": "ff2ab6d676829f770efe9d35a3bd343c489ba41ce46012f44562c73e4cacdf39",
-    "record_count": 1675
+    "sha256": "8013986e3f2858059f4f7c6fdadd6051901e3bf885d6426fa40abb446a286bf5",
+    "record_count": 1676
   },
   "records": {
     "AAA0001": {
@@ -102682,6 +102682,63 @@
           "headline": "Nenhuma toxicidade relatada",
           "active_compound_display": "Nenhum relato",
           "notes_en": "Nenhuma correspondência de toxicidade autoritativa encontrada; tratada como não relatada (estimativa de LLM não é verificada por fonte).",
+          "human": {
+            "exposure": "Nenhuma via de exposição é relatada.",
+            "effect": "Nenhum efeito tóxico é relatado.",
+            "note": "Nenhuma toxicidade é relatada para humanos neste catálogo; isso não é evidência de que a planta seja comestível ou inofensiva."
+          },
+          "dog": {
+            "exposure": "Nenhuma via de exposição é relatada.",
+            "effect": "Nenhum efeito tóxico é relatado.",
+            "note": "Nenhuma toxicidade é relatada para cães neste catálogo; isso não é evidência de que a planta seja comestível ou inofensiva."
+          },
+          "cat": {
+            "exposure": "Nenhuma via de exposição é relatada.",
+            "effect": "Nenhum efeito tóxico é relatado.",
+            "note": "Nenhuma toxicidade é relatada para gatos neste catálogo; isso não é evidência de que a planta seja comestível ou inofensiva."
+          }
+        }
+      }
+    },
+    "AAA1677": {
+      "source_hash": "3d190757bd5237da6e7cc38bfaed1001fb476a81288d4aa542f25e3d50c3d8e6",
+      "fields": {
+        "common_name": "cardo-penteador laciniado",
+        "bloom_tip": "Esta planta se destaca por suas cabeças florais espinhosas e singulares, que atraem polinizadores durante os meses de verão.",
+        "description": "O cardo-penteador laciniado é uma bienal alta e espinhosa, reconhecida por suas folhas profundamente lobadas, quase semelhantes a samambaias — um traço que a distingue de outros cardos-penteadores de folhas mais lisas. No primeiro ano, a planta forma apenas uma roseta baixa; no segundo, ela produz um caule sulcado e coberto de espinhos, coroado por densas cabeças florais ovaladas eriçadas de brácteas curvas. Pequenas flores brancas-lilás se abrem em anéis estreitos que avançam do centro em direção às duas extremidades durante o verão, atraindo abelhas e borboletas. Folhas opostas envolvem e se fundem ao redor do caule, formando pequenas bacias que coletam água da chuva após cada tempestade.",
+        "history_text_short": "Nativo da Europa e da Ásia temperada, o cardo-penteador laciniado chegou à América do Norte no século XIX e se espalhou rapidamente no século XX ao longo dos novos corredores rodoviários interestaduais, com suas cabeças de sementes espinhosas viajando em máquinas de corte e em solo revolvido nas margens das estradas, até que valas inteiras se tingiam de lilás a cada julho.",
+        "history_text_long": "O cardo-penteador laciniado é nativo da Europa e da Ásia temperada, onde cresce como uma discreta bienal de acostamento entre centenas de outras plantas altas de beira de estrada. Chegou à América do Norte como um clandestino acidental no século XIX, provavelmente misturado a carregamentos de grãos ou lastro de navios, e por décadas permaneceu uma curiosidade menor em manchas dispersas perto de portos e pátios ferroviários. Sua verdadeira expansão veio depois, impulsionada pelo boom da construção rodoviária em meados do século XX. À medida que rodovias interestaduais e estradas rurais eram niveladas, cortadas e replantadas em todo o Meio-Oeste americano, as cabeças de sementes duras e espinhosas do cardo-penteador viajavam nas esteiras das cortadeiras e no solo movido entre canteiros de obras. Em poucas décadas, densas populações de seus caules sulcados e espinhosos margeavam valas e canteiros centrais do Missouri até Wisconsin, e vários estados hoje o classificam como erva daninha nociva ou invasora por sua tendência de sufocar gramíneas e flores silvestres nativas das pradarias no solo perturbado que prefere. No entanto, as mesmas qualidades que a tornam uma planta problemática também lhe dão uma discreta segunda vida. Cada par de folhas envolventes se funde em uma pequena bacia que coleta água da chuva; antigos herbalistas chamavam essa água acumulada de 'bacia de Vênus' e a aplicavam em verrugas e olhos irritados, acreditando que as próprias folhas em forma de taça carregavam parte da cura. No inverno, quando as cabeças florais secam até um marrom rígido e espinhoso, bandos de pintassilgos-americanos vasculham as cabeças de sementes em busca de alimento, agarrando-se de lado para extrair as últimas sementes em meio à neve — um dos lugares mais confiáveis para observá-los se alimentando quando outras fontes de sementes já se esgotaram.",
+        "name_origin": "O nome do gênero Dipsacus vem do grego dipsa, 'sede', numa referência às pequenas bacias formadas onde cada par de folhas envolventes se funde ao redor do caule, acumulando água da chuva da qual se acreditava outrora que insetos e aves sedentos bebiam. O nome da espécie, laciniatus, é o latim para 'rasgado' ou 'cortado em lóbulos estreitos', descrevendo as folhas profundamente recortadas que distinguem este cardo-penteador de seus parentes de folha simples.",
+        "symbolism_story": "Por prosperar onde quase nada mais consegue crescer — asfalto rachado, acostamentos de cascalho, pastagens sobrepastejadas —, o cardo-penteador tornou-se um emblema popular de resiliência, uma planta que transforma adversidade em altura. Sua coroa de brácteas espinhosas, resistente o bastante para sobreviver intacta ao inverno, acrescentou um segundo significado: proteção, a ideia de uma armadura erguida ao redor de algo que merece ser guardado. Os dois fios percorrem a maneira como essa planta sempre foi interpretada — não frágil, não vistosa, mas obstinada e defensivamente viva.",
+        "flower_meaning": "Resiliência",
+        "fragrance": {
+          "notes": "Praticamente inodoro; abelhas e borboletas são atraídas pelo néctar, não por qualquer perfume."
+        },
+        "uses_list": [
+          {
+            "text": "As cabeças florais do verão são um ímã para abelhas e borboletas que percorrem os anéis de néctar."
+          },
+          {
+            "text": "As cabeças de sementes secas do inverno alimentam bandos de pintassilgos-americanos quando outras fontes de sementes escasseiam."
+          },
+          {
+            "text": "Suas resistentes e espinhosas cabeças secas são colhidas para arranjos naturais de flores secas e artesanato."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Resiliência",
+            "description": "prospera em solo pobre e revolvido onde quase nada mais consegue se fixar"
+          },
+          {
+            "keyword": "Proteção",
+            "description": "uma coroa de brácteas espinhosas que monta guarda em todas as estações"
+          }
+        ],
+        "toxicity": {
+          "headline": "Nenhuma toxicidade relatada",
+          "active_compound_display": "Nenhum relatado",
+          "notes_en": "Nenhuma correspondência de toxicidade autoritativa encontrada; tratado como não relatado (estimativa do LLM não verificada por fonte).",
           "human": {
             "exposure": "Nenhuma via de exposição é relatada.",
             "effect": "Nenhum efeito tóxico é relatado.",

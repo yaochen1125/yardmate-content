@@ -3,8 +3,8 @@
   "locale": "es",
   "source": {
     "resource": "plants_detail.json",
-    "sha256": "ff2ab6d676829f770efe9d35a3bd343c489ba41ce46012f44562c73e4cacdf39",
-    "record_count": 1675
+    "sha256": "8013986e3f2858059f4f7c6fdadd6051901e3bf885d6426fa40abb446a286bf5",
+    "record_count": 1676
   },
   "records": {
     "AAA0001": {
@@ -102695,6 +102695,63 @@
           "cat": {
             "exposure": "No se reporta ninguna vía de exposición.",
             "effect": "No se reporta ningún efecto tóxico.",
+            "note": "No se reporta toxicidad para gatos en este catálogo; esto no es evidencia de que la planta sea comestible o inofensiva."
+          }
+        }
+      }
+    },
+    "AAA1677": {
+      "source_hash": "3d190757bd5237da6e7cc38bfaed1001fb476a81288d4aa542f25e3d50c3d8e6",
+      "fields": {
+        "common_name": "cardencha laciniada",
+        "bloom_tip": "Esta planta se distingue por sus cabezuelas florales espinosas y singulares que atraen polinizadores durante los meses de verano.",
+        "description": "La cardencha laciniada es una bienal alta y espinosa, reconocible por sus hojas profundamente lobuladas y de aspecto casi helechoso, un rasgo que la distingue de otras cardenchas de hojas más lisas. En su primer año la planta solo forma una roseta baja; en el segundo año produce un tallo acanalado y cubierto de espinas, coronado por densas cabezuelas ovaladas erizadas de brácteas curvas. Pequeñas flores de color blanco lavanda se abren en anillos estrechos que avanzan desde el centro hacia ambos extremos durante el verano, atrayendo abejas y mariposas. Las hojas opuestas envuelven y se fusionan alrededor del tallo, formando pequeñas cubetas que recogen agua de lluvia tras cada tormenta.",
+        "history_text_short": "Originaria de Europa y Asia templada, la cardencha laciniada llegó a Norteamérica en el siglo XIX y se propagó rápidamente en el siglo XX a lo largo de los nuevos corredores de autopistas interestatales, con sus espinosas cabezuelas de semillas viajando en maquinaria de siega y en tierra removida de las cunetas hasta que zanjas enteras se teñían de lavanda cada julio.",
+        "history_text_long": "La cardencha laciniada es originaria de Europa y Asia templada, donde crece como una discreta bienal de cuneta entre cientos de otras plantas altas de borde de camino. Llegó a Norteamérica como polizón accidental en el siglo XIX, probablemente mezclada con cargamentos de grano o lastre de barcos, y durante décadas se mantuvo como una curiosidad menor en parches dispersos cerca de puertos y patios ferroviarios. Su verdadera expansión llegó más tarde, impulsada por el auge de la construcción de autopistas a mediados del siglo XX. A medida que las interestatales y carreteras rurales se nivelaban, segaban y resembraban en todo el Medio Oeste estadounidense, las duras y espinosas cabezuelas de semillas de la cardencha viajaban en las ruedas de las segadoras y en la tierra trasladada entre obras. En pocas décadas, densas poblaciones de sus tallos acanalados y espinosos bordeaban cunetas y medianas desde Misuri hasta Wisconsin, y varios estados la catalogan hoy como maleza nociva o invasora por su tendencia a desplazar a los pastos y flores silvestres nativos de las praderas en el suelo alterado que prefiere. Sin embargo, las mismas cualidades que la convierten en una planta problemática le dan también una discreta segunda vida. Cada par de hojas envolventes se fusiona en una pequeña cubeta que recoge agua de lluvia; los herbolarios antiguos llamaban a esta agua acumulada 'el baño de Venus' y la aplicaban sobre verrugas y ojos irritados, creyendo que las propias hojas en forma de copa aportaban algo de la cura. En invierno, cuando las cabezuelas se han secado hasta adquirir un tono marrón rígido y espinoso, bandadas de jilgueros americanos trabajan las cabezuelas en busca de alimento, aferrándose de lado para extraer las últimas semillas entre la nieve, uno de los lugares más fiables para observarlos alimentándose cuando otras fuentes de semillas ya se han agotado.",
+        "name_origin": "El nombre del género Dipsacus proviene del griego dipsa, 'sed', en referencia a las pequeñas cubetas que se forman donde cada par de hojas envolventes se fusiona alrededor del tallo, acumulando agua de lluvia de la que antaño se creía que bebían insectos y aves sedientos. El nombre de la especie, laciniatus, es latín para 'desgarrado' o 'cortado en lóbulos estrechos', y describe las hojas profundamente incididas que distinguen a esta cardencha de sus parientes de hoja simple.",
+        "symbolism_story": "Como prospera donde casi nada más lo hace —pavimento agrietado, arcenes de grava, terrenos sobrepastoreados—, la cardencha se convirtió en un emblema popular de la resiliencia, una planta que transforma la adversidad en altura. Su corona de brácteas espinosas, lo bastante resistente para sobrevivir intacta al invierno, añadió un segundo significado: protección, la idea de una armadura levantada alrededor de algo que merece ser custodiado. Ambos hilos recorren la forma en que esta planta siempre se ha interpretado: no frágil, no vistosa, sino obstinada y defensivamente viva.",
+        "flower_meaning": "Resiliencia",
+        "fragrance": {
+          "notes": "Prácticamente inodora; las abejas y mariposas se sienten atraídas por su néctar, no por ningún aroma."
+        },
+        "uses_list": [
+          {
+            "text": "Las cabezuelas florales del verano son un imán para abejas y mariposas que recorren los anillos de néctar."
+          },
+          {
+            "text": "Las cabezuelas secas del invierno alimentan a bandadas de jilgueros americanos cuando escasean otras fuentes de semillas."
+          },
+          {
+            "text": "Sus resistentes y espinosas cabezuelas secas se recolectan para arreglos naturales de flores secas y manualidades."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Resiliencia",
+            "description": "prospera en suelos pobres y alterados donde casi nada más logra arraigar"
+          },
+          {
+            "keyword": "Protección",
+            "description": "una corona de brácteas espinosas que monta guardia en cada estación"
+          }
+        ],
+        "toxicity": {
+          "headline": "No se reporta toxicidad",
+          "active_compound_display": "Ninguno reportado",
+          "notes_en": "No se encontró una coincidencia de toxicidad autorizada; se trata como no reportado (la estimación del LLM no está verificada por fuentes).",
+          "human": {
+            "exposure": "No se reporta vía de exposición.",
+            "effect": "No se reporta efecto tóxico.",
+            "note": "No se reporta toxicidad para humanos en este catálogo; esto no es evidencia de que la planta sea comestible o inofensiva."
+          },
+          "dog": {
+            "exposure": "No se reporta vía de exposición.",
+            "effect": "No se reporta efecto tóxico.",
+            "note": "No se reporta toxicidad para perros en este catálogo; esto no es evidencia de que la planta sea comestible o inofensiva."
+          },
+          "cat": {
+            "exposure": "No se reporta vía de exposición.",
+            "effect": "No se reporta efecto tóxico.",
             "note": "No se reporta toxicidad para gatos en este catálogo; esto no es evidencia de que la planta sea comestible o inofensiva."
           }
         }
