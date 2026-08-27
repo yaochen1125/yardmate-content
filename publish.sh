@@ -38,6 +38,7 @@ FILES=(
   version.txt
 )
 LUNAR_DIR="lunar_emotional_fortunes"
+DEX_DIR="dex"
 # git 白名单（jsDelivr 兜底用）：排除整包 plants_detail.json —— 它真源在 scripts/，只上传 R2、不进 content git。
 GIT_FILES=()
 for f in "${FILES[@]}"; do [[ "$f" == "plants_detail.json" ]] || GIT_FILES+=("$f"); done
@@ -121,6 +122,12 @@ done
 run rclone copy "${LUNAR_DIR}/" "r2:${BUCKET}/${PREFIX}/${LUNAR_DIR}/" \
     --header-upload "Cache-Control: ${CACHE_CONTROL}" --s3-no-check-bucket
 
+# Plantdex 稀有度 / 卡包（App 读 content/dex/*.json）。子目录，故不进扁平 FILES 白名单。
+if [[ -d "${DEX_DIR}" ]]; then
+  run rclone copy "${DEX_DIR}/" "r2:${BUCKET}/${PREFIX}/${DEX_DIR}/" \
+      --header-upload "Cache-Control: ${CACHE_CONTROL}" --s3-no-check-bucket
+fi
+
 # i18n per-locale overlays — App fetches content/i18n/<locale>/<file>; missing
 # locale/file falls back to English (the flat whitelist above). Whole tree, paths preserved.
 if [[ -d i18n ]]; then
@@ -139,6 +146,7 @@ source "$CF_ENV"
 purge_urls=()
 for f in "${FILES[@]}"; do purge_urls+=("${PUBLIC_BASE}/${f}"); done
 for y in "${LUNAR_DIR}"/*.json; do [[ -e "$y" ]] && purge_urls+=("${PUBLIC_BASE}/${y}"); done
+for y in "${DEX_DIR}"/*.json; do [[ -e "$y" ]] && purge_urls+=("${PUBLIC_BASE}/${y}"); done
 while IFS= read -r f; do purge_urls+=("${PUBLIC_BASE}/${f}"); done < <(find i18n -type f -name '*.json' 2>/dev/null | sort)
 # Cloudflare purge-by-URL caps at 30 URLs per request → send in batches.
 purge_batch() {
@@ -166,10 +174,11 @@ else
   echo "==> Git push (jsDelivr fallback for old app versions)"
   if [[ $DRY_RUN -eq 1 ]]; then
     echo "[dry-run] git add <whitelist> && git commit && git push"
-  elif [[ -n "$(git status --porcelain -- "${GIT_FILES[@]}" "${LUNAR_DIR}" i18n)" ]]; then
-    git add -- "${GIT_FILES[@]}" "${LUNAR_DIR}" i18n
+  elif [[ -n "$(git status --porcelain -- "${GIT_FILES[@]}" "${LUNAR_DIR}" "${DEX_DIR}" i18n)" ]]; then
+    git add -- "${GIT_FILES[@]}" "${LUNAR_DIR}" "${DEX_DIR}" i18n
     git commit -m "content: publish $(date -u +%Y-%m-%dT%H:%MZ)"
-    git push
+    # GitHub 账号封禁期：真源是自建 backup（origin 必 403，裸 push 会中断整条管线）。
+    git push backup HEAD:main
   else
     echo "    no content changes to push"
   fi
