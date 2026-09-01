@@ -3,8 +3,8 @@
   "locale": "de",
   "source": {
     "resource": "plants_detail.json",
-    "sha256": "8013986e3f2858059f4f7c6fdadd6051901e3bf885d6426fa40abb446a286bf5",
-    "record_count": 1676
+    "sha256": "45b3c1bbe62c5de9089a8aef94f244d98e6ee7b08b5cc732ee13048f69e47359",
+    "record_count": 1678
   },
   "records": {
     "AAA0001": {
@@ -102719,6 +102719,127 @@
           {
             "keyword": "Schutz",
             "description": "ein Kranz stacheliger Hüllblätter, der zu jeder Jahreszeit Wache hält"
+          }
+        ],
+        "toxicity": {
+          "headline": "Keine Toxizität gemeldet",
+          "active_compound_display": "Keine gemeldet",
+          "notes_en": "Kein autoritativer Toxizitätsnachweis gefunden; daher als nicht gemeldet eingestuft (LLM-Schätzung nicht quellengeprüft).",
+          "human": {
+            "exposure": "Kein Expositionsweg gemeldet.",
+            "effect": "Keine toxische Wirkung gemeldet.",
+            "note": "Für Menschen ist in diesem Katalog keine Toxizität gemeldet; dies ist kein Beleg dafür, dass die Pflanze essbar oder unbedenklich ist."
+          },
+          "dog": {
+            "exposure": "Kein Expositionsweg gemeldet.",
+            "effect": "Keine toxische Wirkung gemeldet.",
+            "note": "Für Hunde ist in diesem Katalog keine Toxizität gemeldet; dies ist kein Beleg dafür, dass die Pflanze essbar oder unbedenklich ist."
+          },
+          "cat": {
+            "exposure": "Kein Expositionsweg gemeldet.",
+            "effect": "Keine toxische Wirkung gemeldet.",
+            "note": "Für Katzen ist in diesem Katalog keine Toxizität gemeldet; dies ist kein Beleg dafür, dass die Pflanze essbar oder unbedenklich ist."
+          }
+        }
+      }
+    },
+    "AAA1678": {
+      "source_hash": "57b33943f2c02b8a52fd3986ae49e807125cd2f5caf4d7b3ee69605642c3ebdd",
+      "fields": {
+        "common_name": "Seidenflaschenbaum",
+        "bloom_tip": "Der Seidenflaschenbaum blüht im Herbst an kahlen Zweigen mit großen, orchideenähnlichen rosa und magentafarbenen Blüten.",
+        "fruit_tip": "Die Frucht des Seidenflaschenbaums öffnet sich im Winter und gibt Samen frei, die in weiche, wollige Flocken gehüllt sind.",
+        "description": "Der Seidenflaschenbaum ist ein auffälliger, laubabwerfender Baum aus dem subtropischen Südamerika, bekannt für seinen geschwollenen, flaschenförmigen Stamm, der mit dicken, kegelförmigen Dornen bewehrt ist. Im Herbst, nachdem er seine Blätter abgeworfen hat, blüht er mit großen, orchideenähnlichen Blüten in Rosa- und Magentatönen mit hellen Kehlen, die Bienen, Kolibris und Fledermäuse anlocken. Sein grüner Stamm betreibt auch kahl weiter Photosynthese. Im Winter öffnen sich holzige Kapseln und geben Samen frei, die in weiche, seidige Flocken gehüllt sind, die früher zum Stopfen von Kissen und Polstern gesammelt wurden. Weit verbreitet als blühender Straßenbaum in warmen Klimazonen, bietet der Seidenflaschenbaum eine dramatische saisonale Farbenpracht.",
+        "history_text_short": "Sein geschwollener, dornenbesetzter Stamm brachte ihm in seiner südamerikanischen Heimat den Namen palo borracho, betrunkener Stock, ein. Wenn sich die winterlichen Kapseln öffnen, geben sie Samen frei, die in weiche, wollige Flocken gehüllt sind und seit langem von Hand gesammelt werden, um Kissen und Polster zu stopfen – eine bescheidene Ernte unter einem der prächtigsten Blütenbäume der Erde.",
+        "history_text_long": "Der Seidenflaschenbaum, beheimatet in den Grenzgebieten des Gran Chaco und des Atlantischen Regenwaldes in Argentinien, Brasilien, Paraguay, Bolivien und Uruguay, verdankt seinen spanischen Namen palo borracho, betrunkener Stock, der Art, wie sich sein Stamm zu einem geschwollenen, fassähnlichen Gefäß aufbläht, das mit dicken, kegelförmigen Dornen besetzt ist. Botaniker vermuten, dass der geschwollene Stamm Wasser durch die lange Trockenzeit der Region speichert, während die Dornen kletternde Tiere davon abhalten, seine Rinde abzuschälen; ältere Bäume verlieren oft viele ihrer Dornen, wenn die Rinde dicker wird. Ländliche Gemeinschaften in seinem gesamten Verbreitungsgebiet ernten seit langem eine andere Ressource des Baumes: Wenn sich die holzigen Samenkapseln im Winter öffnen, geben sie Samen frei, die in eine weiche, wollige Flocke namens paina gehüllt sind. Zu kurz und glatt, um zu Garn versponnen zu werden, wurde die Flocke stattdessen von Hand gesammelt und ähnlich wie Kapok, von der verwandten Ceiba pentandra, zum Stopfen von Kissen, Matratzen und Polstern sowie später als leichte, wasserabweisende Füllung für Rettungswesten und Isoliermaterial verwendet. Im 20. Jahrhundert in Parks und Alleen Kaliforniens, des Mittelmeerraums und Australiens eingeführt, wird der Seidenflaschenbaum heute weltweit vor allem wegen seiner spektakulären Herbstblüte angebaut, während die Tradition des Kissenstopfens, die einst die Aufmerksamkeit auf seine Kapseln lenkte, in Teilen Südamerikas bis heute fortbesteht.",
+        "name_origin": "Der Gattungsname Ceiba stammt von einem Wort, das in der Karibik und Mittelamerika für große, heilige Bäume derselben botanischen Familie verwendet wird, während speciosa lateinisch für prächtig oder schön ist und sich auf seine auffälligen Blüten bezieht. Der Baum ist auch weithin unter seinem spanischen Trivialnamen palo borracho, betrunkener Stock, bekannt, benannt nach seinem geschwollenen, flaschenförmigen Stamm.",
+        "symbolism_story": "Der Seidenflaschenbaum blüht in trockenen Jahren am üppigsten und schöpft seine Farbe aus dem Wasser, das tief in seinem geschwollenen Stamm gespeichert ist. Für viele, die ihn pflanzen, ist das Aufblühen seiner kahlen Zweige jeden Herbst eine stille Lektion in Widerstandskraft und Erneuerung.",
+        "flower_meaning": "Widerstandskraft",
+        "fragrance": {
+          "notes": "Die Blüten verströmen einen zarten, süßen Duft, der nachtaktive Bestäuber anlockt."
+        },
+        "uses_list": [
+          {
+            "text": "Beliebter blühender Straßen- und Parkbaum, geschätzt für seine dramatische Herbstblüte."
+          },
+          {
+            "text": "Die Blüten locken Bienen, Kolibris und nektarfressende Fledermäuse an."
+          },
+          {
+            "text": "Die seidige Samenflocke wird traditionell von Hand gesammelt, um Kissen und Polster zu stopfen."
+          },
+          {
+            "text": "Unterstützt Bestäuber und samenverbreitende Tierwelt in seinem gesamten Verbreitungsgebiet."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Widerstandskraft",
+            "description": "Sein wasserspeichernder Stamm lässt den Baum auch nach monatelanger Dürre kräftig blühen."
+          },
+          {
+            "keyword": "Erneuerung",
+            "description": "Jeden Herbst öffnen sich die Blüten an kahlen Zweigen – ein eindrucksvolles Zeichen jahreszeitlicher Wiedergeburt."
+          }
+        ],
+        "toxicity": {
+          "headline": "Keine Toxizität gemeldet",
+          "active_compound_display": "Keine gemeldet",
+          "notes_en": "Kein autoritativer Toxizitätsnachweis gefunden; daher als nicht gemeldet eingestuft (LLM-Schätzung nicht quellengeprüft).",
+          "human": {
+            "exposure": "Kein Expositionsweg gemeldet.",
+            "effect": "Keine toxische Wirkung gemeldet.",
+            "note": "Für Menschen ist in diesem Katalog keine Toxizität gemeldet; dies ist kein Beleg dafür, dass die Pflanze essbar oder unbedenklich ist."
+          },
+          "dog": {
+            "exposure": "Kein Expositionsweg gemeldet.",
+            "effect": "Keine toxische Wirkung gemeldet.",
+            "note": "Für Hunde ist in diesem Katalog keine Toxizität gemeldet; dies ist kein Beleg dafür, dass die Pflanze essbar oder unbedenklich ist."
+          },
+          "cat": {
+            "exposure": "Kein Expositionsweg gemeldet.",
+            "effect": "Keine toxische Wirkung gemeldet.",
+            "note": "Für Katzen ist in diesem Katalog keine Toxizität gemeldet; dies ist kein Beleg dafür, dass die Pflanze essbar oder unbedenklich ist."
+          }
+        }
+      }
+    },
+    "AAA1679": {
+      "source_hash": "a0f1b507375688d0d445e5ef71f15d7c1fa899896f97ef12ba18838cf38da88d",
+      "fields": {
+        "common_name": "Wiesenveilchen",
+        "bloom_tip": "Das Wiesenveilchen bringt im zeitigen Frühling reizende, kleine violett-blaue Blüten hervor.",
+        "description": "Das Wiesenveilchen ist eine niedrige, sich ausbreitende Staude, die an Wiesen und lichten Waldrändern Nordamerikas ordentliche Polster aus herzförmigen Blättern bildet. Im Frühling erscheinen reizende, fünfblättrige Blüten in violett-blauen Tönen, jede mit hellen, geäderten Kehlen, die Bestäuber zum Nektar leiten. Nach der auffälligen Frühjahrsblüte blüht die Pflanze im Sommer still weiter, mit kleinen, geschlossenen Knospen, die sich nie öffnen und dennoch Samen bilden. Durch Samen und Rhizome breitet sich das Wiesenveilchen sanft aus und eignet sich als pflegeleichter, widerstandsfähiger Bodendecker für schattige Beete, Waldgärten und Bestäuberpflanzungen bei geringem Pflegeaufwand.",
+        "history_text_short": "Seine fröhlichen Frühlingsblüten bringen kaum Samen hervor. Die meisten Samen stammen stattdessen von winzigen, geschlossenen Knospen, die später im Sommer tief zwischen den Blättern verborgen sind und sich selbst bestäuben, ohne sich je zu öffnen. Heimische Perlmuttfalter sind vollständig auf diese Pflanze angewiesen: Sie legen im Herbst Eier, damit die Raupen im Frühling sofort frisches Veilchenlaub fressen können.",
+        "history_text_long": "Das Wiesenveilchen, einst weit verbreitet in den Präriegräsern, Wiesen und Waldrändern Zentral-Nordamerikas, birgt ein seltsames Geheimnis. Seine auffälligen violett-blauen Frühlingsblüten, die von frühen Bienen besucht werden, bilden tatsächlich nur sehr wenig Samen. Die nächste Generation der Pflanze entsteht stattdessen größtenteils aus winzigen, geschlossenen Knospen, sogenannten kleistogamen Blüten, die später im Sommer tief zwischen den Blättern erscheinen. Diese öffnen sich nie und benötigen keinen Bestäuber, sondern befruchten sich still selbst und lassen vor dem Herbst Samen fallen. Diese Abhängigkeit von Veilchenlaub geht noch tiefer: Mehrere heimische Perlmuttfalterarten, darunter der zunehmend seltene Regal-Perlmuttfalter, legen jeden Herbst ihre Eier auf trockenem Prärieboden nahe ruhender Veilchenbestände ab. Die Raupen schlüpfen innerhalb weniger Tage, fressen jedoch nicht; sie überwintern ohne Nahrung, bis das Wiesenveilchen im Frühling wieder austreibt, die einzige Nahrung, die ihre Art nutzen kann. Wo Prärieveilchen dem Pflug gewichen sind, sind auch die Perlmuttfalterbestände verschwunden. Lange vor diesem Rückgang sammelten indigene Gemeinschaften Nordamerikas und später Präriesiedler jeden Frühling die jungen Blätter und Blüten des Wiesenveilchens, gaben sie in Salate, brühten sie zu einem milden Tee auf oder kandierten die Blüten, und schätzten die Pflanze als eines der ersten frischen Grüns der Saison nach einem langen Winter.",
+        "name_origin": "Der Gattungsname Viola ist lateinisch für Veilchen und bezieht sich auf die kräftige Farbe der Blüte. Der Artname pratincola bedeutet wiesenbewohnend, von lateinisch pratum (Wiese) und incola (Bewohner), und beschreibt seinen bevorzugten Lebensraum in offenen Grasländern und Waldlichtungen.",
+        "symbolism_story": "Tief zwischen Wiesengräsern verborgen, steht das Wiesenveilchen seit langem für Bescheidenheit, eine Blume, die zufrieden abseits des Rampenlichts blüht. Doch seine verborgenen, nie sich öffnenden Sommerblüten offenbaren eine unerwartete Findigkeit, die still die nächste Generation sichert, ohne je gesehen werden zu müssen.",
+        "flower_meaning": "Bescheidenheit",
+        "fragrance": {
+          "notes": "Dieses Veilchen duftet kaum bis gar nicht, anders als sein europäischer Verwandter, das Duftveilchen."
+        },
+        "uses_list": [
+          {
+            "text": "Beliebter niedriger Bodendecker für schattige Beete, Rabatten und Waldgärten."
+          },
+          {
+            "text": "Frühe Frühlingsblüten bieten Nektar für erwachende Bienen; die Blätter sind die einzige Nahrung der Raupen des Perlmuttfalters."
+          },
+          {
+            "text": "Junge Blätter und Blüten sind essbar und werden traditionell in Salaten, Tees und als kandierte Garnitur verwendet."
+          },
+          {
+            "text": "Wichtige Wirtspflanze für heimische Perlmuttfalter in ihrem gesamten Verbreitungsgebiet."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Bescheidenheit",
+            "description": "Sein niedriger Wuchs und die scheuen, halbversteckten Blüten machten das Veilchen seit langem zum Symbol für Bescheidenheit und Demut."
+          },
+          {
+            "keyword": "Verborgene Tiefe",
+            "description": "Seine geheimen, nie sich öffnenden Sommerblüten spiegeln ein Thema stiller Findigkeit hinter schlichtem Äußeren wider."
           }
         ],
         "toxicity": {

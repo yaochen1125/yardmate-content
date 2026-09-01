@@ -3,8 +3,8 @@
   "locale": "fr",
   "source": {
     "resource": "plants_detail.json",
-    "sha256": "8013986e3f2858059f4f7c6fdadd6051901e3bf885d6426fa40abb446a286bf5",
-    "record_count": 1676
+    "sha256": "45b3c1bbe62c5de9089a8aef94f244d98e6ee7b08b5cc732ee13048f69e47359",
+    "record_count": 1678
   },
   "records": {
     "AAA0001": {
@@ -102719,6 +102719,127 @@
           {
             "keyword": "Protection",
             "description": "une couronne de bractées épineuses montant la garde en toute saison"
+          }
+        ],
+        "toxicity": {
+          "headline": "Aucune toxicité signalée",
+          "active_compound_display": "Aucun signalé",
+          "notes_en": "Aucune correspondance de toxicité faisant autorité n'a été trouvée ; classée comme non signalée (l'estimation du LLM n'est pas vérifiée par des sources).",
+          "human": {
+            "exposure": "Aucune voie d'exposition signalée.",
+            "effect": "Aucun effet toxique signalé.",
+            "note": "Aucune toxicité n'est signalée pour l'humain dans ce catalogue ; cela ne prouve pas que la plante soit comestible ou inoffensive."
+          },
+          "dog": {
+            "exposure": "Aucune voie d'exposition signalée.",
+            "effect": "Aucun effet toxique signalé.",
+            "note": "Aucune toxicité n'est signalée pour les chiens dans ce catalogue ; cela ne prouve pas que la plante soit comestible ou inoffensive."
+          },
+          "cat": {
+            "exposure": "Aucune voie d'exposition signalée.",
+            "effect": "Aucun effet toxique signalé.",
+            "note": "Aucune toxicité n'est signalée pour les chats dans ce catalogue ; cela ne prouve pas que la plante soit comestible ou inoffensive."
+          }
+        }
+      }
+    },
+    "AAA1678": {
+      "source_hash": "57b33943f2c02b8a52fd3986ae49e807125cd2f5caf4d7b3ee69605642c3ebdd",
+      "fields": {
+        "common_name": "Faux Kapokier",
+        "bloom_tip": "Le Faux Kapokier fleurit en automne sur des branches nues, avec de grandes fleurs roses et magenta évoquant des orchidées.",
+        "fruit_tip": "Le fruit du Faux Kapokier s'ouvre en hiver et libère des graines enveloppées d'une bourre douce et cotonneuse.",
+        "description": "Le Faux Kapokier est un arbre caduc spectaculaire, originaire d'Amérique du Sud subtropicale, connu pour son tronc renflé en forme de bouteille, hérissé d'épines coniques robustes. En automne, après avoir perdu ses feuilles, il se couvre de grandes fleurs en forme d'orchidées, roses et magenta à gorge pâle, qui attirent abeilles, colibris et chauves-souris. Son tronc vert continue de photosynthétiser même dénudé. Vers l'hiver, des capsules ligneuses s'ouvrent et libèrent des graines enveloppées d'une bourre soyeuse, autrefois récoltée pour rembourrer oreillers et coussins. Largement planté comme arbre d'alignement fleuri sous climat chaud, le Faux Kapokier offre une couleur saisonnière spectaculaire.",
+        "history_text_short": "Son tronc renflé et hérissé d'épines lui a valu le nom de palo borracho, bâton ivre, dans son Amérique du Sud natale. Lorsque les capsules hivernales s'ouvrent, elles libèrent des graines enveloppées d'une bourre cotonneuse, récoltée à la main depuis longtemps pour rembourrer oreillers et coussins, une modeste récolte sous l'un des arbres à fleurs les plus spectaculaires au monde.",
+        "history_text_long": "Originaire des confins du Gran Chaco et de la forêt atlantique en Argentine, au Brésil, au Paraguay, en Bolivie et en Uruguay, le Faux Kapokier doit son nom espagnol, palo borracho (bâton ivre), à la façon dont son tronc se gonfle en une sorte de flacon bombé, hérissé d'épines coniques robustes. Les botanistes pensent que ce tronc renflé stocke de l'eau pendant la longue saison sèche de la région, tandis que les épines dissuadent les animaux grimpeurs de dépouiller son écorce ; les arbres âgés perdent souvent une grande partie de leurs épines à mesure que l'écorce s'épaissit. Les communautés rurales de son aire d'origine récoltent depuis longtemps une autre ressource de l'arbre : lorsque les capsules ligneuses s'ouvrent en hiver, elles révèlent des graines nichées dans une bourre douce et cotonneuse appelée localement paina. Trop courte et glissante pour être filée, la bourre était plutôt récoltée à la main et utilisée, un peu comme le kapok de son cousin Ceiba pentandra, pour rembourrer oreillers, matelas et coussins, puis comme garnissage léger et résistant à l'eau pour les gilets de sauvetage et l'isolation. Introduit dans les parcs et avenues de Californie, du bassin méditerranéen et d'Australie au vingtième siècle, le Faux Kapokier est aujourd'hui cultivé dans le monde entier principalement pour sa spectaculaire floraison automnale, tandis que la tradition du rembourrage qui avait d'abord attiré l'attention sur ses capsules perdure encore dans certaines régions d'Amérique du Sud.",
+        "name_origin": "Le nom de genre Ceiba vient d'un mot utilisé dans les Caraïbes et en Amérique centrale pour désigner de grands arbres sacrés de la même famille botanique, tandis que speciosa signifie en latin voyant ou magnifique, en référence à ses fleurs spectaculaires. L'arbre est aussi largement connu sous son nom commun espagnol, palo borracho, bâton ivre, en référence à son tronc renflé en forme de bouteille.",
+        "symbolism_story": "Le Faux Kapokier fleurit le plus généreusement lors des années sèches, puisant sa couleur dans l'eau stockée au plus profond de son tronc renflé. Pour beaucoup de ceux qui le plantent, ses branches nues qui éclatent en fleurs chaque automne sont une leçon silencieuse de résilience et de renouveau.",
+        "flower_meaning": "Résilience",
+        "fragrance": {
+          "notes": "Les fleurs dégagent un parfum doux et léger qui aide à attirer les pollinisateurs nocturnes."
+        },
+        "uses_list": [
+          {
+            "text": "Arbre d'alignement et de parc très apprécié pour sa spectaculaire floraison automnale."
+          },
+          {
+            "text": "Ses fleurs attirent abeilles, colibris et chauves-souris nectarivores."
+          },
+          {
+            "text": "La bourre soyeuse de ses graines est traditionnellement récoltée à la main pour rembourrer oreillers et coussins."
+          },
+          {
+            "text": "Favorise les pollinisateurs et la faune disséminatrice de graines dans toute son aire d'origine."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Résilience",
+            "description": "Son tronc capable de stocker l'eau permet à l'arbre de fleurir avec vigueur même après des mois de sécheresse."
+          },
+          {
+            "keyword": "Renouveau",
+            "description": "Chaque automne, les fleurs éclosent sur des branches nues, un spectacle saisissant de renaissance saisonnière."
+          }
+        ],
+        "toxicity": {
+          "headline": "Aucune toxicité signalée",
+          "active_compound_display": "Aucun signalé",
+          "notes_en": "Aucune correspondance de toxicité faisant autorité n'a été trouvée ; classée comme non signalée (l'estimation du LLM n'est pas vérifiée par des sources).",
+          "human": {
+            "exposure": "Aucune voie d'exposition signalée.",
+            "effect": "Aucun effet toxique signalé.",
+            "note": "Aucune toxicité n'est signalée pour l'humain dans ce catalogue ; cela ne prouve pas que la plante soit comestible ou inoffensive."
+          },
+          "dog": {
+            "exposure": "Aucune voie d'exposition signalée.",
+            "effect": "Aucun effet toxique signalé.",
+            "note": "Aucune toxicité n'est signalée pour les chiens dans ce catalogue ; cela ne prouve pas que la plante soit comestible ou inoffensive."
+          },
+          "cat": {
+            "exposure": "Aucune voie d'exposition signalée.",
+            "effect": "Aucun effet toxique signalé.",
+            "note": "Aucune toxicité n'est signalée pour les chats dans ce catalogue ; cela ne prouve pas que la plante soit comestible ou inoffensive."
+          }
+        }
+      }
+    },
+    "AAA1679": {
+      "source_hash": "a0f1b507375688d0d445e5ef71f15d7c1fa899896f97ef12ba18838cf38da88d",
+      "fields": {
+        "common_name": "Violette des prés",
+        "bloom_tip": "La Violette des prés produit au début du printemps de charmantes petites fleurs bleu-violet.",
+        "description": "La Violette des prés est une vivace basse et étalée qui forme de nets coussins de feuilles en cœur dans les prairies et les lisières boisées ouvertes d'Amérique du Nord. Au printemps, elle produit de charmantes fleurs à cinq pétales aux tons bleu-violet, chacune marquée d'une gorge pâle et veinée qui guide les pollinisateurs vers le nectar. Une fois la floraison printanière spectaculaire fanée, la plante continue de fleurir discrètement tout l'été, avec de petits boutons fermés qui ne s'ouvrent jamais mais produisent tout de même des graines. Se propageant doucement par graines et rhizomes, la Violette des prés constitue un couvre-sol facile et résistant pour les massifs ombragés, les jardins boisés et les plantations mellifères, tolérant une large gamme de sols avec un minimum d'entretien.",
+        "history_text_short": "Ses joyeuses fleurs printanières produisent très peu de graines. La plupart proviennent plutôt de minuscules boutons fermés, cachés bas parmi les feuilles plus tard en été, qui s'autopollinisent sans jamais s'ouvrir. Des papillons nourrissiers indigènes dépendent entièrement de cette plante, pondant leurs œufs chaque automne afin que les chenilles puissent se nourrir de feuilles de violette fraîches dès leur retour au printemps.",
+        "history_text_long": "Autrefois commune dans les prairies à hautes herbes, les prés et les lisières boisées d'Amérique du Nord centrale, la Violette des prés cache un curieux secret. Ses fleurs printanières bleu-violet spectaculaires, visitées par les premières abeilles, produisent en réalité très peu de graines. La génération suivante de la plante provient surtout de minuscules boutons fermés, appelés fleurs cléistogames, qui apparaissent plus tard en été, bas parmi les feuilles. Celles-ci ne s'ouvrent jamais et n'ont besoin d'aucun pollinisateur, s'autofécondant discrètement et libérant leurs graines avant l'automne. Cette dépendance au feuillage de la violette va plus loin encore : plusieurs papillons nourrissiers indigènes, dont le rare nourrissier royal, pondent leurs œufs sur le sol sec de la prairie chaque automne, près de touffes de violettes en dormance. Les chenilles éclosent en quelques jours mais ne se nourrissent pas ; elles passent l'hiver sans manger jusqu'à ce que la Violette des prés refeuille au printemps, seule nourriture que leur espèce puisse utiliser. Là où les violettes des prairies ont disparu sous la charrue, les populations de nourrissiers ont disparu avec elles. Bien avant ce déclin, les communautés autochtones nord-américaines puis les colons des prairies récoltaient chaque printemps les jeunes feuilles et fleurs de la Violette des prés, les ajoutant aux salades, les infusant en une tisane douce ou confisant les fleurs, appréciant la plante comme l'une des premières verdures fraîches de la saison après un long hiver.",
+        "name_origin": "Le nom de genre Viola signifie violette en latin, en référence à la couleur intense de la fleur. L'épithète pratincola signifie habitant des prés, du latin pratum (pré) et incola (habitant), décrivant son habitat de prédilection dans les prairies ouvertes et les clairières boisées.",
+        "symbolism_story": "Nichée bas parmi les herbes des prés, la Violette des prés symbolise depuis longtemps la modestie, une fleur qui se contente de fleurir discrètement, loin des projecteurs. Pourtant, ses fleurs d'été cachées, qui ne s'ouvrent jamais, révèlent une ingéniosité insoupçonnée, assurant tranquillement la génération suivante sans jamais avoir besoin d'être vue.",
+        "flower_meaning": "Modestie",
+        "fragrance": {
+          "notes": "Cette violette n'a que peu ou pas de parfum perceptible, contrairement à sa cousine européenne, la violette odorante."
+        },
+        "uses_list": [
+          {
+            "text": "Couvre-sol bas très apprécié pour les massifs ombragés, les bordures et les jardins boisés."
+          },
+          {
+            "text": "Ses fleurs printanières précoces offrent du nectar aux abeilles qui se réveillent ; ses feuilles sont la seule nourriture des chenilles de papillons nourrissiers."
+          },
+          {
+            "text": "Ses jeunes feuilles et fleurs sont comestibles, traditionnellement ajoutées aux salades, tisanes et garnitures confites."
+          },
+          {
+            "text": "Plante hôte essentielle pour les papillons nourrissiers indigènes dans toute son aire de répartition."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Modestie",
+            "description": "Son port bas et ses fleurs timides à demi cachées ont longtemps fait de la violette un symbole de modestie et d'humilité."
+          },
+          {
+            "keyword": "Profondeur cachée",
+            "description": "Ses fleurs d'été secrètes, qui ne s'ouvrent jamais, illustrent une ingéniosité discrète sous une apparence simple."
           }
         ],
         "toxicity": {

@@ -3,8 +3,8 @@
   "locale": "pt",
   "source": {
     "resource": "plants_detail.json",
-    "sha256": "8013986e3f2858059f4f7c6fdadd6051901e3bf885d6426fa40abb446a286bf5",
-    "record_count": 1676
+    "sha256": "45b3c1bbe62c5de9089a8aef94f244d98e6ee7b08b5cc732ee13048f69e47359",
+    "record_count": 1678
   },
   "records": {
     "AAA0001": {
@@ -102753,6 +102753,127 @@
             "exposure": "Nenhuma via de exposição é relatada.",
             "effect": "Nenhum efeito tóxico é relatado.",
             "note": "Nenhuma toxicidade é relatada para gatos neste catálogo; isso não é evidência de que a planta seja comestível ou inofensiva."
+          }
+        }
+      }
+    },
+    "AAA1678": {
+      "source_hash": "57b33943f2c02b8a52fd3986ae49e807125cd2f5caf4d7b3ee69605642c3ebdd",
+      "fields": {
+        "common_name": "Paineira-rosa",
+        "bloom_tip": "A Paineira-rosa floresce no outono em galhos despidos, com grandes flores cor-de-rosa e magenta que lembram orquídeas.",
+        "fruit_tip": "O fruto da Paineira-rosa se abre no inverno, liberando sementes envoltas em uma paina macia e algodoada.",
+        "description": "A Paineira-rosa é uma árvore decídua marcante, nativa da América do Sul subtropical, conhecida pelo tronco intumescido em forma de garrafa, armado com espinhos cônicos robustos. No outono, após perder as folhas, ela floresce profusamente com grandes flores parecidas com orquídeas, em tons de rosa e magenta com gargantas claras, atraindo abelhas, beija-flores e morcegos. Seu tronco verde continua a fotossíntese mesmo despido de folhas. No inverno, cápsulas lenhosas se abrem, liberando sementes envoltas em uma paina macia e sedosa, outrora colhida para encher travesseiros e almofadas. Amplamente plantada como árvore florida de ruas e avenidas em climas quentes, a Paineira-rosa oferece uma cor sazonal espetacular.",
+        "history_text_short": "Seu tronco intumescido e coberto de espinhos lhe rendeu o nome de palo borracho, pau bêbado, em sua terra natal sul-americana. Quando as cápsulas de inverno se abrem, liberam sementes envoltas em uma paina algodoada colhida à mão há muito tempo para encher travesseiros e almofadas, uma colheita humilde sob uma das árvores floridas mais deslumbrantes do mundo.",
+        "history_text_long": "Nativa das terras fronteiriças do Gran Chaco e da Mata Atlântica na Argentina, Brasil, Paraguai, Bolívia e Uruguai, a Paineira-rosa deve seu nome espanhol, palo borracho (pau bêbado), à forma como seu tronco incha em um recipiente bojudo em forma de barril, coberto de espinhos cônicos robustos. Os botânicos acreditam que o tronco intumescido armazena água durante a longa estação seca da região, enquanto os espinhos desencorajam animais trepadores de descascar sua casca; árvores mais velhas costumam perder muitos de seus espinhos à medida que a casca engrossa com a idade. Comunidades rurais em toda a sua área nativa colhem há muito tempo outro recurso da árvore: quando as cápsulas lenhosas se abrem no inverno, revelam sementes envoltas em uma paina macia e algodoada. Curta e escorregadia demais para ser fiada, a paina era colhida à mão e usada, de forma semelhante ao kapok de sua parente Ceiba pentandra, para encher travesseiros, colchões e almofadas, e mais tarde como enchimento leve e resistente à água para coletes salva-vidas e isolamento. Introduzida em parques e avenidas da Califórnia, do Mediterrâneo e da Austrália durante o século vinte, a Paineira-rosa é hoje cultivada em todo o mundo principalmente por sua espetacular floração outonal, enquanto a tradição de colher paina para travesseiros, que primeiro chamou atenção para suas cápsulas, ainda persiste em partes da América do Sul.",
+        "name_origin": "O nome do gênero Ceiba vem de uma palavra usada no Caribe e na América Central para grandes árvores sagradas da mesma família botânica, enquanto speciosa é latim para vistosa ou bela, referindo-se às suas flores marcantes. A árvore também é amplamente conhecida por seu nome popular em português, paineira, ou pelo nome espanhol palo borracho, pau bêbado, por seu tronco intumescido em forma de garrafa.",
+        "symbolism_story": "A Paineira-rosa floresce com mais vigor nos anos secos, extraindo sua cor da água armazenada nas profundezas de seu tronco intumescido. Para muitos que a plantam, seus galhos despidos explodindo em flor a cada outono são uma lição silenciosa de resiliência e renovação.",
+        "flower_meaning": "Resiliência",
+        "fragrance": {
+          "notes": "As flores exalam um perfume suave e doce que ajuda a atrair polinizadores noturnos."
+        },
+        "uses_list": [
+          {
+            "text": "Árvore de rua e parque muito popular, valorizada por sua espetacular floração outonal."
+          },
+          {
+            "text": "Suas flores atraem abelhas, beija-flores e morcegos nectarívoros."
+          },
+          {
+            "text": "A paina sedosa das sementes é tradicionalmente colhida à mão para encher travesseiros e almofadas."
+          },
+          {
+            "text": "Favorece polinizadores e a fauna dispersora de sementes em toda a sua área nativa."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Resiliência",
+            "description": "Seu tronco armazenador de água permite que a árvore floresça com vigor mesmo após meses de seca."
+          },
+          {
+            "keyword": "Renovação",
+            "description": "A cada outono, as flores desabrocham em galhos despidos, um espetáculo marcante de renascimento sazonal."
+          }
+        ],
+        "toxicity": {
+          "headline": "Nenhuma toxicidade relatada",
+          "active_compound_display": "Nenhum relatado",
+          "notes_en": "Nenhuma correspondência autorizada de toxicidade foi encontrada; tratada como não relatada (a estimativa do LLM não é verificada por fontes).",
+          "human": {
+            "exposure": "Nenhuma via de exposição relatada.",
+            "effect": "Nenhum efeito tóxico relatado.",
+            "note": "Este catálogo não relata toxicidade para humanos; isso não é evidência de que a planta seja comestível ou inofensiva."
+          },
+          "dog": {
+            "exposure": "Nenhuma via de exposição relatada.",
+            "effect": "Nenhum efeito tóxico relatado.",
+            "note": "Este catálogo não relata toxicidade para cães; isso não é evidência de que a planta seja comestível ou inofensiva."
+          },
+          "cat": {
+            "exposure": "Nenhuma via de exposição relatada.",
+            "effect": "Nenhum efeito tóxico relatado.",
+            "note": "Este catálogo não relata toxicidade para gatos; isso não é evidência de que a planta seja comestível ou inofensiva."
+          }
+        }
+      }
+    },
+    "AAA1679": {
+      "source_hash": "a0f1b507375688d0d445e5ef71f15d7c1fa899896f97ef12ba18838cf38da88d",
+      "fields": {
+        "common_name": "Violeta-do-prado",
+        "bloom_tip": "A Violeta-do-prado produz encantadoras flores pequenas de tom violeta-azulado no início da primavera.",
+        "description": "A Violeta-do-prado é uma perene baixa e rasteira que forma tufos organizados de folhas em forma de coração em prados e bordas de matas abertas da América do Norte. Na primavera, produz encantadoras flores de cinco pétalas em tons violeta-azulado, cada uma com garganta clara e veiada que guia os polinizadores até o néctar. Depois que a exuberante floração primaveril desaparece, a planta continua florescendo discretamente durante o verão, com pequenos botões fechados que nunca se abrem, mas ainda assim produzem sementes. Espalhando-se suavemente por semente e rizoma, a Violeta-do-prado é uma cobertura vegetal fácil e resistente para canteiros sombreados, jardins de mata e plantios para polinizadores, tolerando uma ampla variedade de solos com cuidados mínimos.",
+        "history_text_short": "Suas alegres flores de primavera raramente produzem sementes. A maioria vem, em vez disso, de minúsculos botões fechados, escondidos entre as folhas no fim do verão, que se autopolinizam sem nunca se abrir. Borboletas fritilárias nativas dependem inteiramente desta planta, pondo ovos a cada outono para que as lagartas possam se alimentar de folhas frescas de violeta assim que elas retornam a cada primavera.",
+        "history_text_long": "Antes comum nas pradarias de gramíneas altas, prados e bordas de matas da América do Norte central, a Violeta-do-prado esconde um segredo curioso. Suas exuberantes flores primaveris violeta-azuladas, visitadas por abelhas madrugadoras, na verdade produzem pouquíssima semente. A geração seguinte da planta vem, em sua maior parte, de minúsculos botões fechados, chamados flores cleistógamas, que surgem mais tarde no verão, escondidos entre as folhas. Estes nunca se abrem nem precisam de polinizador, autofecundando-se silenciosamente e liberando sementes antes do outono. Essa dependência da folhagem da violeta vai ainda mais fundo: várias borboletas fritilárias nativas, incluindo a cada vez mais rara fritilária-real, põem ovos no solo seco da pradaria a cada outono, perto de touceiras de violeta dormentes. As lagartas eclodem em poucos dias, mas não se alimentam; passam o inverno sem comer até que a Violeta-do-prado brote folhas novamente na primavera, o único alimento que sua espécie pode usar. Onde as violetas de pradaria desapareceram sob o arado, as populações de fritilárias desapareceram com elas. Muito antes desse declínio, comunidades indígenas norte-americanas e, mais tarde, colonos das pradarias colhiam a cada primavera as folhas e flores jovens da Violeta-do-prado, adicionando-as a saladas, preparando um chá suave ou cristalizando as flores, valorizando a planta como uma das primeiras verduras frescas da estação após um longo inverno.",
+        "name_origin": "O nome do gênero Viola é latim para violeta, referindo-se à cor intensa da flor. O epíteto pratincola significa habitante dos prados, do latim pratum (prado) e incola (habitante), descrevendo seu habitat preferido em campos abertos e clareiras de mata.",
+        "symbolism_story": "Escondida rente ao chão entre as gramíneas do prado, a Violeta-do-prado simboliza há muito tempo a modéstia, uma flor que se contenta em florescer discretamente longe dos holofotes. No entanto, suas flores de verão escondidas, que nunca se abrem, revelam uma engenhosidade inesperada, garantindo silenciosamente a próxima geração sem jamais precisar ser vista.",
+        "flower_meaning": "Modéstia",
+        "fragrance": {
+          "notes": "Esta violeta tem pouco ou nenhum aroma perceptível, ao contrário de sua parente europeia, a violeta-perfumada."
+        },
+        "uses_list": [
+          {
+            "text": "Cobertura vegetal baixa muito popular para canteiros sombreados, bordaduras e jardins de mata."
+          },
+          {
+            "text": "Suas flores primaveris precoces oferecem néctar para abelhas que despertam; suas folhas são o único alimento das lagartas de borboletas fritilárias."
+          },
+          {
+            "text": "Suas folhas e flores jovens são comestíveis, tradicionalmente adicionadas a saladas, chás e guarnições cristalizadas."
+          },
+          {
+            "text": "Planta hospedeira essencial para borboletas fritilárias nativas em toda a sua área de distribuição."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Modéstia",
+            "description": "Seu porte baixo e flores tímidas e semiescondidas fizeram da violeta há muito tempo um símbolo de modéstia e humildade."
+          },
+          {
+            "keyword": "Profundidade oculta",
+            "description": "Suas flores de verão secretas, que nunca se abrem, refletem um tema de engenhosidade silenciosa por trás de uma aparência simples."
+          }
+        ],
+        "toxicity": {
+          "headline": "Nenhuma toxicidade relatada",
+          "active_compound_display": "Nenhum relatado",
+          "notes_en": "Nenhuma correspondência autorizada de toxicidade foi encontrada; tratada como não relatada (a estimativa do LLM não é verificada por fontes).",
+          "human": {
+            "exposure": "Nenhuma via de exposição relatada.",
+            "effect": "Nenhum efeito tóxico relatado.",
+            "note": "Este catálogo não relata toxicidade para humanos; isso não é evidência de que a planta seja comestível ou inofensiva."
+          },
+          "dog": {
+            "exposure": "Nenhuma via de exposição relatada.",
+            "effect": "Nenhum efeito tóxico relatado.",
+            "note": "Este catálogo não relata toxicidade para cães; isso não é evidência de que a planta seja comestível ou inofensiva."
+          },
+          "cat": {
+            "exposure": "Nenhuma via de exposição relatada.",
+            "effect": "Nenhum efeito tóxico relatado.",
+            "note": "Este catálogo não relata toxicidade para gatos; isso não é evidência de que a planta seja comestível ou inofensiva."
           }
         }
       }

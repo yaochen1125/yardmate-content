@@ -3,8 +3,8 @@
   "locale": "es",
   "source": {
     "resource": "plants_detail.json",
-    "sha256": "8013986e3f2858059f4f7c6fdadd6051901e3bf885d6426fa40abb446a286bf5",
-    "record_count": 1676
+    "sha256": "45b3c1bbe62c5de9089a8aef94f244d98e6ee7b08b5cc732ee13048f69e47359",
+    "record_count": 1678
   },
   "records": {
     "AAA0001": {
@@ -102753,6 +102753,127 @@
             "exposure": "No se reporta vía de exposición.",
             "effect": "No se reporta efecto tóxico.",
             "note": "No se reporta toxicidad para gatos en este catálogo; esto no es evidencia de que la planta sea comestible o inofensiva."
+          }
+        }
+      }
+    },
+    "AAA1678": {
+      "source_hash": "57b33943f2c02b8a52fd3986ae49e807125cd2f5caf4d7b3ee69605642c3ebdd",
+      "fields": {
+        "common_name": "Palo Borracho",
+        "bloom_tip": "El Palo Borracho florece en otoño sobre ramas desnudas, con grandes flores rosadas y magenta parecidas a orquídeas.",
+        "fruit_tip": "El fruto del Palo Borracho se abre en invierno y libera semillas envueltas en una borra suave y algodonosa.",
+        "description": "El Palo Borracho es un árbol caducifolio llamativo, nativo del sur de Sudamérica subtropical, conocido por su tronco hinchado en forma de botella, armado con gruesas espinas cónicas. En otoño, tras perder sus hojas, florece profusamente con grandes flores parecidas a orquídeas, en tonos rosa y magenta con gargantas pálidas, que atraen abejas, colibríes y murciélagos. Su tronco verde sigue realizando la fotosíntesis incluso desnudo. Hacia el invierno, las cápsulas leñosas se abren y liberan semillas envueltas en una borra suave y sedosa, antes recolectada para rellenar almohadas y cojines. Muy plantado como árbol de calle florido en climas cálidos, el Palo Borracho ofrece un color estacional espectacular.",
+        "history_text_short": "Su tronco hinchado y erizado de espinas le valió el nombre de palo borracho en su tierra natal sudamericana. Cuando las cápsulas invernales se abren, liberan semillas envueltas en una borra algodonosa recolectada a mano desde hace mucho tiempo para rellenar almohadas y cojines, una humilde cosecha bajo uno de los árboles de floración más vistosos del mundo.",
+        "history_text_long": "Originario de las tierras fronterizas del Gran Chaco y la Mata Atlántica en Argentina, Brasil, Paraguay, Bolivia y Uruguay, el Palo Borracho debe su nombre español a la forma en que su tronco se hincha hasta convertirse en un recipiente abultado en forma de barril, erizado de gruesas espinas cónicas. Los botánicos creen que el tronco hinchado almacena agua durante la larga estación seca de la región, mientras que las espinas disuaden a los animales trepadores de despojar su corteza; los árboles más viejos suelen perder muchas de sus espinas a medida que la corteza se engrosa con la edad. Las comunidades rurales de toda su área nativa llevan mucho tiempo recolectando otro recurso del árbol: cuando las cápsulas leñosas se abren en invierno, dejan al descubierto semillas envueltas en una borra suave y algodonosa conocida localmente como paina. Demasiado corta y resbaladiza para hilarse, la borra se recolectaba a mano y se usaba, de forma similar a la kapok de su pariente Ceiba pentandra, para rellenar almohadas, colchones y cojines, y más tarde como relleno ligero y resistente al agua para chalecos salvavidas y aislamiento. Introducido en parques y avenidas de California, el Mediterráneo y Australia durante el siglo veinte, el Palo Borracho se cultiva hoy en todo el mundo principalmente por su espectacular floración otoñal, mientras que la tradición de recolectar borra para almohadas que primero llamó la atención sobre sus cápsulas persiste en partes de Sudamérica.",
+        "name_origin": "El nombre del género Ceiba proviene de una palabra usada en el Caribe y Centroamérica para referirse a grandes árboles sagrados de la misma familia botánica, mientras que speciosa es latín para vistoso o hermoso, en referencia a sus llamativas flores. El árbol también es ampliamente conocido por su nombre común español, palo borracho, por su tronco hinchado en forma de botella.",
+        "symbolism_story": "El Palo Borracho florece con más fuerza en los años secos, extrayendo su color del agua almacenada en lo profundo de su tronco hinchado. Para muchos que lo plantan, sus ramas desnudas estallando en flor cada otoño son una lección silenciosa de resiliencia y renovación.",
+        "flower_meaning": "Resiliencia",
+        "fragrance": {
+          "notes": "Las flores desprenden un aroma suave y dulce que ayuda a atraer polinizadores nocturnos."
+        },
+        "uses_list": [
+          {
+            "text": "Árbol de calle y parque muy popular, apreciado por su espectacular floración otoñal."
+          },
+          {
+            "text": "Sus flores atraen abejas, colibríes y murciélagos nectarívoros."
+          },
+          {
+            "text": "La borra sedosa de sus semillas se recolecta tradicionalmente a mano para rellenar almohadas y cojines."
+          },
+          {
+            "text": "Favorece a los polinizadores y a la fauna dispersora de semillas en toda su área nativa."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Resiliencia",
+            "description": "Su tronco, que almacena agua, permite que el árbol florezca con fuerza incluso tras meses de sequía."
+          },
+          {
+            "keyword": "Renovación",
+            "description": "Cada otoño, las flores brotan en ramas desnudas, un llamativo espectáculo de renacimiento estacional."
+          }
+        ],
+        "toxicity": {
+          "headline": "No se reporta toxicidad",
+          "active_compound_display": "Ninguno reportado",
+          "notes_en": "No se encontró ninguna coincidencia de toxicidad autorizada; se trata como no reportada (la estimación del LLM no está verificada por fuentes).",
+          "human": {
+            "exposure": "No se reporta ninguna vía de exposición.",
+            "effect": "No se reporta ningún efecto tóxico.",
+            "note": "Este catálogo no reporta toxicidad para humanos; esto no es evidencia de que la planta sea comestible o inofensiva."
+          },
+          "dog": {
+            "exposure": "No se reporta ninguna vía de exposición.",
+            "effect": "No se reporta ningún efecto tóxico.",
+            "note": "Este catálogo no reporta toxicidad para perros; esto no es evidencia de que la planta sea comestible o inofensiva."
+          },
+          "cat": {
+            "exposure": "No se reporta ninguna vía de exposición.",
+            "effect": "No se reporta ningún efecto tóxico.",
+            "note": "Este catálogo no reporta toxicidad para gatos; esto no es evidencia de que la planta sea comestible o inofensiva."
+          }
+        }
+      }
+    },
+    "AAA1679": {
+      "source_hash": "a0f1b507375688d0d445e5ef71f15d7c1fa899896f97ef12ba18838cf38da88d",
+      "fields": {
+        "common_name": "Violeta de los prados",
+        "bloom_tip": "La Violeta de los prados produce encantadoras flores pequeñas de color violeta azulado a principios de primavera.",
+        "description": "La Violeta de los prados es una perenne baja y extendida que forma matas ordenadas de hojas acorazonadas en praderas y bordes de bosques abiertos de Norteamérica. En primavera, produce encantadoras flores de cinco pétalos en tonos violeta azulado, cada una con gargantas pálidas y veteadas que guían a los polinizadores hacia el néctar. Tras desvanecerse la vistosa floración primaveral, la planta sigue floreciendo discretamente durante el verano con pequeños brotes cerrados que nunca se abren pero aun así producen semilla. Extendiéndose suavemente por semilla y rizoma, la Violeta de los prados es una cubierta vegetal fácil y resistente para arriates sombreados, jardines boscosos y jardines de polinizadores, y tolera una amplia variedad de suelos con muy poco cuidado.",
+        "history_text_short": "Sus alegres flores de primavera apenas producen semillas. La mayoría proviene de pequeños brotes cerrados, escondidos entre las hojas a fines del verano, que se autopolinizan sin abrirse jamás. Las mariposas fritillary nativas dependen por completo de esta planta: ponen huevos cada otoño para que las orugas puedan alimentarse de hojas frescas de violeta en cuanto vuelven a brotar cada primavera.",
+        "history_text_long": "Antiguamente común en las praderas de pastos altos, los prados y los bordes boscosos de Norteamérica central, la Violeta de los prados esconde un curioso secreto. Sus vistosas flores primaverales de color violeta azulado, visitadas por abejas tempranas, en realidad producen muy poca semilla. La siguiente generación de la planta proviene en su mayoría de diminutos brotes cerrados, llamados flores cleistógamas, que aparecen más tarde en verano, escondidas entre las hojas. Estas nunca se abren ni necesitan un polinizador, y se autofecundan en silencio, dejando caer semilla antes del otoño. Esa dependencia de las hojas de violeta va aún más profundo: varias mariposas fritillary nativas, incluida la cada vez más rara fritillary regia, ponen sus huevos en suelo seco de pradera cada otoño, cerca de matas de violeta en reposo. Las orugas nacen en pocos días pero no se alimentan; pasan el invierno sin comer hasta que la Violeta de los prados vuelve a echar hojas en primavera, el único alimento que su especie puede usar. Donde las violetas de pradera han desaparecido bajo el arado, las poblaciones de fritillary han desaparecido con ellas. Mucho antes de ese declive, las comunidades indígenas norteamericanas y luego los colonos de la pradera recolectaban cada primavera las hojas y flores tiernas de la Violeta de los prados, añadiéndolas a ensaladas, preparando con ellas una infusión suave o confitando sus flores, apreciando la planta como una de las primeras verduras frescas de la temporada tras un largo invierno.",
+        "name_origin": "El nombre del género Viola es latín para violeta, en referencia al intenso color de la flor. El epíteto pratincola significa habitante de los prados, del latín pratum (prado) e incola (habitante), describiendo su hábitat preferido en pastizales abiertos y claros boscosos.",
+        "symbolism_story": "Escondida entre las hierbas del prado, la Violeta de los prados ha simbolizado desde hace tiempo la modestia, una flor que se contenta con florecer discretamente fuera del centro de atención. Sin embargo, sus flores de verano ocultas, que nunca se abren, revelan un ingenio inesperado, asegurando en silencio la siguiente generación sin necesidad alguna de ser vista.",
+        "flower_meaning": "Modestia",
+        "fragrance": {
+          "notes": "Esta violeta apenas tiene aroma perceptible, a diferencia de su pariente europea, la violeta de olor."
+        },
+        "uses_list": [
+          {
+            "text": "Cubierta vegetal baja muy popular para arriates sombreados, bordes y jardines boscosos."
+          },
+          {
+            "text": "Sus flores tempranas de primavera ofrecen néctar a las abejas que despiertan; sus hojas son el único alimento de las orugas de mariposa fritillary."
+          },
+          {
+            "text": "Sus hojas y flores tiernas son comestibles, y tradicionalmente se añaden a ensaladas, infusiones y guarniciones confitadas."
+          },
+          {
+            "text": "Planta huésped esencial para las mariposas fritillary nativas en toda su área de distribución."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Modestia",
+            "description": "Su porte bajo y sus flores tímidas y semiocultas han hecho de la violeta un símbolo de modestia y humildad desde hace tiempo."
+          },
+          {
+            "keyword": "Profundidad oculta",
+            "description": "Sus secretas flores de verano, que nunca se abren, reflejan un tema de ingenio silencioso bajo una apariencia sencilla."
+          }
+        ],
+        "toxicity": {
+          "headline": "No se reporta toxicidad",
+          "active_compound_display": "Ninguno reportado",
+          "notes_en": "No se encontró ninguna coincidencia de toxicidad autorizada; se trata como no reportada (la estimación del LLM no está verificada por fuentes).",
+          "human": {
+            "exposure": "No se reporta ninguna vía de exposición.",
+            "effect": "No se reporta ningún efecto tóxico.",
+            "note": "Este catálogo no reporta toxicidad para humanos; esto no es evidencia de que la planta sea comestible o inofensiva."
+          },
+          "dog": {
+            "exposure": "No se reporta ninguna vía de exposición.",
+            "effect": "No se reporta ningún efecto tóxico.",
+            "note": "Este catálogo no reporta toxicidad para perros; esto no es evidencia de que la planta sea comestible o inofensiva."
+          },
+          "cat": {
+            "exposure": "No se reporta ninguna vía de exposición.",
+            "effect": "No se reporta ningún efecto tóxico.",
+            "note": "Este catálogo no reporta toxicidad para gatos; esto no es evidencia de que la planta sea comestible o inofensiva."
           }
         }
       }

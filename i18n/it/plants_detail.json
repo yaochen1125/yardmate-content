@@ -3,8 +3,8 @@
   "locale": "it",
   "source": {
     "resource": "plants_detail.json",
-    "sha256": "8013986e3f2858059f4f7c6fdadd6051901e3bf885d6426fa40abb446a286bf5",
-    "record_count": 1676
+    "sha256": "45b3c1bbe62c5de9089a8aef94f244d98e6ee7b08b5cc732ee13048f69e47359",
+    "record_count": 1678
   },
   "records": {
     "AAA0001": {
@@ -102753,6 +102753,127 @@
             "exposure": "Non è segnalata alcuna via di esposizione.",
             "effect": "Non è segnalato alcun effetto tossico.",
             "note": "In questo catalogo non è segnalata tossicità per i gatti; ciò non prova che la pianta sia commestibile o innocua."
+          }
+        }
+      }
+    },
+    "AAA1678": {
+      "source_hash": "57b33943f2c02b8a52fd3986ae49e807125cd2f5caf4d7b3ee69605642c3ebdd",
+      "fields": {
+        "common_name": "Ceiba",
+        "bloom_tip": "La Ceiba fiorisce in autunno su rami spogli, con grandi fiori rosa e magenta simili a orchidee.",
+        "fruit_tip": "Il frutto della Ceiba si apre in inverno, rilasciando semi avvolti in una lanugine morbida e cotonosa.",
+        "description": "La Ceiba è un albero deciduo spettacolare, originario del Sud America subtropicale, noto per il suo tronco rigonfio a forma di bottiglia, armato di robuste spine coniche. In autunno, dopo aver perso le foglie, si copre di grandi fiori simili a orchidee, rosa e magenta con gola chiara, che attirano api, colibrì e pipistrelli. Il suo tronco verde continua la fotosintesi anche quando è spoglio. Verso l'inverno, i baccelli legnosi si aprono e rilasciano semi avvolti in una lanugine morbida e setosa, un tempo raccolta per imbottire cuscini. Ampiamente coltivata come albero fiorito da strada nei climi caldi, la Ceiba offre un colore stagionale spettacolare.",
+        "history_text_short": "Il suo tronco rigonfio e irto di spine le è valso il nome di palo borracho, bastone ubriaco, nella sua terra d'origine sudamericana. Quando i baccelli invernali si aprono, rilasciano semi avvolti in una lanugine cotonosa raccolta a mano da lungo tempo per imbottire cuscini, un umile raccolto sotto uno degli alberi da fiore più spettacolari al mondo.",
+        "history_text_long": "Originaria delle terre di confine del Gran Chaco e della foresta atlantica in Argentina, Brasile, Paraguay, Bolivia e Uruguay, la Ceiba deve il suo nome spagnolo, palo borracho (bastone ubriaco), al modo in cui il tronco si rigonfia in una specie di fiasco bombato, irto di robuste spine coniche. I botanici ritengono che il tronco rigonfio immagazzini acqua durante la lunga stagione secca della regione, mentre le spine scoraggiano gli animali arrampicatori dal spogliarne la corteccia; gli alberi più vecchi perdono spesso molte delle loro spine man mano che la corteccia si ispessisce. Le comunità rurali in tutto il suo areale nativo raccolgono da tempo un'altra risorsa dell'albero: quando i baccelli legnosi si aprono in inverno, rivelano semi avvolti in una lanugine morbida e cotonosa nota localmente come paina. Troppo corta e scivolosa per essere filata, la lanugine veniva invece raccolta a mano e utilizzata, un po' come il kapok del suo parente Ceiba pentandra, per imbottire cuscini, materassi e cuscini decorativi, e più tardi come imbottitura leggera e resistente all'acqua per giubbotti di salvataggio e isolamento. Introdotta in parchi e viali della California, del Mediterraneo e dell'Australia nel corso del ventesimo secolo, la Ceiba viene oggi coltivata in tutto il mondo soprattutto per la sua spettacolare fioritura autunnale, mentre la tradizione di raccogliere lanugine per i cuscini che per prima attirò l'attenzione sui suoi baccelli persiste ancora in alcune zone del Sud America.",
+        "name_origin": "Il nome del genere Ceiba deriva da una parola usata nei Caraibi e in America Centrale per indicare grandi alberi sacri della stessa famiglia botanica, mentre speciosa in latino significa vistosa o bella, in riferimento ai suoi fiori spettacolari. L'albero è anche ampiamente conosciuto con il nome comune spagnolo palo borracho, bastone ubriaco, per il suo tronco rigonfio a forma di bottiglia.",
+        "symbolism_story": "La Ceiba fiorisce con maggiore intensità negli anni siccitosi, traendo il suo colore dall'acqua immagazzinata nel profondo del suo tronco rigonfio. Per molti che la piantano, i suoi rami spogli che esplodono in fiore ogni autunno sono una silenziosa lezione di resilienza e rinnovamento.",
+        "flower_meaning": "Resilienza",
+        "fragrance": {
+          "notes": "I fiori emanano un profumo leggero e dolce che aiuta ad attirare gli impollinatori notturni."
+        },
+        "uses_list": [
+          {
+            "text": "Albero da strada e da parco molto apprezzato per la sua spettacolare fioritura autunnale."
+          },
+          {
+            "text": "I suoi fiori attirano api, colibrì e pipistrelli nettarivori."
+          },
+          {
+            "text": "La lanugine setosa dei semi viene tradizionalmente raccolta a mano per imbottire cuscini."
+          },
+          {
+            "text": "Favorisce gli impollinatori e la fauna che disperde i semi in tutto il suo areale nativo."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Resilienza",
+            "description": "Il suo tronco capace di immagazzinare acqua permette all'albero di fiorire con vigore anche dopo mesi di siccità."
+          },
+          {
+            "keyword": "Rinnovamento",
+            "description": "Ogni autunno i fiori sbocciano su rami spogli, uno spettacolo straordinario di rinascita stagionale."
+          }
+        ],
+        "toxicity": {
+          "headline": "Nessuna tossicità segnalata",
+          "active_compound_display": "Nessuno segnalato",
+          "notes_en": "Non è stata trovata alcuna corrispondenza autorevole sulla tossicità; trattata come non segnalata (la stima del LLM non è verificata da fonti).",
+          "human": {
+            "exposure": "Nessuna via di esposizione segnalata.",
+            "effect": "Nessun effetto tossico segnalato.",
+            "note": "In questo catalogo non è segnalata alcuna tossicità per l'uomo; ciò non dimostra che la pianta sia commestibile o innocua."
+          },
+          "dog": {
+            "exposure": "Nessuna via di esposizione segnalata.",
+            "effect": "Nessun effetto tossico segnalato.",
+            "note": "In questo catalogo non è segnalata alcuna tossicità per i cani; ciò non dimostra che la pianta sia commestibile o innocua."
+          },
+          "cat": {
+            "exposure": "Nessuna via di esposizione segnalata.",
+            "effect": "Nessun effetto tossico segnalato.",
+            "note": "In questo catalogo non è segnalata alcuna tossicità per i gatti; ciò non dimostra che la pianta sia commestibile o innocua."
+          }
+        }
+      }
+    },
+    "AAA1679": {
+      "source_hash": "a0f1b507375688d0d445e5ef71f15d7c1fa899896f97ef12ba18838cf38da88d",
+      "fields": {
+        "common_name": "Viola dei prati",
+        "bloom_tip": "La Viola dei prati produce all'inizio della primavera piccoli e graziosi fiori blu-violetto.",
+        "description": "La Viola dei prati è una perenne bassa e strisciante che forma ordinati cuscini di foglie a forma di cuore nei prati e ai margini dei boschi aperti del Nord America. In primavera produce graziosi fiori a cinque petali dai toni blu-violetto, ciascuno con gola chiara e venata che guida gli impollinatori verso il nettare. Dopo che la vistosa fioritura primaverile sfiorisce, la pianta continua a fiorire discretamente per tutta l'estate, con piccoli boccioli chiusi che non si aprono mai ma producono comunque semi. Diffondendosi delicatamente per seme e rizoma, la Viola dei prati è un tappezzante facile e resistente per aiuole ombreggiate, giardini boschivi e piantagioni per impollinatori, tollerando una vasta gamma di terreni con pochissima cura.",
+        "history_text_short": "I suoi allegri fiori primaverili producono pochissimi semi. La maggior parte proviene invece da minuscoli boccioli chiusi, nascosti tra le foglie a fine estate, che si autoimpollinano senza mai aprirsi. Le farfalle fritillarie native dipendono interamente da questa pianta, deponendo le uova ogni autunno affinché i bruchi possano nutrirsi di foglie fresche di viola non appena queste ricompaiono in primavera.",
+        "history_text_long": "Un tempo comune nelle praterie di erbe alte, nei prati e ai margini dei boschi del Nord America centrale, la Viola dei prati nasconde uno strano segreto. I suoi vistosi fiori primaverili blu-violetto, visitati dalle prime api, producono in realtà pochissimi semi. La generazione successiva della pianta deriva soprattutto da minuscoli boccioli chiusi, chiamati fiori cleistogami, che compaiono più tardi in estate, in basso tra le foglie. Questi non si aprono mai e non necessitano di alcun impollinatore, autofecondandosi silenziosamente e lasciando cadere i semi prima dell'autunno. Questa dipendenza dal fogliame della viola va ancora più in profondità: diverse farfalle fritillarie native, tra cui la sempre più rara fritillaria regale, depongono le uova sul terreno secco della prateria ogni autunno, vicino a ciuffi di viola dormienti. I bruchi si schiudono nel giro di pochi giorni ma non si nutrono; svernano senza mangiare finché la Viola dei prati non rimette le foglie in primavera, l'unico cibo che la loro specie può utilizzare. Dove le viole di prateria sono scomparse sotto l'aratro, le popolazioni di fritillarie sono scomparse con loro. Molto prima di questo declino, le comunità native nordamericane e in seguito i coloni della prateria raccoglievano ogni primavera le foglie e i fiori giovani della Viola dei prati, aggiungendoli alle insalate, preparando con essi un infuso delicato o candendo i fiori, apprezzando la pianta come una delle prime verdure fresche della stagione dopo un lungo inverno.",
+        "name_origin": "Il nome del genere Viola è latino per violetta, in riferimento al colore intenso del fiore. L'epiteto pratincola significa che abita i prati, dal latino pratum (prato) e incola (abitante), a descrivere il suo habitat preferito nei prati aperti e nelle radure boschive.",
+        "symbolism_story": "Nascosta in basso tra le erbe dei prati, la Viola dei prati simboleggia da tempo la modestia, un fiore che si accontenta di fiorire discretamente fuori dai riflettori. Eppure i suoi fiori estivi nascosti, che non si aprono mai, rivelano un'ingegnosità inaspettata, assicurando silenziosamente la generazione successiva senza mai avere bisogno di essere vista.",
+        "flower_meaning": "Modestia",
+        "fragrance": {
+          "notes": "Questa viola ha un profumo minimo o assente, a differenza della sua cugina europea, la viola odorosa."
+        },
+        "uses_list": [
+          {
+            "text": "Tappezzante basso molto apprezzato per aiuole ombreggiate, bordure e giardini boschivi."
+          },
+          {
+            "text": "I fiori primaverili precoci offrono nettare alle api che si risvegliano; le foglie sono l'unico cibo dei bruchi delle farfalle fritillarie."
+          },
+          {
+            "text": "Le foglie e i fiori giovani sono commestibili, tradizionalmente aggiunti a insalate, infusi e guarnizioni candite."
+          },
+          {
+            "text": "Pianta ospite essenziale per le farfalle fritillarie native in tutto il suo areale."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Modestia",
+            "description": "Il suo portamento basso e i fiori timidi e semi-nascosti hanno reso da tempo la viola un simbolo di modestia e umiltà."
+          },
+          {
+            "keyword": "Profondità nascosta",
+            "description": "I suoi segreti fiori estivi, che non si aprono mai, riflettono un tema di silenziosa ingegnosità dietro un aspetto semplice."
+          }
+        ],
+        "toxicity": {
+          "headline": "Nessuna tossicità segnalata",
+          "active_compound_display": "Nessuno segnalato",
+          "notes_en": "Non è stata trovata alcuna corrispondenza autorevole sulla tossicità; trattata come non segnalata (la stima del LLM non è verificata da fonti).",
+          "human": {
+            "exposure": "Nessuna via di esposizione segnalata.",
+            "effect": "Nessun effetto tossico segnalato.",
+            "note": "In questo catalogo non è segnalata alcuna tossicità per l'uomo; ciò non dimostra che la pianta sia commestibile o innocua."
+          },
+          "dog": {
+            "exposure": "Nessuna via di esposizione segnalata.",
+            "effect": "Nessun effetto tossico segnalato.",
+            "note": "In questo catalogo non è segnalata alcuna tossicità per i cani; ciò non dimostra che la pianta sia commestibile o innocua."
+          },
+          "cat": {
+            "exposure": "Nessuna via di esposizione segnalata.",
+            "effect": "Nessun effetto tossico segnalato.",
+            "note": "In questo catalogo non è segnalata alcuna tossicità per i gatti; ciò non dimostra che la pianta sia commestibile o innocua."
           }
         }
       }
