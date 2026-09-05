@@ -3,8 +3,8 @@
   "locale": "es",
   "source": {
     "resource": "plants_detail.json",
-    "sha256": "45b3c1bbe62c5de9089a8aef94f244d98e6ee7b08b5cc732ee13048f69e47359",
-    "record_count": 1678
+    "sha256": "d87e81d7e29cdd74ba25fdbfb0194cdce82869c17375ea0b4ede2b464eb5e826",
+    "record_count": 1679
   },
   "records": {
     "AAA0001": {
@@ -102874,6 +102874,60 @@
             "exposure": "No se reporta ninguna vía de exposición.",
             "effect": "No se reporta ningún efecto tóxico.",
             "note": "Este catálogo no reporta toxicidad para gatos; esto no es evidencia de que la planta sea comestible o inofensiva."
+          }
+        }
+      }
+    },
+    "AAA1680": {
+      "source_hash": "197cb8a4cef541be29adbf8da9cd13cd8d8e39688caca2dc1c7a38b3cab0f553",
+      "fields": {
+        "common_name": "Grevillea lanuda",
+        "bloom_tip": "La grevillea lanuda presenta flores vistosas de abril a agosto.",
+        "description": "Grevillea lanigera, la grevillea lanuda, es un arbusto perennifolio bajo y extendido, nativo de las laderas alpinas rocosas de las Snowy Mountains, en el sureste de Australia. Sus hojas pequeñas y estrechas están cubiertas de suaves pelos gris blanquecinos que la aíslan de las heladas, la nieve y los vientos secantes, una adaptación que pocas otras especies de Grevillea comparten. De otoño a primavera produce racimos de flores rojas y cremosas con forma de cepillo de dientes que atraen a mieleros y otras aves nectarívoras. Apreciada por su resistencia al frío y a la sequía, es un elemento habitual en los jardines de rocalla y en taludes de Australia.",
+        "history_text_short": "Llamada así por sus hojas lanudas contra las heladas, esta especie nativa de las Snowy Mountains sobrevive a un frío alpino que mata a la mayoría de las grevilleas. Los aborígenes australianos solían chupar el dulce néctar de sus flores en forma de cepillo; hoy su robusta variedad 'Mt Tamboritha' estabiliza laderas rocosas en jardines de toda Australia.",
+        "history_text_long": "Mucho antes de que los botánicos europeos le dieran un nombre, la grevillea lanuda ya había resuelto un problema que la mayoría de sus parientes nunca tuvo que afrontar. Mientras que la mayoría de las cerca de 360 especies australianas de Grevillea son arbustos de brezales costeros cálidos, esta crece en laderas graníticas azotadas por el viento en las Snowy Mountains, donde la nieve permanece durante semanas cada invierno. Sus hojas desarrollaron una densa capa de finos pelos gris blanquecinos —la 'lana' que da nombre a su epíteto latino, lanigera— que retiene una capa de aire quieto sobre la superficie de la hoja, bloqueando las heladas y frenando la pérdida de humedad bajo el intenso sol alpino. Para los pueblos aborígenes de las tierras altas, sus espigas florales en forma de cepillo ofrecían algo más dulce que la mera supervivencia: como muchas especies de Grevillea, sus flores contienen néctar que podía chuparse directamente o remojarse en agua para preparar una bebida dulce y refrescante, un pequeño pero fiable premio recogido en las incursiones por el brezal rocoso. La ciencia europea llegó a alcanzarla a principios del siglo XIX, cuando el botánico Robert Brown, que había navegado con Matthew Flinders alrededor de la costa australiana, describió formalmente el género y lo nombró en honor a Charles Francis Greville, vicepresidente fundador de la Royal Horticultural Society de Londres, que nunca puso un pie en Australia. Dos siglos después, la resistencia alpina de la grevillea lanuda la ha convertido en una de las grevilleas más plantadas en cultivo: la variedad baja y extendida 'Mt Tamboritha' estabiliza taludes rocosos y laderas de pedregal en jardines de toda Australia donde pocas otras plantas logran arraigar, con la misma resiliencia al frío que permitió a sus antepasados sobrevivir en la montaña mucho antes de que a nadie se le ocurriera cultivarla.",
+        "name_origin": "El género Grevillea honra a Charles Francis Greville, vicepresidente fundador de la Royal Horticultural Society; el nombre de la especie, lanigera, significa en latín \"portadora de lana\" y describe los densos pelos grises que cubren sus hojas.",
+        "symbolism_story": "En las laderas graníticas expuestas de las Snowy Mountains, la grevillea lanuda sobrevive donde parientes más vistosos no pueden, y su discreto follaje gris oculta tanto una defensa contra el frío como una dulzura en sus flores. Ha llegado a representar la resiliencia ganada mediante la adaptación y no la exhibición, y la recompensa silenciosa que se encuentra en las cosas que no se anuncian.",
+        "flower_meaning": "Resiliencia",
+        "uses_list": [
+          {
+            "text": "Sus flores ricas en néctar atraen a mieleros y otras aves nectarívoras."
+          },
+          {
+            "text": "Popular como cubresuelos y planta de rocalla, apreciada por su follaje plateado y lanudo."
+          },
+          {
+            "text": "Ofrece alimento y refugio a aves e insectos autóctonos en jardines alpinos de clima duro."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Resiliencia",
+            "description": "Sus hojas aisladas de lana, que resisten heladas y nieve, la convierten en un emblema de resistencia silenciosa frente a condiciones adversas."
+          },
+          {
+            "keyword": "Dulzura oculta",
+            "description": "El néctar escondido en sus modestas flores en forma de cepillo refleja la recompensa que se halla bajo una apariencia discreta."
+          }
+        ],
+        "toxicity": {
+          "headline": "Humanos Moderado",
+          "active_compound_display": "Principio tóxico desconocido",
+          "notes_en": "No se encontró ninguna coincidencia toxicológica autorizada; se trata como no reportada (la estimación de la IA no está verificada por fuentes).",
+          "human": {
+            "exposure": "Material vegetal no especificado.",
+            "effect": "Se reportan efectos tóxicos, pero no se detallan síntomas específicos.",
+            "note": "Fuentes autorizadas reportan esta planta como tóxica; la gravedad se ha fijado de forma conservadora como moderada a la espera de datos más precisos."
+          },
+          "dog": {
+            "exposure": "No se reporta ninguna vía de exposición.",
+            "effect": "No se reporta ningún efecto tóxico.",
+            "note": "No se reporta toxicidad para perros en este catálogo; esto no es prueba de que la planta sea comestible o inofensiva."
+          },
+          "cat": {
+            "exposure": "No se reporta ninguna vía de exposición.",
+            "effect": "No se reporta ningún efecto tóxico.",
+            "note": "No se reporta toxicidad para gatos en este catálogo; esto no es prueba de que la planta sea comestible o inofensiva."
           }
         }
       }

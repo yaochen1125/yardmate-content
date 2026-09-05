@@ -3,8 +3,8 @@
   "locale": "de",
   "source": {
     "resource": "plants_detail.json",
-    "sha256": "45b3c1bbe62c5de9089a8aef94f244d98e6ee7b08b5cc732ee13048f69e47359",
-    "record_count": 1678
+    "sha256": "d87e81d7e29cdd74ba25fdbfb0194cdce82869c17375ea0b4ede2b464eb5e826",
+    "record_count": 1679
   },
   "records": {
     "AAA0001": {
@@ -102860,6 +102860,60 @@
             "exposure": "Kein Expositionsweg gemeldet.",
             "effect": "Keine toxische Wirkung gemeldet.",
             "note": "Für Katzen ist in diesem Katalog keine Toxizität gemeldet; dies ist kein Beleg dafür, dass die Pflanze essbar oder unbedenklich ist."
+          }
+        }
+      }
+    },
+    "AAA1680": {
+      "source_hash": "197cb8a4cef541be29adbf8da9cd13cd8d8e39688caca2dc1c7a38b3cab0f553",
+      "fields": {
+        "common_name": "Wollige Grevillea",
+        "bloom_tip": "Die Wollige Grevillea zeigt von April bis August leuchtende Blüten.",
+        "description": "Die Wollige Grevillea (Grevillea lanigera) ist ein niedriger, ausladender immergrüner Strauch, der an den steinigen Alpenhängen der australischen Snowy Mountains im Südosten heimisch ist. Ihre kleinen, schmalen Blätter sind von weichen, grauweißen Härchen bedeckt, die vor Frost, Schnee und austrocknendem Wind schützen – eine Anpassung, die nur wenige andere Grevillea-Arten teilen. Von Herbst bis Frühling trägt sie Büschel rot-cremefarbener, bürstenförmiger Blüten, die Honigfresser und andere nektarfressende Vögel anlocken. Wegen ihrer Frosthärte und Trockenheitstoleranz ist sie eine feste Größe in australischen Steingärten und Böschungsbepflanzungen.",
+        "history_text_short": "Benannt nach ihren frostwolligen Blättern, übersteht dieser Endemit der Snowy Mountains alpine Kälte, die den meisten Grevilleen den Garaus macht. Ureinwohner Australiens sollen einst süßen Nektar aus ihren bürstenförmigen Blüten gesaugt haben; heute stabilisiert ihre robuste Sorte 'Mt Tamboritha' Felshänge in Gärten in ganz Australien.",
+        "history_text_long": "Lange bevor europäische Botaniker ihr einen Namen gaben, hatte die Wollige Grevillea bereits ein Problem gelöst, dem sich die meisten ihrer Verwandten nie stellen mussten. Während die meisten der rund 360 australischen Grevillea-Arten Sträucher der warmen Küstenheide sind, wächst diese an windzerzausten Granithängen der Snowy Mountains, wo sich jeden Winter wochenlang Schnee hält. Ihre Blätter entwickelten eine dichte Schicht feiner, grauweißer Härchen – die 'Wolle', die der Art ihren lateinischen Beinamen lanigera gibt – die eine ruhende Luftschicht an der Blattoberfläche einschließt und so vor Frost schützt und den Feuchtigkeitsverlust unter der starken Höhensonne verlangsamt. Für die Aborigines des Hochlands boten die bürstenförmigen Blütenstände etwas Süßeres als bloßes Überleben: Wie bei vielen Grevillea-Arten enthalten die Blüten Nektar, der direkt aus der Blüte gesaugt oder in Wasser eingeweicht werden konnte, um ein erfrischendes süßes Getränk herzustellen – eine kleine, aber verlässliche Belohnung auf Streifzügen durch die steinige Heide. Die europäische Wissenschaft zog im frühen 19. Jahrhundert nach, als der Botaniker Robert Brown, der mit Matthew Flinders die australische Küste umsegelt hatte, die Gattung offiziell beschrieb und sie nach Charles Francis Greville benannte, einem Gründungsvizepräsidenten der Royal Horticultural Society in London, der nie einen Fuß nach Australien gesetzt hatte. Zwei Jahrhunderte später hat die alpine Robustheit der Wolligen Grevillea sie zu einer der meistgepflanzten Grevilleen in der Kultur gemacht: Die niedrige, ausladende Sorte 'Mt Tamboritha' stabilisiert in australischen Gärten steinige Böschungen und Schotterhänge, auf denen sonst kaum etwas Fuß fasst – mit derselben frostharten Widerstandskraft, die ihren Vorfahren einst das Überleben am Berg ermöglichte, lange bevor jemand daran dachte, sie zu pflanzen.",
+        "name_origin": "Die Gattung Grevillea ehrt Charles Francis Greville, einen Gründungsvizepräsidenten der Royal Horticultural Society; der Artname lanigera ist Lateinisch für „wolltragend\" und beschreibt die dichten grauen Härchen auf ihren Blättern.",
+        "symbolism_story": "An den exponierten Granithängen der Snowy Mountains überlebt die Wollige Grevillea, wo prächtigere Verwandte es nicht können – ihr schlichtes graues Laub verbirgt sowohl einen Schutz vor der Kälte als auch eine Süße in ihren Blüten. Sie steht für Widerstandskraft, die durch Anpassung statt durch Zurschaustellung erworben wird, und für die stille Belohnung, die in unscheinbaren Dingen zu finden ist.",
+        "flower_meaning": "Widerstandskraft",
+        "uses_list": [
+          {
+            "text": "Nektarreiche Blüten locken Honigfresser und andere nektarfressende Vögel an."
+          },
+          {
+            "text": "Beliebte Bodendecker- und Steingartenpflanze, geschätzt für ihr silbriges, wolliges Laub."
+          },
+          {
+            "text": "Bietet Nahrung und Schutz für einheimische Vögel und Insekten in rauen Hochgebirgsgärten."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Widerstandskraft",
+            "description": "Wollisolierte Blätter, die Frost und Schnee trotzen, machen sie zum Sinnbild stiller Ausdauer unter widrigen Bedingungen."
+          },
+          {
+            "keyword": "Verborgene Süße",
+            "description": "Der in ihren unscheinbaren bürstenförmigen Blüten verborgene Nektar spiegelt die Belohnung wider, die sich hinter einem unauffälligen Äußeren verbirgt."
+          }
+        ],
+        "toxicity": {
+          "headline": "Menschen Mäßig",
+          "active_compound_display": "Unbekannter Giftstoff",
+          "notes_en": "Kein autoritativer Toxizitätstreffer gefunden; als nicht gemeldet behandelt (LLM-Schätzung ist nicht quellengeprüft).",
+          "human": {
+            "exposure": "Nicht näher spezifiziertes Pflanzenmaterial.",
+            "effect": "Toxische Wirkungen sind gemeldet, aber keine spezifischen Symptome aufgeführt.",
+            "note": "Autoritative Quellen melden diese Pflanze als giftig; der Schweregrad wurde vorsichtshalber auf mäßig festgelegt, bis genauere Daten vorliegen."
+          },
+          "dog": {
+            "exposure": "Kein Expositionsweg gemeldet.",
+            "effect": "Keine toxische Wirkung gemeldet.",
+            "note": "Für Hunde ist in diesem Katalog keine Toxizität gemeldet; dies ist kein Beweis dafür, dass die Pflanze essbar oder unbedenklich ist."
+          },
+          "cat": {
+            "exposure": "Kein Expositionsweg gemeldet.",
+            "effect": "Keine toxische Wirkung gemeldet.",
+            "note": "Für Katzen ist in diesem Katalog keine Toxizität gemeldet; dies ist kein Beweis dafür, dass die Pflanze essbar oder unbedenklich ist."
           }
         }
       }

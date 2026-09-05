@@ -3,8 +3,8 @@
   "locale": "pt",
   "source": {
     "resource": "plants_detail.json",
-    "sha256": "45b3c1bbe62c5de9089a8aef94f244d98e6ee7b08b5cc732ee13048f69e47359",
-    "record_count": 1678
+    "sha256": "d87e81d7e29cdd74ba25fdbfb0194cdce82869c17375ea0b4ede2b464eb5e826",
+    "record_count": 1679
   },
   "records": {
     "AAA0001": {
@@ -102874,6 +102874,60 @@
             "exposure": "Nenhuma via de exposição relatada.",
             "effect": "Nenhum efeito tóxico relatado.",
             "note": "Este catálogo não relata toxicidade para gatos; isso não é evidência de que a planta seja comestível ou inofensiva."
+          }
+        }
+      }
+    },
+    "AAA1680": {
+      "source_hash": "197cb8a4cef541be29adbf8da9cd13cd8d8e39688caca2dc1c7a38b3cab0f553",
+      "fields": {
+        "common_name": "Grevílea-lanosa",
+        "bloom_tip": "A grevílea-lanosa apresenta flores vibrantes de abril a agosto.",
+        "description": "Grevillea lanigera, a grevílea-lanosa, é um arbusto perene baixo e rasteiro, nativo das encostas alpinas rochosas das Snowy Mountains, no sudeste da Austrália. Suas folhas pequenas e estreitas são cobertas por pelos macios cinza-esbranquiçados que a isolam contra geada, neve e ventos ressecantes, uma adaptação que poucas outras espécies de Grevillea compartilham. Do outono à primavera, produz cachos de flores vermelhas e cremes em forma de escova de dentes que atraem mel-de-flor e outras aves nectarívoras. Valorizada por sua resistência ao frio e à seca, é um elemento constante em jardins de pedras e taludes na Austrália.",
+        "history_text_short": "Batizada por suas folhas lanosas contra a geada, esta espécie nativa das Snowy Mountains sobrevive a um frio alpino que mata a maioria das grevíleas. Aborígenes australianos costumavam sugar o néctar doce de suas flores em forma de escova; hoje, sua robusta cultivar 'Mt Tamboritha' estabiliza encostas rochosas em jardins por toda a Austrália.",
+        "history_text_long": "Muito antes de os botânicos europeus lhe darem um nome, a grevílea-lanosa já havia resolvido um problema que a maioria de suas parentes nunca precisou enfrentar. Enquanto a maior parte das cerca de 360 espécies australianas de Grevillea são arbustos de charnecas costeiras quentes, esta cresce em encostas graníticas varridas pelo vento nas Snowy Mountains, onde a neve permanece por semanas a cada inverno. Suas folhas desenvolveram uma densa camada de pelos finos cinza-esbranquiçados — a 'lã' que dá origem ao seu epíteto latino, lanigera — que retém uma camada de ar parado sobre a superfície da folha, bloqueando a geada e reduzindo a perda de umidade sob o forte sol alpino. Para os povos aborígenes das terras altas, suas espigas florais em forma de escova ofereciam algo mais doce do que a mera sobrevivência: como muitas espécies de Grevillea, suas flores contêm néctar que podia ser sugado diretamente ou embebido em água para preparar uma bebida doce e refrescante, uma pequena porém confiável recompensa colhida em incursões de coleta pela charneca rochosa. A ciência europeia a alcançou no início do século XIX, quando o botânico Robert Brown, que havia navegado com Matthew Flinders ao redor da costa australiana, descreveu formalmente o gênero e o nomeou em homenagem a Charles Francis Greville, vice-presidente fundador da Royal Horticultural Society de Londres, que jamais pisou em solo australiano. Dois séculos depois, a resistência alpina da grevílea-lanosa a tornou uma das grevíleas mais plantadas em cultivo: a cultivar baixa e rasteira 'Mt Tamboritha' estabiliza taludes rochosos e encostas de cascalho em jardins por toda a Austrália, onde quase nada mais consegue se fixar, carregando a mesma resiliência ao frio que permitiu a seus ancestrais sobreviver na montanha muito antes de alguém pensar em cultivá-la.",
+        "name_origin": "O gênero Grevillea homenageia Charles Francis Greville, vice-presidente fundador da Royal Horticultural Society; o nome da espécie, lanigera, significa em latim \"portadora de lã\", descrevendo os densos pelos cinzentos que cobrem suas folhas.",
+        "symbolism_story": "Nas encostas graníticas expostas das Snowy Mountains, a grevílea-lanosa sobrevive onde parentes mais vistosas não conseguem, sua folhagem cinza discreta escondendo tanto uma defesa contra o frio quanto uma doçura em suas flores. Ela passou a representar uma resiliência conquistada pela adaptação, e não pela ostentação, e a recompensa silenciosa encontrada nas coisas que não se anunciam.",
+        "flower_meaning": "Resiliência",
+        "uses_list": [
+          {
+            "text": "Flores ricas em néctar atraem mel-de-flor e outras aves nectarívoras."
+          },
+          {
+            "text": "Planta de cobertura de solo e jardim de pedras muito apreciada por sua folhagem prateada e lanosa."
+          },
+          {
+            "text": "Oferece alimento e abrigo a aves e insetos nativos em jardins alpinos hostis."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Resiliência",
+            "description": "Suas folhas isoladas por lã, que resistem à geada e à neve, fazem dela um símbolo de resistência silenciosa diante de condições adversas."
+          },
+          {
+            "keyword": "Doçura oculta",
+            "description": "O néctar escondido em suas modestas flores em forma de escova reflete a recompensa encontrada sob uma aparência discreta."
+          }
+        ],
+        "toxicity": {
+          "headline": "Humanos Moderado",
+          "active_compound_display": "Princípio tóxico desconhecido",
+          "notes_en": "Nenhuma correspondência toxicológica confiável foi encontrada; tratada como não reportada (a estimativa da IA não é verificada por fontes).",
+          "human": {
+            "exposure": "Material vegetal não especificado.",
+            "effect": "Efeitos tóxicos são reportados, mas nenhum sintoma específico é listado.",
+            "note": "Fontes confiáveis reportam esta planta como tóxica; a gravidade foi definida de forma conservadora como moderada até que dados mais precisos estejam disponíveis."
+          },
+          "dog": {
+            "exposure": "Nenhuma via de exposição reportada.",
+            "effect": "Nenhum efeito tóxico reportado.",
+            "note": "Nenhuma toxicidade é reportada para cães neste catálogo; isso não é prova de que a planta seja comestível ou inofensiva."
+          },
+          "cat": {
+            "exposure": "Nenhuma via de exposição reportada.",
+            "effect": "Nenhum efeito tóxico reportado.",
+            "note": "Nenhuma toxicidade é reportada para gatos neste catálogo; isso não é prova de que a planta seja comestível ou inofensiva."
           }
         }
       }

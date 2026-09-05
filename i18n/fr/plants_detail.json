@@ -3,8 +3,8 @@
   "locale": "fr",
   "source": {
     "resource": "plants_detail.json",
-    "sha256": "45b3c1bbe62c5de9089a8aef94f244d98e6ee7b08b5cc732ee13048f69e47359",
-    "record_count": 1678
+    "sha256": "d87e81d7e29cdd74ba25fdbfb0194cdce82869c17375ea0b4ede2b464eb5e826",
+    "record_count": 1679
   },
   "records": {
     "AAA0001": {
@@ -102860,6 +102860,60 @@
             "exposure": "Aucune voie d'exposition signalée.",
             "effect": "Aucun effet toxique signalé.",
             "note": "Aucune toxicité n'est signalée pour les chats dans ce catalogue ; cela ne prouve pas que la plante soit comestible ou inoffensive."
+          }
+        }
+      }
+    },
+    "AAA1680": {
+      "source_hash": "197cb8a4cef541be29adbf8da9cd13cd8d8e39688caca2dc1c7a38b3cab0f553",
+      "fields": {
+        "common_name": "Grevillea laineuse",
+        "bloom_tip": "La grevillea laineuse offre des fleurs éclatantes d'avril à août.",
+        "description": "Grevillea lanigera, la grevillea laineuse, est un arbuste persistant bas et étalé, originaire des versants alpins rocailleux des Snowy Mountains, dans le sud-est de l'Australie. Ses petites feuilles étroites sont recouvertes de poils fins gris-blanc qui l'isolent du gel, de la neige et des vents desséchants, une adaptation que peu d'autres espèces de Grevillea partagent. De l'automne au printemps, elle porte des grappes de fleurs rouge et crème en forme de brosse à dents qui attirent les méliphages et autres oiseaux nectarivores. Appréciée pour sa résistance au froid et à la sécheresse, elle est un pilier des jardins de rocaille et des talus australiens.",
+        "history_text_short": "Nommée pour ses feuilles laineuses contre le gel, cette espèce native des Snowy Mountains survit à un froid alpin qui tue la plupart des grevilleas. Les Aborigènes d'Australie suçaient autrefois le nectar sucré de ses fleurs en brosse à dents; aujourd'hui, son cultivar robuste 'Mt Tamboritha' stabilise les pentes rocheuses dans les jardins à travers l'Australie.",
+        "history_text_long": "Bien avant que les botanistes européens ne lui donnent un nom, la grevillea laineuse avait déjà résolu un problème que la plupart de ses parentes n'ont jamais eu à affronter. Tandis que la majorité des quelque 360 espèces de Grevillea d'Australie sont des arbustes des landes côtières chaudes, celle-ci pousse sur les versants granitiques balayés par le vent des Snowy Mountains, où la neige persiste des semaines durant chaque hiver. Ses feuilles ont développé un épais manteau de fins poils gris-blanc — la 'laine' qui donne son épithète latine, lanigera — retenant une couche d'air immobile contre la surface de la feuille, ce qui bloque le gel et ralentit la perte d'humidité sous le soleil alpin intense. Pour les peuples aborigènes des hautes terres, ses épis floraux en forme de brosse à dents offraient quelque chose de plus doux que la simple survie : comme de nombreuses espèces de Grevillea, ses fleurs contiennent un nectar que l'on pouvait aspirer directement ou faire tremper dans l'eau pour préparer une boisson sucrée rafraîchissante, une petite récompense fiable récoltée lors des expéditions de cueillette dans la lande rocailleuse. La science européenne la rattrapa au début du XIXe siècle, lorsque le botaniste Robert Brown, qui avait navigué avec Matthew Flinders autour des côtes australiennes, décrivit formellement le genre et le nomma en l'honneur de Charles Francis Greville, vice-président fondateur de la Royal Horticultural Society de Londres, qui n'a jamais mis les pieds en Australie. Deux siècles plus tard, la robustesse alpine de la grevillea laineuse en a fait l'une des grevilleas les plus cultivées : le cultivar bas et étalé 'Mt Tamboritha' stabilise talus rocheux et pentes d'éboulis dans les jardins australiens là où presque rien d'autre ne prend racine, portant la même résilience au froid qui permit à ses ancêtres de survivre sur la montagne bien avant que quiconque ne songe à la planter.",
+        "name_origin": "Le genre Grevillea honore Charles Francis Greville, vice-président fondateur de la Royal Horticultural Society; le nom d'espèce lanigera signifie en latin « porteuse de laine », décrivant les poils gris denses qui recouvrent ses feuilles.",
+        "symbolism_story": "Sur les versants granitiques exposés des Snowy Mountains, la grevillea laineuse survit là où des parentes plus voyantes ne le peuvent pas, son feuillage gris discret cachant à la fois une défense contre le froid et une douceur dans ses fleurs. Elle en est venue à représenter une résilience acquise par l'adaptation plutôt que par l'apparat, et la récompense silencieuse que l'on trouve dans les choses qui ne s'annoncent pas.",
+        "flower_meaning": "Résilience",
+        "uses_list": [
+          {
+            "text": "Ses fleurs riches en nectar attirent les méliphages et autres oiseaux nectarivores."
+          },
+          {
+            "text": "Couvre-sol et plante de rocaille appréciée pour son feuillage argenté et laineux."
+          },
+          {
+            "text": "Offre nourriture et abri aux oiseaux et insectes indigènes dans les jardins alpins rudes."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Résilience",
+            "description": "Ses feuilles isolées de laine, qui bravent le gel et la neige, en font un emblème d'endurance silencieuse face aux conditions difficiles."
+          },
+          {
+            "keyword": "Douceur cachée",
+            "description": "Le nectar niché dans ses modestes fleurs en brosse reflète la récompense que l'on trouve sous une apparence discrète."
+          }
+        ],
+        "toxicity": {
+          "headline": "Humains Modéré",
+          "active_compound_display": "Principe toxique inconnu",
+          "notes_en": "Aucune correspondance toxicologique faisant autorité n'a été trouvée; traité comme non signalé (l'estimation de l'IA n'est pas vérifiée par une source).",
+          "human": {
+            "exposure": "Matériel végétal non précisé.",
+            "effect": "Des effets toxiques sont signalés, mais aucun symptôme précis n'est indiqué.",
+            "note": "Des sources faisant autorité signalent cette plante comme toxique; la sévérité a été fixée de façon prudente à modérée en attendant des données plus précises."
+          },
+          "dog": {
+            "exposure": "Aucune voie d'exposition signalée.",
+            "effect": "Aucun effet toxique signalé.",
+            "note": "Aucune toxicité n'est signalée pour les chiens dans ce catalogue; cela ne prouve pas que la plante soit comestible ou inoffensive."
+          },
+          "cat": {
+            "exposure": "Aucune voie d'exposition signalée.",
+            "effect": "Aucun effet toxique signalé.",
+            "note": "Aucune toxicité n'est signalée pour les chats dans ce catalogue; cela ne prouve pas que la plante soit comestible ou inoffensive."
           }
         }
       }
