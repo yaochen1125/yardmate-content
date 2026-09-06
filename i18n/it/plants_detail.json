@@ -3,8 +3,8 @@
   "locale": "it",
   "source": {
     "resource": "plants_detail.json",
-    "sha256": "d87e81d7e29cdd74ba25fdbfb0194cdce82869c17375ea0b4ede2b464eb5e826",
-    "record_count": 1679
+    "sha256": "37998545ac233dd1b4e046d92a7ead2b619b79a82d64045ce317062824edfd92",
+    "record_count": 1680
   },
   "records": {
     "AAA0001": {
@@ -102928,6 +102928,71 @@
             "exposure": "Nessuna via di esposizione segnalata.",
             "effect": "Nessun effetto tossico segnalato.",
             "note": "Nessuna tossicità è segnalata per i gatti in questo catalogo; ciò non prova che la pianta sia commestibile o innocua."
+          }
+        }
+      }
+    },
+    "AAA1681": {
+      "source_hash": "a1bd1ab22139fb723c5db9662aca4eedf532c7847268151ac6cd2b6e4345a9a1",
+      "fields": {
+        "common_name": "Fitolacca americana",
+        "bloom_tip": "I fiori di questa pianta sbocciano in estate, di norma da luglio a settembre.",
+        "fruit_tip": "I suoi frutti viola brillante maturano in autunno e hanno un certo valore ornamentale.",
+        "description": "La fitolacca americana è una perenne vigorosa e a crescita rapida che può raggiungere due o tre metri di altezza in una sola stagione; i suoi fusti robusti passano dal verde a un rosso magenta appariscente man mano che l'estate avanza. Ampie foglie ovali si dispongono lungo il fusto, incorniciando sottili spighe di piccoli fiori bianco-verdastri che lasciano poi il posto a grappoli pendenti di bacche lucide, quasi nere. Spesso liquidata come una semplice erbaccia di bordo strada, colonizza terreni disturbati e margini boschivi con sorprendente rapidità. Gli uccelli canori si nutrono delle sue bacche in autunno, disperdendo i semi ovunque, mentre ogni parte della pianta resta velenosa per l'uomo e la maggior parte dei mammiferi.",
+        "history_text_short": "Durante la Guerra Civile americana, quando l'inchiostro scarseggiava, i soldati schiacciavano le bacche scure della fitolacca americana e usavano il succo purpureo per scrivere lettere a casa. Nel Sud rurale, i suoi germogli giovani — bolliti con cura per eliminare le tossine — divennero il piatto tradizionale «poke sallet», poi reso celebre da una canzone.",
+        "history_text_long": "Molto prima che la fitolacca americana costeggiasse le strade e i confini dei campi nell'est degli Stati Uniti, i popoli indigeni già apprezzavano il succo rosso intenso delle sue bacche come colorante e ne usavano la radice, con cautela, come rimedio popolare contro i reumatismi e i disturbi della pelle. I coloni adottarono entrambe le pratiche, e la potente macchia purpurea delle bacche trovò presto un uso lontano dalla medicina: il calamaio. Quando durante la Guerra Civile l'inchiostro scarseggiava, soldati di entrambi gli schieramenti schiacciavano le bacche per scrivere lettere a casa; la loro scrittura rosso-violacea, ormai sbiadita, è ancora visibile su corrispondenze conservate negli archivi dei musei. Nel Sud rurale, i giovani germogli della fitolacca diventavano «poke sallet», un ortaggio primaverile che richiedeva più bolliture con cambi d'acqua per eliminare le tossine naturali della pianta prima di poter essere consumato in sicurezza — una tradizione poi celebrata nella canzone di Tony Joe White del 1968 «Polk Salad Annie», resa famosa dalle esibizioni dal vivo di Elvis Presley. Nonostante questa persistente rilevanza culturale, la fitolacca americana non ha mai perso il suo lato pericoloso: ogni parte della pianta matura, in particolare la radice e i semi, contiene composti che possono causare gravi disturbi gastrointestinali se ingeriti senza la preparazione adeguata. Gli uccelli, immuni alle sue tossine, continuano a divorare le bacche ogni autunno, disperdendo i semi in tutto il continente e assicurando la persistenza della pianta nei terreni disturbati per generazioni.",
+        "name_origin": "Il nome del genere Phytolacca unisce il greco phyton («pianta») al francese lac («tintura color carminio»), in riferimento al succo rosso intenso delle bacche; americana ne indica l'origine nordamericana. Il nome comune «poke» deriverebbe da pocan o puccoon, parole dei nativi americani per piante che producono un colorante rosso o giallo.",
+        "symbolism_story": "Crescendo rapidamente su scarpate e campi dimenticati, la fitolacca americana è da tempo un simbolo popolare di resistenza tenace — una pianta che prospera proprio dove il terreno è stato disturbato. I suoi fusti e le sue bacche color sangue portano anche un monito più sommesso: bellezza e pericolo condividono spesso lo stesso stelo, e il rispetto per questa dualità attraversa generazioni di tradizioni di raccolta nel Sud rurale.",
+        "flower_meaning": "Resilienza",
+        "uses_list": [
+          {
+            "text": "Le bacche sono un'importante fonte di cibo autunnale per gli uccelli canori, che disperdono i semi senza subirne danno."
+          },
+          {
+            "text": "Le bacche schiacciate producono un colorante rosso-porpora intenso, un tempo usato per l'inchiostro e per tingere i tessuti."
+          },
+          {
+            "text": "Gli estratti di radice hanno una lunga storia nella medicina popolare e nella moderna ricerca immunologica, sebbene il materiale vegetale crudo sia tossico."
+          },
+          {
+            "text": "I germogli giovani, bolliti in più cambi d'acqua per eliminare le tossine, si mangiano come il tradizionale piatto del Sud «poke sallet»."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Resilienza",
+            "description": "La sua capacità di spuntare rapidamente su terreni disturbati e trascurati ha reso la fitolacca un simbolo popolare di tenacia e perseveranza nel Sud rurale."
+          },
+          {
+            "keyword": "Cautela",
+            "description": "Le sue bacche belle ma velenose ricordano da sempre che i doni della natura richiedono rispetto e conoscenza prima di essere sfruttati."
+          }
+        ],
+        "toxicity": {
+          "headline": "Tossica per l'uomo",
+          "active_compound_display": "fitolaccatossina, fitolaccigenina, saponine triterpeniche e acido ossalico",
+          "notes_en": "Tutte le parti sono potenzialmente tossiche se ingerite senza un'adeguata preparazione; il rischio di avvelenamento maggiore proviene dalla radice e dalle bacche immature.",
+          "human": {
+            "exposure": "Ingestione di radici, foglie, fusti, bacche e semi. Contatto con radici, foglie, fusti, bacche e semi.",
+            "effect": "Vomito, diarrea, crampi addominali, salivazione eccessiva e, nei casi gravi, bassa pressione sanguigna e battito cardiaco irregolare.",
+            "note": "Tutte le parti sono potenzialmente tossiche se ingerite senza un'adeguata preparazione; il rischio di avvelenamento maggiore proviene dalla radice e dalle bacche immature.",
+            "symptoms": [
+              "Vomito.",
+              "Diarrea.",
+              "Crampi addominali.",
+              "Salivazione eccessiva.",
+              "Bassa pressione sanguigna e battito cardiaco irregolare nei casi gravi."
+            ]
+          },
+          "dog": {
+            "exposure": "Nessuna via di esposizione segnalata.",
+            "effect": "Nessun effetto tossico segnalato.",
+            "note": "La tossicità nei cani non è ben documentata; usare cautela fino a conferma."
+          },
+          "cat": {
+            "exposure": "Nessuna via di esposizione segnalata.",
+            "effect": "Nessun effetto tossico segnalato.",
+            "note": "La tossicità nei gatti non è ben documentata; usare cautela fino a conferma."
           }
         }
       }

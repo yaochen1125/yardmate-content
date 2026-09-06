@@ -3,8 +3,8 @@
   "locale": "es",
   "source": {
     "resource": "plants_detail.json",
-    "sha256": "d87e81d7e29cdd74ba25fdbfb0194cdce82869c17375ea0b4ede2b464eb5e826",
-    "record_count": 1679
+    "sha256": "37998545ac233dd1b4e046d92a7ead2b619b79a82d64045ce317062824edfd92",
+    "record_count": 1680
   },
   "records": {
     "AAA0001": {
@@ -102928,6 +102928,71 @@
             "exposure": "No se reporta ninguna vía de exposición.",
             "effect": "No se reporta ningún efecto tóxico.",
             "note": "No se reporta toxicidad para gatos en este catálogo; esto no es prueba de que la planta sea comestible o inofensiva."
+          }
+        }
+      }
+    },
+    "AAA1681": {
+      "source_hash": "a1bd1ab22139fb723c5db9662aca4eedf532c7847268151ac6cd2b6e4345a9a1",
+      "fields": {
+        "common_name": "Hierba carmín",
+        "bloom_tip": "Las flores de esta planta brotan en verano, generalmente entre julio y septiembre.",
+        "fruit_tip": "Sus vistosos frutos púrpuras maduran en otoño y tienen cierto valor ornamental.",
+        "description": "La hierba carmín es una planta perenne vigorosa y de crecimiento rápido que puede alcanzar entre dos y tres metros de altura en una sola temporada; sus gruesos tallos pasan del verde a un llamativo rojo magenta a medida que avanza el verano. Grandes hojas ovaladas se despliegan a lo largo del tallo, enmarcando delgadas espigas de pequeñas flores blanquiverdosas que dan paso a racimos colgantes de bayas brillantes, casi negras. A menudo descartada como una simple maleza de cuneta, coloniza suelos alterados y bordes de bosque con sorprendente rapidez. Las aves canoras arrasan sus bayas durante el otoño, dispersando las semillas por todas partes, mientras que cada parte de la planta sigue siendo venenosa para las personas y la mayoría de los mamíferos.",
+        "history_text_short": "Durante la Guerra Civil estadounidense, cuando escaseaba la tinta, los soldados aplastaban las oscuras bayas de la hierba carmín y usaban el jugo carmesí para escribir cartas a casa. En el sur rural, sus brotos tiernos —hervidos cuidadosamente para eliminar las toxinas— se convirtieron en el plato tradicional «poke sallet», más tarde inmortalizado en una canción.",
+        "history_text_long": "Mucho antes de que la hierba carmín poblara las cunetas y los linderos del este de Estados Unidos, los pueblos indígenas ya apreciaban el jugo rojo intenso de sus bayas como tinte y usaban su raíz, con cautela, como remedio popular contra el reumatismo y las afecciones de la piel. Los colonos adoptaron ambas prácticas, y la potente mancha carmesí de las bayas pronto encontró un uso alejado de la medicina: el tintero. Cuando la tinta escaseaba durante la Guerra Civil, soldados de ambos bandos aplastaban las bayas para escribir cartas a casa; su escritura rojiza y desvaída aún puede verse en correspondencia conservada en archivos de museos. En el sur rural, los brotos tiernos de la hierba carmín se convirtieron en «poke sallet», una verdura de primavera que requería hervirse varias veces, cambiando el agua, para eliminar las toxinas naturales de la planta antes de poder consumirse con seguridad —una tradición celebrada más tarde en la canción de Tony Joe White de 1968 «Polk Salad Annie», popularizada por las actuaciones de Elvis Presley. A pesar de su arraigo cultural, la hierba carmín nunca ha perdido su lado peligroso: cada parte de la planta madura, especialmente la raíz y las semillas, contiene compuestos que pueden causar graves trastornos gastrointestinales si se ingieren sin la preparación adecuada. Las aves, inmunes a sus toxinas, siguen devorando las bayas cada otoño, dispersando las semillas por todo el continente y asegurando la persistencia de la planta en suelos alterados durante generaciones.",
+        "name_origin": "El nombre del género Phytolacca combina el griego phyton («planta») con el francés lac («tinte carmesí»), en alusión al jugo rojo intenso de sus bayas; americana señala su origen norteamericano. El nombre común «poke» probablemente proviene de pocan o puccoon, palabras indígenas norteamericanas para plantas que producen tinte rojo o amarillo.",
+        "symbolism_story": "Brotando con rapidez en taludes y campos olvidados, la hierba carmín se ha convertido en un símbolo popular de resistencia tenaz: una planta que prospera precisamente donde la tierra ha sido alterada. Sus tallos y bayas de color rojo sangre llevan también una advertencia más discreta: la belleza y el peligro suelen compartir el mismo tallo, y el respeto por esa dualidad recorre generaciones de la tradición de recolección del sur de Estados Unidos.",
+        "flower_meaning": "Resiliencia",
+        "uses_list": [
+          {
+            "text": "Las bayas son una fuente de alimento otoñal importante para las aves canoras, que dispersan las semillas sin sufrir daño."
+          },
+          {
+            "text": "Las bayas trituradas producen un tinte rojo púrpura intenso, usado antiguamente para tinta y para teñir tejidos."
+          },
+          {
+            "text": "Los extractos de raíz tienen una larga historia en la medicina popular y en la investigación inmunológica moderna, aunque el material vegetal crudo es tóxico."
+          },
+          {
+            "text": "Los brotos tiernos, hervidos en varios cambios de agua para eliminar las toxinas, se comen como el plato tradicional sureño «poke sallet»."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Resiliencia",
+            "description": "Su capacidad para brotar rápidamente en suelos alterados y descuidados ha convertido a la hierba carmín en un símbolo popular de fortaleza y persistencia en el sur rural."
+          },
+          {
+            "keyword": "Cautela",
+            "description": "Sus hermosas pero venenosas bayas han servido durante mucho tiempo como recordatorio de que los dones de la naturaleza exigen respeto y conocimiento antes de aprovecharlos."
+          }
+        ],
+        "toxicity": {
+          "headline": "Tóxica para humanos",
+          "active_compound_display": "fitolacatoxina, fitolacigenina, saponinas triterpénicas y ácido oxálico",
+          "notes_en": "Todas las partes son potencialmente tóxicas si se ingieren sin la preparación adecuada; el mayor riesgo de intoxicación proviene de la raíz y las bayas inmaduras.",
+          "human": {
+            "exposure": "Ingestión de raíces, hojas, tallos, bayas y semillas. Contacto con raíces, hojas, tallos, bayas y semillas.",
+            "effect": "Vómitos, diarrea, calambres abdominales, salivación excesiva y, en casos graves, presión arterial baja y latidos irregulares.",
+            "note": "Todas las partes son potencialmente tóxicas si se ingieren sin la preparación adecuada; el mayor riesgo de intoxicación proviene de la raíz y las bayas inmaduras.",
+            "symptoms": [
+              "Vómitos.",
+              "Diarrea.",
+              "Calambres abdominales.",
+              "Salivación excesiva.",
+              "Presión arterial baja y latidos irregulares en casos graves."
+            ]
+          },
+          "dog": {
+            "exposure": "No se reporta ninguna vía de exposición.",
+            "effect": "No se reporta ningún efecto tóxico.",
+            "note": "La toxicidad en perros no está bien documentada; se recomienda precaución hasta confirmarlo."
+          },
+          "cat": {
+            "exposure": "No se reporta ninguna vía de exposición.",
+            "effect": "No se reporta ningún efecto tóxico.",
+            "note": "La toxicidad en gatos no está bien documentada; se recomienda precaución hasta confirmarlo."
           }
         }
       }

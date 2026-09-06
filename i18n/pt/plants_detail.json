@@ -3,8 +3,8 @@
   "locale": "pt",
   "source": {
     "resource": "plants_detail.json",
-    "sha256": "d87e81d7e29cdd74ba25fdbfb0194cdce82869c17375ea0b4ede2b464eb5e826",
-    "record_count": 1679
+    "sha256": "37998545ac233dd1b4e046d92a7ead2b619b79a82d64045ce317062824edfd92",
+    "record_count": 1680
   },
   "records": {
     "AAA0001": {
@@ -102928,6 +102928,71 @@
             "exposure": "Nenhuma via de exposição reportada.",
             "effect": "Nenhum efeito tóxico reportado.",
             "note": "Nenhuma toxicidade é reportada para gatos neste catálogo; isso não é prova de que a planta seja comestível ou inofensiva."
+          }
+        }
+      }
+    },
+    "AAA1681": {
+      "source_hash": "a1bd1ab22139fb723c5db9662aca4eedf532c7847268151ac6cd2b6e4345a9a1",
+      "fields": {
+        "common_name": "Fitolaca americana",
+        "bloom_tip": "As flores desta planta desabrocham no verão, geralmente entre julho e setembro.",
+        "fruit_tip": "Seus frutos de um roxo vibrante amadurecem no outono e têm certo valor ornamental.",
+        "description": "A fitolaca americana é uma perene vigorosa e de crescimento rápido que pode atingir de dois a três metros de altura em uma única estação; seus caules grossos passam do verde a um magenta vivo à medida que o verão avança. Folhas grandes e ovaladas se espalham ao longo do caule, emoldurando finas espigas de pequenas flores esverdeadas que dão lugar a cachos pendentes de bagas brilhantes, quase negras. Muitas vezes tratada como mero mato de beira de estrada, coloniza solos perturbados e bordas de mata com rapidez surpreendente. Aves canoras devoram suas bagas no outono, espalhando as sementes por toda parte, enquanto cada parte da planta continua venenosa para humanos e para a maioria dos mamíferos.",
+        "history_text_short": "Durante a Guerra Civil americana, quando faltava tinta, os soldados esmagavam as bagas escuras da fitolaca americana e usavam o suco carmesim para escrever cartas para casa. No Sul rural, seus brotos jovens — fervidos com cuidado para remover as toxinas — tornaram-se o prato tradicional \"poke sallet\", mais tarde imortalizado em uma canção.",
+        "history_text_long": "Muito antes de a fitolaca americana margear estradas e cercas no leste dos Estados Unidos, os povos indígenas já valorizavam o suco vermelho intenso de suas bagas como corante e usavam sua raiz, com cautela, como remédio popular contra reumatismo e afecções de pele. Os colonos adotaram ambas as práticas, e a mancha carmesim potente das bagas logo encontrou um uso longe da medicina: o tinteiro. Quando a tinta de verdade escasseou durante a Guerra Civil, soldados de ambos os lados esmagavam as bagas para escrever cartas para casa; sua escrita avermelhada e desbotada ainda pode ser vista em correspondências preservadas em arquivos de museus. No Sul rural, os brotos jovens da fitolaca americana tornaram-se \"poke sallet\", uma verdura de primavera que exigia fervura em várias trocas de água para remover as toxinas naturais da planta antes de poder ser consumida com segurança — uma tradição celebrada mais tarde na canção de 1968 de Tony Joe White, \"Polk Salad Annie\", popularizada pelas apresentações ao vivo de Elvis Presley. Apesar dessa presença cultural duradoura, a fitolaca americana nunca perdeu seu lado perigoso: cada parte da planta madura, especialmente a raiz e as sementes, contém compostos que podem causar sérios distúrbios gastrointestinais se ingeridos sem o preparo adequado. As aves, imunes às suas toxinas, continuam a devorar as bagas todo outono, espalhando as sementes pelo continente e garantindo a persistência da planta em solos perturbados por gerações.",
+        "name_origin": "O nome do gênero Phytolacca une o grego phyton (\"planta\") ao francês lac (\"corante carmesim\"), em referência ao suco vermelho intenso das bagas; americana indica sua origem norte-americana. O nome comum \"poke\" provavelmente deriva de pocan ou puccoon, palavras nativas norte-americanas para plantas que produzem corante vermelho ou amarelo.",
+        "symbolism_story": "Brotando rapidamente em taludes e campos esquecidos, a fitolaca americana há muito é um símbolo popular de resiliência obstinada — uma planta que prospera justamente onde o solo foi perturbado. Seus caules e bagas cor de sangue carregam também um aviso mais discreto: beleza e perigo costumam dividir o mesmo caule, e o respeito por essa dualidade atravessa gerações da tradição de coleta do Sul rural.",
+        "flower_meaning": "Resiliência",
+        "uses_list": [
+          {
+            "text": "As bagas são uma importante fonte de alimento no outono para as aves canoras, que dispersam as sementes sem sofrer danos."
+          },
+          {
+            "text": "As bagas esmagadas produzem um corante roxo-avermelhado intenso, antigamente usado para tinta e tingimento de tecidos."
+          },
+          {
+            "text": "Extratos da raiz têm uma longa história na medicina popular e na pesquisa imunológica moderna, embora o material vegetal cru seja tóxico."
+          },
+          {
+            "text": "Os brotos jovens, fervidos em várias trocas de água para remover as toxinas, são consumidos como o prato tradicional sulista \"poke sallet\"."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Resiliência",
+            "description": "Sua capacidade de brotar rapidamente em solos perturbados e negligenciados fez da fitolaca americana um símbolo popular de robustez e persistência no Sul rural."
+          },
+          {
+            "keyword": "Cautela",
+            "description": "Suas bagas belas, porém venenosas, há muito servem de lembrete de que os dons da natureza exigem respeito e conhecimento antes de serem aproveitados."
+          }
+        ],
+        "toxicity": {
+          "headline": "Tóxica para humanos",
+          "active_compound_display": "fitolacatoxina, fitolacigenina, saponinas triterpênicas e ácido oxálico",
+          "notes_en": "Todas as partes são potencialmente tóxicas se ingeridas sem o preparo adequado; o maior risco de intoxicação vem da raiz e das bagas verdes.",
+          "human": {
+            "exposure": "Ingestão de raízes, folhas, caules, bagas e sementes. Contato com raízes, folhas, caules, bagas e sementes.",
+            "effect": "Vômitos, diarreia, cólicas abdominais, salivação excessiva e, em casos graves, pressão arterial baixa e batimentos cardíacos irregulares.",
+            "note": "Todas as partes são potencialmente tóxicas se ingeridas sem o preparo adequado; o maior risco de intoxicação vem da raiz e das bagas verdes.",
+            "symptoms": [
+              "Vômitos.",
+              "Diarreia.",
+              "Cólicas abdominais.",
+              "Salivação excessiva.",
+              "Pressão arterial baixa e batimentos cardíacos irregulares em casos graves."
+            ]
+          },
+          "dog": {
+            "exposure": "Nenhuma via de exposição relatada.",
+            "effect": "Nenhum efeito tóxico relatado.",
+            "note": "A toxicidade em cães não está bem documentada; recomenda-se cautela até confirmação."
+          },
+          "cat": {
+            "exposure": "Nenhuma via de exposição relatada.",
+            "effect": "Nenhum efeito tóxico relatado.",
+            "note": "A toxicidade em gatos não está bem documentada; recomenda-se cautela até confirmação."
           }
         }
       }

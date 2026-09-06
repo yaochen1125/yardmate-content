@@ -3,8 +3,8 @@
   "locale": "fr",
   "source": {
     "resource": "plants_detail.json",
-    "sha256": "d87e81d7e29cdd74ba25fdbfb0194cdce82869c17375ea0b4ede2b464eb5e826",
-    "record_count": 1679
+    "sha256": "37998545ac233dd1b4e046d92a7ead2b619b79a82d64045ce317062824edfd92",
+    "record_count": 1680
   },
   "records": {
     "AAA0001": {
@@ -102914,6 +102914,71 @@
             "exposure": "Aucune voie d'exposition signalée.",
             "effect": "Aucun effet toxique signalé.",
             "note": "Aucune toxicité n'est signalée pour les chats dans ce catalogue; cela ne prouve pas que la plante soit comestible ou inoffensive."
+          }
+        }
+      }
+    },
+    "AAA1681": {
+      "source_hash": "a1bd1ab22139fb723c5db9662aca4eedf532c7847268151ac6cd2b6e4345a9a1",
+      "fields": {
+        "common_name": "Raisin d'Amérique",
+        "bloom_tip": "Les fleurs de cette plante s'épanouissent en été, généralement de juillet à septembre.",
+        "fruit_tip": "Ses fruits pourpres éclatants mûrissent en automne et possèdent une certaine valeur ornementale.",
+        "description": "Le raisin d'Amérique est une vivace vigoureuse à croissance rapide qui peut atteindre deux à trois mètres de haut en une seule saison; ses tiges épaisses passent du vert à un rouge magenta saisissant à mesure que l'été avance. De grandes feuilles ovales se déploient le long de la tige, encadrant de fins épis de petites fleurs blanc-vert qui laissent place à des grappes pendantes de baies luisantes, presque noires. Souvent considérée comme une simple mauvaise herbe de bord de route, elle colonise les sols perturbés et les lisières de forêt avec une rapidité surprenante. Les oiseaux chanteurs dévorent ses baies à l'automne, dispersant les graines au loin, tandis que chaque partie de la plante demeure toxique pour l'homme et la plupart des mammifères.",
+        "history_text_short": "Pendant la guerre de Sécession, l'encre venant souvent à manquer, les soldats écrasaient les baies sombres du raisin d'Amérique et utilisaient le jus pourpre pour écrire des lettres à leurs familles. Dans le Sud rural, ses jeunes pousses — bouillies avec soin pour en retirer les toxines — sont devenues le plat traditionnel « poke sallet », plus tard immortalisé dans une chanson.",
+        "history_text_long": "Bien avant que le raisin d'Amérique ne borde les routes et les clôtures de l'est des États-Unis, les peuples autochtones appréciaient déjà le jus rouge intense de ses baies comme teinture et utilisaient sa racine, avec prudence, comme remède populaire contre les rhumatismes et les affections cutanées. Les colons ont repris ces deux usages, et la puissante tache pourpre des baies a rapidement trouvé un emploi loin de la médecine : l'encrier. Lorsque l'encre venait à manquer pendant la guerre de Sécession, des soldats des deux camps écrasaient les baies pour écrire des lettres à la maison; leur écriture rouge-violet, aujourd'hui pâlie, reste visible sur des correspondances conservées dans des archives de musées. Dans le Sud rural, les jeunes pousses du raisin d'Amérique devenaient le « poke sallet », un légume printanier qu'il fallait faire bouillir à plusieurs reprises en changeant l'eau pour en éliminer les toxines naturelles avant de pouvoir le consommer sans danger — une tradition célébrée plus tard dans la chanson de Tony Joe White « Polk Salad Annie » (1968), popularisée par les prestations scéniques d'Elvis Presley. Malgré cet ancrage culturel durable, le raisin d'Amérique n'a jamais perdu son côté dangereux : chaque partie de la plante adulte, en particulier la racine et les graines, contient des composés pouvant provoquer de graves troubles digestifs en cas d'ingestion sans préparation adéquate. Les oiseaux, immunisés contre ses toxines, continuent de se gaver de ses baies chaque automne, dispersant les graines à travers le continent et assurant la persistance de la plante dans les sols perturbés pour des générations.",
+        "name_origin": "Le nom de genre Phytolacca associe le grec phyton (« plante ») au français lac (« teinture cramoisie »), en référence au jus rouge intense des baies; americana indique son origine nord-américaine. Le nom commun « poke » viendrait de pocan ou puccoon, des mots amérindiens désignant des plantes produisant une teinture rouge ou jaune.",
+        "symbolism_story": "Surgissant rapidement des talus et des champs abandonnés, le raisin d'Amérique est depuis longtemps un symbole populaire de résilience tenace — une plante qui prospère précisément là où le sol a été perturbé. Ses tiges et ses baies rouge sang portent aussi un avertissement plus discret : la beauté et le danger partagent souvent la même tige, et le respect de cette dualité traverse des générations de traditions de cueillette dans le Sud.",
+        "flower_meaning": "Résilience",
+        "uses_list": [
+          {
+            "text": "Les baies constituent une importante source de nourriture automnale pour les oiseaux chanteurs, qui dispersent les graines sans dommage."
+          },
+          {
+            "text": "Les baies écrasées donnent une teinture rouge-pourpre intense, autrefois utilisée pour l'encre et la teinture des tissus."
+          },
+          {
+            "text": "Les extraits de racine ont une longue histoire dans la médecine populaire et la recherche immunologique moderne, bien que la plante crue soit toxique."
+          },
+          {
+            "text": "Les jeunes pousses, bouillies dans plusieurs eaux successives pour en retirer les toxines, se consomment sous forme du plat traditionnel sudiste « poke sallet »."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Résilience",
+            "description": "Sa capacité à surgir rapidement sur des sols perturbés et négligés a fait du raisin d'Amérique un symbole populaire de robustesse et de persévérance dans le Sud rural."
+          },
+          {
+            "keyword": "Prudence",
+            "description": "Ses baies aussi belles que vénéneuses rappellent depuis longtemps que les bienfaits de la nature exigent respect et connaissance avant d'être exploités."
+          }
+        ],
+        "toxicity": {
+          "headline": "Toxique pour l'homme",
+          "active_compound_display": "phytolaccatoxine, phytolaccigénine, saponines triterpéniques et acide oxalique",
+          "notes_en": "Toutes les parties sont potentiellement toxiques si elles sont ingérées sans préparation adéquate; le risque d'intoxication est le plus élevé avec la racine et les baies immatures.",
+          "human": {
+            "exposure": "Ingestion de racines, feuilles, tiges, baies et graines. Contact avec racines, feuilles, tiges, baies et graines.",
+            "effect": "Vomissements, diarrhée, crampes abdominales, salivation excessive et, dans les cas graves, hypotension et troubles du rythme cardiaque.",
+            "note": "Toutes les parties sont potentiellement toxiques si elles sont ingérées sans préparation adéquate; le risque d'intoxication est le plus élevé avec la racine et les baies immatures.",
+            "symptoms": [
+              "Vomissements.",
+              "Diarrhée.",
+              "Crampes abdominales.",
+              "Salivation excessive.",
+              "Hypotension et troubles du rythme cardiaque dans les cas graves."
+            ]
+          },
+          "dog": {
+            "exposure": "Aucune voie d'exposition signalée.",
+            "effect": "Aucun effet toxique signalé.",
+            "note": "La toxicité chez le chien n'est pas bien documentée; la prudence est recommandée jusqu'à confirmation."
+          },
+          "cat": {
+            "exposure": "Aucune voie d'exposition signalée.",
+            "effect": "Aucun effet toxique signalé.",
+            "note": "La toxicité chez le chat n'est pas bien documentée; la prudence est recommandée jusqu'à confirmation."
           }
         }
       }
