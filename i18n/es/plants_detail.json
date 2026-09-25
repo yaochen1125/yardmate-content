@@ -3,8 +3,8 @@
   "locale": "es",
   "source": {
     "resource": "plants_detail.json",
-    "sha256": "eb668be162b159a483537ff3fbbba1e9517dd88ae1a14bcaf932ed873bbd6488",
-    "record_count": 1684
+    "sha256": "c5a9a18cd7a593f78e915ea9f46df99014172cc80a22740ebab90c38b42f3615",
+    "record_count": 1692
   },
   "records": {
     "AAA0001": {
@@ -103212,6 +103212,419 @@
             "exposure": "No se reporta ninguna vía de exposición.",
             "effect": "No se reporta ningún efecto tóxico.",
             "note": "No se reporta toxicidad para gatos en este catálogo; esto no es evidencia de que la planta sea comestible o inofensiva."
+          }
+        }
+      }
+    },
+    "AAA1686": {
+      "source_hash": "805af48f78a691f0b9df26aa44a218172a2dc1f103d0dbcf91a75a04b455b7c8",
+      "fields": {
+        "common_name": "Brezo común",
+        "bloom_tip": "Esta planta florece desde finales del verano hasta principios del otoño y atrae a muchas abejas.",
+        "description": "El brezo común es un arbusto bajo y perenne de tallos finos y erguidos cubiertos de diminutas hojas en forma de escama que se mantienen verdes en invierno. Desde finales del verano hasta el otoño se cubre de espigas de pequeñas flores acampanadas de color rosa, púrpura o blanco, que atraen a las abejas. Mide de 15 a 45 cm de alto y hasta 90 cm de ancho, forma montículos densos y es ideal para jardines de rocalla, borduras, taludes y macetas. Prospera a pleno sol y en suelo ácido y bien drenado, tolera la pobreza del suelo, la sequía y el frío, y solo necesita una poda ligera tras la floración.",
+        "history_text_short": "El brezo común lleva miles de años cubriendo los páramos y brezales de Europa. Se usaba para techar, para camas, escobas, tintes y miel, y en Escocia una ramita de brezo blanco se convirtió en amuleto de buena suerte. Su nombre de género, Calluna, de raíz griega, significa «barrer» o «cepillar».",
+        "history_text_long": "El brezo común es una de las grandes plantas del páramo abierto. Sus tallos finos se extienden por los brezales y las tierras altas de Europa y más allá, y donde crece da forma a paisajes enteros, desde las colinas púrpuras de las Tierras Altas de Escocia hasta los brezales azotados por el viento de Escandinavia. Durante miles de años, la gente de estas regiones vivió junto a él y encontró uso para casi todas sus partes. Los manojos de ramas se ataban para hacer escobas, de ahí su nombre de género, Calluna, del griego kallyno, que significa «barrer» o «limpiar». Los tallos más gruesos se colocaban como paja en los techos de las casas, se trenzaban en cestas y cuerdas o se empleaban como lecho bajo las sábanas, mientras que las puntas floridas daban tintes amarillos y naranjas para la lana. Los apicultores llevaban sus colmenas al páramo a finales del verano para que las abejas recogieran la miel de brezo, oscura y aromática, y en Escocia el brezo también aromatizaba la cerveza mucho antes de que se generalizara el lúpulo. En el folclore escocés, el brezo blanco, una rara variante natural, traía buena suerte y protección, y todavía hoy se regalan ramitas a novias y viajeros. En el siglo XIX, el amor de la reina Victoria por las Tierras Altas puso de moda el brezo mucho más allá de su tierra natal. Desde entonces, los jardineros han seleccionado cientos de cultivares con flores rosas, púrpuras y blancas y follaje dorado, plateado, naranja y rojo. Hoy el brezo común se planta en rocallas, borduras y macetas, y sigue siendo una fuente importante de alimento para las abejas y la fauna del páramo.",
+        "name_origin": "El nombre de género Calluna procede del griego kallyno, que significa «barrer» o «limpiar», porque sus ramitas rígidas se ataban para hacer escobas. El epíteto vulgaris significa «común» en latín, pues la planta abunda en páramos y brezales. El nombre español brezo alude a los terrenos abiertos de brezal donde crece.",
+        "symbolism_story": "En Escocia, una ramita de brezo blanco es un querido amuleto de buena suerte que llevan novias y viajeros para tener protección y felicidad. La resistencia del brezo en páramos abiertos y ventosos también lo convirtió en símbolo de soledad y de silenciosa perseverancia.",
+        "flower_meaning": "Buena suerte",
+        "fragrance": {
+          "notes": "Un aroma tenue, como de miel"
+        },
+        "uses_list": [
+          {
+            "text": "Se planta para dar color a finales del verano y en otoño en jardines de rocalla, borduras, taludes, brezales de jardín y macetas."
+          },
+          {
+            "text": "Sus flores ricas en néctar alimentan a las abejas y dan origen a la miel de brezo, oscura y de sabor intenso."
+          },
+          {
+            "text": "Tradicionalmente se ataba para hacer escobas y se usaba para techumbres, camas, cestas y tintes amarillo-anaranjados para la lana."
+          },
+          {
+            "text": "Sus densos montículos dan refugio a insectos y pequeñas aves terrestres, y los brotes jóvenes alimentan a urogallos y ciervos en el páramo."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Buena suerte",
+            "description": "El brezo blanco es un amuleto tradicional escocés de suerte y protección, que se regala a novias y viajeros."
+          },
+          {
+            "keyword": "Soledad",
+            "description": "Su hogar salvaje y azotado por el viento lo ha vinculado desde siempre con la soledad y la resistencia silenciosa."
+          }
+        ],
+        "toxicity": {
+          "headline": "Sin toxicidad reportada",
+          "active_compound_display": "Ninguno reportado",
+          "notes_en": "No se encontró una fuente autorizada de toxicidad; se trata como no reportada (la estimación del LLM no está verificada con fuentes).",
+          "human": {
+            "exposure": "No se reporta ninguna vía de exposición.",
+            "effect": "No se reporta ningún efecto tóxico.",
+            "note": "En este catálogo no se reporta toxicidad para las personas; esto no prueba que la planta sea comestible o inofensiva."
+          },
+          "dog": {
+            "exposure": "No se reporta ninguna vía de exposición.",
+            "effect": "No se reporta ningún efecto tóxico.",
+            "note": "En este catálogo no se reporta toxicidad para los perros; esto no prueba que la planta sea comestible o inofensiva."
+          },
+          "cat": {
+            "exposure": "No se reporta ninguna vía de exposición.",
+            "effect": "No se reporta ningún efecto tóxico.",
+            "note": "En este catálogo no se reporta toxicidad para los gatos; esto no prueba que la planta sea comestible o inofensiva."
+          }
+        }
+      }
+    },
+    "AAA1687": {
+      "source_hash": "3283afbf3885f9e38bd7391e9e751ba3118808bfb1254b6943e74b6851e86fc3",
+      "fields": {
+        "common_name": "Grama bermuda",
+        "description": "La grama bermuda (Cynodon dactylon) es un césped de estación cálida y textura fina que se extiende mediante estolones rastreros y rizomas subterráneos, formando una alfombra densa y resistente de apenas unos centímetros de altura. Sus hojas estrechas, de un verde azulado, prosperan a pleno sol y con calor, y sus raíces profundas soportan sequías que agostarían a la mayoría de los céspedes. Se recupera pronto del pisoteo, por lo que cubre campos deportivos, calles de golf y jardines soleados de climas cálidos. Tras las heladas se vuelve pajiza y entra en reposo, y reverdece al llegar la primavera. En verano aparecen pequeñas espigas en forma de dedos; por su vigor necesita bordes junto a los macizos.",
+        "history_text_short": "A pesar de su nombre, la grama bermuda procede probablemente de África y Asia, no de las Bermudas. Viajó en barcos y en el forraje del ganado, llegó a América en el siglo XVIII y pronto se plantó como pasto. Hoy sus tenaces estolones sostienen céspedes, campos de golf y estadios en el mundo cálido.",
+        "history_text_long": "La grama bermuda es una de las gramíneas más viajeras del planeta. Su área nativa se sitúa por lo general en África, el sur de Asia y partes de Australia, pero se lleva moviendo por el mundo desde hace tanto tiempo que su origen exacto es difícil de precisar. El nombre común alude a las Bermudas, uno de los muchos lugares cálidos donde se asentó, y quienes han intentado arrancarla de un parterre también la llaman hierba del diablo o hierba de alambre.\n\nSe expandió con el comercio humano. Semillas y trozos de tallo viajaron en el lastre de los barcos y en el forraje animal, y en el siglo XVIII ya estaba establecida en el sur de Estados Unidos, donde los agricultores la valoraban como pasto y como cobertura que sujetaba el suelo de las laderas erosionadas. Sus estolones echan raíces allí donde un nudo toca el suelo, de modo que un pequeño fragmento puede fundar una colonia entera.\n\nEn el siglo XX, los mejoradores convirtieron a esta robusta colonizadora en un cultivo de césped. Los cultivares híbridos mejorados, de hojas más finas y crecimiento más denso, se volvieron el estándar para calles y greens de golf y campos deportivos en regiones cálidas, porque la planta tolera el desgaste intenso, cortes muy bajos y largos periodos secos. También tiene su lugar en la medicina tradicional del sur de Asia, donde se conoce como durva o hierba doob y se usa en ofrendas rituales hindúes, sobre todo en el culto a Ganesha, como símbolo de resiliencia y renovación.\n\nHoy la grama bermuda es a la vez apreciada y combatida: un césped fiable para jardineros de climas cálidos y una mala hierba obstinada para quien quiera mantenerla fuera del macizo de flores.",
+        "name_origin": "El nombre del género, Cynodon, viene del griego «kyon» (perro) y «odous» (diente), en alusión a las escamas puntiagudas, como dientes, de sus tallos. El epíteto dactylon significa «dedo» en griego y describe las espigas extendidas en forma de dedos. El nombre común remite a las Bermudas, aunque la planta no es nativa de allí.",
+        "symbolism_story": "En la India, la grama bermuda (durva) se ofrece a Ganesha como símbolo de larga vida y renovación, porque vuelve a brotar de la raíz por muchas veces que se corte. Esa misma dureza la convierte en un discreto emblema de resiliencia dondequiera que crezca.",
+        "flower_meaning": "Resiliencia",
+        "uses_list": [
+          {
+            "text": "Césped denso y resistente para jardines soleados, parques y campos deportivos"
+          },
+          {
+            "text": "Usada en la medicina tradicional y en ofrendas rituales del sur de Asia, donde se llama durva"
+          },
+          {
+            "text": "Pasto y heno para el ganado, y cobertura que sujeta el suelo en laderas"
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Resiliencia",
+            "description": "Sobrevive a la sequía, al pisoteo y a los cortes bajos, y vuelve a crecer"
+          },
+          {
+            "keyword": "Renovación",
+            "description": "Su rápido reverdecer en primavera tras el reposo invernal"
+          },
+          {
+            "keyword": "Devoción",
+            "description": "Se ofrece en el culto ritual hindú como signo de reverencia"
+          }
+        ],
+        "toxicity": {
+          "headline": "Sin toxicidad reportada",
+          "active_compound_display": "Ninguno reportado",
+          "notes_en": "No se encontró una fuente autorizada sobre toxicidad; se trata como no reportada (la estimación del LLM no está verificada con fuentes).",
+          "human": {
+            "exposure": "No se reporta ninguna vía de exposición.",
+            "effect": "No se reporta ningún efecto tóxico.",
+            "note": "En este catálogo no se reporta toxicidad para las personas; esto no prueba que la planta sea comestible o inofensiva."
+          },
+          "dog": {
+            "exposure": "No se reporta ninguna vía de exposición.",
+            "effect": "No se reporta ningún efecto tóxico.",
+            "note": "En este catálogo no se reporta toxicidad para los perros; esto no prueba que la planta sea comestible o inofensiva."
+          },
+          "cat": {
+            "exposure": "No se reporta ninguna vía de exposición.",
+            "effect": "No se reporta ningún efecto tóxico.",
+            "note": "En este catálogo no se reporta toxicidad para los gatos; esto no prueba que la planta sea comestible o inofensiva."
+          }
+        }
+      }
+    },
+    "AAA1688": {
+      "source_hash": "f1ec7c8b5c3d44cfed062086b9e997166e8dcdcc7e4a850ff3e94e971af2963f",
+      "fields": {
+        "common_name": "Brezo de Darley Dale",
+        "bloom_tip": "Esta planta florece desde finales del invierno hasta principios del verano y produce flores muy hermosas.",
+        "fruit_tip": "Sus frutos aparecen en verano; aunque poco llamativos, sirven de alimento a las aves.",
+        "description": "El brezo de Darley Dale es un arbusto perenne bajo y en forma de almohadilla, cubierto de un follaje fino como agujas que va del verde brillante al dorado o bronce según el cultivar. Es un brezo híbrido que florece abundantemente durante los meses fríos, desde finales del invierno hasta principios del verano, con densas espigas de pequeñas flores en forma de urna, blancas, rosas o púrpura rosado. Mide unos 2 pies de alto y hasta 3 pies de ancho; es resistente, fácil y tolera mejor la cal que la mayoría de los brezos, lo que lo convierte en favorito para el color invernal, los jardines de rocas y como cubresuelos, con abejas que acuden a él en masa.",
+        "history_text_short": "El brezo de Darley Dale es un híbrido de jardín entre dos especies de brezo, observado por primera vez como plántula espontánea en un vivero de Darley Dale, en Derbyshire (Inglaterra), hacia 1900. Su capacidad de florecer con las heladas invernales y tolerar algo de cal en el suelo lo convirtió pronto en uno de los brezos más plantados en los jardines.",
+        "history_text_long": "El brezo de Darley Dale no es una planta silvestre, sino un híbrido de jardín nacido del cruce de dos especies de brezo: la Erica carnea de los Alpes, de floración invernal, y la más alta Erica erigena, antes conocida como Erica mediterranea, del suroeste de Europa. Ambas apenas se encuentran en la naturaleza, por lo que el cruce apareció primero en cultivo, donde sus plántulas crecían juntas. Las primeras plantas conocidas surgieron hacia 1900 como una plántula espontánea en un vivero de Darley Dale, un pueblo de Derbyshire, Inglaterra, y el híbrido tomó su nombre de ese lugar. Los jardineros descubrieron pronto que combinaba lo mejor de ambos progenitores: el porte compacto y la abundante floración invernal del brezo alpino, y el mayor vigor y tamaño del meridional. A diferencia de la mayoría de los brezos, que exigen suelos estrictamente ácidos, tolera una cantidad moderada de cal, por lo que podía cultivarse en muchos más jardines. Su larga temporada de pequeñas flores en forma de urna, aproximadamente de febrero a principios del verano, dio a apicultores y jardineros una fuente temprana y fiable de néctar y una bienvenida explosión de color cuando casi nada más florece. Durante el último siglo, los viveristas han seleccionado muchos cultivares en tonos blancos, rosas y magenta, algunos con brotes nuevos bronce, dorados o crema. Hoy el híbrido se planta en contenedores de invierno, jardines de rocas, macizos de brezos y como cubresuelos bajo en jardines de toda Europa y Norteamérica.",
+        "name_origin": "El nombre del género Erica procede del griego ereike, un nombre antiguo del brezo, y el epíteto darleyensis alude a Darley Dale, en Derbyshire (Inglaterra), donde este híbrido surgió por primera vez en cultivo. La × en su nombre indica que es un híbrido entre Erica carnea y Erica erigena.",
+        "symbolism_story": "Los brezos han representado desde siempre la soledad y la resistencia, y el brezo de Darley Dale encaja bien con esa idea: florece con valentía entre heladas y frío cuando los demás arbustos están desnudos, un pequeño recordatorio de que la belleza puede prosperar en la estación más dura.",
+        "flower_meaning": "Soledad",
+        "fragrance": {
+          "notes": "Un aroma tenue, como de miel"
+        },
+        "uses_list": [
+          {
+            "text": "Se planta para lograr color duradero en invierno y principios de primavera en jardines de rocas, macizos de brezos, bordes y contenedores."
+          },
+          {
+            "text": "Sus flores ricas en néctar ofrecen a las abejas una fuente temprana de alimento cuando florecen pocas plantas."
+          },
+          {
+            "text": "Sus densos montículos perennes dan refugio a la pequeña fauna del jardín y sus cápsulas de semillas proporcionan algo de alimento a las aves."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Soledad",
+            "description": "Los brezos se han asociado desde antiguo a lugares salvajes y azotados por el viento, y este resistente florecedor representa la perseverancia silenciosa durante el invierno."
+          }
+        ],
+        "toxicity": {
+          "headline": "Sin toxicidad reportada",
+          "active_compound_display": "Ninguno reportado",
+          "notes_en": "No se encontró una fuente autorizada de toxicidad; se trata como no reportada (la estimación del LLM no está verificada con fuentes).",
+          "human": {
+            "exposure": "No se reporta ninguna vía de exposición.",
+            "effect": "No se reporta ningún efecto tóxico.",
+            "note": "En este catálogo no se reporta toxicidad para las personas; esto no prueba que la planta sea comestible o inofensiva."
+          },
+          "dog": {
+            "exposure": "No se reporta ninguna vía de exposición.",
+            "effect": "No se reporta ningún efecto tóxico.",
+            "note": "En este catálogo no se reporta toxicidad para los perros; esto no prueba que la planta sea comestible o inofensiva."
+          },
+          "cat": {
+            "exposure": "No se reporta ninguna vía de exposición.",
+            "effect": "No se reporta ningún efecto tóxico.",
+            "note": "En este catálogo no se reporta toxicidad para los gatos; esto no prueba que la planta sea comestible o inofensiva."
+          }
+        }
+      }
+    },
+    "AAA1689": {
+      "source_hash": "1ae8aa74ff550e67934d3184d9eee8ccfb692db1e22128d1e9cc7dd5a5fa3921",
+      "fields": {
+        "common_name": "Euforbia zapatilla",
+        "bloom_tip": "Esta planta florece desde finales del verano hasta principios del otoño, con una rica variedad de colores.",
+        "fruit_tip": "Sus pequeñas cápsulas de semillas de tres lóbulos maduran en otoño y no son comestibles; la planta se cultiva por sus tallos y sus flores rojas.",
+        "description": "La euforbia zapatilla es un resistente arbusto del desierto del noroeste de México, de tallos verdes erguidos, en zigzag y del grosor de un lápiz, que realizan la fotosíntesis mientras sus pequeñas hojas van y vienen. En las puntas de los tallos aparecen racimos de diminutas brácteas rojo anaranjadas en forma de zapatilla que atraen a los colibríes. Mide de 30 a 90 cm de alto y unos 60 cm de ancho, prospera a pleno sol y en suelo arenoso de drenaje rápido, necesita muy poca agua una vez establecida y es adecuada para rocallas, jardines desérticos y macetas grandes en climas suaves. Su látex lechoso es irritante, por lo que hay que manipularla con cuidado.",
+        "history_text_short": "La euforbia zapatilla (Euphorbia lomelii) es originaria de los desiertos de Sonora y Baja California, donde crece en laderas rocosas. Su látex lechoso se usó en la medicina tradicional, y sus flores rojas en forma de zapatilla han sido durante mucho tiempo las favoritas de los colibríes.",
+        "history_text_long": "La euforbia zapatilla crece de forma silvestre en el desierto de Sonora, en el noroeste de México, sobre todo en Sonora y Baja California, aferrada a laderas rocosas y arroyos secos. Durante generaciones, la gente de la región la ha conocido bien. Sus tallos finos, cerosos y en zigzag almacenan agua y permanecen verdes durante la estación seca mientras la planta pierde sus pequeñas hojas, una forma ingeniosa de sobrevivir meses sin lluvia. Los tallos contienen un látex lechoso que los curanderos tradicionales usaban con cuidado para problemas de la piel, heridas y llagas, aunque ese mismo látex puede quemar la piel y los ojos, por lo que siempre se ha manejado con respeto. Los botánicos describieron esta especie en el siglo XIX y durante mucho tiempo se incluyó en el género Pedilanthus, cuyo nombre procede de las palabras griegas para zapatilla y flor, porque cada diminuta flor está envuelta en una bráctea roja en forma de barquita que parece un zapatito. Investigaciones posteriores demostraron que Pedilanthus pertenece al enorme género Euphorbia, y la planta recibió su nombre actual, dentro de la misma familia que la flor de Pascua y muchas suculentas del desierto. En su hábitat, las flores en forma de zapatilla son polinizadas principalmente por colibríes, que se ciernen para alcanzar el néctar. Los jardineros de regiones secas cultivan hoy la euforbia zapatilla como un acento escultórico y llamativo que casi solo pide sol y drenaje, en jardines de grava, jardines desérticos y macetas.",
+        "name_origin": "El nombre de género Euphorbia rinde homenaje a Euforbo, un médico griego de la antigua Mauritania que, según se dice, empleó una euforbiácea con fines medicinales. El epíteto lomelii honra a una persona llamada Lomeli, y el nombre español euforbia zapatilla alude a las brácteas rojas en forma de zapato que envuelven las diminutas flores.",
+        "symbolism_story": "La euforbia zapatilla prospera en laderas rocosas del desierto donde apenas sobrevive otra planta, y florece con brillantes flores rojas tras meses de sequía. Simboliza la resiliencia y la fuerza silenciosa en lugares duros.",
+        "flower_meaning": "Resiliencia",
+        "uses_list": [
+          {
+            "text": "Se cultiva como acento escultórico de tallos en zigzag en jardines desérticos, jardines de grava, rocallas y macetas grandes."
+          },
+          {
+            "text": "Sus flores rojas en forma de zapatilla, ricas en néctar, atraen a los colibríes y a otros polinizadores."
+          },
+          {
+            "text": "Su látex lechoso se ha usado en la medicina tradicional del noroeste de México, pero es irritante y no debe emplearse en casa."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Resiliencia",
+            "description": "Su capacidad de mantenerse verde y florecer en el desierto abrasador y seco la convierte en símbolo de resistencia."
+          }
+        ],
+        "toxicity": {
+          "headline": "Personas: moderada · Mascotas: moderada",
+          "active_compound_display": "ésteres de diterpeno",
+          "notes_en": "El látex lechoso irrita la piel, los ojos y la boca.",
+          "human": {
+            "exposure": "Tocar la savia y los tallos; ingerir la savia y los tallos.",
+            "effect": "Irritación de la piel y los ojos por el látex lechoso, e irritación de la boca y el estómago si se ingiere.",
+            "note": "El látex lechoso irrita la piel, los ojos y la boca.",
+            "symptoms": [
+              "Irritación de la piel y los ojos por el látex lechoso.",
+              "Irritación de la boca y el estómago si se ingiere."
+            ]
+          },
+          "dog": {
+            "exposure": "Tocar la savia y los tallos; ingerir la savia y los tallos.",
+            "effect": "Babeo, vómitos e irritación de la piel.",
+            "note": "El látex lechoso irrita la piel, los ojos y la boca.",
+            "symptoms": [
+              "Babeo.",
+              "Vómitos.",
+              "Irritación de la piel."
+            ]
+          },
+          "cat": {
+            "exposure": "Tocar la savia y los tallos; ingerir la savia y los tallos.",
+            "effect": "Babeo, vómitos e irritación de la piel.",
+            "note": "El látex lechoso irrita la piel, los ojos y la boca.",
+            "symptoms": [
+              "Babeo.",
+              "Vómitos.",
+              "Irritación de la piel."
+            ]
+          }
+        }
+      }
+    },
+    "AAA1690": {
+      "source_hash": "69831fdcd5e93c63ee85537591f6061d5a14e947bb9001937fca90e136e1cf23",
+      "fields": {
+        "common_name": "Senecio aterciopelado",
+        "bloom_tip": "El periodo de floración va de la primavera al verano, con flores atractivas.",
+        "description": "El senecio aterciopelado, también llamado geranio de California, es un arbusto vigoroso y extendido con hojas grandes, suaves y afieltradas, parecidas al follaje gigante de un geranio o de un petasites. Originario de México y Centroamérica, alcanza de 3 a 5 pies de alto y de ancho, y a finales del invierno y en primavera eleva sobre las hojas altos racimos ramificados de pequeñas flores amarillo dorado en forma de margarita. Prospera en climas cálidos y sin heladas, en semisombra y suelo bien drenado, y es una útil fuente de néctar para abejas y mariposas cuando casi nada más florece.",
+        "history_text_short": "El senecio aterciopelado procede de los bosques montañosos de México y Centroamérica. Los botánicos lo clasificaron antes en el género Senecio, pero hoy pertenece al género Roldana. Los jardineros de climas suaves, como la costa de California, lo adoptaron como arbusto de floración invernal con grandes hojas aterciopeladas y flores doradas que alimentan a los primeros polinizadores.",
+        "history_text_long": "El senecio aterciopelado crece de forma silvestre en los bosques montañosos sombríos y en los bordes de barrancos de México y Centroamérica, donde sus hojas grandes y suaves captan la luz filtrada bajo árboles más altos. Durante gran parte de su historia científica se colocó en el enorme género Senecio, los senecios, cuyo nombre procede del latín senex, «anciano», en alusión a sus vilanos blancos y esponjosos. Estudios posteriores mostraron que un grupo de arbustos mexicanos y centroamericanos se diferenciaba lo bastante del verdadero Senecio como para reconocerse por separado, y se asignaron al género Roldana, un nombre acuñado a principios del siglo XIX por el naturalista mexicano Pablo de La Llave. El epíteto petasitis alude al parecido entre sus hojas anchas y redondeadas y las de los petasites (género Petasites), famosos por su follaje descomunal. Fuera de su tierra natal, el senecio aterciopelado encontró acomodo en jardines de inviernos suaves y sin heladas, sobre todo en la costa de California, donde recibió el apodo de «geranio de California» por sus hojas de aspecto geraniáceo. Los jardineros lo aprecian porque florece cuando la mayoría de los arbustos descansan: desde finales del invierno hasta la primavera, altos racimos ramificados de pequeñas margaritas doradas se alzan sobre el follaje y atraen a abejas y mariposas en una época en que el néctar escasea. Prefiere la semisombra, tolera diversos suelos bien drenados y puede podarse con fuerza después de la floración para mantenerlo ordenado. Como muchos miembros del grupo de los senecios, sus tejidos contienen alcaloides pirrolizidínicos, una de las razones para no dejar que el ganado ni las mascotas lo mordisqueen.",
+        "name_origin": "El nombre del género Roldana fue acuñado a principios del siglo XIX por el naturalista mexicano Pablo de La Llave, mientras que el epíteto petasitis se refiere al parecido de sus hojas grandes y redondeadas con las de los petasites (Petasites). El nombre común senecio aterciopelado describe sus hojas suaves y afieltradas y su antigua pertenencia al género Senecio.",
+        "symbolism_story": "Como el senecio aterciopelado ilumina el jardín con flores doradas en los meses tranquilos del final del invierno, los jardineros lo ven como un símbolo de alegría, un recordatorio de que el color y la vida regresan incluso cuando la estación parece apagada.",
+        "flower_meaning": "Alegría",
+        "uses_list": [
+          {
+            "text": "Se cultiva como arbusto llamativo por su follaje y su floración invernal en bordes sombreados, patios y jardines de estilo boscoso en climas suaves."
+          },
+          {
+            "text": "Sus racimos dorados de margaritas ofrecen néctar a abejas y mariposas a finales del invierno y principios de la primavera, cuando florecen pocas plantas."
+          },
+          {
+            "text": "Ofrece cobijo denso y frondoso y una fuente temprana de alimento en jardines amigables con la fauna."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Alegría",
+            "description": "Sus flores doradas aparecen en pleno invierno, por lo que los jardineros las ven como una señal de luz y esperanza en la estación tranquila."
+          }
+        ],
+        "toxicity": {
+          "headline": "Toxicidad desconocida",
+          "active_compound_display": "Ninguno reportado",
+          "notes_en": "No se encontró una fuente autorizada de toxicidad; se trata como no reportada (la estimación del LLM no está verificada con fuentes).",
+          "human": {
+            "exposure": "No se reporta ninguna vía de exposición.",
+            "effect": "No se reporta ningún efecto tóxico.",
+            "note": "La toxicidad para las personas no está bien documentada; actúe con precaución hasta que se verifique."
+          },
+          "dog": {
+            "exposure": "No se reporta ninguna vía de exposición.",
+            "effect": "No se reporta ningún efecto tóxico.",
+            "note": "La toxicidad para los perros no está bien documentada; actúe con precaución hasta que se verifique."
+          },
+          "cat": {
+            "exposure": "No se reporta ninguna vía de exposición.",
+            "effect": "No se reporta ningún efecto tóxico.",
+            "note": "La toxicidad para los gatos no está bien documentada; actúe con precaución hasta que se verifique."
+          }
+        }
+      }
+    },
+    "AAA1692": {
+      "source_hash": "63d963ad3dd1f30dc24228d8abb02364de496320954da60735e63e28008638f5",
+      "fields": {
+        "common_name": "Osmanto de Delavay",
+        "bloom_tip": "Racimos de flores blancas y fragantes se abren en primavera, normalmente de marzo a mayo.",
+        "fruit_tip": "Pequeños frutos azul negruzco maduran a finales del verano y en otoño, pero no son un atractivo ornamental principal.",
+        "description": "El osmanto de Delavay (Osmanthus delavayi) es un arbusto perennifolio compacto y de crecimiento lento originario de las montañas del suroeste de China. Sus hojas pequeñas, brillantes y dentadas forman un montículo denso y arqueado de un verde intenso. En primavera se cubre de racimos de flores blancas tubulares, cuyo dulce perfume a jazmín se extiende por el jardín en los días cálidos. En verano y otoño le siguen pequeños frutos azul negruzco. Resistente en las zonas 7 a 9, prospera al sol o en semisombra y en suelo húmedo y bien drenado, y tolera bien la poda, por lo que es una buena opción para setos, borduras mixtas, patios y macetas grandes. Una vez establecido, apenas requiere cuidados más allá de una poda ocasional tras la floración.",
+        "history_text_short": "Originario de las montañas del suroeste de China, el osmanto de Delavay fue descrito en 1889 a partir de ejemplares recogidos en Yunnan por el misionero francés Père Jean Marie Delavay. Introducido poco después en los jardines europeos, es apreciado por su follaje perenne y brillante y sus flores blancas, muy perfumadas, de primavera.",
+        "history_text_long": "El osmanto de Delavay debe su nombre a Père Jean Marie Delavay, el misionero y cazador de plantas francés que exploró en las décadas de 1880 y 1890 las montañas de Yunnan, en el suroeste de China. Desde su base cerca de Dali envió decenas de miles de especímenes prensados y muchos miles de sobres de semillas al Muséum national d'Histoire naturelle de París. Entre ellos había un pequeño arbusto perennifolio de flores blancas, tubulares y muy perfumadas, que el botánico Adrien Franchet describió como especie nueva en 1889 y dedicó a Delavay.\n\nLas semillas de estas expediciones llegaron pronto a los viveros europeos, y el osmanto de Delavay entró en cultivo en Francia y después en Gran Bretaña hacia el cambio del siglo XX. Los jardineros valoraron su porte cuidado, sus hojas brillantes y la rica fragancia de su floración primaveral, que llega cuando pocos arbustos perennifolios están en flor. Su tolerancia a la poda lo convirtió en favorito para setos formales y topiaria en jardines de inviernos suaves, y en Gran Bretaña obtuvo más tarde el Award of Garden Merit de la Royal Horticultural Society. En su tierra natal crece de forma silvestre en laderas boscosas y colinas de matorral, y sigue siendo una de las formas más seguras de llevar el perfume de la familia de los osmantos a jardines donde el célebre osmanto dulce, de floración otoñal, resulta menos adecuado.",
+        "name_origin": "El nombre del género Osmanthus viene del griego osme, «fragancia», y anthos, «flor», por sus flores perfumadas. El epíteto específico delavayi honra a Père Jean Marie Delavay, el misionero francés que recogió los ejemplares tipo en Yunnan.",
+        "symbolism_story": "Nombrado en honor de un cazador de plantas que cruzó montañas remotas para encontrarlo, el osmanto de Delavay simboliza el descubrimiento. Su perfume viaja mucho más allá del arbusto, una generosidad discreta, mientras que sus hojas perennes hablan de perseverancia en todas las estaciones.",
+        "flower_meaning": "Descubrimiento",
+        "fragrance": {
+          "notes": "Perfume floral dulce, a jazmín, con un toque de fruta madura"
+        },
+        "uses_list": [
+          {
+            "text": "Perfuma el jardín primaveral con flores de dulce aroma"
+          },
+          {
+            "text": "Arbusto perennifolio esmerado para setos, borduras y macetas"
+          },
+          {
+            "text": "Sus flores primaverales ofrecen néctar a abejas y mariposas tempranas"
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Descubrimiento",
+            "description": "la alegría de hallar belleza en montañas lejanas"
+          },
+          {
+            "keyword": "Fragancia",
+            "description": "una dulzura generosa que perdura en el aire"
+          },
+          {
+            "keyword": "Perseverancia",
+            "description": "hojas perennes que se mantienen brillantes en cada estación"
+          }
+        ],
+        "toxicity": {
+          "headline": "Sin toxicidad notificada",
+          "active_compound_display": "Ninguno notificado",
+          "notes_en": "No se encontró ninguna coincidencia toxicológica en fuentes oficiales; se trata como no notificada (la estimación del modelo no está verificada con fuentes).",
+          "human": {
+            "exposure": "No se notifica ninguna vía de exposición.",
+            "effect": "No se notifica ningún efecto tóxico.",
+            "note": "En este catálogo no se notifica toxicidad para las personas; esto no demuestra que la planta sea comestible ni inocua."
+          },
+          "dog": {
+            "exposure": "No se notifica ninguna vía de exposición.",
+            "effect": "No se notifica ningún efecto tóxico.",
+            "note": "En este catálogo no se notifica toxicidad para los perros; esto no demuestra que la planta sea comestible ni inocua."
+          },
+          "cat": {
+            "exposure": "No se notifica ninguna vía de exposición.",
+            "effect": "No se notifica ningún efecto tóxico.",
+            "note": "En este catálogo no se notifica toxicidad para los gatos; esto no demuestra que la planta sea comestible ni inocua."
+          }
+        }
+      }
+    },
+    "AAA1693": {
+      "source_hash": "34b706fba0d75da285e0a27b437367af21a515da98bdd025444ba8acfc3e40fb",
+      "fields": {
+        "common_name": "Osmanto naranja",
+        "bloom_tip": "Densos racimos de flores de un naranja intenso y muy fragantes se abren de septiembre a octubre, a veces hasta diciembre.",
+        "fruit_tip": "Pequeños frutos morado-negruzcos maduran en primavera del año siguiente a la floración, aunque rara vez se producen en cultivo.",
+        "description": "El osmanto naranja (Osmanthus fragrans f. aurantiacus), llamado dan gui en China, es la forma de color más intenso del osmanto dulce, un arbusto o arbolito perennifolio que a principios de otoño produce densos racimos de diminutas flores de un naranja profundo a dorado rojizo. Su perfume a albaricoque y melocotón llega muy lejos y es uno de los aromas de jardín más queridos de Asia oriental. Las hojas verde oscuro y coriáceas mantienen la planta atractiva todo el año, y responde bien a la poda, por lo que sirve como ejemplar aislado, pantalla o seto. Crece mejor a pleno sol o en semisombra, en suelo fértil y bien drenado, es resistente en las zonas 7 a 9 y se adapta a macetas grandes junto a un patio o una entrada, donde se disfruta de su fragancia.",
+        "history_text_short": "El osmanto dulce se cultiva en China desde hace más de 2000 años, y la forma de flores naranjas, dan gui, es una de sus variedades más apreciadas. Ligado al Festival del Medio Otoño, a la poesía y al éxito en los exámenes imperiales, sus flores con aroma a albaricoque perfuman tés, vinos y dulces.",
+        "history_text_long": "El osmanto dulce, Osmanthus fragrans, se cultiva en China desde hace bastante más de dos mil años, y la forma de flores naranjas conocida como dan gui, o «casia cinabrio», es uno de los cuatro grupos clásicos de jardín junto a los tipos plateado, dorado y de floración continua. Sus flores de un naranja profundo son las más llamativas y, según muchos, las de perfume más intenso. En la tradición china el árbol se llama gui y aparece en la poesía desde las dinastías Tang y Song, donde su aroma anuncia el otoño y la luna llena del Festival del Medio Otoño. Una célebre leyenda cuenta que Wu Gang, condenado a talar sin fin un árbol de casia en la luna, y la expresión china «romper una rama de casia» pasó a significar aprobar con distinción los exámenes imperiales. La ciudad de Guilin, «bosque de osmantos», toma su nombre de los árboles que bordean sus calles.\n\nMás allá del jardín, las flores son apreciadas en la cocina y la casa de té. Se secan y se infusionan en té, se conservan en azúcar o miel, se añaden a pasteles, gelatinas y bolitas de arroz glutinoso, y se maceran en vino de osmanto, bebida tradicional del Medio Otoño. La especie llegó a los botánicos occidentales en el siglo XVIII, y Carl Peter Thunberg la describió en 1784 a partir de ejemplares de Japón. Hoy el osmanto naranja se planta en jardines, patios y templos de toda Asia oriental y en jardines de inviernos suaves de todo el mundo.",
+        "name_origin": "Osmanthus combina el griego osme, «fragancia», y anthos, «flor». El epíteto específico fragrans es latín para «fragante», y el nombre de la forma aurantiacus significa «de color naranja», por sus flores de un naranja profundo.",
+        "symbolism_story": "En la cultura china el osmanto simboliza el honor y el éxito, desde el letrado que «rompe una rama de casia» para aprobar los exámenes imperiales. Su aroma llena el aire en el Festival del Medio Otoño, cuando las familias se reúnen bajo la luna llena, y su dulzura persistente es desde hace siglos un símbolo de buena fortuna.",
+        "flower_meaning": "Honor",
+        "fragrance": {
+          "notes": "Rico perfume a albaricoque y melocotón, con una dulzura cálida y melosa"
+        },
+        "uses_list": [
+          {
+            "text": "Perfuma jardines y patios a principios de otoño"
+          },
+          {
+            "text": "Las flores secas aromatizan té, vino, pasteles y dulces"
+          },
+          {
+            "text": "Ejemplar, pantalla o seto perennifolio de ricas flores naranjas"
+          },
+          {
+            "text": "Sus flores otoñales alimentan a abejas y mariposas a finales de año"
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Honor",
+            "description": "éxito y distinción, como en la expresión «romper una rama de casia»"
+          },
+          {
+            "keyword": "Reencuentro",
+            "description": "familias reunidas bajo la luna del Medio Otoño"
+          },
+          {
+            "keyword": "Fragancia",
+            "description": "una dulzura que perdura mucho después de caer las flores"
+          }
+        ],
+        "toxicity": {
+          "headline": "Sin toxicidad notificada",
+          "active_compound_display": "Ninguno notificado",
+          "notes_en": "No se encontró ninguna coincidencia toxicológica en fuentes oficiales; se trata como no notificada (la estimación del modelo no está verificada con fuentes).",
+          "human": {
+            "exposure": "No se notifica ninguna vía de exposición.",
+            "effect": "No se notifica ningún efecto tóxico.",
+            "note": "En este catálogo no se notifica toxicidad para las personas; esto no demuestra que la planta sea comestible ni inocua."
+          },
+          "dog": {
+            "exposure": "No se notifica ninguna vía de exposición.",
+            "effect": "No se notifica ningún efecto tóxico.",
+            "note": "En este catálogo no se notifica toxicidad para los perros; esto no demuestra que la planta sea comestible ni inocua."
+          },
+          "cat": {
+            "exposure": "No se notifica ninguna vía de exposición.",
+            "effect": "No se notifica ningún efecto tóxico.",
+            "note": "En este catálogo no se notifica toxicidad para los gatos; esto no demuestra que la planta sea comestible ni inocua."
           }
         }
       }

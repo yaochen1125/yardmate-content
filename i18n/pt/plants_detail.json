@@ -3,8 +3,8 @@
   "locale": "pt",
   "source": {
     "resource": "plants_detail.json",
-    "sha256": "eb668be162b159a483537ff3fbbba1e9517dd88ae1a14bcaf932ed873bbd6488",
-    "record_count": 1684
+    "sha256": "c5a9a18cd7a593f78e915ea9f46df99014172cc80a22740ebab90c38b42f3615",
+    "record_count": 1692
   },
   "records": {
     "AAA0001": {
@@ -103212,6 +103212,419 @@
             "exposure": "Nenhuma via de exposição relatada.",
             "effect": "Nenhum efeito tóxico relatado.",
             "note": "Não há toxicidade relatada para gatos neste catálogo; isto não é evidência de que a planta seja comestível ou inofensiva."
+          }
+        }
+      }
+    },
+    "AAA1686": {
+      "source_hash": "805af48f78a691f0b9df26aa44a218172a2dc1f103d0dbcf91a75a04b455b7c8",
+      "fields": {
+        "common_name": "Urze-vulgar",
+        "bloom_tip": "Esta planta floresce do final do verão ao início do outono e atrai muitas abelhas.",
+        "description": "A urze-vulgar é um arbusto baixo e perene de caules finos e eretos, cobertos por minúsculas folhas em forma de escama que permanecem verdes no inverno. Do final do verão ao outono, cobre-se de espigas de pequenas flores em forma de sino, rosa, roxas ou brancas, que as abelhas adoram. Mede de 15 a 45 cm de altura e até 90 cm de largura, forma tufos densos e é ideal para jardins de rocalha, canteiros, taludes e vasos. Prospera ao sol pleno e em solo ácido e bem drenado, tolera solos pobres, seca e frio, e só precisa de uma poda leve após a floração.",
+        "history_text_short": "A urze-vulgar cobre há milhares de anos as charnecas e urzais da Europa. Era usada para colmo, camas, vassouras, corantes e mel, e na Escócia um raminho de urze branca tornou-se um amuleto de boa sorte. O seu nome de género, Calluna, de origem grega, significa «varrer» ou «escovar».",
+        "history_text_long": "A urze-vulgar é uma das grandes plantas da charneca aberta. Os seus caules finos estendem-se pelos urzais e planaltos da Europa e além, e onde cresce molda paisagens inteiras, das colinas roxas das Highlands escocesas aos urzais varridos pelo vento da Escandinávia. Durante milhares de anos, as pessoas destas regiões viveram ao lado dela e encontraram utilidade para quase todas as suas partes. Molhos de ramos eram atados para fazer vassouras, daí o nome de género, Calluna, do grego kallyno, «varrer» ou «limpar». Os caules mais grossos serviam de colmo para os telhados das casas, eram entrançados em cestos e cordas ou colocados sob os lençóis como enxerga, enquanto as pontas floridas davam corantes amarelos e laranja para a lã. Os apicultores levavam as colmeias para a charneca no final do verão para que as abelhas recolhessem o mel de urze, escuro e aromático, e na Escócia a urze também aromatizava a cerveja muito antes de o lúpulo se generalizar. No folclore escocês, a urze branca, uma rara variante natural, trazia sorte e proteção, e ainda hoje se oferecem raminhos a noivas e viajantes. No século XIX, o amor da rainha Vitória pelas Highlands tornou a urze moda muito além da sua terra natal. Desde então, os jardineiros selecionaram centenas de cultivares com flores rosa, roxas e brancas e folhagem dourada, prateada, laranja e vermelha. Hoje a urze-vulgar é plantada em rocalhas, canteiros e vasos, e continua a ser uma importante fonte de alimento para as abelhas e a fauna da charneca.",
+        "name_origin": "O nome de género Calluna vem do grego kallyno, «varrer» ou «limpar», porque os seus ramos rígidos eram atados para fazer vassouras. O epíteto vulgaris significa «comum» em latim, pois a planta é muito difundida em charnecas e urzais. O nome português urze designa esta planta típica de terrenos abertos.",
+        "symbolism_story": "Na Escócia, um raminho de urze branca é um querido amuleto de boa sorte, levado por noivas e viajantes para proteção e felicidade. A robustez da urze em charnecas abertas e ventosas também a tornou símbolo de solidão e de resistência silenciosa.",
+        "flower_meaning": "Boa sorte",
+        "fragrance": {
+          "notes": "Um aroma suave, semelhante a mel"
+        },
+        "uses_list": [
+          {
+            "text": "Plantada para dar cor no final do verão e no outono em jardins de rocalha, canteiros, taludes, urzais de jardim e vasos."
+          },
+          {
+            "text": "As suas flores ricas em néctar alimentam as abelhas e dão o mel de urze, escuro e de sabor intenso."
+          },
+          {
+            "text": "Tradicionalmente atada em vassouras e usada para colmo, camas, cestos e corantes amarelo-alaranjados para a lã."
+          },
+          {
+            "text": "Os tufos densos abrigam insetos e pequenas aves de solo, e os rebentos jovens alimentam lagópodes e veados na charneca."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Boa sorte",
+            "description": "A urze branca é um amuleto tradicional escocês de sorte e proteção, frequentemente oferecido a noivas e viajantes."
+          },
+          {
+            "keyword": "Solidão",
+            "description": "O seu habitat selvagem e varrido pelo vento ligou-a desde sempre à solidão e à resistência silenciosa."
+          }
+        ],
+        "toxicity": {
+          "headline": "Sem toxicidade relatada",
+          "active_compound_display": "Nenhum relatado",
+          "notes_en": "Nenhuma fonte autorizada sobre toxicidade foi encontrada; tratada como não relatada (a estimativa do LLM não foi verificada em fontes).",
+          "human": {
+            "exposure": "Nenhuma via de exposição relatada.",
+            "effect": "Nenhum efeito tóxico relatado.",
+            "note": "Neste catálogo não há toxicidade relatada para humanos; isso não prova que a planta seja comestível ou inofensiva."
+          },
+          "dog": {
+            "exposure": "Nenhuma via de exposição relatada.",
+            "effect": "Nenhum efeito tóxico relatado.",
+            "note": "Neste catálogo não há toxicidade relatada para cães; isso não prova que a planta seja comestível ou inofensiva."
+          },
+          "cat": {
+            "exposure": "Nenhuma via de exposição relatada.",
+            "effect": "Nenhum efeito tóxico relatado.",
+            "note": "Neste catálogo não há toxicidade relatada para gatos; isso não prova que a planta seja comestível ou inofensiva."
+          }
+        }
+      }
+    },
+    "AAA1687": {
+      "source_hash": "3283afbf3885f9e38bd7391e9e751ba3118808bfb1254b6943e74b6851e86fc3",
+      "fields": {
+        "common_name": "Grama-seda",
+        "description": "A grama-seda (Cynodon dactylon), também chamada grama-bermuda, é um relvado de estação quente e textura fina que se espalha por estolões rasteiros e rizomas subterrâneos, formando um tapete denso e resistente com apenas alguns centímetros de altura. As folhas estreitas, verde-azuladas, prosperam sob sol pleno e calor, e as raízes profundas suportam secas que queimariam a maioria dos gramados. Recupera-se depressa do pisoteio, por isso cobre campos desportivos, fairways de golfe e jardins ensolarados de climas quentes. Após a geada fica cor de palha e entra em dormência, voltando a verdejar quando a primavera aquece. No verão surgem pequenas espigas em forma de dedos; pelo vigor, precisa de bordadura junto aos canteiros.",
+        "history_text_short": "Apesar do nome inglês, a grama-seda provavelmente veio de África e da Ásia, não das Bermudas. Levada em navios e na forragem do gado, chegou às Américas no século XVIII e logo foi plantada como pastagem. Hoje seus estolões resistentes seguram gramados, campos de golfe e estádios no mundo quente.",
+        "history_text_long": "A grama-seda é uma das gramíneas que mais viajaram pela Terra. Sua área nativa costuma ser situada na África, no sul da Ásia e em partes da Austrália, mas a planta é transportada há tanto tempo que sua origem exata é difícil de determinar. O nome inglês, Bermuda grass, remete às Bermudas, um dos muitos lugares quentes onde se estabeleceu; quem já tentou arrancá-la de um canteiro também a chama de erva-do-diabo ou erva-de-arame.\n\nEspalhou-se com o comércio humano. Sementes e pedaços de caule viajavam no lastro dos navios e na forragem dos animais, e no século XVIII já estava estabelecida no sul dos Estados Unidos, onde os agricultores a valorizavam como pastagem e como cobertura que segurava o solo de encostas erodidas. Seus estolões enraízam onde quer que um nó toque o chão, de modo que um pequeno fragmento pode fundar uma colônia inteira.\n\nNo século XX, os melhoristas transformaram essa rústica colonizadora numa cultura de relvado. Cultivares híbridas melhoradas, de folhas mais finas e crescimento mais denso, tornaram-se o padrão para fairways e greens de golfe e campos desportivos em regiões quentes, porque a planta tolera desgaste intenso, cortes muito baixos e longos períodos secos. Também tem lugar na medicina tradicional do sul da Ásia, onde é conhecida como durva ou erva doob e é usada em oferendas rituais hindus, sobretudo no culto a Ganesha, como símbolo de resiliência e renovação.\n\nHoje a grama-seda é ao mesmo tempo apreciada e combatida: um relvado confiável para jardineiros de climas quentes e uma erva daninha teimosa para quem quer mantê-la fora do canteiro de flores.",
+        "name_origin": "O nome do gênero, Cynodon, vem do grego «kyon» (cão) e «odous» (dente), referindo-se às escamas pontiagudas, como dentes, dos seus caules. O epíteto dactylon significa «dedo» em grego e descreve as espigas abertas em forma de dedos. O nome inglês remete às Bermudas, embora a planta não seja nativa de lá.",
+        "symbolism_story": "Na Índia, a grama-seda (durva) é oferecida a Ganesha como símbolo de vida longa e renovação, porque volta a brotar das raízes por mais que seja cortada. Essa mesma resistência faz dela um discreto emblema de resiliência onde quer que cresça.",
+        "flower_meaning": "Resiliência",
+        "uses_list": [
+          {
+            "text": "Relvado denso e resistente para jardins ensolarados, parques e campos desportivos"
+          },
+          {
+            "text": "Usada na medicina tradicional e em oferendas rituais do sul da Ásia, onde se chama durva"
+          },
+          {
+            "text": "Pastagem e feno para o gado, e cobertura que segura o solo em encostas"
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Resiliência",
+            "description": "Sobrevive à seca, ao pisoteio e a cortes baixos, e volta a crescer"
+          },
+          {
+            "keyword": "Renovação",
+            "description": "Seu rápido reverdecer na primavera após a dormência do inverno"
+          },
+          {
+            "keyword": "Devoção",
+            "description": "Oferecida no culto ritual hindu como sinal de reverência"
+          }
+        ],
+        "toxicity": {
+          "headline": "Nenhuma toxicidade relatada",
+          "active_compound_display": "Nenhum relatado",
+          "notes_en": "Nenhuma fonte autorizada sobre toxicidade foi encontrada; tratado como não relatado (a estimativa do LLM não foi verificada em fontes).",
+          "human": {
+            "exposure": "Nenhuma via de exposição é relatada.",
+            "effect": "Nenhum efeito tóxico é relatado.",
+            "note": "Neste catálogo não há toxicidade relatada para humanos; isso não prova que a planta seja comestível ou inofensiva."
+          },
+          "dog": {
+            "exposure": "Nenhuma via de exposição é relatada.",
+            "effect": "Nenhum efeito tóxico é relatado.",
+            "note": "Neste catálogo não há toxicidade relatada para cães; isso não prova que a planta seja comestível ou inofensiva."
+          },
+          "cat": {
+            "exposure": "Nenhuma via de exposição é relatada.",
+            "effect": "Nenhum efeito tóxico é relatado.",
+            "note": "Neste catálogo não há toxicidade relatada para gatos; isso não prova que a planta seja comestível ou inofensiva."
+          }
+        }
+      }
+    },
+    "AAA1688": {
+      "source_hash": "f1ec7c8b5c3d44cfed062086b9e997166e8dcdcc7e4a850ff3e94e971af2963f",
+      "fields": {
+        "common_name": "Urze-de-Darley-Dale",
+        "bloom_tip": "Esta planta floresce do fim do inverno ao início do verão, produzindo flores muito bonitas.",
+        "fruit_tip": "Os frutos surgem no verão; embora pouco vistosos, servem de alimento às aves.",
+        "description": "A urze-de-Darley-Dale é um arbusto perene, baixo e em forma de almofada, coberto por folhagem fina como agulhas, que vai do verde-vivo ao dourado ou bronze conforme a cultivar. É uma urze híbrida que floresce intensamente nos meses frios, do fim do inverno ao início do verão, com densas espigas de pequenas flores em forma de urna, brancas, rosa ou roxo-rosadas. Com cerca de 2 pés de altura e até 3 pés de largura, é resistente, fácil de cultivar e tolera melhor o calcário do que a maioria das urzes, o que a torna favorita para cor de inverno, jardins de pedras e forração, com abelhas a visitá-la em massa.",
+        "history_text_short": "A urze-de-Darley-Dale é um híbrido de jardim entre duas espécies de urze, notado pela primeira vez como plântula espontânea num viveiro de Darley Dale, em Derbyshire, Inglaterra, por volta de 1900. Sua capacidade de florescer com a geada de inverno e tolerar algum calcário no solo logo a tornou uma das urzes mais plantadas em jardins.",
+        "history_text_long": "A urze-de-Darley-Dale não é uma planta silvestre, mas um híbrido de jardim, nascido do cruzamento de duas espécies de urze: a Erica carnea dos Alpes, de floração invernal, e a mais alta Erica erigena, antes conhecida como Erica mediterranea, do sudoeste da Europa. As duas raramente se encontram na natureza, por isso o cruzamento surgiu primeiro em cultivo, onde suas plântulas cresciam lado a lado. As primeiras plantas conhecidas surgiram por volta de 1900 como plântula espontânea num viveiro de Darley Dale, uma aldeia de Derbyshire, Inglaterra, e o híbrido tomou o nome desse lugar. Os jardineiros logo descobriram que combinava o melhor de ambos os progenitores: o porte compacto e a farta floração invernal da urze alpina, e o maior vigor e tamanho da meridional. Ao contrário da maioria das urzes, que exigem solo estritamente ácido, tolera uma quantidade moderada de calcário, podendo assim ser cultivada em muito mais jardins. Sua longa estação de pequenas flores em forma de urna, aproximadamente de fevereiro ao início do verão, deu a apicultores e jardineiros uma fonte precoce e confiável de néctar e uma bem-vinda explosão de cor quando quase nada mais floresce. Ao longo do último século, os viveiristas selecionaram muitas cultivares em tons de branco, rosa e magenta, algumas com brotos novos bronze, dourados ou creme. Hoje o híbrido é plantado em vasos de inverno, jardins de pedras, canteiros de urzes e como forração baixa em jardins da Europa e da América do Norte.",
+        "name_origin": "O nome do gênero Erica vem do grego ereike, um nome antigo para urze, e o epíteto darleyensis refere-se a Darley Dale, em Derbyshire, Inglaterra, onde este híbrido surgiu pela primeira vez em cultivo. O × no nome indica um híbrido entre Erica carnea e Erica erigena.",
+        "symbolism_story": "As urzes há muito representam a solidão e a resistência, e a urze-de-Darley-Dale combina bem com essa ideia: floresce com bravura na geada e no frio quando os outros arbustos estão nus, um pequeno lembrete de que a beleza pode prosperar na estação mais dura.",
+        "flower_meaning": "Solidão",
+        "fragrance": {
+          "notes": "Um aroma leve, semelhante a mel"
+        },
+        "uses_list": [
+          {
+            "text": "Plantada para cor duradoura no inverno e início da primavera em jardins de pedras, canteiros de urzes, bordaduras e vasos."
+          },
+          {
+            "text": "Suas flores ricas em néctar oferecem às abelhas uma fonte precoce de alimento quando poucas outras plantas florescem."
+          },
+          {
+            "text": "Seus densos montes perenes abrigam a pequena fauna do jardim e suas cápsulas de sementes fornecem algum alimento às aves."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Solidão",
+            "description": "As urzes há muito se associam a lugares selvagens e varridos pelo vento, e esta resistente florífera representa a perseverança silenciosa durante o inverno."
+          }
+        ],
+        "toxicity": {
+          "headline": "Sem toxicidade relatada",
+          "active_compound_display": "Nenhum relatado",
+          "notes_en": "Nenhuma fonte autorizada sobre toxicidade foi encontrada; tratada como não relatada (a estimativa do LLM não foi verificada em fontes).",
+          "human": {
+            "exposure": "Nenhuma via de exposição relatada.",
+            "effect": "Nenhum efeito tóxico relatado.",
+            "note": "Neste catálogo não há toxicidade relatada para humanos; isso não prova que a planta seja comestível ou inofensiva."
+          },
+          "dog": {
+            "exposure": "Nenhuma via de exposição relatada.",
+            "effect": "Nenhum efeito tóxico relatado.",
+            "note": "Neste catálogo não há toxicidade relatada para cães; isso não prova que a planta seja comestível ou inofensiva."
+          },
+          "cat": {
+            "exposure": "Nenhuma via de exposição relatada.",
+            "effect": "Nenhum efeito tóxico relatado.",
+            "note": "Neste catálogo não há toxicidade relatada para gatos; isso não prova que a planta seja comestível ou inofensiva."
+          }
+        }
+      }
+    },
+    "AAA1689": {
+      "source_hash": "1ae8aa74ff550e67934d3184d9eee8ccfb692db1e22128d1e9cc7dd5a5fa3921",
+      "fields": {
+        "common_name": "Eufórbia-sapatinho",
+        "bloom_tip": "Esta planta floresce do final do verão ao início do outono, com uma rica variedade de cores.",
+        "fruit_tip": "As suas pequenas cápsulas de sementes de três lóbulos amadurecem no outono e não são comestíveis; a planta é cultivada pelos caules e pelas flores vermelhas.",
+        "description": "A eufórbia-sapatinho é um resistente arbusto do deserto do noroeste do México, de caules verdes eretos, em ziguezague e da espessura de um lápis, que fazem a fotossíntese enquanto as suas pequenas folhas vão e vêm. Nas pontas dos caules surgem cachos de minúsculas brácteas vermelho-alaranjadas em forma de sapatinho que atraem os beija-flores. Com 30 a 90 cm de altura e cerca de 60 cm de largura, prospera ao sol pleno e em solo arenoso de drenagem rápida, precisa de muito pouca água depois de estabelecida e é indicada para rocalhas, jardins desérticos e vasos grandes em climas amenos. O seu látex leitoso é irritante, por isso deve ser manuseada com cuidado.",
+        "history_text_short": "A eufórbia-sapatinho (Euphorbia lomelii) é nativa dos desertos de Sonora e da Baixa Califórnia, onde cresce em encostas rochosas. O seu látex leitoso foi usado na medicina tradicional, e as suas flores vermelhas em forma de sapatinho são há muito as favoritas dos beija-flores.",
+        "history_text_long": "A eufórbia-sapatinho cresce em estado selvagem no deserto de Sonora, no noroeste do México, sobretudo em Sonora e na Baixa Califórnia, agarrada a encostas rochosas e leitos secos de ribeiras. Durante gerações, as pessoas da região conheceram-na bem. Os seus caules finos, cerosos e em ziguezague armazenam água e permanecem verdes durante a estação seca, enquanto a planta perde as pequenas folhas, uma forma engenhosa de sobreviver meses sem chuva. Os caules contêm um látex leitoso que os curandeiros tradicionais usavam com cuidado para problemas de pele, feridas e chagas, mas esse mesmo látex pode queimar a pele e os olhos, pelo que sempre foi manuseado com respeito. Os botânicos descreveram esta espécie no século XIX e ela foi durante muito tempo incluída no género Pedilanthus, cujo nome vem das palavras gregas para sapatinho e flor, porque cada minúscula flor é envolvida por uma bráctea vermelha em forma de barquinho que parece um pequeno sapato. Estudos posteriores mostraram que Pedilanthus pertence ao enorme género Euphorbia, e a planta recebeu o seu nome atual, na mesma família da poinsétia e de muitas suculentas do deserto. Na natureza, as flores em forma de sapatinho são polinizadas sobretudo por beija-flores, que pairam para alcançar o néctar. Hoje, jardineiros de regiões secas cultivam a eufórbia-sapatinho como um acento escultural dramático que pede quase só sol e drenagem, em canteiros de cascalho, jardins desérticos e vasos.",
+        "name_origin": "O nome de género Euphorbia homenageia Euforbo, um médico grego da antiga Mauritânia que, segundo se diz, usou uma planta deste género como remédio. O epíteto lomelii homenageia uma pessoa chamada Lomeli, e o nome português eufórbia-sapatinho refere-se às brácteas vermelhas em forma de sapato que envolvem as minúsculas flores.",
+        "symbolism_story": "A eufórbia-sapatinho prospera em encostas rochosas do deserto onde quase nada mais sobrevive, e floresce em vermelho vivo após meses de seca. Simboliza a resiliência e a força silenciosa em lugares duros.",
+        "flower_meaning": "Resiliência",
+        "uses_list": [
+          {
+            "text": "Cultivada como acento escultural de caules em ziguezague em jardins desérticos, canteiros de cascalho, rocalhas e vasos grandes."
+          },
+          {
+            "text": "As suas flores vermelhas em forma de sapatinho, ricas em néctar, atraem beija-flores e outros polinizadores."
+          },
+          {
+            "text": "O seu látex leitoso foi usado na medicina tradicional do noroeste do México, mas é irritante e não deve ser usado em casa."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Resiliência",
+            "description": "A sua capacidade de se manter verde e florescer no deserto tórrido e seco torna-a um símbolo de resistência."
+          }
+        ],
+        "toxicity": {
+          "headline": "Humanos moderada · Animais de estimação moderada",
+          "active_compound_display": "ésteres de diterpeno",
+          "notes_en": "O látex leitoso irrita a pele, os olhos e a boca.",
+          "human": {
+            "exposure": "Tocar na seiva e nos caules; ingerir a seiva e os caules.",
+            "effect": "Irritação da pele e dos olhos causada pelo látex leitoso e irritação da boca e do estômago se ingerido.",
+            "note": "O látex leitoso irrita a pele, os olhos e a boca.",
+            "symptoms": [
+              "Irritação da pele e dos olhos causada pelo látex leitoso.",
+              "Irritação da boca e do estômago se ingerido."
+            ]
+          },
+          "dog": {
+            "exposure": "Tocar na seiva e nos caules; ingerir a seiva e os caules.",
+            "effect": "Salivação, vómitos e irritação da pele.",
+            "note": "O látex leitoso irrita a pele, os olhos e a boca.",
+            "symptoms": [
+              "Salivação.",
+              "Vómitos.",
+              "Irritação da pele."
+            ]
+          },
+          "cat": {
+            "exposure": "Tocar na seiva e nos caules; ingerir a seiva e os caules.",
+            "effect": "Salivação, vómitos e irritação da pele.",
+            "note": "O látex leitoso irrita a pele, os olhos e a boca.",
+            "symptoms": [
+              "Salivação.",
+              "Vómitos.",
+              "Irritação da pele."
+            ]
+          }
+        }
+      }
+    },
+    "AAA1690": {
+      "source_hash": "69831fdcd5e93c63ee85537591f6061d5a14e947bb9001937fca90e136e1cf23",
+      "fields": {
+        "common_name": "Senécio-aveludado",
+        "bloom_tip": "O período de floração vai da primavera ao verão, com flores atraentes.",
+        "description": "O senécio-aveludado, também chamado gerânio-da-califórnia, é um arbusto vigoroso e espraiado, com folhas grandes, macias e feltradas, semelhantes à folhagem gigante de um gerânio ou de um petasites. Nativo do México e da América Central, atinge de 3 a 5 pés de altura e largura e, no fim do inverno e na primavera, ergue bem acima das folhas altos cachos ramificados de pequenas flores amarelo-douradas em forma de margarida. Prospera em climas quentes e sem geada, em meia-sombra e solo bem drenado, e é uma útil fonte de néctar para abelhas e borboletas quando quase nada mais floresce.",
+        "history_text_short": "O senécio-aveludado vem das florestas montanhosas do México e da América Central. Os botânicos já o incluíram no gênero Senecio, mas hoje ele pertence ao gênero Roldana. Jardineiros de climas amenos, como o litoral da Califórnia, adotaram-no como arbusto de floração invernal, com grandes folhas aveludadas e flores douradas que alimentam os primeiros polinizadores.",
+        "history_text_long": "O senécio-aveludado cresce em estado silvestre nas sombrias florestas montanhosas e nas bordas de ravinas do México e da América Central, onde suas folhas grandes e macias captam a luz filtrada sob árvores mais altas. Durante boa parte de sua história científica, foi colocado no enorme gênero Senecio, os senécios, cujo nome vem do latim senex, «velho», em referência aos pappus brancos e felpudos. Estudos posteriores mostraram que um grupo de arbustos mexicanos e centro-americanos diferia o bastante do verdadeiro Senecio para ser reconhecido à parte, e eles foram atribuídos ao gênero Roldana, nome cunhado no início do século XIX pelo naturalista mexicano Pablo de La Llave. O epíteto petasitis aponta a semelhança entre suas folhas largas e arredondadas e as dos petasites (gênero Petasites), famosos pela folhagem enorme. Fora de sua terra natal, o senécio-aveludado encontrou boa acolhida em jardins de invernos amenos e sem geada, especialmente no litoral da Califórnia, onde ganhou o apelido de «gerânio-da-califórnia» por suas folhas semelhantes às do gerânio. Os jardineiros o valorizam porque floresce quando a maioria dos arbustos está em repouso: do fim do inverno à primavera, altos cachos ramificados de pequenas margaridas douradas se erguem acima da folhagem e atraem abelhas e borboletas numa época em que o néctar é escasso. Prefere meia-sombra, tolera diversos solos bem drenados e pode ser podado com vigor após a floração para se manter arrumado. Como muitos membros do grupo dos senécios, seus tecidos contêm alcaloides pirrolizidínicos, um dos motivos para não deixar o gado ou os animais de estimação mordiscá-lo.",
+        "name_origin": "O nome do gênero Roldana foi cunhado no início do século XIX pelo naturalista mexicano Pablo de La Llave, enquanto o epíteto petasitis se refere à semelhança de suas folhas grandes e arredondadas com as dos petasites (Petasites). O nome comum senécio-aveludado descreve suas folhas macias e feltradas e sua antiga inclusão no gênero Senecio.",
+        "symbolism_story": "Como o senécio-aveludado ilumina o jardim com flores douradas nos meses tranquilos do fim do inverno, os jardineiros o veem como símbolo de alegria, um lembrete de que a cor e a vida voltam mesmo quando a estação parece sem graça.",
+        "flower_meaning": "Alegria",
+        "uses_list": [
+          {
+            "text": "Cultivado como arbusto vistoso pela folhagem e pela floração de inverno em canteiros sombreados, pátios e jardins de estilo florestal em climas amenos."
+          },
+          {
+            "text": "Seus cachos dourados de margaridas fornecem néctar a abelhas e borboletas no fim do inverno e início da primavera, quando poucas outras plantas florescem."
+          },
+          {
+            "text": "Oferece abrigo denso e frondoso e uma fonte precoce de alimento em jardins amigos da vida selvagem."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Alegria",
+            "description": "Suas flores douradas surgem em pleno inverno, por isso os jardineiros as veem como sinal de luz e esperança na estação tranquila."
+          }
+        ],
+        "toxicity": {
+          "headline": "Toxicidade desconhecida",
+          "active_compound_display": "Nenhum relatado",
+          "notes_en": "Nenhuma fonte autorizada sobre toxicidade foi encontrada; tratada como não relatada (a estimativa do LLM não foi verificada em fontes).",
+          "human": {
+            "exposure": "Nenhuma via de exposição relatada.",
+            "effect": "Nenhum efeito tóxico relatado.",
+            "note": "A toxicidade para humanos não está bem documentada; tenha cautela até que seja verificada."
+          },
+          "dog": {
+            "exposure": "Nenhuma via de exposição relatada.",
+            "effect": "Nenhum efeito tóxico relatado.",
+            "note": "A toxicidade para cães não está bem documentada; tenha cautela até que seja verificada."
+          },
+          "cat": {
+            "exposure": "Nenhuma via de exposição relatada.",
+            "effect": "Nenhum efeito tóxico relatado.",
+            "note": "A toxicidade para gatos não está bem documentada; tenha cautela até que seja verificada."
+          }
+        }
+      }
+    },
+    "AAA1692": {
+      "source_hash": "63d963ad3dd1f30dc24228d8abb02364de496320954da60735e63e28008638f5",
+      "fields": {
+        "common_name": "Osmanto-de-Delavay",
+        "bloom_tip": "Cachos de flores brancas perfumadas abrem na primavera, geralmente de março a maio.",
+        "fruit_tip": "Pequenos frutos azul-enegrecidos amadurecem no fim do verão e no outono, mas não são um atrativo ornamental principal.",
+        "description": "O osmanto-de-Delavay (Osmanthus delavayi) é um arbusto perene compacto e de crescimento lento, originário das montanhas do sudoeste da China. As folhas pequenas, brilhantes e serrilhadas formam uma touceira densa e arqueada de verde intenso. Na primavera cobre-se de cachos de flores brancas tubulares, cujo doce perfume de jasmim se espalha pelo jardim nos dias quentes. No verão e no outono surgem pequenos frutos azul-enegrecidos. Resistente nas zonas 7 a 9, prospera ao sol ou em meia-sombra, em solo úmido e bem drenado, e tolera bem a poda, o que o torna ótimo para sebes, canteiros mistos, pátios e vasos grandes. Depois de estabelecido, exige pouco além de uma poda ocasional após a floração.",
+        "history_text_short": "Originário das montanhas do sudoeste da China, o osmanto-de-Delavay foi descrito em 1889 a partir de exemplares colhidos em Yunnan pelo missionário francês Père Jean Marie Delavay. Introduzido logo depois nos jardins europeus, é apreciado pela folhagem perene brilhante e pelas flores brancas muito perfumadas da primavera.",
+        "history_text_long": "O osmanto-de-Delavay recebe o nome de Père Jean Marie Delavay, o missionário e caçador de plantas francês que, nas décadas de 1880 e 1890, explorou as montanhas de Yunnan, no sudoeste da China. A partir de sua base perto de Dali, enviou dezenas de milhares de espécimes prensados e muitos milhares de pacotes de sementes ao Muséum national d'Histoire naturelle, em Paris. Entre eles havia um pequeno arbusto perene de flores brancas, tubulares e muito perfumadas, que o botânico Adrien Franchet descreveu como espécie nova em 1889, homenageando Delavay.\n\nAs sementes dessas expedições logo chegaram aos viveiros europeus, e o osmanto-de-Delavay entrou em cultivo na França e depois na Grã-Bretanha por volta da virada do século XX. Os jardineiros valorizaram o porte cuidado, as folhas brilhantes e a rica fragrância da floração primaveril, que surge quando poucos arbustos perenes estão em flor. A tolerância à poda o tornou favorito em sebes formais e topiaria em jardins de invernos amenos, e na Grã-Bretanha recebeu mais tarde o Award of Garden Merit da Royal Horticultural Society. Na terra natal cresce espontaneamente em encostas arborizadas e colinas de mata baixa, e continua sendo uma das formas mais seguras de levar o perfume da família dos osmantos a jardins onde o famoso osmanto-doce, de floração outonal, é menos adequado.",
+        "name_origin": "O nome do gênero Osmanthus vem do grego osme, «fragrância», e anthos, «flor», pelas flores perfumadas. O epíteto específico delavayi homenageia Père Jean Marie Delavay, o missionário francês que coletou os espécimes-tipo em Yunnan.",
+        "symbolism_story": "Batizado em honra de um caçador de plantas que atravessou montanhas remotas para encontrá-lo, o osmanto-de-Delavay simboliza a descoberta. Seu perfume viaja muito além do arbusto, uma generosidade discreta, enquanto as folhas perenes falam de perseverança em todas as estações.",
+        "flower_meaning": "Descoberta",
+        "fragrance": {
+          "notes": "Perfume floral doce, de jasmim, com um toque de fruta madura"
+        },
+        "uses_list": [
+          {
+            "text": "Perfuma o jardim primaveril com flores de aroma doce"
+          },
+          {
+            "text": "Arbusto perene elegante para sebes, canteiros e vasos"
+          },
+          {
+            "text": "As flores primaveris oferecem néctar às primeiras abelhas e borboletas"
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Descoberta",
+            "description": "a alegria de encontrar beleza em montanhas distantes"
+          },
+          {
+            "keyword": "Fragrância",
+            "description": "uma doçura generosa que permanece no ar"
+          },
+          {
+            "keyword": "Perseverança",
+            "description": "folhas perenes que se mantêm brilhantes em todas as estações"
+          }
+        ],
+        "toxicity": {
+          "headline": "Sem toxicidade relatada",
+          "active_compound_display": "Nenhum relatado",
+          "notes_en": "Não foi encontrada nenhuma correspondência toxicológica em fontes de referência; a planta é tratada como não relatada (a estimativa do modelo não é verificada por fontes).",
+          "human": {
+            "exposure": "Nenhuma via de exposição é relatada.",
+            "effect": "Nenhum efeito tóxico é relatado.",
+            "note": "Neste catálogo não há toxicidade relatada para humanos; isso não prova que a planta seja comestível ou inofensiva."
+          },
+          "dog": {
+            "exposure": "Nenhuma via de exposição é relatada.",
+            "effect": "Nenhum efeito tóxico é relatado.",
+            "note": "Neste catálogo não há toxicidade relatada para cães; isso não prova que a planta seja comestível ou inofensiva."
+          },
+          "cat": {
+            "exposure": "Nenhuma via de exposição é relatada.",
+            "effect": "Nenhum efeito tóxico é relatado.",
+            "note": "Neste catálogo não há toxicidade relatada para gatos; isso não prova que a planta seja comestível ou inofensiva."
+          }
+        }
+      }
+    },
+    "AAA1693": {
+      "source_hash": "34b706fba0d75da285e0a27b437367af21a515da98bdd025444ba8acfc3e40fb",
+      "fields": {
+        "common_name": "Osmanto-alaranjado",
+        "bloom_tip": "Cachos densos de flores laranja-escuras e muito perfumadas abrem de setembro a outubro, às vezes até dezembro.",
+        "fruit_tip": "Pequenos frutos roxo-enegrecidos amadurecem na primavera seguinte à floração, mas raramente se formam em cultivo.",
+        "description": "O osmanto-alaranjado (Osmanthus fragrans f. aurantiacus), chamado dan gui na China, é a forma de cor mais intensa do osmanto-doce, um arbusto ou pequena árvore perene que no início do outono produz cachos densos de minúsculas flores de laranja profundo a dourado-avermelhado. Seu perfume de damasco e pêssego chega longe e é um dos aromas de jardim mais queridos do Leste Asiático. As folhas verde-escuras e coriáceas mantêm a planta bonita o ano todo, e ela responde bem à poda, servindo como exemplar isolado, cortina ou sebe. Cresce melhor em sol pleno a meia-sombra, em solo fértil e bem drenado, é resistente nas zonas 7 a 9 e se dá bem em vasos grandes junto ao pátio ou à entrada, onde a fragrância pode ser apreciada.",
+        "history_text_short": "O osmanto-doce é cultivado na China há mais de 2.000 anos, e a forma de flores alaranjadas, dan gui, é uma de suas variedades mais estimadas. Ligado ao Festival do Meio do Outono, à poesia e ao sucesso nos exames imperiais, suas flores com aroma de damasco perfumam chás, vinhos e doces.",
+        "history_text_long": "O osmanto-doce, Osmanthus fragrans, é cultivado na China há bem mais de dois mil anos, e a forma de flores alaranjadas conhecida como dan gui, ou «cássia cinábrio», é um dos quatro grupos clássicos de jardim, ao lado dos tipos prateado, dourado e de floração contínua. Suas flores laranja-escuras são as mais vistosas e, para muitos, as mais intensamente perfumadas. Na tradição chinesa a árvore se chama gui e aparece na poesia desde as dinastias Tang e Song, quando seu perfume anuncia o outono e a lua cheia do Festival do Meio do Outono. Uma lenda famosa conta de Wu Gang, condenado a cortar sem fim uma árvore de cássia na lua, e a expressão chinesa «quebrar um ramo de cássia» passou a significar passar com distinção nos exames imperiais. A cidade de Guilin, «floresta de osmantos», tem o nome das árvores que margeiam suas ruas.\n\nAlém do jardim, as flores são valorizadas na cozinha e na casa de chá. São secas e infundidas em chá, conservadas em açúcar ou mel, misturadas a bolos, geleias e bolinhos de arroz glutinoso e maceradas em vinho de osmanto, bebida tradicional do Meio do Outono. A espécie chegou aos botânicos ocidentais no século XVIII, e Carl Peter Thunberg a descreveu em 1784 a partir de exemplares do Japão. Hoje o osmanto-alaranjado é plantado em jardins, pátios e templos de todo o Leste Asiático e em jardins de invernos amenos pelo mundo.",
+        "name_origin": "Osmanthus une o grego osme, «fragrância», e anthos, «flor». O epíteto específico fragrans é latim para «perfumado», e o nome da forma aurantiacus significa «de cor laranja», pelas flores laranja-escuras.",
+        "symbolism_story": "Na cultura chinesa o osmanto simboliza honra e sucesso, desde o letrado que «quebra um ramo de cássia» para passar nos exames imperiais. Seu perfume enche o ar no Festival do Meio do Outono, quando as famílias se reúnem sob a lua cheia, e sua doçura persistente é há muito símbolo de boa sorte.",
+        "flower_meaning": "Honra",
+        "fragrance": {
+          "notes": "Rico perfume de damasco e pêssego, com doçura quente e melada"
+        },
+        "uses_list": [
+          {
+            "text": "Perfuma jardins e pátios no início do outono"
+          },
+          {
+            "text": "As flores secas aromatizam chá, vinho, bolos e doces"
+          },
+          {
+            "text": "Exemplar, cortina ou sebe perene de flores laranja intensas"
+          },
+          {
+            "text": "As flores outonais alimentam abelhas e borboletas no fim do ano"
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Honra",
+            "description": "sucesso e distinção, como na expressão «quebrar um ramo de cássia»"
+          },
+          {
+            "keyword": "Reencontro",
+            "description": "famílias reunidas sob a lua do Meio do Outono"
+          },
+          {
+            "keyword": "Fragrância",
+            "description": "uma doçura que dura muito depois de as flores caírem"
+          }
+        ],
+        "toxicity": {
+          "headline": "Sem toxicidade relatada",
+          "active_compound_display": "Nenhum relatado",
+          "notes_en": "Não foi encontrada nenhuma correspondência toxicológica em fontes de referência; a planta é tratada como não relatada (a estimativa do modelo não é verificada por fontes).",
+          "human": {
+            "exposure": "Nenhuma via de exposição é relatada.",
+            "effect": "Nenhum efeito tóxico é relatado.",
+            "note": "Neste catálogo não há toxicidade relatada para humanos; isso não prova que a planta seja comestível ou inofensiva."
+          },
+          "dog": {
+            "exposure": "Nenhuma via de exposição é relatada.",
+            "effect": "Nenhum efeito tóxico é relatado.",
+            "note": "Neste catálogo não há toxicidade relatada para cães; isso não prova que a planta seja comestível ou inofensiva."
+          },
+          "cat": {
+            "exposure": "Nenhuma via de exposição é relatada.",
+            "effect": "Nenhum efeito tóxico é relatado.",
+            "note": "Neste catálogo não há toxicidade relatada para gatos; isso não prova que a planta seja comestível ou inofensiva."
           }
         }
       }

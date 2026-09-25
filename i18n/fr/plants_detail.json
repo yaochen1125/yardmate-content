@@ -3,8 +3,8 @@
   "locale": "fr",
   "source": {
     "resource": "plants_detail.json",
-    "sha256": "eb668be162b159a483537ff3fbbba1e9517dd88ae1a14bcaf932ed873bbd6488",
-    "record_count": 1684
+    "sha256": "c5a9a18cd7a593f78e915ea9f46df99014172cc80a22740ebab90c38b42f3615",
+    "record_count": 1692
   },
   "records": {
     "AAA0001": {
@@ -103197,6 +103197,419 @@
           "cat": {
             "exposure": "Aucune voie d'exposition signalée.",
             "effect": "Aucun effet toxique signalé.",
+            "note": "Aucune toxicité n'est signalée pour les chats dans ce catalogue ; cela ne prouve pas que la plante soit comestible ou inoffensive."
+          }
+        }
+      }
+    },
+    "AAA1686": {
+      "source_hash": "805af48f78a691f0b9df26aa44a218172a2dc1f103d0dbcf91a75a04b455b7c8",
+      "fields": {
+        "common_name": "Callune",
+        "bloom_tip": "Cette plante fleurit de la fin de l'été au début de l'automne et attire de nombreuses abeilles.",
+        "description": "La callune, ou bruyère commune, est un arbuste bas et persistant aux tiges fines et dressées, couvertes de minuscules feuilles en écailles qui restent vertes en hiver. De la fin de l'été à l'automne, elle se couvre d'épis de petites fleurs en clochettes roses, pourpres ou blanches, très prisées des abeilles. Haute de 15 à 45 cm et large jusqu'à 90 cm, elle forme des touffes denses qui conviennent aux rocailles, aux plates-bandes, aux talus et aux bacs. Elle prospère en plein soleil et en sol acide et bien drainé, supporte les sols pauvres, la sécheresse et le froid, et ne demande qu'une légère taille après la floraison.",
+        "history_text_short": "La callune couvre depuis des millénaires les landes et les bruyères d'Europe. On s'en servait pour le chaume, la litière, les balais, les teintures et le miel, et en Écosse, un brin de bruyère blanche est devenu un porte-bonheur. Son nom de genre, Calluna, d'origine grecque, signifie « balayer » ou « brosser ».",
+        "history_text_long": "La callune est l'une des grandes plantes de la lande ouverte. Ses tiges fines s'étendent sur les landes et les hautes terres d'Europe et au-delà, et là où elle pousse, elle façonne des paysages entiers, des collines pourpres des Highlands d'Écosse aux landes venteuses de Scandinavie. Pendant des milliers d'années, les gens de ces régions ont vécu à ses côtés et ont trouvé un usage à presque toutes ses parties. Des fagots de tiges étaient liés en balais, ce qui explique son nom de genre, Calluna, du grec kallyno, « balayer » ou « nettoyer ». Les tiges plus épaisses servaient de chaume pour les toits des chaumières, étaient tressées en paniers et en cordes ou placées sous les draps en guise de literie, tandis que les sommités fleuries donnaient des teintures jaunes et orange pour la laine. Les apiculteurs montaient leurs ruches sur la lande à la fin de l'été afin que les abeilles récoltent le miel de bruyère, sombre et aromatique, et la callune parfumait aussi la bière en Écosse bien avant l'arrivée du houblon. Dans le folklore écossais, la bruyère blanche, rare variante naturelle, apportait chance et protection, et l'on en offre encore aujourd'hui un brin aux mariées et aux voyageurs. Au XIXe siècle, l'amour de la reine Victoria pour les Highlands a mis la callune à la mode bien au-delà de sa patrie. Depuis, les jardiniers ont sélectionné des centaines de cultivars aux fleurs roses, pourpres et blanches et au feuillage doré, argenté, orange ou rouge. Aujourd'hui, la callune est plantée dans les rocailles, les plates-bandes et les bacs, et reste une source importante de nourriture pour les abeilles et la faune de la lande.",
+        "name_origin": "Le nom de genre Calluna vient du grec kallyno, « balayer » ou « nettoyer », car ses rameaux raides étaient liés en balais. Le nom d'espèce vulgaris signifie « commun » en latin, la plante étant très répandue sur les landes. Le nom français callune reprend le nom de genre.",
+        "symbolism_story": "En Écosse, un brin de bruyère blanche est un porte-bonheur très apprécié, que portent les mariées et les voyageurs pour la protection et le bonheur. La robustesse de la callune sur les landes ouvertes et venteuses en a aussi fait un symbole de solitude et d'endurance silencieuse.",
+        "flower_meaning": "Bonne chance",
+        "fragrance": {
+          "notes": "Un parfum discret, mielleux"
+        },
+        "uses_list": [
+          {
+            "text": "Plantée pour la couleur de la fin de l'été et de l'automne dans les rocailles, les plates-bandes, les talus, les jardins de bruyères et les bacs."
+          },
+          {
+            "text": "Ses fleurs riches en nectar nourrissent les abeilles et donnent le miel de bruyère, sombre et au goût prononcé."
+          },
+          {
+            "text": "Traditionnellement liée en balais et employée pour le chaume, la litière, les paniers et les teintures jaune-orangé de la laine."
+          },
+          {
+            "text": "Ses touffes denses abritent insectes et petits oiseaux terrestres, et ses jeunes pousses nourrissent les lagopèdes et les cerfs de la lande."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Bonne chance",
+            "description": "La bruyère blanche est un porte-bonheur et un charme protecteur traditionnel écossais, souvent offert aux mariées et aux voyageurs."
+          },
+          {
+            "keyword": "Solitude",
+            "description": "Son habitat sauvage et venteux l'a depuis longtemps associée à la solitude et à l'endurance silencieuse."
+          }
+        ],
+        "toxicity": {
+          "headline": "Aucune toxicité signalée",
+          "active_compound_display": "Aucun signalé",
+          "notes_en": "Aucune source faisant autorité n'a été trouvée sur la toxicité ; traité comme non signalé (l'estimation du LLM n'est pas vérifiée par une source).",
+          "human": {
+            "exposure": "Aucune voie d'exposition signalée.",
+            "effect": "Aucun effet toxique signalé.",
+            "note": "Aucune toxicité n'est signalée pour l'humain dans ce catalogue ; cela ne prouve pas que la plante soit comestible ou inoffensive."
+          },
+          "dog": {
+            "exposure": "Aucune voie d'exposition signalée.",
+            "effect": "Aucun effet toxique signalé.",
+            "note": "Aucune toxicité n'est signalée pour le chien dans ce catalogue ; cela ne prouve pas que la plante soit comestible ou inoffensive."
+          },
+          "cat": {
+            "exposure": "Aucune voie d'exposition signalée.",
+            "effect": "Aucun effet toxique signalé.",
+            "note": "Aucune toxicité n'est signalée pour le chat dans ce catalogue ; cela ne prouve pas que la plante soit comestible ou inoffensive."
+          }
+        }
+      }
+    },
+    "AAA1687": {
+      "source_hash": "3283afbf3885f9e38bd7391e9e751ba3118808bfb1254b6943e74b6851e86fc3",
+      "fields": {
+        "common_name": "Chiendent pied-de-poule",
+        "description": "Le chiendent pied-de-poule (Cynodon dactylon) est une graminée gazonnante de saison chaude, à feuillage fin, qui se propage par des stolons rampants et des rhizomes souterrains et forme un tapis dense et résistant de quelques centimètres seulement. Ses feuilles étroites, vert bleuté, aiment le plein soleil et la chaleur, et ses racines profondes supportent des sécheresses qui grilleraient la plupart des pelouses. Il se remet vite du piétinement, d'où son emploi sur les terrains de sport, les fairways de golf et les jardins ensoleillés des régions chaudes. Il jaunit et entre en dormance après le gel, puis reverdit au printemps. De petits épis en forme de doigts apparaissent en été ; sa vigueur exige une bordure près des massifs.",
+        "history_text_short": "Malgré son nom anglais, le chiendent pied-de-poule vient probablement d'Afrique et d'Asie, non des Bermudes. Transporté par bateau et dans le fourrage du bétail, il a gagné l'Amérique au XVIIIe siècle et a vite servi de pâturage. Ses stolons tenaces maintiennent aujourd'hui pelouses, golfs et stades dans le monde chaud.",
+        "history_text_long": "Le chiendent pied-de-poule est l'une des graminées les plus voyageuses de la planète. Son aire d'origine est généralement située en Afrique, en Asie du Sud et dans certaines régions d'Australie, mais la plante circule depuis si longtemps que son origine exacte est difficile à établir. Son nom anglais, Bermuda grass, renvoie aux Bermudes, l'un des nombreux lieux chauds où elle s'est installée ; ceux qui ont tenté de l'arracher d'un massif l'appellent aussi herbe du diable ou herbe fil de fer.\n\nElle s'est répandue avec le commerce des hommes. Graines et fragments de tiges voyageaient dans le lest des navires et le fourrage des animaux, et au XVIIIe siècle elle était établie dans le Sud des États-Unis, où les fermiers l'appréciaient comme pâturage et comme couvert retenant le sol des pentes érodées. Ses stolons s'enracinent partout où un nœud touche la terre : un petit morceau peut fonder toute une colonie.\n\nAu XXe siècle, les sélectionneurs ont fait de cette rude colonisatrice une culture gazonnante. Des cultivars hybrides améliorés, aux feuilles plus fines et à la croissance plus dense, sont devenus la référence pour les fairways, les greens de golf et les terrains de sport des régions chaudes, car la plante supporte l'usure intense, la tonte très rase et les longues périodes sèches. Elle a aussi sa place dans la médecine traditionnelle d'Asie du Sud, où on l'appelle durva ou herbe doob et où elle sert d'offrande rituelle hindoue, notamment dans le culte de Ganesh, comme symbole de résilience et de renouveau.\n\nAujourd'hui, elle est à la fois prisée et combattue : un gazon fiable pour les jardiniers des climats chauds, et une mauvaise herbe tenace pour qui veut la tenir hors du massif de fleurs.",
+        "name_origin": "Le nom du genre, Cynodon, vient du grec « kyon » (chien) et « odous » (dent), en référence aux écailles pointues, en forme de dents, de ses tiges. L'épithète dactylon signifie « doigt » en grec et décrit les épis étalés en doigts. Le nom anglais renvoie aux Bermudes, bien que la plante n'y soit pas native.",
+        "symbolism_story": "En Inde, le chiendent pied-de-poule (durva) est offert à Ganesh comme symbole de longue vie et de renouveau, car il repousse de ses racines aussi souvent qu'on le coupe. Cette même ténacité en fait un discret emblème de résilience partout où il pousse.",
+        "flower_meaning": "Résilience",
+        "uses_list": [
+          {
+            "text": "Gazon dense et résistant pour jardins ensoleillés, parcs et terrains de sport"
+          },
+          {
+            "text": "Utilisé dans la médecine traditionnelle et les offrandes rituelles d'Asie du Sud, où on l'appelle durva"
+          },
+          {
+            "text": "Pâturage et foin pour le bétail, et couvre-sol retenant la terre sur les pentes"
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Résilience",
+            "description": "Survit à la sécheresse, au piétinement et à la tonte rase, puis repousse"
+          },
+          {
+            "keyword": "Renouveau",
+            "description": "Son reverdissement rapide au printemps après la dormance hivernale"
+          },
+          {
+            "keyword": "Dévotion",
+            "description": "Offert dans le culte rituel hindou en signe de révérence"
+          }
+        ],
+        "toxicity": {
+          "headline": "Aucune toxicité signalée",
+          "active_compound_display": "Aucun signalé",
+          "notes_en": "Aucune source faisant autorité sur la toxicité n'a été trouvée ; traité comme non signalé (l'estimation du LLM n'est pas vérifiée par des sources).",
+          "human": {
+            "exposure": "Aucune voie d'exposition n'est signalée.",
+            "effect": "Aucun effet toxique n'est signalé.",
+            "note": "Aucune toxicité n'est signalée pour les humains dans ce catalogue ; cela ne prouve pas que la plante soit comestible ou inoffensive."
+          },
+          "dog": {
+            "exposure": "Aucune voie d'exposition n'est signalée.",
+            "effect": "Aucun effet toxique n'est signalé.",
+            "note": "Aucune toxicité n'est signalée pour les chiens dans ce catalogue ; cela ne prouve pas que la plante soit comestible ou inoffensive."
+          },
+          "cat": {
+            "exposure": "Aucune voie d'exposition n'est signalée.",
+            "effect": "Aucun effet toxique n'est signalé.",
+            "note": "Aucune toxicité n'est signalée pour les chats dans ce catalogue ; cela ne prouve pas que la plante soit comestible ou inoffensive."
+          }
+        }
+      }
+    },
+    "AAA1688": {
+      "source_hash": "f1ec7c8b5c3d44cfed062086b9e997166e8dcdcc7e4a850ff3e94e971af2963f",
+      "fields": {
+        "common_name": "Bruyère de Darley Dale",
+        "bloom_tip": "Cette plante fleurit de la fin de l'hiver au début de l'été et produit de très belles fleurs.",
+        "fruit_tip": "Ses fruits apparaissent en été ; peu visibles, ils nourrissent toutefois les oiseaux.",
+        "description": "La bruyère de Darley Dale est un arbuste bas, persistant et en coussin, couvert d'un feuillage fin comme des aiguilles, allant du vert vif à l'or ou au bronze selon le cultivar. C'est une bruyère hybride qui fleurit abondamment pendant les mois froids, de la fin de l'hiver au début de l'été, avec de denses épis de petites fleurs en forme d'urne, blanches, roses ou rose pourpre. Elle atteint environ 2 pieds de haut et jusqu'à 3 pieds de large, robuste et facile, elle tolère mieux le calcaire que la plupart des bruyères, ce qui en fait une favorite pour la couleur hivernale, les rocailles et la couverture de sol, très visitée par les abeilles.",
+        "history_text_short": "La bruyère de Darley Dale est un hybride de jardin entre deux espèces de bruyère, d'abord remarqué comme semis spontané dans une pépinière de Darley Dale, dans le Derbyshire, en Angleterre, vers 1900. Sa capacité à fleurir malgré le gel hivernal et à tolérer un peu de calcaire en a vite fait l'une des bruyères les plus plantées dans les jardins.",
+        "history_text_long": "La bruyère de Darley Dale n'est pas une plante sauvage mais un hybride de jardin, né du croisement de deux espèces de bruyère : la bruyère des neiges (Erica carnea) des Alpes, à floraison hivernale, et la bruyère d'Irlande, plus haute (Erica erigena, autrefois Erica mediterranea), du sud-ouest de l'Europe. Les deux se rencontrent rarement dans la nature, si bien que le croisement est d'abord apparu en culture, où leurs semis poussaient côte à côte. Les premières plantes connues sont apparues vers 1900 comme semis spontané dans une pépinière de Darley Dale, un village du Derbyshire, en Angleterre, et l'hybride a pris le nom de ce lieu. Les jardiniers ont vite découvert qu'il réunissait le meilleur de ses deux parents : le port compact et la floraison hivernale abondante de la bruyère alpine, et la vigueur et la taille supérieures de la bruyère méridionale. Contrairement à la plupart des bruyères, qui exigent un sol strictement acide, il tolère une quantité modérée de calcaire, ce qui a permis de le cultiver dans bien plus de jardins. Sa longue saison de petites fleurs en forme d'urne, à peu près de février au début de l'été, a offert aux apiculteurs et aux jardiniers une source de nectar précoce et fiable et une bienvenue explosion de couleur quand peu d'autres plantes fleurissent. Au cours du dernier siècle, les pépiniéristes ont sélectionné de nombreux cultivars blancs, roses et magenta, certains à jeunes pousses bronze, dorées ou crème. Aujourd'hui, l'hybride est planté dans des bacs d'hiver, des rocailles, des massifs de bruyères et comme couvre-sol bas dans les jardins d'Europe et d'Amérique du Nord.",
+        "name_origin": "Le nom de genre Erica vient du grec ereike, un ancien nom de la bruyère, et l'épithète darleyensis renvoie à Darley Dale, dans le Derbyshire, en Angleterre, où cet hybride est apparu pour la première fois en culture. Le × dans son nom signale un hybride entre Erica carnea et Erica erigena.",
+        "symbolism_story": "Les bruyères ont longtemps symbolisé la solitude et l'endurance, et la bruyère de Darley Dale s'y prête bien : elle fleurit courageusement dans le gel et le froid quand les autres arbustes sont nus, un petit rappel que la beauté peut s'épanouir dans la saison la plus rude.",
+        "flower_meaning": "Solitude",
+        "fragrance": {
+          "notes": "Un parfum discret, mielleux"
+        },
+        "uses_list": [
+          {
+            "text": "Plantée pour une couleur durable en hiver et au début du printemps dans les rocailles, les massifs de bruyères, les plates-bandes et les bacs."
+          },
+          {
+            "text": "Ses fleurs riches en nectar offrent aux abeilles une source de nourriture précoce quand peu d'autres plantes fleurissent."
+          },
+          {
+            "text": "Ses touffes persistantes et denses abritent la petite faune du jardin et ses capsules de graines offrent un peu de nourriture aux oiseaux."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Solitude",
+            "description": "Les bruyères sont depuis longtemps associées aux lieux sauvages et balayés par le vent, et ce florifère robuste incarne l'endurance silencieuse à travers l'hiver."
+          }
+        ],
+        "toxicity": {
+          "headline": "Aucune toxicité signalée",
+          "active_compound_display": "Aucun signalé",
+          "notes_en": "Aucune source faisant autorité n'a été trouvée sur la toxicité ; traité comme non signalé (l'estimation du LLM n'est pas vérifiée par une source).",
+          "human": {
+            "exposure": "Aucune voie d'exposition signalée.",
+            "effect": "Aucun effet toxique signalé.",
+            "note": "Aucune toxicité n'est signalée pour l'humain dans ce catalogue ; cela ne prouve pas que la plante soit comestible ou inoffensive."
+          },
+          "dog": {
+            "exposure": "Aucune voie d'exposition signalée.",
+            "effect": "Aucun effet toxique signalé.",
+            "note": "Aucune toxicité n'est signalée pour le chien dans ce catalogue ; cela ne prouve pas que la plante soit comestible ou inoffensive."
+          },
+          "cat": {
+            "exposure": "Aucune voie d'exposition signalée.",
+            "effect": "Aucun effet toxique signalé.",
+            "note": "Aucune toxicité n'est signalée pour le chat dans ce catalogue ; cela ne prouve pas que la plante soit comestible ou inoffensive."
+          }
+        }
+      }
+    },
+    "AAA1689": {
+      "source_hash": "1ae8aa74ff550e67934d3184d9eee8ccfb692db1e22128d1e9cc7dd5a5fa3921",
+      "fields": {
+        "common_name": "Euphorbe pantoufle",
+        "bloom_tip": "Cette plante fleurit de la fin de l'été au début de l'automne, dans une grande variété de couleurs.",
+        "fruit_tip": "Ses petites capsules à trois lobes mûrissent à l'automne et ne sont pas comestibles ; la plante est cultivée pour ses tiges et ses fleurs rouges.",
+        "description": "L'euphorbe pantoufle est un arbuste désertique robuste du nord-ouest du Mexique, aux tiges vertes dressées, en zigzag et de l'épaisseur d'un crayon, qui assurent la photosynthèse tandis que ses petites feuilles vont et viennent. Aux extrémités des tiges apparaissent des grappes de minuscules bractées rouge orangé en forme de pantoufle qui attirent les colibris. Haute de 30 à 90 cm et large d'environ 60 cm, elle prospère en plein soleil et en sol sableux très drainant, demande très peu d'eau une fois établie et convient aux rocailles, aux jardins désertiques et aux grands pots dans les climats doux. Son latex laiteux est irritant, il faut donc la manipuler avec précaution.",
+        "history_text_short": "L'euphorbe pantoufle (Euphorbia lomelii) est originaire des déserts de Sonora et de Basse-Californie, où elle pousse sur des pentes rocheuses. Son latex laiteux était utilisé en médecine traditionnelle, et ses fleurs rouges en forme de pantoufle sont depuis longtemps les favorites des colibris.",
+        "history_text_long": "L'euphorbe pantoufle pousse à l'état sauvage dans le désert de Sonora, au nord-ouest du Mexique, surtout en Sonora et en Basse-Californie, accrochée aux pentes rocheuses et aux lits de rivières asséchés. Depuis des générations, les habitants de la région la connaissent bien. Ses tiges fines, cireuses et en zigzag stockent l'eau et restent vertes pendant la saison sèche tandis que la plante perd ses petites feuilles, une façon astucieuse de survivre des mois sans pluie. Les tiges contiennent un latex laiteux que les guérisseurs traditionnels employaient avec prudence pour les problèmes de peau, les blessures et les plaies, mais ce même latex peut brûler la peau et les yeux, et on l'a donc toujours manipulé avec respect. Les botanistes ont décrit cette espèce au XIXe siècle, et elle fut longtemps placée dans le genre Pedilanthus, dont le nom vient des mots grecs pour pantoufle et fleur, car chaque minuscule fleur est enveloppée d'une bractée rouge en forme de barque qui ressemble à un petit soulier. Des recherches ultérieures ont montré que Pedilanthus appartient au vaste genre Euphorbia, et la plante a reçu son nom actuel, dans la même famille que le poinsettia et de nombreuses plantes grasses du désert. À l'état sauvage, les fleurs en forme de pantoufle sont pollinisées principalement par les colibris, qui font du vol stationnaire pour atteindre le nectar. Les jardiniers des régions sèches cultivent aujourd'hui l'euphorbe pantoufle comme un accent sculptural spectaculaire qui ne demande presque que du soleil et un bon drainage, dans les massifs de gravier, les jardins désertiques et les bacs.",
+        "name_origin": "Le nom de genre Euphorbia honore Euphorbe, un médecin grec de l'ancienne Maurétanie qui aurait employé une euphorbe à des fins médicinales. L'épithète lomelii honore une personne nommée Lomeli, et le nom français euphorbe pantoufle renvoie aux bractées rouges en forme de chaussure qui enveloppent les minuscules fleurs.",
+        "symbolism_story": "L'euphorbe pantoufle prospère sur des pentes désertiques rocheuses où presque rien d'autre ne survit, et fleurit d'un rouge vif après des mois de sécheresse. Elle symbolise la résilience et la force tranquille dans les lieux difficiles.",
+        "flower_meaning": "Résilience",
+        "uses_list": [
+          {
+            "text": "Cultivée comme accent sculptural aux tiges en zigzag dans les jardins désertiques, les massifs de gravier, les rocailles et les grands bacs."
+          },
+          {
+            "text": "Ses fleurs rouges en forme de pantoufle, riches en nectar, attirent les colibris et d'autres pollinisateurs."
+          },
+          {
+            "text": "Son latex laiteux a été utilisé en médecine traditionnelle dans le nord-ouest du Mexique, mais il est irritant et ne doit pas être employé chez soi."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Résilience",
+            "description": "Sa capacité à rester verte et à fleurir dans le désert brûlant et sec en fait un symbole d'endurance."
+          }
+        ],
+        "toxicity": {
+          "headline": "Humains modérée · Animaux modérée",
+          "active_compound_display": "esters de diterpène",
+          "notes_en": "Le latex laiteux irrite la peau, les yeux et la bouche.",
+          "human": {
+            "exposure": "Contact avec la sève et les tiges ; ingestion de la sève et des tiges.",
+            "effect": "Irritation de la peau et des yeux due au latex laiteux, et irritation de la bouche et de l'estomac en cas d'ingestion.",
+            "note": "Le latex laiteux irrite la peau, les yeux et la bouche.",
+            "symptoms": [
+              "Irritation de la peau et des yeux due au latex laiteux.",
+              "Irritation de la bouche et de l'estomac en cas d'ingestion."
+            ]
+          },
+          "dog": {
+            "exposure": "Contact avec la sève et les tiges ; ingestion de la sève et des tiges.",
+            "effect": "Hypersalivation, vomissements et irritation de la peau.",
+            "note": "Le latex laiteux irrite la peau, les yeux et la bouche.",
+            "symptoms": [
+              "Hypersalivation.",
+              "Vomissements.",
+              "Irritation de la peau."
+            ]
+          },
+          "cat": {
+            "exposure": "Contact avec la sève et les tiges ; ingestion de la sève et des tiges.",
+            "effect": "Hypersalivation, vomissements et irritation de la peau.",
+            "note": "Le latex laiteux irrite la peau, les yeux et la bouche.",
+            "symptoms": [
+              "Hypersalivation.",
+              "Vomissements.",
+              "Irritation de la peau."
+            ]
+          }
+        }
+      }
+    },
+    "AAA1690": {
+      "source_hash": "69831fdcd5e93c63ee85537591f6061d5a14e947bb9001937fca90e136e1cf23",
+      "fields": {
+        "common_name": "Séneçon velouté",
+        "bloom_tip": "La floraison dure du printemps à l'été, avec de jolies fleurs.",
+        "description": "Le séneçon velouté, aussi appelé géranium de Californie, est un arbuste vigoureux et étalé aux grandes feuilles douces, feutrées, qui rappellent le feuillage géant d'un géranium ou d'un pétasite. Originaire du Mexique et d'Amérique centrale, il atteint 3 à 5 pieds de haut et de large et, de la fin de l'hiver au printemps, lance bien au-dessus des feuilles de hautes grappes ramifiées de petites fleurs jaune doré en forme de pâquerette. Il prospère dans les climats chauds sans gel, à mi-ombre et en sol bien drainé, et constitue une source de nectar précieuse pour les abeilles et les papillons quand presque rien d'autre ne fleurit.",
+        "history_text_short": "Le séneçon velouté vient des forêts de montagne du Mexique et d'Amérique centrale. Les botanistes l'avaient autrefois classé dans le genre Senecio, mais il appartient aujourd'hui au genre Roldana. Les jardiniers des climats doux, comme la côte californienne, l'ont adopté comme arbuste à floraison hivernale, aux grandes feuilles veloutées et aux fleurs dorées qui nourrissent les premiers pollinisateurs.",
+        "history_text_long": "Le séneçon velouté pousse à l'état sauvage dans les forêts de montagne ombragées et en bordure de ravins du Mexique et d'Amérique centrale, où ses grandes feuilles douces captent la lumière filtrée sous les arbres plus hauts. Pendant une grande partie de son histoire scientifique, il a été placé dans l'immense genre Senecio, les séneçons, dont le nom vient du latin senex, « vieillard », en référence à leurs aigrettes blanches et duveteuses. Des études ultérieures ont montré qu'un groupe d'arbustes mexicains et centraméricains différait assez du vrai Senecio pour être reconnu à part, et ils ont été rattachés au genre Roldana, un nom forgé au début du XIXe siècle par le naturaliste mexicain Pablo de La Llave. L'épithète petasitis évoque la ressemblance entre ses feuilles larges et arrondies et celles des pétasites (genre Petasites), célèbres pour leur feuillage démesuré. Hors de son pays d'origine, le séneçon velouté a trouvé sa place dans les jardins aux hivers doux et sans gel, surtout sur la côte californienne, où il a reçu le surnom de « géranium de Californie » à cause de ses feuilles semblables à celles du géranium. Les jardiniers l'apprécient car il fleurit quand la plupart des arbustes se reposent : de la fin de l'hiver au printemps, de hautes grappes ramifiées de petites pâquerettes dorées s'élèvent au-dessus du feuillage et attirent abeilles et papillons à une saison où le nectar est rare. Il préfère la mi-ombre, tolère divers sols bien drainés et peut être taillé sévèrement après la floraison pour rester net. Comme beaucoup de membres du groupe des séneçons, ses tissus contiennent des alcaloïdes pyrrolizidiniques, ce qui est l'une des raisons d'empêcher le bétail ou les animaux de compagnie de le grignoter.",
+        "name_origin": "Le nom de genre Roldana a été forgé au début du XIXe siècle par le naturaliste mexicain Pablo de La Llave, tandis que l'épithète petasitis renvoie à la ressemblance de ses grandes feuilles arrondies avec celles des pétasites (Petasites). Le nom commun séneçon velouté décrit ses feuilles douces et feutrées ainsi que son ancienne appartenance au genre des séneçons, Senecio.",
+        "symbolism_story": "Comme le séneçon velouté illumine le jardin de fleurs dorées pendant les mois calmes de la fin de l'hiver, les jardiniers y voient un symbole de gaieté, un rappel que la couleur et la vie reviennent même quand la saison semble terne.",
+        "flower_meaning": "Gaieté",
+        "uses_list": [
+          {
+            "text": "Cultivé comme arbuste spectaculaire pour son feuillage et sa floraison hivernale, dans les massifs ombragés, sur les terrasses et dans les jardins de style sous-bois des climats doux."
+          },
+          {
+            "text": "Ses grappes dorées de pâquerettes offrent du nectar aux abeilles et aux papillons à la fin de l'hiver et au début du printemps, quand peu d'autres plantes fleurissent."
+          },
+          {
+            "text": "Offre un couvert dense et feuillu et une source de nourriture précoce dans les jardins favorables à la faune."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Gaieté",
+            "description": "Ses fleurs dorées apparaissent au cœur de l'hiver, si bien que les jardiniers y voient un signe de clarté et d'espoir en pleine saison calme."
+          }
+        ],
+        "toxicity": {
+          "headline": "Toxicité inconnue",
+          "active_compound_display": "Aucun signalé",
+          "notes_en": "Aucune source faisant autorité n'a été trouvée sur la toxicité ; traité comme non signalé (l'estimation du LLM n'est pas vérifiée par une source).",
+          "human": {
+            "exposure": "Aucune voie d'exposition signalée.",
+            "effect": "Aucun effet toxique signalé.",
+            "note": "La toxicité pour l'humain est mal documentée ; soyez prudent jusqu'à vérification."
+          },
+          "dog": {
+            "exposure": "Aucune voie d'exposition signalée.",
+            "effect": "Aucun effet toxique signalé.",
+            "note": "La toxicité pour le chien est mal documentée ; soyez prudent jusqu'à vérification."
+          },
+          "cat": {
+            "exposure": "Aucune voie d'exposition signalée.",
+            "effect": "Aucun effet toxique signalé.",
+            "note": "La toxicité pour le chat est mal documentée ; soyez prudent jusqu'à vérification."
+          }
+        }
+      }
+    },
+    "AAA1692": {
+      "source_hash": "63d963ad3dd1f30dc24228d8abb02364de496320954da60735e63e28008638f5",
+      "fields": {
+        "common_name": "Osmanthus de Delavay",
+        "bloom_tip": "Des grappes de fleurs blanches parfumées s'ouvrent au printemps, généralement de mars à mai.",
+        "fruit_tip": "De petits fruits bleu-noir mûrissent à la fin de l'été et en automne, sans constituer un attrait ornemental majeur.",
+        "description": "L'osmanthus de Delavay (Osmanthus delavayi) est un arbuste persistant compact, à croissance lente, originaire des montagnes du sud-ouest de la Chine. Ses petites feuilles luisantes et dentées forment une masse dense et arquée d'un vert profond. Au printemps, il se couvre de grappes de fleurs blanches tubulaires dont le parfum doux, proche du jasmin, flotte dans le jardin par temps chaud. De petits fruits bleu-noir suivent en été et en automne. Rustique en zones 7 à 9, il prospère au soleil ou à mi-ombre dans un sol frais et bien drainé, et supporte bien la taille : il convient aux haies, aux massifs mixtes, aux terrasses et aux grands bacs. Une fois installé, il ne demande guère plus qu'une taille occasionnelle après la floraison.",
+        "history_text_short": "Originaire des montagnes du sud-ouest de la Chine, l'osmanthus de Delavay a été décrit en 1889 à partir de spécimens récoltés au Yunnan par le missionnaire français Père Jean Marie Delavay. Introduit peu après dans les jardins européens, il est apprécié pour son feuillage persistant luisant et ses fleurs blanches printanières très parfumées.",
+        "history_text_long": "L'osmanthus de Delavay doit son nom au Père Jean Marie Delavay, missionnaire et chasseur de plantes français qui explora dans les années 1880 et 1890 les montagnes du Yunnan, dans le sud-ouest de la Chine. Depuis sa base près de Dali, il envoya des dizaines de milliers de spécimens séchés et de nombreux milliers de sachets de graines au Muséum national d'Histoire naturelle, à Paris. Parmi eux figurait un petit arbuste persistant aux fleurs blanches, tubulaires et très parfumées, que le botaniste Adrien Franchet décrivit comme une espèce nouvelle en 1889 et dédia à Delavay.\n\nLes graines de ces expéditions gagnèrent bientôt les pépinières européennes, et l'osmanthus de Delavay entra en culture en France puis en Grande-Bretagne vers le tournant du XXe siècle. Les jardiniers apprécièrent son port net, ses feuilles luisantes et la riche fragrance de sa floraison printanière, qui survient alors que peu d'arbustes persistants sont en fleurs. Sa tolérance à la taille en fit un favori des haies formelles et de la topiaire dans les jardins aux hivers doux, et en Grande-Bretagne il obtint plus tard l'Award of Garden Merit de la Royal Horticultural Society. Dans son pays d'origine, il pousse à l'état sauvage sur les pentes boisées et les collines broussailleuses, et reste l'un des meilleurs moyens d'apporter le parfum de la famille des osmanthus dans les jardins où le célèbre osmanthus odorant, à floraison automnale, convient moins.",
+        "name_origin": "Le nom de genre Osmanthus vient du grec osme, « parfum », et anthos, « fleur », en référence à ses fleurs parfumées. L'épithète spécifique delavayi honore le Père Jean Marie Delavay, le missionnaire français qui récolta les spécimens types au Yunnan.",
+        "symbolism_story": "Nommé d'après un chasseur de plantes qui traversa de lointaines montagnes pour le trouver, l'osmanthus de Delavay symbolise la découverte. Son parfum se répand bien au-delà de l'arbuste, une générosité discrète, tandis que son feuillage persistant évoque la persévérance en toute saison.",
+        "flower_meaning": "Découverte",
+        "fragrance": {
+          "notes": "Parfum floral doux, proche du jasmin, avec une pointe de fruit mûr"
+        },
+        "uses_list": [
+          {
+            "text": "Parfume le jardin printanier de fleurs au doux arôme"
+          },
+          {
+            "text": "Arbuste persistant soigné pour haies, massifs et bacs"
+          },
+          {
+            "text": "Ses fleurs printanières offrent du nectar aux premières abeilles et aux papillons"
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Découverte",
+            "description": "la joie de trouver la beauté dans des montagnes lointaines"
+          },
+          {
+            "keyword": "Parfum",
+            "description": "une douceur généreuse qui flotte dans l'air"
+          },
+          {
+            "keyword": "Persévérance",
+            "description": "un feuillage persistant qui reste éclatant en toute saison"
+          }
+        ],
+        "toxicity": {
+          "headline": "Aucune toxicité signalée",
+          "active_compound_display": "Aucun signalé",
+          "notes_en": "Aucune correspondance toxicologique n'a été trouvée dans les sources faisant autorité ; la plante est considérée comme non signalée (l'estimation du modèle n'est pas vérifiée par des sources).",
+          "human": {
+            "exposure": "Aucune voie d'exposition n'est signalée.",
+            "effect": "Aucun effet toxique n'est signalé.",
+            "note": "Aucune toxicité n'est signalée pour l'être humain dans ce catalogue ; cela ne prouve pas que la plante soit comestible ou inoffensive."
+          },
+          "dog": {
+            "exposure": "Aucune voie d'exposition n'est signalée.",
+            "effect": "Aucun effet toxique n'est signalé.",
+            "note": "Aucune toxicité n'est signalée pour les chiens dans ce catalogue ; cela ne prouve pas que la plante soit comestible ou inoffensive."
+          },
+          "cat": {
+            "exposure": "Aucune voie d'exposition n'est signalée.",
+            "effect": "Aucun effet toxique n'est signalé.",
+            "note": "Aucune toxicité n'est signalée pour les chats dans ce catalogue ; cela ne prouve pas que la plante soit comestible ou inoffensive."
+          }
+        }
+      }
+    },
+    "AAA1693": {
+      "source_hash": "34b706fba0d75da285e0a27b437367af21a515da98bdd025444ba8acfc3e40fb",
+      "fields": {
+        "common_name": "Osmanthus orange",
+        "bloom_tip": "De denses grappes de fleurs orange profond, très parfumées, s'ouvrent de septembre à octobre, parfois jusqu'en décembre.",
+        "fruit_tip": "De petits fruits violet-noir mûrissent au printemps suivant la floraison, mais se forment rarement en culture.",
+        "description": "L'osmanthus orange (Osmanthus fragrans f. aurantiacus), appelé dan gui en Chine, est la forme la plus profondément colorée de l'osmanthus odorant, un arbuste ou petit arbre persistant qui porte au début de l'automne de denses grappes de minuscules fleurs orange profond à or rougeâtre. Son parfum d'abricot et de pêche porte loin et compte parmi les senteurs de jardin les plus aimées d'Asie orientale. Ses feuilles vert foncé et coriaces gardent la plante belle toute l'année, et elle réagit bien à la taille : elle fait un beau sujet isolé, un écran ou une haie. Elle pousse mieux en plein soleil ou à mi-ombre dans un sol fertile et bien drainé, est rustique en zones 7 à 9 et s'accommode de grands bacs près d'une terrasse ou d'une entrée, où l'on profite de sa fragrance.",
+        "history_text_short": "L'osmanthus odorant est cultivé en Chine depuis plus de 2 000 ans, et sa forme à fleurs orange, dan gui, est l'une de ses variétés les plus précieuses. Lié à la fête de la mi-automne, à la poésie et à la réussite aux examens impériaux, ses fleurs au parfum d'abricot aromatisent thés, vins et douceurs.",
+        "history_text_long": "L'osmanthus odorant, Osmanthus fragrans, est cultivé en Chine depuis bien plus de deux mille ans, et la forme à fleurs orange connue sous le nom de dan gui, ou « cannelier cinabre », est l'un des quatre groupes classiques de jardin, avec les types argenté, doré et remontant. Ses fleurs orange profond sont les plus vives de toutes, et beaucoup les disent les plus intensément parfumées. Dans la tradition chinoise, l'arbre s'appelle gui et apparaît dans la poésie depuis les dynasties Tang et Song, où son parfum annonce l'automne et la pleine lune de la fête de la mi-automne. Une célèbre légende raconte l'histoire de Wu Gang, condamné à abattre sans fin un cannelier sur la lune, et l'expression chinoise « rompre une branche de cannelier » en est venue à signifier réussir brillamment les examens impériaux. La ville de Guilin, « forêt d'osmanthus », doit son nom aux arbres qui bordent ses rues.\n\nAu-delà du jardin, les fleurs sont prisées en cuisine et dans les maisons de thé. On les sèche pour les infuser dans le thé, on les conserve dans le sucre ou le miel, on les glisse dans des gâteaux, des gelées et des boulettes de riz gluant, et on les fait macérer dans le vin d'osmanthus, boisson traditionnelle de la mi-automne. L'espèce atteignit les botanistes occidentaux au XVIIIe siècle, et Carl Peter Thunberg la décrivit en 1784 d'après des spécimens du Japon. Aujourd'hui, l'osmanthus orange est planté dans les jardins, les cours et les temples de toute l'Asie orientale et dans les jardins aux hivers doux du monde entier.",
+        "name_origin": "Osmanthus associe le grec osme, « parfum », et anthos, « fleur ». L'épithète spécifique fragrans signifie « parfumé » en latin, et le nom de forme aurantiacus veut dire « de couleur orange », pour ses fleurs orange profond.",
+        "symbolism_story": "Dans la culture chinoise, l'osmanthus symbolise l'honneur et la réussite, depuis le lettré qui « rompt une branche de cannelier » pour réussir les examens impériaux. Son parfum emplit l'air à la fête de la mi-automne, quand les familles se retrouvent sous la pleine lune, et sa douceur tenace est depuis longtemps un symbole de bonne fortune.",
+        "flower_meaning": "Honneur",
+        "fragrance": {
+          "notes": "Riche parfum d'abricot et de pêche, à la douceur chaude et miellée"
+        },
+        "uses_list": [
+          {
+            "text": "Parfume jardins et cours au début de l'automne"
+          },
+          {
+            "text": "Les fleurs séchées aromatisent thé, vin, gâteaux et douceurs"
+          },
+          {
+            "text": "Sujet persistant, écran ou haie aux riches fleurs orange"
+          },
+          {
+            "text": "Ses fleurs d'automne nourrissent abeilles et papillons en fin de saison"
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Honneur",
+            "description": "réussite et distinction, comme dans l'expression « rompre une branche de cannelier »"
+          },
+          {
+            "keyword": "Retrouvailles",
+            "description": "les familles réunies sous la lune de la mi-automne"
+          },
+          {
+            "keyword": "Parfum",
+            "description": "une douceur qui persiste bien après la chute des fleurs"
+          }
+        ],
+        "toxicity": {
+          "headline": "Aucune toxicité signalée",
+          "active_compound_display": "Aucun signalé",
+          "notes_en": "Aucune correspondance toxicologique n'a été trouvée dans les sources faisant autorité ; la plante est considérée comme non signalée (l'estimation du modèle n'est pas vérifiée par des sources).",
+          "human": {
+            "exposure": "Aucune voie d'exposition n'est signalée.",
+            "effect": "Aucun effet toxique n'est signalé.",
+            "note": "Aucune toxicité n'est signalée pour l'être humain dans ce catalogue ; cela ne prouve pas que la plante soit comestible ou inoffensive."
+          },
+          "dog": {
+            "exposure": "Aucune voie d'exposition n'est signalée.",
+            "effect": "Aucun effet toxique n'est signalé.",
+            "note": "Aucune toxicité n'est signalée pour les chiens dans ce catalogue ; cela ne prouve pas que la plante soit comestible ou inoffensive."
+          },
+          "cat": {
+            "exposure": "Aucune voie d'exposition n'est signalée.",
+            "effect": "Aucun effet toxique n'est signalé.",
             "note": "Aucune toxicité n'est signalée pour les chats dans ce catalogue ; cela ne prouve pas que la plante soit comestible ou inoffensive."
           }
         }

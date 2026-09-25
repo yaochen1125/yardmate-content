@@ -3,8 +3,8 @@
   "locale": "vi",
   "source": {
     "resource": "plants_detail.json",
-    "sha256": "eb668be162b159a483537ff3fbbba1e9517dd88ae1a14bcaf932ed873bbd6488",
-    "record_count": 1684
+    "sha256": "c5a9a18cd7a593f78e915ea9f46df99014172cc80a22740ebab90c38b42f3615",
+    "record_count": 1692
   },
   "records": {
     "AAA0001": {
@@ -103212,6 +103212,419 @@
             "exposure": "Không có đường phơi nhiễm nào được báo cáo.",
             "effect": "Không có tác động độc hại nào được báo cáo.",
             "note": "Danh mục này không ghi nhận độc tính đối với mèo; điều này không phải là bằng chứng cho thấy cây có thể ăn được hoặc vô hại."
+          }
+        }
+      }
+    },
+    "AAA1686": {
+      "source_hash": "805af48f78a691f0b9df26aa44a218172a2dc1f103d0dbcf91a75a04b455b7c8",
+      "fields": {
+        "common_name": "Thạch nam thường",
+        "bloom_tip": "Loài cây này nở hoa từ cuối hè đến đầu thu và thu hút nhiều ong.",
+        "description": "Thạch nam thường là một loại cây bụi thấp, thường xanh, có thân mảnh dựng đứng phủ đầy những chiếc lá nhỏ như vảy, xanh quanh năm kể cả mùa đông. Từ cuối hè sang thu, cây phủ đầy những chùm hoa nhỏ hình chuông màu hồng, tím hoặc trắng, rất thu hút ong. Cây cao khoảng 15–45 cm, rộng tới 90 cm, tạo thành những mảng dày, phù hợp với vườn đá, luống hoa, sườn dốc và chậu. Cây ưa nắng hoàn toàn và đất chua, thoát nước tốt, chịu được đất nghèo, hạn và lạnh, chỉ cần tỉa nhẹ sau khi hoa tàn.",
+        "history_text_short": "Thạch nam thường đã phủ kín các vùng đồng hoang và đất thạch nam ở châu Âu hàng nghìn năm. Người ta dùng nó để lợp mái, làm đệm, làm chổi, nhuộm màu và lấy mật, và ở Scotland, một nhành thạch nam trắng trở thành bùa may mắn. Tên chi Calluna có gốc Hy Lạp, nghĩa là \"quét\" hoặc \"chải\".",
+        "history_text_long": "Thạch nam thường là một trong những loài cây tiêu biểu của những vùng đồng hoang rộng mở. Những thân cây mảnh dẻ của nó trải dài khắp các vùng đất thạch nam và cao nguyên châu Âu và xa hơn nữa, và ở đâu có nó, cả cảnh quan được định hình, từ những ngọn đồi tím ở Cao nguyên Scotland đến những vùng hoang mạc lộng gió ở Scandinavia. Hàng nghìn năm nay, người dân các vùng này sống cùng nó và tìm ra công dụng cho gần như mọi bộ phận. Những bó cành được buộc thành chổi, đó là nguồn gốc tên chi Calluna, từ tiếng Hy Lạp kallyno nghĩa là \"quét\" hoặc \"làm sạch\". Những thân dày hơn được dùng lợp mái nhà tranh, đan thành giỏ và dây thừng, hoặc lót làm đệm dưới ga giường, còn phần ngọn có hoa được dùng để nhuộm len màu vàng và cam. Người nuôi ong mang tổ ong lên đồng hoang vào cuối hè để ong hút mật thạch nam sẫm màu, thơm nồng, và ở Scotland, thạch nam còn được dùng tạo hương cho bia ale từ lâu trước khi hoa bia phổ biến. Trong dân gian Scotland, thạch nam trắng, một biến thể tự nhiên hiếm gặp, được cho là mang lại may mắn và sự che chở, và đến nay người ta vẫn tặng một nhành cho cô dâu và người đi xa. Vào thế kỷ 19, tình yêu của Nữ hoàng Victoria dành cho vùng Cao nguyên đã khiến thạch nam trở thành mốt vượt xa quê hương của nó. Từ đó, các nhà làm vườn đã chọn lọc hàng trăm giống với hoa màu hồng, tím, trắng và lá vàng, bạc, cam, đỏ. Ngày nay thạch nam thường được trồng trong vườn đá, luống hoa và chậu, và vẫn là nguồn thức ăn quan trọng cho ong và động vật hoang dã vùng đồng hoang.",
+        "name_origin": "Tên chi Calluna bắt nguồn từ tiếng Hy Lạp kallyno, nghĩa là \"quét\" hoặc \"làm sạch\", vì những cành cứng của nó được bó thành chổi. Tên loài vulgaris nghĩa là \"phổ biến\" trong tiếng Latinh, do loài cây này mọc rộng khắp trên đồng hoang và vùng đất thạch nam. Tên tiếng Anh Heather bắt nguồn từ vùng đất hoang rộng mở (heath) nơi nó mọc.",
+        "symbolism_story": "Ở Scotland, một nhành thạch nam trắng là bùa may mắn được yêu thích, cô dâu và người đi xa mang theo để cầu che chở và hạnh phúc. Sức sống bền bỉ của thạch nam trên những vùng đồng hoang rộng mở, lộng gió cũng khiến nó trở thành biểu tượng của sự cô đơn và sức chịu đựng thầm lặng.",
+        "flower_meaning": "May mắn",
+        "fragrance": {
+          "notes": "Hương thơm nhẹ, như mật ong"
+        },
+        "uses_list": [
+          {
+            "text": "Được trồng để lấy màu sắc vào cuối hè và mùa thu trong vườn đá, luống hoa, sườn dốc, vườn thạch nam và chậu."
+          },
+          {
+            "text": "Hoa giàu mật nuôi ong và là nguồn của mật thạch nam sẫm màu, đậm vị."
+          },
+          {
+            "text": "Theo truyền thống được bó thành chổi và dùng để lợp mái, làm đệm, đan giỏ và nhuộm len màu vàng cam."
+          },
+          {
+            "text": "Những bụi dày che chở côn trùng và các loài chim nhỏ sống trên mặt đất, còn chồi non là thức ăn của gà gô và hươu vùng đồng hoang."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "May mắn",
+            "description": "Thạch nam trắng là bùa may mắn và che chở truyền thống của Scotland, thường được tặng cho cô dâu và người đi xa."
+          },
+          {
+            "keyword": "Cô đơn",
+            "description": "Môi trường sống hoang dã, lộng gió khiến nó từ lâu gắn liền với sự cô đơn và sức chịu đựng thầm lặng."
+          }
+        ],
+        "toxicity": {
+          "headline": "Chưa ghi nhận độc tính",
+          "active_compound_display": "Chưa ghi nhận",
+          "notes_en": "Không tìm thấy nguồn đáng tin cậy về độc tính; được xem là chưa ghi nhận (ước tính của LLM chưa được kiểm chứng bằng nguồn).",
+          "human": {
+            "exposure": "Chưa ghi nhận đường tiếp xúc nào.",
+            "effect": "Chưa ghi nhận tác động độc hại nào.",
+            "note": "Danh mục này chưa ghi nhận độc tính đối với con người; điều đó không chứng minh cây ăn được hoặc vô hại."
+          },
+          "dog": {
+            "exposure": "Chưa ghi nhận đường tiếp xúc nào.",
+            "effect": "Chưa ghi nhận tác động độc hại nào.",
+            "note": "Danh mục này chưa ghi nhận độc tính đối với chó; điều đó không chứng minh cây ăn được hoặc vô hại."
+          },
+          "cat": {
+            "exposure": "Chưa ghi nhận đường tiếp xúc nào.",
+            "effect": "Chưa ghi nhận tác động độc hại nào.",
+            "note": "Danh mục này chưa ghi nhận độc tính đối với mèo; điều đó không chứng minh cây ăn được hoặc vô hại."
+          }
+        }
+      }
+    },
+    "AAA1687": {
+      "source_hash": "3283afbf3885f9e38bd7391e9e751ba3118808bfb1254b6943e74b6851e86fc3",
+      "fields": {
+        "common_name": "Cỏ gà",
+        "description": "Cỏ gà (Cynodon dactylon), còn gọi là cỏ Bermuda, là loại cỏ thảm mùa nóng có lá mịn, lan bằng thân bò và thân rễ ngầm, tạo thành tấm thảm dày, bền chỉ cao vài xăng-ti-mét. Lá hẹp xanh lam ưa nắng đầy đủ và nóng bức, còn bộ rễ sâu chịu được hạn khiến nhiều loại cỏ khác úa nâu. Cỏ phục hồi nhanh sau khi bị giẫm đạp nên phủ sân thể thao, đường bóng golf và những khu vườn nhiều nắng ở vùng khí hậu ấm. Sau sương giá, cỏ chuyển màu vàng rơm và ngủ đông, rồi xanh lại khi xuân về. Mùa hè cỏ ra những bông nhỏ hình ngón tay; vì sinh trưởng mạnh nên cần làm bờ viền gần luống hoa.",
+        "history_text_short": "Dù mang tên Bermuda, cỏ gà nhiều khả năng có nguồn gốc từ châu Phi và châu Á chứ không phải quần đảo Bermuda. Theo tàu thuyền và thức ăn gia súc, cỏ tới châu Mỹ vào thế kỷ 18 và nhanh chóng được trồng làm bãi chăn thả. Nay những thân bò bền bỉ của nó giữ chặt các bãi cỏ, sân golf và sân bóng ở vùng nóng.",
+        "history_text_long": "Cỏ gà là một trong những loài cỏ đi xa nhất trên Trái Đất. Vùng bản địa của nó thường được xác định ở châu Phi, Nam Á và một phần nước Úc, nhưng cây đã được đưa đi khắp thế giới từ quá lâu nên khó xác định chính xác nguồn gốc. Tên tiếng Anh Bermuda grass nhắc đến quần đảo Bermuda, một trong nhiều nơi ấm áp mà nó định cư; những ai từng cố nhổ nó khỏi luống hoa còn gọi nó là cỏ quỷ hay cỏ dây thép.\n\nCỏ lan rộng theo con đường thương mại của loài người. Hạt và đoạn thân đi cùng dằn tàu và thức ăn gia súc, và đến thế kỷ 18 nó đã yên vị ở miền Nam nước Mỹ, nơi nông dân quý nó làm bãi chăn và làm lớp phủ giữ đất trên sườn dốc bị xói mòn. Thân bò ra rễ ở bất cứ đốt nào chạm đất, nên một mảnh nhỏ cũng có thể lập nên cả một quần thể.\n\nSang thế kỷ 20, các nhà chọn giống biến loài cỏ khỏe mạnh này thành cây trồng làm thảm cỏ. Các giống lai cải tiến, lá mịn hơn và mọc dày hơn, trở thành tiêu chuẩn cho đường bóng, green golf và sân thể thao ở vùng nóng, vì cỏ chịu được giẫm đạp nặng, cắt rất thấp và những đợt khô hạn dài. Cỏ cũng có chỗ trong y học cổ truyền Nam Á, nơi nó được gọi là durva hay cỏ doob và được dùng trong lễ vật của người Hindu, nhất là khi thờ thần Ganesha, như biểu tượng của sức bền và sự tái sinh.\n\nNgày nay cỏ gà vừa được quý trọng vừa bị chống lại: là bãi cỏ đáng tin cậy cho người làm vườn ở vùng khí hậu ấm và là loài cỏ dại dai dẳng với ai muốn giữ nó ra khỏi luống hoa.",
+        "name_origin": "Tên chi Cynodon xuất phát từ tiếng Hy Lạp «kyon» (chó) và «odous» (răng), ám chỉ những vảy nhọn như răng trên thân cây. Tên loài dactylon trong tiếng Hy Lạp nghĩa là «ngón tay», mô tả các bông xòe ra như ngón tay. Tên tiếng Anh nhắc đến Bermuda, dù cây không có nguồn gốc ở đó.",
+        "symbolism_story": "Ở Ấn Độ, cỏ gà (durva) được dâng lên thần Ganesha như biểu tượng của trường thọ và tái sinh, vì nó lại mọc lên từ rễ dù bị cắt bao nhiêu lần. Chính sự bền bỉ ấy khiến nó trở thành biểu tượng thầm lặng của sức bền ở bất cứ nơi nào nó mọc.",
+        "flower_meaning": "Sức bền",
+        "uses_list": [
+          {
+            "text": "Thảm cỏ dày, bền cho vườn nhiều nắng, công viên và sân thể thao"
+          },
+          {
+            "text": "Dùng trong y học cổ truyền và lễ vật ở Nam Á, nơi gọi là durva"
+          },
+          {
+            "text": "Bãi chăn và cỏ khô cho gia súc, lớp phủ giữ đất trên sườn dốc"
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Sức bền",
+            "description": "Sống sót qua hạn hán, giẫm đạp và cắt thấp rồi mọc lại"
+          },
+          {
+            "keyword": "Tái sinh",
+            "description": "Xanh lại nhanh vào mùa xuân sau kỳ ngủ đông"
+          },
+          {
+            "keyword": "Lòng sùng kính",
+            "description": "Được dâng trong nghi lễ Hindu như dấu hiệu tôn kính"
+          }
+        ],
+        "toxicity": {
+          "headline": "Chưa có báo cáo về độc tính",
+          "active_compound_display": "Chưa có báo cáo",
+          "notes_en": "Không tìm thấy nguồn uy tín về độc tính; được xem là chưa có báo cáo (ước tính của LLM chưa được kiểm chứng bằng nguồn).",
+          "human": {
+            "exposure": "Chưa có báo cáo về đường phơi nhiễm.",
+            "effect": "Chưa có báo cáo về tác động độc hại.",
+            "note": "Trong danh mục này chưa có báo cáo về độc tính đối với con người; điều này không chứng minh cây ăn được hay vô hại."
+          },
+          "dog": {
+            "exposure": "Chưa có báo cáo về đường phơi nhiễm.",
+            "effect": "Chưa có báo cáo về tác động độc hại.",
+            "note": "Trong danh mục này chưa có báo cáo về độc tính đối với chó; điều này không chứng minh cây ăn được hay vô hại."
+          },
+          "cat": {
+            "exposure": "Chưa có báo cáo về đường phơi nhiễm.",
+            "effect": "Chưa có báo cáo về tác động độc hại.",
+            "note": "Trong danh mục này chưa có báo cáo về độc tính đối với mèo; điều này không chứng minh cây ăn được hay vô hại."
+          }
+        }
+      }
+    },
+    "AAA1688": {
+      "source_hash": "f1ec7c8b5c3d44cfed062086b9e997166e8dcdcc7e4a850ff3e94e971af2963f",
+      "fields": {
+        "common_name": "Thạch nam Darley Dale",
+        "bloom_tip": "Cây này ra hoa từ cuối đông đến đầu hè, cho những bông hoa rất đẹp.",
+        "fruit_tip": "Quả xuất hiện vào mùa hè, tuy không nổi bật nhưng là thức ăn cho chim.",
+        "description": "Thạch nam Darley Dale là loại cây bụi thường xanh thấp, mọc thành bụi tròn, phủ lá mảnh như kim, màu từ xanh tươi đến vàng ánh kim hoặc đồng tùy giống. Đây là một loài thạch nam lai, nở hoa rất nhiều trong những tháng lạnh, từ cuối đông đến đầu hè, với những chùm hoa dày gồm các bông hoa nhỏ hình bình màu trắng, hồng hoặc tím hồng. Cây cao khoảng 2 feet và rộng tới 3 feet, khỏe, dễ trồng và chịu vôi tốt hơn hầu hết các loài thạch nam, nên được ưa chuộng để tạo màu sắc mùa đông, làm vườn đá và phủ đất, thu hút nhiều ong.",
+        "history_text_short": "Thạch nam Darley Dale là một giống lai trong vườn giữa hai loài thạch nam, lần đầu được phát hiện như một cây con mọc tình cờ tại một vườn ươm ở Darley Dale, Derbyshire, Anh, vào khoảng năm 1900. Khả năng nở hoa qua sương giá mùa đông và chịu được một chút vôi trong đất đã sớm khiến nó trở thành một trong những loài thạch nam được trồng rộng rãi nhất.",
+        "history_text_long": "Thạch nam Darley Dale không phải là cây hoang dã mà là một giống lai trong vườn, ra đời từ việc lai giữa hai loài thạch nam: Erica carnea nở hoa mùa đông ở dãy Alps và Erica erigena cao hơn, trước đây gọi là Erica mediterranea, ở tây nam châu Âu. Hai loài này hiếm khi gặp nhau ngoài tự nhiên, nên phép lai xuất hiện đầu tiên trong trồng trọt, nơi các cây con của chúng mọc cạnh nhau. Những cây nổi tiếng đầu tiên xuất hiện vào khoảng năm 1900 như một cây con mọc tình cờ tại một vườn ươm ở Darley Dale, một ngôi làng ở Derbyshire, Anh, và giống lai lấy tên từ nơi này. Người làm vườn sớm nhận ra nó kết hợp những đặc điểm tốt nhất của cả hai cây bố mẹ: dáng gọn và hoa nở dày vào mùa đông của thạch nam Alps, cùng sức sống mạnh hơn và kích thước lớn hơn của loài phương nam. Khác với hầu hết thạch nam đòi hỏi đất chua nghiêm ngặt, nó chịu được một lượng vôi vừa phải, nên có thể trồng trong nhiều khu vườn hơn. Mùa hoa dài của những bông hoa nhỏ hình bình, khoảng từ tháng 2 đến đầu hè, mang đến cho người nuôi ong và người làm vườn một nguồn mật sớm đáng tin cậy và một mảng màu đáng mừng khi hầu như không còn cây nào nở hoa. Trong thế kỷ qua, các nhà vườn ươm đã chọn lọc nhiều giống màu trắng, hồng và đỏ tươi, một số có chồi non màu đồng, vàng ánh kim hoặc kem. Ngày nay, giống lai này được trồng trong chậu mùa đông, vườn đá, luống thạch nam và làm lớp phủ đất thấp trong các khu vườn khắp châu Âu và Bắc Mỹ.",
+        "name_origin": "Tên chi Erica xuất phát từ tiếng Hy Lạp ereike, một tên cổ của thạch nam, còn tên loài darleyensis chỉ Darley Dale ở Derbyshire, Anh, nơi giống lai này lần đầu xuất hiện trong trồng trọt. Dấu × trong tên cho biết đây là giống lai giữa Erica carnea và Erica erigena.",
+        "symbolism_story": "Thạch nam từ lâu tượng trưng cho sự cô độc và sức chịu đựng, và thạch nam Darley Dale rất hợp với ý nghĩa đó: nó dũng cảm nở hoa qua sương giá và cái lạnh khi các cây bụi khác trơ trụi, như một lời nhắc nhỏ rằng vẻ đẹp có thể nảy nở trong mùa khắc nghiệt nhất.",
+        "flower_meaning": "Cô độc",
+        "fragrance": {
+          "notes": "Hương thoảng nhẹ như mật ong"
+        },
+        "uses_list": [
+          {
+            "text": "Được trồng để có màu sắc bền lâu trong mùa đông và đầu xuân ở vườn đá, luống thạch nam, viền vườn và chậu."
+          },
+          {
+            "text": "Những bông hoa giàu mật cung cấp cho ong nguồn thức ăn sớm khi có rất ít cây khác nở hoa."
+          },
+          {
+            "text": "Những bụi thường xanh rậm rạp che chở cho các loài động vật hoang dã nhỏ trong vườn, còn quả nang hạt cung cấp chút thức ăn cho chim."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Cô độc",
+            "description": "Thạch nam từ lâu gắn với những nơi hoang dã, lộng gió, và loài cây khỏe này tượng trưng cho sự bền bỉ lặng lẽ qua mùa đông."
+          }
+        ],
+        "toxicity": {
+          "headline": "Chưa ghi nhận độc tính",
+          "active_compound_display": "Chưa ghi nhận",
+          "notes_en": "Không tìm thấy nguồn đáng tin cậy về độc tính; được xem là chưa ghi nhận (ước tính của LLM chưa được kiểm chứng bằng nguồn).",
+          "human": {
+            "exposure": "Chưa ghi nhận đường tiếp xúc nào.",
+            "effect": "Chưa ghi nhận tác động độc hại nào.",
+            "note": "Danh mục này chưa ghi nhận độc tính đối với con người; điều đó không chứng minh cây ăn được hoặc vô hại."
+          },
+          "dog": {
+            "exposure": "Chưa ghi nhận đường tiếp xúc nào.",
+            "effect": "Chưa ghi nhận tác động độc hại nào.",
+            "note": "Danh mục này chưa ghi nhận độc tính đối với chó; điều đó không chứng minh cây ăn được hoặc vô hại."
+          },
+          "cat": {
+            "exposure": "Chưa ghi nhận đường tiếp xúc nào.",
+            "effect": "Chưa ghi nhận tác động độc hại nào.",
+            "note": "Danh mục này chưa ghi nhận độc tính đối với mèo; điều đó không chứng minh cây ăn được hoặc vô hại."
+          }
+        }
+      }
+    },
+    "AAA1689": {
+      "source_hash": "1ae8aa74ff550e67934d3184d9eee8ccfb692db1e22128d1e9cc7dd5a5fa3921",
+      "fields": {
+        "common_name": "Đại kích hình dép",
+        "bloom_tip": "Loài cây này nở hoa từ cuối hè đến đầu thu, với nhiều màu sắc phong phú.",
+        "fruit_tip": "Những quả nang nhỏ ba thùy chín vào mùa thu và không ăn được; cây được trồng để ngắm thân và hoa đỏ.",
+        "description": "Đại kích hình dép là loài cây bụi sa mạc bền bỉ từ tây bắc Mexico, có những thân xanh mọc thẳng, uốn khúc zigzag, to bằng cây bút chì đảm nhận việc quang hợp, trong khi những chiếc lá nhỏ khi có khi rụng. Ở đầu thân mọc thành cụm các lá bắc nhỏ màu đỏ cam hình chiếc dép, thu hút chim ruồi. Cây cao khoảng 30–90 cm, rộng khoảng 60 cm, ưa nắng hoàn toàn và đất cát thoát nước nhanh, khi đã bén rễ chỉ cần rất ít nước, phù hợp với vườn đá, vườn sa mạc và chậu lớn ở vùng khí hậu ôn hòa. Nhựa trắng đục của cây gây kích ứng nên cần cẩn thận khi tiếp xúc.",
+        "history_text_short": "Đại kích hình dép (Euphorbia lomelii) có nguồn gốc từ các sa mạc Sonora và Baja California, mọc trên sườn đá. Nhựa trắng đục của nó từng được dùng trong y học cổ truyền, và những bông hoa đỏ hình dép từ lâu đã được chim ruồi ưa thích.",
+        "history_text_long": "Đại kích hình dép mọc hoang trong sa mạc Sonora ở tây bắc Mexico, đặc biệt ở Sonora và Baja California, bám trên các sườn đá và lòng suối khô. Qua nhiều thế hệ, người dân trong vùng đã biết rõ loài cây này. Những thân mảnh, phủ sáp, uốn khúc zigzag của nó trữ nước và vẫn xanh suốt mùa khô trong khi cây rụng những chiếc lá nhỏ, một cách khéo léo để sống sót nhiều tháng không mưa. Thân cây chứa nhựa trắng đục, thầy thuốc dân gian từng dùng cẩn thận cho các vấn đề về da, vết thương và mụn nhọt, nhưng chính nhựa đó cũng có thể làm bỏng da và mắt, nên người ta luôn xử lý nó với sự thận trọng. Các nhà thực vật học mô tả loài này lần đầu vào thế kỷ 19, và nó từng được xếp lâu năm vào chi Pedilanthus, cái tên xuất phát từ các từ Hy Lạp có nghĩa là dép và hoa, vì mỗi bông hoa nhỏ được bao bọc bởi một lá bắc đỏ hình chiếc thuyền trông như một chiếc giày nhỏ. Nghiên cứu sau này cho thấy Pedilanthus nằm trong chi Euphorbia khổng lồ, và cây nhận tên hiện nay, cùng họ với trạng nguyên và nhiều loài mọng nước sa mạc. Trong tự nhiên, những bông hoa hình dép chủ yếu được chim ruồi thụ phấn, chúng bay lơ lửng để lấy mật. Ngày nay, những người làm vườn ở vùng khô hạn trồng đại kích hình dép như một điểm nhấn điêu khắc ấn tượng gần như chỉ cần nắng và thoát nước tốt, trong luống sỏi, vườn sa mạc và chậu.",
+        "name_origin": "Tên chi Euphorbia tôn vinh Euphorbus, một thầy thuốc Hy Lạp ở Mauretania cổ đại, người được cho là đã dùng một loài đại kích làm thuốc. Tên loài lomelii tôn vinh một người tên Lomeli, còn tên tiếng Việt đại kích hình dép nói đến những lá bắc đỏ hình giày bao quanh các bông hoa nhỏ.",
+        "symbolism_story": "Đại kích hình dép mọc trên những sườn sa mạc đá nơi hầu như không loài nào khác sống nổi, và nở hoa đỏ rực sau nhiều tháng hạn hán. Nó tượng trưng cho sự kiên cường và sức mạnh thầm lặng ở những nơi khắc nghiệt.",
+        "flower_meaning": "Kiên cường",
+        "uses_list": [
+          {
+            "text": "Được trồng như điểm nhấn điêu khắc với thân zigzag trong vườn sa mạc, luống sỏi, vườn đá và chậu lớn."
+          },
+          {
+            "text": "Những bông hoa đỏ hình dép giàu mật thu hút chim ruồi và các loài thụ phấn khác."
+          },
+          {
+            "text": "Nhựa trắng đục từng được dùng trong y học cổ truyền ở tây bắc Mexico, nhưng gây kích ứng và không nên tự dùng tại nhà."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Kiên cường",
+            "description": "Khả năng giữ màu xanh và nở hoa trong môi trường sa mạc nóng bỏng, khô hạn khiến nó trở thành biểu tượng của sự bền bỉ."
+          }
+        ],
+        "toxicity": {
+          "headline": "Con người mức trung bình · Thú cưng mức trung bình",
+          "active_compound_display": "este diterpen",
+          "notes_en": "Nhựa trắng đục gây kích ứng da, mắt và miệng.",
+          "human": {
+            "exposure": "Chạm vào nhựa và thân; ăn nhựa và thân.",
+            "effect": "Kích ứng da và mắt do nhựa trắng đục, và kích ứng miệng và dạ dày nếu ăn phải.",
+            "note": "Nhựa trắng đục gây kích ứng da, mắt và miệng.",
+            "symptoms": [
+              "Kích ứng da và mắt do nhựa trắng đục.",
+              "Kích ứng miệng và dạ dày nếu ăn phải."
+            ]
+          },
+          "dog": {
+            "exposure": "Chạm vào nhựa và thân; ăn nhựa và thân.",
+            "effect": "Chảy nước dãi, nôn mửa và kích ứng da.",
+            "note": "Nhựa trắng đục gây kích ứng da, mắt và miệng.",
+            "symptoms": [
+              "Chảy nước dãi.",
+              "Nôn mửa.",
+              "Kích ứng da."
+            ]
+          },
+          "cat": {
+            "exposure": "Chạm vào nhựa và thân; ăn nhựa và thân.",
+            "effect": "Chảy nước dãi, nôn mửa và kích ứng da.",
+            "note": "Nhựa trắng đục gây kích ứng da, mắt và miệng.",
+            "symptoms": [
+              "Chảy nước dãi.",
+              "Nôn mửa.",
+              "Kích ứng da."
+            ]
+          }
+        }
+      }
+    },
+    "AAA1690": {
+      "source_hash": "69831fdcd5e93c63ee85537591f6061d5a14e947bb9001937fca90e136e1cf23",
+      "fields": {
+        "common_name": "Roldana lá nhung",
+        "bloom_tip": "Mùa hoa kéo dài từ xuân đến hè, cho những bông hoa đẹp mắt.",
+        "description": "Roldana lá nhung, còn gọi là phong lữ California, là một loại cây bụi khỏe, tỏa rộng với những chiếc lá lớn, mềm, mịn như phớt, trông giống lá phong lữ hoặc lá bơ khổng lồ. Có nguồn gốc từ Mexico và Trung Mỹ, cây cao và rộng khoảng 3 đến 5 feet; vào cuối đông và mùa xuân, những chùm hoa phân nhánh cao vươn lên trên tán lá với vô số bông hoa nhỏ giống hoa cúc màu vàng óng. Cây ưa khí hậu ấm, không sương giá, nửa bóng râm và đất thoát nước tốt, là nguồn mật quý cho ong và bướm khi hầu như không còn loài nào khác nở hoa.",
+        "history_text_short": "Roldana lá nhung có nguồn gốc từ các khu rừng núi ở Mexico và Trung Mỹ. Các nhà thực vật học từng xếp nó vào chi Senecio, nhưng nay nó thuộc chi Roldana. Những người làm vườn ở vùng khí hậu ôn hòa như bờ biển California đã đón nhận nó như một cây bụi nở hoa mùa đông, với lá lớn mượt như nhung và hoa vàng óng nuôi dưỡng các loài thụ phấn sớm.",
+        "history_text_long": "Roldana lá nhung mọc hoang trong các khu rừng núi râm mát và ven khe núi ở Mexico và Trung Mỹ, nơi những chiếc lá lớn, mềm của nó đón ánh sáng lọc qua dưới tán cây cao hơn. Trong phần lớn lịch sử khoa học, nó được xếp vào chi Senecio khổng lồ, nhóm cúc thập tự, tên chi bắt nguồn từ tiếng Latin senex, nghĩa là “ông già”, ám chỉ những mào hạt màu trắng và xốp. Các nghiên cứu sau này cho thấy một nhóm cây bụi ở Mexico và Trung Mỹ khác biệt đủ nhiều so với Senecio thật sự để được công nhận riêng, và chúng được xếp vào chi Roldana, một cái tên do nhà tự nhiên học người Mexico Pablo de La Llave đặt vào đầu thế kỷ 19. Tên loài petasitis chỉ sự giống nhau giữa những chiếc lá rộng, tròn của nó với lá của các loài thuộc chi Petasites, vốn nổi tiếng vì tán lá khổng lồ. Ngoài quê hương, Roldana lá nhung tìm được chỗ đứng trong những khu vườn có mùa đông ôn hòa, không sương giá, đặc biệt là ở bờ biển California, nơi nó có biệt danh “phong lữ California” vì lá giống lá phong lữ. Người làm vườn quý loài cây này vì nó nở hoa khi hầu hết cây bụi đang nghỉ: từ cuối đông đến xuân, những chùm hoa cúc nhỏ vàng óng phân nhánh cao vươn lên trên tán lá và thu hút ong, bướm vào mùa mật hoa khan hiếm. Cây ưa nửa bóng râm, chịu được nhiều loại đất thoát nước tốt và có thể cắt tỉa mạnh sau khi ra hoa để giữ dáng gọn gàng. Giống như nhiều thành viên trong nhóm cúc thập tự, mô của nó chứa alkaloid pyrrolizidine, đây là một lý do không nên để gia súc hay thú cưng gặm nhấm nó.",
+        "name_origin": "Tên chi Roldana do nhà tự nhiên học người Mexico Pablo de La Llave đặt vào đầu thế kỷ 19, còn tên loài petasitis chỉ sự giống nhau giữa những chiếc lá lớn, tròn của nó với lá của chi Petasites. Tên thông thường “lá nhung” mô tả những chiếc lá mềm như phớt và việc trước đây nó thuộc chi Senecio.",
+        "symbolism_story": "Vì Roldana lá nhung thắp sáng khu vườn bằng những bông hoa vàng óng trong những tháng yên ắng cuối đông, nên người làm vườn xem nó là biểu tượng của sự tươi vui, nhắc rằng màu sắc và sự sống sẽ trở lại ngay cả khi mùa dường như ảm đạm.",
+        "flower_meaning": "Tươi vui",
+        "uses_list": [
+          {
+            "text": "Được trồng làm cây bụi nổi bật nhờ tán lá và hoa mùa đông, cho luống hoa râm mát, sân hiên và khu vườn kiểu rừng ở vùng khí hậu ôn hòa."
+          },
+          {
+            "text": "Những chùm hoa cúc vàng óng cung cấp mật cho ong và bướm vào cuối đông và đầu xuân, khi hiếm loài nào khác nở hoa."
+          },
+          {
+            "text": "Tạo nơi trú ẩn rậm rạp, nhiều lá và nguồn thức ăn sớm trong những khu vườn thân thiện với động vật hoang dã."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Tươi vui",
+            "description": "Hoa vàng óng của nó xuất hiện giữa mùa đông, nên người làm vườn xem đó là dấu hiệu của sự tươi sáng và hy vọng trong mùa yên ắng."
+          }
+        ],
+        "toxicity": {
+          "headline": "Chưa rõ độc tính",
+          "active_compound_display": "Chưa ghi nhận",
+          "notes_en": "Không tìm thấy nguồn đáng tin cậy về độc tính; được xem là chưa ghi nhận (ước tính của LLM chưa được kiểm chứng bằng nguồn).",
+          "human": {
+            "exposure": "Chưa ghi nhận đường tiếp xúc nào.",
+            "effect": "Chưa ghi nhận tác động độc hại nào.",
+            "note": "Độc tính đối với con người chưa được ghi chép đầy đủ; hãy thận trọng cho đến khi được xác minh."
+          },
+          "dog": {
+            "exposure": "Chưa ghi nhận đường tiếp xúc nào.",
+            "effect": "Chưa ghi nhận tác động độc hại nào.",
+            "note": "Độc tính đối với chó chưa được ghi chép đầy đủ; hãy thận trọng cho đến khi được xác minh."
+          },
+          "cat": {
+            "exposure": "Chưa ghi nhận đường tiếp xúc nào.",
+            "effect": "Chưa ghi nhận tác động độc hại nào.",
+            "note": "Độc tính đối với mèo chưa được ghi chép đầy đủ; hãy thận trọng cho đến khi được xác minh."
+          }
+        }
+      }
+    },
+    "AAA1692": {
+      "source_hash": "63d963ad3dd1f30dc24228d8abb02364de496320954da60735e63e28008638f5",
+      "fields": {
+        "common_name": "Mộc tê Delavay",
+        "bloom_tip": "Những chùm hoa trắng thơm nở vào mùa xuân, thường từ tháng 3 đến tháng 5.",
+        "fruit_tip": "Quả nhỏ màu xanh đen chín vào cuối hè và mùa thu, nhưng không phải điểm trang trí chính.",
+        "description": "Mộc tê Delavay (Osmanthus delavayi) là cây bụi thường xanh nhỏ gọn, sinh trưởng chậm, có nguồn gốc từ vùng núi Tây Nam Trung Quốc. Những chiếc lá nhỏ bóng, có răng cưa tạo thành một bụi dày, cong nhẹ, xanh đậm. Vào mùa xuân, cây phủ đầy những chùm hoa trắng hình ống, hương ngọt như hoa nhài lan khắp vườn vào những ngày ấm. Sang hè và thu, cây kết những quả nhỏ màu xanh đen. Cây chịu lạnh ở vùng 7 đến 9, phát triển tốt dưới nắng hoặc bán râm, trong đất ẩm và thoát nước tốt, chịu cắt tỉa tốt nên phù hợp làm hàng rào, luống hoa hỗn hợp, sân hiên và chậu lớn. Khi đã bén rễ, cây gần như chỉ cần tỉa nhẹ đôi lần sau mùa hoa.",
+        "history_text_short": "Có nguồn gốc từ vùng núi Tây Nam Trung Quốc, mộc tê Delavay được mô tả năm 1889 từ các mẫu vật do cha Jean Marie Delavay, nhà truyền giáo người Pháp, thu thập ở Vân Nam. Được đưa vào các khu vườn châu Âu ngay sau đó, cây được yêu thích nhờ tán lá thường xanh bóng và hoa trắng mùa xuân thơm đậm.",
+        "history_text_long": "Mộc tê Delavay mang tên cha Jean Marie Delavay, nhà truyền giáo kiêm nhà săn cây người Pháp, người đã khám phá vùng núi Vân Nam ở Tây Nam Trung Quốc trong những năm 1880 và 1890. Từ căn cứ gần Đại Lý, ông gửi hàng chục nghìn mẫu vật ép khô và hàng nghìn gói hạt giống về Bảo tàng Lịch sử Tự nhiên Quốc gia ở Paris. Trong số đó có một cây bụi thường xanh nhỏ với hoa trắng hình ống, hương rất thơm, mà nhà thực vật học Adrien Franchet mô tả là loài mới năm 1889 và đặt tên để tôn vinh Delavay.\n\nHạt giống từ các chuyến thám hiểm này nhanh chóng đến các vườn ươm châu Âu, và mộc tê Delavay được đưa vào trồng ở Pháp rồi đến Anh vào khoảng đầu thế kỷ XX. Người làm vườn quý dáng cây gọn gàng, lá bóng và hương thơm phong phú của hoa xuân, nở vào lúc ít cây bụi thường xanh khác ra hoa. Khả năng chịu cắt tỉa khiến nó thành lựa chọn ưa chuộng cho hàng rào cắt xén và tạo hình ở các khu vườn có mùa đông ôn hòa, và ở Anh, sau này cây được Hội Làm vườn Hoàng gia trao Giải Award of Garden Merit. Ở quê hương, cây mọc hoang trên các sườn núi có rừng và đồi cây bụi, và vẫn là một trong những cách đáng tin cậy nhất để mang hương thơm của họ mộc tê vào những khu vườn không hợp với loài mộc tê thơm nổi tiếng nở vào mùa thu.",
+        "name_origin": "Tên chi Osmanthus bắt nguồn từ tiếng Hy Lạp osme, “hương thơm”, và anthos, “hoa”, nói về những bông hoa thơm. Tính từ chỉ loài delavayi tôn vinh cha Jean Marie Delavay, nhà truyền giáo người Pháp đã thu thập mẫu chuẩn ở Vân Nam.",
+        "symbolism_story": "Được đặt theo tên một nhà săn cây đã vượt những dãy núi xa xôi để tìm ra nó, mộc tê Delavay tượng trưng cho sự khám phá. Hương của nó lan xa hơn cả bụi cây, một sự hào phóng lặng lẽ, còn lá thường xanh nói về lòng kiên trì qua mọi mùa.",
+        "flower_meaning": "Khám phá",
+        "fragrance": {
+          "notes": "Hương hoa ngọt như hoa nhài, thoảng chút trái chín"
+        },
+        "uses_list": [
+          {
+            "text": "Ướp thơm khu vườn mùa xuân bằng hoa ngọt ngào"
+          },
+          {
+            "text": "Cây bụi thường xanh gọn gàng cho hàng rào, luống hoa và chậu"
+          },
+          {
+            "text": "Hoa xuân cung cấp mật cho ong và bướm đầu mùa"
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Khám phá",
+            "description": "niềm vui tìm thấy vẻ đẹp nơi núi xa"
+          },
+          {
+            "keyword": "Hương thơm",
+            "description": "vị ngọt hào phóng lưu lại trong không khí"
+          },
+          {
+            "keyword": "Kiên trì",
+            "description": "lá thường xanh luôn tươi sáng qua mọi mùa"
+          }
+        ],
+        "toxicity": {
+          "headline": "Chưa ghi nhận độc tính",
+          "active_compound_display": "Chưa ghi nhận",
+          "notes_en": "Không tìm thấy dữ liệu độc tính trong các nguồn uy tín nên được xem là chưa ghi nhận (ước tính của AI chưa được kiểm chứng bằng nguồn).",
+          "human": {
+            "exposure": "Chưa ghi nhận đường phơi nhiễm nào.",
+            "effect": "Chưa ghi nhận tác động độc hại nào.",
+            "note": "Danh mục này chưa ghi nhận độc tính đối với con người; điều đó không có nghĩa là cây ăn được hay vô hại."
+          },
+          "dog": {
+            "exposure": "Chưa ghi nhận đường phơi nhiễm nào.",
+            "effect": "Chưa ghi nhận tác động độc hại nào.",
+            "note": "Danh mục này chưa ghi nhận độc tính đối với chó; điều đó không có nghĩa là cây ăn được hay vô hại."
+          },
+          "cat": {
+            "exposure": "Chưa ghi nhận đường phơi nhiễm nào.",
+            "effect": "Chưa ghi nhận tác động độc hại nào.",
+            "note": "Danh mục này chưa ghi nhận độc tính đối với mèo; điều đó không có nghĩa là cây ăn được hay vô hại."
+          }
+        }
+      }
+    },
+    "AAA1693": {
+      "source_hash": "34b706fba0d75da285e0a27b437367af21a515da98bdd025444ba8acfc3e40fb",
+      "fields": {
+        "common_name": "Mộc tê cam",
+        "bloom_tip": "Những chùm hoa màu cam đậm, hương rất thơm nở dày từ tháng 9 đến tháng 10, đôi khi đến tháng 12.",
+        "fruit_tip": "Quả nhỏ màu tím đen chín vào mùa xuân năm sau khi ra hoa, nhưng hiếm khi kết quả khi trồng.",
+        "description": "Mộc tê cam (Osmanthus fragrans f. aurantiacus), ở Trung Quốc gọi là đan quế (dan gui), là dạng có màu đậm nhất của mộc tê thơm, một cây bụi hoặc cây gỗ nhỏ thường xanh, đầu thu ra những chùm hoa nhỏ dày đặc màu cam đậm đến vàng ánh đỏ. Hương mơ và đào của hoa lan đi rất xa, là một trong những hương vườn được yêu thích nhất ở Đông Á. Lá xanh đậm, dày như da giữ cho cây đẹp quanh năm, và cây chịu tỉa tốt nên có thể trồng làm cây đơn lẻ, cây chắn hay hàng rào. Cây phát triển tốt nhất dưới nắng đầy đủ đến bán râm, trong đất màu mỡ, thoát nước tốt, chịu lạnh ở vùng 7 đến 9 và hợp với chậu lớn cạnh sân hiên hoặc lối vào để thưởng thức hương thơm.",
+        "history_text_short": "Mộc tê thơm đã được trồng ở Trung Quốc hơn 2.000 năm, và dạng hoa cam, đan quế, là một trong những giống được quý nhất. Gắn với Tết Trung thu, thi ca và việc đỗ đạt trong khoa cử, hoa thơm mùi mơ được dùng ướp trà, nấu rượu và làm bánh kẹo.",
+        "history_text_long": "Mộc tê thơm, Osmanthus fragrans, đã được trồng ở Trung Quốc hơn hai nghìn năm, và dạng hoa cam gọi là đan quế (“quế son”) là một trong bốn nhóm cây cảnh cổ điển, bên cạnh nhóm ngân quế, kim quế và tứ quý quế. Hoa cam đậm của nó rực rỡ nhất và nhiều người cho là thơm nồng nhất. Trong truyền thống Trung Hoa, cây được gọi là quế, xuất hiện trong thơ từ thời Đường, Tống, nơi hương thơm của nó báo hiệu mùa thu và trăng rằm Tết Trung thu. Truyền thuyết nổi tiếng kể về Ngô Cương, bị phạt đời đời chặt cây quế trên cung trăng, và thành ngữ Trung Hoa “bẻ cành quế” dần mang nghĩa đỗ đạt xuất sắc trong khoa cử. Thành phố Quế Lâm, “rừng quế”, lấy tên từ những hàng cây dọc các con phố.\n\nNgoài vườn, hoa còn được quý trong bếp và quán trà. Hoa được phơi khô để hãm trà, ngâm đường hoặc mật ong, cho vào bánh, thạch, bánh trôi gạo nếp và ủ thành rượu quế hoa, thức uống truyền thống của dịp Trung thu. Loài này đến với các nhà thực vật học phương Tây vào thế kỷ XVIII, và Carl Peter Thunberg mô tả năm 1784 từ mẫu vật ở Nhật Bản. Ngày nay mộc tê cam được trồng trong vườn, sân và chùa chiền khắp Đông Á và trong các khu vườn có mùa đông ôn hòa trên khắp thế giới.",
+        "name_origin": "Osmanthus ghép từ tiếng Hy Lạp osme, “hương thơm”, và anthos, “hoa”. Tính từ chỉ loài fragrans trong tiếng Latin nghĩa là “thơm”, còn tên dạng aurantiacus nghĩa là “màu cam”, chỉ những bông hoa cam đậm.",
+        "symbolism_story": "Trong văn hóa Trung Hoa, mộc tê tượng trưng cho danh dự và thành công, bắt nguồn từ hình ảnh sĩ tử “bẻ cành quế” để đỗ khoa cử. Hương của nó lan tỏa vào Tết Trung thu, khi gia đình sum họp dưới trăng rằm, và vị ngọt lưu luyến từ lâu là biểu tượng của may mắn.",
+        "flower_meaning": "Danh dự",
+        "fragrance": {
+          "notes": "Hương mơ và đào đậm đà, ngọt ấm như mật"
+        },
+        "uses_list": [
+          {
+            "text": "Ướp hương cho vườn và sân vào đầu thu"
+          },
+          {
+            "text": "Hoa khô dùng ướp trà, nấu rượu, làm bánh và đồ ngọt"
+          },
+          {
+            "text": "Cây thường xanh trồng đơn, chắn gió hoặc hàng rào với hoa cam rực rỡ"
+          },
+          {
+            "text": "Hoa mùa thu nuôi ong và bướm vào cuối năm"
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Danh dự",
+            "description": "thành công và vinh quang, như thành ngữ “bẻ cành quế”"
+          },
+          {
+            "keyword": "Đoàn viên",
+            "description": "gia đình sum họp dưới trăng Trung thu"
+          },
+          {
+            "keyword": "Hương thơm",
+            "description": "vị ngọt còn đọng mãi sau khi hoa rụng"
+          }
+        ],
+        "toxicity": {
+          "headline": "Chưa ghi nhận độc tính",
+          "active_compound_display": "Chưa ghi nhận",
+          "notes_en": "Không tìm thấy dữ liệu độc tính trong các nguồn uy tín nên được xem là chưa ghi nhận (ước tính của AI chưa được kiểm chứng bằng nguồn).",
+          "human": {
+            "exposure": "Chưa ghi nhận đường phơi nhiễm nào.",
+            "effect": "Chưa ghi nhận tác động độc hại nào.",
+            "note": "Danh mục này chưa ghi nhận độc tính đối với con người; điều đó không có nghĩa là cây ăn được hay vô hại."
+          },
+          "dog": {
+            "exposure": "Chưa ghi nhận đường phơi nhiễm nào.",
+            "effect": "Chưa ghi nhận tác động độc hại nào.",
+            "note": "Danh mục này chưa ghi nhận độc tính đối với chó; điều đó không có nghĩa là cây ăn được hay vô hại."
+          },
+          "cat": {
+            "exposure": "Chưa ghi nhận đường phơi nhiễm nào.",
+            "effect": "Chưa ghi nhận tác động độc hại nào.",
+            "note": "Danh mục này chưa ghi nhận độc tính đối với mèo; điều đó không có nghĩa là cây ăn được hay vô hại."
           }
         }
       }

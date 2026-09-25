@@ -3,8 +3,8 @@
   "locale": "it",
   "source": {
     "resource": "plants_detail.json",
-    "sha256": "eb668be162b159a483537ff3fbbba1e9517dd88ae1a14bcaf932ed873bbd6488",
-    "record_count": 1684
+    "sha256": "c5a9a18cd7a593f78e915ea9f46df99014172cc80a22740ebab90c38b42f3615",
+    "record_count": 1692
   },
   "records": {
     "AAA0001": {
@@ -103212,6 +103212,419 @@
             "exposure": "Nessuna via di esposizione segnalata.",
             "effect": "Nessun effetto tossico segnalato.",
             "note": "Nessuna tossicità è segnalata per i gatti in questo catalogo; questo non è una prova che la pianta sia commestibile o innocua."
+          }
+        }
+      }
+    },
+    "AAA1686": {
+      "source_hash": "805af48f78a691f0b9df26aa44a218172a2dc1f103d0dbcf91a75a04b455b7c8",
+      "fields": {
+        "common_name": "Brugo",
+        "bloom_tip": "Questa pianta fiorisce da fine estate a inizio autunno e attira molte api.",
+        "description": "Il brugo è un arbusto basso e sempreverde dai fusti sottili ed eretti, rivestiti da minuscole foglie a scaglia che restano verdi anche in inverno. Da fine estate all'autunno si ricopre di spighe di piccoli fiori a campanella rosa, viola o bianchi, che le api adorano. Alto da 15 a 45 cm e largo fino a 90 cm, forma cuscini compatti adatti a giardini rocciosi, bordure, scarpate e vasi. Prospera in pieno sole e in terreno acido e ben drenato, tollera suoli poveri, siccità e freddo e richiede solo una leggera potatura dopo la fioritura.",
+        "history_text_short": "Il brugo ricopre da millenni le brughiere e le lande d'Europa. Serviva per i tetti di paglia, i giacigli, le scope, le tinture e il miele, e in Scozia un rametto di brugo bianco divenne un portafortuna. Il nome del genere, Calluna, di origine greca, significa «spazzare» o «spazzolare».",
+        "history_text_long": "Il brugo è una delle grandi piante della brughiera aperta. I suoi fusti sottili si stendono su lande e altopiani d'Europa e oltre, e dove cresce modella interi paesaggi, dalle colline viola delle Highlands scozzesi alle brughiere battute dal vento della Scandinavia. Per migliaia di anni le popolazioni di queste regioni hanno vissuto accanto a lui, trovando un uso per quasi ogni sua parte. Fasci di rami venivano legati a formare scope, da cui il nome del genere, Calluna, dal greco kallyno, «spazzare» o «pulire». I fusti più spessi coprivano i tetti dei cottage, si intrecciavano in ceste e corde o si mettevano sotto i lenzuoli come giaciglio, mentre le cime fiorite davano tinture gialle e arancioni per la lana. Gli apicoltori portavano le arnie sulla brughiera a fine estate perché le api raccogliessero il miele di brugo, scuro e aromatico, e in Scozia il brugo aromatizzava anche la birra molto prima che il luppolo si diffondesse. Nel folklore scozzese il brugo bianco, una rara varietà naturale, portava fortuna e protezione, e ancora oggi se ne regalano rametti a spose e viaggiatori. Nell'Ottocento l'amore della regina Vittoria per le Highlands rese il brugo di moda ben oltre la sua terra d'origine. Da allora i giardinieri hanno selezionato centinaia di cultivar con fiori rosa, viola e bianchi e fogliame dorato, argenteo, arancione e rosso. Oggi il brugo è piantato in giardini rocciosi, bordure e vasi, e resta un'importante fonte di cibo per le api e la fauna della brughiera.",
+        "name_origin": "Il nome del genere Calluna deriva dal greco kallyno, «spazzare» o «pulire», perché i suoi rametti rigidi venivano legati a formare scope. L'epiteto vulgaris significa «comune» in latino, dato che la pianta è diffusissima su lande e brughiere. Il nome italiano brugo indica la pianta tipica delle brughiere.",
+        "symbolism_story": "In Scozia un rametto di brugo bianco è un amato portafortuna, portato da spose e viaggiatori per protezione e felicità. La tenacia del brugo sulle brughiere aperte e ventose ne ha fatto anche un simbolo di solitudine e di silenziosa resistenza.",
+        "flower_meaning": "Buona fortuna",
+        "fragrance": {
+          "notes": "Un leggero profumo di miele"
+        },
+        "uses_list": [
+          {
+            "text": "Piantato per il colore di fine estate e autunno in giardini rocciosi, bordure, scarpate, aiuole di eriche e vasi."
+          },
+          {
+            "text": "I suoi fiori ricchi di nettare nutrono le api e danno il miele di brugo, scuro e dal sapore intenso."
+          },
+          {
+            "text": "Tradizionalmente legato in scope e usato per tetti, giacigli, ceste e tinture giallo-arancio per la lana."
+          },
+          {
+            "text": "I cespugli fitti offrono riparo a insetti e piccoli uccelli terricoli, e i giovani germogli nutrono galli forcelli e cervi della brughiera."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Buona fortuna",
+            "description": "Il brugo bianco è un tradizionale portafortuna e amuleto protettivo scozzese, spesso regalato a spose e viaggiatori."
+          },
+          {
+            "keyword": "Solitudine",
+            "description": "La sua selvaggia dimora battuta dal vento lo ha da sempre legato alla solitudine e alla silenziosa resistenza."
+          }
+        ],
+        "toxicity": {
+          "headline": "Nessuna tossicità segnalata",
+          "active_compound_display": "Nessuno segnalato",
+          "notes_en": "Nessuna fonte autorevole sulla tossicità trovata; trattata come non segnalata (la stima del LLM non è verificata da fonti).",
+          "human": {
+            "exposure": "Nessuna via di esposizione segnalata.",
+            "effect": "Nessun effetto tossico segnalato.",
+            "note": "In questo catalogo non è segnalata tossicità per l'uomo; ciò non dimostra che la pianta sia commestibile o innocua."
+          },
+          "dog": {
+            "exposure": "Nessuna via di esposizione segnalata.",
+            "effect": "Nessun effetto tossico segnalato.",
+            "note": "In questo catalogo non è segnalata tossicità per il cane; ciò non dimostra che la pianta sia commestibile o innocua."
+          },
+          "cat": {
+            "exposure": "Nessuna via di esposizione segnalata.",
+            "effect": "Nessun effetto tossico segnalato.",
+            "note": "In questo catalogo non è segnalata tossicità per il gatto; ciò non dimostra che la pianta sia commestibile o innocua."
+          }
+        }
+      }
+    },
+    "AAA1687": {
+      "source_hash": "3283afbf3885f9e38bd7391e9e751ba3118808bfb1254b6943e74b6851e86fc3",
+      "fields": {
+        "common_name": "Gramigna",
+        "description": "La gramigna (Cynodon dactylon) è un'erba da prato a stagione calda e a tessitura fine, che si diffonde con stoloni striscianti e rizomi sotterranei, formando un tappeto fitto e resistente alto pochi centimetri. Le foglie strette, verde-azzurre, prosperano al sole pieno e con il caldo, e le radici profonde sopportano siccità che farebbero ingiallire la maggior parte dei tappeti erbosi. Si riprende in fretta dal calpestio, ed è per questo che ricopre campi sportivi, fairway da golf e giardini soleggiati nei climi caldi. Dopo il gelo diventa color paglia ed entra in riposo, poi rinverdisce con la primavera. In estate compaiono piccole spighe a forma di dita; il suo vigore richiede un bordo vicino alle aiuole.",
+        "history_text_short": "Nonostante il nome inglese, la gramigna proviene probabilmente da Africa e Asia, non dalle Bermuda. Trasportata su navi e nel foraggio del bestiame, raggiunse le Americhe nel Settecento e fu presto piantata come pascolo. Oggi i suoi tenaci stoloni tengono insieme prati, campi da golf e stadi nel mondo caldo.",
+        "history_text_long": "La gramigna è una delle erbe che più hanno viaggiato sulla Terra. Il suo areale d'origine è di solito collocato in Africa, Asia meridionale e parti dell'Australia, ma la pianta viene spostata da così tanto tempo che la sua origine esatta è difficile da stabilire. Il nome inglese, Bermuda grass, rimanda alle Bermuda, uno dei molti luoghi caldi in cui si è insediata; chi ha provato a estirparla da un'aiuola la chiama anche erba del diavolo o erba di filo di ferro.\n\nSi è diffusa con i commerci umani. Semi e pezzi di stelo viaggiavano nella zavorra delle navi e nel foraggio degli animali, e nel Settecento era già radicata nel Sud degli Stati Uniti, dove gli agricoltori la apprezzavano come pascolo e come copertura che tratteneva il suolo dei pendii erosi. I suoi stoloni mettono radici ovunque un nodo tocchi il terreno, così un piccolo frammento può fondare un'intera colonia.\n\nNel Novecento i selezionatori trasformarono questa rude colonizzatrice in una coltura da tappeto erboso. Cultivar ibride migliorate, con foglie più fini e crescita più fitta, divennero lo standard per fairway, green e campi sportivi delle regioni calde, perché la pianta tollera l'usura intensa, il taglio molto basso e i lunghi periodi asciutti. Ha un posto anche nella medicina tradizionale dell'Asia meridionale, dove è nota come durva o erba doob e viene usata nelle offerte rituali indù, in particolare nel culto di Ganesha, come simbolo di resilienza e rinnovamento.\n\nOggi la gramigna è allo stesso tempo apprezzata e osteggiata: un prato affidabile per i giardinieri dei climi caldi e un'erbaccia ostinata per chi vuole tenerla fuori dall'aiuola.",
+        "name_origin": "Il nome del genere, Cynodon, deriva dal greco «kyon» (cane) e «odous» (dente), con riferimento alle squame appuntite, simili a denti, dei suoi steli. L'epiteto dactylon significa «dito» in greco e descrive le spighe aperte a forma di dita. Il nome inglese rimanda alle Bermuda, sebbene la pianta non sia originaria di quelle isole.",
+        "symbolism_story": "In India la gramigna (durva) viene offerta a Ganesha come simbolo di lunga vita e rinnovamento, perché ricresce dalle radici per quante volte la si tagli. Questa stessa tenacia ne fa un discreto emblema di resilienza ovunque cresca.",
+        "flower_meaning": "Resilienza",
+        "uses_list": [
+          {
+            "text": "Prato fitto e resistente per giardini soleggiati, parchi e campi sportivi"
+          },
+          {
+            "text": "Usata nella medicina tradizionale e nelle offerte rituali dell'Asia meridionale, dove si chiama durva"
+          },
+          {
+            "text": "Pascolo e fieno per il bestiame, e copertura che trattiene il suolo sui pendii"
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Resilienza",
+            "description": "Sopravvive a siccità, calpestio e tagli bassi, poi ricresce"
+          },
+          {
+            "keyword": "Rinnovamento",
+            "description": "Il rapido rinverdire in primavera dopo il riposo invernale"
+          },
+          {
+            "keyword": "Devozione",
+            "description": "Offerta nel culto rituale indù come segno di riverenza"
+          }
+        ],
+        "toxicity": {
+          "headline": "Nessuna tossicità segnalata",
+          "active_compound_display": "Nessuno segnalato",
+          "notes_en": "Nessuna fonte autorevole sulla tossicità trovata; trattata come non segnalata (la stima dell'LLM non è verificata da fonti).",
+          "human": {
+            "exposure": "Nessuna via di esposizione segnalata.",
+            "effect": "Nessun effetto tossico segnalato.",
+            "note": "In questo catalogo non è segnalata tossicità per gli esseri umani; ciò non prova che la pianta sia commestibile o innocua."
+          },
+          "dog": {
+            "exposure": "Nessuna via di esposizione segnalata.",
+            "effect": "Nessun effetto tossico segnalato.",
+            "note": "In questo catalogo non è segnalata tossicità per i cani; ciò non prova che la pianta sia commestibile o innocua."
+          },
+          "cat": {
+            "exposure": "Nessuna via di esposizione segnalata.",
+            "effect": "Nessun effetto tossico segnalato.",
+            "note": "In questo catalogo non è segnalata tossicità per i gatti; ciò non prova che la pianta sia commestibile o innocua."
+          }
+        }
+      }
+    },
+    "AAA1688": {
+      "source_hash": "f1ec7c8b5c3d44cfed062086b9e997166e8dcdcc7e4a850ff3e94e971af2963f",
+      "fields": {
+        "common_name": "Erica di Darley Dale",
+        "bloom_tip": "Questa pianta fiorisce dalla fine dell'inverno all'inizio dell'estate, producendo fiori molto belli.",
+        "fruit_tip": "I frutti compaiono in estate; pur poco appariscenti, sono cibo per gli uccelli.",
+        "description": "L'erica di Darley Dale è un arbusto sempreverde basso e a cuscino, coperto da un fitto fogliame aghiforme che va dal verde brillante all'oro o al bronzo a seconda della cultivar. È un'erica ibrida che fiorisce abbondantemente nei mesi freddi, dalla fine dell'inverno all'inizio dell'estate, con fitte spighe di piccoli fiori a forma d'urna bianchi, rosa o rosa-viola. Alta circa 2 piedi e larga fino a 3, è robusta, facile e tollera il calcare meglio della maggior parte delle eriche, il che ne fa una favorita per il colore invernale, i giardini rocciosi e la copertura del suolo, con le api che vi accorrono numerose.",
+        "history_text_short": "L'erica di Darley Dale è un ibrido da giardino tra due specie di erica, notato per la prima volta come piantina spontanea in un vivaio di Darley Dale, nel Derbyshire, in Inghilterra, intorno al 1900. La capacità di fiorire con il gelo invernale e di tollerare un po' di calcare nel terreno ne ha fatto presto una delle eriche più piantate nei giardini.",
+        "history_text_long": "L'erica di Darley Dale non è una pianta selvatica ma un ibrido da giardino, nato dall'incrocio di due specie di erica: l'Erica carnea delle Alpi, a fioritura invernale, e la più alta Erica erigena, un tempo nota come Erica mediterranea, dell'Europa sud-occidentale. Le due si incontrano di rado in natura, così l'incrocio è comparso per la prima volta in coltivazione, dove le loro piantine crescevano fianco a fianco. Le prime piante note sono nate intorno al 1900 come piantina spontanea in un vivaio di Darley Dale, un villaggio del Derbyshire, in Inghilterra, e l'ibrido ha preso il nome da quel luogo. I giardinieri scoprirono presto che univa il meglio dei due genitori: il portamento compatto e la ricca fioritura invernale dell'erica alpina, e il maggiore vigore e le dimensioni di quella meridionale. A differenza della maggior parte delle eriche, che richiedono terreni rigorosamente acidi, tollera una moderata quantità di calcare, per cui poteva essere coltivata in molti più giardini. La lunga stagione di piccoli fiori a forma d'urna, all'incirca da febbraio all'inizio dell'estate, ha dato ad apicoltori e giardinieri una fonte precoce e affidabile di nettare e una gradita esplosione di colore quando quasi nient'altro fiorisce. Nell'ultimo secolo i vivaisti hanno selezionato molte cultivar in tonalità di bianco, rosa e magenta, alcune con nuova vegetazione bronzea, dorata o crema. Oggi l'ibrido è piantato in contenitori invernali, giardini rocciosi, aiuole di eriche e come tappezzante bassa nei giardini di tutta Europa e Nord America.",
+        "name_origin": "Il nome del genere Erica deriva dal greco ereike, un antico nome dell'erica, e l'epiteto darleyensis si riferisce a Darley Dale, nel Derbyshire, in Inghilterra, dove questo ibrido è comparso per la prima volta in coltivazione. La × nel nome indica un ibrido tra Erica carnea ed Erica erigena.",
+        "symbolism_story": "Le eriche hanno da sempre rappresentato la solitudine e la resistenza, e l'erica di Darley Dale si adatta bene a quest'idea: fiorisce con coraggio tra gelo e freddo quando gli altri arbusti sono spogli, un piccolo promemoria del fatto che la bellezza può prosperare nella stagione più dura.",
+        "flower_meaning": "Solitudine",
+        "fragrance": {
+          "notes": "Un profumo lieve, simile al miele"
+        },
+        "uses_list": [
+          {
+            "text": "Piantata per un colore duraturo in inverno e all'inizio della primavera in giardini rocciosi, aiuole di eriche, bordure e contenitori."
+          },
+          {
+            "text": "I suoi fiori ricchi di nettare offrono alle api una fonte di cibo precoce quando fioriscono poche altre piante."
+          },
+          {
+            "text": "I fitti cuscini sempreverdi offrono riparo alla piccola fauna del giardino e le capsule dei semi forniscono un po' di cibo agli uccelli."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Solitudine",
+            "description": "Le eriche sono da tempo legate a luoghi selvaggi e battuti dal vento, e questo robusto fiorifero rappresenta la silenziosa resistenza attraverso l'inverno."
+          }
+        ],
+        "toxicity": {
+          "headline": "Nessuna tossicità segnalata",
+          "active_compound_display": "Nessuno segnalato",
+          "notes_en": "Nessuna fonte autorevole sulla tossicità trovata; trattata come non segnalata (la stima del LLM non è verificata da fonti).",
+          "human": {
+            "exposure": "Nessuna via di esposizione segnalata.",
+            "effect": "Nessun effetto tossico segnalato.",
+            "note": "In questo catalogo non è segnalata tossicità per l'uomo; ciò non dimostra che la pianta sia commestibile o innocua."
+          },
+          "dog": {
+            "exposure": "Nessuna via di esposizione segnalata.",
+            "effect": "Nessun effetto tossico segnalato.",
+            "note": "In questo catalogo non è segnalata tossicità per il cane; ciò non dimostra che la pianta sia commestibile o innocua."
+          },
+          "cat": {
+            "exposure": "Nessuna via di esposizione segnalata.",
+            "effect": "Nessun effetto tossico segnalato.",
+            "note": "In questo catalogo non è segnalata tossicità per il gatto; ciò non dimostra che la pianta sia commestibile o innocua."
+          }
+        }
+      }
+    },
+    "AAA1689": {
+      "source_hash": "1ae8aa74ff550e67934d3184d9eee8ccfb692db1e22128d1e9cc7dd5a5fa3921",
+      "fields": {
+        "common_name": "Euforbia pantofola",
+        "bloom_tip": "Questa pianta fiorisce da fine estate a inizio autunno, con una ricca varietà di colori.",
+        "fruit_tip": "Le sue piccole capsule a tre lobi maturano in autunno e non sono commestibili; la pianta si coltiva per i fusti e i fiori rossi.",
+        "description": "L'euforbia pantofola è un robusto arbusto del deserto del Messico nordoccidentale, con fusti verdi eretti, a zigzag e spessi come una matita, che svolgono la fotosintesi mentre le piccole foglie vanno e vengono. Alle estremità dei fusti compaiono grappoli di minuscole brattee rosso-arancio a forma di pantofola che attirano i colibrì. Alta da 30 a 90 cm e larga circa 60 cm, prospera in pieno sole e in terreno sabbioso a drenaggio rapido, richiede pochissima acqua una volta ben radicata e si adatta a giardini rocciosi, giardini desertici e grandi vasi nei climi miti. Il suo lattice lattiginoso è irritante, quindi va maneggiata con cura.",
+        "history_text_short": "L'euforbia pantofola (Euphorbia lomelii) è originaria dei deserti di Sonora e della Baja California, dove cresce sui pendii rocciosi. Il suo lattice lattiginoso era usato nella medicina tradizionale, e i suoi fiori rossi a forma di pantofola sono da sempre i preferiti dei colibrì.",
+        "history_text_long": "L'euforbia pantofola cresce spontanea nel deserto di Sonora, nel Messico nordoccidentale, soprattutto in Sonora e Baja California, aggrappata ai pendii rocciosi e ai letti asciutti dei torrenti. Per generazioni la gente del luogo l'ha conosciuta bene. I suoi fusti sottili, cerosi e a zigzag immagazzinano acqua e restano verdi durante la stagione secca mentre la pianta perde le piccole foglie, un modo ingegnoso di sopravvivere per mesi senza pioggia. I fusti contengono un lattice lattiginoso che i guaritori tradizionali usavano con cautela per problemi della pelle, ferite e piaghe, ma lo stesso lattice può bruciare pelle e occhi, per cui è sempre stato maneggiato con rispetto. I botanici descrissero questa specie nell'Ottocento e a lungo fu collocata nel genere Pedilanthus, il cui nome deriva dalle parole greche per pantofola e fiore, perché ogni minuscolo fiore è avvolto da una brattea rossa a forma di barchetta che sembra una piccola scarpa. Ricerche successive hanno mostrato che Pedilanthus rientra nell'enorme genere Euphorbia, e la pianta ha assunto il nome attuale, nella stessa famiglia della stella di Natale e di molte succulente del deserto. In natura i fiori a forma di pantofola sono impollinati soprattutto dai colibrì, che restano sospesi in volo per raggiungere il nettare. Oggi i giardinieri delle regioni aride coltivano l'euforbia pantofola come spettacolare accento scultoreo che chiede quasi solo sole e drenaggio, in aiuole di ghiaia, giardini desertici e vasi.",
+        "name_origin": "Il nome del genere Euphorbia onora Euforbo, un medico greco dell'antica Mauretania che avrebbe usato a scopo medicinale una pianta di questo genere. L'epiteto lomelii onora una persona di nome Lomeli, e il nome italiano euforbia pantofola richiama le brattee rosse a forma di scarpa che avvolgono i minuscoli fiori.",
+        "symbolism_story": "L'euforbia pantofola prospera sui pendii rocciosi del deserto dove quasi nient'altro sopravvive, e fiorisce di un rosso vivo dopo mesi di siccità. Simboleggia la resilienza e la forza silenziosa nei luoghi difficili.",
+        "flower_meaning": "Resilienza",
+        "uses_list": [
+          {
+            "text": "Coltivata come accento scultoreo dai fusti a zigzag in giardini desertici, aiuole di ghiaia, giardini rocciosi e grandi vasi."
+          },
+          {
+            "text": "I suoi fiori rossi a forma di pantofola, ricchi di nettare, attirano colibrì e altri impollinatori."
+          },
+          {
+            "text": "Il suo lattice lattiginoso è stato usato nella medicina tradizionale del Messico nordoccidentale, ma è irritante e non va usato in casa."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Resilienza",
+            "description": "La sua capacità di restare verde e fiorire nel deserto rovente e arido ne fa un simbolo di resistenza."
+          }
+        ],
+        "toxicity": {
+          "headline": "Umani moderata · Animali domestici moderata",
+          "active_compound_display": "esteri diterpenici",
+          "notes_en": "Il lattice lattiginoso irrita pelle, occhi e bocca.",
+          "human": {
+            "exposure": "Contatto con linfa e fusti; ingestione di linfa e fusti.",
+            "effect": "Irritazione di pelle e occhi dovuta al lattice lattiginoso, e irritazione di bocca e stomaco se ingerito.",
+            "note": "Il lattice lattiginoso irrita pelle, occhi e bocca.",
+            "symptoms": [
+              "Irritazione di pelle e occhi dovuta al lattice lattiginoso.",
+              "Irritazione di bocca e stomaco se ingerito."
+            ]
+          },
+          "dog": {
+            "exposure": "Contatto con linfa e fusti; ingestione di linfa e fusti.",
+            "effect": "Salivazione, vomito e irritazione cutanea.",
+            "note": "Il lattice lattiginoso irrita pelle, occhi e bocca.",
+            "symptoms": [
+              "Salivazione.",
+              "Vomito.",
+              "Irritazione cutanea."
+            ]
+          },
+          "cat": {
+            "exposure": "Contatto con linfa e fusti; ingestione di linfa e fusti.",
+            "effect": "Salivazione, vomito e irritazione cutanea.",
+            "note": "Il lattice lattiginoso irrita pelle, occhi e bocca.",
+            "symptoms": [
+              "Salivazione.",
+              "Vomito.",
+              "Irritazione cutanea."
+            ]
+          }
+        }
+      }
+    },
+    "AAA1690": {
+      "source_hash": "69831fdcd5e93c63ee85537591f6061d5a14e947bb9001937fca90e136e1cf23",
+      "fields": {
+        "common_name": "Senecione vellutato",
+        "bloom_tip": "Il periodo di fioritura va dalla primavera all'estate, con fiori attraenti.",
+        "description": "Il senecione vellutato, detto anche geranio della California, è un arbusto vigoroso e espanso con grandi foglie morbide e feltrate, simili al fogliame gigante di un geranio o di un petasite. Originario del Messico e dell'America centrale, raggiunge 3-5 piedi di altezza e larghezza e, tra la fine dell'inverno e la primavera, innalza sopra le foglie alte pannocchie ramificate di piccoli fiori giallo dorato simili a margherite. Prospera nei climi caldi e privi di gelo, in mezz'ombra e in terreno ben drenato, ed è una preziosa fonte di nettare per api e farfalle quando quasi nient'altro fiorisce.",
+        "history_text_short": "Il senecione vellutato proviene dalle foreste montane del Messico e dell'America centrale. I botanici lo collocavano un tempo nel genere Senecio, ma oggi appartiene al genere Roldana. I giardinieri dei climi miti, come la costa californiana, lo hanno adottato come arbusto a fioritura invernale, con grandi foglie vellutate e fiori dorati che nutrono i primi impollinatori.",
+        "history_text_long": "Il senecione vellutato cresce spontaneo nelle ombrose foreste montane e ai margini dei burroni del Messico e dell'America centrale, dove le sue grandi foglie morbide catturano la luce filtrata sotto alberi più alti. Per gran parte della sua storia scientifica è stato inserito nell'enorme genere Senecio, i senecioni, il cui nome deriva dal latino senex, «vecchio», con riferimento ai pappi bianchi e soffici. Studi successivi hanno mostrato che un gruppo di arbusti messicani e centroamericani si distingueva abbastanza dal vero Senecio da essere riconosciuto a parte, e fu assegnato al genere Roldana, un nome coniato all'inizio dell'Ottocento dal naturalista messicano Pablo de La Llave. L'epiteto petasitis richiama la somiglianza tra le sue foglie larghe e rotonde e quelle dei petasiti (genere Petasites), famosi per il fogliame enorme. Fuori dalla sua terra d'origine, il senecione vellutato ha trovato casa nei giardini dagli inverni miti e senza gelo, soprattutto sulla costa californiana, dove ha ricevuto il soprannome di «geranio della California» per le foglie simili a quelle del geranio. I giardinieri lo apprezzano perché fiorisce quando la maggior parte degli arbusti riposa: dalla fine dell'inverno alla primavera, alte pannocchie ramificate di piccole margherite dorate si levano sopra il fogliame e attirano api e farfalle in una stagione in cui il nettare scarseggia. Preferisce la mezz'ombra, tollera diversi terreni ben drenati e può essere potato con decisione dopo la fioritura per mantenerlo ordinato. Come molti membri del gruppo dei senecioni, i suoi tessuti contengono alcaloidi pirrolizidinici, uno dei motivi per cui è meglio non lasciare che bestiame o animali domestici lo rosicchino.",
+        "name_origin": "Il nome del genere Roldana fu coniato all'inizio dell'Ottocento dal naturalista messicano Pablo de La Llave, mentre l'epiteto petasitis si riferisce alla somiglianza delle sue grandi foglie rotonde con quelle dei petasiti (Petasites). Il nome comune senecione vellutato descrive le foglie morbide e feltrate e la sua precedente appartenenza al genere Senecio.",
+        "symbolism_story": "Poiché il senecione vellutato illumina il giardino con fiori dorati nei mesi tranquilli della fine dell'inverno, i giardinieri lo considerano un simbolo di allegria, un promemoria del fatto che colore e vita tornano anche quando la stagione sembra spenta.",
+        "flower_meaning": "Allegria",
+        "uses_list": [
+          {
+            "text": "Coltivato come arbusto scenografico per il fogliame e la fioritura invernale in bordure ombreggiate, patii e giardini in stile sottobosco nei climi miti."
+          },
+          {
+            "text": "I suoi grappoli dorati di margherite offrono nettare ad api e farfalle tra la fine dell'inverno e l'inizio della primavera, quando fioriscono poche altre piante."
+          },
+          {
+            "text": "Offre un riparo fitto e frondoso e una fonte di cibo precoce nei giardini favorevoli alla fauna."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Allegria",
+            "description": "I suoi fiori dorati compaiono in pieno inverno, per cui i giardinieri li vedono come un segno di luminosità e speranza nella stagione tranquilla."
+          }
+        ],
+        "toxicity": {
+          "headline": "Tossicità sconosciuta",
+          "active_compound_display": "Nessuno segnalato",
+          "notes_en": "Nessuna fonte autorevole sulla tossicità trovata; trattata come non segnalata (la stima del LLM non è verificata da fonti).",
+          "human": {
+            "exposure": "Nessuna via di esposizione segnalata.",
+            "effect": "Nessun effetto tossico segnalato.",
+            "note": "La tossicità per l'uomo non è ben documentata; usare cautela fino a verifica."
+          },
+          "dog": {
+            "exposure": "Nessuna via di esposizione segnalata.",
+            "effect": "Nessun effetto tossico segnalato.",
+            "note": "La tossicità per il cane non è ben documentata; usare cautela fino a verifica."
+          },
+          "cat": {
+            "exposure": "Nessuna via di esposizione segnalata.",
+            "effect": "Nessun effetto tossico segnalato.",
+            "note": "La tossicità per il gatto non è ben documentata; usare cautela fino a verifica."
+          }
+        }
+      }
+    },
+    "AAA1692": {
+      "source_hash": "63d963ad3dd1f30dc24228d8abb02364de496320954da60735e63e28008638f5",
+      "fields": {
+        "common_name": "Osmanto di Delavay",
+        "bloom_tip": "Grappoli di fiori bianchi profumati si aprono in primavera, di solito da marzo a maggio.",
+        "fruit_tip": "Piccoli frutti blu-neri maturano a fine estate e in autunno, ma non sono un pregio ornamentale principale.",
+        "description": "L'osmanto di Delavay (Osmanthus delavayi) è un arbusto sempreverde compatto e a crescita lenta originario delle montagne della Cina sud-occidentale. Le foglie piccole, lucide e dentate formano un cespuglio denso e arcuato di un verde intenso. In primavera si copre di grappoli di fiori bianchi tubolari, il cui dolce profumo di gelsomino si diffonde nel giardino nelle giornate calde. In estate e in autunno seguono piccoli frutti blu-neri. Resistente nelle zone 7-9, cresce bene al sole o a mezz'ombra in terreno umido e ben drenato e sopporta bene la potatura: è adatto a siepi, bordure miste, patii e grandi vasi. Una volta affermato, richiede poche cure oltre a una potatura occasionale dopo la fioritura.",
+        "history_text_short": "Originario delle montagne della Cina sud-occidentale, l'osmanto di Delavay fu descritto nel 1889 su esemplari raccolti nello Yunnan dal missionario francese Père Jean Marie Delavay. Introdotto poco dopo nei giardini europei, è apprezzato per il fogliame sempreverde lucido e i fiori bianchi primaverili molto profumati.",
+        "history_text_long": "L'osmanto di Delavay prende il nome da Père Jean Marie Delavay, il missionario e cacciatore di piante francese che negli anni Ottanta e Novanta dell'Ottocento esplorò le montagne dello Yunnan, nella Cina sud-occidentale. Dalla sua base vicino a Dali spedì decine di migliaia di esemplari essiccati e molte migliaia di bustine di semi al Muséum national d'Histoire naturelle di Parigi. Tra questi c'era un piccolo arbusto sempreverde dai fiori bianchi, tubolari e molto profumati, che il botanico Adrien Franchet descrisse come specie nuova nel 1889, dedicandola a Delavay.\n\nI semi di queste spedizioni raggiunsero presto i vivai europei e l'osmanto di Delavay entrò in coltivazione in Francia e poi in Gran Bretagna intorno al passaggio al Novecento. I giardinieri ne apprezzarono il portamento ordinato, le foglie lucide e la ricca fragranza della fioritura primaverile, che arriva quando pochi altri arbusti sempreverdi sono in fiore. La tolleranza alla potatura ne fece un beniamino per siepi formali e topiaria nei giardini dagli inverni miti, e in Gran Bretagna ottenne poi l'Award of Garden Merit della Royal Horticultural Society. Nella sua terra d'origine cresce spontaneo su pendii boscosi e colline cespugliose, ed è ancora oggi uno dei modi più affidabili per portare il profumo della famiglia degli osmanti nei giardini dove il celebre osmanto odoroso, a fioritura autunnale, è meno adatto.",
+        "name_origin": "Il nome del genere Osmanthus deriva dal greco osme, «profumo», e anthos, «fiore», per i suoi fiori profumati. L'epiteto specifico delavayi onora Père Jean Marie Delavay, il missionario francese che raccolse gli esemplari tipo nello Yunnan.",
+        "symbolism_story": "Chiamato così in onore di un cacciatore di piante che attraversò montagne remote per trovarlo, l'osmanto di Delavay rappresenta la scoperta. Il suo profumo si spande ben oltre l'arbusto, una generosità discreta, mentre le foglie sempreverdi parlano di perseveranza in ogni stagione.",
+        "flower_meaning": "Scoperta",
+        "fragrance": {
+          "notes": "Dolce profumo floreale di gelsomino con una nota di frutta matura"
+        },
+        "uses_list": [
+          {
+            "text": "Profuma il giardino primaverile con fiori dal dolce aroma"
+          },
+          {
+            "text": "Arbusto sempreverde ordinato per siepi, bordure e vasi"
+          },
+          {
+            "text": "I fiori primaverili offrono nettare alle prime api e farfalle"
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Scoperta",
+            "description": "la gioia di trovare bellezza in montagne lontane"
+          },
+          {
+            "keyword": "Profumo",
+            "description": "una dolcezza generosa che aleggia nell'aria"
+          },
+          {
+            "keyword": "Perseveranza",
+            "description": "foglie sempreverdi che restano lucenti in ogni stagione"
+          }
+        ],
+        "toxicity": {
+          "headline": "Nessuna tossicità segnalata",
+          "active_compound_display": "Nessuno segnalato",
+          "notes_en": "Non è stata trovata alcuna corrispondenza tossicologica in fonti autorevoli; la pianta è considerata non segnalata (la stima del modello non è verificata da fonti).",
+          "human": {
+            "exposure": "Non è segnalata alcuna via di esposizione.",
+            "effect": "Non è segnalato alcun effetto tossico.",
+            "note": "In questo catalogo non è segnalata tossicità per gli esseri umani; ciò non prova che la pianta sia commestibile o innocua."
+          },
+          "dog": {
+            "exposure": "Non è segnalata alcuna via di esposizione.",
+            "effect": "Non è segnalato alcun effetto tossico.",
+            "note": "In questo catalogo non è segnalata tossicità per i cani; ciò non prova che la pianta sia commestibile o innocua."
+          },
+          "cat": {
+            "exposure": "Non è segnalata alcuna via di esposizione.",
+            "effect": "Non è segnalato alcun effetto tossico.",
+            "note": "In questo catalogo non è segnalata tossicità per i gatti; ciò non prova che la pianta sia commestibile o innocua."
+          }
+        }
+      }
+    },
+    "AAA1693": {
+      "source_hash": "34b706fba0d75da285e0a27b437367af21a515da98bdd025444ba8acfc3e40fb",
+      "fields": {
+        "common_name": "Osmanto arancione",
+        "bloom_tip": "Fitti grappoli di fiori arancioni intensi e molto profumati si aprono da settembre a ottobre, a volte fino a dicembre.",
+        "fruit_tip": "Piccoli frutti viola-neri maturano in primavera, l'anno dopo la fioritura, ma raramente si formano in coltivazione.",
+        "description": "L'osmanto arancione (Osmanthus fragrans f. aurantiacus), chiamato dan gui in Cina, è la forma più intensamente colorata dell'osmanto odoroso, un arbusto o piccolo albero sempreverde che all'inizio dell'autunno porta fitti grappoli di minuscoli fiori dall'arancione profondo all'oro rossastro. Il suo profumo di albicocca e pesca si diffonde lontano ed è tra i profumi da giardino più amati dell'Asia orientale. Le foglie verde scuro e coriacee mantengono la pianta decorativa tutto l'anno e sopporta bene la potatura, per cui funziona come esemplare isolato, schermo o siepe. Cresce meglio in pieno sole o a mezz'ombra in terreno fertile e ben drenato, è resistente nelle zone 7-9 e si adatta a grandi vasi vicino a un patio o a un ingresso, dove se ne gode la fragranza.",
+        "history_text_short": "L'osmanto odoroso è coltivato in Cina da oltre 2000 anni, e la forma a fiori arancioni, dan gui, è tra le sue varietà più pregiate. Legato alla Festa di Metà Autunno, alla poesia e al successo negli esami imperiali, i suoi fiori profumati di albicocca aromatizzano tè, vini e dolci.",
+        "history_text_long": "L'osmanto odoroso, Osmanthus fragrans, è coltivato in Cina da ben più di duemila anni, e la forma a fiori arancioni nota come dan gui, o «cassia cinabro», è uno dei quattro gruppi classici da giardino insieme ai tipi argento, oro e sempre fiorito. I suoi fiori arancioni intensi sono i più vistosi e, secondo molti, i più profumati. Nella tradizione cinese l'albero si chiama gui e compare nella poesia dalle dinastie Tang e Song in poi, dove il suo profumo annuncia l'autunno e la luna piena della Festa di Metà Autunno. Una famosa leggenda racconta di Wu Gang, condannato a tagliare senza fine un albero di cassia sulla luna, e l'espressione cinese «spezzare un ramo di cassia» è venuta a significare superare con onore gli esami imperiali. La città di Guilin, «foresta di osmanti», prende il nome dagli alberi che ne costeggiano le strade.\n\nOltre il giardino, i fiori sono apprezzati in cucina e nelle case da tè. Si essiccano e si infondono nel tè, si conservano in zucchero o miele, si aggiungono a torte, gelatine e gnocchetti di riso glutinoso e si lasciano macerare nel vino di osmanto, bevanda tradizionale di Metà Autunno. La specie giunse ai botanici occidentali nel Settecento e Carl Peter Thunberg la descrisse nel 1784 da esemplari del Giappone. Oggi l'osmanto arancione è piantato in giardini, cortili e templi di tutta l'Asia orientale e nei giardini dagli inverni miti di tutto il mondo.",
+        "name_origin": "Osmanthus unisce il greco osme, «profumo», e anthos, «fiore». L'epiteto specifico fragrans significa «profumato» in latino, e il nome della forma aurantiacus vuol dire «di colore arancione», per i suoi fiori arancioni intensi.",
+        "symbolism_story": "Nella cultura cinese l'osmanto rappresenta onore e successo, a partire dallo studioso che «spezza un ramo di cassia» per superare gli esami imperiali. Il suo profumo riempie l'aria alla Festa di Metà Autunno, quando le famiglie si riuniscono sotto la luna piena, e la sua dolcezza persistente è da tempo simbolo di buona sorte.",
+        "flower_meaning": "Onore",
+        "fragrance": {
+          "notes": "Ricco profumo di albicocca e pesca, con una dolcezza calda e mielata"
+        },
+        "uses_list": [
+          {
+            "text": "Profuma giardini e cortili all'inizio dell'autunno"
+          },
+          {
+            "text": "I fiori essiccati aromatizzano tè, vino, dolci e torte"
+          },
+          {
+            "text": "Esemplare, schermo o siepe sempreverde dai ricchi fiori arancioni"
+          },
+          {
+            "text": "I fiori autunnali nutrono api e farfalle a fine stagione"
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Onore",
+            "description": "successo e distinzione, come nell'espressione «spezzare un ramo di cassia»"
+          },
+          {
+            "keyword": "Riunione",
+            "description": "famiglie riunite sotto la luna di Metà Autunno"
+          },
+          {
+            "keyword": "Profumo",
+            "description": "una dolcezza che rimane a lungo dopo la caduta dei fiori"
+          }
+        ],
+        "toxicity": {
+          "headline": "Nessuna tossicità segnalata",
+          "active_compound_display": "Nessuno segnalato",
+          "notes_en": "Non è stata trovata alcuna corrispondenza tossicologica in fonti autorevoli; la pianta è considerata non segnalata (la stima del modello non è verificata da fonti).",
+          "human": {
+            "exposure": "Non è segnalata alcuna via di esposizione.",
+            "effect": "Non è segnalato alcun effetto tossico.",
+            "note": "In questo catalogo non è segnalata tossicità per gli esseri umani; ciò non prova che la pianta sia commestibile o innocua."
+          },
+          "dog": {
+            "exposure": "Non è segnalata alcuna via di esposizione.",
+            "effect": "Non è segnalato alcun effetto tossico.",
+            "note": "In questo catalogo non è segnalata tossicità per i cani; ciò non prova che la pianta sia commestibile o innocua."
+          },
+          "cat": {
+            "exposure": "Non è segnalata alcuna via di esposizione.",
+            "effect": "Non è segnalato alcun effetto tossico.",
+            "note": "In questo catalogo non è segnalata tossicità per i gatti; ciò non prova che la pianta sia commestibile o innocua."
           }
         }
       }
