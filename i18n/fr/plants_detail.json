@@ -3,8 +3,8 @@
   "locale": "fr",
   "source": {
     "resource": "plants_detail.json",
-    "sha256": "c5a9a18cd7a593f78e915ea9f46df99014172cc80a22740ebab90c38b42f3615",
-    "record_count": 1692
+    "sha256": "dcc2b0a836aa15dec5b0969be846388cf70b7edd5719f9fde381784506ed8765",
+    "record_count": 1694
   },
   "records": {
     "AAA0001": {
@@ -103601,6 +103601,97 @@
             "exposure": "Aucune voie d'exposition n'est signalée.",
             "effect": "Aucun effet toxique n'est signalé.",
             "note": "Aucune toxicité n'est signalée pour l'être humain dans ce catalogue ; cela ne prouve pas que la plante soit comestible ou inoffensive."
+          },
+          "dog": {
+            "exposure": "Aucune voie d'exposition n'est signalée.",
+            "effect": "Aucun effet toxique n'est signalé.",
+            "note": "Aucune toxicité n'est signalée pour les chiens dans ce catalogue ; cela ne prouve pas que la plante soit comestible ou inoffensive."
+          },
+          "cat": {
+            "exposure": "Aucune voie d'exposition n'est signalée.",
+            "effect": "Aucun effet toxique n'est signalé.",
+            "note": "Aucune toxicité n'est signalée pour les chats dans ce catalogue ; cela ne prouve pas que la plante soit comestible ou inoffensive."
+          }
+        }
+      }
+    },
+    "AAA1694": {
+      "source_hash": "65e16ce9f93290d64fcf32fd553eb9a994630ebfe748755ed5f666d190f99140",
+      "fields": {
+        "common_name": "Népenthès ailé",
+        "bloom_tip": "Le Népenthès ailé produit parfois un long épi de petites fleurs verdâtres peu visibles, mais il est cultivé presque exclusivement pour ses urnes plutôt que pour ses fleurs.",
+        "description": "Le Népenthès ailé est l'une des plantes carnivores les plus cultivées au monde, apprécié pour les carènes ailées qui parcourent chaque urne et donnent son nom à l'espèce. Originaire des forêts humides des Philippines, il grimpe à travers la végétation du sous-bois, laissant pendre des pièges en forme de cruche qui attirent les insectes avec un nectar sucré avant de les noyer dans le liquide digestif, compensant ainsi la pauvreté du sol de son habitat d'origine. Ses feuilles coriaces se terminent par des vrilles enroulées qui forment l'urne elle-même, et sa tolérance à des niveaux variés de lumière et d'humidité en fait une plante classique pour les jardiniers débutants curieux.",
+        "history_text_short": "Nommé d'après une drogue mythique grecque censée bannir le chagrin, le Népenthès ailé a rempli pendant des siècles une fonction bien plus littérale : depuis longtemps, les voyageurs philippins dévissent le couvercle de ses urnes en forme de cruche pour boire l'eau de pluie propre qui s'y accumule, s'en servant comme gourde naturelle le long des sentiers forestiers humides.",
+        "history_text_long": "Le nom du genre Nepenthes vient de l'Odyssée d'Homère, où Hélène de Troie verse dans le vin une drogue appelée « nepenthes pharmakon » pour chasser le chagrin et la tristesse. Lorsque Carl von Linné décrivit pour la première fois les plantes-cruches en 1737, il emprunta ce mot, remarquant que quiconque contemplerait une plante aussi étonnante en oublierait ses peines d'émerveillement. Le Népenthès ailé lui-même fut décrit formellement un siècle plus tard, en 1837, par le moine botaniste espagnol Francisco Manuel Blanco, qui le rencontra grimpant à travers les forêts de plaine et de moyenne altitude de l'archipel philippin, où il demeure aujourd'hui l'une des plantes-cruches les plus communes et les plus répandues.\n\nBien avant d'atteindre les serres et les rebords de fenêtre à l'étranger, les voyageurs philippins connaissaient déjà cette plante comme une compagne pratique. En traversant des sentiers de montagne humides, un randonneur assoiffé pouvait courber une urne mûre encore fermée, dévisser son couvercle et boire l'eau de pluie propre, légèrement sucrée de nectar, accumulée à l'intérieur : une gourde naturelle suspendue prête le long du chemin. Les tiges grimpantes de la plante et ses vrilles enroulées, chacune se terminant par un piège en forme de cruche, la rendaient facile à repérer et à utiliser.\n\nParce qu'il tolère une gamme bien plus large de lumière, d'humidité et de température que ses parents des hautes terres, le Népenthès ailé est devenu l'espèce par laquelle la plupart des collectionneurs ont fait leurs débuts, et il a été croisé en d'innombrables hybrides en culture, transmettant sa résilience à des plantes-cruches aujourd'hui cultivées loin des îles où tout a commencé.",
+        "name_origin": "Le nom d'espèce « alata » fait référence à la forme ailée ou aplatie des urnes, qui rappelle des ailes.",
+        "symbolism_story": "En survivant grâce à sa capacité à tirer parti d'un environnement hostile et pauvre en nutriments, la plante-cruche en est venue à symboliser l'adaptabilité et une ingéniosité discrète plutôt que l'agressivité.",
+        "flower_meaning": "Adaptabilité",
+        "fragrance": {
+          "notes": "Un léger parfum sucré de nectar sur le bord de l'urne attire les insectes plutôt que les humains."
+        },
+        "uses_list": [
+          {
+            "text": "Cultivé dans le monde entier comme plante carnivore d'intérieur accessible aux débutants et comme spécimen de serre."
+          },
+          {
+            "text": "Piège les insectes nuisibles comme les mouches et les moucherons, offrant une lutte antiparasitaire naturelle et sans produits chimiques à l'intérieur."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Adaptabilité",
+            "description": "Sa capacité à prospérer dans des sols pauvres en nutriments en piégeant des insectes fait de la plante-cruche un symbole d'ingéniosité et d'adaptation à l'adversité."
+          }
+        ],
+        "toxicity": {
+          "headline": "Sans danger pour les animaux",
+          "active_compound_display": "Aucun signalé",
+          "notes_en": "Aucune correspondance trouvée avec une source faisant autorité ; traité comme non signalé (l'estimation de l'IA n'est pas vérifiée par une source).",
+          "human": {
+            "exposure": "Aucune voie d'exposition n'est signalée.",
+            "effect": "Aucun effet toxique n'est signalé.",
+            "note": "Aucune toxicité n'est signalée pour les humains dans ce catalogue ; cela ne prouve pas que la plante soit comestible ou inoffensive."
+          },
+          "dog": {
+            "exposure": "Aucune voie d'exposition n'est signalée.",
+            "effect": "Aucun effet toxique n'est signalé.",
+            "note": "Des sources faisant autorité indiquent que cette plante n'est pas toxique pour les chiens ; cela ne prouve pas que la plante soit comestible."
+          },
+          "cat": {
+            "exposure": "Aucune voie d'exposition n'est signalée.",
+            "effect": "Aucun effet toxique n'est signalé.",
+            "note": "Des sources faisant autorité indiquent que cette plante n'est pas toxique pour les chats ; cela ne prouve pas que la plante soit comestible."
+          }
+        }
+      }
+    },
+    "AAA1695": {
+      "source_hash": "0479a1ecb698f63934e5d72b8517362d9b0aa4fb90e78dacc4e0605533fcc7e8",
+      "fields": {
+        "common_name": "Panéole des foins",
+        "description": "La Panéole des foins est l'un des champignons de pelouse les plus courants au monde ; elle surgit par dizaines dans l'herbe rase après une pluie chaude ou une tonte fraîche, d'où son nom anglais. Son petit chapeau conique s'ouvre en cloche et est hygrophane : au fil de la journée, il passe d'un brun rougeâtre intense au centre à un beige pâle sur les bords en séchant. Ses lamelles mûrissent de façon inégale, leur donnant un aspect tacheté et marbré avant de foncer et de libérer une sporée brun chocolat. Plutôt que de se nourrir de plantes vivantes, elle vit du chaume d'herbe en décomposition enfoui dans le sol, décomposant silencieusement la matière organique morte et recyclant les nutriments dans la pelouse.",
+        "history_text_short": "Depuis que Christiaan Hendrik Persoon l'a décrite pour la première fois en 1800, cette minuscule espèce de pelouse a été ballottée par les mycologues à travers une demi-douzaine de noms de genre. Sa ressemblance avec des parentes psychoactives en fait aussi l'un des champignons les plus souvent responsables d'appels inquiets aux centres antipoison pour animaux, alors qu'elle est presque toujours inoffensive.",
+        "history_text_long": "Lorsque le mycologue pionnier Christiaan Hendrik Persoon décrivit ce petit champignon pour la première fois en 1800, il le plaça dans l'énorme genre fourre-tout Agaricus, refuge par défaut de presque tous les champignons à lamelles alors connus. À mesure que les mycologues comprenaient peu à peu comment les champignons à lamelles étaient réellement apparentés entre eux, l'espèce fut reclassée encore et encore, passant par des genres tels que Psathyrella et Panaeolus, avant de se fixer finalement, en 1933, dans Panaeolina, un petit genre créé spécialement pour elle et ses plus proches parentes. Son nom d'espèce, foenisecii, vient du latin désignant la fenaison, un clin d'œil à la fidélité avec laquelle elle apparaît dans les prairies de foin fraîchement coupées et les pelouses tondues.\n\nCette même abondance quotidienne a fait de la Panéole des foins une petite célébrité dans les milieux vétérinaires. Étant très probablement le champignon le plus commun des pelouses à travers le monde, elle est aussi le champignon le plus souvent responsable de l'appel affolé d'un propriétaire de chien à un centre antipoison après qu'un animal a avalé un petit champignon brun lors d'une promenade. Sa ressemblance superficielle avec les espèces psychoactives Panaeolus et Psilocybe, qui partagent ses lamelles sombres et tachetées ainsi que sa sporée foncée, ne fait qu'ajouter à l'inquiétude. Dans l'immense majorité des cas, pourtant, la coupable se révèle être cette décomposeuse inoffensive, qui ne fait rien de plus sinistre que de transformer le chaume d'herbe morte en nutriments pour le sol.",
+        "name_origin": "Son nom d'espèce, foenisecii, vient du latin désignant la fenaison et décrit son habitude de fructifier abondamment dans les prairies de foin fraîchement coupées et les pelouses tondues ; le genre Panaeolina la regroupe avec des champignons dont les lamelles tachetées rappellent celles du genre apparenté Panaeolus.",
+        "symbolism_story": "Ne fructifiant qu'à peine un jour avant de se faner, la Panéole des foins rappelle discrètement que même les vies les plus négligées peuvent avoir un sens précisément parce qu'elles sont brèves, transformant ce qui précédait en nourriture pour ce qui suit.",
+        "flower_meaning": "Éphémérité",
+        "fragrance": {
+          "notes": "Sa chair dégage une légère odeur farineuse, semblable à celle de la farine fraîche, typique de nombreux petits champignons bruns de pelouse."
+        },
+        "symbolism_list": [
+          {
+            "keyword": "Éphémérité",
+            "description": "Apparaissant du jour au lendemain après la pluie et disparaissant à nouveau en une journée, la Panéole des foins est depuis longtemps un emblème naturel de l'éphémère : un cycle de vie bref et délicat qui se déroule inaperçu dans les pelouses ordinaires."
+          }
+        ],
+        "toxicity": {
+          "headline": "Aucune toxicité signalée",
+          "active_compound_display": "Aucun signalé",
+          "notes_en": "Aucune correspondance trouvée avec une source faisant autorité ; traité comme non signalé (l'estimation de l'IA n'est pas vérifiée par une source).",
+          "human": {
+            "exposure": "Aucune voie d'exposition n'est signalée.",
+            "effect": "Aucun effet toxique n'est signalé.",
+            "note": "Aucune toxicité n'est signalée pour les humains dans ce catalogue ; cela ne prouve pas que la plante soit comestible ou inoffensive."
           },
           "dog": {
             "exposure": "Aucune voie d'exposition n'est signalée.",

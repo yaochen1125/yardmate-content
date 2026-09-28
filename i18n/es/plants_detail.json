@@ -3,8 +3,8 @@
   "locale": "es",
   "source": {
     "resource": "plants_detail.json",
-    "sha256": "c5a9a18cd7a593f78e915ea9f46df99014172cc80a22740ebab90c38b42f3615",
-    "record_count": 1692
+    "sha256": "dcc2b0a836aa15dec5b0969be846388cf70b7edd5719f9fde381784506ed8765",
+    "record_count": 1694
   },
   "records": {
     "AAA0001": {
@@ -103625,6 +103625,97 @@
             "exposure": "No se notifica ninguna vía de exposición.",
             "effect": "No se notifica ningún efecto tóxico.",
             "note": "En este catálogo no se notifica toxicidad para los gatos; esto no demuestra que la planta sea comestible ni inocua."
+          }
+        }
+      }
+    },
+    "AAA1694": {
+      "source_hash": "65e16ce9f93290d64fcf32fd553eb9a994630ebfe748755ed5f666d190f99140",
+      "fields": {
+        "common_name": "Nepentes alada",
+        "bloom_tip": "La Nepentes alada produce ocasionalmente una espiga alta de flores pequeñas y poco vistosas de color verdoso, aunque se cultiva casi exclusivamente por sus jarras y no por sus flores.",
+        "description": "La Nepentes alada es una de las plantas carnívoras más cultivadas del mundo, apreciada por las quillas aladas y nervadas que recorren cada jarra y que dan nombre a la especie. Originaria de los bosques húmedos de Filipinas, trepa a través de la vegetación del sotobosque, dejando colgar trampas en forma de jarra que atraen a los insectos con néctar dulce antes de ahogarlos en el líquido digestivo, complementando así los escasos nutrientes de su suelo natal. Sus hojas coriáceas terminan en zarcillos enroscados que forman la propia jarra, y su tolerancia a distintos niveles de luz y humedad la convierte en una planta clásica para quienes se inician en su cultivo.",
+        "history_text_short": "Bautizada en honor a una droga mítica griega que decía disipar la aflicción, la Nepentes alada ha cumplido durante siglos un propósito mucho más literal: los viajeros filipinos llevan generaciones abriendo sus jarras en forma de cántaro para beber el agua de lluvia limpia acumulada en su interior, usándola como cantimplora natural en los húmedos senderos del bosque.",
+        "history_text_long": "El nombre del género Nepenthes proviene de la Odisea de Homero, donde Helena de Troya vierte en el vino una droga llamada «nepenthes pharmakon» para disipar el dolor y la tristeza. Cuando Carlos Linneo describió por primera vez las plantas jarro en 1737, tomó prestada esa palabra, señalando que quien contemplara una planta tan asombrosa olvidaría sus penas de puro asombro. La propia Nepentes alada fue descrita formalmente un siglo después, en 1837, por el fraile botánico español Francisco Manuel Blanco, quien la encontró trepando por los bosques de tierras bajas y de media altitud del archipiélago filipino, donde sigue siendo hoy una de las plantas jarro más comunes y extendidas.\n\nMucho antes de llegar a los invernaderos y alféizares del extranjero, los viajeros filipinos ya conocían la planta como un compañero práctico. Al atravesar senderos húmedos de montaña, un caminante sediento podía doblar una jarra madura y aún cerrada, girar su tapa y beber el agua de lluvia limpia, ligeramente endulzada con néctar, acumulada en su interior: una cantimplora natural que colgaba lista junto al camino. Los tallos trepadores de la planta y sus zarcillos enroscados, cada uno terminado en una trampa en forma de jarra, la hacían fácil de reconocer y de usar.\n\nDebido a que tolera una gama mucho más amplia de luz, humedad y temperatura que sus parientes de montaña, la Nepentes alada se convirtió en la especie con la que la mayoría de los coleccionistas dieron sus primeros pasos, y ha sido cruzada en incontables híbridos de cultivo, transmitiendo su resistencia a plantas jarro que hoy crecen muy lejos de las islas donde todo comenzó.",
+        "name_origin": "El nombre de la especie «alata» hace referencia a la forma alada o aplanada de las jarras, que recuerda a unas alas.",
+        "symbolism_story": "Al sobrevivir convirtiendo un entorno hostil y pobre en nutrientes en una ventaja, la planta jarro ha llegado a simbolizar la adaptabilidad y el ingenio silencioso, más que la agresividad.",
+        "flower_meaning": "Adaptabilidad",
+        "fragrance": {
+          "notes": "Un tenue aroma dulce a néctar en el borde de la jarra atrae a los insectos, no a las personas."
+        },
+        "uses_list": [
+          {
+            "text": "Se cultiva en todo el mundo como planta carnívora de interior apta para principiantes y como ejemplar de invernadero."
+          },
+          {
+            "text": "Atrapa insectos molestos como moscas y mosquitos del mantillo, ofreciendo un control de plagas natural y sin químicos en interiores."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Adaptabilidad",
+            "description": "Su capacidad para prosperar en suelos pobres en nutrientes atrapando insectos convierte a la planta jarro en un símbolo de ingenio y de adaptación a la adversidad."
+          }
+        ],
+        "toxicity": {
+          "headline": "Seguro para mascotas",
+          "active_compound_display": "Ninguno reportado",
+          "notes_en": "No se encontró coincidencia con ninguna fuente autorizada; se trata como no reportado (la estimación de la IA no está verificada por fuentes).",
+          "human": {
+            "exposure": "No se reporta ninguna vía de exposición.",
+            "effect": "No se reporta ningún efecto tóxico.",
+            "note": "No se reporta toxicidad para humanos en este catálogo; esto no es evidencia de que la planta sea comestible o inofensiva."
+          },
+          "dog": {
+            "exposure": "No se reporta ninguna vía de exposición.",
+            "effect": "No se reporta ningún efecto tóxico.",
+            "note": "Fuentes autorizadas indican que esta planta no es tóxica para perros; esto no es evidencia de que la planta sea comestible."
+          },
+          "cat": {
+            "exposure": "No se reporta ninguna vía de exposición.",
+            "effect": "No se reporta ningún efecto tóxico.",
+            "note": "Fuentes autorizadas indican que esta planta no es tóxica para gatos; esto no es evidencia de que la planta sea comestible."
+          }
+        }
+      }
+    },
+    "AAA1695": {
+      "source_hash": "0479a1ecb698f63934e5d72b8517362d9b0aa4fb90e78dacc4e0605533fcc7e8",
+      "fields": {
+        "common_name": "Panaeolina del heno",
+        "description": "El Panaeolina del heno es uno de los hongos de césped más comunes del mundo, y brota por docenas en la hierba corta tras una lluvia cálida o un corte de césped reciente, de ahí su nombre en inglés. Su pequeño sombrero cónico se abre en forma de campana y es higrófano: a lo largo del día se seca, pasando de un rojizo-marrón intenso en el centro a un beige pálido en el borde. Sus láminas maduran de forma desigual, dándoles un aspecto moteado y manchado antes de oscurecerse y liberar una esporada marrón chocolate. En lugar de alimentarse de plantas vivas, vive de la paja de césped en descomposición enterrada en el suelo, descomponiendo silenciosamente materia orgánica muerta y reciclando nutrientes de vuelta al césped.",
+        "history_text_short": "Desde que Christiaan Hendrik Persoon lo describió por primera vez en 1800, este diminuto hongo de césped ha pasado por media docena de nombres de género entre los micólogos. Su parecido con parientes psicoactivos también lo convierte en uno de los hongos que más llamadas preocupadas provoca a las líneas de intoxicación de mascotas, aunque casi siempre resulta inofensivo.",
+        "history_text_long": "Cuando el pionero micólogo Christiaan Hendrik Persoon describió por primera vez este pequeño hongo en 1800, lo situó en el enorme género cajón de sastre Agaricus, el hogar por defecto de casi todos los hongos laminados conocidos entonces. A medida que los micólogos fueron descubriendo cómo se relacionaban realmente entre sí los hongos laminados, la especie fue reclasificada una y otra vez, pasando por géneros como Psathyrella y Panaeolus, hasta asentarse finalmente, en 1933, en Panaeolina, un pequeño género creado justamente para albergarla a ella y a sus parientes más cercanos. Su nombre de especie, foenisecii, proviene del latín para «siega del heno», en alusión a lo fielmente que aparece en prados de heno recién cortados y céspedes recién segados.\n\nEsa misma abundancia cotidiana ha convertido al Panaeolina del heno en una pequeña celebridad en los círculos veterinarios. Al ser, con toda probabilidad, el hongo más común en céspedes de todo el mundo, es también el hongo más frecuentemente responsable de la llamada angustiada de un dueño de perro a una línea de intoxicaciones después de que su mascota se trague un pequeño hongo marrón durante un paseo. Su parecido superficial con las especies psicoactivas Panaeolus y Psilocybe, que comparten sus láminas oscuras y moteadas y su esporada oscura, no hace sino aumentar la alarma. Sin embargo, en la inmensa mayoría de los casos, el culpable resulta ser este inofensivo descomponedor, que no hace nada más siniestro que convertir la paja de césped muerta de nuevo en tierra.",
+        "name_origin": "Su nombre de especie, foenisecii, deriva del latín para la siega del heno y describe su costumbre de fructificar abundantemente en prados de heno recién cortados y céspedes segados; el género Panaeolina lo agrupa con hongos cuyas láminas moteadas recuerdan a las del género emparentado Panaeolus.",
+        "symbolism_story": "Fructificando apenas un día antes de marchitarse, el Panaeolina del heno es un recordatorio silencioso de que incluso las vidas más pasadas por alto pueden tener sentido precisamente por su brevedad, reciclando lo que hubo antes en alimento para lo que viene después.",
+        "flower_meaning": "Fugacidad",
+        "fragrance": {
+          "notes": "Su carne desprende un leve olor harinoso (farináceo), similar al de la harina fresca, típico de muchos pequeños hongos marrones de césped."
+        },
+        "symbolism_list": [
+          {
+            "keyword": "Fugacidad",
+            "description": "Al aparecer de la noche a la mañana tras la lluvia y desvanecerse de nuevo en un solo día, el Panaeolina del heno lleva mucho tiempo siendo un emblema natural de lo efímero: un ciclo de vida breve y delicado que transcurre inadvertido en céspedes corrientes."
+          }
+        ],
+        "toxicity": {
+          "headline": "No se reporta toxicidad",
+          "active_compound_display": "Ninguno reportado",
+          "notes_en": "No se encontró coincidencia con ninguna fuente autorizada; se trata como no reportado (la estimación de la IA no está verificada por fuentes).",
+          "human": {
+            "exposure": "No se reporta ninguna vía de exposición.",
+            "effect": "No se reporta ningún efecto tóxico.",
+            "note": "No se reporta toxicidad para los humanos en este catálogo; esto no es evidencia de que la planta sea comestible o inofensiva."
+          },
+          "dog": {
+            "exposure": "No se reporta ninguna vía de exposición.",
+            "effect": "No se reporta ningún efecto tóxico.",
+            "note": "No se reporta toxicidad para los perros en este catálogo; esto no es evidencia de que la planta sea comestible o inofensiva."
+          },
+          "cat": {
+            "exposure": "No se reporta ninguna vía de exposición.",
+            "effect": "No se reporta ningún efecto tóxico.",
+            "note": "No se reporta toxicidad para los gatos en este catálogo; esto no es evidencia de que la planta sea comestible o inofensiva."
           }
         }
       }

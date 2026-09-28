@@ -3,8 +3,8 @@
   "locale": "it",
   "source": {
     "resource": "plants_detail.json",
-    "sha256": "c5a9a18cd7a593f78e915ea9f46df99014172cc80a22740ebab90c38b42f3615",
-    "record_count": 1692
+    "sha256": "dcc2b0a836aa15dec5b0969be846388cf70b7edd5719f9fde381784506ed8765",
+    "record_count": 1694
   },
   "records": {
     "AAA0001": {
@@ -103625,6 +103625,97 @@
             "exposure": "Non è segnalata alcuna via di esposizione.",
             "effect": "Non è segnalato alcun effetto tossico.",
             "note": "In questo catalogo non è segnalata tossicità per i gatti; ciò non prova che la pianta sia commestibile o innocua."
+          }
+        }
+      }
+    },
+    "AAA1694": {
+      "source_hash": "65e16ce9f93290d64fcf32fd553eb9a994630ebfe748755ed5f666d190f99140",
+      "fields": {
+        "common_name": "Nepenthes alato",
+        "bloom_tip": "Il Nepenthes alato produce occasionalmente una lunga spiga di piccoli fiori verdastri poco appariscenti, ma viene coltivato quasi esclusivamente per i suoi ascidi anziché per i fiori.",
+        "description": "Il Nepenthes alato è una delle piante carnivore più coltivate al mondo, apprezzata per le carene alate e nervate che percorrono ogni ascidio e che danno il nome alla specie. Originario delle foreste umide delle Filippine, si arrampica tra la vegetazione del sottobosco, lasciando pendere trappole a forma di brocca che attirano gli insetti con dolce nettare prima di annegarli nel liquido digestivo, integrando così i poveri nutrienti del suolo d'origine. Le sue foglie coriacee terminano in viticci arrotolati che formano l'ascidio stesso, e la sua tolleranza a diversi livelli di luce e umidità la rende una pianta classica per chi inizia a coltivare piante carnivore.",
+        "history_text_short": "Chiamato come una mitica droga greca che si diceva bandisse il dolore, il Nepenthes alato ha svolto per secoli una funzione ben più concreta: da generazioni i viaggiatori filippini svitano il coperchio dei suoi ascidi a forma di brocca per bere l'acqua piovana pulita raccolta all'interno, usandola come borraccia naturale lungo gli umidi sentieri della foresta.",
+        "history_text_long": "Il nome del genere Nepenthes deriva dall'Odissea di Omero, dove Elena di Troia versa nel vino una droga chiamata «nepenthes pharmakon» per bandire il dolore e la tristezza. Quando Linneo descrisse per la prima volta le piante brocca nel 1737, prese in prestito questa parola, osservando che chiunque avesse contemplato una pianta così sorprendente ne avrebbe certamente dimenticato gli affanni per lo stupore. Il Nepenthes alato fu descritto formalmente un secolo dopo, nel 1837, dal frate botanico spagnolo Francisco Manuel Blanco, che lo incontrò arrampicarsi tra le foreste di pianura e di media quota dell'arcipelago filippino, dove resta ancora oggi una delle piante brocca più comuni e diffuse.\n\nMolto prima di raggiungere serre e davanzali all'estero, i viaggiatori filippini conoscevano già la pianta come compagna pratica. Attraversando sentieri umidi di montagna, un viandante assetato poteva piegare un ascidio maturo e ancora chiuso, svitarne il coperchio e bere l'acqua piovana pulita, leggermente addolcita dal nettare, raccolta all'interno: una borraccia naturale pronta lungo il cammino. I fusti rampicanti della pianta e i suoi viticci arrotolati, ciascuno terminante in una trappola a forma di brocca, la rendevano facile da individuare e da usare.\n\nPoiché tollera una gamma di luce, umidità e temperatura molto più ampia rispetto ai parenti d'altura, il Nepenthes alato è diventato la specie con cui la maggior parte dei collezionisti ha iniziato, ed è stato incrociato in innumerevoli ibridi in coltivazione, trasmettendo la propria resistenza a piante brocca oggi coltivate lontano dalle isole in cui tutto è cominciato.",
+        "name_origin": "Il nome della specie «alata» si riferisce alla forma alata o appiattita degli ascidi, che ricordano delle ali.",
+        "symbolism_story": "Sopravvivendo grazie alla capacità di trarre vantaggio da un ambiente ostile e povero di nutrienti, la pianta brocca è arrivata a simboleggiare l'adattabilità e una silenziosa intraprendenza, più che l'aggressività.",
+        "flower_meaning": "Adattabilità",
+        "fragrance": {
+          "notes": "Un lieve profumo dolce di nettare sul bordo dell'ascidio attira gli insetti più che le persone."
+        },
+        "uses_list": [
+          {
+            "text": "Coltivato in tutto il mondo come pianta carnivora da interno adatta ai principianti e come esemplare da serra."
+          },
+          {
+            "text": "Cattura insetti fastidiosi come mosche e moscerini, offrendo un controllo naturale e senza sostanze chimiche dei parassiti in casa."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Adattabilità",
+            "description": "La sua capacità di prosperare in terreni poveri di nutrienti catturando insetti rende la pianta brocca un simbolo di intraprendenza e di adattamento alle difficoltà."
+          }
+        ],
+        "toxicity": {
+          "headline": "Sicuro per gli animali domestici",
+          "active_compound_display": "Nessuno segnalato",
+          "notes_en": "Nessuna corrispondenza trovata con una fonte autorevole; trattato come non segnalato (la stima dell'IA non è verificata da fonti).",
+          "human": {
+            "exposure": "Non è segnalata alcuna via di esposizione.",
+            "effect": "Non è segnalato alcun effetto tossico.",
+            "note": "Non è segnalata alcuna tossicità per l'uomo in questo catalogo; ciò non dimostra che la pianta sia commestibile o innocua."
+          },
+          "dog": {
+            "exposure": "Non è segnalata alcuna via di esposizione.",
+            "effect": "Non è segnalato alcun effetto tossico.",
+            "note": "Fonti autorevoli indicano che questa pianta non è tossica per i cani; ciò non dimostra che la pianta sia commestibile."
+          },
+          "cat": {
+            "exposure": "Non è segnalata alcuna via di esposizione.",
+            "effect": "Non è segnalato alcun effetto tossico.",
+            "note": "Fonti autorevoli indicano che questa pianta non è tossica per i gatti; ciò non dimostra che la pianta sia commestibile."
+          }
+        }
+      }
+    },
+    "AAA1695": {
+      "source_hash": "0479a1ecb698f63934e5d72b8517362d9b0aa4fb90e78dacc4e0605533fcc7e8",
+      "fields": {
+        "common_name": "Panaeolina del fieno",
+        "description": "La Panaeolina del fieno è uno dei funghi da prato più comuni al mondo, spuntando a decine nell'erba corta dopo una pioggia calda o una tosatura recente, da cui il suo nome inglese. Il suo piccolo cappello conico si apre a campana ed è igrofano: nel corso della giornata si asciuga passando da un bruno rossiccio intenso al centro a un beige pallido ai margini. Le lamelle maturano in modo irregolare, assumendo un aspetto chiazzato e maculato prima di scurirsi e rilasciare una sporata bruno cioccolato. Anziché nutrirsi di piante vive, vive di paglia d'erba in decomposizione sepolta nel terreno, scomponendo silenziosamente la materia organica morta e riciclando i nutrienti nel prato.",
+        "history_text_short": "Da quando Christiaan Hendrik Persoon la descrisse per la prima volta nel 1800, questo minuscolo fungo da prato è stato spostato dai micologi attraverso una mezza dozzina di nomi di genere. La sua somiglianza con parenti psicoattivi ne fa anche uno dei funghi più spesso responsabili di chiamate preoccupate ai centri antiveleni per animali, anche se è quasi sempre innocuo.",
+        "history_text_long": "Quando il micologo pioniere Christiaan Hendrik Persoon descrisse per la prima volta questo piccolo fungo nel 1800, lo collocò nell'enorme genere raccogli-tutto Agaricus, la casa predefinita per quasi ogni fungo lamellato allora conosciuto. Mentre i micologi scoprivano gradualmente come i funghi lamellati fossero realmente imparentati tra loro, la specie fu riclassificata più volte, passando per generi come Psathyrella e Panaeolus, prima di stabilirsi definitivamente, nel 1933, in Panaeolina, un piccolo genere creato apposta per ospitare lei e i suoi parenti più stretti. Il suo nome di specie, foenisecii, deriva dal latino per la fienagione, un richiamo a quanto affidabilmente compaia nei prati da fieno appena falciati e nei prati rasati.\n\nQuesta stessa abbondanza quotidiana ha reso la Panaeolina del fieno una piccola celebrità negli ambienti veterinari. Essendo con ogni probabilità il fungo più comune nei prati di tutto il mondo, è anche il fungo più spesso responsabile della telefonata allarmata di un proprietario di cani a un centro antiveleni dopo che un animale ha ingoiato un piccolo fungo marrone durante una passeggiata. La sua somiglianza superficiale con le specie psicoattive Panaeolus e Psilocybe, che condividono le sue lamelle scure e chiazzate e la sua sporata scura, non fa che aumentare l'allarme. Nella stragrande maggioranza dei casi, però, il colpevole si rivela essere questo innocuo decompositore, che non fa nulla di più sinistro che restituire al terreno la paglia d'erba morta.",
+        "name_origin": "Il suo nome di specie, foenisecii, deriva dal latino per la fienagione e descrive l'abitudine di fruttificare abbondantemente nei prati da fieno appena falciati e nei prati rasati; il genere Panaeolina la raggruppa con funghi le cui lamelle chiazzate ricordano quelle del genere imparentato Panaeolus.",
+        "symbolism_story": "Fruttificando per appena un giorno prima di appassire, la Panaeolina del fieno è un silenzioso promemoria che anche le vite più trascurate possono avere un senso proprio perché brevi, riciclando ciò che è venuto prima in nutrimento per ciò che viene dopo.",
+        "flower_meaning": "Effimerità",
+        "fragrance": {
+          "notes": "La sua carne emana un lieve odore farinoso, simile a quello della farina fresca, tipico di molti piccoli funghi bruni da prato."
+        },
+        "symbolism_list": [
+          {
+            "keyword": "Effimerità",
+            "description": "Comparendo dall'oggi al domani dopo la pioggia e svanendo di nuovo nel giro di un giorno, la Panaeolina del fieno è da tempo un emblema naturale dell'effimero: un ciclo vitale breve e delicato che si svolge inosservato nei prati comuni."
+          }
+        ],
+        "toxicity": {
+          "headline": "Nessuna tossicità segnalata",
+          "active_compound_display": "Nessuno segnalato",
+          "notes_en": "Nessuna corrispondenza trovata con una fonte autorevole; trattato come non segnalato (la stima dell'IA non è verificata da fonti).",
+          "human": {
+            "exposure": "Non è segnalata alcuna via di esposizione.",
+            "effect": "Non è segnalato alcun effetto tossico.",
+            "note": "Non è segnalata alcuna tossicità per l'uomo in questo catalogo; ciò non dimostra che la pianta sia commestibile o innocua."
+          },
+          "dog": {
+            "exposure": "Non è segnalata alcuna via di esposizione.",
+            "effect": "Non è segnalato alcun effetto tossico.",
+            "note": "Non è segnalata alcuna tossicità per i cani in questo catalogo; ciò non dimostra che la pianta sia commestibile o innocua."
+          },
+          "cat": {
+            "exposure": "Non è segnalata alcuna via di esposizione.",
+            "effect": "Non è segnalato alcun effetto tossico.",
+            "note": "Non è segnalata alcuna tossicità per i gatti in questo catalogo; ciò non dimostra che la pianta sia commestibile o innocua."
           }
         }
       }

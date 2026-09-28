@@ -3,8 +3,8 @@
   "locale": "pt",
   "source": {
     "resource": "plants_detail.json",
-    "sha256": "c5a9a18cd7a593f78e915ea9f46df99014172cc80a22740ebab90c38b42f3615",
-    "record_count": 1692
+    "sha256": "dcc2b0a836aa15dec5b0969be846388cf70b7edd5719f9fde381784506ed8765",
+    "record_count": 1694
   },
   "records": {
     "AAA0001": {
@@ -103625,6 +103625,97 @@
             "exposure": "Nenhuma via de exposição é relatada.",
             "effect": "Nenhum efeito tóxico é relatado.",
             "note": "Neste catálogo não há toxicidade relatada para gatos; isso não prova que a planta seja comestível ou inofensiva."
+          }
+        }
+      }
+    },
+    "AAA1694": {
+      "source_hash": "65e16ce9f93290d64fcf32fd553eb9a994630ebfe748755ed5f666d190f99140",
+      "fields": {
+        "common_name": "Nepentes-alada",
+        "bloom_tip": "A Nepentes-alada por vezes produz uma longa espiga de pequenas flores esverdeadas discretas, mas é cultivada quase exclusivamente pelas suas jarras, e não pelas flores.",
+        "description": "A Nepentes-alada é uma das plantas carnívoras mais cultivadas do mundo, apreciada pelas quilhas aladas e nervuradas que percorrem cada jarra e que dão nome à espécie. Originária das florestas húmidas das Filipinas, trepa pela vegetação do sub-bosque, deixando pender armadilhas em forma de jarro que atraem insetos com néctar doce antes de os afogar no líquido digestivo, compensando assim os nutrientes escassos do solo de origem. As suas folhas coriáceas terminam em gavinhas enroladas que formam a própria jarra, e a sua tolerância a diferentes níveis de luz e humidade faz dela uma planta clássica para quem começa a cultivar plantas carnívoras.",
+        "history_text_short": "Batizada em homenagem a uma droga mítica grega que dizia-se banir a tristeza, a Nepentes-alada cumpriu, ao longo de séculos, um propósito bem mais literal: há gerações, os viajantes filipinos abrem a tampa das suas jarras em forma de cântaro para beber a água da chuva limpa acumulada lá dentro, usando-a como cantil natural pelos trilhos húmidos da floresta.",
+        "history_text_long": "O nome do género Nepenthes vem da Odisseia de Homero, na qual Helena de Troia verte no vinho uma droga chamada «nepenthes pharmakon» para banir a dor e a tristeza. Quando Lineu descreveu pela primeira vez as plantas-jarro em 1737, tomou emprestada essa palavra, observando que quem contemplasse uma planta tão espantosa certamente esqueceria os seus pesares de puro deslumbramento. A própria Nepentes-alada foi descrita formalmente um século depois, em 1837, pelo frade botânico espanhol Francisco Manuel Blanco, que a encontrou trepando pelas florestas de baixa e média altitude do arquipélago filipino, onde continua a ser hoje uma das plantas-jarro mais comuns e difundidas.\n\nMuito antes de chegar às estufas e peitoris do estrangeiro, os viajantes filipinos já conheciam a planta como uma companheira prática. Ao atravessar trilhos húmidos de montanha, um caminhante sedento podia dobrar uma jarra madura ainda fechada, desenroscar a tampa e beber a água da chuva limpa, ligeiramente adoçada com néctar, acumulada lá dentro: um cantil natural pronto ao longo do caminho. Os caules trepadores da planta e as suas gavinhas enroladas, cada uma terminando numa armadilha em forma de jarro, tornavam-na fácil de identificar e de usar.\n\nPor tolerar uma gama muito mais ampla de luz, humidade e temperatura do que os seus parentes de altitude, a Nepentes-alada tornou-se a espécie pela qual a maioria dos colecionadores deu os primeiros passos, e foi cruzada em inúmeros híbridos de cultivo, transmitindo a sua resiliência a plantas-jarro hoje cultivadas longe das ilhas onde tudo começou.",
+        "name_origin": "O nome da espécie «alata» refere-se à forma alada ou achatada das jarras, que se assemelham a asas.",
+        "symbolism_story": "Por sobreviver ao transformar um ambiente hostil e pobre em nutrientes numa vantagem, a planta-jarro passou a simbolizar a adaptabilidade e uma engenhosidade discreta, mais do que a agressividade.",
+        "flower_meaning": "Adaptabilidade",
+        "fragrance": {
+          "notes": "Um leve aroma doce de néctar na borda da jarra atrai insetos, não pessoas."
+        },
+        "uses_list": [
+          {
+            "text": "Cultivada em todo o mundo como planta carnívora de interior acessível para iniciantes e como exemplar de estufa."
+          },
+          {
+            "text": "Captura insetos incómodos como moscas e mosquitos-dos-fungos, oferecendo um controlo de pragas natural e sem químicos em espaços interiores."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Adaptabilidade",
+            "description": "A sua capacidade de prosperar em solos pobres em nutrientes ao capturar insetos faz da planta-jarro um símbolo de engenhosidade e de adaptação às adversidades."
+          }
+        ],
+        "toxicity": {
+          "headline": "Seguro para animais de estimação",
+          "active_compound_display": "Nenhum reportado",
+          "notes_en": "Não foi encontrada correspondência com uma fonte autorizada; tratado como não reportado (a estimativa da IA não é verificada por fontes).",
+          "human": {
+            "exposure": "Não é reportada nenhuma via de exposição.",
+            "effect": "Não é reportado nenhum efeito tóxico.",
+            "note": "Não é reportada toxicidade para humanos neste catálogo; isto não é prova de que a planta seja comestível ou inofensiva."
+          },
+          "dog": {
+            "exposure": "Não é reportada nenhuma via de exposição.",
+            "effect": "Não é reportado nenhum efeito tóxico.",
+            "note": "Fontes autorizadas indicam que esta planta não é tóxica para cães; isto não é prova de que a planta seja comestível."
+          },
+          "cat": {
+            "exposure": "Não é reportada nenhuma via de exposição.",
+            "effect": "Não é reportado nenhum efeito tóxico.",
+            "note": "Fontes autorizadas indicam que esta planta não é tóxica para gatos; isto não é prova de que a planta seja comestível."
+          }
+        }
+      }
+    },
+    "AAA1695": {
+      "source_hash": "0479a1ecb698f63934e5d72b8517362d9b0aa4fb90e78dacc4e0605533fcc7e8",
+      "fields": {
+        "common_name": "Panaeolina do feno",
+        "description": "A Panaeolina do feno é um dos cogumelos de relvado mais comuns do mundo, surgindo às dezenas na relva curta depois de uma chuva quente ou de um corte de relva recente, daí o seu nome em inglês. O seu pequeno chapéu cónico abre-se em forma de sino e é higrófano: ao longo do dia, seca, passando de um castanho-avermelhado intenso no centro a um bege pálido nas margens. As suas lamelas amadurecem de forma desigual, dando-lhes um aspeto manchado e salpicado antes de escurecerem e libertarem uma esporada castanho-chocolate. Em vez de se alimentar de plantas vivas, vive de restolho de relva em decomposição enterrado no solo, decompondo silenciosamente matéria orgânica morta e reciclando nutrientes de volta para o relvado.",
+        "history_text_short": "Desde que Christiaan Hendrik Persoon o descreveu pela primeira vez em 1800, este minúsculo cogumelo de relvado já passou por meia dúzia de nomes de género entre os micólogos. A sua semelhança com parentes psicoativos também o torna um dos cogumelos mais associados a chamadas preocupadas para linhas de intoxicação de animais, embora seja quase sempre inofensivo.",
+        "history_text_long": "Quando o micologista pioneiro Christiaan Hendrik Persoon descreveu pela primeira vez este pequeno cogumelo em 1800, colocou-o no enorme género \"saco de gatos\" Agaricus, o lar por defeito de quase todos os cogumelos laminados então conhecidos. À medida que os micologistas foram descobrindo como os cogumelos laminados estavam realmente relacionados entre si, a espécie foi reclassificada vezes sem conta, passando por géneros como Psathyrella e Panaeolus, até se fixar finalmente, em 1933, em Panaeolina, um pequeno género criado especificamente para a abrigar a ela e aos seus parentes mais próximos. O seu nome de espécie, foenisecii, vem do latim para a ceifa do feno, uma referência à fidelidade com que surge em prados de feno recém-cortado e relvados aparados.\n\nEssa mesma abundância quotidiana tornou a Panaeolina do feno uma pequena celebridade nos círculos veterinários. Sendo muito provavelmente o cogumelo mais comum em relvados de todo o mundo, é também o cogumelo mais frequentemente responsável pela chamada aflita de um dono de cão para uma linha de intoxicações depois de um animal engolir um pequeno cogumelo castanho durante um passeio. A sua semelhança superficial com as espécies psicoativas Panaeolus e Psilocybe, que partilham as suas lamelas escuras e manchadas e a sua esporada escura, só aumenta o alarme. Na esmagadora maioria dos casos, porém, o culpado revela-se este decompositor inofensivo, que não faz nada mais sinistro do que devolver ao solo o restolho de relva morta.",
+        "name_origin": "O seu nome de espécie, foenisecii, deriva do latim para a ceifa do feno e descreve o seu hábito de frutificar abundantemente em prados de feno recém-cortado e relvados aparados; o género Panaeolina agrupa-a com cogumelos cujas lamelas manchadas lembram as do género aparentado Panaeolus.",
+        "symbolism_story": "Frutificando por pouco mais de um dia antes de murchar, a Panaeolina do feno é um lembrete silencioso de que até as vidas mais despercebidas podem ter sentido precisamente por serem breves, reciclando o que veio antes em alimento para o que vem a seguir.",
+        "flower_meaning": "Efemeridade",
+        "fragrance": {
+          "notes": "A sua carne exala um leve odor farináceo, semelhante ao da farinha fresca, típico de muitos pequenos cogumelos castanhos de relvado."
+        },
+        "symbolism_list": [
+          {
+            "keyword": "Efemeridade",
+            "description": "Surgindo de um dia para o outro depois da chuva e desvanecendo-se de novo num único dia, a Panaeolina do feno há muito que é um emblema natural do efémero: um ciclo de vida breve e delicado que decorre despercebido em relvados comuns."
+          }
+        ],
+        "toxicity": {
+          "headline": "Nenhuma toxicidade reportada",
+          "active_compound_display": "Nenhum reportado",
+          "notes_en": "Não foi encontrada correspondência com uma fonte autorizada; tratado como não reportado (a estimativa da IA não é verificada por fontes).",
+          "human": {
+            "exposure": "Não é reportada nenhuma via de exposição.",
+            "effect": "Não é reportado nenhum efeito tóxico.",
+            "note": "Não é reportada toxicidade para os humanos neste catálogo; isto não é prova de que a planta seja comestível ou inofensiva."
+          },
+          "dog": {
+            "exposure": "Não é reportada nenhuma via de exposição.",
+            "effect": "Não é reportado nenhum efeito tóxico.",
+            "note": "Não é reportada toxicidade para os cães neste catálogo; isto não é prova de que a planta seja comestível ou inofensiva."
+          },
+          "cat": {
+            "exposure": "Não é reportada nenhuma via de exposição.",
+            "effect": "Não é reportado nenhum efeito tóxico.",
+            "note": "Não é reportada toxicidade para os gatos neste catálogo; isto não é prova de que a planta seja comestível ou inofensiva."
           }
         }
       }
