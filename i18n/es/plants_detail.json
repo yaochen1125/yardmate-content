@@ -3,8 +3,8 @@
   "locale": "es",
   "source": {
     "resource": "plants_detail.json",
-    "sha256": "0ff7d1847eeb9375de7d71a27dfb0cf579f7ac408b833b843ddd9ddbb31ab1a2",
-    "record_count": 1719
+    "sha256": "0373888ca817f09f861729a33f79a07b95f8af38595e8a4098394b094946eb9e",
+    "record_count": 1734
   },
   "records": {
     "AAA0001": {
@@ -105307,6 +105307,855 @@
             "exposure": "No se reporta ninguna vía de exposición.",
             "effect": "No se reporta ningún efecto tóxico.",
             "note": "La toxicidad para los gatos no está bien documentada; se recomienda precaución hasta su verificación."
+          }
+        }
+      }
+    },
+    "AAA1721": {
+      "source_hash": "cd43262893ef626c44a822649ff9ddf0c709048dd62e18e6d9d57b3d69d83e3c",
+      "fields": {
+        "common_name": "Anémona de bosque",
+        "description": "Anemonoides, comúnmente llamada anémona de bosque, es un género de unas 25 especies de plantas perennes bajas y rizomatosas que se encuentran en los bosques y prados de Europa, Asia y Norteamérica, separadas del género más amplio Anemone mediante estudios moleculares. La mayoría de las especies producen a comienzos de la primavera hojas finamente divididas, parecidas a las de un helecho, seguidas de flores solitarias y delicadas de color blanco, rosa o azul que se cierran con el cielo nublado y se abren por completo solo con calor y luz. Las anémonas de bosque se propagan lentamente mediante rizomas subterráneos, tardando a menudo décadas en colonizar nuevo terreno, lo que ha convertido a ciertas especies, especialmente la anémona de bosque europea, en apreciados indicadores de bosques antiguos y no perturbados. Tolerante a la sombra y a suelos húmedos y bien drenados, la anémona de bosque es una planta de jardín boscoso muy valorada en primavera para naturalizar bajo árboles de hoja caduca.",
+        "history_text_short": "El naturalista romano Plinio el Viejo registró en su Historia Natural del siglo I que las anémonas de bosque abren sus pétalos solo cuando las agita el viento, una creencia incorporada en el nombre del género Anemonoides, del griego anemos, 'viento', y aún repetida en la literatura de jardinería dos mil años después.",
+        "history_text_long": "Las anémonas de bosque llevan un nombre nacido de una observación antigua. En el siglo I d. C., el naturalista romano Plinio el Viejo describió en su extensa enciclopedia Historia Natural una planta que llamó 'anemone', afirmando que sus flores se abrían solo cuando el viento las tocaba, nunca por sí mismas. La raíz griega anemos, 'viento', dio nombre a la planta, formalizado más tarde en el género Anemonoides para muchas de las especies de bosque antes agrupadas bajo el género más amplio Anemone. La afirmación de Plinio era una ligera exageración: las anémonas de bosque se cierran en condiciones frías, húmedas o nubladas y se reabren con el calor y la luz, un comportamiento impulsado por la temperatura y la humedad más que por el viento en sí, pero la asociación perduró, y 'anémona de bosque' sigue siendo el nombre común de la planta en gran parte de su área de distribución.\n\nSiglos después, las anémonas de bosque encontraron un segundo tipo de fama, esta vez entre los ecólogos. La anémona de bosque europea, Anemonoides nemorosa, se propaga casi por completo mediante rizomas subterráneos de crecimiento lento en lugar de semillas que viajan lejos, avanzando por el suelo forestal a un ritmo estimado en ocasiones en solo unos pocos metros por siglo. Debido a esta colonización extraordinariamente lenta, una alfombra próspera de anémonas de bosque silvestres es considerada por los ecólogos un fuerte indicador de bosque antiguo, que ha existido, en gran parte sin perturbaciones, durante siglos. Los conservacionistas utilizan hoy la cobertura de anémona de bosque, junto con una breve lista de otras plantas de propagación lenta, para ayudar a identificar fragmentos de bosque antiguo que de otro modo podrían confundirse con bosque secundario ordinario.\n\nEn los jardines, las anémonas de bosque mantienen una relación más tranquila con el tiempo, emergiendo cada primavera con follaje parecido al de un helecho y flores inclinadas, entrando en reposo en verano, y pidiendo solo que se las deje mayormente sin perturbar bajo árboles de hoja caduca año tras año, la misma persistencia paciente que las hizo útiles para los botánicos que rastreaban la historia profunda de los bosques en que crecen.",
+        "name_origin": "El nombre del género Anemonoides proviene del griego anemos, que significa 'viento', combinado con un sufijo que indica semejanza con el género emparentado Anemone; el nombre común anémona de bosque refleja la antigua creencia, registrada por el naturalista romano Plinio el Viejo, de que las flores se abren solo cuando las agita una brisa.",
+        "symbolism_story": "La anémona de bosque lleva el significado floral victoriano de la anticipación, extraído de la forma en que sus delicados pétalos parecen esperar las condiciones adecuadas de luz y calor antes de abrirse por completo, junto con un segundo simbolismo más silencioso y moderno de paciencia, ganado por la extraordinariamente lenta propagación de la planta mediante rizomas subterráneos, un ritmo que los ecólogos utilizan hoy para leer la edad de los bosques que la anémona de bosque llama hogar.",
+        "flower_meaning": "Anticipación",
+        "uses_list": [
+          {
+            "text": "Las flores de principios de primavera proporcionan una importante fuente de néctar para las abejas y otros polinizadores antes de que florezcan muchas otras plantas."
+          },
+          {
+            "text": "El follaje parecido al helecho y las flores inclinadas hacen de la anémona de bosque una opción popular para naturalizar en jardines boscosos sombreados en primavera."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Anticipación",
+            "description": "un significado floral de la época victoriana vinculado a la forma en que los pétalos de la anémona de bosque parecen esperar las condiciones adecuadas antes de abrirse por completo"
+          },
+          {
+            "keyword": "Paciencia",
+            "description": "extraída de la extraordinariamente lenta propagación de la planta mediante rizomas subterráneos, a veces solo unos pocos metros por siglo"
+          }
+        ],
+        "toxicity": {
+          "headline": "Toxicidad desconocida",
+          "active_compound_display": "Ninguno reportado",
+          "notes_en": "No se encontró ninguna coincidencia de toxicidad autorizada; se trata como no reportado (la estimación del LLM no está verificada por fuentes).",
+          "human": {
+            "exposure": "No se reporta ninguna vía de exposición.",
+            "effect": "No se reporta ningún efecto tóxico.",
+            "note": "La toxicidad para los humanos no está bien documentada; se recomienda precaución hasta su verificación."
+          },
+          "dog": {
+            "exposure": "No se reporta ninguna vía de exposición.",
+            "effect": "No se reporta ningún efecto tóxico.",
+            "note": "La toxicidad para los perros no está bien documentada; se recomienda precaución hasta su verificación."
+          },
+          "cat": {
+            "exposure": "No se reporta ninguna vía de exposición.",
+            "effect": "No se reporta ningún efecto tóxico.",
+            "note": "La toxicidad para los gatos no está bien documentada; se recomienda precaución hasta su verificación."
+          }
+        }
+      }
+    },
+    "AAA1722": {
+      "source_hash": "927bc4e0c420d43c6e54cdaa2b5cca3e91e469c898830ef8a0683265f5792f91",
+      "fields": {
+        "common_name": "Cornejos",
+        "bloom_tip": "Los cornejos producen flores llamativas en primavera, atrayendo a los polinizadores durante su época de floración.",
+        "fruit_tip": "Sus frutos de color rojo brillante o azul aportan interés ornamental y alimento para la fauna silvestre.",
+        "description": "Cornus, comúnmente llamado cornejo, es un género de unas 60 especies de árboles y arbustos caducifolios nativos de regiones templadas de Norteamérica, Asia y Europa, apreciados por sus vistosas flores primaverales, su corteza ornamental y sus frutos otoñales de color rojo brillante o azul que alimentan a las aves canoras. Lo que parecen cuatro amplios pétalos blancos o rosas en especies como el cornejo florido (Cornus florida) son en realidad brácteas que rodean un pequeño racimo de flores verdaderas en el centro. El nombre del género proviene del latín cornu ('cuerno'), en alusión a la excepcional dureza de la densa madera del cornejo. Tolerante a la sombra parcial y a diversos suelos, el cornejo es un elemento habitual de los jardines boscosos, apreciado tanto por su floración primaveral como por su intenso colorido otoñal.",
+        "history_text_short": "Durante la Guerra Civil estadounidense, cuando el bloqueo naval de la Unión cortó el suministro de quinina, los médicos del ejército confederado recurrieron a la corteza interna amarga del cornejo florido como remedio popular contra las fiebres de la malaria, una práctica arraigada en la medicina herbal nativa americana y de los primeros colonos.",
+        "history_text_long": "Mucho antes de convertirse en un árbol florido favorito de los jardines estadounidenses, el cornejo fue medicina. Las comunidades nativas americanas de los bosques orientales llevaban mucho tiempo usando la corteza interna, amarga y astringente, de Cornus florida para tratar fiebres, y los primeros colonos europeos adoptaron ellos mismos el remedio. Ese saber popular se volvió urgentemente práctico durante la Guerra Civil estadounidense, cuando el bloqueo naval de la Unión aisló a la Confederación de la quinina importada, el tratamiento estándar para la malaria que se propagaba por los campamentos militares en el húmedo Sur. Los cirujanos y boticarios confederados recurrieron a la corteza de cornejo, a menudo combinada con otras cortezas nativas, como sustituto amargo, infusionándola en tés y tinturas para bajar la fiebre cuando no había nada más disponible.\n\nEl árbol también lleva consigo una pieza muy difundida del folclore estadounidense, popular especialmente en el Sur: que el cornejo fue en su día lo bastante alto y fuerte como para proporcionar la madera para la cruz de la crucifixión, y que después fue transformado en un árbol pequeño y retorcido que nunca más crecería lo suficiente para tal propósito. En este relato, se dice que las cuatro brácteas en forma de pétalo de su flor, muescadas y teñidas de marrón rojizo en cada punta como si estuvieran manchadas, recuerdan la forma de una cruz y las marcas de los clavos, mientras que el racimo denso del centro evoca una corona de espinas. La historia no tiene base en la historia botánica, ya que los cornejos nunca crecieron en la región del relato bíblico, pero se difundió ampliamente a través de sermones, postales y saber popular de jardinería en los siglos XIX y XX, y sigue siendo una de las leyendas de árboles más repetidas del folclore estadounidense.\n\nHoy en día, Cornus florida es el árbol estatal tanto de Virginia como de Misuri, y los cornejos de todo el género se cultivan en todo el mundo por sus fiables brácteas primaverales, su corteza moteada y el brillante follaje y fruto rojos que les siguen en otoño.",
+        "name_origin": "El nombre del género Cornus proviene del latín cornu ('cuerno'), en referencia a la excepcional dureza de la densa madera del cornejo, históricamente apreciada para mangos de herramientas y otros objetos que requerían una madera resistente y duradera.",
+        "symbolism_story": "El cornejo lleva consigo un doble simbolismo arraigado tanto en la botánica como en el folclore: durabilidad, extraída de su madera famosamente dura y córnea, y fe, de una popular leyenda estadounidense que interpreta las cuatro brácteas muescadas en forma de cruz de su flor primaveral como un eco silencioso de la historia de la Pascua.",
+        "flower_meaning": "Durabilidad",
+        "uses_list": [
+          {
+            "text": "Un árbol florido favorito por sus brácteas primaverales, su corteza moteada y su vivo colorido otoñal."
+          },
+          {
+            "text": "Los frutos otoñales de color rojo brillante o azul son una fuente alimenticia importante para aves canoras migratorias y residentes."
+          },
+          {
+            "text": "La corteza interna amarga se usó históricamente como remedio popular contra la fiebre, especialmente como sustituto de la quinina durante la Guerra Civil estadounidense."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Durabilidad",
+            "description": "madera excepcionalmente dura, como de cuerno, que dio nombre latino al género"
+          },
+          {
+            "keyword": "Fe",
+            "description": "una leyenda popular estadounidense muy difundida que vincula las brácteas en forma de cruz del cornejo con la historia de la Pascua"
+          }
+        ],
+        "toxicity": {
+          "headline": "No se reporta toxicidad",
+          "active_compound_display": "Ninguno reportado",
+          "notes_en": "No se encontró ninguna coincidencia de toxicidad autorizada; se trata como no reportada (la estimación de la IA no está verificada por fuentes).",
+          "human": {
+            "exposure": "No se reporta ninguna vía de exposición.",
+            "effect": "No se reporta ningún efecto tóxico.",
+            "note": "No se reporta toxicidad para humanos en este catálogo; esto no es prueba de que la planta sea comestible o inofensiva."
+          },
+          "dog": {
+            "exposure": "No se reporta ninguna vía de exposición.",
+            "effect": "No se reporta ningún efecto tóxico.",
+            "note": "No se reporta toxicidad para perros en este catálogo; esto no es prueba de que la planta sea comestible o inofensiva."
+          },
+          "cat": {
+            "exposure": "No se reporta ninguna vía de exposición.",
+            "effect": "No se reporta ningún efecto tóxico.",
+            "note": "No se reporta toxicidad para gatos en este catálogo; esto no es prueba de que la planta sea comestible o inofensiva."
+          }
+        }
+      }
+    },
+    "AAA1723": {
+      "source_hash": "0bad2fa09821f8698a61082063c7b1a74f0e8696396215c1208cfa72c53687ee",
+      "fields": {
+        "common_name": "Dicondra",
+        "description": "Dichondra, comúnmente llamada dicondra, es un género de perennes rastreras bajas de la familia de las campanillas, nativas de regiones cálidas de Norteamérica y Sudamérica. Sus pequeñas hojas redondeadas, con forma de diminuta pezuña de caballo, se pegan al suelo formando una alfombra densa de apenas unos centímetros de alto, que se extiende de forma constante mediante tallos que enraízan, creando una exuberante cubierta vegetal similar al césped. Cultivada como alternativa al césped de gramíneas o intercalada entre losas de paso, la Dichondra tolera el tránsito peatonal ligero, prospera a pleno sol o en sombra parcial, y una vez establecida necesita poca agua, manteniéndose verde con un mantenimiento y siega mínimos.",
+        "history_text_short": "A mediados del siglo XX, en el sur de California la Dichondra se convirtió en la alternativa de moda al césped de gramíneas, apreciada por su suave alfombra de hojas que no requería siega, hasta que los jardineros descubrieron que el herbicida común para césped, arrastrado desde el jardín vecino, podía matar todo un césped de dicondra de la noche a la mañana.",
+        "history_text_long": "Dichondra debe su breve momento de fama suburbana estadounidense a una fantasía de posguerra muy concreta: un césped que nunca necesitara siega. En las décadas de 1940 y 1950, propietarios y paisajistas del sur de California descubrieron que Dichondra micrantha, una cubierta vegetal rastrera ya común en céspedes de toda América cálida, podía cultivarse como una densa alfombra color esmeralda que se mantenía baja por sí sola, toleraba el tránsito peatonal y no necesitaba recorte semanal. Los céspedes de dicondra se convirtieron en símbolo de estatus desde Los Ángeles hasta Palm Springs, promocionados en revistas de jardinería como la alternativa moderna y sin esfuerzo al césped de gramíneas.\n\nLa moda tenía una trampa que solo se hizo evidente a medida que los suburbios se densificaban. Dichondra es una planta de hoja ancha, no una gramínea, por lo que los herbicidas que los propietarios aplicaban rutinariamente en su césped para matar malas hierbas de hoja ancha resultaban igual de letales para el césped de dicondra del vecino. La deriva de la pulverización en una tarde ventosa podía dejar marrón un jardín entero de la noche a la mañana, y los céspedes de dicondra se convirtieron en una insólita fuente de disputas vecinales, con algunos municipios recibiendo quejas e incluso considerando restricciones de pulverización para protegerlos.\n\nPara la década de 1970, el aumento del costo del agua, la vulnerabilidad a plagas como las pulgas saltadoras y la pura fragilidad de un césped totalmente de dicondra empujaron a los propietarios de vuelta hacia céspedes de gramíneas más resistentes, aunque la planta nunca desapareció del todo. Hoy en día, Dichondra persiste en jardines de todo el mundo en un papel más pequeño y amable: intercalada entre losas de paso, derramándose por los bordes de macetas, y todavía, aquí y allá, manteniendo su terreno como césped para quien esté dispuesto a mantener alejado el herbicida.",
+        "name_origin": "El nombre del género Dichondra proviene del griego di- ('dos') y chondros ('grano'), y describe el fruto, que se divide en dos pequeñas cápsulas seminales redondeadas.",
+        "symbolism_story": "Las flores de Dichondra son tan diminutas que casi desaparecen entre el follaje, por lo que su simbolismo surgió de su hábito de crecimiento más que de su floración: una planta modesta, pegada al suelo, que se extiende en silencio bajo los pies, sin pedir nada y manteniendo su terreno tanto frente a la sequía como al paso de la gente, un emblema silencioso de humildad y resiliencia.",
+        "flower_meaning": "Humildad",
+        "uses_list": [
+          {
+            "text": "Se cultiva como alternativa de césped suave y sin siega, o se intercala entre losas de paso y adoquines."
+          },
+          {
+            "text": "La densa alfombra de hojas da refugio a pequeños insectos y ayuda a estabilizar el suelo contra la erosión."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Humildad",
+            "description": "una planta que se extiende baja y silenciosa bajo los pies en lugar de buscar atención"
+          },
+          {
+            "keyword": "Resiliencia",
+            "description": "una alfombra resistente y expansiva que mantiene su terreno frente al tránsito peatonal y la sequía"
+          }
+        ],
+        "toxicity": {
+          "headline": "No se reporta toxicidad",
+          "active_compound_display": "Ninguno reportado",
+          "notes_en": "No se encontró ninguna coincidencia de toxicidad autorizada; se trata como no reportada (la estimación de la IA no está verificada por fuentes).",
+          "human": {
+            "exposure": "No se reporta ninguna vía de exposición.",
+            "effect": "No se reporta ningún efecto tóxico.",
+            "note": "No se reporta toxicidad para humanos en este catálogo; esto no es prueba de que la planta sea comestible o inofensiva."
+          },
+          "dog": {
+            "exposure": "No se reporta ninguna vía de exposición.",
+            "effect": "No se reporta ningún efecto tóxico.",
+            "note": "No se reporta toxicidad para perros en este catálogo; esto no es prueba de que la planta sea comestible o inofensiva."
+          },
+          "cat": {
+            "exposure": "No se reporta ninguna vía de exposición.",
+            "effect": "No se reporta ningún efecto tóxico.",
+            "note": "No se reporta toxicidad para gatos en este catálogo; esto no es prueba de que la planta sea comestible o inofensiva."
+          }
+        }
+      }
+    },
+    "AAA1724": {
+      "source_hash": "80fbc1da98866120cd3800ef15b865555ac39e6f2913534a1f438b3a91ba7947",
+      "fields": {
+        "common_name": "Higueras",
+        "fruit_tip": "Las higueras producen frutos dulces y jugosos, muy apreciados por su uso culinario.",
+        "description": "Ficus es un género vastísimo de unas 850 especies de árboles, arbustos y enredaderas de la familia de las moráceas, que abarca desde la higuera común comestible (Ficus carica) hasta imponentes baniano tropicales y higueras estranguladoras, además de plantas de interior tan conocidas como el ficus de hoja de caucho y el ficus benjamina. Casi todas las especies dependen para su polinización de una avispa diminuta y especializada, a menudo una única especie, una relación tan precisa que muchas especies de higuera y sus avispas han coevolucionado durante decenas de millones de años. El nombre del género proviene de la palabra latina para higo. Las higueras prosperan en climas cálidos, toleran diversos suelos e incluyen algunos de los árboles más sagrados y económicamente importantes de la historia humana.",
+        "history_text_short": "Hacia el siglo VI a.C., se dice que Buda alcanzó la iluminación meditando bajo un Ficus religiosa en Bodh Gaya, India; un esqueje de aquel árbol Bodhi original, plantado en Sri Lanka en el año 288 a.C., sobrevive hoy como el árbol plantado por el ser humano más antiguo con fecha de plantación documentada.",
+        "history_text_long": "Pocos géneros de plantas llevan tanto peso religioso y biológico como Ficus. Hacia el siglo VI a.C., se dice que Siddhartha Gautama se sentó bajo un Ficus religiosa, hoy llamado el árbol Bodhi, en Bodh Gaya, India, y allí alcanzó la iluminación, lo que convirtió a la especie en sagrada en todo el mundo budista. El árbol original desapareció hace mucho tiempo, pero en el año 288 a.C. se plantó un esqueje de él, llevado por la monja Sangamitta, en Anuradhapura, Sri Lanka. Ese árbol, el Sri Maha Bodhi, sigue creciendo hoy, cuidado de forma continua desde entonces, y es ampliamente citado como el árbol plantado por el ser humano más antiguo del mundo con fecha de plantación documentada, verificado a lo largo de más de dos mil años de registro continuo.\n\nLa biología del género es tan notable como su historia religiosa. Casi todas las aproximadamente 850 especies de Ficus dependen de una diminuta avispa especializada para la polinización, y la mayoría de las especies de higuera están emparejadas con una única especie de avispa que no puede reproducirse en ningún otro lugar. La avispa se introduce dentro de la estructura floral cerrada del higo para poner sus huevos, polinizándolo en el proceso, y muere en su interior; el higo digiere después su cuerpo mediante una enzima llamada ficina, de modo que cuando el higo está maduro apenas queda nada reconocible de la avispa. Esta estrecha asociación lleva funcionando más de 60 millones de años, lo que la convierte en uno de los ejemplos de coevolución entre una planta y su polinizador más antiguos conocidos.\n\nMás allá de la religión y la reproducción, Ficus ha moldeado paisajes y medios de vida en todo el mundo: las higueras estranguladoras germinan en el dosel de árboles huésped y envían raíces hacia el suelo, llegando finalmente a envolver y sobrevivir a su huésped; los banianos como Ficus benghalensis crecen hasta convertirse en arquitectura viva, con raíces aéreas que forman nuevos troncos capaces de cubrir hectáreas; y la higuera común, Ficus carica, se cultiva como alimento desde antes de la historia escrita, entre los árboles frutales domesticados más antiguos conocidos.",
+        "name_origin": "El nombre del género Ficus proviene directamente de la palabra latina para higo, aplicada originalmente a la higuera común, Ficus carica, y extendida después a las aproximadamente 850 especies emparentadas del género.",
+        "symbolism_story": "Ficus lleva el peso de la iluminación a través del sagrado árbol Bodhi, bajo el cual se dice que Buda halló el despertar, y el de la abundancia a través de la higuera común, uno de los árboles frutales más antiguos cultivados por la humanidad y un símbolo perdurable de fertilidad y abundancia en las culturas mediterráneas y asiáticas.",
+        "flower_meaning": "Iluminación",
+        "uses_list": [
+          {
+            "text": "La higuera común (Ficus carica) se cultiva por su fruto dulce desde antes de la historia escrita."
+          },
+          {
+            "text": "Especies como el ficus benjamina y el ficus de hoja de caucho están entre las plantas de interior de follaje más populares del mundo."
+          },
+          {
+            "text": "Casi todas las especies de higuera dependen de una única especie de avispa especializada para su polinización."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Iluminación",
+            "description": "el sagrado árbol Bodhi, Ficus religiosa, bajo el cual se dice que Buda alcanzó la iluminación"
+          },
+          {
+            "keyword": "Abundancia",
+            "description": "uno de los árboles frutales más antiguos cultivados por la humanidad, símbolo perdurable de fertilidad y abundancia"
+          }
+        ],
+        "toxicity": {
+          "headline": "Humanos: Leve · Mascotas: Leve",
+          "active_compound_display": "ficina (enzima proteolítica) e irritantes de la savia lechosa",
+          "notes_en": "La savia lechosa presente en muchas especies de Ficus, especialmente en plantas de interior comunes como el ficus benjamina (Ficus benjamina) y el ficus de hoja de caucho (Ficus elastica), puede irritar la piel y la boca y causar malestar gastrointestinal leve en mascotas si la mastican; el contacto con la savia también es una causa reconocida de reacciones alérgicas cutáneas y respiratorias en personas sensibles.",
+          "human": {
+            "exposure": "Tocar savia y hojas. Contacto con savia y hojas.",
+            "effect": "Irritación cutánea y dermatitis.",
+            "note": "La savia lechosa presente en muchas especies de Ficus, especialmente en plantas de interior comunes como el ficus benjamina (Ficus benjamina) y el ficus de hoja de caucho (Ficus elastica), puede irritar la piel y la boca y causar malestar gastrointestinal leve en mascotas si la mastican; el contacto con la savia también es una causa reconocida de reacciones alérgicas cutáneas y respiratorias en personas sensibles.",
+            "symptoms": [
+              "Irritación cutánea.",
+              "Dermatitis."
+            ]
+          },
+          "dog": {
+            "exposure": "Ingerir savia y hojas. Tocar savia y hojas.",
+            "effect": "Vómitos, babeo e irritación bucal.",
+            "note": "La savia lechosa presente en muchas especies de Ficus, especialmente en plantas de interior comunes como el ficus benjamina (Ficus benjamina) y el ficus de hoja de caucho (Ficus elastica), puede irritar la piel y la boca y causar malestar gastrointestinal leve en mascotas si la mastican; el contacto con la savia también es una causa reconocida de reacciones alérgicas cutáneas y respiratorias en personas sensibles.",
+            "symptoms": [
+              "Vómitos.",
+              "Babeo.",
+              "Irritación bucal."
+            ]
+          },
+          "cat": {
+            "exposure": "Ingerir savia y hojas. Tocar savia y hojas.",
+            "effect": "Vómitos, babeo e irritación bucal.",
+            "note": "La savia lechosa presente en muchas especies de Ficus, especialmente en plantas de interior comunes como el ficus benjamina (Ficus benjamina) y el ficus de hoja de caucho (Ficus elastica), puede irritar la piel y la boca y causar malestar gastrointestinal leve en mascotas si la mastican; el contacto con la savia también es una causa reconocida de reacciones alérgicas cutáneas y respiratorias en personas sensibles.",
+            "symptoms": [
+              "Vómitos.",
+              "Babeo.",
+              "Irritación bucal."
+            ]
+          }
+        }
+      }
+    },
+    "AAA1725": {
+      "source_hash": "5504bf941ae51f37d6b1cb75c4ef60295a0d767d0d5a819641aae11ccd75c199",
+      "fields": {
+        "common_name": "Hydrangea",
+        "bloom_tip": "Las hortensias muestran grandes y coloridos racimos de flores desde principios de verano hasta el otoño.",
+        "description": "Hydrangea (hortensia) es un género de unas 75 especies de arbustos floríferos nativos de Asia y América, apreciados por sus grandes racimos de flores redondeadas que florecen desde principios de verano hasta el otoño en tonos azules, rosas, morados o blancos. En varias especies, incluida la popular hortensia de hoja grande (Hydrangea macrophylla), el color de la flor cambia según la química del suelo: un suelo ácido con aluminio disponible produce flores azules, mientras que un suelo alcalino produce flores rosas. El nombre del género proviene del griego hydor ('agua') y angeion ('vasija'), en referencia a la pequeña cápsula de semillas en forma de copa. Las hortensias prefieren suelo húmedo y bien drenado y sombra parcial, y son un elemento habitual de los jardines de clima templado en todo el mundo.",
+        "history_text_short": "En la década de 1820, el médico y naturalista Philipp von Siebold, destinado en la isla comercial holandesa de Dejima, en Nagasaki, nombró un nuevo cultivar de hortensia 'Otaksa' en honor a Otaki-san, su compañera japonesa, llevando su nombre de vuelta a Europa en una época en que Japón permanecía cerrado al estudio occidental.",
+        "history_text_long": "Hydrangea macrophylla ya se cultivaba en Japón desde hacía siglos, en torno a templos budistas y apreciada como ajisai, una flor ligada a la temporada de lluvias, mucho antes de que los europeos la vieran crecer. El acceso occidental era prácticamente inexistente: durante más de dos siglos, la política aislacionista sakoku de Japón confinó a los comerciantes extranjeros a Dejima, una pequeña isla artificial en el puerto de Nagasaki, y solo a los comerciantes holandeses se les permitió incluso ese limitado punto de apoyo.\n\nFue allí, en la década de 1820, donde el médico y naturalista alemán Philipp Franz von Siebold trabajó como médico para el puesto comercial holandés, utilizando su práctica médica como tapadera para estudiar las plantas, la cultura y el idioma japoneses con una profundidad mucho mayor que cualquier occidental anterior. Entre los numerosos ejemplares de hortensia que catalogó y luego introdujo en Europa, Siebold bautizó un llamativo cultivar nuevo como Hydrangea otaksa, una versión japonizada del nombre de Otaki-san, la mujer japonesa que era su esposa de hecho y la madre de su hija. Cuando Siebold fue expulsado de Japón en 1829 tras un escándalo político, se llevó consigo especímenes secos, dibujos y ese nombre, de modo que una flor criada en un país cerrado y lejano llegó a florecer en los jardines europeos bajo un discreto tributo privado que pocos de sus nuevos dueños habrían podido adivinar.\n\nHoy el género se cultiva en todo el mundo, y los jardineros todavía persiguen el famoso truco de la hortensia de hoja grande: añadir sulfato de aluminio para acidificar el suelo convierte las flores rosas en azules, un poco de química de jardín heredada sin saberlo del mismo arbusto japonés que Siebold sacó en su día de contrabando en sus cuadernos y cajas de especímenes.",
+        "name_origin": "El nombre del género Hydrangea proviene del griego hydor ('agua') y angeion ('vasija'), en referencia a la pequeña cápsula de semillas en forma de copa que recuerda a una diminuta jarra de agua.",
+        "symbolism_story": "En Japón, el racimo de muchas florecillas de la hortensia unidas en una sola cabeza redondeada se convirtió en símbolo de gratitud y unidad familiar, mientras que su famosa capacidad de pasar de rosa a azul según el suelo le valió una segunda y más antigua reputación en el lenguaje de las flores como emblema de la inconstancia.",
+        "flower_meaning": "Gratitud",
+        "uses_list": [
+          {
+            "text": "Cultivada en todo el mundo por sus grandes y duraderos racimos de flores en setos, bordes y macetas."
+          },
+          {
+            "text": "Las flores fértiles del centro del racimo proporcionan néctar y polen a las abejas."
+          },
+          {
+            "text": "Una flor cortada y seca muy popular, apreciada por sus flores abundantes y duraderas."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Gratitud",
+            "description": "la tradición japonesa del ajisai de muchas florecillas agrupadas como una sola, símbolo de agradecimiento sincero y unidad familiar"
+          },
+          {
+            "keyword": "Inconstancia",
+            "description": "flores que cambian de color según la química del suelo, un emblema tradicional de la inconstancia en el lenguaje de las flores"
+          }
+        ],
+        "toxicity": {
+          "headline": "Humanos: Leve",
+          "active_compound_display": "glucósidos cianogénicos (hidrangina)",
+          "notes_en": "Las hojas y los capullos contienen glucósidos cianogénicos que pueden causar vómitos, diarrea y letargo en mascotas si se ingieren en cantidad; el envenenamiento en humanos es raro pero posible con grandes ingestas.",
+          "human": {
+            "exposure": "Ingerir hojas y flores.",
+            "effect": "Náuseas y vómitos.",
+            "note": "Las hojas y los capullos contienen glucósidos cianogénicos que pueden causar vómitos, diarrea y letargo en mascotas si se ingieren en cantidad; el envenenamiento en humanos es raro pero posible con grandes ingestas.",
+            "symptoms": [
+              "Náuseas.",
+              "Vómitos."
+            ]
+          },
+          "dog": {
+            "exposure": "No se reporta ninguna vía de exposición.",
+            "effect": "No se reporta ningún efecto tóxico.",
+            "note": "La toxicidad para perros no está bien documentada; se recomienda precaución hasta confirmarlo."
+          },
+          "cat": {
+            "exposure": "No se reporta ninguna vía de exposición.",
+            "effect": "No se reporta ningún efecto tóxico.",
+            "note": "La toxicidad para gatos no está bien documentada; se recomienda precaución hasta confirmarlo."
+          }
+        }
+      }
+    },
+    "AAA1726": {
+      "source_hash": "621f010021706a42dfae36e4cefedc5310418a55e795db65443fec3cc8d87ae8",
+      "fields": {
+        "common_name": "Oreja de gato",
+        "bloom_tip": "Las flores aparecen desde finales de la primavera hasta el verano, atrayendo a diversos polinizadores.",
+        "description": "Hypochaeris, comúnmente llamada oreja de gato, es un género de unas 60 especies de plantas de flor amarilla parecidas al diente de león, nativas de Europa, con varias especies ya naturalizadas en Norteamérica, Australia y Nueva Zelanda. Rosetas bajas de hojas suaves y vellosas dan nombre al género, del griego 'bajo el pelo', y producen tallos ramificados, en su mayoría sin hojas, coronados por cabezuelas florales de un amarillo brillante desde finales de primavera hasta el verano. A menudo confundida con el diente de león verdadero, la oreja de gato se distingue por su follaje velloso y sus tallos florales bifurcados. Planta resistente y tolerante a la sequía de céspedes, pastizales y suelos alterados, la oreja de gato también destaca en medicina veterinaria como el desencadenante sospechoso del síndrome de las agujetas australiano, un trastorno neurológico de la marcha en caballos de pastoreo.",
+        "history_text_short": "En Australia, veterinarios de los siglos XIX y XX relacionaron un extraño trastorno de la marcha, con pasos exageradamente altos, en caballos de pastoreo, apodado síndrome de las agujetas australiano, con pastos densos de Hypochaeris radicata, la común oreja de gato, que sigue siendo hoy la principal causa sospechada de la afección.",
+        "history_text_long": "La oreja de gato es una planta discreta con una reputación desproporcionada en un campo muy concreto: la medicina veterinaria equina. Hypochaeris radicata, una maleza europea que siguió a colonos y ganado por todo el mundo, se naturalizó ampliamente en los pastizales de Australia a lo largo del siglo XIX. En algún momento de ese periodo, ganaderos y veterinarios comenzaron a notar una afección extraña en caballos que pastaban en potreros llenos de maleza, sobrepastoreados y a menudo estresados por la sequía: una marcha repentina, exagerada y de pasos altos en las patas traseras, como si el caballo intentara evitar pisar algo, causada por un tipo de daño nervioso. La afección se conoció como síndrome de las agujetas australiano, para distinguirla de una cojera más leve y no relacionada del mismo nombre vista en otros lugares, y los veterinarios acabaron rastreando los brotes de cerca hasta potreros donde la oreja de gato se había apoderado del terreno, particularmente a finales del verano y en otoño.\n\nLa toxina exacta responsable sigue siendo debatida por los investigadores, y no todos los caballos en un potrero infestado de oreja de gato desarrollan síntomas, pero retirar a los caballos afectados del pasto con maleza sigue siendo el primer paso estándar del tratamiento, y muchos casos mejoran lentamente a lo largo de meses una vez que cesa la exposición. Esta relación ha convertido a Hypochaeris radicata en una de las relativamente pocas malezas comunes de césped y pastizal con una enfermedad veterinaria específica y bien documentada, nombrada indirectamente por el daño que puede causar.\n\nLejos de los potreros, la oreja de gato lleva una vida mucho más tranquila: una roseta tenaz y de crecimiento bajo que coloniza céspedes y suelos alterados en todo el mundo, a menudo confundida a primera vista con el diente de león al que se parece pero con el que no está estrechamente emparentada, más allá de compartir una flor amarilla de la familia de las margaritas y una raíz pivotante.",
+        "name_origin": "El nombre del género Hypochaeris proviene del griego y significa 'bajo el pelo', en referencia a los pelos suaves y erizados que cubren las hojas de la planta; el nombre común oreja de gato describe igualmente la textura y la forma de esas hojas vellosas y redondeadas.",
+        "symbolism_story": "La oreja de gato lleva consigo un discreto simbolismo de resiliencia, extraído de su capacidad de colonizar suelos pobres, pisoteados y asolados por la sequía donde pocas otras plantas persisten, junto con un segundo simbolismo más juguetón de imitación, ganado por su asombroso parecido con el verdadero diente de león con el que tan a menudo se confunde.",
+        "flower_meaning": "Resiliencia",
+        "uses_list": [
+          {
+            "text": "Las cabezuelas de color amarillo brillante atraen abejas y otros polinizadores durante una larga floración estival."
+          },
+          {
+            "text": "Las cabezuelas de semillas y el follaje proporcionan alimento a pequeñas aves e insectos en prados y céspedes."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Resiliencia",
+            "description": "una planta tenaz que prospera en suelo pobre, pisoteado y propenso a la sequía donde poco más crece"
+          },
+          {
+            "keyword": "Imitación",
+            "description": "a menudo confundida con el verdadero diente de león al que se parece pero con el que no está estrechamente emparentada"
+          }
+        ],
+        "toxicity": {
+          "headline": "No se reporta toxicidad",
+          "active_compound_display": "Ninguno reportado",
+          "notes_en": "No se encontró ninguna coincidencia de toxicidad autorizada; se trata como no reportado (la estimación del LLM no está verificada por fuentes).",
+          "human": {
+            "exposure": "No se reporta ninguna vía de exposición.",
+            "effect": "No se reporta ningún efecto tóxico.",
+            "note": "No se reporta toxicidad para humanos en este catálogo; esto no es evidencia de que la planta sea comestible o inofensiva."
+          },
+          "dog": {
+            "exposure": "No se reporta ninguna vía de exposición.",
+            "effect": "No se reporta ningún efecto tóxico.",
+            "note": "No se reporta toxicidad para perros en este catálogo; esto no es evidencia de que la planta sea comestible o inofensiva."
+          },
+          "cat": {
+            "exposure": "No se reporta ninguna vía de exposición.",
+            "effect": "No se reporta ningún efecto tóxico.",
+            "note": "No se reporta toxicidad para gatos en este catálogo; esto no es evidencia de que la planta sea comestible o inofensiva."
+          }
+        }
+      }
+    },
+    "AAA1727": {
+      "source_hash": "e500f6f484e92f2e94a5ab1ca27144def8f074f626596fdba1580919d3c196df",
+      "fields": {
+        "common_name": "Lagerstroemia",
+        "description": "Lagerstroemia, comúnmente llamado crespón, es un género de unos 50 árboles y arbustos floríferos nativos del subcontinente indio, China, el sudeste asiático y partes de Oceanía, bautizado por Carlos Linneo en honor a su amigo Magnus von Lagerström, director de la Compañía Sueca de las Indias Orientales que le suministraba plantas recolectadas en Asia. Su nombre común alude a la textura rizada, como papel crespón, de sus abundantes flores estivales, que florecen durante meses en tonos rosa, morado, rojo o blanco sobre una corteza lisa, moteada y que se desprende, de notable interés incluso en invierno. Amante del calor y tolerante a la sequía una vez establecido, el crespón es uno de los árboles floríferos más plantados en jardines de clima cálido de todo el mundo.",
+        "history_text_short": "En la China de la dinastía Tang, los crespones llenaban el patio de la Secretaría imperial, que los funcionarios rebautizaron como Ziwei en honor al árbol; el poeta y funcionario Bai Juyi, que trabajaba allí a la luz de una lámpara, escribió sobre sentarse solo entre las flores moradas mientras redactaba los edictos del emperador.",
+        "history_text_long": "Mucho antes de convertirse en un elemento habitual de los jardines estadounidenses, el crespón ocupó un lugar dentro de la corte imperial de la China de la dinastía Tang. El patio de la Secretaría, el organismo central que redactaba los edictos del emperador en el siglo VIII, estaba densamente plantado con Lagerstroemia indica, apreciado por florecer durante el calor brutal del verano, cuando poco más florecía en los jardines del palacio. El cargo se asoció tanto con el árbol que pasó a llamarse Ziwei Sheng, la Secretaría del Crespón Morado, y el poeta y funcionario Bai Juyi, que trabajaba allí, escribió un conocido poema en el que se describe sentado a solas durante un turno de noche tranquilo, con las flores moradas al otro lado de su ventana como única compañía mientras redactaba decretos a la luz de una lámpara.\n\nLa segunda gran migración del crespón llegó más de mil años después. El botánico francés André Michaux, que recolectaba plantas para el rey Luis XVI, introdujo Lagerstroemia indica en Charleston, Carolina del Sur, en la década de 1780, donde los veranos largos y húmedos le sentaban aún mejor que en su área de distribución original. En los dos siglos siguientes se extendió tanto por el sur de Estados Unidos que se ganó el apodo de 'lila del sur', bordeando bulevares, jardines de juzgados y patios delanteros desde Virginia hasta Texas, con su corteza moteada y desprendida tan apreciada en invierno como sus flores rizadas, de papel crespón, en verano.\n\nEn ambos continentes, el género lleva el nombre de un hombre que nunca puso un pie en Asia: Magnus von Lagerström, director de la Compañía Sueca de las Indias Orientales, que suministró a Linneo especímenes secos recolectados en los viajes de la compañía, dándole así un nombre sueco a un árbol que viajó desde el patio de un palacio chino hasta el corazón del sur de Estados Unidos.",
+        "name_origin": "El género Lagerstroemia fue bautizado por Carlos Linneo en honor a su amigo Magnus von Lagerström, director de la Compañía Sueca de las Indias Orientales que suministró a Linneo especímenes vegetales recolectados en viajes a Asia; el nombre común crespón describe la textura rizada, de papel crespón, de sus pétalos.",
+        "symbolism_story": "El nombre popular chino del crespón, 'rojo de cien días', celebra una floración que dura meses en lugar de semanas, convirtiéndolo en un emblema tradicional del amor duradero, mientras que su larga historia en el patio de la Secretaría imperial Tang, donde los funcionarios redactaban los decretos del emperador bajo sus flores, le dio una segunda asociación con la elocuencia y el habla refinada.",
+        "flower_meaning": "Amor Duradero",
+        "uses_list": [
+          {
+            "text": "Uno de los árboles floríferos más plantados en jardines de clima cálido, apreciado por su floración estival de meses de duración."
+          },
+          {
+            "text": "Sus racimos de flores atraen abejas y mariposas durante su larga temporada de floración."
+          },
+          {
+            "text": "Las ramas floridas a veces se cortan para arreglos, valoradas por su textura rizada, de papel crespón."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Amor Duradero",
+            "description": "el nombre popular chino 'rojo de cien días' para su floración excepcionalmente larga, de meses de duración"
+          },
+          {
+            "keyword": "Elocuencia",
+            "description": "su larga asociación con los funcionarios eruditos de la dinastía Tang que redactaban edictos imperiales bajo sus flores"
+          }
+        ],
+        "toxicity": {
+          "headline": "No se reporta toxicidad",
+          "active_compound_display": "Ninguno reportado",
+          "notes_en": "No se encontró ninguna coincidencia de toxicidad autorizada; se trata como no reportada (la estimación de la IA no está verificada por fuentes).",
+          "human": {
+            "exposure": "No se reporta ninguna vía de exposición.",
+            "effect": "No se reporta ningún efecto tóxico.",
+            "note": "No se reporta toxicidad para humanos en este catálogo; esto no es prueba de que la planta sea comestible o inofensiva."
+          },
+          "dog": {
+            "exposure": "No se reporta ninguna vía de exposición.",
+            "effect": "No se reporta ningún efecto tóxico.",
+            "note": "No se reporta toxicidad para perros en este catálogo; esto no es prueba de que la planta sea comestible o inofensiva."
+          },
+          "cat": {
+            "exposure": "No se reporta ninguna vía de exposición.",
+            "effect": "No se reporta ningún efecto tóxico.",
+            "note": "No se reporta toxicidad para gatos en este catálogo; esto no es prueba de que la planta sea comestible o inofensiva."
+          }
+        }
+      }
+    },
+    "AAA1728": {
+      "source_hash": "f2961d6dc8d5df707d005202de52f29eab1bc1286d820f52f58ab19e6e419c5d",
+      "fields": {
+        "common_name": "Árbol del té",
+        "bloom_tip": "Las flores suelen abrirse entre octubre y diciembre.",
+        "fruit_tip": "Los frutos pueden verse entre enero y febrero; aunque no son muy vistosos, tienen valor ornamental.",
+        "description": "Leptospermum, conocido comúnmente como árbol del té, es un género de unos 80 arbustos perennifolios nativos de Australia y Nueva Zelanda, apreciados por su follaje fino, parecido a agujas, y por las masas de pequeñas flores de cinco pétalos, blancas, rosas o rojas, que cubren sus ramas cada primavera. El nombre del género proviene del griego leptos ('fino') y sperma ('semilla'), en referencia a sus diminutas cápsulas de semillas, mientras que el nombre común se remonta a los primeros marineros que preparaban sus hojas aromáticas como sustituto del té. Resistente y tolerante a la sequía una vez establecido, Leptospermum prospera en suelos pobres y ácidos, y es apreciado por los apicultores, cuyas abejas convierten su néctar en la codiciada miel de manuka.",
+        "history_text_short": "El nombre común 'árbol del té' se remonta al viaje del capitán James Cook a Nueva Zelanda entre 1769 y 1770, cuando su tripulación preparaba las hojas aromáticas de Leptospermum como sustituto del té para prevenir el escorbuto, una práctica muy anterior a la fama de la planta como fuente de la codiciada miel de manuka.",
+        "history_text_long": "Leptospermum debe su nombre en inglés a un remedio de a bordo. Cuando el capitán James Cook ancló el Endeavour frente a Nueva Zelanda en 1769 y 1770, su tripulación, incluido el botánico Joseph Banks, encontró un arbusto aromático de hojas finas que crecía abundante a lo largo de la costa. Sin té propiamente dicho y preocupados por el escorbuto en un viaje que ya se prolongaba más de un año, los marineros infusionaron sus hojas en agua hirviendo como sustituto rico en vitaminas del té negro que se les había acabado. El nombre perduró mucho después de terminado el viaje, y los jardineros de hoy siguen conociendo al género simplemente como árbol del té, aunque no guarda ninguna relación con Camellia sinensis, la planta que produce el té verdadero.\n\nEl miembro más famoso del género, Leptospermum scoparium, el árbol del té neozelandés conocido por los maoríes como manuka, tuvo una segunda vida muy lejos de la tetera de Cook. Sus flores producen una miel oscura y de sabor intenso en la que apicultores de Nueva Zelanda y Australia descubrieron propiedades antibacterianas inusualmente fuertes, impulsadas por niveles naturalmente altos de metilglioxal. Lo que comenzó como una miel regional menor se convirtió a finales del siglo XX en una exportación global de bienestar, y hoy la miel de manuka se clasifica, certifica y vende a precio premium en farmacias y tiendas de salud de todo el mundo, una industria moderna construida sobre un arbusto que descubrieron primero unos marineros sedientos y temerosos del escorbuto.\n\nEn el conjunto del género, las especies de Leptospermum siguen siendo el pilar de los jardines de Australia y Nueva Zelanda: arbustos resistentes y tolerantes a la sal que prosperan en acantilados costeros y en suelos pobres y ácidos donde casi nada más crece, cubriéndose cada primavera de pequeñas flores blancas o rosas.",
+        "name_origin": "El nombre del género Leptospermum proviene del griego leptos ('fino' o 'delgado') y sperma ('semilla'), en referencia a sus diminutas cápsulas de semillas; el nombre común árbol del té recuerda a los primeros marineros europeos que preparaban sus hojas como sustituto del té.",
+        "symbolism_story": "Leptospermum lleva el simbolismo de la sanación y la resiliencia, inspirado en la larga reputación de la miel de manuka para aliviar heridas y en la propia resistencia de la planta, que prospera en acantilados costeros azotados por el viento y en suelos finos y ácidos donde pocos otros arbustos logran arraigar.",
+        "flower_meaning": "Sanación",
+        "fragrance": {
+          "notes": "Las hojas trituradas desprenden un aroma intenso, parecido al alcanfor."
+        },
+        "uses_list": [
+          {
+            "text": "Las hojas, parecidas a agujas, desprenden un aroma intenso a alcanfor al triturarlas."
+          },
+          {
+            "text": "Las flores son una fuente importante de néctar para las abejas, incluidas las que producen miel de manuka."
+          },
+          {
+            "text": "La miel de manuka, elaborada a partir de las flores de Leptospermum scoparium, se valora por sus propiedades antibacterianas."
+          },
+          {
+            "text": "Un pilar de los jardines costeros y tolerantes a la sequía por su profusa floración primaveral."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Sanación",
+            "description": "la reconocida reputación de la miel de manuka para aliviar heridas"
+          },
+          {
+            "keyword": "Resiliencia",
+            "description": "un resistente arbusto costero que prospera en suelos pobres donde poco más crece"
+          }
+        ],
+        "toxicity": {
+          "headline": "No se reporta toxicidad",
+          "active_compound_display": "Ninguno reportado",
+          "notes_en": "No se encontró ninguna coincidencia de toxicidad autorizada; se trata como no reportada (la estimación de la IA no está verificada por fuentes).",
+          "human": {
+            "exposure": "No se reporta ninguna vía de exposición.",
+            "effect": "No se reporta ningún efecto tóxico.",
+            "note": "No se reporta toxicidad para humanos en este catálogo; esto no es prueba de que la planta sea comestible o inofensiva."
+          },
+          "dog": {
+            "exposure": "No se reporta ninguna vía de exposición.",
+            "effect": "No se reporta ningún efecto tóxico.",
+            "note": "No se reporta toxicidad para perros en este catálogo; esto no es prueba de que la planta sea comestible o inofensiva."
+          },
+          "cat": {
+            "exposure": "No se reporta ninguna vía de exposición.",
+            "effect": "No se reporta ningún efecto tóxico.",
+            "note": "No se reporta toxicidad para gatos en este catálogo; esto no es prueba de que la planta sea comestible o inofensiva."
+          }
+        }
+      }
+    },
+    "AAA1729": {
+      "source_hash": "c31f5a29cad2e487d859d3752ce754aa32dd21de438edb0ef6c29663214ba990",
+      "fields": {
+        "common_name": "Lupinos",
+        "bloom_tip": "Los lupinos producen vibrantes espigas de flores durante la última parte de la primavera y el verano.",
+        "description": "Lupinus, comúnmente conocido como lupino, es un género de aproximadamente 200 especies de plantas con flores de la familia de las leguminosas, nativas de América, el Mediterráneo y partes de Europa y África. Espigas altas y densas de flores parecidas a las del guisante, en azul, morado, rosa o blanco, se alzan sobre hojas palmeadas en forma de abanico desde finales de primavera hasta el verano, haciendo del lupino un favorito tanto de los prados silvestres como de los jardines rústicos. El nombre del género proviene del latín lupus ('lobo'), por la antigua creencia de que la planta despojaba vorazmente al suelo de sus nutrientes; irónicamente, como leguminosa, el lupino en realidad enriquece el suelo al fijar nitrógeno mediante bacterias en sus raíces. Los lupinos toleran suelos pobres y arenosos, atraen abejas y mariposas, y algunas especies producen semillas comestibles una vez eliminados sus alcaloides amargos.",
+        "history_text_short": "Durante 25 años, el jardinero aficionado George Russell, de York, sin formación hortícola formal, seleccionó y resembró pacientemente los mejores lupinos de su parcela, descartando sin piedad cualquier plántula apagada o débil, hasta que en la década de 1930 sus 'lupinos Russell' transformaron los lupinos de jardín en todo el mundo.",
+        "history_text_long": "Lupinus lleva quizá un nombre que no merece. Carlos Linneo tomó el nombre del género del latín lupus, 'lobo', reflejando una antigua creencia agrícola según la cual el lupino devoraba vorazmente la fertilidad del suelo en el que crecía, igual que un lobo acechaba a un rebaño. En realidad, lo contrario está más cerca de la verdad: los lupinos son leguminosas, y al igual que el trébol o las judías, las bacterias que viven en los nódulos de sus raíces extraen nitrógeno del aire y lo fijan en el suelo, enriqueciéndolo en lugar de agotarlo, aunque los lupinos a menudo prosperan en el tipo de suelo pobre y arenoso que hacía plausible la antigua reputación.\n\nLos lupinos de jardín deben gran parte de su aspecto moderno a un aficionado obsesivo. A principios del siglo XX, George Russell, un jardinero jubilado sin formación hortícola formal, mantenía una parcela comunitaria en York, Inglaterra, donde pasó unos 25 años cruzando y resembrando pacientemente lupinos, arrancando y destruyendo sin piedad cualquier plántula que floreciera en un color apagado o turbio. Según se cuenta, los vecinos lo consideraban excéntrico, pues cultivó lupinos durante décadas sin vender jamás una sola planta. Cuando sus espigas de flores, de colores brillantes y densamente pobladas, se exhibieron finalmente en Londres en la década de 1930, causaron sensación, y los lupinos híbridos Russell resultantes se convirtieron en la planta madre de casi todos los lupinos de jardín de colores vivos cultivados desde entonces.\n\nEn Norteamérica, mientras tanto, los lupinos silvestres asumieron un papel más cívico: Texas adoptó su bluebonnet nativo, Lupinus texensis, como flor del estado en 1901, y décadas más tarde los esfuerzos de embellecimiento de carreteras esparcieron sus semillas a lo largo de las cunetas con tal profusión que una temporada de bluebonnets, con su alfombra azul, se convirtió en uno de los espectáculos anuales más esperados del estado.",
+        "name_origin": "El nombre del género Lupinus proviene del latín lupus ('lobo'), reflejando una antigua creencia de que la planta agotaba vorazmente la fertilidad del suelo; de hecho, los lupinos son leguminosas fijadoras de nitrógeno que tienden a enriquecer, más que a agotar, el suelo en el que crecen.",
+        "symbolism_story": "En el lenguaje victoriano de las flores, el lupino representaba la imaginación, un homenaje adecuado a sus altas y vivamente coloridas espigas, mientras que su tolerancia al suelo pobre y las décadas de trabajo paciente y no remunerado que produjeron los modernos híbridos Russell le dieron una segunda reputación, más discreta, de resiliencia.",
+        "flower_meaning": "Imaginación",
+        "fragrance": {
+          "notes": "Muchas espigas de lupino desprenden un aroma suave, parecido al del guisante de olor."
+        },
+        "uses_list": [
+          {
+            "text": "Las altas espigas florales atraen abejas y mariposas durante toda la temporada de floración."
+          },
+          {
+            "text": "Las semillas de variedades cultivadas dulces se comen como altramuces tras ponerlas en remojo para eliminar los alcaloides amargos."
+          },
+          {
+            "text": "Un elemento habitual de jardines rústicos y prados silvestres, apreciado por sus altas y coloridas espigas de flores."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Imaginación",
+            "description": "un significado tradicional del lenguaje victoriano de las flores para las llamativas y elevadas espigas del lupino"
+          },
+          {
+            "keyword": "Resiliencia",
+            "description": "una planta que prospera en suelo pobre y arenoso y que un criador aficionado perfeccionó pacientemente durante 25 años"
+          }
+        ],
+        "toxicity": {
+          "headline": "Humanos: Leve",
+          "active_compound_display": "alcaloides quinolizidínicos (lupinina, esparteína)",
+          "notes_en": "Las semillas y el follaje de las especies silvestres de Lupinus contienen alcaloides quinolizidínicos amargos que pueden causar vómitos, diarrea y letargo en mascotas y ganado si se ingieren en cantidad; los altramuces 'dulces' cultivados se crían o procesan especialmente para eliminar estos compuestos antes del consumo humano.",
+          "human": {
+            "exposure": "Ingerir semillas.",
+            "effect": "Náuseas y vómitos.",
+            "note": "Las semillas y el follaje de las especies silvestres de Lupinus contienen alcaloides quinolizidínicos amargos que pueden causar vómitos, diarrea y letargo en mascotas y ganado si se ingieren en cantidad; los altramuces 'dulces' cultivados se crían o procesan especialmente para eliminar estos compuestos antes del consumo humano.",
+            "symptoms": [
+              "Náuseas.",
+              "Vómitos."
+            ]
+          },
+          "dog": {
+            "exposure": "No se reporta ninguna vía de exposición.",
+            "effect": "No se reporta ningún efecto tóxico.",
+            "note": "La toxicidad para perros no está bien documentada; se recomienda precaución hasta confirmarlo."
+          },
+          "cat": {
+            "exposure": "No se reporta ninguna vía de exposición.",
+            "effect": "No se reporta ningún efecto tóxico.",
+            "note": "La toxicidad para gatos no está bien documentada; se recomienda precaución hasta confirmarlo."
+          }
+        }
+      }
+    },
+    "AAA1730": {
+      "source_hash": "4ba7c93092ee4c2b3be8924267c624b73cc29aeac170e249aed956de19c624b7",
+      "fields": {
+        "common_name": "Orquídeas mariposa",
+        "bloom_tip": "Las orquídeas mariposa producen flores impresionantes durante todo el año, ideales para una floración continua en interiores.",
+        "description": "Phalaenopsis, conocidas como orquídeas mariposa, es un género de unas 60 especies de orquídeas epífitas nativas de los bosques húmedos del sudeste asiático, desde las estribaciones del Himalaya hasta Filipinas y el norte de Australia. Sus flores amplias, cerosas y duraderas, sostenidas en tallos arqueados sobre una baja roseta de hojas gruesas, se presentan en blanco, rosa, morado y amarillo, y pueden permanecer abiertas durante meses. El nombre del género proviene del griego phalaina ('polilla') y opsis ('semejante a'), después de que el botánico holandés Carl Ludwig Blume confundiera un racimo de sus flores en un árbol lejano con una bandada de polillas. Tolerante a la luz y el calor de interior, Phalaenopsis se ha convertido en la planta de flor en maceta más vendida del mundo, apreciada por florecer casi todo el año con un cuidado mínimo.",
+        "history_text_short": "En 1825, el botánico holandés Carl Ludwig Blume vislumbró al atardecer unas flores pálidas en un árbol lejano de las Molucas y, confundiéndolas con una bandada de polillas posadas, bautizó el género Phalaenopsis; más de un siglo después, los cultivadores taiwaneses convirtieron esta orquídea rara en la planta de interior florífera más común del mundo.",
+        "history_text_long": "El género Phalaenopsis debe su nombre a un momento de identidad equivocada. En 1825, el botánico holandés-alemán Carl Ludwig Blume exploraba las Molucas, en la actual Indonesia, cuando distinguió lo que parecía un racimo de polillas pálidas posadas en una rama lejana al atardecer. Al acercarse, se dio cuenta de que eran flores, no insectos, cuyos amplios pétalos, semejantes a alas, captaban la luz menguante. Blume bautizó el nuevo género Phalaenopsis, del griego phalaina para 'polilla' y opsis para 'semejante a', un nombre que perduró incluso cuando los botánicos descubrieron más tarde que se trataba de orquídeas epífitas aferradas a la corteza de los árboles en los húmedos bosques del sur y sudeste de Asia.\n\nDurante más de un siglo tras el descubrimiento de Blume, Phalaenopsis siguió siendo una curiosidad rara y cara, cultivada por adinerados coleccionistas victorianos en invernaderos climatizados y apreciada en exposiciones de orquídeas. Eso cambió en Taiwán a partir de mediados del siglo XX, cuando los cultivadores combinaron el clima cálido y húmedo de la isla con nuevas técnicas de laboratorio para clonar orquídeas a partir de minúsculas muestras de tejido. Lo que antes requería años de paciente hibridación para producir una sola planta florífera podía ahora replicarse por miles, y Taiwán construyó toda una industria de exportación en torno a las orquídeas mariposa, enviando plantas floríferas por millones a supermercados y centros de jardinería de todo el mundo.\n\nEl resultado es una de las transformaciones más insólitas de la historia de la horticultura: una orquídea vista en su día en una sola rama al atardecer por un botánico asombrado es ahora, según algunos cálculos, la planta de flor en maceta más vendida de la Tierra, tan familiar en el alféizar de una cocina como antaño era rara en un invernadero real.",
+        "name_origin": "El nombre del género Phalaenopsis proviene del griego phalaina ('polilla') y opsis ('semejante a' o 'apariencia'), dado por el botánico Carl Ludwig Blume tras confundir un racimo de sus flores en un árbol con un grupo de polillas.",
+        "symbolism_story": "Phalaenopsis ha representado durante mucho tiempo la elegancia y la gracia, una reputación nacida en los invernaderos de adinerados coleccionistas victorianos que apreciaban las orquídeas como la cúspide del gusto refinado, y reforzada por los propios pétalos en forma de ala de la flor, que en su día llevaron a un botánico asombrado a confundirlas con un racimo de polillas posadas.",
+        "flower_meaning": "Elegancia",
+        "fragrance": {
+          "notes": "Muchos híbridos tienen una fragancia ligera y dulce, especialmente con luz matutina intensa."
+        },
+        "uses_list": [
+          {
+            "text": "La planta de flor en maceta más vendida del mundo, apreciada por flores que duran meses."
+          },
+          {
+            "text": "Muchos híbridos tienen una fragancia ligera y dulce, especialmente con luz matutina intensa."
+          },
+          {
+            "text": "Prospera en macetas en alféizares y espacios interiores con luz brillante e indirecta."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Elegancia",
+            "description": "la afición victoriana por coleccionar orquídeas valoraba la Phalaenopsis como emblema de lujo refinado y belleza"
+          },
+          {
+            "keyword": "Gracia",
+            "description": "pétalos en forma de ala que dieron al género su nombre inspirado en las polillas y su apariencia delicada"
+          }
+        ],
+        "toxicity": {
+          "headline": "Mascotas: Seguro",
+          "active_compound_display": "Ninguno reportado",
+          "notes_en": "No se encontró ninguna coincidencia de toxicidad autorizada; se trata como no reportada (la estimación de la IA no está verificada por fuentes).",
+          "human": {
+            "exposure": "No se reporta ninguna vía de exposición.",
+            "effect": "No se reporta ningún efecto tóxico.",
+            "note": "No se reporta toxicidad para humanos en este catálogo; esto no es prueba de que la planta sea comestible o inofensiva."
+          },
+          "dog": {
+            "exposure": "No se reporta ninguna vía de exposición.",
+            "effect": "No se reporta ningún efecto tóxico.",
+            "note": "Fuentes autorizadas indican que esta planta no es tóxica para perros; esto no es prueba de que la planta sea comestible."
+          },
+          "cat": {
+            "exposure": "No se reporta ninguna vía de exposición.",
+            "effect": "No se reporta ningún efecto tóxico.",
+            "note": "Fuentes autorizadas indican que esta planta no es tóxica para gatos; esto no es prueba de que la planta sea comestible."
+          }
+        }
+      }
+    },
+    "AAA1731": {
+      "source_hash": "a2b083a6e1c441b2a70470675325d9e4cc7d4b75eebbf14777d48fe6d3dccc86",
+      "fields": {
+        "common_name": "Podocarpus",
+        "description": "Podocarpus es un género de coníferas de hoja perenne de la antigua familia Podocarpaceae, con unas 100 especies repartidas por todo el hemisferio sur, desde los bosques sudafricanos hasta los jardines de Asia oriental y las colinas de Nueva Zelanda. Sus hojas estrechas, parecidas a las del tejo, y su crecimiento lento y denso lo convierten en un favorito para setos, topiaria y bonsái, mientras que las especies forestales más altas viven siglos. Podocarpus es dioico: las plantas masculinas producen pequeños conos de polen y las femeninas forman receptáculos seminales carnosos, parecidos a bayas, que maduran en rojo o morado y atraen a las aves, que se alimentan de ellos y dispersan las semillas.",
+        "history_text_short": "En Sudáfrica, los emparentados yellowwoods (Podocarpus latifolius) son algunos de los árboles más antiguos del continente, gigantes centenarios del bosque de Tsitsikamma que antaño se talaban por su madera duradera y resistente a las termitas, usada en muebles coloniales, hasta que la tala se restringió para proteger los últimos bosques vírgenes.",
+        "history_text_long": "Podocarpus pertenece a Podocarpaceae, una familia de coníferas con raíces en los antiguos bosques de Gondwana, mucho antes de que las plantas con flores dominaran el hemisferio sur. Sus casi 100 especies se extienden hoy por un territorio fragmentado: las selvas de Nueva Zelanda, las colinas de Asia oriental, los bosques montanos de África y Madagascar, y las laderas de América Central y del Sur, un registro vivo de continentes que antes estuvieron unidos.\n\nEn Sudáfrica, la especie más grande, Podocarpus latifolius, se conoce como el verdadero yellowwood y es el árbol nacional del país. Algunos ejemplares de los bosques de Tsitsikamma y Knysna superan los 600 años, elevándose sobre el sotobosque con troncos acanalados. Los colonos valoraban su madera de grano recto y resistente a las termitas para muebles, bancos de iglesia, ruedas de carreta y los suelos de las casas del Cabo, y los leñadores del siglo XIX talaban bosques enteros con sierras de corte y yuntas de bueyes. La sobreexplotación llevó a los bosques vírgenes al límite, y a principios del siglo XX se restringió la tala de yellowwoods silvestres para dejar en pie a los últimos gigantes.\n\nEn Asia oriental, especies más pequeñas como Podocarpus macrophyllus siguieron un camino más tranquilo: cultivadas durante siglos en jardines de templos, recortadas en setos o entrenadas como bonsái por su follaje parecido al tejo y su crecimiento paciente. En todos estos entornos, Podocarpus sigue siendo dioico, con plantas masculinas y femeninas separadas; las hembras maduran receptáculos carnosos con forma de pie que las aves comen y dispersan, llevando el género hacia adelante como lo han hecho durante millones de años.",
+        "name_origin": "El nombre del género Podocarpus procede del griego podos ('pie') y karpos ('fruto'), y describe el receptáculo carnoso y pedunculado, con forma de pie, que sostiene cada semilla.",
+        "symbolism_story": "Podocarpus lleva el simbolismo discreto de la longevidad y la perseverancia: una planta cuyos parientes yellowwood llevan en pie seiscientos años o más en los bosques del sur de África, creciendo demasiado despacio para apresurarse y enraizada con demasiada profundidad para caer, superando a las personas que antaño dependían de su madera.",
+        "flower_meaning": "Longevidad",
+        "uses_list": [
+          {
+            "text": "Cultivado en todo el mundo como seto, pantalla y topiaria por su follaje denso, perenne y parecido al tejo."
+          },
+          {
+            "text": "El yellowwood sudafricano (Podocarpus latifolius) produce una madera duradera y resistente a las termitas, usada desde hace tiempo en muebles y suelos."
+          },
+          {
+            "text": "Las plantas femeninas producen receptáculos seminales carnosos que las aves comen y ayudan a dispersar."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Longevidad",
+            "description": "yellowwoods centenarios en pie durante siglos en los bosques del sur de África"
+          },
+          {
+            "keyword": "Perseverancia",
+            "description": "un hábito de crecimiento lento y paciente que supera a generaciones enteras"
+          }
+        ],
+        "toxicity": {
+          "active_compound_display": "Ninguno reportado",
+          "notes_en": "No se encontró ninguna coincidencia de toxicidad autorizada; se trata como no reportada (la estimación de la IA no está verificada por fuentes).",
+          "human": {
+            "exposure": "No se reporta ninguna vía de exposición.",
+            "effect": "No se reporta ningún efecto tóxico.",
+            "note": "No se reporta toxicidad para humanos en este catálogo; esto no es prueba de que la planta sea comestible o inofensiva."
+          },
+          "dog": {
+            "exposure": "No se reporta ninguna vía de exposición.",
+            "effect": "No se reporta ningún efecto tóxico.",
+            "note": "La toxicidad para perros no está bien documentada; se recomienda precaución hasta confirmarlo."
+          },
+          "cat": {
+            "exposure": "No se reporta ninguna vía de exposición.",
+            "effect": "No se reporta ningún efecto tóxico.",
+            "note": "La toxicidad para gatos no está bien documentada; se recomienda precaución hasta confirmarlo."
+          },
+          "headline": "No se reporta toxicidad"
+        }
+      }
+    },
+    "AAA1732": {
+      "source_hash": "f96ed59326f9b81b67af00818590d15a774d9eac4e036205a1297ced58b69c0b",
+      "fields": {
+        "common_name": "Rosas",
+        "bloom_tip": "Las rosas florecen desde finales de primavera hasta el otoño, ofreciendo una exhibición de color.",
+        "fruit_tip": "El fruto de las rosas, conocido como escaramujo, es ornamental y se usa a menudo en remedios herbales.",
+        "description": "Rosa, el rosal, es un género de unas 150 especies de arbustos floríferos espinosos nativos de regiones templadas de Asia, Europa y Norteamérica, antepasados de miles de cultivares de jardín. Sus flores, a menudo fragantes y de cinco pétalos, aparecen en casi todos los colores excepto el azul verdadero, seguidas en otoño por frutos ricos en vitamina C llamados escaramujos, que las aves comen y que los herboristas llevan mucho tiempo usando en infusiones y remedios. Fósiles de rosas de hace unos 35 millones de años muestran que el género es mucho más antiguo que la historia humana, aunque pocas plantas han sido tan transformadas por las personas desde entonces: siglos de hibridación han convertido los sencillos cinco pétalos de la rosa silvestre en las flores densas y arremolinadas de las rosas de jardín modernas. El nombre del género proviene directamente del latín rosa.",
+        "history_text_short": "Tras décadas de guerra civil entre las casas reales de Lancaster y York, cada una asociada con un emblema de rosa roja o blanca, el nuevo rey Tudor de Inglaterra, Enrique VII, se casó con Isabel de York en 1486 y combinó ambas flores en una sola rosa Tudor roja y blanca, símbolo de reconciliación que se usa todavía hoy.",
+        "history_text_long": "Las rosas son lo bastante antiguas como para preceder por completo a los seres humanos: hojas y flores de rosas fosilizadas halladas en Colorado datan de hace unos 35 millones de años, mucho antes de que una mano humana tocara jamás un pétalo. Pero pocas plantas han sido tan completamente reclamadas por la política humana como lo fue la rosa en la Inglaterra del siglo XV. Entre 1455 y 1487, las casas reales de Lancaster y York libraron una larga y sangrienta serie de guerras civiles por el trono inglés, un conflicto que el novelista Walter Scott romantizó más tarde como las Guerras de las Rosas, por los emblemas heráldicos que cada bando usaba: una rosa roja para Lancaster, una rosa blanca para York.\n\nLas guerras terminaron cuando Enrique Tudor, aspirante lancasteriano, derrotó al rey Ricardo III en la batalla de Bosworth Field en 1485 y se convirtió en Enrique VII. Para consolidar su frágil derecho al trono, se casó al año siguiente con Isabel de York, uniendo así a las dos casas enfrentadas, y mandó diseñar un nuevo emblema a juego: la rosa Tudor, una rosa roja con una rosa blanca superpuesta en su centro, fusionando visualmente a Lancaster y York en una sola flor. La rosa Tudor apareció después, durante generaciones, en monedas, edificios e insignias reales, y sigue siendo hoy un símbolo reconocible de Inglaterra, un raro caso de una flor literalmente rediseñada para poner fin a una guerra.\n\nSiglos después, las rosas asumieron un papel más apacible y científico en la Francia napoleónica, donde la emperatriz Josefina reunió una de las primeras grandes colecciones de rosas en su jardín de Malmaison, ayudada en ocasiones, según se cuenta, por salvoconductos para los envíos de plantas incluso durante los bloqueos de guerra. El artista Pierre-Joseph Redouté documentó sus rosas en detallados acuarelas que siguen siendo hoy referencias fundamentales para la identificación de rosas, contribuyendo a sentar las bases de los miles de rosas híbridas criadas desde entonces.",
+        "name_origin": "El nombre del género Rosa proviene directamente de la palabra latina para rosa, cuyas raíces propias son objeto de debate, pero que ha designado a la flor en latín y en las lenguas romances durante más de dos mil años.",
+        "symbolism_story": "Rosa lleva consigo el simbolismo floral del amor más antiguo y perdurable, que se remonta a su asociación con Venus y Afrodita en la mitología griega y romana, y un segundo simbolismo más político de unidad, extraído de la rosa Tudor, creada cuando las enfrentadas facciones inglesas de la rosa roja y la rosa blanca se combinaron en un solo emblema para poner fin a las Guerras de las Rosas.",
+        "flower_meaning": "Amor",
+        "fragrance": {
+          "notes": "Muchos cultivares de rosa, especialmente los rosales antiguos y de tipo damascena, poseen una rica fragancia floral clásica apreciada en perfumería."
+        },
+        "uses_list": [
+          {
+            "text": "Apreciada por su rica fragancia floral, usada en perfumería, agua de rosas y popurrí desde hace siglos."
+          },
+          {
+            "text": "La flor cortada más cultivada y vendida del mundo, central para la industria floral global."
+          },
+          {
+            "text": "Los escaramujos, el fruto que queda tras la floración, son ricos en vitamina C y se usan en infusiones, jarabes y remedios herbales."
+          },
+          {
+            "text": "Cultivada en innumerables formas, desde rosales trepadores y arbustivos hasta variedades compactas de patio y miniatura."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Amor",
+            "description": "una asociación con Venus y Afrodita que se remonta a la mitología griega y romana antiguas"
+          },
+          {
+            "keyword": "Unidad",
+            "description": "la rosa Tudor, creada al combinar la enfrentada rosa roja de Lancaster y la rosa blanca de York"
+          }
+        ],
+        "toxicity": {
+          "headline": "Mascotas: Seguro",
+          "active_compound_display": "Ninguno reportado",
+          "notes_en": "No se encontró ninguna coincidencia de toxicidad autorizada; se trata como no reportada (la estimación de la IA no está verificada por fuentes).",
+          "human": {
+            "exposure": "No se reporta ninguna vía de exposición.",
+            "effect": "No se reporta ningún efecto tóxico.",
+            "note": "No se reporta toxicidad para humanos en este catálogo; esto no es prueba de que la planta sea comestible o inofensiva."
+          },
+          "dog": {
+            "exposure": "No se reporta ninguna vía de exposición.",
+            "effect": "No se reporta ningún efecto tóxico.",
+            "note": "Fuentes autorizadas indican que esta planta no es tóxica para perros; esto no es prueba de que la planta sea comestible."
+          },
+          "cat": {
+            "exposure": "No se reporta ninguna vía de exposición.",
+            "effect": "No se reporta ningún efecto tóxico.",
+            "note": "Fuentes autorizadas indican que esta planta no es tóxica para gatos; esto no es prueba de que la planta sea comestible."
+          }
+        }
+      }
+    },
+    "AAA1733": {
+      "source_hash": "9a3bf5e867d8dd3f11aaafd427d8d2b8e493ba9ad65baa082c2cb564cbb26729",
+      "fields": {
+        "common_name": "Rudbeckia",
+        "bloom_tip": "Esta planta florece en verano, con flores coloridas que atraen a abejas y mariposas.",
+        "description": "Rudbeckia, conocida comúnmente como rudbeckia u ojo de poeta, es un género de unas 25 flores silvestres parecidas a margaritas, nativas de las praderas, los prados y las cunetas de Norteamérica. Sus alegres pétalos amarillos a anaranjados rodean un cono central elevado, de color marrón oscuro o negro, una combinación de colores que le da al género su nombre común en inglés, 'black-eyed Susan', y la convierte en una de las flores silvestres de verano más reconocibles. Una vez establecida, Rudbeckia es resistente y tolerante a la sequía, prospera a pleno sol incluso en suelos pobres, y florece desde principios de verano hasta el otoño, atrayendo abejas, mariposas y aves granívoras como los jilgueros.",
+        "history_text_short": "En 1918, Maryland adoptó Rudbeckia hirta como su flor estatal, eligiendo su coloración negra y dorada por evocar la heráldica negra y dorada de la familia Calvert, fundadores coloniales de Maryland, y el plumaje del turpial de Baltimore.",
+        "history_text_long": "Rudbeckia debe su nombre no al lugar donde crece, sino al hombre que enseñó botánica a Carlos Linneo. A principios de la década de 1730, el joven Linneo estudió y más tarde enseñó en el jardín botánico de la Universidad de Upsala, construido a lo largo de décadas por Olof Rudbeck el Viejo y continuado por su hijo, Olof Rudbeck el Joven. Cuando Linneo ideó su sistema de nombres de plantas, honró a ambos Rudbeck dando su apellido a una robusta flor silvestre de las praderas de un continente que los Rudbeck nunca llegaron a ver.\n\nEn Norteamérica, donde el género realmente crece de forma silvestre, Rudbeckia hirta cubría cunetas, prados y tierras de cultivo en recuperación mucho antes de tener un nombre latino, conocida simplemente como una resistente flor de finales de verano a la que abejas y mariposas no podían resistirse. En 1918, los legisladores de Maryland eligieron Rudbeckia hirta como flor del estado, atraídos, según se dice, por cómo su coloración negra y dorada evocaba la heráldica negra y dorada de la familia Calvert, los fundadores coloniales de Maryland, y el plumaje del turpial de Baltimore.\n\nHoy en día, Rudbeckia sigue siendo una de las flores silvestres más fiables de los jardines estadounidenses: lo bastante resistente como para soportar la sequía y los suelos pobres, lo bastante generosa como para florecer desde junio hasta las primeras heladas, y lo bastante útil como para que los jardineros dejen hoy en pie las cabezas de semillas marchitas durante el invierno, cuando bandadas de jilgueros las despojan de sus semillas.",
+        "name_origin": "Carlos Linneo dio nombre al género Rudbeckia en honor a su maestro y predecesor en la Universidad de Upsala, el botánico Olof Rudbeck el Joven, y al padre de este, Olof Rudbeck el Viejo, quienes juntos construyeron el jardín botánico de la universidad.",
+        "symbolism_story": "En el lenguaje victoriano de las flores, Rudbeckia representaba la justicia y el ánimo: una flor silvestre sin pretensiones que no exigía nada especial del suelo y seguía floreciendo durante el tramo más caluroso y seco del verano, un símbolo silencioso de resiliencia y sentido de la justicia transmitido en notas manuscritas sobre el lenguaje de las flores.",
+        "flower_meaning": "Justicia",
+        "uses_list": [
+          {
+            "text": "Un imán para abejas y mariposas durante una larga temporada de floración de verano a otoño."
+          },
+          {
+            "text": "Las cabezas de semillas dejadas en pie durante el invierno alimentan a jilgueros y otras aves cantoras."
+          },
+          {
+            "text": "Tallos largos y robustos y una larga vida en florero la convierten en una flor cortada popular."
+          },
+          {
+            "text": "Un elemento habitual en los bordes de estilo pradera, los prados silvestres y los jardines para polinizadores."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Justicia",
+            "description": "una asociación tradicional del lenguaje victoriano de las flores con la equidad y el ánimo"
+          },
+          {
+            "keyword": "Ánimo",
+            "description": "una flor alegre y poco exigente que sigue floreciendo durante el calor y la sequía"
+          }
+        ],
+        "toxicity": {
+          "headline": "No se reporta toxicidad",
+          "active_compound_display": "Ninguno reportado",
+          "notes_en": "No se encontró ninguna coincidencia de toxicidad autorizada; se trata como no reportada (la estimación de la IA no está verificada por fuentes).",
+          "human": {
+            "exposure": "No se reporta ninguna vía de exposición.",
+            "effect": "No se reporta ningún efecto tóxico.",
+            "note": "No se reporta toxicidad para humanos en este catálogo; esto no es prueba de que la planta sea comestible o inofensiva."
+          },
+          "dog": {
+            "exposure": "No se reporta ninguna vía de exposición.",
+            "effect": "No se reporta ningún efecto tóxico.",
+            "note": "No se reporta toxicidad para perros en este catálogo; esto no es prueba de que la planta sea comestible o inofensiva."
+          },
+          "cat": {
+            "exposure": "No se reporta ninguna vía de exposición.",
+            "effect": "No se reporta ningún efecto tóxico.",
+            "note": "No se reporta toxicidad para gatos en este catálogo; esto no es prueba de que la planta sea comestible o inofensiva."
+          }
+        }
+      }
+    },
+    "AAA1734": {
+      "source_hash": "e97995d82615294499a9d569e7d619603f1c755ec1854b029b6dba92354dda95",
+      "fields": {
+        "common_name": "Romero",
+        "bloom_tip": "Delicadas flores florecen de abril a septiembre, atrayendo a muchos polinizadores.",
+        "description": "Salvia rosmarinus, comúnmente conocido como romero, es un arbusto mediterráneo leñoso y de hoja perenne, apreciado por sus hojas estrechas, parecidas a agujas, intensamente aromáticas, y sus pequeñas flores de color azul a púrpura que florecen desde la primavera hasta el otoño. Clasificado durante mucho tiempo en su propio género, Rosmarinus, el romero fue reclasificado en el género de la salvia, Salvia, en 2017, después de que estudios genéticos confirmaran su estrecho parentesco con ese grupo, conservando el nombre de especie rosmarinus, del latín 'rocío del mar', en referencia a su hábitat natural a lo largo de las soleadas costas mediterráneas. Tolerante a la sequía y próspero en suelos pobres, arenosos y bien drenados, el romero se siente igualmente a gusto como hierba culinaria, seto ornamental y favorito de los polinizadores en jardines de todo el mundo.",
+        "history_text_short": "Según una persistente leyenda del siglo XIV, una anciana y enferma reina de Hungría recuperó su vigor juvenil gracias a un tónico de romero conocido como Agua de Hungría, al parecer con tan buena salud después que el rey de Polonia la cortejó, una historia que ayudó a consolidar la duradera reputación del romero como hierba de rejuvenecimiento y recuerdo.",
+        "history_text_long": "La reputación del romero como hierba de la memoria y la renovación se remonta a la antigüedad. Los antiguos eruditos griegos, según se cuenta, tejían ramitas de romero en guirnaldas que llevaban mientras estudiaban para los exámenes, creyendo que el aroma agudo y resinoso de la planta agudizaba la memoria, una práctica más tarde repetida por estudiantes romanos y medievales europeos, y probable raíz de su perdurable apodo popular, 'la hierba del recuerdo'. Esa asociación también aparece en la literatura inglesa, de forma más famosa cuando la Ofelia de Shakespeare reparte romero 'para el recuerdo' en Hamlet.\n\nLa reputación del romero dio un giro más dramático en el siglo XIV con la leyenda del Agua de Hungría. Según la historia, una anciana y enferma reina de Hungría, a menudo identificada como Isabel de Polonia, recibió de un eremita o médico de la corte un tónico de romero macerado en alcohol. Se recuperó, según cuenta la leyenda, tan completamente que el rey de Polonia pidió su mano a pesar de su edad avanzada. Sea cual sea la exactitud histórica de la leyenda, el Agua de Hungría llegó a convertirse en uno de los tónicos perfumados más célebres de la Europa moderna temprana, utilizado durante siglos como un reconstituyente contra dolores, desmayos y fatiga, y a menudo se cita como uno de los perfumes a base de alcohol más antiguos documentados en la historia europea.\n\nEn la cocina, los tallos leñosos y las hojas resinosas del romero han aromatizado la cocina mediterránea durante milenios, combinando especialmente bien con las carnes asadas, y en el jardín su tolerancia a la sequía y su follaje perenne aromático lo han convertido en una planta habitual de setos y bordes mucho más allá de sus acantilados costeros nativos, un humilde arbusto mediterráneo que lleva una reputación desmedida de memoria, renovación y recuerdo allá donde ha viajado.",
+        "name_origin": "El nombre del género Salvia proviene del latín salvere, 'curar', lo que refleja el largo uso medicinal de la familia de la salvia, mientras que el nombre de la especie rosmarinus proviene del latín ros marinus, 'rocío del mar', en referencia al hábitat natural del romero a lo largo de las soleadas costas mediterráneas; la planta fue reclasificada de su propio género, Rosmarinus, a Salvia en 2017, después de que estudios genéticos confirmaran la estrecha relación entre ambos grupos.",
+        "symbolism_story": "El romero lleva el antiguo simbolismo del recuerdo, vinculado a su larga reputación como ayuda para la memoria, que se extiende desde los estudiantes griegos hasta la Ofelia de Shakespeare, junto con un segundo simbolismo igualmente antiguo de fidelidad, extraído de su lugar tradicional en los ramos de boda y las coronas nupciales europeas como símbolo de lealtad duradera entre esposos.",
+        "flower_meaning": "Recuerdo",
+        "fragrance": {
+          "notes": "Las hojas en forma de aguja liberan un aroma agudo, resinoso, a pino y cítrico cuando se rozan o aplastan, especialmente intenso bajo el sol fuerte."
+        },
+        "uses_list": [
+          {
+            "text": "Las hojas aromáticas son una hierba culinaria mediterránea básica, especialmente combinada con carnes asadas, patatas y pan."
+          },
+          {
+            "text": "La fragancia resinosa, parecida a la del pino, hace que el romero sea popular en saquitos aromáticos, popurrís y setos de jardín fragantes."
+          },
+          {
+            "text": "Las flores de color azul a púrpura, de larga floración, son una fuente de néctar favorita para las abejas desde la primavera hasta el otoño."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Recuerdo",
+            "description": "una antigua asociación con la memoria, desde los estudiantes griegos que llevaban guirnaldas de romero hasta la frase de Ofelia en el Hamlet de Shakespeare"
+          },
+          {
+            "keyword": "Fidelidad",
+            "description": "una presencia tradicional en los ramos de boda y las coronas nupciales en la Europa medieval y renacentista, como símbolo de lealtad entre esposos"
+          }
+        ],
+        "toxicity": {
+          "headline": "Mascotas seguras",
+          "active_compound_display": "Ninguno reportado",
+          "notes_en": "No se encontró ninguna coincidencia de toxicidad autorizada; se trata como no reportado (la estimación del LLM no está verificada por fuentes).",
+          "human": {
+            "exposure": "No se reporta ninguna vía de exposición.",
+            "effect": "No se reporta ningún efecto tóxico.",
+            "note": "No se reporta toxicidad para humanos en este catálogo; esto no es evidencia de que la planta sea comestible o inofensiva."
+          },
+          "dog": {
+            "exposure": "No se reporta ninguna vía de exposición.",
+            "effect": "No se reporta ningún efecto tóxico.",
+            "note": "Fuentes autorizadas reportan que esta planta no es tóxica para los perros; esto no es evidencia de que la planta sea comestible."
+          },
+          "cat": {
+            "exposure": "No se reporta ninguna vía de exposición.",
+            "effect": "No se reporta ningún efecto tóxico.",
+            "note": "Fuentes autorizadas reportan que esta planta no es tóxica para los gatos; esto no es evidencia de que la planta sea comestible."
+          }
+        }
+      }
+    },
+    "AAA1735": {
+      "source_hash": "2aca075f4c15541d8b068022f56c97cdb6534f04520a86b6b317c2498a595055",
+      "fields": {
+        "common_name": "Tréboles",
+        "bloom_tip": "Los tréboles producen flores atractivas en primavera y verano, apreciadas por los polinizadores.",
+        "description": "Trifolium, comúnmente conocido como trébol, es un género de unas 250 especies de leguminosas de bajo crecimiento nativas de regiones templadas de Europa, Asia y Norteamérica, apreciadas por sus compactas hojas trifoliadas y sus cabezuelas florales redondeadas en blanco, rosa o amarillo que florecen de primavera a verano. Como otras leguminosas, el trébol alberga bacterias fijadoras de nitrógeno en sus raíces, que extraen nitrógeno del aire y enriquecen el suelo en el que crece en lugar de agotarlo. El nombre del género proviene del latín tri- ('tres') y folium ('hoja'), que describe sus características hojas de tres partes, origen de las raras variantes de cuatro hojas apreciadas desde hace tiempo como amuletos de buena suerte. Tolerante a la sequía y útil tanto como alternativa al césped como imán para polinizadores, el trébol sigue siendo una de las plantas más importantes de la historia agrícola.",
+        "history_text_short": "En el siglo XVIII, el reformador agrícola británico Charles 'Turnip' Townshend promovió el trébol dentro de la rotación de cultivos de cuatro fases de Norfolk, utilizando sus raíces fijadoras de nitrógeno para restaurar la fertilidad del suelo sin dejar los campos en barbecho, una práctica que ayudó a impulsar la Revolución Agrícola británica.",
+        "history_text_long": "Durante la mayor parte de la historia agrícola, los agricultores europeos dejaban en barbecho un tercio o más de sus tierras cada año, para que recuperaran la fertilidad perdida por los cultivos de cereal repetidos. A principios del siglo XVIII, el político y terrateniente inglés Charles Townshend, más tarde apodado 'Turnip' (nabo) Townshend por su entusiasmo, promovió una rotación de cuatro fases ya practicada en zonas de Flandes: trigo, nabos, cebada y trébol, cultivados año tras año en los mismos campos sin dejar tierra ociosa. El trébol era el motor silencioso del sistema. Sus raíces albergan colonias de bacterias fijadoras de nitrógeno que extraen nitrógeno del aire y lo depositan en el suelo, de modo que un campo de trébol en realidad reponía la fertilidad que los cultivos de cereal habían arrebatado, al tiempo que alimentaba al ganado, que enriquecía aún más el suelo con estiércol. La rotación de cuatro fases de Norfolk se extendió por toda Gran Bretaña a lo largo del siglo XVIII y se convirtió en una de las técnicas centrales de la Revolución Agrícola, ayudando a las granjas a sostener a la población creciente que pronto alimentaría la Revolución Industrial.\n\nLa vida cultural del trébol es tan profunda como la agrícola. Según la tradición, se dice que san Patricio usó la hoja trilobulada de un trébol nativo irlandés, hoy generalmente identificado con Trifolium dubium, para explicar la Santísima Trinidad cristiana a audiencias paganas en la Irlanda del siglo V, una leyenda sin documentación histórica firme pero que ayudó a convertir al trébol, como el shamrock, en un emblema nacional duradero de Irlanda. Por separado, dado que el trébol normalmente tiene tres foliolos, la rara mutación natural que produce un cuarto foliolo se ha atesorado desde al menos la Europa medieval como amuleto de buena suerte, con probabilidades de encontrar uno estimadas en aproximadamente una entre cinco mil.",
+        "name_origin": "El nombre del género Trifolium proviene del latín tri- ('tres') y folium ('hoja'), y describe la hoja característica de tres partes de la planta, el mismo rasgo que origina el raro trébol de cuatro hojas apreciado como símbolo de buena suerte.",
+        "symbolism_story": "El trébol lleva consigo el simbolismo popular de la suerte a través de su rara mutación de cuatro hojas, atesorada durante mucho tiempo como amuleto contra la mala fortuna, junto con un segundo simbolismo más antiguo de la fe, extraído de la leyenda de san Patricio usando el trébol de tres hojas, el shamrock, para explicar la Santísima Trinidad cristiana, una historia que ayudó a convertir al trébol en un emblema duradero de Irlanda.",
+        "flower_meaning": "Suerte",
+        "fragrance": {
+          "notes": "Las cabezuelas florales del trébol desprenden un aroma suave y dulce que resulta especialmente atractivo para las abejas."
+        },
+        "uses_list": [
+          {
+            "text": "Las cabezuelas florales son una importante fuente de néctar para las abejas, que producen la apreciada miel de trébol."
+          },
+          {
+            "text": "Las flores y hojas jóvenes del trébol son comestibles y se usan en ensaladas, infusiones y remedios herbales tradicionales."
+          },
+          {
+            "text": "Ampliamente plantado como forraje para el ganado y como cultivo de cobertura fijador de nitrógeno que enriquece el suelo."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Suerte",
+            "description": "la rara mutación de cuatro hojas, atesorada desde al menos la Europa medieval como amuleto de buena suerte"
+          },
+          {
+            "keyword": "Fe",
+            "description": "la leyenda de san Patricio usando un trébol de tres hojas, el shamrock, para explicar la Santísima Trinidad"
+          }
+        ],
+        "toxicity": {
+          "headline": "No se reporta toxicidad",
+          "active_compound_display": "Ninguno reportado",
+          "notes_en": "No se encontró ninguna coincidencia de toxicidad autorizada; se trata como no reportada (la estimación de la IA no está verificada por fuentes).",
+          "human": {
+            "exposure": "No se reporta ninguna vía de exposición.",
+            "effect": "No se reporta ningún efecto tóxico.",
+            "note": "No se reporta toxicidad para humanos en este catálogo; esto no es prueba de que la planta sea comestible o inofensiva."
+          },
+          "dog": {
+            "exposure": "No se reporta ninguna vía de exposición.",
+            "effect": "No se reporta ningún efecto tóxico.",
+            "note": "No se reporta toxicidad para perros en este catálogo; esto no es prueba de que la planta sea comestible o inofensiva."
+          },
+          "cat": {
+            "exposure": "No se reporta ninguna vía de exposición.",
+            "effect": "No se reporta ningún efecto tóxico.",
+            "note": "No se reporta toxicidad para gatos en este catálogo; esto no es prueba de que la planta sea comestible o inofensiva."
           }
         }
       }
