@@ -3,8 +3,8 @@
   "locale": "it",
   "source": {
     "resource": "plants_detail.json",
-    "sha256": "45d64574c073175ce1c844dfe07dfa6cc1a1c7e3713a75d9792994f5bd9af77d",
-    "record_count": 1705
+    "sha256": "0ff7d1847eeb9375de7d71a27dfb0cf579f7ac408b833b843ddd9ddbb31ab1a2",
+    "record_count": 1719
   },
   "records": {
     "AAA0001": {
@@ -104396,6 +104396,917 @@
               "Letargia.",
               "Dolore addominale."
             ]
+          }
+        }
+      }
+    },
+    "AAA1707": {
+      "source_hash": "d6cfbb0f84cb0914cb19482d347cb053b6ba1b3b7ae182d5937c9be846a8c702",
+      "fields": {
+        "common_name": "Ovolo Malefico",
+        "fruit_tip": "Questo fungo produce i suoi iconici corpi fruttiferi rossi a macchie bianche alla base di betulle, pini e abeti rossi dalla fine dell'estate all'autunno.",
+        "description": "Amanita muscaria, l'ovolo malefico, è uno dei funghi più riconoscibili al mondo: il suo cappello rosso lucido, costellato di macchie bianche verrucose, si eleva su un gambo bianco con un anello a gonnellino e una base bulbosa e squamosa. Ampiamente diffuso nelle foreste temperate e boreali dell'emisfero settentrionale, forma associazioni micorriziche con betulle, pini e abeti rossi, emergendo dal suolo sotto di essi dall'estate all'autunno. Nonostante il suo aspetto fiabesco, è sia tossico sia psicoattivo, contenendo composti che causano confusione, percezione alterata e altri effetti neurologici se ingerito, ed è da tempo l'immagine archetipica del fungo velenoso nell'arte, nella letteratura e nel folklore.",
+        "history_text_short": "Immediatamente riconoscibile per il suo cappello rosso a macchie bianche, l'ovolo malefico deve il suo nome di specie all'antica pratica europea di usare pezzi del fungo messi in ammollo nel latte per uccidere le mosche. I suoi composti psicoattivi lo hanno anche legato al rituale sciamanico siberiano, e la sua immagine vivida ha plasmato secoli di arte del fungo velenoso nelle fiabe.",
+        "history_text_long": "Molto prima che Amanita muscaria diventasse un sinonimo fiabesco di «fungo», aveva un uso ben più pratico in tutta Europa: pezzi del cappello venivano sbriciolati in piattini di latte per attirare e uccidere le mosche domestiche, un rimedio popolare così diffuso da dare alla specie il suo nome latino, muscaria, da musca, «mosca». La tossicità dell'ovolo malefico deriva dall'acido ibotenico e dalla muscimolo, composti che agiscono sul sistema nervoso e possono causare confusione, percezione alterata, sonnolenza e, in alcuni casi, agitazione o delirio, effetti piuttosto diversi dai classici veleni epatotossici presenti in alcuni dei suoi parenti Amanita più letali.\n\nQueste stesse proprietà psicoattive hanno dato al fungo una storia molto diversa presso i popoli indigeni della Siberia, dove veniva tradizionalmente consumato in contesti religiosi e sciamanici, a volte direttamente e a volte, secondo resoconti storici, bevendo l'urina di qualcuno che lo aveva già mangiato, poiché alcuni dei suoi composti attivi attraversano il corpo solo parzialmente metabolizzati. Alcuni ricercatori hanno proposto, in modo controverso, che questa tradizione siberiana possa aver influenzato l'immaginario associato al Natale, comprese le renne volanti e una figura vestita di rosso e bianco che porta doni, sebbene la teoria rimanga oggetto di dibattito accademico piuttosto che un fatto storico accertato.\n\nPochi funghi hanno lasciato un segno così profondo nell'arte e nella narrazione. Il cappello rosso lucido a macchie bianche dell'ovolo malefico è diventato l'immagine predefinita del fungo velenoso magico nelle fiabe illustrate, ed è ampiamente ritenuto il fungo che Alice incontra in Le avventure di Alice nel Paese delle Meraviglie di Lewis Carroll. La sua sagoma rimane oggi un sinonimo istantaneamente riconoscibile di «fungo» stesso, anche per chi non ne ha mai visto uno crescere allo stato selvatico.",
+        "name_origin": "Il nome della specie, muscaria, deriva dal latino musca, «mosca», in riferimento all'antica pratica europea di usare il fungo, messo in ammollo nel latte, come veleno ammazza-mosche. Il nome del genere, Amanita, deriva dal monte Amano, nell'antica Anatolia, nome poi applicato ampiamente a questo genere di funghi lamellati.",
+        "symbolism_story": "Pochi funghi hanno plasmato l'immagine popolare del «fungo velenoso magico» in modo così profondo come l'ovolo malefico, il cui cappello rosso lucido a macchie bianche era immediatamente riconoscibile nelle fiabe illustrate molto prima che la maggior parte delle persone potesse nominare un solo fungo reale. Questa stessa presenza vivida portava un incantesimo più letterale in alcune parti della Siberia, dove i composti psicoattivi del fungo venivano usati in rituali sciamanici per alterare la percezione e la coscienza, una tradizione antica quanto il folklore che il fungo avrebbe poi ispirato dall'altra parte del mondo.",
+        "flower_meaning": "Incantesimo",
+        "uses_list": [
+          {
+            "text": "Usato storicamente in Europa come veleno ammazza-mosche, con pezzi messi in ammollo nel latte per attirare e uccidere le mosche domestiche."
+          },
+          {
+            "text": "Forma associazioni micorriziche essenziali con betulle, pini e abeti rossi nelle foreste temperate e boreali."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Incantesimo",
+            "description": "il suo vivido cappello rosso a macchie bianche è diventato l'immagine predefinita del fungo velenoso magico nell'illustrazione fiabesca."
+          },
+          {
+            "keyword": "Percezione alterata",
+            "description": "i suoi composti psicoattivi lo hanno da tempo legato a tradizioni rituali e visionarie, in particolare nelle pratiche sciamaniche siberiane."
+          }
+        ],
+        "toxicity": {
+          "headline": "Tossicità sconosciuta",
+          "active_compound_display": "Nessuno segnalato",
+          "notes_en": "Nessuna corrispondenza di tossicità autorevole trovata; trattata come non segnalata (la stima dell'LLM non è verificata da fonti).",
+          "human": {
+            "exposure": "Nessuna via di esposizione segnalata.",
+            "effect": "Nessun effetto tossico segnalato.",
+            "note": "La tossicità per l'uomo non è ben documentata; usare cautela fino alla verifica."
+          },
+          "dog": {
+            "exposure": "Nessuna via di esposizione segnalata.",
+            "effect": "Nessun effetto tossico segnalato.",
+            "note": "La tossicità per i cani non è ben documentata; usare cautela fino alla verifica."
+          },
+          "cat": {
+            "exposure": "Nessuna via di esposizione segnalata.",
+            "effect": "Nessun effetto tossico segnalato.",
+            "note": "La tossicità per i gatti non è ben documentata; usare cautela fino alla verifica."
+          }
+        }
+      }
+    },
+    "AAA1708": {
+      "source_hash": "67ef3b73a152ed7520ab33861f3f0c926f8de4ef0f04985b57144094d2cfbbf1",
+      "fields": {
+        "common_name": "Amarillide belladonna",
+        "bloom_tip": "I fiori rosa profumati di questa pianta compaiono a fine estate e inizio autunno su steli nudi, privi di foglie, prima che queste spuntino.",
+        "fruit_tip": "Il suo frutto è una capsula poco appariscente, priva di rilevante valore ornamentale.",
+        "description": "L'Amarillide belladonna è una pianta bulbosa perenne a foglie decidue, originaria del fynbos a piogge invernali del Capo Occidentale, in Sudafrica, dove cresce su pendii rocciosi, scarpate stradali e macchia secca. Ogni autunno, steli fiorali nudi alti 45-60 centimetri si alzano spogli dal suolo, portando ombrelle di due-dodici grandi fiori rosa a imbuto, dolcemente profumati, che le valgono il soprannome di «signora nuda». Le foglie nastriformi compaiono solo dopo la fioritura, crescendo durante il fresco e umido inverno del Capo prima di seccarsi all'arrivo dell'estate secca, quando il bulbo riposa sottoterra fino alla fioritura successiva.",
+        "history_text_short": "Originaria del Capo sudafricano dalle piogge invernali, l'Amarillide belladonna manda ogni autunno steli fiorali nudi e privi di foglie, da cui il soprannome «signora nuda». Linneo istituì il genere Amaryllis nel 1753, ma botanici successivi separarono i bulbi sudamericani più vistosi, oggi venduti come «amarillide», nel proprio genere, Hippeastrum.",
+        "history_text_long": "Quando Linneo istituì il genere Amaryllis nel 1753, vi raggruppò un'ampia varietà di bulbi a grandi fiori giunti in Europa sia dal Sudafrica sia dal Sudamerica, piante che si rivelarono molto meno imparentate di quanto suggerissero i loro vistosi fiori a imbuto. La vera Amaryllis, originaria solo del Capo Occidentale sudafricano, avrebbe poi dato il nome all'intera famiglia delle Amaryllidaceae, mentre la sua identità si intrecciava sempre più con quella dei suoi sosia sudamericani.\n\nDistricare la questione richiese decenni. Nel 1821 il reverendo e botanico inglese William Herbert, che coltivava e ibridava centinaia di bulbi nel giardino della sua canonica a Spofforth, confrontò fianco a fianco le piante del Capo e quelle sudamericane. Trovò differenze costanti nella struttura floreale, nell'anatomia del bulbo e nel portamento, e separò le specie sudamericane in un nuovo genere, Hippeastrum, lasciando la vera Amaryllis come un gruppo molto più piccolo incentrato su Amaryllis belladonna. La separazione di Herbert ha retto botanicamente fino a oggi, ma non ha mai conquistato i giardinieri: i grandi bulbi a fiori d'imbuto venduti ogni inverno come «amarillide» sono quasi sempre ibridi di Hippeastrum, mentre la vera Amaryllis resta nota soprattutto agli specialisti con il suo nome comune più antico, Amarillide belladonna.\n\nNel suo fynbos natio del Capo, Amaryllis belladonna segue il ritmo della regione, con estati secche e inverni piovosi. Il bulbo trascorre l'estate calda e priva di piogge in riposo sottoterra, poi con il primo fresco autunnale manda steli fiorali nudi, molto prima che compaia una sola foglia, il tratto all'origine del soprannome «signora nuda». Solo dopo l'appassimento dei fiori emergono le foglie nastriformi, che crescono durante il fresco e umido inverno e la primavera del Capo prima di seccarsi al ritorno della stagione secca.",
+        "name_origin": "Il nome del genere Amaryllis deriva da Amaryllis, una pastorella dei componimenti bucolici di Teocrito e Virgilio, scelto da Linneo nel 1753 per la bellezza del fiore. Il nome della specie, belladonna, significa in italiano «bella donna», probabilmente ispirato dalla tonalità rosa e vellutata dei fiori. Amaryllis è il genere tipo della famiglia delle Amaryllidaceae, sebbene oggi il nome sia più spesso applicato nel commercio al genere non imparentato Hippeastrum.",
+        "symbolism_story": "L'Amarillide belladonna porta due significati già nei propri nomi comuni: belladonna, «bella donna», per la delicata eleganza rosa dei suoi fiori, e «signora nuda», per l'abitudine di fiorire su steli spogli senza una sola foglia in vista. Insieme descrivono una bellezza discreta che arriva senza preavviso ogni autunno, rimanendo esposta in giardino finché le sue stesse foglie non tornano, mesi dopo, a vestirla per il resto dell'anno.",
+        "flower_meaning": "Bellezza",
+        "fragrance": {
+          "notes": "Fiori rosa a imbuto, dolcemente profumati, che inebriano l'aria circostante a fine estate e inizio autunno."
+        },
+        "uses_list": [
+          {
+            "text": "Piantata in bordure e giardini rocciosi per le sue drammatiche spighe fiorali autunnali su steli nudi."
+          },
+          {
+            "text": "Apprezzata per il dolce profumo dei suoi fiori rosa a imbuto."
+          },
+          {
+            "text": "I suoi fiori ricchi di nettare attirano api e falene dalla lunga proboscide a fine estate e in autunno."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Bellezza",
+            "description": "il suo nome di specie, belladonna, italiano per «bella donna», celebra la delicata eleganza rosa dei suoi fiori."
+          },
+          {
+            "keyword": "Sorpresa",
+            "description": "il fiorire su steli nudi senza una sola foglia in vista le vale il soprannome di signora nuda, un'esplosione di colore inattesa ogni autunno."
+          }
+        ],
+        "toxicity": {
+          "headline": "Umani Lieve · Animali Moderato",
+          "active_compound_display": "Licorina e altri alcaloidi delle Amaryllidaceae",
+          "notes_en": "Come altri bulbi di Amaryllidaceae, il bulbo contiene licorina e alcaloidi correlati che causano disturbi gastrointestinali negli animali domestici e lieve irritazione nell'uomo.",
+          "human": {
+            "exposure": "Ingestione di bulbi e linfa. Contatto con bulbi e linfa.",
+            "effect": "Nausea e vomito se il bulbo viene ingerito, e irritazione cutanea per contatto con la linfa del bulbo.",
+            "note": "Come altri bulbi di Amaryllidaceae, il bulbo contiene licorina e alcaloidi correlati che causano disturbi gastrointestinali negli animali domestici e lieve irritazione nell'uomo.",
+            "symptoms": [
+              "Nausea e vomito se il bulbo viene ingerito.",
+              "Irritazione cutanea per contatto con la linfa del bulbo."
+            ]
+          },
+          "dog": {
+            "exposure": "Ingestione di bulbi.",
+            "effect": "Vomito, salivazione eccessiva, diarrea, letargia e, in caso di grandi ingestioni, tremori.",
+            "note": "Come altri bulbi di Amaryllidaceae, il bulbo contiene licorina e alcaloidi correlati che causano disturbi gastrointestinali negli animali domestici e lieve irritazione nell'uomo.",
+            "symptoms": [
+              "Vomito.",
+              "Salivazione eccessiva.",
+              "Diarrea.",
+              "Letargia.",
+              "Tremori in caso di grandi ingestioni."
+            ]
+          },
+          "cat": {
+            "exposure": "Ingestione di bulbi.",
+            "effect": "Vomito, salivazione eccessiva, diarrea e tremori.",
+            "note": "Come altri bulbi di Amaryllidaceae, il bulbo contiene licorina e alcaloidi correlati che causano disturbi gastrointestinali negli animali domestici e lieve irritazione nell'uomo.",
+            "symptoms": [
+              "Vomito.",
+              "Salivazione eccessiva.",
+              "Diarrea.",
+              "Tremori."
+            ]
+          }
+        }
+      }
+    },
+    "AAA1709": {
+      "source_hash": "ed763db88c7280dd7aa74830794c4f0cde0000f0947380356191345b1385d491",
+      "fields": {
+        "common_name": "Felce Dipinta Giapponese",
+        "description": "Athyrium niponicum, la felce dipinta giapponese, è una felce di sottobosco decidua originaria di Giappone, Corea, Cina e Taiwan, apprezzata per le fronde grigio argento metallico striate di un bordeaux intenso lungo le nervature. Alta da 30 a 60 centimetri, cresce in ciuffi arcuati e triangolari, diffondendosi lentamente per rizoma nell'ombra fresca e umida delle sue foreste native. Una delle felci ornamentali più coltivate al mondo, ha dato origine a numerose cultivar da giardino selezionate per tonalità sempre più vivide di argento, rosso bordeaux e viola, e rimane un elemento fondamentale di bordure ombreggiate e giardini boschivi in tutto il mondo temperato.",
+        "history_text_short": "Originaria del sottobosco di Giappone, Corea, Cina e Taiwan, la felce dipinta giapponese raggiunse i giardini occidentali durante la mania ottocentesca per il collezionismo di felci, diventando poi una delle felci ornamentali più coltivate al mondo. La sua cultivar 'Pictum', apprezzata per le fronde argento metallico e bordeaux, fu nominata Pianta Perenne dell'Anno nel 2004.",
+        "history_text_long": "Nella Gran Bretagna vittoriana si affermò una moda straordinaria: la pteridomania, o febbre delle felci, che vide collezionisti facoltosi e giardinieri comuni setacciare la campagna e importare specie esotiche per riempire serre dedicate alle felci e teche di vetro note come casse Wardiane. Le felci del Giappone, da poco aperto al commercio occidentale dopo secoli di isolamento, erano particolarmente apprezzate per le loro forme e colori insoliti, e tra queste vi era una felce di sottobosco le cui fronde avevano una lucentezza quasi metallica di argento e rosso bordeaux, senza eguali nelle foreste europee.\n\nQuella felce, Athyrium niponicum, cresceva spontaneamente nel sottobosco fresco e ombreggiato di Giappone, Corea, Cina e Taiwan, diffondendosi lentamente per rizoma sotto la chioma forestale. Forme selezionate, in particolare la cultivar nota come 'Pictum', intensificarono la sua colorazione naturale in una sorprendente combinazione di fronde grigio argento e nervature bordeaux intenso, una combinazione così attraente per i giardinieri che la felce dipinta giapponese divenne infine una delle felci ornamentali più piantate del mondo temperato, presente in bordure ombreggiate e giardini boschivi ben lontano dal suo areale nativo.\n\nLa sua popolarità non fece che crescere nel tempo: nel 2004, la Perennial Plant Association nominò Athyrium niponicum var. pictum Pianta Perenne dell'Anno, un riconoscimento moderno per una felce le cui fronde pittoriche avevano già affascinato i giardinieri per ben oltre un secolo. Il nome del genere, Athyrium, deriva dal greco a-, «senza», e thyreos, «scudo», in riferimento alla copertura irregolare e priva di scudo sopra i suoi gruppi di spore, un dettaglio botanico discreto che contrasta con il fascino ornamentale ben più vistoso della pianta.",
+        "name_origin": "Il nome del genere Athyrium deriva dal greco a-, «senza», e thyreos, «scudo», con riferimento alla copertura irregolare e priva di scudo sopra i gruppi di spore della felce, a differenza delle coperture più definite presenti nei generi di felci imparentati. Il nome della specie, niponicum, è latino per «del Giappone», da Nippon, riflettendo l'origine est-asiatica della specie.",
+        "symbolism_story": "Le felci raramente attirano l'attenzione per il colore, ma la felce dipinta giapponese è da tempo l'eccezione, con le sue fronde grigio argento striate di bordeaux intenso che le hanno conferito fama di elegante discrezione negli angoli ombreggiati del giardino. Quella stessa bellezza insolita un tempo affascinò i collezionisti vittoriani travolti dalla pteridomania, la mania ottocentesca per il collezionismo di felci, quando una pianta del sottobosco giapponese poteva sembrare una piccola scoperta vivente, portata a casa in una teca di vetro di un salotto inglese.",
+        "flower_meaning": "Eleganza",
+        "uses_list": [
+          {
+            "text": "Ampiamente coltivata in bordure ombreggiate e giardini boschivi per le sue fronde argento metallico e bordeaux."
+          },
+          {
+            "text": "Cultivar selezionate come 'Pictum' sono apprezzate in vasi e nella composizione floreale per la loro colorazione insolita."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Eleganza",
+            "description": "le sue fronde argento metallico e bordeaux sono apprezzate da tempo per una bellezza raffinata e pittorica, insolita tra le felci."
+          },
+          {
+            "keyword": "Scoperta",
+            "description": "era tra le felci esotiche che affascinarono i collezionisti vittoriani durante la mania ottocentesca per la caccia alle felci nota come pteridomania."
+          }
+        ],
+        "toxicity": {
+          "headline": "Nessuna tossicità segnalata",
+          "active_compound_display": "Nessuno segnalato",
+          "notes_en": "Nessuna corrispondenza di tossicità autorevole trovata; trattata come non segnalata (la stima dell'LLM non è verificata da fonti).",
+          "human": {
+            "exposure": "Nessuna via di esposizione segnalata.",
+            "effect": "Nessun effetto tossico segnalato.",
+            "note": "Nessuna tossicità è segnalata per l'uomo in questo catalogo; ciò non è prova che la pianta sia commestibile o innocua."
+          },
+          "dog": {
+            "exposure": "Nessuna via di esposizione segnalata.",
+            "effect": "Nessun effetto tossico segnalato.",
+            "note": "Nessuna tossicità è segnalata per i cani in questo catalogo; ciò non è prova che la pianta sia commestibile o innocua."
+          },
+          "cat": {
+            "exposure": "Nessuna via di esposizione segnalata.",
+            "effect": "Nessun effetto tossico segnalato.",
+            "note": "Nessuna tossicità è segnalata per i gatti in questo catalogo; ciò non è prova che la pianta sia commestibile o innocua."
+          }
+        }
+      }
+    },
+    "AAA1710": {
+      "source_hash": "ace391b7aada8e0c057b717787c5eded1b326238083d6c57ed19ee9a8675401b",
+      "fields": {
+        "common_name": "Pianta Ti",
+        "bloom_tip": "Occasionalmente questa pianta produce pannocchie di piccoli fiori profumati da bianchi a violacei, ma viene coltivata principalmente per il suo fogliame colorato piuttosto che per i fiori.",
+        "fruit_tip": "Il suo frutto è una piccola bacca rossa, raramente visibile sulle piante coltivate per il fogliame ornamentale.",
+        "description": "Cordyline fruticosa, comunemente chiamata pianta ti, è un arbusto legnoso sempreverde originario dell'Asia tropicale, delle isole del Pacifico e dell'Australia settentrionale, apprezzato per le lunghe foglie lucide a forma di spada in tonalità di verde, rosso, viola e rosa variegato. Alta da 1 a 3 metri su un fusto sottile simile a una canna, produce rosette di fogliame arcuato che l'hanno resa un elemento fondamentale del paesaggismo tropicale e delle collezioni di piante d'appartamento in tutto il mondo. Trasportata attraverso il Pacifico dai navigatori polinesiani come una delle loro essenziali piante da canoa, la pianta ti ha da tempo un profondo significato culturale e spirituale in tutta l'Oceania, ben oltre il suo fascino ornamentale.",
+        "history_text_short": "Originaria dell'Asia tropicale e del Pacifico, la pianta ti fu trasportata attraverso l'oceano dai navigatori polinesiani come una delle loro piante da canoa, apprezzata per le foglie usate per coprire i tetti, avvolgere il cibo e confezionare le gonne da hula. A lungo considerata una pianta di protezione spirituale e buona sorte in tutta l'Oceania, rimane oggi una favorita da giardino e da appartamento per il suo fogliame colorato e lucido.",
+        "history_text_long": "Molto prima del contatto europeo, Cordyline fruticosa aveva già viaggiato per migliaia di chilometri attraverso il Pacifico, trasportata deliberatamente dai navigatori polinesiani come una delle loro piante da canoa, quel piccolo insieme di specie utili, insieme a taro, albero del pane e cocco, che i coloni portavano con sé per stabilire una nuova vita su isole remote. Le ampie e resistenti foglie della pianta ti servivano a decine di scopi pratici: coperture per tetti, involucri per cuocere il cibo in forni di terra, impermeabili e sandali, e le gonne frangiate indossate nell'hula e in altre danze tradizionali alle Hawaii e in Polinesia.\n\nOltre ai suoi usi pratici, la pianta ti portava un profondo peso spirituale in tutta l'Oceania. Nella tradizione hawaiana era sacra alla dea Laka, patrona dell'hula, e le foglie venivano piantate intorno alle case e indossate dai ballerini per protezione dagli spiriti maligni. In molte culture del Pacifico, una pianta ti rigogliosa che cresceva vicino alla porta era considerata un segno di buona fortuna, una credenza che persiste oggi nel soprannome comune della pianta, la pianta della buona fortuna.\n\nIl nome della specie, fruticosa, latino per «arbustiva», descrive il suo portamento legnoso e a più steli, mentre il nome del genere Cordyline deriva dal greco kordyle, «clava», con riferimento ai rizomi ispessiti a forma di clava da cui la pianta germoglia facilmente. Questa stessa resistenza, capace di ricrescere anche da una piccola talea o frammento di radice, ha aiutato la pianta ti a viaggiare e stabilirsi con tanto successo attraverso le isole sparse del Pacifico, e continua a renderla una scelta facile e affidabile in giardini e vasi ben oltre il suo areale originario.",
+        "name_origin": "Il nome del genere Cordyline deriva dal greco kordyle, «clava», con riferimento ai rizomi ispessiti a forma di clava da cui la pianta germoglia facilmente. Il nome della specie, fruticosa, è latino per «arbustiva», descrivendo il suo portamento legnoso e a più steli. Il nome comune ti deriva da una parola polinesiana per la pianta, trasportata attraverso il Pacifico insieme alla specie stessa.",
+        "symbolism_story": "Nelle isole del Pacifico, la pianta ti ha da tempo fatto la guardia sulla soglia, piantata vicino alle porte per protezione e creduta in grado di allontanare gli spiriti maligni dalla casa. Questa stessa presenza è arrivata a simboleggiare la buona fortuna: una pianta ti sana e rigogliosa vicino alla casa è stata, ed è tuttora, considerata un segno di buona sorte, una credenza che ha viaggiato con la pianta sulle stesse canoe che l'hanno portata attraverso l'oceano, da un'isola all'altra.",
+        "flower_meaning": "Buona Fortuna",
+        "fragrance": {
+          "notes": "Produce piccoli grappoli di fiori da bianchi a violacei, dolcemente profumati, sebbene le piante coltivate per il fogliame raramente fioriscano."
+        },
+        "uses_list": [
+          {
+            "text": "Foglie tradizionalmente usate per coprire i tetti, avvolgere il cibo e tessere le gonne indossate nell'hula e in altre danze del Pacifico."
+          },
+          {
+            "text": "Coltivata in tutto il mondo per il suo fogliame colorato, lucido e a forma di spada in giardini, vasi e come pianta d'appartamento."
+          },
+          {
+            "text": "Usata nella medicina popolare tradizionale hawaiana e delle isole del Pacifico, foglie storicamente avvolte sul corpo per curare la febbre."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Protezione",
+            "description": "piantata vicino alle porte in tutta la Polinesia e alle Hawaii per allontanare gli spiriti maligni e proteggere la casa."
+          },
+          {
+            "keyword": "Buona Fortuna",
+            "description": "una pianta ti rigogliosa vicino alla casa è stata a lungo considerata segno di buona sorte nelle isole del Pacifico."
+          }
+        ],
+        "toxicity": {
+          "headline": "Umani Moderato · Animali Moderato",
+          "active_compound_display": "Saponine",
+          "notes_en": "Non segnalata come tossica per l'uomo, ma le foglie e i fusti contengono saponine tossiche per cani e gatti se ingerite.",
+          "human": {
+            "exposure": "Materiale vegetale non specificato.",
+            "effect": "Sono segnalati effetti tossici, ma non sono elencati segni specifici.",
+            "note": "Fonti autorevoli segnalano questa pianta come tossica; la gravità è stata impostata in modo conservativo come moderata in attesa di dati più precisi."
+          },
+          "dog": {
+            "exposure": "Ingestione di foglie e fusti.",
+            "effect": "Vomito (a volte con sangue), depressione, salivazione eccessiva e perdita di appetito.",
+            "note": "Non segnalata come tossica per l'uomo, ma le foglie e i fusti contengono saponine tossiche per cani e gatti se ingerite.",
+            "symptoms": [
+              "Vomito (a volte con sangue).",
+              "Depressione.",
+              "Salivazione eccessiva.",
+              "Perdita di appetito."
+            ]
+          },
+          "cat": {
+            "exposure": "Ingestione di foglie e fusti.",
+            "effect": "Vomito (a volte con sangue), depressione, salivazione eccessiva, perdita di appetito e pupille dilatate.",
+            "note": "Non segnalata come tossica per l'uomo, ma le foglie e i fusti contengono saponine tossiche per cani e gatti se ingerite.",
+            "symptoms": [
+              "Vomito (a volte con sangue).",
+              "Depressione.",
+              "Salivazione eccessiva.",
+              "Perdita di appetito.",
+              "Pupille dilatate."
+            ]
+          }
+        }
+      }
+    },
+    "AAA1711": {
+      "source_hash": "2cdabe3d06313f397b64a96991a5db5ef554342992f9db424d6e572abd4eb042",
+      "fields": {
+        "common_name": "Felce zampa di coniglio",
+        "description": "Davallia è un genere di circa 40 specie di felci epifite originarie del Sud-est asiatico e delle isole del Pacifico, apprezzate per le fronde finemente frastagliate e merlettate e per i rizomi spessi e pelosi che strisciano sul terreno e ricadono spettacolarmente dal bordo di un vaso sospeso. Quei rizomi pallidi e ricoperti di peli ricordano piccole zampe, da cui i nomi comuni del gruppo -- zampa di coniglio, zampa di scoiattolo e piede di cervo, a seconda della specie. In natura la pianta si aggrappa alla corteccia degli alberi e alle rocce muschiate anziché radicare nel terreno, per cui prospera in un substrato sciolto e ben drenante, con luce indiretta intensa e umidità costante. Tollerante ai periodi di siccità occasionali grazie ai suoi rizomi che immagazzinano acqua, è una pianta d'appartamento molto amata da chi desidera un fogliame di felce senza troppe cure.",
+        "history_text_short": "Originaria delle foreste del Sud-est asiatico e delle isole del Pacifico, la felce zampa di coniglio si aggrappa alla corteccia degli alberi e alle rocce anziché al terreno, diffondendosi tramite rizomi pelosi a forma di zampa. Il suo insolito portamento strisciante e il fogliame lussureggiante la resero una favorita dei collezionisti di felci in epoca vittoriana, e resta ancora oggi una pianta d'appartamento molto diffusa nei vasi sospesi.",
+        "history_text_long": "Il genere Davallia fu battezzato in onore di Edmond Davall (1763-1798), un botanico svizzero di origine inglese che corrispondeva con i principali naturalisti del suo tempo e raccolse un importante erbario prima della sua morte prematura. I botanici dell'epoca commemoravano spesso i colleghi in questo modo, e il nome di Davall fu associato a questo particolare gruppo di felci non per una sua scoperta su di esse, ma semplicemente come segno di stima scientifica.\n\nLe felci stesse sono originarie delle foreste del Sud-est asiatico e delle isole del Pacifico, dove crescono come epifite, aggrappandosi alla corteccia degli alberi, alle pareti rocciose e ai rami muschiati anziché radicare nel suolo. I loro rizomi pelosi, che immagazzinano acqua, strisciano lentamente verso l'esterno a partire dalla base, finendo per ricoprire qualsiasi superficie -- o vaso -- su cui la pianta cresce. Questo portamento strisciante, e l'aspetto a zampa dei rizomi pelosi, valsero a diverse specie i loro nomi comuni: felce zampa di coniglio, zampa di scoiattolo e piede di cervo.\n\nLe felci Davallia divennero particolarmente di moda durante la pteridomania vittoriana, o 'febbre delle felci', dell'Ottocento, quando i collezionisti britannici ed europei riempivano serre e vetrine da salotto di felci esotiche raccolte in tutto l'impero. I loro insoliti rizomi e le fronde finemente divise e merlettate ne facevano esemplari di rilievo rispetto alle più comuni felci da giardino. Quel fascino è perdurato: oggi Davallia è una presenza familiare nei cesti sospesi e sugli scaffali per piante, apprezzata dagli appassionati di piante d'appartamento per la sua resistenza, il fogliame scultoreo e il fascino un po' eccentrico di veder strisciare i rizomi pelosi oltre il bordo del vaso.",
+        "name_origin": "Il nome del genere, Davallia, onora Edmond Davall (1763-1798), un botanico svizzero che costituì un importante erbario e corrispose con i principali naturalisti del suo tempo; non porta alcun significato proprio al di là di questa dedica. I suoi nomi comuni -- zampa di coniglio, zampa di scoiattolo e piede di cervo -- descrivono invece i rizomi pelosi e striscianti della pianta, a forma di zampa.",
+        "symbolism_story": "Molto prima che le spore fossero comprese, le felci lasciavano perplessi i naturalisti: non producevano né fiori né semi, eppure si diffondevano e si moltiplicavano lo stesso. Questo mistero ne fece simboli potenti nel linguaggio vittoriano dei fiori, dove rappresentavano il fascino, e nel folklore europeo più antico, dove si diceva che il 'seme' della felce conferisse l'invisibilità a chi riusciva a catturarlo allo scoccare della mezzanotte. Davallia, con i suoi curiosi rizomi pelosi che strisciano come zampe sulla terra, non faceva che accentuare l'impressione di una pianta che segue regole tutte sue, un po' bizzarre.",
+        "flower_meaning": "Fascino",
+        "uses_list": [
+          {
+            "text": "Coltivata come pianta da fogliame ornamentale per le sue fronde finemente divise e i rizomi pelosi e ricadenti."
+          },
+          {
+            "text": "Nel suo habitat naturale di foresta pluviale, i suoi rizomi che immagazzinano acqua creano tasche di microhabitat umido sulla corteccia e sulla roccia per muschi e piccoli invertebrati."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Fascino",
+            "description": "le felci simboleggiavano il fascino nel linguaggio vittoriano dei fiori, un richiamo alla loro un tempo misteriosa riproduzione tramite spore anziché fiori o semi"
+          },
+          {
+            "keyword": "Magia",
+            "description": "per secoli i naturalisti non riuscirono a spiegare come le felci si riproducessero senza fiori o semi visibili, per cui il folklore attribuiva loro poteri magici, persino la capacità di rendere invisibili"
+          }
+        ],
+        "toxicity": {
+          "headline": "Sicura per gli animali domestici",
+          "active_compound_display": "Nessuno segnalato",
+          "notes_en": "Non è stata trovata alcuna fonte autorevole sulla tossicità; considerata non segnalata (la stima del modello non è verificata da fonti).",
+          "human": {
+            "exposure": "Nessuna via di esposizione segnalata.",
+            "effect": "Nessun effetto tossico segnalato.",
+            "note": "Nessuna tossicità è segnalata per l'uomo in questo catalogo; questo non è una prova che la pianta sia commestibile o innocua."
+          },
+          "dog": {
+            "exposure": "Nessuna via di esposizione segnalata.",
+            "effect": "Nessun effetto tossico segnalato.",
+            "note": "Fonti autorevoli indicano che questa pianta non è tossica per i cani; questo non è una prova che la pianta sia commestibile."
+          },
+          "cat": {
+            "exposure": "Nessuna via di esposizione segnalata.",
+            "effect": "Nessun effetto tossico segnalato.",
+            "note": "Fonti autorevoli indicano che questa pianta non è tossica per i gatti; questo non è una prova che la pianta sia commestibile."
+          }
+        }
+      }
+    },
+    "AAA1712": {
+      "source_hash": "5ee88241b7ff301215caaf7238af05e7b73af196b517e8c2baa7c21f438c44f9",
+      "fields": {
+        "common_name": "Fico di Mysore",
+        "bloom_tip": "I fiori di questa pianta sono interamente nascosti all'interno del frutto in sviluppo, impollinati da un'unica specie specializzata di vespa del fico.",
+        "fruit_tip": "Il suo frutto, simile a un fico, matura dal verde al viola intenso ed è un'importante fonte di cibo per uccelli e pipistrelli, sebbene non sia il fico commestibile del commercio.",
+        "description": "Ficus drupacea, comunemente chiamato fico di Mysore, è un grande albero sempreverde originario delle foreste dell'Asia meridionale e sudorientale, dall'India e dallo Sri Lanka attraverso Myanmar e Thailandia fino all'Indonesia e alle Filippine. Come molti suoi parenti, inizia spesso la sua vita come epifita, germinando nella chioma di un albero ospite prima di inviare radici aeree che alla fine formano un proprio robusto tronco, un fico strangolatore nel senso classico. Le sue ampie foglie lucide e i nuovi germogli fogliari sono ricoperti da caratteristici peli vellutati bruno-rossastri, da cui l'altro nome comune, fico lanoso bruno. Grappoli di frutti rotondi, simili a fichi, maturano dal verde al viola intenso lungo i suoi rami, nutrendo uccelli, pipistrelli e altra fauna selvatica in tutto il suo areale.",
+        "history_text_short": "Originario delle foreste dell'Asia meridionale e sudorientale, il fico di Mysore inizia spesso come epifita nella chioma di un albero ospite prima che le sue radici aeree raggiungano il suolo e formino un proprio tronco, un classico fico strangolatore. Come tutti i fichi, dipende da un'unica specie di vespa per l'impollinazione, un'alleanza forgiata nell'arco di decine di milioni di anni.",
+        "history_text_long": "Ficus drupacea inizia la sua vita, il più delle volte, come un minuscolo seme depositato da un uccello o un pipistrello in alto tra i rami di un altro albero, lasciato in un escremento dopo un pasto di fichi. Lì germina e cresce come epifita, inviando sottili radici aeree verso il basso lungo il tronco dell'albero ospite. Nel corso di anni o decenni queste radici si ispessiscono, si fondono e raggiungono il suolo, finendo per avvolgere e talvolta soppiantare completamente l'ospite, un fico strangolatore nel senso più pieno, finché il fico di Mysore non si erge come albero indipendente a pieno titolo, spesso ancora recando la forma cava del suo ospite ormai scomparso all'interno di un reticolo di radici fuse.\n\nCome ogni specie di fico, Ficus drupacea dipende da un'alleanza straordinariamente specifica per riprodursi: un'unica specie di minuscola vespa, evolutasi insieme all'albero nell'arco di decine di milioni di anni, è l'unica impollinatrice in grado di entrare nella sua struttura florale chiusa e fecondarla, in cambio di un luogo sicuro dove deporre le proprie uova all'interno del frutto in sviluppo. Questo mutualismo fico-vespa, ripetuto in centinaia di specie di Ficus in tutto il mondo, ciascuna tipicamente abbinata alla propria vespa dedicata, è una delle alleanze più strettamente evolute del regno vegetale.\n\nLa specie prende il nome dal suo frutto, drupacea, latino per «drupaceo», che descrive i fichi carnosi e tondeggianti che maturano dal verde al viola intenso e da tempo nutrono uccelli, pipistrelli e altra fauna selvatica in tutto il suo areale nativo, dall'India alle Filippine. In alcune parti dell'Asia meridionale viene chiamato anche fico lanoso bruno, per i fitti peli vellutati bruno-rossastri che ricoprono i nuovi germogli fogliari e la crescita giovane, un tratto che lo distingue dai parenti dalle foglie più lisce. Ampiamente piantato come albero ombreggiante e stradale in tutto il suo areale nativo, rimane, come tanti fichi dell'Asia meridionale e sudorientale, sia un caposaldo ecologico sia una presenza familiare nella vita quotidiana.",
+        "name_origin": "Il nome della specie, drupacea, è latino per «drupaceo», descrivendo il suo frutto carnoso a forma di fico. Il nome comune fico lanoso bruno si riferisce ai fitti peli vellutati bruno-rossastri che ricoprono i nuovi germogli fogliari, mentre fico di Mysore riflette la sua lunga coltivazione nella città di Mysore, nell'India meridionale, e nei suoi dintorni.",
+        "symbolism_story": "Poche alleanze in natura sono precise quanto quella tra un fico e la sua vespa, un legame così esatto che il fico di Mysore non può produrre semi senza l'unica specie di vespa che si è evoluta al suo fianco per decine di milioni di anni. Questa silenziosa interdipendenza ha reso il fico, nelle culture di tutto il suo areale nativo, un simbolo di alleanza e reciproca dipendenza, un albero imponente la cui stessa esistenza dipende dal più piccolo degli alleati.",
+        "flower_meaning": "Alleanza",
+        "uses_list": [
+          {
+            "text": "Il suo frutto maturo, simile a un fico, è un'importante fonte di cibo per uccelli, pipistrelli e altra fauna selvatica in tutto il suo areale nativo."
+          },
+          {
+            "text": "Piantato come albero ombreggiante e stradale in Asia meridionale e sudorientale per la sua ampia chioma e il fogliame lucido."
+          },
+          {
+            "text": "In alcune parti del suo areale, la corteccia fibrosa è stata tradizionalmente usata per corde e funi."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Alleanza",
+            "description": "la sua sopravvivenza dipende interamente da un'unica specie di vespa, un promemoria di quanto profondamente gli esseri viventi possano dipendere l'uno dall'altro."
+          },
+          {
+            "keyword": "Rifugio",
+            "description": "la sua ampia chioma e il suo portamento da fico strangolatore hanno a lungo offerto ombra, riparo e frutti sia alla fauna selvatica sia ai viaggiatori."
+          }
+        ],
+        "toxicity": {
+          "headline": "Umani Lieve · Animali Lieve",
+          "active_compound_display": "Ficina e furanocumarine (psoraleni)",
+          "notes_en": "Come altre specie di Ficus, la linfa lattiginosa contiene enzimi proteolitici e furanocumarine che possono irritare la pelle e l'apparato digerente.",
+          "human": {
+            "exposure": "Contatto con linfa e foglie.",
+            "effect": "Irritazione cutanea o dermatite da contatto con la linfa, e possibile reazione fototossica al sole dopo il contatto cutaneo con la linfa.",
+            "note": "Come altre specie di Ficus, la linfa lattiginosa contiene enzimi proteolitici e furanocumarine che possono irritare la pelle e l'apparato digerente.",
+            "symptoms": [
+              "Irritazione cutanea o dermatite da contatto con la linfa.",
+              "Possibile reazione fototossica al sole dopo il contatto cutaneo con la linfa."
+            ]
+          },
+          "dog": {
+            "exposure": "Ingestione di foglie e linfa. Contatto con foglie e linfa.",
+            "effect": "Vomito, diarrea, salivazione eccessiva e irritazione orale.",
+            "note": "Come altre specie di Ficus, la linfa lattiginosa contiene enzimi proteolitici e furanocumarine che possono irritare la pelle e l'apparato digerente.",
+            "symptoms": [
+              "Vomito.",
+              "Diarrea.",
+              "Salivazione eccessiva.",
+              "Irritazione orale."
+            ]
+          },
+          "cat": {
+            "exposure": "Ingestione di foglie e linfa. Contatto con foglie e linfa.",
+            "effect": "Vomito, diarrea, salivazione eccessiva e irritazione orale.",
+            "note": "Come altre specie di Ficus, la linfa lattiginosa contiene enzimi proteolitici e furanocumarine che possono irritare la pelle e l'apparato digerente.",
+            "symptoms": [
+              "Vomito.",
+              "Diarrea.",
+              "Salivazione eccessiva.",
+              "Irritazione orale."
+            ]
+          }
+        }
+      }
+    },
+    "AAA1713": {
+      "source_hash": "cfeb388d4b0334d5b45a7d6949d88981219d7bc37a26ebeede0c55fed76779ac",
+      "fields": {
+        "common_name": "Hippeastrum Glauco",
+        "description": "L'Hippeastrum glauco è una perenne bulbosa a foglia caduca invernale della famiglia delle Amaryllidaceae, ampiamente distribuita nei biomi del Cerrado, della Caatinga e della foresta atlantica del Brasile, da Bahia nel nord-est a Paraná e Santa Catarina nel sud. Deve il suo nome al riflesso blu-grigio e ceroso delle sue foglie a forma di cinghia, uno strato che la aiuta a resistere al sole intenso delle praterie rocciose e aperte dove di solito cresce. Con le prime piogge della stagione umida, steli spogli alti da 45 a 60 centimetri portano fiori finemente striati di verde e rosso, con tepali che si curvano verso l'interno alle punte.",
+        "history_text_short": "Conosciuto in Brasile come lírio do mato, 'giglio della boscaglia', l'Hippeastrum glauco passa la stagione secca come un bulbo dormiente sepolto nel terreno roccioso del Cerrado e della foresta atlantica, facendo spuntare le sue foglie blu-grigie e i fiori ricurvi, striati di verde e rosso, solo con le prime piogge della stagione umida.",
+        "history_text_long": "Su un vastissimo tratto del Brasile, dalla secca boscaglia della Caatinga a Bahia, nel nord-est, attraverso le praterie del Cerrado di Goiás e Minas Gerais, fino ai margini più freschi della foresta atlantica di Paraná e Santa Catarina al sud, la popolazione locale conosce questa pianta con un nome semplice e pratico: lírio do mato, 'giglio della boscaglia'. Non è un'importazione ornamentale vistosa, ma una vera nativa selvatica, che si trova a proprio agio tra affioramenti rocciosi e praterie aperte in quota, dove il sole è intenso e la stagione secca può durare mesi.\n\nIl bulbo sopravvive a quella stagione secca come fanno molte piante del Cerrado, spegnendosi quasi completamente. Le sue foglie a forma di cinghia muoiono e l'intera pianta scompare sottoterra fino al ritorno delle piogge, tipicamente tra dicembre e marzo. Ciò che ricompare è inequivocabile: foglie con un riflesso blu-grigio e ceroso sulla superficie, la patina glauca che dà alla specie il suo nome scientifico glaucescens, 'che diventa glauca'. Quello stesso strato ceroso aiuta a riflettere il duro sole tropicale e a rallentare la perdita d'acqua durante una lunga stagione secca, un adattamento condiviso con altre piante del Cerrado che vivono sulla roccia.\n\nI fiori che seguono sono altrettanto distintivi: finemente striati di verde e rosso, con tepali che si curvano verso l'interno alle punte invece di aprirsi piatti, a differenza della maggior parte dei suoi parenti Hippeastrum più vistosi, selezionati per il commercio dei fiori da taglio. Parenti stretti come Hippeastrum iguazuanum e Hippeastrum teyucuarense condividono gli stessi habitat rocciosi e soggetti al fuoco più a sud, parte di un gruppo di specie brasiliane di Hippeastrum adattate alla vita sulla roccia esposta piuttosto che all'ombra del sottobosco preferita dalla maggior parte dei bulbi.",
+        "name_origin": "Il nome della specie, glaucescens, è latino per 'che diventa glauca', descrivendo il riflesso blu-grigio e ceroso delle sue foglie. In Brasile è conosciuta localmente come lírio do mato, 'giglio della boscaglia', per l'habitat roccioso e aperto in cui si trova più spesso.",
+        "symbolism_story": "Tra le piante del Cerrado e della Caatinga brasiliani, sopravvivere a mesi di siccità scomparendo sottoterra è una strategia comune, ma l'Hippeastrum glauco porta la sua resistenza in modo visibile: lo stesso strato ceroso blu-grigio che protegge le sue foglie dal sole dà anche il nome alla specie, trasformando un trucco di sopravvivenza nel suo tratto più riconoscibile.",
+        "flower_meaning": "Resistenza",
+        "fragrance": {
+          "notes": "Praticamente privo di profumo, come la maggior parte dei suoi parenti Hippeastrum."
+        },
+        "uses_list": [
+          {
+            "text": "Coltivato dagli specialisti di bulbose per il suo insolito fogliame blu-grigio e i suoi fiori striati di verde e rosso."
+          },
+          {
+            "text": "I suoi fiori si aprono con le prime piogge della stagione umida, tra le prime fonti di nettare per gli impollinatori nel suo habitat di prateria rocciosa."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Resistenza",
+            "description": "Scomparendo sottoterra per mesi di siccità ogni anno e tornando con foglia e fiore insieme non appena arrivano le piogge, incarna una sorta di resistenza paziente comune alle piante del Cerrado."
+          },
+          {
+            "keyword": "Mimetismo",
+            "description": "Le sue foglie blu-grigie e cerose sono un adattamento di sopravvivenza contro il sole intenso, non un tratto decorativo, un travestimento pratico indossato per protezione."
+          }
+        ],
+        "toxicity": {
+          "headline": "Umani Lieve · Animali Moderato",
+          "active_compound_display": "licorina e altri alcaloidi delle Amaryllidaceae",
+          "notes_en": "Come altri bulbi di Hippeastrum, il bulbo contiene licorina e alcaloidi correlati che causano disturbi gastrointestinali negli animali domestici e una leggera irritazione negli esseri umani.",
+          "human": {
+            "exposure": "Ingestione di bulbi e linfa. Contatto con bulbi e linfa.",
+            "effect": "Leggera nausea se il bulbo viene ingerito e irritazione cutanea dalla linfa del bulbo.",
+            "note": "Come altri bulbi di Hippeastrum, il bulbo contiene licorina e alcaloidi correlati che causano disturbi gastrointestinali negli animali domestici e una leggera irritazione negli esseri umani.",
+            "symptoms": [
+              "Leggera nausea se il bulbo viene ingerito.",
+              "Irritazione cutanea dalla linfa del bulbo."
+            ]
+          },
+          "dog": {
+            "exposure": "Ingestione di bulbi.",
+            "effect": "Vomito, ipersalivazione, diarrea e letargia.",
+            "note": "Come altri bulbi di Hippeastrum, il bulbo contiene licorina e alcaloidi correlati che causano disturbi gastrointestinali negli animali domestici e una leggera irritazione negli esseri umani.",
+            "symptoms": [
+              "Vomito.",
+              "Ipersalivazione.",
+              "Diarrea.",
+              "Letargia."
+            ]
+          },
+          "cat": {
+            "exposure": "Ingestione di bulbi.",
+            "effect": "Vomito, ipersalivazione, diarrea e tremori.",
+            "note": "Come altri bulbi di Hippeastrum, il bulbo contiene licorina e alcaloidi correlati che causano disturbi gastrointestinali negli animali domestici e una leggera irritazione negli esseri umani.",
+            "symptoms": [
+              "Vomito.",
+              "Ipersalivazione.",
+              "Diarrea.",
+              "Tremori."
+            ]
+          }
+        },
+        "bloom_tip": "I fiori di questa pianta fioriscono in inverno e primavera, mostrando colori vivaci.",
+        "fruit_tip": "L'aspetto del frutto è unico, aggiungendo interesse al suo valore ornamentale."
+      }
+    },
+    "AAA1714": {
+      "source_hash": "97a2bbfb0fbb0d2abedffa87776bc0544085774437831822d8ffc5315866b1af",
+      "fields": {
+        "common_name": "Hippeastrum del Perù",
+        "description": "L'Hippeastrum del Perù è una perenne bulbosa della famiglia delle Amaryllidaceae, conosciuta solo da un'unica raccolta selvatica effettuata nel dipartimento di Amazonas, nel nord del Perù. Si distingue dai parenti stretti Hippeastrum miniatum e Hippeastrum reginae per fiori notevolmente più grandi, un motivo di colorazione distintivo e uno stigma trifido a tre rami. Non è mai stata documentata una seconda popolazione selvatica; ogni pianta oggi coltivata discende dai bulbi raccolti in quella singola spedizione, coltivata discretamente in collezioni molto prima che la specie avesse un nome proprio.",
+        "history_text_short": "Nel 1958 il botanico americano Paul C. Hutchison raccolse bulbi di un Hippeastrum sconosciuto nella regione di Amazonas, nel nord del Perù. Per sessantuno anni la pianta fu coltivata senza che la sua identità fosse risolta, finché i botanici Alan Meerow e Antonio Campos-Rocha la descrissero formalmente come nuova specie nel 2019, nominandola per il paese in cui era stata trovata.",
+        "history_text_long": "Quando Paul C. Hutchison, botanico americano attivo in Sud America, raccolse nel 1958 bulbi di un Hippeastrum sconosciuto nel dipartimento di Amazonas, nel nord del Perù, non poteva sapere di aver trovato una specie che avrebbe atteso più di sessant'anni per ricevere un nome. I bulbi passarono in coltivazione, probabilmente ritenuti da chi li manteneva in vita una variante naturale o un ibrido di una specie già nota alla scienza, come Hippeastrum miniatum o Hippeastrum reginae, parenti a cui assomiglia a prima vista.\n\nSolo nel 2019 i botanici Alan Meerow e Antonio Campos-Rocha, esaminando materiale di Hippeastrum peruviano per la rivista Novon, riconobbero che la vecchia raccolta di Hutchison era qualcosa di davvero distinto: i suoi fiori sono notevolmente più grandi di quelli dei suoi simili, presentano un motivo di colorazione diverso e, indizio più rivelatore sotto la lente, terminano in uno stigma trifido, a tre rami, che le altre specie non hanno. La chiamarono Hippeastrum peruvianum, semplicemente 'del Perù', e pubblicarono la descrizione sessantuno anni dopo il viaggio di raccolta originale.\n\nDa allora non è stata ritrovata nessuna popolazione selvatica. Ogni Hippeastrum del Perù vivo oggi discende dai bulbi originali di Hutchison, moltiplicati silenziosamente in coltivazione per sei decenni come curiosità senza nome, prima che la taxonomia lo raggiungesse finalmente.",
+        "name_origin": "Il nome della specie, peruvianum, è semplicemente il latino per 'del Perù', a indicare l'unico paese in cui questo Hippeastrum sia mai stato trovato, e finora l'unico luogo in cui sia mai emersa la sua unica raccolta storica.",
+        "symbolism_story": "Nel linguaggio dei fiori della famiglia dell'amarillide, orgoglio e determinazione sono i temi abituali, ma la storia stessa dell'Hippeastrum del Perù indica qualcosa di più silenzioso: la pazienza. Trascorse sessantuno anni in coltivazione, non identificato, prima che i botanici riconoscessero finalmente cosa fosse realmente.",
+        "flower_meaning": "Pazienza",
+        "fragrance": {
+          "notes": "Praticamente privo di profumo, come la maggior parte dei suoi parenti Hippeastrum."
+        },
+        "uses_list": [
+          {
+            "text": "Coltivato quasi esclusivamente da specialisti di bulbose e collezioni botaniche piuttosto che dal commercio vivaistico generale."
+          },
+          {
+            "text": "Come altri Hippeastrum, i suoi grandi fiori a tromba sono fatti per attirare colibrì e grandi insetti impollinatori."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Pazienza",
+            "description": "I temi abituali della famiglia dell'amarillide nel linguaggio dei fiori sono orgoglio e determinazione, ma la storia propria di questa specie indica qualcosa di più silenzioso: attese sessantuno anni in coltivazione prima che qualcuno riconoscesse cosa fosse realmente."
+          },
+          {
+            "keyword": "Rarità",
+            "description": "Conosciuta da un'unica raccolta storica senza alcuna popolazione selvatica confermata da allora, rimane una delle specie di Hippeastrum più rare in coltivazione."
+          }
+        ],
+        "toxicity": {
+          "headline": "Umani Lieve · Animali Moderato",
+          "active_compound_display": "licorina e altri alcaloidi delle Amaryllidaceae",
+          "notes_en": "Come altri bulbi di Hippeastrum, il bulbo contiene licorina e alcaloidi correlati che causano disturbi gastrointestinali negli animali domestici e una leggera irritazione negli esseri umani.",
+          "human": {
+            "exposure": "Ingestione di bulbi e linfa. Contatto con bulbi e linfa.",
+            "effect": "Leggera nausea se il bulbo viene ingerito e irritazione cutanea dalla linfa del bulbo.",
+            "note": "Come altri bulbi di Hippeastrum, il bulbo contiene licorina e alcaloidi correlati che causano disturbi gastrointestinali negli animali domestici e una leggera irritazione negli esseri umani.",
+            "symptoms": [
+              "Leggera nausea se il bulbo viene ingerito.",
+              "Irritazione cutanea dalla linfa del bulbo."
+            ]
+          },
+          "dog": {
+            "exposure": "Ingestione di bulbi.",
+            "effect": "Vomito, ipersalivazione, diarrea e letargia.",
+            "note": "Come altri bulbi di Hippeastrum, il bulbo contiene licorina e alcaloidi correlati che causano disturbi gastrointestinali negli animali domestici e una leggera irritazione negli esseri umani.",
+            "symptoms": [
+              "Vomito.",
+              "Ipersalivazione.",
+              "Diarrea.",
+              "Letargia."
+            ]
+          },
+          "cat": {
+            "exposure": "Ingestione di bulbi.",
+            "effect": "Vomito, ipersalivazione, diarrea e tremori.",
+            "note": "Come altri bulbi di Hippeastrum, il bulbo contiene licorina e alcaloidi correlati che causano disturbi gastrointestinali negli animali domestici e una leggera irritazione negli esseri umani.",
+            "symptoms": [
+              "Vomito.",
+              "Ipersalivazione.",
+              "Diarrea.",
+              "Tremori."
+            ]
+          }
+        },
+        "bloom_tip": "I fiori di questa pianta fioriscono in inverno, attirando l'attenzione.",
+        "fruit_tip": "I frutti hanno colori e forme interessanti quando sono maturi, aggiungendo valore ornamentale."
+      }
+    },
+    "AAA1715": {
+      "source_hash": "09e47582c0c0d0afea0e18f5239fd9a0bc21a29fd3342ba1eaf8b0c599b22c38",
+      "fields": {
+        "common_name": "Giglio di Fiume",
+        "description": "Il giglio di fiume è una perenne bulbosa della famiglia delle Amaryllidaceae, originaria delle praterie ripariali e dei boschi a galleria del bacino del Paraná-Río de la Plata in Paraguay, Uruguay e Argentina. Il suo grande bulbo, da 10 a 15 centimetri di diametro, produce foglie lanceolate, verde scuro, portate da piccioli ben distinti, un tratto che lo distingue dalla maggior parte dei suoi parenti Hippeastrum a foglie sessili. Alla fine della primavera, steli floreali spogli si innalzano da 30 a 40 centimetri e aprono da 3 a 4 fiori a forma di tromba, scarlatti, larghi circa 10 centimetri, venati di porpora con la gola giallo-verdastra.",
+        "history_text_short": "Descritto per la prima volta dal botanico tedesco Ferdinand Pax nel 1889 da esemplari raccolti lungo i fiumi di Paraguay, Uruguay e Argentina, il giglio di fiume passa la maggior parte dell'anno come bulbo sepolto nel terreno limoso della pianura alluvionale, fiorendo solo quando le acque stagionali si ritirano.",
+        "history_text_long": "Quando il botanico tedesco Ferdinand Pax descrisse formalmente questa specie nel 1889, nel catalogare la flora sudamericana, individuò un dettaglio che la distingueva dai suoi cugini Hippeastrum più vistosi: foglie portate da veri piccioli, non fuse appiattite contro il fusto. Questa piccola particolarità anatomica è il motivo per cui il nome petiolatum è rimasto, anche dopo che botanici successivi spostarono la pianta tra i generi Amaryllis e Hippeastrum durante la lunga disputa ottocentesca su come classificare i gigli bulbosi del Nuovo Mondo, una disputa che ha lasciato al giglio di fiume il sinonimo Amaryllis petiolata oltre al nome attuale.\n\nA differenza delle amarillidi ibride olandesi vendute a Natale, il giglio di fiume non è mai entrato nel commercio dei fiori da taglio. Cresce spontaneo lungo le pianure alluvionali dei bacini del Paraná e del Río de la Plata, dove il suo bulbo sopravvive a mesi di inondazione stagionale rimanendo dormiente nel terreno limoso delle rive. Quando le acque si ritirano a fine primavera, steli spogli si innalzano quasi da un giorno all'altro e aprono trombe scarlatte venate di porpora prima che la prateria circostante abbia finito di asciugarsi, un segnale breve e vistoso che il fiume ha di nuovo lasciato la terra. Le comunità rivierasche di Paraguay, Uruguay e Argentina la chiamano ancora con il suo nome spagnolo, azucena de río, 'giglio del fiume', un nome che ha superato ogni nuova classificazione latina subita dalla pianta.",
+        "name_origin": "Il nome della specie, petiolatum, è latino per 'picciolato', in riferimento alle sue foglie chiaramente picciolate, un tratto inusuale tra gli Hippeastrum, le cui foglie sono generalmente sessili. Lungo i fiumi del Río de la Plata, le comunità di lingua spagnola la chiamano azucena de río, 'giglio di fiume', per il modo in cui i suoi fiori a tromba compaiono sulla pianura alluvionale ogni primavera.",
+        "symbolism_story": "Nel linguaggio dei fiori arrivato in Sud America con i coloni europei, la famiglia dell'amarillide è giunta a rappresentare orgoglio e determinazione, e poche piante incarnano questo significato in modo così letterale come il giglio di fiume, che fa spuntare il suo stelo floreale pochi giorni dopo il ritiro di una piena del Paraná, fiorendo prima ancora che il terreno abbia finito di asciugarsi.",
+        "flower_meaning": "Determinazione",
+        "fragrance": {
+          "notes": "Praticamente privo di profumo; gli impollinatori sono attratti dal colore e dal nettare più che dal profumo."
+        },
+        "uses_list": [
+          {
+            "text": "Coltivato per i suoi vivaci fiori scarlatti a tromba in aiuole di bulbose e giardini rocciosi."
+          },
+          {
+            "text": "I fiori ricchi di nettare attirano colibrì e grandi insetti impollinatori."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Determinazione",
+            "description": "Condivide il significato vittoriano dell'amarillide nel linguaggio dei fiori, orgoglio e determinazione, un tratto che si riflette nel modo in cui il giglio di fiume fa spuntare il proprio stelo floreale pochi giorni dopo il ritiro di una piena."
+          },
+          {
+            "keyword": "Rinnovamento",
+            "description": "Fiorendo proprio mentre le acque di piena si ritirano, è diventato un segnale stagionale del rinnovamento della terra lungo i fiumi di Paraguay, Uruguay e Argentina."
+          }
+        ],
+        "toxicity": {
+          "headline": "Umani Lieve · Animali Moderato",
+          "active_compound_display": "licorina e altri alcaloidi delle Amaryllidaceae",
+          "notes_en": "Come altri bulbi di Hippeastrum, il bulbo contiene licorina e alcaloidi correlati che causano disturbi gastrointestinali negli animali domestici e una leggera irritazione negli esseri umani.",
+          "human": {
+            "exposure": "Ingestione di bulbi e linfa. Contatto con bulbi e linfa.",
+            "effect": "Leggera nausea se il bulbo viene ingerito e irritazione cutanea dalla linfa del bulbo.",
+            "note": "Come altri bulbi di Hippeastrum, il bulbo contiene licorina e alcaloidi correlati che causano disturbi gastrointestinali negli animali domestici e una leggera irritazione negli esseri umani.",
+            "symptoms": [
+              "Leggera nausea se il bulbo viene ingerito.",
+              "Irritazione cutanea dalla linfa del bulbo."
+            ]
+          },
+          "dog": {
+            "exposure": "Ingestione di bulbi.",
+            "effect": "Vomito, ipersalivazione, diarrea e letargia.",
+            "note": "Come altri bulbi di Hippeastrum, il bulbo contiene licorina e alcaloidi correlati che causano disturbi gastrointestinali negli animali domestici e una leggera irritazione negli esseri umani.",
+            "symptoms": [
+              "Vomito.",
+              "Ipersalivazione.",
+              "Diarrea.",
+              "Letargia."
+            ]
+          },
+          "cat": {
+            "exposure": "Ingestione di bulbi.",
+            "effect": "Vomito, ipersalivazione, diarrea e tremori.",
+            "note": "Come altri bulbi di Hippeastrum, il bulbo contiene licorina e alcaloidi correlati che causano disturbi gastrointestinali negli animali domestici e una leggera irritazione negli esseri umani.",
+            "symptoms": [
+              "Vomito.",
+              "Ipersalivazione.",
+              "Diarrea.",
+              "Tremori."
+            ]
+          }
+        }
+      }
+    },
+    "AAA1716": {
+      "source_hash": "48b39743ad2eb1b075c2fd96aced3e7bdb5fc1fc640c89d539fabf7232940097",
+      "fields": {
+        "common_name": "Giglio delle Barbados",
+        "bloom_tip": "I suoi fiori color cremisi con una stella sulla gola compaiono spesso a ondate dopo le piogge, tipicamente in inverno in coltivazione.",
+        "fruit_tip": "Il suo frutto è una capsula trivalve con semi neri, di scarso interesse ornamentale.",
+        "description": "Hippeastrum puniceum è una perenne bulbosa originaria del Messico, dei Caraibi e dell'America Centrale, una delle specie selvatiche più diffuse del suo genere e uno dei primissimi bulbi di Amaryllidaceae portati in Europa dalle Americhe. Uno stelo fiorale sottile e privo di foglie, alto da 30 a 45 centimetri, porta da due a quattro fiori a imbuto di colore rosso intenso o cremisi, ciascun petalo segnato alla gola da una stella bianco-verdastra pallida. Comunemente chiamato giglio delle Barbados, fiorisce prontamente dopo la pioggia nel suo areale nativo ed è coltivato da lungo tempo come bulbo da giardino e da vaso nei tropici e oltre.",
+        "history_text_short": "Originario del Messico fino ai Caraibi, il giglio delle Barbados fu uno dei primissimi bulbi del Nuovo Mondo a raggiungere i giardini europei, descritto da Linneo nel 1753 come Amaryllis punicea. Quando William Herbert separò il genere Hippeastrum da Amaryllis nel 1821, questa specie divenne uno dei suoi membri fondatori e una delle prime progenitrici dell'amarillide ibrida moderna.",
+        "history_text_long": "Tra le decine di vistosi bulbi che Linneo raggruppò nel suo genere originario Amaryllis nel 1753, Amaryllis punicea, la pianta oggi nota come giglio delle Barbados, fu una delle prime e più ampiamente coltivate. Originaria del Messico, attraverso le isole caraibiche, fino all'America Centrale, raggiunse le serre e i giardini botanici europei ben prima della maggior parte delle sue parenti sudamericane, apprezzata per la facilità di fioritura e per i suoi vivaci fiori cremisi, ciascuno segnato alla gola da una stella verdastra pallida.\n\nQuando il botanico inglese William Herbert separò nel 1821 la vera Amaryllis sudafricana dalle sue sosia americane più vistose, incluse questa specie tra i membri fondatori del suo nuovo genere, rinominandola Hippeastrum puniceum. Il suo nome di specie, dal latino puniceus, «cremisi» o «rosso punico», descrive semplicemente il colore dei suoi fiori, un colore così sorprendente che la pianta rimase in coltivazione continua per oltre tre secoli senza mai perdere i favori del pubblico.\n\nHippeastrum puniceum avrebbe poi svolto un ruolo di supporto anche nella storia di ibridazione del genere. Insieme a specie selvatiche come H. vittatum e H. reginae, fu una delle progenitrici a cui gli allevatori britannici, e poi olandesi, attinsero per creare i grandi e vistosi bulbi ibridi che alla fine avrebbero eclissato le specie selvatiche nel commercio florovivaistico, anche se il giglio delle Barbados stesso ha continuato a essere coltivato, più modestamente, in giardini nei tropici e nei climi caldi di tutto il mondo.",
+        "name_origin": "Il nome della specie, puniceum, deriva dal latino puniceus, «cremisi» o «rosso punico», in riferimento al colore rosso intenso dei suoi fiori. Fu descritta per la prima volta come Amaryllis punicea da Linneo nel 1753 e trasferita al genere Hippeastrum da William Herbert nel 1821. Il nome comune giglio delle Barbados riflette la sua lunga storia di coltivazione nei Caraibi.",
+        "symbolism_story": "Pochi bulbi possono vantare una storia di coltivazione così lunga e ininterrotta come il giglio delle Barbados, coltivato nei giardini di entrambe le sponde dell'Atlantico da oltre tre secoli, silenziosa testimonianza di resistenza. I suoi fiori rosso intenso, ciascuno segnato da una stella pallida alla gola, rappresentano da altrettanto tempo la passione nei giardini caraibici dove cresce ancora spontaneo, un'audacia che trecento anni di familiarità non hanno mai attenuato.",
+        "flower_meaning": "Passione",
+        "uses_list": [
+          {
+            "text": "Coltivato in giardini e vasi nei tropici e nei climi caldi di tutto il mondo per i suoi affidabili e vivaci fiori cremisi."
+          },
+          {
+            "text": "I suoi fiori ricchi di nettare e segnati da una stella attirano colibrì e farfalle nel suo areale nativo."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Resistenza",
+            "description": "tra i primi bulbi americani mai coltivati in Europa, è rimasto in coltivazione continua per oltre trecento anni."
+          },
+          {
+            "keyword": "Passione",
+            "description": "i suoi fiori rosso intenso, segnati da una stella, lo hanno reso a lungo un emblema di passione nelle regioni dove cresce spontaneo."
+          }
+        ],
+        "toxicity": {
+          "headline": "Umani Lieve · Animali Moderato",
+          "active_compound_display": "Licorina e altri alcaloidi delle Amaryllidaceae",
+          "notes_en": "Come altri bulbi di Hippeastrum e Amaryllidaceae, il bulbo contiene licorina e alcaloidi correlati che causano disturbi gastrointestinali negli animali domestici e lieve irritazione nell'uomo.",
+          "human": {
+            "exposure": "Ingestione di bulbi e linfa. Contatto con bulbi e linfa.",
+            "effect": "Nausea e vomito se il bulbo viene ingerito, e irritazione cutanea per contatto con la linfa del bulbo.",
+            "note": "Come altri bulbi di Hippeastrum e Amaryllidaceae, il bulbo contiene licorina e alcaloidi correlati che causano disturbi gastrointestinali negli animali domestici e lieve irritazione nell'uomo.",
+            "symptoms": [
+              "Nausea e vomito se il bulbo viene ingerito.",
+              "Irritazione cutanea per contatto con la linfa del bulbo."
+            ]
+          },
+          "dog": {
+            "exposure": "Ingestione di bulbi.",
+            "effect": "Vomito, salivazione eccessiva, diarrea, letargia e, in caso di grandi ingestioni, tremori.",
+            "note": "Come altri bulbi di Hippeastrum e Amaryllidaceae, il bulbo contiene licorina e alcaloidi correlati che causano disturbi gastrointestinali negli animali domestici e lieve irritazione nell'uomo.",
+            "symptoms": [
+              "Vomito.",
+              "Salivazione eccessiva.",
+              "Diarrea.",
+              "Letargia.",
+              "Tremori in caso di grandi ingestioni."
+            ]
+          },
+          "cat": {
+            "exposure": "Ingestione di bulbi.",
+            "effect": "Vomito, salivazione eccessiva, diarrea e tremori.",
+            "note": "Come altri bulbi di Hippeastrum e Amaryllidaceae, il bulbo contiene licorina e alcaloidi correlati che causano disturbi gastrointestinali negli animali domestici e lieve irritazione nell'uomo.",
+            "symptoms": [
+              "Vomito.",
+              "Salivazione eccessiva.",
+              "Diarrea.",
+              "Tremori."
+            ]
+          }
+        }
+      }
+    },
+    "AAA1717": {
+      "source_hash": "77c2bbc9afdf8f4d89bba9d780c31d7ebd0e83fc734f3c01af8a738edee0bdac",
+      "fields": {
+        "common_name": "Giglio del Messico",
+        "description": "Il giglio del Messico è una perenne bulbosa della famiglia delle Amaryllidaceae, originaria, nonostante il nome, non del Messico ma delle zone basse di Venezuela, Bolivia, Perù e Brasile. Il suo bulbo produce foglie a forma di cinghia e uno stelo floreale spoglio con diversi grandi fiori a forma di tromba, nei toni del rosso, bianco, rosa o arancione, ciascun petalo spesso sfumato o venato di un secondo colore. La fioritura va dalla fine dell'inverno all'inizio della primavera, con i fiori vivaci che attirano gli impollinatori prima che la maggior parte degli altri bulbi del giardino si sia anche solo risvegliata.",
+        "history_text_short": "Linneo descrisse questa specie nel 1759 come Amaryllis reginae, classificandola insieme alla vera amarillide sudafricana. Introdotta in Gran Bretagna entro il 1725 e nominata in onore della regina Carolina, moglie di re Giorgio II, divenne la specie tipo del nuovo genere Hippeastrum quando questo fu separato da Amaryllis nel 1821, e nonostante il nome comune, non è mai stata originaria del Messico.",
+        "history_text_long": "Quando Linneo descrisse questa specie nel 1759, la collocò, insieme a più di una dozzina di altri gigli bulbosi americani, nello stesso genere della vera amarillide sudafricana, chiamandola Amaryllis reginae, 'giglio della regina'. Il fiore aveva già raggiunto la Gran Bretagna nel 1725, più di tre decenni prima, dove veniva coltivato come prezioso bulbo da serra e nominato in onore della regina Carolina, moglie di re Giorgio II, la cui corte nutriva un vivo interesse per i nuovi fiori esotici provenienti dalle Americhe.\n\nLa 'regina' nel suo nome era storia reale; la geografia legata al suo nome comune inglese più diffuso, Mexican Lily, non lo era. La specie è originaria delle zone basse del Sud America, documentata in Venezuela, Bolivia, Perù e Brasile, senza che sia mai stata registrata una popolazione selvatica in Messico. L'errore nacque probabilmente dalla stessa confusione che afflisse per due secoli tutto il commercio dei bulbi simili all'amarillide: commercianti e giardinieri raggruppavano vistosi gigli rossi provenienti da tutte le Americhe sotto qualunque nome già familiare, molto prima che i botanici chiarissero da dove venisse ciascuna specie.\n\nQuella chiarificazione costò infine alla pianta il suo genere originario. Nel 1821, il botanico britannico William Herbert sostenne che la maggior parte delle specie americane di 'Amaryllis' di Linneo non appartenesse affatto alla vera amarillide sudafricana, e le separò in un nuovo genere che chiamò Hippeastrum, designando proprio questa specie, Amaryllis reginae, come sua specie tipo, mentre Amaryllis conservò la propria vera specie tipo, l'Amaryllis belladonna sudafricana. La riclassificazione si consolidò per la specie selvatica, anche se il commercio florovivaistico continuò a chiamare 'amarillide' i suoi vistosi discendenti ibridi per i successivi duecento anni, un'abitudine che persiste ancora oggi in ogni esposizione natalizia di bulbi.",
+        "name_origin": "L'epiteto della specie, reginae, è latino per 'della regina', in onore della regina Carolina, consorte di Giorgio II, in nome della quale la pianta fu battezzata dopo la sua introduzione in Gran Bretagna nei primi anni del Settecento. Il nome inglese Mexican Lily è storicamente inesatto; la specie non è mai stata trovata selvatica in Messico.",
+        "symbolism_story": "Questa unica specie divenne la specie tipo che definisce un intero genere, Hippeastrum, e fu nominata in onore di una regina, il che fa sentire la 'maestà' meno come un cliché preso in prestito dal linguaggio dei fiori e più come un fatto racchiuso nella sua stessa storia scientifica.",
+        "flower_meaning": "Maestà",
+        "fragrance": {
+          "notes": "Praticamente privo di profumo; è il colore vivace, non la fragranza, ad attirare gli impollinatori."
+        },
+        "uses_list": [
+          {
+            "text": "Coltivato per i suoi grandi fiori a tromba vivacemente colorati, tra i più spettacolari delle specie selvatiche di Hippeastrum."
+          },
+          {
+            "text": "I suoi fiori precoci offrono ogni anno una delle prime grandi fonti di nettare per gli impollinatori."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Maestà",
+            "description": "Nominata in onore di una regina e scelta in seguito come la specie tipo che definisce il genere Hippeastrum, pochi fiori portano un simbolismo 'regale' così letteralmente come questo."
+          },
+          {
+            "keyword": "Identità Sbagliata",
+            "description": "Il suo nome popolare, Mexican Lily, descrive un paese in cui la pianta non è mai cresciuta allo stato selvatico, un equivoco che ha superato secoli di correzioni botaniche."
+          }
+        ],
+        "toxicity": {
+          "headline": "Umani Lieve · Animali Moderato",
+          "active_compound_display": "licorina e altri alcaloidi delle Amaryllidaceae",
+          "notes_en": "Come altri bulbi di Hippeastrum, il bulbo contiene licorina e alcaloidi correlati che causano disturbi gastrointestinali negli animali domestici e una leggera irritazione negli esseri umani.",
+          "human": {
+            "exposure": "Ingestione di bulbi e linfa. Contatto con bulbi e linfa.",
+            "effect": "Leggera nausea se il bulbo viene ingerito e irritazione cutanea dalla linfa del bulbo.",
+            "note": "Come altri bulbi di Hippeastrum, il bulbo contiene licorina e alcaloidi correlati che causano disturbi gastrointestinali negli animali domestici e una leggera irritazione negli esseri umani.",
+            "symptoms": [
+              "Leggera nausea se il bulbo viene ingerito.",
+              "Irritazione cutanea dalla linfa del bulbo."
+            ]
+          },
+          "dog": {
+            "exposure": "Ingestione di bulbi.",
+            "effect": "Vomito, ipersalivazione, diarrea e letargia.",
+            "note": "Come altri bulbi di Hippeastrum, il bulbo contiene licorina e alcaloidi correlati che causano disturbi gastrointestinali negli animali domestici e una leggera irritazione negli esseri umani.",
+            "symptoms": [
+              "Vomito.",
+              "Ipersalivazione.",
+              "Diarrea.",
+              "Letargia."
+            ]
+          },
+          "cat": {
+            "exposure": "Ingestione di bulbi.",
+            "effect": "Vomito, ipersalivazione, diarrea e tremori.",
+            "note": "Come altri bulbi di Hippeastrum, il bulbo contiene licorina e alcaloidi correlati che causano disturbi gastrointestinali negli animali domestici e una leggera irritazione negli esseri umani.",
+            "symptoms": [
+              "Vomito.",
+              "Ipersalivazione.",
+              "Diarrea.",
+              "Tremori."
+            ]
+          }
+        },
+        "bloom_tip": "Questa pianta fiorisce dalla fine dell'inverno all'inizio della primavera, con petali vivacemente colorati che attirano gli insetti.",
+        "fruit_tip": "I frutti di questa pianta sono decorativi e possono aggiungere interesse al paesaggio del giardino."
+      }
+    },
+    "AAA1718": {
+      "source_hash": "6d2e9651d6ad1c90f29f13bfb317faac6b7753b2ef1b23b1ca2d695f334b9a10",
+      "fields": {
+        "common_name": "Amarillide a Stilo Lungo",
+        "bloom_tip": "I suoi fiori rossi e stretti, con uno stilo insolitamente lungo e sporgente, si aprono dalla primavera all'inizio dell'estate.",
+        "fruit_tip": "Il suo frutto è una capsula trivalve con semi neri, di scarso interesse ornamentale.",
+        "description": "Hippeastrum stylosum è una perenne bulbosa originaria degli affioramenti di granito e gneiss del Brasile sudorientale, in particolare intorno a Rio de Janeiro e Minas Gerais. I suoi fiori rossi, stretti e allungati, da due a quattro per stelo privo di foglie, si distinguono soprattutto per uno stilo insolitamente lungo, l'organo femminile sottile del fiore, che sporge ben oltre i petali, un tratto che dà il nome alla specie. Radicata in sottili tasche di terra su inselberg esposti al sole, fiorisce dalla primavera all'inizio dell'estate e da tempo interessa coltivatori specializzati di bulbi e tassonomi per questo tratto floreale distintivo.",
+        "history_text_short": "Originaria degli inselberg rocciosi del Brasile sudorientale, Hippeastrum stylosum fu descritta per la prima volta all'inizio dell'Ottocento dal botanico inglese William Herbert, che coniò anche il nome del genere. Il suo nome di specie, stylosum, si riferisce allo stilo insolitamente lungo che sporge ben oltre i suoi stretti petali rossi, un tratto distintivo per i botanici che identificano la specie.",
+        "history_text_long": "Hippeastrum stylosum cresce spontaneamente sugli inselberg di granito e gneiss, riscaldati dal sole, degli stati di Rio de Janeiro e Minas Gerais, nel Brasile sudorientale, affioramenti rocciosi che si innalzano bruscamente dalla foresta circostante e ospitano una flora specializzata adattata a suolo sottile ed esposizione intensa. I suoi fiori rossi, stretti e allungati, da due a quattro per stelo privo di foglie, sono più sottili e simili a ragnatele rispetto alle ampie trombe di molte amarillidi ibride coltivate, una forma che condivide con diverse sue parenti brasiliane abitanti delle rocce.\n\nLa specie deve il suo nome al suo tratto più distintivo: uno stilo insolitamente lungo, il sottile gambo che collega l'ovario del fiore allo stigma ricettore del polline, che sporge drammaticamente oltre i petali invece di rimanere racchiuso al loro interno. Era tra le numerose specie brasiliane di Hippeastrum descritte all'inizio dell'Ottocento dal botanico inglese William Herbert, lo stesso pastore di Spofforth che aveva separato il genere dalla vera Amaryllis sudafricana nel 1821 e trascorse gran parte del resto della sua vita a documentare e nominare le sue diverse specie americane.\n\nA differenza del giglio delle Barbados o delle specie progenitrici dei vistosi ibridi forzati in inverno, Hippeastrum stylosum è rimasta in gran parte una pianta per specialisti, coltivata da collezionisti e tassonomi attratti dalla sua insolita architettura floreale piuttosto che dal più ampio commercio di bulbi da regalo. In natura, continua a fiorire ogni primavera sulle stesse pareti rocciose esposte che l'hanno riparata per millenni, un promemoria di quanta diversità il genere Hippeastrum custodisca ancora al di là dei suoi celebri discendenti ibridi.",
+        "name_origin": "Il nome della specie, stylosum, deriva dal greco stylos, «stilo» o «colonna», in riferimento allo stilo insolitamente lungo, il sottile gambo che porta lo stigma, che sporge ben oltre i petali del fiore. Fu descritta all'inizio dell'Ottocento dal botanico inglese William Herbert, che istituì anche il genere Hippeastrum stesso.",
+        "symbolism_story": "Crescendo da sottili tasche di terra su roccia di granito nuda, esposta a tutta la forza del sole brasiliano, Hippeastrum stylosum simboleggia da tempo la resilienza su un terreno difficile. Il suo lungo stilo sporgente, il tratto che dà il nome alla specie, la distingue visibilmente dalle sue parenti dai fiori più ampi, emblema di una silenziosa distinzione all'interno di un genere più noto per i suoi vistosi discendenti ibridi.",
+        "flower_meaning": "Distinzione",
+        "uses_list": [
+          {
+            "text": "Coltivata principalmente da collezionisti specializzati di bulbi attratti dalla sua insolita forma floreale a stilo lungo."
+          },
+          {
+            "text": "I suoi fiori rossi stretti e il lungo stilo sporgente favoriscono l'impollinazione da parte dei colibrì nel suo habitat roccioso nativo."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Resilienza",
+            "description": "radicata in suolo sottile su affioramenti di granito esposti al sole, prospera dove poche altre piante riescono ad attecchire."
+          },
+          {
+            "keyword": "Distinzione",
+            "description": "il suo stilo insolitamente lungo e sporgente la distingue visibilmente dalle sue parenti ibride dai fiori più ampi."
+          }
+        ],
+        "toxicity": {
+          "headline": "Umani Lieve · Animali Moderato",
+          "active_compound_display": "Licorina e altri alcaloidi delle Amaryllidaceae",
+          "notes_en": "Come altri bulbi di Hippeastrum e Amaryllidaceae, il bulbo contiene licorina e alcaloidi correlati che causano disturbi gastrointestinali negli animali domestici e lieve irritazione nell'uomo.",
+          "human": {
+            "exposure": "Ingestione di bulbi e linfa. Contatto con bulbi e linfa.",
+            "effect": "Nausea e vomito se il bulbo viene ingerito, e irritazione cutanea per contatto con la linfa del bulbo.",
+            "note": "Come altri bulbi di Hippeastrum e Amaryllidaceae, il bulbo contiene licorina e alcaloidi correlati che causano disturbi gastrointestinali negli animali domestici e lieve irritazione nell'uomo.",
+            "symptoms": [
+              "Nausea e vomito se il bulbo viene ingerito.",
+              "Irritazione cutanea per contatto con la linfa del bulbo."
+            ]
+          },
+          "dog": {
+            "exposure": "Ingestione di bulbi.",
+            "effect": "Vomito, salivazione eccessiva, diarrea, letargia e, in caso di grandi ingestioni, tremori.",
+            "note": "Come altri bulbi di Hippeastrum e Amaryllidaceae, il bulbo contiene licorina e alcaloidi correlati che causano disturbi gastrointestinali negli animali domestici e lieve irritazione nell'uomo.",
+            "symptoms": [
+              "Vomito.",
+              "Salivazione eccessiva.",
+              "Diarrea.",
+              "Letargia.",
+              "Tremori in caso di grandi ingestioni."
+            ]
+          },
+          "cat": {
+            "exposure": "Ingestione di bulbi.",
+            "effect": "Vomito, salivazione eccessiva, diarrea e tremori.",
+            "note": "Come altri bulbi di Hippeastrum e Amaryllidaceae, il bulbo contiene licorina e alcaloidi correlati che causano disturbi gastrointestinali negli animali domestici e lieve irritazione nell'uomo.",
+            "symptoms": [
+              "Vomito.",
+              "Salivazione eccessiva.",
+              "Diarrea.",
+              "Tremori."
+            ]
+          }
+        }
+      }
+    },
+    "AAA1719": {
+      "source_hash": "81af1de0580196df80fa0839108155c31dce583b569fb387dc22c5957f090ffe",
+      "fields": {
+        "common_name": "Amarillide",
+        "bloom_tip": "I fiori a imbuto di questa pianta, spesso forzata a fiorire in casa, si aprono generalmente in inverno in un'ampia gamma di colori vivaci.",
+        "fruit_tip": "Il suo frutto è una capsula trivalve con semi neri, raramente visibile sui bulbi coltivati in appartamento.",
+        "description": "Hippeastrum è un genere di circa 90 perenni bulbose originarie del Messico, dei Caraibi e del Sudamerica, apprezzato in coltivazione per i bulbi ibridi venduti in tutto il mondo come «amarillide». Uno stelo fiorale spesso e cavo, alto da 30 a 75 centimetri, si leva prima o insieme alle foglie nastriformi, coronato da due a sei enormi fiori a imbuto nelle tonalità del rosso, bianco, rosa e arancio, spesso striati o bicolori. Ampiamente forzati a fiorire in casa per le festività invernali, questi bulbi sono il frutto di oltre due secoli di ibridazione tra specie selvatiche sudamericane, un'industria orticola oggi concentrata nei Paesi Bassi e in Sudafrica.",
+        "history_text_short": "Selezionati a partire da bulbi selvatici sudamericani fin dall'inizio dell'Ottocento, gli ibridi di Hippeastrum sono i bulbi a fiori d'imbuto venduti in tutto il mondo ogni inverno come «amarillide», sebbene il vero genere Amaryllis sia una pianta sudafricana non imparentata. Il botanico inglese William Herbert coniò il nome Hippeastrum, «stella del cavaliere», nel 1821, dopo aver districato i due generi.",
+        "history_text_long": "Quando il reverendo e botanico inglese William Herbert separò i vistosi bulbi sudamericani dal vero genere sudafricano Amaryllis nel 1821, diede al nuovo genere il nome Hippeastrum, dal greco hippeus, «cavaliere», e astron, «stella», per la forma audace e stellata del fiore. Herbert, che coltivava e ibridava centinaia di bulbi nel giardino della sua canonica a Spofforth, fu anche tra i primi a incrociare deliberatamente diverse specie selvatiche di Hippeastrum, gettando le basi di una tradizione di ibridazione che sarebbe proseguita per i due secoli successivi.\n\nAllevatori britannici, e poi olandesi, incrociarono specie selvatiche come Hippeastrum vittatum, H. reginae, H. aulicum e H. puniceum per produrre fiori sempre più grandi in una gamma sempre più ampia di colori e motivi. Nel Novecento i coltivatori olandesi avevano trasformato la produzione di bulbi di Hippeastrum in una grande industria d'esportazione, e più di recente si sono aggiunti coltivatori sudafricani e brasiliani, che riforniscono i milioni di bulbi venduti ogni autunno in tutto il mondo e forzati a fiorire in casa per le festività invernali.\n\nNonostante la correzione tassonomica di Herbert, vecchia di due secoli, il nome popolare «amarillide» non ha mai abbandonato questi bulbi: quasi ogni bulbo a fiori d'imbuto venduto con questo nome nei vivai e nei supermercati è un ibrido di Hippeastrum, mentre la vera Amaryllis resta un fiore selvatico sudafricano relativamente sconosciuto, noto soprattutto agli specialisti.",
+        "name_origin": "Il nome del genere Hippeastrum unisce il greco hippeus, «cavaliere», e astron, «stella», descrivendo gli audaci fiori a imbuto a forma di stella. Fu coniato nel 1821 dal botanico inglese William Herbert, che separò questi bulbi sudamericani dal genere sudafricano non imparentato Amaryllis, con cui erano stati confusi fin dall'epoca di Linneo.",
+        "symbolism_story": "Nel linguaggio dei fiori, lo stelo alto e privo di foglie di Hippeastrum e i suoi spettacolari fiori a imbuto simboleggiano da tempo l'orgoglio e la determinazione, una pianta che attira l'attenzione senza una sola foglia a sostegno. Due secoli di ibridazione, incrociando specie selvatiche sudamericane verso forme sempre più sorprendenti, non hanno fatto che approfondire questo senso di splendore, trasformando un bulbo selvatico in uno dei fiori più deliberatamente selezionati della coltivazione.",
+        "flower_meaning": "Orgoglio",
+        "uses_list": [
+          {
+            "text": "Forzata a fiorire in casa come bulbo in vaso, particolarmente apprezzata come pianta da regalo nel periodo invernale."
+          },
+          {
+            "text": "Coltivata commercialmente come fiore reciso grazie ai suoi enormi fiori a imbuto di lunga durata."
+          },
+          {
+            "text": "Nei suoi habitat selvatici sudamericani, i suoi grandi fiori sono impollinati da colibrì e grandi falene."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Orgoglio",
+            "description": "il suo stelo alto e privo di foglie, coronato da enormi fiori a imbuto, lo ha reso da tempo simbolo di orgoglio e determinazione."
+          },
+          {
+            "keyword": "Splendore",
+            "description": "secoli di ibridazione hanno prodotto fiori in quasi ogni colore e motivo, una celebrazione deliberata dello splendore floreale."
+          }
+        ],
+        "toxicity": {
+          "headline": "Umani Lieve · Animali Moderato",
+          "active_compound_display": "Licorina e altri alcaloidi delle Amaryllidaceae",
+          "notes_en": "Come altri bulbi di Hippeastrum e Amaryllidaceae, il bulbo contiene licorina e alcaloidi correlati che causano disturbi gastrointestinali negli animali domestici e lieve irritazione nell'uomo.",
+          "human": {
+            "exposure": "Ingestione di bulbi e linfa. Contatto con bulbi e linfa.",
+            "effect": "Nausea e vomito se il bulbo viene ingerito, e irritazione cutanea per contatto con la linfa del bulbo.",
+            "note": "Come altri bulbi di Hippeastrum e Amaryllidaceae, il bulbo contiene licorina e alcaloidi correlati che causano disturbi gastrointestinali negli animali domestici e lieve irritazione nell'uomo.",
+            "symptoms": [
+              "Nausea e vomito se il bulbo viene ingerito.",
+              "Irritazione cutanea per contatto con la linfa del bulbo."
+            ]
+          },
+          "dog": {
+            "exposure": "Ingestione di bulbi.",
+            "effect": "Vomito, salivazione eccessiva, diarrea, letargia e, in caso di grandi ingestioni, tremori.",
+            "note": "Come altri bulbi di Hippeastrum e Amaryllidaceae, il bulbo contiene licorina e alcaloidi correlati che causano disturbi gastrointestinali negli animali domestici e lieve irritazione nell'uomo.",
+            "symptoms": [
+              "Vomito.",
+              "Salivazione eccessiva.",
+              "Diarrea.",
+              "Letargia.",
+              "Tremori in caso di grandi ingestioni."
+            ]
+          },
+          "cat": {
+            "exposure": "Ingestione di bulbi.",
+            "effect": "Vomito, salivazione eccessiva, diarrea e tremori.",
+            "note": "Come altri bulbi di Hippeastrum e Amaryllidaceae, il bulbo contiene licorina e alcaloidi correlati che causano disturbi gastrointestinali negli animali domestici e lieve irritazione nell'uomo.",
+            "symptoms": [
+              "Vomito.",
+              "Salivazione eccessiva.",
+              "Diarrea.",
+              "Tremori."
+            ]
+          }
+        }
+      }
+    },
+    "AAA1720": {
+      "source_hash": "b81d24b53c48c351f3f85a366e6543cf4874e18215a3aa48bf6cd77c159f019b",
+      "fields": {
+        "common_name": "Fungo delle Zucche",
+        "fruit_tip": "Questo fungo produce, a fine estate e in autunno, fitti ciuffi di corpi fruttiferi arancioni a forma di imbuto alla base di alberi di latifoglie e ceppi.",
+        "description": "Omphalotus illudens, il fungo delle zucche orientale, è un fungo velenoso originario dell'America settentrionale orientale, riconoscibile per i suoi ciuffi di cappelli arancioni a forma di imbuto che crescono alla base di alberi di latifoglie, ceppi e radici interrate. Le sue vere lamelle, a forma di lama, scendono lungo un gambo affusolato e, quando fresche e osservate al buio completo, emettono un debole bagliore verdastro, un raro caso di bioluminescenza tra i funghi nordamericani. Sebbene il suo colore ricordi in modo sorprendente il pregiato finferlo, si tratta di una specie distinta e non imparentata che provoca una grave malattia gastrointestinale se ingerita, rendendo essenziale una corretta identificazione per chiunque raccolga funghi nel suo areale.",
+        "history_text_short": "Originario delle foreste di latifoglie dell'America settentrionale orientale, il fungo delle zucche è noto soprattutto per due caratteristiche: il suo debole bagliore bioluminescente al buio completo e la sua grande somiglianza con i finferli commestibili, che ha causato molti avvelenamenti accidentali. Il suo nome di specie, illudens, latino per «ingannevole», rimanda direttamente a questo pericoloso caso di scambio d'identità.",
+        "history_text_long": "Crescendo in fitti ciuffi sovrapposti alla base di querce e altri alberi di latifoglie, il fungo delle zucche deve sia il nome comune sia quello scientifico all'inganno e allo spettacolo. Il suo nome di specie, illudens, latino per «beffardo» o «ingannevole», fu scelto perché i suoi cappelli arancioni a forma di imbuto assomigliano così tanto al pregiato finferlo che i raccoglitori li hanno confusi da sempre, con risultati assai meno piacevoli: Omphalotus illudens contiene composti illudinici che provocano forti vomiti, crampi e diarrea entro poche ore dall'ingestione.\n\nL'altro motivo di fama del fungo è scritto nel suo nome comune. Spezzando le lamelle di un esemplare fresco in una stanza completamente buia, dopo che gli occhi si sono adattati, esse rivelano un debole e inquietante bagliore verdastro, un autentico caso di bioluminescenza tra i funghi nordamericani, prodotto da una reazione luciferina-luciferasi simile in linea di principio a quella delle lucciole. I funghi luminosi nel legno in decomposizione hanno ispirato per secoli il folklore dei fuochi fatui in molte culture, racconti di luci fantasma nella foresta che, almeno in alcuni casi, probabilmente risalgono a specie bioluminescenti proprio come questa.\n\nGli stessi composti illudinici responsabili della sua tossicità hanno attirato l'attenzione scientifica moderna per una ragione del tutto diversa: i ricercatori hanno studiato derivati dell'illudina, tra cui un composto modificato chiamato irofulvene, come potenziali trattamenti antitumorali, poiché questi composti sono in grado di danneggiare il DNA delle cellule a rapida divisione. Un fungo noto ai raccoglitori soprattutto come pericoloso sosia tossico è diventato anche, negli ultimi decenni, oggetto di ricerca farmaceutica, una seconda vita per un fungo già famoso per non essere ciò che sembra.",
+        "name_origin": "Il nome del genere Omphalotus deriva dal greco omphalos, «ombelico», con riferimento alla depressione centrale poco profonda spesso presente sul cappello. Il nome della specie, illudens, è latino per «beffardo» o «ingannevole», un riferimento diretto alla pericolosa somiglianza del fungo con il finferlo commestibile, uno scambio d'identità responsabile di molti avvelenamenti accidentali.",
+        "symbolism_story": "Pochi funghi portano la propria reputazione in modo così esplicito come il fungo delle zucche, chiamato illudens, «l'ingannatore», per una somiglianza con il finferlo così convincente da aver tratto in inganno i raccoglitori per generazioni. Lo stesso fungo custodisce un secondo mistero, più gentile: spezzato al buio completo, le sue lamelle brillano di una debole luce verdastra, il tipo di bagliore inspiegabile nel bosco che, secoli prima che qualcuno comprendesse la bioluminescenza, doveva apparire come qualcosa di vicino alla magia.",
+        "flower_meaning": "Inganno",
+        "uses_list": [
+          {
+            "text": "Decompone il legno duro morto e morente, svolgendo il ruolo di fungo saprotrofo che ricicla i nutrienti negli ecosistemi forestali."
+          },
+          {
+            "text": "I suoi composti illudinici sono stati studiati nella ricerca farmaceutica come base per l'irofulvene, un candidato farmaco antitumorale sperimentale."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Inganno",
+            "description": "la sua grande somiglianza con il finferlo commestibile, scritta direttamente nel suo epiteto specifico illudens, ha ingannato i raccoglitori per generazioni."
+          },
+          {
+            "keyword": "Mistero",
+            "description": "il suo debole bagliore bioluminescente al buio completo ha a lungo alimentato il folklore sulle luci fantasma che brillano nella foresta di notte."
+          }
+        ],
+        "toxicity": {
+          "headline": "Tossicità sconosciuta",
+          "active_compound_display": "Nessuno segnalato",
+          "notes_en": "Nessuna corrispondenza di tossicità autorevole trovata; trattata come non segnalata (la stima dell'LLM non è verificata da fonti).",
+          "human": {
+            "exposure": "Nessuna via di esposizione segnalata.",
+            "effect": "Nessun effetto tossico segnalato.",
+            "note": "La tossicità per l'uomo non è ben documentata; usare cautela fino alla verifica."
+          },
+          "dog": {
+            "exposure": "Nessuna via di esposizione segnalata.",
+            "effect": "Nessun effetto tossico segnalato.",
+            "note": "La tossicità per i cani non è ben documentata; usare cautela fino alla verifica."
+          },
+          "cat": {
+            "exposure": "Nessuna via di esposizione segnalata.",
+            "effect": "Nessun effetto tossico segnalato.",
+            "note": "La tossicità per i gatti non è ben documentata; usare cautela fino alla verifica."
           }
         }
       }

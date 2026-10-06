@@ -3,8 +3,8 @@
   "locale": "es",
   "source": {
     "resource": "plants_detail.json",
-    "sha256": "45d64574c073175ce1c844dfe07dfa6cc1a1c7e3713a75d9792994f5bd9af77d",
-    "record_count": 1705
+    "sha256": "0ff7d1847eeb9375de7d71a27dfb0cf579f7ac408b833b843ddd9ddbb31ab1a2",
+    "record_count": 1719
   },
   "records": {
     "AAA0001": {
@@ -104396,6 +104396,917 @@
               "Letargo.",
               "Dolor abdominal."
             ]
+          }
+        }
+      }
+    },
+    "AAA1707": {
+      "source_hash": "d6cfbb0f84cb0914cb19482d347cb053b6ba1b3b7ae182d5937c9be846a8c702",
+      "fields": {
+        "common_name": "Matamoscas",
+        "fruit_tip": "Este hongo produce sus icónicos cuerpos fructíferos rojos con manchas blancas en la base de abedules, pinos y abetos desde finales del verano hasta el otoño.",
+        "description": "Amanita muscaria, el matamoscas, es uno de los hongos más reconocibles del mundo: su sombrero rojo brillante, salpicado de manchas blancas verrugosas, se alza sobre un pie blanco con un anillo en forma de falda y una base bulbosa y escamosa. Ampliamente distribuido por los bosques templados y boreales del hemisferio norte, forma asociaciones micorrícicas con abedules, pinos y abetos, emergiendo del suelo bajo ellos desde el verano hasta el otoño. A pesar de su apariencia de cuento de hadas, es tanto tóxico como psicoactivo, pues contiene compuestos que causan confusión, percepción alterada y otros efectos neurológicos si se ingiere, y durante mucho tiempo ha sido la imagen arquetípica del hongo venenoso en el arte, la literatura y el folclore.",
+        "history_text_short": "Instantáneamente reconocible por su sombrero rojo con manchas blancas, el matamoscas debe su nombre de especie a la antigua práctica europea de usar trozos del hongo remojados en leche para matar moscas. Sus compuestos psicoactivos también lo han vinculado al ritual chamánico siberiano, y su imagen vívida ha moldeado siglos de arte de hongos venenosos en cuentos de hadas.",
+        "history_text_long": "Mucho antes de que Amanita muscaria se convirtiera en sinónimo de cuento de hadas para «hongo», tuvo un uso mucho más práctico en toda Europa: se desmenuzaban trozos del sombrero en platillos de leche para atraer y matar moscas domésticas, un remedio popular tan extendido que dio a la especie su nombre latino, muscaria, de musca, «mosca». La toxicidad del matamoscas proviene del ácido iboténico y el muscimol, compuestos que actúan sobre el sistema nervioso y pueden causar confusión, percepción alterada, somnolencia y, en algunos casos, agitación o delirio, efectos bastante distintos de los venenos clásicos que dañan el hígado presentes en algunos de sus parientes Amanita más letales.\n\nEsas mismas propiedades psicoactivas dieron al hongo una historia muy diferente entre los pueblos indígenas de Siberia, donde se consumía tradicionalmente en contextos religiosos y chamánicos, a veces directamente y a veces, según relatos históricos, bebiendo la orina de alguien que ya lo había comido, ya que algunos de sus compuestos activos atraviesan el cuerpo solo parcialmente metabolizados. Algunos investigadores han propuesto, de forma controvertida, que esta tradición siberiana pudo haber influido en la iconografía asociada con la Navidad, incluidos los renos voladores y una figura vestida de rojo y blanco que trae regalos, aunque la teoría sigue siendo objeto de debate académico y no un hecho histórico establecido.\n\nPocos hongos han dejado una huella tan profunda en el arte y la narrativa. El sombrero rojo brillante con manchas blancas del matamoscas se convirtió en la imagen por defecto del hongo venenoso mágico en los cuentos de hadas ilustrados, y se asume ampliamente que es el hongo que Alicia encuentra en Las aventuras de Alicia en el país de las maravillas de Lewis Carroll. Su silueta perdura hoy como un sinónimo instantáneamente reconocible de «hongo» en sí, incluso para quienes nunca han visto uno creciendo en estado silvestre.",
+        "name_origin": "El nombre de la especie, muscaria, proviene del latín musca, «mosca», en referencia a la antigua práctica europea de usar el hongo, remojado en leche, como veneno matamoscas. El nombre del género, Amanita, deriva del monte Amano, en la antigua Anatolia, un nombre aplicado más tarde de forma amplia a este género de hongos laminados.",
+        "symbolism_story": "Ningún hongo ha moldeado la imagen popular del «hongo venenoso mágico» tan a fondo como el matamoscas, cuyo sombrero rojo brillante con manchas blancas era instantáneamente reconocible en los cuentos de hadas ilustrados mucho antes de que la mayoría de la gente pudiera nombrar un solo hongo real. Esa misma presencia vívida conllevó un tipo de encantamiento más literal en partes de Siberia, donde los compuestos psicoactivos del hongo se usaban en rituales chamánicos para alterar la percepción y la conciencia, una tradición tan antigua como el folclore que el hongo inspiraría más tarde al otro lado del mundo.",
+        "flower_meaning": "Encantamiento",
+        "uses_list": [
+          {
+            "text": "Usado históricamente en Europa como veneno matamoscas, con trozos remojados en leche para atraer y matar moscas domésticas."
+          },
+          {
+            "text": "Forma asociaciones micorrícicas esenciales con abedules, pinos y abetos en bosques templados y boreales."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Encantamiento",
+            "description": "su llamativo sombrero rojo con manchas blancas se convirtió en la imagen por defecto del hongo venenoso mágico en las ilustraciones de cuentos de hadas."
+          },
+          {
+            "keyword": "Percepción alterada",
+            "description": "sus compuestos psicoactivos lo han vinculado desde hace tiempo a tradiciones rituales y visionarias, sobre todo en las prácticas chamánicas siberianas."
+          }
+        ],
+        "toxicity": {
+          "headline": "Toxicidad desconocida",
+          "active_compound_display": "Ninguno reportado",
+          "notes_en": "No se encontró ninguna coincidencia de toxicidad en fuentes autorizadas; se trata como no reportada (la estimación del LLM no está verificada por fuentes).",
+          "human": {
+            "exposure": "No se reporta ninguna vía de exposición.",
+            "effect": "No se reporta ningún efecto tóxico.",
+            "note": "La toxicidad para los humanos no está bien documentada; se recomienda precaución hasta su verificación."
+          },
+          "dog": {
+            "exposure": "No se reporta ninguna vía de exposición.",
+            "effect": "No se reporta ningún efecto tóxico.",
+            "note": "La toxicidad para los perros no está bien documentada; se recomienda precaución hasta su verificación."
+          },
+          "cat": {
+            "exposure": "No se reporta ninguna vía de exposición.",
+            "effect": "No se reporta ningún efecto tóxico.",
+            "note": "La toxicidad para los gatos no está bien documentada; se recomienda precaución hasta su verificación."
+          }
+        }
+      }
+    },
+    "AAA1708": {
+      "source_hash": "67ef3b73a152ed7520ab33861f3f0c926f8de4ef0f04985b57144094d2cfbbf1",
+      "fields": {
+        "common_name": "Amarilis belladona",
+        "bloom_tip": "Las fragantes flores rosadas de esta planta aparecen a finales del verano y principios del otoño sobre tallos desnudos, sin hojas, antes de que estas broten.",
+        "fruit_tip": "Su fruto es una cápsula discreta sin valor ornamental relevante.",
+        "description": "La Amarilis belladona es una planta bulbosa perenne y caduca originaria del fynbos de lluvias invernales del Cabo Occidental de Sudáfrica, donde crece en laderas rocosas, taludes de carreteras y matorrales secos. Cada otoño, tallos florales desnudos de 45 a 60 centímetros de altura se alzan sin hojas desde el suelo, con racimos de dos a doce grandes flores rosadas, acampanadas y dulcemente fragantes, que le dan su apodo de «dama desnuda». Las hojas en forma de cinta aparecen solo después de la floración, crecen durante el fresco y húmedo invierno del Cabo y mueren antes del verano seco, cuando el bulbo descansa bajo tierra hasta la siguiente floración.",
+        "history_text_short": "Originaria del Cabo de lluvias invernales en Sudáfrica, la Amarilis belladona envía cada otoño tallos florales desnudos, sin hojas, lo que le ha valido el apodo de «dama desnuda». Linneo nombró el género Amaryllis en 1753, pero botánicos posteriores separaron los bulbos sudamericanos más vistosos, vendidos hoy como «amarilis», en su propio género, Hippeastrum.",
+        "history_text_long": "Cuando Carlos Linneo estableció el género Amaryllis en 1753, agrupó en él una amplia variedad de bulbos de flores grandes llegados a Europa tanto de Sudáfrica como de Sudamérica, plantas que resultaron estar mucho menos emparentadas de lo que sugerían sus vistosas flores acampanadas. La verdadera Amaryllis, originaria únicamente del Cabo Occidental sudafricano, terminaría dando nombre a toda la familia Amaryllidaceae, mientras su propia identidad se enredaba cada vez más con la de sus parecidos sudamericanos.\n\nDesenredar esto llevó décadas. En 1821, el clérigo y botánico inglés William Herbert, que cultivaba e hibridaba cientos de bulbos en el jardín de su rectoría en Spofforth, comparó lado a lado las plantas del Cabo y las sudamericanas. Encontró diferencias constantes en la estructura floral, la anatomía del bulbo y el hábito de crecimiento, y separó las especies sudamericanas en un nuevo género, Hippeastrum, dejando a la verdadera Amaryllis como un grupo mucho más pequeño centrado en Amaryllis belladonna. La separación de Herbert se ha mantenido botánicamente hasta hoy, pero nunca caló entre los jardineros: los grandes bulbos de flores acampanadas que se venden cada invierno como «amarilis» son casi siempre híbridos de Hippeastrum, mientras que la verdadera Amaryllis sigue siendo conocida sobre todo por especialistas bajo su nombre común más antiguo, Amarilis belladona.\n\nEn su fynbos nativo del Cabo, Amaryllis belladonna sigue el ritmo de la región, de veranos secos e inviernos lluviosos. El bulbo pasa el caluroso y seco verano en reposo bajo tierra, y con el primer frescor del otoño envía tallos florales desnudos, mucho antes de que aparezca hoja alguna, el rasgo detrás de su apodo «dama desnuda». Solo después de marchitarse las flores emergen las hojas en forma de cinta, que crecen durante el fresco y húmedo invierno y primavera del Cabo antes de morir con el regreso de la temporada seca.",
+        "name_origin": "El nombre del género Amaryllis proviene de Amaryllis, una pastora de los poemas bucólicos de Teócrito y Virgilio, elegido por Linneo en 1753 por la belleza de la flor. El nombre de la especie, belladonna, significa en italiano «mujer hermosa», probablemente inspirado en el color rosado y aterciopelado de sus flores. Amaryllis es el género tipo de la familia Amaryllidaceae, aunque hoy el nombre se aplica más a menudo en el comercio al género no emparentado Hippeastrum.",
+        "symbolism_story": "La Amarilis belladona lleva dos significados en sus propios nombres comunes: belladona, «mujer hermosa», por la delicada elegancia rosada de sus flores, y «dama desnuda», por su costumbre de florecer en tallos desnudos sin una sola hoja a la vista. Juntos describen una belleza discreta que llega sin anunciarse cada otoño, quedando expuesta en el jardín hasta que sus propias hojas regresan meses después para vestirla durante el resto del año.",
+        "flower_meaning": "Belleza",
+        "fragrance": {
+          "notes": "Flores rosadas, acampanadas y dulcemente fragantes, que perfuman el aire a su alrededor a finales del verano y principios del otoño."
+        },
+        "uses_list": [
+          {
+            "text": "Se planta en arriates y jardines de rocas por sus dramáticas espigas florales de otoño sobre tallos desnudos."
+          },
+          {
+            "text": "Apreciada por la dulce fragancia de sus flores rosadas y acampanadas."
+          },
+          {
+            "text": "Sus flores, ricas en néctar, atraen abejas y polillas de trompa larga a finales del verano y en otoño."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Belleza",
+            "description": "su nombre de especie, belladonna, italiano para «mujer hermosa», celebra la delicada elegancia rosada de sus flores."
+          },
+          {
+            "keyword": "Sorpresa",
+            "description": "florecer en tallos desnudos sin hojas a la vista le vale el apodo de dama desnuda, un estallido de color inesperado cada otoño."
+          }
+        ],
+        "toxicity": {
+          "headline": "Humanos Leve · Mascotas Moderado",
+          "active_compound_display": "Licorina y otros alcaloides de las Amaryllidaceae",
+          "notes_en": "Como otros bulbos de Amaryllidaceae, el bulbo contiene licorina y alcaloides relacionados que causan molestias gastrointestinales en mascotas e irritación leve en humanos.",
+          "human": {
+            "exposure": "Ingestión de bulbos y savia. Contacto con bulbos y savia.",
+            "effect": "Náuseas y vómitos si se ingiere el bulbo, e irritación cutánea por contacto con la savia del bulbo.",
+            "note": "Como otros bulbos de Amaryllidaceae, el bulbo contiene licorina y alcaloides relacionados que causan molestias gastrointestinales en mascotas e irritación leve en humanos.",
+            "symptoms": [
+              "Náuseas y vómitos si se ingiere el bulbo.",
+              "Irritación cutánea por contacto con la savia del bulbo."
+            ]
+          },
+          "dog": {
+            "exposure": "Ingestión de bulbos.",
+            "effect": "Vómitos, salivación excesiva, diarrea, letargo y, en ingestiones grandes, temblores.",
+            "note": "Como otros bulbos de Amaryllidaceae, el bulbo contiene licorina y alcaloides relacionados que causan molestias gastrointestinales en mascotas e irritación leve en humanos.",
+            "symptoms": [
+              "Vómitos.",
+              "Salivación excesiva.",
+              "Diarrea.",
+              "Letargo.",
+              "Temblores en ingestiones grandes."
+            ]
+          },
+          "cat": {
+            "exposure": "Ingestión de bulbos.",
+            "effect": "Vómitos, salivación excesiva, diarrea y temblores.",
+            "note": "Como otros bulbos de Amaryllidaceae, el bulbo contiene licorina y alcaloides relacionados que causan molestias gastrointestinales en mascotas e irritación leve en humanos.",
+            "symptoms": [
+              "Vómitos.",
+              "Salivación excesiva.",
+              "Diarrea.",
+              "Temblores."
+            ]
+          }
+        }
+      }
+    },
+    "AAA1709": {
+      "source_hash": "ed763db88c7280dd7aa74830794c4f0cde0000f0947380356191345b1385d491",
+      "fields": {
+        "common_name": "Helecho Pintado Japonés",
+        "description": "Athyrium niponicum, el helecho pintado japonés, es un helecho de bosque caducifolio originario de Japón, Corea, China y Taiwán, apreciado por sus frondes de color gris plateado metálico veteadas de un intenso borgoña a lo largo de sus nervios y venas. Con una altura de 30 a 60 centímetros, crece en matas arqueadas y triangulares, y se extiende lentamente por rizoma en la sombra fresca y húmeda de sus bosques nativos. Uno de los helechos ornamentales más cultivados del mundo, ha dado lugar a numerosas variedades de jardín seleccionadas por tonos cada vez más vívidos de plata, rojo vino y púrpura, y sigue siendo un elemento básico de los parterres sombríos y los jardines boscosos de todo el mundo templado.",
+        "history_text_short": "Originario del suelo forestal de Japón, Corea, China y Taiwán, el helecho pintado japonés llegó a los jardines occidentales durante la fiebre del siglo XIX por coleccionar helechos, convirtiéndose más tarde en uno de los helechos ornamentales más cultivados del mundo. Su cultivar 'Pictum', apreciado por sus frondes de plata metálica y borgoña, fue nombrado Planta Perenne del Año en 2004.",
+        "history_text_long": "En la Gran Bretaña victoriana se afianzó una moda extraordinaria: la pteridomanía, o fiebre de los helechos, que llevó tanto a coleccionistas adinerados como a jardineros comunes a recorrer el campo e importar especies exóticas para llenar invernaderos de helechos y vitrinas de cristal conocidas como cajas Wardianas. Los helechos de Japón, recién abierto al comercio occidental tras siglos de aislamiento, eran especialmente apreciados por sus formas y colores desconocidos, y entre ellos había un helecho de bosque cuyas frondes lucían un brillo casi metálico de plata y rojo vino, algo sin parangón en los bosques europeos.\n\nEse helecho, Athyrium niponicum, crecía de forma natural en el suelo forestal fresco y sombreado de Japón, Corea, China y Taiwán, extendiéndose lentamente por rizoma bajo el dosel del bosque. Las formas seleccionadas, especialmente el cultivar conocido como 'Pictum', intensificaron su coloración natural hasta una llamativa combinación de frondes gris plateadas y nervios de un intenso borgoña, una combinación tan atractiva para los jardineros que el helecho pintado japonés acabó convirtiéndose en uno de los helechos ornamentales más plantados del mundo templado, presente en parterres sombríos y jardines boscosos muy lejos de su área de distribución nativa.\n\nSu popularidad no dejó de crecer con el tiempo: en 2004, la Perennial Plant Association nombró a Athyrium niponicum var. pictum su Planta Perenne del Año, un reconocimiento moderno a un helecho cuyas frondes pictóricas ya habían cautivado a los jardineros durante bien más de un siglo. El nombre del género, Athyrium, proviene del griego a-, «sin», y thyreos, «escudo», en referencia a la cubierta irregular y sin escudo sobre sus grupos de esporas, un sutil detalle botánico que contrasta con el atractivo ornamental mucho más llamativo de la planta.",
+        "name_origin": "El nombre del género Athyrium proviene del griego a-, «sin», y thyreos, «escudo», en referencia a la cubierta irregular y sin escudo sobre los grupos de esporas del helecho, a diferencia de las cubiertas más definidas de géneros de helechos emparentados. El nombre de la especie, niponicum, es latín para «de Japón», de Nippon, reflejando el origen de la especie en el este de Asia.",
+        "symbolism_story": "Los helechos rara vez llaman la atención por su color, pero el helecho pintado japonés ha sido durante mucho tiempo la excepción, con sus frondes de un gris plateado veteadas de un intenso borgoña que le han dado fama de elegancia discreta en los rincones sombríos del jardín. Esa misma belleza inusual cautivó en su día a los coleccionistas victorianos arrastrados por la pteridomanía, la fiebre de coleccionar helechos del siglo XIX, cuando una planta del suelo forestal de Japón podía sentirse como un pequeño descubrimiento vivo, llevado a casa en una vitrina de cristal de un salón inglés.",
+        "flower_meaning": "Elegancia",
+        "uses_list": [
+          {
+            "text": "Cultivado ampliamente en parterres sombríos y jardines boscosos por sus frondes de plata metálica y borgoña."
+          },
+          {
+            "text": "Cultivares seleccionados como 'Pictum' son populares en plantaciones en macetas y en arreglos florales por su coloración inusual."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Elegancia",
+            "description": "sus frondes de plata metálica y borgoña se han apreciado durante mucho tiempo por una belleza refinada y pictórica, inusual entre los helechos."
+          },
+          {
+            "keyword": "Descubrimiento",
+            "description": "estuvo entre los helechos exóticos que cautivaron a los coleccionistas victorianos durante la fiebre de caza de helechos del siglo XIX conocida como pteridomanía."
+          }
+        ],
+        "toxicity": {
+          "headline": "Sin toxicidad reportada",
+          "active_compound_display": "Ninguno reportado",
+          "notes_en": "No se encontró ninguna coincidencia de toxicidad en fuentes autorizadas; se trata como no reportada (la estimación del LLM no está verificada por fuentes).",
+          "human": {
+            "exposure": "No se reporta ninguna vía de exposición.",
+            "effect": "No se reporta ningún efecto tóxico.",
+            "note": "No se reporta toxicidad para humanos en este catálogo; esto no es evidencia de que la planta sea comestible o inofensiva."
+          },
+          "dog": {
+            "exposure": "No se reporta ninguna vía de exposición.",
+            "effect": "No se reporta ningún efecto tóxico.",
+            "note": "No se reporta toxicidad para perros en este catálogo; esto no es evidencia de que la planta sea comestible o inofensiva."
+          },
+          "cat": {
+            "exposure": "No se reporta ninguna vía de exposición.",
+            "effect": "No se reporta ningún efecto tóxico.",
+            "note": "No se reporta toxicidad para gatos en este catálogo; esto no es evidencia de que la planta sea comestible o inofensiva."
+          }
+        }
+      }
+    },
+    "AAA1710": {
+      "source_hash": "ace391b7aada8e0c057b717787c5eded1b326238083d6c57ed19ee9a8675401b",
+      "fields": {
+        "common_name": "Planta Ti",
+        "bloom_tip": "Ocasionalmente esta planta produce panículas de pequeñas flores fragantes blancas a moradas, aunque se cultiva principalmente por su follaje colorido más que por sus flores.",
+        "fruit_tip": "Su fruto es una pequeña baya roja, rara vez vista en plantas cultivadas por su follaje ornamental.",
+        "description": "Cordyline fruticosa, comúnmente llamada planta ti, es un arbusto leñoso de hoja perenne originario del Asia tropical, las islas del Pacífico y el norte de Australia, apreciado por sus hojas largas, brillantes y en forma de espada en tonos verdes, rojos, morados y rosa variegado. Con una altura de 1 a 3 metros sobre un tallo delgado similar a una caña, produce rosetas de follaje arqueado que la han convertido en un elemento básico de la jardinería tropical y las colecciones de plantas de interior en todo el mundo. Llevada por el Pacífico por navegantes polinesios como una de sus plantas esenciales de canoa, la planta ti ha tenido desde hace mucho un profundo significado cultural y espiritual en toda Oceanía, más allá de su atractivo ornamental.",
+        "history_text_short": "Originaria del Asia tropical y el Pacífico, la planta ti fue llevada a través del océano por navegantes polinesios como una de sus plantas de canoa, apreciada por sus hojas usadas para techar, envolver alimentos y hacer faldas de hula. Considerada durante mucho tiempo una planta de protección espiritual y buena suerte en toda Oceanía, sigue siendo hoy una favorita de jardines y hogares por su follaje colorido y brillante.",
+        "history_text_long": "Mucho antes del contacto europeo, Cordyline fruticosa ya había viajado miles de kilómetros por el Pacífico, llevada deliberadamente por navegantes polinesios como una de sus plantas de canoa, ese pequeño conjunto de especies útiles, junto con el taro, el árbol del pan y el coco, que los colonos llevaban consigo para establecer una nueva vida en islas remotas. Las hojas anchas y duraderas de la planta ti sirvieron para decenas de propósitos prácticos: techar, envolver alimentos para cocinarlos en hornos de tierra, impermeables y sandalias, y las faldas con flecos usadas en el hula y otras danzas tradicionales de Hawái y Polinesia.\n\nMás allá de sus usos prácticos, la planta ti llevaba un profundo peso espiritual en toda Oceanía. En la tradición hawaiana era sagrada para la diosa Laka, patrona del hula, y se plantaban hojas alrededor de las casas y las usaban los bailarines como protección contra los malos espíritus. En muchas culturas del Pacífico, una planta ti sana creciendo junto a la puerta se consideraba señal de buena fortuna, una creencia que persiste hoy en el apodo común de la planta, la planta de la buena suerte.\n\nEl nombre de la especie, fruticosa, latín para «arbustiva», describe su hábito de crecimiento leñoso y de múltiples tallos, mientras que el nombre del género Cordyline proviene del griego kordyle, «maza», en referencia a los rizomas engrosados y en forma de maza de los que la planta brota fácilmente. Esa misma resistencia, capaz de rebrotar incluso de un pequeño esqueje o fragmento de raíz, ayudó a la planta ti a viajar y establecerse con tanto éxito por las islas dispersas del Pacífico, y sigue haciendo de ella una opción fácil y confiable en jardines y macetas mucho más allá de su área de distribución original.",
+        "name_origin": "El nombre del género Cordyline proviene del griego kordyle, «maza», en referencia a los rizomas engrosados y en forma de maza de los que la planta brota fácilmente. El nombre de la especie, fruticosa, es latín para «arbustiva», describiendo su hábito leñoso y de múltiples tallos. El nombre común ti deriva de una palabra polinesia para la planta, llevada por el Pacífico junto con la propia especie.",
+        "symbolism_story": "En las islas del Pacífico, la planta ti ha montado guardia durante mucho tiempo en el umbral, plantada junto a las puertas para protección y con la creencia de que ahuyenta a los malos espíritus del hogar. Esa misma presencia llegó a simbolizar la buena fortuna: una planta ti sana y próspera junto a la casa fue, y sigue siendo, tomada como señal de buena suerte, una creencia que viajó con la planta en las mismas canoas que la llevaron por el océano, de un hogar isleño al siguiente.",
+        "flower_meaning": "Buena Fortuna",
+        "fragrance": {
+          "notes": "Produce pequeños racimos de flores blancas a moradas, dulcemente fragantes, aunque las plantas cultivadas por su follaje rara vez florecen."
+        },
+        "uses_list": [
+          {
+            "text": "Hojas usadas tradicionalmente para techar, envolver alimentos y tejer las faldas usadas en el hula y otras danzas del Pacífico."
+          },
+          {
+            "text": "Cultivada en todo el mundo por su follaje colorido, brillante y en forma de espada en jardines, macetas y como planta de interior."
+          },
+          {
+            "text": "Usada en la medicina tradicional hawaiana y de las islas del Pacífico, hojas históricamente envueltas sobre el cuerpo para tratar la fiebre."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Protección",
+            "description": "plantada junto a las puertas en toda Polinesia y Hawái para ahuyentar los malos espíritus y proteger el hogar."
+          },
+          {
+            "keyword": "Buena Fortuna",
+            "description": "una planta ti próspera junto a la casa se ha considerado durante mucho tiempo señal de buena suerte en las islas del Pacífico."
+          }
+        ],
+        "toxicity": {
+          "headline": "Humanos Moderado · Mascotas Moderado",
+          "active_compound_display": "Saponinas",
+          "notes_en": "No reportada como tóxica para humanos, pero las hojas y tallos contienen saponinas tóxicas para perros y gatos si se ingieren.",
+          "human": {
+            "exposure": "Material vegetal no especificado.",
+            "effect": "Se reportan efectos tóxicos, pero no se detallan signos específicos.",
+            "note": "Fuentes autorizadas reportan esta planta como tóxica; la gravedad se estableció de forma conservadora como moderada a falta de datos más precisos."
+          },
+          "dog": {
+            "exposure": "Ingestión de hojas y tallos.",
+            "effect": "Vómitos (a veces con sangre), depresión, salivación excesiva y pérdida de apetito.",
+            "note": "No reportada como tóxica para humanos, pero las hojas y tallos contienen saponinas tóxicas para perros y gatos si se ingieren.",
+            "symptoms": [
+              "Vómitos (a veces con sangre).",
+              "Depresión.",
+              "Salivación excesiva.",
+              "Pérdida de apetito."
+            ]
+          },
+          "cat": {
+            "exposure": "Ingestión de hojas y tallos.",
+            "effect": "Vómitos (a veces con sangre), depresión, salivación excesiva, pérdida de apetito y pupilas dilatadas.",
+            "note": "No reportada como tóxica para humanos, pero las hojas y tallos contienen saponinas tóxicas para perros y gatos si se ingieren.",
+            "symptoms": [
+              "Vómitos (a veces con sangre).",
+              "Depresión.",
+              "Salivación excesiva.",
+              "Pérdida de apetito.",
+              "Pupilas dilatadas."
+            ]
+          }
+        }
+      }
+    },
+    "AAA1711": {
+      "source_hash": "2cdabe3d06313f397b64a96991a5db5ef554342992f9db424d6e572abd4eb042",
+      "fields": {
+        "common_name": "Helecho pata de conejo",
+        "description": "Davallia es un género de unas 40 especies de helechos epífitos originarios del sudeste asiático y las islas del Pacífico, apreciados por sus frondes finamente recortadas y encajadas, y por sus gruesos rizomas peludos que se arrastran sobre la tierra y caen dramáticamente por el borde de una maceta colgante. Esos rizomas pálidos y cubiertos de pelo recuerdan a pequeñas patas, lo que da al grupo sus nombres comunes -pata de conejo, pata de ardilla y pata de ciervo, según la especie. En la naturaleza, la planta se aferra a la corteza de los árboles y a las rocas cubiertas de musgo en lugar de enraizar en el suelo, por lo que prospera en una mezcla suelta y de drenaje rápido, luz indirecta brillante y humedad constante. Tolerante a periodos ocasionales de sequía gracias a sus rizomas que almacenan agua, es una planta de interior popular para quienes buscan follaje de helecho sin demasiados cuidados.",
+        "history_text_short": "Originario de los bosques del sudeste asiático y las islas del Pacífico, el helecho pata de conejo se aferra a la corteza de los árboles y a las rocas en lugar de a la tierra, extendiéndose mediante rizomas peludos en forma de pata. Su inusual hábito rastrero y su follaje frondoso lo convirtieron en favorito de los coleccionistas de helechos victorianos, y sigue siendo una popular planta de interior en maceta colgante.",
+        "history_text_long": "El género Davallia fue nombrado en honor a Edmond Davall (1763-1798), un botánico suizo de origen inglés que mantuvo correspondencia con los principales naturalistas de su época y reunió un importante herbario antes de su temprana muerte. Los botánicos de la época solían homenajear así a sus colegas, y el nombre de Davall se asoció a este singular grupo de helechos no por ningún descubrimiento suyo sobre ellos, sino simplemente como muestra de reconocimiento científico.\n\nLos helechos en sí son originarios de los bosques del sudeste asiático y las islas del Pacífico, donde crecen como epífitas, aferrándose a la corteza de los árboles, caras rocosas y ramas cubiertas de musgo en lugar de enraizar en el suelo. Sus rizomas peludos, que almacenan agua, se extienden lentamente hacia afuera desde la base, hasta cubrir con el tiempo cualquier superficie -o maceta- en la que crezca la planta. Ese hábito rastrero, y el aspecto de pata que tienen los rizomas peludos, dieron a distintas especies sus nombres comunes: helecho pata de conejo, pata de ardilla y pata de ciervo.\n\nLos helechos Davallia se pusieron especialmente de moda durante la pteridomanía victoriana, o 'fiebre de los helechos', del siglo XIX, cuando los coleccionistas británicos y europeos llenaban invernaderos y vitrinas de salón con helechos exóticos traídos de todo el imperio. Sus rizomas inusuales y sus frondes finamente divididas y encajadas los convertían en ejemplares destacados frente a los helechos de jardín más comunes. Ese atractivo ha perdurado: hoy Davallia es una presencia habitual en macetas colgantes y estanterías de plantas, apreciada por los aficionados a las plantas de interior por su resistencia, su follaje escultural y el encanto un tanto excéntrico de ver sus rizomas peludos trepar por el borde de la maceta.",
+        "name_origin": "El nombre del género, Davallia, honra a Edmond Davall (1763-1798), un botánico suizo que reunió un importante herbario y mantuvo correspondencia con los principales naturalistas de su época; no tiene ningún significado propio más allá de esa dedicatoria. Sus nombres comunes -pata de conejo, pata de ardilla y pata de ciervo- describen en cambio los rizomas peludos y rastreros de la planta, con forma de pata.",
+        "symbolism_story": "Mucho antes de que se entendieran las esporas, los helechos desconcertaban a los naturalistas: no producían ni flores ni semillas, y aun así se extendían y multiplicaban. Ese misterio los convirtió en símbolos poderosos en el lenguaje victoriano de las flores, donde representaban la fascinación, y en el folclore europeo más antiguo, donde se decía que la 'semilla' del helecho otorgaba invisibilidad a quien lograra atraparla al dar la medianoche. Davallia, con sus curiosos rizomas peludos que se arrastran como patas sobre la tierra, no hacía sino reforzar la sensación de una planta que sigue sus propias reglas, un tanto extrañas.",
+        "flower_meaning": "Fascinación",
+        "uses_list": [
+          {
+            "text": "Se cultiva como planta de follaje ornamental por sus frondes finamente divididas y sus rizomas peludos y colgantes."
+          },
+          {
+            "text": "En su hábitat natural de selva tropical, sus rizomas que almacenan agua crean bolsas de microhábitat húmedo en la corteza y las rocas para musgos y pequeños invertebrados."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Fascinación",
+            "description": "los helechos simbolizaban la fascinación en el lenguaje victoriano de las flores, en alusión a su reproducción antaño misteriosa por esporas en lugar de flores o semillas"
+          },
+          {
+            "keyword": "Magia",
+            "description": "durante siglos los naturalistas no pudieron explicar cómo se reproducían los helechos sin flores ni semillas visibles, por lo que el folclore les atribuía poderes mágicos, incluso de conceder invisibilidad"
+          }
+        ],
+        "toxicity": {
+          "headline": "Segura para mascotas",
+          "active_compound_display": "Ninguno reportado",
+          "notes_en": "No se encontró ninguna fuente autorizada sobre toxicidad; se considera no reportada (la estimación del modelo no está verificada por fuentes).",
+          "human": {
+            "exposure": "No se reporta ninguna vía de exposición.",
+            "effect": "No se reporta ningún efecto tóxico.",
+            "note": "No se reporta toxicidad para humanos en este catálogo; esto no es evidencia de que la planta sea comestible o inofensiva."
+          },
+          "dog": {
+            "exposure": "No se reporta ninguna vía de exposición.",
+            "effect": "No se reporta ningún efecto tóxico.",
+            "note": "Fuentes autorizadas indican que esta planta no es tóxica para los perros; esto no es evidencia de que la planta sea comestible."
+          },
+          "cat": {
+            "exposure": "No se reporta ninguna vía de exposición.",
+            "effect": "No se reporta ningún efecto tóxico.",
+            "note": "Fuentes autorizadas indican que esta planta no es tóxica para los gatos; esto no es evidencia de que la planta sea comestible."
+          }
+        }
+      }
+    },
+    "AAA1712": {
+      "source_hash": "5ee88241b7ff301215caaf7238af05e7b73af196b517e8c2baa7c21f438c44f9",
+      "fields": {
+        "common_name": "Higuera de Mysore",
+        "bloom_tip": "Las flores de esta planta están completamente ocultas dentro de su fruto en desarrollo, polinizadas por una única especie especializada de avispa de la higuera.",
+        "fruit_tip": "Su fruto, similar a un higo, madura de verde a púrpura intenso y es una fuente de alimento importante para aves y murciélagos, aunque no es el higo comestible comercial.",
+        "description": "Ficus drupacea, comúnmente llamada higuera de Mysore, es un gran árbol de hoja perenne originario de los bosques del sur y sureste de Asia, desde India y Sri Lanka hasta Myanmar, Tailandia, Indonesia y Filipinas. Como muchos de sus parientes, a menudo comienza su vida como epífita, germinando en el dosel de un árbol huésped antes de enviar raíces aéreas que eventualmente forman su propio tronco robusto, un higo estrangulador en el sentido clásico. Sus anchas hojas brillantes y sus nuevos brotes foliares están cubiertos de distintivos pelos aterciopelados de color pardo rojizo, lo que le da su otro nombre común, higo lanudo pardo. Racimos de frutos redondos, parecidos a higos, maduran de verde a púrpura intenso a lo largo de sus ramas, alimentando a aves, murciélagos y otra fauna silvestre en toda su área de distribución.",
+        "history_text_short": "Originaria de los bosques del sur y sureste de Asia, la higuera de Mysore a menudo comienza como epífita en el dosel de un árbol huésped antes de que sus raíces aéreas alcancen el suelo y formen su propio tronco, un higo estrangulador clásico. Como todos los higos, depende de una única especie de avispa para su polinización, una asociación forjada a lo largo de decenas de millones de años.",
+        "history_text_long": "Ficus drupacea comienza su vida, la mayoría de las veces, como una diminuta semilla depositada por un ave o un murciélago en lo alto de las ramas de otro árbol, dejada en un excremento tras una comida de frutos de higo. Allí germina y crece como epífita, enviando delgadas raíces aéreas hacia abajo a lo largo del tronco del árbol huésped. Con el paso de años o décadas, esas raíces se engrosan, se fusionan y alcanzan el suelo, terminando por rodear y a veces desplazar por completo al huésped, un higo estrangulador en el sentido más pleno, hasta que la higuera de Mysore se alza como un árbol independiente por derecho propio, a menudo conservando todavía la forma hueca de su huésped ya desaparecido dentro de un entramado de raíces fusionadas.\n\nComo toda especie de higo, Ficus drupacea depende de una asociación extraordinariamente específica para reproducirse: una única especie de diminuta avispa, que ha evolucionado junto al árbol durante decenas de millones de años, es la única polinizadora capaz de entrar en su estructura floral cerrada y fecundarla, a cambio de un lugar seguro para poner sus propios huevos dentro del fruto en desarrollo. Este mutualismo higo-avispa, repetido en cientos de especies de Ficus en todo el mundo, cada una típicamente emparejada con su propia avispa dedicada, es una de las asociaciones más estrechamente evolucionadas del reino vegetal.\n\nLa especie debe su nombre a su fruto, drupacea, latín para «drupáceo», describiendo los higos carnosos y redondeados que maduran de verde a púrpura intenso y que desde hace tiempo alimentan a aves, murciélagos y otra fauna silvestre en toda su área nativa, desde India hasta Filipinas. En partes del sur de Asia también se la llama higo lanudo pardo, por los densos pelos aterciopelados de color pardo rojizo que cubren sus nuevos brotes foliares y su crecimiento joven, un rasgo que la distingue de parientes de hojas más lisas. Ampliamente plantada como árbol de sombra y de carretera en toda su área nativa, sigue siendo, como tantos higos del sur y sureste de Asia, tanto una pieza clave ecológica como una presencia familiar en la vida cotidiana.",
+        "name_origin": "El nombre de la especie, drupacea, es latín para «drupáceo», describiendo su fruto carnoso con forma de higo. El nombre común higo lanudo pardo se refiere a los densos pelos aterciopelados de color pardo rojizo que cubren sus nuevos brotes foliares, mientras que higuera de Mysore refleja su larga historia de cultivo en y alrededor de la ciudad de Mysore, en el sur de India.",
+        "symbolism_story": "Pocas asociaciones en la naturaleza son tan exactas como la que existe entre una higuera y su avispa, un vínculo tan preciso que la higuera de Mysore no puede producir semillas sin la única especie de avispa que ha evolucionado junto a ella durante decenas de millones de años. Esa silenciosa interdependencia ha convertido al higo, en culturas de toda su área nativa, en un símbolo de asociación y dependencia mutua, un árbol imponente cuya mera existencia depende del más pequeño de los aliados.",
+        "flower_meaning": "Asociación",
+        "uses_list": [
+          {
+            "text": "Su fruto maduro, parecido al higo, es una fuente de alimento importante para aves, murciélagos y otra fauna silvestre en toda su área nativa."
+          },
+          {
+            "text": "Plantada como árbol de sombra y de carretera en el sur y sureste de Asia por su amplio dosel y follaje brillante."
+          },
+          {
+            "text": "En partes de su área de distribución, la corteza fibrosa se ha usado tradicionalmente para cuerdas y sogas."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Asociación",
+            "description": "su supervivencia depende por completo de una única especie de avispa, un recordatorio de cuán profundamente pueden depender entre sí los seres vivos."
+          },
+          {
+            "keyword": "Cobijo",
+            "description": "su amplio dosel y su hábito de higo estrangulador han brindado desde hace mucho sombra, refugio y fruto tanto a la fauna silvestre como a los viajeros."
+          }
+        ],
+        "toxicity": {
+          "headline": "Humanos Leve · Mascotas Leve",
+          "active_compound_display": "Ficina y furanocumarinas (psoralenos)",
+          "notes_en": "Como otras especies de Ficus, la savia lechosa contiene enzimas proteolíticas y furanocumarinas que pueden irritar la piel y el tracto digestivo.",
+          "human": {
+            "exposure": "Contacto con la savia y las hojas.",
+            "effect": "Irritación cutánea o dermatitis por contacto con la savia, y posible reacción fototóxica al sol tras el contacto cutáneo con la savia.",
+            "note": "Como otras especies de Ficus, la savia lechosa contiene enzimas proteolíticas y furanocumarinas que pueden irritar la piel y el tracto digestivo.",
+            "symptoms": [
+              "Irritación cutánea o dermatitis por contacto con la savia.",
+              "Posible reacción fototóxica al sol tras el contacto cutáneo con la savia."
+            ]
+          },
+          "dog": {
+            "exposure": "Ingestión de hojas y savia. Contacto con hojas y savia.",
+            "effect": "Vómitos, diarrea, salivación excesiva e irritación oral.",
+            "note": "Como otras especies de Ficus, la savia lechosa contiene enzimas proteolíticas y furanocumarinas que pueden irritar la piel y el tracto digestivo.",
+            "symptoms": [
+              "Vómitos.",
+              "Diarrea.",
+              "Salivación excesiva.",
+              "Irritación oral."
+            ]
+          },
+          "cat": {
+            "exposure": "Ingestión de hojas y savia. Contacto con hojas y savia.",
+            "effect": "Vómitos, diarrea, salivación excesiva e irritación oral.",
+            "note": "Como otras especies de Ficus, la savia lechosa contiene enzimas proteolíticas y furanocumarinas que pueden irritar la piel y el tracto digestivo.",
+            "symptoms": [
+              "Vómitos.",
+              "Diarrea.",
+              "Salivación excesiva.",
+              "Irritación oral."
+            ]
+          }
+        }
+      }
+    },
+    "AAA1713": {
+      "source_hash": "cfeb388d4b0334d5b45a7d6949d88981219d7bc37a26ebeede0c55fed76779ac",
+      "fields": {
+        "common_name": "Hippeastrum Glauco",
+        "description": "El Hippeastrum glauco es una planta bulbosa perenne de hoja caduca invernal de la familia Amaryllidaceae, ampliamente distribuida por los biomas del Cerrado, la Caatinga y la Mata Atlántica de Brasil, desde Bahía en el noreste hasta Paraná y Santa Catarina en el sur. Debe su nombre al brillo azul grisáceo y ceroso de sus hojas en forma de cinta, una capa que le ayuda a resistir el sol intenso de las praderas rocosas y abiertas donde suele crecer. Con las primeras lluvias de la temporada húmeda, tallos desnudos de 45 a 60 centímetros de altura portan flores finamente estriadas en verde y rojo, con tépalos que se enroscan hacia dentro en las puntas.",
+        "history_text_short": "Conocido en Brasil como lírio do mato, 'lirio del matorral', el Hippeastrum glauco pasa la estación seca como un bulbo en reposo enterrado en el suelo rocoso del Cerrado y la Mata Atlántica, y solo saca sus hojas azul grisáceas y sus flores enroscadas, rayadas en verde y rojo, cuando llegan las primeras lluvias de la temporada húmeda.",
+        "history_text_long": "A lo largo de una enorme extensión de Brasil, desde el matorral seco de la Caatinga en Bahía, al noreste, pasando por las praderas del Cerrado en Goiás y Minas Gerais, hasta los bordes más frescos de la Mata Atlántica en Paraná y Santa Catarina, al sur, la gente local conoce esta planta por un nombre llano y práctico: lírio do mato, 'lirio del matorral'. No es una importación vistosa de jardín, sino una verdadera nativa silvestre, que se encuentra a gusto entre afloramientos rocosos y praderas abiertas en altitudes mayores, donde el sol es intenso y la estación seca puede prolongarse durante meses.\n\nEl bulbo sobrevive a esa estación seca como lo hacen muchas plantas del Cerrado: apagándose casi por completo. Sus hojas en forma de cinta se marchitan y toda la planta desaparece bajo tierra hasta que vuelven las lluvias, típicamente entre diciembre y marzo. Lo que regresa es inconfundible: hojas con un brillo azul grisáceo y ceroso en su superficie, la capa glauca que da a la especie su nombre científico, glaucescens, 'volviéndose glauca'. Esa misma capa cerosa ayuda a reflejar el duro sol tropical y a frenar la pérdida de agua durante una larga estación seca, una adaptación compartida con otras plantas del Cerrado que habitan en rocas.\n\nLas flores que siguen son igualmente distintivas: finamente estriadas en verde y rojo, con tépalos que se enroscan hacia dentro en las puntas en lugar de abrirse planos, a diferencia de la mayoría de sus parientes Hippeastrum más vistosos, criados para el comercio de flor cortada. Parientes cercanos como Hippeastrum iguazuanum e Hippeastrum teyucuarense comparten los mismos hábitats rocosos y propensos al fuego más al sur, parte de un grupo de especies brasileñas de Hippeastrum adaptadas a vivir sobre roca expuesta en lugar de la sombra del sotobosque que prefieren la mayoría de los bulbos.",
+        "name_origin": "El nombre de la especie, glaucescens, es el latín para 'volviéndose glauca', en referencia al brillo azul grisáceo y ceroso de sus hojas. En Brasil se la conoce localmente como lírio do mato, 'lirio del matorral', por el hábitat rocoso y abierto donde se encuentra con más frecuencia.",
+        "symbolism_story": "Entre las plantas del Cerrado y la Caatinga de Brasil, sobrevivir a meses de sequía desapareciendo bajo tierra es una estrategia común, pero el Hippeastrum glauco lleva su resistencia de forma visible: la misma capa cerosa azul grisácea que protege sus hojas del sol también da nombre a la especie, convirtiendo un truco de supervivencia en su rasgo más reconocible.",
+        "flower_meaning": "Resistencia",
+        "fragrance": {
+          "notes": "Prácticamente sin aroma, como la mayoría de sus parientes Hippeastrum."
+        },
+        "uses_list": [
+          {
+            "text": "Cultivado por especialistas en bulbosas por su inusual follaje azul grisáceo y sus flores rayadas en verde y rojo."
+          },
+          {
+            "text": "Sus flores se abren con las primeras lluvias de la temporada húmeda, entre las primeras fuentes de néctar para los polinizadores en su hábitat de pradera rocosa."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Resistencia",
+            "description": "Al desaparecer bajo tierra durante meses de sequía cada año y regresar con hoja y flor juntas en cuanto llegan las lluvias, encarna una especie de resistencia paciente común a las plantas del Cerrado."
+          },
+          {
+            "keyword": "Camuflaje",
+            "description": "Sus hojas azul grisáceas y cerosas son una adaptación de supervivencia contra el sol intenso, no un rasgo decorativo, un disfraz práctico para protegerse."
+          }
+        ],
+        "toxicity": {
+          "headline": "Humanos Leve · Mascotas Moderado",
+          "active_compound_display": "licorina y otros alcaloides de las Amaryllidaceae",
+          "notes_en": "Como ocurre con otros bulbos de Hippeastrum, el bulbo contiene licorina y alcaloides relacionados que causan molestias gastrointestinales en mascotas e irritación leve en humanos.",
+          "human": {
+            "exposure": "Ingerir bulbos y savia. Tocar bulbos y savia.",
+            "effect": "Náuseas leves si se ingiere el bulbo e irritación de la piel por la savia del bulbo.",
+            "note": "Como ocurre con otros bulbos de Hippeastrum, el bulbo contiene licorina y alcaloides relacionados que causan molestias gastrointestinales en mascotas e irritación leve en humanos.",
+            "symptoms": [
+              "Náuseas leves si se ingiere el bulbo.",
+              "Irritación de la piel por la savia del bulbo."
+            ]
+          },
+          "dog": {
+            "exposure": "Ingerir bulbos.",
+            "effect": "Vómitos, salivación excesiva, diarrea y letargo.",
+            "note": "Como ocurre con otros bulbos de Hippeastrum, el bulbo contiene licorina y alcaloides relacionados que causan molestias gastrointestinales en mascotas e irritación leve en humanos.",
+            "symptoms": [
+              "Vómitos.",
+              "Salivación excesiva.",
+              "Diarrea.",
+              "Letargo."
+            ]
+          },
+          "cat": {
+            "exposure": "Ingerir bulbos.",
+            "effect": "Vómitos, salivación excesiva, diarrea y temblores.",
+            "note": "Como ocurre con otros bulbos de Hippeastrum, el bulbo contiene licorina y alcaloides relacionados que causan molestias gastrointestinales en mascotas e irritación leve en humanos.",
+            "symptoms": [
+              "Vómitos.",
+              "Salivación excesiva.",
+              "Diarrea.",
+              "Temblores."
+            ]
+          }
+        },
+        "bloom_tip": "Las flores de esta planta florecen en invierno y primavera, mostrando colores vivos.",
+        "fruit_tip": "El aspecto del fruto es singular, lo que añade interés a su valor ornamental."
+      }
+    },
+    "AAA1714": {
+      "source_hash": "97a2bbfb0fbb0d2abedffa87776bc0544085774437831822d8ffc5315866b1af",
+      "fields": {
+        "common_name": "Hippeastrum Peruano",
+        "description": "El Hippeastrum peruano es una planta bulbosa perenne de la familia Amaryllidaceae, conocida solo por una única recolección silvestre realizada en el departamento de Amazonas, en el norte de Perú. Se distingue de sus parientes cercanos Hippeastrum miniatum e Hippeastrum reginae por sus flores notablemente más grandes, un patrón de coloración distintivo y un estigma trífido de tres ramas. Nunca se ha documentado una segunda población silvestre; toda planta cultivada hoy desciende de los bulbos recolectados en aquella única expedición, cultivados discretamente en colecciones mucho antes de que la especie tuviera un nombre propio.",
+        "history_text_short": "En 1958, el botánico estadounidense Paul C. Hutchison recolectó bulbos de un Hippeastrum desconocido en la región de Amazonas, en el norte de Perú. Durante sesenta y un años la planta se cultivó sin que se resolviera su identidad, hasta que los botánicos Alan Meerow y Antonio Campos-Rocha la describieron formalmente como una nueva especie en 2019, nombrándola por el país donde fue hallada.",
+        "history_text_long": "Cuando Paul C. Hutchison, un botánico estadounidense que trabajaba en Sudamérica, recolectó bulbos de un Hippeastrum desconocido en el departamento de Amazonas, en el norte de Perú, en 1958, no podía saber que había encontrado una especie que tardaría más de sesenta años en recibir un nombre. Los bulbos pasaron a cultivo, probablemente asumidos por quienes los mantuvieron con vida como una variante natural o un híbrido de una especie ya conocida por la ciencia, como Hippeastrum miniatum o Hippeastrum reginae, parientes a los que se asemeja a primera vista.\n\nNo fue hasta 2019 que los botánicos Alan Meerow y Antonio Campos-Rocha, al revisar material de Hippeastrum peruano para la revista Novon, reconocieron que la vieja recolección de Hutchison era algo genuinamente distinto: sus flores son notablemente más grandes que las de sus parecidos, presentan un patrón de coloración diferente y, lo más revelador bajo una lupa, terminan en un estigma trífido, de tres ramas, que las otras especies no tienen. La llamaron Hippeastrum peruvianum, simplemente 'de Perú', y publicaron la descripción sesenta y un años después del viaje de recolección original.\n\nDesde entonces no se ha redescubierto ninguna población silvestre. Todo Hippeastrum peruano vivo hoy desciende de los bulbos originales de Hutchison, multiplicados silenciosamente en cultivo durante seis décadas como una curiosidad sin nombre, antes de que la taxonomía finalmente le diera alcance.",
+        "name_origin": "El nombre de la especie, peruvianum, es simplemente el latín para 'de Perú', en referencia al único país donde se ha encontrado este Hippeastrum, y hasta ahora, al único lugar donde ha aparecido su única recolección histórica.",
+        "symbolism_story": "En el lenguaje floral de la familia de la amaryllis, el orgullo y la determinación son los temas habituales, pero la propia historia del Hippeastrum peruano apunta a algo más silencioso: la paciencia. Pasó sesenta y un años en cultivo, sin identificar, antes de que los botánicos reconocieran finalmente qué era en realidad.",
+        "flower_meaning": "Paciencia",
+        "fragrance": {
+          "notes": "Prácticamente sin aroma, como la mayoría de sus parientes Hippeastrum."
+        },
+        "uses_list": [
+          {
+            "text": "Cultivado casi exclusivamente por especialistas en bulbosas y colecciones botánicas, más que por el comercio general de viveros."
+          },
+          {
+            "text": "Como otros Hippeastrum, sus grandes flores en forma de trompeta están hechas para atraer colibríes y grandes insectos polinizadores."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Paciencia",
+            "description": "Los temas habituales de la familia de la amaryllis en el lenguaje floral son el orgullo y la determinación, pero la historia propia de esta especie apunta a algo más silencioso: esperó sesenta y un años en cultivo antes de que alguien reconociera qué era en realidad."
+          },
+          {
+            "keyword": "Rareza",
+            "description": "Conocida por una sola recolección histórica sin ninguna población silvestre confirmada desde entonces, sigue siendo una de las especies de Hippeastrum más raras en cultivo."
+          }
+        ],
+        "toxicity": {
+          "headline": "Humanos Leve · Mascotas Moderado",
+          "active_compound_display": "licorina y otros alcaloides de las Amaryllidaceae",
+          "notes_en": "Como ocurre con otros bulbos de Hippeastrum, el bulbo contiene licorina y alcaloides relacionados que causan molestias gastrointestinales en mascotas e irritación leve en humanos.",
+          "human": {
+            "exposure": "Ingerir bulbos y savia. Tocar bulbos y savia.",
+            "effect": "Náuseas leves si se ingiere el bulbo e irritación de la piel por la savia del bulbo.",
+            "note": "Como ocurre con otros bulbos de Hippeastrum, el bulbo contiene licorina y alcaloides relacionados que causan molestias gastrointestinales en mascotas e irritación leve en humanos.",
+            "symptoms": [
+              "Náuseas leves si se ingiere el bulbo.",
+              "Irritación de la piel por la savia del bulbo."
+            ]
+          },
+          "dog": {
+            "exposure": "Ingerir bulbos.",
+            "effect": "Vómitos, salivación excesiva, diarrea y letargo.",
+            "note": "Como ocurre con otros bulbos de Hippeastrum, el bulbo contiene licorina y alcaloides relacionados que causan molestias gastrointestinales en mascotas e irritación leve en humanos.",
+            "symptoms": [
+              "Vómitos.",
+              "Salivación excesiva.",
+              "Diarrea.",
+              "Letargo."
+            ]
+          },
+          "cat": {
+            "exposure": "Ingerir bulbos.",
+            "effect": "Vómitos, salivación excesiva, diarrea y temblores.",
+            "note": "Como ocurre con otros bulbos de Hippeastrum, el bulbo contiene licorina y alcaloides relacionados que causan molestias gastrointestinales en mascotas e irritación leve en humanos.",
+            "symptoms": [
+              "Vómitos.",
+              "Salivación excesiva.",
+              "Diarrea.",
+              "Temblores."
+            ]
+          }
+        },
+        "bloom_tip": "Las flores de esta planta florecen en invierno, llamando la atención.",
+        "fruit_tip": "Los frutos tienen colores y formas interesantes cuando maduran, lo que añade valor ornamental."
+      }
+    },
+    "AAA1715": {
+      "source_hash": "09e47582c0c0d0afea0e18f5239fd9a0bc21a29fd3342ba1eaf8b0c599b22c38",
+      "fields": {
+        "common_name": "Azucena de Río",
+        "description": "La azucena de río es una planta bulbosa perenne de la familia Amaryllidaceae, originaria de los pastizales ribereños y bosques de galería de la cuenca del Paraná-Río de la Plata en Paraguay, Uruguay y Argentina. Su gran bulbo, de 10 a 15 centímetros de diámetro, produce hojas lanceoladas de color verde oscuro sostenidas por pecíolos bien marcados, un rasgo que la distingue de la mayoría de sus parientes Hippeastrum de hojas sésiles. A finales de la primavera, los tallos florales desnudos se elevan de 30 a 40 centímetros y abren de 3 a 4 flores en forma de trompeta, de color escarlata, de unos 10 centímetros de ancho, veteadas de púrpura con la garganta amarillo verdosa.",
+        "history_text_short": "Descrita por primera vez por el botánico alemán Ferdinand Pax en 1889 a partir de ejemplares recolectados junto a los ríos de Paraguay, Uruguay y Argentina, la azucena de río pasa la mayor parte del año como un bulbo enterrado en el suelo limoso de la llanura de inundación, y solo florece cuando las aguas estacionales se retiran.",
+        "history_text_long": "Cuando el botánico alemán Ferdinand Pax describió formalmente esta especie en 1889 mientras catalogaba la flora sudamericana, señaló un detalle que la distinguía de sus vistosos parientes Hippeastrum: hojas sostenidas por verdaderos pecíolos, no fusionadas al tallo. Esa pequeña particularidad anatómica es la razón por la que se mantuvo el nombre petiolatum, incluso después de que botánicos posteriores trasladaran la planta entre los géneros Amaryllis e Hippeastrum durante la larga disputa del siglo XIX sobre cómo clasificar los lirios bulbosos del Nuevo Mundo, disputa que dejó a la azucena de río con el sinónimo Amaryllis petiolata además de su nombre actual.\n\nA diferencia de las amaryllis híbridas criadas en los Países Bajos que se venden en Navidad, la azucena de río nunca entró en el comercio de flor cortada. Crece de forma silvestre en las llanuras de inundación de las cuencas del Paraná y el Río de la Plata, donde su bulbo sobrevive meses de inundación estacional permaneciendo latente en el suelo limoso de la ribera. Cuando las aguas se retiran a finales de la primavera, los tallos desnudos se elevan casi de la noche a la mañana y abren trompetas escarlatas veteadas de púrpura antes de que el pastizal circundante termine de secarse, una señal breve y vistosa de que el río ha vuelto a ceder la tierra. Las comunidades ribereñas de Paraguay, Uruguay y Argentina todavía la conocen por su nombre en español, azucena de río, un nombre que ha sobrevivido a cada nueva denominación latina que la planta ha recibido.",
+        "name_origin": "El nombre de la especie, petiolatum, es el latín para 'con pecíolo', en referencia a sus hojas claramente pecioladas, algo inusual en Hippeastrum, cuyas hojas suelen ser sésiles. A lo largo de los ríos del Río de la Plata, las comunidades hispanohablantes la llaman azucena de río, por la forma en que sus flores en trompeta aparecen en la llanura de inundación cada primavera.",
+        "symbolism_story": "En el lenguaje de las flores que llegó a Sudamérica con los colonizadores europeos, la familia de la amaryllis pasó a representar el orgullo y la determinación, y pocas plantas cumplen ese significado tan literalmente como la azucena de río, que hace brotar su tallo floral apenas unos días después de que bajan las aguas del Paraná, floreciendo antes incluso de que el suelo termine de secarse.",
+        "flower_meaning": "Determinación",
+        "fragrance": {
+          "notes": "Prácticamente sin aroma; los polinizadores se guían por el color y el néctar más que por el perfume."
+        },
+        "uses_list": [
+          {
+            "text": "Se cultiva por sus llamativas flores escarlatas en forma de trompeta en parterres de bulbosas y jardines de rocas."
+          },
+          {
+            "text": "Sus flores ricas en néctar atraen a colibríes y a grandes insectos polinizadores."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Determinación",
+            "description": "Comparte el significado victoriano del lenguaje floral de la amaryllis, orgullo y determinación, un rasgo que se refleja en cómo la azucena de río hace brotar su tallo floral apenas días después de que baja una inundación."
+          },
+          {
+            "keyword": "Renovación",
+            "description": "Al florecer justo cuando las aguas de la inundación se retiran, se ha convertido en una señal estacional de la renovación de la tierra a lo largo de los ríos de Paraguay, Uruguay y Argentina."
+          }
+        ],
+        "toxicity": {
+          "headline": "Humanos Leve · Mascotas Moderado",
+          "active_compound_display": "licorina y otros alcaloides de las Amaryllidaceae",
+          "notes_en": "Como ocurre con otros bulbos de Hippeastrum, el bulbo contiene licorina y alcaloides relacionados que causan molestias gastrointestinales en mascotas e irritación leve en humanos.",
+          "human": {
+            "exposure": "Ingerir bulbos y savia. Tocar bulbos y savia.",
+            "effect": "Náuseas leves si se ingiere el bulbo e irritación de la piel por la savia del bulbo.",
+            "note": "Como ocurre con otros bulbos de Hippeastrum, el bulbo contiene licorina y alcaloides relacionados que causan molestias gastrointestinales en mascotas e irritación leve en humanos.",
+            "symptoms": [
+              "Náuseas leves si se ingiere el bulbo.",
+              "Irritación de la piel por la savia del bulbo."
+            ]
+          },
+          "dog": {
+            "exposure": "Ingerir bulbos.",
+            "effect": "Vómitos, salivación excesiva, diarrea y letargo.",
+            "note": "Como ocurre con otros bulbos de Hippeastrum, el bulbo contiene licorina y alcaloides relacionados que causan molestias gastrointestinales en mascotas e irritación leve en humanos.",
+            "symptoms": [
+              "Vómitos.",
+              "Salivación excesiva.",
+              "Diarrea.",
+              "Letargo."
+            ]
+          },
+          "cat": {
+            "exposure": "Ingerir bulbos.",
+            "effect": "Vómitos, salivación excesiva, diarrea y temblores.",
+            "note": "Como ocurre con otros bulbos de Hippeastrum, el bulbo contiene licorina y alcaloides relacionados que causan molestias gastrointestinales en mascotas e irritación leve en humanos.",
+            "symptoms": [
+              "Vómitos.",
+              "Salivación excesiva.",
+              "Diarrea.",
+              "Temblores."
+            ]
+          }
+        }
+      }
+    },
+    "AAA1716": {
+      "source_hash": "48b39743ad2eb1b075c2fd96aced3e7bdb5fc1fc640c89d539fabf7232940097",
+      "fields": {
+        "common_name": "Azucena de Barbados",
+        "bloom_tip": "Sus flores carmesí con una estrella en la garganta suelen aparecer en tandas tras las lluvias, típicamente en invierno en cultivo.",
+        "fruit_tip": "Su fruto es una cápsula trivalva con semillas negras, de escaso interés ornamental.",
+        "description": "Hippeastrum puniceum es una perenne bulbosa originaria de México, el Caribe y Centroamérica, una de las especies silvestres más extendidas de su género y uno de los primeros bulbos de Amaryllidaceae traídos a Europa desde América. Un tallo floral esbelto y sin hojas, de 30 a 45 centímetros de altura, porta de dos a cuatro flores acampanadas de color rojo intenso a carmesí, cada pétalo marcado en la garganta con una estrella blanco verdosa pálida. Comúnmente llamada azucena de Barbados, florece con facilidad tras la lluvia en su área nativa y se cultiva desde hace mucho tiempo como bulbo de jardín y maceta en los trópicos y más allá.",
+        "history_text_short": "Originaria de México hasta el Caribe, la azucena de Barbados fue uno de los primerísimos bulbos del Nuevo Mundo en llegar a los jardines europeos, descrita por Linneo en 1753 como Amaryllis punicea. Cuando William Herbert separó el género Hippeastrum de Amaryllis en 1821, esta especie se convirtió en uno de sus miembros fundadores y en una progenitora temprana de la amarilis híbrida moderna.",
+        "history_text_long": "Entre las docenas de vistosos bulbos que Carlos Linneo agrupó en su género original Amaryllis en 1753, Amaryllis punicea, la planta hoy conocida como azucena de Barbados, fue una de las más tempranas y ampliamente cultivadas. Originaria de México, pasando por las islas del Caribe, hasta Centroamérica, llegó a los invernaderos y jardines botánicos europeos mucho antes que la mayoría de sus parientes sudamericanas, apreciada por su facilidad para florecer y sus vívidas flores carmesí, cada una marcada en la garganta con una estrella verdosa pálida.\n\nCuando el botánico inglés William Herbert separó en 1821 la verdadera Amaryllis sudafricana de sus parecidas americanas más vistosas, incluyó a esta especie entre los miembros fundadores de su nuevo género, renombrándola Hippeastrum puniceum. Su nombre de especie, del latín puniceus, «carmesí» o «rojo púnico», simplemente describe el color de sus flores, un color tan llamativo que la planta permaneció en cultivo continuo durante más de tres siglos sin perder nunca el favor.\n\nHippeastrum puniceum también desempeñaría un papel secundario en la historia de hibridación del género. Junto con especies silvestres como H. vittatum y H. reginae, fue una de las progenitoras de las que los criadores británicos y más tarde neerlandeses se valieron para crear los grandes y vistosos bulbos híbridos que acabarían eclipsando a las especies silvestres en el comercio de jardinería, aunque la azucena de Barbados en sí ha seguido cultivándose, más modestamente, en jardines de los trópicos y climas cálidos de todo el mundo.",
+        "name_origin": "El nombre de la especie, puniceum, proviene del latín puniceus, «carmesí» o «rojo púnico», en referencia al color rojo intenso de sus flores. Fue descrita por primera vez como Amaryllis punicea por Linneo en 1753 y trasladada al género Hippeastrum por William Herbert en 1821. El nombre común azucena de Barbados refleja su larga historia de cultivo en el Caribe.",
+        "symbolism_story": "Pocos bulbos pueden presumir de una trayectoria de cultivo tan larga e ininterrumpida como la azucena de Barbados, cultivada en jardines a ambos lados del Atlántico durante más de tres siglos, un silencioso testimonio de resistencia. Sus flores de un rojo intenso, cada una marcada con una estrella pálida en la garganta, han representado durante igual tiempo la pasión en los jardines caribeños donde todavía crece silvestre, una audacia que trescientos años de familiaridad no han logrado apagar.",
+        "flower_meaning": "Pasión",
+        "uses_list": [
+          {
+            "text": "Cultivada en jardines y macetas en los trópicos y climas cálidos de todo el mundo por sus fiables y vívidas flores carmesí."
+          },
+          {
+            "text": "Sus flores ricas en néctar y marcadas con una estrella atraen colibríes y mariposas en su área nativa."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Resistencia",
+            "description": "entre los primeros bulbos americanos cultivados en Europa, ha permanecido en cultivo continuo durante más de trescientos años."
+          },
+          {
+            "keyword": "Pasión",
+            "description": "sus flores de un rojo intenso, marcadas con una estrella, la han convertido en un emblema duradero de la pasión en las regiones donde crece silvestre."
+          }
+        ],
+        "toxicity": {
+          "headline": "Humanos Leve · Mascotas Moderado",
+          "active_compound_display": "Licorina y otros alcaloides de las Amaryllidaceae",
+          "notes_en": "Como otros bulbos de Hippeastrum y Amaryllidaceae, el bulbo contiene licorina y alcaloides relacionados que causan molestias gastrointestinales en mascotas e irritación leve en humanos.",
+          "human": {
+            "exposure": "Ingestión de bulbos y savia. Contacto con bulbos y savia.",
+            "effect": "Náuseas y vómitos si se ingiere el bulbo, e irritación cutánea por contacto con la savia del bulbo.",
+            "note": "Como otros bulbos de Hippeastrum y Amaryllidaceae, el bulbo contiene licorina y alcaloides relacionados que causan molestias gastrointestinales en mascotas e irritación leve en humanos.",
+            "symptoms": [
+              "Náuseas y vómitos si se ingiere el bulbo.",
+              "Irritación cutánea por contacto con la savia del bulbo."
+            ]
+          },
+          "dog": {
+            "exposure": "Ingestión de bulbos.",
+            "effect": "Vómitos, salivación excesiva, diarrea, letargo y, en ingestiones grandes, temblores.",
+            "note": "Como otros bulbos de Hippeastrum y Amaryllidaceae, el bulbo contiene licorina y alcaloides relacionados que causan molestias gastrointestinales en mascotas e irritación leve en humanos.",
+            "symptoms": [
+              "Vómitos.",
+              "Salivación excesiva.",
+              "Diarrea.",
+              "Letargo.",
+              "Temblores en ingestiones grandes."
+            ]
+          },
+          "cat": {
+            "exposure": "Ingestión de bulbos.",
+            "effect": "Vómitos, salivación excesiva, diarrea y temblores.",
+            "note": "Como otros bulbos de Hippeastrum y Amaryllidaceae, el bulbo contiene licorina y alcaloides relacionados que causan molestias gastrointestinales en mascotas e irritación leve en humanos.",
+            "symptoms": [
+              "Vómitos.",
+              "Salivación excesiva.",
+              "Diarrea.",
+              "Temblores."
+            ]
+          }
+        }
+      }
+    },
+    "AAA1717": {
+      "source_hash": "77c2bbc9afdf8f4d89bba9d780c31d7ebd0e83fc734f3c01af8a738edee0bdac",
+      "fields": {
+        "common_name": "Lirio Mexicano",
+        "description": "El lirio mexicano es una planta bulbosa perenne de la familia Amaryllidaceae, originaria, a pesar de su nombre, no de México sino de regiones bajas de Venezuela, Bolivia, Perú y Brasil. Su bulbo produce hojas en forma de cinta y un tallo floral desnudo con varias flores grandes en forma de trompeta, en tonos rojo, blanco, rosa o naranja, cada pétalo a menudo teñido o veteado de un segundo color. Florece desde finales del invierno hasta principios de la primavera, y sus llamativas flores atraen a los polinizadores antes de que la mayoría de los otros bulbos del jardín hayan despertado.",
+        "history_text_short": "Carlos Linneo describió esta especie en 1759 como Amaryllis reginae, agrupándola con la verdadera amaryllis sudafricana. Introducida en Gran Bretaña hacia 1725 y nombrada en honor a la reina Carolina, esposa del rey Jorge II, se convirtió en la especie tipo del nuevo género Hippeastrum cuando este se separó de Amaryllis en 1821, y a pesar de su nombre común, nunca fue nativa de México.",
+        "history_text_long": "Cuando Carlos Linneo describió esta especie en 1759, la incluyó, junto con más de una docena de otros lirios bulbosos americanos, en el mismo género que la verdadera amaryllis sudafricana, llamándola Amaryllis reginae, 'lirio de la reina'. La flor ya había llegado a Gran Bretaña en 1725, más de tres décadas antes, donde se cultivaba como un preciado bulbo de invernadero y se nombró en honor a la reina Carolina, esposa del rey Jorge II, cuya corte mostraba vivo interés por las nuevas flores exóticas llegadas de América.\n\nLa 'reina' de su nombre era historia real; la geografía asociada a su nombre común en inglés, Mexican Lily, no lo era. La especie es nativa de las tierras bajas de Sudamérica, documentada en Venezuela, Bolivia, Perú y Brasil, sin que se haya registrado jamás una población silvestre en México. El error probablemente surgió de la misma confusión que afectó a todo el comercio de bulbos parecidos a la amaryllis durante dos siglos: comerciantes y jardineros agrupaban vistosos lirios rojos de toda América bajo cualquier nombre ya conocido, mucho antes de que los botánicos aclararan de dónde venía cada especie.\n\nEsa clarificación finalmente le costó a la planta su género original. En 1821, el botánico británico William Herbert argumentó que la mayoría de las especies americanas de 'Amaryllis' de Linneo no pertenecían en absoluto a la verdadera amaryllis sudafricana, y las separó en un nuevo género que llamó Hippeastrum, nombrando a esta misma especie, Amaryllis reginae, como su especie tipo, mientras que Amaryllis conservó su propia especie tipo verdadera, la sudafricana Amaryllis belladonna. La reclasificación se mantuvo para la especie silvestre, aunque el comercio florístico siguió llamando 'amaryllis' a sus vistosos descendientes híbridos durante los siguientes doscientos años, costumbre que persiste en cada exhibición navideña de bulbos.",
+        "name_origin": "El epíteto de la especie, reginae, es el latín para 'de la reina', en honor a la reina Carolina, consorte de Jorge II, por quien se nombró la planta tras su introducción en Gran Bretaña a principios del siglo XVIII. El nombre en inglés Mexican Lily es históricamente inexacto; la especie nunca se ha encontrado creciendo silvestre en México.",
+        "symbolism_story": "Esta única especie se convirtió en la especie tipo definitoria de todo un género, Hippeastrum, y fue nombrada en honor a una reina, lo que hace que 'majestad' se sienta menos como un cliché prestado del lenguaje floral y más como un hecho incorporado a su propia historia científica.",
+        "flower_meaning": "Majestad",
+        "fragrance": {
+          "notes": "Prácticamente sin aroma; su color intenso, no su fragancia, es lo que atrae a los polinizadores."
+        },
+        "uses_list": [
+          {
+            "text": "Se cultiva por sus grandes flores en forma de trompeta de colores vivos, entre las más vistosas de las especies silvestres de Hippeastrum."
+          },
+          {
+            "text": "Sus flores tempranas ofrecen una de las primeras grandes fuentes de néctar para los polinizadores cada año."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Majestad",
+            "description": "Nombrada en honor a una reina y elegida más tarde como la especie tipo definitoria del género Hippeastrum, pocas flores llevan un simbolismo 'real' tan literalmente como esta."
+          },
+          {
+            "keyword": "Identidad Equivocada",
+            "description": "Su nombre popular, Mexican Lily, describe un país en el que la planta nunca ha crecido de forma silvestre, una confusión que ha sobrevivido a siglos de corrección botánica."
+          }
+        ],
+        "toxicity": {
+          "headline": "Humanos Leve · Mascotas Moderado",
+          "active_compound_display": "licorina y otros alcaloides de las Amaryllidaceae",
+          "notes_en": "Como ocurre con otros bulbos de Hippeastrum, el bulbo contiene licorina y alcaloides relacionados que causan molestias gastrointestinales en mascotas e irritación leve en humanos.",
+          "human": {
+            "exposure": "Ingerir bulbos y savia. Tocar bulbos y savia.",
+            "effect": "Náuseas leves si se ingiere el bulbo e irritación de la piel por la savia del bulbo.",
+            "note": "Como ocurre con otros bulbos de Hippeastrum, el bulbo contiene licorina y alcaloides relacionados que causan molestias gastrointestinales en mascotas e irritación leve en humanos.",
+            "symptoms": [
+              "Náuseas leves si se ingiere el bulbo.",
+              "Irritación de la piel por la savia del bulbo."
+            ]
+          },
+          "dog": {
+            "exposure": "Ingerir bulbos.",
+            "effect": "Vómitos, salivación excesiva, diarrea y letargo.",
+            "note": "Como ocurre con otros bulbos de Hippeastrum, el bulbo contiene licorina y alcaloides relacionados que causan molestias gastrointestinales en mascotas e irritación leve en humanos.",
+            "symptoms": [
+              "Vómitos.",
+              "Salivación excesiva.",
+              "Diarrea.",
+              "Letargo."
+            ]
+          },
+          "cat": {
+            "exposure": "Ingerir bulbos.",
+            "effect": "Vómitos, salivación excesiva, diarrea y temblores.",
+            "note": "Como ocurre con otros bulbos de Hippeastrum, el bulbo contiene licorina y alcaloides relacionados que causan molestias gastrointestinales en mascotas e irritación leve en humanos.",
+            "symptoms": [
+              "Vómitos.",
+              "Salivación excesiva.",
+              "Diarrea.",
+              "Temblores."
+            ]
+          }
+        },
+        "bloom_tip": "Esta planta florece desde finales del invierno hasta principios de la primavera, con pétalos de colores vivos que resultan atractivos para los insectos.",
+        "fruit_tip": "Los frutos de esta planta son decorativos y pueden añadir interés al paisaje del jardín."
+      }
+    },
+    "AAA1718": {
+      "source_hash": "6d2e9651d6ad1c90f29f13bfb317faac6b7753b2ef1b23b1ca2d695f334b9a10",
+      "fields": {
+        "common_name": "Amarilis de Estilo Largo",
+        "bloom_tip": "Sus flores rojas y estrechas, con un estilo inusualmente largo y proyectado, se abren desde la primavera hasta principios del verano.",
+        "fruit_tip": "Su fruto es una cápsula trivalva con semillas negras, de escaso interés ornamental.",
+        "description": "Hippeastrum stylosum es una perenne bulbosa originaria de los afloramientos rocosos de granito y gneis del sureste de Brasil, especialmente alrededor de Río de Janeiro y Minas Gerais. Sus flores rojas, estrechas y alargadas, de dos a cuatro por tallo sin hojas, destacan sobre todo por un estilo inusualmente largo, la parte femenina y esbelta de la flor, que sobresale ampliamente más allá de los pétalos, un rasgo que da nombre a la especie. Arraigada en delgados bolsillos de tierra sobre inselbergs expuestos al sol, florece desde la primavera hasta principios del verano y desde hace tiempo interesa a cultivadores especialistas en bulbos y taxónomos por este rasgo floral distintivo.",
+        "history_text_short": "Originaria de los inselbergs rocosos del sureste de Brasil, Hippeastrum stylosum fue descrita por primera vez a principios del siglo XIX por el botánico inglés William Herbert, quien también acuñó el nombre del género. Su nombre de especie, stylosum, hace referencia al estilo inusualmente largo que sobresale mucho más allá de sus estrechos pétalos rojos, un rasgo distintivo para los botánicos que identifican la especie.",
+        "history_text_long": "Hippeastrum stylosum crece de forma silvestre en los inselbergs de granito y gneis, calentados por el sol, de los estados de Río de Janeiro y Minas Gerais, en el sureste de Brasil, afloramientos rocosos que se elevan abruptamente del bosque circundante y sustentan una flora especializada adaptada a suelos delgados y una exposición intensa. Sus flores rojas, estrechas y alargadas, con dos a cuatro por tallo sin hojas, son más delgadas y de aspecto arácnido que las amplias trompetas de muchas amarilis híbridas cultivadas, una forma que comparte con varias de sus parientes brasileñas habitantes de rocas.\n\nLa especie debe su nombre a su rasgo más distintivo: un estilo inusualmente largo, el tallo delgado que conecta el ovario de la flor con el estigma receptor de polen, que sobresale dramáticamente más allá de los pétalos en lugar de permanecer oculto dentro de ellos. Se encontraba entre las muchas especies brasileñas de Hippeastrum descritas a principios del siglo XIX por el botánico inglés William Herbert, el mismo clérigo de Spofforth que había separado el género de la verdadera Amaryllis sudafricana en 1821 y pasó gran parte del resto de su vida documentando y nombrando sus diversas especies americanas.\n\nA diferencia de la azucena de Barbados o de las especies progenitoras de los vistosos híbridos forzados en invierno, Hippeastrum stylosum ha seguido siendo en gran medida una planta de especialistas, cultivada por coleccionistas y taxónomos atraídos por su inusual arquitectura floral más que por el comercio general de bulbos de regalo. En estado silvestre, continúa floreciendo cada primavera sobre las mismas caras rocosas expuestas que la han resguardado durante milenios, un recordatorio de cuánta diversidad alberga todavía el género Hippeastrum más allá de sus famosos descendientes híbridos.",
+        "name_origin": "El nombre de la especie, stylosum, proviene del griego stylos, «estilo» o «columna», en referencia al estilo inusualmente largo, el tallo delgado que porta el estigma, que sobresale ampliamente más allá de los pétalos de la flor. Fue descrita a principios del siglo XIX por el botánico inglés William Herbert, quien también estableció el propio género Hippeastrum.",
+        "symbolism_story": "Creciendo desde delgados bolsillos de tierra sobre roca de granito desnuda, expuesta a toda la fuerza del sol brasileño, Hippeastrum stylosum ha representado durante mucho tiempo la resiliencia en terreno difícil. Su largo estilo proyectado, el rasgo que da nombre a la especie, la distingue visiblemente de sus parientes de flores más amplias, un emblema de distinción discreta dentro de un género más conocido por sus vistosos descendientes híbridos.",
+        "flower_meaning": "Distinción",
+        "uses_list": [
+          {
+            "text": "Cultivada principalmente por coleccionistas especialistas de bulbos atraídos por su inusual forma floral de estilo largo."
+          },
+          {
+            "text": "Sus estrechas flores rojas y su largo estilo proyectado favorecen la polinización por colibríes en su hábitat rocoso nativo."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Resiliencia",
+            "description": "arraigada en suelo delgado sobre afloramientos de granito expuestos al sol, prospera donde pocas otras plantas pueden establecerse."
+          },
+          {
+            "keyword": "Distinción",
+            "description": "su estilo inusualmente largo y proyectado la distingue visiblemente de sus parientes híbridas de flores más amplias."
+          }
+        ],
+        "toxicity": {
+          "headline": "Humanos Leve · Mascotas Moderado",
+          "active_compound_display": "Licorina y otros alcaloides de las Amaryllidaceae",
+          "notes_en": "Como otros bulbos de Hippeastrum y Amaryllidaceae, el bulbo contiene licorina y alcaloides relacionados que causan molestias gastrointestinales en mascotas e irritación leve en humanos.",
+          "human": {
+            "exposure": "Ingestión de bulbos y savia. Contacto con bulbos y savia.",
+            "effect": "Náuseas y vómitos si se ingiere el bulbo, e irritación cutánea por contacto con la savia del bulbo.",
+            "note": "Como otros bulbos de Hippeastrum y Amaryllidaceae, el bulbo contiene licorina y alcaloides relacionados que causan molestias gastrointestinales en mascotas e irritación leve en humanos.",
+            "symptoms": [
+              "Náuseas y vómitos si se ingiere el bulbo.",
+              "Irritación cutánea por contacto con la savia del bulbo."
+            ]
+          },
+          "dog": {
+            "exposure": "Ingestión de bulbos.",
+            "effect": "Vómitos, salivación excesiva, diarrea, letargo y, en ingestiones grandes, temblores.",
+            "note": "Como otros bulbos de Hippeastrum y Amaryllidaceae, el bulbo contiene licorina y alcaloides relacionados que causan molestias gastrointestinales en mascotas e irritación leve en humanos.",
+            "symptoms": [
+              "Vómitos.",
+              "Salivación excesiva.",
+              "Diarrea.",
+              "Letargo.",
+              "Temblores en ingestiones grandes."
+            ]
+          },
+          "cat": {
+            "exposure": "Ingestión de bulbos.",
+            "effect": "Vómitos, salivación excesiva, diarrea y temblores.",
+            "note": "Como otros bulbos de Hippeastrum y Amaryllidaceae, el bulbo contiene licorina y alcaloides relacionados que causan molestias gastrointestinales en mascotas e irritación leve en humanos.",
+            "symptoms": [
+              "Vómitos.",
+              "Salivación excesiva.",
+              "Diarrea.",
+              "Temblores."
+            ]
+          }
+        }
+      }
+    },
+    "AAA1719": {
+      "source_hash": "81af1de0580196df80fa0839108155c31dce583b569fb387dc22c5957f090ffe",
+      "fields": {
+        "common_name": "Amarilis",
+        "bloom_tip": "Las flores acampanadas de esta planta, a menudo forzadas a florecer en interiores, suelen abrirse en invierno en una amplia variedad de colores vivos.",
+        "fruit_tip": "Su fruto es una cápsula trivalva con semillas negras, rara vez vista en los bulbos cultivados de interior.",
+        "description": "Hippeastrum es un género de unas 90 plantas perennes bulbosas originarias de México, el Caribe y Sudamérica, apreciado en cultivo por los bulbos híbridos que se venden en todo el mundo como «amarilis». Un tallo floral grueso y hueco, de 30 a 75 centímetros de altura, se alza antes o junto con las hojas en forma de cinta, coronado por dos a seis enormes flores acampanadas en tonos rojos, blancos, rosados y anaranjados, a menudo rayadas o bicolores. Ampliamente forzados a florecer en interiores durante las fiestas de invierno, estos bulbos son el resultado de más de dos siglos de hibridación entre especies silvestres sudamericanas, una industria hortícola centrada hoy en los Países Bajos y Sudáfrica.",
+        "history_text_short": "Criados a partir de bulbos silvestres sudamericanos desde principios del siglo XIX, los híbridos de Hippeastrum son los bulbos de flores acampanadas que se venden en todo el mundo cada invierno como «amarilis», aunque el verdadero género Amaryllis es una planta sudafricana no emparentada. El botánico inglés William Herbert acuñó el nombre Hippeastrum, «estrella de caballero», en 1821 tras desenredar ambos géneros.",
+        "history_text_long": "Cuando el clérigo y botánico inglés William Herbert separó los vistosos bulbos sudamericanos del verdadero género sudafricano Amaryllis en 1821, dio al nuevo género el nombre de Hippeastrum, del griego hippeus, «jinete» o «caballero», y astron, «estrella», por la forma audaz y estrellada de la flor. Herbert, que cultivaba e hibridaba cientos de bulbos en el jardín de su propia rectoría en Spofforth, fue también uno de los primeros en cruzar deliberadamente distintas especies silvestres de Hippeastrum, sentando las bases de una tradición de hibridación que continuaría durante los dos siglos siguientes.\n\nCriadores en Gran Bretaña, y más tarde en los Países Bajos, cruzaron especies silvestres como Hippeastrum vittatum, H. reginae, H. aulicum y H. puniceum para producir flores cada vez más grandes en una gama cada vez más amplia de colores y patrones. Hacia el siglo XX, los cultivadores neerlandeses habían convertido la producción de bulbos de Hippeastrum en una importante industria de exportación, y más recientemente se han sumado cultivadores sudafricanos y brasileños, que abastecen los millones de bulbos vendidos cada otoño en todo el mundo y forzados a florecer en interiores durante las fiestas de invierno.\n\nA pesar de la corrección taxonómica de Herbert, de dos siglos de antigüedad, el nombre popular «amarilis» nunca ha soltado a estos bulbos: casi todo bulbo de flor acampanada vendido bajo ese nombre en centros de jardinería y supermercados es un híbrido de Hippeastrum, mientras que la verdadera Amaryllis sigue siendo una flor silvestre sudafricana relativamente desconocida, conocida sobre todo por especialistas.",
+        "name_origin": "El nombre del género Hippeastrum combina el griego hippeus, «jinete» o «caballero», y astron, «estrella», describiendo las audaces flores acampanadas en forma de estrella. Fue acuñado en 1821 por el botánico inglés William Herbert, quien separó estos bulbos sudamericanos del género sudafricano no emparentado Amaryllis, con el que se habían confundido desde la época de Linneo.",
+        "symbolism_story": "En el lenguaje de las flores, el tallo alto y sin hojas de Hippeastrum y sus dramáticas flores acampanadas han representado durante mucho tiempo el orgullo y la determinación, una planta que capta la atención sin una sola hoja de apoyo. Dos siglos de hibridación, cruzando especies silvestres sudamericanas hacia formas cada vez más deslumbrantes, no han hecho sino profundizar esa sensación de esplendor, convirtiendo un bulbo silvestre en una de las flores más deliberadamente criadas del cultivo.",
+        "flower_meaning": "Orgullo",
+        "uses_list": [
+          {
+            "text": "Forzada a florecer en interiores como bulbo en maceta, especialmente popular como planta de regalo en la temporada invernal."
+          },
+          {
+            "text": "Cultivada comercialmente como flor de corte gracias a sus enormes flores acampanadas de larga duración."
+          },
+          {
+            "text": "En sus hábitats silvestres sudamericanos, sus grandes flores son polinizadas por colibríes y grandes polillas."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Orgullo",
+            "description": "su tallo alto y sin hojas, coronado por enormes flores acampanadas, lo ha convertido durante mucho tiempo en símbolo de orgullo y determinación."
+          },
+          {
+            "keyword": "Esplendor",
+            "description": "siglos de hibridación han producido flores en casi todos los colores y patrones, una celebración deliberada del esplendor floral."
+          }
+        ],
+        "toxicity": {
+          "headline": "Humanos Leve · Mascotas Moderado",
+          "active_compound_display": "Licorina y otros alcaloides de las Amaryllidaceae",
+          "notes_en": "Como otros bulbos de Hippeastrum y Amaryllidaceae, el bulbo contiene licorina y alcaloides relacionados que causan molestias gastrointestinales en mascotas e irritación leve en humanos.",
+          "human": {
+            "exposure": "Ingestión de bulbos y savia. Contacto con bulbos y savia.",
+            "effect": "Náuseas y vómitos si se ingiere el bulbo, e irritación cutánea por contacto con la savia del bulbo.",
+            "note": "Como otros bulbos de Hippeastrum y Amaryllidaceae, el bulbo contiene licorina y alcaloides relacionados que causan molestias gastrointestinales en mascotas e irritación leve en humanos.",
+            "symptoms": [
+              "Náuseas y vómitos si se ingiere el bulbo.",
+              "Irritación cutánea por contacto con la savia del bulbo."
+            ]
+          },
+          "dog": {
+            "exposure": "Ingestión de bulbos.",
+            "effect": "Vómitos, salivación excesiva, diarrea, letargo y, en ingestiones grandes, temblores.",
+            "note": "Como otros bulbos de Hippeastrum y Amaryllidaceae, el bulbo contiene licorina y alcaloides relacionados que causan molestias gastrointestinales en mascotas e irritación leve en humanos.",
+            "symptoms": [
+              "Vómitos.",
+              "Salivación excesiva.",
+              "Diarrea.",
+              "Letargo.",
+              "Temblores en ingestiones grandes."
+            ]
+          },
+          "cat": {
+            "exposure": "Ingestión de bulbos.",
+            "effect": "Vómitos, salivación excesiva, diarrea y temblores.",
+            "note": "Como otros bulbos de Hippeastrum y Amaryllidaceae, el bulbo contiene licorina y alcaloides relacionados que causan molestias gastrointestinales en mascotas e irritación leve en humanos.",
+            "symptoms": [
+              "Vómitos.",
+              "Salivación excesiva.",
+              "Diarrea.",
+              "Temblores."
+            ]
+          }
+        }
+      }
+    },
+    "AAA1720": {
+      "source_hash": "b81d24b53c48c351f3f85a366e6543cf4874e18215a3aa48bf6cd77c159f019b",
+      "fields": {
+        "common_name": "Hongo Linterna de Halloween",
+        "fruit_tip": "Este hongo produce densos racimos de cuerpos fructíferos de color naranja brillante y forma de embudo en la base de árboles de madera dura y tocones durante el verano tardío y el otoño.",
+        "description": "Omphalotus illudens, el hongo linterna de Halloween oriental, es un hongo venenoso originario del este de Norteamérica, reconocible por sus racimos de sombreros de color naranja brillante y forma de embudo que crecen en la base de árboles de madera dura, tocones y raíces enterradas. Sus láminas verdaderas, en forma de cuchilla, descienden por un tallo afilado y, cuando están frescas y se observan en completa oscuridad, emiten un tenue brillo verdoso, un raro caso de bioluminiscencia entre los hongos norteamericanos. Aunque su color se asemeja llamativamente al preciado rebozuelo, es una especie distinta y no emparentada que causa una grave enfermedad gastrointestinal si se ingiere, por lo que una identificación correcta es esencial para quien recolecte en su área de distribución.",
+        "history_text_short": "Originario de los bosques de madera dura del este de Norteamérica, el hongo linterna de Halloween es conocido sobre todo por dos rasgos: su tenue brillo bioluminiscente en completa oscuridad y su gran parecido con los rebozuelos comestibles, lo que ha causado muchas intoxicaciones accidentales. Su nombre de especie, illudens, latín para «engañoso», apunta directamente a ese peligroso caso de identidad errónea.",
+        "history_text_long": "Creciendo en densos racimos superpuestos en la base de robles y otros árboles de madera dura, el hongo linterna de Halloween debe tanto su nombre común como el científico al engaño y al espectáculo. Su nombre de especie, illudens, latín para «burlón» o «engañoso», fue elegido porque sus sombreros de color naranja brillante y forma de embudo se parecen tanto al preciado rebozuelo que los recolectores los han confundido desde siempre, con resultados mucho menos agradables: Omphalotus illudens contiene compuestos illudina que causan vómitos intensos, calambres y diarrea pocas horas después de ser ingerido.\n\nEl otro motivo de fama del hongo está escrito en su nombre común. Rompa las láminas de un ejemplar fresco en una habitación completamente oscura y, tras acostumbrarse los ojos, revelan un tenue y misterioso brillo verdoso, un verdadero caso de bioluminiscencia entre los hongos norteamericanos, producido por una reacción de luciferina-luciferasa similar en principio a la de las luciérnagas. Los hongos brillantes en madera en descomposición han inspirado durante siglos el folclore del «fuego fatuo» en muchas culturas, historias de luces fantasmales en el bosque que, al menos en algunos casos, probablemente se remontan a especies bioluminiscentes exactamente como esta.\n\nLos mismos compuestos illudina responsables de su toxicidad han atraído la atención científica moderna por una razón completamente distinta: los investigadores han estudiado derivados de la illudina, incluido un compuesto modificado llamado irofulven, como posibles tratamientos contra el cáncer, ya que estos compuestos son capaces de dañar el ADN de las células que se dividen rápidamente. Un hongo conocido por los recolectores principalmente como un peligroso imitador tóxico se ha convertido también, en las últimas décadas, en objeto de investigación farmacéutica, una segunda vida para un hongo ya famoso por no ser lo que parece.",
+        "name_origin": "El nombre del género, Omphalotus, proviene del griego omphalos, «ombligo», en referencia a la depresión central poco profunda que suele encontrarse en el sombrero. El nombre de la especie, illudens, es latín para «burlón» o «engañoso», una referencia directa al peligroso parecido del hongo con el rebozuelo comestible, un caso de identidad errónea responsable de muchas intoxicaciones accidentales.",
+        "symbolism_story": "Pocos hongos llevan su reputación tan a la vista como el hongo linterna de Halloween, llamado illudens, «el engañador», por un parecido con el rebozuelo tan convincente que ha engañado a los recolectores durante generaciones. Ese mismo hongo guarda un segundo misterio, más amable: partido en completa oscuridad, sus láminas brillan con una tenue luz verdosa, el tipo de destello inexplicable en el bosque que, siglos antes de que alguien comprendiera la bioluminiscencia, debió de parecer algo cercano a la magia.",
+        "flower_meaning": "Engaño",
+        "uses_list": [
+          {
+            "text": "Descompone madera dura muerta y moribunda, desempeñando un papel como hongo saprótrofo que recicla nutrientes en los ecosistemas forestales."
+          },
+          {
+            "text": "Sus compuestos illudina han sido estudiados en investigación farmacéutica como base del irofulven, un candidato experimental a fármaco contra el cáncer."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Engaño",
+            "description": "su gran parecido con el rebozuelo comestible, inscrito directamente en su epíteto de especie illudens, ha engañado a los recolectores durante generaciones."
+          },
+          {
+            "keyword": "Misterio",
+            "description": "su tenue brillo bioluminiscente en completa oscuridad ha alimentado durante mucho tiempo el folclore sobre luces fantasmales que brillan en el bosque por la noche."
+          }
+        ],
+        "toxicity": {
+          "headline": "Toxicidad desconocida",
+          "active_compound_display": "Ninguno reportado",
+          "notes_en": "No se encontró ninguna coincidencia de toxicidad en fuentes autorizadas; se trata como no reportada (la estimación del LLM no está verificada por fuentes).",
+          "human": {
+            "exposure": "No se reporta ninguna vía de exposición.",
+            "effect": "No se reporta ningún efecto tóxico.",
+            "note": "La toxicidad para los humanos no está bien documentada; se recomienda precaución hasta su verificación."
+          },
+          "dog": {
+            "exposure": "No se reporta ninguna vía de exposición.",
+            "effect": "No se reporta ningún efecto tóxico.",
+            "note": "La toxicidad para los perros no está bien documentada; se recomienda precaución hasta su verificación."
+          },
+          "cat": {
+            "exposure": "No se reporta ninguna vía de exposición.",
+            "effect": "No se reporta ningún efecto tóxico.",
+            "note": "La toxicidad para los gatos no está bien documentada; se recomienda precaución hasta su verificación."
           }
         }
       }
