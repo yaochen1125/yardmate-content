@@ -3,8 +3,8 @@
   "locale": "de",
   "source": {
     "resource": "plants_detail.json",
-    "sha256": "0373888ca817f09f861729a33f79a07b95f8af38595e8a4098394b094946eb9e",
-    "record_count": 1734
+    "sha256": "3c66ab8a37bb482cb86de9435fec5c75bc6484c76ba653860a673193d98cfa42",
+    "record_count": 1740
   },
   "records": {
     "AAA0001": {
@@ -106142,6 +106142,333 @@
             "exposure": "Kein Aufnahmeweg ist gemeldet.",
             "effect": "Keine toxische Wirkung ist gemeldet.",
             "note": "Für Katzen ist in diesem Katalog keine Toxizität gemeldet; das ist kein Beleg dafür, dass die Pflanze essbar oder ungefährlich ist."
+          }
+        }
+      }
+    },
+    "AAA1736": {
+      "source_hash": "3f41e3a85ccdc91953bd7cd4905d1a44dc057b53cb22501fdab06bb194add72d",
+      "fields": {
+        "common_name": "Prärieklee",
+        "bloom_tip": "Prärieklee produziert im Frühsommer Büschel kleiner, farbenfroher Blüten.",
+        "fruit_tip": "Die kleinen, braunen Samenkapseln sind unauffällig, bieten aber Lebensraum für Wildtiere.",
+        "description": "Dalea, der Prärieklee, ist eine Gattung blühender Hülsenfrüchtler, die in den Grasländern, Prärien und trockenen Ebenen Nordamerikas heimisch ist – von den kanadischen Prärien bis hinunter nach Mexiko. Diese schlanken, aufrechten Stauden tragen vom Frühsommer bis zum Herbst dichte, zylindrische oder kegelförmige Blütenähren mit winzigen, aber leuchtend rosa, violetten oder weißen Blüten und erzeugen so einen luftigen, natürlichen Effekt im Garten. Als stickstofffixierende Hülsenfrüchtler gedeihen sie in mageren, gut durchlässigen Böden, in denen die meisten Pflanzen Probleme haben, was sie in naturnahen Pflanzungen, Wiesen und bei der Renaturierung von Straßenrändern unverzichtbar macht. Ihre reichliche Nektar- und Pollenproduktion macht sie während der gesamten Blütezeit zu Magneten für Hummeln, Wildbienen und Schmetterlinge.",
+        "history_text_short": "Prärieklee wurde zu einem zentralen Element der nordamerikanischen Prärie-Renaturierungsbewegung, die in den 1970er Jahren an Fahrt gewann – als Ökologen entdeckten, dass einheimische Hülsenfrüchtler wie Dalea für den Wiederaufbau von Graslandböden, die durch jahrzehntelange Landwirtschaft erschöpft waren, unerlässlich sind.",
+        "history_text_long": "Die Gattung Dalea wurde 1760 von Philip Miller zu Ehren von Samuel Dale (1659–1739) benannt, einem englischen Apotheker und Botaniker aus Braintree, Essex. Dale war ein enger Freund von John Ray, dem Begründer der systematischen Botanik in England, und trug maßgeblich zu Rays bahnbrechendem Werk Historia Plantarum bei. Es war eine treffende Würdigung – Prärieklee hat seine Existenz damit verbracht, still und unbemerkt die Böden unter Amerikas Grasländern zu verändern.\n\nDalea-Arten waren den indigenen Völkern der Great Plains lange vor der europäischen Dokumentation bekannt. Die Omaha und Ponca nutzten die Wurzeln von Dalea purpurea als Nahrung, kauten sie und bereiteten Tee daraus. Die Blackfoot verwendeten Dalea-Blätter medizinisch. Dies waren nicht nur Wildblumen, sondern arbeitende Mitglieder des Prärie-Ökosystems: Ihre Wurzelknöllchen beherbergten stickstofffixierende Bakterien, die die dünnen Böden der Ebenen stetig anreicherten.\n\nAls Siedler ab den 1830er Jahren die Prärie mit Stahlpflügen aufbrachen, wurden die riesigen Wurzelnetzwerke einheimischer Hülsenfrüchtler, einschließlich Dalea, zerstört. Jahrzehnte des Monokultur-Ackerbaus entzogen den Prärieböden Stickstoff. In den 1930er Jahren machte der Dust Bowl sichtbar, was Ökologen später bestätigen sollten: Die Entfernung einheimischer Hülsenfrüchtler und mehrjähriger Gräser hatte die grundlegende Chemie des Bodens zerstört.\n\nDie in den 1970er Jahren an Dynamik gewinnende Prärie-Renaturierungsbewegung stellte Dalea in den Mittelpunkt. Ökologen, die am Curtis Prairie in Wisconsin – der ältesten wiederhergestellten Prärie der Welt – arbeiteten, fanden heraus, dass die Aussaat von Dalea zusammen mit einheimischen Gräsern für den Wiederaufbau einer funktionierenden Bodengemeinschaft unerlässlich war. Heute sind Dalea purpurea und D. candida Standardbestandteile jeder einheimischen Saatgutmischung für Grasland-Renaturierungen im gesamten Mittleren Westen.",
+        "name_origin": "Die Gattung Dalea wurde 1760 vom englischen Botaniker Philip Miller zu Ehren von Samuel Dale (1659–1739) benannt, einem Apotheker, Botaniker und engen Freund von John Ray, der maßgeblich zur frühen englischen systematischen Botanik beitrug. Der gebräuchliche Name 'Prärieklee' spiegelt sowohl die kleeartigen, dreiblättrigen Blätter als auch den natürlichen Lebensraum in nordamerikanischen Grasländern wider.",
+        "symbolism_story": "Prärieklee verlangt nichts vom Boden – er gibt. Stickstofffixierende Wurzeln ernähren still und unangekündigt die Gräser und Wildblumen um sie herum. In einer von Extremen geprägten Landschaft ist er derjenige, der Überfluss möglich macht.",
+        "flower_meaning": "Prärie-Resilienz",
+        "fragrance": {
+          "notes": "Duftlose Blüten; Bestäubung durch Wildbienen und Schmetterlinge, die von Nektar und Farbe angezogen werden."
+        },
+        "uses_list": [
+          {
+            "text": "Dichte Blütenähren bieten während der gesamten Sommerblütezeit reichlich Nektar und Pollen für Hummeln, Wildbienen und Schmetterlinge; eine der wichtigsten einheimischen Bienenpflanzen der Prärie"
+          },
+          {
+            "text": "Luftige, natürliche Blütenähren in Rosa, Violett oder Weiß eignen sich für naturnahe Gärten, Wiesenpflanzungen und Prärie-Renaturierungen; extrem trockenheitstolerant, sobald sie in magerem, gut durchlässigem Boden etabliert sind"
+          },
+          {
+            "text": "Stickstofffixierende Wurzelknöllchen reichern arme Böden an und unterstützen die umgebende Pflanzengemeinschaft; Samen werden von Prärievögeln gefressen; essentielle Art in Grasland-Renaturierungsprojekten"
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Prärie-Resilienz",
+            "description": "Prärieklee gedeiht auf mageren Böden, die andere Pflanzen überfordern, und verkörpert die stille Zähigkeit der Great Plains – er überlebt Dürre, Wind und Jahrhunderte des Wandels."
+          },
+          {
+            "keyword": "Bodenerneuerung",
+            "description": "Wurzelknöllchen, die Stickstoff fixieren, symbolisieren die unsichtbare Arbeit, die Leben erhält – sie bereichern das, was sie umgibt, ohne Anerkennung."
+          }
+        ],
+        "toxicity": {
+          "headline": "Keine Toxizität berichtet",
+          "active_compound_display": "Keine bekannt",
+          "notes_en": "Keine autoritative Übereinstimmung zur Toxizität gefunden; als nicht berichtet behandelt (LLM-Schätzung ist nicht quellenverifiziert).",
+          "human": {
+            "exposure": "Es wird kein Expositionsweg berichtet.",
+            "effect": "Es wird keine toxische Wirkung berichtet.",
+            "note": "In diesem Katalog wird keine Toxizität für Menschen berichtet; dies ist kein Nachweis dafür, dass die Pflanze essbar oder ungefährlich ist."
+          },
+          "dog": {
+            "exposure": "Es wird kein Expositionsweg berichtet.",
+            "effect": "Es wird keine toxische Wirkung berichtet.",
+            "note": "In diesem Katalog wird keine Toxizität für Hunde berichtet; dies ist kein Nachweis dafür, dass die Pflanze essbar oder ungefährlich ist."
+          },
+          "cat": {
+            "exposure": "Es wird kein Expositionsweg berichtet.",
+            "effect": "Es wird keine toxische Wirkung berichtet.",
+            "note": "In diesem Katalog wird keine Toxizität für Katzen berichtet; dies ist kein Nachweis dafür, dass die Pflanze essbar oder ungefährlich ist."
+          }
+        }
+      }
+    },
+    "AAA1737": {
+      "source_hash": "c99b4aa46e20a9ce49c374f565192b2b89e671f8e5bc9cea7c7db12afca2c0cb",
+      "fields": {
+        "common_name": "Lomandra",
+        "description": "Lomandra ist eine immergrüne, horstbildende, grasähnliche Staude, geschätzt für ihr zähes, riemenartiges Laub, das sich anmutig aus einer dichten Blattrosette wölbt. Sie stammt aus Australien und verträgt sowohl Trockenheit als auch zeitweilige Überflutung, was sie zu einem Arbeitstier für Erosionsschutz, Straßenbegleitgrün und Regengärten macht. Kleine cremefarbene Blütenähren verstecken sich im Frühjahr tief im Laub und weichen später Samenkapseln, die bei Vögeln beliebt sind. Ihre feine, fontänenartige Form und bemerkenswerte Widerstandsfähigkeit auf armen, verdichteten oder sandigen Böden machen sie zu einem pflegeleichten Anker für Beete, Massenpflanzungen und moderne, wassersparende Gärten.",
+        "history_text_short": "Aborigine-Australier flochten einst die zähen, riemenartigen Blätter von Lomandra zu Körben, Matten und Schnüren, während frühe Siedler die Pflanze lange als grobes Straßenunkraut abtaten. Erst in den letzten Jahrzehnten haben Landschaftsarchitekten ihre Trockenheitstoleranz erkannt und sie zu einem Grundpfeiler wassersparender Gärten weltweit gemacht.",
+        "history_text_long": "Lange bevor Lomandra in adretten Vorstadtbeeten auftauchte, waren ihre zähen, faserigen Blätter ein unverzichtbares Material für Aborigine-Gemeinschaften in den Wäldern und Küstenheiden des Kontinents. Frauen streiften und spalteten die langen riemenartigen Blätter und flochten sie zu Dilly-Taschen, Matten, Körben und Fischfallen, wobei sie die Blätter für ihre Flexibilität im frischen Zustand und ihre Festigkeit nach dem Trocknen schätzten. Dieselben Fasern wurden zu Schnüren gedreht, um Werkzeuge zu binden und Unterkünfte zu bauen, was Lomandra zu einer der praktisch wertvollsten Pflanzen der Buschvorratskammer machte, obwohl sie kaum Nahrung bot. Frühe europäische Siedler, die auf weite Horste der grasähnlichen Pflanze entlang von Flussufern und Straßenrändern stießen, nahmen ihren Nutzen kaum wahr und betrachteten sie eher als grobes, unauffälliges einheimisches Unkraut. Diese Sichtweise änderte sich erst im späten 20. Jahrhundert, als Landschaftsarchitekten in Australien und später in Kalifornien und im Mittelmeerraum nach robusten, wassersparenden Pflanzen suchten, um durstige Rasenflächen und pflegeintensive Beete zu ersetzen. Lomandra erfüllte diese Anforderungen: Sie vertrug Trockenheit, Überflutung, schlechten Boden und Vernachlässigung gleichermaßen, brauchte kein Ausputzen verwelkter Blüten und hielt Hänge mit einem dichten, faserigen Wurzelsystem zusammen. Innerhalb weniger Jahrzehnte wurde sie vom übersehenen Straßenrandgras zu einem festen Bestandteil moderner wassersparender Gestaltung, zu Tausenden entlang von Autobahnmittelstreifen, in Regengärten und in den minimalistischen Landschaften zeitgenössischer Architektur gepflanzt.",
+        "name_origin": "Der Gattungsname Lomandra verbindet das griechische loma (Saum oder Franse) mit andros (Mann, bezogen auf die Staubblätter), ein Hinweis auf das gefranste Aussehen der männlichen Blütenteile; der gebräuchliche Name Mat Rush würdigt ihre binsenartigen, riemenförmigen Blätter, die Aborigine-Australier seit langem zum Flechten von Matten und Körben verwenden.",
+        "symbolism_story": "Im traditionellen Leben der Aborigine-Gemeinschaften wurde kaum etwas von Lomandra ungenutzt gelassen – ihre Blätter wurden zu Körben, Schnüren und Befestigungsbändern für Unterkünfte – was sie zu einem stillen Symbol für Einfallsreichtum macht: bleibender Wert, gefunden in einer unscheinbaren, übersehenen Pflanze.",
+        "flower_meaning": "Einfallsreichtum",
+        "uses_list": [
+          {
+            "text": "Seit langem von Aborigine-Australiern genutzt, werden ihre zähen, riemenartigen Blätter zu Körben, Matten und Schnüren geflochten."
+          },
+          {
+            "text": "Eine beliebte, pflegeleichte Wahl für Beete, Massenpflanzungen und modernes wassersparendes Gartendesign."
+          },
+          {
+            "text": "Ihre Samenkapseln und dichten Horste bieten Vögeln und Kleintieren Nahrung und Unterschlupf."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Einfallsreichtum",
+            "description": "Ihr langer Dienst als Flechtfaser-Quelle für Aborigine-Gemeinschaften hat sie zu einem Sinnbild stillen Einfallsreichtums gemacht."
+          }
+        ],
+        "toxicity": {
+          "headline": "Keine Toxizität gemeldet",
+          "active_compound_display": "Keine Angaben",
+          "notes_en": "Keine autoritative Toxizitätsquelle gefunden; gilt als nicht gemeldet (LLM-Einschätzung nicht quellengeprüft).",
+          "human": {
+            "exposure": "Es ist kein Expositionsweg gemeldet.",
+            "effect": "Es ist keine toxische Wirkung gemeldet.",
+            "note": "Für Menschen ist in diesem Katalog keine Toxizität gemeldet; dies ist kein Beleg dafür, dass die Pflanze essbar oder harmlos ist."
+          },
+          "dog": {
+            "exposure": "Es ist kein Expositionsweg gemeldet.",
+            "effect": "Es ist keine toxische Wirkung gemeldet.",
+            "note": "Für Hunde ist in diesem Katalog keine Toxizität gemeldet; dies ist kein Beleg dafür, dass die Pflanze essbar oder harmlos ist."
+          },
+          "cat": {
+            "exposure": "Es ist kein Expositionsweg gemeldet.",
+            "effect": "Es ist keine toxische Wirkung gemeldet.",
+            "note": "Für Katzen ist in diesem Katalog keine Toxizität gemeldet; dies ist kein Beleg dafür, dass die Pflanze essbar oder harmlos ist."
+          }
+        }
+      }
+    },
+    "AAA1738": {
+      "source_hash": "7ad0206def8d0cab93851ae070a90087f653cf0108d50e53baf736e096449744",
+      "fields": {
+        "common_name": "Steinklee",
+        "bloom_tip": "Produziert im Sommer duftende Büschel gelber oder weißer Blüten.",
+        "description": "Melilotus, Steinklee, ist eine Gattung ein- und zweijähriger Leguminosen, die in Eurasien heimisch ist und sich durch aufrechte Trauben kleiner, duftender gelber oder weißer Blüten und einen charakteristischen süßen Cumarin-Duft auszeichnet, der beim Zerdrücken oder Trocknen der Blätter freigesetzt wird. Sie werden 30–120 cm hoch, etablieren sich schnell in trockenen, gestörten oder nährstoffarmen Böden, blühen von Juni bis August und locken Honigbienen in außergewöhnlicher Zahl an. Als wichtige Stickstofffixierer und eine der bedeutendsten kommerziellen Honigpflanzen der gemäßigten Zone werden Steinkleearten seit Jahrhunderten in der Landwirtschaft angebaut und von Imkern geschätzt.",
+        "history_text_short": "Seit der Antike als Honigpflanze geschätzt – ihr Name bedeutet auf Griechisch ‚Honig-Lotus‘ – reicherte Steinklee Jahrtausende lang in Eurasien Böden an und versorgte Bienenvölker. In den 1940er Jahren führte seine Chemie direkt zur Entdeckung des Antikoagulans Warfarin, einem der am häufigsten verschriebenen Medikamente der Medizin.",
+        "history_text_long": "Steinklee wird seit der Antike mit der Honigproduktion in Verbindung gebracht. Der Gattungsname Melilotus, von griechisch meli (Honig) und lotos (Klee), weist auf ihren Status als außergewöhnliche Nektarpflanzen hin – zu den produktivsten kommerziellen Honigquellen der gemäßigten Zonen. Die mittelalterliche europäische Imkerei war stark auf Melilotus-Bestände angewiesen, und der helle, mild süße Honig, den sie produzieren, wird bis heute kommerziell geschätzt.\n\nIn Nordamerika wurde Steinklee im 19. Jahrhundert gezielt als Futter- und Gründüngungspflanze eingeführt und verbreitete sich so aggressiv, dass er sich auf dem gesamten Kontinent naturalisierte – er dominierte Straßenränder, Bahndämme und gestörte Böden von Küste zu Küste. Dieser ökologische Erfolg hatte zwei Seiten: enorm vorteilhaft für Honigbienen und die Bodenfruchtbarkeit, aber auch ein Konkurrenzdruck auf einheimische Grünlandarten.\n\nDas folgenreichste Kapitel in der Geschichte des Steinklees betrifft seine Chemie. Steinklee enthält Cumarin, die Verbindung, die für seinen charakteristischen süßen ‚Heugeruch‘ verantwortlich ist. Wenn Steinkleeheu schimmelte, wurde Cumarin in das starke Antikoagulans Dicumarol umgewandelt, das in den 1920er–30er Jahren bei Rindern im gesamten amerikanischen Mittleren Westen Blutungen und Todesfälle verursachte. Der kanadische Tierarzt Frank Schofield identifizierte die Ursache 1922. Der Biochemiker Karl Paul Link von der University of Wisconsin isolierte später Dicumarol und synthetisierte ein wirksameres Derivat namens Warfarin – benannt nach der Wisconsin Alumni Research Foundation –, das zu einem der am häufigsten verschriebenen Antikoagulanzien in der Humanmedizin wurde. Ein gewöhnliches Unkraut am Straßenrand wurde zu einem pharmakologischen Meilenstein.",
+        "name_origin": "Der Gattungsname Melilotus leitet sich vom altgriechischen meli (Honig) und lotos (Klee oder lotusähnliche Pflanze) ab und spiegelt den uralten Status des Steinklees als erstklassige Honigpflanze wider. Der deutsche Name ‚Steinklee‘ bezieht sich auf den charakteristischen süßen Cumarin-Duft, der von getrockneten Blättern und Heu freigesetzt wird – ein Duft, der berühmt mit frisch gemähtem Wiesengras assoziiert wird.",
+        "symbolism_story": "Die alten Griechen nannten ihn nach Honig, weil er genau das hervorbrachte. Steinklee verwandelte arme Böden in Fruchtbarkeit, kahle Straßenränder in Bienenweiden und getrocknetes Heu in Parfüm. Dann wurde seine Chemie zu Warfarin – einem der am häufigsten verschriebenen Medikamente der Medizin. Wenige Unkräuter haben mehr für die Welt getan.",
+        "flower_meaning": "Überfluss",
+        "fragrance": {
+          "notes": "Süßer Cumarin-Duft – der klassische ‚Heugeruch‘ – besonders beim Trocknen; Blüten haben eine leichtere, honigsüße Note."
+        },
+        "uses_list": [
+          {
+            "text": "Eine der produktivsten Honigpflanzen im gemäßigten Ackerbau; Honigbienen befliegen Steinklee-Bestände intensiv und produzieren hellen, charakteristisch milden Honig"
+          },
+          {
+            "text": "Getrocknete Blätter verströmen einen süßen Cumarin-‚Heugeruch‘, der in der Parfümerie, bei Kräuterhandarbeiten und in traditionellen Tabakmischungen geschätzt wird"
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Überfluss",
+            "description": "Der alte Name sagt es: Honig-Lotus. Steinklee versorgt Bienenvölker, reichert Böden an und parfümiert Heufelder – eine Pflanze, die jedem Geschöpf gibt, das kommt."
+          },
+          {
+            "keyword": "Verwandlung",
+            "description": "Ein Unkraut am Straßenrand, dessen Chemie zu Warfarin wurde. Der Abstand zwischen Wildblume und Apotheke ist kürzer, als es scheint."
+          }
+        ],
+        "toxicity": {
+          "headline": "Keine Toxizität bekannt",
+          "active_compound_display": "Keine bekannt",
+          "notes_en": "Keine autoritative Toxizitätsübereinstimmung gefunden; als nicht berichtet behandelt (LLM-Schätzung ist nicht quellenverifiziert).",
+          "human": {
+            "exposure": "Es wird kein Expositionsweg berichtet.",
+            "effect": "Es wird keine toxische Wirkung berichtet.",
+            "note": "In diesem Katalog wird für Menschen keine Toxizität berichtet; dies ist kein Beleg dafür, dass die Pflanze essbar oder unbedenklich ist."
+          },
+          "dog": {
+            "exposure": "Es wird kein Expositionsweg berichtet.",
+            "effect": "Es wird keine toxische Wirkung berichtet.",
+            "note": "In diesem Katalog wird für Hunde keine Toxizität berichtet; dies ist kein Beleg dafür, dass die Pflanze essbar oder unbedenklich ist."
+          },
+          "cat": {
+            "exposure": "Es wird kein Expositionsweg berichtet.",
+            "effect": "Es wird keine toxische Wirkung berichtet.",
+            "note": "In diesem Katalog wird für Katzen keine Toxizität berichtet; dies ist kein Beleg dafür, dass die Pflanze essbar oder unbedenklich ist."
+          }
+        }
+      }
+    },
+    "AAA1739": {
+      "source_hash": "1e1b185a65010675fd10f9aff157570d808916a60ee7b9c7799c75d51cba0e3c",
+      "fields": {
+        "common_name": "Bärentrauben",
+        "bloom_tip": "Die Blüten erscheinen in Büscheln und verleihen dem Spätwinter bis Frühling besonderen Charme.",
+        "fruit_tip": "Die roten Beeren sind nicht nur dekorativ, sondern dienen auch Wildtieren als Nahrung.",
+        "description": "Arctostaphylos, gemeinhin als Manzanita oder Bärentraube bekannt, ist eine Gattung von etwa 60 Arten immergrüner Sträucher, die im westlichen Nordamerika heimisch sind und für ihre glatte, tiefrotbraune Rinde, kleine glockenförmige Blüten im Spätwinter und Büschel kleiner roter Beeren geschätzt werden, die über den Sommer reifen. Der Gattungsname stammt vom griechischen arktos ('Bär') und staphyle ('Traubenbüschel'), eine Anspielung auf die Beliebtheit der Früchte bei Bären, während spanische Kolonisatoren in Kalifornien den Strauch Manzanita, 'kleiner Apfel', nannten, nach seiner winzigen, apfelähnlichen Frucht. Einmal etabliert verträgt Arctostaphylos kargen, sandigen Boden und Trockenheit und ist ein fester Bestandteil wassersparender einheimischer Gärten im gesamten amerikanischen Westen.",
+        "history_text_short": "Im gesamten westlichen und nördlichen Nordamerika trockneten indigene Völker die Blätter von Arctostaphylos uva-ursi, der Bärentraube, und mischten sie zu Kinnikinnick, einer traditionellen Rauchmischung, die heute noch in manchen zeremoniellen Zusammenhängen verwendet wird, während dieselben adstringierenden Blätter als Mittel gegen Harnwegsbeschwerden aufgebrüht wurden.",
+        "history_text_long": "Lange bevor spanische Kolonisatoren der Manzanita ihren Namen gaben, war Arctostaphylos bereits tief in das Alltags- und Zeremonialleben indigener Völker Nordamerikas eingewoben. Die Bärentraube, Arctostaphylos uva-ursi, wächst niedrig und ausladend über die kühleren Regionen des Kontinents, und ihre getrockneten, fein zerkleinerten Blätter waren eine Schlüsselzutat in Kinnikinnick, einer traditionellen Rauchmischung, die von vielen indigenen Nationen zubereitet wurde, oft kombiniert mit Tabak, Hartriegelrinde oder anderen einheimischen Pflanzen, je nach Region. Kinnikinnick wurde sowohl im Alltag als auch bei Zeremonien geraucht, unter anderem bei Pfeifenzeremonien, und die Praxis seiner Zubereitung wird in manchen Gemeinschaften bis heute fortgeführt. Dieselben Blätter, reich an einer Verbindung namens Arbutin, wurden zu Tees aufgebrüht und als traditionelles Mittel gegen Harnwegs- und Blasenbeschwerden verwendet, eine Anwendung, die später von Kräuterkundlern bestätigt wurde und in manchen Naturheiltraditionen noch heute Erwähnung findet.\n\nWeiter im Süden und Westen trafen spanische Kolonisatoren in Kalifornien auf die größeren, strauchigeren Arten der Gattung und gaben ihnen einen ganz anderen Namen: Manzanita, spanisch für 'kleiner Apfel', nach den kleinen, runden, apfelförmigen Beeren, die die Pflanzen im Sommer bedecken. Diese Beeren waren selbst eine Nahrungsquelle, frisch gegessen, getrocknet oder in Wasser eingeweicht von indigenen kalifornischen Gemeinschaften, um ein säuerliches, cidreähnliches Getränk herzustellen, lange vor der spanischen Besiedlung.\n\nDie glatte, tiefrotbraune Rinde der Manzanita, die sich in dünnen Locken ablöst und darunter frisches grünes oder orangefarbenes Holz freilegt, machte die Pflanze später zu einem Liebling von Bonsai-Künstlern und Aquarianern, die Manzanita-Äste als natürliche Treibholz-Blickfänge schätzen – eine moderne dekorative Verwendung, die auf einer Gattung mit einer weit älteren Nutzungsgeschichte aufbaut.",
+        "name_origin": "Der Gattungsname Arctostaphylos stammt vom griechischen arktos ('Bär') und staphyle ('Traubenbüschel') und bezieht sich auf die Beeren der Pflanze, die von Bären gerne gefressen werden; der deutsche Name Bärentraube spiegelt diesen Ursprung direkt wider, während der Name Manzanita auf spanische Kolonisatoren in Kalifornien zurückgeht, die den Strauch wegen seiner kleinen, runden Frucht 'kleiner Apfel' nannten.",
+        "symbolism_story": "Arctostaphylos trägt die Symbolik der Widerstandskraft, abgeleitet von ihrer Fähigkeit, auf kargem, trockenem Boden zu gedeihen und nach Waldbränden in ihrem feuerangepassten Chaparral-Lebensraum wieder auszutreiben, zusammen mit einer stilleren Symbolik der Tradition, verwurzelt in ihrer langen Nutzung durch indigene Völker, deren getrocknete Bärentraubenblätter die Grundlage für Kinnikinnick bildeten, eine Rauchmischung, die bis heute zubereitet wird.",
+        "flower_meaning": "Widerstandskraft",
+        "uses_list": [
+          {
+            "text": "Die Beeren sind über den Sommer eine wertvolle Nahrungsquelle für Bären, Vögel und andere Wildtiere."
+          },
+          {
+            "text": "Bärentraubenblätter, reich an Arbutin, werden seit langem in traditionellen Mitteln gegen Harnwegsbeschwerden verwendet."
+          },
+          {
+            "text": "Die glatte, rotbraune Rinde macht Manzanita-Äste bei Bonsai- und Aquarium-Treibholz beliebt."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Widerstandskraft",
+            "description": "ein trockenheitsresistenter einheimischer Strauch, der auf kargem Boden gedeiht und in seinem feuerangepassten Chaparral-Lebensraum nach Waldbränden oft wieder austreibt"
+          },
+          {
+            "keyword": "Tradition",
+            "description": "ihre lange Nutzung in Kinnikinnick, der traditionellen indigenen Rauchmischung aus ihren getrockneten Blättern"
+          }
+        ],
+        "toxicity": {
+          "headline": "Keine Toxizität gemeldet",
+          "active_compound_display": "Keine bekannt",
+          "notes_en": "Keine autoritative Quelle für Toxizität gefunden; daher als nicht gemeldet behandelt (die KI-Schätzung ist nicht quellengeprüft).",
+          "human": {
+            "exposure": "Kein Aufnahmeweg ist gemeldet.",
+            "effect": "Keine toxische Wirkung ist gemeldet.",
+            "note": "Für Menschen ist in diesem Katalog keine Toxizität gemeldet; das ist kein Beleg dafür, dass die Pflanze essbar oder ungefährlich ist."
+          },
+          "dog": {
+            "exposure": "Kein Aufnahmeweg ist gemeldet.",
+            "effect": "Keine toxische Wirkung ist gemeldet.",
+            "note": "Für Hunde ist in diesem Katalog keine Toxizität gemeldet; das ist kein Beleg dafür, dass die Pflanze essbar oder ungefährlich ist."
+          },
+          "cat": {
+            "exposure": "Kein Aufnahmeweg ist gemeldet.",
+            "effect": "Keine toxische Wirkung ist gemeldet.",
+            "note": "Für Katzen ist in diesem Katalog keine Toxizität gemeldet; das ist kein Beleg dafür, dass die Pflanze essbar oder ungefährlich ist."
+          }
+        }
+      }
+    },
+    "AAA1740": {
+      "source_hash": "d0f17ca18b3faedbf5f51b5ff8c9b4ae59b44e8fb40d73c2ed21b6f51fdbe77c",
+      "fields": {
+        "common_name": "Lespedeza",
+        "bloom_tip": "Produziert kleine violette oder weiße Blüten im Hoch- bis Spätsommer.",
+        "description": "Lespedeza, die Buschklee, ist eine Gattung von etwa 40 blühenden Hülsenfrüchtlern, die in Nordamerika, Asien und Australien heimisch sind – geschätzt in Gärten für ihre anmutigen, überhängenden Stängel und zahlreichen kleinen erbsenförmigen Blüten in Rosa, Violett oder Weiß vom Hochsommer bis zum Herbst. Die dekorativste Art, Lespedeza thunbergii (Japanischer Buschklee), bildet einen breiten Hügel aus feinem Laub mit kaskadenartigen Rispen aus rosavioletten Blüten im Spätsommer. Winterhart, trockenheitstolerant und stickstofffixierend gedeihen Buschklee-Arten in mageren, gut durchlässigen Böden, auf denen andere Pflanzen verkümmern, und sind ideal für Trockengärten, Hänge und naturnahe Pflanzungen. Sie sind außergewöhnliche Nektarpflanzen für Hummeln, Wildbienen und Schmetterlinge.",
+        "history_text_short": "Im Japan des 8. Jahrhunderts wurde Hagi (Lespedeza) in mehr Gedichten gefeiert als jede andere Blume im Man'yoshu – Japans ältester Gedichtanthologie. Seit über tausend Jahren ist sie ein Symbol für Herbst, Vergänglichkeit und Sehnsucht in der japanischen Kultur.",
+        "history_text_long": "Die Japaner nennen Lespedeza 'Hagi', und seit über tausend Jahren ist sie eine der beliebtesten Pflanzen der japanischen Literatur. Im Man'yoshu – Japans ältester Gedichtanthologie, zusammengestellt um 759 n. Chr. – kommt Hagi in 141 Gedichten vor, mehr als jede andere Blume. Der Dichter Yamanoue no Okura erklärte sie zur ersten der Sieben Herbstblumen (秋の七草), einer Liste von Pflanzen, die das Wesen der japanischen Herbstlandschaft einfangen. In diesen Gedichten waren Hagis überhängende, herabhängende Zweige, beladen mit winzigen rosavioletten Blüten, ein wiederkehrendes Bild flüchtiger Schönheit: Die Art, wie die Stängel unter der Last des Morgentaues bogen, spiegelte die Last der Sehnsucht und Vergänglichkeit wider, die einen Großteil der Nara-zeitlichen Dichtung durchdrang.\n\nDie Gattung erreichte die westliche Wissenschaft auf einem Umweg. Der französische Botaniker André Michaux entdeckte nordamerikanische Buschklee-Arten während seiner Erkundungen des östlichen Nordamerikas zwischen 1785 und 1796. Als er 1803 seine Flora Boreali-Americana veröffentlichte, benannte er die Gattung 'Lespedeza' zu Ehren von Vincente Manuel de Céspedes, dem spanischen Gouverneur von Ostflorida, der Michaux' botanische Expeditionen unterstützt hatte. Aber Michaux las den Namen des Gouverneurs falsch oder buchstabierte ihn falsch, wodurch er unbeabsichtigt einen Tippfehler im Gattungsnamen verewigte, den Botaniker bis heute beibehalten haben.\n\nLespedeza thunbergii, benannt nach dem schwedischen Botaniker Carl Peter Thunberg, der in den 1770er Jahren die japanische Flora dokumentierte, wurde im spätviktorianischen und frühen edwardianischen Garten in England zu einem der beliebtesten Ziersträucher, geschätzt für seine Blüte, wenn sonst wenig blühte.",
+        "name_origin": "Benannt vom französischen Botaniker André Michaux im Jahr 1803 zu Ehren von Vincente Manuel de Céspedes, dem spanischen Gouverneur von Ostflorida, der Michaux' botanische Expeditionen in Nordamerika unterstützte – obwohl Michaux den Nachnamen des Gouverneurs versehentlich als 'Lespedez' falsch schrieb und so einen Fehler im Gattungsnamen bis heute bewahrte. Der gebräuchliche Name 'Buschklee' bezieht sich auf die kleeartigen dreiteiligen Blätter und den strauchigen Wuchs.",
+        "symbolism_story": "Die Japaner nannten sie Hagi und füllten ihre älteste Dichtung mit ihr – die überhängenden Stängel, vom Tau gebeugt, ein Bild der Schönheit, die nicht von Dauer sein kann. Tausend Jahre später ist die Pflanze dieselbe: überhängend, spät, unscheinbar und irgendwie diejenige, die noch blüht, wenn alles andere vorbei ist.",
+        "flower_meaning": "Herbstsehnsucht",
+        "fragrance": {
+          "notes": "Duftlose Blüten; Bestäubung durch Wildbienen und Schmetterlinge."
+        },
+        "uses_list": [
+          {
+            "text": "Reichlich kleine Blüten bieten reichlich Nektar für Hummeln, Wildbienen und Schmetterlinge im Spätsommer, wenn viele andere Nektarquellen verblüht sind"
+          },
+          {
+            "text": "Überhängende Stängel mit kaskadenartigen rosa-violetten oder weißen Blütenrispen sorgen für dramatische Farbe im Spätsommer in Beeten; ausgezeichnet für trockene Hänge, naturnahe Pflanzungen und Erosionsschutz auf armen Böden"
+          },
+          {
+            "text": "Samen werden von Wachteln, Wildtruthühnern und Singvögeln gefressen; stickstofffixierende Wurzelknöllchen reichern arme Böden an; Wirtspflanze für mehrere Schmetterlingsarten, darunter den Östlichen Blauschwanz"
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Herbstsehnsucht",
+            "description": "Hagis überhängende Zweige, die sich unter Morgentau bogen, waren das Inbild der Vergänglichkeit in der japanischen Dichtung der Nara-Zeit – Schönheit, die nicht von Dauer sein kann."
+          },
+          {
+            "keyword": "Widerstandsfähigkeit",
+            "description": "Ein Stickstofffixierer, der in mageren Böden gedeiht und lange nach dem Verblühen der Frühlingsblumen blüht – Lespedeza hält durch, wo andere sich zurückziehen."
+          }
+        ],
+        "toxicity": {
+          "headline": "Keine Toxizität berichtet",
+          "active_compound_display": "Keine bekannt",
+          "notes_en": "Keine autoritative Toxizitätsübereinstimmung gefunden; wird als nicht berichtet behandelt (LLM-Schätzung ist nicht quellenverifiziert).",
+          "human": {
+            "exposure": "Es wird kein Expositionsweg berichtet.",
+            "effect": "Es wird keine toxische Wirkung berichtet.",
+            "note": "In diesem Katalog wird keine Toxizität für Menschen berichtet; dies ist kein Beleg dafür, dass die Pflanze essbar oder unbedenklich ist."
+          },
+          "dog": {
+            "exposure": "Es wird kein Expositionsweg berichtet.",
+            "effect": "Es wird keine toxische Wirkung berichtet.",
+            "note": "In diesem Katalog wird keine Toxizität für Hunde berichtet; dies ist kein Beleg dafür, dass die Pflanze essbar oder unbedenklich ist."
+          },
+          "cat": {
+            "exposure": "Es wird kein Expositionsweg berichtet.",
+            "effect": "Es wird keine toxische Wirkung berichtet.",
+            "note": "In diesem Katalog wird keine Toxizität für Katzen berichtet; dies ist kein Beleg dafür, dass die Pflanze essbar oder unbedenklich ist."
+          }
+        }
+      }
+    },
+    "AAA1741": {
+      "source_hash": "42cac997d4c32175cb6c15d2abc6588076c08f0c7d0682fcd8828cd16d0690f9",
+      "fields": {
+        "common_name": "Großblättrige Mexikanische Abelie",
+        "bloom_tip": "Glossy abelia besticht durch attraktive duftende Blüten während der Sommermonate.",
+        "description": "Vesalea mexicana grandifolia, Großblättrige Mexikanische Abelie, ist ein kompakter immergrüner Strauch, der in den Bergwäldern Zentralmexikos heimisch ist und vom späten Frühling bis zum frühen Herbst reichlich Büschel röhrenförmiger weißer bis rosa Blüten trägt. Er wird 3–5 Fuß hoch und hat große glänzende tiefgrüne Blätter, die bei kühlem Wetter attraktive Bronzetöne annehmen. Die beständigen rötlich-rosa Kelchblätter bleiben nach dem Abfallen der Blütenblätter dekorativ und verlängern den Zierwert über alle Jahreszeiten. Eine zuverlässige Wahl für gemischte Rabatten, Fundamentbepflanzungen und Bestäubergärten in milden gemäßigten Klimazonen.",
+        "history_text_short": "Heimisch in den Bergen Zentralmexikos und lange mit den Abelien gruppiert, wurde diese großblättrige Form erstmals im 19. Jahrhundert formal unterschieden. Die Gattung Vesalea wurde vom Botaniker John Lindley zu Ehren des flämischen Anatomen Andreas Vesalius benannt.",
+        "history_text_long": "Die Gattung Vesalea wurde 1839 vom englischen Botaniker John Lindley aufgestellt und zu Ehren von Andreas Vesalius (1514–1564) benannt, dem flämischen Arzt, dessen revolutionäres anatomisches Werk De Humani Corporis Fabrica die westliche Medizin veränderte. Pflanzen dieser Gattung wurden lange Zeit der weiteren Gattung Abelia zugeordnet, und viele Baumschulen und Gärtner verwenden diesen Namen noch immer für gärtnerische Zwecke.\n\nVesalea mexicana, die Elternart, ist in den Bergen und an Canyonrändern Zentralmexikos heimisch, wo sie in Höhenlagen gedeiht, in denen ausgeprägte Regen- und Trockenzeiten im Jahresverlauf wechseln. Die Varietät grandifolia – lateinisch für 'großblättrig' – zeichnet sich durch deutlich größere Blätter als die typische Art aus, was der Pflanze eine üppigere, kräftigere Textur im Garten verleiht.\n\nDie weitere Abelien-Gruppe gelangte im 19. Jahrhundert in die westliche Gartenkultur, eingeführt von Pflanzensammlern, die in China, Japan und Mexiko arbeiteten. Die Hybride Abelia × grandiflora – eine Kreuzung zweier asiatischer Arten – wurde zur dominierenden Gartenform in Europa und Nordamerika und überschattete die mexikanische Art etwas. Doch Vesalea mexicana grandifolia bietet deutliche Vorteile: Ihre größeren Blätter schaffen eine stärkere texturale Präsenz, und ihre Herkunft aus dem mexikanischen Hochland verleiht ihr Widerstandsfähigkeit gegen Sommerhitze und Trockenheit, sobald sie etabliert ist.\n\nDie lange Blütezeit von Mai bis September, kombiniert mit beständigen rosa Kelchblättern, die die Schau nach dem Blütenfall verlängern, hat sie in der modernen bestäuberorientierten Gartengestaltung zunehmend geschätzt.",
+        "name_origin": "Die Gattung Vesalea wurde 1839 von John Lindley zu Ehren von Andreas Vesalius (1514–1564) benannt, dem flämischen Anatomen, der die Anatomie revolutionierte. Das Artepitheton mexicana bedeutet 'aus Mexiko' und weist auf ihr natürliches Verbreitungsgebiet im mexikanischen Hochland hin. Der Varietätsname grandifolia ist lateinisch für 'großblättrig' (grandis = groß, folium = Blatt).",
+        "symbolism_story": "Ein nach einem Anatomen benannter Strauch. Vesalius erneuerte die Medizin, indem er genau beobachtete, was vor ihm lag. Diese Pflanze belohnt dieselbe Aufmerksamkeit: die beständigen Kelchblätter, die nach dem Blütenfall bleiben, das bronzefarbene Laub bei kühlem Wetter, die Blüten, die von Mai bis September immer wieder kommen. Sie macht keine großen Gesten. Sie leistet einfach weiter.",
+        "flower_meaning": "Ausdauer",
+        "fragrance": {
+          "notes": "Leichter süßer Duft der Röhrenblüten, besonders an warmen Nachmittagen wahrnehmbar."
+        },
+        "uses_list": [
+          {
+            "text": "Röhrenblüten ziehen Kolibris, Bienen und Schmetterlinge während der langen Blütezeit von Mai bis September an."
+          },
+          {
+            "text": "Immergrün mit glänzendem Laub, bronzenen Wintertönen und beständigen rosa Kelchblättern; bietet ganzjähriges Garteninteresse in gemischten Rabatten und Fundamentbepflanzungen."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Ausdauer",
+            "description": "Immergrün, langblühend und zu jeder Jahreszeit dekorativ – ein Strauch, der seine Präsenz durch Winter, Sommer und alles dazwischen bewahrt."
+          },
+          {
+            "keyword": "Vermächtnis",
+            "description": "Benannt nach Vesalius, der die Anatomie neu schrieb, indem er genau hinsah, was tatsächlich da war. Ein kleiner Strauch, der ein großes wissenschaftliches Erbe trägt."
+          }
+        ],
+        "toxicity": {
+          "headline": "Keine Toxizität berichtet",
+          "active_compound_display": "Keine bekannt",
+          "notes_en": "Keine autoritative Toxizitätsübereinstimmung gefunden; als nicht berichtet behandelt (LLM-Schätzung ist nicht quellenverifiziert).",
+          "human": {
+            "exposure": "Es wird kein Expositionsweg berichtet.",
+            "effect": "Es wird keine toxische Wirkung berichtet.",
+            "note": "In diesem Katalog wird keine Toxizität für Menschen berichtet; dies ist kein Beleg dafür, dass die Pflanze essbar oder unbedenklich ist."
+          },
+          "dog": {
+            "exposure": "Es wird kein Expositionsweg berichtet.",
+            "effect": "Es wird keine toxische Wirkung berichtet.",
+            "note": "In diesem Katalog wird keine Toxizität für Hunde berichtet; dies ist kein Beleg dafür, dass die Pflanze essbar oder unbedenklich ist."
+          },
+          "cat": {
+            "exposure": "Es wird kein Expositionsweg berichtet.",
+            "effect": "Es wird keine toxische Wirkung berichtet.",
+            "note": "In diesem Katalog wird keine Toxizität für Katzen berichtet; dies ist kein Beleg dafür, dass die Pflanze essbar oder unbedenklich ist."
           }
         }
       }
