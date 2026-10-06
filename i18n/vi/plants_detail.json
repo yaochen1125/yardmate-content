@@ -3,8 +3,8 @@
   "locale": "vi",
   "source": {
     "resource": "plants_detail.json",
-    "sha256": "dcc2b0a836aa15dec5b0969be846388cf70b7edd5719f9fde381784506ed8765",
-    "record_count": 1694
+    "sha256": "45d64574c073175ce1c844dfe07dfa6cc1a1c7e3713a75d9792994f5bd9af77d",
+    "record_count": 1705
   },
   "records": {
     "AAA0001": {
@@ -103716,6 +103716,686 @@
             "exposure": "Không ghi nhận đường phơi nhiễm nào.",
             "effect": "Không ghi nhận tác động độc hại nào.",
             "note": "Không có độc tính nào được ghi nhận đối với mèo trong danh mục này; điều này không chứng minh cây ăn được hay vô hại."
+          }
+        }
+      }
+    },
+    "AAA1696": {
+      "source_hash": "bd3e1d0b89735d29a0fe75a989cd2e4171f727142e68bd8c724c93e8cdaad621",
+      "fields": {
+        "common_name": "Nấm đồng",
+        "fruit_tip": "Thể quả trồi lên khỏi mặt đất sau mưa, từ giữa mùa hè đến mùa thu, và được người hái nấm thu hoạch tươi để chế biến.",
+        "description": "Nấm đồng là một loài nấm hoang dã ăn được, mọc lên ở các đồng cỏ, bãi chăn thả và bãi cỏ được bón phân tốt sau mưa, đặc biệt vào cuối mùa hè và mùa thu. Mũ nấm nhẵn, màu trắng đến kem, ban đầu tròn rồi dẹt dần theo tuổi, nằm trên một cuống ngắn màu trắng có vòng mỏng, dễ rách. Bên dưới, các phiến nấm ban đầu có màu hồng nhạt rồi sẫm dần thành nâu sô-cô-la khi nấm trưởng thành, đây là dấu hiệu rõ nhất để phân biệt với các loài nấm độc Amanita có phiến trắng mà nó có thể dễ bị nhầm lẫn. Có vị nhẹ và béo như hạt, nó là loài hoang dã có quan hệ gần với nấm mỡ được trồng và vẫn là loại nấm được những người hái nấm ở châu Âu và Bắc Mỹ ưa chuộng.",
+        "history_text_short": "Rất lâu trước khi có nghề trồng nấm, người hái nấm ở châu Âu và Bắc Mỹ đã thu hoạch Nấm đồng từ những bãi chăn thả ẩm ướt sau mưa mỗi mùa thu. Các phiến nấm màu hồng đến nâu là dấu hiệu kinh điển giúp phân biệt nó với các loài Amanita chết người có phiến trắng mà nó có thể giống.",
+        "history_text_long": "Nấm đồng đã được thu hoạch từ các bãi chăn thả và đồng cỏ khắp châu Âu trong nhiều thế kỷ, rất lâu trước khi nghề trồng nấm xuất hiện. Sự xuất hiện dồi dào của nó sau những cơn mưa mùa thu đã khiến nó trở thành một trong những loại thực phẩm hoang dã quen thuộc nhất của vùng nông thôn châu Âu, xuất hiện cả trong các sách thảo dược cổ và trong bếp ăn của nông dân. Nó thuộc cùng chi với nấm mỡ, nấm crimini và nấm portobello được trồng, tất cả đều có nguồn gốc từ một loài gần gũi được trồng có chủ đích lần đầu tiên trong các luống dưa gần Paris vào cuối thế kỷ 17; đến thế kỷ 19, những người trồng nấm ở Paris đã chuyển việc canh tác vào các mỏ đá vôi bỏ hoang của thành phố, khai sinh ra ngành trồng nấm hiện đại. Bản thân Nấm đồng hoang dã chưa bao giờ được thuần hóa theo cách đó, và người hái nấm vẫn quý nó chính vì phải tìm thấy nó chứ không thể trồng được. Tuy nhiên, việc hái nó an toàn luôn đòi hỏi sự cẩn trọng: mũ trắng của nó có thể bị nhầm, chỉ sau một cái nhìn, với các loài Amanita chết người mọc chung những bãi cỏ đó. Nhiều thế hệ người hái nấm đã học cách kiểm tra phiến nấm trước khi nhìn mũ nấm, màu hồng nhạt ở một cây Nấm đồng non, sẫm dần thành nâu sô-cô-la theo tuổi, không bao giờ trắng tinh như một loài nấm tử thần, một thói quen được truyền lại như quy tắc an toàn cơ bản khi hai loài này mọc cạnh nhau.",
+        "name_origin": "Tên chi Agaricus bắt nguồn từ tiếng Hy Lạp agarikon, một từ cổ chỉ nấm, còn tên loài campestris trong tiếng Latin có nghĩa là \"của đồng ruộng\", mô tả những bãi chăn thả và đồng cỏ rộng mở nơi nó sinh trưởng.",
+        "symbolism_story": "Mọc lên hàng chục cây khắp một đồng cỏ ẩm chỉ trong một đêm, Nấm đồng từ lâu đã là biểu tượng cho sự sung túc bất ngờ của tự nhiên, và, vì sự giống nhau đáng kinh ngạc với những loài họ hàng chết người, nó cũng là một lời nhắc nhẹ nhàng hãy nhìn kỹ trước khi tin vào những gì được trao cho mình.",
+        "flower_meaning": "Sung túc",
+        "fragrance": {
+          "notes": "Không có hương thơm đáng kể ngoài mùi nấm nhẹ, hơi đất."
+        },
+        "uses_list": [
+          {
+            "text": "Một loại nấm hoang dã ăn được, vị nhẹ và béo như hạt, được hái tươi từ đồng cỏ và bãi chăn thả để chế biến món ăn."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Sung túc",
+            "description": "Xuất hiện dường như chỉ trong một đêm khắp cả một bãi chăn thả sau mưa, nó từ lâu đã tượng trưng cho sự sung túc bất ngờ của tự nhiên."
+          },
+          {
+            "keyword": "Cẩn trọng",
+            "description": "Sự giống nhau với các loài nấm Amanita chết người khiến nó trở thành lời nhắc nhở thầm lặng hãy nhìn kỹ trước khi tin vào vẻ ngoài."
+          }
+        ],
+        "toxicity": {
+          "headline": "Không ghi nhận độc tính",
+          "active_compound_display": "Chưa ghi nhận",
+          "notes_en": "Không tìm thấy kết quả độc tính được xác nhận từ nguồn uy tín; được coi là chưa được ghi nhận (ước tính của mô hình chưa được nguồn kiểm chứng).",
+          "human": {
+            "exposure": "Chưa ghi nhận đường phơi nhiễm nào.",
+            "effect": "Chưa ghi nhận tác động độc nào.",
+            "note": "Không có độc tính nào được ghi nhận đối với con người cho loài này trong danh mục này; điều này không phải là bằng chứng cho thấy nó ăn được hoặc vô hại."
+          },
+          "dog": {
+            "exposure": "Chưa ghi nhận đường phơi nhiễm nào.",
+            "effect": "Chưa ghi nhận tác động độc nào.",
+            "note": "Không có độc tính nào được ghi nhận đối với chó cho loài này trong danh mục này; điều này không phải là bằng chứng cho thấy nó ăn được hoặc vô hại."
+          },
+          "cat": {
+            "exposure": "Chưa ghi nhận đường phơi nhiễm nào.",
+            "effect": "Chưa ghi nhận tác động độc nào.",
+            "note": "Không có độc tính nào được ghi nhận đối với mèo cho loài này trong danh mục này; điều này không phải là bằng chứng cho thấy nó ăn được hoặc vô hại."
+          }
+        }
+      }
+    },
+    "AAA1697": {
+      "source_hash": "93ea2f03e83463b4d9f886afcbc49bc036b5e62005b4915632a581def56f7c1d",
+      "fields": {
+        "common_name": "Nấm mật",
+        "fruit_tip": "Thể quả của nấm mật có thể dùng để nấu ăn nhưng cần được chế biến đúng cách.",
+        "description": "Nấm mật mọc thành từng chùm với mũ nấm nhẵn màu mật ong và các phiến nấm nhạt màu, xuất hiện mỗi mùa thu ở gốc thân cây, gốc cây mục và rễ cây bị chôn trong các khu rừng ở Bắc bán cầu. Bên dưới những cây nấm có thể nhìn thấy là phần thân thật của sinh vật này: một mạng lưới khổng lồ gồm các sợi đen giống dây giày gọi là rhizomorph, lan rộng qua đất và gỗ, đôi khi liên kết hàng nghìn cây thành một quần thể duy nhất. Mạng lưới này dần dần xâm nhập vào rễ cây sống, gây ra bệnh thối rễ có tính hủy hoại có thể làm suy yếu hoặc giết chết những cây trưởng thành trong nhiều năm hoặc nhiều thập kỷ. Dù có danh tiếng là một loại nấm gây bệnh cho rừng, mũ nấm mật non vẫn được thu hoạch và ăn ở nhiều vùng sau khi được nấu chín kỹ, tuy nấm sống hoặc nấu chưa chín có thể gây khó chịu cho dạ dày.",
+        "history_text_short": "Nấm mật xây dựng một mạng lưới ngầm dưới đất rộng lớn đến mức một quần thể trong một khu rừng ở Oregon, được gọi đùa là 'nấm khổng lồ,' được cho là đã hơn hai nghìn năm tuổi và là một trong những sinh vật sống lớn nhất từng được tìm thấy -- trong khi vẫn từ từ gây ra bệnh thối rễ chết người cho chính những cây mọc trên nó.",
+        "history_text_long": "Năm 1998, các nhà bệnh lý học rừng tại Rừng Quốc gia Malheur ở Oregon bắt tay vào lập bản đồ một khu vực cây đang chết dần và phát hiện ra một điều đã thay đổi quan niệm về một sinh vật sống đơn lẻ. Các xét nghiệm di truyền trên nấm mật lan khắp lòng đất dưới hàng nghìn mẫu rừng cho thấy tất cả đều là một sinh vật duy nhất: một mạng lưới hệ sợi nấm duy nhất, được ước tính có tuổi đời hơn hai nghìn năm, lan rộng dưới đất hơn tám cây số vuông. Các hãng tin nhanh chóng gọi nó là 'nấm khổng lồ,' và nó vẫn là một trong những ứng viên mạnh nhất cho danh hiệu sinh vật sống lớn nhất và lâu đời nhất từng được ghi nhận -- một quần thể nấm mật duy nhất đang lặng lẽ sống lâu hơn những cây mọc ngay trên nó. Rất lâu trước khi ai đó có thể xét nghiệm DNA của nó, con người đã cảm nhận được rằng có một thứ gì đó kỳ lạ sống trong gỗ. Những sợi đen giống dây thừng mà nấm mật phát ra qua các thân gỗ mục chứa nhiều hợp chất dựa trên luciferin và phát ra ánh sáng mờ trong bóng tối, một hiện tượng mà người đi rừng và khách du lịch gọi là 'lửa cáo' trong nhiều thế kỷ, thường bị đổ lỗi cho linh hồn hoặc khí đầm lầy hơn là một loại nấm đang kiên nhẫn tiêu hóa khu rừng từ bên dưới. Sự tiêu hóa kiên nhẫn đó có một cái giá: khi mạng lưới lan rộng, nó dần dần siết chặt rễ của những cây còn sống, và những người làm rừng và trồng cây ăn quả đã chiến đấu với bệnh thối rễ do nấm mật từ khi họ còn lưu giữ hồ sơ, đào hào và loại bỏ các gốc cây bị nhiễm bệnh trong nỗ lực ngăn chặn một sinh vật quá lớn để có thể đơn giản là chặt bỏ.",
+        "name_origin": "Tên chi Armillaria xuất phát từ tiếng Latinh armilla, nghĩa là 'vòng tay' hoặc 'vòng', mô tả phần mô hình vòng còn sót lại trên cuống của nhiều loài trong chi này. Tên loài mellea trong tiếng Latinh có nghĩa là 'màu mật ong', miêu tả màu nâu vàng ấm của mũ nấm.",
+        "symbolism_story": "Vì phạm vi thực sự của nó ẩn giấu dưới lòng đất trong nhiều thế kỷ trước khi ai đó nhận ra, nấm mật đã trở thành một biểu tượng thích hợp cho sức mạnh ẩn giấu và sự kiên trì lặng lẽ -- sức mạnh và tuổi tác tích lũy mà không ai nhìn thấy, tồn tại lâu hơn rất nhiều so với bất cứ thứ gì mọc hiện rõ trên mặt đất.",
+        "flower_meaning": "Sức mạnh ẩn giấu",
+        "fragrance": {
+          "notes": "Có mùi nấm nhẹ, hơi ngọt."
+        },
+        "uses_list": [
+          {
+            "text": "Mũ nấm non được thu hoạch và ăn ở một số vùng của châu Âu, châu Á và Bắc Mỹ sau khi được nấu chín kỹ, tuy nấm sống hoặc nấu chưa chín gây khó chịu cho tiêu hóa."
+          },
+          {
+            "text": "Là một loài phân hủy, nó phân hủy gỗ chết và tái chế chất dinh dưỡng trở lại đất rừng, ngay cả khi việc nó lây nhiễm cây sống khiến người làm rừng lo ngại."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Sức mạnh ẩn giấu",
+            "description": "Thân thật của nó là một mạng lưới khổng lồ không thể nhìn thấy từ trên mặt đất, biểu tượng cho sức mạnh và sự kiên trì ẩn giấu dưới bề mặt."
+          },
+          {
+            "keyword": "Kiên nhẫn",
+            "description": "Lan rộng và kiếm ăn trong nhiều thế kỷ trước khi sự tồn tại của nó được nhận ra, nó đại diện cho sự kiên trì lặng lẽ, lâu dài."
+          }
+        ],
+        "toxicity": {
+          "headline": "Độc tính chưa rõ",
+          "active_compound_display": "Không có báo cáo",
+          "notes_en": "Không tìm thấy sự trùng khớp với nguồn đáng tin cậy; được phân loại là chưa được báo cáo (ước tính của AI chưa được nguồn xác minh).",
+          "human": {
+            "exposure": "Không có đường phơi nhiễm nào được báo cáo.",
+            "effect": "Không có tác dụng độc nào được báo cáo.",
+            "note": "Độc tính đối với con người chưa được ghi chép đầy đủ; cần thận trọng cho đến khi được xác minh."
+          },
+          "dog": {
+            "exposure": "Không có đường phơi nhiễm nào được báo cáo.",
+            "effect": "Không có tác dụng độc nào được báo cáo.",
+            "note": "Độc tính đối với chó chưa được ghi chép đầy đủ; cần thận trọng cho đến khi được xác minh."
+          },
+          "cat": {
+            "exposure": "Không có đường phơi nhiễm nào được báo cáo.",
+            "effect": "Không có tác dụng độc nào được báo cáo.",
+            "note": "Độc tính đối với mèo chưa được ghi chép đầy đủ; cần thận trọng cho đến khi được xác minh."
+          }
+        }
+      }
+    },
+    "AAA1698": {
+      "source_hash": "63ecba213ebe09f300e06ac785c2adb23b1855fbc92cf4c0b6bbcf8086dc0019",
+      "fields": {
+        "common_name": "Amaryllis Morelia",
+        "description": "Amaryllis Morelia là một loài cây lâu năm có củ thuộc họ amaryllis, được yêu thích vì cuống hoa cao, không lá, mọc lên từ củ mỗi mùa và nở ra vài bông hoa lớn hình loa kèn màu đỏ đậm. Lá xanh hình dải ruy băng mọc riêng, thường xuất hiện sau khi hoa đã tàn, tạo cho cây một chu kỳ ra hoa đầy kịch tính, gần như một vở diễn. Được đặt theo tên Morelia, thành phố của Mexico gần nơi loài này lần đầu được mô tả, củ cây nhỏ gọn này hiếm khi cao quá sáu mươi centimét và thường được trồng trong chậu để trong nhà, nơi những bông hoa hình loa kèn rực rỡ của nó mang đến một khoảng bùng nổ màu sắc trên bệ cửa sổ vào những tháng trời mát hơn.",
+        "history_text_short": "Được đặt theo tên thành phố Morelia của Mexico, nơi nó lần đầu được thu thập khi còn mọc hoang trên các ngọn đồi, loài amaryllis này thuộc cùng họ cây có củ đã mang đến cho thế giới truyền thống tặng quà mùa đông nổi tiếng: một củ cây đang ngủ nghỉ sẽ nở hoa trong nhà chỉ trong vài tuần, không cần đất hay đúng mùa.",
+        "history_text_long": "Amaryllis Morelia mang tên của Morelia, một thành phố vùng cao nguyên ở Michoacán, Mexico, nơi các nhà thực vật học thế kỷ 19 lần đầu thu thập và mô tả loài này khi còn mọc hoang trên những ngọn đồi xung quanh. Giống như nhiều loài hoang dã cùng họ ở châu Mỹ, nó thuộc về một chi mà các thương nhân buôn củ giống châu Âu đã xuất khẩu từ thế kỷ 18, được yêu thích chủ yếu nhờ một 'mẹo' về thời điểm: một củ cây đang ngủ nghỉ, nếu được tưới nước và giữ ấm trong nhà vào giữa mùa đông, sẽ đẩy lên một cuống hoa to và nở hoa chỉ trong vài tuần, không cần đất, ánh nắng hay đúng mùa để thúc đẩy. Mẹo đó đã biến chi cây này thành một trong những món quà mùa đông được nhận biết nhiều nhất trên thế giới, được bán ra mỗi tháng Mười Hai dưới dạng củ cây đóng hộp để 'thúc' nở hoa trên bệ cửa sổ -- một mảnh nhỏ của sườn đồi Mexico nở hoa trong nhà giữa mùa đông ở Bắc bán cầu. Chính amaryllis Morelia vẫn gần với nguồn gốc hoang dã của nó hơn so với những củ lai lớn thường thấy ở siêu thị, hoa của nó nhỏ hơn một chút và dáng cây mảnh mai hơn một chút, như một lời nhắc sống động về những sườn núi nơi toàn bộ truyền thống lễ hội này bắt đầu.",
+        "name_origin": "Tên chi Hippeastrum xuất phát từ tiếng Hy Lạp hippeus ('người cưỡi ngựa' hoặc 'kỵ sĩ') và astron ('ngôi sao'), miêu tả những bông hoa hình ngôi sao hướng lên trên. Tên loài morelianum chỉ đến Morelia, thành phố của Mexico gần nơi loài cây này lần đầu được thu thập và mô tả.",
+        "symbolism_story": "Vì củ của nó phải trải qua một thời kỳ ngủ nghỉ khô và không lá trước khi đẩy lên một cuống hoa cao mang những bông hoa hình loa kèn đầy táo bạo, amaryllis Morelia từ lâu đã mang ý nghĩa về sự quyết tâm và thành quả đạt được một cách khó khăn -- một vẻ đẹp chỉ xuất hiện sau một khoảng thời gian chịu đựng lặng lẽ. Những bông hoa đầy kịch tính và tự tin của nó cũng khiến nó, như các loài amaryllis khác, trở thành biểu tượng truyền thống cho vẻ đẹp rực rỡ, tự tin.",
+        "flower_meaning": "Quyết tâm",
+        "fragrance": {
+          "notes": "Những bông hoa lớn của nó có rất ít hoặc không có hương thơm rõ rệt."
+        },
+        "uses_list": [
+          {
+            "text": "Được trồng làm cây củ ra hoa trong chậu, được yêu thích vì cuống hoa cao mang những bông hoa đỏ lớn hình loa kèn mà nó tạo ra mỗi mùa."
+          },
+          {
+            "text": "Những cuống hoa lâu tàn của nó được ưa chuộng làm hoa cắt cành trong các bó hoa."
+          },
+          {
+            "text": "Những bông hoa lớn, giàu mật hoa, thu hút chim ruồi và côn trùng thụ phấn trong môi trường sống tự nhiên ở Mexico."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Quyết tâm",
+            "description": "Củ của nó trải qua thời kỳ ngủ nghỉ không lá trước khi đẩy lên một cuống hoa táo bạo, khiến nó trở thành biểu tượng kinh điển của sự quyết tâm và thành quả đạt được một cách khó khăn."
+          },
+          {
+            "keyword": "Vẻ đẹp rực rỡ",
+            "description": "Những bông hoa hình loa kèn nở rộng và táo bạo, một biểu tượng truyền thống cho vẻ đẹp nổi bật, tự tin."
+          }
+        ],
+        "toxicity": {
+          "headline": "Con người Trung bình · Vật nuôi Trung bình",
+          "active_compound_display": "lycorine",
+          "notes_en": "Củ cây chứa lycorine và các alkaloid khác gây rối loạn tiêu hóa và kích ứng da nếu ăn vào hoặc tiếp xúc; được phân loại là độc với con người, chó và mèo, chủ yếu từ củ cây.",
+          "human": {
+            "exposure": "Ăn củ và nhựa cây. Chạm vào củ và nhựa cây.",
+            "effect": "Buồn nôn, nôn, đau bụng và kích ứng da.",
+            "note": "Củ cây chứa lycorine và các alkaloid khác gây rối loạn tiêu hóa và kích ứng da nếu ăn vào hoặc tiếp xúc; được phân loại là độc với con người, chó và mèo, chủ yếu từ củ cây.",
+            "symptoms": [
+              "Buồn nôn.",
+              "Nôn.",
+              "Đau bụng.",
+              "Kích ứng da."
+            ]
+          },
+          "dog": {
+            "exposure": "Ăn củ cây.",
+            "effect": "Nôn, tiêu chảy, chảy nước dãi, lờ đờ và run rẩy.",
+            "note": "Củ cây chứa lycorine và các alkaloid khác gây rối loạn tiêu hóa và kích ứng da nếu ăn vào hoặc tiếp xúc; được phân loại là độc với con người, chó và mèo, chủ yếu từ củ cây.",
+            "symptoms": [
+              "Nôn.",
+              "Tiêu chảy.",
+              "Chảy nước dãi.",
+              "Lờ đờ.",
+              "Run rẩy."
+            ]
+          },
+          "cat": {
+            "exposure": "Ăn củ cây.",
+            "effect": "Nôn, tiêu chảy, chảy nước dãi và lờ đờ.",
+            "note": "Củ cây chứa lycorine và các alkaloid khác gây rối loạn tiêu hóa và kích ứng da nếu ăn vào hoặc tiếp xúc; được phân loại là độc với con người, chó và mèo, chủ yếu từ củ cây.",
+            "symptoms": [
+              "Nôn.",
+              "Tiêu chảy.",
+              "Chảy nước dãi.",
+              "Lờ đờ."
+            ]
+          }
+        }
+      }
+    },
+    "AAA1699": {
+      "source_hash": "3afa9da8353590bbed633a5a270ca6b603f562fcc9d45f4100b04e35d87896ae",
+      "fields": {
+        "common_name": "Nấm ma",
+        "description": "Nấm ma mọc thành từng chùm dày đặc, chồng lên nhau, với mũ nấm nhẵn hình phễu màu cam rực rỡ, mọc trực tiếp từ rễ cây bị chôn và gốc cây mục của các loài cây gỗ cứng, đặc biệt là sồi và ô liu. Các phiến nấm mọc dày chạy dọc theo cuống nấm thu nhỏ dần và, điều đáng chú ý là, phát ra ánh sáng xanh lục mờ trong bóng tối hoàn toàn, một đặc điểm do các hợp chất phát quang sinh học tự nhiên có trong phần thịt nấm gây ra. Thường gặp dưới lớp lá rụng trong các khu rừng rụng lá vào mùa thu ở châu Âu và miền đông Bắc Mỹ, loài nấm này thường bị nhầm với nấm chanterelle ăn được, nhưng nó không ăn được và gây rối loạn tiêu hóa nghiêm trọng nếu ăn vào.",
+        "history_text_short": "Nấm ma mọc thành từng chùm cam rực rỡ trên các gốc cây mục và nổi tiếng với hai điều: phiến nấm phát sáng xanh lục mờ trong bóng tối, và vẻ ngoài giống nấm chanterelle của nó đã khiến nhiều người hái nấm háo hức phải mang về một trận ngộ độc thực phẩm nặng thay vì một bữa tối ngon.",
+        "history_text_long": "Rất lâu trước khi con người hiểu được hiện tượng phát quang sinh học, những người đi bộ qua các khu rừng gỗ cứng cổ xưa vào ban đêm đôi khi nhìn thấy một ánh sáng xanh lục lạnh lẽo kỳ lạ bốc lên từ những gốc cây mục và rễ cây bị chôn. Trong nhiều thế kỷ, ánh sáng ma quái này -- được gọi trong văn hóa dân gian là 'lửa cáo' -- bị đổ lỗi cho linh hồn, ma trơi, hoặc chỉ đơn giản là thứ phép thuật không thể giải thích. Chỉ đến rất lâu sau đó, các nhà tự nhiên học mới xác định được rằng một số vùng phát sáng này là do nấm mọc trong gỗ, trong đó có nấm ma, với các phiến nấm chứa một phản ứng hóa học dựa trên luciferin tương tự như phản ứng khiến đom đóm phát sáng. Dưới ánh sáng ban ngày, loài nấm này trông gần như vui tươi: nó mọc thành từng chùm dày đặc màu cam rực rỡ ở gốc cây sồi và cây ô liu, màu sắc và hình dạng đủ giống để bị những người hái nấm đang tìm nấm chanterelle nhầm lẫn mà hái nhầm. Sự giống nhau này khiến nó trở thành một trong những nguyên nhân được báo cáo nhiều nhất gây ngộ độc nấm ở cả châu Âu và Bắc Mỹ. Khác với những loài nấm độc chết người nhất, nó hiếm khi gây tử vong, nhưng các hợp chất illudin trong phần thịt nấm gây ra nhiều giờ nôn mửa dữ dội, đau quặn bụng và tiêu chảy -- một bài học đau đớn cho bất kỳ ai bỏ qua bước kiểm tra quan trọng: nấm chanterelle thật có các nếp gấp thấp, tròn chứ không phải phiến nấm thật, và nó không bao giờ phát sáng. Ngày nay, các hội nấm học dùng nấm ma như một ví dụ thực địa tiêu chuẩn, chính vì nó dạy cho người hái nấm biết chậm lại và quan sát kỹ trước khi bỏ bất cứ thứ gì vào giỏ.",
+        "name_origin": "Tên chi Omphalotus xuất phát từ tiếng Hy Lạp omphalos, nghĩa là 'cái rốn', mô tả vết lõm nhỏ ở trung tâm thường thấy trên mũ nấm. Tên loài olearius trong tiếng Latinh có nghĩa là 'thuộc về cây ô liu', phản ánh việc loài nấm này thường mọc ở gốc cây ô liu tại vùng Địa Trung Hải.",
+        "symbolism_story": "Vì khoác lên mình màu cam vui tươi giống như một loài nấm ăn được quý giá, nhưng lại ẩn chứa một chất độc nghiêm trọng bên trong, nấm ma đã trở thành biểu tượng tự nhiên cho vẻ ngoài lừa dối -- một lời cảnh báo rằng không phải mọi thứ trông hấp dẫn đều an toàn để hái. Đặc điểm thứ hai của nó làm dịu đi lời cảnh báo ấy: trong bóng tối hoàn toàn, phiến nấm của nó phát ra ánh sáng xanh lục mờ, một thứ ánh sáng ẩn giấu lặng lẽ tồn tại trong một thứ mà bình thường rất dễ bị bỏ qua.",
+        "flower_meaning": "Lừa dối",
+        "fragrance": {
+          "notes": "Không có mùi đặc trưng nào ngoài một mùi nấm nhẹ, không đáng chú ý."
+        },
+        "uses_list": [
+          {
+            "text": "Các hợp chất illudin được chiết xuất từ phần thịt của loài nấm này đã được các nhà nghiên cứu dược phẩm nghiên cứu làm cơ sở cho các loại thuốc chống ung thư thử nghiệm."
+          },
+          {
+            "text": "Là một loài nấm phân hủy gỗ, nó phân hủy các gốc cây và rễ cây gỗ cứng đã chết, tái chế chất dinh dưỡng trở lại đất rừng."
+          },
+          {
+            "text": "Các hội nấm học và những người leo núi vào ban đêm tìm kiếm loài nấm này sau khi trời tối để chiêm ngưỡng ánh sáng xanh lục phát quang sinh học mờ ảo, kỳ lạ của nó."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Lừa dối",
+            "description": "Màu sắc vui tươi giống nấm chanterelle của nó che giấu một chất độc đã lừa nhiều thế hệ người hái nấm, khiến nó trở thành biểu tượng tự nhiên của vẻ ngoài lừa dối."
+          },
+          {
+            "keyword": "Ánh sáng ẩn giấu",
+            "description": "Phiến nấm của nó phát sáng mờ trong bóng tối hoàn toàn, một lời nhắc nhở lặng lẽ rằng ánh sáng có thể đến từ những nơi bất ngờ và không ai để ý nhất."
+          }
+        ],
+        "toxicity": {
+          "headline": "Độc tính chưa rõ",
+          "active_compound_display": "Không có báo cáo",
+          "notes_en": "Không tìm thấy sự trùng khớp với nguồn đáng tin cậy; được phân loại là chưa được báo cáo (ước tính của AI chưa được nguồn xác minh).",
+          "human": {
+            "exposure": "Không có đường phơi nhiễm nào được báo cáo.",
+            "effect": "Không có tác dụng độc nào được báo cáo.",
+            "note": "Độc tính đối với con người chưa được ghi chép đầy đủ; cần thận trọng cho đến khi được xác minh."
+          },
+          "dog": {
+            "exposure": "Không có đường phơi nhiễm nào được báo cáo.",
+            "effect": "Không có tác dụng độc nào được báo cáo.",
+            "note": "Độc tính đối với chó chưa được ghi chép đầy đủ; cần thận trọng cho đến khi được xác minh."
+          },
+          "cat": {
+            "exposure": "Không có đường phơi nhiễm nào được báo cáo.",
+            "effect": "Không có tác dụng độc nào được báo cáo.",
+            "note": "Độc tính đối với mèo chưa được ghi chép đầy đủ; cần thận trọng cho đến khi được xác minh."
+          }
+        }
+      }
+    },
+    "AAA1700": {
+      "source_hash": "17b609170ed729ef8d0aabcc4188dd8bf7d169d2f67a2ec6c4d05b757b9aa2ba",
+      "fields": {
+        "common_name": "Cây cọ Madagascar",
+        "bloom_tip": "Cây trưởng thành ra hoa vào mùa hè, với hoa trắng thơm năm cánh nở ở đỉnh thân.",
+        "fruit_tip": "Sau hoa là những quả nang mỏng, khi khô sẽ nứt ra để giải phóng hạt có chùm lông tơ mượt theo gió bay đi.",
+        "description": "Cây cọ Madagascar không phải là cọ thật mà là một loài mọng nước có gai thuộc họ trúc đào, có nguồn gốc từ vùng bụi rậm khô, nhiều đá ở miền nam Madagascar. Thân cây dày, phình to tích nước qua những kỳ hạn hán kéo dài, được bao bọc bởi những gai xám sắc nhọn xếp thành hàng ngay ngắn dọc thân. Trên đỉnh thân là một chùm lá dài, hẹp, bóng, rụng vào mùa khô và mọc lại khi có mưa, tạo cho cây hình dáng giống cây cọ. Những cây trưởng thành ra hoa trắng thơm với họng vàng nhạt vào mùa hè, sau đó là những quả nang mỏng nứt ra giải phóng hạt có chùm lông tơ theo gió bay đi. Sinh trưởng chậm và chịu hạn tốt, cây phát triển tốt dưới nắng đầy và đất cát, thoát nước tốt, trở thành một mẫu cây kiến trúc nổi bật cho vườn khô hạn và sân hiên đầy nắng.",
+        "history_text_short": "Được đặt tên theo thân cây dày tích nước (tiếng Hy Lạp nghĩa là \"chân to\"), cây cọ Madagascar có nguồn gốc từ rừng gai khô hạn của Madagascar, không phải vùng nhiệt đới. Dù có chùm lá giống cây cọ, nó thực chất là loài mọng nước có quan hệ với trúc đào, nay là loại cây được yêu thích cho bệ cửa sổ đầy nắng trên toàn thế giới.",
+        "history_text_long": "Cây cọ Madagascar thuộc chi Pachypodium, một nhóm cây mọng nước có thân phình to được các nhà thực vật học Pháp phân loại khi ghi chép hệ thực vật đặc biệt của Madagascar vào cuối thế kỷ 19. Cây cọ Madagascar được mô tả chính thức với tên khoa học Pachypodium lamerei vào năm 1899, tên chi bắt nguồn từ tiếng Hy Lạp pachys (\"dày\") và podos (\"chân\"), ám chỉ thân cây to khỏe tích nước. Trong môi trường tự nhiên, cây mọc rải rác trong rừng gai ở miền nam và tây nam Madagascar, một hệ sinh thái bụi rậm khô hạn gần như độc nhất trên thế giới, cùng chung sống với cây bạch tuộc, cây bao báp, cùng loài vượn cáo và rùa tia đặc trưng của đảo. Ở đó, thân phình to là sự thích nghi với những kỳ hạn hán kéo dài nhiều tháng, tích trữ nước mà cây tiếp tục dùng rất lâu sau khi mưa đã ngừng. Dù chùm lá hẹp và thân có gai gợi nhớ đến một cây cọ nhiệt đới, thực chất nó là loài có quan hệ gần với trúc đào và hoa sa mạc, cùng thuộc họ cây có nhựa trắng như sữa. Tính dễ chăm và hình dáng nổi bật đã đưa cây từ những rừng khô của Madagascar đến các vườn ươm trên toàn thế giới trong thế kỷ 20, nơi nó trở thành một trong những loài mọng nước \"giống cọ\" được bán nhiều nhất cho bệ cửa sổ đầy nắng và vườn sa mạc, được giới sưu tầm yêu thích khi gieo hạt pachypodium và kiên nhẫn chăm sóc qua nhiều năm.",
+        "name_origin": "Tên chi Pachypodium bắt nguồn từ tiếng Hy Lạp pachys (\"dày\") và podos (\"chân\"), mô tả thân cây phình to tích nước. Dù thường được gọi là cây cọ Madagascar vì chùm lá giống cây cọ, đây không phải là cọ thật mà là loài mọng nước có quan hệ với trúc đào.",
+        "symbolism_story": "Vươn lên từ rừng gai khô hạn của Madagascar với thân phình to, đầy gai, được \"xây\" để vượt qua mùa khô, cây cọ Madagascar đã trở thành biểu tượng của sự kiên cường: sức mạnh thầm lặng của việc tích trữ những gì cần thiết và bền bỉ chịu đựng cho đến khi điều kiện thay đổi.",
+        "flower_meaning": "Kiên cường",
+        "fragrance": {
+          "notes": "Cây trưởng thành cho hoa trắng có hương thơm dịu ngọt vào mùa hè."
+        },
+        "uses_list": [
+          {
+            "text": "Một loài mọng nước mang tính kiến trúc nổi bật cho sân hiên, hành lang và vườn tiết kiệm nước đầy nắng."
+          },
+          {
+            "text": "Hoa thơm vào mùa hè thu hút ong và các loài thụ phấn khác."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Kiên cường",
+            "description": "Thân cây tích nước và khả năng chịu đựng hạn hán nhiều tháng khiến nó trở thành biểu tượng của sự bền bỉ thầm lặng."
+          },
+          {
+            "keyword": "Bảo vệ",
+            "description": "Những hàng gai sắc nhọn dọc thân gợi lên sự cảnh giác và khả năng tự vệ."
+          }
+        ],
+        "toxicity": {
+          "headline": "Độc tính chưa rõ",
+          "active_compound_display": "Chưa ghi nhận",
+          "notes_en": "Không tìm thấy kết quả độc tính được xác nhận từ nguồn uy tín; được coi là chưa được ghi nhận (ước tính của mô hình chưa được nguồn kiểm chứng).",
+          "human": {
+            "exposure": "Chưa ghi nhận đường phơi nhiễm nào.",
+            "effect": "Chưa ghi nhận tác động độc nào.",
+            "note": "Độc tính đối với con người chưa được ghi nhận đầy đủ; nên cẩn trọng cho đến khi được xác minh."
+          },
+          "dog": {
+            "exposure": "Chưa ghi nhận đường phơi nhiễm nào.",
+            "effect": "Chưa ghi nhận tác động độc nào.",
+            "note": "Độc tính đối với chó chưa được ghi nhận đầy đủ; nên cẩn trọng cho đến khi được xác minh."
+          },
+          "cat": {
+            "exposure": "Chưa ghi nhận đường phơi nhiễm nào.",
+            "effect": "Chưa ghi nhận tác động độc nào.",
+            "note": "Độc tính đối với mèo chưa được ghi nhận đầy đủ; nên cẩn trọng cho đến khi được xác minh."
+          }
+        }
+      }
+    },
+    "AAA1701": {
+      "source_hash": "31056c524236868c7cd29afa5a14cf1c4efc18d292c0bbf41d8711e65de9c1c9",
+      "fields": {
+        "common_name": "tầm bóp",
+        "bloom_tip": "Ra hoa nhỏ màu vàng vào những tháng mùa hè.",
+        "fruit_tip": "Quả nhỏ, tròn, được bao trong một lớp vỏ giấy mỏng, tạo thêm giá trị trang trí khi chín.",
+        "description": "Tầm bóp (Physalis angulata) là một loài cây thân thảo hằng niên nhiệt đới, mọc lan rộng, thuộc họ Cà, được trồng không phải vì những bông hoa vàng khiêm tốn mà vì những chiếc lồng đèn giấy kỳ lạ xuất hiện sau đó. Mỗi bông hoa sẽ nhường chỗ cho một lớp vỏ mỏng, phồng lên, kêu lạch cạch khi khô và bên trong giấu một quả tròn, màu vàng kim. Thân cây có cạnh sắc rõ rệt cùng lá xẻ răng cưa sâu, nhọn đầu, chính là đặc điểm đặt tên khoa học cho loài này và tạo nên dáng cây lỏng lẻo, phân nhánh. Cây sinh trưởng nhanh, ưa nắng nóng, tự gieo hạt dễ dàng trong vườn ấm, mọc lại năm này qua năm khác ở cùng một khoảnh đất mà hầu như không cần ai chăm bón.",
+        "history_text_short": "Ở vùng Amazon, loài cây này được gọi là camapu, cái tên mà các thầy lang bản địa dùng từ rất lâu trước khi khoa học để ý đến nó. Lá và quả bọc giấy của cây được sắc thành trà đắng để trị sốt và đau khớp. Nhiều thập kỷ sau, các nhà hóa học tách được physalin, một nhóm hợp chất steroid hiện đang được nghiên cứu về hoạt tính chống viêm và chống ung thư, mang lại giá trị khoa học mới cho những bài thuốc dân gian cũ.",
+        "history_text_long": "Trên khắp lưu vực Amazon, tầm bóp từ lâu đã được biết đến với một tên gọi khác: camapu, từ mà các cộng đồng nói tiếng Tupi ở Brazil đặt cho loài cây này từ nhiều thế kỷ trước khi các nhà thực vật học mang tên Latin đến. Các thầy lang sắc lá và cả quả của cây thành trà đắng, dùng để trị sốt, đau khớp, ho và các bệnh về gan, thận. Cách dùng này lan rộng cùng với loài cây, khi nó theo tàu buôn và các tuyến thương mại rời khỏi vùng nhiệt đới châu Mỹ quê nhà, trở thành một loài cỏ dại quen thuộc trên đất bị xáo trộn từ Tây Phi đến Đông Nam Á, mỗi vùng lặng lẽ đưa nó vào hệ dược liệu bản địa của riêng mình.\n\nHóa học hiện đại cuối cùng cũng bắt kịp tri thức dân gian được tích lũy qua nhiều thế hệ. Các nhà nghiên cứu tách được một nhóm hợp chất steroid có vị đắng, chỉ có ở chi này, gọi là physalin, tập trung trong lá và vỏ giấy của cây. Các nghiên cứu trong phòng thí nghiệm từ thập niên 1990 đã thử nghiệm những hợp chất này trên chứng viêm, ký sinh trùng như loại gây bệnh leishmania, và cả các dòng tế bào ung thư, mang lại giá trị dược lý thực sự cho một loài cây từ lâu bị xem chỉ là cỏ dại ven đường. Với những người trồng nó ngày nay, vẻ đẹp khiêm tốn của hoa vàng và quả bọc lồng đèn là lời nhắc nhỏ rằng cỏ dại và thuốc chữa bệnh đôi khi chỉ là một loài cây, được nhìn từ những thế kỷ khác nhau.",
+        "name_origin": "Tên chi Physalis xuất phát từ tiếng Hy Lạp physa, có nghĩa là 'bong bóng', ám chỉ lớp đài hoa bằng giấy, phồng lên, bao quanh mỗi quả như một chiếc lồng đèn nhỏ. Tên loài angulata miêu tả thân cây có cạnh sắc rõ rệt và các thùy lá răng cưa, có góc cạnh.",
+        "symbolism_story": "Được bao trong chiếc lồng đèn giấy của riêng mình, tầm bóp luôn khiến người ta phải nhìn lại lần thứ hai: thứ trông như một lớp vỏ trống rỗng, kêu lạch cạch lại giấu bên trong một quả ngọt, màu vàng kim. Sự đối lập giữa lớp vỏ bọc đơn giản và phần bên trong đáng giá đã khiến loài cây này, cùng những loài cùng chi Physalis có vỏ giấy tương tự, trở thành biểu tượng tự nhiên cho giá trị ẩn giấu và sự bất ngờ lặng lẽ. Ở những nơi nó mọc dưới tên camapu, chính loài cây khiêm tốn mà nhiều người làm vườn nhổ bỏ không chút để tâm này lại từ lâu được tin dùng như một bài thuốc, một lời nhắc rằng sự hữu ích không phải lúc nào cũng tự phô bày.",
+        "flower_meaning": "Giá Trị Ẩn Giấu",
+        "uses_list": [
+          {
+            "text": "Quả chín màu vàng kim có thể ăn được, vị chua ngọt, được dùng làm mứt, nước sốt và món ăn vặt ở các vùng nhiệt đới."
+          },
+          {
+            "text": "Lá và quả được sắc thành trà truyền thống gọi là camapu trong y học dân gian Amazon, dùng để trị sốt và viêm."
+          },
+          {
+            "text": "Lớp vỏ giấy hình lồng đèn nhỏ tạo điểm nhấn kết cấu thú vị cho bồn hoa và các tác phẩm hoa khô."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Giá Trị Ẩn Giấu",
+            "description": "lớp vỏ giấy bao quanh mỗi quả giấu bên trong một quả ngọt, khiến loài cây này trở thành biểu tượng lặng lẽ cho giá trị ẩn sau một vẻ ngoài đơn giản"
+          },
+          {
+            "keyword": "Sức Sống Bền Bỉ",
+            "description": "khả năng tự gieo hạt dễ dàng trên đất bị xáo trộn, ít được chú ý đã từ lâu biến nó thành biểu tượng của sự bền bỉ lặng lẽ ở những vùng nó đã trở thành cây bản địa hóa"
+          }
+        ],
+        "toxicity": {
+          "headline": "Người: Nhẹ",
+          "active_compound_display": "solanin và physalin",
+          "notes_en": "Quả xanh và lá cây chứa glycoalkaloid dạng solanin, đặc trưng của họ Cà; quả chín thường được ăn.",
+          "human": {
+            "exposure": "Ăn lá, thân và quả.",
+            "effect": "Buồn nôn, nôn và rối loạn tiêu hóa.",
+            "note": "Quả xanh và lá cây chứa glycoalkaloid dạng solanin, đặc trưng của họ Cà; quả chín thường được ăn.",
+            "symptoms": [
+              "Buồn nôn.",
+              "Nôn.",
+              "Rối loạn tiêu hóa."
+            ]
+          },
+          "dog": {
+            "exposure": "Không có đường phơi nhiễm được ghi nhận.",
+            "effect": "Không có tác động độc hại được ghi nhận.",
+            "note": "Độc tính đối với chó chưa được ghi nhận đầy đủ; nên cẩn trọng cho đến khi có xác nhận."
+          },
+          "cat": {
+            "exposure": "Không có đường phơi nhiễm được ghi nhận.",
+            "effect": "Không có tác động độc hại được ghi nhận.",
+            "note": "Độc tính đối với mèo chưa được ghi nhận đầy đủ; nên cẩn trọng cho đến khi có xác nhận."
+          }
+        }
+      }
+    },
+    "AAA1702": {
+      "source_hash": "c95c709a8611993a769af6ffc09e826d038ca5bd23748e74d49bc644f0d2a9bb",
+      "fields": {
+        "common_name": "Đỗ quyên Satsuki",
+        "bloom_tip": "Đỗ quyên Satsuki thường ra hoa vào mùa xuân với những bông hoa rực rỡ, nhiều màu sắc.",
+        "description": "Đỗ quyên Satsuki là một loài cây bụi nhỏ, ưa đất chua, được yêu thích hơn các loài đỗ quyên khác nhờ sự khó đoán tuyệt đối trong cách ra hoa. Một cây duy nhất có thể cho hoa với màu sắc, sọc hoặc hoa văn lốm đốm khác nhau từ năm này sang năm khác, và đôi khi thậm chí trong cùng một chùm hoa, kết quả của một loại mô không ổn định về gen mà các nhà làm vườn gọi là 'biến dị cành.' Lá nhỏ, xanh bóng và thường xanh, cùng với dáng cây thấp, rậm, đã khiến nó trở thành đối tượng được ưa chuộng để làm bonsai, được tạo hình thành những cây thu nhỏ có thể cần đến hàng chục năm để hoàn thiện. Ra hoa vào cuối xuân, cây hiếm khi cao quá hai mét và phát triển tốt trong đất ẩm, chua, thoát nước tốt, dưới bóng râm một phần.",
+        "history_text_short": "Dù tên khoa học gây hiểu lầm, đỗ quyên Satsuki có nguồn gốc từ Nhật Bản, không phải Ấn Độ -- một sai lầm đặt tên cũ của người châu Âu đã tồn tại đến ngày nay. Được yêu thích vì những bông hoa có thể biến đổi thành màu sắc và hoa văn hoàn toàn khác nhau từ năm này sang năm khác, nó từ lâu đã là đối tượng yêu thích của các nghệ nhân bonsai Nhật Bản.",
+        "history_text_long": "Dù có tên khoa học như vậy, đỗ quyên Satsuki chẳng liên quan gì đến Ấn Độ. Các nhà thực vật học châu Âu thế kỷ 18, làm việc với các mẫu cây và mô tả đã đi qua các trạm buôn bán của Hà Lan ở Đông Ấn, đã nhầm tưởng rằng loài cây bụi này có nguồn gốc từ đó và đặt tên nó là indicum, nghĩa là 'của Ấn Độ' -- một sai lầm vẫn còn tồn tại trong tên khoa học của nó từ đó đến nay, mặc dù loài cây này thực ra có nguồn gốc từ Nhật Bản. Tên thật của nó, satsuki, chỉ tháng thứ năm theo lịch âm cổ của Nhật Bản, thời điểm nó bừng nở hoa, muộn hơn nhiều tuần so với hầu hết các loài đỗ quyên khác. Những người trồng cây Nhật Bản thời Edo bị cuốn hút bởi một đặc điểm mà không loài đỗ quyên nào khác thể hiện rõ rệt như vậy: một cây satsuki duy nhất có thể cho ra hoa với màu sắc và hoa văn hoàn toàn khác nhau từ năm này sang năm khác, hoặc thậm chí trên cùng một cành trong cùng một mùa, khi những mảng mô không ổn định về gen 'biến dị' thành các tổ hợp sọc, đốm và màu đơn sắc mới. Thay vì coi sự không ổn định này là một khuyết điểm, những người trồng cây bắt đầu chủ động tìm kiếm và nhân giống những biến dị nổi bật nhất, cuối cùng phân loại ra hàng trăm giống cây được đặt tên. Chính niềm yêu thích việc tạo hình kiên nhẫn, tỉ mỉ đó đã khiến satsuki trở thành một trong những đối tượng được ưa chuộng nhất trong bonsai, nơi một mẫu cây duy nhất có thể được tạo hình và hoàn thiện qua nhiều thế hệ con người, với thân cây xù xì và tán lá gọn gàng của nó sống lâu hơn cả những người làm vườn đầu tiên tạo dáng cho nó.",
+        "name_origin": "Tên loài indicum, tiếng Latinh nghĩa là 'của Ấn Độ', là một sai lầm lịch sử: các nhà thực vật học châu Âu thế kỷ 18 đã nhầm loài cây này với một loài ở Đông Ấn sau khi biết đến nó qua các trạm buôn bán của Hà Lan, trong khi thực tế nó có nguồn gốc từ Nhật Bản. Tên tiếng Nhật của nó, satsuki, chỉ tháng thứ năm theo lịch âm cổ, mùa mà nó ra hoa.",
+        "symbolism_story": "Trong ngôn ngữ các loài hoa thời Victoria, đỗ quyên từ lâu đã gắn liền với sự điều độ -- một sự kiềm chế lặng lẽ, có chừng mực. Đỗ quyên Satsuki thêm vào biểu tượng đó một nét riêng: khả năng 'biến dị' thành những màu sắc và hoa văn mới không thể đoán trước từ mùa này sang mùa khác cũng khiến nó trở thành biểu tượng của sự biến đổi, một lời nhắc rằng ngay cả một cây ổn định, khiêm tốn cũng có thể ẩn chứa những điều bất ngờ bên trong.",
+        "flower_meaning": "Điều độ",
+        "fragrance": {
+          "notes": "Hoa của nó có rất ít hoặc không có hương thơm rõ rệt."
+        },
+        "uses_list": [
+          {
+            "text": "Được trồng và tạo hình làm bonsai, nhờ khả năng sinh trưởng gọn gàng và chịu được việc cắt tỉa, trở thành một trong những đối tượng được ưa chuộng nhất trong nghệ thuật bonsai Nhật Bản."
+          },
+          {
+            "text": "Hoa cuối xuân của nó thu hút ong và các loài côn trùng thụ phấn khác."
+          },
+          {
+            "text": "Cành hoa đôi khi được dùng trong nghệ thuật cắm hoa ikebana của Nhật Bản."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Điều độ",
+            "description": "Trong ngôn ngữ các loài hoa thời Victoria, đỗ quyên từ lâu đã gắn liền với sự điều độ, một sự kiềm chế lặng lẽ, có chừng mực."
+          },
+          {
+            "keyword": "Biến đổi",
+            "description": "Khả năng nổi tiếng của nó khi ra hoa với màu sắc và hoa văn hoàn toàn khác nhau từ năm này sang năm khác đã khiến nó trở thành biểu tượng tự nhiên của sự biến đổi và bất ngờ."
+          }
+        ],
+        "toxicity": {
+          "headline": "Con người Trung bình · Vật nuôi Độc",
+          "active_compound_display": "grayanotoxin",
+          "notes_en": "Tất cả các bộ phận đều chứa grayanotoxin làm rối loạn chức năng tế bào bình thường; ăn vào gây nôn, chảy nước dãi, suy nhược và tụt huyết áp, nhịp tim nguy hiểm, và có thể gây tử vong trong trường hợp nặng, đặc biệt ở vật nuôi.",
+          "human": {
+            "exposure": "Ăn bất kỳ phần nào của cây, lá và hoa.",
+            "effect": "Buồn nôn, nôn, huyết áp thấp và nhịp tim không đều.",
+            "note": "Tất cả các bộ phận đều chứa grayanotoxin làm rối loạn chức năng tế bào bình thường; ăn vào gây nôn, chảy nước dãi, suy nhược và tụt huyết áp, nhịp tim nguy hiểm, và có thể gây tử vong trong trường hợp nặng, đặc biệt ở vật nuôi.",
+            "symptoms": [
+              "Buồn nôn.",
+              "Nôn.",
+              "Huyết áp thấp.",
+              "Nhịp tim không đều."
+            ]
+          },
+          "dog": {
+            "exposure": "Ăn bất kỳ phần nào của cây và lá.",
+            "effect": "Nôn, tiêu chảy, chảy nước dãi, suy nhược, nhịp tim bất thường và hôn mê.",
+            "note": "Tất cả các bộ phận đều chứa grayanotoxin làm rối loạn chức năng tế bào bình thường; ăn vào gây nôn, chảy nước dãi, suy nhược và tụt huyết áp, nhịp tim nguy hiểm, và có thể gây tử vong trong trường hợp nặng, đặc biệt ở vật nuôi.",
+            "symptoms": [
+              "Nôn.",
+              "Tiêu chảy.",
+              "Chảy nước dãi.",
+              "Suy nhược.",
+              "Nhịp tim bất thường.",
+              "Hôn mê."
+            ]
+          },
+          "cat": {
+            "exposure": "Ăn bất kỳ phần nào của cây và lá.",
+            "effect": "Nôn, tiêu chảy, chảy nước dãi, suy nhược, nhịp tim bất thường và hôn mê.",
+            "note": "Tất cả các bộ phận đều chứa grayanotoxin làm rối loạn chức năng tế bào bình thường; ăn vào gây nôn, chảy nước dãi, suy nhược và tụt huyết áp, nhịp tim nguy hiểm, và có thể gây tử vong trong trường hợp nặng, đặc biệt ở vật nuôi.",
+            "symptoms": [
+              "Nôn.",
+              "Tiêu chảy.",
+              "Chảy nước dãi.",
+              "Suy nhược.",
+              "Nhịp tim bất thường.",
+              "Hôn mê."
+            ]
+          }
+        }
+      }
+    },
+    "AAA1703": {
+      "source_hash": "2d63dbf44eaa63c5a6b2eabea36f4ef49350d58ef6cddcf7a5bbdf208ce86ce1",
+      "fields": {
+        "common_name": "Xô thơm bói toán",
+        "bloom_tip": "Hoa của loài cây này nở vào mùa hè, có màu sắc tươi sáng và quyến rũ.",
+        "description": "Xô thơm bói toán là một loài thân thảo sống lâu năm khiêm nhường thuộc họ Bạc hà, có nguồn gốc từ một dải rừng rậm ẩm, nhiều bóng râm hẹp trong vùng Sierra Mazateca thuộc bang Oaxaca, Mexico. Cây mọc thẳng trên những thân rỗng, hơi hóa gỗ, mang những lá lớn hình trái xoan màu xanh sáng với mép có răng cưa nhẹ. Vào cuối thu, những cụm hoa cao xuất hiện với hoa trắng hình ống được bao bọc bởi đài hoa màu tím đậm, tuy nhiên cây hiếm khi tạo hạt có khả năng nảy mầm nên hầu hết được nhân giống bằng cách giâm cành. Trong các hẻm núi và vách đá vôi tự nhiên của nó, cây ưa bóng râm lốm đốm, nhiệt độ ấm ổn định và đất luôn ẩm, thoát nước tốt.",
+        "history_text_short": "Qua nhiều thế hệ, các thầy lang người Mazatec ở vùng cao nguyên sương mù Oaxaca đã coi loài cây rừng khiêm nhường này như một nhà tiên tri sống, được thỉnh cầu trong các nghi lễ ban đêm để chẩn đoán bệnh tật và tìm câu trả lời vượt ngoài tầm nhìn thông thường. Người ngoài hầu như không biết đến loài cây mà các curandero Mazatec gọi là 'người chăn cừu', cho đến khi các nhà thực vật học lần theo dấu nó về tận quê hương miền núi xa xôi.",
+        "history_text_long": "Rất lâu trước khi các nhà thực vật học đặt cho nó một cái tên Latin, xô thơm bói toán đã giữ một vị trí âm thầm nhưng được canh giữ cẩn trọng trong đời sống tâm linh của người Mazatec ở Sierra Mazateca, bang Oaxaca, Mexico. Các curandero, hay thầy lang Mazatec, sử dụng loài cây này trong các nghi lễ ban đêm gọi là velada, nhai lá tươi hoặc uống nước hãm từ lá trước khi ngồi trong bóng tối và sự tĩnh lặng gần như tuyệt đối, lắng nghe 'tiếng nói' của cây để chẩn đoán bệnh tật, tìm vật bị mất, hoặc trả lời những câu hỏi vượt ngoài giác quan thông thường. Nghi lễ pha trộn lời cầu nguyện Công giáo với vũ trụ quan Mazatec cổ xưa hơn, và loài cây tự thân được gọi bằng những cái tên đầy tôn kính, trong đó có 'người chăn cừu' và 'đức bà của chúng ta'.\n\nTrong nhiều thế kỷ, người ngoài chỉ thấy được những mảnh vụn của truyền thống này. Các nhà truyền giáo Tây Ban Nha đã ghi lại những mảnh ghép của đời sống nghi lễ Mazatec từ thời thuộc địa, nhưng loài cây chịu trách nhiệm vẫn chưa được xác định cho đến năm 1939, khi nhà nhân học Jean Basset Johnson ghi lại việc sử dụng nó trong nghi lễ. Phải đến đầu những năm 1960, các nhà thực vật học Carl Epling và Carlos Játiva, dựa trên các mẫu vật thu thập được trong những chuyến khảo sát vào Sierra Mazateca, mới chính thức mô tả và đặt tên cho loài này. Các nhà nghiên cứu cũng nhận thấy rằng cây mọc hoang hầu như không bao giờ tạo hạt có khả năng nảy mầm, cho thấy xô thơm bói toán được trồng ngày nay có thể là một dòng cây được nhân giống bằng giâm cành, được những người Mazatec chăm sóc qua nhiều thế hệ và truyền từ thầy lang này sang thầy lang khác, chứ không phải trồng từ hạt.\n\nNăm 1982, nhà hóa học Daniel Siebert và các đồng nghiệp đã phân lập được salvinorin A từ lá cây, một hợp chất hướng thần không chứa nitơ có độ mạnh khác thường, khác với các alkaloid thường thấy ở hầu hết các loài cây gây ảo giác. Phát hiện này bất ngờ thu hút sự chú ý của khoa học đối với một loài cây đã tồn tại trong sự lặng lẽ tương đối qua nhiều thế hệ, và tình trạng pháp lý của nó ngày nay rất khác nhau giữa các quốc gia và khu vực. Ngày nay, xô thơm bói toán được trồng trong các bộ sưu tập thực vật và vườn khắp thế giới, được coi trọng không phải vì một công dụng thực tiễn nào mà vì lịch sử dân tộc thực vật học độc đáo và tán lá mượt như nhung, khiêm nhường che giấu nó.",
+        "name_origin": "Tên chi Salvia xuất phát từ tiếng Latin salvare, nghĩa là 'chữa lành' hoặc 'cứu giúp', phản ánh danh tiếng dược liệu lâu đời của các loài xô thơm. Tên loài divinorum trong tiếng Latin có nghĩa là 'của những người bói toán', nhắc trực tiếp đến vai trò truyền thống của cây trong các nghi lễ bói toán của người Mazatec.",
+        "symbolism_story": "Vì tác dụng của nó đến và tan biến nhanh chóng, hầu như không để lại dấu vết rõ ràng, xô thơm bói toán gắn liền với những ý niệm về tri thức ẩn giấu và sự hiển lộ chóng vánh. Truyền thống Mazatec xem nó như một người dẫn đường hiền hòa hơn là một thế lực cần chế ngự, một loài cây được thỉnh cầu một cách khiêm nhường, trong bóng tối, và được đối xử như một người cố vấn hơn là một phương thuốc.",
+        "flower_meaning": "Nhận thức ẩn giấu",
+        "fragrance": {
+          "notes": "Lá tỏa ra mùi thơm nhẹ, có hương đất và hơi giống bạc hà khi bị vò hoặc nghiền nát."
+        },
+        "uses_list": [
+          {
+            "text": "Đóng vai trò trung tâm trong các nghi lễ bói toán và chữa bệnh truyền thống của người Mazatec ở Oaxaca, Mexico."
+          },
+          {
+            "text": "Được các nhà sưu tập trên toàn thế giới trồng vì tán lá sum suê, mượt như nhung và sự hiếm có về mặt thực vật học."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Nhận thức ẩn giấu",
+            "description": "Một loài cây được thỉnh cầu lặng lẽ để tìm câu trả lời vượt ngoài tầm nhìn thông thường."
+          },
+          {
+            "keyword": "Sự che chở",
+            "description": "Được các thầy lang Mazatec gọi là một người dẫn đường hiền hòa, che chở, chứ không phải một thế lực để điều khiển."
+          }
+        ],
+        "toxicity": {
+          "headline": "Không có độc tính được báo cáo",
+          "active_compound_display": "Không có báo cáo",
+          "notes_en": "Không tìm thấy kết quả khớp về độc tính từ nguồn đáng tin cậy; được coi là chưa được báo cáo (ước tính từ LLM không được xác minh nguồn).",
+          "human": {
+            "exposure": "Không có đường tiếp xúc nào được báo cáo.",
+            "effect": "Không có tác dụng độc hại nào được báo cáo.",
+            "note": "Độc tính đối với con người chưa được ghi nhận rõ; hãy thận trọng cho đến khi được xác minh."
+          },
+          "dog": {
+            "exposure": "Không có đường phơi nhiễm nào được báo cáo.",
+            "effect": "Không có tác dụng độc hại nào được báo cáo.",
+            "note": "Không có độc tính nào được báo cáo đối với chó trong danh mục này; điều này không phải là bằng chứng cho thấy cây có thể ăn được hoặc vô hại."
+          },
+          "cat": {
+            "exposure": "Không có đường phơi nhiễm nào được báo cáo.",
+            "effect": "Không có tác dụng độc hại nào được báo cáo.",
+            "note": "Không có độc tính nào được báo cáo đối với mèo trong danh mục này; điều này không phải là bằng chứng cho thấy cây có thể ăn được hoặc vô hại."
+          }
+        }
+      }
+    },
+    "AAA1704": {
+      "source_hash": "8c13c1a561739647e3584b056fe5a7f9429a6a9e66e6baf027bd02755977b689",
+      "fields": {
+        "common_name": "Bàng",
+        "bloom_tip": "Hoa của cây này nở vào mùa hè.",
+        "fruit_tip": "Quả chín vào mùa thu và có giá trị trang trí.",
+        "description": "Bàng là loài cây ven biển có tán rộng, nổi tiếng với hình dáng tầng tầng như ngôi chùa, cành vươn ra thành từng lớp phẳng, xếp tầng từ một thân cây to chắc. Lá to, dày và dai chuyển sang màu đỏ và cam rực rỡ trước khi rụng hai lần mỗi năm, bao quanh những chùm hoa trắng nhỏ, thơm nhẹ thu hút ong. Tiếp theo là quả dẹt, có lớp vỏ xốp như bấc, chín dần từ xanh sang nâu đỏ và bên trong chứa một hạt giống quả hạnh. Mọc phổ biến trên các bãi biển và vùng ven biển chịu ảnh hưởng của triều ở vùng nhiệt đới, cây bàng chịu được hơi mặn, gió mạnh và đất cát nghèo dinh dưỡng, nên được ưa chuộng trồng làm cây che bóng ở công viên ven biển, đại lộ và vườn gần biển.",
+        "history_text_short": "Quả xốp của cây bàng trôi nổi theo dòng hải lưu, giúp nó lan ra khắp các bờ biển nhiệt đới Ấn Độ Dương và Thái Bình Dương từ rất lâu trước khi con người đặt chân tới. Ngày nay, lá bàng rụng được ngâm trong bể cá khắp thế giới để xử lý nước cho cá cảnh.",
+        "history_text_long": "Rất lâu trước khi con người mang cây bàng đi khắp các lục địa, chính cây đã tự lan rộng. Quả của nó có lớp vỏ dày, xốp như bấc, giữ không khí bên trong, cho phép nó trôi nổi hàng tháng trên dòng hải lưu mà hạt bên trong vẫn giữ được khả năng nảy mầm. Hàng nghìn năm qua, sóng và thủy triều đã mang những hạt giống có khả năng nổi này đi giữa các đảo và lục địa, gieo mầm trên các bãi biển từ Ấn Độ Dương sang Thái Bình Dương và cuối cùng tới tận bờ biển Tây Phi và vùng Caribe -- một trong những ví dụ rõ ràng nhất về loài cây chiếm lĩnh vùng nhiệt đới bằng đường biển chứ không chỉ nhờ tay con người. Sau đó, các nhà quy hoạch thời thuộc địa đã tận dụng khả năng chịu mặn và tán lá dày, xếp tầng của cây để trồng dọc đại lộ và đường ven biển từ Mumbai đến Lagos rồi Havana. Trong vài thập niên gần đây, cây bàng tìm được một nhóm người yêu thích hoàn toàn khác: những người chơi cá cảnh. Lá khô rụng, được bán trên toàn thế giới đơn giản với tên 'lá bàng' hay 'lá hạnh Ấn Độ', được ngâm trong bể nước ngọt để giải phóng tannin, làm nước chuyển màu hổ phách, hạ độ pH và mang lại tác dụng kháng khuẩn, kháng nấm nhẹ. Những người nuôi cá betta ở Thái Lan và Indonesia đã phổ biến cách làm này từ nhiều thế hệ trước để giúp cá bị thương hoặc căng thẳng phục hồi, và từ đó nó trở thành một nghi thức quen thuộc với người chơi cá cảnh trên toàn thế giới -- cùng một loài cây từng trôi dạt trên đại dương giờ đây tiếp tục cuộc hành trình của mình trong những bể kính đặt trên kệ phòng ngủ.",
+        "name_origin": "Tên chi Terminalia xuất phát từ tiếng Latinh terminus, nghĩa là 'điểm cuối' hoặc 'ranh giới', chỉ cách lá mọc tụm lại ở ngay đầu cành. Tên loài catappa bắt nguồn từ ketapang, từ tiếng Malay chỉ loài cây này, phản ánh lịch sử lâu đời của nó dọc theo các bờ biển Đông Nam Á.",
+        "symbolism_story": "Vì quả của nó có thể trôi dạt hàng tháng trên biển khơi mà vẫn nảy mầm được sau khi dạt vào bờ, cây bàng đã trở thành một biểu tượng thầm lặng cho sự bền bỉ và sự trở về -- một lời nhắc rằng một điều gì đó có thể đi rất xa khỏi nơi bắt đầu mà vẫn bén rễ được. Tán lá rộng, xếp tầng của cây càng củng cố cảm giác chở che ấy, mang bóng mát đến cho cả những người lữ hành và cộng đồng ven biển.",
+        "flower_meaning": "Bền bỉ",
+        "fragrance": {
+          "notes": "Những chùm hoa trắng nhỏ tỏa ra hương thơm nhẹ, ngọt ngào thu hút ong."
+        },
+        "uses_list": [
+          {
+            "text": "Được trồng làm cây che bóng dọc bãi biển, đại lộ và công viên ven biển nhờ tán lá xếp tầng như chiếc dù."
+          },
+          {
+            "text": "Hạt giống quả hạnh bên trong quả có thể ăn sống hoặc rang, có vị béo nhẹ như hạt."
+          },
+          {
+            "text": "Lá và vỏ cây giàu tannin được dùng trong các bài thuốc dân gian trị tiêu chảy và các bệnh về da, còn lá khô được ngâm trong bể cá nhờ tác dụng kháng khuẩn."
+          },
+          {
+            "text": "Gỗ màu nâu đỏ chống được mối và mục, nên được ưa chuộng để đóng thuyền và làm đồ nội thất ở các cộng đồng ven biển."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Bền bỉ",
+            "description": "Hạt giống của nó sống sót qua hàng tháng trôi dạt trên biển, tượng trưng cho sức chịu đựng và khả năng bén rễ ở nơi xa quê hương."
+          },
+          {
+            "keyword": "Chở che",
+            "description": "Tán lá rộng, xếp tầng của cây từ lâu đã mang lại bóng mát và một nơi tụ họp trên các bờ biển nhiệt đới."
+          }
+        ],
+        "toxicity": {
+          "headline": "Không có báo cáo về độc tính",
+          "active_compound_display": "Không có báo cáo",
+          "notes_en": "Không tìm thấy sự trùng khớp với nguồn đáng tin cậy; được phân loại là chưa được báo cáo (ước tính của AI chưa được nguồn xác minh).",
+          "human": {
+            "exposure": "Không có đường phơi nhiễm nào được báo cáo.",
+            "effect": "Không có tác dụng độc nào được báo cáo.",
+            "note": "Không có độc tính nào được báo cáo đối với con người trong danh mục này; điều này không phải là bằng chứng cho thấy cây ăn được hoặc vô hại."
+          },
+          "dog": {
+            "exposure": "Không có đường phơi nhiễm nào được báo cáo.",
+            "effect": "Không có tác dụng độc nào được báo cáo.",
+            "note": "Không có độc tính nào được báo cáo đối với chó trong danh mục này; điều này không phải là bằng chứng cho thấy cây ăn được hoặc vô hại."
+          },
+          "cat": {
+            "exposure": "Không có đường phơi nhiễm nào được báo cáo.",
+            "effect": "Không có tác dụng độc nào được báo cáo.",
+            "note": "Không có độc tính nào được báo cáo đối với mèo trong danh mục này; điều này không phải là bằng chứng cho thấy cây ăn được hoặc vô hại."
+          }
+        }
+      }
+    },
+    "AAA1705": {
+      "source_hash": "eba60208c78610dde03e271344637eb0adf5bd52378053ffe45cddae895b84e6",
+      "fields": {
+        "common_name": "Amaryllis Canastra",
+        "bloom_tip": "Hoa của loài cây này nở vào mùa đông và mùa xuân, và rất bắt mắt.",
+        "description": "Amaryllis Canastra là loài thân thảo sống lâu năm có củ, chỉ được biết đến ở Serra da Canastra, một vùng núi cao hiểm trở thuộc bang Minas Gerais, Brazil, nơi loài này được đặt tên theo. Khác với hầu hết các loài họ hàng nhiều hoa, mỗi cuống hoa thường chỉ mang một bông hoa nhạt màu hình loa kèn duy nhất, đặc điểm mà nó chỉ chia sẻ với một vài loài họ hàng gần gũi nhất. Loài này mọc bám rễ trong những vùng đồng cỏ đá dễ cháy được gọi là campo rupestre, thường ra hoa trong những tháng sau khi cháy rừng xảy ra. Được mô tả lần đầu năm 2013, loài này vẫn là một trong những loài hiếm nhất và có phạm vi phân bố hẹp nhất trong chi của nó.",
+        "history_text_short": "Được mô tả lần đầu năm 2013 và chỉ được tìm thấy ở vùng cao nguyên Serra da Canastra của Brazil, loài amaryllis này chỉ ra một bông hoa nhạt màu trên mỗi cuống hoa, khác với hầu hết các loài họ hàng nhiều hoa. Nó mọc trên đồng cỏ đá dễ cháy và thường được quan sát thấy ra hoa trong những tháng sau khi cháy rừng xảy ra.",
+        "history_text_long": "Amaryllis Canastra mang tên của Serra da Canastra, một cao nguyên đồng cỏ đá hùng vĩ ở bang Minas Gerais, Brazil, nơi duy nhất loài này sinh trưởng. Loài này chỉ được chính thức công nhận vào năm 2013, khi các nhà thực vật học mô tả nó là một trong bốn loài Hippeastrum mới được tìm thấy trong cùng dãy núi cao này, một minh chứng đáng chú ý cho thấy còn bao nhiêu sự đa dạng vẫn ẩn giấu trong campo rupestre của Brazil, những vùng đồng cỏ đá bị lửa định hình bao phủ cao nguyên trung tâm của nó.\n\nHầu hết các loài Hippeastrum cho ra hai hoa hoặc nhiều hơn trên mỗi cuống hoa, nhưng Amaryllis Canastra chủ yếu chỉ ra một hoa duy nhất, mọc ở đỉnh mỗi cuống không lá, một tập tính kín đáo hơn mà nó chỉ chia sẻ với một vài loài họ hàng gần gũi nhất trong cùng dãy núi. Ống đài hoa (hypanthium) của nó, phần ống hẹp ở đáy hoa, dài từ ba đến bốn phẩy năm xentimét, và không có các phần phụ nhỏ bên trong gọi là paraperigone có ở một số loài liên quan.\n\nCampo rupestre là một cảnh quan được định hình bởi những đợt cháy định kỳ, và Amaryllis Canastra có vẻ tuân theo nhịp điệu đó: các nhà thực vật học đã ghi nhận các quần thể ra hoa trong những tháng sau khi lửa đã dọn sạch cỏ, một mô hình được chia sẻ bởi nhiều loài cây có củ và củ tròn ở vùng cao nguyên Brazil thích nghi với lửa, chúng tận dụng lượng dưỡng chất tăng lên và ánh sáng rộng mở của một cảnh quan vừa bị đốt để ra hoa và đậu hạt trước khi cỏ mọc lại xung quanh.",
+        "name_origin": "Tên chi Hippeastrum xuất phát từ tiếng Hy Lạp hippeus ('kỵ sĩ') và astron ('ngôi sao'). Tên loài canastrense ám chỉ Serra da Canastra, một dãy núi ở bang Minas Gerais, Brazil, và cũng là nơi duy nhất loài cây này được biết đến; chính từ 'canastra' trong tiếng Bồ Đào Nha có nghĩa là 'cái giỏ' hoặc 'rương', gợi đến hình dáng vuông vức, vách cao của dãy núi.",
+        "symbolism_story": "Trong những đồng cỏ bị lửa thiêu đốt của Serra da Canastra, Amaryllis Canastra thường chỉ được chú ý sau khi một trận cháy rừng dọn sạch lớp cỏ rối rậm vẫn thường che giấu nó. Bông hoa nhạt màu, đơn độc của nó, vươn lên từ lớp đất đen và đầy tro, đã khiến nó trở thành biểu tượng thầm lặng của sự hồi sinh trong mắt những người yêu thiên nhiên địa phương: lời hứa rằng sự sống trở lại nhanh chóng ngay khi một vùng đất bị thiêu rụi được trao lại không gian để thở.",
+        "flower_meaning": "Hồi sinh",
+        "fragrance": {
+          "notes": "Hoa nhạt màu của loài này không được ghi nhận là có hương thơm."
+        },
+        "uses_list": [
+          {
+            "text": "Một loài cây có củ vùng cao hiếm được các nhà sưu tập chuyên biệt tìm kiếm vì bông hoa nhạt màu đơn độc và kín đáo của nó, nhưng vì phạm vi phân bố tự nhiên quá nhỏ nên nguồn cây giống nhân từ vườn ươm là nguồn duy nhất có trách nhiệm."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Hồi sinh",
+            "description": "Nhờ ra hoa trong những tháng sau khi lửa quét qua đồng cỏ đá vùng cao của nó, Amaryllis Canastra đã trở thành biểu tượng của sự hồi sinh: sự sống mới trỗi dậy từ lớp đất đen sau khi ngọn lửa đã đi qua."
+          }
+        ],
+        "toxicity": {
+          "headline": "Người nhẹ · Vật nuôi trung bình",
+          "active_compound_display": "lycorine",
+          "notes_en": "Tất cả các bộ phận đều chứa alkaloid họ Thủy tiên (Amaryllidaceae), chủ yếu là lycorine, tập trung nhiều nhất ở củ; việc ăn vào có thể gây rối loạn tiêu hóa ở người và vật nuôi.",
+          "human": {
+            "exposure": "Ăn củ và nhựa cây. Chạm vào củ và nhựa cây.",
+            "effect": "Buồn nôn, nôn mửa và kích ứng da.",
+            "note": "Tất cả các bộ phận đều chứa alkaloid họ Thủy tiên (Amaryllidaceae), chủ yếu là lycorine, tập trung nhiều nhất ở củ; việc ăn vào có thể gây rối loạn tiêu hóa ở người và vật nuôi.",
+            "symptoms": [
+              "Buồn nôn.",
+              "Nôn mửa.",
+              "Kích ứng da."
+            ]
+          },
+          "dog": {
+            "exposure": "Ăn củ.",
+            "effect": "Nôn mửa, tiêu chảy, chảy nước dãi, lờ đờ và đau bụng.",
+            "note": "Tất cả các bộ phận đều chứa alkaloid họ Thủy tiên (Amaryllidaceae), chủ yếu là lycorine, tập trung nhiều nhất ở củ; việc ăn vào có thể gây rối loạn tiêu hóa ở người và vật nuôi.",
+            "symptoms": [
+              "Nôn mửa.",
+              "Tiêu chảy.",
+              "Chảy nước dãi.",
+              "Lờ đờ.",
+              "Đau bụng."
+            ]
+          },
+          "cat": {
+            "exposure": "Ăn củ.",
+            "effect": "Nôn mửa, tiêu chảy, chảy nước dãi, lờ đờ và đau bụng.",
+            "note": "Tất cả các bộ phận đều chứa alkaloid họ Thủy tiên (Amaryllidaceae), chủ yếu là lycorine, tập trung nhiều nhất ở củ; việc ăn vào có thể gây rối loạn tiêu hóa ở người và vật nuôi.",
+            "symptoms": [
+              "Nôn mửa.",
+              "Tiêu chảy.",
+              "Chảy nước dãi.",
+              "Lờ đờ.",
+              "Đau bụng."
+            ]
+          }
+        }
+      }
+    },
+    "AAA1706": {
+      "source_hash": "50730c5eed30af46b0ec2e782e96c9f719a6c9e6c09fef349688a6b1b0063ece",
+      "fields": {
+        "common_name": "Amaryllis Ferreyra",
+        "bloom_tip": "Hoa của loài cây này rất đẹp và thường nở từ mùa đông đến mùa hè.",
+        "description": "Amaryllis Ferreyra là loài thân thảo sống lâu năm có củ, chỉ được biết đến ở hai lưu vực sông biệt lập thuộc miền đông Peru, đó là sông Huallaga và sông Purus. Mỗi cuống hoa cao, không lá mang một cặp hoa hình loa kèn màu đỏ cam, có một sọc trắng mỏng trên hai trong số sáu cánh hoa, đặc điểm giúp phân biệt với loài gần gũi Hippeastrum puniceum. Lá hình dải của nó mọc dài bất thường, thích nghi với điều kiện nóng ẩm và mưa mùa dữ dội của vùng ven rừng Amazon. Loài này tự bất thụ và chỉ còn lại ở một vài quần thể rải rác, được coi là dễ bị tuyệt chủng.",
+        "history_text_short": "Được đặt theo tên nhà thực vật học người Peru Ramón Ferreyra và được mô tả lần đầu năm 1950, loài amaryllis này chỉ còn tồn tại ở hai lưu vực sông hẻo lánh thuộc miền đông Peru. Mỗi cuống hoa mang một cặp hoa đỏ cam có sọc trắng. Tự bất thụ và chỉ còn ở các quần thể rải rác, loài này được xếp vào nhóm dễ bị tuyệt chủng.",
+        "history_text_long": "Amaryllis Ferreyra mang tên của Ramón Ferreyra, một trong những nhà thực vật học người Peru năng nổ nhất của thế kỷ hai mươi, người đã dành hàng chục năm rong ruổi qua các lưu vực sông của đất nước mình để ghi chép lại hệ thực vật đáng kinh ngạc của nó. Loài cây mà ông thu thập được ở vùng sông nước hẻo lánh miền đông Peru đã được nhà chuyên môn về cây có củ người Mỹ Hamilton Paul Traub mô tả chính thức vào năm 1950, xếp loại là Amaryllis ferreyrae. Phải hơn bốn mươi năm sau, cùng với sự hiểu biết sâu hơn về chi này, các nhà phân loại học Roy Gereau và Lois Brako mới chuyển nó vào chi Hippeastrum năm 1993, đặt nó bên cạnh nhiều loài họ hàng có hoa hình loa kèn.\n\nNgày nay loài này chỉ còn tồn tại ở hai nơi được biết đến, cách nhau bởi một vùng hoang dã rộng lớn của Peru: lưu vực sông Huallaga và, xa hơn về phía nam, lưu vực sông Purus. Ở cả hai nơi, nó mọc trong điều kiện nóng và mưa nhiều, vươn lên những cuống hoa cao mang một cặp hoa đỏ cam, với sọc trắng mỏng trên các cánh hoa là một trong số ít điểm khác biệt có thể nhìn thấy so với loài Hippeastrum puniceum phổ biến hơn.\n\nSự cô lập này phải trả một giá. Amaryllis Ferreyra là loài tự bất thụ, nghĩa là mỗi bông hoa phải cần phấn hoa từ một cá thể khác về di truyền mới đậu hạt được. Trong các quần thể nhỏ, rải rác, việc tìm được cá thể phù hợp có thể hiếm hoi, và loài này đã được xếp vào danh sách dễ bị tuyệt chủng, một số phận mà nó chia sẻ với nhiều loài cây có củ đặc hữu phân bố hẹp ở vùng ven Amazon, nơi toàn bộ tương lai phụ thuộc vào một số ít quần thể còn sống sót.",
+        "name_origin": "Tên chi Hippeastrum xuất phát từ tiếng Hy Lạp hippeus ('kỵ sĩ' hoặc 'hiệp sĩ') và astron ('ngôi sao'), gợi đến những bông hoa hình sao rực rỡ của cây. Tên loài ferreyrae được đặt để tôn vinh Ramón Ferreyra, nhà thực vật học người Peru đầu tiên thu thập loài này.",
+        "symbolism_story": "Vì Amaryllis Ferreyra chỉ còn tồn tại ở hai lưu vực sông được biết đến, cách nhau hàng trăm kilômét, và phải phụ thuộc vào phấn hoa từ một cá thể khác về di truyền để đậu hạt, những người trồng cây và các nhà bảo tồn đã xem nó như một biểu tượng của sự kiên cường: một loài cây tồn tại không phải nhờ sự dồi dào, mà nhờ sự bền bỉ thuần túy, tiếp tục sống dù môi trường sống hoang dã của nó đang co lại xung quanh.",
+        "flower_meaning": "Kiên cường",
+        "fragrance": {
+          "notes": "Hoa của loài này không được ghi nhận là có hương thơm."
+        },
+        "uses_list": [
+          {
+            "text": "Được các nhà sưu tập cây có củ chuyên biệt trồng vì những bông hoa đỏ cam có sọc trắng nổi bật, nhưng vì hiếm gặp trong tự nhiên nên nguồn cây giống nhân từ vườn ươm là nguồn duy nhất có trách nhiệm."
+          },
+          {
+            "text": "Những bông hoa đỏ, hình ống của nó theo khuôn mẫu màu sắc và hình dạng thường gắn liền với việc thụ phấn nhờ chim ruồi ở họ Thủy tiên."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Kiên cường",
+            "description": "Chỉ còn tồn tại ở hai lưu vực sông biệt lập và phải phụ thuộc vào phấn hoa từ một cá thể khác về di truyền để đậu hạt, Amaryllis Ferreyra đã trở thành biểu tượng của sự kiên cường âm thầm: khả năng tồn tại trước những nghịch cảnh lớn trong một thế giới bị chia cắt."
+          }
+        ],
+        "toxicity": {
+          "headline": "Người nhẹ · Vật nuôi trung bình",
+          "active_compound_display": "lycorine",
+          "notes_en": "Tất cả các bộ phận đều chứa alkaloid họ Thủy tiên (Amaryllidaceae), chủ yếu là lycorine, tập trung nhiều nhất ở củ; việc ăn vào có thể gây rối loạn tiêu hóa ở người và vật nuôi.",
+          "human": {
+            "exposure": "Ăn củ và nhựa cây. Chạm vào củ và nhựa cây.",
+            "effect": "Buồn nôn, nôn mửa và kích ứng da.",
+            "note": "Tất cả các bộ phận đều chứa alkaloid họ Thủy tiên (Amaryllidaceae), chủ yếu là lycorine, tập trung nhiều nhất ở củ; việc ăn vào có thể gây rối loạn tiêu hóa ở người và vật nuôi.",
+            "symptoms": [
+              "Buồn nôn.",
+              "Nôn mửa.",
+              "Kích ứng da."
+            ]
+          },
+          "dog": {
+            "exposure": "Ăn củ.",
+            "effect": "Nôn mửa, tiêu chảy, chảy nước dãi, lờ đờ và đau bụng.",
+            "note": "Tất cả các bộ phận đều chứa alkaloid họ Thủy tiên (Amaryllidaceae), chủ yếu là lycorine, tập trung nhiều nhất ở củ; việc ăn vào có thể gây rối loạn tiêu hóa ở người và vật nuôi.",
+            "symptoms": [
+              "Nôn mửa.",
+              "Tiêu chảy.",
+              "Chảy nước dãi.",
+              "Lờ đờ.",
+              "Đau bụng."
+            ]
+          },
+          "cat": {
+            "exposure": "Ăn củ.",
+            "effect": "Nôn mửa, tiêu chảy, chảy nước dãi, lờ đờ và đau bụng.",
+            "note": "Tất cả các bộ phận đều chứa alkaloid họ Thủy tiên (Amaryllidaceae), chủ yếu là lycorine, tập trung nhiều nhất ở củ; việc ăn vào có thể gây rối loạn tiêu hóa ở người và vật nuôi.",
+            "symptoms": [
+              "Nôn mửa.",
+              "Tiêu chảy.",
+              "Chảy nước dãi.",
+              "Lờ đờ.",
+              "Đau bụng."
+            ]
           }
         }
       }

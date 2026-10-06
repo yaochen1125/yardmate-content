@@ -3,8 +3,8 @@
   "locale": "de",
   "source": {
     "resource": "plants_detail.json",
-    "sha256": "dcc2b0a836aa15dec5b0969be846388cf70b7edd5719f9fde381784506ed8765",
-    "record_count": 1694
+    "sha256": "45d64574c073175ce1c844dfe07dfa6cc1a1c7e3713a75d9792994f5bd9af77d",
+    "record_count": 1705
   },
   "records": {
     "AAA0001": {
@@ -103702,6 +103702,686 @@
             "exposure": "Es ist kein Expositionsweg gemeldet.",
             "effect": "Es ist keine toxische Wirkung gemeldet.",
             "note": "Für Katzen ist in diesem Katalog keine Toxizität gemeldet; das ist kein Beleg dafür, dass die Pflanze essbar oder unbedenklich ist."
+          }
+        }
+      }
+    },
+    "AAA1696": {
+      "source_hash": "bd3e1d0b89735d29a0fe75a989cd2e4171f727142e68bd8c724c93e8cdaad621",
+      "fields": {
+        "common_name": "Wiesenchampignon",
+        "fruit_tip": "Die Fruchtkörper schieben sich nach Regen vom Hochsommer bis zum Herbst aus dem Boden und werden von Sammlern frisch für die Küche geerntet.",
+        "description": "Der Wiesenchampignon ist ein wild wachsender Speisepilz, der nach Regen auf Wiesen, Weiden und gut gedüngten Rasenflächen aufschießt, besonders im Spätsommer und Herbst. Sein glatter weißer bis cremefarbener Hut ist zunächst gewölbt und flacht mit zunehmendem Alter ab; er sitzt auf einem kurzen weißen Stiel mit einem dünnen, zarten Ring. Darunter beginnen die Lamellen blassrosa und verfärben sich mit der Reife über Schokoladenbraun, das deutlichste Merkmal, um ihn von den weißlamelligen Amanita-Arten zu unterscheiden, denen er ähneln kann. Milde und nussig im Geschmack, ist er ein naher wilder Verwandter des Kulturchampignons und bleibt ein Favorit unter Sammlern in ganz Europa und Nordamerika.",
+        "history_text_short": "Lange bevor es Pilzzucht gab, sammelten Menschen in Europa und Nordamerika jeden Herbst Wiesenchampignons von regengetränkten Weiden. Seine rosa bis braunen Lamellen sind der klassische Hinweis, der ihn von den tödlichen, weißlamelligen Amanita-Arten unterscheidet, denen er ähneln kann.",
+        "history_text_long": "Der Wiesenchampignon wird seit Jahrhunderten von Weiden und Wiesen in ganz Europa gesammelt, lange bevor es Pilzzucht überhaupt gab. Sein reichliches Auftreten nach Herbstregen machte ihn zu einem der vertrautesten Wildnahrungsmittel der europäischen Landschaft, der sowohl in alten Kräuterbüchern als auch in Bauernküchen auftaucht. Er gehört zur selben Gattung wie der kultivierte Champignon, der Braunchampignon und der Portobello, die alle auf einen nahen Verwandten zurückgehen, der erstmals im späten siebzehnten Jahrhundert gezielt in Melonenbeeten bei Paris angebaut wurde; im neunzehnten Jahrhundert verlegten Pariser Züchter den Anbau in die stillgelegten Kalksteinbrüche der Stadt, was die moderne Pilzzuchtindustrie begründete. Der wilde Wiesenchampignon selbst wurde nie auf dieselbe Weise domestiziert, und Sammler schätzen ihn gerade deshalb, weil man ihn finden statt anbauen muss. Ihn sicher zu sammeln, erforderte jedoch schon immer Vorsicht: Sein weißer Hut lässt sich auf den ersten Blick mit tödlichen Amanita-Arten verwechseln, die dieselben Wiesen besiedeln. Generationen von Sammlern lernten, zuerst die Lamellen und erst dann den Hut zu prüfen, blassrosa bei einem jungen Wiesenchampignon, mit zunehmendem Alter schokoladenbraun werdend, niemals das reine Weiß eines Knollenblätterpilzes, eine Gewohnheit, die überall dort als Grundregel der Pilzsicherheit weitergegeben wird, wo beide Arten nebeneinander wachsen.",
+        "name_origin": "Der Gattungsname Agaricus stammt vom griechischen agarikon, einem alten Begriff für Pilz, während der Artname campestris lateinisch für „der Felder“ ist und die offenen Weiden und Wiesen beschreibt, auf denen er wächst.",
+        "symbolism_story": "Da er über Nacht zu Dutzenden auf einer feuchten Wiese aufschießt, stand der Wiesenchampignon lange für die plötzliche Fülle der Natur, und wegen seiner verblüffenden Ähnlichkeit mit tödlichen Verwandten zugleich für die sanfte Mahnung, genau hinzusehen, bevor man annimmt, was einem geboten wird.",
+        "flower_meaning": "Fülle",
+        "fragrance": {
+          "notes": "Kein nennenswerter Duft außer einem milden, erdigen Pilzgeruch."
+        },
+        "uses_list": [
+          {
+            "text": "Ein milder, nussiger Wildspeisepilz, frisch von Weiden und Wiesen für die Küche gesammelt."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Fülle",
+            "description": "Da er scheinbar über Nacht über eine ganze Weide aufschießt, steht er seit langem für plötzlichen, natürlichen Überfluss."
+          },
+          {
+            "keyword": "Wachsamkeit",
+            "description": "Seine Ähnlichkeit mit tödlichen Amanita-Pilzen macht ihn zu einer stillen Erinnerung, genau hinzusehen, bevor man dem Schein vertraut."
+          }
+        ],
+        "toxicity": {
+          "headline": "Keine Toxizität gemeldet",
+          "active_compound_display": "Nichts gemeldet",
+          "notes_en": "Keine durch autoritative Quellen bestätigte Toxizität gefunden; wird als nicht gemeldet behandelt (LLM-Einschätzung ist nicht quellengeprüft).",
+          "human": {
+            "exposure": "Kein Expositionsweg gemeldet.",
+            "effect": "Keine toxische Wirkung gemeldet.",
+            "note": "Für diese Pflanze ist in diesem Katalog keine Toxizität für Menschen gemeldet; dies ist kein Beleg dafür, dass sie essbar oder unbedenklich ist."
+          },
+          "dog": {
+            "exposure": "Kein Expositionsweg gemeldet.",
+            "effect": "Keine toxische Wirkung gemeldet.",
+            "note": "Für diese Pflanze ist in diesem Katalog keine Toxizität für Hunde gemeldet; dies ist kein Beleg dafür, dass sie essbar oder unbedenklich ist."
+          },
+          "cat": {
+            "exposure": "Kein Expositionsweg gemeldet.",
+            "effect": "Keine toxische Wirkung gemeldet.",
+            "note": "Für diese Pflanze ist in diesem Katalog keine Toxizität für Katzen gemeldet; dies ist kein Beleg dafür, dass sie essbar oder unbedenklich ist."
+          }
+        }
+      }
+    },
+    "AAA1697": {
+      "source_hash": "93ea2f03e83463b4d9f886afcbc49bc036b5e62005b4915632a581def56f7c1d",
+      "fields": {
+        "common_name": "Gemeiner Hallimasch",
+        "fruit_tip": "Die Fruchtkörper des Gemeinen Hallimasch können kulinarisch verwendet werden, sollten aber richtig zubereitet werden.",
+        "description": "Der Gemeine Hallimasch bildet Büschel glatter, honigfarbener Hüte mit blassen Lamellen, die jeden Herbst am Fuß von Baumstämmen, Stümpfen und vergrabenen Wurzeln in Wäldern der nördlichen Hemisphäre erscheinen. Unter den sichtbaren Pilzen verbirgt sich der eigentliche Körper des Organismus: ein riesiges Netzwerk schwarzer, schnürchenartiger Fäden, sogenannter Rhizomorphe, die sich durch Erde und Holz ausbreiten und manchmal Tausende von Bäumen zu einer einzigen verbundenen Kolonie verknüpfen. Dieses Netzwerk befällt nach und nach lebende Baumwurzeln und verursacht eine zerstörerische Wurzelfäule, die ausgewachsene Bäume über Jahre oder Jahrzehnte schwächen oder töten kann. Trotz seines Rufs als Forstschädling werden junge Hallimasch-Hüte in vielen Regionen gesammelt und gegessen, sofern sie gründlich gekocht werden -- roh oder unzureichend gegart verursachen sie Magenbeschwerden.",
+        "history_text_short": "Der Gemeine Hallimasch baut ein verstecktes unterirdisches Netzwerk von solcher Ausdehnung, dass eine Kolonie in einem Wald in Oregon, als 'humongous fungus' bekannt, auf über zweitausend Jahre geschätzt wird und zu den größten je gefundenen Lebewesen zählt -- während sie zugleich langsam eine tödliche Wurzelfäule in genau den Bäumen verursacht, die über ihr wachsen.",
+        "history_text_long": "1998 machten sich Forstpathologen im Malheur National Forest in Oregon auf, ein Gebiet absterbender Bäume zu kartieren, und fanden etwas, das veränderte, was man sich unter einem einzelnen Lebewesen vorstellte. Genetische Tests des Hallimasch, der sich unter Tausenden von Hektar Wald durch den Boden zog, zeigten, dass es sich um einen einzigen Organismus handelte: ein einziges Myzel-Netzwerk, geschätzt auf weit über zweitausend Jahre alt, das sich unterirdisch über mehr als acht Quadratkilometer ausbreitete. Nachrichtenmedien nannten es rasch den 'humongous fungus', und er bleibt einer der stärksten Kandidaten für das größte und älteste je dokumentierte Lebewesen -- eine einzige Hallimasch-Kolonie, die die über ihr wachsenden Bäume still überlebt. Lange bevor jemand ihre DNA testen konnte, ahnten Menschen bereits, dass etwas Seltsames im Holz lebte. Dieselben schwarzen, schnurartigen Fäden, die der Hallimasch durch verrottende Stämme schickt, sind reich an luciferinbasierten Verbindungen und leuchten im Dunkeln schwach -- ein Phänomen, das Förster und Reisende seit Jahrhunderten als Foxfire bezeichneten und eher Geistern oder Sumpfgas zuschrieben als einem Pilz, der geduldig den Wald von unten verzehrt. Dieser geduldige Verzehr hat seinen Preis: Während sich das Netzwerk ausbreitet, schnürt es allmählich die Wurzeln lebender Bäume ein, und Förster und Obstbauern bekämpfen die Hallimasch-Wurzelfäule, solange sie Aufzeichnungen führen -- sie graben Gräben und entfernen befallene Stümpfe, um einen Organismus einzudämmen, der zu groß ist, um ihn einfach zu fällen.",
+        "name_origin": "Der Gattungsname Armillaria stammt vom lateinischen armilla, 'Armband' oder 'Ring', und beschreibt den ringartigen Gewebereste am Stiel vieler Arten dieser Gattung. Der Artname mellea ist Lateinisch für 'honigfarben' und beschreibt den warmen goldbraunen Ton des Hutes.",
+        "symbolism_story": "Weil ihr wahres Ausmaß jahrhundertelang unterirdisch verborgen bleibt, bevor es jemand bemerkt, ist der Gemeine Hallimasch zu einem treffenden Symbol für verborgene Kraft und stille Beharrlichkeit geworden -- Macht und Alter, die sich unsichtbar ansammeln und alles überdauern, was sichtbar auf der Oberfläche darüber wächst.",
+        "flower_meaning": "Verborgene Kraft",
+        "fragrance": {
+          "notes": "Hat einen milden, leicht süßlichen Pilzgeruch."
+        },
+        "uses_list": [
+          {
+            "text": "Junge Hüte werden in Teilen Europas, Asiens und Nordamerikas gesammelt und gegessen, sofern sie gründlich gekocht werden -- roh oder unzureichend gegart verursachen sie Magenbeschwerden."
+          },
+          {
+            "text": "Als Zersetzer baut er totes Holz ab und führt Nährstoffe zurück in den Waldboden, auch wenn seine Infektionen lebender Bäume Förstern Sorgen bereiten."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Verborgene Kraft",
+            "description": "Sein wahrer Körper ist ein riesiges, von oben unsichtbares Netzwerk -- ein Symbol für Macht und Beharrlichkeit, die unter der Oberfläche verborgen liegen."
+          },
+          {
+            "keyword": "Geduld",
+            "description": "Er breitet sich jahrhundertelang aus und nährt sich, bevor seine Anwesenheit überhaupt bemerkt wird -- ein Sinnbild für stille, langfristige Beharrlichkeit."
+          }
+        ],
+        "toxicity": {
+          "headline": "Toxizität unbekannt",
+          "active_compound_display": "Keine gemeldet",
+          "notes_en": "Keine Übereinstimmung mit einer autoritativen Quelle gefunden; als nicht gemeldet eingestuft (die KI-Schätzung ist nicht quellengeprüft).",
+          "human": {
+            "exposure": "Kein Expositionsweg gemeldet.",
+            "effect": "Keine toxische Wirkung gemeldet.",
+            "note": "Die Toxizität für Menschen ist nicht gut dokumentiert; bis zur Verifizierung ist Vorsicht geboten."
+          },
+          "dog": {
+            "exposure": "Kein Expositionsweg gemeldet.",
+            "effect": "Keine toxische Wirkung gemeldet.",
+            "note": "Die Toxizität für Hunde ist nicht gut dokumentiert; bis zur Verifizierung ist Vorsicht geboten."
+          },
+          "cat": {
+            "exposure": "Kein Expositionsweg gemeldet.",
+            "effect": "Keine toxische Wirkung gemeldet.",
+            "note": "Die Toxizität für Katzen ist nicht gut dokumentiert; bis zur Verifizierung ist Vorsicht geboten."
+          }
+        }
+      }
+    },
+    "AAA1698": {
+      "source_hash": "63ecba213ebe09f300e06ac785c2adb23b1855fbc92cf4c0b6bbcf8086dc0019",
+      "fields": {
+        "common_name": "Morelia-Amaryllis",
+        "description": "Die Morelia-Amaryllis ist eine zwiebelbildende Staude aus der Amaryllisfamilie, geschätzt für den hohen, blattlosen Blütenstiel, der jede Saison aus der Zwiebel aufsteigt und sich zu mehreren großen, trichterförmigen Blüten in kräftigem Rot öffnet. Riemenförmige grüne Blätter erscheinen getrennt, oft erst nachdem die Blüten verblüht sind, was der Pflanze einen dramatischen, fast theatralischen Blühzyklus verleiht. Benannt nach Morelia, der mexikanischen Stadt, in deren Nähe sie erstmals beschrieben wurde, wird diese kompakte Zwiebel selten höher als sechzig Zentimeter und meist in Töpfen im Haus kultiviert, wo ihre kräftigen Trichterblüten in den kühleren Monaten für einen Farbausbruch auf der Fensterbank sorgen.",
+        "history_text_short": "Benannt nach der mexikanischen Stadt Morelia, wo sie erstmals wild in den Hügeln gesammelt wurde, gehört diese Amaryllis zur selben Zwiebelfamilie, die der Welt ihre berühmte Wintergeschenk-Tradition schenkte: eine ruhende Zwiebel, die innerhalb von Wochen drinnen aufblüht, ganz ohne Erde oder Jahreszeit.",
+        "history_text_long": "Die Morelia-Amaryllis trägt ihren Namen nach Morelia, einer Hochlandstadt in Michoacan, Mexiko, wo Botaniker im 19. Jahrhundert die Art erstmals wild in den umgebenden Hügeln sammelten und beschrieben. Wie viele ihrer wilden amerikanischen Verwandten gehört sie zu einer Gattung, die europäische Zwiebelhändler schon seit dem 18. Jahrhundert exportierten -- geschätzt vor allem für einen Trick des Timings: Eine ruhende Zwiebel, die man im tiefsten Winter drinnen mit Wasser und Wärme versorgt, treibt einen dicken Blütenstiel und blüht innerhalb weniger Wochen auf, ohne dass Erde, Sonnenlicht oder Jahreszeit dafür nötig wären. Dieser Trick machte die Gattung zu einem der bekanntesten Wintergeschenke der Welt, das jeden Dezember als verpackte Zwiebel verkauft wird, um sie auf der Fensterbank 'anzutreiben' -- ein kleines Stück mexikanischer Hügellandschaft, das mitten im nordhemisphärischen Winter drinnen blüht. Die Morelia-Amaryllis selbst bleibt ihren wilden Ursprüngen näher als die großen Hybridzwiebeln aus dem Supermarkt: Ihre Blüten sind etwas kleiner, ihr Wuchs etwas zarter -- eine lebende Erinnerung an die Berghänge, von denen die ganze Feiertagstradition ihren Ausgang nahm.",
+        "name_origin": "Der Gattungsname Hippeastrum stammt vom griechischen hippeus ('Reiter' oder 'Ritter') und astron ('Stern') und beschreibt die sternförmigen, nach oben gerichteten Blüten. Der Artname morelianum verweist auf Morelia, die mexikanische Stadt, in deren Nähe die Pflanze erstmals gesammelt und beschrieben wurde.",
+        "symbolism_story": "Weil ihre Zwiebel eine trockene, blattlose Ruhephase durchlaufen muss, bevor sie einen hohen Stiel mit kräftigen, trichterförmigen Blüten hervorbringt, trägt die Morelia-Amaryllis seit langem die Bedeutung von Entschlossenheit und hart errungenem Erfolg -- Schönheit, die erst nach einer Phase stiller Ausdauer erscheint. Ihre dramatischen, selbstbewussten Blüten haben sie, wie andere Amaryllis-Arten, auch zu einem traditionellen Sinnbild strahlender, selbstsicherer Schönheit gemacht.",
+        "flower_meaning": "Entschlossenheit",
+        "fragrance": {
+          "notes": "Ihre großen Blüten haben kaum oder gar keinen wahrnehmbaren Duft."
+        },
+        "uses_list": [
+          {
+            "text": "Wird als Topfzwiebelpflanze kultiviert, geschätzt für den hohen Stiel mit großen, trichterförmigen roten Blüten, die sie jede Saison hervorbringt."
+          },
+          {
+            "text": "Ihre langlebigen Blütenstiele sind als Schnittblumen in Arrangements beliebt."
+          },
+          {
+            "text": "Die großen, nektarreichen Blüten locken in ihrer mexikanischen Heimat Kolibris und bestäubende Insekten an."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Entschlossenheit",
+            "description": "Ihre Zwiebel ruht durch eine blattlose Ruhephase, bevor sie einen kräftigen Blütenstiel hervorbringt, und wird so zu einem klassischen Sinnbild für Entschlossenheit und hart errungenen Erfolg."
+          },
+          {
+            "keyword": "Strahlende Schönheit",
+            "description": "Die trichterförmigen Blüten öffnen sich weit und kräftig -- ein traditionelles Symbol für auffällige, selbstbewusste Schönheit."
+          }
+        ],
+        "toxicity": {
+          "headline": "Menschen mäßig · Haustiere mäßig",
+          "active_compound_display": "Lycorin",
+          "notes_en": "Die Zwiebel enthält Lycorin und andere Alkaloide, die bei Verzehr oder Handhabung Magen-Darm-Beschwerden und Hautreizungen verursachen; als giftig für Menschen, Hunde und Katzen eingestuft, hauptsächlich wegen der Zwiebel.",
+          "human": {
+            "exposure": "Verzehr von Zwiebeln und Saft. Berührung von Zwiebeln und Saft.",
+            "effect": "Übelkeit, Erbrechen, Bauchschmerzen und Hautreizung.",
+            "note": "Die Zwiebel enthält Lycorin und andere Alkaloide, die bei Verzehr oder Handhabung Magen-Darm-Beschwerden und Hautreizungen verursachen; als giftig für Menschen, Hunde und Katzen eingestuft, hauptsächlich wegen der Zwiebel.",
+            "symptoms": [
+              "Übelkeit.",
+              "Erbrechen.",
+              "Bauchschmerzen.",
+              "Hautreizung."
+            ]
+          },
+          "dog": {
+            "exposure": "Verzehr von Zwiebeln.",
+            "effect": "Erbrechen, Durchfall, Speicheln, Lethargie und Zittern.",
+            "note": "Die Zwiebel enthält Lycorin und andere Alkaloide, die bei Verzehr oder Handhabung Magen-Darm-Beschwerden und Hautreizungen verursachen; als giftig für Menschen, Hunde und Katzen eingestuft, hauptsächlich wegen der Zwiebel.",
+            "symptoms": [
+              "Erbrechen.",
+              "Durchfall.",
+              "Speicheln.",
+              "Lethargie.",
+              "Zittern."
+            ]
+          },
+          "cat": {
+            "exposure": "Verzehr von Zwiebeln.",
+            "effect": "Erbrechen, Durchfall, Speicheln und Lethargie.",
+            "note": "Die Zwiebel enthält Lycorin und andere Alkaloide, die bei Verzehr oder Handhabung Magen-Darm-Beschwerden und Hautreizungen verursachen; als giftig für Menschen, Hunde und Katzen eingestuft, hauptsächlich wegen der Zwiebel.",
+            "symptoms": [
+              "Erbrechen.",
+              "Durchfall.",
+              "Speicheln.",
+              "Lethargie."
+            ]
+          }
+        }
+      }
+    },
+    "AAA1699": {
+      "source_hash": "3afa9da8353590bbed633a5a270ca6b603f562fcc9d45f4100b04e35d87896ae",
+      "fields": {
+        "common_name": "Ölbaumtrichterling",
+        "description": "Der Ölbaumtrichterling bildet dichte, sich überlappende Büschel aus glatten, trichterförmigen Hüten in kräftigem Orange, die direkt aus vergrabenen Wurzeln und verrottenden Stümpfen von Laubbäumen wachsen, besonders Eichen und Oliven. Seine dicht stehenden Lamellen laufen am sich verjüngenden Stiel herab und leuchten, bemerkenswerterweise, im völligen Dunkeln schwach grün -- eine Eigenschaft, die auf natürliche biolumineszente Verbindungen im Fleisch zurückgeht. Der Pilz ist in Herbstwäldern Europas und des östlichen Nordamerikas häufig anzutreffen und wird oft mit essbaren Pfifferlingen verwechselt, ist jedoch nicht essbar und verursacht beim Verzehr erhebliche Magen-Darm-Beschwerden.",
+        "history_text_short": "Der Ölbaumtrichterling wächst in leuchtend orangen Büscheln auf verrottenden Stümpfen und ist für zwei Dinge bekannt: Seine Lamellen leuchten im Dunkeln schwach grün, und seine Ähnlichkeit mit Pfifferlingen hat schon viele eifrige Pilzsammler statt zum Abendessen zu einer schweren Lebensmittelvergiftung geführt.",
+        "history_text_long": "Lange bevor jemand Biolumineszenz verstand, sahen Menschen beim nächtlichen Gang durch alte Laubwälder manchmal ein seltsames, kaltes grünes Leuchten, das aus verrottenden Stümpfen und vergrabenen Wurzeln aufstieg. Jahrhundertelang wurde dieses geisterhafte Licht -- im Volksglauben als Foxfire bekannt -- Geistern, Irrlichtern oder schlicht unerklärlicher Magie zugeschrieben. Erst viel später führten Naturforscher einige dieser leuchtenden Stellen auf Pilze im Holz zurück, darunter den Ölbaumtrichterling, dessen Lamellen eine luciferinbasierte chemische Reaktion enthalten, ähnlich jener, die Glühwürmchen zum Leuchten bringt. Bei Tageslicht wirkt der Pilz fast fröhlich: Er wächst in dichten, leuchtend orangen Büscheln am Fuß von Eichen und Olivenbäumen, in Farbe und Form nah genug an Pfifferlingen, um von Sammlern verwechselt zu werden, die genau diese suchen. Diese Ähnlichkeit macht ihn zu einer der häufigsten gemeldeten Ursachen für Pilzvergiftungen in Europa und Nordamerika. Anders als die tödlichsten Pilze bringt er selten den Tod, aber die Illudine in seinem Fleisch verursachen stundenlanges schweres Erbrechen, Krämpfe und Durchfall -- eine harte Lehre für alle, die die entscheidende Prüfung übersprungen haben: echte Pfifferlinge haben flache, stumpfe Leisten statt echter Lamellen, und sie leuchten niemals. Mykologische Vereine nutzen den Ölbaumtrichterling heute als Standardbeispiel im Feld, genau weil er Sammlern beibringt, langsamer vorzugehen und genau hinzusehen, bevor irgendetwas in den Korb kommt.",
+        "name_origin": "Der Gattungsname Omphalotus stammt vom griechischen omphalos, 'Nabel', und beschreibt die kleine zentrale Vertiefung, die oft auf dem Hut des Pilzes zu finden ist. Der Artname olearius ist Lateinisch für 'den Ölbaum betreffend' und spiegelt wider, wie häufig der Pilz am Fuß von Olivenbäumen im Mittelmeerraum fruchtet.",
+        "symbolism_story": "Weil er sich im selben fröhlichen Orange kleidet wie ein geschätzter Speisepilz, darunter aber ein scharfes Gift verbirgt, ist der Ölbaumtrichterling zu einem natürlichen Sinnbild für trügerischen Schein geworden -- eine Warnung, dass nicht alles Einladende ungefährlich ist. Seine zweite Eigenschaft mildert diese Warnung: In völliger Dunkelheit geben seine Lamellen ein schwaches grünes Licht ab, ein verborgenes Leuchten, das still in etwas sonst leicht Übersehenem steckt.",
+        "flower_meaning": "Täuschung",
+        "fragrance": {
+          "notes": "Hat keinen auffälligen Duft, abgesehen von einem schwachen, unauffälligen Pilzgeruch."
+        },
+        "uses_list": [
+          {
+            "text": "Aus dem Fleisch dieses Pilzes isolierte Illudine werden von Pharmaforschern als Grundlage für experimentelle Krebsmedikamente untersucht."
+          },
+          {
+            "text": "Als holzzersetzender Pilz baut er abgestorbene Laubholzstümpfe und -wurzeln ab und führt Nährstoffe zurück in den Waldboden."
+          },
+          {
+            "text": "Mykologische Vereine und Nachtwanderer suchen ihn nach Einbruch der Dunkelheit wegen seines schwachen, unheimlichen grünen Leuchtens."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Täuschung",
+            "description": "Seine fröhliche, pfifferlingähnliche Farbe verbirgt ein Gift, das Generationen von Sammlern getäuscht hat, und macht ihn zu einem natürlichen Symbol für trügerischen Schein."
+          },
+          {
+            "keyword": "Verborgenes Licht",
+            "description": "Seine Lamellen leuchten in völliger Dunkelheit schwach -- eine stille Erinnerung daran, dass Licht aus den unerwartetsten, unauffälligsten Orten kommen kann."
+          }
+        ],
+        "toxicity": {
+          "headline": "Toxizität unbekannt",
+          "active_compound_display": "Keine gemeldet",
+          "notes_en": "Keine Übereinstimmung mit einer autoritativen Quelle gefunden; als nicht gemeldet eingestuft (die KI-Schätzung ist nicht quellengeprüft).",
+          "human": {
+            "exposure": "Kein Expositionsweg gemeldet.",
+            "effect": "Keine toxische Wirkung gemeldet.",
+            "note": "Die Toxizität für Menschen ist nicht gut dokumentiert; bis zur Verifizierung ist Vorsicht geboten."
+          },
+          "dog": {
+            "exposure": "Kein Expositionsweg gemeldet.",
+            "effect": "Keine toxische Wirkung gemeldet.",
+            "note": "Die Toxizität für Hunde ist nicht gut dokumentiert; bis zur Verifizierung ist Vorsicht geboten."
+          },
+          "cat": {
+            "exposure": "Kein Expositionsweg gemeldet.",
+            "effect": "Keine toxische Wirkung gemeldet.",
+            "note": "Die Toxizität für Katzen ist nicht gut dokumentiert; bis zur Verifizierung ist Vorsicht geboten."
+          }
+        }
+      }
+    },
+    "AAA1700": {
+      "source_hash": "17b609170ed729ef8d0aabcc4188dd8bf7d169d2f67a2ec6c4d05b757b9aa2ba",
+      "fields": {
+        "common_name": "Madagaskarpalme",
+        "bloom_tip": "Ausgewachsene Pflanzen blühen im Sommer mit duftenden weißen, fünfblättrigen Blüten, die sich an der Kronenspitze des Stammes öffnen.",
+        "fruit_tip": "Nach den Blüten bilden sich schlanke Samenkapseln, die aufspringen und seidig behaarte Samen freisetzen, die vom Wind fortgetragen werden.",
+        "description": "Die Madagaskarpalme ist keine echte Palme, sondern ein dorniges Sukkulentengewächs aus der Familie der Hundsgiftgewächse, beheimatet im trockenen, steinigen Buschland Süd-Madagaskars. Ihr dicker, geschwollener Stamm speichert Wasser über lange Trockenperioden und ist mit scharfen, grauen Dornen in ordentlichen Reihen entlang des Stammes bewehrt. Auf dem Stamm sitzt eine Krone aus langen, schmalen, glänzenden Blättern, die in Trockenzeiten abfallen und mit den Regenfällen wieder austreiben, was der Pflanze ihre palmenartige Silhouette verleiht. Ausgewachsene Exemplare tragen im Sommer duftende weiße Blüten mit zartgelbem Schlund, gefolgt von schlanken Kapseln, die aufspringen und seidig behaarte Samen im Wind verstreuen. Langsam wachsend und trockenheitsverträglich, gedeiht sie in voller Sonne und sandigem, gut durchlässigem Boden und ist damit ein markantes architektonisches Exemplar für trockene Gärten und sonnige Terrassen.",
+        "history_text_short": "Benannt nach ihrem dicken, wasserspeichernden Stamm (griechisch für „dicker Fuß“), stammt die Madagaskarpalme aus Madagaskars trockenem Dornwald, nicht aus den Tropen. Trotz ihrer palmenartigen Krone ist sie eine sukkulente Verwandte des Oleanders und heute eine beliebte Pflanze für sonnige Fensterbänke weltweit.",
+        "history_text_long": "Die Madagaskarpalme gehört zur Gattung Pachypodium, einer Gruppe geschwollenstämmiger Sukkulenten, die französische Botaniker im späten 19. Jahrhundert bei der Erforschung Madagaskars außergewöhnlicher Flora katalogisierten. Die Madagaskarpalme wurde 1899 offiziell als Pachypodium lamerei beschrieben; der Gattungsname leitet sich vom griechischen pachys, „dick“, und podos, „Fuß“, ab – ein Hinweis auf den stämmigen, wasserspeichernden Stamm. In ihrem natürlichen Verbreitungsgebiet wächst sie verstreut im Dornwald des südlichen und südwestlichen Madagaskars, einem trockenen Dickicht-Ökosystem, das es sonst kaum irgendwo auf der Erde gibt, gemeinsam mit Oktopusbäumen, Baobabs und den endemischen Lemuren und Strahlenschildkröten der Insel. Dort ist ihr geschwollener Stamm eine Anpassung an monatelange Trockenheit und speichert Wasser, von dem die Pflanze lange nach Ende der Regenfälle noch zehrt. Obwohl ihre schmale Blattkrone und ihr dorniger Stamm an eine tropische Palme erinnern, ist sie tatsächlich eng mit dem Oleander und der Wüstenrose verwandt und gehört zur selben Familie milchsaftführender Hundsgiftgewächse. Ihre anspruchslose Art und markante Silhouette brachten sie im 20. Jahrhundert aus Madagaskars Trockenwäldern in Gärtnereien weltweit, wo sie zu einer der meistverkauften „palmenartigen“ Sukkulenten für sonnige Fensterbänke und Wüstengärten wurde, geschätzt von Sammlern, die Pachypodien über viele geduldige Jahre aus Samen ziehen.",
+        "name_origin": "Der Gattungsname Pachypodium stammt vom griechischen pachys („dick“) und podos („Fuß“) und beschreibt den geschwollenen, wasserspeichernden Stamm. Obwohl sie wegen ihrer palmenartigen Blattkrone gewöhnlich Madagaskarpalme genannt wird, ist sie keine echte Palme, sondern eine sukkulente Verwandte des Oleanders.",
+        "symbolism_story": "Aufragend aus Madagaskars ausgetrocknetem Dornwald, mit einem geschwollenen, dornenbewehrten Stamm, der dafür gebaut ist, die Trockenzeit zu überstehen, ist die Madagaskarpalme zu einem Symbol der Widerstandskraft geworden: der stillen Stärke, zu speichern, was man braucht, und auszuhalten, bis sich die Bedingungen ändern.",
+        "flower_meaning": "Widerstandskraft",
+        "fragrance": {
+          "notes": "Ausgewachsene Pflanzen bilden im Sommer mild süß duftende weiße Blüten."
+        },
+        "uses_list": [
+          {
+            "text": "Eine markante architektonische Sukkulente für sonnige Terrassen, Innenhöfe und wassersparende Gärten."
+          },
+          {
+            "text": "Duftende Sommerblüten locken Bienen und andere Bestäuber an."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Widerstandskraft",
+            "description": "Ihr wasserspeichernder Stamm und ihre Fähigkeit, monatelange Trockenheit zu überstehen, machen sie zu einem Symbol stiller Ausdauer."
+          },
+          {
+            "keyword": "Schutz",
+            "description": "Reihen scharfer Dornen entlang des Stammes wirken wie Wachsamkeit und Selbstverteidigung."
+          }
+        ],
+        "toxicity": {
+          "headline": "Toxizität unbekannt",
+          "active_compound_display": "Nichts gemeldet",
+          "notes_en": "Keine durch autoritative Quellen bestätigte Toxizität gefunden; wird als nicht gemeldet behandelt (LLM-Einschätzung ist nicht quellengeprüft).",
+          "human": {
+            "exposure": "Kein Expositionsweg gemeldet.",
+            "effect": "Keine toxische Wirkung gemeldet.",
+            "note": "Die Toxizität für Menschen ist nicht gut dokumentiert; bis zur Verifizierung ist Vorsicht geboten."
+          },
+          "dog": {
+            "exposure": "Kein Expositionsweg gemeldet.",
+            "effect": "Keine toxische Wirkung gemeldet.",
+            "note": "Die Toxizität für Hunde ist nicht gut dokumentiert; bis zur Verifizierung ist Vorsicht geboten."
+          },
+          "cat": {
+            "exposure": "Kein Expositionsweg gemeldet.",
+            "effect": "Keine toxische Wirkung gemeldet.",
+            "note": "Die Toxizität für Katzen ist nicht gut dokumentiert; bis zur Verifizierung ist Vorsicht geboten."
+          }
+        }
+      }
+    },
+    "AAA1701": {
+      "source_hash": "31056c524236868c7cd29afa5a14cf1c4efc18d292c0bbf41d8711e65de9c1c9",
+      "fields": {
+        "common_name": "Blasenkirsche",
+        "bloom_tip": "Bildet im Sommer kleine gelbe Blüten.",
+        "fruit_tip": "Die Frucht ist klein, rund und in einer papierartigen Hülle eingeschlossen, die ihr bei Reife einen dekorativen Wert verleiht.",
+        "description": "Die Blasenkirsche (Physalis angulata) ist eine ausladende, einjährige Tropenpflanze aus der Familie der Nachtschattengewächse, die weniger wegen ihrer unauffälligen gelben Blüten als wegen der kuriosen Papierlaternen geschätzt wird, die ihnen folgen. Aus jeder Blüte entwickelt sich eine dünne, aufgeblasene Hülle, die beim Trocknen raschelt und im Inneren eine einzelne runde, goldene Beere verbirgt. Die scharf gekanteten Stängel und tief gezähnten, spitzen Blätter geben der Pflanze ihren wissenschaftlichen Beinamen angulata und ihren lockeren, verzweigten Wuchs. Schnellwüchsig und wärmeliebend, sät sie sich in warmen Gärten bereitwillig selbst aus und erscheint Jahr für Jahr im selben Beet, ganz ohne Nachhilfe.",
+        "history_text_short": "Im Amazonasgebiet ist diese Pflanze als Camapu bekannt – ein Name, den traditionelle Heiler lange vor dem Interesse der Wissenschaft verwendeten. Ihre Blätter und von Papierhüllen umschlossenen Beeren wurden zu bitteren Tees gegen Fieber und Gelenkschmerzen verarbeitet. Jahrzehnte später isolierten Chemiker die Physaline, eine Gruppe steroidartiger Verbindungen, die heute auf entzündungshemmende und krebshemmende Wirkung untersucht werden und alten Hausmitteln wissenschaftliches Gewicht verleihen.",
+        "history_text_long": "Im gesamten Amazonasgebiet trägt die Blasenkirsche seit jeher einen anderen Namen: Camapu, ein Wort, das Tupi-sprachige Gemeinschaften in Brasilien der Pflanze gaben, Jahrhunderte bevor Botaniker mit lateinischen Namen ankamen. Heiler kochten ihre Blätter und ganzen Früchte zu bitteren Tees ein und verordneten den Sud gegen Fieber, Gelenkschmerzen, Husten und Leiden der Leber und Nieren. Die Praxis verbreitete sich mit der Pflanze selbst, die ihre tropisch-amerikanische Heimat per Schiff und Handelsroute verließ, bis sie zu einem vertrauten Unkraut gestörter Böden wurde, von Westafrika bis Südostasien, wobei jede Region sie still in ihre eigene Heilkunde aufnahm.\n\nDie moderne Chemie holte die über Generationen gesammelte Volksweisheit schließlich ein. Forscher isolierten eine Gruppe bitterer, steroidartiger Verbindungen, die nur in dieser Gattung vorkommen und als Physaline bezeichnet werden, konzentriert in den Blättern und papierartigen Hüllen der Pflanze. Laborstudien seit den 1990er-Jahren haben diese Verbindungen gegen Entzündungen, Parasiten wie den Erreger der Leishmaniose und sogar Krebszelllinien getestet – ein echtes pharmakologisches Gewicht für eine Pflanze, die lange nur als Unkraut am Wegesrand abgetan wurde. Für Gärtner, die sie heute anbauen, ist die bescheidene Pracht gelber Blüten und laternenumhüllter Beeren eine kleine Erinnerung daran, dass Unkraut und Heilmittel manchmal dieselbe Pflanze sind, nur aus der Sicht verschiedener Jahrhunderte betrachtet.",
+        "name_origin": "Der Gattungsname Physalis stammt vom griechischen Wort physa für „Blase“ und bezieht sich auf den papierartigen, aufgeblasenen Kelch, der jede Beere wie eine kleine Laterne umschließt. Der Artname angulata beschreibt die scharf gekanteten Stängel und die gezähnten, eckigen Blattlappen der Pflanze.",
+        "symbolism_story": "Eingehüllt in ihre eigene Papierlaterne lädt die Blasenkirsche seit jeher zu einem zweiten Blick ein: Was wie eine leere, raschelnde Hülle wirkt, verbirgt im Inneren eine süße, goldene Beere. Dieser Kontrast zwischen schlichter Verpackung und wertvollem Inhalt machte die Pflanze und ihre papierumhüllten Verwandten der Gattung Physalis zu natürlichen Sinnbildern für verborgenen Wert und stille Überraschung. In den Gemeinschaften, in denen sie als Camapu wächst, wird dieselbe unauffällige Pflanze, die Gärtner oft achtlos ausreißen, seit langem als Heilmittel geschätzt – eine Erinnerung daran, dass Nützlichkeit sich nicht immer ankündigt.",
+        "flower_meaning": "Verborgener Wert",
+        "uses_list": [
+          {
+            "text": "Reife goldene Beeren sind essbar, schmecken süß-säuerlich und werden in den Tropen zu Konfitüren, Saucen und Snacks verarbeitet."
+          },
+          {
+            "text": "Blätter und Früchte werden in der traditionellen Volksmedizin des Amazonasgebiets zu einem Tee namens Camapu gegen Fieber und Entzündungen verarbeitet."
+          },
+          {
+            "text": "Die papierartigen, laternenförmigen Hüllen verleihen Beeten und Trockensträußen einen eigenwilligen strukturellen Reiz."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Verborgener Wert",
+            "description": "die papierartige Hülle, die jede Beere umschließt, verbirgt eine süße Frucht im Inneren – ein stilles Sinnbild für Wert, der sich unter einer schlichten Hülle verbirgt"
+          },
+          {
+            "keyword": "Widerstandsfähigkeit",
+            "description": "ihre Bereitschaft, sich auf gestörtem, übersehenem Boden selbst auszusäen, machte sie in den Regionen, in denen sie heimisch geworden ist, seit langem zu einem Symbol stiller Beharrlichkeit"
+          }
+        ],
+        "toxicity": {
+          "headline": "Menschen: Leicht",
+          "active_compound_display": "Solanin und Physaline",
+          "notes_en": "Unreife Früchte und das Laub enthalten solaninartige Glykoalkaloide, wie sie für Nachtschattengewächse typisch sind; reife Früchte werden häufig verzehrt.",
+          "human": {
+            "exposure": "Verzehr von Blättern, Stängeln und Früchten.",
+            "effect": "Übelkeit, Erbrechen und Magenverstimmung.",
+            "note": "Unreife Früchte und das Laub enthalten solaninartige Glykoalkaloide, wie sie für Nachtschattengewächse typisch sind; reife Früchte werden häufig verzehrt.",
+            "symptoms": [
+              "Übelkeit.",
+              "Erbrechen.",
+              "Magenverstimmung."
+            ]
+          },
+          "dog": {
+            "exposure": "Keine Aufnahmeart dokumentiert.",
+            "effect": "Keine toxische Wirkung dokumentiert.",
+            "note": "Die Toxizität für Hunde ist nicht gut dokumentiert; bis zur Bestätigung ist Vorsicht geboten."
+          },
+          "cat": {
+            "exposure": "Keine Aufnahmeart dokumentiert.",
+            "effect": "Keine toxische Wirkung dokumentiert.",
+            "note": "Die Toxizität für Katzen ist nicht gut dokumentiert; bis zur Bestätigung ist Vorsicht geboten."
+          }
+        }
+      }
+    },
+    "AAA1702": {
+      "source_hash": "c95c709a8611993a769af6ffc09e826d038ca5bd23748e74d49bc644f0d2a9bb",
+      "fields": {
+        "common_name": "Satsuki-Azalee",
+        "bloom_tip": "Die Satsuki-Azalee blüht typischerweise im Frühling mit lebhaften, farbenfrohen Blüten.",
+        "description": "Die Satsuki-Azalee ist ein kompakter, säureliebender Strauch, der unter allen Azaleen vor allem für die schiere Unvorhersehbarkeit seiner Blüte geschätzt wird. Eine einzige Pflanze kann von einem Jahr zum nächsten Blüten in unterschiedlichen Farben, Streifen oder gescheckten Mustern tragen, manchmal sogar innerhalb desselben Blütenbüschels -- das Ergebnis genetisch instabilen Gewebes, das Gärtner als 'Sportbildung' bezeichnen. Ihre kleinen, glänzenden, immergrünen Blätter und der niedrige, dichte Wuchs haben sie zu einem beliebten Objekt für Bonsai gemacht, geformt zu Miniaturbäumen, deren Vollendung Jahrzehnte dauern kann. Sie blüht im Spätfrühling, wird selten höher als knapp zwei Meter und gedeiht in feuchtem, saurem, gut durchlässigem Boden im Halbschatten.",
+        "history_text_short": "Trotz ihres irreführenden wissenschaftlichen Namens stammt die Satsuki-Azalee aus Japan, nicht aus Indien -- ein alter europäischer Bezeichnungsfehler, der sich gehalten hat. Geschätzt für Blüten, die von Jahr zu Jahr völlig unterschiedliche Farben und Muster annehmen können, ist sie seit langem ein beliebtes Motiv japanischer Bonsai-Künstler.",
+        "history_text_long": "Trotz ihres wissenschaftlichen Namens hat die Satsuki-Azalee nichts mit Indien zu tun. Europäische Botaniker des achtzehnten Jahrhunderts, die mit Pflanzen und Beschreibungen arbeiteten, die über niederländische Handelsposten in Ostindien zu ihnen gelangt waren, nahmen irrtümlich an, der Strauch stamme von dort, und benannten ihn indicum, 'aus Indien' -- ein Fehler, der sich im wissenschaftlichen Namen bis heute gehalten hat, obwohl die Pflanze tatsächlich aus Japan stammt. Ihr eigentlicher Name, Satsuki, bezieht sich auf den fünften Monat des alten japanischen Mondkalenders, die Zeit, in der sie aufblüht -- Wochen später als die meisten anderen Azaleen. Japanische Gärtner der Edo-Zeit waren fasziniert von einer Eigenheit, die keine andere Azalee so deutlich zeigt: Eine einzige Satsuki-Pflanze kann von einem Jahr zum nächsten oder sogar am selben Zweig in derselben Saison Blüten in völlig unterschiedlichen Farben und Mustern hervorbringen, da genetisch instabile Gewebeflecken zu neuen Kombinationen aus Streifen, Sprenkeln und einfarbigen Blüten 'sporten'. Statt diese Instabilität als Makel zu betrachten, begannen Gärtner gezielt nach den auffälligsten Sports zu suchen und sie zu vermehren, bis sie schließlich Hunderte benannter Kultivare katalogisierten. Dieselbe Liebe zu geduldiger, sorgfältiger Formgebung machte die Satsuki zu einem der begehrtesten Bonsai-Objekte, bei dem ein einzelnes Exemplar über mehrere Menschengenerationen hinweg geformt und verfeinert werden kann -- sein knorriger Stamm und seine kompakte Krone überdauern die Gärtner, die ihm einst seine Form gaben.",
+        "name_origin": "Der Artname indicum, Lateinisch für 'aus Indien', ist ein historischer Irrtum: Europäische Botaniker des achtzehnten Jahrhunderts verwechselten die Pflanze mit einer ostindischen Art, nachdem sie ihnen über niederländische Handelsposten bekannt geworden war, obwohl sie tatsächlich aus Japan stammt. Ihr japanischer Name, Satsuki, bezieht sich auf den fünften Monat des alten Mondkalenders, die Jahreszeit ihrer Blüte.",
+        "symbolism_story": "In der viktorianischen Blumensprache wurde die Azalee seit langem mit Mäßigung assoziiert -- einer ruhigen, gemessenen Zurückhaltung. Die Satsuki-Azalee fügt dieser Symbolik eine eigene Wendung hinzu: Ihre Neigung, von einer Saison zur nächsten unvorhersehbar neue Farben und Muster zu 'sporten', hat sie auch zu einem Sinnbild für Verwandlung gemacht -- eine Erinnerung daran, dass selbst eine beständige, unauffällige Pflanze verborgene Überraschungen in sich tragen kann.",
+        "flower_meaning": "Mäßigung",
+        "fragrance": {
+          "notes": "Ihre Blüten haben kaum oder gar keinen wahrnehmbaren Duft."
+        },
+        "uses_list": [
+          {
+            "text": "Wird als Bonsai kultiviert und geformt, wo ihr kompaktes Wachstum und ihre Schnitttoleranz sie zu einem der begehrtesten Objekte der japanischen Bonsai-Kunst machen."
+          },
+          {
+            "text": "Ihre spätfrühlingsblüte zieht Bienen und andere bestäubende Insekten an."
+          },
+          {
+            "text": "Blühende Zweige werden manchmal im Ikebana, der japanischen Blumensteckkunst, verwendet."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Mäßigung",
+            "description": "In der viktorianischen Blumensprache wird die Azalee seit langem mit Mäßigung assoziiert, einer ruhigen und gemessenen Zurückhaltung."
+          },
+          {
+            "keyword": "Verwandlung",
+            "description": "Ihre berühmte Fähigkeit, von Jahr zu Jahr in völlig unterschiedlichen Farben und Mustern zu blühen, hat sie zu einem natürlichen Sinnbild für Verwandlung und Überraschung gemacht."
+          }
+        ],
+        "toxicity": {
+          "headline": "Menschen Mäßig · Haustiere Giftig",
+          "active_compound_display": "Grayanotoxin",
+          "notes_en": "Alle Pflanzenteile enthalten Grayanotoxine, die die normale Zellfunktion stören; der Verzehr verursacht Erbrechen, Speicheln, Schwäche und gefährliche Abfälle von Blutdruck und Herzfrequenz und kann in schweren Fällen, besonders bei Haustieren, tödlich sein.",
+          "human": {
+            "exposure": "Verzehr jeglicher Pflanzenteile, Blätter und Blüten.",
+            "effect": "Übelkeit, Erbrechen, niedriger Blutdruck und unregelmäßiger Herzschlag.",
+            "note": "Alle Pflanzenteile enthalten Grayanotoxine, die die normale Zellfunktion stören; der Verzehr verursacht Erbrechen, Speicheln, Schwäche und gefährliche Abfälle von Blutdruck und Herzfrequenz und kann in schweren Fällen, besonders bei Haustieren, tödlich sein.",
+            "symptoms": [
+              "Übelkeit.",
+              "Erbrechen.",
+              "Niedriger Blutdruck.",
+              "Unregelmäßiger Herzschlag."
+            ]
+          },
+          "dog": {
+            "exposure": "Verzehr jeglicher Pflanzenteile und Blätter.",
+            "effect": "Erbrechen, Durchfall, Speicheln, Schwäche, unregelmäßiger Herzrhythmus und Koma.",
+            "note": "Alle Pflanzenteile enthalten Grayanotoxine, die die normale Zellfunktion stören; der Verzehr verursacht Erbrechen, Speicheln, Schwäche und gefährliche Abfälle von Blutdruck und Herzfrequenz und kann in schweren Fällen, besonders bei Haustieren, tödlich sein.",
+            "symptoms": [
+              "Erbrechen.",
+              "Durchfall.",
+              "Speicheln.",
+              "Schwäche.",
+              "Unregelmäßiger Herzrhythmus.",
+              "Koma."
+            ]
+          },
+          "cat": {
+            "exposure": "Verzehr jeglicher Pflanzenteile und Blätter.",
+            "effect": "Erbrechen, Durchfall, Speicheln, Schwäche, unregelmäßiger Herzrhythmus und Koma.",
+            "note": "Alle Pflanzenteile enthalten Grayanotoxine, die die normale Zellfunktion stören; der Verzehr verursacht Erbrechen, Speicheln, Schwäche und gefährliche Abfälle von Blutdruck und Herzfrequenz und kann in schweren Fällen, besonders bei Haustieren, tödlich sein.",
+            "symptoms": [
+              "Erbrechen.",
+              "Durchfall.",
+              "Speicheln.",
+              "Schwäche.",
+              "Unregelmäßiger Herzrhythmus.",
+              "Koma."
+            ]
+          }
+        }
+      }
+    },
+    "AAA1703": {
+      "source_hash": "2d63dbf44eaa63c5a6b2eabea36f4ef49350d58ef6cddcf7a5bbdf208ce86ce1",
+      "fields": {
+        "common_name": "Wahrsagesalbei",
+        "bloom_tip": "Die Blüten dieser Pflanze erscheinen im Sommer, leuchtend und von bezaubernder Farbe.",
+        "description": "Der Wahrsagesalbei ist ein unauffälliges, ausdauerndes Kraut aus der Familie der Lippenblütler, beheimatet in einem schmalen Streifen schattigen, feuchten Bergwaldes in der Sierra Mazateca im mexikanischen Bundesstaat Oaxaca. Er wächst aufrecht an hohlen, leicht verholzten Stängeln, die mit großen, hellgrünen, oval geformten Blättern mit sanft gezähntem Rand besetzt sind. Im Spätherbst erscheinen hohe Blütenstände mit weißen, röhrenförmigen Blüten, die von tief violetten Kelchen umhüllt werden, doch keimfähige Samen sind selten, und die meisten Pflanzen werden über Stecklinge vermehrt. In seinen heimischen Schluchten und Kalksteinfelsen bevorzugt er lichten Schatten, gleichmäßige Wärme und durchgehend feuchten, gut durchlässigen Boden.",
+        "history_text_short": "Seit Generationen behandeln mazatekische Heiler in den nebligen Hochländern von Oaxaca dieses stille Waldkraut als ein lebendiges Orakel, das in nächtlichen Zeremonien befragt wird, um Krankheiten zu diagnostizieren und Antworten jenseits gewöhnlicher Wahrnehmung zu suchen. Außenstehende kannten die Pflanze kaum, bis Botaniker jene Pflanze, die mazatekische curanderos „die Hirtin“ nannten, bis zu ihrer abgelegenen Bergheimat zurückverfolgten.",
+        "history_text_long": "Lange bevor Botaniker ihr einen lateinischen Namen gaben, nahm der Wahrsagesalbei einen stillen, sorgsam gehüteten Platz im spirituellen Leben der Mazateken in der Sierra Mazateca im mexikanischen Bundesstaat Oaxaca ein. Mazatekische curanderos, also Heiler, setzten die Pflanze in nächtlichen Ritualen ein, den sogenannten veladas, indem sie frische Blätter kauten oder einen Aufguss tranken, bevor sie sich in fast völliger Dunkelheit und Stille niedersetzten und auf die Stimme der Pflanze lauschten, um Krankheiten zu diagnostizieren, verlorene Gegenstände zu finden oder Fragen zu beantworten, die über die gewöhnlichen Sinne hinausgingen. Die Zeremonie verband katholisches Gebet mit älterer mazatekischer Kosmologie, und die Pflanze selbst wurde mit ehrfürchtigen Namen angesprochen, darunter „die Hirtin“ und „Unsere Herrin“.\n\nAußenstehende erhielten über Jahrhunderte nur flüchtige Einblicke in diese Tradition. Spanische Missionare hielten bereits in der Kolonialzeit Bruchstücke des mazatekischen Ritualbrauchs fest, doch die dafür verantwortliche Pflanze blieb unidentifiziert, bis der Anthropologe Jean Basset Johnson 1939 ihre zeremonielle Verwendung dokumentierte. Erst Anfang der 1960er Jahre gelang es den Botanikern Carl Epling und Carlos Jativa, anhand von Exemplaren aus Expeditionen in die Sierra Mazateca, die Art formell zu beschreiben und zu benennen. Forscher stellten außerdem fest, dass wilde Pflanzen fast nie keimfähige Samen bilden – ein Hinweis darauf, dass der heute kultivierte Wahrsagesalbei eine über Stecklinge vermehrte Linie sein könnte, die seit Generationen von mazatekischer Hand gepflegt und von Heiler zu Heiler weitergegeben wurde, statt aus Samen gezogen zu werden.\n\n1982 isolierten der Chemiker Daniel Siebert und Kollegen aus den Blättern Salvinorin A, eine ungewöhnlich starke, stickstofffreie psychoaktive Verbindung, die sich von den Alkaloiden unterscheidet, die in den meisten halluzinogenen Pflanzen vorkommen. Diese Entdeckung lenkte plötzliche wissenschaftliche Aufmerksamkeit auf eine Pflanze, die Generationen lang in relativer Unbekanntheit überlebt hatte, und ihr rechtlicher Status variiert heute stark von Land zu Land und selbst von Region zu Region. Heute wird der Wahrsagesalbei in botanischen Sammlungen und Gärten weltweit kultiviert, geschätzt weniger für einen praktischen Nutzen als für seine einzigartige ethnobotanische Geschichte und das samtige, unauffällige Laub, das sie verbirgt.",
+        "name_origin": "Der Gattungsname Salvia stammt vom lateinischen salvare, „heilen“ oder „retten“, ein Hinweis auf den langen medizinischen Ruf der Salbeiarten. Der Artname divinorum bedeutet im Lateinischen „der Wahrsager“ und verweist unmittelbar auf die traditionelle Rolle der Pflanze in mazatekischen Weissagungszeremonien.",
+        "symbolism_story": "Weil ihre Wirkung rasch kommt und ebenso rasch wieder vergeht und kaum äußere Spuren hinterlässt, verband sich der Wahrsagesalbei mit Vorstellungen von verborgenem Wissen und flüchtiger Offenbarung. Die mazatekische Tradition sah in ihr eine sanfte Führerin, keine Macht, die man beherrschen müsse – eine Pflanze, die man demütig und im Dunkeln befragte und eher als Ratgeberin denn als Heilmittel betrachtete.",
+        "flower_meaning": "Verborgene Einsicht",
+        "fragrance": {
+          "notes": "Die Blätter verströmen beim Zerdrücken einen schwachen, erdigen, minzartigen Duft."
+        },
+        "uses_list": [
+          {
+            "text": "Zentraler Bestandteil traditioneller mazatekischer Weissagungs- und Heilzeremonien in Oaxaca, Mexiko."
+          },
+          {
+            "text": "Wird von Sammlern weltweit wegen seines üppigen, samtigen Laubs und seiner botanischen Seltenheit kultiviert."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Verborgene Einsicht",
+            "description": "Eine Pflanze, die still befragt wird für Antworten, die jenseits gewöhnlicher Wahrnehmung liegen."
+          },
+          {
+            "keyword": "Behütung",
+            "description": "Von mazatekischen Heilern als sanfte, schützende Führerin angesprochen, nicht als Kraft, die man befehligt."
+          }
+        ],
+        "toxicity": {
+          "headline": "Keine Toxizität berichtet",
+          "active_compound_display": "Keine gemeldet",
+          "notes_en": "Keine autoritative Übereinstimmung zur Toxizität gefunden; wird als nicht berichtet behandelt (LLM-Schätzung ist nicht quellgeprüft).",
+          "human": {
+            "exposure": "Es wird kein Expositionsweg berichtet.",
+            "effect": "Es wird keine toxische Wirkung berichtet.",
+            "note": "Die Toxizität für den Menschen ist nicht gut dokumentiert; Vorsicht walten lassen, bis bestätigt."
+          },
+          "dog": {
+            "exposure": "Es wird kein Expositionsweg berichtet.",
+            "effect": "Es wird keine toxische Wirkung berichtet.",
+            "note": "In diesem Katalog wird keine Toxizität für Hunde berichtet; dies ist kein Beweis dafür, dass die Pflanze essbar oder ungefährlich ist."
+          },
+          "cat": {
+            "exposure": "Es wird kein Expositionsweg berichtet.",
+            "effect": "Es wird keine toxische Wirkung berichtet.",
+            "note": "In diesem Katalog wird keine Toxizität für Katzen berichtet; dies ist kein Beweis dafür, dass die Pflanze essbar oder ungefährlich ist."
+          }
+        }
+      }
+    },
+    "AAA1704": {
+      "source_hash": "8c13c1a561739647e3584b056fe5a7f9429a6a9e66e6baf027bd02755977b689",
+      "fields": {
+        "common_name": "Seemandelbaum",
+        "bloom_tip": "Die Blüten dieser Pflanze erscheinen im Sommer.",
+        "fruit_tip": "Die Früchte reifen im Herbst und haben einen dekorativen Wert.",
+        "description": "Der Seemandelbaum ist ein ausladender Küstenbaum, der vor allem durch seine pagodenartige Silhouette auffällt: Von einem kräftigen Stamm aus breiten sich die Äste in flachen, gestuften Schichten aus. Seine breiten, ledrigen Blätter färben sich feuerrot und orange, bevor sie zweimal im Jahr abfallen, und umrahmen kleine Ähren duftender weißer Blüten, die Bienen anziehen. Darauf folgen flache, korkige Früchte, die von Grün zu Rotbraun reifen und einen einzigen mandelähnlichen Kern enthalten. Der Seemandelbaum wächst verbreitet an Stränden und Gezeitenküsten der Tropen, verträgt Salzsprühnebel, Wind und sandigen, nährstoffarmen Boden und ist deshalb ein beliebter Schattenbaum für Küstenparks, Alleen und Strandgärten.",
+        "history_text_short": "Die korkige Frucht des Seemandelbaums treibt auf Meeresströmungen und besiedelte so tropische Küsten im Indischen und im Pazifischen Ozean, lange bevor der Mensch dorthin kam. Heute werden seine abgefallenen Blätter weltweit in Aquarien eingelegt, um das Wasser für Zierfische zu konditionieren.",
+        "history_text_long": "Lange bevor Menschen den Seemandelbaum zwischen Kontinenten verbreiteten, tat der Baum dies bereits selbst. Seine Frucht besitzt eine dicke, korkige Schale, die Luft einschließt und es ihr erlaubt, monatelang auf Meeresströmungen zu treiben, ohne dass der Kern seine Keimfähigkeit verliert. Wind und Wellen haben diese schwimmfähigen Samen seit Jahrtausenden zwischen Inseln und Kontinenten transportiert und Strände vom Indischen Ozean bis zum Pazifik und schließlich bis an die Küsten Westafrikas und der Karibik besiedelt -- eines der klarsten Beispiele einer Pflanze, die die Tropen auf dem Seeweg erobert hat, nicht allein durch menschliches Zutun. Planer der Kolonialzeit nutzten später die Salztoleranz und die dichte, gestufte Krone des Baumes und bepflanzten damit Alleen und Uferpromenaden von Mumbai über Lagos bis Havanna. In den letzten Jahrzehnten hat der Seemandelbaum ein völlig neues Publikum gefunden: Aquarianer. Getrocknete, abgefallene Blätter, weltweit schlicht als 'Seemandelbaumblätter' verkauft, werden in Süßwasseraquarien eingelegt, um Gerbstoffe freizusetzen, die das Wasser bernsteinfarben färben, den pH-Wert senken und leicht antibakteriell und antimykotisch wirken. Betta-Züchter in Thailand und Indonesien machten diese Praxis vor Generationen populär, um verletzten oder gestressten Fischen bei der Erholung zu helfen, und sie ist seither zu einem festen Ritual unter Aquarianern weltweit geworden -- derselbe Baum, der einst auf Meeresströmungen trieb, findet nun seinen Weg in Glastanks auf Fensterbänken.",
+        "name_origin": "Der Gattungsname Terminalia stammt vom lateinischen terminus ('Ende' oder 'Grenze') und bezieht sich darauf, dass sich die Blätter an den äußersten Astspitzen büscheln. Der Artname catappa geht auf ketapang zurück, das malaiische Wort für den Baum, und spiegelt seine lange Geschichte entlang südostasiatischer Küsten wider.",
+        "symbolism_story": "Weil ihre Früchte monatelang über den offenen Ozean treiben können und nach dem Anspülen trotzdem noch keimen, ist der Seemandelbaum zu einem stillen Symbol für Widerstandskraft und Ankunft geworden -- eine Erinnerung daran, dass etwas weit von seinem Ursprung entfernt reisen und dennoch Wurzeln schlagen kann. Seine breite, gestufte Krone verstärkt dieses Gefühl von Schutz und spendet Reisenden wie Küstengemeinschaften gleichermaßen Schatten.",
+        "flower_meaning": "Widerstandskraft",
+        "fragrance": {
+          "notes": "Kleine Ähren weißer Blüten verströmen einen schwachen, süßen Duft, der Bienen anlockt."
+        },
+        "uses_list": [
+          {
+            "text": "Wird als Schattenbaum entlang von Stränden, Alleen und Küstenparks wegen seiner gestuften, schirmartigen Krone gepflanzt."
+          },
+          {
+            "text": "Der mandelähnliche Kern in der Frucht ist roh oder geröstet essbar und schmeckt mild-nussig."
+          },
+          {
+            "text": "Gerbstoffreiche Blätter und Rinde finden in traditionellen Heilmitteln gegen Durchfall und Hautbeschwerden Verwendung, und getrocknete Blätter werden wegen ihrer antibakteriellen Wirkung in Aquarien eingelegt."
+          },
+          {
+            "text": "Das rotbraune Holz ist widerstandsfähig gegen Termiten und Fäulnis und wird daher für Bootsbau und Möbel in Küstengemeinden geschätzt."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Widerstandskraft",
+            "description": "Seine Samen überleben monatelanges Treiben auf See und verkörpern Ausdauer und die Fähigkeit, fernab der Heimat Wurzeln zu schlagen."
+          },
+          {
+            "keyword": "Schutz",
+            "description": "Die breite, gestufte Krone des Baumes bietet seit jeher Schatten und einen Versammlungsort an tropischen Küsten."
+          }
+        ],
+        "toxicity": {
+          "headline": "Keine Toxizität gemeldet",
+          "active_compound_display": "Keine gemeldet",
+          "notes_en": "Keine Übereinstimmung mit einer autoritativen Quelle gefunden; als nicht gemeldet eingestuft (die KI-Schätzung ist nicht quellengeprüft).",
+          "human": {
+            "exposure": "Kein Expositionsweg gemeldet.",
+            "effect": "Keine toxische Wirkung gemeldet.",
+            "note": "Für Menschen ist in diesem Katalog keine Toxizität gemeldet; dies ist kein Beweis dafür, dass die Pflanze essbar oder harmlos ist."
+          },
+          "dog": {
+            "exposure": "Kein Expositionsweg gemeldet.",
+            "effect": "Keine toxische Wirkung gemeldet.",
+            "note": "Für Hunde ist in diesem Katalog keine Toxizität gemeldet; dies ist kein Beweis dafür, dass die Pflanze essbar oder harmlos ist."
+          },
+          "cat": {
+            "exposure": "Kein Expositionsweg gemeldet.",
+            "effect": "Keine toxische Wirkung gemeldet.",
+            "note": "Für Katzen ist in diesem Katalog keine Toxizität gemeldet; dies ist kein Beweis dafür, dass die Pflanze essbar oder harmlos ist."
+          }
+        }
+      }
+    },
+    "AAA1705": {
+      "source_hash": "eba60208c78610dde03e271344637eb0adf5bd52378053ffe45cddae895b84e6",
+      "fields": {
+        "common_name": "Canastra-Amaryllis",
+        "bloom_tip": "Die Blüten dieser Pflanze blühen im Winter und Frühling und sind sehr auffällig.",
+        "description": "Die Canastra-Amaryllis ist eine zwiebelbildende, mehrjährige Pflanze, die nur aus der Serra da Canastra bekannt ist, einer zerklüfteten Hochlandregion in Minas Gerais, Brasilien, nach der sie benannt ist. Anders als die meisten ihrer vielblütigen Verwandten trägt jeder Stängel in der Regel nur eine einzige, blasse, trichterförmige Blüte – ein Merkmal, das sie nur mit wenigen ihrer engsten Verwandten teilt. Sie wächst verwurzelt in den steinigen, feueranfälligen Graslandschaften, die als campo rupestre bekannt sind, und blüht oft in den Monaten nach einem Buschfeuer. Erst 2013 beschrieben, bleibt sie eine der seltensten und am engsten begrenzten Arten ihrer Gattung.",
+        "history_text_short": "Erst 2013 beschrieben und nur in den Hochlandregionen der brasilianischen Serra da Canastra zu finden, bringt diese Amaryllis im Gegensatz zu den meisten ihrer vielblütigen Verwandten nur eine einzige blasse Blüte pro Stängel hervor. Sie wächst in feueranfälligem Felsgrasland und blüht oft in den Monaten nach einem Buschfeuer.",
+        "history_text_long": "Die Canastra-Amaryllis trägt den Namen der Serra da Canastra, einem dramatischen Plateau aus felsigem Grasland in Minas Gerais, Brasilien, wo die Art wächst und sonst nirgendwo. Erst 2013 wurde sie offiziell anerkannt, als Botaniker sie als eine von vier neuen Hippeastrum-Arten beschrieben, die innerhalb derselben Hochlandkette gefunden wurden – ein eindrucksvoller Hinweis darauf, wie viel Vielfalt sich noch im brasilianischen campo rupestre verbirgt, den feuergeprägten Felsgrasländern, die sein zentrales Plateau krönen.\n\nDie meisten Hippeastrum-Arten treiben zwei oder mehr Blüten pro Stängel, doch die Canastra-Amaryllis ist überwiegend einblütig und bringt an jedem blattlosen Schaft eine einzige blasse, trichterförmige Blüte hervor – eine zurückhaltendere Gewohnheit, die sie nur mit wenigen ihrer engsten Verwandten aus derselben Bergkette teilt. Ihr Hypanthium, die schmale Röhre an der Basis der Blüte, misst drei bis viereinhalb Zentimeter und besitzt nicht die kleinen inneren Anhängsel, das sogenannte Paraperigon, das bei manchen verwandten Arten vorkommt.\n\nDer campo rupestre ist eine Landschaft, die von wiederkehrenden Buschfeuern geprägt wird, und die Canastra-Amaryllis scheint diesem Rhythmus zu folgen: Botaniker haben Populationen dokumentiert, die in den Monaten blühen, nachdem ein Feuer das Gras weggeräumt hat – ein Muster, das sie mit vielen Zwiebel- und Knollenpflanzen der feuergeprägten brasilianischen Hochländer teilt, die den Nährstoffschub und das offene Licht einer verbrannten Landschaft nutzen, um zu blühen und Samen zu bilden, bevor das Gras um sie herum wieder nachwächst.",
+        "name_origin": "Der Gattungsname Hippeastrum stammt vom griechischen hippeus ('Ritter') und astron ('Stern'). Der Artname canastrense verweist auf die Serra da Canastra, ein Gebirge in Minas Gerais, Brasilien, und den einzigen bekannten Standort der Pflanze; 'canastra' selbst bedeutet auf Portugiesisch 'Korb' oder 'Truhe', ein Hinweis auf die kastenförmige, hochwandige Silhouette des Gebirges.",
+        "symbolism_story": "In den feuergeprägten Graslandschaften der Serra da Canastra wird die Canastra-Amaryllis oft erst bemerkt, nachdem ein Buschfeuer das verfilzte Gras weggeräumt hat, das sie normalerweise verbirgt. Ihre einsame, blasse Blüte, die sich durch geschwärzten, mit Asche bedeckten Boden drängt, hat sie unter Naturliebhabern zu einem stillen Sinnbild der Wiedergeburt gemacht – dem Versprechen, dass Leben rasch zurückkehrt, sobald einer verbrannten Landschaft wieder Raum zum Atmen gegeben wird.",
+        "flower_meaning": "Wiedergeburt",
+        "fragrance": {
+          "notes": "Ihre blassen Blüten gelten nicht als duftend."
+        },
+        "uses_list": [
+          {
+            "text": "Eine seltene Hochlandzwiebel, die von spezialisierten Sammlern wegen ihrer einzelnen, unauffälligen blassen Blüte gesucht wird, doch ihr winziges natürliches Verbreitungsgebiet macht in Kultur vermehrtes Pflanzgut zur einzig verantwortungsvollen Quelle."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Wiedergeburt",
+            "description": "Weil sie in den Monaten nach einem Buschfeuer in ihrem felsigen Hochlandgrasland blüht, ist die Canastra-Amaryllis zu einem Sinnbild der Wiedergeburt geworden – neues Leben, das aus geschwärztem Boden aufsteigt, sobald die Flammen vorübergezogen sind."
+          }
+        ],
+        "toxicity": {
+          "headline": "Menschen leicht · Haustiere mäßig",
+          "active_compound_display": "Lycorin",
+          "notes_en": "Alle Pflanzenteile enthalten Amaryllidaceae-Alkaloide, vor allem Lycorin, die sich am stärksten in der Zwiebel konzentrieren; der Verzehr kann bei Menschen und Haustieren zu Magen-Darm-Beschwerden führen.",
+          "human": {
+            "exposure": "Verzehr von Zwiebeln und Saft. Berührung von Zwiebeln und Saft.",
+            "effect": "Übelkeit, Erbrechen und Hautreizung.",
+            "note": "Alle Pflanzenteile enthalten Amaryllidaceae-Alkaloide, vor allem Lycorin, die sich am stärksten in der Zwiebel konzentrieren; der Verzehr kann bei Menschen und Haustieren zu Magen-Darm-Beschwerden führen.",
+            "symptoms": [
+              "Übelkeit.",
+              "Erbrechen.",
+              "Hautreizung."
+            ]
+          },
+          "dog": {
+            "exposure": "Verzehr von Zwiebeln.",
+            "effect": "Erbrechen, Durchfall, Speicheln, Lethargie und Bauchschmerzen.",
+            "note": "Alle Pflanzenteile enthalten Amaryllidaceae-Alkaloide, vor allem Lycorin, die sich am stärksten in der Zwiebel konzentrieren; der Verzehr kann bei Menschen und Haustieren zu Magen-Darm-Beschwerden führen.",
+            "symptoms": [
+              "Erbrechen.",
+              "Durchfall.",
+              "Speicheln.",
+              "Lethargie.",
+              "Bauchschmerzen."
+            ]
+          },
+          "cat": {
+            "exposure": "Verzehr von Zwiebeln.",
+            "effect": "Erbrechen, Durchfall, Speicheln, Lethargie und Bauchschmerzen.",
+            "note": "Alle Pflanzenteile enthalten Amaryllidaceae-Alkaloide, vor allem Lycorin, die sich am stärksten in der Zwiebel konzentrieren; der Verzehr kann bei Menschen und Haustieren zu Magen-Darm-Beschwerden führen.",
+            "symptoms": [
+              "Erbrechen.",
+              "Durchfall.",
+              "Speicheln.",
+              "Lethargie.",
+              "Bauchschmerzen."
+            ]
+          }
+        }
+      }
+    },
+    "AAA1706": {
+      "source_hash": "50730c5eed30af46b0ec2e782e96c9f719a6c9e6c09fef349688a6b1b0063ece",
+      "fields": {
+        "common_name": "Ferreyra-Amaryllis",
+        "bloom_tip": "Die Blüten dieser Pflanze sind wunderschön und blühen meist von Winter bis Sommer.",
+        "description": "Ferreyras Amaryllis ist eine zwiebelbildende, mehrjährige Pflanze, die nur aus zwei voneinander isolierten Flusstälern im Osten Perus bekannt ist, dem Huallaga- und dem Purús-Tal. Jeder hohe, blattlose Stängel trägt ein Paar trichterförmiger, orangeroter Blüten mit einem dünnen weißen Streifen auf zwei der sechs Blütenblätter – ein Merkmal, das sie von der nahe verwandten Hippeastrum puniceum unterscheidet. Ihre riemenförmigen Blätter werden ungewöhnlich lang und sind an die heißen, feuchten Bedingungen und starken Saisonregen ihres Lebensraums am Amazonasrand angepasst. Selbststeril und auf wenige verstreute Kolonien beschränkt, gilt sie als vom Aussterben bedroht.",
+        "history_text_short": "Benannt nach dem peruanischen Botaniker Ramón Ferreyra und erstmals 1950 beschrieben, überlebt diese Amaryllis nur in zwei entlegenen Flusstälern im Osten Perus. Jeder Stängel trägt ein Paar orangeroter, weiß gestreifter Blüten. Selbststeril und auf verstreute Kolonien beschränkt, gilt sie als vom Aussterben bedroht.",
+        "history_text_long": "Ferreyras Amaryllis trägt den Namen von Ramón Ferreyra, einem der produktivsten peruanischen Botaniker des zwanzigsten Jahrhunderts, der Jahrzehnte damit verbrachte, die Täler seines Landes zu durchstreifen und seine bemerkenswerte Flora zu dokumentieren. Die Pflanze, die er im abgelegenen Flussland im Osten Perus sammelte, wurde 1950 vom amerikanischen Zwiebelspezialisten Hamilton Paul Traub offiziell beschrieben, der sie als Amaryllis ferreyrae einordnete. Es dauerte mehr als vier Jahrzehnte und ein tieferes Verständnis der Gattung, bis die Taxonomen Roy Gereau und Lois Brako sie 1993 in die Gattung Hippeastrum überführten, wo sie neben ihren vielen trichterblütigen Verwandten steht.\n\nDie Art überlebt heute nur in zwei bekannten Vorkommen, getrennt durch eine weite Strecke peruanischer Wildnis: dem Huallaga-Flusstal und, weit im Süden, dem Tal des Río Purús. An beiden Orten wächst sie unter heißen, regenreichen Bedingungen und treibt hohe Stängel mit einem Paar orangeroter Blüten, deren dünner weißer Streifen auf den Blütenblättern einer der wenigen sichtbaren Unterschiede zur weiter verbreiteten Hippeastrum puniceum ist.\n\nDiese Isolation hat ihren Preis. Ferreyras Amaryllis ist selbststeril, das heißt, jede Blüte ist auf Pollen eines genetisch unterschiedlichen Nachbarn angewiesen, um Samen zu bilden. In kleinen, verstreuten Kolonien können passende Partner knapp sein, und die Art wurde als vom Aussterben bedroht eingestuft – ein Schicksal, das sie mit vielen eng begrenzten Zwiebelpflanzen am Amazonasrand teilt, deren gesamte Zukunft von einer Handvoll überlebender Populationen abhängt.",
+        "name_origin": "Der Gattungsname Hippeastrum stammt vom griechischen hippeus ('Reiter' oder 'Ritter') und astron ('Stern') und verweist auf die kühnen, sternförmigen Blüten der Pflanze. Der Artname ferreyrae ehrt Ramón Ferreyra, den peruanischen Botaniker, der die Pflanze als Erster sammelte.",
+        "symbolism_story": "Weil Ferreyras Amaryllis nur in zwei bekannten Tälern überlebt, die Hunderte von Kilometern voneinander entfernt liegen, und für die Samenbildung auf Pollen eines genetisch unterschiedlichen Nachbarn angewiesen ist, sehen Züchter und Naturschützer in ihr ein Symbol der Widerstandskraft – eine Pflanze, die nicht durch Fülle, sondern durch schiere Zähigkeit fortbesteht und selbst dann weiterlebt, wenn ihr natürlicher Lebensraum um sie herum schrumpft.",
+        "flower_meaning": "Widerstandskraft",
+        "fragrance": {
+          "notes": "Ihre Blüten gelten nicht als duftend."
+        },
+        "uses_list": [
+          {
+            "text": "Wird von spezialisierten Zwiebelsammlern wegen ihrer auffälligen orangeroten, weiß gestreiften Blüten kultiviert, doch ihre Seltenheit in der Wildnis macht in Kultur vermehrtes Pflanzgut zur einzig verantwortungsvollen Quelle."
+          },
+          {
+            "text": "Ihre roten, röhrenförmigen Blüten entsprechen in Farbe und Form dem Muster, das bei Amaryllisgewächsen typischerweise mit der Bestäubung durch Kolibris in Verbindung gebracht wird."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Widerstandskraft",
+            "description": "Da sie nur in zwei isolierten Flusstälern überlebt und zur Samenbildung auf Pollen eines genetisch unterschiedlichen Nachbarn angewiesen ist, steht Ferreyras Amaryllis für stille Widerstandskraft – die Fähigkeit, sich gegen große Widerstände in einer fragmentierten Welt zu behaupten."
+          }
+        ],
+        "toxicity": {
+          "headline": "Menschen leicht · Haustiere mäßig",
+          "active_compound_display": "Lycorin",
+          "notes_en": "Alle Pflanzenteile enthalten Amaryllidaceae-Alkaloide, vor allem Lycorin, die sich am stärksten in der Zwiebel konzentrieren; der Verzehr kann bei Menschen und Haustieren zu Magen-Darm-Beschwerden führen.",
+          "human": {
+            "exposure": "Verzehr von Zwiebeln und Saft. Berührung von Zwiebeln und Saft.",
+            "effect": "Übelkeit, Erbrechen und Hautreizung.",
+            "note": "Alle Pflanzenteile enthalten Amaryllidaceae-Alkaloide, vor allem Lycorin, die sich am stärksten in der Zwiebel konzentrieren; der Verzehr kann bei Menschen und Haustieren zu Magen-Darm-Beschwerden führen.",
+            "symptoms": [
+              "Übelkeit.",
+              "Erbrechen.",
+              "Hautreizung."
+            ]
+          },
+          "dog": {
+            "exposure": "Verzehr von Zwiebeln.",
+            "effect": "Erbrechen, Durchfall, Speicheln, Lethargie und Bauchschmerzen.",
+            "note": "Alle Pflanzenteile enthalten Amaryllidaceae-Alkaloide, vor allem Lycorin, die sich am stärksten in der Zwiebel konzentrieren; der Verzehr kann bei Menschen und Haustieren zu Magen-Darm-Beschwerden führen.",
+            "symptoms": [
+              "Erbrechen.",
+              "Durchfall.",
+              "Speicheln.",
+              "Lethargie.",
+              "Bauchschmerzen."
+            ]
+          },
+          "cat": {
+            "exposure": "Verzehr von Zwiebeln.",
+            "effect": "Erbrechen, Durchfall, Speicheln, Lethargie und Bauchschmerzen.",
+            "note": "Alle Pflanzenteile enthalten Amaryllidaceae-Alkaloide, vor allem Lycorin, die sich am stärksten in der Zwiebel konzentrieren; der Verzehr kann bei Menschen und Haustieren zu Magen-Darm-Beschwerden führen.",
+            "symptoms": [
+              "Erbrechen.",
+              "Durchfall.",
+              "Speicheln.",
+              "Lethargie.",
+              "Bauchschmerzen."
+            ]
           }
         }
       }

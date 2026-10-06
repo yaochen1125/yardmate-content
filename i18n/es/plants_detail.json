@@ -3,8 +3,8 @@
   "locale": "es",
   "source": {
     "resource": "plants_detail.json",
-    "sha256": "dcc2b0a836aa15dec5b0969be846388cf70b7edd5719f9fde381784506ed8765",
-    "record_count": 1694
+    "sha256": "45d64574c073175ce1c844dfe07dfa6cc1a1c7e3713a75d9792994f5bd9af77d",
+    "record_count": 1705
   },
   "records": {
     "AAA0001": {
@@ -103716,6 +103716,686 @@
             "exposure": "No se reporta ninguna vía de exposición.",
             "effect": "No se reporta ningún efecto tóxico.",
             "note": "No se reporta toxicidad para los gatos en este catálogo; esto no es evidencia de que la planta sea comestible o inofensiva."
+          }
+        }
+      }
+    },
+    "AAA1696": {
+      "source_hash": "bd3e1d0b89735d29a0fe75a989cd2e4171f727142e68bd8c724c93e8cdaad621",
+      "fields": {
+        "common_name": "Champiñón silvestre",
+        "fruit_tip": "Los cuerpos fructíferos emergen del suelo tras la lluvia, desde mediados de verano hasta el otoño, y los recolectores los recogen frescos para la cocina.",
+        "description": "El Champiñón silvestre es un hongo comestible salvaje que brota en praderas, pastizales y césped bien abonado tras la lluvia, especialmente a finales del verano y en otoño. Su sombrero liso, blanco a crema, comienza redondeado y se aplana con la edad, sobre un pie corto y blanco con un anillo fino y frágil. Debajo, las láminas empiezan de color rosa pálido y se oscurecen hasta un marrón chocolate a medida que el hongo madura, la pista más clara para distinguirlo de las especies de Amanita de láminas blancas a las que puede parecerse. De sabor suave y a frutos secos, es un pariente silvestre cercano del champiñón cultivado y sigue siendo uno de los favoritos entre los recolectores de Europa y Norteamérica.",
+        "history_text_short": "Mucho antes de que existiera el cultivo de hongos, los recolectores de Europa y Norteamérica recogían el Champiñón silvestre de los pastizales empapados de lluvia cada otoño. Sus láminas de color rosa a marrón son la pista clásica que lo distingue de las Amanitas mortales de láminas blancas a las que puede parecerse.",
+        "history_text_long": "El Champiñón silvestre se ha recolectado en pastizales y praderas de toda Europa durante siglos, mucho antes de que existiera el cultivo de hongos. Su abundancia tras las lluvias otoñales lo convirtió en uno de los alimentos silvestres más familiares del campo europeo, apareciendo tanto en viejos herbarios como en cocinas rurales. Pertenece al mismo género que el champiñón, el champiñón crimini y el portobello cultivados, todos los cuales se remontan a un pariente cercano cultivado deliberadamente por primera vez en melonares cerca de París a finales del siglo XVII; en el siglo XIX, los cultivadores parisinos trasladaron el cultivo a las canteras de piedra caliza abandonadas de la ciudad, dando origen a la industria moderna del cultivo de hongos. El Champiñón silvestre en sí nunca fue domesticado de la misma manera, y los recolectores lo valoran precisamente porque hay que encontrarlo, no cultivarlo. Recogerlo con seguridad, sin embargo, siempre ha exigido precaución: su sombrero blanco puede confundirse a simple vista con las especies mortales de Amanita que comparten los mismos pastizales. Generaciones de recolectores aprendieron a revisar las láminas antes que el sombrero: rosa pálido en un Champiñón silvestre joven, oscureciéndose hasta marrón chocolate con la edad, nunca el blanco puro de una Amanita mortal, un hábito transmitido como regla básica de seguridad micológica allí donde ambos crecen uno junto al otro.",
+        "name_origin": "El nombre del género Agaricus proviene del griego agarikon, un antiguo término para hongo, mientras que el nombre de la especie campestris es latín para \"de los campos\", describiendo los pastizales y praderas abiertas donde crece.",
+        "symbolism_story": "Brotando por decenas en una pradera húmeda de la noche a la mañana, el Champiñón silvestre ha simbolizado durante mucho tiempo la abundancia súbita de la naturaleza, y, debido a su asombroso parecido con parientes mortales, un suave recordatorio de mirar de cerca antes de confiar en lo que se presenta.",
+        "flower_meaning": "Abundancia",
+        "fragrance": {
+          "notes": "Sin fragancia notable más allá de un suave aroma terroso a hongo."
+        },
+        "uses_list": [
+          {
+            "text": "Un hongo silvestre comestible, suave y de sabor a frutos secos, recolectado fresco de praderas y pastizales para cocinar."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Abundancia",
+            "description": "Al aparecer aparentemente de la noche a la mañana por todo un pastizal tras la lluvia, ha representado durante mucho tiempo la plenitud súbita de la naturaleza."
+          },
+          {
+            "keyword": "Vigilancia",
+            "description": "Su parecido con las mortales setas Amanita lo convierte en un recordatorio silencioso de mirar de cerca antes de confiar en las apariencias."
+          }
+        ],
+        "toxicity": {
+          "headline": "Sin toxicidad reportada",
+          "active_compound_display": "Nada reportado",
+          "notes_en": "No se encontró ninguna coincidencia de toxicidad confirmada por fuentes autorizadas; se trata como no reportada (la estimación del modelo no está verificada por fuentes).",
+          "human": {
+            "exposure": "No se reporta ninguna vía de exposición.",
+            "effect": "No se reporta ningún efecto tóxico.",
+            "note": "No se reporta toxicidad para los humanos en este catálogo para esta planta; esto no es prueba de que sea comestible o inofensiva."
+          },
+          "dog": {
+            "exposure": "No se reporta ninguna vía de exposición.",
+            "effect": "No se reporta ningún efecto tóxico.",
+            "note": "No se reporta toxicidad para los perros en este catálogo para esta planta; esto no es prueba de que sea comestible o inofensiva."
+          },
+          "cat": {
+            "exposure": "No se reporta ninguna vía de exposición.",
+            "effect": "No se reporta ningún efecto tóxico.",
+            "note": "No se reporta toxicidad para los gatos en este catálogo para esta planta; esto no es prueba de que sea comestible o inofensiva."
+          }
+        }
+      }
+    },
+    "AAA1697": {
+      "source_hash": "93ea2f03e83463b4d9f886afcbc49bc036b5e62005b4915632a581def56f7c1d",
+      "fields": {
+        "common_name": "Seta de miel",
+        "fruit_tip": "Los cuerpos fructíferos de la seta de miel pueden usarse con fines culinarios, pero deben prepararse adecuadamente.",
+        "description": "La seta de miel forma racimos de sombreros lisos de color miel con láminas pálidas, que surgen cada otoño en la base de troncos, tocones y raíces enterradas en bosques del hemisferio norte. Bajo las setas visibles se encuentra el verdadero cuerpo del organismo: una vasta red de hilos negros parecidos a cordones de zapato, llamados rizomorfos, que se extienden por el suelo y la madera, a veces conectando miles de árboles en una sola colonia. Esta red invade poco a poco las raíces de árboles vivos, causando una destructiva podredumbre radicular que puede debilitar o matar árboles maduros a lo largo de años o décadas. A pesar de su fama como patógeno forestal, los sombreros jóvenes de la seta de miel se recolectan y se comen en muchas regiones una vez cocinados adecuadamente, aunque los ejemplares crudos o poco cocidos pueden causar molestias estomacales.",
+        "history_text_short": "La seta de miel construye una red subterránea tan vasta que una colonia en un bosque de Oregón, apodada el 'hongo humongo,' se estima que tiene más de dos mil años y es uno de los organismos vivos más grandes jamás encontrados, todo mientras causa lentamente una podredumbre radicular mortal en los mismos árboles que crecen sobre ella.",
+        "history_text_long": "En 1998, patólogos forestales del Bosque Nacional Malheur, en Oregón, se propusieron cartografiar una zona de árboles moribundos y encontraron algo que cambió lo que se pensaba que podía ser un único ser vivo. Las pruebas genéticas de la seta de miel que recorría el suelo bajo miles de hectáreas de bosque demostraron que todo era un solo organismo: una única red micelial, estimada en bastante más de dos mil años de antigüedad, extendiéndose bajo tierra por más de ocho kilómetros cuadrados. Los medios de comunicación la apodaron rápidamente el 'hongo humongo,' y sigue siendo uno de los principales candidatos a ser el organismo vivo más grande y más antiguo jamás documentado: una sola colonia de seta de miel que sobrevive silenciosamente a los árboles que crecen sobre ella. Mucho antes de que alguien pudiera analizar su ADN, la gente ya sentía que algo extraño vivía en la madera. Los mismos hilos negros, parecidos a cordones, que la seta de miel extiende por los troncos en descomposición son ricos en compuestos basados en luciferina y brillan débilmente en la oscuridad, un fenómeno que guardabosques y viajeros llamaron durante siglos fuego fatuo, atribuido a espíritus o a gases de pantano antes que a un hongo que consume pacientemente el bosque desde abajo. Ese consumo paciente tiene un costo: a medida que la red se extiende, va estrangulando poco a poco las raíces de los árboles vivos, y silvicultores y productores llevan combatiendo la podredumbre radicular de la seta de miel desde que existen registros, cavando zanjas y retirando tocones infectados en un esfuerzo por contener un organismo demasiado grande para simplemente talarlo.",
+        "name_origin": "El nombre del género, Armillaria, proviene del latín armilla, 'brazalete' o 'anillo', en referencia al resto anular de tejido que se encuentra en el pie de muchas especies de este género. El nombre de la especie, mellea, significa en latín 'color de miel', describiendo el tono dorado y cálido del sombrero.",
+        "symbolism_story": "Porque su verdadera extensión permanece oculta bajo tierra durante siglos antes de que alguien la note, la seta de miel se ha convertido en un símbolo adecuado de fuerza oculta y perseverancia silenciosa: poder y antigüedad que se acumulan sin ser vistos, superando con mucho a todo lo que crece visiblemente en la superficie.",
+        "flower_meaning": "Fuerza oculta",
+        "fragrance": {
+          "notes": "Tiene un olor suave a hongo, ligeramente dulce."
+        },
+        "uses_list": [
+          {
+            "text": "Los sombreros jóvenes se recolectan y se comen en partes de Europa, Asia y América del Norte una vez cocinados a fondo, aunque los ejemplares crudos o poco cocidos causan molestias digestivas."
+          },
+          {
+            "text": "Como descomponedor, degrada la madera muerta y recicla nutrientes de vuelta al suelo del bosque, incluso mientras sus infecciones en árboles vivos preocupan a los silvicultores."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Fuerza oculta",
+            "description": "Su verdadero cuerpo es una vasta red invisible desde arriba, un símbolo de poder y perseverancia que yace oculto bajo la superficie."
+          },
+          {
+            "keyword": "Paciencia",
+            "description": "Se extiende y se alimenta durante siglos antes de que su presencia sea notada, representando una perseverancia silenciosa y a largo plazo."
+          }
+        ],
+        "toxicity": {
+          "headline": "Toxicidad desconocida",
+          "active_compound_display": "Ninguno reportado",
+          "notes_en": "No se encontró coincidencia con fuentes autorizadas; se clasifica como no reportado (la estimación de la IA no está verificada por fuentes).",
+          "human": {
+            "exposure": "No se reporta ninguna vía de exposición.",
+            "effect": "No se reporta ningún efecto tóxico.",
+            "note": "La toxicidad para humanos no está bien documentada; se recomienda precaución hasta su verificación."
+          },
+          "dog": {
+            "exposure": "No se reporta ninguna vía de exposición.",
+            "effect": "No se reporta ningún efecto tóxico.",
+            "note": "La toxicidad para perros no está bien documentada; se recomienda precaución hasta su verificación."
+          },
+          "cat": {
+            "exposure": "No se reporta ninguna vía de exposición.",
+            "effect": "No se reporta ningún efecto tóxico.",
+            "note": "La toxicidad para gatos no está bien documentada; se recomienda precaución hasta su verificación."
+          }
+        }
+      }
+    },
+    "AAA1698": {
+      "source_hash": "63ecba213ebe09f300e06ac785c2adb23b1855fbc92cf4c0b6bbcf8086dc0019",
+      "fields": {
+        "common_name": "Amarilis de Morelia",
+        "description": "La amarilis de Morelia es una perenne bulbosa de la familia de las amarilis, apreciada por el tallo floral alto y sin hojas que surge del bulbo cada temporada y se abre en varias flores grandes en forma de trompeta de color rojo intenso. Las hojas verdes y acintadas aparecen por separado, a menudo después de que las flores se han marchitado, lo que le da a la planta un ciclo de floración dramático, casi teatral. Llamada así por Morelia, la ciudad mexicana cerca de donde se describió por primera vez, este bulbo compacto rara vez supera los sesenta centímetros de altura y suele cultivarse en macetas de interior, donde sus audaces flores en forma de trompeta aportan un estallido de color a las ventanas durante los meses más frescos.",
+        "history_text_short": "Llamada así por la ciudad mexicana de Morelia, donde se recolectó por primera vez creciendo de forma silvestre en las colinas, esta amarilis pertenece a la misma familia de bulbos que dio al mundo su famosa tradición de regalo de invierno: un bulbo dormido que florece en interiores en pocas semanas, sin necesidad de tierra ni temporada.",
+        "history_text_long": "La amarilis de Morelia toma su nombre de Morelia, una ciudad de tierras altas en Michoacán, México, donde los botánicos del siglo XIX recolectaron y describieron por primera vez la especie creciendo de forma silvestre en las colinas circundantes. Como muchos de sus parientes silvestres americanos, pertenece a un género que los comerciantes europeos de bulbos venían exportando desde el siglo XVIII, apreciado sobre todo por un truco de tiempos: un bulbo dormido, al que se le da agua y calor en interiores en lo más profundo del invierno, enviará un grueso tallo floral y florecerá en cuestión de semanas, sin necesidad de tierra, luz solar ni estación alguna para animarlo. Ese truco convirtió al género en uno de los regalos de invierno más reconocibles del mundo, vendido cada diciembre como un bulbo en caja para ser 'forzado' a florecer en una ventana -- un pequeño trozo de una colina mexicana floreciendo en interiores en medio de un invierno del hemisferio norte. La propia amarilis de Morelia permanece más cercana a sus orígenes silvestres que los grandes bulbos híbridos que se encuentran en los supermercados, con flores algo más pequeñas y un porte algo más delicado, un recordatorio vivo de las laderas montañosas de donde partió toda esta tradición festiva.",
+        "name_origin": "El nombre del género, Hippeastrum, proviene del griego hippeus ('jinete' o 'caballero') y astron ('estrella'), en referencia a sus flores en forma de estrella orientadas hacia arriba. El nombre de la especie, morelianum, hace referencia a Morelia, la ciudad mexicana cerca de la cual se recolectó y describió por primera vez la planta.",
+        "symbolism_story": "Porque su bulbo debe pasar por una latencia seca y sin hojas antes de enviar un tallo alto coronado de flores audaces en forma de trompeta, la amarilis de Morelia ha llevado durante mucho tiempo asociaciones de determinación y logro bien merecido: una belleza que solo llega después de un período de callada resistencia. Sus flores dramáticas y seguras de sí mismas también la han convertido, como a otras amarilis, en un emblema tradicional de belleza radiante y segura.",
+        "flower_meaning": "Determinación",
+        "fragrance": {
+          "notes": "Sus grandes flores tienen poca o ninguna fragancia detectable."
+        },
+        "uses_list": [
+          {
+            "text": "Se cultiva como bulbo en maceta, apreciado por el alto tallo de grandes flores rojas en forma de trompeta que produce cada temporada."
+          },
+          {
+            "text": "Sus tallos florales de larga duración son populares como flor de corte en arreglos."
+          },
+          {
+            "text": "Sus grandes flores, ricas en néctar, atraen colibríes e insectos polinizadores en su hábitat nativo mexicano."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Determinación",
+            "description": "Su bulbo descansa en una latencia sin hojas antes de enviar un tallo floral audaz, lo que la convierte en un emblema clásico de determinación y logro bien merecido."
+          },
+          {
+            "keyword": "Belleza radiante",
+            "description": "Las flores en forma de trompeta se abren amplias y audaces, un símbolo tradicional de belleza llamativa y segura."
+          }
+        ],
+        "toxicity": {
+          "headline": "Humanos Moderado · Mascotas Moderado",
+          "active_compound_display": "licorina",
+          "notes_en": "El bulbo contiene licorina y otros alcaloides que causan molestias gastrointestinales e irritación cutánea si se ingieren o manipulan; clasificada como tóxica para humanos, perros y gatos, principalmente por el bulbo.",
+          "human": {
+            "exposure": "Ingerir bulbos y savia. Tocar bulbos y savia.",
+            "effect": "Náuseas, vómitos, dolor abdominal e irritación cutánea.",
+            "note": "El bulbo contiene licorina y otros alcaloides que causan molestias gastrointestinales e irritación cutánea si se ingieren o manipulan; clasificada como tóxica para humanos, perros y gatos, principalmente por el bulbo.",
+            "symptoms": [
+              "Náuseas.",
+              "Vómitos.",
+              "Dolor abdominal.",
+              "Irritación cutánea."
+            ]
+          },
+          "dog": {
+            "exposure": "Ingerir bulbos.",
+            "effect": "Vómitos, diarrea, salivación, letargo y temblores.",
+            "note": "El bulbo contiene licorina y otros alcaloides que causan molestias gastrointestinales e irritación cutánea si se ingieren o manipulan; clasificada como tóxica para humanos, perros y gatos, principalmente por el bulbo.",
+            "symptoms": [
+              "Vómitos.",
+              "Diarrea.",
+              "Salivación.",
+              "Letargo.",
+              "Temblores."
+            ]
+          },
+          "cat": {
+            "exposure": "Ingerir bulbos.",
+            "effect": "Vómitos, diarrea, salivación y letargo.",
+            "note": "El bulbo contiene licorina y otros alcaloides que causan molestias gastrointestinales e irritación cutánea si se ingieren o manipulan; clasificada como tóxica para humanos, perros y gatos, principalmente por el bulbo.",
+            "symptoms": [
+              "Vómitos.",
+              "Diarrea.",
+              "Salivación.",
+              "Letargo."
+            ]
+          }
+        }
+      }
+    },
+    "AAA1699": {
+      "source_hash": "3afa9da8353590bbed633a5a270ca6b603f562fcc9d45f4100b04e35d87896ae",
+      "fields": {
+        "common_name": "Hongo fantasma",
+        "description": "El hongo fantasma forma racimos densos y superpuestos de sombreros lisos y acampanados de un naranja intenso, que crecen directamente sobre raíces enterradas y tocones en descomposición de árboles de madera dura, especialmente robles y olivos. Sus láminas apretadas descienden por un pie que se afina y, de forma notable, emiten un leve brillo verdoso en la oscuridad total, un rasgo producido por compuestos bioluminiscentes naturales presentes en su carne. Frecuente entre la hojarasca de los bosques otoñales de Europa y el este de Norteamérica, suele confundirse con el comestible rebozuelo, aunque no es comestible y provoca molestias digestivas importantes si se consume.",
+        "history_text_short": "El hongo fantasma crece en racimos de un naranja vivo sobre tocones en descomposición y es famoso por dos cosas: sus láminas brillan tenuemente en verde en la oscuridad, y su parecido con el rebozuelo ha dejado a muchos recolectores entusiastas con una intoxicación alimentaria severa en lugar de una buena cena.",
+        "history_text_long": "Mucho antes de que alguien comprendiera la bioluminiscencia, quienes caminaban de noche por antiguos bosques de árboles de madera dura veían a veces un extraño resplandor verde y frío que surgía de tocones en descomposición y raíces enterradas. Durante siglos, esa luz fantasmal -- conocida en el folclore como fuego fatuo -- se atribuyó a espíritus, luces errantes o simplemente a magia inexplicable. Solo mucho más tarde los naturalistas relacionaron algunas de esas zonas luminosas con hongos que crecían en la madera, entre ellos el hongo fantasma, cuyas láminas contienen una reacción química basada en luciferina similar a la que hace brillar a las luciérnagas. A plena luz del día, el hongo parece casi alegre: crece en racimos densos de un naranja vivo al pie de robles y olivos, lo bastante parecido en color y forma como para que los recolectores que buscan rebozuelos lo confundan con ellos. Ese parecido lo convierte en una de las causas más reportadas de intoxicación por hongos tanto en Europa como en Norteamérica. A diferencia de los hongos más letales, rara vez mata, pero las iludinas presentes en su carne provocan horas de vómitos intensos, calambres y diarrea -- una lección dura para quien se salte la comprobación clave: el verdadero rebozuelo tiene pliegues poco profundos y romos en lugar de láminas verdaderas, y nunca brilla. Los clubes de micología usan hoy el hongo fantasma como ejemplo de campo habitual, precisamente porque enseña a los recolectores a ir más despacio y mirar con atención antes de meter nada en la cesta.",
+        "name_origin": "El nombre del género, Omphalotus, proviene del griego omphalos, 'ombligo', en referencia a la pequeña depresión central que suele presentar el sombrero del hongo. El nombre de la especie, olearius, significa en latín 'relativo al olivo', y refleja lo frecuente que es que este hongo fructifique al pie de los olivos en la región mediterránea.",
+        "symbolism_story": "Porque se viste del mismo naranja alegre que un hongo comestible muy apreciado mientras oculta un veneno severo, el hongo fantasma se ha convertido en un emblema natural de las apariencias engañosas: una advertencia de que no todo lo que resulta atractivo es seguro de recoger. Su segundo rasgo suaviza esa advertencia: en la oscuridad total, sus láminas emiten un tenue resplandor verde, una luz oculta que se esconde en silencio dentro de algo que, de otro modo, pasaría fácilmente desapercibido.",
+        "flower_meaning": "Ilusión",
+        "fragrance": {
+          "notes": "No tiene una fragancia distintiva más allá de un leve e indistinto olor a hongo."
+        },
+        "uses_list": [
+          {
+            "text": "Compuestos llamados iludinas, aislados de la carne de este hongo, han sido estudiados por investigadores farmacéuticos como base de fármacos anticancerígenos experimentales."
+          },
+          {
+            "text": "Como hongo descomponedor de madera, degrada tocones y raíces muertas de árboles de madera dura, reciclando nutrientes de vuelta al suelo del bosque."
+          },
+          {
+            "text": "Clubes de micología y excursionistas nocturnos lo buscan al anochecer por su tenue y singular resplandor verde bioluminiscente."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Ilusión",
+            "description": "Su color alegre, similar al del rebozuelo, esconde un veneno que ha engañado a generaciones de recolectores, convirtiéndolo en un símbolo natural de las apariencias engañosas."
+          },
+          {
+            "keyword": "Luz oculta",
+            "description": "Sus láminas brillan tenuemente en la oscuridad total, un recordatorio discreto de que la luz puede surgir de los lugares más inesperados y discretos."
+          }
+        ],
+        "toxicity": {
+          "headline": "Toxicidad desconocida",
+          "active_compound_display": "Ninguno reportado",
+          "notes_en": "No se encontró coincidencia con fuentes autorizadas; se clasifica como no reportado (la estimación de la IA no está verificada por fuentes).",
+          "human": {
+            "exposure": "No se reporta ninguna vía de exposición.",
+            "effect": "No se reporta ningún efecto tóxico.",
+            "note": "La toxicidad para humanos no está bien documentada; se recomienda precaución hasta su verificación."
+          },
+          "dog": {
+            "exposure": "No se reporta ninguna vía de exposición.",
+            "effect": "No se reporta ningún efecto tóxico.",
+            "note": "La toxicidad para perros no está bien documentada; se recomienda precaución hasta su verificación."
+          },
+          "cat": {
+            "exposure": "No se reporta ninguna vía de exposición.",
+            "effect": "No se reporta ningún efecto tóxico.",
+            "note": "La toxicidad para gatos no está bien documentada; se recomienda precaución hasta su verificación."
+          }
+        }
+      }
+    },
+    "AAA1700": {
+      "source_hash": "17b609170ed729ef8d0aabcc4188dd8bf7d169d2f67a2ec6c4d05b757b9aa2ba",
+      "fields": {
+        "common_name": "Palma de Madagascar",
+        "bloom_tip": "Las plantas maduras florecen en verano, con flores blancas fragantes de cinco pétalos que se abren en la copa del tronco.",
+        "fruit_tip": "Tras las flores aparecen vainas de semillas alargadas que se abren para liberar semillas con mechones sedosos que el viento se lleva.",
+        "description": "La Palma de Madagascar no es una palma verdadera, sino una suculenta espinosa de la familia de las apocináceas, nativa de los matorrales secos y rocosos del sur de Madagascar. Su tronco grueso e hinchado almacena agua durante largas sequías y está armado con afiladas espinas grises dispuestas en filas ordenadas a lo largo del tallo. En la copa del tronco se encuentra una corona de hojas largas, estrechas y brillantes que caen en épocas secas y rebrotan con las lluvias, dando a la planta su silueta parecida a una palmera. Los ejemplares maduros producen flores blancas fragantes con la garganta de un suave amarillo en verano, seguidas de vainas delgadas que se abren para liberar semillas con mechones sedosos al viento. De crecimiento lento y tolerante a la sequía, prospera a pleno sol y en suelo arenoso y bien drenado, lo que la convierte en un ejemplar arquitectónico llamativo para jardines áridos y patios soleados.",
+        "history_text_short": "Llamada así por su grueso tronco almacenador de agua (del griego \"pie grueso\"), la Palma de Madagascar proviene del árido bosque espinoso de Madagascar, no de los trópicos. A pesar de su corona parecida a una palmera, es una pariente suculenta de la adelfa, y hoy es una planta favorita para ventanas soleadas en todo el mundo.",
+        "history_text_long": "La Palma de Madagascar pertenece al género Pachypodium, un grupo de suculentas de tallo hinchado que botánicos franceses catalogaron al documentar la extraordinaria flora de Madagascar a finales del siglo XIX. La Palma de Madagascar fue descrita formalmente como Pachypodium lamerei en 1899; el nombre del género proviene del griego pachys, \"grueso\", y podos, \"pie\", en alusión a su robusto tronco almacenador de agua. En su hábitat natural crece dispersa por el bosque espinoso del sur y suroeste de Madagascar, un ecosistema árido de matorral único en el mundo, que comparte con árboles pulpo, baobabs y los lémures y tortugas radiadas endémicos de la isla. Allí, su tronco hinchado es una adaptación a sequías de varios meses, almacenando agua que la planta sigue usando mucho después de que cesan las lluvias. Aunque su corona de hojas estrechas y su tronco espinoso evocan una palmera tropical, en realidad es pariente cercana de la adelfa y la rosa del desierto, perteneciente a la misma familia de savia lechosa. Su naturaleza poco exigente y su silueta llamativa la llevaron fuera de los bosques secos de Madagascar y a los viveros de todo el mundo durante el siglo XX, donde se convirtió en una de las suculentas \"parecidas a palmeras\" más vendidas para ventanas soleadas y jardines desérticos, apreciada por coleccionistas que cultivan pachypodiums desde semilla durante muchos años de paciencia.",
+        "name_origin": "El nombre del género Pachypodium proviene del griego pachys (\"grueso\") y podos (\"pie\"), que describe el tronco hinchado que almacena agua. Aunque se la llama comúnmente Palma de Madagascar por su corona de hojas parecida a una palmera, no es una palma verdadera, sino una pariente suculenta de la adelfa.",
+        "symbolism_story": "Surgiendo del árido bosque espinoso de Madagascar con un tronco hinchado y armado de espinas, construido para resistir la temporada seca, la Palma de Madagascar se ha convertido en símbolo de resiliencia: la fuerza silenciosa de almacenar lo que se necesita y perdurar hasta que las condiciones cambien.",
+        "flower_meaning": "Resiliencia",
+        "fragrance": {
+          "notes": "Las plantas maduras producen flores blancas de fragancia suave y dulce en verano."
+        },
+        "uses_list": [
+          {
+            "text": "Una suculenta arquitectónica llamativa para patios soleados, pórticos y jardines xerófilos."
+          },
+          {
+            "text": "Las flores fragantes de verano atraen abejas y otros polinizadores."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Resiliencia",
+            "description": "Su tronco almacenador de agua y su capacidad de resistir meses de sequía la convierten en un símbolo de resistencia silenciosa."
+          },
+          {
+            "keyword": "Protección",
+            "description": "Las filas de espinas afiladas a lo largo de su tronco evocan vigilancia y autodefensa."
+          }
+        ],
+        "toxicity": {
+          "headline": "Toxicidad desconocida",
+          "active_compound_display": "Nada reportado",
+          "notes_en": "No se encontró ninguna coincidencia de toxicidad en fuentes autorizadas; se trata como no reportada (la estimación del modelo no está verificada por fuentes).",
+          "human": {
+            "exposure": "No se reporta ninguna vía de exposición.",
+            "effect": "No se reporta ningún efecto tóxico.",
+            "note": "La toxicidad para los humanos no está bien documentada; se recomienda precaución hasta verificarla."
+          },
+          "dog": {
+            "exposure": "No se reporta ninguna vía de exposición.",
+            "effect": "No se reporta ningún efecto tóxico.",
+            "note": "La toxicidad para los perros no está bien documentada; se recomienda precaución hasta verificarla."
+          },
+          "cat": {
+            "exposure": "No se reporta ninguna vía de exposición.",
+            "effect": "No se reporta ningún efecto tóxico.",
+            "note": "La toxicidad para los gatos no está bien documentada; se recomienda precaución hasta verificarla."
+          }
+        }
+      }
+    },
+    "AAA1701": {
+      "source_hash": "31056c524236868c7cd29afa5a14cf1c4efc18d292c0bbf41d8711e65de9c1c9",
+      "fields": {
+        "common_name": "bolsa mullaca",
+        "bloom_tip": "Produce pequeñas flores amarillas durante los meses de verano.",
+        "fruit_tip": "El fruto es pequeño, redondo y está envuelto en una vaina papirácea que le añade valor ornamental al madurar.",
+        "description": "La bolsa mullaca (Physalis angulata) es una anual tropical de hábito extendido, de la familia de las solanáceas, apreciada menos por sus discretas flores amarillas que por los curiosos farolillos de papel que las suceden. Cada flor da paso a una fina vaina inflada que cruje al secarse y que esconde en su interior una sola baya redonda y dorada. Sus tallos marcadamente angulosos y sus hojas profundamente dentadas y puntiagudas le dan a esta planta su nombre científico y su porte suelto y ramificado. De crecimiento rápido y amante del calor, se autosiembra con facilidad en jardines cálidos, reapareciendo año tras año en el mismo arriate sin apenas ayuda.",
+        "history_text_short": "En la Amazonía, esta planta se conoce como camapú, un nombre que los curanderos tradicionales usaban mucho antes de que la ciencia se interesara por ella. Sus hojas y sus bayas envueltas en papel se preparaban en tés amargos contra la fiebre y los dolores articulares. Décadas después, los químicos aislaron los fisalinos, una familia de compuestos esteroidales hoy estudiados por su actividad antiinflamatoria y anticancerígena, que da a los viejos remedios populares un nuevo respaldo científico.",
+        "history_text_long": "En toda la cuenca amazónica, la bolsa mullaca ha llevado desde siempre otro nombre: camapú, una palabra que las comunidades de habla tupí en Brasil dieron a la planta siglos antes de que llegaran los botánicos con sus nombres en latín. Los curanderos cocían sus hojas y frutos enteros en tés amargos, recetando el brebaje contra la fiebre, los dolores articulares, la tos y las dolencias del hígado y los riñones. La práctica se extendió junto con la propia planta, que salió de su América tropical natal a bordo de barcos y rutas comerciales hasta convertirse en una maleza familiar de suelos alterados desde África Occidental hasta el Sudeste Asiático, incorporándose en cada región, con discreción, a su propia farmacopea.\n\nLa química moderna terminó alcanzando a generaciones de sabiduría popular. Los investigadores aislaron una familia de compuestos esteroidales amargos, exclusivos del género, llamados fisalinos, concentrados en las hojas y las vainas papiráceas de la planta. Estudios de laboratorio desde la década de 1990 han puesto a prueba estos compuestos frente a la inflamación, parásitos como el causante de la leishmaniasis e incluso líneas celulares cancerosas, dando verdadero peso farmacológico a una planta largamente descartada como una simple maleza de cuneta. Para quienes la cultivan hoy, la modesta exhibición de flores amarillas y bayas envueltas en farolillos es un pequeño recordatorio de que, a veces, malezas y medicinas son la misma planta, vista desde siglos distintos.",
+        "name_origin": "El nombre del género, Physalis, proviene de la palabra griega physa, que significa 'vejiga', en referencia al cáliz papiráceo e inflado que envuelve cada baya como un pequeño farolillo. El nombre de la especie, angulata, describe los tallos marcadamente angulosos y los lóbulos dentados y angulares de sus hojas.",
+        "symbolism_story": "Envuelta en su propio farolillo de papel, la bolsa mullaca siempre ha invitado a una segunda mirada: lo que parece una vaina vacía y crujiente esconde en su interior una baya dorada y dulce. Ese contraste entre el envoltorio sencillo y un contenido valioso convirtió a la planta, y a sus parientes papiráceos del género Physalis, en símbolos naturales de valor oculto y sorpresa discreta. En las comunidades donde crece como camapú, esta misma planta discreta, que muchos jardineros arrancan sin fijarse en ella, se ha usado durante mucho tiempo como medicina, un recordatorio de que la utilidad no siempre se anuncia a sí misma.",
+        "flower_meaning": "Valor Oculto",
+        "uses_list": [
+          {
+            "text": "Las bayas doradas maduras son comestibles, de sabor agridulce, y se usan en mermeladas, salsas y aperitivos en los trópicos."
+          },
+          {
+            "text": "Las hojas y los frutos se preparan en tés tradicionales llamados camapú en la medicina popular amazónica, usados contra la fiebre y la inflamación."
+          },
+          {
+            "text": "Las vainas papiráceas, como pequeños farolillos, aportan un curioso interés textural a los arriates y a los arreglos secos."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Valor Oculto",
+            "description": "la vaina papirácea que envuelve cada baya esconde en su interior una fruta dulce, convirtiendo a esta planta en un discreto emblema del valor oculto bajo una apariencia sencilla"
+          },
+          {
+            "keyword": "Resiliencia",
+            "description": "su facilidad para autosembrarse en suelos alterados y pasados por alto la ha convertido, durante mucho tiempo, en un símbolo de perseverancia discreta en las regiones donde se ha naturalizado"
+          }
+        ],
+        "toxicity": {
+          "headline": "Humanos: Leve",
+          "active_compound_display": "solanina y fisalinos",
+          "notes_en": "El fruto inmaduro y el follaje contienen glicoalcaloides de tipo solanina, típicos de la familia de las solanáceas; el fruto maduro se consume habitualmente.",
+          "human": {
+            "exposure": "Ingestión de hojas, tallos y frutos.",
+            "effect": "Náuseas, vómitos y malestar estomacal.",
+            "note": "El fruto inmaduro y el follaje contienen glicoalcaloides de tipo solanina, típicos de la familia de las solanáceas; el fruto maduro se consume habitualmente.",
+            "symptoms": [
+              "Náuseas.",
+              "Vómitos.",
+              "Malestar estomacal."
+            ]
+          },
+          "dog": {
+            "exposure": "No se reporta ninguna vía de exposición.",
+            "effect": "No se reporta ningún efecto tóxico.",
+            "note": "La toxicidad en perros no está bien documentada; se recomienda precaución hasta confirmarla."
+          },
+          "cat": {
+            "exposure": "No se reporta ninguna vía de exposición.",
+            "effect": "No se reporta ningún efecto tóxico.",
+            "note": "La toxicidad en gatos no está bien documentada; se recomienda precaución hasta confirmarla."
+          }
+        }
+      }
+    },
+    "AAA1702": {
+      "source_hash": "c95c709a8611993a769af6ffc09e826d038ca5bd23748e74d49bc644f0d2a9bb",
+      "fields": {
+        "common_name": "Azalea Satsuki",
+        "bloom_tip": "La azalea Satsuki normalmente florece en primavera con flores vibrantes y coloridas.",
+        "description": "La azalea Satsuki es un arbusto compacto que ama los suelos ácidos, apreciado por encima de otras azaleas por la pura impredecibilidad de su floración. Una misma planta puede dar flores de colores, rayas o patrones moteados distintos de un año a otro, y a veces incluso dentro del mismo racimo, resultado de un tejido genéticamente inestable que los horticultores llaman 'mutación somática' o 'sporting.' Sus hojas pequeñas, brillantes y perennes, junto con su porte bajo y denso, la han convertido en un sujeto favorito para el bonsái, moldeada en árboles en miniatura que pueden tardar décadas en perfeccionarse. Florece a finales de primavera, rara vez supera los dos metros de altura y prospera en suelo húmedo, ácido y bien drenado, en semisombra.",
+        "history_text_short": "A pesar de su nombre científico engañoso, la azalea Satsuki es originaria de Japón, no de la India -- un viejo error de etiquetado europeo que se quedó fijado. Apreciada por sus flores, que pueden mutar a colores y patrones completamente distintos de un año a otro, ha sido durante mucho tiempo un sujeto favorito de los artistas de bonsái japoneses.",
+        "history_text_long": "A pesar de su nombre científico, la azalea Satsuki no tiene nada que ver con la India. Los botánicos europeos del siglo XVIII, trabajando con plantas y descripciones que habían pasado por puestos comerciales holandeses en las Indias Orientales, asumieron erróneamente que el arbusto se originaba allí y lo etiquetaron indicum, 'de la India' -- un error que ha permanecido en su nombre científico desde entonces, aunque la planta es en realidad originaria de Japón. Su verdadero nombre, satsuki, se refiere al quinto mes del antiguo calendario lunar japonés, la época en que florece, semanas más tarde que la mayoría de las demás azaleas. Los cultivadores japoneses del periodo Edo quedaron fascinados por una peculiaridad que ninguna otra azalea muestra con tanta intensidad: una sola planta satsuki puede producir flores de colores y patrones completamente distintos de un año a otro, o incluso en la misma rama durante la misma temporada, a medida que parches de tejido genéticamente inestable 'mutan' hacia nuevas combinaciones de rayas, motas y colores sólidos. En lugar de tratar esta inestabilidad como un defecto, los cultivadores comenzaron a buscar deliberadamente las mutaciones más llamativas y a propagarlas, catalogando finalmente cientos de cultivares con nombre propio. Ese mismo amor por el modelado paciente y cuidadoso convirtió a la satsuki en uno de los sujetos más apreciados del bonsái, donde un solo ejemplar puede ser formado y refinado a lo largo de varias generaciones humanas, su tronco nudoso y su copa compacta sobreviviendo a los jardineros que le dieron forma por primera vez.",
+        "name_origin": "El nombre de la especie, indicum, latín para 'de la India', es un error histórico: los botánicos europeos del siglo XVIII confundieron la planta con una especie de las Indias Orientales tras conocerla a través de puestos comerciales holandeses, cuando en realidad es originaria de Japón. Su nombre japonés, satsuki, hace referencia al quinto mes del antiguo calendario lunar, la temporada en que florece.",
+        "symbolism_story": "En el lenguaje victoriano de las flores, la azalea se asoció durante mucho tiempo con la templanza: una contención silenciosa y mesurada. La azalea Satsuki añade su propio giro a ese simbolismo: su tendencia a mutar hacia nuevos colores y patrones impredecibles de una temporada a otra también la ha convertido en un emblema de transformación, un recordatorio de que incluso una planta estable y discreta puede guardar sorpresas ocultas en su interior.",
+        "flower_meaning": "Templanza",
+        "fragrance": {
+          "notes": "Sus flores tienen poca o ninguna fragancia detectable."
+        },
+        "uses_list": [
+          {
+            "text": "Se cultiva y moldea como bonsái, donde su crecimiento compacto y su tolerancia a la poda la convierten en uno de los sujetos más apreciados del arte del bonsái japonés."
+          },
+          {
+            "text": "Sus flores de finales de primavera atraen a abejas y otros insectos polinizadores."
+          },
+          {
+            "text": "Las ramas en flor se usan en ocasiones en el ikebana, el arreglo floral japonés."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Templanza",
+            "description": "En el lenguaje victoriano de las flores, la azalea se ha asociado durante mucho tiempo con la templanza, una contención silenciosa y mesurada."
+          },
+          {
+            "keyword": "Transformación",
+            "description": "Su famosa capacidad de florecer con colores y patrones completamente distintos de un año a otro la ha convertido en un emblema natural de transformación y sorpresa."
+          }
+        ],
+        "toxicity": {
+          "headline": "Humanos Moderado · Mascotas Tóxico",
+          "active_compound_display": "grayanotoxina",
+          "notes_en": "Todas las partes contienen grayanotoxinas que alteran la función celular normal; la ingestión causa vómitos, salivación, debilidad y caídas peligrosas de la presión arterial y la frecuencia cardíaca, y puede ser fatal en casos graves, especialmente en mascotas.",
+          "human": {
+            "exposure": "Ingerir cualquier parte de la planta, hojas y flores.",
+            "effect": "Náuseas, vómitos, presión arterial baja y latidos irregulares.",
+            "note": "Todas las partes contienen grayanotoxinas que alteran la función celular normal; la ingestión causa vómitos, salivación, debilidad y caídas peligrosas de la presión arterial y la frecuencia cardíaca, y puede ser fatal en casos graves, especialmente en mascotas.",
+            "symptoms": [
+              "Náuseas.",
+              "Vómitos.",
+              "Presión arterial baja.",
+              "Latidos irregulares."
+            ]
+          },
+          "dog": {
+            "exposure": "Ingerir cualquier parte de la planta y hojas.",
+            "effect": "Vómitos, diarrea, salivación, debilidad, ritmo cardíaco anormal y coma.",
+            "note": "Todas las partes contienen grayanotoxinas que alteran la función celular normal; la ingestión causa vómitos, salivación, debilidad y caídas peligrosas de la presión arterial y la frecuencia cardíaca, y puede ser fatal en casos graves, especialmente en mascotas.",
+            "symptoms": [
+              "Vómitos.",
+              "Diarrea.",
+              "Salivación.",
+              "Debilidad.",
+              "Ritmo cardíaco anormal.",
+              "Coma."
+            ]
+          },
+          "cat": {
+            "exposure": "Ingerir cualquier parte de la planta y hojas.",
+            "effect": "Vómitos, diarrea, salivación, debilidad, ritmo cardíaco anormal y coma.",
+            "note": "Todas las partes contienen grayanotoxinas que alteran la función celular normal; la ingestión causa vómitos, salivación, debilidad y caídas peligrosas de la presión arterial y la frecuencia cardíaca, y puede ser fatal en casos graves, especialmente en mascotas.",
+            "symptoms": [
+              "Vómitos.",
+              "Diarrea.",
+              "Salivación.",
+              "Debilidad.",
+              "Ritmo cardíaco anormal.",
+              "Coma."
+            ]
+          }
+        }
+      }
+    },
+    "AAA1703": {
+      "source_hash": "2d63dbf44eaa63c5a6b2eabea36f4ef49350d58ef6cddcf7a5bbdf208ce86ce1",
+      "fields": {
+        "common_name": "Salvia de los adivinos",
+        "bloom_tip": "Las flores de esta planta brotan en verano, de colores vivos y encantadores.",
+        "description": "La salvia de los adivinos es una discreta hierba perenne de la familia de la menta, originaria de una estrecha franja de bosque húmedo y sombreado en la Sierra Mazateca de Oaxaca, México. Crece erguida sobre tallos huecos y ligeramente leñosos, cubiertos de grandes hojas ovaladas de color verde brillante con bordes suavemente dentados. A finales del otoño aparecen altas espigas florales con flores blancas y tubulares envueltas en cálices de un violeta intenso, aunque rara vez produce semillas viables, por lo que la mayoría de las plantas se propagan mediante esquejes. En sus barrancos y acantilados calizos nativos, prefiere la sombra moteada, el calor constante y un suelo siempre húmedo y bien drenado.",
+        "history_text_short": "Durante generaciones, los curanderos mazatecos de las brumosas tierras altas de Oaxaca han tratado a esta discreta hierba del bosque como un oráculo viviente, consultado en ceremonias nocturnas para diagnosticar enfermedades y buscar respuestas más allá de la vista ordinaria. Los forasteros apenas la conocían hasta que los botánicos rastrearon la planta que los curanderos mazatecos llamaban 'la pastora' hasta su remoto hogar en la montaña.",
+        "history_text_long": "Mucho antes de que los botánicos le dieran un nombre en latín, la salvia de los adivinos ocupaba un lugar discreto y celosamente guardado en la vida espiritual del pueblo mazateco de la Sierra Mazateca, en Oaxaca, México. Los curanderos mazatecos empleaban la planta en rituales nocturnos llamados veladas, masticando hojas frescas o bebiendo una infusión antes de sentarse en una oscuridad y un silencio casi absolutos, atentos a la voz de la planta para diagnosticar enfermedades, localizar objetos perdidos o responder preguntas que escapaban a los sentidos ordinarios. La ceremonia mezclaba la oración católica con una cosmología mazateca más antigua, y la planta misma era invocada con nombres reverentes, entre ellos 'la pastora' y 'nuestra señora'.\n\nDurante siglos, los forasteros apenas captaron fragmentos de esta tradición. Los misioneros españoles registraron ya en la época colonial retazos de la vida ritual mazateca, pero la planta responsable permaneció sin identificar hasta 1939, cuando el antropólogo Jean Basset Johnson documentó su uso ceremonial. No fue hasta principios de la década de 1960 cuando los botánicos Carl Epling y Carlos Játiva, a partir de ejemplares recogidos en expediciones a la Sierra Mazateca, describieron y nombraron formalmente la especie. Los investigadores también observaron que las plantas silvestres casi nunca producen semillas viables, lo que sugiere que la salvia de los adivinos cultivada hoy podría ser un linaje propagado por esquejes, conservado por manos mazatecas durante generaciones y transmitido de curandero a curandero en lugar de cultivarse a partir de semilla.\n\nEn 1982, el químico Daniel Siebert y sus colegas aislaron de las hojas la salvinorina A, un compuesto psicoactivo inusualmente potente y no nitrogenado, distinto de los alcaloides presentes en la mayoría de las plantas alucinógenas. Ese descubrimiento atrajo de pronto la atención científica hacia una planta que había sobrevivido en relativa oscuridad durante generaciones, y su estatus legal varía hoy ampliamente según el país y la región. En la actualidad, la salvia de los adivinos se cultiva en colecciones botánicas y jardines de todo el mundo, valorada menos por algún uso práctico que por su singular historia etnobotánica y el follaje aterciopelado y discreto que la oculta.",
+        "name_origin": "El nombre del género Salvia proviene del latín salvare, 'curar' o 'salvar', en alusión a la larga reputación medicinal de las salvias. El nombre de la especie, divinorum, significa en latín 'de los adivinos', en referencia directa al papel tradicional de la planta en las ceremonias de adivinación mazatecas.",
+        "symbolism_story": "Como sus efectos llegan y se disipan con rapidez, dejando apenas rastro visible, la salvia de los adivinos quedó asociada a ideas de conocimiento oculto y revelación fugaz. La tradición mazateca la presentaba como una guía amable y no como una fuerza que dominar, una planta consultada con humildad, en la oscuridad, y tratada más como consejera que como remedio.",
+        "flower_meaning": "Percepción oculta",
+        "fragrance": {
+          "notes": "Las hojas desprenden un aroma tenue, terroso y ligeramente mentolado al machacarlas o aplastarlas."
+        },
+        "uses_list": [
+          {
+            "text": "Elemento central de las ceremonias tradicionales de adivinación y curación mazatecas en Oaxaca, México."
+          },
+          {
+            "text": "Cultivada por coleccionistas de todo el mundo por su follaje exuberante y aterciopelado y su rareza botánica."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Percepción oculta",
+            "description": "Una planta consultada en silencio para obtener respuestas que escapan a la vista ordinaria."
+          },
+          {
+            "keyword": "Custodia",
+            "description": "Invocada por los curanderos mazatecos como una guía amable y protectora, no como una fuerza que se pueda dominar."
+          }
+        ],
+        "toxicity": {
+          "headline": "No se reporta toxicidad",
+          "active_compound_display": "No reportado",
+          "notes_en": "No se encontró una coincidencia de toxicidad autorizada; se trata como no reportado (la estimación del LLM no está verificada por fuentes).",
+          "human": {
+            "exposure": "No se reporta ninguna vía de exposición.",
+            "effect": "No se reporta ningún efecto tóxico.",
+            "note": "La toxicidad para humanos no está bien documentada; usar con precaución hasta verificar."
+          },
+          "dog": {
+            "exposure": "No se reporta vía de exposición.",
+            "effect": "No se reporta efecto tóxico.",
+            "note": "No se reporta toxicidad para perros en este catálogo; esto no es evidencia de que la planta sea comestible o inofensiva."
+          },
+          "cat": {
+            "exposure": "No se reporta vía de exposición.",
+            "effect": "No se reporta efecto tóxico.",
+            "note": "No se reporta toxicidad para gatos en este catálogo; esto no es evidencia de que la planta sea comestible o inofensiva."
+          }
+        }
+      }
+    },
+    "AAA1704": {
+      "source_hash": "8c13c1a561739647e3584b056fe5a7f9429a6a9e66e6baf027bd02755977b689",
+      "fields": {
+        "common_name": "Almendro Tropical",
+        "bloom_tip": "Las flores de esta planta florecen en verano.",
+        "fruit_tip": "Los frutos maduran en otoño y tienen valor ornamental.",
+        "description": "El Almendro Tropical es un árbol costero de copa extendida, conocido por su silueta en forma de pagoda, con ramas que se abren en capas planas y escalonadas desde un tronco robusto. Sus hojas anchas y coriáceas se tiñen de rojo y naranja intensos antes de caer dos veces al año, enmarcando pequeñas espigas de flores blancas y fragantes que atraen a las abejas. Les siguen frutos aplanados y corchosos que maduran de verde a pardo rojizo y encierran una sola almendra comestible. Frecuente en playas y costas de marea de todo el trópico, el Almendro Tropical tolera la brisa salina, el viento y los suelos arenosos pobres, lo que lo convierte en un árbol de sombra muy apreciado para parques costeros, avenidas y jardines junto al mar.",
+        "history_text_short": "El fruto corchoso del Almendro Tropical flota en las corrientes oceánicas, lo que le permitió colonizar las costas tropicales del Índico y el Pacífico mucho antes de que llegaran las personas. Hoy, sus hojas caídas se remojan en acuarios de todo el mundo para acondicionar el agua de los peces ornamentales.",
+        "history_text_long": "Mucho antes de que las personas llevaran el Almendro Tropical de un continente a otro, el árbol ya se expandía por sí mismo. Su fruto tiene una cáscara gruesa y corchosa que atrapa aire, lo que le permite flotar durante meses en las corrientes oceánicas sin que la almendra interior pierda su capacidad de germinar. Las olas y las mareas han transportado estas semillas flotantes entre islas y continentes durante miles de años, sembrando playas desde el océano Índico hasta el Pacífico y, finalmente, las costas de África Occidental y el Caribe -- uno de los ejemplos más claros de una planta que colonizó los trópicos por mar y no solo por mano humana. Más tarde, los planificadores de la época colonial aprovecharon la tolerancia a la sal y la copa densa y escalonada del árbol para bordear avenidas y paseos marítimos desde Bombay hasta Lagos y La Habana. En las últimas décadas, el Almendro Tropical ha encontrado un público muy distinto: los acuaristas. Sus hojas secas y caídas, vendidas en todo el mundo simplemente como 'hojas de almendro indio', se remojan en acuarios de agua dulce para liberar taninos que tiñen el agua de color ámbar, bajan su pH y aportan un leve efecto antibacteriano y antifúngico. Los criadores de peces betta de Tailandia e Indonesia popularizaron esta práctica hace generaciones para ayudar a recuperarse a peces heridos o estresados, y desde entonces se ha convertido en un ritual habitual entre acuaristas de todo el mundo, llevando al mismo árbol que un día derivó en el océano hasta peceras de cristal sobre estanterías de dormitorio.",
+        "name_origin": "El nombre del género, Terminalia, proviene del latín terminus, 'final' o 'límite', en referencia a que sus hojas se agrupan justo en las puntas de las ramas. El nombre de la especie, catappa, procede de ketapang, la palabra malaya para este árbol, y refleja su larga historia en las costas del sudeste asiático.",
+        "symbolism_story": "Porque su fruto puede flotar durante meses en mar abierto y aun así germinar al llegar a la orilla, el Almendro Tropical se ha convertido en un símbolo silencioso de resiliencia y llegada: un recordatorio de que algo puede viajar muy lejos de su origen y, aun así, echar raíces. Su copa ancha y escalonada refuerza esa sensación de refugio, brindando sombra tanto a viajeros como a comunidades costeras.",
+        "flower_meaning": "Resiliencia",
+        "fragrance": {
+          "notes": "Pequeñas espigas de flores blancas desprenden una fragancia suave y dulce que atrae a las abejas."
+        },
+        "uses_list": [
+          {
+            "text": "Se planta como árbol de sombra en playas, avenidas y parques costeros por su copa escalonada en forma de sombrilla."
+          },
+          {
+            "text": "La almendra comestible del interior del fruto se come cruda o tostada, con un sabor suave y a fruto seco."
+          },
+          {
+            "text": "Las hojas y la corteza, ricas en taninos, se usan en remedios tradicionales contra la diarrea y afecciones de la piel, y las hojas secas se remojan en acuarios por su efecto antibacteriano."
+          },
+          {
+            "text": "Su madera rojiza resiste las termitas y la pudrición, por lo que se aprecia para la construcción naval y de muebles en comunidades costeras."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Resiliencia",
+            "description": "Sus semillas sobreviven meses de deriva en el mar, encarnando la resistencia y la capacidad de echar raíces lejos de casa."
+          },
+          {
+            "keyword": "Refugio",
+            "description": "La copa ancha y escalonada del árbol ha ofrecido durante mucho tiempo sombra y un lugar de encuentro en las costas tropicales."
+          }
+        ],
+        "toxicity": {
+          "headline": "No se ha reportado toxicidad",
+          "active_compound_display": "Ninguno reportado",
+          "notes_en": "No se encontró coincidencia con fuentes autorizadas; se clasifica como no reportado (la estimación de la IA no está verificada por fuentes).",
+          "human": {
+            "exposure": "No se reporta ninguna vía de exposición.",
+            "effect": "No se reporta ningún efecto tóxico.",
+            "note": "No se reporta toxicidad para humanos en este catálogo; esto no es prueba de que la planta sea comestible o inofensiva."
+          },
+          "dog": {
+            "exposure": "No se reporta ninguna vía de exposición.",
+            "effect": "No se reporta ningún efecto tóxico.",
+            "note": "No se reporta toxicidad para perros en este catálogo; esto no es prueba de que la planta sea comestible o inofensiva."
+          },
+          "cat": {
+            "exposure": "No se reporta ninguna vía de exposición.",
+            "effect": "No se reporta ningún efecto tóxico.",
+            "note": "No se reporta toxicidad para gatos en este catálogo; esto no es prueba de que la planta sea comestible o inofensiva."
+          }
+        }
+      }
+    },
+    "AAA1705": {
+      "source_hash": "eba60208c78610dde03e271344637eb0adf5bd52378053ffe45cddae895b84e6",
+      "fields": {
+        "common_name": "Amarilis de Canastra",
+        "bloom_tip": "Las flores de esta planta florecen en invierno y primavera, y son muy llamativas.",
+        "description": "El Amarilis de Canastra es una planta perenne bulbosa conocida solo en la Serra da Canastra, una accidentada región de montaña en Minas Gerais, Brasil, de la cual toma su nombre. A diferencia de la mayoría de sus parientes de muchas flores, cada tallo suele llevar una única flor pálida en forma de trompeta, un rasgo que comparte solo con unos pocos de sus parientes más cercanos. Crece arraigado en los pastizales rocosos y propensos al fuego conocidos como campo rupestre, floreciendo a menudo en los meses posteriores a un incendio. Descrita por primera vez en 2013, sigue siendo una de las especies más raras y de distribución más restringida de su género.",
+        "history_text_short": "Descrita por primera vez en 2013 y hallada solo en las tierras altas de la Serra da Canastra en Brasil, esta amarilis produce una única flor pálida por tallo, a diferencia de la mayoría de sus parientes de muchas flores. Crece en pastizal rocoso propenso al fuego y suele florecer en los meses posteriores a un incendio.",
+        "history_text_long": "El Amarilis de Canastra toma su nombre de la Serra da Canastra, una meseta imponente de pastizal rocoso en Minas Gerais, Brasil, donde crece la especie y en ningún otro lugar. Fue reconocida formalmente solo en 2013, cuando los botánicos la describieron como una de cuatro nuevas especies de Hippeastrum halladas dentro de la misma cadena montañosa, un recordatorio sorprendente de cuánta diversidad se oculta todavía en el campo rupestre brasileño, los pastizales rocosos marcados por el fuego que coronan su meseta central.\n\nLa mayoría de las especies de Hippeastrum producen dos o más flores por tallo, pero el Amarilis de Canastra es mayormente unifloro, produciendo una única flor pálida en forma de trompeta en la punta de cada escapo sin hojas, un hábito más discreto que comparte solo con unos pocos de sus parientes más cercanos de la misma cordillera. Su hipanto, el tubo estrecho en la base de la flor, mide entre tres y cuatro y medio centímetros de largo, y carece de los pequeños apéndices internos, llamados paraperigonio, presentes en algunas especies emparentadas.\n\nEl campo rupestre es un paisaje moldeado por incendios periódicos, y el Amarilis de Canastra parece seguir ese ritmo: los botánicos han registrado poblaciones que florecen en los meses posteriores a que el fuego ha despejado el pastizal, un patrón compartido por muchos bulbos y cormos de las tierras altas brasileñas adaptadas al fuego, que aprovechan el impulso de nutrientes y la luz abierta de un paisaje quemado para florecer y producir semillas antes de que el pasto vuelva a crecer a su alrededor.",
+        "name_origin": "El nombre del género Hippeastrum proviene del griego hippeus ('caballero') y astron ('estrella'). El nombre de la especie, canastrense, se refiere a la Serra da Canastra, una cadena montañosa en Minas Gerais, Brasil, y el único lugar donde se conoce la planta; 'canastra' significa en portugués 'cesta' o 'baúl', en alusión al perfil macizo y de paredes altas de la sierra.",
+        "symbolism_story": "En los pastizales marcados por el fuego de la Serra da Canastra, el Amarilis de Canastra a menudo solo se nota después de que un incendio ha despejado la maraña de pasto que normalmente lo oculta. Su flor pálida y solitaria, que emerge de un suelo ennegrecido y cubierto de ceniza, lo ha convertido, entre los naturalistas locales, en un emblema discreto de renacimiento: la promesa de que la vida regresa con rapidez una vez que a un paisaje calcinado se le da espacio para respirar de nuevo.",
+        "flower_meaning": "Renacimiento",
+        "fragrance": {
+          "notes": "Sus flores pálidas no están documentadas como fragantes."
+        },
+        "uses_list": [
+          {
+            "text": "Un raro bulbo de altura buscado por coleccionistas especializados por su única y discreta flor pálida, aunque su minúsculo rango silvestre hace que el material propagado en vivero sea la única fuente responsable."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Renacimiento",
+            "description": "Al florecer en los meses posteriores a que el fuego arrasa su pastizal rocoso de montaña, el Amarilis de Canastra ha llegado a simbolizar el renacimiento: nueva vida que surge de la tierra ennegrecida una vez que las llamas han pasado."
+          }
+        ],
+        "toxicity": {
+          "headline": "Humanos Leve · Mascotas Moderado",
+          "active_compound_display": "licorina",
+          "notes_en": "Todas las partes contienen alcaloides de Amaryllidaceae, principalmente licorina, concentrados sobre todo en el bulbo; la ingestión puede causar molestias gastrointestinales en personas y mascotas.",
+          "human": {
+            "exposure": "Ingestión de bulbos y savia. Contacto con bulbos y savia.",
+            "effect": "Náuseas, vómitos e irritación de la piel.",
+            "note": "Todas las partes contienen alcaloides de Amaryllidaceae, principalmente licorina, concentrados sobre todo en el bulbo; la ingestión puede causar molestias gastrointestinales en personas y mascotas.",
+            "symptoms": [
+              "Náuseas.",
+              "Vómitos.",
+              "Irritación de la piel."
+            ]
+          },
+          "dog": {
+            "exposure": "Ingestión de bulbos.",
+            "effect": "Vómitos, diarrea, babeo, letargo y dolor abdominal.",
+            "note": "Todas las partes contienen alcaloides de Amaryllidaceae, principalmente licorina, concentrados sobre todo en el bulbo; la ingestión puede causar molestias gastrointestinales en personas y mascotas.",
+            "symptoms": [
+              "Vómitos.",
+              "Diarrea.",
+              "Babeo.",
+              "Letargo.",
+              "Dolor abdominal."
+            ]
+          },
+          "cat": {
+            "exposure": "Ingestión de bulbos.",
+            "effect": "Vómitos, diarrea, babeo, letargo y dolor abdominal.",
+            "note": "Todas las partes contienen alcaloides de Amaryllidaceae, principalmente licorina, concentrados sobre todo en el bulbo; la ingestión puede causar molestias gastrointestinales en personas y mascotas.",
+            "symptoms": [
+              "Vómitos.",
+              "Diarrea.",
+              "Babeo.",
+              "Letargo.",
+              "Dolor abdominal."
+            ]
+          }
+        }
+      }
+    },
+    "AAA1706": {
+      "source_hash": "50730c5eed30af46b0ec2e782e96c9f719a6c9e6c09fef349688a6b1b0063ece",
+      "fields": {
+        "common_name": "Amarilis de Ferreyra",
+        "bloom_tip": "Las flores de esta planta son hermosas y suelen florecer desde el invierno hasta el verano.",
+        "description": "El Amarilis de Ferreyra es una planta perenne bulbosa conocida solo en dos valles fluviales aislados del este de Perú, el del río Huallaga y el del río Purús. Cada tallo alto y sin hojas lleva un par de flores con forma de trompeta, de color rojo anaranjado, marcadas por una fina franja blanca en dos de los seis tépalos, un rasgo que la distingue de su pariente cercano, Hippeastrum puniceum. Sus hojas en forma de cinta crecen notablemente largas, adaptadas a las condiciones cálidas y húmedas y a las intensas lluvias estacionales de su hábitat en el borde amazónico. Autoestéril y limitada a un puñado de colonias dispersas, se considera vulnerable a la extinción.",
+        "history_text_short": "Nombrada en honor al botánico peruano Ramón Ferreyra y descrita por primera vez en 1950, esta amarilis sobrevive solo en dos valles fluviales remotos del este de Perú. Cada tallo produce un par de flores rojo anaranjadas con rayas blancas. Autoestéril y limitada a colonias dispersas, está catalogada como vulnerable a la extinción.",
+        "history_text_long": "El Amarilis de Ferreyra lleva el nombre de Ramón Ferreyra, uno de los botánicos peruanos más prolíficos del siglo veinte, quien dedicó décadas a recorrer los valles de su país y documentar su extraordinaria flora. La planta que recolectó en la remota región fluvial del este de Perú fue descrita formalmente en 1950 por el especialista estadounidense en bulbos Hamilton Paul Traub, quien la clasificó como Amaryllis ferreyrae. Pasarían más de cuatro décadas, y una comprensión más profunda del género, antes de que los taxónomos Roy Gereau y Lois Brako la trasladaran a Hippeastrum en 1993, situándola junto a sus muchos parientes de flores en forma de trompeta.\n\nLa especie sobrevive hoy solo en dos enclaves conocidos, separados por una vasta extensión de selva peruana: el valle del río Huallaga y, mucho más al sur, el valle del río Purús. En ambos lugares crece en condiciones cálidas y muy lluviosas, levantando tallos altos coronados por un par de flores rojo anaranjadas cuya fina franja blanca en los tépalos es una de las pocas diferencias visibles con la más extendida Hippeastrum puniceum.\n\nEsa aislación tiene un costo. El Amarilis de Ferreyra es autoestéril, lo que significa que cada flor depende del polen traído desde un vecino genéticamente distinto para producir semillas. En colonias pequeñas y dispersas, los compañeros adecuados pueden ser escasos, y la especie ha sido catalogada como vulnerable a la extinción, un destino que comparte con muchos bulbos endémicos de distribución estrecha en el borde amazónico, cuyo futuro entero depende de un puñado de poblaciones supervivientes.",
+        "name_origin": "El nombre del género Hippeastrum proviene del griego hippeus ('caballero' o 'jinete') y astron ('estrella'), en alusión a sus audaces flores en forma de estrella. El nombre de la especie, ferreyrae, honra a Ramón Ferreyra, el botánico peruano que la recolectó por primera vez.",
+        "symbolism_story": "Porque el Amarilis de Ferreyra sobrevive en solo dos valles conocidos, separados por cientos de kilómetros, y depende del polen de un vecino genéticamente distinto para producir semillas, cultivadores y conservacionistas han llegado a verlo como un símbolo de resiliencia: una planta que persiste no por su abundancia, sino por pura tenacidad, continuando incluso cuando su hábitat silvestre se reduce a su alrededor.",
+        "flower_meaning": "Resiliencia",
+        "fragrance": {
+          "notes": "Sus flores no están documentadas como fragantes."
+        },
+        "uses_list": [
+          {
+            "text": "Cultivado por coleccionistas especializados de bulbos por sus llamativas flores rojo anaranjadas con rayas blancas, aunque su rareza en estado silvestre hace que el material propagado en vivero sea la única fuente responsable."
+          },
+          {
+            "text": "Sus flores rojas y tubulares siguen el patrón de color y forma típicamente asociado con la polinización por colibríes entre las amarilidáceas."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Resiliencia",
+            "description": "Al sobrevivir en solo dos valles fluviales aislados y depender del polen de un vecino genéticamente distinto para producir semillas, el Amarilis de Ferreyra ha llegado a representar una resiliencia silenciosa: la capacidad de persistir contra todo pronóstico en un mundo fragmentado."
+          }
+        ],
+        "toxicity": {
+          "headline": "Humanos Leve · Mascotas Moderado",
+          "active_compound_display": "licorina",
+          "notes_en": "Todas las partes contienen alcaloides de Amaryllidaceae, principalmente licorina, concentrados sobre todo en el bulbo; la ingestión puede causar molestias gastrointestinales en personas y mascotas.",
+          "human": {
+            "exposure": "Ingestión de bulbos y savia. Contacto con bulbos y savia.",
+            "effect": "Náuseas, vómitos e irritación de la piel.",
+            "note": "Todas las partes contienen alcaloides de Amaryllidaceae, principalmente licorina, concentrados sobre todo en el bulbo; la ingestión puede causar molestias gastrointestinales en personas y mascotas.",
+            "symptoms": [
+              "Náuseas.",
+              "Vómitos.",
+              "Irritación de la piel."
+            ]
+          },
+          "dog": {
+            "exposure": "Ingestión de bulbos.",
+            "effect": "Vómitos, diarrea, babeo, letargo y dolor abdominal.",
+            "note": "Todas las partes contienen alcaloides de Amaryllidaceae, principalmente licorina, concentrados sobre todo en el bulbo; la ingestión puede causar molestias gastrointestinales en personas y mascotas.",
+            "symptoms": [
+              "Vómitos.",
+              "Diarrea.",
+              "Babeo.",
+              "Letargo.",
+              "Dolor abdominal."
+            ]
+          },
+          "cat": {
+            "exposure": "Ingestión de bulbos.",
+            "effect": "Vómitos, diarrea, babeo, letargo y dolor abdominal.",
+            "note": "Todas las partes contienen alcaloides de Amaryllidaceae, principalmente licorina, concentrados sobre todo en el bulbo; la ingestión puede causar molestias gastrointestinales en personas y mascotas.",
+            "symptoms": [
+              "Vómitos.",
+              "Diarrea.",
+              "Babeo.",
+              "Letargo.",
+              "Dolor abdominal."
+            ]
           }
         }
       }

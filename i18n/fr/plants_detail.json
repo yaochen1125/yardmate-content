@@ -3,8 +3,8 @@
   "locale": "fr",
   "source": {
     "resource": "plants_detail.json",
-    "sha256": "dcc2b0a836aa15dec5b0969be846388cf70b7edd5719f9fde381784506ed8765",
-    "record_count": 1694
+    "sha256": "45d64574c073175ce1c844dfe07dfa6cc1a1c7e3713a75d9792994f5bd9af77d",
+    "record_count": 1705
   },
   "records": {
     "AAA0001": {
@@ -103702,6 +103702,686 @@
             "exposure": "Aucune voie d'exposition n'est signalée.",
             "effect": "Aucun effet toxique n'est signalé.",
             "note": "Aucune toxicité n'est signalée pour les chats dans ce catalogue ; cela ne prouve pas que la plante soit comestible ou inoffensive."
+          }
+        }
+      }
+    },
+    "AAA1696": {
+      "source_hash": "bd3e1d0b89735d29a0fe75a989cd2e4171f727142e68bd8c724c93e8cdaad621",
+      "fields": {
+        "common_name": "Agaric champêtre",
+        "fruit_tip": "Les fructifications percent le sol après la pluie, de la mi-été à l'automne, et sont cueillies fraîches par les cueilleurs pour la cuisine.",
+        "description": "L'Agaric champêtre est un champignon comestible sauvage qui surgit dans les prés, les pâturages et les pelouses bien engraissées après la pluie, surtout en fin d'été et en automne. Son chapeau lisse, blanc à crème, est d'abord bombé puis s'aplatit avec l'âge, posé sur un pied court et blanc muni d'un anneau fin et fragile. Dessous, les lamelles commencent rose pâle puis foncent jusqu'au brun chocolat à mesure que le champignon mûrit, l'indice le plus net pour le distinguer des amanites à lamelles blanches qu'il peut rappeler. Doux et au goût de noisette, c'est un proche parent sauvage du champignon de Paris cultivé et reste un favori des cueilleurs en Europe et en Amérique du Nord.",
+        "history_text_short": "Bien avant l'existence de la culture des champignons, les cueilleurs d'Europe et d'Amérique du Nord récoltaient l'Agaric champêtre dans les pâturages détrempés de pluie chaque automne. Ses lamelles roses à brunes sont l'indice classique qui le distingue des amanites mortelles à lamelles blanches auxquelles il peut ressembler.",
+        "history_text_long": "L'Agaric champêtre est récolté dans les pâturages et les prés à travers l'Europe depuis des siècles, bien avant l'existence de la culture des champignons. Son abondance après les pluies d'automne en a fait l'un des aliments sauvages les plus familiers de la campagne européenne, apparaissant aussi bien dans les vieux herbiers que dans les cuisines fermières. Il appartient au même genre que le champignon de Paris, le champignon brun et le portobello cultivés, qui remontent tous à un proche parent cultivé délibérément pour la première fois dans des couches à melons près de Paris à la fin du dix-septième siècle ; au dix-neuvième siècle, les producteurs parisiens déplacèrent la culture dans les carrières de calcaire désaffectées de la ville, donnant naissance à l'industrie moderne de la champignonnière. L'Agaric champêtre sauvage lui-même n'a jamais été domestiqué de la même manière, et les cueilleurs l'apprécient précisément parce qu'il faut le trouver plutôt que le cultiver. Le cueillir en toute sécurité a cependant toujours exigé de la prudence : son chapeau blanc peut être confondu au premier regard avec les amanites mortelles qui partagent les mêmes pâturages. Des générations de cueilleurs ont appris à vérifier les lamelles avant le chapeau, rose pâle chez un jeune Agaric champêtre, virant au brun chocolat avec l'âge, jamais le blanc pur d'une amanite mortelle, une habitude transmise comme règle de base de la sécurité mycologique partout où les deux poussent côte à côte.",
+        "name_origin": "Le nom de genre Agaricus vient du grec agarikon, un ancien terme pour champignon, tandis que le nom d'espèce campestris signifie en latin « des champs », décrivant les pâturages et prés ouverts où il pousse.",
+        "symbolism_story": "Surgissant par dizaines dans un pré humide en une seule nuit, l'Agaric champêtre symbolise depuis longtemps l'abondance soudaine de la nature, et, en raison de sa ressemblance troublante avec des parents mortels, un doux rappel à regarder attentivement avant de faire confiance aux apparences.",
+        "flower_meaning": "Abondance",
+        "fragrance": {
+          "notes": "Aucun parfum notable hormis une légère odeur terreuse de champignon."
+        },
+        "uses_list": [
+          {
+            "text": "Un champignon sauvage comestible, doux et au goût de noisette, cueilli frais dans les prés et pâturages pour la cuisine."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Abondance",
+            "description": "Apparaissant comme du jour au lendemain dans tout un pâturage après la pluie, il représente depuis longtemps la plénitude soudaine de la nature."
+          },
+          {
+            "keyword": "Vigilance",
+            "description": "Sa ressemblance avec les amanites mortelles en fait un rappel discret de regarder attentivement avant de se fier aux apparences."
+          }
+        ],
+        "toxicity": {
+          "headline": "Aucune toxicité signalée",
+          "active_compound_display": "Rien signalé",
+          "notes_en": "Aucune correspondance de toxicité confirmée par des sources autorisées ; traité comme non signalé (l'estimation du modèle n'est pas vérifiée par une source).",
+          "human": {
+            "exposure": "Aucune voie d'exposition signalée.",
+            "effect": "Aucun effet toxique signalé.",
+            "note": "Aucune toxicité n'est signalée pour l'humain pour cette plante dans ce catalogue ; ceci n'est pas une preuve qu'elle est comestible ou inoffensive."
+          },
+          "dog": {
+            "exposure": "Aucune voie d'exposition signalée.",
+            "effect": "Aucun effet toxique signalé.",
+            "note": "Aucune toxicité n'est signalée pour les chiens pour cette plante dans ce catalogue ; ceci n'est pas une preuve qu'elle est comestible ou inoffensive."
+          },
+          "cat": {
+            "exposure": "Aucune voie d'exposition signalée.",
+            "effect": "Aucun effet toxique signalé.",
+            "note": "Aucune toxicité n'est signalée pour les chats pour cette plante dans ce catalogue ; ceci n'est pas une preuve qu'elle est comestible ou inoffensive."
+          }
+        }
+      }
+    },
+    "AAA1697": {
+      "source_hash": "93ea2f03e83463b4d9f886afcbc49bc036b5e62005b4915632a581def56f7c1d",
+      "fields": {
+        "common_name": "Armillaire couleur de miel",
+        "fruit_tip": "Les corps fructifères de l'armillaire couleur de miel peuvent être utilisés en cuisine, mais doivent être préparés correctement.",
+        "description": "L'armillaire couleur de miel forme des touffes de chapeaux lisses, couleur miel, aux lames pâles, qui apparaissent chaque automne au pied des troncs d'arbres, des souches et des racines enfouies dans les forêts de l'hémisphère nord. Sous les champignons visibles se trouve le véritable corps de l'organisme : un vaste réseau de filaments noirs, semblables à des lacets, appelés rhizomorphes, qui s'étendent dans le sol et le bois, reliant parfois des milliers d'arbres en une seule colonie connectée. Ce réseau envahit progressivement les racines des arbres vivants, provoquant une pourriture racinaire destructrice capable d'affaiblir ou de tuer des arbres matures sur des années, voire des décennies. Malgré sa réputation de pathogène forestier, les jeunes chapeaux d'armillaire sont récoltés et consommés dans de nombreuses régions une fois bien cuits, bien que les spécimens crus ou mal cuits puissent provoquer des troubles digestifs.",
+        "history_text_short": "L'armillaire couleur de miel construit un réseau souterrain si vaste qu'une colonie dans une forêt de l'Oregon, surnommée le 'champignon humongo,' serait âgée de plus de deux mille ans et compterait parmi les plus grands organismes vivants jamais découverts -- tout en provoquant lentement une pourriture racinaire mortelle chez les arbres mêmes qui poussent au-dessus d'elle.",
+        "history_text_long": "En 1998, des pathologistes forestiers de la forêt nationale de Malheur, dans l'Oregon, entreprirent de cartographier une zone d'arbres mourants et découvrirent quelque chose qui a changé l'idée que l'on se faisait d'un seul être vivant. Des tests génétiques sur l'armillaire parcourant le sol sous des milliers d'hectares de forêt ont montré qu'il s'agissait d'un seul organisme : un unique réseau mycélien, estimé à bien plus de deux mille ans, s'étendant sous terre sur plus de huit kilomètres carrés. Les médias l'ont rapidement surnommé le 'champignon humongo,' et il reste l'un des meilleurs candidats au titre du plus grand et du plus vieil organisme vivant jamais documenté -- une seule colonie d'armillaire survivant tranquillement aux arbres qui poussent au-dessus d'elle. Longtemps avant que quiconque ne puisse tester son ADN, les gens sentaient déjà que quelque chose d'étrange vivait dans le bois. Les mêmes filaments noirs, semblables à des cordons, que l'armillaire envoie à travers les troncs en décomposition sont riches en composés à base de luciférine et brillent faiblement dans l'obscurité, un phénomène que forestiers et voyageurs ont appelé pendant des siècles feu follet, attribué à des esprits ou à du gaz des marais plutôt qu'à un champignon consumant patiemment la forêt depuis le sol. Cette consommation patiente a un coût : à mesure que le réseau s'étend, il étrangle peu à peu les racines des arbres vivants, et forestiers et arboriculteurs combattent la pourriture racinaire de l'armillaire depuis qu'ils tiennent des registres, creusant des tranchées et retirant les souches infectées pour tenter de contenir un organisme trop vaste pour être simplement abattu.",
+        "name_origin": "Le nom de genre Armillaria vient du latin armilla, 'bracelet' ou 'anneau', en référence au reste de tissu annulaire présent sur le pied de nombreuses espèces du genre. Le nom d'espèce mellea signifie 'couleur de miel' en latin, décrivant la teinte chaude et dorée du chapeau.",
+        "symbolism_story": "Parce que sa véritable étendue reste cachée sous terre pendant des siècles avant que quiconque ne la remarque, l'armillaire couleur de miel est devenue un symbole approprié de force cachée et de persévérance silencieuse -- un pouvoir et un âge qui s'accumulent invisibles, survivant largement à tout ce qui pousse visiblement à la surface au-dessus.",
+        "flower_meaning": "Force cachée",
+        "fragrance": {
+          "notes": "A une odeur douce de champignon, légèrement sucrée."
+        },
+        "uses_list": [
+          {
+            "text": "Les jeunes chapeaux sont récoltés et consommés dans certaines régions d'Europe, d'Asie et d'Amérique du Nord une fois bien cuits, bien que les spécimens crus ou mal cuits provoquent des troubles digestifs."
+          },
+          {
+            "text": "En tant que décomposeur, elle décompose le bois mort et recycle les nutriments dans le sol forestier, même si ses infections des arbres vivants inquiètent les forestiers."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Force cachée",
+            "description": "Son véritable corps est un vaste réseau invisible depuis la surface, un symbole de pouvoir et de persévérance qui demeure caché sous la surface."
+          },
+          {
+            "keyword": "Patience",
+            "description": "Elle s'étend et se nourrit pendant des siècles avant que sa présence ne soit remarquée, incarnant une persévérance silencieuse et à long terme."
+          }
+        ],
+        "toxicity": {
+          "headline": "Toxicité inconnue",
+          "active_compound_display": "Aucun signalé",
+          "notes_en": "Aucune correspondance trouvée dans une source faisant autorité ; classé comme non signalé (l'estimation de l'IA n'est pas vérifiée par une source).",
+          "human": {
+            "exposure": "Aucune voie d'exposition signalée.",
+            "effect": "Aucun effet toxique signalé.",
+            "note": "La toxicité pour les humains n'est pas bien documentée ; la prudence est recommandée jusqu'à vérification."
+          },
+          "dog": {
+            "exposure": "Aucune voie d'exposition signalée.",
+            "effect": "Aucun effet toxique signalé.",
+            "note": "La toxicité pour les chiens n'est pas bien documentée ; la prudence est recommandée jusqu'à vérification."
+          },
+          "cat": {
+            "exposure": "Aucune voie d'exposition signalée.",
+            "effect": "Aucun effet toxique signalé.",
+            "note": "La toxicité pour les chats n'est pas bien documentée ; la prudence est recommandée jusqu'à vérification."
+          }
+        }
+      }
+    },
+    "AAA1698": {
+      "source_hash": "63ecba213ebe09f300e06ac785c2adb23b1855fbc92cf4c0b6bbcf8086dc0019",
+      "fields": {
+        "common_name": "Amaryllis de Morelia",
+        "description": "L'amaryllis de Morelia est une plante vivace bulbeuse de la famille des amaryllis, prisée pour sa haute tige florale sans feuilles qui s'élève du bulbe chaque saison et s'ouvre sur plusieurs grandes fleurs en forme de trompette d'un rouge profond. Des feuilles vertes en forme de ruban apparaissent séparément, souvent après que les fleurs se sont fanées, donnant à la plante un cycle de floraison spectaculaire, presque théâtral. Nommée d'après Morelia, la ville mexicaine près de laquelle elle a été décrite pour la première fois, ce bulbe compact dépasse rarement soixante centimètres de hauteur et est le plus souvent cultivé en pot à l'intérieur, où ses fleurs audacieuses en forme de trompette apportent une explosion de couleur aux fenêtres pendant les mois les plus frais.",
+        "history_text_short": "Nommée d'après la ville mexicaine de Morelia, où elle fut d'abord récoltée à l'état sauvage dans les collines, cette amaryllis appartient à la même famille de bulbes qui a offert au monde sa célèbre tradition de cadeau d'hiver : un bulbe dormant qui fleurit à l'intérieur en quelques semaines, sans terre ni saison nécessaires.",
+        "history_text_long": "L'amaryllis de Morelia doit son nom à Morelia, une ville d'altitude du Michoacán, au Mexique, où des botanistes du XIXe siècle ont d'abord récolté et décrit l'espèce poussant à l'état sauvage dans les collines environnantes. Comme bon nombre de ses parentes américaines sauvages, elle appartient à un genre que les marchands de bulbes européens exportaient déjà depuis le XVIIIe siècle, prisé surtout pour un tour de calendrier : un bulbe dormant, arrosé et réchauffé à l'intérieur au cœur de l'hiver, enverra une tige florale épaisse et fleurira en quelques semaines, sans besoin de terre, de soleil ni de saison pour l'y encourager. Ce tour a fait du genre l'un des cadeaux d'hiver les plus reconnaissables au monde, vendu chaque mois de décembre sous forme de bulbe en boîte à 'forcer' pour le faire fleurir sur un rebord de fenêtre -- un petit morceau de colline mexicaine fleurissant à l'intérieur en plein hiver de l'hémisphère nord. L'amaryllis de Morelia elle-même reste plus proche de ses origines sauvages que les gros bulbes hybrides trouvés en supermarché, ses fleurs un peu plus petites et son port un peu plus délicat, un rappel vivant des pentes montagneuses d'où est partie toute cette tradition festive.",
+        "name_origin": "Le nom de genre Hippeastrum vient du grec hippeus ('cavalier' ou 'chevalier') et astron ('étoile'), décrivant les fleurs en forme d'étoile tournées vers le haut. Le nom d'espèce morelianum fait référence à Morelia, la ville mexicaine près de laquelle la plante a été récoltée et décrite pour la première fois.",
+        "symbolism_story": "Parce que son bulbe doit traverser une dormance sèche et sans feuilles avant d'envoyer une haute tige couronnée de fleurs audacieuses en forme de trompette, l'amaryllis de Morelia porte depuis longtemps des associations de détermination et de réussite méritée -- une beauté qui n'apparaît qu'après une période d'endurance silencieuse. Ses fleurs spectaculaires et assurées en ont aussi fait, comme les autres amaryllis, un emblème traditionnel de beauté rayonnante et sûre d'elle.",
+        "flower_meaning": "Détermination",
+        "fragrance": {
+          "notes": "Ses grandes fleurs n'ont que peu ou pas de parfum perceptible."
+        },
+        "uses_list": [
+          {
+            "text": "Cultivée comme bulbe à fleurs en pot, prisée pour la haute tige de grandes fleurs rouges en forme de trompette qu'elle produit chaque saison."
+          },
+          {
+            "text": "Ses tiges florales longue tenue sont appréciées comme fleurs coupées dans les compositions."
+          },
+          {
+            "text": "Ses grandes fleurs riches en nectar attirent les colibris et les insectes pollinisateurs dans son habitat mexicain d'origine."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Détermination",
+            "description": "Son bulbe traverse une dormance sans feuilles avant d'envoyer une tige florale audacieuse, en faisant un emblème classique de détermination et de réussite méritée."
+          },
+          {
+            "keyword": "Beauté rayonnante",
+            "description": "Les fleurs en forme de trompette s'ouvrent largement et avec audace, symbole traditionnel d'une beauté éclatante et sûre d'elle."
+          }
+        ],
+        "toxicity": {
+          "headline": "Humains Modérée · Animaux Modérée",
+          "active_compound_display": "lycorine",
+          "notes_en": "Le bulbe contient de la lycorine et d'autres alcaloïdes qui provoquent des troubles digestifs et une irritation cutanée en cas d'ingestion ou de manipulation ; classée toxique pour les humains, les chiens et les chats, principalement à cause du bulbe.",
+          "human": {
+            "exposure": "Ingestion de bulbes et de sève. Contact avec les bulbes et la sève.",
+            "effect": "Nausées, vomissements, douleurs abdominales et irritation cutanée.",
+            "note": "Le bulbe contient de la lycorine et d'autres alcaloïdes qui provoquent des troubles digestifs et une irritation cutanée en cas d'ingestion ou de manipulation ; classée toxique pour les humains, les chiens et les chats, principalement à cause du bulbe.",
+            "symptoms": [
+              "Nausées.",
+              "Vomissements.",
+              "Douleurs abdominales.",
+              "Irritation cutanée."
+            ]
+          },
+          "dog": {
+            "exposure": "Ingestion de bulbes.",
+            "effect": "Vomissements, diarrhée, salivation, léthargie et tremblements.",
+            "note": "Le bulbe contient de la lycorine et d'autres alcaloïdes qui provoquent des troubles digestifs et une irritation cutanée en cas d'ingestion ou de manipulation ; classée toxique pour les humains, les chiens et les chats, principalement à cause du bulbe.",
+            "symptoms": [
+              "Vomissements.",
+              "Diarrhée.",
+              "Salivation.",
+              "Léthargie.",
+              "Tremblements."
+            ]
+          },
+          "cat": {
+            "exposure": "Ingestion de bulbes.",
+            "effect": "Vomissements, diarrhée, salivation et léthargie.",
+            "note": "Le bulbe contient de la lycorine et d'autres alcaloïdes qui provoquent des troubles digestifs et une irritation cutanée en cas d'ingestion ou de manipulation ; classée toxique pour les humains, les chiens et les chats, principalement à cause du bulbe.",
+            "symptoms": [
+              "Vomissements.",
+              "Diarrhée.",
+              "Salivation.",
+              "Léthargie."
+            ]
+          }
+        }
+      }
+    },
+    "AAA1699": {
+      "source_hash": "3afa9da8353590bbed633a5a270ca6b603f562fcc9d45f4100b04e35d87896ae",
+      "fields": {
+        "common_name": "Clitocybe de l'olivier",
+        "description": "Le clitocybe de l'olivier forme des touffes denses et superposées de chapeaux lisses en entonnoir, d'un orange vif, poussant directement sur des racines enfouies et des souches en décomposition d'arbres feuillus, notamment le chêne et l'olivier. Ses lames serrées descendent le long d'un pied effilé et, chose remarquable, émettent une faible lueur verte dans l'obscurité totale, un trait dû à des composés bioluminescents naturels présents dans sa chair. Courant sous les feuilles mortes des forêts automnales d'Europe et de l'est de l'Amérique du Nord, il est souvent confondu avec la girolle comestible, bien qu'il ne soit pas comestible et provoque de sérieux troubles digestifs s'il est consommé.",
+        "history_text_short": "Le clitocybe de l'olivier pousse en touffes orange vif sur des souches pourrissantes et est connu pour deux choses : ses lames émettent une faible lueur verte dans l'obscurité, et sa ressemblance avec la girolle a valu à bien des cueilleurs impatients une sévère intoxication alimentaire plutôt qu'un bon repas.",
+        "history_text_long": "Longtemps avant que quiconque ne comprenne la bioluminescence, des promeneurs traversant de vieilles forêts de feuillus la nuit apercevaient parfois une étrange lueur verte et froide montant de souches en décomposition et de racines enfouies. Pendant des siècles, cette lumière fantomatique -- connue dans le folklore sous le nom de feu follet ou foxfire -- fut attribuée à des esprits, à des feux follets ou simplement à une magie inexplicable. Ce n'est que bien plus tard que des naturalistes ont rattaché certaines de ces zones lumineuses à des champignons présents dans le bois, dont le clitocybe de l'olivier, dont les lames contiennent une réaction chimique à base de luciférine semblable à celle qui fait briller les lucioles. En plein jour, le champignon paraît presque joyeux : il pousse en touffes denses et orange vif au pied des chênes et des oliviers, suffisamment proche en couleur et en forme pour être ramassé par des cueilleurs en quête de girolles. Cette ressemblance en fait l'une des causes les plus fréquemment signalées d'intoxication fongique, en Europe comme en Amérique du Nord. À la différence des champignons les plus mortels, il tue rarement, mais les illudines présentes dans sa chair provoquent des heures de vomissements sévères, de crampes et de diarrhée -- une leçon brutale pour quiconque a sauté la vérification essentielle : la vraie girolle a des plis peu profonds et arrondis au lieu de véritables lames, et elle ne brille jamais. Les clubs de mycologie utilisent aujourd'hui le clitocybe de l'olivier comme exemple de terrain classique, précisément parce qu'il apprend aux cueilleurs à ralentir et à regarder attentivement avant de mettre quoi que ce soit dans le panier.",
+        "name_origin": "Le nom de genre Omphalotus vient du grec omphalos, 'nombril', en référence à la petite dépression centrale souvent présente sur le chapeau du champignon. Le nom d'espèce olearius signifie 'relatif à l'olivier' en latin, reflétant la fréquence avec laquelle ce champignon fructifie au pied des oliviers en région méditerranéenne.",
+        "symbolism_story": "Parce qu'il se pare du même orange joyeux qu'un champignon comestible prisé tout en cachant un poison sévère, le clitocybe de l'olivier est devenu un emblème naturel des apparences trompeuses -- un avertissement que tout ce qui paraît engageant n'est pas sûr à ramasser. Son second trait adoucit cet avertissement : dans l'obscurité totale, ses lames émettent une faible lueur verte, une lumière cachée portée discrètement par quelque chose que l'on remarquerait sinon à peine.",
+        "flower_meaning": "Illusion",
+        "fragrance": {
+          "notes": "N'a pas d'odeur distinctive, à part une vague odeur de champignon sans particularité."
+        },
+        "uses_list": [
+          {
+            "text": "Des composés appelés illudines, isolés de la chair de ce champignon, ont été étudiés par des chercheurs en pharmacie comme base de médicaments anticancéreux expérimentaux."
+          },
+          {
+            "text": "En tant que champignon décomposeur de bois, il décompose les souches et racines mortes de feuillus, recyclant les nutriments dans le sol forestier."
+          },
+          {
+            "text": "Les clubs de mycologie et les randonneurs nocturnes le recherchent à la tombée de la nuit pour sa faible et étrange lueur verte bioluminescente."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Illusion",
+            "description": "Sa couleur joyeuse, semblable à celle de la girolle, dissimule un poison qui a trompé des générations de cueilleurs, en faisant un symbole naturel des apparences trompeuses."
+          },
+          {
+            "keyword": "Lumière cachée",
+            "description": "Ses lames émettent une faible lueur dans l'obscurité totale, un rappel discret que la lumière peut venir des endroits les plus inattendus et les plus discrets."
+          }
+        ],
+        "toxicity": {
+          "headline": "Toxicité inconnue",
+          "active_compound_display": "Aucun signalé",
+          "notes_en": "Aucune correspondance trouvée dans une source faisant autorité ; classé comme non signalé (l'estimation de l'IA n'est pas vérifiée par une source).",
+          "human": {
+            "exposure": "Aucune voie d'exposition signalée.",
+            "effect": "Aucun effet toxique signalé.",
+            "note": "La toxicité pour les humains n'est pas bien documentée ; la prudence est recommandée jusqu'à vérification."
+          },
+          "dog": {
+            "exposure": "Aucune voie d'exposition signalée.",
+            "effect": "Aucun effet toxique signalé.",
+            "note": "La toxicité pour les chiens n'est pas bien documentée ; la prudence est recommandée jusqu'à vérification."
+          },
+          "cat": {
+            "exposure": "Aucune voie d'exposition signalée.",
+            "effect": "Aucun effet toxique signalé.",
+            "note": "La toxicité pour les chats n'est pas bien documentée ; la prudence est recommandée jusqu'à vérification."
+          }
+        }
+      }
+    },
+    "AAA1700": {
+      "source_hash": "17b609170ed729ef8d0aabcc4188dd8bf7d169d2f67a2ec6c4d05b757b9aa2ba",
+      "fields": {
+        "common_name": "Palmier de Madagascar",
+        "bloom_tip": "Les plants matures fleurissent en été, avec des fleurs blanches parfumées à cinq pétales qui s'ouvrent au sommet du tronc.",
+        "fruit_tip": "Après les fleurs viennent de fines gousses qui s'ouvrent pour libérer des graines à aigrettes soyeuses emportées par le vent.",
+        "description": "Le Palmier de Madagascar n'est pas un vrai palmier mais une succulente épineuse de la famille des apocynacées, originaire des broussailles sèches et rocailleuses du sud de Madagascar. Son tronc épais et renflé stocke l'eau pendant les longues sécheresses et est armé d'épines grises acérées disposées en rangées nettes le long de la tige. Au sommet du tronc se trouve une couronne de feuilles longues, étroites et brillantes qui tombent en période sèche et repoussent avec les pluies, donnant à la plante sa silhouette de palmier. Les spécimens matures portent en été des fleurs blanches parfumées à gorge jaune pâle, suivies de fines gousses qui s'ouvrent pour libérer des graines à aigrettes soyeuses emportées par le vent. À croissance lente et tolérante à la sécheresse, elle prospère en plein soleil dans un sol sableux et bien drainé, ce qui en fait un spécimen architectural saisissant pour les jardins arides et les patios ensoleillés.",
+        "history_text_short": "Nommé pour son tronc épais stockant l'eau (du grec « pied épais »), le Palmier de Madagascar vient de la forêt épineuse aride de Madagascar, non des tropiques. Malgré sa couronne en forme de palmier, c'est une succulente cousine du laurier-rose, aujourd'hui une plante prisée pour les fenêtres ensoleillées dans le monde entier.",
+        "history_text_long": "Le Palmier de Madagascar appartient au genre Pachypodium, un groupe de succulentes à tige renflée que des botanistes français ont catalogué en documentant la flore extraordinaire de Madagascar à la fin du XIXe siècle. Le Palmier de Madagascar a été officiellement décrit sous le nom de Pachypodium lamerei en 1899, son nom de genre venant du grec pachys, « épais », et podos, « pied », en référence à son tronc trapu stockant l'eau. Dans son aire d'origine, il croît de façon dispersée dans la forêt épineuse du sud et du sud-ouest de Madagascar, un écosystème de fourré aride presque unique au monde, partagé avec les arbres-pieuvres, les baobabs, ainsi que les lémuriens et tortues radiées endémiques de l'île. Là-bas, son tronc renflé est une adaptation à des sécheresses de plusieurs mois, stockant l'eau que la plante continue d'utiliser longtemps après la fin des pluies. Bien que sa couronne de feuilles étroites et son tronc épineux évoquent un palmier tropical, elle est en réalité une proche parente du laurier-rose et de la rose du désert, appartenant à la même famille à sève laiteuse. Sa nature peu exigeante et sa silhouette frappante l'ont fait sortir des forêts sèches de Madagascar pour gagner les pépinières du monde entier au XXe siècle, où elle est devenue l'une des succulentes « façon palmier » les plus vendues pour les fenêtres ensoleillées et les jardins désertiques, prisée des collectionneurs qui cultivent les pachypodiums à partir de graines pendant de longues années de patience.",
+        "name_origin": "Le nom de genre Pachypodium vient du grec pachys (« épais ») et podos (« pied »), décrivant le tronc renflé qui stocke l'eau. Bien que communément appelé Palmier de Madagascar pour sa couronne de feuilles en forme de palmier, ce n'est pas un vrai palmier mais une succulente cousine du laurier-rose.",
+        "symbolism_story": "S'élevant depuis la forêt épineuse aride de Madagascar avec un tronc renflé et hérissé d'épines, bâti pour surmonter la saison sèche, le Palmier de Madagascar en est venu à symboliser la résilience : la force tranquille de mettre en réserve ce dont on a besoin et de tenir bon jusqu'à ce que les conditions changent.",
+        "flower_meaning": "Résilience",
+        "fragrance": {
+          "notes": "Les plants matures produisent en été des fleurs blanches légèrement sucrées et parfumées."
+        },
+        "uses_list": [
+          {
+            "text": "Une succulente architecturale saisissante pour les patios ensoleillés, les cours et les jardins xérophytes."
+          },
+          {
+            "text": "Les fleurs parfumées d'été attirent les abeilles et autres pollinisateurs."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Résilience",
+            "description": "Son tronc stockant l'eau et sa capacité à traverser des mois de sécheresse en font un symbole d'endurance silencieuse."
+          },
+          {
+            "keyword": "Protection",
+            "description": "Les rangées d'épines acérées le long de son tronc évoquent la vigilance et l'autodéfense."
+          }
+        ],
+        "toxicity": {
+          "headline": "Toxicité inconnue",
+          "active_compound_display": "Rien signalé",
+          "notes_en": "Aucune correspondance de toxicité confirmée par des sources autorisées ; traité comme non signalé (l'estimation du modèle n'est pas vérifiée par une source).",
+          "human": {
+            "exposure": "Aucune voie d'exposition signalée.",
+            "effect": "Aucun effet toxique signalé.",
+            "note": "La toxicité pour l'humain n'est pas bien documentée ; la prudence est recommandée jusqu'à vérification."
+          },
+          "dog": {
+            "exposure": "Aucune voie d'exposition signalée.",
+            "effect": "Aucun effet toxique signalé.",
+            "note": "La toxicité pour les chiens n'est pas bien documentée ; la prudence est recommandée jusqu'à vérification."
+          },
+          "cat": {
+            "exposure": "Aucune voie d'exposition signalée.",
+            "effect": "Aucun effet toxique signalé.",
+            "note": "La toxicité pour les chats n'est pas bien documentée ; la prudence est recommandée jusqu'à vérification."
+          }
+        }
+      }
+    },
+    "AAA1701": {
+      "source_hash": "31056c524236868c7cd29afa5a14cf1c4efc18d292c0bbf41d8711e65de9c1c9",
+      "fields": {
+        "common_name": "coqueret anguleux",
+        "bloom_tip": "Produit de petites fleurs jaunes durant les mois d'été.",
+        "fruit_tip": "Le fruit est petit, rond et enfermé dans une enveloppe papyracée qui lui donne, à maturité, une valeur ornementale.",
+        "description": "Le coqueret anguleux (Physalis angulata) est une plante annuelle tropicale étalée, de la famille des solanacées, cultivée moins pour ses discrètes fleurs jaunes que pour les curieuses lanternes de papier qui leur succèdent. Chaque fleur laisse place à une fine enveloppe gonflée qui bruisse une fois sèche et renferme une unique baie ronde et dorée. Ses tiges nettement anguleuses et ses feuilles profondément dentées et pointues lui valent son épithète scientifique et son port lâche et ramifié. Vigoureux et amateur de chaleur, il se ressème volontiers dans les jardins chauds, réapparaissant d'année en année dans la même plate-bande sans guère d'encouragement.",
+        "history_text_short": "En Amazonie, cette plante est connue sous le nom de camapu, un nom utilisé par les guérisseurs traditionnels bien avant que la science ne s'y intéresse. Ses feuilles et ses baies enveloppées de papier étaient infusées en tisanes amères contre la fièvre et les douleurs articulaires. Des décennies plus tard, des chimistes ont isolé les physalines, une famille de composés stéroïdiens aujourd'hui étudiés pour leurs effets anti-inflammatoires et anticancéreux, donnant aux remèdes populaires d'antan un nouveau poids scientifique.",
+        "history_text_long": "Dans tout le bassin amazonien, le coqueret anguleux porte depuis longtemps un autre nom : camapu, un mot que des communautés tupiphones du Brésil ont donné à la plante des siècles avant l'arrivée des botanistes et de leurs noms latins. Les guérisseurs faisaient bouillir ses feuilles et ses fruits entiers en tisanes amères, prescrivant le breuvage contre la fièvre, les douleurs articulaires, la toux et les affections du foie et des reins. La pratique s'est répandue avec la plante elle-même, qui a quitté son Amérique tropicale natale à bord de navires et le long de routes commerciales jusqu'à devenir une mauvaise herbe familière des sols perturbés, de l'Afrique de l'Ouest à l'Asie du Sud-Est, chaque région l'intégrant discrètement à sa propre pharmacopée.\n\nLa chimie moderne a fini par rejoindre des générations de savoir populaire. Des chercheurs ont isolé une famille de composés stéroïdiens amers, propres au genre, appelés physalines, concentrés dans les feuilles et les enveloppes papyracées de la plante. Depuis les années 1990, des études en laboratoire ont testé ces composés contre l'inflammation, des parasites comme celui responsable de la leishmaniose, et même des lignées cellulaires cancéreuses, donnant un véritable poids pharmacologique à une plante longtemps reléguée au rang de mauvaise herbe de bas-côté. Pour les jardiniers qui la cultivent aujourd'hui, la modeste parure de fleurs jaunes et de baies enveloppées de lanternes rappelle, à petite échelle, que mauvaises herbes et remèdes sont parfois la même plante, vue depuis des siècles différents.",
+        "name_origin": "Le nom de genre Physalis vient du grec physa, qui signifie « vessie », en référence au calice papyracé et gonflé qui enveloppe chaque baie comme une petite lanterne. Le nom d'espèce angulata décrit les tiges nettement anguleuses et les lobes dentés et anguleux des feuilles de la plante.",
+        "symbolism_story": "Enveloppé dans sa propre lanterne de papier, le coqueret anguleux a toujours invité à un second regard : ce qui ressemble à une enveloppe vide et bruissante cache en réalité une baie dorée et sucrée. Ce contraste entre un emballage modeste et un contenu digne d'intérêt a fait de la plante, et de ses cousines papyracées du genre Physalis, des symboles naturels de valeur cachée et de surprise discrète. Dans les communautés où elle pousse sous le nom de camapu, cette même plante discrète, que bien des jardiniers arrachent sans y prêter attention, est depuis longtemps considérée comme un remède, rappelant que l'utilité ne s'annonce pas toujours d'elle-même.",
+        "flower_meaning": "Valeur Cachée",
+        "uses_list": [
+          {
+            "text": "Les baies dorées mûres sont comestibles, au goût doux-acidulé, et utilisées dans les confitures, les sauces et les collations à travers les régions tropicales."
+          },
+          {
+            "text": "Les feuilles et les fruits sont infusés en tisanes traditionnelles appelées camapu dans la médecine populaire amazonienne, utilisées contre la fièvre et l'inflammation."
+          },
+          {
+            "text": "Les enveloppes papyracées, en forme de petites lanternes, apportent un curieux intérêt textural aux massifs et aux compositions séchées."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Valeur Cachée",
+            "description": "l'enveloppe papyracée qui entoure chaque baie dissimule un fruit sucré, faisant de cette plante un discret emblème de valeur cachée sous une apparence modeste"
+          },
+          {
+            "keyword": "Résilience",
+            "description": "sa facilité à se ressemer sur des sols perturbés et négligés en a longtemps fait un symbole de persévérance discrète dans les régions où elle s'est naturalisée"
+          }
+        ],
+        "toxicity": {
+          "headline": "Humains : léger",
+          "active_compound_display": "solanine et physalines",
+          "notes_en": "Le fruit immature et le feuillage contiennent des glycoalcaloïdes de type solanine, typiques de la famille des solanacées ; le fruit mûr est couramment consommé.",
+          "human": {
+            "exposure": "Ingestion des feuilles, des tiges et des fruits.",
+            "effect": "Nausées, vomissements et troubles digestifs.",
+            "note": "Le fruit immature et le feuillage contiennent des glycoalcaloïdes de type solanine, typiques de la famille des solanacées ; le fruit mûr est couramment consommé.",
+            "symptoms": [
+              "Nausées.",
+              "Vomissements.",
+              "Troubles digestifs."
+            ]
+          },
+          "dog": {
+            "exposure": "Aucune voie d'exposition rapportée.",
+            "effect": "Aucun effet toxique rapporté.",
+            "note": "La toxicité chez le chien n'est pas bien documentée ; la prudence est recommandée en attendant confirmation."
+          },
+          "cat": {
+            "exposure": "Aucune voie d'exposition rapportée.",
+            "effect": "Aucun effet toxique rapporté.",
+            "note": "La toxicité chez le chat n'est pas bien documentée ; la prudence est recommandée en attendant confirmation."
+          }
+        }
+      }
+    },
+    "AAA1702": {
+      "source_hash": "c95c709a8611993a769af6ffc09e826d038ca5bd23748e74d49bc644f0d2a9bb",
+      "fields": {
+        "common_name": "Azalée Satsuki",
+        "bloom_tip": "L'azalée Satsuki fleurit généralement au printemps avec des fleurs vives et colorées.",
+        "description": "L'azalée Satsuki est un arbuste compact et amateur de sol acide, prisé plus que les autres azalées pour l'imprévisibilité pure de sa floraison. Une même plante peut porter des fleurs de couleurs, de rayures ou de motifs panachés différents d'une année à l'autre, et parfois même au sein d'une même grappe, résultat d'un tissu génétiquement instable que les horticulteurs appellent une 'mutation sportive.' Ses petites feuilles persistantes et brillantes, ainsi que son port bas et dense, en ont fait un sujet de choix pour le bonsaï, façonnée en arbres miniatures dont la mise au point peut prendre des décennies. Fleurissant en fin de printemps, elle dépasse rarement un mètre quatre-vingts de hauteur et prospère dans un sol humide, acide et bien drainé, à mi-ombre.",
+        "history_text_short": "Malgré son nom scientifique trompeur, l'azalée Satsuki est originaire du Japon, et non de l'Inde -- une vieille erreur d'étiquetage européenne qui a perduré. Prisée pour ses fleurs capables de produire des couleurs et des motifs radicalement différents d'une année à l'autre, elle est depuis longtemps un sujet de prédilection pour les artistes bonsaï japonais.",
+        "history_text_long": "Malgré son nom scientifique, l'azalée Satsuki n'a rien à voir avec l'Inde. Les botanistes européens du dix-huitième siècle, travaillant à partir de plantes et de descriptions passées par des comptoirs commerciaux néerlandais aux Indes orientales, ont cru à tort que l'arbuste en était originaire et l'ont nommée indicum, 'd'Inde' -- une erreur qui s'est maintenue dans son nom scientifique depuis, bien que la plante soit en réalité originaire du Japon. Son vrai nom, satsuki, fait référence au cinquième mois de l'ancien calendrier lunaire japonais, l'époque où elle éclate en fleurs, plusieurs semaines après la plupart des autres azalées. Les horticulteurs japonais de l'époque d'Edo se sont passionnés pour une particularité qu'aucune autre azalée ne montre aussi spectaculairement : une seule plante satsuki peut produire des fleurs aux couleurs et motifs radicalement différents d'une année à l'autre, voire sur la même branche au cours de la même saison, des zones de tissu génétiquement instable 'mutant' vers de nouvelles combinaisons de rayures, de mouchetures et de couleurs unies. Plutôt que de considérer cette instabilité comme un défaut, les horticulteurs se sont mis à rechercher délibérément les mutations les plus spectaculaires et à les multiplier, cataloguant finalement des centaines de cultivars nommés. Ce même goût pour un façonnage patient et minutieux a fait du satsuki l'un des sujets les plus prisés du bonsaï, où un seul spécimen peut être façonné et affiné sur plusieurs générations humaines, son tronc noueux et sa couronne compacte survivant aux jardiniers qui lui ont donné sa forme initiale.",
+        "name_origin": "Le nom d'espèce indicum, latin pour 'd'Inde', est une erreur historique : les botanistes européens du dix-huitième siècle ont confondu la plante avec une espèce des Indes orientales après l'avoir découverte via des comptoirs commerciaux néerlandais, alors qu'elle est en réalité originaire du Japon. Son nom japonais, satsuki, fait référence au cinquième mois de l'ancien calendrier lunaire, la saison de sa floraison.",
+        "symbolism_story": "Dans le langage victorien des fleurs, l'azalée a longtemps été associée à la tempérance -- une retenue discrète et mesurée. L'azalée Satsuki ajoute sa propre nuance à ce symbolisme : sa tendance à produire d'une saison à l'autre des couleurs et des motifs nouveaux et imprévisibles en a aussi fait un emblème de transformation, un rappel que même une plante stable et discrète peut renfermer des surprises cachées.",
+        "flower_meaning": "Tempérance",
+        "fragrance": {
+          "notes": "Ses fleurs n'ont que peu ou pas de parfum perceptible."
+        },
+        "uses_list": [
+          {
+            "text": "Cultivée et façonnée en bonsaï, où sa croissance compacte et sa tolérance à la taille en font l'un des sujets les plus prisés de l'art du bonsaï japonais."
+          },
+          {
+            "text": "Ses fleurs de fin de printemps attirent les abeilles et d'autres insectes pollinisateurs."
+          },
+          {
+            "text": "Les branches fleuries sont parfois utilisées dans l'ikebana, l'art floral japonais."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Tempérance",
+            "description": "Dans le langage victorien des fleurs, l'azalée a longtemps été associée à la tempérance, une retenue discrète et mesurée."
+          },
+          {
+            "keyword": "Transformation",
+            "description": "Sa célèbre capacité à fleurir avec des couleurs et des motifs totalement différents d'une année à l'autre en a fait un emblème naturel de transformation et de surprise."
+          }
+        ],
+        "toxicity": {
+          "headline": "Humains Modérée · Animaux Toxique",
+          "active_compound_display": "grayanotoxine",
+          "notes_en": "Toutes les parties contiennent des grayanotoxines qui perturbent le fonctionnement cellulaire normal ; l'ingestion provoque vomissements, salivation, faiblesse et des chutes dangereuses de la pression artérielle et du rythme cardiaque, et peut être fatale dans les cas graves, en particulier chez les animaux de compagnie.",
+          "human": {
+            "exposure": "Ingestion de n'importe quelle partie de la plante, des feuilles et des fleurs.",
+            "effect": "Nausées, vomissements, pression artérielle basse et rythme cardiaque irrégulier.",
+            "note": "Toutes les parties contiennent des grayanotoxines qui perturbent le fonctionnement cellulaire normal ; l'ingestion provoque vomissements, salivation, faiblesse et des chutes dangereuses de la pression artérielle et du rythme cardiaque, et peut être fatale dans les cas graves, en particulier chez les animaux de compagnie.",
+            "symptoms": [
+              "Nausées.",
+              "Vomissements.",
+              "Pression artérielle basse.",
+              "Rythme cardiaque irrégulier."
+            ]
+          },
+          "dog": {
+            "exposure": "Ingestion de n'importe quelle partie de la plante et des feuilles.",
+            "effect": "Vomissements, diarrhée, salivation, faiblesse, rythme cardiaque anormal et coma.",
+            "note": "Toutes les parties contiennent des grayanotoxines qui perturbent le fonctionnement cellulaire normal ; l'ingestion provoque vomissements, salivation, faiblesse et des chutes dangereuses de la pression artérielle et du rythme cardiaque, et peut être fatale dans les cas graves, en particulier chez les animaux de compagnie.",
+            "symptoms": [
+              "Vomissements.",
+              "Diarrhée.",
+              "Salivation.",
+              "Faiblesse.",
+              "Rythme cardiaque anormal.",
+              "Coma."
+            ]
+          },
+          "cat": {
+            "exposure": "Ingestion de n'importe quelle partie de la plante et des feuilles.",
+            "effect": "Vomissements, diarrhée, salivation, faiblesse, rythme cardiaque anormal et coma.",
+            "note": "Toutes les parties contiennent des grayanotoxines qui perturbent le fonctionnement cellulaire normal ; l'ingestion provoque vomissements, salivation, faiblesse et des chutes dangereuses de la pression artérielle et du rythme cardiaque, et peut être fatale dans les cas graves, en particulier chez les animaux de compagnie.",
+            "symptoms": [
+              "Vomissements.",
+              "Diarrhée.",
+              "Salivation.",
+              "Faiblesse.",
+              "Rythme cardiaque anormal.",
+              "Coma."
+            ]
+          }
+        }
+      }
+    },
+    "AAA1703": {
+      "source_hash": "2d63dbf44eaa63c5a6b2eabea36f4ef49350d58ef6cddcf7a5bbdf208ce86ce1",
+      "fields": {
+        "common_name": "Sauge des devins",
+        "bloom_tip": "Les fleurs de cette plante s'épanouissent en été, aux couleurs vives et charmantes.",
+        "description": "La sauge des devins est une herbacée vivace discrète de la famille de la menthe, originaire d'une étroite bande de forêt ombragée et humide de la Sierra Mazateca, dans l'État d'Oaxaca, au Mexique. Elle se dresse sur des tiges creuses et légèrement ligneuses, garnies de grandes feuilles ovales d'un vert vif aux bords finement dentés. De hauts épis floraux apparaissent à la fin de l'automne, portant des fleurs blanches tubulaires enveloppées de calices violet foncé, bien que la plante produise rarement des graines viables et que la plupart des plants soient propagés par boutures. Dans ses ravins et falaises calcaires d'origine, elle préfère une ombre tachetée, une chaleur constante et un sol toujours humide et bien drainé.",
+        "history_text_short": "Depuis des générations, les guérisseurs mazatèques des hautes terres brumeuses d'Oaxaca considèrent cette discrète herbe forestière comme un oracle vivant, consulté lors de cérémonies nocturnes pour diagnostiquer des maladies et chercher des réponses au-delà de la vue ordinaire. Les étrangers la connaissaient à peine jusqu'à ce que des botanistes retracent la plante que les curanderos mazatèques appelaient « la bergère » jusqu'à son foyer montagnard isolé.",
+        "history_text_long": "Longtemps avant que les botanistes ne lui donnent un nom latin, la sauge des devins occupait une place discrète et jalousement gardée dans la vie spirituelle du peuple mazatèque de la Sierra Mazateca, dans l'État d'Oaxaca, au Mexique. Les curanderos mazatèques, c'est-à-dire les guérisseurs, utilisaient la plante lors de rituels nocturnes appelés veladas, mâchant des feuilles fraîches ou buvant une infusion avant de s'asseoir dans une obscurité et un silence presque complets, à l'écoute de la voix de la plante pour diagnostiquer une maladie, retrouver un objet perdu ou répondre à des questions échappant aux sens ordinaires. La cérémonie mêlait la prière catholique à une cosmologie mazatèque plus ancienne, et la plante elle-même était invoquée par des noms empreints de révérence, parmi lesquels « la bergère » et « notre dame ».\n\nPendant des siècles, les étrangers n'ont perçu que des fragments de cette tradition. Des missionnaires espagnols consignèrent déjà, dès l'époque coloniale, des bribes de la vie rituelle mazatèque, mais la plante responsable resta non identifiée jusqu'en 1939, lorsque l'anthropologue Jean Basset Johnson documenta son usage cérémoniel. Ce n'est qu'au début des années 1960 que les botanistes Carl Epling et Carlos Játiva, à partir de spécimens recueillis lors d'expéditions dans la Sierra Mazateca, décrivirent et nommèrent formellement l'espèce. Les chercheurs remarquèrent aussi que les plants sauvages produisent presque jamais de graines viables, ce qui suggère que la sauge des devins cultivée aujourd'hui pourrait être une lignée propagée par boutures, entretenue par des mains mazatèques depuis des générations et transmise de guérisseur à guérisseur plutôt que cultivée à partir de graines.\n\nEn 1982, le chimiste Daniel Siebert et ses collègues isolèrent des feuilles la salvinorine A, un composé psychoactif non azoté d'une puissance inhabituelle, distinct des alcaloïdes présents dans la plupart des plantes hallucinogènes. Cette découverte attira soudainement l'attention scientifique sur une plante ayant survécu dans une relative obscurité pendant des générations, et son statut légal varie aujourd'hui considérablement selon le pays et la région. Aujourd'hui, la sauge des devins est cultivée dans des collections botaniques et des jardins à travers le monde, appréciée moins pour un quelconque usage pratique que pour son histoire ethnobotanique singulière et son feuillage velouté et discret qui la dissimule.",
+        "name_origin": "Le nom du genre Salvia vient du latin salvare, « guérir » ou « sauver », en référence à la longue réputation médicinale des sauges. Le nom de l'espèce, divinorum, signifie en latin « des devins », une allusion directe au rôle traditionnel de la plante dans les cérémonies de divination mazatèques.",
+        "symbolism_story": "Parce que ses effets surviennent et s'effacent rapidement, laissant peu de traces visibles, la sauge des devins s'est trouvée associée à des idées de savoir caché et de révélation fugace. La tradition mazatèque en faisait un guide bienveillant plutôt qu'une force à maîtriser, une plante consultée humblement, dans l'obscurité, et traitée davantage comme une conseillère que comme un remède.",
+        "flower_meaning": "Perception cachée",
+        "fragrance": {
+          "notes": "Les feuilles dégagent un parfum discret, terreux et légèrement mentholé lorsqu'elles sont froissées ou écrasées."
+        },
+        "uses_list": [
+          {
+            "text": "Élément central des cérémonies traditionnelles de divination et de guérison mazatèques à Oaxaca, au Mexique."
+          },
+          {
+            "text": "Cultivée par des collectionneurs à travers le monde pour son feuillage luxuriant et velouté et sa rareté botanique."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Perception cachée",
+            "description": "Une plante consultée discrètement pour obtenir des réponses qui échappent à la vue ordinaire."
+          },
+          {
+            "keyword": "Protection",
+            "description": "Invoquée par les guérisseurs mazatèques comme une guide douce et protectrice, plutôt qu'une force que l'on commande."
+          }
+        ],
+        "toxicity": {
+          "headline": "Aucune toxicité signalée",
+          "active_compound_display": "Aucun signalé",
+          "notes_en": "Aucune correspondance de toxicité faisant autorité trouvée ; traitée comme non signalée (l'estimation du LLM n'est pas vérifiée par une source).",
+          "human": {
+            "exposure": "Aucune voie d'exposition n'est signalée.",
+            "effect": "Aucun effet toxique n'est signalé.",
+            "note": "La toxicité pour l'homme n'est pas bien documentée ; soyez prudent jusqu'à vérification."
+          },
+          "dog": {
+            "exposure": "Aucune voie d'exposition signalée.",
+            "effect": "Aucun effet toxique signalé.",
+            "note": "Aucune toxicité signalée pour les chiens dans ce catalogue ; cela ne prouve pas que la plante soit comestible ou inoffensive."
+          },
+          "cat": {
+            "exposure": "Aucune voie d'exposition signalée.",
+            "effect": "Aucun effet toxique signalé.",
+            "note": "Aucune toxicité signalée pour les chats dans ce catalogue ; cela ne prouve pas que la plante soit comestible ou inoffensive."
+          }
+        }
+      }
+    },
+    "AAA1704": {
+      "source_hash": "8c13c1a561739647e3584b056fe5a7f9429a6a9e66e6baf027bd02755977b689",
+      "fields": {
+        "common_name": "Badamier",
+        "bloom_tip": "Les fleurs de cette plante s'épanouissent en été.",
+        "fruit_tip": "Les fruits mûrissent en automne et ont une valeur ornementale.",
+        "description": "Le badamier est un arbre côtier étalé, reconnaissable à sa silhouette en forme de pagode : depuis un tronc robuste, ses branches s'étendent en couches plates et étagées. Ses larges feuilles coriaces se parent de rouge et d'orange flamboyants avant de tomber deux fois par an, encadrant de petits épis de fleurs blanches parfumées qui attirent les abeilles. Suivent des fruits aplatis et liégeux, qui mûrissent du vert au brun rougeâtre et renferment une amande comestible. Courant sur les plages et les rivages soumis aux marées sous les tropiques, le badamier tolère les embruns salés, le vent et les sols sablonneux pauvres, ce qui en fait un arbre d'ombrage prisé pour les parcs côtiers, les boulevards et les jardins de bord de mer.",
+        "history_text_short": "Le fruit liégeux du badamier flotte sur les courants océaniques, lui permettant de coloniser les rivages tropicaux de l'océan Indien et du Pacifique bien avant l'arrivée des hommes. Aujourd'hui, ses feuilles tombées sont trempées dans des aquariums à travers le monde pour conditionner l'eau des poissons d'ornement.",
+        "history_text_long": "Longtemps avant que les hommes ne transportent le badamier d'un continent à l'autre, l'arbre se répandait déjà par lui-même. Son fruit possède une coque épaisse et liégeuse qui emprisonne l'air, lui permettant de flotter pendant des mois sur les courants océaniques sans que l'amande intérieure ne perde sa capacité à germer. Les vagues et les marées ont transporté ces graines flottantes entre îles et continents pendant des millénaires, ensemençant des plages depuis l'océan Indien jusqu'au Pacifique, puis jusqu'aux côtes d'Afrique de l'Ouest et des Caraïbes -- l'un des exemples les plus nets d'une plante ayant colonisé les tropiques par la mer plutôt que par la seule main de l'homme. Les planificateurs de l'époque coloniale ont ensuite tiré parti de la tolérance au sel et de la couronne dense et étagée de l'arbre pour border boulevards et promenades du front de mer, de Bombay à Lagos en passant par La Havane. Ces dernières décennies, le badamier a trouvé un public bien différent : les aquariophiles. Ses feuilles sèches tombées, vendues partout dans le monde simplement sous le nom de 'feuilles de badamier' ou 'feuilles d'amande indienne', sont trempées dans les aquariums d'eau douce pour libérer des tanins qui teintent l'eau d'ambre, abaissent son pH et exercent un léger effet antibactérien et antifongique. Les éleveurs de combattants du Siam en Thaïlande et en Indonésie ont popularisé cette pratique il y a des générations pour aider les poissons blessés ou stressés à se rétablir, et elle est depuis devenue un rituel courant chez les aquariophiles du monde entier, menant le même arbre qui dérivait autrefois sur l'océan jusque dans des bacs de verre posés sur des étagères de chambre.",
+        "name_origin": "Le nom de genre Terminalia vient du latin terminus, 'bout' ou 'limite', en référence à la façon dont les feuilles se regroupent à l'extrémité même des branches. Le nom d'espèce catappa dérive de ketapang, le mot malais désignant l'arbre, reflet de sa longue histoire sur les rivages d'Asie du Sud-Est.",
+        "symbolism_story": "Parce que son fruit peut dériver pendant des mois en pleine mer et germer malgré tout une fois rejeté sur le rivage, le badamier est devenu un symbole discret de résilience et d'arrivée -- un rappel que l'on peut voyager loin de ses origines et tout de même prendre racine. Sa large couronne étagée renforce ce sentiment d'abri, offrant de l'ombre aux voyageurs comme aux communautés côtières.",
+        "flower_meaning": "Résilience",
+        "fragrance": {
+          "notes": "De petits épis de fleurs blanches dégagent un parfum léger et sucré qui attire les abeilles."
+        },
+        "uses_list": [
+          {
+            "text": "Planté comme arbre d'ombrage le long des plages, des boulevards et des parcs côtiers pour sa couronne étagée en forme d'ombrelle."
+          },
+          {
+            "text": "L'amande comestible à l'intérieur du fruit se mange crue ou grillée, avec une saveur douce et légèrement noisettée."
+          },
+          {
+            "text": "Les feuilles et l'écorce, riches en tanins, entrent dans des remèdes traditionnels contre la diarrhée et les affections cutanées, et les feuilles séchées sont trempées dans les aquariums pour leur effet antibactérien."
+          },
+          {
+            "text": "Son bois brun rougeâtre résiste aux termites et à la pourriture, ce qui en fait un matériau prisé pour la construction navale et le mobilier dans les communautés côtières."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Résilience",
+            "description": "Ses graines survivent à des mois de dérive en mer, incarnant l'endurance et la capacité à prendre racine loin de chez soi."
+          },
+          {
+            "keyword": "Abri",
+            "description": "La large couronne étagée de l'arbre offre depuis toujours de l'ombre et un lieu de rassemblement sur les côtes tropicales."
+          }
+        ],
+        "toxicity": {
+          "headline": "Aucune toxicité signalée",
+          "active_compound_display": "Aucun signalé",
+          "notes_en": "Aucune correspondance trouvée dans une source faisant autorité ; classé comme non signalé (l'estimation de l'IA n'est pas vérifiée par une source).",
+          "human": {
+            "exposure": "Aucune voie d'exposition signalée.",
+            "effect": "Aucun effet toxique signalé.",
+            "note": "Aucune toxicité n'est signalée pour les humains dans ce catalogue ; cela ne prouve pas que la plante soit comestible ou inoffensive."
+          },
+          "dog": {
+            "exposure": "Aucune voie d'exposition signalée.",
+            "effect": "Aucun effet toxique signalé.",
+            "note": "Aucune toxicité n'est signalée pour les chiens dans ce catalogue ; cela ne prouve pas que la plante soit comestible ou inoffensive."
+          },
+          "cat": {
+            "exposure": "Aucune voie d'exposition signalée.",
+            "effect": "Aucun effet toxique signalé.",
+            "note": "Aucune toxicité n'est signalée pour les chats dans ce catalogue ; cela ne prouve pas que la plante soit comestible ou inoffensive."
+          }
+        }
+      }
+    },
+    "AAA1705": {
+      "source_hash": "eba60208c78610dde03e271344637eb0adf5bd52378053ffe45cddae895b84e6",
+      "fields": {
+        "common_name": "Amaryllis de Canastra",
+        "bloom_tip": "Les fleurs de cette plante s'épanouissent en hiver et au printemps, et sont très remarquables.",
+        "description": "L'Amaryllis de Canastra est une plante vivace bulbeuse connue seulement dans la Serra da Canastra, une région montagneuse accidentée de Minas Gerais, au Brésil, dont elle tire son nom. Contrairement à la plupart de ses parentes à fleurs multiples, chaque tige ne porte généralement qu'une seule fleur pâle en forme de trompette, un trait qu'elle ne partage qu'avec quelques-unes de ses plus proches parentes. Elle pousse enracinée dans les prairies rocheuses sujettes aux incendies appelées campo rupestre, fleurissant souvent dans les mois qui suivent un feu de brousse. Décrite pour la première fois en 2013, elle demeure l'une des espèces les plus rares et les plus restreintes de son genre.",
+        "history_text_short": "Décrite pour la première fois en 2013 et trouvée seulement dans les hautes terres de la Serra da Canastra au Brésil, cet amaryllis produit une seule fleur pâle par tige, contrairement à la plupart de ses parentes à fleurs multiples. Elle pousse dans une prairie rocheuse sujette aux incendies et fleurit souvent dans les mois suivant un feu de brousse.",
+        "history_text_long": "L'Amaryllis de Canastra tire son nom de la Serra da Canastra, un plateau spectaculaire de prairie rocheuse dans l'État de Minas Gerais, au Brésil, où l'espèce pousse et nulle part ailleurs. Elle n'a été formellement reconnue qu'en 2013, lorsque des botanistes l'ont décrite comme l'une des quatre nouvelles espèces de Hippeastrum trouvées au sein de la même chaîne montagneuse, un rappel frappant de la diversité qui se cache encore dans le campo rupestre brésilien, les prairies rocheuses façonnées par le feu qui couronnent son plateau central.\n\nLa plupart des espèces de Hippeastrum produisent deux fleurs ou plus par tige, mais l'Amaryllis de Canastra est principalement uniflore, produisant une seule fleur pâle en forme de trompette au sommet de chaque hampe sans feuilles, une habitude plus discrète qu'elle ne partage qu'avec quelques-unes de ses plus proches parentes de la même chaîne de montagnes. Son hypanthium, le tube étroit à la base de la fleur, mesure de trois à quatre centimètres et demi de long, et ne possède pas les petits appendices internes, appelés paraperigone, présents chez certaines espèces apparentées.\n\nLe campo rupestre est un paysage façonné par des incendies périodiques, et l'Amaryllis de Canastra semble suivre ce rythme : des botanistes ont documenté des populations fleurissant dans les mois suivant le passage du feu qui a dégagé l'herbe, un schéma partagé par de nombreux bulbes et cormes des hautes terres brésiliennes adaptées au feu, qui profitent de l'apport de nutriments et de la lumière dégagée d'un paysage brûlé pour fleurir et produire des graines avant que l'herbe ne repousse autour d'eux.",
+        "name_origin": "Le nom de genre Hippeastrum vient du grec hippeus (« chevalier ») et astron (« étoile »). Le nom d'espèce canastrense fait référence à la Serra da Canastra, une chaîne de montagnes de l'État de Minas Gerais, au Brésil, et le seul endroit où la plante est connue pour croître ; « canastra » signifie lui-même « panier » ou « coffre » en portugais, une allusion au profil massif et aux parois abruptes de la chaîne.",
+        "symbolism_story": "Dans les prairies ravagées par le feu de la Serra da Canastra, l'Amaryllis de Canastra n'est souvent remarqué qu'après qu'un incendie a dégagé l'herbe enchevêtrée qui le dissimule habituellement. Sa fleur pâle et solitaire, perçant un sol noirci et couvert de cendres, en a fait, parmi les naturalistes locaux, un discret emblème de renaissance : la promesse que la vie revient rapidement dès qu'un paysage calciné retrouve l'espace pour respirer.",
+        "flower_meaning": "Renaissance",
+        "fragrance": {
+          "notes": "Ses fleurs pâles ne sont pas documentées comme parfumées."
+        },
+        "uses_list": [
+          {
+            "text": "Un bulbe rare des hautes terres, recherché par des collectionneurs spécialisés pour sa fleur pâle unique et discrète, bien que son infime aire de répartition sauvage fasse du matériel propagé en pépinière la seule source responsable."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Renaissance",
+            "description": "En fleurissant dans les mois suivant le passage du feu dans sa prairie rocheuse d'altitude, l'Amaryllis de Canastra en est venu à symboliser la renaissance : une vie nouvelle qui jaillit du sol noirci une fois les flammes passées."
+          }
+        ],
+        "toxicity": {
+          "headline": "Humains légère · Animaux modérée",
+          "active_compound_display": "lycorine",
+          "notes_en": "Toutes les parties contiennent des alcaloïdes d'Amaryllidaceae, principalement de la lycorine, concentrés surtout dans le bulbe ; l'ingestion peut provoquer des troubles gastro-intestinaux chez les humains et les animaux de compagnie.",
+          "human": {
+            "exposure": "Ingestion de bulbes et de sève. Contact avec les bulbes et la sève.",
+            "effect": "Nausées, vomissements et irritation de la peau.",
+            "note": "Toutes les parties contiennent des alcaloïdes d'Amaryllidaceae, principalement de la lycorine, concentrés surtout dans le bulbe ; l'ingestion peut provoquer des troubles gastro-intestinaux chez les humains et les animaux de compagnie.",
+            "symptoms": [
+              "Nausées.",
+              "Vomissements.",
+              "Irritation de la peau."
+            ]
+          },
+          "dog": {
+            "exposure": "Ingestion de bulbes.",
+            "effect": "Vomissements, diarrhée, salivation, léthargie et douleurs abdominales.",
+            "note": "Toutes les parties contiennent des alcaloïdes d'Amaryllidaceae, principalement de la lycorine, concentrés surtout dans le bulbe ; l'ingestion peut provoquer des troubles gastro-intestinaux chez les humains et les animaux de compagnie.",
+            "symptoms": [
+              "Vomissements.",
+              "Diarrhée.",
+              "Salivation.",
+              "Léthargie.",
+              "Douleurs abdominales."
+            ]
+          },
+          "cat": {
+            "exposure": "Ingestion de bulbes.",
+            "effect": "Vomissements, diarrhée, salivation, léthargie et douleurs abdominales.",
+            "note": "Toutes les parties contiennent des alcaloïdes d'Amaryllidaceae, principalement de la lycorine, concentrés surtout dans le bulbe ; l'ingestion peut provoquer des troubles gastro-intestinaux chez les humains et les animaux de compagnie.",
+            "symptoms": [
+              "Vomissements.",
+              "Diarrhée.",
+              "Salivation.",
+              "Léthargie.",
+              "Douleurs abdominales."
+            ]
+          }
+        }
+      }
+    },
+    "AAA1706": {
+      "source_hash": "50730c5eed30af46b0ec2e782e96c9f719a6c9e6c09fef349688a6b1b0063ece",
+      "fields": {
+        "common_name": "Amaryllis de Ferreyra",
+        "bloom_tip": "Les fleurs de cette plante sont magnifiques et s'épanouissent généralement de l'hiver à l'été.",
+        "description": "L'Amaryllis de Ferreyra est une plante vivace bulbeuse connue seulement dans deux vallées fluviales isolées de l'est du Pérou, celles du Huallaga et du Purús. Chaque haute tige sans feuilles porte une paire de fleurs en forme de trompette, rouge orangé, marquées d'une fine bande blanche sur deux des six tépales, un détail qui la distingue de sa proche parente Hippeastrum puniceum. Ses feuilles en forme de ruban poussent exceptionnellement longues, adaptées aux conditions chaudes et humides et aux fortes pluies saisonnières de son habitat en marge de l'Amazonie. Autostérile et confinée à une poignée de colonies dispersées, elle est considérée comme vulnérable à l'extinction.",
+        "history_text_short": "Nommé en l'honneur du botaniste péruvien Ramón Ferreyra et décrit pour la première fois en 1950, cet amaryllis ne survit que dans deux vallées fluviales isolées de l'est du Pérou. Chaque tige porte une paire de fleurs rouge orangé striées de blanc. Autostérile et confiné à des colonies dispersées, il est classé vulnérable à l'extinction.",
+        "history_text_long": "L'Amaryllis de Ferreyra porte le nom de Ramón Ferreyra, l'un des botanistes péruviens les plus prolifiques du vingtième siècle, qui a passé des décennies à parcourir les vallées de son pays pour documenter sa flore remarquable. La plante qu'il a récoltée dans la région fluviale isolée de l'est du Pérou a été formellement décrite en 1950 par le spécialiste américain des bulbes Hamilton Paul Traub, qui l'a classée sous le nom d'Amaryllis ferreyrae. Il a fallu plus de quatre décennies, et une compréhension plus approfondie du genre, avant que les taxonomistes Roy Gereau et Lois Brako ne la transfèrent dans le genre Hippeastrum en 1993, la plaçant parmi ses nombreux parents aux fleurs en forme de trompette.\n\nL'espèce ne survit aujourd'hui que dans deux foyers connus, séparés par une vaste étendue de nature sauvage péruvienne : la vallée du fleuve Huallaga et, bien plus au sud, la vallée du fleuve Purús. Dans les deux endroits, elle pousse dans des conditions chaudes et très pluvieuses, dressant de hautes tiges couronnées d'une paire de fleurs rouge orangé dont la fine bande blanche sur les tépales est l'une des rares différences visibles avec l'Hippeastrum puniceum, plus répandue.\n\nCet isolement a un coût. L'Amaryllis de Ferreyra est autostérile, ce qui signifie que chaque fleur dépend du pollen apporté par un voisin génétiquement distinct pour produire des graines. Dans de petites colonies dispersées, les partenaires adéquats peuvent être rares, et l'espèce a été classée vulnérable à l'extinction, un destin partagé par de nombreux bulbes endémiques à distribution restreinte en marge de l'Amazonie, dont tout l'avenir repose sur une poignée de populations survivantes.",
+        "name_origin": "Le nom de genre Hippeastrum vient du grec hippeus (« chevalier » ou « cavalier ») et astron (« étoile »), en référence aux fleurs audacieuses en forme d'étoile de la plante. Le nom d'espèce ferreyrae honore Ramón Ferreyra, le botaniste péruvien qui l'a récoltée pour la première fois.",
+        "symbolism_story": "Parce que l'Amaryllis de Ferreyra ne survit que dans deux vallées connues, séparées par des centaines de kilomètres, et dépend du pollen d'un voisin génétiquement distinct pour produire des graines, les cultivateurs et les défenseurs de l'environnement en sont venus à y voir un symbole de résilience : une plante qui persiste non par son abondance, mais par sa pure ténacité, continuant d'exister même si son habitat sauvage se réduit autour d'elle.",
+        "flower_meaning": "Résilience",
+        "fragrance": {
+          "notes": "Ses fleurs ne sont pas documentées comme parfumées."
+        },
+        "uses_list": [
+          {
+            "text": "Cultivé par des collectionneurs de bulbes spécialisés pour ses fleurs rouge orangé striées de blanc, bien que sa rareté à l'état sauvage fasse des plants propagés en pépinière la seule source responsable."
+          },
+          {
+            "text": "Ses fleurs rouges et tubulaires suivent le motif de couleur et de forme généralement associé à la pollinisation par les colibris chez les Amaryllidaceae."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Résilience",
+            "description": "En ne survivant que dans deux vallées fluviales isolées et en dépendant du pollen d'un voisin génétiquement distinct pour produire des graines, l'Amaryllis de Ferreyra en est venu à représenter une résilience discrète : la capacité à persister contre toute attente dans un monde fragmenté."
+          }
+        ],
+        "toxicity": {
+          "headline": "Humains légère · Animaux modérée",
+          "active_compound_display": "lycorine",
+          "notes_en": "Toutes les parties contiennent des alcaloïdes d'Amaryllidaceae, principalement de la lycorine, concentrés surtout dans le bulbe ; l'ingestion peut provoquer des troubles gastro-intestinaux chez les humains et les animaux de compagnie.",
+          "human": {
+            "exposure": "Ingestion de bulbes et de sève. Contact avec les bulbes et la sève.",
+            "effect": "Nausées, vomissements et irritation de la peau.",
+            "note": "Toutes les parties contiennent des alcaloïdes d'Amaryllidaceae, principalement de la lycorine, concentrés surtout dans le bulbe ; l'ingestion peut provoquer des troubles gastro-intestinaux chez les humains et les animaux de compagnie.",
+            "symptoms": [
+              "Nausées.",
+              "Vomissements.",
+              "Irritation de la peau."
+            ]
+          },
+          "dog": {
+            "exposure": "Ingestion de bulbes.",
+            "effect": "Vomissements, diarrhée, salivation, léthargie et douleurs abdominales.",
+            "note": "Toutes les parties contiennent des alcaloïdes d'Amaryllidaceae, principalement de la lycorine, concentrés surtout dans le bulbe ; l'ingestion peut provoquer des troubles gastro-intestinaux chez les humains et les animaux de compagnie.",
+            "symptoms": [
+              "Vomissements.",
+              "Diarrhée.",
+              "Salivation.",
+              "Léthargie.",
+              "Douleurs abdominales."
+            ]
+          },
+          "cat": {
+            "exposure": "Ingestion de bulbes.",
+            "effect": "Vomissements, diarrhée, salivation, léthargie et douleurs abdominales.",
+            "note": "Toutes les parties contiennent des alcaloïdes d'Amaryllidaceae, principalement de la lycorine, concentrés surtout dans le bulbe ; l'ingestion peut provoquer des troubles gastro-intestinaux chez les humains et les animaux de compagnie.",
+            "symptoms": [
+              "Vomissements.",
+              "Diarrhée.",
+              "Salivation.",
+              "Léthargie.",
+              "Douleurs abdominales."
+            ]
           }
         }
       }
