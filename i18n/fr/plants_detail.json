@@ -3,8 +3,8 @@
   "locale": "fr",
   "source": {
     "resource": "plants_detail.json",
-    "sha256": "2925732c916c51b9c721bd86262cf859bad220cfae84d21132bbe8473a3a3957",
-    "record_count": 1741
+    "sha256": "ef9992f3a3e15e99cd1ec0b310c789ab845299cc8063b2d74ca678a40dceae54",
+    "record_count": 1742
   },
   "records": {
     "AAA0001": {
@@ -106544,6 +106544,63 @@
             "exposure": "Aucune voie d'exposition n'est signalée.",
             "effect": "Aucun effet toxique n'est signalé.",
             "note": "Aucun rapport spécifique à l'espèce pour les chats n'a été trouvé. Considérez tout champignon sauvage comme potentiellement toxique pour les animaux et contactez un vétérinaire après toute ingestion."
+          }
+        }
+      }
+    },
+    "AAA1743": {
+      "source_hash": "624ef90062d49ac79f5b8b22333235fc7e2d8dea16b3aa6bc7c0615fcc09ec5d",
+      "fields": {
+        "common_name": "Piment Ornemental",
+        "fruit_tip": "Les fruits du piment ont une valeur ornementale au jardin, affichant des couleurs éclatantes.",
+        "description": "Le Piment Ornemental appartient au genre Capsicum, originaire d'Amérique centrale et d'Amérique du Sud, où ses parents sauvages poussent depuis des millénaires. Compacte et touffue, la plante produit une abondance de petits fruits qui mûrissent selon une séquence de couleurs saisissante — vert, violet, jaune, orange et rouge — montrant souvent plusieurs teintes à la fois sur le même pied. Ses feuilles brillantes et lancéolées mettent en valeur des grappes de fruits dressés dont le piquant intense provient de la capsaïcine, le composé responsable du piquant du piment. Cultivé en pot, en bordure ou sur une fenêtre ensoleillée, il récompense le jardinier par des mois de couleurs et un léger parfum poivré lorsqu'on froisse son feuillage ou ses fruits.",
+        "history_text_short": "Le Piment Ornemental descend de plants de Capsicum cultivés pour la première fois au Mexique et en Amérique centrale il y a plus de 6 000 ans. Les marchands aztèques l'appelaient chilli et broyaient ses gousses brûlantes pour en faire des sauces et des offrandes rituelles. Les jardiniers modernes cultivent des variétés ornementales compactes pour leurs fruits, qui mûrissent du violet au jaune, à l'orange puis au rouge — appréciés pour leur couleur plutôt que pour la cuisine.",
+        "history_text_long": "Longtemps avant que les Européens ne traversent l'Atlantique, les ancêtres sauvages du Piment Ornemental poussaient dans les basses terres tropicales d'Amérique centrale et du Sud, où des oiseaux — immunisés contre la capsaïcine brûlante — avalaient les petits fruits entiers et dispersaient les graines sur le sol de la forêt. Les humains ont pris un chemin différent : il y a plus de 6 000 ans, des communautés de l'actuel Mexique ont commencé à sélectionner les fruits les plus piquants et les plus colorés, cultivant le Capsicum à la fois comme aliment et comme remède. À l'époque des civilisations aztèque et maya, le chilli (du mot nahuatl désignant la plante) était intégré à la vie quotidienne — broyé en sauces, brûlé en fumée rituelle pour repousser les ennemis, et échangé sur les marchés en plein air avec le maïs et le cacao. Lorsque Christophe Colomb atteignit les Caraïbes en 1493, il prit les gousses brûlantes pour une proche parente du poivre noir et en rapporta des graines en Espagne, déclenchant l'une des migrations culinaires les plus rapides de l'histoire. En moins d'un siècle, le Capsicum avait voyagé avec les marchands jusqu'en Inde, en Chine, en Hongrie et en Corée, transformant des cuisines qui n'avaient jamais connu ce genre de piquant. Les jardiniers ont ensuite valorisé un tout autre trait : des variétés compactes de Capsicum, dont les fruits mûrissent dans un arc-en-ciel de violet, jaune, orange et rouge, ont été sélectionnées purement pour l'ornement, cultivées en pots et en bordures non pas pour être mangées, mais simplement admirées — des plantes qui transforment une terrasse en un tableau vivant de couleurs.",
+        "name_origin": "Le nom de genre Capsicum vient du latin capsa, signifiant « boîte » ou « écrin », en référence à la gousse creuse remplie de graines. Le mot courant « piment », lui, vient de chilli, le nom nahuatl (aztèque) de la plante, qui s'est répandu dans le monde après l'échange colombien.",
+        "symbolism_story": "Dans une grande partie de l'Amérique latine, le piquant brûlant du piment en a fait un symbole populaire de passion, de vitalité et de protection. Des chapelets de gousses rouges séchées, appelés ristras, sont encore suspendus aux portes et dans les cuisines, du Mexique au Nouveau-Mexique — à l'origine pour sécher la récolte, mais aussi, croit-on depuis longtemps, pour repousser les mauvais esprits et porter bonheur au foyer.",
+        "flower_meaning": "Passion",
+        "fragrance": {
+          "notes": "Les feuilles et les fruits dégagent un léger parfum poivré et herbacé lorsqu'on les froisse ou les coupe."
+        },
+        "uses_list": [
+          {
+            "text": "Cultivé surtout pour son port compact et ses fruits multicolores, qui illuminent pots, bordures et fenêtres pendant des mois."
+          },
+          {
+            "text": "Les fruits mûrs sont mangés et dispersés par les oiseaux, insensibles au piquant de la capsaïcine."
+          },
+          {
+            "text": "Les fruits sont comestibles et très piquants ; certaines variétés ornementales sont utilisées comme épice insolite, bien qu'elles aient été sélectionnées surtout pour leur apparence."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Passion",
+            "description": "Le piquant ardent du fruit symbolise depuis longtemps la passion et l'intensité dans la culture latino-américaine."
+          },
+          {
+            "keyword": "Protection",
+            "description": "Des chapelets de piments séchés sont suspendus dans les maisons et sur les marchés, du Mexique à la Méditerranée, pour repousser le mal et porter bonheur."
+          }
+        ],
+        "toxicity": {
+          "headline": "Toxicité inconnue",
+          "active_compound_display": "Non signalé",
+          "notes_en": "Aucune correspondance trouvée dans une source faisant autorité ; traité comme non signalé (l'estimation de l'IA n'est pas vérifiée par une source).",
+          "human": {
+            "exposure": "Aucune voie d'exposition signalée.",
+            "effect": "Aucun effet toxique signalé.",
+            "note": "La toxicité pour l'homme n'est pas bien documentée ; agir avec prudence jusqu'à confirmation."
+          },
+          "dog": {
+            "exposure": "Aucune voie d'exposition signalée.",
+            "effect": "Aucun effet toxique signalé.",
+            "note": "La toxicité pour les chiens n'est pas bien documentée ; agir avec prudence jusqu'à confirmation."
+          },
+          "cat": {
+            "exposure": "Aucune voie d'exposition signalée.",
+            "effect": "Aucun effet toxique signalé.",
+            "note": "La toxicité pour les chats n'est pas bien documentée ; agir avec prudence jusqu'à confirmation."
           }
         }
       }

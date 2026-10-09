@@ -3,8 +3,8 @@
   "locale": "es",
   "source": {
     "resource": "plants_detail.json",
-    "sha256": "2925732c916c51b9c721bd86262cf859bad220cfae84d21132bbe8473a3a3957",
-    "record_count": 1741
+    "sha256": "ef9992f3a3e15e99cd1ec0b310c789ab845299cc8063b2d74ca678a40dceae54",
+    "record_count": 1742
   },
   "records": {
     "AAA0001": {
@@ -106558,6 +106558,63 @@
             "exposure": "No se ha descrito ninguna vía de exposición.",
             "effect": "No se ha descrito ningún efecto tóxico.",
             "note": "No se encontraron informes específicos para gatos. Considera cualquier seta silvestre como potencialmente tóxica para las mascotas y contacta con un veterinario tras cualquier ingestión."
+          }
+        }
+      }
+    },
+    "AAA1743": {
+      "source_hash": "624ef90062d49ac79f5b8b22333235fc7e2d8dea16b3aa6bc7c0615fcc09ec5d",
+      "fields": {
+        "common_name": "Chile Ornamental",
+        "fruit_tip": "Los frutos del chile tienen valor ornamental en jardinería, luciendo colores intensos.",
+        "description": "El Chile Ornamental pertenece al género Capsicum, originario de Centroamérica y Sudamérica, donde sus parientes silvestres crecen desde hace miles de años. Compacta y frondosa, produce abundantes frutos pequeños que maduran en una llamativa secuencia de colores —verde, morado, amarillo, naranja y rojo— a menudo mostrando varios tonos a la vez en la misma planta. Sus hojas brillantes y lanceoladas enmarcan racimos de frutos erguidos cuya intensa pungencia procede de la capsaicina, el compuesto responsable del picor del chile. Cultivada en macetas, arriates o en una ventana soleada, recompensa a quien la cuida con meses de color y un leve aroma a pimienta al rozar sus hojas o frutos.",
+        "history_text_short": "El Chile Ornamental desciende de plantas de Capsicum cultivadas por primera vez en México y Centroamérica hace más de 6.000 años. Los comerciantes aztecas lo llamaban chilli y molían las vainas ardientes para salsas y ofrendas rituales. Los jardineros actuales cultivan variedades ornamentales compactas por su fruto, que madura entre morado, amarillo, naranja y rojo, apreciado más por su color que por la cocina.",
+        "history_text_long": "Mucho antes de que los europeos cruzaran el Atlántico, los antepasados silvestres del Chile Ornamental crecían en las tierras bajas tropicales de Centroamérica y Sudamérica, donde las aves —inmunes al ardiente compuesto capsaicina— se tragaban los pequeños frutos enteros y esparcían las semillas por el suelo del bosque. Los humanos tomaron otro camino: hace más de 6.000 años, comunidades de lo que hoy es México comenzaron a seleccionar los frutos más picantes y coloridos, cultivando Capsicum tanto como alimento como medicina. Para la época en que florecieron las civilizaciones azteca y maya, el chilli (de la palabra náhuatl para la planta) estaba entretejido en la vida cotidiana: molido en salsas, quemado como humo ritual para ahuyentar enemigos y comerciado en mercados al aire libre junto al maíz y el cacao. Cuando Cristóbal Colón llegó al Caribe en 1493, confundió las ardientes vainas con un pariente de la pimienta negra y llevó semillas a España, desatando una de las migraciones culinarias más rápidas de la historia. En menos de un siglo, Capsicum había viajado con los comerciantes hasta la India, China, Hungría y Corea, transformando cocinas que nunca habían conocido ese tipo de picor. Más tarde, los jardineros valoraron un rasgo muy distinto: se criaron variedades compactas de Capsicum cuyos frutos maduran en un arcoíris de morado, amarillo, naranja y rojo únicamente por su valor ornamental, cultivadas en macetas y arriates no para comer, sino simplemente para admirar —plantas que convierten un patio en un cuadro viviente de color.",
+        "name_origin": "El nombre del género Capsicum proviene del latín capsa, que significa «caja» o «estuche», en referencia a la vaina hueca y llena de semillas. La palabra cotidiana «chile», en cambio, procede de chilli, el nombre náhuatl (azteca) de la planta, que se difundió por el mundo tras el Intercambio Colombino.",
+        "symbolism_story": "En gran parte de Latinoamérica, el picor ardiente del chile lo ha convertido en símbolo popular de pasión, vitalidad y protección. Las ristras de vainas rojas secas aún se cuelgan en puertas y cocinas desde México hasta Nuevo México —originalmente para secar la cosecha, pero desde hace tiempo también se cree que ahuyentan a los malos espíritus y traen buena suerte al hogar.",
+        "flower_meaning": "Pasión",
+        "fragrance": {
+          "notes": "Las hojas y los frutos desprenden un leve aroma herbáceo y picante al aplastarlos o cortarlos."
+        },
+        "uses_list": [
+          {
+            "text": "Se cultiva principalmente por su porte compacto y sus frutos multicolores, que alegran macetas, arriates y ventanas durante meses."
+          },
+          {
+            "text": "Las aves comen y dispersan los frutos maduros, pues son inmunes al picor de la capsaicina."
+          },
+          {
+            "text": "Los frutos son comestibles y muy picantes; algunas variedades ornamentales se usan como condimento curioso, aunque se criaron sobre todo por su aspecto."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Pasión",
+            "description": "El ardor de la fruta ha simbolizado durante mucho tiempo la pasión y la intensidad en la cultura latinoamericana."
+          },
+          {
+            "keyword": "Protección",
+            "description": "Se cuelgan ristras de chiles secos en casas y mercados, desde México hasta el Mediterráneo, para ahuyentar el mal y traer buena fortuna."
+          }
+        ],
+        "toxicity": {
+          "headline": "Toxicidad desconocida",
+          "active_compound_display": "No reportado",
+          "notes_en": "No se encontró una coincidencia con fuentes autorizadas; se trata como no reportado (la estimación de la IA no está verificada por fuentes).",
+          "human": {
+            "exposure": "No se reporta ninguna vía de exposición.",
+            "effect": "No se reporta ningún efecto tóxico.",
+            "note": "La toxicidad para humanos no está bien documentada; actúe con precaución hasta confirmarlo."
+          },
+          "dog": {
+            "exposure": "No se reporta ninguna vía de exposición.",
+            "effect": "No se reporta ningún efecto tóxico.",
+            "note": "La toxicidad para perros no está bien documentada; actúe con precaución hasta confirmarlo."
+          },
+          "cat": {
+            "exposure": "No se reporta ninguna vía de exposición.",
+            "effect": "No se reporta ningún efecto tóxico.",
+            "note": "La toxicidad para gatos no está bien documentada; actúe con precaución hasta confirmarlo."
           }
         }
       }

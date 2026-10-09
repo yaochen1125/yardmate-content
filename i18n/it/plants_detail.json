@@ -3,8 +3,8 @@
   "locale": "it",
   "source": {
     "resource": "plants_detail.json",
-    "sha256": "2925732c916c51b9c721bd86262cf859bad220cfae84d21132bbe8473a3a3957",
-    "record_count": 1741
+    "sha256": "ef9992f3a3e15e99cd1ec0b310c789ab845299cc8063b2d74ca678a40dceae54",
+    "record_count": 1742
   },
   "records": {
     "AAA0001": {
@@ -106558,6 +106558,63 @@
             "exposure": "Non è segnalata alcuna via di esposizione.",
             "effect": "Non è segnalato alcun effetto tossico.",
             "note": "Non sono state trovate segnalazioni specifiche per i gatti. Considera ogni fungo selvatico potenzialmente tossico per gli animali domestici e contatta il veterinario dopo qualsiasi ingestione."
+          }
+        }
+      }
+    },
+    "AAA1743": {
+      "source_hash": "624ef90062d49ac79f5b8b22333235fc7e2d8dea16b3aa6bc7c0615fcc09ec5d",
+      "fields": {
+        "common_name": "Peperoncino Ornamentale",
+        "fruit_tip": "I frutti del peperoncino hanno valore ornamentale in giardino, mostrando colori vivaci.",
+        "description": "Il Peperoncino Ornamentale appartiene al genere Capsicum, originario dell'America Centrale e del Sud America, dove i suoi parenti selvatici crescono da millenni. Compatto e cespuglioso, produce abbondanti piccoli frutti che maturano attraverso una sequenza di colori sorprendente — verde, viola, giallo, arancione e rosso — mostrando spesso più tonalità contemporaneamente sulla stessa pianta. Le foglie lucide e lanceolate incorniciano grappoli di frutti eretti la cui intensa piccantezza deriva dalla capsaicina, il composto responsabile del piccante del peperoncino. Coltivato in vaso, in bordure o su una finestra soleggiata, ricompensa il giardiniere con mesi di colore e un leggero profumo pepato quando si sfiorano foglie o frutti.",
+        "history_text_short": "Il Peperoncino Ornamentale discende da piante di Capsicum coltivate per la prima volta in Messico e America Centrale oltre 6.000 anni fa. I mercanti aztechi lo chiamavano chilli e macinavano i baccelli piccanti per salse e offerte rituali. I giardinieri moderni coltivano varietà ornamentali compatte per i loro frutti, che maturano dal viola al giallo, all'arancione e al rosso — apprezzati per il colore più che per la cucina.",
+        "history_text_long": "Molto prima che gli europei attraversassero l'Atlantico, gli antenati selvatici del Peperoncino Ornamentale crescevano nelle pianure tropicali dell'America Centrale e del Sud America, dove gli uccelli — immuni alla piccante capsaicina — ingoiavano i piccoli frutti interi e spargevano i semi sul terreno della foresta. Gli esseri umani presero una strada diversa: più di 6.000 anni fa, comunità nell'attuale Messico iniziarono a selezionare i frutti più piccanti e colorati, coltivando il Capsicum sia come cibo che come medicina. Al tempo delle civiltà azteca e maya, il chilli (dalla parola nahuatl per la pianta) era intrecciato nella vita quotidiana — macinato in salse, bruciato come fumo rituale per scacciare i nemici, e scambiato nei mercati all'aperto insieme a mais e cacao. Quando Cristoforo Colombo raggiunse i Caraibi nel 1493, scambiò i baccelli piccanti per un parente del pepe nero e portò i semi in Spagna, innescando una delle migrazioni culinarie più rapide della storia. In meno di un secolo, il Capsicum aveva viaggiato con i mercanti fino in India, Cina, Ungheria e Corea, trasformando cucine che non avevano mai conosciuto questo tipo di piccantezza. I giardinieri in seguito apprezzarono un tratto completamente diverso: varietà compatte di Capsicum i cui frutti maturano in un arcobaleno di viola, giallo, arancione e rosso furono selezionate puramente per ornamento, coltivate in vasi e bordure non per essere mangiate, ma semplicemente ammirate — piante che trasformano un patio in un quadro vivente di colore.",
+        "name_origin": "Il nome del genere Capsicum deriva dal latino capsa, che significa «scatola» o «custodia», in riferimento al baccello vuoto e pieno di semi. La parola comune «chili» deriva invece da chilli, il nome nahuatl (azteco) della pianta, diffuso in tutto il mondo dopo lo scambio colombiano.",
+        "symbolism_story": "In gran parte dell'America Latina, il piccante ardente del peperoncino lo ha reso un simbolo popolare di passione, vitalità e protezione. Collane di baccelli rossi secchi, chiamate ristras, sono ancora oggi appese a porte e cucine dal Messico al New Mexico — originariamente per seccare il raccolto, ma da tempo si crede anche che allontanino gli spiriti maligni e portino fortuna alla casa.",
+        "flower_meaning": "Passione",
+        "fragrance": {
+          "notes": "Foglie e frutti rilasciano un leggero profumo pepato ed erbaceo quando vengono schiacciati o tagliati."
+        },
+        "uses_list": [
+          {
+            "text": "Coltivato soprattutto per il portamento compatto e i frutti multicolori, che illuminano vasi, bordure e finestre per mesi."
+          },
+          {
+            "text": "I frutti maturi vengono mangiati e disseminati dagli uccelli, immuni al piccante della capsaicina."
+          },
+          {
+            "text": "I frutti sono comestibili e molto piccanti; alcune varietà ornamentali sono usate come insolita spezia, nonostante siano state selezionate soprattutto per l'aspetto."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Passione",
+            "description": "Il piccante ardente del frutto simboleggia da tempo passione e intensità nella cultura latinoamericana."
+          },
+          {
+            "keyword": "Protezione",
+            "description": "Collane di peperoncini secchi vengono appese in case e mercati, dal Messico al Mediterraneo, per allontanare il male e portare fortuna."
+          }
+        ],
+        "toxicity": {
+          "headline": "Tossicità sconosciuta",
+          "active_compound_display": "Non segnalato",
+          "notes_en": "Nessuna corrispondenza trovata in fonti autorevoli; trattato come non segnalato (la stima dell'IA non è verificata da fonti).",
+          "human": {
+            "exposure": "Nessuna via di esposizione segnalata.",
+            "effect": "Nessun effetto tossico segnalato.",
+            "note": "La tossicità per l'uomo non è ben documentata; agire con cautela fino a conferma."
+          },
+          "dog": {
+            "exposure": "Nessuna via di esposizione segnalata.",
+            "effect": "Nessun effetto tossico segnalato.",
+            "note": "La tossicità per i cani non è ben documentata; agire con cautela fino a conferma."
+          },
+          "cat": {
+            "exposure": "Nessuna via di esposizione segnalata.",
+            "effect": "Nessun effetto tossico segnalato.",
+            "note": "La tossicità per i gatti non è ben documentata; agire con cautela fino a conferma."
           }
         }
       }

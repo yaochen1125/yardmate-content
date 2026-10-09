@@ -3,8 +3,8 @@
   "locale": "pt",
   "source": {
     "resource": "plants_detail.json",
-    "sha256": "2925732c916c51b9c721bd86262cf859bad220cfae84d21132bbe8473a3a3957",
-    "record_count": 1741
+    "sha256": "ef9992f3a3e15e99cd1ec0b310c789ab845299cc8063b2d74ca678a40dceae54",
+    "record_count": 1742
   },
   "records": {
     "AAA0001": {
@@ -106558,6 +106558,63 @@
             "exposure": "Não é relatada nenhuma via de exposição.",
             "effect": "Não é relatado nenhum efeito tóxico.",
             "note": "Não foram encontrados relatos específicos para gatos. Trate todo cogumelo silvestre como potencialmente tóxico para os animais de estimação e contacte um veterinário após qualquer ingestão."
+          }
+        }
+      }
+    },
+    "AAA1743": {
+      "source_hash": "624ef90062d49ac79f5b8b22333235fc7e2d8dea16b3aa6bc7c0615fcc09ec5d",
+      "fields": {
+        "common_name": "Pimenta Ornamental",
+        "fruit_tip": "Os frutos da pimenta têm valor ornamental na jardinagem, exibindo cores vivas.",
+        "description": "A Pimenta Ornamental pertence ao gênero Capsicum, nativo da América Central e do Sul, onde seus parentes silvestres crescem há milhares de anos. Compacta e densa, produz abundantes frutos pequenos que maturam numa sequência marcante de cores — verde, roxo, amarelo, laranja e vermelho — muitas vezes exibindo vários tons ao mesmo tempo na mesma planta. Folhas brilhantes e lanceoladas emolduram cachos de frutos erguidos cuja intensa pungência vem da capsaicina, o composto responsável pela ardência da pimenta. Cultivada em vasos, canteiros ou numa janela ensolarada, recompensa o jardineiro com meses de cor e um leve aroma picante quando as folhas ou frutos são tocados.",
+        "history_text_short": "A Pimenta Ornamental descende de plantas de Capsicum cultivadas pela primeira vez no México e na América Central há mais de 6.000 anos. Comerciantes astecas a chamavam chilli, moendo as vagens ardentes para molhos e oferendas rituais. Jardineiros modernos cultivam variedades ornamentais compactas por seus frutos, que maturam entre roxo, amarelo, laranja e vermelho — valorizados pela cor, não pela culinária.",
+        "history_text_long": "Muito antes de os europeus atravessarem o Atlântico, os ancestrais silvestres da Pimenta Ornamental cresciam nas terras baixas tropicais da América Central e do Sul, onde pássaros — imunes à ardente capsaicina — engoliam os pequenos frutos inteiros e espalhavam as semente pelo solo da floresta. Os humanos seguiram outro caminho: há mais de 6.000 anos, comunidades no atual México começaram a selecionar os frutos mais picantes e coloridos, cultivando o Capsicum tanto como alimento quanto como remédio. Na época em que as civilizações asteca e maia floresciam, o chilli (da palavra náuatle para a planta) estava entrelaçado no cotidiano — moído em molhos, queimado como fumaça ritual para afastar inimigos, e comercializado em mercados a céu aberto junto com milho e cacau. Quando Cristóvão Colombo chegou ao Caribe em 1493, confundiu as vagens ardentes com uma parente da pimenta-do-reino e levou semente para a Espanha, desencadeando uma das migrações culinárias mais rápidas da história. Em menos de um século, o Capsicum havia viajado com comerciantes até a Índia, China, Hungria e Coreia, transformando cozinhas que nunca haviam conhecido esse tipo de ardência. Mais tarde, jardineiros valorizaram uma característica bem diferente: variedades compactas de Capsicum cujos frutos maturam num arco-íris de roxo, amarelo, laranja e vermelho foram selecionadas puramente pelo ornamento, cultivadas em vasos e canteiros não para serem comidas, mas simplesmente admiradas — plantas que transformam um pátio num quadro vivo de cor.",
+        "name_origin": "O nome do gênero Capsicum vem do latim capsa, que significa “caixa” ou “estojo”, referindo-se à vagem oca e repleta de sementes. Já a palavra comum “pimenta” vem de chilli, o nome náuatle (asteca) da planta, que se espalhou pelo mundo após o Intercâmbio Colombiano.",
+        "symbolism_story": "Em boa parte da América Latina, o ardor da pimenta a transformou num símbolo popular de paixão, vitalidade e proteção. Cordões de vagens vermelhas secas, chamados ristras, ainda são pendurados em portas e cozinhas do México ao Novo México — originalmente para secar a colheita, mas também, segundo crença antiga, para afastar espíritos maus e trazer boa sorte ao lar.",
+        "flower_meaning": "Paixão",
+        "fragrance": {
+          "notes": "Folhas e frutos liberam um leve aroma picante e herbáceo quando amassados ou cortados."
+        },
+        "uses_list": [
+          {
+            "text": "Cultivada principalmente pelo porte compacto e pelos frutos multicoloridos, que alegram vasos, canteiros e janelas por meses."
+          },
+          {
+            "text": "Os frutos maduros são comidos e dispersados por pássaros, imunes à ardência da capsaicina."
+          },
+          {
+            "text": "Os frutos são comestíveis e muito ardentes; algumas variedades ornamentais são usadas como condimento curioso, mesmo tendo sido selecionadas principalmente pela aparência."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Paixão",
+            "description": "O ardor do fruto simboliza há muito tempo paixão e intensidade na cultura latino-americana."
+          },
+          {
+            "keyword": "Proteção",
+            "description": "Cordões de pimentas secas são pendurados em casas e mercados, do México ao Mediterrâneo, para afastar o mal e trazer boa sorte."
+          }
+        ],
+        "toxicity": {
+          "headline": "Toxicidade desconhecida",
+          "active_compound_display": "Não relatado",
+          "notes_en": "Nenhuma correspondência encontrada em fontes confiáveis; tratado como não relatado (a estimativa da IA não foi verificada por fontes).",
+          "human": {
+            "exposure": "Nenhuma via de exposição relatada.",
+            "effect": "Nenhum efeito tóxico relatado.",
+            "note": "A toxicidade para humanos não está bem documentada; use cautela até que seja confirmada."
+          },
+          "dog": {
+            "exposure": "Nenhuma via de exposição relatada.",
+            "effect": "Nenhum efeito tóxico relatado.",
+            "note": "A toxicidade para cães não está bem documentada; use cautela até que seja confirmada."
+          },
+          "cat": {
+            "exposure": "Nenhuma via de exposição relatada.",
+            "effect": "Nenhum efeito tóxico relatado.",
+            "note": "A toxicidade para gatos não está bem documentada; use cautela até que seja confirmada."
           }
         }
       }
