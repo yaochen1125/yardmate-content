@@ -103666,7 +103666,7 @@
       }
     },
     "AAA1695": {
-      "source_hash": "0479a1ecb698f63934e5d72b8517362d9b0aa4fb90e78dacc4e0605533fcc7e8",
+      "source_hash": "3600712d17e7e7a7c339cf3262ab9908c8de6fe78f5b072d7d4f73ec36301c5f",
       "fields": {
         "common_name": "Heu-Düngerling",
         "description": "Der Heu-Düngerling ist einer der häufigsten Rasenpilze der Welt und taucht nach einem warmen Regen oder frischem Mähen zu Dutzenden im kurzen Gras auf, was ihm seinen Namen einbrachte. Sein kleiner kegelförmiger Hut öffnet sich glockenförmig und ist hygrophan: Im Laufe des Tages trocknet er von einem satten Rotbraun in der Mitte zu blassem Beige am Rand aus. Die Lamellen reifen ungleichmäßig und wirken dadurch gescheckt und fleckig, bevor sie sich verdunkeln und ein schokoladenbraunes Sporenpulver abgeben. Statt lebende Pflanzen zu befallen, lebt er von verrottendem Grasfilz im Boden und zersetzt still abgestorbenes organisches Material, wodurch er Nährstoffe in den Rasen zurückführt.",
@@ -103683,11 +103683,35 @@
             "keyword": "Vergänglichkeit",
             "description": "Da er über Nacht nach Regen erscheint und innerhalb eines Tages wieder verschwindet, gilt der Heu-Düngerling seit langem als natürliches Sinnbild der Vergänglichkeit – ein kurzer, zarter Lebenszyklus, der unbemerkt in gewöhnlichen Rasenflächen abläuft."
           }
-        ]
+        ],
+        "toxicity": {
+          "headline": "Menschen gering",
+          "active_compound_display": "Unbekannter Wirkstoff",
+          "notes_en": "Die Evidenz ist widersprüchlich. In einer Giftinformationszentrale-Serie von 19 Kindern, die sie gegessen hatten, zeigten 16 keine Symptome; einige Giftnotrufe empfehlen nach jeder Aufnahme durch ein Kind dennoch eine dringende ärztliche Beratung.",
+          "human": {
+            "exposure": "Verzehr eines beliebigen Pflanzenteils.",
+            "effect": "Leichte Bauchbeschwerden und gelegentliche Unruhe bei Kindern.",
+            "note": "Die Evidenz ist widersprüchlich. In einer Giftinformationszentrale-Serie von 19 Kindern, die sie gegessen hatten, zeigten 16 keine Symptome; einige Giftnotrufe empfehlen nach jeder Aufnahme durch ein Kind dennoch eine dringende ärztliche Beratung.",
+            "symptoms": [
+              "Leichte Bauchbeschwerden.",
+              "Gelegentliche Unruhe bei Kindern."
+            ]
+          },
+          "dog": {
+            "exposure": "Es wird kein Expositionsweg berichtet.",
+            "effect": "Es wird keine toxische Wirkung berichtet.",
+            "note": "Es wurden keine artspezifischen Berichte für Hunde gefunden. Behandeln Sie jeden wilden Pilz als potenziell giftig für Haustiere und kontaktieren Sie nach jeder Aufnahme einen Tierarzt."
+          },
+          "cat": {
+            "exposure": "Es wird kein Expositionsweg berichtet.",
+            "effect": "Es wird keine toxische Wirkung berichtet.",
+            "note": "Es wurden keine artspezifischen Berichte für Katzen gefunden. Behandeln Sie jeden wilden Pilz als potenziell giftig für Haustiere und kontaktieren Sie nach jeder Aufnahme einen Tierarzt."
+          }
+        }
       }
     },
     "AAA1696": {
-      "source_hash": "bd3e1d0b89735d29a0fe75a989cd2e4171f727142e68bd8c724c93e8cdaad621",
+      "source_hash": "15efada0d285fe574b4f751c7609f46332d835bf6f6a99f9360c22c6472156be",
       "fields": {
         "common_name": "Wiesenchampignon",
         "history_text_short": "Lange bevor es Pilzzucht gab, sammelten Menschen in Europa und Nordamerika jeden Herbst Wiesenchampignons von regengetränkten Weiden. Seine rosa bis braunen Lamellen sind der klassische Hinweis, der ihn von den tödlichen, weißlamelligen Amanita-Arten unterscheidet, denen er ähneln kann.",
@@ -103707,11 +103731,33 @@
             "keyword": "Wachsamkeit",
             "description": "Seine Ähnlichkeit mit tödlichen Amanita-Pilzen macht ihn zu einer stillen Erinnerung, genau hinzusehen, bevor man dem Schein vertraut."
           }
-        ]
+        ],
+        "toxicity": {
+          "headline": "Keine Toxizität bekannt",
+          "active_compound_display": "Keine bekannt",
+          "notes_en": "Für diese Art selbst wird keine Toxizität berichtet, aber sie ist leicht mit giftigen Doppelgängern zu verwechseln, darunter tödlich giftige weiße Amanita-Arten. Dies ist kein Beweis dafür, dass ein von Ihnen gefundener Pilz sicher zu essen ist.",
+          "human": {
+            "exposure": "Es wird kein Expositionsweg berichtet.",
+            "effect": "Es wird keine toxische Wirkung berichtet.",
+            "note": "Für diese Art selbst wird keine Toxizität berichtet, aber sie ist leicht mit giftigen Doppelgängern zu verwechseln: dem Karbol-Champignon (Agaricus xanthodermus), der Magenverstimmung verursacht, und tödlich giftigen weißen Amanita-Arten (Kegelhüte und weiße Knollenblätterpilze). Dies ist kein Beweis dafür, dass ein von Ihnen gefundener Pilz sicher zu essen ist."
+          },
+          "dog": {
+            "exposure": "Es wird kein Expositionsweg berichtet.",
+            "effect": "Es wird keine toxische Wirkung berichtet.",
+            "note": "Es wurden keine artspezifischen Berichte für Hunde gefunden. Behandeln Sie jeden wilden Pilz als potenziell giftig für Haustiere und kontaktieren Sie nach jeder Aufnahme einen Tierarzt."
+          },
+          "cat": {
+            "exposure": "Es wird kein Expositionsweg berichtet.",
+            "effect": "Es wird keine toxische Wirkung berichtet.",
+            "note": "Es wurden keine artspezifischen Berichte für Katzen gefunden. Behandeln Sie jeden wilden Pilz als potenziell giftig für Haustiere und kontaktieren Sie nach jeder Aufnahme einen Tierarzt."
+          }
+        },
+        "description": "Der Wiesen-Champignon ist ein wild wachsender Pilz, der nach Regen in grasigen Wiesen, Weiden und gut gedüngten Rasenflächen emporschießt, besonders im Spätsommer und Herbst. Sein glatter, weißer bis cremefarbener Hut beginnt rund und flacht mit dem Alter ab; er sitzt auf einem kurzen weißen Stiel mit einem dünnen, zerbrechlichen Ring. Darunter sind die Lamellen zunächst blassrosa und dunkeln mit zunehmender Reife über Schokoladenbraun nach – das sicherste Merkmal, um ihn von den weißlamelligen Amanita-Arten zu unterscheiden, denen er ähneln kann. Er ist ein naher wilder Verwandter des kultivierten Champignons, und ihn von seinen giftigen Doppelgängern zu unterscheiden, erfordert fachkundige Bestimmung.",
+        "fruit_tip": "Fruchtkörper stoßen nach Regen aus dem Boden hervor, von Hochsommer bis Herbst."
       }
     },
     "AAA1697": {
-      "source_hash": "93ea2f03e83463b4d9f886afcbc49bc036b5e62005b4915632a581def56f7c1d",
+      "source_hash": "08b430d6e25ebdef22fa760f32dd7d96946a9e11d9d939ce0473082332cca37a",
       "fields": {
         "common_name": "Gemeiner Hallimasch",
         "history_text_short": "Der Gemeine Hallimasch baut ein verstecktes unterirdisches Netzwerk von solcher Ausdehnung, dass eine Kolonie in einem Wald in Oregon, als 'humongous fungus' bekannt, auf über zweitausend Jahre geschätzt wird und zu den größten je gefundenen Lebewesen zählt -- während sie zugleich langsam eine tödliche Wurzelfäule in genau den Bäumen verursacht, die über ihr wachsen.",
@@ -103730,6 +103776,37 @@
           {
             "keyword": "Geduld",
             "description": "Er breitet sich jahrhundertelang aus und nährt sich, bevor seine Anwesenheit überhaupt bemerkt wird -- ein Sinnbild für stille, langfristige Beharrlichkeit."
+          }
+        ],
+        "toxicity": {
+          "headline": "Menschen gering",
+          "active_compound_display": "Unbekannter Wirkstoff",
+          "notes_en": "Rohe oder unzureichend gegarte Hüte verursachen Magenbeschwerden, manche Menschen reagieren selbst auf gegarte, und es werden Reaktionen mit Alkohol berichtet. Er ähnelt dem tödlichen Gifthäubling (Galerina marginata).",
+          "human": {
+            "exposure": "Verzehr eines beliebigen Pflanzenteils.",
+            "effect": "Magenbeschwerden bei rohem oder unzureichend gegartem Verzehr und Verdauungsbeschwerden bei empfindlichen Personen auch nach dem Garen.",
+            "note": "Rohe oder unzureichend gegarte Hüte verursachen Magenbeschwerden, manche Menschen reagieren selbst auf gegarte, und es werden Reaktionen mit Alkohol berichtet. Er ähnelt dem tödlichen Gifthäubling (Galerina marginata).",
+            "symptoms": [
+              "Magenbeschwerden bei rohem oder unzureichend gegartem Verzehr.",
+              "Verdauungsbeschwerden bei empfindlichen Personen auch nach dem Garen."
+            ]
+          },
+          "dog": {
+            "exposure": "Es wird kein Expositionsweg berichtet.",
+            "effect": "Es wird keine toxische Wirkung berichtet.",
+            "note": "Es wurden keine artspezifischen Berichte für Hunde gefunden. Behandeln Sie jeden wilden Pilz als potenziell giftig für Haustiere und kontaktieren Sie nach jeder Aufnahme einen Tierarzt."
+          },
+          "cat": {
+            "exposure": "Es wird kein Expositionsweg berichtet.",
+            "effect": "Es wird keine toxische Wirkung berichtet.",
+            "note": "Es wurden keine artspezifischen Berichte für Katzen gefunden. Behandeln Sie jeden wilden Pilz als potenziell giftig für Haustiere und kontaktieren Sie nach jeder Aufnahme einen Tierarzt."
+          }
+        },
+        "description": "Der Hallimasch bildet Büschel glatter, honigfarbener Hüte mit blassen Lamellen, die jeden Herbst an der Basis von Baumstämmen, Stümpfen und vergrabenen Wurzeln in den Wäldern der Nordhalbkugel emporwachsen. Unter den sichtbaren Pilzen liegt der eigentliche Körper des Organismus: ein riesiges Netzwerk schwarzer, schnürsenkelartiger Fäden, sogenannter Rhizomorphen, die sich durch Boden und Holz ausbreiten und manchmal Tausende von Bäumen zu einer einzigen verbundenen Kolonie verknüpfen. Dieses Netzwerk dringt langsam in lebende Baumwurzeln ein und verursacht eine zerstörerische Wurzelfäule, die ausgewachsene Bäume über Jahre oder Jahrzehnte schwächen oder abtöten kann. Roher oder unzureichend gegarter Hallimasch verursacht Magenbeschwerden, und er ähnelt stark dem tödlichen Gifthäubling (Galerina marginata).",
+        "fruit_tip": "Im Herbst erscheinen Büschel von Fruchtkörpern an der Basis von Stämmen und Stümpfen.",
+        "uses_list": [
+          {
+            "text": "Als Zersetzer baut er totes Holz ab und führt Nährstoffe in den Waldboden zurück, auch wenn seine Infektionen lebender Bäume Forstwirte beunruhigen."
           }
         ]
       }
@@ -103810,7 +103887,7 @@
       }
     },
     "AAA1699": {
-      "source_hash": "3afa9da8353590bbed633a5a270ca6b603f562fcc9d45f4100b04e35d87896ae",
+      "source_hash": "1426c780c7c415e40c5f8821420e1dab772929a2c20331124bdbff728879a579",
       "fields": {
         "common_name": "Ölbaumtrichterling",
         "description": "Der Ölbaumtrichterling bildet dichte, sich überlappende Büschel aus glatten, trichterförmigen Hüten in kräftigem Orange, die direkt aus vergrabenen Wurzeln und verrottenden Stümpfen von Laubbäumen wachsen, besonders Eichen und Oliven. Seine dicht stehenden Lamellen laufen am sich verjüngenden Stiel herab und leuchten, bemerkenswerterweise, im völligen Dunkeln schwach grün -- eine Eigenschaft, die auf natürliche biolumineszente Verbindungen im Fleisch zurückgeht. Der Pilz ist in Herbstwäldern Europas und des östlichen Nordamerikas häufig anzutreffen und wird oft mit essbaren Pfifferlingen verwechselt, ist jedoch nicht essbar und verursacht beim Verzehr erhebliche Magen-Darm-Beschwerden.",
@@ -103823,9 +103900,6 @@
           "notes": "Hat keinen auffälligen Duft, abgesehen von einem schwachen, unauffälligen Pilzgeruch."
         },
         "uses_list": [
-          {
-            "text": "Aus dem Fleisch dieses Pilzes isolierte Illudine werden von Pharmaforschern als Grundlage für experimentelle Krebsmedikamente untersucht."
-          },
           {
             "text": "Als holzzersetzender Pilz baut er abgestorbene Laubholzstümpfe und -wurzeln ab und führt Nährstoffe zurück in den Waldboden."
           },
@@ -103842,7 +103916,35 @@
             "keyword": "Verborgenes Licht",
             "description": "Seine Lamellen leuchten in völliger Dunkelheit schwach -- eine stille Erinnerung daran, dass Licht aus den unerwartetsten, unauffälligsten Orten kommen kann."
           }
-        ]
+        ],
+        "toxicity": {
+          "headline": "Menschen Mäßig",
+          "active_compound_display": "Illudin S und Illudin M",
+          "notes_en": "Enthält Illudin S und Illudin M. Die Symptome beginnen 1 bis 3 Stunden nach dem Verzehr und die meisten Menschen erholen sich innerhalb von 12 Stunden. Wird oft mit essbaren Pfifferlingen verwechselt.",
+          "human": {
+            "exposure": "Verzehr eines beliebigen Teils der Pflanze.",
+            "effect": "Übelkeit, Erbrechen, Bauchschmerzen, Kopfschmerzen, Schwäche und Erschöpfung sowie Durchfall.",
+            "note": "Enthält Illudin S und Illudin M. Die Symptome beginnen 1 bis 3 Stunden nach dem Verzehr und die meisten Menschen erholen sich innerhalb von 12 Stunden. Wird oft mit essbaren Pfifferlingen verwechselt.",
+            "symptoms": [
+              "Übelkeit.",
+              "Erbrechen.",
+              "Bauchschmerzen.",
+              "Kopfschmerzen.",
+              "Schwäche und Erschöpfung.",
+              "Durchfall."
+            ]
+          },
+          "dog": {
+            "exposure": "Es wird kein Expositionsweg berichtet.",
+            "effect": "Es wird keine toxische Wirkung berichtet.",
+            "note": "Es wurden keine artspezifischen Berichte für Hunde gefunden. Behandeln Sie jeden wild wachsenden Pilz als potenziell giftig für Haustiere und kontaktieren Sie nach jeder Aufnahme einen Tierarzt."
+          },
+          "cat": {
+            "exposure": "Es wird kein Expositionsweg berichtet.",
+            "effect": "Es wird keine toxische Wirkung berichtet.",
+            "note": "Es wurden keine artspezifischen Berichte für Katzen gefunden. Behandeln Sie jeden wild wachsenden Pilz als potenziell giftig für Haustiere und kontaktieren Sie nach jeder Aufnahme einen Tierarzt."
+          }
+        }
       }
     },
     "AAA1700": {
@@ -104290,7 +104392,7 @@
       }
     },
     "AAA1707": {
-      "source_hash": "d6cfbb0f84cb0914cb19482d347cb053b6ba1b3b7ae182d5937c9be846a8c702",
+      "source_hash": "06586405e9069dee358b725bf93be226ae0c2529cbafe2996c28c1e7c1148a38",
       "fields": {
         "common_name": "Fliegenpilz",
         "fruit_tip": "Dieser Pilz bildet seine unverwechselbaren roten, weißgetupften Fruchtkörper am Fuß von Birken, Kiefern und Fichten von Spätsommer bis Herbst.",
@@ -104317,7 +104419,40 @@
             "keyword": "Veränderte Wahrnehmung",
             "description": "seine psychoaktiven Verbindungen haben ihn seit langem mit rituellen und visionären Traditionen verbunden, vor allem in sibirischen schamanischen Praktiken."
           }
-        ]
+        ],
+        "toxicity": {
+          "headline": "Menschen Giftig · Haustiere Schwer",
+          "active_compound_display": "Ibotensäure und Muscimol",
+          "notes_en": "Enthält Ibotensäure und Muscimol. Die Symptome beginnen 30 Minuten bis 2 Stunden nach dem Verzehr und halten mehrere Stunden an. Todesfälle beim Menschen sind sehr selten, doch Hunde und insbesondere Katzen können sterben.",
+          "human": {
+            "exposure": "Verzehr jeglicher Pflanzenteile.",
+            "effect": "Übelkeit und Erbrechen, Verwirrung und Sehstörungen, Delirium, Krämpfe sowie Schläfrigkeit oder ein komaähnlicher Schlaf.",
+            "note": "Enthält Ibotensäure und Muscimol. Die Symptome beginnen 30 Minuten bis 2 Stunden nach dem Verzehr und halten mehrere Stunden an. Todesfälle beim Menschen sind sehr selten, doch Hunde und insbesondere Katzen können sterben.",
+            "symptoms": [
+              "Übelkeit und Erbrechen.",
+              "Verwirrung und Sehstörungen.",
+              "Delirium.",
+              "Krämpfe.",
+              "Schläfrigkeit oder ein komaähnlicher Schlaf."
+            ]
+          },
+          "dog": {
+            "exposure": "Verzehr jeglicher Pflanzenteile.",
+            "effect": "Tiefschlafähnlicher Zustand innerhalb von Stunden nach dem Verzehr.",
+            "note": "Kann in seltenen Fällen tödlich verlaufen; die meisten Hunde erholen sich innerhalb von 6 bis 72 Stunden. Kontaktieren Sie sofort einen Tierarzt.",
+            "symptoms": [
+              "Tiefschlafähnlicher Zustand innerhalb von Stunden nach dem Verzehr."
+            ]
+          },
+          "cat": {
+            "exposure": "Verzehr jeglicher Pflanzenteile.",
+            "effect": "Potenziell tödliche Vergiftung.",
+            "note": "Katzen werden von getrockneten Exemplaren angezogen, manchmal mit tödlichem Ausgang. Kontaktieren Sie sofort einen Tierarzt.",
+            "symptoms": [
+              "Potenziell tödliche Vergiftung."
+            ]
+          }
+        }
       }
     },
     "AAA1708": {
@@ -105130,7 +105265,7 @@
       }
     },
     "AAA1720": {
-      "source_hash": "b81d24b53c48c351f3f85a366e6543cf4874e18215a3aa48bf6cd77c159f019b",
+      "source_hash": "4e2c971ba7389b9476f3fb7f503c91baabf7391ee3f585d8e02729a51fedd03c",
       "fields": {
         "common_name": "Östlicher Ölbaumtrichterling",
         "fruit_tip": "Dieser Pilz bildet im Spätsommer und Herbst dichte Büschel leuchtend orangefarbener, trichterförmiger Fruchtkörper am Fuß von Laubbäumen und Baumstümpfen.",
@@ -105143,9 +105278,6 @@
         "uses_list": [
           {
             "text": "Baut totes und absterbendes Laubholz ab und spielt als saprotropher Pilz eine Rolle beim Nährstoffkreislauf in Waldökosystemen."
-          },
-          {
-            "text": "Seine Illudin-Verbindungen wurden in der pharmazeutischen Forschung als Grundlage für Irofulven untersucht, einen experimentellen Krebsmedikament-Kandidaten."
           }
         ],
         "symbolism_list": [
@@ -105157,7 +105289,35 @@
             "keyword": "Geheimnis",
             "description": "sein schwaches biolumineszentes Leuchten in völliger Dunkelheit hat lange Zeit Folklore über geisterhafte Lichter im nächtlichen Wald genährt."
           }
-        ]
+        ],
+        "toxicity": {
+          "headline": "Menschen Mäßig",
+          "active_compound_display": "Illudin S und Illudin M",
+          "notes_en": "Enthält Illudin S und Illudin M. Die Symptome beginnen 1 bis 3 Stunden nach dem Verzehr und die meisten Menschen erholen sich innerhalb von 12 Stunden. Wird oft mit essbaren Pfifferlingen verwechselt.",
+          "human": {
+            "exposure": "Verzehr eines beliebigen Pflanzenteils.",
+            "effect": "Übelkeit, Erbrechen, Bauchschmerzen, Kopfschmerzen, Schwäche und Erschöpfung sowie Durchfall.",
+            "note": "Enthält Illudin S und Illudin M. Die Symptome beginnen 1 bis 3 Stunden nach dem Verzehr und die meisten Menschen erholen sich innerhalb von 12 Stunden. Wird oft mit essbaren Pfifferlingen verwechselt.",
+            "symptoms": [
+              "Übelkeit.",
+              "Erbrechen.",
+              "Bauchschmerzen.",
+              "Kopfschmerzen.",
+              "Schwäche und Erschöpfung.",
+              "Durchfall."
+            ]
+          },
+          "dog": {
+            "exposure": "Es wird kein Expositionsweg berichtet.",
+            "effect": "Es wird keine toxische Wirkung berichtet.",
+            "note": "Es wurden keine artspezifischen Berichte für Hunde gefunden. Behandeln Sie jeden wilden Pilz als potenziell giftig für Haustiere und kontaktieren Sie nach jeder Aufnahme einen Tierarzt."
+          },
+          "cat": {
+            "exposure": "Es wird kein Expositionsweg berichtet.",
+            "effect": "Es wird keine toxische Wirkung berichtet.",
+            "note": "Es wurden keine artspezifischen Berichte für Katzen gefunden. Behandeln Sie jeden wilden Pilz als potenziell giftig für Haustiere und kontaktieren Sie nach jeder Aufnahme einen Tierarzt."
+          }
+        }
       }
     },
     "AAA1721": {
@@ -106337,7 +106497,7 @@
       }
     },
     "AAA1742": {
-      "source_hash": "064fce9661f333c3ec47add096b7c8418e984102468a56a8071328e6e18210a1",
+      "source_hash": "30ea3f2d6e68a2d6c0d00ff1f1fe250ba772b288796edae24eb8b41604e0a630",
       "fields": {
         "common_name": "Spei-Täubling",
         "description": "Der Spei-Täubling ist ein auffällig rot gekappter Pilz, der häufig unter Kiefern und anderen Nadelbäumen in Nordamerika und Europa vorkommt. Sein glänzender, kirsch- bis karminroter Hut, oft fünf bis acht Zentimeter breit, verblasst nach Regen zu fleckigem Rosa oder Weiß und sitzt auf einem schlanken weißen Stiel mit dicht stehenden weißen Lamellen. Er wächst aus feuchtem, nadelstreubedecktem Boden in einer mykorrhizalen Partnerschaft mit seinen Wirtsbäumen und tauscht Zucker gegen Wasser und Mineralien, die tief aus dem Boden geholt werden. Trotz seiner fröhlichen Farbe schmeckt das rohe Fleisch intensiv scharf und beißend – ein Biss, der binnen Sekunden auf der Zunge einsetzt und sowohl seinem wissenschaftlichen als auch seinem deutschen Namen zugrunde liegt, und der Grund, warum Pilzsammler lernen, ihn vorsichtig zu probieren statt ihn zu kochen.",
@@ -106359,7 +106519,33 @@
             "keyword": "Warnung",
             "description": "Seine stechend leuchtende Karminkappe wirkt wie ein natürliches Warnschild – ein optisches Signal, das Generationen von Pilzsammlern gelernt haben, mit Vorsicht statt mit Appetit zu lesen."
           }
-        ]
+        ],
+        "toxicity": {
+          "headline": "Menschen Mäßig",
+          "active_compound_display": "Unbekannter Wirkstoff",
+          "notes_en": "Die Symptome beginnen 30 Minuten bis 3 Stunden nach dem Verzehr roher oder unzureichend gegarter Hüte und klingen meist von selbst ab. Die Toxine wurden nicht identifiziert.",
+          "human": {
+            "exposure": "Verzehr eines beliebigen Pflanzenteils.",
+            "effect": "Übelkeit, Erbrechen, kolikartige Bauchkrämpfe und Durchfall.",
+            "note": "Die Symptome beginnen 30 Minuten bis 3 Stunden nach dem Verzehr roher oder unzureichend gegarter Hüte und klingen meist von selbst ab. Die Toxine wurden nicht identifiziert.",
+            "symptoms": [
+              "Übelkeit.",
+              "Erbrechen.",
+              "Kolikartige Bauchkrämpfe.",
+              "Durchfall."
+            ]
+          },
+          "dog": {
+            "exposure": "Es wird kein Expositionsweg berichtet.",
+            "effect": "Es wird keine toxische Wirkung berichtet.",
+            "note": "Es wurden keine artspezifischen Berichte für Hunde gefunden. Behandeln Sie jeden wild wachsenden Pilz als potenziell giftig für Haustiere und kontaktieren Sie nach jeder Aufnahme einen Tierarzt."
+          },
+          "cat": {
+            "exposure": "Es wird kein Expositionsweg berichtet.",
+            "effect": "Es wird keine toxische Wirkung berichtet.",
+            "note": "Es wurden keine artspezifischen Berichte für Katzen gefunden. Behandeln Sie jeden wild wachsenden Pilz als potenziell giftig für Haustiere und kontaktieren Sie nach jeder Aufnahme einen Tierarzt."
+          }
+        }
       }
     }
   }

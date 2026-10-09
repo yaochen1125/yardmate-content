@@ -103680,7 +103680,7 @@
       }
     },
     "AAA1695": {
-      "source_hash": "0479a1ecb698f63934e5d72b8517362d9b0aa4fb90e78dacc4e0605533fcc7e8",
+      "source_hash": "3600712d17e7e7a7c339cf3262ab9908c8de6fe78f5b072d7d4f73ec36301c5f",
       "fields": {
         "common_name": "Panaeolina del heno",
         "description": "El Panaeolina del heno es uno de los hongos de césped más comunes del mundo, y brota por docenas en la hierba corta tras una lluvia cálida o un corte de césped reciente, de ahí su nombre en inglés. Su pequeño sombrero cónico se abre en forma de campana y es higrófano: a lo largo del día se seca, pasando de un rojizo-marrón intenso en el centro a un beige pálido en el borde. Sus láminas maduran de forma desigual, dándoles un aspecto moteado y manchado antes de oscurecerse y liberar una esporada marrón chocolate. En lugar de alimentarse de plantas vivas, vive de la paja de césped en descomposición enterrada en el suelo, descomponiendo silenciosamente materia orgánica muerta y reciclando nutrientes de vuelta al césped.",
@@ -103697,11 +103697,35 @@
             "keyword": "Fugacidad",
             "description": "Al aparecer de la noche a la mañana tras la lluvia y desvanecerse de nuevo en un solo día, el Panaeolina del heno lleva mucho tiempo siendo un emblema natural de lo efímero: un ciclo de vida breve y delicado que transcurre inadvertido en céspedes corrientes."
           }
-        ]
+        ],
+        "toxicity": {
+          "headline": "Humanos Leve",
+          "active_compound_display": "Principio tóxico desconocido",
+          "notes_en": "La evidencia es contradictoria. En una serie de un centro de toxicología con 19 niños que la ingirieron, 16 no presentaron síntomas; algunos servicios de toxicología aún recomiendan consulta médica urgente tras cualquier ingestión por parte de un niño.",
+          "human": {
+            "exposure": "Ingerir cualquier parte de la planta.",
+            "effect": "Molestias abdominales leves e inquietud ocasional en niños.",
+            "note": "La evidencia es contradictoria. En una serie de un centro de toxicología con 19 niños que la ingirieron, 16 no presentaron síntomas; algunos servicios de toxicología aún recomiendan consulta médica urgente tras cualquier ingestión por parte de un niño.",
+            "symptoms": [
+              "Molestias abdominales leves.",
+              "Inquietud ocasional en niños."
+            ]
+          },
+          "dog": {
+            "exposure": "No se reporta ninguna vía de exposición.",
+            "effect": "No se reporta ningún efecto tóxico.",
+            "note": "No se encontraron reportes específicos para perros. Trata todo hongo silvestre como potencialmente tóxico para las mascotas y contacta a un veterinario tras cualquier ingestión."
+          },
+          "cat": {
+            "exposure": "No se reporta ninguna vía de exposición.",
+            "effect": "No se reporta ningún efecto tóxico.",
+            "note": "No se encontraron reportes específicos para gatos. Trata todo hongo silvestre como potencialmente tóxico para las mascotas y contacta a un veterinario tras cualquier ingestión."
+          }
+        }
       }
     },
     "AAA1696": {
-      "source_hash": "bd3e1d0b89735d29a0fe75a989cd2e4171f727142e68bd8c724c93e8cdaad621",
+      "source_hash": "15efada0d285fe574b4f751c7609f46332d835bf6f6a99f9360c22c6472156be",
       "fields": {
         "common_name": "Champiñón silvestre",
         "history_text_short": "Mucho antes de que existiera el cultivo de hongos, los recolectores de Europa y Norteamérica recogían el Champiñón silvestre de los pastizales empapados de lluvia cada otoño. Sus láminas de color rosa a marrón son la pista clásica que lo distingue de las Amanitas mortales de láminas blancas a las que puede parecerse.",
@@ -103721,11 +103745,33 @@
             "keyword": "Vigilancia",
             "description": "Su parecido con las mortales setas Amanita lo convierte en un recordatorio silencioso de mirar de cerca antes de confiar en las apariencias."
           }
-        ]
+        ],
+        "toxicity": {
+          "headline": "No se reportó toxicidad",
+          "active_compound_display": "Ninguno reportado",
+          "notes_en": "No se reporta toxicidad para esta especie en sí, pero se confunde fácilmente con sosias tóxicas, incluidas las mortales especies blancas de Amanita. Esto no es evidencia de que un hongo que hayas encontrado sea seguro para comer.",
+          "human": {
+            "exposure": "No se reporta ninguna vía de exposición.",
+            "effect": "No se reporta ningún efecto tóxico.",
+            "note": "No se reporta toxicidad para esta especie en sí, pero se confunde fácilmente con sosias tóxicas: el amarilleador (Agaricus xanthodermus), que provoca malestar estomacal, y las mortales especies blancas de Amanita (ángeles destructores y oronjas blancas). Esto no es evidencia de que un hongo que hayas encontrado sea seguro para comer."
+          },
+          "dog": {
+            "exposure": "No se reporta ninguna vía de exposición.",
+            "effect": "No se reporta ningún efecto tóxico.",
+            "note": "No se encontraron reportes específicos de la especie para perros. Trata todo hongo silvestre como potencialmente tóxico para las mascotas y contacta a un veterinario tras cualquier ingestión."
+          },
+          "cat": {
+            "exposure": "No se reporta ninguna vía de exposición.",
+            "effect": "No se reporta ningún efecto tóxico.",
+            "note": "No se encontraron reportes específicos de la especie para gatos. Trata todo hongo silvestre como potencialmente tóxico para las mascotas y contacta a un veterinario tras cualquier ingestión."
+          }
+        },
+        "description": "El champiñón silvestre es un hongo salvaje que brota en praderas herbosas, pastizales y céspedes bien fertilizados tras la lluvia, sobre todo a finales del verano y en otoño. Su sombrero liso, de blanco a crema, empieza redondeado y se aplana con la edad, sobre un pie corto y blanco con un anillo fino y frágil. Debajo, las láminas comienzan de color rosa pálido y se oscurecen hasta el marrón chocolate a medida que el hongo madura, la forma más clara de distinguirlo de las especies de Amanita de láminas blancas a las que puede parecerse. Es un pariente silvestre cercano del champiñón cultivado, y distinguirlo de sus sosias tóxicas requiere identificación experta.",
+        "fruit_tip": "Los cuerpos fructíferos emergen del suelo tras la lluvia, desde mediados del verano hasta el otoño."
       }
     },
     "AAA1697": {
-      "source_hash": "93ea2f03e83463b4d9f886afcbc49bc036b5e62005b4915632a581def56f7c1d",
+      "source_hash": "08b430d6e25ebdef22fa760f32dd7d96946a9e11d9d939ce0473082332cca37a",
       "fields": {
         "common_name": "Seta de miel",
         "history_text_short": "La seta de miel construye una red subterránea tan vasta que una colonia en un bosque de Oregón, apodada el 'hongo humongo,' se estima que tiene más de dos mil años y es uno de los organismos vivos más grandes jamás encontrados, todo mientras causa lentamente una podredumbre radicular mortal en los mismos árboles que crecen sobre ella.",
@@ -103744,6 +103790,37 @@
           {
             "keyword": "Paciencia",
             "description": "Se extiende y se alimenta durante siglos antes de que su presencia sea notada, representando una perseverancia silenciosa y a largo plazo."
+          }
+        ],
+        "toxicity": {
+          "headline": "Humanos Leve",
+          "active_compound_display": "Principio tóxico desconocido",
+          "notes_en": "Los sombreros crudos o poco cocidos causan malestar estomacal, algunas personas reaccionan incluso a los cocidos, y se reportan reacciones con alcohol. Se parece a la mortal Galerina marginata.",
+          "human": {
+            "exposure": "Comer cualquier parte de la planta.",
+            "effect": "Malestar estomacal al consumirse crudo o poco cocido y malestar digestivo en personas sensibles incluso cuando está cocido.",
+            "note": "Los sombreros crudos o poco cocidos causan malestar estomacal, algunas personas reaccionan incluso a los cocidos, y se reportan reacciones con alcohol. Se parece a la mortal Galerina marginata.",
+            "symptoms": [
+              "Malestar estomacal al consumirse crudo o poco cocido.",
+              "Malestar digestivo en personas sensibles incluso cuando está cocido."
+            ]
+          },
+          "dog": {
+            "exposure": "No se reporta ninguna vía de exposición.",
+            "effect": "No se reporta ningún efecto tóxico.",
+            "note": "No se encontraron reportes específicos de la especie para perros. Trate toda seta silvestre como potencialmente tóxica para las mascotas y contacte a un veterinario tras cualquier ingestión."
+          },
+          "cat": {
+            "exposure": "No se reporta ninguna vía de exposición.",
+            "effect": "No se reporta ningún efecto tóxico.",
+            "note": "No se encontraron reportes específicos de la especie para gatos. Trate toda seta silvestre como potencialmente tóxica para las mascotas y contacte a un veterinario tras cualquier ingestión."
+          }
+        },
+        "description": "El hongo de la miel forma grupos de sombreros lisos de color miel con láminas pálidas, que brotan cada otoño desde la base de troncos de árboles, tocones y raíces enterradas en los bosques del hemisferio norte. Bajo las setas visibles yace el verdadero cuerpo del organismo: una vasta red de filamentos negros similares a cordones de botas llamados rizomorfos que se extienden por el suelo y la madera, a veces conectando miles de árboles en una sola colonia interconectada. Esta red invade lentamente las raíces de árboles vivos, causando una destructiva pudrición radicular que puede debilitar o matar árboles maduros a lo largo de años o décadas. El hongo de la miel crudo o poco cocido causa malestar estomacal, y se parece mucho a la mortal Galerina marginata.",
+        "fruit_tip": "Los grupos de cuerpos fructíferos aparecen en otoño en la base de troncos y tocones.",
+        "uses_list": [
+          {
+            "text": "Como descomponedor, descompone la madera muerta y recicla los nutrientes de vuelta al suelo del bosque, incluso mientras sus infecciones de árboles vivos preocupan a los silvicultores."
           }
         ]
       }
@@ -103824,7 +103901,7 @@
       }
     },
     "AAA1699": {
-      "source_hash": "3afa9da8353590bbed633a5a270ca6b603f562fcc9d45f4100b04e35d87896ae",
+      "source_hash": "1426c780c7c415e40c5f8821420e1dab772929a2c20331124bdbff728879a579",
       "fields": {
         "common_name": "Hongo fantasma",
         "description": "El hongo fantasma forma racimos densos y superpuestos de sombreros lisos y acampanados de un naranja intenso, que crecen directamente sobre raíces enterradas y tocones en descomposición de árboles de madera dura, especialmente robles y olivos. Sus láminas apretadas descienden por un pie que se afina y, de forma notable, emiten un leve brillo verdoso en la oscuridad total, un rasgo producido por compuestos bioluminiscentes naturales presentes en su carne. Frecuente entre la hojarasca de los bosques otoñales de Europa y el este de Norteamérica, suele confundirse con el comestible rebozuelo, aunque no es comestible y provoca molestias digestivas importantes si se consume.",
@@ -103837,9 +103914,6 @@
           "notes": "No tiene una fragancia distintiva más allá de un leve e indistinto olor a hongo."
         },
         "uses_list": [
-          {
-            "text": "Compuestos llamados iludinas, aislados de la carne de este hongo, han sido estudiados por investigadores farmacéuticos como base de fármacos anticancerígenos experimentales."
-          },
           {
             "text": "Como hongo descomponedor de madera, degrada tocones y raíces muertas de árboles de madera dura, reciclando nutrientes de vuelta al suelo del bosque."
           },
@@ -103856,7 +103930,35 @@
             "keyword": "Luz oculta",
             "description": "Sus láminas brillan tenuemente en la oscuridad total, un recordatorio discreto de que la luz puede surgir de los lugares más inesperados y discretos."
           }
-        ]
+        ],
+        "toxicity": {
+          "headline": "Humanos Moderado",
+          "active_compound_display": "illudin S e illudin M",
+          "notes_en": "Contiene illudin S e illudin M. Los síntomas comienzan de 1 a 3 horas después de comer y la mayoría de las personas se recupera en 12 horas. A menudo se confunde con rebozuelos comestibles.",
+          "human": {
+            "exposure": "Comer cualquier parte de la planta.",
+            "effect": "Náuseas, vómitos, dolor abdominal, dolor de cabeza, debilidad y agotamiento, y diarrea.",
+            "note": "Contiene illudin S e illudin M. Los síntomas comienzan de 1 a 3 horas después de comer y la mayoría de las personas se recupera en 12 horas. A menudo se confunde con rebozuelos comestibles.",
+            "symptoms": [
+              "Náuseas.",
+              "Vómitos.",
+              "Dolor abdominal.",
+              "Dolor de cabeza.",
+              "Debilidad y agotamiento.",
+              "Diarrea."
+            ]
+          },
+          "dog": {
+            "exposure": "No se reporta ninguna vía de exposición.",
+            "effect": "No se reporta ningún efecto tóxico.",
+            "note": "No se encontraron reportes específicos para perros. Trata todo hongo silvestre como potencialmente tóxico para las mascotas y contacta a un veterinario tras cualquier ingestión."
+          },
+          "cat": {
+            "exposure": "No se reporta ninguna vía de exposición.",
+            "effect": "No se reporta ningún efecto tóxico.",
+            "note": "No se encontraron reportes específicos para gatos. Trata todo hongo silvestre como potencialmente tóxico para las mascotas y contacta a un veterinario tras cualquier ingestión."
+          }
+        }
       }
     },
     "AAA1700": {
@@ -104304,7 +104406,7 @@
       }
     },
     "AAA1707": {
-      "source_hash": "d6cfbb0f84cb0914cb19482d347cb053b6ba1b3b7ae182d5937c9be846a8c702",
+      "source_hash": "06586405e9069dee358b725bf93be226ae0c2529cbafe2996c28c1e7c1148a38",
       "fields": {
         "common_name": "Matamoscas",
         "fruit_tip": "Este hongo produce sus icónicos cuerpos fructíferos rojos con manchas blancas en la base de abedules, pinos y abetos desde finales del verano hasta el otoño.",
@@ -104331,7 +104433,40 @@
             "keyword": "Percepción alterada",
             "description": "sus compuestos psicoactivos lo han vinculado desde hace tiempo a tradiciones rituales y visionarias, sobre todo en las prácticas chamánicas siberianas."
           }
-        ]
+        ],
+        "toxicity": {
+          "headline": "Humanos Tóxico · Mascotas Grave",
+          "active_compound_display": "ácido iboténico y muscimol",
+          "notes_en": "Contiene ácido iboténico y muscimol. Los síntomas comienzan entre 30 minutos y 2 horas después de la ingestión y duran varias horas. Las muertes en humanos son muy raras, pero los perros y, sobre todo, los gatos pueden morir.",
+          "human": {
+            "exposure": "Ingerir cualquier parte de la planta.",
+            "effect": "Náuseas y vómitos, confusión y distorsión visual, delirio, convulsiones y somnolencia o un sueño similar a un coma.",
+            "note": "Contiene ácido iboténico y muscimol. Los síntomas comienzan entre 30 minutos y 2 horas después de la ingestión y duran varias horas. Las muertes en humanos son muy raras, pero los perros y, sobre todo, los gatos pueden morir.",
+            "symptoms": [
+              "Náuseas y vómitos.",
+              "Confusión y distorsión visual.",
+              "Delirio.",
+              "Convulsiones.",
+              "Somnolencia o un sueño similar a un coma."
+            ]
+          },
+          "dog": {
+            "exposure": "Ingerir cualquier parte de la planta.",
+            "effect": "Sueño profundo similar a un coma en pocas horas tras la ingestión.",
+            "note": "Puede ser mortal en casos raros; la mayoría de los perros se recuperan en 6 a 72 horas. Contacta de inmediato con un veterinario.",
+            "symptoms": [
+              "Sueño profundo similar a un coma en pocas horas tras la ingestión."
+            ]
+          },
+          "cat": {
+            "exposure": "Ingerir cualquier parte de la planta.",
+            "effect": "Intoxicación potencialmente mortal.",
+            "note": "Los gatos se sienten atraídos por los especímenes secos, a veces con resultados letales. Contacta de inmediato con un veterinario.",
+            "symptoms": [
+              "Intoxicación potencialmente mortal."
+            ]
+          }
+        }
       }
     },
     "AAA1708": {
@@ -105144,7 +105279,7 @@
       }
     },
     "AAA1720": {
-      "source_hash": "b81d24b53c48c351f3f85a366e6543cf4874e18215a3aa48bf6cd77c159f019b",
+      "source_hash": "4e2c971ba7389b9476f3fb7f503c91baabf7391ee3f585d8e02729a51fedd03c",
       "fields": {
         "common_name": "Hongo Linterna de Halloween",
         "fruit_tip": "Este hongo produce densos racimos de cuerpos fructíferos de color naranja brillante y forma de embudo en la base de árboles de madera dura y tocones durante el verano tardío y el otoño.",
@@ -105157,9 +105292,6 @@
         "uses_list": [
           {
             "text": "Descompone madera dura muerta y moribunda, desempeñando un papel como hongo saprótrofo que recicla nutrientes en los ecosistemas forestales."
-          },
-          {
-            "text": "Sus compuestos illudina han sido estudiados en investigación farmacéutica como base del irofulven, un candidato experimental a fármaco contra el cáncer."
           }
         ],
         "symbolism_list": [
@@ -105171,7 +105303,35 @@
             "keyword": "Misterio",
             "description": "su tenue brillo bioluminiscente en completa oscuridad ha alimentado durante mucho tiempo el folclore sobre luces fantasmales que brillan en el bosque por la noche."
           }
-        ]
+        ],
+        "toxicity": {
+          "headline": "Humanos Moderado",
+          "active_compound_display": "illudina S e illudina M",
+          "notes_en": "Contiene illudina S e illudina M. Los síntomas comienzan de 1 a 3 horas después de comer y la mayoría de las personas se recupera en 12 horas. A menudo se confunde con rebozuelos comestibles.",
+          "human": {
+            "exposure": "Comer cualquier parte de la planta.",
+            "effect": "Náuseas, vómitos, dolor abdominal, dolor de cabeza, debilidad y agotamiento, y diarrea.",
+            "note": "Contiene illudina S e illudina M. Los síntomas comienzan de 1 a 3 horas después de comer y la mayoría de las personas se recupera en 12 horas. A menudo se confunde con rebozuelos comestibles.",
+            "symptoms": [
+              "Náuseas.",
+              "Vómitos.",
+              "Dolor abdominal.",
+              "Dolor de cabeza.",
+              "Debilidad y agotamiento.",
+              "Diarrea."
+            ]
+          },
+          "dog": {
+            "exposure": "No se reporta ninguna vía de exposición.",
+            "effect": "No se reporta ningún efecto tóxico.",
+            "note": "No se encontraron reportes específicos para perros. Trata todo hongo silvestre como potencialmente tóxico para las mascotas y contacta a un veterinario tras cualquier ingestión."
+          },
+          "cat": {
+            "exposure": "No se reporta ninguna vía de exposición.",
+            "effect": "No se reporta ningún efecto tóxico.",
+            "note": "No se encontraron reportes específicos para gatos. Trata todo hongo silvestre como potencialmente tóxico para las mascotas y contacta a un veterinario tras cualquier ingestión."
+          }
+        }
       }
     },
     "AAA1721": {
@@ -106351,7 +106511,7 @@
       }
     },
     "AAA1742": {
-      "source_hash": "064fce9661f333c3ec47add096b7c8418e984102468a56a8071328e6e18210a1",
+      "source_hash": "30ea3f2d6e68a2d6c0d00ff1f1fe250ba772b288796edae24eb8b41604e0a630",
       "fields": {
         "common_name": "Rúsula emética",
         "description": "La Rúsula emética es un hongo de sombrero rojo vivo, común bajo pinos y otras coníferas en Norteamérica y Europa. Su sombrero brillante, de rojo cereza a carmesí, a menudo de cinco a ocho centímetros de ancho, se desvanece tras la lluvia hacia manchas rosadas o blancas, y se alza sobre un pie blanco y esbelto con láminas blancas muy juntas. Crece en suelo húmedo cubierto de hojarasca de aguja en una asociación micorrícica con sus árboles hospedadores, intercambiando azúcares por agua y minerales extraídos de las profundidades del suelo. A pesar de su color alegre, la carne cruda tiene un sabor intensamente picante y acre que se desarrolla en segundos sobre la lengua, la pista detrás de su nombre científico, y la razón por la que los recolectores aprenden a probarla con cautela en lugar de cocinarla.",
@@ -106373,7 +106533,33 @@
             "keyword": "Advertencia",
             "description": "Su intenso sombrero carmesí funciona como una señal de peligro propia de la naturaleza, una pista visual que generaciones de recolectores han aprendido a leer con cautela en lugar de apetito."
           }
-        ]
+        ],
+        "toxicity": {
+          "headline": "Humanos Moderado",
+          "active_compound_display": "Principio tóxico desconocido",
+          "notes_en": "Los síntomas comienzan entre 30 minutos y 3 horas después de comer sombreros crudos o poco cocinados y suelen remitir por sí solos. No se han identificado las toxinas.",
+          "human": {
+            "exposure": "Ingerir cualquier parte de la planta.",
+            "effect": "Náuseas, vómitos, calambres abdominales cólicos y diarrea.",
+            "note": "Los síntomas comienzan entre 30 minutos y 3 horas después de comer sombreros crudos o poco cocinados y suelen remitir por sí solos. No se han identificado las toxinas.",
+            "symptoms": [
+              "Náuseas.",
+              "Vómitos.",
+              "Calambres abdominales cólicos.",
+              "Diarrea."
+            ]
+          },
+          "dog": {
+            "exposure": "No se ha descrito ninguna vía de exposición.",
+            "effect": "No se ha descrito ningún efecto tóxico.",
+            "note": "No se encontraron informes específicos para perros. Considera cualquier seta silvestre como potencialmente tóxica para las mascotas y contacta con un veterinario tras cualquier ingestión."
+          },
+          "cat": {
+            "exposure": "No se ha descrito ninguna vía de exposición.",
+            "effect": "No se ha descrito ningún efecto tóxico.",
+            "note": "No se encontraron informes específicos para gatos. Considera cualquier seta silvestre como potencialmente tóxica para las mascotas y contacta con un veterinario tras cualquier ingestión."
+          }
+        }
       }
     }
   }

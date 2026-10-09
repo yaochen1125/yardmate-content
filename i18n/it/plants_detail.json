@@ -103680,7 +103680,7 @@
       }
     },
     "AAA1695": {
-      "source_hash": "0479a1ecb698f63934e5d72b8517362d9b0aa4fb90e78dacc4e0605533fcc7e8",
+      "source_hash": "3600712d17e7e7a7c339cf3262ab9908c8de6fe78f5b072d7d4f73ec36301c5f",
       "fields": {
         "common_name": "Panaeolina del fieno",
         "description": "La Panaeolina del fieno è uno dei funghi da prato più comuni al mondo, spuntando a decine nell'erba corta dopo una pioggia calda o una tosatura recente, da cui il suo nome inglese. Il suo piccolo cappello conico si apre a campana ed è igrofano: nel corso della giornata si asciuga passando da un bruno rossiccio intenso al centro a un beige pallido ai margini. Le lamelle maturano in modo irregolare, assumendo un aspetto chiazzato e maculato prima di scurirsi e rilasciare una sporata bruno cioccolato. Anziché nutrirsi di piante vive, vive di paglia d'erba in decomposizione sepolta nel terreno, scomponendo silenziosamente la materia organica morta e riciclando i nutrienti nel prato.",
@@ -103697,11 +103697,35 @@
             "keyword": "Effimerità",
             "description": "Comparendo dall'oggi al domani dopo la pioggia e svanendo di nuovo nel giro di un giorno, la Panaeolina del fieno è da tempo un emblema naturale dell'effimero: un ciclo vitale breve e delicato che si svolge inosservato nei prati comuni."
           }
-        ]
+        ],
+        "toxicity": {
+          "headline": "Umani Lieve",
+          "active_compound_display": "Principio tossico sconosciuto",
+          "notes_en": "Le prove sono contrastanti. In una serie di un centro antiveleni su 19 bambini che l'hanno ingerita, 16 non hanno presentato sintomi; alcuni servizi antiveleni consigliano comunque un consulto medico urgente dopo qualsiasi ingestione da parte di un bambino.",
+          "human": {
+            "exposure": "Ingestione di qualsiasi parte della pianta.",
+            "effect": "Lieve disagio addominale e occasionale irrequietezza nei bambini.",
+            "note": "Le prove sono contrastanti. In una serie di un centro antiveleni su 19 bambini che l'hanno ingerita, 16 non hanno presentato sintomi; alcuni servizi antiveleni consigliano comunque un consulto medico urgente dopo qualsiasi ingestione da parte di un bambino.",
+            "symptoms": [
+              "Lieve disagio addominale.",
+              "Occasionale irrequietezza nei bambini."
+            ]
+          },
+          "dog": {
+            "exposure": "Non è segnalata alcuna via di esposizione.",
+            "effect": "Non è segnalato alcun effetto tossico.",
+            "note": "Non sono stati trovati rapporti specifici per i cani. Considera ogni fungo selvatico come potenzialmente tossico per gli animali domestici e contatta il veterinario dopo qualsiasi ingestione."
+          },
+          "cat": {
+            "exposure": "Non è segnalata alcuna via di esposizione.",
+            "effect": "Non è segnalato alcun effetto tossico.",
+            "note": "Non sono stati trovati rapporti specifici per i gatti. Considera ogni fungo selvatico come potenzialmente tossico per gli animali domestici e contatta il veterinario dopo qualsiasi ingestione."
+          }
+        }
       }
     },
     "AAA1696": {
-      "source_hash": "bd3e1d0b89735d29a0fe75a989cd2e4171f727142e68bd8c724c93e8cdaad621",
+      "source_hash": "15efada0d285fe574b4f751c7609f46332d835bf6f6a99f9360c22c6472156be",
       "fields": {
         "common_name": "Prataiolo",
         "history_text_short": "Molto prima che esistesse la coltivazione dei funghi, i cercatori in Europa e Nord America raccoglievano il Prataiolo dai pascoli bagnati di pioggia ogni autunno. Le sue lamelle da rosa a marrone sono l'indizio classico che lo distingue dalle mortali Amanita a lamelle bianche a cui può assomigliare.",
@@ -103721,11 +103745,33 @@
             "keyword": "Vigilanza",
             "description": "La sua somiglianza con i funghi mortali Amanita lo rende un silenzioso richiamo a guardare attentamente prima di fidarsi delle apparenze."
           }
-        ]
+        ],
+        "toxicity": {
+          "headline": "Nessuna tossicità segnalata",
+          "active_compound_display": "Nessuno segnalato",
+          "notes_en": "Non è segnalata tossicità per questa specie in sé, ma è facilmente confondibile con sosia tossici, tra cui le specie mortali di Amanita bianche. Questo non è una prova che un fungo che hai trovato sia sicuro da mangiare.",
+          "human": {
+            "exposure": "Non è segnalata alcuna via di esposizione.",
+            "effect": "Non è segnalato alcun effetto tossico.",
+            "note": "Non è segnalata tossicità per questa specie in sé, ma è facilmente confondibile con sosia tossici: l'Agaricus xanthodermus, che provoca disturbi gastrici, e le specie mortali di Amanita bianche (amanita falloide e tignosa bianca). Questo non è una prova che un fungo che hai trovato sia sicuro da mangiare."
+          },
+          "dog": {
+            "exposure": "Non è segnalata alcuna via di esposizione.",
+            "effect": "Non è segnalato alcun effetto tossico.",
+            "note": "Non sono state trovate segnalazioni specifiche per i cani. Tratta ogni fungo selvatico come potenzialmente tossico per gli animali domestici e contatta un veterinario dopo qualsiasi ingestione."
+          },
+          "cat": {
+            "exposure": "Non è segnalata alcuna via di esposizione.",
+            "effect": "Non è segnalato alcun effetto tossico.",
+            "note": "Non sono state trovate segnalazioni specifiche per i gatti. Tratta ogni fungo selvatico come potenzialmente tossico per gli animali domestici e contatta un veterinario dopo qualsiasi ingestione."
+          }
+        },
+        "description": "Il prataiolo è un fungo selvatico che spunta nei prati erbosi, nei pascoli e nei tappeti erbosi ben concimati dopo la pioggia, soprattutto a fine estate e in autunno. Il suo cappello liscio, da bianco a crema, inizia arrotondato e si appiattisce con l'età, poggiando su un corto gambo bianco con un anello sottile e fragile. Sotto, le lamelle iniziano rosa pallido e si scuriscono fino al marrone cioccolato man mano che il fungo matura: è il modo più chiaro per distinguerlo dalle specie di Amanita a lamelle bianche a cui può assomigliare. È un parente selvatico stretto dello champignon coltivato, e distinguerlo dai suoi sosia tossici richiede l'identificazione di un esperto.",
+        "fruit_tip": "I corpi fruttiferi emergono dal terreno dopo la pioggia, da metà estate fino all'autunno."
       }
     },
     "AAA1697": {
-      "source_hash": "93ea2f03e83463b4d9f886afcbc49bc036b5e62005b4915632a581def56f7c1d",
+      "source_hash": "08b430d6e25ebdef22fa760f32dd7d96946a9e11d9d939ce0473082332cca37a",
       "fields": {
         "common_name": "Chiodino",
         "history_text_short": "Il chiodino costruisce una rete sotterranea così vasta che una colonia in una foresta dell'Oregon, soprannominata il 'fungo humongo,' si stima abbia più di duemila anni e sia tra gli organismi viventi più grandi mai trovati -- mentre allo stesso tempo causa lentamente un marciume radicale letale negli stessi alberi che crescono sopra di essa.",
@@ -103744,6 +103790,37 @@
           {
             "keyword": "Pazienza",
             "description": "Si diffonde e si nutre per secoli prima che la sua presenza venga notata, rappresentando una perseveranza silenziosa e di lungo periodo."
+          }
+        ],
+        "toxicity": {
+          "headline": "Umani Lieve",
+          "active_compound_display": "Principio tossico sconosciuto",
+          "notes_en": "I cappelli crudi o poco cotti provocano disturbi gastrici, alcune persone reagiscono anche a quelli cotti, e sono segnalate reazioni con l'alcol. Somiglia alla mortale Galerina marginata.",
+          "human": {
+            "exposure": "Ingestione di qualsiasi parte della pianta.",
+            "effect": "Disturbi gastrici se consumato crudo o poco cotto e disturbi digestivi nelle persone sensibili anche quando è cotto.",
+            "note": "I cappelli crudi o poco cotti provocano disturbi gastrici, alcune persone reagiscono anche a quelli cotti, e sono segnalate reazioni con l'alcol. Somiglia alla mortale Galerina marginata.",
+            "symptoms": [
+              "Disturbi gastrici se consumato crudo o poco cotto.",
+              "Disturbi digestivi nelle persone sensibili anche quando è cotto."
+            ]
+          },
+          "dog": {
+            "exposure": "Non è segnalata alcuna via di esposizione.",
+            "effect": "Non è segnalato alcun effetto tossico.",
+            "note": "Non sono stati trovati rapporti specifici per i cani. Tratta ogni fungo selvatico come potenzialmente tossico per gli animali domestici e contatta il veterinario dopo qualsiasi ingestione."
+          },
+          "cat": {
+            "exposure": "Non è segnalata alcuna via di esposizione.",
+            "effect": "Non è segnalato alcun effetto tossico.",
+            "note": "Non sono stati trovati rapporti specifici per i gatti. Tratta ogni fungo selvatico come potenzialmente tossico per gli animali domestici e contatta il veterinario dopo qualsiasi ingestione."
+          }
+        },
+        "description": "Il chiodino del miele forma gruppi di cappelli lisci color miele con lamelle chiare, che spuntano ogni autunno dalla base dei tronchi, dei ceppi e delle radici sepolte nelle foreste dell'emisfero settentrionale. Sotto i funghi visibili si trova il vero corpo dell'organismo: una vasta rete di filamenti neri simili a lacci di scarpe, chiamati rizomorfe, che si diffondono nel suolo e nel legno, talvolta collegando migliaia di alberi in un'unica colonia connessa. Questa rete invade lentamente le radici degli alberi vivi, causando una distruttiva carie radicale che può indebolire o uccidere alberi maturi nell'arco di anni o decenni. Il chiodino del miele crudo o poco cotto provoca disturbi gastrici e somiglia molto alla mortale Galerina marginata.",
+        "fruit_tip": "In autunno compaiono gruppi di corpi fruttiferi alla base di tronchi e ceppi.",
+        "uses_list": [
+          {
+            "text": "Come decompositore, scompone il legno morto e ricicla i nutrienti nel suolo della foresta, anche se le sue infezioni agli alberi vivi preoccupano i forestali."
           }
         ]
       }
@@ -103824,7 +103901,7 @@
       }
     },
     "AAA1699": {
-      "source_hash": "3afa9da8353590bbed633a5a270ca6b603f562fcc9d45f4100b04e35d87896ae",
+      "source_hash": "1426c780c7c415e40c5f8821420e1dab772929a2c20331124bdbff728879a579",
       "fields": {
         "common_name": "Fungo fantasma",
         "description": "Il fungo fantasma forma ciuffi densi e sovrapposti di cappelli lisci a forma di imbuto, di un arancio acceso, che crescono direttamente da radici sepolte e ceppi in decomposizione di alberi a legno duro, soprattutto querce e ulivi. Le sue lamelle fitte scendono lungo un gambo affusolato e, sorprendentemente, emettono un debole bagliore verde nel buio totale, una caratteristica dovuta a composti bioluminescenti naturali presenti nella polpa. Comune tra le foglie cadute dei boschi autunnali d'Europa e del Nord America orientale, viene spesso confuso con il commestibile gallinaccio, sebbene non sia commestibile e provochi seri disturbi gastrointestinali se consumato.",
@@ -103837,9 +103914,6 @@
           "notes": "Non ha una fragranza distintiva, a parte un debole e anonimo odore di fungo."
         },
         "uses_list": [
-          {
-            "text": "Composti chiamati illudine, isolati dalla polpa di questo fungo, sono stati studiati da ricercatori farmaceutici come base per farmaci antitumorali sperimentali."
-          },
           {
             "text": "Come fungo decompositore del legno, degrada ceppi e radici morte di latifoglie, riciclando nutrienti nel suolo forestale."
           },
@@ -103856,7 +103930,35 @@
             "keyword": "Luce nascosta",
             "description": "Le sue lamelle brillano debolmente nel buio totale, un discreto richiamo al fatto che la luce può provenire dai luoghi più inaspettati e trascurabili."
           }
-        ]
+        ],
+        "toxicity": {
+          "headline": "Umani Moderato",
+          "active_compound_display": "illudin S e illudin M",
+          "notes_en": "Contiene illudin S e illudin M. I sintomi iniziano da 1 a 3 ore dopo l'ingestione e la maggior parte delle persone guarisce entro 12 ore. Spesso confuso con le commestibili finferli.",
+          "human": {
+            "exposure": "Ingestione di qualsiasi parte della pianta.",
+            "effect": "Nausea, vomito, dolore addominale, mal di testa, debolezza ed esaurimento, e diarrea.",
+            "note": "Contiene illudin S e illudin M. I sintomi iniziano da 1 a 3 ore dopo l'ingestione e la maggior parte delle persone guarisce entro 12 ore. Spesso confuso con le commestibili finferli.",
+            "symptoms": [
+              "Nausea.",
+              "Vomito.",
+              "Dolore addominale.",
+              "Mal di testa.",
+              "Debolezza ed esaurimento.",
+              "Diarrea."
+            ]
+          },
+          "dog": {
+            "exposure": "Non è riportata alcuna via di esposizione.",
+            "effect": "Non è riportato alcun effetto tossico.",
+            "note": "Non sono stati trovati rapporti specifici per i cani. Considera ogni fungo selvatico potenzialmente tossico per gli animali domestici e contatta un veterinario dopo qualsiasi ingestione."
+          },
+          "cat": {
+            "exposure": "Non è riportata alcuna via di esposizione.",
+            "effect": "Non è riportato alcun effetto tossico.",
+            "note": "Non sono stati trovati rapporti specifici per i gatti. Considera ogni fungo selvatico potenzialmente tossico per gli animali domestici e contatta un veterinario dopo qualsiasi ingestione."
+          }
+        }
       }
     },
     "AAA1700": {
@@ -104304,7 +104406,7 @@
       }
     },
     "AAA1707": {
-      "source_hash": "d6cfbb0f84cb0914cb19482d347cb053b6ba1b3b7ae182d5937c9be846a8c702",
+      "source_hash": "06586405e9069dee358b725bf93be226ae0c2529cbafe2996c28c1e7c1148a38",
       "fields": {
         "common_name": "Ovolo Malefico",
         "fruit_tip": "Questo fungo produce i suoi iconici corpi fruttiferi rossi a macchie bianche alla base di betulle, pini e abeti rossi dalla fine dell'estate all'autunno.",
@@ -104331,7 +104433,40 @@
             "keyword": "Percezione alterata",
             "description": "i suoi composti psicoattivi lo hanno da tempo legato a tradizioni rituali e visionarie, in particolare nelle pratiche sciamaniche siberiane."
           }
-        ]
+        ],
+        "toxicity": {
+          "headline": "Umani Tossico · Animali domestici Grave",
+          "active_compound_display": "acido ibotenico e muscimolo",
+          "notes_en": "Contiene acido ibotenico e muscimolo. I sintomi iniziano da 30 minuti a 2 ore dopo l'ingestione e durano diverse ore. I decessi nell'uomo sono molto rari, ma cani e soprattutto gatti possono morire.",
+          "human": {
+            "exposure": "Ingestione di qualsiasi parte della pianta.",
+            "effect": "Nausea e vomito, confusione e distorsione visiva, delirio, convulsioni e sonnolenza o sonno simile al coma.",
+            "note": "Contiene acido ibotenico e muscimolo. I sintomi iniziano da 30 minuti a 2 ore dopo l'ingestione e durano diverse ore. I decessi nell'uomo sono molto rari, ma cani e soprattutto gatti possono morire.",
+            "symptoms": [
+              "Nausea e vomito.",
+              "Confusione e distorsione visiva.",
+              "Delirio.",
+              "Convulsioni.",
+              "Sonnolenza o sonno simile al coma."
+            ]
+          },
+          "dog": {
+            "exposure": "Ingestione di qualsiasi parte della pianta.",
+            "effect": "Sonno profondo simile al coma entro poche ore dall'ingestione.",
+            "note": "Può essere fatale in rari casi; la maggior parte dei cani guarisce entro 6-72 ore. Contatta immediatamente un veterinario.",
+            "symptoms": [
+              "Sonno profondo simile al coma entro poche ore dall'ingestione."
+            ]
+          },
+          "cat": {
+            "exposure": "Ingestione di qualsiasi parte della pianta.",
+            "effect": "Avvelenamento potenzialmente fatale.",
+            "note": "I gatti sono attratti dagli esemplari essiccati, a volte con esiti letali. Contatta immediatamente un veterinario.",
+            "symptoms": [
+              "Avvelenamento potenzialmente fatale."
+            ]
+          }
+        }
       }
     },
     "AAA1708": {
@@ -105144,7 +105279,7 @@
       }
     },
     "AAA1720": {
-      "source_hash": "b81d24b53c48c351f3f85a366e6543cf4874e18215a3aa48bf6cd77c159f019b",
+      "source_hash": "4e2c971ba7389b9476f3fb7f503c91baabf7391ee3f585d8e02729a51fedd03c",
       "fields": {
         "common_name": "Fungo delle Zucche",
         "fruit_tip": "Questo fungo produce, a fine estate e in autunno, fitti ciuffi di corpi fruttiferi arancioni a forma di imbuto alla base di alberi di latifoglie e ceppi.",
@@ -105157,9 +105292,6 @@
         "uses_list": [
           {
             "text": "Decompone il legno duro morto e morente, svolgendo il ruolo di fungo saprotrofo che ricicla i nutrienti negli ecosistemi forestali."
-          },
-          {
-            "text": "I suoi composti illudinici sono stati studiati nella ricerca farmaceutica come base per l'irofulvene, un candidato farmaco antitumorale sperimentale."
           }
         ],
         "symbolism_list": [
@@ -105171,7 +105303,35 @@
             "keyword": "Mistero",
             "description": "il suo debole bagliore bioluminescente al buio completo ha a lungo alimentato il folklore sulle luci fantasma che brillano nella foresta di notte."
           }
-        ]
+        ],
+        "toxicity": {
+          "headline": "Umani Moderato",
+          "active_compound_display": "illudin S e illudin M",
+          "notes_en": "Contiene illudin S e illudin M. I sintomi iniziano da 1 a 3 ore dopo l'ingestione e la maggior parte delle persone guarisce entro 12 ore. Spesso confuso con le commestibili finferli.",
+          "human": {
+            "exposure": "Ingestione di qualsiasi parte della pianta.",
+            "effect": "Nausea, vomito, dolore addominale, mal di testa, debolezza ed esaurimento, e diarrea.",
+            "note": "Contiene illudin S e illudin M. I sintomi iniziano da 1 a 3 ore dopo l'ingestione e la maggior parte delle persone guarisce entro 12 ore. Spesso confuso con le commestibili finferli.",
+            "symptoms": [
+              "Nausea.",
+              "Vomito.",
+              "Dolore addominale.",
+              "Mal di testa.",
+              "Debolezza ed esaurimento.",
+              "Diarrea."
+            ]
+          },
+          "dog": {
+            "exposure": "Non è riportata alcuna via di esposizione.",
+            "effect": "Non è riportato alcun effetto tossico.",
+            "note": "Non sono stati trovati rapporti specifici per i cani. Tratta ogni fungo selvatico come potenzialmente tossico per gli animali domestici e contatta un veterinario dopo qualsiasi ingestione."
+          },
+          "cat": {
+            "exposure": "Non è riportata alcuna via di esposizione.",
+            "effect": "Non è riportato alcun effetto tossico.",
+            "note": "Non sono stati trovati rapporti specifici per i gatti. Tratta ogni fungo selvatico come potenzialmente tossico per gli animali domestici e contatta un veterinario dopo qualsiasi ingestione."
+          }
+        }
       }
     },
     "AAA1721": {
@@ -106351,7 +106511,7 @@
       }
     },
     "AAA1742": {
-      "source_hash": "064fce9661f333c3ec47add096b7c8418e984102468a56a8071328e6e18210a1",
+      "source_hash": "30ea3f2d6e68a2d6c0d00ff1f1fe250ba772b288796edae24eb8b41604e0a630",
       "fields": {
         "common_name": "Russola emetica",
         "description": "La Russola emetica è un fungo dal cappello rosso vivo, comune sotto pini e altre conifere in Nord America ed Europa. Il suo cappello lucido, dal rosso cerasa al cremisi, spesso largo cinque-otto centimetri, sbiadisce dopo la pioggia in chiazze rosa o bianche, sopra un gambo bianco e sottile con lamelle bianche fitte. Cresce in terreno umido coperto di aghi, in una partnership micorrizica con gli alberi ospiti, scambiando zuccheri con acqua e minerali prelevati in profondità nel suolo. Nonostante il colore allegro, la carne cruda ha un sapore intensamente piccante e acre che si sviluppa in pochi secondi sulla lingua — l'indizio dietro il suo nome scientifico, e il motivo per cui i cercatori imparano ad assaggiarla con cautela piuttosto che cucinarla.",
@@ -106373,7 +106533,33 @@
             "keyword": "Avvertimento",
             "description": "Il suo cappello cremisi acceso funziona come un cartello di pericolo della natura, un indizio visivo che generazioni di cercatori hanno imparato a leggere con cautela piuttosto che con appetito."
           }
-        ]
+        ],
+        "toxicity": {
+          "headline": "Umani Moderato",
+          "active_compound_display": "Principio tossico sconosciuto",
+          "notes_en": "I sintomi compaiono da 30 minuti a 3 ore dopo aver mangiato cappelli crudi o poco cotti e di solito si risolvono da soli. Le tossine non sono state identificate.",
+          "human": {
+            "exposure": "Ingestione di qualsiasi parte della pianta.",
+            "effect": "Nausea, vomito, crampi addominali di tipo colico e diarrea.",
+            "note": "I sintomi compaiono da 30 minuti a 3 ore dopo aver mangiato cappelli crudi o poco cotti e di solito si risolvono da soli. Le tossine non sono state identificate.",
+            "symptoms": [
+              "Nausea.",
+              "Vomito.",
+              "Crampi addominali di tipo colico.",
+              "Diarrea."
+            ]
+          },
+          "dog": {
+            "exposure": "Non è segnalata alcuna via di esposizione.",
+            "effect": "Non è segnalato alcun effetto tossico.",
+            "note": "Non sono state trovate segnalazioni specifiche per i cani. Considera ogni fungo selvatico potenzialmente tossico per gli animali domestici e contatta il veterinario dopo qualsiasi ingestione."
+          },
+          "cat": {
+            "exposure": "Non è segnalata alcuna via di esposizione.",
+            "effect": "Non è segnalato alcun effetto tossico.",
+            "note": "Non sono state trovate segnalazioni specifiche per i gatti. Considera ogni fungo selvatico potenzialmente tossico per gli animali domestici e contatta il veterinario dopo qualsiasi ingestione."
+          }
+        }
       }
     }
   }

@@ -103680,7 +103680,7 @@
       }
     },
     "AAA1695": {
-      "source_hash": "0479a1ecb698f63934e5d72b8517362d9b0aa4fb90e78dacc4e0605533fcc7e8",
+      "source_hash": "3600712d17e7e7a7c339cf3262ab9908c8de6fe78f5b072d7d4f73ec36301c5f",
       "fields": {
         "common_name": "Nấm cỏ khô",
         "description": "Nấm cỏ khô là một trong những loài nấm mọc trên bãi cỏ phổ biến nhất thế giới, mọc lên hàng chục cây trên bãi cỏ ngắn sau một cơn mưa ấm hoặc sau khi cắt cỏ, đó cũng là nguồn gốc tên gọi tiếng Anh của nó. Chiếc mũ nấm hình nón nhỏ sau đó xòe ra hình chuông và có tính hút ẩm (hygrophanous): trong ngày, nó khô dần từ màu nâu đỏ đậm ở giữa sang màu nâu vàng nhạt ở viền. Các phiến nấm chín không đều, tạo nên vẻ ngoài lốm đốm loang lổ trước khi sẫm lại và phát tán bào tử màu nâu socola. Thay vì sống nhờ cây sống, nó sống nhờ lớp gốc rạ cỏ mục nằm trong đất, âm thầm phân hủy chất hữu cơ đã chết và trả lại dinh dưỡng cho bãi cỏ.",
@@ -103697,11 +103697,35 @@
             "keyword": "Sự phù du",
             "description": "Xuất hiện chỉ sau một đêm mưa rồi biến mất trong vòng một ngày, loài nấm này từ lâu đã là biểu tượng tự nhiên của sự phù du, một vòng đời ngắn ngủi, mong manh diễn ra âm thầm trên những bãi cỏ bình thường."
           }
-        ]
+        ],
+        "toxicity": {
+          "headline": "Người Nhẹ",
+          "active_compound_display": "Hoạt chất chưa rõ",
+          "notes_en": "Bằng chứng còn mâu thuẫn. Trong một loạt ca của trung tâm chống độc gồm 19 trẻ đã ăn phải, 16 trẻ không có triệu chứng; một số dịch vụ chống độc vẫn khuyên cần tư vấn y tế khẩn cấp sau khi trẻ ăn phải bất kỳ lượng nào.",
+          "human": {
+            "exposure": "Ăn bất kỳ bộ phận nào của cây.",
+            "effect": "Khó chịu nhẹ ở bụng và đôi khi bồn chồn ở trẻ em.",
+            "note": "Bằng chứng còn mâu thuẫn. Trong một loạt ca của trung tâm chống độc gồm 19 trẻ đã ăn phải, 16 trẻ không có triệu chứng; một số dịch vụ chống độc vẫn khuyên cần tư vấn y tế khẩn cấp sau khi trẻ ăn phải bất kỳ lượng nào.",
+            "symptoms": [
+              "Khó chịu nhẹ ở bụng.",
+              "Đôi khi bồn chồn ở trẻ em."
+            ]
+          },
+          "dog": {
+            "exposure": "Không có báo cáo về đường phơi nhiễm.",
+            "effect": "Không có báo cáo về tác dụng độc hại.",
+            "note": "Không tìm thấy báo cáo đặc thù cho loài chó. Hãy coi mọi loại nấm hoang dã là có khả năng gây độc cho vật nuôi và liên hệ bác sĩ thú y sau khi ăn phải bất kỳ loại nào."
+          },
+          "cat": {
+            "exposure": "Không có báo cáo về đường phơi nhiễm.",
+            "effect": "Không có báo cáo về tác dụng độc hại.",
+            "note": "Không tìm thấy báo cáo đặc thù cho loài mèo. Hãy coi mọi loại nấm hoang dã là có khả năng gây độc cho vật nuôi và liên hệ bác sĩ thú y sau khi ăn phải bất kỳ loại nào."
+          }
+        }
       }
     },
     "AAA1696": {
-      "source_hash": "bd3e1d0b89735d29a0fe75a989cd2e4171f727142e68bd8c724c93e8cdaad621",
+      "source_hash": "15efada0d285fe574b4f751c7609f46332d835bf6f6a99f9360c22c6472156be",
       "fields": {
         "common_name": "Nấm đồng",
         "history_text_short": "Rất lâu trước khi có nghề trồng nấm, người hái nấm ở châu Âu và Bắc Mỹ đã thu hoạch Nấm đồng từ những bãi chăn thả ẩm ướt sau mưa mỗi mùa thu. Các phiến nấm màu hồng đến nâu là dấu hiệu kinh điển giúp phân biệt nó với các loài Amanita chết người có phiến trắng mà nó có thể giống.",
@@ -103721,11 +103745,33 @@
             "keyword": "Cẩn trọng",
             "description": "Sự giống nhau với các loài nấm Amanita chết người khiến nó trở thành lời nhắc nhở thầm lặng hãy nhìn kỹ trước khi tin vào vẻ ngoài."
           }
-        ]
+        ],
+        "toxicity": {
+          "headline": "Không có độc tính được báo cáo",
+          "active_compound_display": "Không có báo cáo",
+          "notes_en": "Không có độc tính nào được báo cáo đối với chính loài này, nhưng nó dễ bị nhầm với những loài trông giống nhưng độc, bao gồm các loài Amanita trắng chết người. Đây không phải là bằng chứng cho thấy cây nấm bạn tìm thấy an toàn để ăn.",
+          "human": {
+            "exposure": "Không có đường phơi nhiễm nào được báo cáo.",
+            "effect": "Không có tác dụng độc hại nào được báo cáo.",
+            "note": "Không có độc tính nào được báo cáo đối với chính loài này, nhưng nó dễ bị nhầm với những loài trông giống nhưng độc: nấm Agaricus xanthodermus gây khó chịu dạ dày, và các loài Amanita trắng chết người (thiên thần hủy diệt và nấm độc tán trắng). Đây không phải là bằng chứng cho thấy cây nấm bạn tìm thấy an toàn để ăn."
+          },
+          "dog": {
+            "exposure": "Không có đường phơi nhiễm nào được báo cáo.",
+            "effect": "Không có tác dụng độc hại nào được báo cáo.",
+            "note": "Không tìm thấy báo cáo riêng cho loài về chó. Hãy coi mọi loại nấm hoang dã là có khả năng gây độc cho vật nuôi và liên hệ bác sĩ thú y sau khi chúng ăn phải."
+          },
+          "cat": {
+            "exposure": "Không có đường phơi nhiễm nào được báo cáo.",
+            "effect": "Không có tác dụng độc hại nào được báo cáo.",
+            "note": "Không tìm thấy báo cáo riêng cho loài về mèo. Hãy coi mọi loại nấm hoang dã là có khả năng gây độc cho vật nuôi và liên hệ bác sĩ thú y sau khi chúng ăn phải."
+          }
+        },
+        "description": "Nấm đồng là một loại nấm hoang dã mọc lên ở đồng cỏ, bãi chăn thả và bãi cỏ được bón phân tốt sau mưa, đặc biệt vào cuối hè và mùa thu. Mũ nấm nhẵn từ trắng đến kem, bắt đầu tròn rồi dẹt dần theo thời gian, nằm trên một thân ngắn màu trắng với vòng nấm mỏng, dễ vỡ. Bên dưới, các phiến nấm bắt đầu màu hồng nhạt và sẫm dần thành màu nâu sô-cô-la khi nấm trưởng thành, đây là cách rõ ràng nhất để phân biệt nó với các loài Amanita có phiến trắng mà nó có thể trông giống. Đây là họ hàng hoang dã gần gũi của nấm mỡ trồng trọt, và việc phân biệt nó với những loài trông giống nhưng độc đòi hỏi sự nhận dạng của chuyên gia.",
+        "fruit_tip": "Quả thể đẩy lên khỏi mặt đất sau mưa, từ giữa hè đến mùa thu."
       }
     },
     "AAA1697": {
-      "source_hash": "93ea2f03e83463b4d9f886afcbc49bc036b5e62005b4915632a581def56f7c1d",
+      "source_hash": "08b430d6e25ebdef22fa760f32dd7d96946a9e11d9d939ce0473082332cca37a",
       "fields": {
         "common_name": "Nấm mật",
         "history_text_short": "Nấm mật xây dựng một mạng lưới ngầm dưới đất rộng lớn đến mức một quần thể trong một khu rừng ở Oregon, được gọi đùa là 'nấm khổng lồ,' được cho là đã hơn hai nghìn năm tuổi và là một trong những sinh vật sống lớn nhất từng được tìm thấy -- trong khi vẫn từ từ gây ra bệnh thối rễ chết người cho chính những cây mọc trên nó.",
@@ -103744,6 +103790,37 @@
           {
             "keyword": "Kiên nhẫn",
             "description": "Lan rộng và kiếm ăn trong nhiều thế kỷ trước khi sự tồn tại của nó được nhận ra, nó đại diện cho sự kiên trì lặng lẽ, lâu dài."
+          }
+        ],
+        "toxicity": {
+          "headline": "Người Nhẹ",
+          "active_compound_display": "Hoạt chất chưa rõ",
+          "notes_en": "Mũ nấm sống hoặc nấu chưa chín gây rối loạn dạ dày, một số người phản ứng ngay cả với nấm đã nấu chín, và có báo cáo về phản ứng với rượu. Nó giống với Galerina marginata cực độc.",
+          "human": {
+            "exposure": "Ăn bất kỳ phần nào của cây.",
+            "effect": "Rối loạn dạ dày khi ăn sống hoặc nấu chưa chín và rối loạn tiêu hóa ở người nhạy cảm ngay cả khi đã nấu chín.",
+            "note": "Mũ nấm sống hoặc nấu chưa chín gây rối loạn dạ dày, một số người phản ứng ngay cả với nấm đã nấu chín, và có báo cáo về phản ứng với rượu. Nó giống với Galerina marginata cực độc.",
+            "symptoms": [
+              "Rối loạn dạ dày khi ăn sống hoặc nấu chưa chín.",
+              "Rối loạn tiêu hóa ở người nhạy cảm ngay cả khi đã nấu chín."
+            ]
+          },
+          "dog": {
+            "exposure": "Không có đường phơi nhiễm nào được báo cáo.",
+            "effect": "Không có tác dụng độc nào được báo cáo.",
+            "note": "Không tìm thấy báo cáo riêng cho loài chó. Hãy coi mọi nấm hoang dã là có khả năng độc với vật nuôi và liên hệ bác sĩ thú y sau bất kỳ trường hợp ăn phải nào."
+          },
+          "cat": {
+            "exposure": "Không có đường phơi nhiễm nào được báo cáo.",
+            "effect": "Không có tác dụng độc nào được báo cáo.",
+            "note": "Không tìm thấy báo cáo riêng cho loài mèo. Hãy coi mọi nấm hoang dã là có khả năng độc với vật nuôi và liên hệ bác sĩ thú y sau bất kỳ trường hợp ăn phải nào."
+          }
+        },
+        "description": "Nấm mật ong tạo thành từng cụm mũ nhẵn màu mật ong với phiến nấm nhạt, mọc lên mỗi mùa thu từ gốc thân cây, gốc chặt và rễ vùi dưới đất khắp các khu rừng ở Bắc Bán Cầu. Bên dưới những cây nấm nhìn thấy được là cơ thể thật của sinh vật: một mạng lưới rộng lớn gồm những sợi đen như dây giày gọi là rhizomorph lan tỏa trong đất và gỗ, đôi khi liên kết hàng nghìn cây thành một quần thể kết nối duy nhất. Mạng lưới này từ từ xâm nhập vào rễ cây sống, gây thối rễ hủy diệt có thể làm suy yếu hoặc giết chết cây trưởng thành trong nhiều năm hoặc nhiều thập kỷ. Nấm mật ong sống hoặc nấu chưa chín gây rối loạn dạ dày, và nó rất giống với Galerina marginata cực độc.",
+        "fruit_tip": "Các cụm thể quả xuất hiện vào mùa thu ở gốc thân và gốc chặt.",
+        "uses_list": [
+          {
+            "text": "Là sinh vật phân hủy, nó phân giải gỗ chết và tái chế chất dinh dưỡng trở lại thảm rừng, ngay cả khi các ca nhiễm trên cây sống khiến các nhà lâm nghiệp lo ngại."
           }
         ]
       }
@@ -103824,7 +103901,7 @@
       }
     },
     "AAA1699": {
-      "source_hash": "3afa9da8353590bbed633a5a270ca6b603f562fcc9d45f4100b04e35d87896ae",
+      "source_hash": "1426c780c7c415e40c5f8821420e1dab772929a2c20331124bdbff728879a579",
       "fields": {
         "common_name": "Nấm ma",
         "description": "Nấm ma mọc thành từng chùm dày đặc, chồng lên nhau, với mũ nấm nhẵn hình phễu màu cam rực rỡ, mọc trực tiếp từ rễ cây bị chôn và gốc cây mục của các loài cây gỗ cứng, đặc biệt là sồi và ô liu. Các phiến nấm mọc dày chạy dọc theo cuống nấm thu nhỏ dần và, điều đáng chú ý là, phát ra ánh sáng xanh lục mờ trong bóng tối hoàn toàn, một đặc điểm do các hợp chất phát quang sinh học tự nhiên có trong phần thịt nấm gây ra. Thường gặp dưới lớp lá rụng trong các khu rừng rụng lá vào mùa thu ở châu Âu và miền đông Bắc Mỹ, loài nấm này thường bị nhầm với nấm chanterelle ăn được, nhưng nó không ăn được và gây rối loạn tiêu hóa nghiêm trọng nếu ăn vào.",
@@ -103837,9 +103914,6 @@
           "notes": "Không có mùi đặc trưng nào ngoài một mùi nấm nhẹ, không đáng chú ý."
         },
         "uses_list": [
-          {
-            "text": "Các hợp chất illudin được chiết xuất từ phần thịt của loài nấm này đã được các nhà nghiên cứu dược phẩm nghiên cứu làm cơ sở cho các loại thuốc chống ung thư thử nghiệm."
-          },
           {
             "text": "Là một loài nấm phân hủy gỗ, nó phân hủy các gốc cây và rễ cây gỗ cứng đã chết, tái chế chất dinh dưỡng trở lại đất rừng."
           },
@@ -103856,7 +103930,35 @@
             "keyword": "Ánh sáng ẩn giấu",
             "description": "Phiến nấm của nó phát sáng mờ trong bóng tối hoàn toàn, một lời nhắc nhở lặng lẽ rằng ánh sáng có thể đến từ những nơi bất ngờ và không ai để ý nhất."
           }
-        ]
+        ],
+        "toxicity": {
+          "headline": "Người: Trung bình",
+          "active_compound_display": "illudin S và illudin M",
+          "notes_en": "Chứa illudin S và illudin M. Các triệu chứng bắt đầu từ 1 đến 3 giờ sau khi ăn và hầu hết mọi người hồi phục trong vòng 12 giờ. Thường bị nhầm với nấm chanterelle ăn được.",
+          "human": {
+            "exposure": "Ăn bất kỳ bộ phận nào của cây.",
+            "effect": "Buồn nôn, nôn mửa, đau bụng, đau đầu, yếu ớt và kiệt sức, và tiêu chảy.",
+            "note": "Chứa illudin S và illudin M. Các triệu chứng bắt đầu từ 1 đến 3 giờ sau khi ăn và hầu hết mọi người hồi phục trong vòng 12 giờ. Thường bị nhầm với nấm chanterelle ăn được.",
+            "symptoms": [
+              "Buồn nôn.",
+              "Nôn mửa.",
+              "Đau bụng.",
+              "Đau đầu.",
+              "Yếu ớt và kiệt sức.",
+              "Tiêu chảy."
+            ]
+          },
+          "dog": {
+            "exposure": "Không có đường phơi nhiễm nào được báo cáo.",
+            "effect": "Không có tác dụng độc hại nào được báo cáo.",
+            "note": "Không tìm thấy báo cáo cụ thể nào cho chó. Hãy coi mọi loại nấm hoang dã là có khả năng gây độc cho vật nuôi và liên hệ bác sĩ thú y sau khi chúng ăn phải bất kỳ loại nào."
+          },
+          "cat": {
+            "exposure": "Không có đường phơi nhiễm nào được báo cáo.",
+            "effect": "Không có tác dụng độc hại nào được báo cáo.",
+            "note": "Không tìm thấy báo cáo cụ thể nào cho mèo. Hãy coi mọi loại nấm hoang dã là có khả năng gây độc cho vật nuôi và liên hệ bác sĩ thú y sau khi chúng ăn phải bất kỳ loại nào."
+          }
+        }
       }
     },
     "AAA1700": {
@@ -104304,7 +104406,7 @@
       }
     },
     "AAA1707": {
-      "source_hash": "d6cfbb0f84cb0914cb19482d347cb053b6ba1b3b7ae182d5937c9be846a8c702",
+      "source_hash": "06586405e9069dee358b725bf93be226ae0c2529cbafe2996c28c1e7c1148a38",
       "fields": {
         "common_name": "Nấm Tán Bay",
         "fruit_tip": "Loài nấm này tạo ra những thể quả mang tính biểu tượng màu đỏ với các đốm trắng ở gốc cây bạch dương, thông và vân sam từ cuối hè đến mùa thu.",
@@ -104331,7 +104433,40 @@
             "keyword": "Thay đổi nhận thức",
             "description": "các hợp chất hướng thần của nó từ lâu đã gắn liền với các truyền thống nghi lễ và linh kiến, đặc biệt là trong các tập tục pháp sư Siberia."
           }
-        ]
+        ],
+        "toxicity": {
+          "headline": "Độc với người · Vật nuôi Nghiêm trọng",
+          "active_compound_display": "axit ibotenic và muscimol",
+          "notes_en": "Chứa axit ibotenic và muscimol. Các triệu chứng bắt đầu từ 30 phút đến 2 giờ sau khi ăn và kéo dài vài giờ. Tử vong ở người rất hiếm, nhưng chó và đặc biệt là mèo có thể tử vong.",
+          "human": {
+            "exposure": "Ăn bất kỳ bộ phận nào của cây.",
+            "effect": "Buồn nôn và nôn, lú lẫn và biến dạng thị giác, mê sảng, co giật, và buồn ngủ hoặc ngủ sâu như hôn mê.",
+            "note": "Chứa axit ibotenic và muscimol. Các triệu chứng bắt đầu từ 30 phút đến 2 giờ sau khi ăn và kéo dài vài giờ. Tử vong ở người rất hiếm, nhưng chó và đặc biệt là mèo có thể tử vong.",
+            "symptoms": [
+              "Buồn nôn và nôn.",
+              "Lú lẫn và biến dạng thị giác.",
+              "Mê sảng.",
+              "Co giật.",
+              "Buồn ngủ hoặc ngủ sâu như hôn mê."
+            ]
+          },
+          "dog": {
+            "exposure": "Ăn bất kỳ bộ phận nào của cây.",
+            "effect": "Ngủ sâu như hôn mê trong vòng vài giờ sau khi ăn.",
+            "note": "Có thể gây tử vong trong một số trường hợp hiếm gặp; hầu hết chó hồi phục trong vòng 6 đến 72 giờ. Hãy liên hệ bác sĩ thú y ngay lập tức.",
+            "symptoms": [
+              "Ngủ sâu như hôn mê trong vòng vài giờ sau khi ăn."
+            ]
+          },
+          "cat": {
+            "exposure": "Ăn bất kỳ bộ phận nào của cây.",
+            "effect": "Ngộ độc có thể gây tử vong.",
+            "note": "Mèo bị thu hút bởi mẫu vật khô, đôi khi dẫn đến tử vong. Hãy liên hệ bác sĩ thú y ngay lập tức.",
+            "symptoms": [
+              "Ngộ độc có thể gây tử vong."
+            ]
+          }
+        }
       }
     },
     "AAA1708": {
@@ -105144,7 +105279,7 @@
       }
     },
     "AAA1720": {
-      "source_hash": "b81d24b53c48c351f3f85a366e6543cf4874e18215a3aa48bf6cd77c159f019b",
+      "source_hash": "4e2c971ba7389b9476f3fb7f503c91baabf7391ee3f585d8e02729a51fedd03c",
       "fields": {
         "common_name": "Nấm Đèn Lồng Bí Ngô",
         "fruit_tip": "Loài nấm này tạo ra những cụm thể quả màu cam rực rỡ hình phễu, mọc dày đặc ở gốc cây gỗ cứng và gốc cây mục vào cuối hè và mùa thu.",
@@ -105157,9 +105292,6 @@
         "uses_list": [
           {
             "text": "Phân hủy gỗ cứng chết và đang suy tàn, đóng vai trò là nấm hoại sinh tái chế dinh dưỡng trong hệ sinh thái rừng."
-          },
-          {
-            "text": "Các hợp chất illudin của nó đã được nghiên cứu trong nghiên cứu dược phẩm làm cơ sở cho irofulven, một ứng cử viên thuốc chống ung thư đang thử nghiệm."
           }
         ],
         "symbolism_list": [
@@ -105171,7 +105303,35 @@
             "keyword": "Bí ẩn",
             "description": "ánh phát quang sinh học mờ nhạt trong bóng tối hoàn toàn của nó từ lâu đã nuôi dưỡng truyền thuyết về những ánh sáng ma quái lấp lánh trong rừng vào ban đêm."
           }
-        ]
+        ],
+        "toxicity": {
+          "headline": "Người: Trung bình",
+          "active_compound_display": "illudin S và illudin M",
+          "notes_en": "Chứa illudin S và illudin M. Các triệu chứng bắt đầu từ 1 đến 3 giờ sau khi ăn và hầu hết mọi người hồi phục trong vòng 12 giờ. Thường bị nhầm với nấm chanterelle ăn được.",
+          "human": {
+            "exposure": "Ăn bất kỳ phần nào của cây.",
+            "effect": "Buồn nôn, nôn mửa, đau bụng, đau đầu, suy nhược và kiệt sức, và tiêu chảy.",
+            "note": "Chứa illudin S và illudin M. Các triệu chứng bắt đầu từ 1 đến 3 giờ sau khi ăn và hầu hết mọi người hồi phục trong vòng 12 giờ. Thường bị nhầm với nấm chanterelle ăn được.",
+            "symptoms": [
+              "Buồn nôn.",
+              "Nôn mửa.",
+              "Đau bụng.",
+              "Đau đầu.",
+              "Suy nhược và kiệt sức.",
+              "Tiêu chảy."
+            ]
+          },
+          "dog": {
+            "exposure": "Không có đường phơi nhiễm nào được báo cáo.",
+            "effect": "Không có tác dụng độc hại nào được báo cáo.",
+            "note": "Không tìm thấy báo cáo nào riêng cho loài chó. Hãy coi mọi loại nấm hoang dã là có khả năng gây độc cho vật nuôi và liên hệ bác sĩ thú y sau khi chúng ăn phải."
+          },
+          "cat": {
+            "exposure": "Không có đường phơi nhiễm nào được báo cáo.",
+            "effect": "Không có tác dụng độc hại nào được báo cáo.",
+            "note": "Không tìm thấy báo cáo nào riêng cho loài mèo. Hãy coi mọi loại nấm hoang dã là có khả năng gây độc cho vật nuôi và liên hệ bác sĩ thú y sau khi chúng ăn phải."
+          }
+        }
       }
     },
     "AAA1721": {
@@ -106351,7 +106511,7 @@
       }
     },
     "AAA1742": {
-      "source_hash": "064fce9661f333c3ec47add096b7c8418e984102468a56a8071328e6e18210a1",
+      "source_hash": "30ea3f2d6e68a2d6c0d00ff1f1fe250ba772b288796edae24eb8b41604e0a630",
       "fields": {
         "common_name": "Nấm Russula emetica",
         "description": "Nấm Russula emetica là một loài nấm có mũ màu đỏ tươi, thường gặp dưới các rừng thông và cây lá kim khác ở Bắc Mỹ và châu Âu. Mũ nấm bóng, từ đỏ anh đào đến đỏ thẫm, thường rộng năm đến tám centimet, phai màu thành những đốm hồng hoặc trắng sau mưa, nằm trên một cuống trắng mảnh với các phiến nấm trắng xếp sát nhau. Nấm mọc trên đất ẩm phủ đầy lá kim, trong quan hệ cộng sinh rễ nấm với cây chủ, trao đổi đường lấy nước và khoáng chất được hút lên từ sâu trong đất. Dù có màu sắc vui mắt, phần thịt nấm sống có vị cay nồng và chát gắt phát triển chỉ trong vài giây trên lưỡi — manh mối đằng sau tên khoa học của nó, và lý do khiến người đi hái nấm học cách nếm thử cẩn trọng trước khi nấu.",
@@ -106373,7 +106533,33 @@
             "keyword": "Cảnh báo",
             "description": "Mũ nấm đỏ thẫm chói lọi của nó hoạt động như một tấm biển báo nguy hiểm của tự nhiên, một dấu hiệu thị giác mà nhiều thế hệ người hái nấm đã học cách đọc bằng sự cẩn trọng hơn là sự thèm muốn."
           }
-        ]
+        ],
+        "toxicity": {
+          "headline": "Người: Trung bình",
+          "active_compound_display": "Hoạt chất chưa rõ",
+          "notes_en": "Triệu chứng khởi phát từ 30 phút đến 3 giờ sau khi ăn mũ nấm sống hoặc chưa chín kỹ và thường tự khỏi. Độc chất chưa được xác định.",
+          "human": {
+            "exposure": "Ăn bất kỳ phần nào của cây.",
+            "effect": "Buồn nôn, nôn, đau quặn bụng từng cơn và tiêu chảy.",
+            "note": "Triệu chứng khởi phát từ 30 phút đến 3 giờ sau khi ăn mũ nấm sống hoặc chưa chín kỹ và thường tự khỏi. Độc chất chưa được xác định.",
+            "symptoms": [
+              "Buồn nôn.",
+              "Nôn.",
+              "Đau quặn bụng từng cơn.",
+              "Tiêu chảy."
+            ]
+          },
+          "dog": {
+            "exposure": "Chưa ghi nhận đường phơi nhiễm.",
+            "effect": "Chưa ghi nhận tác dụng độc hại.",
+            "note": "Chưa có báo cáo riêng cho loài chó. Hãy coi mọi loại nấm hoang dã là có thể độc với thú cưng và liên hệ bác sĩ thú y sau khi ăn phải."
+          },
+          "cat": {
+            "exposure": "Chưa ghi nhận đường phơi nhiễm.",
+            "effect": "Chưa ghi nhận tác dụng độc hại.",
+            "note": "Chưa có báo cáo riêng cho loài mèo. Hãy coi mọi loại nấm hoang dã là có thể độc với thú cưng và liên hệ bác sĩ thú y sau khi ăn phải."
+          }
+        }
       }
     }
   }

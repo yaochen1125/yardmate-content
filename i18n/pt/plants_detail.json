@@ -103680,7 +103680,7 @@
       }
     },
     "AAA1695": {
-      "source_hash": "0479a1ecb698f63934e5d72b8517362d9b0aa4fb90e78dacc4e0605533fcc7e8",
+      "source_hash": "3600712d17e7e7a7c339cf3262ab9908c8de6fe78f5b072d7d4f73ec36301c5f",
       "fields": {
         "common_name": "Panaeolina do feno",
         "description": "A Panaeolina do feno é um dos cogumelos de relvado mais comuns do mundo, surgindo às dezenas na relva curta depois de uma chuva quente ou de um corte de relva recente, daí o seu nome em inglês. O seu pequeno chapéu cónico abre-se em forma de sino e é higrófano: ao longo do dia, seca, passando de um castanho-avermelhado intenso no centro a um bege pálido nas margens. As suas lamelas amadurecem de forma desigual, dando-lhes um aspeto manchado e salpicado antes de escurecerem e libertarem uma esporada castanho-chocolate. Em vez de se alimentar de plantas vivas, vive de restolho de relva em decomposição enterrado no solo, decompondo silenciosamente matéria orgânica morta e reciclando nutrientes de volta para o relvado.",
@@ -103697,11 +103697,35 @@
             "keyword": "Efemeridade",
             "description": "Surgindo de um dia para o outro depois da chuva e desvanecendo-se de novo num único dia, a Panaeolina do feno há muito que é um emblema natural do efémero: um ciclo de vida breve e delicado que decorre despercebido em relvados comuns."
           }
-        ]
+        ],
+        "toxicity": {
+          "headline": "Humanos Leve",
+          "active_compound_display": "Princípio tóxico desconhecido",
+          "notes_en": "As evidências são contraditórias. Numa série de um centro de intoxicações com 19 crianças que a ingeriram, 16 não apresentaram sintomas; alguns serviços de intoxicações continuam a aconselhar assistência médica urgente após qualquer ingestão por uma criança.",
+          "human": {
+            "exposure": "Ingestão de qualquer parte da planta.",
+            "effect": "Desconforto abdominal ligeiro e agitação ocasional em crianças.",
+            "note": "As evidências são contraditórias. Numa série de um centro de intoxicações com 19 crianças que a ingeriram, 16 não apresentaram sintomas; alguns serviços de intoxicações continuam a aconselhar assistência médica urgente após qualquer ingestão por uma criança.",
+            "symptoms": [
+              "Desconforto abdominal ligeiro.",
+              "Agitação ocasional em crianças."
+            ]
+          },
+          "dog": {
+            "exposure": "Não é reportada qualquer via de exposição.",
+            "effect": "Não é reportado qualquer efeito tóxico.",
+            "note": "Não foram encontrados relatos específicos para cães. Trate qualquer cogumelo silvestre como potencialmente tóxico para os animais de estimação e contacte o veterinário após qualquer ingestão."
+          },
+          "cat": {
+            "exposure": "Não é reportada qualquer via de exposição.",
+            "effect": "Não é reportado qualquer efeito tóxico.",
+            "note": "Não foram encontrados relatos específicos para gatos. Trate qualquer cogumelo silvestre como potencialmente tóxico para os animais de estimação e contacte o veterinário após qualquer ingestão."
+          }
+        }
       }
     },
     "AAA1696": {
-      "source_hash": "bd3e1d0b89735d29a0fe75a989cd2e4171f727142e68bd8c724c93e8cdaad621",
+      "source_hash": "15efada0d285fe574b4f751c7609f46332d835bf6f6a99f9360c22c6472156be",
       "fields": {
         "common_name": "Cogumelo-dos-campos",
         "history_text_short": "Muito antes de existir o cultivo de cogumelos, coletores na Europa e na América do Norte colhiam o Cogumelo-dos-campos de pastagens encharcadas de chuva todo outono. Suas lamelas de rosa a marrom são a pista clássica que o diferencia das Amanitas mortais de lamelas brancas às quais pode se assemelhar.",
@@ -103721,11 +103745,33 @@
             "keyword": "Vigilância",
             "description": "Sua semelhança com os cogumelos mortais Amanita o torna um lembrete silencioso para olhar de perto antes de confiar nas aparências."
           }
-        ]
+        ],
+        "toxicity": {
+          "headline": "Nenhuma toxicidade relatada",
+          "active_compound_display": "Nenhum relatado",
+          "notes_en": "Não é relatada toxicidade para esta espécie em si, mas é facilmente confundida com sósias tóxicos, incluindo espécies mortais de Amanita brancas. Isto não é prova de que um cogumelo que encontrou seja seguro para comer.",
+          "human": {
+            "exposure": "Não é relatada qualquer via de exposição.",
+            "effect": "Não é relatado qualquer efeito tóxico.",
+            "note": "Não é relatada toxicidade para esta espécie em si, mas é facilmente confundida com sósias tóxicos: o Agaricus xanthodermus, que provoca mal-estar gástrico, e espécies mortais de Amanita brancas (anjos destruidores e cogumelos-da-morte pálidos). Isto não é prova de que um cogumelo que encontrou seja seguro para comer."
+          },
+          "dog": {
+            "exposure": "Não é relatada qualquer via de exposição.",
+            "effect": "Não é relatado qualquer efeito tóxico.",
+            "note": "Não foram encontrados relatos específicos da espécie para cães. Trate todos os cogumelos selvagens como potencialmente tóxicos para os animais de estimação e contacte um veterinário após qualquer ingestão."
+          },
+          "cat": {
+            "exposure": "Não é relatada qualquer via de exposição.",
+            "effect": "Não é relatado qualquer efeito tóxico.",
+            "note": "Não foram encontrados relatos específicos da espécie para gatos. Trate todos os cogumelos selvagens como potencialmente tóxicos para os animais de estimação e contacte um veterinário após qualquer ingestão."
+          }
+        },
+        "description": "O cogumelo-dos-campos é um fungo selvagem que brota em prados gramados, pastagens e relvados bem fertilizados após a chuva, especialmente no final do verão e no outono. O seu chapéu liso, de branco a creme, começa arredondado e achata-se com a idade, assentando sobre um pé curto e branco com um anel fino e frágil. Por baixo, as lamelas começam num rosa pálido e escurecem até ao castanho-chocolate à medida que o cogumelo amadurece, a forma mais clara de o distinguir das espécies de Amanita de lamelas brancas com que se pode parecer. É um parente selvagem próximo do cogumelo-de-paris cultivado, e distingui-lo dos seus sósias tóxicos exige identificação especializada.",
+        "fruit_tip": "Os corpos frutíferos emergem do solo após a chuva, de meados do verão até ao outono."
       }
     },
     "AAA1697": {
-      "source_hash": "93ea2f03e83463b4d9f886afcbc49bc036b5e62005b4915632a581def56f7c1d",
+      "source_hash": "08b430d6e25ebdef22fa760f32dd7d96946a9e11d9d939ce0473082332cca37a",
       "fields": {
         "common_name": "Cogumelo-de-mel",
         "history_text_short": "O cogumelo-de-mel constrói uma rede subterrânea tão vasta que uma colônia em uma floresta de Oregon, apelidada de 'fungo humongo,' acredita-se ter mais de dois mil anos e estar entre os maiores organismos vivos já encontrados -- tudo isso enquanto causa lentamente uma podridão radicular mortal nas próprias árvores que crescem sobre ela.",
@@ -103744,6 +103790,37 @@
           {
             "keyword": "Paciência",
             "description": "Espalha-se e se alimenta por séculos antes que sua presença seja notada, representando uma perseverança silenciosa e de longo prazo."
+          }
+        ],
+        "toxicity": {
+          "headline": "Humanos Leve",
+          "active_compound_display": "Princípio tóxico desconhecido",
+          "notes_en": "Os chapéus crus ou mal cozinhados provocam mal-estar gástrico, algumas pessoas reagem mesmo aos cozinhados, e são relatadas reações com álcool. Assemelha-se à mortal Galerina marginata.",
+          "human": {
+            "exposure": "Ingestão de qualquer parte da planta.",
+            "effect": "Mal-estar gástrico quando consumido cru ou mal cozinhado e perturbações digestivas em pessoas sensíveis mesmo quando cozinhado.",
+            "note": "Os chapéus crus ou mal cozinhados provocam mal-estar gástrico, algumas pessoas reagem mesmo aos cozinhados, e são relatadas reações com álcool. Assemelha-se à mortal Galerina marginata.",
+            "symptoms": [
+              "Mal-estar gástrico quando consumido cru ou mal cozinhado.",
+              "Perturbações digestivas em pessoas sensíveis mesmo quando cozinhado."
+            ]
+          },
+          "dog": {
+            "exposure": "Não é reportada qualquer via de exposição.",
+            "effect": "Não é reportado qualquer efeito tóxico.",
+            "note": "Não foram encontrados relatos específicos para cães. Trate qualquer cogumelo selvagem como potencialmente tóxico para os animais e contacte um veterinário após qualquer ingestão."
+          },
+          "cat": {
+            "exposure": "Não é reportada qualquer via de exposição.",
+            "effect": "Não é reportado qualquer efeito tóxico.",
+            "note": "Não foram encontrados relatos específicos para gatos. Trate qualquer cogumelo selvagem como potencialmente tóxico para os animais e contacte um veterinário após qualquer ingestão."
+          }
+        },
+        "description": "O fungo do mel forma conjuntos de chapéus lisos, cor de mel, com lamelas pálidas, surgindo a cada outono na base de troncos de árvores, tocos e raízes enterradas nas florestas do Hemisfério Norte. Sob os cogumelos visíveis encontra-se o verdadeiro corpo do organismo: uma vasta rede de filamentos negros semelhantes a atacadores, chamados rizomorfos, que se espalham pelo solo e pela madeira, por vezes ligando milhares de árvores numa única colónia conectada. Esta rede invade lentamente as raízes das árvores vivas, causando uma podridão radicular destrutiva que pode enfraquecer ou matar árvores adultas ao longo de anos ou décadas. O fungo do mel cru ou mal cozinhado provoca mal-estar gástrico e assemelha-se muito à mortal Galerina marginata.",
+        "fruit_tip": "Conjuntos de corpos frutíferos aparecem no outono na base de troncos e tocos.",
+        "uses_list": [
+          {
+            "text": "Como decompositor, decompõe madeira morta e recicla nutrientes de volta para o solo da floresta, mesmo quando as suas infeções em árvores vivas preocupam os silvicultores."
           }
         ]
       }
@@ -103824,7 +103901,7 @@
       }
     },
     "AAA1699": {
-      "source_hash": "3afa9da8353590bbed633a5a270ca6b603f562fcc9d45f4100b04e35d87896ae",
+      "source_hash": "1426c780c7c415e40c5f8821420e1dab772929a2c20331124bdbff728879a579",
       "fields": {
         "common_name": "Cogumelo fantasma",
         "description": "O cogumelo fantasma forma tufos densos e sobrepostos de chapéus lisos em forma de funil, de um laranja vivo, crescendo diretamente de raízes enterradas e tocos em decomposição de árvores de madeira dura, especialmente carvalhos e oliveiras. Suas lamelas apertadas descem por um pé que se afina e, de forma notável, emitem um brilho verde tênue na escuridão total, uma característica causada por compostos bioluminescentes naturais presentes em sua carne. Comum sob as folhas caídas de bosques outonais da Europa e do leste da América do Norte, é frequentemente confundido com o comestível cantarelo, embora não seja comestível e provoque sérios distúrbios gastrointestinais se consumido.",
@@ -103837,9 +103914,6 @@
           "notes": "Não tem fragrância distintiva além de um leve e discreto odor de cogumelo."
         },
         "uses_list": [
-          {
-            "text": "Compostos chamados iludinas, isolados da carne deste cogumelo, foram estudados por pesquisadores farmacêuticos como base para medicamentos anticancerígenos experimentais."
-          },
           {
             "text": "Como fungo decompositor de madeira, decompõe tocos e raízes mortas de árvores de madeira dura, reciclando nutrientes de volta ao solo da floresta."
           },
@@ -103856,7 +103930,35 @@
             "keyword": "Luz oculta",
             "description": "Suas lamelas brilham tenuamente na escuridão total, um lembrete discreto de que a luz pode vir dos lugares mais inesperados e discretos."
           }
-        ]
+        ],
+        "toxicity": {
+          "headline": "Humanos Moderado",
+          "active_compound_display": "illudina S e illudina M",
+          "notes_en": "Contém illudina S e illudina M. Os sintomas começam 1 a 3 horas após a ingestão e a maioria das pessoas recupera em 12 horas. Frequentemente confundido com cantarelos comestíveis.",
+          "human": {
+            "exposure": "Ingestão de qualquer parte da planta.",
+            "effect": "Náuseas, vómitos, dor abdominal, dor de cabeça, fraqueza e exaustão, e diarreia.",
+            "note": "Contém illudina S e illudina M. Os sintomas começam 1 a 3 horas após a ingestão e a maioria das pessoas recupera em 12 horas. Frequentemente confundido com cantarelos comestíveis.",
+            "symptoms": [
+              "Náuseas.",
+              "Vómitos.",
+              "Dor abdominal.",
+              "Dor de cabeça.",
+              "Fraqueza e exaustão.",
+              "Diarreia."
+            ]
+          },
+          "dog": {
+            "exposure": "Não é relatada nenhuma via de exposição.",
+            "effect": "Não é relatado nenhum efeito tóxico.",
+            "note": "Não foram encontrados relatos específicos para cães. Trate todo cogumelo selvagem como potencialmente tóxico para animais de estimação e contacte um veterinário após qualquer ingestão."
+          },
+          "cat": {
+            "exposure": "Não é relatada nenhuma via de exposição.",
+            "effect": "Não é relatado nenhum efeito tóxico.",
+            "note": "Não foram encontrados relatos específicos para gatos. Trate todo cogumelo selvagem como potencialmente tóxico para animais de estimação e contacte um veterinário após qualquer ingestão."
+          }
+        }
       }
     },
     "AAA1700": {
@@ -104304,7 +104406,7 @@
       }
     },
     "AAA1707": {
-      "source_hash": "d6cfbb0f84cb0914cb19482d347cb053b6ba1b3b7ae182d5937c9be846a8c702",
+      "source_hash": "06586405e9069dee358b725bf93be226ae0c2529cbafe2996c28c1e7c1148a38",
       "fields": {
         "common_name": "Mata-Moscas",
         "fruit_tip": "Este fungo produz seus icônicos corpos frutíferos vermelhos com manchas brancas na base de bétulas, pinheiros e abetos do fim do verão ao outono.",
@@ -104331,7 +104433,40 @@
             "keyword": "Percepção alterada",
             "description": "seus compostos psicoativos há muito o ligam a tradições rituais e visionárias, sobretudo nas práticas xamânicas siberianas."
           }
-        ]
+        ],
+        "toxicity": {
+          "headline": "Humanos Tóxico · Animais Grave",
+          "active_compound_display": "ácido iboténico e muscimol",
+          "notes_en": "Contém ácido iboténico e muscimol. Os sintomas começam 30 minutos a 2 horas após a ingestão e duram várias horas. As mortes em humanos são muito raras, mas cães e especialmente gatos podem morrer.",
+          "human": {
+            "exposure": "Ingestão de qualquer parte da planta.",
+            "effect": "Náuseas e vómitos, confusão e distorção visual, delírio, convulsões e sonolência ou sono semelhante a coma.",
+            "note": "Contém ácido iboténico e muscimol. Os sintomas começam 30 minutos a 2 horas após a ingestão e duram várias horas. As mortes em humanos são muito raras, mas cães e especialmente gatos podem morrer.",
+            "symptoms": [
+              "Náuseas e vómitos.",
+              "Confusão e distorção visual.",
+              "Delírio.",
+              "Convulsões.",
+              "Sonolência ou sono semelhante a coma."
+            ]
+          },
+          "dog": {
+            "exposure": "Ingestão de qualquer parte da planta.",
+            "effect": "Sono profundo semelhante a coma poucas horas após a ingestão.",
+            "note": "Pode ser fatal em casos raros; a maioria dos cães recupera entre 6 e 72 horas. Contacte imediatamente um veterinário.",
+            "symptoms": [
+              "Sono profundo semelhante a coma poucas horas após a ingestão."
+            ]
+          },
+          "cat": {
+            "exposure": "Ingestão de qualquer parte da planta.",
+            "effect": "Envenenamento potencialmente fatal.",
+            "note": "Os gatos são atraídos por espécimes secos, por vezes com resultados letais. Contacte imediatamente um veterinário.",
+            "symptoms": [
+              "Envenenamento potencialmente fatal."
+            ]
+          }
+        }
       }
     },
     "AAA1708": {
@@ -105144,7 +105279,7 @@
       }
     },
     "AAA1720": {
-      "source_hash": "b81d24b53c48c351f3f85a366e6543cf4874e18215a3aa48bf6cd77c159f019b",
+      "source_hash": "4e2c971ba7389b9476f3fb7f503c91baabf7391ee3f585d8e02729a51fedd03c",
       "fields": {
         "common_name": "Cogumelo Lanterna",
         "fruit_tip": "Este fungo produz, no fim do verão e no outono, densos aglomerados de corpos frutíferos laranja vivo em forma de funil na base de árvores de madeira dura e tocos.",
@@ -105157,9 +105292,6 @@
         "uses_list": [
           {
             "text": "Decompõe madeira dura morta e moribunda, desempenhando o papel de fungo saprotrófico que recicla nutrientes em ecossistemas florestais."
-          },
-          {
-            "text": "Seus compostos iludina foram estudados em pesquisas farmacêuticas como base para o irofulveno, um candidato experimental a medicamento anticâncer."
           }
         ],
         "symbolism_list": [
@@ -105171,7 +105303,35 @@
             "keyword": "Mistério",
             "description": "seu tênue brilho bioluminescente em escuridão total há muito alimenta o folclore sobre luzes fantasmagóricas brilhando na floresta à noite."
           }
-        ]
+        ],
+        "toxicity": {
+          "headline": "Humanos Moderado",
+          "active_compound_display": "illudina S e illudina M",
+          "notes_en": "Contém illudina S e illudina M. Os sintomas começam 1 a 3 horas após a ingestão e a maioria das pessoas recupera em 12 horas. Frequentemente confundido com cantarelos comestíveis.",
+          "human": {
+            "exposure": "Ingestão de qualquer parte da planta.",
+            "effect": "Náuseas, vómitos, dor abdominal, dor de cabeça, fraqueza e exaustão, e diarreia.",
+            "note": "Contém illudina S e illudina M. Os sintomas começam 1 a 3 horas após a ingestão e a maioria das pessoas recupera em 12 horas. Frequentemente confundido com cantarelos comestíveis.",
+            "symptoms": [
+              "Náuseas.",
+              "Vómitos.",
+              "Dor abdominal.",
+              "Dor de cabeça.",
+              "Fraqueza e exaustão.",
+              "Diarreia."
+            ]
+          },
+          "dog": {
+            "exposure": "Não é reportada nenhuma via de exposição.",
+            "effect": "Não é reportado nenhum efeito tóxico.",
+            "note": "Não foram encontrados relatos específicos para cães. Trate qualquer cogumelo selvagem como potencialmente tóxico para os animais de estimação e contacte um veterinário após qualquer ingestão."
+          },
+          "cat": {
+            "exposure": "Não é reportada nenhuma via de exposição.",
+            "effect": "Não é reportado nenhum efeito tóxico.",
+            "note": "Não foram encontrados relatos específicos para gatos. Trate qualquer cogumelo selvagem como potencialmente tóxico para os animais de estimação e contacte um veterinário após qualquer ingestão."
+          }
+        }
       }
     },
     "AAA1721": {
@@ -106351,7 +106511,7 @@
       }
     },
     "AAA1742": {
-      "source_hash": "064fce9661f333c3ec47add096b7c8418e984102468a56a8071328e6e18210a1",
+      "source_hash": "30ea3f2d6e68a2d6c0d00ff1f1fe250ba772b288796edae24eb8b41604e0a630",
       "fields": {
         "common_name": "Rúsula emética",
         "description": "A Rúsula emética é um cogumelo de chapéu vermelho vivo, comum sob pinheiros e outras coníferas na América do Norte e na Europa. Seu chapéu brilhante, que vai do vermelho-cereja ao carmesim, geralmente com cinco a oito centímetros de largura, desbota após a chuva formando manchas rosadas ou brancas, sustentado por um pé branco e delgado com lamelas brancas bem próximas. Cresce em solo úmido coberto de folhas de agulha, em parceria micorrízica com as árvores hospedeiras, trocando açúcares por água e minerais retirados das profundezas do solo. Apesar da cor alegre, a carne crua tem um sabor intensamente picante e acre que se desenvolve em segundos sobre a língua — a pista por trás de seu nome científico, e a razão pela qual os coletores aprendem a provar com cautela em vez de cozinhar.",
@@ -106373,7 +106533,33 @@
             "keyword": "Aviso",
             "description": "Seu chapéu carmesim intenso funciona como uma placa de perigo da própria natureza, uma pista visual que gerações de coletores aprenderam a interpretar com cautela em vez de apetite."
           }
-        ]
+        ],
+        "toxicity": {
+          "headline": "Humanos Moderado",
+          "active_compound_display": "Princípio tóxico desconhecido",
+          "notes_en": "Os sintomas começam 30 minutos a 3 horas após comer chapéus crus ou mal cozinhados e geralmente passam sozinhos. As toxinas não foram identificadas.",
+          "human": {
+            "exposure": "Ingestão de qualquer parte da planta.",
+            "effect": "Náuseas, vómitos, cólicas abdominais e diarreia.",
+            "note": "Os sintomas começam 30 minutos a 3 horas após comer chapéus crus ou mal cozinhados e geralmente passam sozinhos. As toxinas não foram identificadas.",
+            "symptoms": [
+              "Náuseas.",
+              "Vómitos.",
+              "Cólicas abdominais.",
+              "Diarreia."
+            ]
+          },
+          "dog": {
+            "exposure": "Não é relatada nenhuma via de exposição.",
+            "effect": "Não é relatado nenhum efeito tóxico.",
+            "note": "Não foram encontrados relatos específicos para cães. Trate todo cogumelo silvestre como potencialmente tóxico para os animais de estimação e contacte um veterinário após qualquer ingestão."
+          },
+          "cat": {
+            "exposure": "Não é relatada nenhuma via de exposição.",
+            "effect": "Não é relatado nenhum efeito tóxico.",
+            "note": "Não foram encontrados relatos específicos para gatos. Trate todo cogumelo silvestre como potencialmente tóxico para os animais de estimação e contacte um veterinário após qualquer ingestão."
+          }
+        }
       }
     }
   }

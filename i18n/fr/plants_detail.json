@@ -103666,7 +103666,7 @@
       }
     },
     "AAA1695": {
-      "source_hash": "0479a1ecb698f63934e5d72b8517362d9b0aa4fb90e78dacc4e0605533fcc7e8",
+      "source_hash": "3600712d17e7e7a7c339cf3262ab9908c8de6fe78f5b072d7d4f73ec36301c5f",
       "fields": {
         "common_name": "Panéole des foins",
         "description": "La Panéole des foins est l'un des champignons de pelouse les plus courants au monde ; elle surgit par dizaines dans l'herbe rase après une pluie chaude ou une tonte fraîche, d'où son nom anglais. Son petit chapeau conique s'ouvre en cloche et est hygrophane : au fil de la journée, il passe d'un brun rougeâtre intense au centre à un beige pâle sur les bords en séchant. Ses lamelles mûrissent de façon inégale, leur donnant un aspect tacheté et marbré avant de foncer et de libérer une sporée brun chocolat. Plutôt que de se nourrir de plantes vivantes, elle vit du chaume d'herbe en décomposition enfoui dans le sol, décomposant silencieusement la matière organique morte et recyclant les nutriments dans la pelouse.",
@@ -103683,11 +103683,35 @@
             "keyword": "Éphémérité",
             "description": "Apparaissant du jour au lendemain après la pluie et disparaissant à nouveau en une journée, la Panéole des foins est depuis longtemps un emblème naturel de l'éphémère : un cycle de vie bref et délicat qui se déroule inaperçu dans les pelouses ordinaires."
           }
-        ]
+        ],
+        "toxicity": {
+          "headline": "Humains Légère",
+          "active_compound_display": "Principe toxique inconnu",
+          "notes_en": "Les données sont contradictoires. Dans une série de 19 enfants ayant ingéré la plante, recensée par un centre antipoison, 16 n'ont présenté aucun symptôme ; certains services antipoison conseillent encore une consultation médicale urgente après toute ingestion par un enfant.",
+          "human": {
+            "exposure": "Ingestion de n'importe quelle partie de la plante.",
+            "effect": "Inconfort abdominal léger et agitation occasionnelle chez les enfants.",
+            "note": "Les données sont contradictoires. Dans une série de 19 enfants ayant ingéré la plante, recensée par un centre antipoison, 16 n'ont présenté aucun symptôme ; certains services antipoison conseillent encore une consultation médicale urgente après toute ingestion par un enfant.",
+            "symptoms": [
+              "Inconfort abdominal léger.",
+              "Agitation occasionnelle chez les enfants."
+            ]
+          },
+          "dog": {
+            "exposure": "Aucune voie d'exposition n'est signalée.",
+            "effect": "Aucun effet toxique n'est signalé.",
+            "note": "Aucun rapport spécifique à l'espèce pour les chiens n'a été trouvé. Considérez tout champignon sauvage comme potentiellement toxique pour les animaux et contactez un vétérinaire après toute ingestion."
+          },
+          "cat": {
+            "exposure": "Aucune voie d'exposition n'est signalée.",
+            "effect": "Aucun effet toxique n'est signalé.",
+            "note": "Aucun rapport spécifique à l'espèce pour les chats n'a été trouvé. Considérez tout champignon sauvage comme potentiellement toxique pour les animaux et contactez un vétérinaire après toute ingestion."
+          }
+        }
       }
     },
     "AAA1696": {
-      "source_hash": "bd3e1d0b89735d29a0fe75a989cd2e4171f727142e68bd8c724c93e8cdaad621",
+      "source_hash": "15efada0d285fe574b4f751c7609f46332d835bf6f6a99f9360c22c6472156be",
       "fields": {
         "common_name": "Agaric champêtre",
         "history_text_short": "Bien avant l'existence de la culture des champignons, les cueilleurs d'Europe et d'Amérique du Nord récoltaient l'Agaric champêtre dans les pâturages détrempés de pluie chaque automne. Ses lamelles roses à brunes sont l'indice classique qui le distingue des amanites mortelles à lamelles blanches auxquelles il peut ressembler.",
@@ -103707,11 +103731,33 @@
             "keyword": "Vigilance",
             "description": "Sa ressemblance avec les amanites mortelles en fait un rappel discret de regarder attentivement avant de se fier aux apparences."
           }
-        ]
+        ],
+        "toxicity": {
+          "headline": "Pas de toxicité rapportée",
+          "active_compound_display": "Aucun signalé",
+          "notes_en": "Aucune toxicité n'est signalée pour cette espèce elle-même, mais elle se confond facilement avec des sosies toxiques, notamment les Amanita blanches mortelles. Ce n'est pas une preuve qu'un champignon que vous avez trouvé est comestible sans danger.",
+          "human": {
+            "exposure": "Aucune voie d'exposition n'est signalée.",
+            "effect": "Aucun effet toxique n'est signalé.",
+            "note": "Aucune toxicité n'est signalée pour cette espèce elle-même, mais elle se confond facilement avec des sosies toxiques : l'Agaric jaunissant (Agaricus xanthodermus), qui provoque des maux d'estomac, et les Amanita blanches mortelles (amanites vireuses et amanites phalloïdes pâles). Ce n'est pas une preuve qu'un champignon que vous avez trouvé est comestible sans danger."
+          },
+          "dog": {
+            "exposure": "Aucune voie d'exposition n'est signalée.",
+            "effect": "Aucun effet toxique n'est signalé.",
+            "note": "Aucun signalement spécifique à l'espèce pour les chiens n'a été trouvé. Considérez tout champignon sauvage comme potentiellement toxique pour les animaux et contactez un vétérinaire après toute ingestion."
+          },
+          "cat": {
+            "exposure": "Aucune voie d'exposition n'est signalée.",
+            "effect": "Aucun effet toxique n'est signalé.",
+            "note": "Aucun signalement spécifique à l'espèce pour les chats n'a été trouvé. Considérez tout champignon sauvage comme potentiellement toxique pour les animaux et contactez un vétérinaire après toute ingestion."
+          }
+        },
+        "description": "Le Champignon des prés est un champignon sauvage qui pousse dans les prairies herbeuses, les pâturages et les pelouses bien fertilisées après la pluie, surtout à la fin de l'été et en automne. Son chapeau lisse, blanc à crème, commence arrondi et s'aplatit avec l'âge, posé sur un pied court et blanc avec un anneau fin et fragile. En dessous, les lamelles commencent rose pâle et foncent vers le brun chocolat à mesure que le champignon mûrit, le moyen le plus clair de le distinguer des espèces d'Amanita à lamelles blanches auxquelles il peut ressembler. C'est un proche parent sauvage du champignon de Paris cultivé, et le distinguer de ses sosies toxiques exige une identification experte.",
+        "fruit_tip": "Les fructifications émergent du sol après la pluie, de la mi-été à l'automne."
       }
     },
     "AAA1697": {
-      "source_hash": "93ea2f03e83463b4d9f886afcbc49bc036b5e62005b4915632a581def56f7c1d",
+      "source_hash": "08b430d6e25ebdef22fa760f32dd7d96946a9e11d9d939ce0473082332cca37a",
       "fields": {
         "common_name": "Armillaire couleur de miel",
         "history_text_short": "L'armillaire couleur de miel construit un réseau souterrain si vaste qu'une colonie dans une forêt de l'Oregon, surnommée le 'champignon humongo,' serait âgée de plus de deux mille ans et compterait parmi les plus grands organismes vivants jamais découverts -- tout en provoquant lentement une pourriture racinaire mortelle chez les arbres mêmes qui poussent au-dessus d'elle.",
@@ -103730,6 +103776,37 @@
           {
             "keyword": "Patience",
             "description": "Elle s'étend et se nourrit pendant des siècles avant que sa présence ne soit remarquée, incarnant une persévérance silencieuse et à long terme."
+          }
+        ],
+        "toxicity": {
+          "headline": "Humains Légère",
+          "active_compound_display": "Principe toxique inconnu",
+          "notes_en": "Les chapeaux crus ou insuffisamment cuits provoquent des maux d'estomac, certaines personnes réagissent même cuits, et des réactions avec l'alcool sont signalées. Elle ressemble à la mortelle Galerina marginata.",
+          "human": {
+            "exposure": "Ingestion de toute partie de la plante.",
+            "effect": "Maux d'estomac lorsqu'elle est consommée crue ou insuffisamment cuite et troubles digestifs chez les personnes sensibles, même cuite.",
+            "note": "Les chapeaux crus ou insuffisamment cuits provoquent des maux d'estomac, certaines personnes réagissent même cuits, et des réactions avec l'alcool sont signalées. Elle ressemble à la mortelle Galerina marginata.",
+            "symptoms": [
+              "Maux d'estomac lorsqu'elle est consommée crue ou insuffisamment cuite.",
+              "Troubles digestifs chez les personnes sensibles, même cuite."
+            ]
+          },
+          "dog": {
+            "exposure": "Aucune voie d'exposition n'est signalée.",
+            "effect": "Aucun effet toxique n'est signalé.",
+            "note": "Aucun rapport spécifique à l'espèce pour les chiens n'a été trouvé. Considérez tout champignon sauvage comme potentiellement toxique pour les animaux et contactez un vétérinaire après toute ingestion."
+          },
+          "cat": {
+            "exposure": "Aucune voie d'exposition n'est signalée.",
+            "effect": "Aucun effet toxique n'est signalé.",
+            "note": "Aucun rapport spécifique à l'espèce pour les chats n'a été trouvé. Considérez tout champignon sauvage comme potentiellement toxique pour les animaux et contactez un vétérinaire après toute ingestion."
+          }
+        },
+        "description": "L'Armillaire couleur de miel forme des grappes de chapeaux lisses couleur miel aux lames pâles, qui surgissent chaque automne à la base des troncs d'arbres, des souches et des racines enfouies dans les forêts de l'hémisphère nord. Sous les champignons visibles se trouve le véritable corps de l'organisme : un vaste réseau de filaments noirs semblables à des lacets, appelés rhizomorphes, qui se propagent dans le sol et le bois, reliant parfois des milliers d'arbres en une seule colonie connectée. Ce réseau envahit lentement les racines des arbres vivants, provoquant une pourriture racinaire destructrice qui peut affaiblir ou tuer des arbres matures sur des années ou des décennies. L'Armillaire couleur de miel crue ou insuffisamment cuite provoque des maux d'estomac, et elle ressemble étroitement à la mortelle Galerina marginata.",
+        "fruit_tip": "Des grappes de fructifications apparaissent en automne à la base des troncs et des souches.",
+        "uses_list": [
+          {
+            "text": "En tant que décomposeur, elle décompose le bois mort et recycle les nutriments vers le sol forestier, même si ses infections des arbres vivants préoccupent les forestiers."
           }
         ]
       }
@@ -103810,7 +103887,7 @@
       }
     },
     "AAA1699": {
-      "source_hash": "3afa9da8353590bbed633a5a270ca6b603f562fcc9d45f4100b04e35d87896ae",
+      "source_hash": "1426c780c7c415e40c5f8821420e1dab772929a2c20331124bdbff728879a579",
       "fields": {
         "common_name": "Clitocybe de l'olivier",
         "description": "Le clitocybe de l'olivier forme des touffes denses et superposées de chapeaux lisses en entonnoir, d'un orange vif, poussant directement sur des racines enfouies et des souches en décomposition d'arbres feuillus, notamment le chêne et l'olivier. Ses lames serrées descendent le long d'un pied effilé et, chose remarquable, émettent une faible lueur verte dans l'obscurité totale, un trait dû à des composés bioluminescents naturels présents dans sa chair. Courant sous les feuilles mortes des forêts automnales d'Europe et de l'est de l'Amérique du Nord, il est souvent confondu avec la girolle comestible, bien qu'il ne soit pas comestible et provoque de sérieux troubles digestifs s'il est consommé.",
@@ -103823,9 +103900,6 @@
           "notes": "N'a pas d'odeur distinctive, à part une vague odeur de champignon sans particularité."
         },
         "uses_list": [
-          {
-            "text": "Des composés appelés illudines, isolés de la chair de ce champignon, ont été étudiés par des chercheurs en pharmacie comme base de médicaments anticancéreux expérimentaux."
-          },
           {
             "text": "En tant que champignon décomposeur de bois, il décompose les souches et racines mortes de feuillus, recyclant les nutriments dans le sol forestier."
           },
@@ -103842,7 +103916,35 @@
             "keyword": "Lumière cachée",
             "description": "Ses lames émettent une faible lueur dans l'obscurité totale, un rappel discret que la lumière peut venir des endroits les plus inattendus et les plus discrets."
           }
-        ]
+        ],
+        "toxicity": {
+          "headline": "Humains Modéré",
+          "active_compound_display": "illudine S et illudine M",
+          "notes_en": "Contient de l'illudine S et de l'illudine M. Les symptômes apparaissent 1 à 3 heures après l'ingestion et la plupart des personnes se rétablissent en 12 heures. Souvent confondu avec les chanterelles comestibles.",
+          "human": {
+            "exposure": "Ingestion de n'importe quelle partie de la plante.",
+            "effect": "Nausées, vomissements, douleurs abdominales, maux de tête, faiblesse et épuisement, et diarrhée.",
+            "note": "Contient de l'illudine S et de l'illudine M. Les symptômes apparaissent 1 à 3 heures après l'ingestion et la plupart des personnes se rétablissent en 12 heures. Souvent confondu avec les chanterelles comestibles.",
+            "symptoms": [
+              "Nausées.",
+              "Vomissements.",
+              "Douleurs abdominales.",
+              "Maux de tête.",
+              "Faiblesse et épuisement.",
+              "Diarrhée."
+            ]
+          },
+          "dog": {
+            "exposure": "Aucune voie d'exposition n'est signalée.",
+            "effect": "Aucun effet toxique n'est signalé.",
+            "note": "Aucun cas spécifique chez le chien n'a été trouvé. Considérez tout champignon sauvage comme potentiellement toxique pour les animaux et contactez un vétérinaire après toute ingestion."
+          },
+          "cat": {
+            "exposure": "Aucune voie d'exposition n'est signalée.",
+            "effect": "Aucun effet toxique n'est signalé.",
+            "note": "Aucun cas spécifique chez le chat n'a été trouvé. Considérez tout champignon sauvage comme potentiellement toxique pour les animaux et contactez un vétérinaire après toute ingestion."
+          }
+        }
       }
     },
     "AAA1700": {
@@ -104290,7 +104392,7 @@
       }
     },
     "AAA1707": {
-      "source_hash": "d6cfbb0f84cb0914cb19482d347cb053b6ba1b3b7ae182d5937c9be846a8c702",
+      "source_hash": "06586405e9069dee358b725bf93be226ae0c2529cbafe2996c28c1e7c1148a38",
       "fields": {
         "common_name": "Amanite Tue-Mouches",
         "fruit_tip": "Ce champignon produit ses emblématiques fructifications rouges à points blancs à la base des bouleaux, pins et épicéas, de la fin de l'été à l'automne.",
@@ -104317,7 +104419,40 @@
             "keyword": "Perception altérée",
             "description": "ses composés psychoactifs l'ont longtemps liée à des traditions rituelles et visionnaires, notamment dans les pratiques chamaniques sibériennes."
           }
-        ]
+        ],
+        "toxicity": {
+          "headline": "Humains Toxique · Animaux Grave",
+          "active_compound_display": "acide iboténique et muscimol",
+          "notes_en": "Contient de l'acide iboténique et du muscimol. Les symptômes apparaissent 30 minutes à 2 heures après l'ingestion et durent plusieurs heures. Les décès chez l'humain sont très rares, mais les chiens et surtout les chats peuvent en mourir.",
+          "human": {
+            "exposure": "Ingestion de n'importe quelle partie de la plante.",
+            "effect": "Nausées et vomissements, confusion et distorsions visuelles, délire, convulsions, et somnolence ou sommeil proche du coma.",
+            "note": "Contient de l'acide iboténique et du muscimol. Les symptômes apparaissent 30 minutes à 2 heures après l'ingestion et durent plusieurs heures. Les décès chez l'humain sont très rares, mais les chiens et surtout les chats peuvent en mourir.",
+            "symptoms": [
+              "Nausées et vomissements.",
+              "Confusion et distorsions visuelles.",
+              "Délire.",
+              "Convulsions.",
+              "Somnolence ou sommeil proche du coma."
+            ]
+          },
+          "dog": {
+            "exposure": "Ingestion de n'importe quelle partie de la plante.",
+            "effect": "Sommeil profond, proche du coma, quelques heures après l'ingestion.",
+            "note": "Peut être mortelle dans de rares cas ; la plupart des chiens se rétablissent en 6 à 72 heures. Contactez immédiatement un vétérinaire.",
+            "symptoms": [
+              "Sommeil profond, proche du coma, quelques heures après l'ingestion."
+            ]
+          },
+          "cat": {
+            "exposure": "Ingestion de n'importe quelle partie de la plante.",
+            "effect": "Intoxication potentiellement mortelle.",
+            "note": "Les chats sont attirés par les spécimens séchés, parfois avec des conséquences mortelles. Contactez immédiatement un vétérinaire.",
+            "symptoms": [
+              "Intoxication potentiellement mortelle."
+            ]
+          }
+        }
       }
     },
     "AAA1708": {
@@ -105130,7 +105265,7 @@
       }
     },
     "AAA1720": {
-      "source_hash": "b81d24b53c48c351f3f85a366e6543cf4874e18215a3aa48bf6cd77c159f019b",
+      "source_hash": "4e2c971ba7389b9476f3fb7f503c91baabf7391ee3f585d8e02729a51fedd03c",
       "fields": {
         "common_name": "Clitocybe Lumineux",
         "fruit_tip": "Ce champignon produit, à la fin de l'été et en automne, des amas denses de fructifications orange vif en forme d'entonnoir à la base des arbres feuillus et des souches.",
@@ -105143,9 +105278,6 @@
         "uses_list": [
           {
             "text": "Décompose le bois dur mort et mourant, jouant un rôle de champignon saprotrophe recyclant les nutriments dans les écosystèmes forestiers."
-          },
-          {
-            "text": "Ses composés illudines ont été étudiés en recherche pharmaceutique comme base de l'irofulvène, un candidat médicament anticancéreux expérimental."
           }
         ],
         "symbolism_list": [
@@ -105157,7 +105289,35 @@
             "keyword": "Mystère",
             "description": "sa faible lueur bioluminescente dans l'obscurité totale a longtemps nourri le folklore sur les lumières fantomatiques brillant dans la forêt la nuit."
           }
-        ]
+        ],
+        "toxicity": {
+          "headline": "Humains Modéré",
+          "active_compound_display": "illudine S et illudine M",
+          "notes_en": "Contient de l'illudine S et de l'illudine M. Les symptômes apparaissent 1 à 3 heures après l'ingestion et la plupart des personnes se rétablissent en 12 heures. Souvent confondu avec des chanterelles comestibles.",
+          "human": {
+            "exposure": "Ingestion de n'importe quelle partie de la plante.",
+            "effect": "Nausées, vomissements, douleurs abdominales, maux de tête, faiblesse et épuisement, et diarrhée.",
+            "note": "Contient de l'illudine S et de l'illudine M. Les symptômes apparaissent 1 à 3 heures après l'ingestion et la plupart des personnes se rétablissent en 12 heures. Souvent confondu avec des chanterelles comestibles.",
+            "symptoms": [
+              "Nausées.",
+              "Vomissements.",
+              "Douleurs abdominales.",
+              "Maux de tête.",
+              "Faiblesse et épuisement.",
+              "Diarrhée."
+            ]
+          },
+          "dog": {
+            "exposure": "Aucune voie d'exposition n'est signalée.",
+            "effect": "Aucun effet toxique n'est signalé.",
+            "note": "Aucun cas spécifique chez le chien n'a été trouvé. Considérez tout champignon sauvage comme potentiellement toxique pour les animaux et contactez un vétérinaire après toute ingestion."
+          },
+          "cat": {
+            "exposure": "Aucune voie d'exposition n'est signalée.",
+            "effect": "Aucun effet toxique n'est signalé.",
+            "note": "Aucun cas spécifique chez le chat n'a été trouvé. Considérez tout champignon sauvage comme potentiellement toxique pour les animaux et contactez un vétérinaire après toute ingestion."
+          }
+        }
       }
     },
     "AAA1721": {
@@ -106337,7 +106497,7 @@
       }
     },
     "AAA1742": {
-      "source_hash": "064fce9661f333c3ec47add096b7c8418e984102468a56a8071328e6e18210a1",
+      "source_hash": "30ea3f2d6e68a2d6c0d00ff1f1fe250ba772b288796edae24eb8b41604e0a630",
       "fields": {
         "common_name": "Russule émétique",
         "description": "La Russule émétique est un champignon au chapeau rouge vif, fréquent sous les pins et autres conifères d'Amérique du Nord et d'Europe. Son chapeau brillant, allant du rouge cerise au cramoisi, souvent large de cinq à huit centimètres, se décolore après la pluie en taches roses ou blanches, surmontant un pied blanc et élancé aux lamelles blanches serrées. Elle pousse dans un sol humide tapissé d'aiguilles, en partenariat mycorhizien avec ses arbres hôtes, échangeant des sucres contre de l'eau et des minéraux puisés en profondeur dans le sol. Malgré sa couleur joyeuse, la chair crue a un goût intensément piquant et âcre qui se développe en quelques secondes sur la langue — l'indice derrière son nom scientifique, et la raison pour laquelle les cueilleurs apprennent à la goûter avec prudence plutôt qu'à la cuisiner.",
@@ -106359,7 +106519,33 @@
             "keyword": "Avertissement",
             "description": "Son chapeau cramoisi vif fonctionne comme un panneau de danger propre à la nature, un indice visuel que des générations de cueilleurs ont appris à lire avec prudence plutôt qu'avec appétit."
           }
-        ]
+        ],
+        "toxicity": {
+          "headline": "Humains Modéré",
+          "active_compound_display": "Principe toxique inconnu",
+          "notes_en": "Les symptômes apparaissent 30 minutes à 3 heures après avoir mangé des chapeaux crus ou insuffisamment cuits et disparaissent généralement d'eux-mêmes. Les toxines n'ont pas été identifiées.",
+          "human": {
+            "exposure": "Ingestion de n'importe quelle partie de la plante.",
+            "effect": "Nausées, vomissements, crampes abdominales coliques et diarrhée.",
+            "note": "Les symptômes apparaissent 30 minutes à 3 heures après avoir mangé des chapeaux crus ou insuffisamment cuits et disparaissent généralement d'eux-mêmes. Les toxines n'ont pas été identifiées.",
+            "symptoms": [
+              "Nausées.",
+              "Vomissements.",
+              "Crampes abdominales coliques.",
+              "Diarrhée."
+            ]
+          },
+          "dog": {
+            "exposure": "Aucune voie d'exposition n'est signalée.",
+            "effect": "Aucun effet toxique n'est signalé.",
+            "note": "Aucun rapport spécifique à l'espèce pour les chiens n'a été trouvé. Considérez tout champignon sauvage comme potentiellement toxique pour les animaux et contactez un vétérinaire après toute ingestion."
+          },
+          "cat": {
+            "exposure": "Aucune voie d'exposition n'est signalée.",
+            "effect": "Aucun effet toxique n'est signalé.",
+            "note": "Aucun rapport spécifique à l'espèce pour les chats n'a été trouvé. Considérez tout champignon sauvage comme potentiellement toxique pour les animaux et contactez un vétérinaire après toute ingestion."
+          }
+        }
       }
     }
   }
