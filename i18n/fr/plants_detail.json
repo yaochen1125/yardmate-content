@@ -3,8 +3,8 @@
   "locale": "fr",
   "source": {
     "resource": "plants_detail.json",
-    "sha256": "3c66ab8a37bb482cb86de9435fec5c75bc6484c76ba653860a673193d98cfa42",
-    "record_count": 1740
+    "sha256": "2925732c916c51b9c721bd86262cf859bad220cfae84d21132bbe8473a3a3957",
+    "record_count": 1741
   },
   "records": {
     "AAA0001": {
@@ -106469,6 +106469,52 @@
             "exposure": "Aucune voie d'exposition signalée.",
             "effect": "Aucun effet toxique signalé.",
             "note": "Aucune toxicité signalée pour les chats dans ce catalogue ; ce n'est pas une preuve que la plante est comestible ou inoffensive."
+          }
+        }
+      }
+    },
+    "AAA1742": {
+      "source_hash": "064fce9661f333c3ec47add096b7c8418e984102468a56a8071328e6e18210a1",
+      "fields": {
+        "common_name": "Russule émétique",
+        "description": "La Russule émétique est un champignon au chapeau rouge vif, fréquent sous les pins et autres conifères d'Amérique du Nord et d'Europe. Son chapeau brillant, allant du rouge cerise au cramoisi, souvent large de cinq à huit centimètres, se décolore après la pluie en taches roses ou blanches, surmontant un pied blanc et élancé aux lamelles blanches serrées. Elle pousse dans un sol humide tapissé d'aiguilles, en partenariat mycorhizien avec ses arbres hôtes, échangeant des sucres contre de l'eau et des minéraux puisés en profondeur dans le sol. Malgré sa couleur joyeuse, la chair crue a un goût intensément piquant et âcre qui se développe en quelques secondes sur la langue — l'indice derrière son nom scientifique, et la raison pour laquelle les cueilleurs apprennent à la goûter avec prudence plutôt qu'à la cuisiner.",
+        "history_text_short": "Les guides de terrain se servent depuis longtemps de la Russule émétique pour enseigner une leçon pratique : toucher du bout de la langue un fragment de chapeau cru, remarquer le goût piquant et âcre, puis le recracher avant d'avaler. Ce même goût qui avertit les cueilleurs prudents a renvoyé les imprudents chez eux avec des heures de maux d'estomac, consolidant la réputation sans détour du champignon chez ceux qui apprennent à distinguer un repas d'un avertissement.",
+        "history_text_long": "Des champignons d'un rouge éclatant dispersés sur le sol d'une forêt de pins passent rarement inaperçus, et la Russule émétique ne fait pas exception. Son chapeau cramoisi brillant attire le regard des cueilleurs depuis les débuts de la mycologie de terrain — et les renvoie tout aussi souvent directement vers leurs guides d'identification. L'essor de la mycologie amateur au dix-neuvième siècle, lorsque les naturalistes victoriens parcouraient les bois en répertoriant chaque chapeau et chaque lamelle, a établi un test de terrain simple pour le genre Russula : grignoter un fragment de chair crue, noter le goût, puis le recracher avant d'avaler. Chez la Russule émétique, ce goût est sans équivoque — une brûlure piquante et vive qui se développe en quelques secondes et persiste sur la langue. Le test fonctionne précisément parce que l'amertume du champignon est si distinctive ; avaler davantage qu'une simple bouchée test, cependant, fait que la même substance qui irrite la langue retourne l'estomac, provoquant les nausées, les vomissements et les crampes qui ont donné à l'espèce à la fois son nom latin, emetica, et sa réputation. Sous terre, la Russule émétique mène une vie bien plus paisible, formant un partenariat mycorhizien avec les racines des pins et d'autres conifères, échangeant les sucres de l'arbre contre de l'eau et des minéraux puisés dans le sol. Elle fructifie fidèlement durant les mois humides de l'été et de l'automne dans les forêts de pins d'Amérique du Nord et d'Europe, apparaissant souvent après la pluie en petites troupes plutôt qu'isolément. Malgré des générations d'avertissements dans les guides de terrain, elle reste l'un des champignons les plus souvent confondus par les nouveaux cueilleurs à la recherche de ses cousines Russula plus douces et comestibles — un rappel que, dans ce genre, la couleur et la forme seules suffisent rarement à décider si un champignon mérite sa place dans le panier.",
+        "name_origin": "Le nom de genre Russula vient du latin russus, « rouge », en référence aux chapeaux vifs typiques du groupe. Le nom d'espèce emetica vient du grec emetikos, « qui fait vomir » — un avertissement sans détour gagné par les troubles gastriques qui suivent sa consommation crue.",
+        "symbolism_story": "Parmi les champignons forestiers, peu de chapeaux brillent autant que le dôme écarlate de la Russule émétique, et sa réputation est devenue une sorte de raccourci populaire : résister à ce qui semble appétissant. Alors que de nombreux fruits et fleurs rouges signalent la maturité ou la récompense, la couleur de ce champignon en est venue à signifier le contraire — regarder, admirer, mais ne pas manger — ce qui en fait une référence évidente lorsque les cueilleurs expliquent pourquoi l'apparence seule ne suffit jamais à décider si un champignon mérite sa place dans le panier.",
+        "flower_meaning": "Avertissement",
+        "fragrance": {
+          "notes": "Aucune odeur distinctive n'a été signalée ; l'identification repose sur le goût piquant et âcre du chapeau plutôt que sur l'odorat."
+        },
+        "uses_list": [
+          {
+            "text": "Limaces, écureuils et autres créatures des bois broutent le chapeau et le pied sans effet nocif apparent, contribuant à recycler les nutriments dans le sol forestier."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Avertissement",
+            "description": "Son chapeau cramoisi vif fonctionne comme un panneau de danger propre à la nature, un indice visuel que des générations de cueilleurs ont appris à lire avec prudence plutôt qu'avec appétit."
+          }
+        ],
+        "toxicity": {
+          "headline": "Toxicité inconnue",
+          "active_compound_display": "Non signalé",
+          "notes_en": "Aucune correspondance faisant autorité sur la toxicité n'a été trouvée ; traité comme non signalé (l'estimation du modèle n'est pas vérifiée par une source).",
+          "human": {
+            "exposure": "Aucune voie d'exposition n'est signalée.",
+            "effect": "Aucun effet toxique n'est signalé.",
+            "note": "La toxicité pour les humains n'est pas bien documentée ; faites preuve de prudence jusqu'à vérification."
+          },
+          "dog": {
+            "exposure": "Aucune voie d'exposition n'est signalée.",
+            "effect": "Aucun effet toxique n'est signalé.",
+            "note": "La toxicité pour les chiens n'est pas bien documentée ; faites preuve de prudence jusqu'à vérification."
+          },
+          "cat": {
+            "exposure": "Aucune voie d'exposition n'est signalée.",
+            "effect": "Aucun effet toxique n'est signalé.",
+            "note": "La toxicité pour les chats n'est pas bien documentée ; faites preuve de prudence jusqu'à vérification."
           }
         }
       }

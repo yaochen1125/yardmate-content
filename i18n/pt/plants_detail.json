@@ -3,8 +3,8 @@
   "locale": "pt",
   "source": {
     "resource": "plants_detail.json",
-    "sha256": "3c66ab8a37bb482cb86de9435fec5c75bc6484c76ba653860a673193d98cfa42",
-    "record_count": 1740
+    "sha256": "2925732c916c51b9c721bd86262cf859bad220cfae84d21132bbe8473a3a3957",
+    "record_count": 1741
   },
   "records": {
     "AAA0001": {
@@ -106483,6 +106483,52 @@
             "exposure": "Nenhuma via de exposição relatada.",
             "effect": "Nenhum efeito tóxico relatado.",
             "note": "Nenhuma toxicidade relatada para gatos neste catálogo; isso não é evidência de que a planta seja comestível ou inofensiva."
+          }
+        }
+      }
+    },
+    "AAA1742": {
+      "source_hash": "064fce9661f333c3ec47add096b7c8418e984102468a56a8071328e6e18210a1",
+      "fields": {
+        "common_name": "Rúsula emética",
+        "description": "A Rúsula emética é um cogumelo de chapéu vermelho vivo, comum sob pinheiros e outras coníferas na América do Norte e na Europa. Seu chapéu brilhante, que vai do vermelho-cereja ao carmesim, geralmente com cinco a oito centímetros de largura, desbota após a chuva formando manchas rosadas ou brancas, sustentado por um pé branco e delgado com lamelas brancas bem próximas. Cresce em solo úmido coberto de folhas de agulha, em parceria micorrízica com as árvores hospedeiras, trocando açúcares por água e minerais retirados das profundezas do solo. Apesar da cor alegre, a carne crua tem um sabor intensamente picante e acre que se desenvolve em segundos sobre a língua — a pista por trás de seu nome científico, e a razão pela qual os coletores aprendem a provar com cautela em vez de cozinhar.",
+        "history_text_short": "Guias de campo há muito usam a Rúsula emética para ensinar uma lição prática: tocar a língua numa lasca do chapéu crua, notar o sabor picante e acre, e então cuspi-la antes de engolir. Esse mesmo sabor que avisa os coletores cuidadosos já mandou os descuidados para casa com horas de mal-estar estomacal, consolidando a reputação direta do cogumelo entre quem aprende a distinguir uma refeição de um aviso.",
+        "history_text_long": "Cogumelos de vermelho vivo espalhados pelo chão de uma floresta de pinheiros raramente passam despercebidos, e a Rúsula emética não é exceção. Seu chapéu carmesim brilhante atrai o olhar dos coletores desde os primeiros dias da micologia de campo — e, com igual frequência, os devolve direto aos seus guias de identificação. A ascensão da micologia amadora no século dezenove, quando naturalistas vitorianos percorriam os bosques catalogando cada chapéu e lamela encontrados, consolidou um teste de campo simples para o gênero Russula: morder uma lasca de carne crua, notar o sabor, e então cuspi-la antes de engolir. Na Rúsula emética, esse sabor é inconfundível — uma ardência picante e aguda que se desenvolve em segundos e persiste na língua. O teste funciona justamente porque o amargor do cogumelo é tão distintivo; engolir mais do que uma prova, porém, faz com que a mesma substância que irrita a língua revolva o estômago, provocando náusea, vômito e cólicas que deram à espécie tanto seu nome latino, emetica, quanto sua reputação direta. No subsolo, a Rúsula emética leva uma vida muito mais tranquila, formando uma parceria micorrízica com as raízes de pinheiros e outras coníferas, trocando açúcares da árvore por água e minerais retirados do solo. Frutifica de forma confiável nos meses úmidos do verão e do outono nas florestas de pinheiros da América do Norte e da Europa, surgindo muitas vezes após a chuva em pequenos grupos dispersos, em vez de isolada. Apesar de gerações de avisos em guias de campo, continua sendo um dos cogumelos mais confundidos por coletores novatos em busca de suas parentes Russula mais suaves e comestíveis — um lembrete de que, neste gênero, cor e forma por si só raramente bastam para decidir se um cogumelo merece um lugar na cesta.",
+        "name_origin": "O nome do gênero Russula vem do latim russus, 'vermelho', em referência aos chapéus vivos típicos do grupo. O nome da espécie, emética, deriva do grego emetikos, 'que provoca vômito' — um aviso direto conquistado pelo mal-estar gástrico que segue seu consumo crudo.",
+        "symbolism_story": "Entre os cogumelos da floresta, poucos chapéus brilham tanto quanto a cúpula escarlate da Rúsula emética, e sua reputação se tornou uma espécie de atalho popular: resistir ao que parece convidativo. Enquanto muitos frutos e flores vermelhas sinalizam maturação ou recompensa, a cor deste cogumelo passou a significar o contrário — olhar, admirar, mas não comer —, tornando-se uma referência imediata quando coletores explicam por que a aparência, por si só, nunca basta para decidir se um cogumelo merece um lugar na cesta.",
+        "flower_meaning": "Aviso",
+        "fragrance": {
+          "notes": "Não foi relatado odor distintivo; a identificação depende do sabor picante e acre do chapéu, e não do olfato."
+        },
+        "uses_list": [
+          {
+            "text": "Lesmas, esquilos e outras criaturas da floresta se alimentam do chapéu e do pé sem efeito nocivo aparente, ajudando a reciclar nutrientes de volta para o solo florestal."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Aviso",
+            "description": "Seu chapéu carmesim intenso funciona como uma placa de perigo da própria natureza, uma pista visual que gerações de coletores aprenderam a interpretar com cautela em vez de apetite."
+          }
+        ],
+        "toxicity": {
+          "headline": "Toxicidade desconhecida",
+          "active_compound_display": "Não relatado",
+          "notes_en": "Nenhuma correspondência confiável sobre toxicidade foi encontrada; tratado como não relatado (a estimativa do modelo não foi verificada por fontes).",
+          "human": {
+            "exposure": "Nenhuma via de exposição é relatada.",
+            "effect": "Nenhum efeito tóxico é relatado.",
+            "note": "A toxicidade para humanos não está bem documentada; use cautela até que seja verificada."
+          },
+          "dog": {
+            "exposure": "Nenhuma via de exposição é relatada.",
+            "effect": "Nenhum efeito tóxico é relatado.",
+            "note": "A toxicidade para cães não está bem documentada; use cautela até que seja verificada."
+          },
+          "cat": {
+            "exposure": "Nenhuma via de exposição é relatada.",
+            "effect": "Nenhum efeito tóxico é relatado.",
+            "note": "A toxicidade para gatos não está bem documentada; use cautela até que seja verificada."
           }
         }
       }

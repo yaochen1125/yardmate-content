@@ -3,8 +3,8 @@
   "locale": "it",
   "source": {
     "resource": "plants_detail.json",
-    "sha256": "3c66ab8a37bb482cb86de9435fec5c75bc6484c76ba653860a673193d98cfa42",
-    "record_count": 1740
+    "sha256": "2925732c916c51b9c721bd86262cf859bad220cfae84d21132bbe8473a3a3957",
+    "record_count": 1741
   },
   "records": {
     "AAA0001": {
@@ -106483,6 +106483,52 @@
             "exposure": "Nessuna via di esposizione segnalata.",
             "effect": "Nessun effetto tossico segnalato.",
             "note": "In questo catalogo non è segnalata tossicità per i gatti; ciò non è prova che la pianta sia commestibile o innocua."
+          }
+        }
+      }
+    },
+    "AAA1742": {
+      "source_hash": "064fce9661f333c3ec47add096b7c8418e984102468a56a8071328e6e18210a1",
+      "fields": {
+        "common_name": "Russola emetica",
+        "description": "La Russola emetica è un fungo dal cappello rosso vivo, comune sotto pini e altre conifere in Nord America ed Europa. Il suo cappello lucido, dal rosso cerasa al cremisi, spesso largo cinque-otto centimetri, sbiadisce dopo la pioggia in chiazze rosa o bianche, sopra un gambo bianco e sottile con lamelle bianche fitte. Cresce in terreno umido coperto di aghi, in una partnership micorrizica con gli alberi ospiti, scambiando zuccheri con acqua e minerali prelevati in profondità nel suolo. Nonostante il colore allegro, la carne cruda ha un sapore intensamente piccante e acre che si sviluppa in pochi secondi sulla lingua — l'indizio dietro il suo nome scientifico, e il motivo per cui i cercatori imparano ad assaggiarla con cautela piuttosto che cucinarla.",
+        "history_text_short": "Le guide da campo usano da tempo la Russola emetica per insegnare una lezione pratica: toccare con la lingua una scheggia di cappello crudo, notare il sapore piccante e acre, poi sputarlo prima di ingoiare. Lo stesso sapore che avverte i cercatori prudenti ha mandato a casa quelli incauti con ore di malessere di stomaco, consolidando la fama schietta del fungo tra chi imparare a distinguere un pasto da un avvertimento.",
+        "history_text_long": "Funghi di un rosso acceso sparsi sul terreno di una pineta raramente passano inosservati, e la Russola emetica non fa eccezione. Il suo cappello cremisi lucido ha attirato lo sguardo dei cercatori sin dagli albori della micologia da campo — e altrettanto spesso li ha rimandati dritti ai loro manuali di identificazione. L'ascesa della micologia amatoriale nel diciannovesimo secolo, quando i naturalisti vittoriani battevano i boschi catalogando ogni cappello e ogni lamella trovata, stabilì un semplice test da campo per il genere Russula: assaggiare una scheggia di carne cruda, notare il sapore, poi sputarla prima di ingoiare. Nella Russola emetica, quel sapore è inequivocabile — un bruciore piccante e acuto che si sviluppa in pochi secondi e persiste sulla lingua. Il test funziona proprio perché l'amarezza del fungo è così distintiva; ingoiare più di un semplice assaggio, tuttavia, fa sì che la stessa sostanza che irrita la lingua sconvolga lo stomaco, provocando nausea, vomito e crampi che hanno dato alla specie sia il nome latino, emetica, sia la sua fama. Sottoterra, la Russola emetica vive una vita ben più tranquilla, formando una partnership micorrizica con le radici di pini e altre conifere, scambiando zuccheri dell'albero con acqua e minerali tratti dal suolo. Fruttifica regolarmente nei mesi umidi dell'estate e dell'autunno nelle pinete del Nord America e dell'Europa, spuntando spesso dopo la pioggia in piccoli gruppi sparsi piuttosto che isolata. Nonostante generazioni di avvertimenti nelle guide da campo, resta uno dei funghi più spesso confusi dai cercatori alle prime armi che cercano le sue parenti Russula più miti e commestibili — un richiamo al fatto che, in questo genere, colore e forma da soli raramente bastano a decidere se un fungo merita un posto nel cestino.",
+        "name_origin": "Il nome del genere Russula deriva dal latino russus, «rosso», in riferimento ai cappelli vivaci tipici del gruppo. Il nome della specie, emetica, viene dal greco emetikos, «che provoca il vomito» — un avvertimento schietto guadagnato dal malessere gastrico che segue il consumo crudo.",
+        "symbolism_story": "Tra i funghi del bosco, pochi cappelli brillano quanto la cupola scarlatta della Russola emetica, e la sua fama è diventata una sorta di scorciatoia popolare: resistere a ciò che sembra invitante. Mentre molti frutti e fiori rossi segnalano maturazione o ricompensa, il colore di questo fungo è arrivato a significare l'opposto — guardare, ammirare, ma non mangiare — rendendolo un riferimento immediato quando i cercatori spiegano perché l'aspetto da solo non basta mai a decidere se un fungo merita un posto nel cestino.",
+        "flower_meaning": "Avvertimento",
+        "fragrance": {
+          "notes": "Non è stato segnalato alcun odore distintivo; l'identificazione si basa sul sapore piccante e acre del cappello piuttosto che sull'olfatto."
+        },
+        "uses_list": [
+          {
+            "text": "Lumache, scoiattoli e altre creature del bosco brucano il cappello e il gambo senza apparenti effetti dannosi, contribuendo a riciclare i nutrienti nel terreno forestale."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Avvertimento",
+            "description": "Il suo cappello cremisi acceso funziona come un cartello di pericolo della natura, un indizio visivo che generazioni di cercatori hanno imparato a leggere con cautela piuttosto che con appetito."
+          }
+        ],
+        "toxicity": {
+          "headline": "Tossicità sconosciuta",
+          "active_compound_display": "Non segnalato",
+          "notes_en": "Nessuna corrispondenza autorevole sulla tossicità è stata trovata; trattato come non segnalato (la stima del modello non è verificata da fonti).",
+          "human": {
+            "exposure": "Non è segnalata alcuna via di esposizione.",
+            "effect": "Non è segnalato alcun effetto tossico.",
+            "note": "La tossicità per l'uomo non è ben documentata; usare cautela fino alla verifica."
+          },
+          "dog": {
+            "exposure": "Non è segnalata alcuna via di esposizione.",
+            "effect": "Non è segnalato alcun effetto tossico.",
+            "note": "La tossicità per i cani non è ben documentata; usare cautela fino alla verifica."
+          },
+          "cat": {
+            "exposure": "Non è segnalata alcuna via di esposizione.",
+            "effect": "Non è segnalato alcun effetto tossico.",
+            "note": "La tossicità per i gatti non è ben documentata; usare cautela fino alla verifica."
           }
         }
       }
