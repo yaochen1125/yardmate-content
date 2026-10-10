@@ -3,8 +3,8 @@
   "locale": "fr",
   "source": {
     "resource": "plants_detail.json",
-    "sha256": "ef9992f3a3e15e99cd1ec0b310c789ab845299cc8063b2d74ca678a40dceae54",
-    "record_count": 1742
+    "sha256": "5dd042817138bc21bf20d740fbc716d6620c949302c4e1f878bf63bbec1e5a9a",
+    "record_count": 1743
   },
   "records": {
     "AAA0001": {
@@ -106601,6 +106601,70 @@
             "exposure": "Aucune voie d'exposition signalée.",
             "effect": "Aucun effet toxique signalé.",
             "note": "La toxicité pour les chats n'est pas bien documentée ; agir avec prudence jusqu'à confirmation."
+          }
+        }
+      }
+    },
+    "AAA1744": {
+      "source_hash": "7141ad6a4854d665b6b3ff95ac56a0dcb41b96e2b602888bf344e4d017288a0a",
+      "fields": {
+        "common_name": "Saule américain",
+        "bloom_tip": "Des chatons argentés s'ouvrent sur les rameaux nus de la fin de l'hiver au tout début du printemps, souvent avant qu'aucune autre plante alentour ne se soit réveillée.",
+        "fruit_tip": "De minuscules capsules de graines s'ouvrent à la fin du printemps, libérant des graines duveteuses emportées par le vent.",
+        "description": "Le Saule américain est un arbuste caduc à croissance rapide et à tiges multiples, originaire des prairies humides, des berges de ruisseaux et des marécages du nord de l'Amérique du Nord. Longtemps avant l'apparition des feuilles, les rameaux nus de l'hiver se couvrent de chatons argentés et veloutés, l'un des tout premiers signes que la saison froide tire à sa fin. Les chatons mâles et femelles poussent sur des plants séparés, les bourgeons gris et duveteux gonflant jusqu'à devenir dorés de pollen, qui nourrit les abeilles volant dès les premiers jours. Facile à cultiver en sol humide et en plein soleil, il est prisé pour les compositions florales, les jardins favorables à la faune et son éclatante et reconnaissable parure de fin d'hiver.",
+        "history_text_short": "Les peuples autochtones du nord-est tissaient les tiges flexibles du Saule américain en paniers et en pièges à poissons, et faisaient infuser son écorce pour soulager la douleur. Ses chatons soyeux, qui gonflent alors que la neige persiste encore, sont devenus plus tard un rituel scolaire : couper une branche, la mettre dans l'eau et regarder le printemps arriver.",
+        "history_text_long": "Le Saule américain croît à l'état sauvage de Terre-Neuve à la Saskatchewan et vers le sud jusque dans les Appalaches, enraciné dans les marges humides des étangs, des fossés et des berges de rivières que la plupart des autres arbustes évitent. Pour les peuples algonquiens, iroquoiens et ojibwés qui vivaient à ses côtés, la plante était bien plus utile que sa taille modeste ne le laissait supposer. Ses jeunes tiges flexibles étaient fendues et tissées en paniers, en nattes et en nasses à poissons tendues à travers les ruisseaux peu profonds, tandis que l'écorce interne amère, riche en salicine, était pelée, séchée et infusée en une tisane prise pour soulager les fièvres et les maux de tête, des décennies avant qu'un pharmacien n'isole le composé sous forme de comprimé.\n\nCe qui rendait la plante inoubliable, cependant, c'était avant tout son sens du rythme. Des semaines avant qu'aucun autre arbuste ne bouge, alors que la neige recouvrait encore le sol des forêts du nord, les tiges grises et nues au bord de l'eau se couvraient de doux chatons argentés, comme si la plante avait décidé que l'hiver était simplement terminé. Les abeilles domestiques précoces et les bourdons indigènes, affamés après des mois de froid, étaient attirés par les chatons et repartaient couverts de pollen doré, l'une des toutes premières récoltes de l'année apicole dans le nord-est et le Midwest américains.\n\nCette même précocité a fait de la plante un élément incontournable des premières salles de classe américaines. Durant le mouvement d'étude de la nature du début du vingtième siècle, les enseignants des régions rurales du nord-est et du Canada envoyaient les enfants, à la fin de l'hiver, couper quelques rameaux nus et les placer dans un bocal d'eau sur le rebord de la fenêtre. Les jours suivants, les élèves observaient les bourgeons gris s'ouvrir et gonfler en touffes argentées, preuve vivante que le printemps était déjà en marche alors même que la neige recouvrait encore le sol à l'extérieur. Le rituel a survécu à l'école de campagne à classe unique et se répète encore aujourd'hui, chaque fin d'hiver, dans les foyers de la région.",
+        "name_origin": "Le nom anglais 'pussy willow' (littéralement « saule chaton-de-chat ») vient des chatons doux et argentés qui recouvrent les rameaux nus à la fin de l'hiver, leur duvet dense et velouté étant censé rappeler la patte d'un chaton ou le pelage de la queue d'un chat. Le nom d'espèce discolor, du latin « de deux couleurs », fait référence à ses feuilles, vertes sur le dessus et pâles, presque blanchâtres, en dessous.",
+        "symbolism_story": "Parce que ses chatons gonflent sur le bois nu alors que la neige recouvre encore le sol, le saule américain est devenu, dans les régions où il croît à l'état sauvage, un emblème précoce et bien ancré du renouveau, une plante qui semblait défier l'hiver selon son propre calendrier plutôt que d'attendre des jours plus chauds comme tout le reste.",
+        "flower_meaning": "Renouveau",
+        "fragrance": {
+          "notes": "Un léger parfum doux et mielleux, émanant des chatons mâles chargés de pollen, attire les abeilles précoces avant que presque tout le reste ne soit en fleur."
+        },
+        "uses_list": [
+          {
+            "text": "L'une des toutes premières sources de nectar et de pollen de l'année ; ses chatons saupoudrés d'or nourrissent les abeilles qui sortent de leur dormance hivernale."
+          },
+          {
+            "text": "Les rameaux sont coupés alors qu'ils sont encore au stade des chatons argentés pour des compositions d'intérieur durables et une décoration de printemps."
+          },
+          {
+            "text": "Les jeunes tiges flexibles sont tissées depuis longtemps en paniers, en nattes et en clôtures en osier tressé."
+          },
+          {
+            "text": "Elle sert de plante hôte larvaire pour le morio et le vice-roi."
+          },
+          {
+            "text": "L'écorce interne contient de la salicine et était infusée par les peuples autochtones en une tisane pour soulager la douleur et la fièvre."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Renouveau",
+            "description": "Ses chatons argentés s'ouvrent sur des rameaux nus avant même l'apparition des feuilles, en faisant un ancien emblème de l'éveil et du premier frémissement du printemps."
+          },
+          {
+            "keyword": "Résilience",
+            "description": "En fleurissant alors que la neige recouvre encore le sol, il symbolise le fait d'avancer selon son propre calendrier plutôt que d'attendre des conditions plus faciles."
+          }
+        ],
+        "toxicity": {
+          "headline": "Aucune toxicité signalée",
+          "active_compound_display": "Non signalé",
+          "notes_en": "Aucune correspondance faisant autorité n'a été trouvée concernant la toxicité ; elle est donc considérée comme non signalée (l'estimation du modèle de langage n'est pas vérifiée par des sources).",
+          "human": {
+            "exposure": "Aucune voie d'exposition n'est signalée.",
+            "effect": "Aucun effet toxique n'est signalé.",
+            "note": "Aucune toxicité n'est signalée pour les humains dans ce catalogue ; cela ne prouve pas que la plante soit comestible ou inoffensive."
+          },
+          "dog": {
+            "exposure": "Aucune voie d'exposition n'est signalée.",
+            "effect": "Aucun effet toxique n'est signalé.",
+            "note": "Aucune toxicité n'est signalée pour les chiens dans ce catalogue ; cela ne prouve pas que la plante soit comestible ou inoffensive."
+          },
+          "cat": {
+            "exposure": "Aucune voie d'exposition n'est signalée.",
+            "effect": "Aucun effet toxique n'est signalé.",
+            "note": "Aucune toxicité n'est signalée pour les chats dans ce catalogue ; cela ne prouve pas que la plante soit comestible ou inoffensive."
           }
         }
       }
