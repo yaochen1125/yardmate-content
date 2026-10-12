@@ -3,8 +3,8 @@
   "locale": "pt",
   "source": {
     "resource": "plants_detail.json",
-    "sha256": "5dd042817138bc21bf20d740fbc716d6620c949302c4e1f878bf63bbec1e5a9a",
-    "record_count": 1743
+    "sha256": "d16c20811874f34775dc7e7f379ad76da59adbb789a8a3a8d71254de151716c0",
+    "record_count": 1747
   },
   "records": {
     "AAA0001": {
@@ -106679,6 +106679,220 @@
             "exposure": "Nenhuma via de exposição é reportada.",
             "effect": "Nenhum efeito tóxico é reportado.",
             "note": "Não é reportada toxicidade para gatos neste catálogo; isto não é prova de que a planta seja comestível ou inofensiva."
+          }
+        }
+      }
+    },
+    "AAA1745": {
+      "source_hash": "6b7c5ed4676d8d023c47f79a8e5f6fd419972b8db788395e4703847b27ee9cba",
+      "fields": {
+        "common_name": "Verbena das pradarias",
+        "bloom_tip": "O período de floração desta planta vai de abril a setembro, e ela é muito encantadora em plena floração.",
+        "fruit_tip": "Seus frutos são marrons e têm valor ornamental.",
+        "description": "A Verbena das pradarias é uma planta perene baixa e tapetizante, nativa das pradarias secas, campos e beiras de estrada do centro-sul dos Estados Unidos e do norte do México. Suas folhas semelhantes a samambaia, profundamente lobadas, se espalham formando uma almofada baixa de poucos centímetros de altura, coroada da primavera ao outono por densos cachos arredondados de pequenas flores de cinco pétalas, que vão do rosa ao púrpura, atraindo borboletas e abelhas em grande número. Extremamente tolerante ao calor, à seca e a solos pobres, pedregosos ou arenosos, prospera sob sol pleno com boa drenagem e é um elemento básico de jardins xerófilos, campos de flores silvestres e plantios à beira de estradas no Texas e nas planícies do sul.",
+        "history_text_short": "Peça fundamental do programa texano de flores silvestres nas estradas, defendido em meados do século por Lady Bird Johnson, a Verbena das pradarias continua, a cada primavera e verão, cobrindo as margens das estradas e jardins nativos com baixos montes de flores rosa-púrpura que alimentam borboletas e abelhas durante os meses mais quentes e secos.",
+        "history_text_long": "A Verbena das pradarias cresce silvestre pelas pradarias secas e margens calcárias das estradas do Texas, Oklahoma, Novo México e norte do México, onde há gerações cobre discretamente as margens de antigas trilhas de carroças e, depois, de rodovias, com seus baixos montes de flores rosa-púrpura. Sua fama mais ampla veio no século XX, quando se tornou uma das espécies emblemáticas do programa texano de flores silvestres nas estradas, um esforço impulsionado de forma mais visível pela Primeira-Dama Lady Bird Johnson. A partir da década de 1960, Johnson defendeu leis de embelezamento das rodovias e depois fundou o que hoje é o Lady Bird Johnson Wildflower Center, em Austin, encorajando o Departamento de Transportes do Texas a semear flores silvestres nativas nos canteiros centrais e acostamentos em vez de cortá-los rente ao solo. A Verbena das pradarias, resistente o suficiente para sobreviver ao corte, à seca e ao solo compactado das margens de estrada enquanto continua florescendo por meses, tornou-se uma das espécies básicas plantadas ao lado do mais famoso lupino do Texas, transformando milhares de quilômetros de rodovia em faixas ondulantes de cor a cada primavera e verão. Para gerações de motoristas texanos, uma margem de estrada coberta por suas cabeças florais rosa-púrpura tornou-se tão símbolo de lar quanto o próprio lupino, e a planta continua sendo uma favorita entre jardineiros de plantas nativas e conservacionistas de polinizadores, que a valorizam por alimentar borboletas e abelhas durante os meses mais quentes do ano com quase nenhuma água.",
+        "name_origin": "Seu nome de gênero, Glandularia, refere-se às pequenas estruturas glandulares da planta, enquanto o nome da espécie bipinnatifida descreve suas folhas duas vezes divididas, semelhantes a penas.",
+        "symbolism_story": "Para gerações de texanos, uma margem de estrada coberta de Verbena das pradarias florescendo em pleno calor do verão tornou-se uma pequena e obstinada prova de que a beleza pode enraizar e persistir mesmo onde o solo é pobre e as condições são adversas.",
+        "flower_meaning": "Resiliência",
+        "fragrance": {
+          "notes": "As flores exalam um leve aroma adocicado, mais perceptível nas tardes quentes."
+        },
+        "uses_list": [
+          {
+            "text": "Uma importante fonte de néctar para borboletas e abelhas nativas, florescendo quase continuamente da primavera ao outono."
+          },
+          {
+            "text": "Amplamente plantada em jardins xérofilos e ao longo das rodovias do Texas como uma cobertura baixa e resistente à seca."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Resiliência",
+            "description": "Ao prosperar em solo pobre, calor escaldante e no abandono das margens de estrada enquanto continua a florescer por meses, a Verbena das pradarias passou a representar a resiliência silenciosa e a beleza que persiste mesmo nos cantos mais duros e esquecidos da terra."
+          }
+        ],
+        "toxicity": {
+          "headline": "Nenhuma toxicidade relatada",
+          "active_compound_display": "Nenhum relatado",
+          "notes_en": "Nenhuma correspondência com fontes de referência sobre toxicidade foi encontrada; tratado como não relatado (a estimativa do LLM não é verificada por fontes).",
+          "human": {
+            "exposure": "Nenhuma via de exposição é relatada.",
+            "effect": "Nenhum efeito tóxico é relatado.",
+            "note": "Nenhuma toxicidade é relatada para humanos neste catálogo; isso não é evidência de que a planta seja comestível ou inofensiva."
+          },
+          "dog": {
+            "exposure": "Nenhuma via de exposição é relatada.",
+            "effect": "Nenhum efeito tóxico é relatado.",
+            "note": "Nenhuma toxicidade é relatada para cães neste catálogo; isso não é evidência de que a planta seja comestível ou inofensiva."
+          },
+          "cat": {
+            "exposure": "Nenhuma via de exposição é relatada.",
+            "effect": "Nenhum efeito tóxico é relatado.",
+            "note": "Nenhuma toxicidade é relatada para gatos neste catálogo; isso não é evidência de que a planta seja comestível ou inofensiva."
+          }
+        }
+      }
+    },
+    "AAA1746": {
+      "source_hash": "f5d0651c4d55359ebcf2b8006d66a86f50d56397e2b0ecb29646a0915d467d42",
+      "fields": {
+        "common_name": "Mãe-de-Mil Verde",
+        "description": "A Mãe-de-Mil Verde é uma suculenta nativa das pradarias secas de Madagascar, apreciada por suas folhas carnudas e espessas, com bordas dentadas em verde-acinzentado. Pequenas mudinhas se formam ao longo da borda de cada folha e caem para enraizar onde quer que aterrissem, permitindo que uma única planta se espalhe em uma colônia dentro de uma estação. Nos meses quentes, ela produz caules altos coroados por cachos de pequenas flores estreladas branco-esverdeadas. Fácil de cuidar e tolerante à seca, prefere solo arenoso bem drenado sob sol pleno, e é popular tanto como planta de interior quanto em jardins de pedras, embora sua ânsia de autopropagação exija um olhar atento.",
+        "history_text_short": "Apelidada de Mãe-de-Mil Verde pelas pequenas mudinhas que brotam na borda de suas folhas, esta suculenta de Madagascar se tornou uma clássica \"planta para repassar\" — tão fácil de multiplicar que jardineiros trocavam folhas em vez de comprar plantas novas, passando-a de mão em mão por gerações.",
+        "history_text_long": "A Mãe-de-Mil Verde (Kalanchoe laetivirens) cresce em estado selvagem nas florestas secas e rochosas de Madagascar, uma ilha que os botânicos há muito chamam de laboratório vivo para suculentas evoluídas em isolamento. Caçadores de plantas europeus que trabalhavam para jardins coloniais franceses no século XIX foram atraídos por uma característica das Kalanchoe de Madagascar que parecia quase estranha demais para ser real: pequenas plantinhas totalmente formadas crescendo diretamente das reentrâncias na borda de cada folha, prontas para cair e enraizar no momento em que tocassem o solo. Essa forma de reprodução sem semente, chamada viviparidade, transformava uma única folha em um viveiro ambulante, e os jardineiros apelidaram todo o grupo de espécies semelhantes de \"Mãe-de-Mil\" pelos enxames de mudinhas que uma única planta-mãe podia produzir em uma estação. A Mãe-de-Mil Verde ganhou seu próprio nome porque suas mudinhas permanecem num verde fresco em vez de exibir as manchas avermelhadas de sua prima mais famosa de Madagascar, de modo que os cultivadores passaram a chamá-la assim para diferenciar as duas nos catálogos de viveiros. Sua enorme facilidade de multiplicação a tornou uma clássica \"planta para repassar\" — do tipo que amigos trocam por sobre uma cerca ou numa janela em vez de comprar, já que uma única folha num vaso basta para iniciar toda uma nova colônia. Esse mesmo vigor, que encantou gerações de jardineiros domésticos, também é o motivo pelo qual a espécie escapou do cultivo em alguns climas quentes e hoje cresce como uma erva daninha resistente e autossuficiente ao longo de estradas e terrenos perturbados.",
+        "name_origin": "Acredita-se que o nome do gênero Kalanchoe venha de uma expressão chinesa registrada pelo botânico francês Michel Adanson no século XVIII para uma suculenta aparentada; o nome da espécie, laetivirens, significa em latim \"alegremente verde\", descrevendo sua folhagem viçosa.",
+        "symbolism_story": "Em muitos lares, receber uma folha ou mudinha desta espécie é visto como uma pequena bênção — um começo que nada custa, mas se multiplica por conta própria, em sintonia com sua fama popular de símbolo de abundância incessante, passado de lar em lar.",
+        "flower_meaning": "Abundância",
+        "uses_list": [
+          {
+            "text": "Cultivada como planta de interior de fácil cuidado e como exemplar de jardim de suculentas por sua folhagem vistosa e dentada."
+          },
+          {
+            "text": "Seus cachos de pequenas flores estreladas atraem abelhas e outros polinizadores durante a floração."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Abundância",
+            "description": "Como uma única folha pode gerar dezenas de novas plantas, a Mãe-de-Mil Verde é vista como um símbolo vivo de abundância e fertilidade, frequentemente dada de presente por se acreditar que traz prosperidade a um novo lar."
+          }
+        ],
+        "toxicity": {
+          "headline": "Humanos Leve · Animais de estimação Moderado",
+          "active_compound_display": "bufadienolídeos",
+          "notes_en": "Todas as partes contêm glicosídeos cardíacos (bufadienolídeos); a ingestão pode causar desconforto gastrointestinal em animais de estimação e, em grandes quantidades, arritmias cardíacas.",
+          "human": {
+            "exposure": "Ingestão de folhas e caules.",
+            "effect": "Náusea leve e vômito caso grandes quantidades sejam ingeridas.",
+            "note": "Todas as partes contêm glicosídeos cardíacos (bufadienolídeos); a ingestão pode causar desconforto gastrointestinal em animais de estimação e, em grandes quantidades, arritmias cardíacas.",
+            "symptoms": [
+              "Náusea leve.",
+              "Vômito caso grandes quantidades sejam ingeridas."
+            ]
+          },
+          "dog": {
+            "exposure": "Ingestão de folhas e caules.",
+            "effect": "Vômito, diarreia e arritmia cardíaca em grandes quantidades.",
+            "note": "Todas as partes contêm glicosídeos cardíacos (bufadienolídeos); a ingestão pode causar desconforto gastrointestinal em animais de estimação e, em grandes quantidades, arritmias cardíacas.",
+            "symptoms": [
+              "Vômito.",
+              "Diarreia.",
+              "Arritmia cardíaca em grandes quantidades."
+            ]
+          },
+          "cat": {
+            "exposure": "Ingestão de folhas e caules.",
+            "effect": "Vômito, diarreia e arritmia cardíaca em grandes quantidades.",
+            "note": "Todas as partes contêm glicosídeos cardíacos (bufadienolídeos); a ingestão pode causar desconforto gastrointestinal em animais de estimação e, em grandes quantidades, arritmias cardíacas.",
+            "symptoms": [
+              "Vômito.",
+              "Diarreia.",
+              "Arritmia cardíaca em grandes quantidades."
+            ]
+          }
+        }
+      }
+    },
+    "AAA1747": {
+      "source_hash": "1f0b7e9e2660019783274b24ed214cef77b86b3955e456faa061f301d3db4e4b",
+      "fields": {
+        "common_name": "Limnophila aromatica",
+        "description": "Limnophila aromatica é uma herbácea semiaquática e aromática, nativa dos pantanais, arrozais e margens de rios do sudeste asiático. Suas folhas finas e lanceoladas liberam, quando esmagadas, um aroma cítrico com toques de cominho, e no estado selvagem se estende pelas margens lamacentas com pequenas flores arroxeadas entre a folhagem. Prospera em solo constantemente úmido a encharcado e levemente ácido, sob sol parcial, e se adapta tão bem à beira de um lago quanto como tempero de cozinha ou submersa como uma planta de aquário popular, apreciada por seus caules vermelho-esverdeados.",
+        "history_text_short": "Conhecida no Vietnã como 'rau ngò om', Limnophila aromatica é o ingrediente essencial adicionado no último minuto ao canh chua, a clássica sopa de peixe agridoce — seu toque cítrico e picante de cominho é tão característico que os cozinheiros cultivam um vaso dela perto da porta da cozinha só para tê-la sempre à mão.",
+        "history_text_long": "Limnophila aromatica cresce em qualquer lugar onde os pantanais do sudeste asiático encontram a terra cultivada — ao longo das margens inundadas dos arrozais, em valas à beira da estrada e nas margens lamacentas de rios no Vietnã, Tailândia, Laos e Camboja. Por gerações, agricultores que vadeiam pelos arrozais para cuidar de suas lavouras têm se abaixado para arrancar seus caules finos, já que o aroma intenso, cítrico e com toques de cominho da planta a torna uma das ervas aromáticas mais apreciadas da cozinha regional. No Vietnã, ela é mais conhecida como 'rau ngò om' ou 'ngò ôm', um ingrediente essencial no canh chua, a clássica sopa agridoce de peixe, em que um punhado de folhas rasgadas, misturado no último instante, traz ao caldo um frescor intenso, quase mentolado e cítrico, que nenhuma outra erva reproduz da mesma forma. Cozinheiros domésticos tradicionalmente a cultivam em um vaso com água estagnada ou em um canto úmido do jardim, justamente para ter sempre um punhado fresco à mão perto da cozinha. No século XX, esse mesmo hábito semiaquático que facilita sua colheita em campos inundados chamou a atenção de aquaristas fora da Ásia, que descobriram que seus caules, quando cultivados totalmente submersos, adquirem um tom rosado-avermelhado vivo e formam densas e coloridas cercas-vivas subaquáticas — transformando uma humilde erva de sopa em uma das plantas de caule mais populares do mundo do aquarismo paisagístico.",
+        "name_origin": "Seu nome de gênero, Limnophila, vem do grego limne ('pântano') e philos ('amante'), em referência ao seu habitat de áreas úmidas, enquanto aromatica se refere ao aroma intenso e cítrico de suas folhas esmagadas.",
+        "symbolism_story": "Em muitos lares vietnamitas, um vaso dessa herbácea perto da porta da cozinha é tão habitual quanto o próprio fogão, e o gesto de rasgar suas folhas numa panela de sopa fervente carrega o conforto silencioso de uma receita de família preparada da mesma forma por gerações.",
+        "flower_meaning": "Nutrição",
+        "fragrance": {
+          "notes": "Folhas e caules esmagados liberam um aroma cítrico marcante com toques de cominho."
+        },
+        "uses_list": [
+          {
+            "text": "Uma herbácea fresca essencial na cozinha vietnamita e em outras cozinhas do sudeste asiático, especialmente em sopas ácidas de peixe como o canh chua."
+          },
+          {
+            "text": "Cultivada submersa como uma popular planta de caule para aquários, apreciada por sua coloração rosa-avermelhada debaixo d'água."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Nutrição",
+            "description": "Por ser uma herbácea cultivada em vasos perto de quase todas as portas de cozinha vietnamitas e misturada à sopa à mesa em família, Limnophila aromatica passou a simbolizar a cozinha caseira, o conforto e o cuidado transmitido por gerações de refeições em família."
+          }
+        ],
+        "toxicity": {
+          "headline": "Nenhuma toxicidade relatada",
+          "active_compound_display": "Nenhum relatado",
+          "notes_en": "Nenhuma correspondência com fontes de referência sobre toxicidade foi encontrada; tratado como não relatado (a estimativa do LLM não é verificada por fontes).",
+          "human": {
+            "exposure": "Nenhuma via de exposição é relatada.",
+            "effect": "Nenhum efeito tóxico é relatado.",
+            "note": "Nenhuma toxicidade é relatada para humanos neste catálogo; isso não é evidência de que a planta seja comestível ou inofensiva."
+          },
+          "dog": {
+            "exposure": "Nenhuma via de exposição é relatada.",
+            "effect": "Nenhum efeito tóxico é relatado.",
+            "note": "Nenhuma toxicidade é relatada para cães neste catálogo; isso não é evidência de que a planta seja comestível ou inofensiva."
+          },
+          "cat": {
+            "exposure": "Nenhuma via de exposição é relatada.",
+            "effect": "Nenhum efeito tóxico é relatado.",
+            "note": "Nenhuma toxicidade é relatada para gatos neste catálogo; isso não é evidência de que a planta seja comestível ou inofensiva."
+          }
+        }
+      }
+    },
+    "AAA1748": {
+      "source_hash": "f7240941f7d78247aed371a146a6ded198dd843785735fe703829b465f3179a6",
+      "fields": {
+        "common_name": "Macieira-brava das pradarias",
+        "bloom_tip": "Esta flor de macieira é encantadora e floresce entre abril e maio.",
+        "fruit_tip": "O fruto madura até adquirir uma cor amarela vibrante, o que o torna adequado para fins ornamentais.",
+        "description": "A Macieira-brava das pradarias é uma árvore decídua pequena e de copa larga, nativa das pradarias e margens de bosques do centro dos Estados Unidos, de Iowa ao sul até o Missouri e o Texas. Em abril e maio, cobre-se de uma nuvem de flores perfumadas de um rosa suave que esmaecem para branco com a idade, atraindo abelhas de longe. No final do verão, seus ramos carregam pequenas maçãs duras, amarelo-esverdeadas, que persistem até o outono, apreciadas mais como alimento para a fauna e por seu valor ornamental do que para consumo fresco. Tolerante a solos pobres e pedregosos de pradaria, desde que a drenagem seja adequada, prospera sob sol pleno e é uma árvore-exemplar resistente e de longa vida para jardins naturalizados e plantios voltados à fauna silvestre nas zonas USDA 4 a 8.",
+        "history_text_short": "Conhecida como 'Bechtel's Crab' após a descoberta de sua rara forma de flor dupla numa fazenda de Illinois na década de 1840, as flores primaveris rosadas e extremamente perfumadas da Macieira-brava das pradarias a tornaram um elemento querido das fazendas do Meio-Oeste, e sua forma silvestre continua sendo alimento vital para abelhas e aves no inverno.",
+        "history_text_long": "A Macieira-brava das pradarias (Malus ioensis) cresce silvestre pelas pradarias de capim alto e margens de bosques do Meio-Oeste americano, e tanto para os povos nativos quanto para os primeiros colonizadores, suas pequenas maçãs duras e ácidas eram um alimento colhido sazonalmente, melhor depois que uma geada as suavizava e adoçava. Sua fama duradoura, porém, remonta a uma única fazenda perto de Staunton, Illinois, onde, na década de 1840, um cultivador chamado E. Bechtel notou uma Macieira-brava das pradarias silvestre com uma mutação inusual: flores completamente dobradas, repletas de dezenas de pétalas rosa suaves dispostas em camadas como uma pequena rosa, e tão perfumadas que os vizinhos conseguiam sentir o cheiro de uma árvore florida a distância, vindo da estrada. Bechtel propagou e vendeu a muda, e no final do século XIX, 'Bechtel's Crab', como a cultivar passou a ser chamada, havia se espalhado por fazendas, cemitérios e jardins frontais por todo o Meio-Oeste e além, apreciada unicamente por sua exibição primaveril e não por seu fruto. Para gerações de famílias americanas, um Bechtel's Crab florescendo perto da varanda ou ao longo do caminho a cada abril era tão um anúncio da primavera quanto o retorno dos tordos-americanos, e muitas das velhas e retorcidas macieiras-bravas ainda encontradas em fazendas abandonadas e cemitérios rurais remontam diretamente à descoberta original de Bechtel. A espécie silvestre em si continua sendo uma importante fonte de néctar precoce para as abelhas e seu pequeno fruto persistente um alimento de inverno para as aves, de modo que mesmo onde a elegante forma de flor dobrada nunca se popularizou, a simples Macieira-brava das pradarias continua realizando o mesmo trabalho silencioso de sempre.",
+        "name_origin": "Seu nome de espécie, ioensis, significa simplesmente 'de Iowa', em homenagem ao estado no coração de sua área de distribuição nativa na pradaria de capim alto norte-americana.",
+        "symbolism_story": "Gerações de famílias agricultoras do Meio-Oeste aguardavam todo mês de abril a floração da macieira-brava junto ao caminho, vendo sua súbita explosão de rosa e branco como o sinal mais seguro de que o rigoroso inverno da pradaria finalmente havia terminado e a estação de plantio começava.",
+        "flower_meaning": "Renovação",
+        "fragrance": {
+          "notes": "As flores exalam uma fragrância floral intensa e adocicada, especialmente pronunciada na forma de flor dupla 'Bechtel's Crab'."
+        },
+        "uses_list": [
+          {
+            "text": "Suas flores primaveris são intensamente perfumadas, especialmente na forma de flor dupla 'Bechtel's Crab', antes comum nas fazendas americanas."
+          },
+          {
+            "text": "Uma importante fonte de néctar precoce para abelhas e uma fonte persistente de alimento de inverno para aves."
+          },
+          {
+            "text": "Cultivada como árvore ornamental de flor por sua espetacular exibição primaveril, mais do que por seu fruto pequeno e ácido."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Renovação",
+            "description": "Por ser uma das primeiras árvores a florescer na pradaria a cada primavera, a Macieira-brava das pradarias passou a simbolizar a renovação e a promessa da estação de crescimento por vir; suas flores eram vistas pelas primeiras famílias do Meio-Oeste como um sinal confiável de que o inverno finalmente havia se rompido."
+          }
+        ],
+        "toxicity": {
+          "headline": "Toxicidade desconhecida",
+          "active_compound_display": "Nenhum relatado",
+          "notes_en": "Nenhuma correspondência com fontes de referência sobre toxicidade foi encontrada; tratado como não relatado (a estimativa do LLM não é verificada por fontes).",
+          "human": {
+            "exposure": "Nenhuma via de exposição é relatada.",
+            "effect": "Nenhum efeito tóxico é relatado.",
+            "note": "A toxicidade para humanos não está bem documentada; recomenda-se cautela até que seja verificada."
+          },
+          "dog": {
+            "exposure": "Nenhuma via de exposição é relatada.",
+            "effect": "Nenhum efeito tóxico é relatado.",
+            "note": "A toxicidade para cães não está bem documentada; recomenda-se cautela até que seja verificada."
+          },
+          "cat": {
+            "exposure": "Nenhuma via de exposição é relatada.",
+            "effect": "Nenhum efeito tóxico é relatado.",
+            "note": "A toxicidade para gatos não está bem documentada; recomenda-se cautela até que seja verificada."
           }
         }
       }

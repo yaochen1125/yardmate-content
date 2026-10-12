@@ -3,8 +3,8 @@
   "locale": "es",
   "source": {
     "resource": "plants_detail.json",
-    "sha256": "5dd042817138bc21bf20d740fbc716d6620c949302c4e1f878bf63bbec1e5a9a",
-    "record_count": 1743
+    "sha256": "d16c20811874f34775dc7e7f379ad76da59adbb789a8a3a8d71254de151716c0",
+    "record_count": 1747
   },
   "records": {
     "AAA0001": {
@@ -106679,6 +106679,220 @@
             "exposure": "No se reporta ninguna vía de exposición.",
             "effect": "No se reporta ningún efecto tóxico.",
             "note": "No se reporta toxicidad para los gatos en este catálogo; esto no es evidencia de que la planta sea comestible o inofensiva."
+          }
+        }
+      }
+    },
+    "AAA1745": {
+      "source_hash": "6b7c5ed4676d8d023c47f79a8e5f6fd419972b8db788395e4703847b27ee9cba",
+      "fields": {
+        "common_name": "Verbena de las praderas",
+        "bloom_tip": "El periodo de floración de esta planta va de abril a septiembre, y resulta muy encantadora en plena floración.",
+        "fruit_tip": "Sus frutos son de color marrón y tienen valor ornamental.",
+        "description": "La Verbena de las praderas es una silvestre perenne baja y tapizante, originaria de las praderas secas, los pastizales y los bordes de carretera del centro-sur de Estados Unidos y el norte de México. Sus hojas parecidas a helechos, profundamente lobuladas, se extienden formando un montículo bajo de apenas unos centímetros de altura, coronado desde la primavera hasta el otoño por densos racimos redondeados de pequeñas flores de cinco pétalos, de color rosa a púrpura, que atraen a mariposas y abejas en gran número. Extremadamente tolerante al calor, la sequía y los suelos pobres, rocosos o arenosos, prospera a pleno sol con buen drenaje y es un elemento habitual de los jardines xerófilos, los prados silvestres y las plantaciones de carretera en Texas y las llanuras del sur.",
+        "history_text_short": "Pieza clave del programa texano de flores silvestres en las carreteras, impulsado a mediados de siglo por Lady Bird Johnson, la Verbena de las praderas sigue cubriendo cada primavera y verano los bordes de las carreteras y los jardines nativos con bajos montículos de flores rosa-púrpura que alimentan a mariposas y abejas durante los meses más calurosos y secos.",
+        "history_text_long": "La Verbena de las praderas crece de forma silvestre por las praderas secas y los bordes de caliza de las carreteras de Texas, Oklahoma, Nuevo México y el norte de México, donde durante generaciones ha cubierto discretamente los márgenes de los caminos de carretas y, más tarde, de las autopistas, con sus bajos montículos de flores rosa-púrpura. Su mayor fama llegó en el siglo XX, cuando se convirtió en una de las especies emblemáticas del programa texano de flores silvestres en carreteras, un esfuerzo impulsado de forma más visible por la primera dama Lady Bird Johnson. A partir de la década de 1960, Johnson presionó por leyes de embellecimiento de carreteras y más tarde fundó lo que hoy es el Lady Bird Johnson Wildflower Center en Austin, animando al Departamento de Transporte de Texas a sembrar flores silvestres nativas en las medianas y bermas de las carreteras en lugar de segarlas por completo. La Verbena de las praderas, lo bastante resistente para sobrevivir al corte, la sequía y el suelo compactado de las cunetas sin dejar de florecer durante meses, se convirtió en una de las especies clave plantadas junto al más famoso lupino de Texas, transformando miles de kilómetros de autopista en franjas onduladas de color cada primavera y verano. Para generaciones de conductores texanos, una cuneta cubierta de sus cabezuelas rosa-púrpura llegó a ser tan símbolo del hogar como el propio lupino, y la planta sigue siendo una favorita entre los jardineros de plantas nativas y los conservacionistas de polinizadores, que la valoran por alimentar a mariposas y abejas durante los meses más calurosos del año con casi nada de agua.",
+        "name_origin": "Su nombre de género, Glandularia, hace referencia a las pequeñas estructuras glandulares de la planta, mientras que el nombre de especie bipinnatifida describe sus hojas dos veces divididas, parecidas a plumas.",
+        "symbolism_story": "Para generaciones de tejanos, una cuneta cubierta de Verbena de las praderas floreciendo en pleno calor del verano se ha erigido como una pequeña y tenaz prueba de que la belleza puede arraigar y persistir incluso donde el suelo es pobre y las condiciones son duras.",
+        "flower_meaning": "Resiliencia",
+        "fragrance": {
+          "notes": "Las flores desprenden un leve y dulce aroma, más perceptible en las tardes cálidas."
+        },
+        "uses_list": [
+          {
+            "text": "Una importante fuente de néctar para mariposas y abejas nativas, floreciendo casi continuamente desde la primavera hasta el otoño."
+          },
+          {
+            "text": "Se planta ampliamente en jardines xerófilos y a lo largo de las autopistas de Texas como una baja cubierta de color resistente a la sequía."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Resiliencia",
+            "description": "Al prosperar en suelo pobre, calor abrasador y el abandono de las cunetas mientras florece durante meses, la Verbena de las praderas ha llegado a representar la resiliencia silenciosa y la belleza que persiste incluso en los rincones más duros y olvidados de la tierra."
+          }
+        ],
+        "toxicity": {
+          "headline": "No se reportó toxicidad",
+          "active_compound_display": "Ninguno reportado",
+          "notes_en": "No se encontró ninguna coincidencia con fuentes autorizadas sobre toxicidad; se trata como no reportado (la estimación del LLM no está verificada por fuentes).",
+          "human": {
+            "exposure": "No se reporta ninguna ruta de exposición.",
+            "effect": "No se reporta ningún efecto tóxico.",
+            "note": "No se reporta toxicidad para humanos en este catálogo; esto no es evidencia de que la planta sea comestible o inofensiva."
+          },
+          "dog": {
+            "exposure": "No se reporta ninguna ruta de exposición.",
+            "effect": "No se reporta ningún efecto tóxico.",
+            "note": "No se reporta toxicidad para perros en este catálogo; esto no es evidencia de que la planta sea comestible o inofensiva."
+          },
+          "cat": {
+            "exposure": "No se reporta ninguna ruta de exposición.",
+            "effect": "No se reporta ningún efecto tóxico.",
+            "note": "No se reporta toxicidad para gatos en este catálogo; esto no es evidencia de que la planta sea comestible o inofensiva."
+          }
+        }
+      }
+    },
+    "AAA1746": {
+      "source_hash": "f5d0651c4d55359ebcf2b8006d66a86f50d56397e2b0ecb29646a0915d467d42",
+      "fields": {
+        "common_name": "Madre de Miles Verde",
+        "description": "La Madre de Miles Verde es una suculenta originaria de las praderas secas de Madagascar, apreciada por sus hojas carnosas y gruesas con bordes festoneados de un verde grisáceo. En el borde de cada hoja se forman pequeños hijuelos que caen y enraízan donde aterrizan, permitiendo que una sola planta se extienda hasta formar una colonia en una sola temporada. En los meses cálidos, produce tallos altos coronados por racimos de pequeñas flores estrelladas de color blanco verdoso. Fácil de cuidar y tolerante a la sequía, prefiere suelos arenosos y bien drenados a pleno sol, y es popular tanto como planta de interior como en jardines de rocas, aunque su entusiasta autopropagación exige vigilancia.",
+        "history_text_short": "Apodada la Madre de Miles Verde por los diminutos hijuelos que brotan en el borde de sus hojas, esta suculenta de Madagascar se convirtió en una clásica \"planta para compartir\" — tan fácil de multiplicar que los jardineros intercambiaban hojas en vez de comprar plantas nuevas, transmitiéndola de mano en mano durante generaciones.",
+        "history_text_long": "La Madre de Miles Verde (Kalanchoe laetivirens) crece de forma silvestre en los bosques secos y rocosos de Madagascar, una isla que los botánicos llaman desde hace tiempo un laboratorio vivo de suculentas evolucionadas en aislamiento. Los cazadores de plantas europeos que trabajaban para los jardines coloniales franceses en el siglo XIX se sintieron atraídos por un rasgo de las Kalanchoe de Madagascar que parecía demasiado extraño para ser real: diminutas plantitas ya formadas que crecían directamente de las muescas en el borde de cada hoja, listas para caer y enraizar en cuanto tocaban el suelo. Esta forma de reproducirse sin semillas, llamada viviparidad, convertía una sola hoja en un vivero ambulante, y los jardineros apodaron a todo el grupo de especies similares \"Madre de Miles\" por los enjambres de hijuelos que una sola planta madre podía producir en una temporada. La Madre de Miles Verde recibió su propio nombre porque sus hijuelos permanecen de un verde fresco en lugar del moteado rojizo de su prima más famosa de Madagascar, por lo que los cultivadores empezaron a llamarla así para distinguir a ambas en los catálogos de los viveros. Su enorme facilidad para multiplicarse la convirtió en una clásica \"planta para compartir\" — del tipo que los amigos intercambian por encima de una cerca o en una ventana en lugar de comprar, ya que una sola hoja en una maceta basta para iniciar toda una nueva colonia. Ese mismo vigor, que cautivó a generaciones de jardineros aficionados, es también la razón por la que la especie se ha escapado del cultivo en algunos climas cálidos y hoy crece como una maleza resistente y autosuficiente junto a carreteras y en terrenos alterados.",
+        "name_origin": "Se cree que el nombre del género Kalanchoe proviene de una expresión china registrada por el botánico francés Michel Adanson en el siglo XVIII para una suculenta emparentada; el nombre de la especie, laetivirens, significa en latín \"alegremente verde\", en referencia a su follaje luminoso.",
+        "symbolism_story": "En muchos hogares, recibir una hoja o un hijuelo de esta especie se considera una pequeña bendición — un comienzo que no cuesta nada pero que se multiplica por sí solo, en sintonía con su fama popular como símbolo de abundancia imparable que se transmite de un hogar a otro.",
+        "flower_meaning": "Abundancia",
+        "uses_list": [
+          {
+            "text": "Se cultiva como planta de interior de fácil cuidado y como ejemplar de jardín de suculentas por su follaje vistoso y festoneado."
+          },
+          {
+            "text": "Sus racimos de pequeñas flores estrelladas atraen abejas y otros polinizadores cuando florece."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Abundancia",
+            "description": "Como una sola hoja puede dar origen a decenas de plantas nuevas, la Madre de Miles Verde se considera un símbolo vivo de abundancia y fecundidad, y a menudo se regala como un obsequio que se cree trae prosperidad a un nuevo hogar."
+          }
+        ],
+        "toxicity": {
+          "headline": "Humanos Leve · Mascotas Moderado",
+          "active_compound_display": "bufadienólidos",
+          "notes_en": "Todas las partes contienen glucósidos cardíacos (bufadienólidos); su ingestión puede causar molestias gastrointestinales en mascotas y, en grandes cantidades, alteraciones del ritmo cardíaco.",
+          "human": {
+            "exposure": "Ingestión de hojas y tallos.",
+            "effect": "Náuseas leves y vómitos si se ingieren grandes cantidades.",
+            "note": "Todas las partes contienen glucósidos cardíacos (bufadienólidos); su ingestión puede causar molestias gastrointestinales en mascotas y, en grandes cantidades, alteraciones del ritmo cardíaco.",
+            "symptoms": [
+              "Náuseas leves.",
+              "Vómitos si se ingieren grandes cantidades."
+            ]
+          },
+          "dog": {
+            "exposure": "Ingestión de hojas y tallos.",
+            "effect": "Vómitos, diarrea y alteraciones del ritmo cardíaco en grandes cantidades.",
+            "note": "Todas las partes contienen glucósidos cardíacos (bufadienólidos); su ingestión puede causar molestias gastrointestinales en mascotas y, en grandes cantidades, alteraciones del ritmo cardíaco.",
+            "symptoms": [
+              "Vómitos.",
+              "Diarrea.",
+              "Alteraciones del ritmo cardíaco en grandes cantidades."
+            ]
+          },
+          "cat": {
+            "exposure": "Ingestión de hojas y tallos.",
+            "effect": "Vómitos, diarrea y alteraciones del ritmo cardíaco en grandes cantidades.",
+            "note": "Todas las partes contienen glucósidos cardíacos (bufadienólidos); su ingestión puede causar molestias gastrointestinales en mascotas y, en grandes cantidades, alteraciones del ritmo cardíaco.",
+            "symptoms": [
+              "Vómitos.",
+              "Diarrea.",
+              "Alteraciones del ritmo cardíaco en grandes cantidades."
+            ]
+          }
+        }
+      }
+    },
+    "AAA1747": {
+      "source_hash": "1f0b7e9e2660019783274b24ed214cef77b86b3955e456faa061f301d3db4e4b",
+      "fields": {
+        "common_name": "Limnophila aromatica",
+        "description": "Limnophila aromatica es una hierba semiacuática y aromática, originaria de los humedales, arrozales y riberas de ríos del sudeste asiático. Sus hojas delgadas y lanceoladas liberan un aroma cítrico y con matices de comino al triturarlas, y en estado silvestre se extiende por las orillas fangosas con pequeñas flores violáceas entre el follaje. Prospera en suelo constantemente húmedo a mojado y ligeramente ácido, con sol parcial, y resulta igual de apropiada junto a un estanque, como hierba de cocina o sumergida como una popular planta de acuario apreciada por sus tallos rojizo-verdosos.",
+        "history_text_short": "Conocida en Vietnam como 'rau ngò om', Limnophila aromatica es el ingrediente imprescindible que se añade al final en el canh chua, la clásica sopa agridulce de pescado — su intenso toque cítrico y a comino es tan distintivo que los cocineros mantienen una maceta junto a la puerta de la cocina solo para tenerla siempre a mano.",
+        "history_text_long": "Limnophila aromatica crece en cualquier lugar donde los humedales del sudeste asiático se encuentran con la tierra cultivada: a lo largo de los márgenes inundados de los arrozales, en zanjas junto a los caminos y en las orillas fangosas de los ríos de Vietnam, Tailandia, Laos y Camboya. Durante generaciones, los agricultores que vadean los arrozales para cuidar sus cultivos se han agachado para arrancar sus delgados tallos, ya que el intenso aroma cítrico y a comino de la planta la convierte en una de las hierbas aromáticas más apreciadas de la cocina regional. En Vietnam se la conoce sobre todo como 'rau ngò om' o 'ngò ôm', un ingrediente imprescindible en el canh chua, la clásica sopa agridulce de pescado, donde un puñado de hojas desmenuzadas, añadido justo al final, aporta al caldo un frescor intenso, casi mentolado y cítrico, que ninguna otra hierba logra igualar. Los cocineros caseros suelen cultivarla tradicionalmente en una maceta con agua estancada o en un rincón húmedo del jardín, precisamente para tener siempre un puñado fresco a mano en la cocina. En el siglo XX, ese mismo hábito semiacuático que facilita su recolección en los campos inundados atrajo la atención de los aficionados a los acuarios fuera de Asia, quienes descubrieron que sus tallos, al crecer completamente sumergidos, adquieren un intenso tono rosado-rojizo y forman densos y coloridos setos subacuáticos, convirtiendo así una humilde hierba de sopa en una de las plantas de tallo más populares del mundo del acuarismo paisajístico.",
+        "name_origin": "Su nombre de género, Limnophila, proviene del griego limne ('pantano') y philos ('amante'), en referencia a su hábitat de humedales, mientras que aromatica alude al aroma intenso y cítrico de sus hojas trituradas.",
+        "symbolism_story": "En muchos hogares vietnamitas, una maceta de esta hierba junto a la puerta de la cocina es tan habitual como la propia cocina, y el gesto de desmenuzar sus hojas en una olla de sopa hirviendo conlleva el consuelo discreto de una receta familiar preparada de la misma manera durante generaciones.",
+        "flower_meaning": "Nutrición",
+        "fragrance": {
+          "notes": "Las hojas y tallos triturados liberan un aroma cítrico intenso con matices de comino."
+        },
+        "uses_list": [
+          {
+            "text": "Una hierba fresca básica en la cocina vietnamita y de otros países del sudeste asiático, especialmente en sopas agrias de pescado como el canh chua."
+          },
+          {
+            "text": "Se cultiva sumergida como una popular planta de tallo para acuarios, apreciada por su coloración rosada bajo el agua."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Nutrición",
+            "description": "Al ser una hierba que crece en una maceta junto a casi todas las puertas de cocina vietnamitas y que se incorpora a la sopa en la mesa familiar, Limnophila aromatica ha llegado a simbolizar la cocina casera, el consuelo y el cuidado transmitido a través de generaciones de comidas familiares."
+          }
+        ],
+        "toxicity": {
+          "headline": "No se reportó toxicidad",
+          "active_compound_display": "Ninguno reportado",
+          "notes_en": "No se encontró ninguna coincidencia con fuentes autorizadas sobre toxicidad; se trata como no reportado (la estimación del LLM no está verificada por fuentes).",
+          "human": {
+            "exposure": "No se reporta ninguna ruta de exposición.",
+            "effect": "No se reporta ningún efecto tóxico.",
+            "note": "No se reporta toxicidad para humanos en este catálogo; esto no es evidencia de que la planta sea comestible o inofensiva."
+          },
+          "dog": {
+            "exposure": "No se reporta ninguna ruta de exposición.",
+            "effect": "No se reporta ningún efecto tóxico.",
+            "note": "No se reporta toxicidad para perros en este catálogo; esto no es evidencia de que la planta sea comestible o inofensiva."
+          },
+          "cat": {
+            "exposure": "No se reporta ninguna ruta de exposición.",
+            "effect": "No se reporta ningún efecto tóxico.",
+            "note": "No se reporta toxicidad para gatos en este catálogo; esto no es evidencia de que la planta sea comestible o inofensiva."
+          }
+        }
+      }
+    },
+    "AAA1748": {
+      "source_hash": "f7240941f7d78247aed371a146a6ded198dd843785735fe703829b465f3179a6",
+      "fields": {
+        "common_name": "Manzano Silvestre de las Praderas",
+        "bloom_tip": "Esta flor de manzano es encantadora y florece entre abril y mayo.",
+        "fruit_tip": "El fruto madura hasta adquirir un color amarillo brillante, lo que lo hace adecuado para fines ornamentales.",
+        "description": "El Manzano Silvestre de las Praderas es un árbol caducifolio pequeño y de copa amplia, originario de las praderas y los bordes boscosos del centro de Estados Unidos, desde Iowa hacia el sur hasta Missouri y Texas. En abril y mayo se cubre de una nube de flores fragantes de un suave rosa que se desvanecen a blanco con la edad, atrayendo abejas desde lejos. A finales del verano, sus ramas llevan pequeñas manzanas duras de color verde amarillento que persisten hasta el otoño, apreciadas más como alimento para la fauna y por su valor ornamental que para comerse frescas. Tolerante a suelos pobres y pedregosos de pradera siempre que el drenaje sea adecuado, prospera a pleno sol y constituye un árbol espécimen resistente y longevo para jardines naturalizados y plantaciones para la fauna silvestre en las zonas USDA 4 a 8.",
+        "history_text_short": "Conocido como 'Bechtel's Crab' tras el descubrimiento de su rara forma de flor doble en una granja de Illinois en la década de 1840, las fragantes flores rosadas de primavera del Manzano Silvestre de las Praderas lo convirtieron en un elemento querido de las granjas del Medio Oeste, y su forma silvestre sigue siendo un alimento vital para las abejas y las aves invernales.",
+        "history_text_long": "El Manzano Silvestre de las Praderas (Malus ioensis) crece de forma silvestre por las praderas de hierba alta y los bordes boscosos del Medio Oeste estadounidense, y tanto para los pueblos nativos como para los primeros colonos sus pequeñas manzanas duras y ácidas eran un alimento recolectado de temporada, mejor después de que una helada las hubiera suavizado y endulzado. Su fama duradera, sin embargo, se remonta a una sola granja cerca de Staunton, Illinois, donde en la década de 1840 un cultivador llamado E. Bechtel notó un Manzano Silvestre de las Praderas silvestre con una mutación inusual: flores completamente dobles, repletas de docenas de suaves pétalos rosados dispuestos en capas como una pequeña rosa, y tan fragantes que los vecinos podían oler un árbol en flor desde el camino. Bechtel propagó y vendió el plantón, y a finales del siglo XIX, 'Bechtel's Crab', como se llegó a llamar el cultivar, se había extendido a granjas, cementerios y jardines delanteros por todo el Medio Oeste y más allá, apreciado únicamente por su despliegue primaveral y no por su fruto. Para generaciones de familias estadounidenses, un Bechtel's Crab floreciendo junto al porche o a lo largo del camino cada abril era tan anuncio de la primavera como el regreso de los petirrojos, y muchos de los viejos y retorcidos manzanos silvestres que aún se encuentran en granjas abandonadas y cementerios rurales se remontan directamente al descubrimiento original de Bechtel. La especie silvestre en sí sigue siendo una importante fuente de néctar temprano para las abejas y su pequeño fruto persistente, un alimento invernal para las aves, de modo que incluso donde la elegante forma de flor doble nunca se impuso, el sencillo Manzano Silvestre de las Praderas sigue realizando el mismo trabajo silencioso de siempre.",
+        "name_origin": "Su nombre de especie, ioensis, significa simplemente 'de Iowa', en honor al estado que se encuentra en el corazón de su área de distribución nativa en la pradera de hierba alta norteamericana.",
+        "symbolism_story": "Generaciones de familias agricultoras del Medio Oeste esperaban cada abril a que floreciera el manzano silvestre junto al camino, considerando su repentino estallido de rosa y blanco como la señal más segura de que el duro invierno de la pradera había terminado de verdad y comenzaba la temporada de siembra.",
+        "flower_meaning": "Renovación",
+        "fragrance": {
+          "notes": "Las flores desprenden una fragancia floral intensa y dulce, especialmente pronunciada en la forma de flor doble 'Bechtel's Crab'."
+        },
+        "uses_list": [
+          {
+            "text": "Sus flores primaverales son intensamente fragantes, especialmente en la forma de flor doble 'Bechtel's Crab', antaño común en las granjas estadounidenses."
+          },
+          {
+            "text": "Una importante fuente de néctar temprano para las abejas y una fuente de alimento invernal persistente para las aves."
+          },
+          {
+            "text": "Se cultiva como árbol ornamental de floración por su espectacular despliegue primaveral, más que por su fruto pequeño y ácido."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Renovación",
+            "description": "Como uno de los primeros árboles en florecer en la pradera cada primavera, el Manzano Silvestre de las Praderas llegó a simbolizar la renovación y la promesa de la temporada de crecimiento por venir; sus flores eran consideradas por las primeras familias del Medio Oeste como una señal fiable de que el invierno finalmente había terminado."
+          }
+        ],
+        "toxicity": {
+          "headline": "Toxicidad desconocida",
+          "active_compound_display": "Ninguno reportado",
+          "notes_en": "No se encontró ninguna coincidencia con fuentes autorizadas sobre toxicidad; se trata como no reportado (la estimación del LLM no está verificada por fuentes).",
+          "human": {
+            "exposure": "No se reporta ninguna ruta de exposición.",
+            "effect": "No se reporta ningún efecto tóxico.",
+            "note": "La toxicidad para los humanos no está bien documentada; se recomienda precaución hasta que se verifique."
+          },
+          "dog": {
+            "exposure": "No se reporta ninguna ruta de exposición.",
+            "effect": "No se reporta ningún efecto tóxico.",
+            "note": "La toxicidad para los perros no está bien documentada; se recomienda precaución hasta que se verifique."
+          },
+          "cat": {
+            "exposure": "No se reporta ninguna ruta de exposición.",
+            "effect": "No se reporta ningún efecto tóxico.",
+            "note": "La toxicidad para los gatos no está bien documentada; se recomienda precaución hasta que se verifique."
           }
         }
       }

@@ -3,8 +3,8 @@
   "locale": "fr",
   "source": {
     "resource": "plants_detail.json",
-    "sha256": "5dd042817138bc21bf20d740fbc716d6620c949302c4e1f878bf63bbec1e5a9a",
-    "record_count": 1743
+    "sha256": "d16c20811874f34775dc7e7f379ad76da59adbb789a8a3a8d71254de151716c0",
+    "record_count": 1747
   },
   "records": {
     "AAA0001": {
@@ -106665,6 +106665,220 @@
             "exposure": "Aucune voie d'exposition n'est signalée.",
             "effect": "Aucun effet toxique n'est signalé.",
             "note": "Aucune toxicité n'est signalée pour les chats dans ce catalogue ; cela ne prouve pas que la plante soit comestible ou inoffensive."
+          }
+        }
+      }
+    },
+    "AAA1745": {
+      "source_hash": "6b7c5ed4676d8d023c47f79a8e5f6fd419972b8db788395e4703847b27ee9cba",
+      "fields": {
+        "common_name": "Verveine des prairies",
+        "bloom_tip": "La période de floraison de cette plante s'étend d'avril à septembre, et elle est particulièrement charmante en pleine floraison.",
+        "fruit_tip": "Ses fruits sont bruns et ont une valeur ornementale.",
+        "description": "La Verveine des prairies est une plante vivace basse et tapissante, originaire des prairies sèches, des pâturages et des bords de route du centre-sud des États-Unis et du nord du Mexique. Ses feuilles fougères, profondément lobées, s'étalent en un coussin bas de quelques centimètres de hauteur, couronné du printemps à l'automne par des grappes denses et arrondies de petites fleurs à cinq pétales, roses à violettes, qui attirent papillons et abeilles en grand nombre. Extrêmement tolérante à la chaleur, à la sécheresse et aux sols pauvres, caillouteux ou sablonneux, elle prospère en plein soleil avec un bon drainage et constitue un élément incontournable des jardins xérophytes, des prairies fleuries et des plantations routières au Texas et dans les plaines du Sud.",
+        "history_text_short": "Pilier du programme texan de fleurs sauvages au bord des routes, défendu au milieu du XXe siècle par Lady Bird Johnson, la Verveine des prairies continue chaque printemps et chaque été de couvrir les bas-côtés et les jardins indigènes de bas coussins de fleurs rose-violet qui nourrissent papillons et abeilles durant les mois les plus chauds et les plus secs.",
+        "history_text_long": "La Verveine des prairies croît à l'état sauvage dans les prairies sèches et les accotements calcaires du Texas, de l'Oklahoma, du Nouveau-Mexique et du nord du Mexique, où elle a tranquillement tapissé pendant des générations les bords des pistes de chariots puis des autoroutes de ses bas coussins de fleurs rose-violet. Sa renommée plus large est venue au XXe siècle, lorsqu'elle est devenue l'une des espèces emblématiques du programme texan de fleurs sauvages au bord des routes, un effort porté le plus visiblement par la Première dame Lady Bird Johnson. À partir des années 1960, Johnson a poussé pour des lois d'embellissement des autoroutes et a ensuite fondé ce qui est aujourd'hui le Lady Bird Johnson Wildflower Center à Austin, encourageant le département des transports du Texas à ensemencer les terre-pleins centraux et les accotements avec des fleurs sauvages indigènes plutôt que de les tondre à ras. La Verveine des prairies, assez robuste pour survivre à la tonte, à la sécheresse et au sol compacté des bords de route tout en continuant à fleurir pendant des mois, est devenue l'une des espèces de base plantées aux côtés du plus célèbre lupin du Texas, transformant des milliers de kilomètres d'autoroute en bandes de couleur ondulantes chaque printemps et chaque été. Pour des générations d'automobilistes texans, un bas-côté couvert de ses têtes florales rose-violet est devenu un symbole du pays d'origine tout autant que le lupin lui-même, et la plante reste une favorite des jardiniers de plantes indigènes et des défenseurs des pollinisateurs, qui l'apprécient pour nourrir papillons et abeilles durant les mois les plus chauds de l'année avec presque pas d'eau.",
+        "name_origin": "Son nom de genre, Glandularia, fait référence aux minuscules structures glandulaires de la plante, tandis que le nom d'espèce bipinnatifida décrit ses feuilles deux fois divisées, semblables à des plumes.",
+        "symbolism_story": "Pour des générations de Texans, un bas-côté couvert de Verveine des prairies fleurissant au plus fort de la chaleur de l'été est resté une petite preuve obstinée que la beauté peut prendre racine et persister même là où le sol est pauvre et les conditions rudes.",
+        "flower_meaning": "Résilience",
+        "fragrance": {
+          "notes": "Les fleurs dégagent un léger parfum sucré, surtout perceptible les après-midis chauds."
+        },
+        "uses_list": [
+          {
+            "text": "Une source de nectar importante pour les papillons et les abeilles indigènes, fleurissant presque continuellement du printemps à l'automne."
+          },
+          {
+            "text": "Largement plantée dans les jardins xérophytes et le long des autoroutes du Texas comme couvre-sol bas et résistant à la sécheresse."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Résilience",
+            "description": "En prospérant dans un sol pauvre, une chaleur accablante et la négligence des bords de route tout en continuant à fleurir pendant des mois, la Verveine des prairies en est venue à représenter la résilience discrète et la beauté qui persiste même dans les coins les plus rudes et les plus négligés du territoire."
+          }
+        ],
+        "toxicity": {
+          "headline": "Pas de toxicité rapportée",
+          "active_compound_display": "Aucun signalé",
+          "notes_en": "Aucune correspondance avec une source faisant autorité sur la toxicité n'a été trouvée ; traité comme non signalé (l'estimation du LLM n'est pas vérifiée par une source).",
+          "human": {
+            "exposure": "Aucune voie d'exposition n'est signalée.",
+            "effect": "Aucun effet toxique n'est signalé.",
+            "note": "Aucune toxicité n'est signalée pour les humains dans ce catalogue ; cela ne prouve pas que la plante soit comestible ou inoffensive."
+          },
+          "dog": {
+            "exposure": "Aucune voie d'exposition n'est signalée.",
+            "effect": "Aucun effet toxique n'est signalé.",
+            "note": "Aucune toxicité n'est signalée pour les chiens dans ce catalogue ; cela ne prouve pas que la plante soit comestible ou inoffensive."
+          },
+          "cat": {
+            "exposure": "Aucune voie d'exposition n'est signalée.",
+            "effect": "Aucun effet toxique n'est signalé.",
+            "note": "Aucune toxicité n'est signalée pour les chats dans ce catalogue ; cela ne prouve pas que la plante soit comestible ou inoffensive."
+          }
+        }
+      }
+    },
+    "AAA1746": {
+      "source_hash": "f5d0651c4d55359ebcf2b8006d66a86f50d56397e2b0ecb29646a0915d467d42",
+      "fields": {
+        "common_name": "Mère de Milliers Verte",
+        "description": "La Mère de Milliers Verte est une plante succulente originaire des prairies sèches de Madagascar, prisée pour ses feuilles épaisses et charnues aux bords dentés gris-vert. De minuscules plantules se forment sur le bord de chaque feuille et tombent pour s'enraciner partout où elles atterrissent, permettant à une seule plante de se propager en toute une colonie en une saison. Durant les mois chauds, elle produit de hautes tiges couronnées de grappes de petites fleurs étoilées blanc verdâtre. Facile d'entretien et tolérante à la sécheresse, elle préfère un sol sablonneux bien drainé en plein soleil, et est appréciée à la fois comme plante d'intérieur et dans les jardins de rocaille, bien que son ardeur à se multiplier exige une surveillance attentive.",
+        "history_text_short": "Surnommée la Mère de Milliers Verte pour les minuscules plantules qui poussent sur le bord de ses feuilles, cette succulente de Madagascar est devenue une véritable \"plante à partager\" — si facile à multiplier que les jardiniers échangeaient des feuilles plutôt que d'acheter de nouvelles plantes, la transmettant de main en main pendant des générations.",
+        "history_text_long": "La Mère de Milliers Verte (Kalanchoe laetivirens) croît à l'état sauvage dans les forêts sèches et rocailleuses de Madagascar, une île que les botanistes qualifient depuis longtemps de laboratoire vivant pour les succulentes évoluées en isolement. Les chasseurs de plantes européens travaillant pour les jardins coloniaux français au XIXe siècle furent attirés par un trait des Kalanchoe de Madagascar qui semblait presque trop étrange pour être réel : de minuscules plantules entièrement formées poussant directement dans les encoches du bord de chaque feuille, prêtes à tomber et à s'enraciner dès qu'elles touchaient le sol. Ce mode de reproduction sans graine, appelé viviparité, transformait une seule feuille en pépinière ambulante, et les jardiniers surnommèrent tout le groupe d'espèces similaires \"Mère de Milliers\" pour les essaims de plantules qu'un seul parent pouvait produire en une saison. La Mère de Milliers Verte tient son nom du fait que ses plantules restent d'un vert tendre plutôt que de présenter les taches rougeâtres de sa cousine malgache plus célèbre, si bien que les producteurs ont commencé à l'appeler ainsi pour distinguer les deux dans les catalogues de pépinière. Sa facilité extrême à se multiplier en fit une classique \"plante à partager\" — du genre que les amis échangent par-dessus une clôture ou sur le rebord d'une fenêtre plutôt que d'acheter, puisqu'une seule feuille mise en pot suffit à démarrer toute une nouvelle colonie. Cette même vigueur, qui a charmé des générations de jardiniers amateurs, explique aussi pourquoi l'espèce s'est échappée de la culture dans certains climats chauds et pousse aujourd'hui comme une mauvaise herbe robuste et autosuffisante le long des routes et sur les terrains perturbés.",
+        "name_origin": "Le nom de genre Kalanchoe serait issu d'une expression chinoise notée par le botaniste français Michel Adanson au XVIIIe siècle pour une succulente apparentée ; le nom d'espèce laetivirens signifie en latin \"joyeusement vert\", en référence à son feuillage éclatant.",
+        "symbolism_story": "Dans de nombreux foyers, recevoir une feuille ou une plantule de cette espèce est considéré comme une petite bénédiction — un commencement qui ne coûte rien mais se multiplie de lui-même, en accord avec sa réputation populaire de symbole d'abondance intarissable transmis de foyer en foyer.",
+        "flower_meaning": "Abondance",
+        "uses_list": [
+          {
+            "text": "Cultivée comme plante d'intérieur facile d'entretien et comme spécimen de jardin de succulentes pour son feuillage spectaculaire et denté."
+          },
+          {
+            "text": "Ses grappes de petites fleurs étoilées attirent les abeilles et autres pollinisateurs lors de la floraison."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Abondance",
+            "description": "Parce qu'une seule feuille peut donner naissance à des dizaines de nouvelles plantes, la Mère de Milliers Verte est vue comme un symbole vivant d'abondance et de fécondité, souvent offerte en cadeau pour porter prospérité à un nouveau foyer."
+          }
+        ],
+        "toxicity": {
+          "headline": "Humains Légère · Animaux Modérée",
+          "active_compound_display": "bufadiénolides",
+          "notes_en": "Toutes les parties contiennent des glycosides cardiaques (bufadiénolides) ; leur ingestion peut provoquer des troubles gastro-intestinaux chez les animaux de compagnie et, en grande quantité, des troubles du rythme cardiaque.",
+          "human": {
+            "exposure": "Ingestion de feuilles et de tiges.",
+            "effect": "Nausées légères et vomissements en cas d'ingestion de grandes quantités.",
+            "note": "Toutes les parties contiennent des glycosides cardiaques (bufadiénolides) ; leur ingestion peut provoquer des troubles gastro-intestinaux chez les animaux de compagnie et, en grande quantité, des troubles du rythme cardiaque.",
+            "symptoms": [
+              "Nausées légères.",
+              "Vomissements en cas d'ingestion de grandes quantités."
+            ]
+          },
+          "dog": {
+            "exposure": "Ingestion de feuilles et de tiges.",
+            "effect": "Vomissements, diarrhée et troubles du rythme cardiaque en grande quantité.",
+            "note": "Toutes les parties contiennent des glycosides cardiaques (bufadiénolides) ; leur ingestion peut provoquer des troubles gastro-intestinaux chez les animaux de compagnie et, en grande quantité, des troubles du rythme cardiaque.",
+            "symptoms": [
+              "Vomissements.",
+              "Diarrhée.",
+              "Troubles du rythme cardiaque en grande quantité."
+            ]
+          },
+          "cat": {
+            "exposure": "Ingestion de feuilles et de tiges.",
+            "effect": "Vomissements, diarrhée et troubles du rythme cardiaque en grande quantité.",
+            "note": "Toutes les parties contiennent des glycosides cardiaques (bufadiénolides) ; leur ingestion peut provoquer des troubles gastro-intestinaux chez les animaux de compagnie et, en grande quantité, des troubles du rythme cardiaque.",
+            "symptoms": [
+              "Vomissements.",
+              "Diarrhée.",
+              "Troubles du rythme cardiaque en grande quantité."
+            ]
+          }
+        }
+      }
+    },
+    "AAA1747": {
+      "source_hash": "1f0b7e9e2660019783274b24ed214cef77b86b3955e456faa061f301d3db4e4b",
+      "fields": {
+        "common_name": "Limnophila aromatica",
+        "description": "Limnophila aromatica est une herbe semi-aquatique et parfumée, originaire des zones humides, des rizières et des berges de rivières d'Asie du Sud-Est. Ses feuilles fines et lancéolées libèrent, une fois froissées, un parfum citronné aux accents de cumin, et à l'état sauvage elle s'étale sur les berges boueuses avec de petites fleurs violacées parmi le feuillage. Elle prospère dans un sol constamment humide à détrempé et légèrement acide, en mi-ombre, et se sent tout aussi bien au bord d'un bassin, cultivée comme herbe aromatique de cuisine, ou immergée comme une plante d'aquarium populaire prisée pour ses tiges rouge-vert.",
+        "history_text_short": "Connue au Vietnam sous le nom de « rau ngò om », Limnophila aromatica est l'ingrédient indispensable ajouté en dernière minute dans le canh chua, la classique soupe de poisson aigre-douce — sa saveur citronnée et cuminée si particulière pousse les cuisiniers à faire pousser un pot près de la porte de la cuisine pour toujours l'avoir à portée de main.",
+        "history_text_long": "Limnophila aromatica croît partout où les zones humides d'Asie du Sud-Est rencontrent les terres cultivées — le long des bords inondés des rizières, dans les fossés en bord de route et sur les berges boueuses des rivières du Vietnam, de la Thaïlande, du Laos et du Cambodge. Depuis des générations, les agriculteurs qui pataugent dans les rizières pour entretenir leurs cultures se penchent pour en pincer les tiges fines, car le parfum vif, citronné et cuminé de la plante en fait l'une des herbes aromatiques les plus prisées des cuisines de la région. Au Vietnam, elle est surtout connue sous le nom de « rau ngò om » ou « ngò ôm », un ingrédient indispensable du canh chua, la classique soupe de poisson aigre-douce, où une poignée de feuilles déchirées, incorporée à la toute dernière minute, apporte au bouillon une fraîcheur vive, presque mentholée et citronnée, qu'aucune autre herbe ne reproduit vraiment. Les cuisiniers familiaux la cultivent traditionnellement dans un pot d'eau stagnante ou un coin humide du jardin, précisément pour qu'une poignée fraîche soit toujours à portée de main de la cuisine. Au XXe siècle, cette même habitude semi-aquatique, qui facilite sa récolte dans les champs inondés, a attiré l'attention des aquariophiles hors d'Asie, qui ont découvert que ses tiges, cultivées entièrement immergées, prennent une teinte rose-rougeâtre éclatante et forment de denses haies sous-marines colorées — transformant ainsi une humble herbe à soupe en l'une des plantes à tige les plus populaires du monde de l'aquascaping.",
+        "name_origin": "Son nom de genre, Limnophila, vient du grec limne (« marais ») et philos (« qui aime »), en référence à son habitat de zones humides, tandis que aromatica fait allusion au parfum vif et citronné de ses feuilles froissées.",
+        "symbolism_story": "Dans de nombreux foyers vietnamiens, un pot de cette herbe près de la porte de la cuisine est tout aussi incontournable que la cuisinière elle-même, et le geste de déchirer ses feuilles dans une marmite de soupe mijotante porte en lui le réconfort discret d'une recette familiale préparée de la même façon depuis des générations.",
+        "flower_meaning": "Nourriture",
+        "fragrance": {
+          "notes": "Les feuilles et tiges froissées libèrent un parfum citronné intense aux accents de cumin."
+        },
+        "uses_list": [
+          {
+            "text": "Une herbe fraîche incontournable de la cuisine vietnamienne et d'autres cuisines d'Asie du Sud-Est, en particulier dans les soupes de poisson acides comme le canh chua."
+          },
+          {
+            "text": "Cultivée immergée comme une plante à tige d'aquarium populaire, appréciée pour sa coloration rose-rougeâtre sous l'eau."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Nourriture",
+            "description": "Étant une herbe cultivée en pot près de presque toutes les portes de cuisine vietnamiennes et mélangée à la soupe à table en famille, Limnophila aromatica est devenue un symbole de la cuisine familiale, du réconfort et de l'attention transmise à travers des générations de repas en famille."
+          }
+        ],
+        "toxicity": {
+          "headline": "Pas de toxicité rapportée",
+          "active_compound_display": "Aucun signalé",
+          "notes_en": "Aucune correspondance avec une source faisant autorité sur la toxicité n'a été trouvée ; traité comme non signalé (l'estimation du LLM n'est pas vérifiée par une source).",
+          "human": {
+            "exposure": "Aucune voie d'exposition n'est signalée.",
+            "effect": "Aucun effet toxique n'est signalé.",
+            "note": "Aucune toxicité n'est signalée pour les humains dans ce catalogue ; cela ne prouve pas que la plante soit comestible ou inoffensive."
+          },
+          "dog": {
+            "exposure": "Aucune voie d'exposition n'est signalée.",
+            "effect": "Aucun effet toxique n'est signalé.",
+            "note": "Aucune toxicité n'est signalée pour les chiens dans ce catalogue ; cela ne prouve pas que la plante soit comestible ou inoffensive."
+          },
+          "cat": {
+            "exposure": "Aucune voie d'exposition n'est signalée.",
+            "effect": "Aucun effet toxique n'est signalé.",
+            "note": "Aucune toxicité n'est signalée pour les chats dans ce catalogue ; cela ne prouve pas que la plante soit comestible ou inoffensive."
+          }
+        }
+      }
+    },
+    "AAA1748": {
+      "source_hash": "f7240941f7d78247aed371a146a6ded198dd843785735fe703829b465f3179a6",
+      "fields": {
+        "common_name": "Pommier sauvage des prairies",
+        "bloom_tip": "Cette fleur de pommier est charmante et s'épanouit entre avril et mai.",
+        "fruit_tip": "Le fruit mûrit jusqu'à prendre une couleur jaune vif, ce qui le rend adapté à un usage ornemental.",
+        "description": "Le Pommier sauvage des prairies est un petit arbre caduc à large couronne, originaire des prairies et des lisières boisées du centre des États-Unis, de l'Iowa jusqu'au Missouri et au Texas. En avril et mai, il se couvre d'un nuage de fleurs parfumées d'un rose doux qui pâlissent vers le blanc avec l'âge, attirant les abeilles de loin. À la fin de l'été, ses branches portent de petites pommes dures, jaune-vert, qui persistent jusqu'à l'automne, appréciées davantage comme nourriture pour la faune et pour leur valeur ornementale que pour être mangées fraîches. Tolérant les sols pauvres et pierreux des prairies pourvu que le drainage soit correct, il prospère en plein soleil et constitue un arbre spécimen robuste et durable pour les jardins naturalisés et les plantations destinées à la faune, dans les zones USDA 4 à 8.",
+        "history_text_short": "Connu sous le nom de « Bechtel's Crab » après la découverte de sa rare forme à fleurs doubles dans une ferme de l'Illinois dans les années 1840, les fleurs printanières rose vif et très parfumées du Pommier sauvage des prairies en ont fait un élément cher aux fermes du Midwest, et sa forme sauvage reste une ressource vitale pour les abeilles et les oiseaux hivernaux.",
+        "history_text_long": "Le Pommier sauvage des prairies (Malus ioensis) croît à l'état sauvage dans les prairies à hautes herbes et les lisières boisées du Midwest américain, et pour les peuples autochtones comme pour les premiers colons, ses petites pommes dures et acides étaient une nourriture de cueillette saisonnière, meilleure après qu'un gel les ait adoucies et sucrées. Sa renommée durable remonte cependant à une seule ferme près de Staunton, dans l'Illinois, où, dans les années 1840, un producteur nommé E. Bechtel remarqua un Pommier sauvage des prairies sauvage présentant une mutation inhabituelle : des fleurs entièrement doubles, chargées de dizaines de pétales roses tendres disposés en couches comme une petite rose, et si parfumées que les voisins pouvaient sentir un arbre en fleurs depuis la route. Bechtel multiplia et vendit le plant, et à la fin du XIXe siècle, « Bechtel's Crab », comme on appela ce cultivar, s'était répandu dans les fermes, les cimetières et les jardins avant du Midwest et au-delà, apprécié uniquement pour sa floraison spectaculaire et non pour ses fruits. Pour des générations de familles américaines, un Bechtel's Crab en fleurs près du porche ou le long du chemin chaque avril annonçait le printemps autant que le retour des merles d'Amérique, et beaucoup de vieux pommiers sauvages tordus que l'on trouve encore près de fermes abandonnées et de cimetières ruraux remontent directement à la découverte originelle de Bechtel. L'espèce sauvage elle-même demeure une source de nectar précoce importante pour les abeilles et son petit fruit persistant une nourriture hivernale pour les oiseaux, si bien que même là où la forme élégante à fleurs doubles ne s'est jamais imposée, le simple Pommier sauvage des prairies continue d'accomplir le même travail discret qu'il a toujours fait.",
+        "name_origin": "Son nom d'espèce, ioensis, signifie simplement « de l'Iowa », en hommage à l'État au cœur de son aire de répartition native dans la prairie à hautes herbes nord-américaine.",
+        "symbolism_story": "Des générations de familles d'agriculteurs du Midwest surveillaient chaque avril la floraison du pommier sauvage près du chemin, considérant son éclat soudain de rose et de blanc comme le signe le plus sûr que le rude hiver de la prairie était enfin terminé et que la saison des semis commençait.",
+        "flower_meaning": "Renouveau",
+        "fragrance": {
+          "notes": "Les fleurs dégagent un parfum floral intense et sucré, particulièrement prononcé chez la forme à fleurs doubles « Bechtel's Crab »."
+        },
+        "uses_list": [
+          {
+            "text": "Ses fleurs printanières sont intensément parfumées, surtout chez la forme à fleurs doubles « Bechtel's Crab », autrefois courante dans les fermes américaines."
+          },
+          {
+            "text": "Une source de nectar précoce importante pour les abeilles et une ressource alimentaire hivernale durable pour les oiseaux."
+          },
+          {
+            "text": "Cultivé comme arbre ornemental à fleurs pour sa floraison printanière spectaculaire plutôt que pour son petit fruit acide."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Renouveau",
+            "description": "Étant l'un des premiers arbres à fleurir sur la prairie chaque printemps, le Pommier sauvage des prairies en est venu à symboliser le renouveau et la promesse de la saison de croissance à venir ; ses fleurs étaient considérées par les premières familles du Midwest comme un signe fiable que l'hiver était enfin brisé."
+          }
+        ],
+        "toxicity": {
+          "headline": "Toxicité inconnue",
+          "active_compound_display": "Aucun signalé",
+          "notes_en": "Aucune correspondance avec une source faisant autorité sur la toxicité n'a été trouvée ; traité comme non signalé (l'estimation du LLM n'est pas vérifiée par une source).",
+          "human": {
+            "exposure": "Aucune voie d'exposition n'est signalée.",
+            "effect": "Aucun effet toxique n'est signalé.",
+            "note": "La toxicité pour les humains n'est pas bien documentée ; la prudence est recommandée jusqu'à vérification."
+          },
+          "dog": {
+            "exposure": "Aucune voie d'exposition n'est signalée.",
+            "effect": "Aucun effet toxique n'est signalé.",
+            "note": "La toxicité pour les chiens n'est pas bien documentée ; la prudence est recommandée jusqu'à vérification."
+          },
+          "cat": {
+            "exposure": "Aucune voie d'exposition n'est signalée.",
+            "effect": "Aucun effet toxique n'est signalé.",
+            "note": "La toxicité pour les chats n'est pas bien documentée ; la prudence est recommandée jusqu'à vérification."
           }
         }
       }

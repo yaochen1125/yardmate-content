@@ -3,8 +3,8 @@
   "locale": "de",
   "source": {
     "resource": "plants_detail.json",
-    "sha256": "5dd042817138bc21bf20d740fbc716d6620c949302c4e1f878bf63bbec1e5a9a",
-    "record_count": 1743
+    "sha256": "d16c20811874f34775dc7e7f379ad76da59adbb789a8a3a8d71254de151716c0",
+    "record_count": 1747
   },
   "records": {
     "AAA0001": {
@@ -106665,6 +106665,220 @@
             "exposure": "Kein Expositionsweg ist gemeldet.",
             "effect": "Keine toxische Wirkung ist gemeldet.",
             "note": "Für Katzen ist in diesem Katalog keine Toxizität gemeldet; das ist kein Beleg dafür, dass die Pflanze essbar oder unbedenklich ist."
+          }
+        }
+      }
+    },
+    "AAA1745": {
+      "source_hash": "6b7c5ed4676d8d023c47f79a8e5f6fd419972b8db788395e4703847b27ee9cba",
+      "fields": {
+        "common_name": "Prärie-Eisenkraut",
+        "bloom_tip": "Die Blütezeit dieser Pflanze reicht von April bis September, und sie ist in voller Blüte besonders bezaubernd.",
+        "fruit_tip": "Ihre Früchte sind braun und besitzen einen dekorativen Wert.",
+        "description": "Das Prärie-Eisenkraut ist eine niedrige, teppichbildende mehrjährige Wildblume, die in den trockenen Graslandschaften, Prärien und an Straßenrändern des südlich-zentralen Teils der Vereinigten Staaten und Nordmexikos heimisch ist. Ihre farnartigen, tief gelappten Blätter breiten sich zu einem lockeren Polster von nur wenigen Zentimetern Höhe aus, das von Frühling bis Herbst von dichten, runden Dolden kleiner, fünfblättriger, rosa bis violetter Blüten gekrönt wird, die Schmetterlinge und Bienen in großer Zahl anziehen. Äußerst tolerant gegenüber Hitze, Trockenheit und armen, steinigen oder sandigen Böden, gedeiht sie in voller Sonne bei guter Drainage und ist ein fester Bestandteil von Steppengärten, Wildblumenwiesen und Straßenbepflanzungen in Texas und auf den südlichen Plains.",
+        "history_text_short": "Als Arbeitspferd des texanischen Straßenrand-Wildblumenprogramms der Mitte des 20. Jahrhunderts, das von Lady Bird Johnson gefördert wurde, bedeckt das Prärie-Eisenkraut noch heute jedes Frühjahr und jeden Sommer Fahrbahnränder und naturnahe Gärten mit niedrigen Polstern aus rosa-violetter Blüte, die Schmetterlinge und Bienen durch die heißesten, trockensten Monate hindurch ernähren.",
+        "history_text_long": "Das Prärie-Eisenkraut wächst wild in den trockenen Graslandschaften und den Kalksteinböden entlang der Straßenränder von Texas, Oklahoma, New Mexico und Nordmexiko, wo es seit Generationen die Ränder von Wagenspuren und später von Autobahnen mit seinen niedrigen Polstern aus rosa-violetter Blüte überzogen hat, ohne großes Aufsehen zu erregen. Zu größerem Ruhm kam es im zwanzigsten Jahrhundert, als es eine der Leitarten des texanischen Straßenrand-Wildblumenprogramms wurde – einer Initiative, die am sichtbarsten von First Lady Lady Bird Johnson vorangetrieben wurde. Beginnend in den 1960er Jahren setzte sich Johnson für Gesetze zur Verschönerung der Autobahnen ein und gründete später das heutige Lady Bird Johnson Wildflower Center in Austin, wobei sie die texanische Straßenbaubehörde ermutigte, Mittelstreifen und Seitenstreifen der Autobahnen mit heimischen Wildblumen zu besäen, statt sie kahl zu mähen. Das Prärie-Eisenkraut, robust genug, um Mähen, Trockenheit und verdichteten Straßenrandboden zu überstehen und dabei monatelang weiterzublühen, wurde zu einer der tragenden Arten, die neben der berühmteren texanischen Lupine gepflanzt wurden, und verwandelte Tausende von Autobahnkilometern jedes Frühjahr und Sommer in wogende Farbbänder. Für Generationen texanischer Autofahrer wurde ein Straßenrand voller rosa-violetter Blütenköpfe genauso zum Sinnbild der Heimat wie die Lupine selbst, und die Pflanze bleibt ein Favorit unter Wildpflanzengärtnern und Bestäuberschützern, die sie dafür schätzen, dass sie Schmetterlinge und Bienen in den heißesten Monaten des Jahres fast ohne Wasser versorgt.",
+        "name_origin": "Der Gattungsname Glandularia bezieht sich auf die winzigen drüsenartigen Strukturen an der Pflanze, während der Artname bipinnatifida ihre doppelt geteilten, federartigen Blätter beschreibt.",
+        "symbolism_story": "Für Generationen von Texanern stand ein Straßenrand voller blühendem Prärie-Eisenkraut, das selbst die schlimmste Sommerhitze überstand, als kleiner, trotziger Beweis dafür, dass Schönheit auch dort Wurzeln schlagen und bestehen kann, wo der Boden arm und die Bedingungen hart sind.",
+        "flower_meaning": "Widerstandskraft",
+        "fragrance": {
+          "notes": "Die Blüten verströmen einen leichten, süßen Duft, der an warmen Nachmittagen am deutlichsten wahrzunehmen ist."
+        },
+        "uses_list": [
+          {
+            "text": "Eine wichtige Nektarquelle für Schmetterlinge und einheimische Bienen, blüht nahezu durchgehend von Frühling bis Herbst."
+          },
+          {
+            "text": "Wird häufig in Steppengärten und entlang texanischer Highways als niedrige, trockenheitsresistente Farbdecke angepflanzt."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Widerstandskraft",
+            "description": "Da es in armem Boden, sengender Hitze und trotz Vernachlässigung am Straßenrand gedeiht und dabei monatelang blüht, ist das Prärie-Eisenkraut zum Sinnbild für stille Widerstandskraft und für die Schönheit geworden, die selbst in den härtesten, am meisten übersehenen Winkeln des Landes fortbesteht."
+          }
+        ],
+        "toxicity": {
+          "headline": "Keine Toxizität bekannt",
+          "active_compound_display": "Keine bekannt",
+          "notes_en": "Keine autoritative Quelle für Toxizität gefunden; wird als nicht gemeldet behandelt (die LLM-Schätzung ist nicht quellengeprüft).",
+          "human": {
+            "exposure": "Es ist kein Expositionsweg bekannt.",
+            "effect": "Es ist keine toxische Wirkung bekannt.",
+            "note": "In diesem Katalog wird keine Toxizität für Menschen gemeldet; dies ist kein Beleg dafür, dass die Pflanze essbar oder unschädlich ist."
+          },
+          "dog": {
+            "exposure": "Es ist kein Expositionsweg bekannt.",
+            "effect": "Es ist keine toxische Wirkung bekannt.",
+            "note": "In diesem Katalog wird keine Toxizität für Hunde gemeldet; dies ist kein Beleg dafür, dass die Pflanze essbar oder unschädlich ist."
+          },
+          "cat": {
+            "exposure": "Es ist kein Expositionsweg bekannt.",
+            "effect": "Es ist keine toxische Wirkung bekannt.",
+            "note": "In diesem Katalog wird keine Toxizität für Katzen gemeldet; dies ist kein Beleg dafür, dass die Pflanze essbar oder unschädlich ist."
+          }
+        }
+      }
+    },
+    "AAA1746": {
+      "source_hash": "f5d0651c4d55359ebcf2b8006d66a86f50d56397e2b0ecb29646a0915d467d42",
+      "fields": {
+        "common_name": "Grüne Mutter der Tausend",
+        "description": "Die Grüne Mutter der Tausend ist eine Sukkulente aus den trockenen Grasländern Madagaskars, geschätzt für ihre dicken, fleischigen Blätter mit gezähnten, graugrünen Rändern. An jedem Blattrand bilden sich winzige Plantlets, die abfallen und überall dort Wurzeln schlagen, wo sie landen — so kann sich eine einzige Pflanze innerhalb einer Saison zu einer ganzen Kolonie ausbreiten. In den warmen Monaten treibt sie hohe Stängel mit Dolden kleiner, sternförmiger, grünlich-weißer Blüten. Pflegeleicht und trockenheitsverträglich bevorzugt sie sandigen, gut durchlässigen Boden und volle Sonne und ist sowohl als Zimmerpflanze als auch im Steingarten beliebt — ihr eifriger Selbstvermehrungstrieb verlangt jedoch ein wachsames Auge.",
+        "history_text_short": "Die Grüne Mutter der Tausend, benannt nach den winzigen Plantlets, die an ihren Blatträndern sprießen, wurde als madagassische Sukkulente zur klassischen „Weiterreich-Pflanze“ — so leicht zu vermehren, dass Gärtner über Generationen Blätter statt neuer Pflanzen tauschten.",
+        "history_text_long": "Die Grüne Mutter der Tausend (Kalanchoe laetivirens) wächst wild in den trockenen, felsigen Wäldern Madagaskars, einer Insel, die Botaniker schon lange als lebendes Labor für isoliert entwickelte Sukkulenten bezeichnen. Europäische Pflanzenjäger, die im 19. Jahrhundert für französische Kolonialgärten arbeiteten, wurden von einer Eigenschaft der madagassischen Kalanchoe angezogen, die fast zu seltsam schien, um wahr zu sein: winzige, voll ausgebildete Jungpflanzen, die direkt aus den Kerben am Rand jedes Blattes wuchsen und bereit waren, abzufallen und Wurzeln zu schlagen, sobald sie den Boden berührten. Diese Art der Fortpflanzung ohne Samen, Viviparie genannt, machte aus einem einzigen Blatt eine reisende Gärtnerei, und Gärtner gaben der ganzen Gruppe ähnlicher Arten den Spitznamen „Mutter der Tausend“ für die Schwärme von Plantlets, die eine einzige Elternpflanze in einer Saison hervorbringen konnte. Die Grüne Mutter der Tausend erhielt ihren eigenen Namen, weil ihre Plantlets frisch grasgrün bleiben statt die rötliche Fleckung ihrer berühmteren madagassischen Cousine zu zeigen, sodass Züchter begannen, sie so zu nennen, um die beiden in Gärtnereikatalogen zu unterscheiden. Ihre schiere Vermehrungsfreude machte sie zu einer klassischen „Weiterreich-Pflanze“ — der Art, die Freunde über den Gartenzaun oder das Fensterbrett tauschen, statt sie zu kaufen, da ein einziges Blatt in einem Topf genügt, um eine ganze neue Kolonie zu gründen. Dieselbe Kraft, die Generationen von Hobbygärtnern begeisterte, ist auch der Grund, warum die Art in manchen warmen Klimazonen aus der Kultur entwichen ist und heute als robustes, selbstversorgendes Unkraut entlang von Straßenrändern und gestörten Böden wächst.",
+        "name_origin": "Der Gattungsname Kalanchoe soll auf einen chinesischen Ausdruck zurückgehen, den der französische Botaniker Michel Adanson im 18. Jahrhundert für eine verwandte Sukkulente notierte; der Artname laetivirens ist lateinisch für „fröhlich grün“ und beschreibt ihr leuchtendes Laub.",
+        "symbolism_story": "In vielen Haushalten gilt es als kleiner Segen, ein Blatt oder Plantlet dieser Art zu erhalten — ein Anfang, der nichts kostet, sich aber von selbst vermehrt, ganz im Sinne ihres volkstümlichen Rufs als Zeichen unaufhaltsamen Wohlstands, das von Haushalt zu Haushalt weitergegeben wird.",
+        "flower_meaning": "Überfluss",
+        "uses_list": [
+          {
+            "text": "Wird als pflegeleichte Zimmerpflanze und Sukkulentengarten-Exemplar für ihr kräftiges, gezähntes Laub kultiviert."
+          },
+          {
+            "text": "Dolden kleiner, sternförmiger Blüten locken Bienen und andere Bestäuber an, wenn sie blühen."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Überfluss",
+            "description": "Weil ein einziges Blatt Dutzende neuer Pflanzen hervorbringen kann, gilt die Grüne Mutter der Tausend als lebendiges Symbol für Überfluss und Fruchtbarkeit und wird oft als Geschenk verschenkt, das einem neuen Zuhause Wohlstand bringen soll."
+          }
+        ],
+        "toxicity": {
+          "headline": "Menschen Gering · Haustiere Mittel",
+          "active_compound_display": "Bufadienolide",
+          "notes_en": "Alle Pflanzenteile enthalten herzwirksame Glykoside (Bufadienolide); der Verzehr kann bei Haustieren zu Magen-Darm-Beschwerden und in großen Mengen zu Herzrhythmusstörungen führen.",
+          "human": {
+            "exposure": "Verzehr von Blättern und Stängeln.",
+            "effect": "Leichte Übelkeit und Erbrechen bei Verzehr großer Mengen.",
+            "note": "Alle Pflanzenteile enthalten herzwirksame Glykoside (Bufadienolide); der Verzehr kann bei Haustieren zu Magen-Darm-Beschwerden und in großen Mengen zu Herzrhythmusstörungen führen.",
+            "symptoms": [
+              "Leichte Übelkeit.",
+              "Erbrechen bei Verzehr großer Mengen."
+            ]
+          },
+          "dog": {
+            "exposure": "Verzehr von Blättern und Stängeln.",
+            "effect": "Erbrechen, Durchfall und bei großen Mengen Herzrhythmusstörungen.",
+            "note": "Alle Pflanzenteile enthalten herzwirksame Glykoside (Bufadienolide); der Verzehr kann bei Haustieren zu Magen-Darm-Beschwerden und in großen Mengen zu Herzrhythmusstörungen führen.",
+            "symptoms": [
+              "Erbrechen.",
+              "Durchfall.",
+              "Herzrhythmusstörungen bei großen Mengen."
+            ]
+          },
+          "cat": {
+            "exposure": "Verzehr von Blättern und Stängeln.",
+            "effect": "Erbrechen, Durchfall und bei großen Mengen Herzrhythmusstörungen.",
+            "note": "Alle Pflanzenteile enthalten herzwirksame Glykoside (Bufadienolide); der Verzehr kann bei Haustieren zu Magen-Darm-Beschwerden und in großen Mengen zu Herzrhythmusstörungen führen.",
+            "symptoms": [
+              "Erbrechen.",
+              "Durchfall.",
+              "Herzrhythmusstörungen bei großen Mengen."
+            ]
+          }
+        }
+      }
+    },
+    "AAA1747": {
+      "source_hash": "1f0b7e9e2660019783274b24ed214cef77b86b3955e456faa061f301d3db4e4b",
+      "fields": {
+        "common_name": "Limnophila aromatica",
+        "description": "Limnophila aromatica ist ein duftendes, halbaquatisches Kraut, das in den Feuchtgebieten, Reisfeldern und an den Flussufern Südostasiens heimisch ist. Seine schmalen, lanzettlichen Blätter verströmen beim Zerreiben einen unverkennbaren, zitrusartigen Duft mit kuminartigen Untertönen, und in der Wildform wächst es kriechend an schlammigen Ufern mit kleinen violetten Blüten zwischen dem Laub. In durchgehend feuchtem bis nassem, leicht saurem Boden und bei Halbschatten gedeiht es prächtig und fühlt sich ebenso am Teichrand, als Küchenkraut oder untergetaucht als beliebte Aquarienpflanze mit rötlich-grünen Stängeln zu Hause.",
+        "history_text_short": "In Vietnam als „rau ngò om“ bekannt, ist Limnophila aromatica die unverzichtbare Zutat, die ganz zum Schluss in canh chua, die klassische süß-saure Fischsuppe, gegeben wird — ihr scharfer Zitrus-Kumin-Biss ist so unverwechselbar, dass Köche einen Topf davon direkt an der Küchentür ziehen, nur um ihn immer zur Hand zu haben.",
+        "history_text_long": "Limnophila aromatica wächst überall dort, wo sich südostasiatische Feuchtgebiete mit bewirtschaftetem Land verbinden — entlang der überfluteten Ränder von Reisfeldern, in Straßengräben und an schlammigen Flussufern in Vietnam, Thailand, Laos und Kambodscha. Seit Generationen greifen Bäuerinnen und Bauern, die durch die Reisfelder waten, um ihre Ernte zu pflegen, nach den schlanken Stängeln dieser Pflanze, denn ihr intensiver, zitrusartiger Kumin-Duft macht sie zu einem der am meisten geschätzten Würzkräuter der Region. In Vietnam ist sie vor allem als „rau ngò om“ oder „ngò ôm“ bekannt, eine unverzichtbare Zutat in canh chua, der klassischen süß-sauren Fischsuppe, bei der eine Handvoll zerrissener Blätter, die ganz zum Schluss untergerührt wird, die Brühe mit einer scharfen, fast minzig-zitronigen Frische belebt, die kein anderes Kraut genauso nachahmen kann. Hausköche ziehen die Pflanze traditionell in einem Topf mit stehendem Wasser oder in einer feuchten Ecke des Gartens, damit stets eine frische Handvoll in Reichweite der Küche bereitsteht. Im zwanzigsten Jahrhundert weckte genau diese halbaquatische Eigenschaft, die ihre Ernte aus überfluteten Feldern so leicht macht, das Interesse von Aquarianern außerhalb Asiens, die entdeckten, dass ihre Stängel unter Wasser vollständig untergetaucht ein kräftiges Rötlich-Pink annehmen und dichte, farbenprächtige Unterwasserhecken bilden — und so verwandelte sich ein bescheidenes Suppenkraut in eine der beliebtesten Stängelpflanzen der Aquascaping-Welt.",
+        "name_origin": "Der Gattungsname Limnophila setzt sich aus dem griechischen limne („Sumpf“) und philos („liebend“) zusammen und verweist auf ihren Feuchtgebietslebensraum, während aromatica sich auf den durchdringenden, zitrusartigen Duft ihrer zerriebenen Blätter bezieht.",
+        "symbolism_story": "In vielen vietnamesischen Haushalten ist ein Topf dieses Krauts an der Küchentür ebenso selbstverständlich wie der Herd selbst, und das Zerreißen seiner Blätter in einen köchelnden Topf Suppe trägt die stille Vertrautheit eines Familienrezepts in sich, das seit Generationen auf dieselbe Weise zubereitet wird.",
+        "flower_meaning": "Nahrung",
+        "fragrance": {
+          "notes": "Zerriebene Blätter und Stängel verströmen einen scharfen, zitrusartigen Duft mit kuminartigen Untertönen."
+        },
+        "uses_list": [
+          {
+            "text": "Eine feste Zutat der vietnamesischen und anderer südostasiatischer Küchen, besonders in sauren Fischsuppen wie canh chua."
+          },
+          {
+            "text": "Wird untergetaucht als beliebte Aquarien-Stängelpflanze kultiviert, geschätzt für ihre rötlich-pinke Färbung unter Wasser."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Nahrung",
+            "description": "Da dieses Kraut in einem Topf direkt vor nahezu jeder vietnamesischen Küchentür wächst und am Familientisch in die Suppe gerührt wird, ist Limnophila aromatica zu einem Sinnbild für häusliches Kochen, Geborgenheit und die über Generationen weitergegebene Fürsorge familiärer Mahlzeiten geworden."
+          }
+        ],
+        "toxicity": {
+          "headline": "Keine Toxizität bekannt",
+          "active_compound_display": "Keine bekannt",
+          "notes_en": "Keine autoritative Quelle für Toxizität gefunden; wird als nicht gemeldet behandelt (die LLM-Schätzung ist nicht quellengeprüft).",
+          "human": {
+            "exposure": "Es ist kein Expositionsweg bekannt.",
+            "effect": "Es ist keine toxische Wirkung bekannt.",
+            "note": "In diesem Katalog wird keine Toxizität für Menschen gemeldet; dies ist kein Beleg dafür, dass die Pflanze essbar oder unschädlich ist."
+          },
+          "dog": {
+            "exposure": "Es ist kein Expositionsweg bekannt.",
+            "effect": "Es ist keine toxische Wirkung bekannt.",
+            "note": "In diesem Katalog wird keine Toxizität für Hunde gemeldet; dies ist kein Beleg dafür, dass die Pflanze essbar oder unschädlich ist."
+          },
+          "cat": {
+            "exposure": "Es ist kein Expositionsweg bekannt.",
+            "effect": "Es ist keine toxische Wirkung bekannt.",
+            "note": "In diesem Katalog wird keine Toxizität für Katzen gemeldet; dies ist kein Beleg dafür, dass die Pflanze essbar oder unschädlich ist."
+          }
+        }
+      }
+    },
+    "AAA1748": {
+      "source_hash": "f7240941f7d78247aed371a146a6ded198dd843785735fe703829b465f3179a6",
+      "fields": {
+        "common_name": "Präriewildapfel",
+        "bloom_tip": "Diese Apfelblüte ist bezaubernd und blüht zwischen April und Mai.",
+        "fruit_tip": "Die Früchte reifen zu einem leuchtenden Gelb heran und eignen sich damit gut für den dekorativen Einsatz.",
+        "description": "Der Präriewildapfel ist ein kleiner, breitkroniger Laubbaum, der in den Prärien und an Waldrändern der zentralen Vereinigten Staaten heimisch ist, von Iowa südlich bis Missouri und Texas. Im April und Mai hüllt er sich in eine Wolke duftender, zarter rosa Blüten, die mit zunehmendem Alter verblassen und weiß werden, und zieht Bienen von weit her an. Im Spätsommer tragen seine Zweige kleine, harte, gelbgrüne Äpfel, die bis in den Herbst hängen bleiben und mehr für Wildtiere und als Zierschmuck geschätzt werden als zum frischen Verzehr. Er toleriert arme, steinige Prärieböden, solange die Drainage ausreichend ist, gedeiht in voller Sonne und ist ein robuster, langlebiger Solitärbaum für naturnahe Gärten und Wildtierpflanzungen in den USDA-Zonen 4 bis 8.",
+        "history_text_short": "Als „Bechtel's Crab“ bekannt, nachdem seine seltene gefüllt blühende Form in den 1840er Jahren auf einem Bauernhof in Illinois entdeckt wurde, machten die rosafarbenen, stark duftenden Frühlingsblüten des Präriewildapfels ihn zu einem beliebten Element mittelwestlicher Gehöfte, und seine Wildform bleibt wichtige Nahrung für Bienen und Wintervögel.",
+        "history_text_long": "Der Präriewildapfel (Malus ioensis) wächst wild in den Präriegräsern und an den Waldrändern des amerikanischen Mittleren Westens, und für indigene Völker wie frühe Siedler waren seine harten, sauren kleinen Äpfel eine saisonale Nahrung, am besten nach einem Frost, der sie weicher und süßer gemacht hatte. Sein anhaltender Ruhm geht jedoch auf einen einzigen Bauernhof bei Staunton, Illinois, zurück, wo ein Züchter namens E. Bechtel in den 1840er Jahren einen wilden Präriewildapfel mit einer ungewöhnlichen Mutation entdeckte: Blüten, die vollständig gefüllt waren, mit Dutzenden weicher rosa Blütenblätter, die wie eine kleine Rose geschichtet waren, und so duftend, dass Nachbarn einen blühenden Baum schon von der Straße aus riechen konnten. Bechtel vermehrte und verkaufte den Sämling, und bis zum späten neunzehnten Jahrhundert hatte sich „Bechtel's Crab“, wie die Sorte genannt wurde, auf Gehöfte, Friedhöfe und Vorgärten im gesamten Mittleren Westen und darüber hinaus verbreitet, geschätzt rein wegen seiner Frühlingspracht und nicht wegen seiner Früchte. Für Generationen amerikanischer Familien war ein blühender Bechtel's Crab an der Veranda oder entlang der Zufahrt im April ebenso ein Vorbote des Frühlings wie die Rückkehr der Rotkehlchen, und viele der knorrigen alten Wildäpfel, die man heute noch an verlassenen Gehöften und ländlichen Friedhöfen findet, gehen direkt auf Bechtels ursprüngliche Entdeckung zurück. Die Wildform selbst bleibt eine wichtige frühe Nektarquelle für Bienen und ihre kleinen, haftenden Früchte eine Winternahrung für Vögel, sodass der schlichte Präriewildapfel selbst dort, wo die edle gefüllte Blütenform nie Fuß fasste, weiterhin dieselbe stille Arbeit verrichtet wie immer.",
+        "name_origin": "Der Artname ioensis bedeutet schlicht „aus Iowa“ und ehrt den Bundesstaat im Zentrum seines natürlichen Verbreitungsgebiets in der nordamerikanischen Grasprärie.",
+        "symbolism_story": "Generationen von Farmerfamilien im Mittleren Westen beobachteten jedes Jahr im April den Wildapfel an der Zufahrt, und sein plötzliches Aufblühen in Rosa und Weiß galt als sicherstes Zeichen dafür, dass der harte Präriewinter endlich vorbei war und die Pflanzsaison begann.",
+        "flower_meaning": "Erneuerung",
+        "fragrance": {
+          "notes": "Die Blüten verströmen einen kräftigen, süßen Blumenduft, besonders ausgeprägt bei der gefüllt blühenden Sorte „Bechtel's Crab“."
+        },
+        "uses_list": [
+          {
+            "text": "Seine Frühlingsblüten sind intensiv duftend, besonders bei der gefüllt blühenden Sorte „Bechtel's Crab“, die einst in amerikanischen Gehöften verbreitet war."
+          },
+          {
+            "text": "Eine wichtige frühe Nektarquelle für Bienen und eine beständige Winternahrung für Vögel."
+          },
+          {
+            "text": "Wird als blühender Ziersolitär für seine spektakuläre Frühlingsblüte kultiviert, weniger wegen seiner kleinen, sauren Früchte."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Erneuerung",
+            "description": "Als einer der ersten Bäume, die jedes Frühjahr auf der Prärie blühten, wurde der Präriewildapfel zum Symbol für Erneuerung und das Versprechen der kommenden Wachstumsperiode; seine Blüten galten frühen Familien im Mittleren Westen als zuverlässiges Zeichen, dass der Winter endlich gebrochen war."
+          }
+        ],
+        "toxicity": {
+          "headline": "Toxizität unbekannt",
+          "active_compound_display": "Keine bekannt",
+          "notes_en": "Keine autoritative Quelle für Toxizität gefunden; wird als nicht gemeldet behandelt (die LLM-Schätzung ist nicht quellengeprüft).",
+          "human": {
+            "exposure": "Es ist kein Expositionsweg bekannt.",
+            "effect": "Es ist keine toxische Wirkung bekannt.",
+            "note": "Die Toxizität für Menschen ist nicht gut dokumentiert; bis zur Überprüfung ist Vorsicht geboten."
+          },
+          "dog": {
+            "exposure": "Es ist kein Expositionsweg bekannt.",
+            "effect": "Es ist keine toxische Wirkung bekannt.",
+            "note": "Die Toxizität für Hunde ist nicht gut dokumentiert; bis zur Überprüfung ist Vorsicht geboten."
+          },
+          "cat": {
+            "exposure": "Es ist kein Expositionsweg bekannt.",
+            "effect": "Es ist keine toxische Wirkung bekannt.",
+            "note": "Die Toxizität für Katzen ist nicht gut dokumentiert; bis zur Überprüfung ist Vorsicht geboten."
           }
         }
       }

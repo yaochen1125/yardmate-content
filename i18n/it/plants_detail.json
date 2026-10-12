@@ -3,8 +3,8 @@
   "locale": "it",
   "source": {
     "resource": "plants_detail.json",
-    "sha256": "5dd042817138bc21bf20d740fbc716d6620c949302c4e1f878bf63bbec1e5a9a",
-    "record_count": 1743
+    "sha256": "d16c20811874f34775dc7e7f379ad76da59adbb789a8a3a8d71254de151716c0",
+    "record_count": 1747
   },
   "records": {
     "AAA0001": {
@@ -106679,6 +106679,220 @@
             "exposure": "Non è segnalata alcuna via di esposizione.",
             "effect": "Non è segnalato alcun effetto tossico.",
             "note": "Per i gatti non è segnalata alcuna tossicità in questo catalogo; ciò non costituisce una prova che la pianta sia commestibile o innocua."
+          }
+        }
+      }
+    },
+    "AAA1745": {
+      "source_hash": "6b7c5ed4676d8d023c47f79a8e5f6fd419972b8db788395e4703847b27ee9cba",
+      "fields": {
+        "common_name": "Verbena delle praterie",
+        "bloom_tip": "Il periodo di fioritura di questa pianta va da aprile a settembre, ed è particolarmente incantevole in piena fioritura.",
+        "fruit_tip": "I suoi frutti sono marroni e hanno un valore ornamentale.",
+        "description": "La Verbena delle praterie è una pianta perenne bassa e tappezzante, originaria delle praterie secche, dei pascoli e dei bordi stradali del centro-sud degli Stati Uniti e del Messico settentrionale. Le sue foglie simili a felci, profondamente lobate, si estendono in un cuscino basso di pochi centimetri di altezza, coronato dalla primavera all'autunno da densi grappoli arrotondati di piccoli fiori a cinque petali, dal rosa al violetto, che attirano farfalle e api in gran numero. Estremamente tollerante al caldo, alla siccità e ai terreni poveri, sassosi o sabbiosi, prospera in pieno sole con un buon drenaggio ed è un elemento fondamentale dei giardini xerofili, dei prati fioriti selvatici e delle piantumazioni stradali in Texas e nelle pianure meridionali.",
+        "history_text_short": "Elemento fondamentale del programma texano di fiori selvatici lungo le strade, promosso a metà del XX secolo da Lady Bird Johnson, la Verbena delle praterie continua ogni primavera ed estate a coprire i margini delle strade e i giardini nativi con bassi cuscini di fiori rosa-violacei che nutrono farfalle e api nei mesi più caldi e secchi.",
+        "history_text_long": "La Verbena delle praterie cresce spontanea nelle praterie secche e sui margini calcarei delle strade del Texas, dell'Oklahoma, del Nuovo Messico e del Messico settentrionale, dove per generazioni ha discretamente tappezzato i margini delle piste dei carri e poi delle autostrade con i suoi bassi cuscini di fiori rosa-violacei. La sua fama più ampia arrivò nel ventesimo secolo, quando divenne una delle specie simbolo del programma texano di fiori selvatici lungo le strade, un'iniziativa promossa in modo più visibile dalla First Lady Lady Bird Johnson. A partire dagli anni Sessanta, Johnson si batté per leggi sull'abbellimento delle autostrade e in seguito fondò quello che oggi è il Lady Bird Johnson Wildflower Center ad Austin, incoraggiando il Dipartimento dei Trasporti del Texas a seminare fiori selvatici autoctoni nelle spartitraffico e sui margini delle strade invece di tagliarli a raso. La Verbena delle praterie, resistente abbastanza da sopravvivere allo sfalcio, alla siccità e al terreno compattato dei margini stradali continuando a fiorire per mesi, divenne una delle specie portanti piantate accanto al più celebre lupino del Texas, trasformando migliaia di chilometri di autostrada in fasce di colore ondulate ogni primavera ed estate. Per generazioni di automobilisti texani, un margine stradale coperto delle sue infiorescenze rosa-violacee divenne un simbolo della propria terra quanto il lupino stesso, e la pianta resta una preferita tra i giardinieri di piante autoctone e i conservazionisti degli impollinatori, che la apprezzano perché nutre farfalle e api nei mesi più caldi dell'anno con pochissima acqua.",
+        "name_origin": "Il nome del genere, Glandularia, si riferisce alle minuscole strutture ghiandolari della pianta, mentre il nome della specie bipinnatifida descrive le sue foglie due volte divise, simili a piume.",
+        "symbolism_story": "Per generazioni di texani, un margine stradale coperto di Verbena delle praterie in fiore nel pieno del calore estivo è rimasto una piccola, tenace prova che la bellezza può radicarsi e continuare a esistere anche dove il terreno è povero e le condizioni sono dure.",
+        "flower_meaning": "Resilienza",
+        "fragrance": {
+          "notes": "I fiori emanano un leggero profumo dolce, più percepibile nei pomeriggi caldi."
+        },
+        "uses_list": [
+          {
+            "text": "Un'importante fonte di nettare per farfalle e api autoctone, che fiorisce quasi ininterrottamente dalla primavera all'autunno."
+          },
+          {
+            "text": "Ampiamente piantata nei giardini xerofili e lungo le autostrade del Texas come tappezzante basso e resistente alla siccità."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Resilienza",
+            "description": "Prosperando in terreno povero, caldo torrido e nell'abbandono dei margini stradali mentre continua a fiorire per mesi, la Verbena delle praterie è giunta a rappresentare la resilienza silenziosa e la bellezza che persiste anche negli angoli più duri e trascurati della terra."
+          }
+        ],
+        "toxicity": {
+          "headline": "Nessuna tossicità segnalata",
+          "active_compound_display": "Nessuno segnalato",
+          "notes_en": "Non è stata trovata alcuna corrispondenza con fonti autorevoli sulla tossicità; trattato come non segnalato (la stima del LLM non è verificata da fonti).",
+          "human": {
+            "exposure": "Non è segnalata alcuna via di esposizione.",
+            "effect": "Non è segnalato alcun effetto tossico.",
+            "note": "In questo catalogo non è segnalata tossicità per gli esseri umani; ciò non costituisce prova che la pianta sia commestibile o innocua."
+          },
+          "dog": {
+            "exposure": "Non è segnalata alcuna via di esposizione.",
+            "effect": "Non è segnalato alcun effetto tossico.",
+            "note": "In questo catalogo non è segnalata tossicità per i cani; ciò non costituisce prova che la pianta sia commestibile o innocua."
+          },
+          "cat": {
+            "exposure": "Non è segnalata alcuna via di esposizione.",
+            "effect": "Non è segnalato alcun effetto tossico.",
+            "note": "In questo catalogo non è segnalata tossicità per i gatti; ciò non costituisce prova che la pianta sia commestibile o innocua."
+          }
+        }
+      }
+    },
+    "AAA1746": {
+      "source_hash": "f5d0651c4d55359ebcf2b8006d66a86f50d56397e2b0ecb29646a0915d467d42",
+      "fields": {
+        "common_name": "Madre dei Mille Verde",
+        "description": "La Madre dei Mille Verde è una succulenta originaria delle aride praterie del Madagascar, apprezzata per le sue foglie carnose e spesse con margini dentellati grigio-verdi. Lungo il margine di ogni foglia si formano minuscole plantule che cadono e radicano ovunque atterrino, permettendo a una singola pianta di espandersi in una colonia in una sola stagione. Nei mesi caldi produce fusti alti coronati da grappoli di piccoli fiori stellati bianco-verdastri. Facile da coltivare e tollerante alla siccità, preferisce terreno sabbioso e ben drenato in pieno sole, ed è apprezzata sia come pianta d'appartamento che nei giardini rocciosi, anche se la sua vivace autopropagazione richiede un occhio vigile.",
+        "history_text_short": "Chiamata Madre dei Mille Verde per le minuscole plantule che spuntano lungo il margine delle sue foglie, questa succulenta del Madagascar è diventata una classica \"pianta da regalare\" — così facile da moltiplicare che i giardinieri si scambiavano foglie invece di comprare nuove piante, tramandandola di mano in mano per generazioni.",
+        "history_text_long": "La Madre dei Mille Verde (Kalanchoe laetivirens) cresce spontanea nelle foreste secche e rocciose del Madagascar, un'isola che i botanici definiscono da tempo un laboratorio vivente per succulente evolute in isolamento. I cercatori di piante europei che lavoravano per i giardini coloniali francesi nel diciannovesimo secolo furono attratti da un tratto delle Kalanchoe del Madagascar che sembrava quasi troppo strano per essere vero: piccole piantine già completamente formate che crescevano direttamente dalle tacche sul margine di ogni foglia, pronte a cadere e radicare non appena toccavano il suolo. Questo modo di riprodursi senza semi, chiamato viviparità, trasformava una singola foglia in un vivaio ambulante, e i giardinieri soprannominarono l'intero gruppo di specie simili \"Madre dei Mille\" per gli sciami di plantule che una sola pianta madre poteva produrre in una stagione. La Madre dei Mille Verde ha ottenuto il proprio nome perché le sue plantule restano di un verde fresco invece di mostrare la chiazzatura rossastra della sua più famosa cugina del Madagascar, così i coltivatori iniziarono a chiamarla in questo modo per distinguere le due nei cataloghi dei vivai. La sua straordinaria facilità di moltiplicarsi la rese una classica \"pianta da regalare\" — del tipo che gli amici si scambiano oltre una staccionata o su un davanzale invece di comprare, poiché una sola foglia in un vaso basta ad avviare un'intera nuova colonia. Lo stesso vigore, che ha affascinato generazioni di giardinieri amatoriali, è anche il motivo per cui la specie è fuggita dalla coltivazione in alcuni climi caldi e oggi cresce come un'erbacea resistente e autosufficiente lungo le strade e nei terreni disturbati.",
+        "name_origin": "Si ritiene che il nome del genere Kalanchoe derivi da un'espressione cinese registrata dal botanico francese Michel Adanson nel XVIII secolo per una succulenta affine; il nome della specie, laetivirens, in latino significa \"allegramente verde\", a descrivere il suo fogliame brillante.",
+        "symbolism_story": "In molte case, ricevere una foglia o una plantula di questa specie è considerato un piccolo augurio di bene — un inizio che non costa nulla ma si moltiplica da solo, in linea con la sua fama popolare di simbolo di abbondanza incessante tramandato da una casa all'altra.",
+        "flower_meaning": "Abbondanza",
+        "uses_list": [
+          {
+            "text": "Coltivata come pianta d'appartamento facile da curare e come esemplare da giardino di succulente per il suo fogliame vistoso e dentellato."
+          },
+          {
+            "text": "I grappoli di piccoli fiori stellati attirano api e altri impollinatori durante la fioritura."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Abbondanza",
+            "description": "Poiché una sola foglia può dare origine a decine di nuove piante, la Madre dei Mille Verde è vista come un simbolo vivente di abbondanza e fecondità, spesso regalata nella convinzione che porti prosperità a una nuova casa."
+          }
+        ],
+        "toxicity": {
+          "headline": "Umani Lieve · Animali Moderata",
+          "active_compound_display": "bufadienolidi",
+          "notes_en": "Tutte le parti contengono glicosidi cardioattivi (bufadienolidi); l'ingestione può causare disturbi gastrointestinali negli animali domestici e, in grandi quantità, aritmie cardiache.",
+          "human": {
+            "exposure": "Ingestione di foglie e fusti.",
+            "effect": "Lieve nausea e vomito se vengono ingerite grandi quantità.",
+            "note": "Tutte le parti contengono glicosidi cardioattivi (bufadienolidi); l'ingestione può causare disturbi gastrointestinali negli animali domestici e, in grandi quantità, aritmie cardiache.",
+            "symptoms": [
+              "Lieve nausea.",
+              "Vomito se vengono ingerite grandi quantità."
+            ]
+          },
+          "dog": {
+            "exposure": "Ingestione di foglie e fusti.",
+            "effect": "Vomito, diarrea e aritmie cardiache in grandi quantità.",
+            "note": "Tutte le parti contengono glicosidi cardioattivi (bufadienolidi); l'ingestione può causare disturbi gastrointestinali negli animali domestici e, in grandi quantità, aritmie cardiache.",
+            "symptoms": [
+              "Vomito.",
+              "Diarrea.",
+              "Aritmie cardiache in grandi quantità."
+            ]
+          },
+          "cat": {
+            "exposure": "Ingestione di foglie e fusti.",
+            "effect": "Vomito, diarrea e aritmie cardiache in grandi quantità.",
+            "note": "Tutte le parti contengono glicosidi cardioattivi (bufadienolidi); l'ingestione può causare disturbi gastrointestinali negli animali domestici e, in grandi quantità, aritmie cardiache.",
+            "symptoms": [
+              "Vomito.",
+              "Diarrea.",
+              "Aritmie cardiache in grandi quantità."
+            ]
+          }
+        }
+      }
+    },
+    "AAA1747": {
+      "source_hash": "1f0b7e9e2660019783274b24ed214cef77b86b3955e456faa061f301d3db4e4b",
+      "fields": {
+        "common_name": "Limnophila aromatica",
+        "description": "Limnophila aromatica è un'erba semi-acquatica e profumata, originaria delle zone umide, delle risaie e delle rive dei fiumi del sud-est asiatico. Le sue foglie sottili e lanceolate rilasciano, se stropicciate, un profumo agrumato con sfumature di cumino, e allo stato selvatico si distende lungo le rive fangose con piccoli fiori violacei tra il fogliame. Prospera in terreno costantemente umido o bagnato e leggermente acido, a mezz'ombra, e si adatta altrettanto bene al bordo di uno stagno, come erba da cucina, o sommersa come una pianta da acquario molto apprezzata per i suoi fusti rosso-verdi.",
+        "history_text_short": "Conosciuta in Vietnam come 'rau ngò om', Limnophila aromatica è l'ingrediente essenziale aggiunto all'ultimo momento nel canh chua, la classica zuppa di pesce agrodolce — il suo sapore pungente di agrumi e cumino è così distintivo che i cuochi coltivano un vaso vicino alla porta della cucina solo per averla sempre a portata di mano.",
+        "history_text_long": "Limnophila aromatica cresce ovunque le zone umide del sud-est asiatico incontrino la terra coltivata — lungo i margini inondati delle risaie, nei fossi ai lati delle strade e sulle rive fangose dei fiumi in Vietnam, Thailandia, Laos e Cambogia. Da generazioni, i contadini che guadano le risaie per occuparsi delle colture si chinano per staccarne gli steli sottili, poiché il profumo intenso, agrumato e di cumino della pianta la rende una delle erbe aromatiche più apprezzate nelle cucine della regione. In Vietnam è conosciuta soprattutto come 'rau ngò om' o 'ngò ôm', un ingrediente essenziale nel canh chua, la classica zuppa di pesce agrodolce, dove una manciata di foglie spezzettate, mescolata all'ultimo momento, dona al brodo una freschezza pungente, quasi mentolata e agrumata, che nessun'altra erba riesce a replicare. I cuochi di casa la coltivano tradizionalmente in un vaso d'acqua stagnante o in un angolo umido del giardino, proprio per avere sempre a portata di mano una manciata fresca vicino alla cucina. Nel XX secolo, la stessa abitudine semi-acquatica che ne facilita la raccolta nei campi inondati ha attirato l'attenzione degli acquariofili fuori dall'Asia, che hanno scoperto che i suoi steli, se coltivati completamente sommersi, assumono una vivida tonalità rosa-rossastra e formano siepi sommerse dense e colorate, trasformando così un'umile erba da zuppa in una delle piante a stelo più popolari del mondo dell'acquascaping.",
+        "name_origin": "Il nome del genere, Limnophila, deriva dal greco limne ('palude') e philos ('amante'), in riferimento al suo habitat palustre, mentre aromatica si riferisce al profumo intenso e agrumato delle sue foglie stropicciate.",
+        "symbolism_story": "In molte case vietnamite, un vaso di questa erba vicino alla porta della cucina è tanto scontato quanto il fornello stesso, e il gesto di sbriciolarne le foglie in una pentola di zuppa che sobbolle porta con sé il conforto silenzioso di una ricetta di famiglia preparata nello stesso modo da generazioni.",
+        "flower_meaning": "Nutrimento",
+        "fragrance": {
+          "notes": "Le foglie e i fusti stropicciati rilasciano un profumo agrumato intenso con sfumature di cumino."
+        },
+        "uses_list": [
+          {
+            "text": "Un'erba fresca fondamentale nella cucina vietnamita e in altre cucine del sud-est asiatico, specialmente nelle zuppe di pesce acide come il canh chua."
+          },
+          {
+            "text": "Coltivata sommersa come pianta da acquario a stelo molto diffusa, apprezzata per la sua colorazione rosa-rossastra sott'acqua."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Nutrimento",
+            "description": "Essendo un'erba coltivata in vaso vicino a quasi ogni porta di cucina vietnamita e mescolata nella zuppa a tavola in famiglia, Limnophila aromatica è diventata un simbolo della cucina casalinga, del conforto e della cura trasmessa attraverso generazioni di pasti in famiglia."
+          }
+        ],
+        "toxicity": {
+          "headline": "Nessuna tossicità segnalata",
+          "active_compound_display": "Nessuno segnalato",
+          "notes_en": "Non è stata trovata alcuna corrispondenza con fonti autorevoli sulla tossicità; trattato come non segnalato (la stima del LLM non è verificata da fonti).",
+          "human": {
+            "exposure": "Non è segnalata alcuna via di esposizione.",
+            "effect": "Non è segnalato alcun effetto tossico.",
+            "note": "In questo catalogo non è segnalata tossicità per gli esseri umani; ciò non costituisce prova che la pianta sia commestibile o innocua."
+          },
+          "dog": {
+            "exposure": "Non è segnalata alcuna via di esposizione.",
+            "effect": "Non è segnalato alcun effetto tossico.",
+            "note": "In questo catalogo non è segnalata tossicità per i cani; ciò non costituisce prova che la pianta sia commestibile o innocua."
+          },
+          "cat": {
+            "exposure": "Non è segnalata alcuna via di esposizione.",
+            "effect": "Non è segnalato alcun effetto tossico.",
+            "note": "In questo catalogo non è segnalata tossicità per i gatti; ciò non costituisce prova che la pianta sia commestibile o innocua."
+          }
+        }
+      }
+    },
+    "AAA1748": {
+      "source_hash": "f7240941f7d78247aed371a146a6ded198dd843785735fe703829b465f3179a6",
+      "fields": {
+        "common_name": "Melo selvatico delle praterie",
+        "bloom_tip": "Questo fiore di melo è incantevole e fiorisce tra aprile e maggio.",
+        "fruit_tip": "Il frutto matura assumendo un colore giallo brillante, il che lo rende adatto a scopi ornamentali.",
+        "description": "Il Melo selvatico delle praterie è un piccolo albero deciduo a chioma ampia, originario delle praterie e dei margini boschivi degli Stati Uniti centrali, dall'Iowa a sud fino al Missouri e al Texas. Ad aprile e maggio si ricopre di una nuvola di fiori profumati di un rosa tenue che sfumano al bianco con l'età, attirando le api da lontano. A fine estate i suoi rami portano piccole mele dure, giallo-verdi, che persistono fino all'autunno, apprezzate più come nutrimento per la fauna selvatica e per il loro valore ornamentale che per il consumo fresco. Tollerante a suoli poveri e sassosi delle praterie purché il drenaggio sia adeguato, prospera in pieno sole ed è un albero esemplare resistente e longevo per giardini naturalizzati e piantumazioni per la fauna selvatica nelle zone USDA da 4 a 8.",
+        "history_text_short": "Conosciuto come 'Bechtel's Crab' dopo la scoperta della sua rara forma a fiore doppio in una fattoria dell'Illinois negli anni 1840, i fiori primaverili rosa e intensamente profumati del Melo selvatico delle praterie lo resero un elemento amato delle fattorie del Midwest, e la sua forma selvatica resta una fonte di nutrimento vitale per le api e gli uccelli invernali.",
+        "history_text_long": "Il Melo selvatico delle praterie (Malus ioensis) cresce spontaneo nelle praterie di erbe alte e ai margini boschivi del Midwest americano, e sia per i popoli nativi che per i primi coloni le sue piccole mele dure e acidule erano un cibo raccolto stagionalmente, migliore dopo che una gelata le aveva ammorbidite e addolcite. La sua fama duratura, tuttavia, risale a un'unica fattoria vicino a Staunton, nell'Illinois, dove negli anni 1840 un coltivatore di nome E. Bechtel notò un Melo selvatico delle praterie selvatico con una mutazione inusuale: fiori completamente doppi, carichi di dozzine di tenui petali rosa disposti a strati come una piccola rosa, e così profumati che i vicini potevano sentire l'odore di un albero in fiore dalla strada. Bechtel propagò e vendette la pianticella, e verso la fine del diciannovesimo secolo 'Bechtel's Crab', come venne chiamata la cultivar, si era diffusa in fattorie, cimiteri e giardini anteriori in tutto il Midwest e oltre, apprezzata unicamente per la sua spettacolare fioritura primaverile e non per il frutto. Per generazioni di famiglie americane, un Bechtel's Crab in fiore vicino al portico o lungo il viale ogni aprile era tanto un annuncio della primavera quanto il ritorno dei pettirossi americani, e molti dei vecchi e contorti meli selvatici ancora presenti in fattorie abbandonate e cimiteri rurali risalgono direttamente alla scoperta originale di Bechtel. La specie selvatica stessa rimane un'importante fonte di nettare precoce per le api e il suo piccolo frutto persistente un alimento invernale per gli uccelli, così che anche dove l'elegante forma a fiore doppio non si è mai diffusa, il semplice Melo selvatico delle praterie continua a svolgere lo stesso lavoro silenzioso di sempre.",
+        "name_origin": "Il nome della specie, ioensis, significa semplicemente 'dell'Iowa', in onore dello stato al centro del suo areale nativo nella prateria di erbe alte nordamericana.",
+        "symbolism_story": "Generazioni di famiglie di agricoltori del Midwest attendevano ogni aprile la fioritura del melo selvatico lungo il viale, considerando la sua improvvisa esplosione di rosa e bianco come il segno più sicuro che il rigido inverno della prateria fosse davvero finito e la stagione della semina fosse iniziata.",
+        "flower_meaning": "Rinnovamento",
+        "fragrance": {
+          "notes": "I fiori emanano una fragranza floreale intensa e dolce, particolarmente pronunciata nella forma a fiore doppio 'Bechtel's Crab'."
+        },
+        "uses_list": [
+          {
+            "text": "I suoi fiori primaverili sono intensamente profumati, specialmente nella forma a fiore doppio 'Bechtel's Crab', un tempo comune nelle fattorie americane."
+          },
+          {
+            "text": "Un'importante fonte di nettare precoce per le api e una fonte di nutrimento invernale persistente per gli uccelli."
+          },
+          {
+            "text": "Coltivato come albero ornamentale da fiore per la sua spettacolare fioritura primaverile piuttosto che per il suo piccolo frutto acidulo."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Rinnovamento",
+            "description": "Essendo uno dei primi alberi a fiorire nella prateria ogni primavera, il Melo selvatico delle praterie è giunto a simboleggiare il rinnovamento e la promessa della stagione di crescita a venire; i suoi fiori erano considerati dalle prime famiglie del Midwest un segno affidabile che l'inverno fosse finalmente finito."
+          }
+        ],
+        "toxicity": {
+          "headline": "Tossicità sconosciuta",
+          "active_compound_display": "Nessuno segnalato",
+          "notes_en": "Non è stata trovata alcuna corrispondenza con fonti autorevoli sulla tossicità; trattato come non segnalato (la stima del LLM non è verificata da fonti).",
+          "human": {
+            "exposure": "Non è segnalata alcuna via di esposizione.",
+            "effect": "Non è segnalato alcun effetto tossico.",
+            "note": "La tossicità per gli esseri umani non è ben documentata; si raccomanda cautela fino alla verifica."
+          },
+          "dog": {
+            "exposure": "Non è segnalata alcuna via di esposizione.",
+            "effect": "Non è segnalato alcun effetto tossico.",
+            "note": "La tossicità per i cani non è ben documentata; si raccomanda cautela fino alla verifica."
+          },
+          "cat": {
+            "exposure": "Non è segnalata alcuna via di esposizione.",
+            "effect": "Non è segnalato alcun effetto tossico.",
+            "note": "La tossicità per i gatti non è ben documentata; si raccomanda cautela fino alla verifica."
           }
         }
       }
