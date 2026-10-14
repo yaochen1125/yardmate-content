@@ -3,8 +3,8 @@
   "locale": "pt",
   "source": {
     "resource": "plants_detail.json",
-    "sha256": "d16c20811874f34775dc7e7f379ad76da59adbb789a8a3a8d71254de151716c0",
-    "record_count": 1747
+    "sha256": "839c5e3870942657e350a9c7ec5f452d748d05fc4ba198c8be23d9b9c5a14f27",
+    "record_count": 1749
   },
   "records": {
     "AAA0001": {
@@ -106893,6 +106893,124 @@
             "exposure": "Nenhuma via de exposição é relatada.",
             "effect": "Nenhum efeito tóxico é relatado.",
             "note": "A toxicidade para gatos não está bem documentada; recomenda-se cautela até que seja verificada."
+          }
+        }
+      }
+    },
+    "AAA1749": {
+      "source_hash": "033fe8cd4d9447d873c4172b341bda1de9782d69c5bbbdd10e48a23eb837cb07",
+      "fields": {
+        "common_name": "Litospermo-vermelho",
+        "bloom_tip": "Esta planta floresce de maio a junho, produzindo flores bonitas.",
+        "description": "O litospermo-vermelho é uma herbácea perene felpuda e de porte baixo, nativa do leste da Ásia, cultivada menos por suas pequenas flores brancas de verão do que por suas raízes lenhosas de cor vermelho-sangue. Durante séculos, essas raízes, chamadas shikon, eram cozidas em fogo lento para produzir um dos tintos púrpuras mais antigos do leste da Ásia, apreciado por seu tom vermelho-violáceo brilhante. A planta antes crescia livremente em pastagens secas e encostas ensolaradas, mas as populações silvestres se tornaram escassas à medida que as raízes eram desenterradas para tinta e medicina tradicional, por isso hoje é cultivada deliberadamente por sua raiz carregada de história, mais do que por suas flores modestas.",
+        "history_text_short": "Suas raízes vermelho-sangue deram ao Japão clássico seu tinto púrpura murasaki, tão apreciado que uma lei do século VIII reservava os tons mais profundos apenas para os nobres de mais alto escalão. A própria palavra japonesa para a cor púrpura pode vir do nome da planta. Essa mesma raiz foi usada por muito tempo na medicina do leste asiático para feridas e queimaduras, e a coleta excessiva fez com que essa erva de pastagem, antes comum, se tornasse cada vez mais rara na natureza.",
+        "history_text_long": "No Japão clássico, o litospermo-vermelho não era uma flor de jardim, mas uma fonte de cor tão apreciada que chegou a moldar a lei. Suas raízes, chamadas shikon, eram cozidas em fogo lento e fermentadas para produzir o murasaki, um tinto púrpura profundo usado para colorir a seda. O tinto estava tão ligado à planta que a palavra japonesa para a cor púrpura, murasaki, acredita-se vir diretamente do nome da própria planta, e não o contrário. Sob o sistema de hierarquia da corte do século VIII, os tons mais ricos desse púrpura eram reservados por lei aos nobres e príncipes de mais alto escalão, enquanto os escalões inferiores eram proibidos de usá-lo; a profundidade do próprio manto púrpura anunciava literalmente o lugar de cada um na corte.\n\nNa China e na Coreia, essa mesma raiz, conhecida como zicao ou jichi, era valorizada menos para tingir do que para curar: moída ou infundida em óleo, era aplicada em queimaduras, feridas e úlceras de pele na medicina tradicional, um uso ainda estudado hoje por conta do composto cicatrizante shikonina que dá cor à raiz. Essa demanda dupla, por tinta e por medicina, impulsionou séculos de coleta silvestre, e o litospermo-vermelho tornou-se cada vez mais escasso nas encostas secas e pastagens que antes preferia, sobrevivendo hoje principalmente por meio do cultivo deliberado da mesma raiz que um dia coloriu imperadores.",
+        "name_origin": "O nome do gênero Lithospermum vem do grego lithos (pedra) e sperma (semente), descrevendo suas sementes duras e pétreas. O nome da espécie erythrorhizon é grego para «raiz vermelha», em referência à raiz tintórea que dá à planta seu valor histórico.",
+        "symbolism_story": "As raízes do litospermo-vermelho deram à antiga corte japonesa sua cor mais exclusiva: segundo as leis de hierarquia do século VIII, apenas príncipes e os nobres de mais alto escalão podiam usar o profundo púrpura murasaki tingido a partir dessa planta, tornando a própria cor um símbolo de nobreza e hierarquia. Essa mesma raiz, desenterrada por séculos para tinta e medicina, tornou-se cada vez mais escassa na natureza, transformando essa erva antes comum em um símbolo tanto de abundância desaparecida quanto de status.",
+        "flower_meaning": "Nobreza",
+        "uses_list": [
+          {
+            "text": "Suas raízes de vermelho intenso eram cozidas em fogo lento para produzir o murasaki, um dos tintos púrpuras tradicionais mais apreciados do leste da Ásia."
+          },
+          {
+            "text": "Usada na medicina herbal do leste asiático para tratar queimaduras, feridas e inflamações da pele."
+          },
+          {
+            "text": "Hoje cultivada principalmente como planta tintórea e medicinal histórica, mais do que por suas modestas flores brancas."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Nobreza",
+            "description": "um tinto púrpura antigamente reservado por lei aos escalões mais altos da corte imperial"
+          },
+          {
+            "keyword": "Raridade",
+            "description": "uma raiz antes comum, hoje escassa na natureza após séculos de coleta"
+          }
+        ],
+        "toxicity": {
+          "headline": "Nenhuma toxicidade relatada",
+          "active_compound_display": "Nenhum relatado",
+          "notes_en": "Nenhuma correspondência de toxicidade verificada por fontes foi encontrada; tratada como não relatada (a estimativa do LLM não é verificada por fontes).",
+          "human": {
+            "exposure": "Nenhuma via de exposição é relatada.",
+            "effect": "Nenhum efeito tóxico é relatado.",
+            "note": "A toxicidade para humanos não está bem documentada; recomenda-se cautela até que seja verificada."
+          },
+          "dog": {
+            "exposure": "Nenhuma via de exposição é relatada.",
+            "effect": "Nenhum efeito tóxico é relatado.",
+            "note": "Nenhuma toxicidade é relatada para cães neste catálogo; isso não é prova de que a planta seja comestível ou inofensiva."
+          },
+          "cat": {
+            "exposure": "Nenhuma via de exposição é relatada.",
+            "effect": "Nenhum efeito tóxico é relatado.",
+            "note": "Nenhuma toxicidade é relatada para gatos neste catálogo; isso não é prova de que a planta seja comestível ou inofensiva."
+          }
+        }
+      }
+    },
+    "AAA1750": {
+      "source_hash": "bfd17fcd4679ab59961a0946556399debdab303377e736bfd43ddcab38198d61",
+      "fields": {
+        "common_name": "Heliotrópio da Índia",
+        "bloom_tip": "Esta planta floresce durante todo o ano.",
+        "description": "O heliotrópio da Índia é uma herbácea anual eriçada e de crescimento rápido, nativa da Ásia tropical e hoje uma erva daninha comum nas beiras de estrada em regiões quentes de todo o mundo. É conhecida por suas espigas florais curvadas para um só lado: pequenas flores de lavanda a branco enroladas como a cauda de um escorpião, o que lhe deu nomes como «erva-escorpião» e «planta-lagarta-chinesa». Os polinizadores se reúnem em suas pequenas flores tubulares, enquanto os caules ásperos e pilosos permitem que prospere em beiras de estrada e terrenos baldios com poucos cuidados. A planta inteira contém alcaloides que danificam o fígado, sendo hoje valorizada mais como uma planta resistente para polinizadores do que como um remédio seguro.",
+        "history_text_short": "Sua espiga floral em forma de cauda de escorpião convenceu os curandeiros do velho mundo de que essa erva daninha poderia curar o que ela se parecia, tratando picadas e feridas segundo a doutrina das assinaturas. Séculos depois, cientistas extraíram um de seus alcaloides e o testaram contra o câncer em ensaios dos anos 1970, abandonando-o quando a mesma toxicidade hepática que envenena o gado em pastoreio se mostrou demasiado perigosa para os pacientes.",
+        "history_text_long": "Muito antes de ter um nome latino, o heliotrópio da Índia já era uma planta útil nas aldeias da Ásia tropical e da África Ocidental. Sua espiga floral enrolada, torcida como a cauda de um escorpião, convenceu curandeiros tradicionais de que a própria planta guardava a cura para aquilo que representava: segundo a antiga doutrina das assinaturas, folhas esmagadas eram aplicadas sobre picadas de escorpião e mordidas de cobra, e cataplasmas eram usados para furúnculos, feridas e picadas de insetos, da Índia à Nigéria. Praticantes da medicina ayurvédica e siddha a preparavam em infusão contra febres e erupções cutâneas, sem suspeitar que essa mesma planta armazenava silenciosamente, em cada folha e caule, alcaloides pirrolizidínicos nocivos ao fígado.\n\nNo século XX, químicos isolaram um desses alcaloides, o N-óxido de indicina, dos tecidos da planta e descobriram que ele retardava o crescimento tumoral em testes de laboratório. Entusiasmado com a descoberta, o Instituto Nacional do Câncer dos EUA levou o composto a ensaios clínicos nas décadas de 1970 e 1980, administrando-o a pacientes com câncer na esperança de que uma erva daninha de beira de estrada pudesse originar um novo medicamento quimioterápico. Os ensaios foram finalmente abandonados: a mesma hepatotoxicidade que há muito envenenava o gado que pastava em áreas com heliotrópio mostrou-se também excessiva para os pacientes humanos, fechando o ciclo entre um antigo remédio de aldeia e uma decepção de laboratório moderna.",
+        "name_origin": "O nome do gênero Heliotropium vem do grego helios (sol) e trope (virar), a partir de uma antiga crença de que os cachos de flores da planta seguiam o sol. O nome da espécie indicum é latim para «da Índia», referindo-se à sua área de origem na Ásia tropical.",
+        "symbolism_story": "A espiga floral enrolada do heliotrópio da Índia, torcida como a cauda erguida de um escorpião, deu-lhe fama de planta protetora muito antes de a ciência explicar sua química: curandeiros de aldeia, seguindo a antiga doutrina das assinaturas, confiavam que a planta protegia contra a própria picada que parecia representar. Essa mesma resistência se transferiu para seu simbolismo de resiliência, já que o heliotrópio toma conta de beiras de estrada, entulhos e terrenos abandonados onde plantas mais delicadas não conseguem se fixar.",
+        "flower_meaning": "Proteção",
+        "uses_list": [
+          {
+            "text": "Suas pequenas flores tubulares oferecem néctar durante toda a estação para abelhas e borboletas."
+          },
+          {
+            "text": "Usada há muito tempo na medicina popular para feridas, furúnculos e picadas de escorpião, apesar de seus alcaloides tóxicos."
+          },
+          {
+            "text": "Coloniza beiras de estrada e terrenos baldios, oferecendo abrigo e néctar onde pouco mais cresce."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Proteção",
+            "description": "uma espiga floral enrolada, semelhante a um escorpião, antigamente tida como capaz de proteger contra a picada que parece representar"
+          },
+          {
+            "keyword": "Resiliência",
+            "description": "uma erva daninha que toma conta de solos perturbados e pobres onde outras plantas têm dificuldade em crescer"
+          }
+        ],
+        "toxicity": {
+          "headline": "Humanos Tóxico · Animais de estimação Moderado",
+          "active_compound_display": "alcaloides pirrolizidínicos (indicina, N-óxido de indicina)",
+          "notes_en": "Contém alcaloides pirrolizidínicos hepatotóxicos; a ingestão crônica pode causar dano hepático em pessoas e animais de pasto.",
+          "human": {
+            "exposure": "Ingestão de qualquer parte da planta.",
+            "effect": "Dano hepático e doença veno-oclusiva com exposição crônica.",
+            "note": "Contém alcaloides pirrolizidínicos hepatotóxicos; a ingestão crônica pode causar dano hepático em pessoas e animais de pasto.",
+            "symptoms": [
+              "Dano hepático.",
+              "Doença veno-oclusiva com exposição crônica."
+            ]
+          },
+          "dog": {
+            "exposure": "Ingestão de qualquer parte da planta.",
+            "effect": "Dano hepático com ingestão prolongada.",
+            "note": "Contém alcaloides pirrolizidínicos hepatotóxicos; a ingestão crônica pode causar dano hepático em pessoas e animais de pasto.",
+            "symptoms": [
+              "Dano hepático com ingestão prolongada."
+            ]
+          },
+          "cat": {
+            "exposure": "Ingestão de qualquer parte da planta.",
+            "effect": "Dano hepático com ingestão prolongada.",
+            "note": "Contém alcaloides pirrolizidínicos hepatotóxicos; a ingestão crônica pode causar dano hepático em pessoas e animais de pasto.",
+            "symptoms": [
+              "Dano hepático com ingestão prolongada."
+            ]
           }
         }
       }

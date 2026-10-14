@@ -3,8 +3,8 @@
   "locale": "de",
   "source": {
     "resource": "plants_detail.json",
-    "sha256": "d16c20811874f34775dc7e7f379ad76da59adbb789a8a3a8d71254de151716c0",
-    "record_count": 1747
+    "sha256": "839c5e3870942657e350a9c7ec5f452d748d05fc4ba198c8be23d9b9c5a14f27",
+    "record_count": 1749
   },
   "records": {
     "AAA0001": {
@@ -106879,6 +106879,124 @@
             "exposure": "Es ist kein Expositionsweg bekannt.",
             "effect": "Es ist keine toxische Wirkung bekannt.",
             "note": "Die Toxizität für Katzen ist nicht gut dokumentiert; bis zur Überprüfung ist Vorsicht geboten."
+          }
+        }
+      }
+    },
+    "AAA1749": {
+      "source_hash": "033fe8cd4d9447d873c4172b341bda1de9782d69c5bbbdd10e48a23eb837cb07",
+      "fields": {
+        "common_name": "Roter Steinsame",
+        "bloom_tip": "Diese Pflanze blüht von Mai bis Juni und bildet wunderschöne Blüten.",
+        "description": "Der Rote Steinsame ist ein behaartes, niedrig wachsendes Staudenkraut aus Ostasien, das weniger wegen seiner kleinen weißen Sommerblüten als wegen seiner holzigen, blutroten Wurzeln angebaut wird. Jahrhundertelang wurden diese als Shikon bezeichneten Wurzeln eingekocht, um einen der ältesten Purpurfarbstoffe Ostasiens herzustellen, geschätzt für seinen leuchtend rotvioletten Ton. Die Pflanze wuchs einst frei auf trockenen Grasländern und sonnigen Hängen, doch wilde Bestände sind selten geworden, da die Wurzeln für Farbstoff und traditionelle Medizin ausgegraben wurden; heute wird sie meist gezielt wegen ihrer geschichtsreichen Wurzel kultiviert statt wegen ihrer bescheidenen Blüten.",
+        "history_text_short": "Seine blutroten Wurzeln lieferten dem klassischen Japan den murasaki-Purpurfarbstoff, der so begehrt war, dass ein Gesetz aus dem 8. Jahrhundert die tiefsten Töne allein den höchstrangigen Adligen vorbehielt. Das japanische Wort für Purpur stammt vermutlich sogar vom Namen der Pflanze selbst. Dieselbe Wurzel wurde lange in der ostasiatischen Medizin gegen Wunden und Verbrennungen verwendet, und Übererntung hat dieses einst verbreitete Grasland-Kraut in der Wildnis zunehmend selten gemacht.",
+        "history_text_long": "Im klassischen Japan war der Rote Steinsame keine Gartenblume, sondern eine Farbquelle, die so geschätzt wurde, dass sie das Gesetz prägte. Seine als Shikon bezeichneten Wurzeln wurden eingekocht und fermentiert, um murasaki zu gewinnen, einen tiefen rotvioletten Farbstoff zum Färben von Seide. Der Farbstoff war so eng mit der Pflanze verbunden, dass das japanische Wort für die Farbe Purpur, murasaki, vermutlich direkt vom Namen der Pflanze selbst stammt und nicht umgekehrt. Unter dem Rangsystem des achten Jahrhunderts waren die reichsten Töne dieses Purpurs gesetzlich den höchsten Adligen und Prinzen vorbehalten, während niedrigeren Rängen das Tragen verboten war; die Tiefe des eigenen Purpurgewands verkündete buchstäblich den eigenen Platz am Hof.\n\nIn China und Korea wurde dieselbe Wurzel, dort zicao beziehungsweise jichi genannt, weniger zum Färben als zum Heilen geschätzt: gemahlen oder in Öl eingelegt, wurde sie in der traditionellen Medizin auf Verbrennungen, Wunden und Hautgeschwüre aufgetragen – eine Anwendung, die bis heute im Hinblick auf die wundheilende Verbindung Shikonin erforscht wird, die der Wurzel ihre Farbe verleiht. Diese doppelte Nachfrage nach Farbstoff und Medizin führte zu Jahrhunderten wilder Ernte, und der Rote Steinsame ist auf den trockenen Hängen und Grasländern, die er einst bevorzugte, stetig seltener geworden; er überlebt heute meist durch gezielten Anbau genau jener Wurzel, die einst Kaiser färbte.",
+        "name_origin": "Der Gattungsname Lithospermum stammt aus dem Griechischen lithos (Stein) und sperma (Samen) und beschreibt die harten, steinartigen Samen. Der Artname erythrorhizon ist griechisch für „rote Wurzel“ und benennt die farbstoffreiche Pfahlwurzel, die der Pflanze ihren historischen Wert verleiht.",
+        "symbolism_story": "Die Wurzeln des Roten Steinsames verschafften dem alten japanischen Hof seine exklusivste Farbe: Nach den Rangordnungsgesetzen des achten Jahrhunderts durften nur Prinzen und die höchsten Adligen das aus dieser Pflanze gewonnene tiefe murasaki-Purpur tragen, wodurch die Farbe selbst zum Symbol für Adel und Rang wurde. Dieselbe Wurzel, über Jahrhunderte für Farbstoff und Medizin ausgegraben, ist in der Wildnis stetig seltener geworden, sodass das einst verbreitete Kraut ebenso zum Symbol schwindender Fülle wie des Status wurde.",
+        "flower_meaning": "Adel",
+        "uses_list": [
+          {
+            "text": "Seine tiefroten Wurzeln wurden eingekocht, um murasaki herzustellen, einen der begehrtesten traditionellen Purpurfarbstoffe Ostasiens."
+          },
+          {
+            "text": "In der ostasiatischen Heilkunde zur Behandlung von Verbrennungen, Wunden und Hautentzündungen verwendet."
+          },
+          {
+            "text": "Wird heute vor allem als historische Färber- und Heilpflanze angebaut, weniger wegen ihrer bescheidenen weißen Blüten."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Adel",
+            "description": "ein Purpurfarbstoff, der gesetzlich den höchsten Rängen des kaiserlichen Hofes vorbehalten war"
+          },
+          {
+            "keyword": "Seltenheit",
+            "description": "eine einst verbreitete Wurzel, die nach Jahrhunderten der Ernte in der Wildnis selten geworden ist"
+          }
+        ],
+        "toxicity": {
+          "headline": "Keine Toxizität gemeldet",
+          "active_compound_display": "Keine gemeldet",
+          "notes_en": "Keine durch Quellen bestätigte Toxizität gefunden; gilt als nicht gemeldet (LLM-Einschätzung ist nicht quellengeprüft).",
+          "human": {
+            "exposure": "Kein Expositionsweg wird gemeldet.",
+            "effect": "Keine toxische Wirkung wird gemeldet.",
+            "note": "Die Toxizität für Menschen ist nicht gut dokumentiert; Vorsicht ist geboten, bis dies bestätigt ist."
+          },
+          "dog": {
+            "exposure": "Kein Expositionsweg wird gemeldet.",
+            "effect": "Keine toxische Wirkung wird gemeldet.",
+            "note": "Für Hunde wird in diesem Katalog keine Toxizität gemeldet; dies ist kein Beweis dafür, dass die Pflanze essbar oder unbedenklich ist."
+          },
+          "cat": {
+            "exposure": "Kein Expositionsweg wird gemeldet.",
+            "effect": "Keine toxische Wirkung wird gemeldet.",
+            "note": "Für Katzen wird in diesem Katalog keine Toxizität gemeldet; dies ist kein Beweis dafür, dass die Pflanze essbar oder unbedenklich ist."
+          }
+        }
+      }
+    },
+    "AAA1750": {
+      "source_hash": "bfd17fcd4679ab59961a0946556399debdab303377e736bfd43ddcab38198d61",
+      "fields": {
+        "common_name": "Indischer Heliotrop",
+        "bloom_tip": "Diese Pflanze blüht das ganze Jahr über.",
+        "description": "Der Indische Heliotrop ist ein borstiges, schnellwüchsiges einjähriges Kraut, das aus dem tropischen Asien stammt und heute weltweit als häufiges Wegrand-Unkraut in warmen Regionen vorkommt. Bekannt ist er für seine einseitig gekrümmten Blütenähren: winzige lavendel- bis weißfarbene Blüten, die sich wie ein Skorpionschwanz einrollen, was ihm Namen wie „Skorpionkraut“ und „chinesische Raupenpflanze“ einbrachte. Bestäuber strömen zu den kleinen röhrenförmigen Blüten, während die rauen, behaarten Stängel ihm erlauben, mit wenig Pflege auf Straßenrändern und Ödland zu gedeihen. Die ganze Pflanze enthält leberschädigende Alkaloide und wird heute eher als robuste Bestäuberpflanze geschätzt als als sichere Heilpflanze.",
+        "history_text_short": "Seine skorpionsschwanzartige Blütenähre überzeugte Heiler der alten Welt davon, dass dieses Unkraut heilen könne, was es abbildete, und wurde nach der Signaturenlehre gegen Stiche und Wunden eingesetzt. Jahrhunderte später extrahierten Wissenschaftler eines seiner Alkaloide und testeten es in den 1970er-Jahren gegen Krebs – die Versuche wurden jedoch aufgegeben, als sich dieselbe Lebertoxizität, die weidendes Vieh vergiftet, auch für Patienten als zu gefährlich erwies.",
+        "history_text_long": "Lange bevor er einen lateinischen Namen hatte, war der Indische Heliotrop bereits eine Nutzpflanze in den Dörfern des tropischen Asiens und Westafrikas. Seine eingerollte Blütenähre, fest gewunden wie der Schwanz eines Skorpions, überzeugte traditionelle Heiler, dass die Pflanze selbst die Heilung für das enthielt, was sie darstellte: Nach der alten Signaturenlehre wurden zerstoßene Blätter auf Skorpionstiche und Schlangenbisse gepresst, und Breiumschläge wurden bei Geschwüren, Wunden und Insektenstichen von Indien bis Nigeria angewendet. Heiler der ayurvedischen und Siddha-Praxis brauten sie gegen Fieber und Hautausschläge, ohne zu ahnen, dass dieselbe Pflanze in jedem Blatt und Stängel still leberschädigende Pyrrolizidinalkaloide speicherte.\n\nIm 20. Jahrhundert isolierten Chemiker eines dieser Alkaloide, Indicin-N-oxid, aus dem Pflanzengewebe und stellten fest, dass es das Tumorwachstum in Laborversuchen verlangsamte. Begeistert von dieser Entdeckung, führte das US-amerikanische National Cancer Institute die Verbindung in den 1970er- und 1980er-Jahren in klinische Studien ein und verabreichte sie Krebspatienten in der Hoffnung, dass ein Wegrand-Unkraut ein neues Chemotherapeutikum liefern könnte. Die Studien wurden schließlich abgebrochen: Dieselbe Lebertoxizität, die seit langem weidendes Vieh auf Heliotropium-Weiden vergiftet hatte, erwies sich auch für menschliche Patienten als zu gefährlich – und schloss damit den Kreis zwischen einem alten Dorfmittel und einer modernen Laborenttäuschung.",
+        "name_origin": "Der Gattungsname Heliotropium stammt aus dem Griechischen helios (Sonne) und trope (Wendung) und beruht auf dem alten Glauben, dass die Blütenstände der Pflanze der Sonne folgen. Der Artname indicum ist lateinisch für „aus Indien“ und verweist auf ihr natürliches Verbreitungsgebiet im tropischen Asien.",
+        "symbolism_story": "Die eingerollte Blütenähre des Indischen Heliotrops, gewunden wie der aufgerichtete Schwanz eines Skorpions, verschaffte ihm lange vor der wissenschaftlichen Erklärung seiner Chemie einen Ruf als Schutzpflanze: Dorfheiler, die der alten Signaturenlehre folgten, vertrauten darauf, dass die Pflanze vor genau dem Stich schützt, den sie abbildet. Dieselbe Widerstandsfähigkeit floss in ihre Symbolik der Ausdauer ein, da der Heliotrop sich Wegränder, Schutt und vernachlässigte Flächen erschließt, wo zartere Pflanzen nicht Fuß fassen können.",
+        "flower_meaning": "Schutz",
+        "uses_list": [
+          {
+            "text": "Seine winzigen röhrenförmigen Blüten liefern Bienen und Schmetterlingen über die ganze Saison hinweg Nektar."
+          },
+          {
+            "text": "Lange in der Volksmedizin gegen Wunden, Geschwüre und Skorpionstiche verwendet, trotz seiner giftigen Alkaloide."
+          },
+          {
+            "text": "Besiedelt Straßenränder und Ödland und bietet Deckung und Nektar, wo sonst kaum etwas wächst."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Schutz",
+            "description": "eine eingerollte, skorpionähnliche Blütenähre, der man einst zutraute, vor dem Stich zu schützen, den sie abbildet"
+          },
+          {
+            "keyword": "Ausdauer",
+            "description": "ein Unkraut, das sich gestörte Böden und magere Erde erschließt, wo andere Pflanzen scheitern"
+          }
+        ],
+        "toxicity": {
+          "headline": "Menschen giftig · Haustiere mäßig",
+          "active_compound_display": "Pyrrolizidinalkaloide (Indicin, Indicin-N-oxid)",
+          "notes_en": "Enthält leberschädigende Pyrrolizidinalkaloide; chronischer Verzehr kann bei Menschen und Weidetieren Leberschäden verursachen.",
+          "human": {
+            "exposure": "Verzehr eines beliebigen Pflanzenteils.",
+            "effect": "Leberschäden und venookklusive Erkrankung bei chronischer Exposition.",
+            "note": "Enthält leberschädigende Pyrrolizidinalkaloide; chronischer Verzehr kann bei Menschen und Weidetieren Leberschäden verursachen.",
+            "symptoms": [
+              "Leberschäden.",
+              "Venookklusive Erkrankung bei chronischer Exposition."
+            ]
+          },
+          "dog": {
+            "exposure": "Verzehr eines beliebigen Pflanzenteils.",
+            "effect": "Leberschäden bei anhaltendem Verzehr.",
+            "note": "Enthält leberschädigende Pyrrolizidinalkaloide; chronischer Verzehr kann bei Menschen und Weidetieren Leberschäden verursachen.",
+            "symptoms": [
+              "Leberschäden bei anhaltendem Verzehr."
+            ]
+          },
+          "cat": {
+            "exposure": "Verzehr eines beliebigen Pflanzenteils.",
+            "effect": "Leberschäden bei anhaltendem Verzehr.",
+            "note": "Enthält leberschädigende Pyrrolizidinalkaloide; chronischer Verzehr kann bei Menschen und Weidetieren Leberschäden verursachen.",
+            "symptoms": [
+              "Leberschäden bei anhaltendem Verzehr."
+            ]
           }
         }
       }

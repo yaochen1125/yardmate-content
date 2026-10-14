@@ -3,8 +3,8 @@
   "locale": "es",
   "source": {
     "resource": "plants_detail.json",
-    "sha256": "d16c20811874f34775dc7e7f379ad76da59adbb789a8a3a8d71254de151716c0",
-    "record_count": 1747
+    "sha256": "839c5e3870942657e350a9c7ec5f452d748d05fc4ba198c8be23d9b9c5a14f27",
+    "record_count": 1749
   },
   "records": {
     "AAA0001": {
@@ -106893,6 +106893,124 @@
             "exposure": "No se reporta ninguna ruta de exposición.",
             "effect": "No se reporta ningún efecto tóxico.",
             "note": "La toxicidad para los gatos no está bien documentada; se recomienda precaución hasta que se verifique."
+          }
+        }
+      }
+    },
+    "AAA1749": {
+      "source_hash": "033fe8cd4d9447d873c4172b341bda1de9782d69c5bbbdd10e48a23eb837cb07",
+      "fields": {
+        "common_name": "Litospermo rojo",
+        "bloom_tip": "Esta planta florece de mayo a junio, produciendo flores hermosas.",
+        "description": "El litospermo rojo es una herbácea perenne vellosa y de porte bajo, originaria de Asia oriental, cultivada menos por sus pequeñas flores blancas de verano que por sus raíces leñosas de color rojo sangre. Durante siglos esas raíces, llamadas shikon, se cocían a fuego lento para producir uno de los tintes púrpuras más antiguos de Asia oriental, apreciado por su brillante tono rojo violáceo. La planta crecía antes libremente en pastizales secos y laderas soleadas, pero las poblaciones silvestres se han vuelto escasas porque sus raíces se desenterraban para tinte y medicina tradicional, por lo que hoy se cultiva deliberadamente por su legendaria raíz más que por sus modestas flores.",
+        "history_text_short": "Sus raíces color sangre dieron al Japón clásico su tinte púrpura murasaki, tan apreciado que una ley del siglo VIII reservó los tonos más intensos solo para los nobles de más alto rango. Se cree que la palabra japonesa para el púrpura procede incluso del propio nombre de la planta. Esa misma raíz se usó durante mucho tiempo en la medicina de Asia oriental para heridas y quemaduras, y la sobreexplotación ha hecho que esta hierba de pastizal, antes común, sea cada vez más rara en estado salvaje.",
+        "history_text_long": "En el Japón clásico, el litospermo rojo no era una flor de jardín, sino una fuente de color tan apreciada que llegó a moldear la ley. Sus raíces, llamadas shikon, se cocían a fuego lento y se fermentaban para obtener murasaki, un intenso tinte rojo púrpura usado para colorear la seda. El tinte estaba tan ligado a la planta que se cree que la palabra japonesa para el color púrpura, murasaki, proviene directamente del nombre de la propia planta, y no al revés. Bajo el sistema de rangos de la corte del siglo VIII, los tonos más ricos de este púrpura estaban reservados por ley a los nobles y príncipes más altos, mientras que a los rangos inferiores se les prohibía llevarlo; la intensidad del propio manto púrpura anunciaba literalmente el lugar de cada uno en la corte.\n\nEn China y Corea, esa misma raíz, conocida como zicao o jichi, se valoraba menos para teñir que para curar: molida o infusionada en aceite, se aplicaba sobre quemaduras, heridas y llagas en la medicina tradicional, un uso que todavía se estudia hoy por el compuesto cicatrizante shikonina que da color a la raíz. Esa doble demanda, de tinte y de medicina, impulsó siglos de recolección silvestre, y el litospermo rojo se ha vuelto cada vez más escaso en las laderas secas y pastizales que antes prefería, sobreviviendo hoy sobre todo mediante el cultivo deliberado de la misma raíz que una vez dio color a los emperadores.",
+        "name_origin": "El nombre del género, Lithospermum, proviene del griego lithos (piedra) y sperma (semilla), describiendo sus semillas duras y pétreas. El nombre de la especie, erythrorhizon, es griego para «raíz roja», en referencia a la raíz tintórea que da a la planta su valor histórico.",
+        "symbolism_story": "Las raíces del litospermo rojo dieron a la antigua corte japonesa su color más exclusivo: según las leyes de rango del siglo VIII, solo los príncipes y los nobles de más alto rango podían llevar el intenso púrpura murasaki teñido con esta planta, convirtiendo al propio color en símbolo de nobleza y rango. Esa misma raíz, desenterrada durante siglos para tinte y medicina, se ha vuelto cada vez más escasa en estado salvaje, transformando a esta hierba antes común en un símbolo tanto de abundancia desvanecida como de estatus.",
+        "flower_meaning": "Nobleza",
+        "uses_list": [
+          {
+            "text": "Sus raíces de color rojo intenso se cocían a fuego lento para producir murasaki, uno de los tintes púrpuras tradicionales más apreciados de Asia oriental."
+          },
+          {
+            "text": "Usado en la medicina herbal de Asia oriental para tratar quemaduras, heridas e inflamaciones de la piel."
+          },
+          {
+            "text": "Hoy se cultiva principalmente como planta tintórea y medicinal histórica, más que por sus modestas flores blancas."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Nobleza",
+            "description": "un tinte púrpura que la ley reservaba antaño a los rangos más altos de la corte imperial"
+          },
+          {
+            "keyword": "Rareza",
+            "description": "una raíz antes común, hoy escasa en estado salvaje tras siglos de recolección"
+          }
+        ],
+        "toxicity": {
+          "headline": "Sin toxicidad reportada",
+          "active_compound_display": "Ninguno reportado",
+          "notes_en": "No se encontró ninguna coincidencia de toxicidad verificada por fuentes; se trata como no reportada (la estimación del LLM no está verificada por fuentes).",
+          "human": {
+            "exposure": "No se reporta ninguna vía de exposición.",
+            "effect": "No se reporta ningún efecto tóxico.",
+            "note": "La toxicidad para humanos no está bien documentada; se recomienda precaución hasta que se verifique."
+          },
+          "dog": {
+            "exposure": "No se reporta ninguna vía de exposición.",
+            "effect": "No se reporta ningún efecto tóxico.",
+            "note": "No se reporta toxicidad para perros en este catálogo; esto no es prueba de que la planta sea comestible o inofensiva."
+          },
+          "cat": {
+            "exposure": "No se reporta ninguna vía de exposición.",
+            "effect": "No se reporta ningún efecto tóxico.",
+            "note": "No se reporta toxicidad para gatos en este catálogo; esto no es prueba de que la planta sea comestible o inofensiva."
+          }
+        }
+      }
+    },
+    "AAA1750": {
+      "source_hash": "bfd17fcd4679ab59961a0946556399debdab303377e736bfd43ddcab38198d61",
+      "fields": {
+        "common_name": "Alacrancillo",
+        "bloom_tip": "Esta planta florece durante todo el año.",
+        "description": "El alacrancillo es una herbácea anual erizada y de crecimiento rápido, originaria del Asia tropical y hoy una maleza común de cunetas en regiones cálidas de todo el mundo. Es conocido por sus espigas florales curvadas hacia un solo lado: diminutas flores de color lavanda a blanco enrolladas como la cola de un escorpión, lo que le ha dado nombres como «hierba de alacrán» y «planta oruga china». Los polinizadores acuden en masa a sus pequeñas flores tubulares, mientras que sus tallos ásperos y vellosos le permiten prosperar en cunetas y terrenos baldíos con muy poco cuidado. Toda la planta contiene alcaloides que dañan el hígado, por lo que hoy se valora más como una planta resistente para polinizadores que como un remedio seguro.",
+        "history_text_short": "Su espiga floral en forma de cola de escorpión convenció a los curanderos del viejo mundo de que esta maleza podía curar lo que imitaba, usándola contra picaduras y heridas según la doctrina de las signaturas. Siglos después, los científicos extrajeron uno de sus alcaloides y lo probaron contra el cáncer en ensayos de los años setenta, hasta abandonarlo cuando la misma toxicidad hepática que envenena al ganado resultó demasiado peligrosa para los pacientes.",
+        "history_text_long": "Mucho antes de tener un nombre en latín, el alacrancillo ya era una planta útil en los pueblos del Asia tropical y África occidental. Su espiga floral enrollada, retorcida como la cola de un escorpión, convenció a los curanderos tradicionales de que la planta encerraba la cura para aquello que representaba: según la antigua doctrina de las signaturas, se aplicaban hojas machacadas sobre picaduras de escorpión y mordeduras de serpiente, y se usaban cataplasmas para forúnculos, heridas y picaduras de insectos desde la India hasta Nigeria. Los curanderos de la medicina ayurvédica y siddha la preparaban en infusión contra la fiebre y las erupciones cutáneas, sin sospechar que esa misma planta almacenaba silenciosamente alcaloides pirrolizidínicos dañinos para el hígado en cada hoja y tallo.\n\nEn el siglo XX, los químicos aislaron uno de esos alcaloides, el N-óxido de indicina, de los tejidos de la planta y descubrieron que ralentizaba el crecimiento tumoral en pruebas de laboratorio. Entusiasmado por el hallazgo, el Instituto Nacional del Cáncer de Estados Unidos llevó el compuesto a ensayos clínicos durante los años setenta y ochenta, administrándolo a pacientes con cáncer con la esperanza de que una maleza de cuneta pudiera dar origen a un nuevo fármaco de quimioterapia. Los ensayos se abandonaron finalmente: la misma hepatotoxicidad que desde hacía tiempo envenenaba al ganado que pastaba en terrenos con heliotropo resultó también excesiva para los pacientes humanos, cerrando así el círculo entre un viejo remedio de pueblo y una decepción de laboratorio moderna.",
+        "name_origin": "El nombre del género, Heliotropium, proviene del griego helios (sol) y trope (giro), a partir de la antigua creencia de que las flores de la planta seguían al sol. El nombre de la especie, indicum, es latín para «de la India», en referencia a su área de origen en el Asia tropical.",
+        "symbolism_story": "La espiga floral enrollada del alacrancillo, retorcida como la cola erguida de un escorpión, le dio fama de planta protectora mucho antes de que la ciencia explicara su química: los curanderos de los pueblos, siguiendo la antigua doctrina de las signaturas, confiaban en que la planta protegía contra la misma picadura que parecía representar. Esa misma resistencia se trasladó a su simbolismo de perseverancia, pues el alacrancillo se adueña de cunetas, escombros y terrenos abandonados donde otras plantas más delicadas no logran arraigar.",
+        "flower_meaning": "Protección",
+        "uses_list": [
+          {
+            "text": "Sus diminutas flores tubulares ofrecen néctar durante toda la temporada a abejas y mariposas."
+          },
+          {
+            "text": "Usado durante mucho tiempo en la medicina popular para heridas, forúnculos y picaduras de escorpión, a pesar de sus alcaloides tóxicos."
+          },
+          {
+            "text": "Coloniza cunetas y terrenos baldíos, ofreciendo refugio y néctar donde apenas crece otra cosa."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Protección",
+            "description": "una espiga floral enrollada, similar a un escorpión, en la que antaño se confiaba para protegerse de la picadura que representa"
+          },
+          {
+            "keyword": "Perseverancia",
+            "description": "una maleza que se adueña de suelos alterados y pobres donde otras plantas no logran prosperar"
+          }
+        ],
+        "toxicity": {
+          "headline": "Humanos Tóxico · Mascotas Moderado",
+          "active_compound_display": "alcaloides pirrolizidínicos (indicina, N-óxido de indicina)",
+          "notes_en": "Contiene alcaloides pirrolizidínicos hepatotóxicos; la ingestión crónica puede causar daño hepático en personas y ganado.",
+          "human": {
+            "exposure": "Comer cualquier parte de la planta.",
+            "effect": "Daño hepático y enfermedad veno-oclusiva con la exposición crónica.",
+            "note": "Contiene alcaloides pirrolizidínicos hepatotóxicos; la ingestión crónica puede causar daño hepático en personas y ganado.",
+            "symptoms": [
+              "Daño hepático.",
+              "Enfermedad veno-oclusiva con la exposición crónica."
+            ]
+          },
+          "dog": {
+            "exposure": "Comer cualquier parte de la planta.",
+            "effect": "Daño hepático con la ingestión prolongada.",
+            "note": "Contiene alcaloides pirrolizidínicos hepatotóxicos; la ingestión crónica puede causar daño hepático en personas y ganado.",
+            "symptoms": [
+              "Daño hepático con la ingestión prolongada."
+            ]
+          },
+          "cat": {
+            "exposure": "Comer cualquier parte de la planta.",
+            "effect": "Daño hepático con la ingestión prolongada.",
+            "note": "Contiene alcaloides pirrolizidínicos hepatotóxicos; la ingestión crónica puede causar daño hepático en personas y ganado.",
+            "symptoms": [
+              "Daño hepático con la ingestión prolongada."
+            ]
           }
         }
       }

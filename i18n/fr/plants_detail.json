@@ -3,8 +3,8 @@
   "locale": "fr",
   "source": {
     "resource": "plants_detail.json",
-    "sha256": "d16c20811874f34775dc7e7f379ad76da59adbb789a8a3a8d71254de151716c0",
-    "record_count": 1747
+    "sha256": "839c5e3870942657e350a9c7ec5f452d748d05fc4ba198c8be23d9b9c5a14f27",
+    "record_count": 1749
   },
   "records": {
     "AAA0001": {
@@ -106879,6 +106879,124 @@
             "exposure": "Aucune voie d'exposition n'est signalée.",
             "effect": "Aucun effet toxique n'est signalé.",
             "note": "La toxicité pour les chats n'est pas bien documentée ; la prudence est recommandée jusqu'à vérification."
+          }
+        }
+      }
+    },
+    "AAA1749": {
+      "source_hash": "033fe8cd4d9447d873c4172b341bda1de9782d69c5bbbdd10e48a23eb837cb07",
+      "fields": {
+        "common_name": "Grémil à racine rouge",
+        "bloom_tip": "Cette plante fleurit de mai à juin, produisant de belles fleurs.",
+        "description": "Le grémil à racine rouge est une herbacée vivace velue et de faible hauteur, originaire d'Asie de l'Est, cultivée moins pour ses petites fleurs blanches d'été que pour ses racines ligneuses rouge sang. Pendant des siècles, ces racines, appelées shikon, étaient mijotées pour produire l'une des plus anciennes teintures violettes d'Asie de l'Est, prisée pour sa teinte rouge-violet éclatante. La plante poussait autrefois librement sur des prairies sèches et des pentes ensoleillées, mais les populations sauvages se sont raréfiées à mesure que les racines étaient déterrées pour la teinture et la médecine traditionnelle, si bien qu'elle est aujourd'hui cultivée délibérément pour sa racine chargée d'histoire plutôt que pour ses fleurs modestes.",
+        "history_text_short": "Ses racines rouge sang ont donné au Japon classique sa teinture pourpre murasaki, si prisée qu'une loi du VIIIe siècle réservait les teintes les plus profondes aux seuls nobles de plus haut rang. Le mot japonais pour le pourpre viendrait même directement du nom de la plante. Cette même racine a longtemps été utilisée en médecine est-asiatique contre les blessures et les brûlures, et la surexploitation a rendu cette herbe de prairie autrefois commune de plus en plus rare à l'état sauvage.",
+        "history_text_long": "Dans le Japon classique, le grémil à racine rouge n'était pas une fleur de jardin, mais une source de couleur si prisée qu'elle a fini par façonner la loi. Ses racines, appelées shikon, étaient mijotées et fermentées pour produire le murasaki, une teinture pourpre profonde utilisée pour colorer la soie. La teinture était si étroitement liée à la plante que le mot japonais pour la couleur pourpre, murasaki, viendrait directement du nom de la plante elle-même, et non l'inverse. Sous le système de rangs de la cour du VIIIe siècle, les teintes les plus riches de ce pourpre étaient réservées par la loi aux plus hauts nobles et aux princes, tandis que les rangs inférieurs étaient interdits de le porter ; la profondeur de sa propre robe pourpre annonçait littéralement sa place à la cour.\n\nEn Chine et en Corée, cette même racine, appelée zicao ou jichi, était moins valorisée pour la teinture que pour la guérison : broyée ou infusée dans l'huile, elle était appliquée sur les brûlures, les plaies et les ulcères cutanés en médecine traditionnelle, un usage encore étudié aujourd'hui pour le composé cicatrisant shikonine qui donne sa couleur à la racine. Cette double demande, pour la teinture et pour la médecine, a entraîné des siècles de récolte sauvage, et le grémil à racine rouge s'est raréfié sur les pentes sèches et les prairies qu'il privilégiait autrefois, survivant aujourd'hui surtout grâce à la culture délibérée de la racine même qui colorait autrefois les empereurs.",
+        "name_origin": "Le nom de genre Lithospermum vient du grec lithos (pierre) et sperma (graine), décrivant ses graines dures et pierreuses. Le nom d'espèce erythrorhizon signifie « racine rouge » en grec, nommant la racine tinctoriale qui donne à la plante sa valeur historique.",
+        "symbolism_story": "Les racines du grémil à racine rouge ont donné à l'ancienne cour japonaise sa couleur la plus exclusive : selon les lois de rang du VIIIe siècle, seuls les princes et les plus hauts nobles étaient autorisés à porter le pourpre murasaki profond teint à partir de cette plante, faisant de la couleur elle-même un symbole de noblesse et de rang. Cette même racine, déterrée pendant des siècles pour la teinture et la médecine, s'est raréfiée à l'état sauvage, transformant cette herbe autrefois commune en symbole d'une abondance qui s'efface autant que du statut.",
+        "flower_meaning": "Noblesse",
+        "uses_list": [
+          {
+            "text": "Ses racines rouge profond étaient mijotées pour produire le murasaki, une des teintures pourpres traditionnelles les plus prisées d'Asie de l'Est."
+          },
+          {
+            "text": "Utilisé en médecine traditionnelle est-asiatique pour traiter les brûlures, les plaies et les inflammations cutanées."
+          },
+          {
+            "text": "Aujourd'hui cultivé surtout comme plante tinctoriale et médicinale historique plutôt que pour ses modestes fleurs blanches."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Noblesse",
+            "description": "une teinture pourpre autrefois réservée par la loi aux plus hauts rangs de la cour impériale"
+          },
+          {
+            "keyword": "Rareté",
+            "description": "une racine autrefois commune, aujourd'hui rare à l'état sauvage après des siècles de récolte"
+          }
+        ],
+        "toxicity": {
+          "headline": "Aucune toxicité signalée",
+          "active_compound_display": "Aucun signalé",
+          "notes_en": "Aucune correspondance de toxicité vérifiée par une source n'a été trouvée ; considérée comme non signalée (l'estimation du LLM n'est pas vérifiée par une source).",
+          "human": {
+            "exposure": "Aucune voie d'exposition n'est signalée.",
+            "effect": "Aucun effet toxique n'est signalé.",
+            "note": "La toxicité pour l'homme n'est pas bien documentée ; la prudence est recommandée jusqu'à vérification."
+          },
+          "dog": {
+            "exposure": "Aucune voie d'exposition n'est signalée.",
+            "effect": "Aucun effet toxique n'est signalé.",
+            "note": "Aucune toxicité n'est signalée pour les chiens dans ce catalogue ; cela ne prouve pas que la plante soit comestible ou inoffensive."
+          },
+          "cat": {
+            "exposure": "Aucune voie d'exposition n'est signalée.",
+            "effect": "Aucun effet toxique n'est signalé.",
+            "note": "Aucune toxicité n'est signalée pour les chats dans ce catalogue ; cela ne prouve pas que la plante soit comestible ou inoffensive."
+          }
+        }
+      }
+    },
+    "AAA1750": {
+      "source_hash": "bfd17fcd4679ab59961a0946556399debdab303377e736bfd43ddcab38198d61",
+      "fields": {
+        "common_name": "Héliotrope d'Inde",
+        "bloom_tip": "Cette plante fleurit toute l'année.",
+        "description": "L'Héliotrope d'Inde est une herbacée annuelle hérissée et à croissance rapide, originaire d'Asie tropicale, aujourd'hui une mauvaise herbe courante des bords de route dans les régions chaudes du monde entier. Elle est reconnaissable à ses épis floraux recourbés d'un seul côté : de minuscules fleurs lavande à blanches enroulées comme la queue d'un scorpion, ce qui lui a valu des noms tels que « herbe scorpion » et « plante chenille chinoise ». Les pollinisateurs affluent vers ses petites fleurs tubulaires, tandis que ses tiges rugueuses et poilues lui permettent de prospérer sur les bords de route et les terrains vagues avec peu de soins. La plante entière contient des alcaloïdes toxiques pour le foie, et elle est aujourd'hui surtout appréciée comme plante mellifère résistante plutôt que comme remède sûr.",
+        "history_text_short": "Son épi floral en forme de queue de scorpion a convaincu les guérisseurs d'autrefois que cette mauvaise herbe pouvait soigner ce qu'elle évoquait, en l'utilisant contre les piqûres et les blessures selon la doctrine des signatures. Des siècles plus tard, des scientifiques ont extrait l'un de ses alcaloïdes et l'ont testé contre le cancer lors d'essais menés dans les années 1970, avant d'y renoncer lorsque la même toxicité hépatique qui empoisonne le bétail au pâturage s'est révélée trop dangereuse pour les patients.",
+        "history_text_long": "Bien avant de recevoir un nom latin, l'Héliotrope d'Inde était déjà une plante utile dans les villages d'Asie tropicale et d'Afrique de l'Ouest. Son épi floral enroulé, tordu comme la queue d'un scorpion, a convaincu les guérisseurs traditionnels que la plante renfermait le remède à ce qu'elle représentait : selon l'antique doctrine des signatures, des feuilles écrasées étaient appliquées sur les piqûres de scorpion et les morsures de serpent, et des cataplasmes servaient contre les furoncles, les plaies et les piqûres d'insectes, de l'Inde au Nigeria. Les praticiens de la médecine ayurvédique et siddha la faisaient infuser contre la fièvre et les éruptions cutanées, sans se douter que cette même plante accumulait discrètement, dans chaque feuille et chaque tige, des alcaloïdes pyrrolizidiniques toxiques pour le foie.\n\nAu XXe siècle, des chimistes ont isolé l'un de ces alcaloïdes, le N-oxyde d'indicine, à partir des tissus de la plante, et ont découvert qu'il ralentissait la croissance tumorale lors d'essais en laboratoire. Enthousiasmé par cette découverte, le National Cancer Institute américain a fait entrer le composé en essais cliniques dans les années 1970 et 1980, l'administrant à des patients atteints de cancer dans l'espoir qu'une mauvaise herbe de bord de route puisse donner naissance à un nouveau médicament de chimiothérapie. Les essais ont finalement été abandonnés : la même hépatotoxicité qui empoisonnait depuis longtemps le bétail pâturant sur les terrains à héliotrope s'est révélée elle aussi trop risquée pour les patients humains, bouclant ainsi la boucle entre un vieux remède villageois et une déception de laboratoire moderne.",
+        "name_origin": "Le nom de genre Heliotropium vient du grec helios (soleil) et trope (tourner), d'après une ancienne croyance selon laquelle les grappes florales de la plante suivaient le soleil. Le nom d'espèce indicum signifie « de l'Inde » en latin, en référence à son aire d'origine en Asie tropicale.",
+        "symbolism_story": "L'épi floral enroulé de l'Héliotrope d'Inde, tordu comme la queue dressée d'un scorpion, lui a valu une réputation de plante protectrice bien avant que la science n'explique sa chimie : les guérisseurs des villages, suivant l'antique doctrine des signatures, faisaient confiance à la plante pour protéger contre la piqûre même qu'elle semblait représenter. Cette même robustesse a nourri son symbolisme de résilience, l'héliotrope colonisant bords de route, décombres et terrains négligés où des plantes plus fragiles ne peuvent s'enraciner.",
+        "flower_meaning": "Protection",
+        "uses_list": [
+          {
+            "text": "Ses minuscules fleurs tubulaires offrent du nectar toute la saison aux abeilles et aux papillons."
+          },
+          {
+            "text": "Longtemps utilisée en médecine populaire contre les blessures, les furoncles et les piqûres de scorpion, malgré ses alcaloïdes toxiques."
+          },
+          {
+            "text": "Colonise les bords de route et les terrains vagues, offrant un abri et du nectar là où peu d'autres plantes poussent."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Protection",
+            "description": "un épi floral enroulé, semblable à un scorpion, dont on attendait jadis qu'il protège de la piqûre qu'il évoque"
+          },
+          {
+            "keyword": "Résilience",
+            "description": "une mauvaise herbe qui s'installe sur les sols perturbés et pauvres où d'autres plantes peinent à survivre"
+          }
+        ],
+        "toxicity": {
+          "headline": "Humains Toxique · Animaux Modéré",
+          "active_compound_display": "alcaloïdes pyrrolizidiniques (indicine, N-oxyde d'indicine)",
+          "notes_en": "Contient des alcaloïdes pyrrolizidiniques hépatotoxiques ; une ingestion chronique peut provoquer des lésions hépatiques chez l'homme et le bétail.",
+          "human": {
+            "exposure": "Ingestion de n'importe quelle partie de la plante.",
+            "effect": "Lésions hépatiques et maladie veino-occlusive en cas d'exposition chronique.",
+            "note": "Contient des alcaloïdes pyrrolizidiniques hépatotoxiques ; une ingestion chronique peut provoquer des lésions hépatiques chez l'homme et le bétail.",
+            "symptoms": [
+              "Lésions hépatiques.",
+              "Maladie veino-occlusive en cas d'exposition chronique."
+            ]
+          },
+          "dog": {
+            "exposure": "Ingestion de n'importe quelle partie de la plante.",
+            "effect": "Lésions hépatiques en cas d'ingestion prolongée.",
+            "note": "Contient des alcaloïdes pyrrolizidiniques hépatotoxiques ; une ingestion chronique peut provoquer des lésions hépatiques chez l'homme et le bétail.",
+            "symptoms": [
+              "Lésions hépatiques en cas d'ingestion prolongée."
+            ]
+          },
+          "cat": {
+            "exposure": "Ingestion de n'importe quelle partie de la plante.",
+            "effect": "Lésions hépatiques en cas d'ingestion prolongée.",
+            "note": "Contient des alcaloïdes pyrrolizidiniques hépatotoxiques ; une ingestion chronique peut provoquer des lésions hépatiques chez l'homme et le bétail.",
+            "symptoms": [
+              "Lésions hépatiques en cas d'ingestion prolongée."
+            ]
           }
         }
       }

@@ -3,8 +3,8 @@
   "locale": "it",
   "source": {
     "resource": "plants_detail.json",
-    "sha256": "d16c20811874f34775dc7e7f379ad76da59adbb789a8a3a8d71254de151716c0",
-    "record_count": 1747
+    "sha256": "839c5e3870942657e350a9c7ec5f452d748d05fc4ba198c8be23d9b9c5a14f27",
+    "record_count": 1749
   },
   "records": {
     "AAA0001": {
@@ -106893,6 +106893,124 @@
             "exposure": "Non è segnalata alcuna via di esposizione.",
             "effect": "Non è segnalato alcun effetto tossico.",
             "note": "La tossicità per i gatti non è ben documentata; si raccomanda cautela fino alla verifica."
+          }
+        }
+      }
+    },
+    "AAA1749": {
+      "source_hash": "033fe8cd4d9447d873c4172b341bda1de9782d69c5bbbdd10e48a23eb837cb07",
+      "fields": {
+        "common_name": "Litospermo rosso",
+        "bloom_tip": "Questa pianta fiorisce da maggio a giugno, producendo bellissimi fiori.",
+        "description": "Il litospermo rosso è un'erbacea perenne pelosa e di bassa statura, originaria dell'Asia orientale, coltivata meno per i suoi piccoli fiori bianchi estivi che per le sue radici legnose color rosso sangue. Per secoli queste radici, chiamate shikon, venivano fatte sobbollire per produrre uno dei più antichi coloranti viola dell'Asia orientale, apprezzato per la sua brillante tonalità rosso-violacea. La pianta cresceva un tempo liberamente su prati aridi e pendii soleggiati, ma le popolazioni selvatiche sono diventate scarse perché le radici venivano scavate per il colorante e la medicina tradizionale, così oggi viene coltivata deliberatamente per la sua radice ricca di storia più che per i suoi modesti fiori.",
+        "history_text_short": "Le sue radici color rosso sangue diedero al Giappone classico il suo colorante viola murasaki, così apprezzato che una legge dell'VIII secolo riservava le tonalità più intense solo ai nobili di rango più alto. Si pensa che la stessa parola giapponese per il viola derivi dal nome della pianta. La stessa radice fu lungamente usata nella medicina dell'Asia orientale per ferite e ustioni, e la raccolta eccessiva ha reso questa erba di prateria, un tempo comune, sempre più rara in natura.",
+        "history_text_long": "Nel Giappone classico, il litospermo rosso non era un fiore da giardino, ma una fonte di colore così apprezzata da arrivare a plasmare la legge. Le sue radici, chiamate shikon, venivano fatte sobbollire e fermentare per ottenere il murasaki, un intenso colorante rosso-violaceo usato per tingere la seta. Il colorante era così legato alla pianta che si pensa che la parola giapponese per il colore viola, murasaki, derivi direttamente dal nome della pianta stessa, e non il contrario. Sotto il sistema dei ranghi di corte dell'VIII secolo, le tonalità più ricche di questo viola erano riservate per legge ai nobili e ai principi di rango più alto, mentre ai ranghi inferiori era proibito indossarlo; la profondità della propria veste viola annunciava letteralmente il proprio posto a corte.\n\nIn Cina e Corea la stessa radice, nota come zicao o jichi, era apprezzata meno per tingere che per curare: macinata o infusa in olio, veniva applicata su ustioni, ferite e ulcere cutanee nella medicina tradizionale, un uso ancora studiato oggi per il composto cicatrizzante shikonina che dà colore alla radice. Questa doppia domanda, di colorante e di medicina, ha spinto secoli di raccolta selvatica, e il litospermo rosso è diventato sempre più scarso sui pendii aridi e le praterie che prediligeva un tempo, sopravvivendo oggi soprattutto grazie alla coltivazione deliberata della stessa radice che un tempo colorava gli imperatori.",
+        "name_origin": "Il nome del genere Lithospermum deriva dal greco lithos (pietra) e sperma (seme), descrivendo i suoi semi duri e pietrosi. Il nome della specie erythrorhizon è greco per «radice rossa», in riferimento alla radice tintoria che dà alla pianta il suo valore storico.",
+        "symbolism_story": "Le radici del litospermo rosso diedero all'antica corte giapponese il suo colore più esclusivo: secondo le leggi di rango dell'VIII secolo, solo i principi e i nobili di rango più alto potevano indossare l'intenso viola murasaki tinto con questa pianta, facendo del colore stesso un simbolo di nobiltà e rango. Quella stessa radice, scavata per secoli per colorante e medicina, è diventata sempre più scarsa in natura, trasformando questa erba un tempo comune in un simbolo tanto di abbondanza svanita quanto di status.",
+        "flower_meaning": "Nobiltà",
+        "uses_list": [
+          {
+            "text": "Le sue radici rosso intenso venivano fatte sobbollire per produrre il murasaki, uno dei coloranti viola tradizionali più apprezzati dell'Asia orientale."
+          },
+          {
+            "text": "Usato nella medicina erboristica dell'Asia orientale per curare ustioni, ferite e infiammazioni della pelle."
+          },
+          {
+            "text": "Oggi coltivato soprattutto come pianta colorante e medicinale storica, più che per i suoi modesti fiori bianchi."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Nobiltà",
+            "description": "un colorante viola un tempo riservato per legge ai ranghi più alti della corte imperiale"
+          },
+          {
+            "keyword": "Rarità",
+            "description": "una radice un tempo comune, oggi scarsa in natura dopo secoli di raccolta"
+          }
+        ],
+        "toxicity": {
+          "headline": "Nessuna tossicità segnalata",
+          "active_compound_display": "Nessuno segnalato",
+          "notes_en": "Non è stata trovata alcuna corrispondenza di tossicità verificata da fonti; trattata come non segnalata (la stima dell'LLM non è verificata da fonti).",
+          "human": {
+            "exposure": "Non è segnalata alcuna via di esposizione.",
+            "effect": "Non è segnalato alcun effetto tossico.",
+            "note": "La tossicità per l'uomo non è ben documentata; si consiglia cautela fino alla verifica."
+          },
+          "dog": {
+            "exposure": "Non è segnalata alcuna via di esposizione.",
+            "effect": "Non è segnalato alcun effetto tossico.",
+            "note": "Nessuna tossicità è segnalata per i cani in questo catalogo; ciò non prova che la pianta sia commestibile o inoffensiva."
+          },
+          "cat": {
+            "exposure": "Non è segnalata alcuna via di esposizione.",
+            "effect": "Non è segnalato alcun effetto tossico.",
+            "note": "Nessuna tossicità è segnalata per i gatti in questo catalogo; ciò non prova che la pianta sia commestibile o inoffensiva."
+          }
+        }
+      }
+    },
+    "AAA1750": {
+      "source_hash": "bfd17fcd4679ab59961a0946556399debdab303377e736bfd43ddcab38198d61",
+      "fields": {
+        "common_name": "Eliotropio indiano",
+        "bloom_tip": "Questa pianta fiorisce tutto l'anno.",
+        "description": "L'eliotropio indiano è un'erbacea annuale irsuta e a crescita rapida, originaria dell'Asia tropicale, oggi comune erbaccia dei bordi strada nelle regioni calde di tutto il mondo. È noto per le sue spighe floreali ricurve su un solo lato: minuscoli fiori color lavanda-bianco che si avvolgono come la coda di uno scorpione, da cui nomi come «erba scorpione» e «pianta bruco cinese». Gli impollinatori affollano i piccoli fiori tubolari, mentre i fusti ruvidi e pelosi le permettono di prosperare su bordi strada e terreni incolti con poche cure. L'intera pianta contiene alcaloidi dannosi per il fegato, oggi apprezzata più come pianta resistente per impollinatori che come rimedio sicuro.",
+        "history_text_short": "La sua spiga floreale a coda di scorpione convinse i guaritori del vecchio mondo che questa erbaccia potesse curare ciò che rappresentava, usandola contro punture e ferite secondo la dottrina delle segnature. Secoli dopo, gli scienziati estrassero uno dei suoi alcaloidi e lo testarono contro il cancro in studi degli anni '70, abbandonandolo quando la stessa tossicità epatica che avvelena il bestiame al pascolo si rivelò troppo pericolosa per i pazienti.",
+        "history_text_long": "Molto prima di avere un nome latino, l'eliotropio indiano era già una pianta utile nei villaggi dell'Asia tropicale e dell'Africa occidentale. La sua spiga floreale avvolta, attorcigliata come la coda di uno scorpione, convinse i guaritori tradizionali che la pianta stessa racchiudesse la cura per ciò che rappresentava: secondo l'antica dottrina delle segnature, foglie schiacciate venivano applicate su punture di scorpione e morsi di serpente, e cataplasmi venivano usati per foruncoli, ferite e punture d'insetto dall'India alla Nigeria. I guaritori della medicina ayurvedica e siddha la preparavano in infuso contro la febbre e le eruzioni cutanee, senza sospettare che quella stessa pianta accumulasse silenziosamente, in ogni foglia e fusto, alcaloidi pirrolizidinici dannosi per il fegato.\n\nNel XX secolo, i chimici isolarono uno di questi alcaloidi, l'indicina N-ossido, dai tessuti della pianta e scoprirono che rallentava la crescita tumorale nei test di laboratorio. Entusiasta della scoperta, il National Cancer Institute statunitense portò il composto in studi clinici negli anni '70 e '80, somministrandolo a pazienti oncologici nella speranza che un'erbaccia di bordo strada potesse dare origine a un nuovo farmaco chemioterapico. Gli studi furono infine abbandonati: la stessa epatotossicità che da tempo avvelenava il bestiame al pascolo su terreni con eliotropio si rivelò troppo rischiosa anche per i pazienti umani, chiudendo il cerchio tra un antico rimedio di villaggio e una moderna delusione di laboratorio.",
+        "name_origin": "Il nome del genere Heliotropium deriva dal greco helios (sole) e trope (girare), da un'antica credenza secondo cui i grappoli di fiori della pianta seguissero il sole. Il nome della specie indicum è latino per «dell'India», in riferimento al suo areale d'origine nell'Asia tropicale.",
+        "symbolism_story": "La spiga floreale avvolta dell'eliotropio indiano, attorcigliata come la coda alzata di uno scorpione, le diede fama di pianta protettrice molto prima che la scienza ne spiegasse la chimica: i guaritori di villaggio, seguendo l'antica dottrina delle segnature, confidavano che la pianta proteggesse dalla stessa puntura che sembrava rappresentare. Questa stessa resistenza si riversò nel suo simbolismo di resilienza, poiché l'eliotropio colonizza bordi strada, macerie e terreni abbandonati dove piante più delicate non riescono a radicarsi.",
+        "flower_meaning": "Protezione",
+        "uses_list": [
+          {
+            "text": "I suoi minuscoli fiori tubolari offrono nettare per tutta la stagione ad api e farfalle."
+          },
+          {
+            "text": "Usato a lungo nella medicina popolare per ferite, foruncoli e punture di scorpione, nonostante i suoi alcaloidi tossici."
+          },
+          {
+            "text": "Colonizza bordi strada e terreni incolti, offrendo riparo e nettare dove poco altro cresce."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Protezione",
+            "description": "una spiga floreale avvolta, simile a uno scorpione, un tempo ritenuta capace di proteggere dalla puntura che sembra rappresentare"
+          },
+          {
+            "keyword": "Resilienza",
+            "description": "un'erbaccia che si impadronisce di terreni disturbati e poveri dove altre piante faticano a crescere"
+          }
+        ],
+        "toxicity": {
+          "headline": "Umani Tossico · Animali domestici Moderato",
+          "active_compound_display": "alcaloidi pirrolizidinici (indicina, indicina N-ossido)",
+          "notes_en": "Contiene alcaloidi pirrolizidinici epatotossici; l'ingestione cronica può causare danni al fegato in persone e bestiame.",
+          "human": {
+            "exposure": "Ingestione di qualsiasi parte della pianta.",
+            "effect": "Danno epatico e malattia veno-occlusiva con esposizione cronica.",
+            "note": "Contiene alcaloidi pirrolizidinici epatotossici; l'ingestione cronica può causare danni al fegato in persone e bestiame.",
+            "symptoms": [
+              "Danno epatico.",
+              "Malattia veno-occlusiva con esposizione cronica."
+            ]
+          },
+          "dog": {
+            "exposure": "Ingestione di qualsiasi parte della pianta.",
+            "effect": "Danno epatico con ingestione prolungata.",
+            "note": "Contiene alcaloidi pirrolizidinici epatotossici; l'ingestione cronica può causare danni al fegato in persone e bestiame.",
+            "symptoms": [
+              "Danno epatico con ingestione prolungata."
+            ]
+          },
+          "cat": {
+            "exposure": "Ingestione di qualsiasi parte della pianta.",
+            "effect": "Danno epatico con ingestione prolungata.",
+            "note": "Contiene alcaloidi pirrolizidinici epatotossici; l'ingestione cronica può causare danni al fegato in persone e bestiame.",
+            "symptoms": [
+              "Danno epatico con ingestione prolungata."
+            ]
           }
         }
       }
