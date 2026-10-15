@@ -3,8 +3,8 @@
   "locale": "pt",
   "source": {
     "resource": "plants_detail.json",
-    "sha256": "839c5e3870942657e350a9c7ec5f452d748d05fc4ba198c8be23d9b9c5a14f27",
-    "record_count": 1749
+    "sha256": "e23a3477cefa3bb1d863937f0ce1e3c9bd1621dbb3bab1270a56f323cee0a737",
+    "record_count": 1751
   },
   "records": {
     "AAA0001": {
@@ -107010,6 +107010,140 @@
             "note": "Contém alcaloides pirrolizidínicos hepatotóxicos; a ingestão crônica pode causar dano hepático em pessoas e animais de pasto.",
             "symptoms": [
               "Dano hepático com ingestão prolongada."
+            ]
+          }
+        }
+      }
+    },
+    "AAA1751": {
+      "source_hash": "eb0a1ed7e1026dd20463ba610c64e88ca6e304384b47fca6bcac3cf945706f8c",
+      "fields": {
+        "common_name": "vara-de-ouro-de-folhas-de-ulmeiro",
+        "bloom_tip": "Produz cachos de flores amarelas do final do verão ao outono, que atraem polinizadores.",
+        "description": "A vara-de-ouro-de-folhas-de-ulmeiro é uma perene esguia de sub-bosque, assim chamada por suas folhas, que lembram a forma dentada e nervada da folhagem do ulmeiro, em vez das lâminas estreitas da maioria das varas-de-ouro. Do final do verão ao outono, caules arqueados trazem cachos soltos e unilaterais de pequenas flores amarelo-douradas, que se projetam de bordas sombreadas de bosques e prados abertos no leste da América do Norte. Diferente de suas parentes mais altas e agressivas, cresce em touceiras modestas de quarenta e cinco a noventa centímetros de altura, preferindo solo úmido e bem drenado em sombra pontilhada. Abelhas, moscas e borboletas de fim de estação dependem dela como fonte confiável de néctar outonal.",
+        "history_text_short": "A vara-de-ouro-de-folhas-de-ulmeiro carrega a antiga fama do gênero Solidago, 'tornar inteiro', uma erva cicatrizante antes preparada como 'chá da Liberdade' pelos colonos após o Boston Tea Party. Suas flores douradas de fim de verão são frequentemente culpadas erroneamente pela febre do feno, quando a verdadeira culpada é a ambrósia que floresce discretamente ao lado.",
+        "history_text_long": "O nome do gênero, Solidago, vem do latim solidare, 'tornar inteiro', numa referência ao uso antigo das folhas e flores da vara-de-ouro como curativo cicatrizante e tônico geral na medicina popular tanto dos povos nativos quanto dos colonos europeus. Os primeiros colonos herdaram essa fama, e depois que o Boston Tea Party de 1773 cortou o fornecimento de chá britânico, muitos recorreram às folhas secas de vara-de-ouro para preparar um substituto patriótico apelidado de 'chá da Liberdade'. O costume se consolidou a ponto de o chá americano de vara-de-ouro ter sido, segundo relatos, exportado para a China nos primeiros anos da jovem nação, uma curiosa inversão do comércio usual do chá. A vara-de-ouro-de-folhas-de-ulmeiro, com suas folhas dentadas em forma de ulmeiro e cachos florais soltos e arqueados, é uma das integrantes mais discretas deste grande gênero, preferindo a sombra pontilhada das bordas de bosques aos campos abertos e ensolarados onde suas parentes mais vistosas se espalham de forma agressiva. Como quase toda vara-de-ouro, também herdou uma fama imerecida de causadora da febre do feno. Suas flores amarelo-vivo se abrem no fim do verão e no outono exatamente ao mesmo tempo que a ambrósia, muito menos vistosa e polinizada pelo vento, cujo pólen é, na realidade, a causa da maioria das alergias sazonais. O pólen da vara-de-ouro é pesado e transportado por insetos, raramente se tornando aéreo, mas sua visibilidade a transformou em bode expiatório por séculos, enquanto a verdadeira culpada floresce sem ser notada ao lado.",
+        "name_origin": "O nome do gênero, Solidago, deriva do latim solido, que significa 'tornar inteiro', numa referência às suas propriedades medicinais.",
+        "symbolism_story": "Como as flores brilhantes da vara-de-ouro aparecem justamente quando a maioria das outras murcha, os guias vitorianos da linguagem das flores a adotaram como símbolo de encorajamento, uma última explosão dourada convidando os jardineiros a mais uma estação. A tradição popular rural foi além, afirmando que uma vara-de-ouro brotando inesperadamente perto de casa anunciava boa sorte, um contraponto alegre à sua longa e injusta fama de causadora das alergias de outono.",
+        "flower_meaning": "Encorajamento",
+        "fragrance": {
+          "notes": "Um aroma leve e adocicado, herbáceo, dos cachos de flores, perceptível principalmente de perto."
+        },
+        "uses_list": [
+          {
+            "text": "Fonte de néctar de fim de estação para abelhas, moscas e borboletas"
+          },
+          {
+            "text": "Cultivada em jardins nativos e de bosque por suas flores douradas e leves"
+          },
+          {
+            "text": "Seus cachos florais arqueados são populares em arranjos de fim de verão e outono"
+          },
+          {
+            "text": "Usada historicamente como remédio popular cicatrizante e como 'chá da Liberdade' colonial"
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Encorajamento",
+            "description": "Na linguagem vitoriana das flores, as flores douradas e tardias da vara-de-ouro ao longo de estradas e bordas de campos passaram a simbolizar encorajamento — um sinal brilhante de esperança enquanto a estação de crescimento se esvai."
+          },
+          {
+            "keyword": "Boa Sorte",
+            "description": "Uma antiga tradição popular dizia que uma vara-de-ouro florescendo inesperadamente perto de casa anunciava boa sorte, uma crença que ajudava a equilibrar sua fama imerecida de erva daninha."
+          }
+        ],
+        "toxicity": {
+          "headline": "Nenhuma toxicidade relatada",
+          "active_compound_display": "Nenhum relatado",
+          "notes_en": "Nenhuma correspondência de fonte autorizada encontrada sobre toxicidade; tratada como não relatada (a estimativa do LLM não é verificada por fontes).",
+          "human": {
+            "exposure": "Nenhuma via de exposição relatada.",
+            "effect": "Nenhum efeito tóxico relatado.",
+            "note": "Nenhuma toxicidade é relatada para humanos neste catálogo; isso não é prova de que a planta seja comestível ou inofensiva."
+          },
+          "dog": {
+            "exposure": "Nenhuma via de exposição relatada.",
+            "effect": "Nenhum efeito tóxico relatado.",
+            "note": "Nenhuma toxicidade é relatada para cães neste catálogo; isso não é prova de que a planta seja comestível ou inofensiva."
+          },
+          "cat": {
+            "exposure": "Nenhuma via de exposição relatada.",
+            "effect": "Nenhum efeito tóxico relatado.",
+            "note": "Nenhuma toxicidade é relatada para gatos neste catálogo; isso não é prova de que a planta seja comestível ou inofensiva."
+          }
+        }
+      }
+    },
+    "AAA1752": {
+      "source_hash": "90a375561fd062d6d93da7e7b4ab56ebfdd3cd40681315432a8fcceb0fa6db94",
+      "fields": {
+        "common_name": "alho-porro selvagem",
+        "bloom_tip": "As flores têm forma de sino, abrem no verão e costumam ser roxo-claras ou brancas.",
+        "description": "O alho-porro selvagem é um allium perene e robusto, nativo do Mediterrâneo e da Ásia ocidental, que produz no verão um caule alto verde-acinzentado coroado por uma densa umbela globular de pequenas flores brancas a roxo-claras. Sob a terra forma um conjunto de bulbos estreitos envoltos numa casca papirácea, com o aroma pungente de cebola e alho característico do gênero. É o ancestral silvestre de vários vegetais cultivados, incluindo o alho-porro e o bulbo avantajado vendido como alho-elefante, e cresce com pouco cuidado em solo ensolarado e bem drenado.",
+        "history_text_short": "O alho-porro selvagem é o ancestral silvestre do alho-porro cultivado, um vegetal que os antigos egípcios cultivavam junto ao Nilo e pintavam nas paredes dos túmulos há mais de 4.000 anos. Seus caules tornaram-se mais tarde o emblema nacional do País de Gales, usados por soldados em batalha e ainda hoje presos aos chapéus em todo Dia de São David.",
+        "history_text_long": "O alho-porro selvagem é a espécie mediterrânea silvestre por trás de vários vegetais geralmente considerados sem relação entre si: o alho-porro cultivado, o kurrat egípcio e o bulbo avantajado vendido hoje como alho-elefante. Os antigos egípcios já cultivavam uma forma semelhante ao alho-porro desta planta junto ao Nilo há bem mais de quatro mil anos; feixes dela aparecem pintados em paredes de túmulos e listados entre as oferendas funerárias, junto a cebolas e outros alliums que eram alimentos básicos da época. Séculos depois, a história da planta deu uma virada política inesperada na Grã-Bretanha. Segundo a tradição galesa, o santo padroeiro David ordenou que seus soldados usassem um caule deste allium semelhante ao alho-porro em seus barretes antes de uma batalha contra invasores saxões, para que pudessem se reconhecer no caos do combate. A artimanha teria funcionado, os galeses venceram, e o alho-porro tornou-se um emblema nacional duradouro, ainda hoje preso a casacos e chapéus todo primeiro de março, Dia de São David, e celebrado no Henrique V de Shakespeare através do capitão galês Fluellen. No século vinte, vendedores de semente americanos deram a uma forma de bulbo excepcionalmente grande da mesma espécie um nome muito mais dramático: alho-elefante. Apesar do nome comercial, ele é geneticamente muito mais próximo do alho-porro do que do alho verdadeiro, e seu sabor suave e adocicado reflete essa herança de alho-porro, e não um parentesco real com Allium sativum. Em todas essas formas, o alho-porro selvagem mantém o mesmo caule floral alto e a mesma umbela densa e globular que o tornaram, por milhares de anos, uma presença familiar nas colinas mediterrâneas e nas hortas tradicionais.",
+        "name_origin": "O nome científico Allium ampeloprasum vem do grego ampelos (videira) e prason (alho-porro), numa referência à sua tendência de crescer rasteiro entre as vinhas.",
+        "symbolism_story": "Como a forma de alho-porro desta espécie se enredou na lenda militar galesa, ela se tornou um símbolo duradouro de orgulho nacional, ainda hoje preso a casacos e chapéus todo primeiro de março. Uma tradição popular mais antiga, difundida por toda a Europa, deu à família mais ampla dos alliums um segundo significado, mais modesto, de proteção, pendurando tranças de cebola e alho em portas e cozinhas, na crença de que seu odor forte poderia manter afastadas a doença e a má sorte.",
+        "flower_meaning": "Orgulho Nacional",
+        "fragrance": {
+          "notes": "Um aroma pungente de cebola e alho liberado ao esmagar ou cortar as folhas ou os bulbos."
+        },
+        "uses_list": [
+          {
+            "text": "Ancestral silvestre do alho-porro cultivado e do alho-elefante, cultivado no mundo todo para cozinhar"
+          },
+          {
+            "text": "Seus caules florais altos com flores globulares dão estrutura a canteiros e jardins rústicos"
+          },
+          {
+            "text": "Suas grandes inflorescências atraem abelhas e outros polinizadores durante todo o verão"
+          },
+          {
+            "text": "As inflorescências secas são populares em arranjos florais secos e frescos"
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Orgulho Nacional",
+            "description": "O alho-porro, uma forma cultivada desta espécie, tornou-se o emblema nacional do País de Gales depois que, segundo a tradição, soldados o usaram em batalha para se reconhecerem entre si, um costume ainda celebrado todo Dia de São David."
+          },
+          {
+            "keyword": "Proteção",
+            "description": "Como outros alliums, carregava antigas associações populares com a proteção contra doença e mal, uma crença ligada ao seu bulbo de odor forte e quase antisséptico."
+          }
+        ],
+        "toxicity": {
+          "headline": "Humanos Moderado · Animais de estimação Tóxico",
+          "active_compound_display": "Dissulfeto de N-propil e tiossulfinatos",
+          "notes_en": "Todas as partes podem causar desconforto gastrointestinal e danificar os glóbulos vermelhos em cães e gatos se ingeridas; seguro para humanos em quantidades culinárias normais.",
+          "human": {
+            "exposure": "Material vegetal não especificado.",
+            "effect": "Efeitos tóxicos são relatados, mas sinais específicos não são listados.",
+            "note": "Fontes confiáveis relatam esta planta como tóxica; a gravidade é definida de forma conservadora como moderada até que haja dados mais precisos."
+          },
+          "dog": {
+            "exposure": "Ingestão de bulbos, folhas ou qualquer parte da planta.",
+            "effect": "Vômito, diarreia, letargia, gengivas pálidas e urina vermelha ou escura.",
+            "note": "Todas as partes podem causar desconforto gastrointestinal e danificar os glóbulos vermelhos em cães e gatos se ingeridas; seguro para humanos em quantidades culinárias normais.",
+            "symptoms": [
+              "Vômito.",
+              "Diarreia.",
+              "Letargia.",
+              "Gengivas pálidas.",
+              "Urina vermelha ou escura."
+            ]
+          },
+          "cat": {
+            "exposure": "Ingestão de bulbos, folhas ou qualquer parte da planta.",
+            "effect": "Vômito, diarreia, letargia, gengivas pálidas e urina vermelha ou escura.",
+            "note": "Todas as partes podem causar desconforto gastrointestinal e danificar os glóbulos vermelhos em cães e gatos se ingeridas; seguro para humanos em quantidades culinárias normais.",
+            "symptoms": [
+              "Vômito.",
+              "Diarreia.",
+              "Letargia.",
+              "Gengivas pálidas.",
+              "Urina vermelha ou escura."
             ]
           }
         }

@@ -3,8 +3,8 @@
   "locale": "it",
   "source": {
     "resource": "plants_detail.json",
-    "sha256": "839c5e3870942657e350a9c7ec5f452d748d05fc4ba198c8be23d9b9c5a14f27",
-    "record_count": 1749
+    "sha256": "e23a3477cefa3bb1d863937f0ce1e3c9bd1621dbb3bab1270a56f323cee0a737",
+    "record_count": 1751
   },
   "records": {
     "AAA0001": {
@@ -107010,6 +107010,140 @@
             "note": "Contiene alcaloidi pirrolizidinici epatotossici; l'ingestione cronica può causare danni al fegato in persone e bestiame.",
             "symptoms": [
               "Danno epatico con ingestione prolungata."
+            ]
+          }
+        }
+      }
+    },
+    "AAA1751": {
+      "source_hash": "eb0a1ed7e1026dd20463ba610c64e88ca6e304384b47fca6bcac3cf945706f8c",
+      "fields": {
+        "common_name": "verga d'oro a foglie d'olmo",
+        "bloom_tip": "Produce grappoli di fiori gialli dalla fine dell'estate all'autunno, che attirano gli impollinatori.",
+        "description": "La verga d'oro a foglie d'olmo è una perenne slanciata dei boschi, chiamata così per le sue foglie, che ricordano la forma dentata e nervata del fogliame dell'olmo piuttosto che le lamine strette della maggior parte delle verghe d'oro. Dalla fine dell'estate all'autunno, fusti arcuati portano pannocchie lasse e unilaterali di piccoli fiori giallo dorato, che si protendono dai margini ombreggiati dei boschi e dai prati aperti dell'America del Nord orientale. A differenza delle parenti più alte e aggressive, cresce in ciuffi modesti alti da quarantacinque a novanta centimetri, preferendo terreno umido e ben drenato in ombra screziata. Api, mosche e farfalle di fine stagione dipendono da essa come fonte affidabile di nettare autunnale.",
+        "history_text_short": "La verga d'oro a foglie d'olmo porta l'antica fama del genere Solidago, 'rendere intero', un'erba cicatrizzante un tempo infusa come 'tè della Libertà' dai coloni dopo il Boston Tea Party. I suoi fiori dorati di fine estate vengono spesso erroneamente accusati di causare la febbre da fieno, mentre la vera colpevole è l'ambrosia che fiorisce discretamente al suo fianco.",
+        "history_text_long": "Il nome del genere, Solidago, deriva dal latino solidare, 'rendere intero', in riferimento all'uso prolungato di foglie e fiori della verga d'oro come fasciatura cicatrizzante e tonico generale nella medicina popolare sia dei nativi americani sia dei coloni europei. I primi coloni ereditarono quella fama, e dopo che il Boston Tea Party del 1773 interruppe le forniture di tè britannico, molti si rivolsero alle foglie secche di verga d'oro per preparare un sostituto patriottico soprannominato 'tè della Libertà'. L'abitudine si radicò al punto che il tè americano di verga d'oro sarebbe stato esportato persino in Cina nei primi anni della giovane nazione, una curiosa inversione del consueto commercio del tè. La verga d'oro a foglie d'olmo, con le sue foglie dentate a forma di olmo e le pannocchie floreali lasse e arcuate, è uno dei membri più discreti di questo grande genere, preferendo l'ombra screziata dei margini boschivi ai campi aperti e assolati dove le sue parenti più vistose si diffondono in modo aggressivo. Come quasi ogni verga d'oro, ha ereditato anche un'immeritata fama di responsabile della febbre da fieno. I suoi fiori giallo brillante si aprono in tarda estate e in autunno esattamente nello stesso periodo dell'ambrosia, molto meno vistosa e impollinata dal vento, il cui polline è in realtà la causa della maggior parte delle allergie stagionali. Il polline della verga d'oro è pesante e trasportato dagli insetti, raramente diventa aereo, ma la sua vistosità ne ha fatto il capro espiatorio per secoli, mentre la vera colpevole fiorisce inosservata lì vicino.",
+        "name_origin": "Il nome del genere, Solidago, deriva dal latino solido, che significa 'rendere intero', in riferimento alle sue proprietà medicinali.",
+        "symbolism_story": "Poiché i fiori luminosi della verga d'oro compaiono proprio quando la maggior parte degli altri sfiorisce, le guide vittoriane al linguaggio dei fiori la adottarono come simbolo di incoraggiamento, un ultimo scoppio dorato che invita i giardinieri verso un'altra stagione. La tradizione popolare rurale andò oltre, sostenendo che una verga d'oro spuntata inaspettatamente vicino a casa preannunciasse buona fortuna, un contrappunto allegro alla sua lunga e ingiusta fama di responsabile delle allergie autunnali.",
+        "flower_meaning": "Incoraggiamento",
+        "fragrance": {
+          "notes": "Un profumo tenue e dolce, erbaceo, dei grappoli di fiori, percepibile soprattutto da vicino."
+        },
+        "uses_list": [
+          {
+            "text": "Fonte di nettare di fine stagione per api, mosche e farfalle"
+          },
+          {
+            "text": "Coltivata in giardini nativi e boschivi per i suoi fiori giallo dorato e arieggiati"
+          },
+          {
+            "text": "Le pannocchie floreali arcuate sono apprezzate nelle composizioni di fine estate e autunno"
+          },
+          {
+            "text": "Usata storicamente come rimedio popolare cicatrizzante e come 'tè della Libertà' coloniale"
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Incoraggiamento",
+            "description": "Nel linguaggio vittoriano dei fiori, i fiori dorati e tardivi della verga d'oro lungo strade e margini dei campi arrivarono a simboleggiare l'incoraggiamento — un luminoso segno di speranza mentre la stagione di crescita declina."
+          },
+          {
+            "keyword": "Buona Fortuna",
+            "description": "Un'antica tradizione popolare sosteneva che una verga d'oro fiorita inaspettatamente vicino a casa preannunciasse buona fortuna, una credenza che contribuiva a bilanciare la sua immeritata fama di erbaccia."
+          }
+        ],
+        "toxicity": {
+          "headline": "Nessuna tossicità segnalata",
+          "active_compound_display": "Nessuno segnalato",
+          "notes_en": "Nessuna corrispondenza autorevole trovata sulla tossicità; trattata come non segnalata (la stima dell'LLM non è verificata da fonti).",
+          "human": {
+            "exposure": "Nessuna via di esposizione segnalata.",
+            "effect": "Nessun effetto tossico segnalato.",
+            "note": "Nessuna tossicità è segnalata per gli esseri umani in questo catalogo; ciò non è prova che la pianta sia commestibile o innocua."
+          },
+          "dog": {
+            "exposure": "Nessuna via di esposizione segnalata.",
+            "effect": "Nessun effetto tossico segnalato.",
+            "note": "Nessuna tossicità è segnalata per i cani in questo catalogo; ciò non è prova che la pianta sia commestibile o innocua."
+          },
+          "cat": {
+            "exposure": "Nessuna via di esposizione segnalata.",
+            "effect": "Nessun effetto tossico segnalato.",
+            "note": "Nessuna tossicità è segnalata per i gatti in questo catalogo; ciò non è prova che la pianta sia commestibile o innocua."
+          }
+        }
+      }
+    },
+    "AAA1752": {
+      "source_hash": "90a375561fd062d6d93da7e7b4ab56ebfdd3cd40681315432a8fcceb0fa6db94",
+      "fields": {
+        "common_name": "porro selvatico",
+        "bloom_tip": "I fiori sono campanulati, si aprono in estate e sono generalmente di colore viola chiaro o bianco.",
+        "description": "Il porro selvatico è un allium perenne e robusto, originario del Mediterraneo e dell'Asia occidentale, che produce in estate un alto fusto grigio-verde coronato da una densa ombrella globosa di piccoli fiori bianchi o viola chiaro. Sotto terra forma un gruppo di bulbi stretti avvolti in una pellicola cartacea, con il caratteristico aroma pungente di cipolla e aglio del genere. È l'antenato selvatico di diverse verdure coltivate, tra cui il porro e il bulbo sovradimensionato venduto come aglio elefante, e cresce con poca manutenzione in terreno soleggiato e ben drenato.",
+        "history_text_short": "Il porro selvatico è l'antenato selvatico del porro coltivato, una verdura che gli antichi egizi coltivavano lungo il Nilo e dipingevano sulle pareti delle tombe più di 4.000 anni fa. I suoi steli divennero in seguito l'emblema nazionale del Galles, portati dai soldati in battaglia e ancora oggi appuntati sui cappelli ogni giorno di San David.",
+        "history_text_long": "Il porro selvatico è la specie mediterranea selvatica da cui derivano diverse verdure solitamente ritenute senza alcun legame tra loro: il porro coltivato, il kurrat egiziano e il bulbo sovradimensionato venduto oggi come aglio elefante. Gli antichi egizi coltivavano una forma simile al porro di questa pianta lungo il Nilo già più di quattromila anni fa; fasci di questa pianta sono dipinti sulle pareti delle tombe e compaiono tra le offerte funerarie, insieme a cipolle e agli altri allium che erano alimenti base dell'epoca. Secoli dopo, la storia della pianta prese una svolta politica inaspettata in Gran Bretagna. Secondo la tradizione gallese, il santo patrono David ordinò ai suoi soldati di portare uno stelo di questo allium simile al porro sui loro berretti prima di una battaglia contro gli invasori sassoni, così da potersi riconoscere nel caos del combattimento. Lo stratagemma pare abbia funzionato, i gallesi vinsero, e il porro divenne un emblema nazionale duraturo, ancora oggi appuntato su cappotti e cappelli ogni primo marzo, giorno di San David, e celebrato nell'Enrico V di Shakespeare attraverso il capitano gallese Fluellen. Nel ventesimo secolo, i venditori di semi americani diedero a una forma di bulbo insolitamente grande della stessa specie un nome ben più spettacolare: aglio elefante. Nonostante questo nome commerciale, è geneticamente molto più vicino al porro che all'aglio vero, e il suo sapore dolce e delicato riflette quell'eredità di porro piuttosto che una vera parentela con Allium sativum. In tutte queste forme, il porro selvatico conserva lo stesso alto fusto fiorale e la stessa densa ombrella globosa che lo hanno reso, per migliaia di anni, una presenza familiare sulle colline mediterranee e negli orti tradizionali.",
+        "name_origin": "Il nome scientifico Allium ampeloprasum deriva dal greco ampelos (vite) e prason (porro), in riferimento alla sua tendenza a crescere rampicante tra le vigne.",
+        "symbolism_story": "Poiché la forma a porro di questa specie si intrecciò con la leggenda militare gallese, divenne un simbolo duraturo di orgoglio nazionale, ancora oggi appuntato su cappotti e cappelli ogni primo marzo. Una tradizione popolare più antica, diffusa in tutta Europa, attribuiva alla più ampia famiglia degli allium un secondo significato, più modesto, di protezione, appendendo trecce di cipolle e aglio su porte e cucine, nella convinzione che il loro odore pungente potesse tenere lontani malattia e malasorte.",
+        "flower_meaning": "Orgoglio Nazionale",
+        "fragrance": {
+          "notes": "Un aroma pungente di cipolla e aglio che si libera schiacciando o tagliando le foglie o i bulbi."
+        },
+        "uses_list": [
+          {
+            "text": "Antenato selvatico del porro coltivato e dell'aglio elefante, coltivato in tutto il mondo per la cucina"
+          },
+          {
+            "text": "I suoi alti fusti fiorali con fiori globosi danno struttura ad aiuole e giardini rustici"
+          },
+          {
+            "text": "Le grandi infiorescenze attirano api e altri impollinatori per tutta l'estate"
+          },
+          {
+            "text": "Le infiorescenze secche sono apprezzate nelle composizioni floreali secche e fresche"
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Orgoglio Nazionale",
+            "description": "Il porro, una forma coltivata di questa specie, divenne l'emblema nazionale del Galles dopo che, secondo la tradizione, i soldati lo portarono in battaglia per riconoscersi a vicenda, un'usanza ancora celebrata ogni giorno di San David."
+          },
+          {
+            "keyword": "Protezione",
+            "description": "Come altri allium, portava antiche associazioni popolari con la protezione da malattia e male, una credenza legata al suo bulbo con odore pungente e quasi antisettico."
+          }
+        ],
+        "toxicity": {
+          "headline": "Umani Moderato · Animali domestici Tossico",
+          "active_compound_display": "Disolfuro di N-propile e tiosolfinati",
+          "notes_en": "Tutte le parti possono causare disturbi gastrointestinali e danneggiare i globuli rossi in cani e gatti se ingerite; sicuro per gli esseri umani in normali quantità culinarie.",
+          "human": {
+            "exposure": "Materiale vegetale non specificato.",
+            "effect": "Vengono segnalati effetti tossici, ma non sono elencati segni specifici.",
+            "note": "Fonti autorevoli segnalano questa pianta come tossica; la gravità è impostata in modo prudenziale come moderata in assenza di dati più precisi."
+          },
+          "dog": {
+            "exposure": "Ingestione di bulbi, foglie o qualsiasi parte della pianta.",
+            "effect": "Vomito, diarrea, letargia, gengive pallide e urina rossa o scura.",
+            "note": "Tutte le parti possono causare disturbi gastrointestinali e danneggiare i globuli rossi in cani e gatti se ingerite; sicuro per gli esseri umani in normali quantità culinarie.",
+            "symptoms": [
+              "Vomito.",
+              "Diarrea.",
+              "Letargia.",
+              "Gengive pallide.",
+              "Urina rossa o scura."
+            ]
+          },
+          "cat": {
+            "exposure": "Ingestione di bulbi, foglie o qualsiasi parte della pianta.",
+            "effect": "Vomito, diarrea, letargia, gengive pallide e urina rossa o scura.",
+            "note": "Tutte le parti possono causare disturbi gastrointestinali e danneggiare i globuli rossi in cani e gatti se ingerite; sicuro per gli esseri umani in normali quantità culinarie.",
+            "symptoms": [
+              "Vomito.",
+              "Diarrea.",
+              "Letargia.",
+              "Gengive pallide.",
+              "Urina rossa o scura."
             ]
           }
         }

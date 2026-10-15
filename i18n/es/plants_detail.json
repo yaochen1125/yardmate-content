@@ -3,8 +3,8 @@
   "locale": "es",
   "source": {
     "resource": "plants_detail.json",
-    "sha256": "839c5e3870942657e350a9c7ec5f452d748d05fc4ba198c8be23d9b9c5a14f27",
-    "record_count": 1749
+    "sha256": "e23a3477cefa3bb1d863937f0ce1e3c9bd1621dbb3bab1270a56f323cee0a737",
+    "record_count": 1751
   },
   "records": {
     "AAA0001": {
@@ -107010,6 +107010,140 @@
             "note": "Contiene alcaloides pirrolizidínicos hepatotóxicos; la ingestión crónica puede causar daño hepático en personas y ganado.",
             "symptoms": [
               "Daño hepático con la ingestión prolongada."
+            ]
+          }
+        }
+      }
+    },
+    "AAA1751": {
+      "source_hash": "eb0a1ed7e1026dd20463ba610c64e88ca6e304384b47fca6bcac3cf945706f8c",
+      "fields": {
+        "common_name": "vara de oro de hojas de olmo",
+        "bloom_tip": "Produce racimos de flores amarillas de finales de verano a otoño que atraen a los polinizadores.",
+        "description": "La vara de oro de hojas de olmo es una perenne esbelta de bosque, llamada así por sus hojas, que recuerdan la forma dentada y nervada del follaje del olmo en lugar de las láminas estrechas de la mayoría de las varas de oro. De finales de verano a otoño, sus tallos arqueados llevan racimos sueltos y unilaterales de pequeñas flores doradas que se asoman desde los bordes sombreados del bosque y los prados abiertos del este de Norteamérica. A diferencia de sus parientes más altos y agresivos, crece en matas modestas de entre 45 y 90 centímetros de altura, prefiriendo suelos húmedos y bien drenados en sombra moteada. Abejas, moscas y mariposas de temporada tardía dependen de ella como una fuente fiable de néctar otoñal.",
+        "history_text_short": "La vara de oro de hojas de olmo lleva la vieja fama del género Solidago, 'hacer entero', una hierba curativa que los colonos preparaban como 'té de la Libertad' tras el motín del té de Boston. Sus flores doradas de finales de verano suelen culpar erróneamente de la fiebre del heno, cuando el verdadero culpable es la ambrosía que florece discretamente a su lado.",
+        "history_text_long": "El nombre del género, Solidago, proviene del latín solidare, 'hacer entero', en referencia al uso prolongado de las hojas y flores de la vara de oro como vendaje curativo y tónico general en la medicina popular tanto de los pueblos nativos como de los colonos europeos. Los primeros colonos conservaron esa fama, y tras el motín del té de Boston de 1773, que cortó el suministro de té británico, muchos recurrieron a las hojas secas de vara de oro para preparar un sustituto patriótico apodado 'té de la Libertad'. La costumbre arraigó tanto que, al parecer, el té de vara de oro estadounidense llegó a exportarse a China en los primeros años de la joven nación, una curiosa inversión del comercio habitual del té. La vara de oro de hojas de olmo, con sus hojas dentadas en forma de olmo y sus racimos florales sueltos y arqueados, es una de las integrantes más discretas de este gran género, y prefiere la sombra moteada de los bordes del bosque frente a los campos abiertos y soleados donde sus parientes más vistosos se extienden de forma agresiva. Como casi toda vara de oro, también ha heredado una fama inmerecida de causante de la fiebre del heno. Sus brillantes flores amarillas se abren a finales de verano y en otoño justo al mismo tiempo que la ambrosía, mucho menos vistosa y polinizada por el viento, cuyo polen es en realidad la causa de la mayoría de las alergias estacionales. El polen de la vara de oro es pesado y lo transportan los insectos, rara vez se vuelve aéreo, pero su vistosidad la ha convertido en el chivo expiatorio durante siglos, mientras la verdadera culpable florece sin que nadie la note.",
+        "name_origin": "El nombre del género, Solidago, deriva del latín solido, que significa 'hacer entero', en referencia a sus propiedades medicinales.",
+        "symbolism_story": "Como las flores brillantes de la vara de oro aparecen justo cuando la mayoría de las demás se marchitan, las guías victorianas del lenguaje de las flores la adoptaron como símbolo de ánimo, un último estallido dorado que invita a los jardineros a seguir una temporada más. La tradición rural fue más allá, afirmando que la vara de oro que brotaba inesperadamente cerca de una casa anunciaba buena fortuna, un contrapunto alegre a su larga e injusta fama como causante de las alergias de otoño.",
+        "flower_meaning": "Ánimo",
+        "fragrance": {
+          "notes": "Un aroma tenue y dulce, herbáceo, de los racimos de flores, perceptible sobre todo de cerca."
+        },
+        "uses_list": [
+          {
+            "text": "Fuente de néctar de temporada tardía para abejas, moscas y mariposas"
+          },
+          {
+            "text": "Cultivada en jardines nativos y de bosque por sus flores doradas y aireadas"
+          },
+          {
+            "text": "Sus racimos florales arqueados son populares en arreglos de finales de verano y otoño"
+          },
+          {
+            "text": "Usada históricamente como remedio curativo popular y como el 'té de la Libertad' colonial"
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Ánimo",
+            "description": "En el lenguaje victoriano de las flores, las flores doradas y tardías de la vara de oro junto a caminos y bordes de campo llegaron a simbolizar el ánimo: una señal brillante de esperanza cuando la temporada de crecimiento se apaga."
+          },
+          {
+            "keyword": "Buena Fortuna",
+            "description": "La tradición popular antigua sostenía que la vara de oro que florecía inesperadamente cerca de una casa anunciaba buena fortuna, una creencia que ayudaba a contrarrestar su inmerecida fama de mala hierba."
+          }
+        ],
+        "toxicity": {
+          "headline": "No se reporta toxicidad",
+          "active_compound_display": "Ninguno reportado",
+          "notes_en": "No se encontró coincidencia autorizada sobre toxicidad; se trata como no reportada (la estimación del LLM no está verificada por fuentes).",
+          "human": {
+            "exposure": "No se reporta ninguna vía de exposición.",
+            "effect": "No se reporta ningún efecto tóxico.",
+            "note": "No se reporta toxicidad para humanos en este catálogo; esto no es prueba de que la planta sea comestible o inofensiva."
+          },
+          "dog": {
+            "exposure": "No se reporta ninguna vía de exposición.",
+            "effect": "No se reporta ningún efecto tóxico.",
+            "note": "No se reporta toxicidad para perros en este catálogo; esto no es prueba de que la planta sea comestible o inofensiva."
+          },
+          "cat": {
+            "exposure": "No se reporta ninguna vía de exposición.",
+            "effect": "No se reporta ningún efecto tóxico.",
+            "note": "No se reporta toxicidad para gatos en este catálogo; esto no es prueba de que la planta sea comestible o inofensiva."
+          }
+        }
+      }
+    },
+    "AAA1752": {
+      "source_hash": "90a375561fd062d6d93da7e7b4ab56ebfdd3cd40681315432a8fcceb0fa6db94",
+      "fields": {
+        "common_name": "puerro silvestre",
+        "bloom_tip": "Las flores tienen forma de campana, se abren en verano y suelen ser de color púrpura pálido o blanco.",
+        "description": "El puerro silvestre es un allium perenne y robusto, nativo del Mediterráneo y Asia occidental, que produce en verano un tallo alto de color verde grisáceo coronado por una densa umbela globular de pequeñas flores blancas a púrpura pálido. Bajo tierra forma un racimo de bulbos estrechos envueltos en una piel papirácea, con el característico aroma intenso a cebolla y ajo del género. Es el antepasado silvestre de varias hortalizas cultivadas, entre ellas el puerro y el bulbo sobredimensionado que se vende como ajo elefante, y crece sin apenas cuidados en suelo soleado y bien drenado.",
+        "history_text_short": "El puerro silvestre es el antepasado silvestre del puerro cultivado, una hortaliza que los antiguos egipcios cultivaban junto al Nilo y pintaban en las paredes de las tumbas hace más de 4.000 años. Sus tallos se convirtieron después en emblema nacional de Gales, llevados por los soldados a la batalla y aún hoy prendidos en los sombreros cada día de San David.",
+        "history_text_long": "El puerro silvestre es la especie mediterránea silvestre detrás de varias hortalizas que suelen considerarse sin relación entre sí: el puerro cultivado, el kurrat egipcio y el bulbo sobredimensionado que hoy se vende como ajo elefante. Los antiguos egipcios cultivaban una forma de puerro de esta planta junto al Nilo desde hace más de cuatro mil años; aparecen manojos pintados en paredes de tumbas y enumerados entre las ofrendas funerarias, junto a cebollas y otros alliums que eran alimentos básicos de la época. Siglos después, la historia de la planta dio un giro político inesperado en Gran Bretaña. Según la tradición galesa, el santo patrón David ordenó a sus soldados llevar un tallo de este allium parecido al puerro en sus gorros antes de una batalla contra invasores sajones, para poder reconocerse entre sí en el caos del combate. Al parecer el truco funcionó, los galeses ganaron, y el puerro se convirtió en un emblema nacional duradero, que todavía se lleva prendido en abrigos y sombreros cada primero de marzo, día de San David, y que se celebra en el Henry V de Shakespeare a través del capitán galés Fluellen. En el siglo veinte, los comerciantes de semillas estadounidenses dieron a una forma de bulbo inusualmente grande de la misma especie un nombre mucho más dramático: ajo elefante. A pesar de ese nombre comercial, está genéticamente mucho más cerca del puerro que del ajo verdadero, y su sabor suave y dulce refleja esa herencia de puerro en lugar de un parentesco real con Allium sativum. En todas estas formas, el puerro silvestre conserva el mismo tallo floral alto y la misma umbela densa y globular que lo han hecho un elemento habitual en las colinas mediterráneas y en los huertos tradicionales durante miles de años.",
+        "name_origin": "El nombre científico Allium ampeloprasum proviene del griego ampelos (vid) y prason (puerro), en referencia a su tendencia a crecer trepando entre las vides.",
+        "symbolism_story": "Como la forma de puerro de esta especie quedó enredada en la leyenda militar galesa, llegó a convertirse en un símbolo duradero de orgullo nacional, todavía prendido en abrigos y sombreros cada primero de marzo. Una tradición popular más antigua, extendida por toda Europa, dio a la familia más amplia de los alliums un segundo significado, más humilde, de protección, colgando trenzas de cebolla y ajo en puertas y cocinas, en la creencia de que su olor intenso podía mantener alejadas la enfermedad y la mala suerte.",
+        "flower_meaning": "Orgullo Nacional",
+        "fragrance": {
+          "notes": "Un aroma intenso a cebolla y ajo que se libera al aplastar o cortar las hojas o los bulbos."
+        },
+        "uses_list": [
+          {
+            "text": "Antepasado silvestre del puerro cultivado y del ajo elefante, cultivado en todo el mundo para cocinar"
+          },
+          {
+            "text": "Sus altos tallos florales con flores globulares aportan estructura a parterres y jardines rústicos"
+          },
+          {
+            "text": "Sus grandes cabezas florales atraen abejas y otros polinizadores durante todo el verano"
+          },
+          {
+            "text": "Las cabezas florales secas son populares en arreglos florales secos y cortados"
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Orgullo Nacional",
+            "description": "El puerro, una forma cultivada de esta especie, se convirtió en el emblema nacional de Gales después de que, según la tradición, los soldados lo llevaran a la batalla para reconocerse entre sí, una costumbre que aún se celebra cada día de San David."
+          },
+          {
+            "keyword": "Protección",
+            "description": "Como otros alliums, llevaba antiguas asociaciones populares con ahuyentar la enfermedad y el mal, una creencia ligada a su bulbo de olor intenso y casi antiséptico."
+          }
+        ],
+        "toxicity": {
+          "headline": "Humanos Moderado · Mascotas Tóxico",
+          "active_compound_display": "N-propil disulfuro y tiosulfinatos",
+          "notes_en": "Todas las partes pueden causar molestias gastrointestinales y dañar los glóbulos rojos en perros y gatos si se ingieren; seguro para los humanos en cantidades culinarias normales.",
+          "human": {
+            "exposure": "Material vegetal no especificado.",
+            "effect": "Se reportan efectos tóxicos, pero no se detallan signos específicos.",
+            "note": "Fuentes autorizadas reportan esta planta como tóxica; la gravedad se fija de forma conservadora como moderada a falta de datos más precisos."
+          },
+          "dog": {
+            "exposure": "Ingestión de bulbos, hojas y cualquier parte de la planta.",
+            "effect": "Vómitos, diarrea, letargo, encías pálidas y orina roja u oscura.",
+            "note": "Todas las partes pueden causar molestias gastrointestinales y dañar los glóbulos rojos en perros y gatos si se ingieren; seguro para los humanos en cantidades culinarias normales.",
+            "symptoms": [
+              "Vómitos.",
+              "Diarrea.",
+              "Letargo.",
+              "Encías pálidas.",
+              "Orina roja u oscura."
+            ]
+          },
+          "cat": {
+            "exposure": "Ingestión de bulbos, hojas y cualquier parte de la planta.",
+            "effect": "Vómitos, diarrea, letargo, encías pálidas y orina roja u oscura.",
+            "note": "Todas las partes pueden causar molestias gastrointestinales y dañar los glóbulos rojos en perros y gatos si se ingieren; seguro para los humanos en cantidades culinarias normales.",
+            "symptoms": [
+              "Vómitos.",
+              "Diarrea.",
+              "Letargo.",
+              "Encías pálidas.",
+              "Orina roja u oscura."
             ]
           }
         }

@@ -3,8 +3,8 @@
   "locale": "fr",
   "source": {
     "resource": "plants_detail.json",
-    "sha256": "839c5e3870942657e350a9c7ec5f452d748d05fc4ba198c8be23d9b9c5a14f27",
-    "record_count": 1749
+    "sha256": "e23a3477cefa3bb1d863937f0ce1e3c9bd1621dbb3bab1270a56f323cee0a737",
+    "record_count": 1751
   },
   "records": {
     "AAA0001": {
@@ -106996,6 +106996,140 @@
             "note": "Contient des alcaloïdes pyrrolizidiniques hépatotoxiques ; une ingestion chronique peut provoquer des lésions hépatiques chez l'homme et le bétail.",
             "symptoms": [
               "Lésions hépatiques en cas d'ingestion prolongée."
+            ]
+          }
+        }
+      }
+    },
+    "AAA1751": {
+      "source_hash": "eb0a1ed7e1026dd20463ba610c64e88ca6e304384b47fca6bcac3cf945706f8c",
+      "fields": {
+        "common_name": "verge d'or à feuilles d'orme",
+        "bloom_tip": "Produit des grappes de fleurs jaunes de la fin de l'été à l'automne, qui attirent les pollinisateurs.",
+        "description": "La verge d'or à feuilles d'orme est une vivace élancée des sous-bois, nommée ainsi pour ses feuilles qui rappellent la forme dentée et nervurée du feuillage de l'orme plutôt que les limbes étroits de la plupart des verges d'or. De la fin de l'été à l'automne, des tiges arquées portent des grappes lâches et unilatérales de petites fleurs jaune doré, qui se penchent depuis les lisières ombragées des bois et les prairies ouvertes de l'est de l'Amérique du Nord. Contrairement à ses parentes plus hautes et plus envahissantes, elle forme des touffes modestes de quarante-cinq à quatre-vingt-dix centimètres de hauteur, préférant un sol humide et bien drainé à mi-ombre tachetée. Abeilles, mouches et papillons de fin de saison en dépendent comme source fiable de nectar automnal.",
+        "history_text_short": "La verge d'or à feuilles d'orme porte l'ancienne réputation du genre Solidago, 'rendre entier', une herbe cicatrisante autrefois infusée en 'thé de la Liberté' par les colons après la Boston Tea Party. Ses fleurs dorées de fin d'été sont souvent accusées à tort de causer le rhume des foins, alors que la véritable coupable est l'ambroisie qui fleurit discrètement à ses côtés.",
+        "history_text_long": "Le nom du genre, Solidago, vient du latin solidare, 'rendre entier', en référence à l'usage ancien des feuilles et fleurs de la verge d'or comme pansement cicatrisant et tonique général dans la médecine populaire des peuples autochtones comme des colons européens. Les premiers colons conservèrent cette réputation, et après que la Boston Tea Party de 1773 eut coupé l'approvisionnement en thé britannique, beaucoup se tournèrent vers les feuilles séchées de verge d'or pour préparer un substitut patriotique surnommé le 'thé de la Liberté'. La coutume prit si bien racine que le thé de verge d'or américain aurait même été exporté vers la Chine dans les premières années de la jeune nation, curieux renversement du commerce habituel du thé. La verge d'or à feuilles d'orme, avec ses feuilles dentées en forme d'orme et ses grappes florales lâches et arquées, est l'une des membres les plus discrètes de ce grand genre, préférant l'ombre tachetée des lisières boisées aux champs ouverts et ensoleillés où ses parentes plus voyantes s'étendent de façon envahissante. Comme presque toutes les verges d'or, elle a aussi hérité d'une réputation imméritée de responsable du rhume des foins. Ses fleurs jaune vif s'ouvrent à la fin de l'été et en automne exactement au même moment que l'ambroisie, bien moins visible et pollinisée par le vent, dont le pollen est en réalité la cause de la plupart des allergies saisonnières. Le pollen de la verge d'or est lourd et transporté par les insectes, devenant rarement aéroporté, mais sa visibilité en a fait le bouc émissaire depuis des siècles, tandis que la vraie coupable fleurit sans se faire remarquer à côté.",
+        "name_origin": "Le nom du genre, Solidago, dérive du latin solido, signifiant 'rendre entier', en référence à ses propriétés médicinales.",
+        "symbolism_story": "Parce que les fleurs éclatantes de la verge d'or apparaissent juste quand la plupart des autres se fanent, les guides victoriens du langage des fleurs en firent un symbole d'encouragement, un dernier éclat doré incitant les jardiniers à tenir une saison de plus. La tradition rurale alla plus loin, affirmant qu'une verge d'or poussant inopinément près d'une maison annonçait la bonne fortune, un contrepoint joyeux à sa longue et injuste réputation de responsable des allergies automnales.",
+        "flower_meaning": "Encouragement",
+        "fragrance": {
+          "notes": "Un parfum léger et doux, herbacé, émanant des grappes de fleurs, surtout perceptible de près."
+        },
+        "uses_list": [
+          {
+            "text": "Source de nectar de fin de saison pour les abeilles, les mouches et les papillons"
+          },
+          {
+            "text": "Cultivée dans les jardins naturels et forestiers pour ses fleurs jaune doré et légères"
+          },
+          {
+            "text": "Ses grappes florales arquées sont appréciées dans les compositions de fin d'été et d'automne"
+          },
+          {
+            "text": "Utilisée historiquement comme remède populaire cicatrisant et comme 'thé de la Liberté' colonial"
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Encouragement",
+            "description": "Dans le langage victorien des fleurs, les fleurs dorées tardives de la verge d'or le long des chemins et des lisières de champs en vinrent à symboliser l'encouragement — un signe d'espoir éclatant alors que la saison de croissance décline."
+          },
+          {
+            "keyword": "Bonne Fortune",
+            "description": "Une vieille tradition populaire affirmait qu'une verge d'or fleurissant à l'improviste près d'une maison annonçait la bonne fortune, une croyance qui contrebalançait sa réputation imméritée de mauvaise herbe."
+          }
+        ],
+        "toxicity": {
+          "headline": "Aucune toxicité signalée",
+          "active_compound_display": "Aucun signalé",
+          "notes_en": "Aucune correspondance faisant autorité trouvée concernant la toxicité ; traitée comme non signalée (l'estimation du LLM n'est pas vérifiée par une source).",
+          "human": {
+            "exposure": "Aucune voie d'exposition signalée.",
+            "effect": "Aucun effet toxique signalé.",
+            "note": "Aucune toxicité n'est signalée pour les humains dans ce catalogue ; cela ne prouve pas que la plante soit comestible ou inoffensive."
+          },
+          "dog": {
+            "exposure": "Aucune voie d'exposition signalée.",
+            "effect": "Aucun effet toxique signalé.",
+            "note": "Aucune toxicité n'est signalée pour les chiens dans ce catalogue ; cela ne prouve pas que la plante soit comestible ou inoffensive."
+          },
+          "cat": {
+            "exposure": "Aucune voie d'exposition signalée.",
+            "effect": "Aucun effet toxique signalé.",
+            "note": "Aucune toxicité n'est signalée pour les chats dans ce catalogue ; cela ne prouve pas que la plante soit comestible ou inoffensive."
+          }
+        }
+      }
+    },
+    "AAA1752": {
+      "source_hash": "90a375561fd062d6d93da7e7b4ab56ebfdd3cd40681315432a8fcceb0fa6db94",
+      "fields": {
+        "common_name": "poireau sauvage",
+        "bloom_tip": "Les fleurs en forme de cloche s'ouvrent en été, généralement violet pâle ou blanches.",
+        "description": "Le poireau sauvage est un allium vivace et robuste, originaire du bassin méditerranéen et de l'Asie occidentale, qui produit en été une haute tige gris-vert couronnée d'une dense ombelle globuleuse de petites fleurs blanches à violet pâle. Sous terre, il forme un groupe de bulbes étroits enveloppés d'une peau papyracée, dégageant le parfum piquant d'oignon et d'ail caractéristique du genre. C'est l'ancêtre sauvage de plusieurs légumes cultivés, dont le poireau et le bulbe surdimensionné vendu sous le nom d'ail éléphant, et il se développe sans grand entretien dans un sol ensoleillé et bien drainé.",
+        "history_text_short": "Le poireau sauvage est l'ancêtre sauvage du poireau cultivé, un légume que les anciens Égyptiens cultivaient le long du Nil et peignaient sur les murs des tombeaux il y a plus de 4 000 ans. Ses tiges sont devenues plus tard l'emblème national du pays de Galles, portées par les soldats au combat et encore épinglées sur les chapeaux chaque jour de la Saint-David.",
+        "history_text_long": "Le poireau sauvage est l'espèce méditerranéenne sauvage à l'origine de plusieurs légumes qu'on croit généralement sans lien entre eux : le poireau cultivé, le kurrat égyptien et le bulbe surdimensionné vendu aujourd'hui sous le nom d'ail éléphant. Les anciens Égyptiens cultivaient une forme de poireau de cette plante le long du Nil il y a bien plus de quatre mille ans ; des bottes de ce légume sont peintes sur les murs des tombeaux et figurent parmi les offrandes funéraires, à côté des oignons et des autres alliums qui étaient des aliments de base de l'époque. Des siècles plus tard, l'histoire de la plante a pris un tournant politique inattendu en Grande-Bretagne. Selon la tradition galloise, le saint patron David ordonna à ses soldats de porter une tige de cet allium semblable au poireau sur leur bonnet avant une bataille contre des envahisseurs saxons, afin de pouvoir se reconnaître dans le chaos du combat. Le stratagème aurait fonctionné, les Gallois gagnèrent, et le poireau devint un emblème national durable, encore épinglé aux manteaux et aux chapeaux chaque premier mars, jour de la Saint-David, et célébré dans Henry V de Shakespeare à travers le capitaine gallois Fluellen. Au vingtième siècle, des semenciers américains donnèrent à une forme à bulbe inhabituellement gros de la même espèce un nom bien plus spectaculaire : ail éléphant. Malgré cette appellation commerciale, il est génétiquement bien plus proche du poireau que de l'ail véritable, et sa saveur douce et sucrée reflète cet héritage de poireau plutôt qu'une réelle parenté avec Allium sativum. Sous toutes ces formes, le poireau sauvage conserve la même haute tige florale et la même ombelle dense et globuleuse qui en ont fait, depuis des millénaires, un spectacle familier sur les collines méditerranéennes et dans les jardins potagers traditionnels.",
+        "name_origin": "Le nom scientifique Allium ampeloprasum vient du grec ampelos (vigne) et prason (poireau), en référence à sa tendance à croître en rampant parmi les vignes.",
+        "symbolism_story": "Parce que la forme poireau de cette espèce s'est trouvée mêlée à la légende militaire galloise, elle est devenue un symbole durable de fierté nationale, encore épinglé aux manteaux et aux chapeaux chaque premier mars. Une tradition populaire plus ancienne, répandue à travers l'Europe, donnait à la famille des alliums un second sens, plus modeste, de protection, en suspendant des tresses d'oignons et d'ail aux portes et dans les cuisines, dans la croyance que leur odeur piquante pouvait tenir à distance la maladie et le mauvais sort.",
+        "flower_meaning": "Fierté Nationale",
+        "fragrance": {
+          "notes": "Un arôme piquant d'oignon et d'ail libéré lorsqu'on écrase ou coupe les feuilles ou les bulbes."
+        },
+        "uses_list": [
+          {
+            "text": "Ancêtre sauvage du poireau cultivé et de l'ail éléphant, cultivé dans le monde entier pour la cuisine"
+          },
+          {
+            "text": "Ses hautes tiges florales aux fleurs globuleuses apportent de la structure aux massifs et aux jardins champêtres"
+          },
+          {
+            "text": "Ses grandes têtes florales attirent les abeilles et autres pollinisateurs tout l'été"
+          },
+          {
+            "text": "Les têtes florales séchées sont appréciées dans les compositions florales séchées et fraîches"
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Fierté Nationale",
+            "description": "Le poireau, une forme cultivée de cette espèce, est devenu l'emblème national du pays de Galles après que des soldats l'auraient, selon la tradition, porté au combat pour se reconnaître entre eux, une coutume encore célébrée chaque jour de la Saint-David."
+          },
+          {
+            "keyword": "Protection",
+            "description": "Comme d'autres alliums, il portait d'anciennes associations populaires avec la protection contre la maladie et le mal, une croyance liée à son bulbe à l'odeur piquante et quasi antiseptique."
+          }
+        ],
+        "toxicity": {
+          "headline": "Humains Modéré · Animaux Toxique",
+          "active_compound_display": "Disulfure de N-propyle et thiosulfinates",
+          "notes_en": "Toutes les parties peuvent provoquer des troubles gastro-intestinaux et endommager les globules rouges chez les chiens et les chats en cas d'ingestion ; sans danger pour les humains en quantités culinaires normales.",
+          "human": {
+            "exposure": "Matière végétale non précisée.",
+            "effect": "Des effets toxiques sont signalés, mais aucun signe spécifique n'est détaillé.",
+            "note": "Des sources faisant autorité signalent cette plante comme toxique ; la gravité est fixée par prudence à modérée en l'absence de données plus précises."
+          },
+          "dog": {
+            "exposure": "Ingestion de bulbes, de feuilles ou de toute partie de la plante.",
+            "effect": "Vomissements, diarrhée, léthargie, gencives pâles et urine rouge ou foncée.",
+            "note": "Toutes les parties peuvent provoquer des troubles gastro-intestinaux et endommager les globules rouges chez les chiens et les chats en cas d'ingestion ; sans danger pour les humains en quantités culinaires normales.",
+            "symptoms": [
+              "Vomissements.",
+              "Diarrhée.",
+              "Léthargie.",
+              "Gencives pâles.",
+              "Urine rouge ou foncée."
+            ]
+          },
+          "cat": {
+            "exposure": "Ingestion de bulbes, de feuilles ou de toute partie de la plante.",
+            "effect": "Vomissements, diarrhée, léthargie, gencives pâles et urine rouge ou foncée.",
+            "note": "Toutes les parties peuvent provoquer des troubles gastro-intestinaux et endommager les globules rouges chez les chiens et les chats en cas d'ingestion ; sans danger pour les humains en quantités culinaires normales.",
+            "symptoms": [
+              "Vomissements.",
+              "Diarrhée.",
+              "Léthargie.",
+              "Gencives pâles.",
+              "Urine rouge ou foncée."
             ]
           }
         }
