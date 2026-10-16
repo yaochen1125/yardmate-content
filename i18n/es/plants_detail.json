@@ -3,8 +3,8 @@
   "locale": "es",
   "source": {
     "resource": "plants_detail.json",
-    "sha256": "e23a3477cefa3bb1d863937f0ce1e3c9bd1621dbb3bab1270a56f323cee0a737",
-    "record_count": 1751
+    "sha256": "b87badad80348f51a282ee949e5ab640e0646ef10bf5c5805f351e569df7684d",
+    "record_count": 1752
   },
   "records": {
     "AAA0001": {
@@ -107145,6 +107145,70 @@
               "Encías pálidas.",
               "Orina roja u oscura."
             ]
+          }
+        }
+      }
+    },
+    "AAA1753": {
+      "source_hash": "130b6cd7a1f5728ec4c880946d4d386cd86ae6e0945d80ec096c740543870997",
+      "fields": {
+        "common_name": "Gipsófila",
+        "bloom_tip": "Esta planta produce delicadas flores blancas que florecen desde finales de primavera hasta el verano.",
+        "description": "Gypsophila paniculata, conocida comúnmente como gipsófila, es una planta perenne y frondosa apreciada por sus nubes aireadas de diminutas flores blancas que cubren sus tallos delgados y ramificados desde principios de verano hasta el otoño. Originaria de las estepas calizas y las laderas de piedra caliza de Europa central y oriental hasta Siberia, prefiere suelos finos y alcalinos y terrenos abiertos y soleados; su raíz profunda le permite resistir la sequía una vez establecida. En el jardín forma un montículo suave y algodonoso que rellena los espacios entre flores más llamativas, mientras que los floristas aprecian sus ramilletes como el complemento clásico para las rosas en ramos y arreglos de boda.",
+        "history_text_short": "Los floristas victorianos combinaban la gipsófila con rosas para simbolizar el amor eterno, y sus diminutas flores se secaban tan bien que se convirtieron en un elemento básico de los ramos de novia, apodada la 'flor millonaria'. Pero esa misma resistencia le permitió escapar a las dunas de arena de los Grandes Lagos, donde hoy voluntarios la arrancan a mano para proteger plantas nativas raras.",
+        "history_text_long": "Mucho antes de llenar los ramos de novia, la gipsófila crecía silvestre en las estepas calizas y las laderas calcáreas de Europa central y Asia occidental; sus tallos delgados se aferraban a un suelo fino y rico en minerales donde plantas más robustas apenas lograban arraigar. Los jardineros europeos comenzaron a cultivarla en el siglo XVIII por sus aireados ramilletes, y para la época victoriana se había vuelto indispensable en el lenguaje de las flores: combinada con rosas, se decía que simbolizaba el amor eterno y el encanto humilde que deja resplandecer a una flor más grandiosa. Los floristas la apreciaban también por una razón práctica: sus diminutas flores se secaban maravillosamente, conservando su forma durante años, lo que la convirtió en la elección obvia para recuerdos prensados y ramos de boda destinados a perdurar. En el siglo XX, cultivadores holandeses y norteamericanos desarrollaron variedades más densas y duraderas y enviaron gipsófila por toneladas como el 'relleno' barato y fiable detrás de casi todos los ramos de rosas de los floristas, ganándose el apodo de 'flor millonaria' por las fortunas que generó en grandes volúmenes. Pero la misma resistencia que le permitía prosperar en suelo pobre en su tierra natal se convirtió en un problema al escapar de los jardines: en las dunas de arena de los Grandes Lagos, sus raíces profundas estabilizan la arena cambiante de tal forma que desplazan el terreno abierto y móvil del que dependen plantas nativas raras como el cardo de Pitcher. Hoy, equipos de voluntarios regresan cada verano a las dunas de Míchigan y Ontario para arrancarla a mano y proteger el ecosistema que su propia belleza ayudó a desestabilizar.",
+        "name_origin": "El nombre del género 'Gypsophila' proviene del griego y significa 'amante de la cal', en referencia a su preferencia por los suelos alcalinos.",
+        "symbolism_story": "En el lenguaje victoriano de las flores, un regalo de rosas envuelto en gipsófila hablaba de un amor destinado a durar más que la estación: la pasión audaz de la rosa suavizada y prolongada por un millar de pequeñas flores blancas y perdurables. Esa combinación apenas ha cambiado desde entonces: los floristas de todo el mundo siguen recurriendo a la gipsófila cada vez que un ramo necesita prometer 'para siempre'.",
+        "flower_meaning": "Amor Eterno",
+        "fragrance": {
+          "notes": "Un aroma tenue y dulce de sus numerosas flores pequeñas, más perceptible en ramos grandes."
+        },
+        "uses_list": [
+          {
+            "text": "Apreciada por los floristas como relleno aireado y duradero detrás de rosas y otras flores en ramos y arreglos de boda."
+          },
+          {
+            "text": "Forma montículos suaves y algodonosos de flores diminutas que suavizan los bordes y rellenan los huecos entre plantas perennes más llamativas."
+          },
+          {
+            "text": "Sus abundantes flores pequeñas atraen abejas y otros polinizadores durante una larga temporada de floración estival."
+          },
+          {
+            "text": "Se seca de forma hermosa conservando su forma, lo que la convierte en una favorita para recuerdos florales prensados y arreglos secos."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Amor Eterno",
+            "description": "Combinada con rosas en los ramos victorianos, la gipsófila pasó a representar un amor destinado a durar, sus pequeñas estrellas enmarcando la promesa más grande de la rosa."
+          },
+          {
+            "keyword": "Pureza",
+            "description": "Sus sencillas flores blancas han representado durante mucho tiempo la inocencia y la pureza, presentes habitualmente en bautizos y bodas."
+          },
+          {
+            "keyword": "Humildad",
+            "description": "Al desempeñar un papel de apoyo junto a flores más vistosas, también ha llegado a simbolizar la humildad silenciosa y la belleza de las cosas pequeñas y numerosas."
+          }
+        ],
+        "toxicity": {
+          "headline": "Humanos Moderado",
+          "active_compound_display": "Principio tóxico desconocido",
+          "notes_en": "No se encontró ninguna coincidencia toxicológica autorizada; se trata como no reportada (la estimación de la IA no está verificada por fuentes).",
+          "human": {
+            "exposure": "Material vegetal no especificado.",
+            "effect": "Se reportan efectos tóxicos, pero no se detallan síntomas específicos.",
+            "note": "Fuentes autorizadas reportan esta planta como tóxica; la gravedad se ha fijado de forma conservadora como moderada a la espera de datos más precisos."
+          },
+          "dog": {
+            "exposure": "No se reporta vía de exposición.",
+            "effect": "No se reporta efecto tóxico.",
+            "note": "La toxicidad para perros no está bien documentada; usar con precaución hasta verificar."
+          },
+          "cat": {
+            "exposure": "No se reporta vía de exposición.",
+            "effect": "No se reporta efecto tóxico.",
+            "note": "La toxicidad para gatos no está bien documentada; usar con precaución hasta verificar."
           }
         }
       }
