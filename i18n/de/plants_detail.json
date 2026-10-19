@@ -3,8 +3,8 @@
   "locale": "de",
   "source": {
     "resource": "plants_detail.json",
-    "sha256": "b87badad80348f51a282ee949e5ab640e0646ef10bf5c5805f351e569df7684d",
-    "record_count": 1752
+    "sha256": "4c8594b072c53f4816e88c7f74bbbbdf4a01350173522f638f49a74e6e175f6f",
+    "record_count": 1755
   },
   "records": {
     "AAA0001": {
@@ -107195,6 +107195,162 @@
             "exposure": "Es wird kein Expositionsweg berichtet.",
             "effect": "Es wird keine toxische Wirkung berichtet.",
             "note": "Die Toxizität für Katzen ist nicht gut dokumentiert; Vorsicht walten lassen, bis bestätigt."
+          }
+        }
+      }
+    },
+    "AAA1754": {
+      "source_hash": "afeb541d8bdf48d7832b42699bb5a7116ab443c757c1871a25a17509d12fdc82",
+      "fields": {
+        "common_name": "Breitblättriger Wilder Lauch",
+        "bloom_tip": "Diese Pflanze blüht von Mai bis Juli und zeigt dabei wunderschöne Blüten.",
+        "description": "Der Breitblättrige Wilde Lauch ist die wilde Stammform, aus der Gärtner im Laufe der Zeit durch gezielte Zucht Porree, Elefantenknoblauch, Kurrat und Perlzwiebeln hervorgebracht haben – alles aus ein und derselben anpassungsfähigen Art. Aus seiner papierartigen Zwiebel erhebt sich ein kräftiger Blütenstiel, der von einer dichten, kugelförmigen Dolde aus kleinen weißen bis violetten, sternförmigen Blüten gekrönt wird, oft mehr als hundert in einer einzigen Kugel vereint. Seine breiten, riemenartigen graugrünen Blätter breiten sich am Grund aus und verströmen beim Zerdrücken einen milden, knoblauchartigen Duft. Beheimatet in den Hügeln des Mittelmeerraums und Südwestasiens, gedeiht er in voller Sonne und durchlässigem Boden, verträgt Trockenheit und kargen Untergrund und sät sich entlang von Wegrändern bereitwillig selbst aus.",
+        "history_text_short": "Lange bevor er einen Kultursortennamen trug, wuchs dieser wilde mediterrane Lauch an Hängen und Weinbergrändern. Über Jahrhunderte gezielter Zucht formten Bauern daraus mehrere eigenständige Kulturpflanzen: Porree, Elefantenknoblauch, Kurrat und Perlzwiebel – jede gezüchtet, um einen anderen Teil derselben Wildpflanze zu betonen.",
+        "history_text_long": "Der Breitblättrige Wilde Lauch wuchs wild auf den steinigen Hängen und an den Weinbergrändern des Mittelmeerraums und Südwestasiens, lange bevor er zu irgendjemandes Kulturpflanze wurde. Altägyptische und vorderasiatische Bauern begannen, ihn zu sammeln, und die frühesten Lauchpflanzen erscheinen in ägyptischen Grabreliefs sowie in den Rationslisten für die Erbauer der Pyramiden. Als sich der Anbau über Griechenland und Rom ausbreitete, selektierten Bauern in verschiedenen Regionen dieselbe Wildart immer wieder nach unterschiedlichen Merkmalen. Manche bevorzugten Pflanzen mit einem dicken, zarten Stielansatz, der unter aufgehäufter Erde gebleicht wurde, und züchteten daraus den heutigen Porree. Andere selektierten nach einer übergroßen Zwiebel, die in eine Handvoll riesiger Zehen zerfiel – daraus entstand das, was heute als Elefantenknoblauch verkauft wird, obwohl es botanisch gar kein echter Knoblauch ist. In Ägypten schätzten Bauern die breiten Blätter selbst und schnitten sie wiederholt wie Schnittlauch, um Kurrat zu erzeugen. Wieder andere selektierten Pflanzen, die dichte Büschel kleiner Zwiebeln bildeten – die Vorfahren der Perlzwiebel. Bei all diesen unterschiedlichen Zuchtlinien verschwand die Wildart selbst nie, sondern wuchs weiterhin unauffällig an Wegrändern und auf gestörtem Boden, besucht von Bienen, die ihre kugelförmigen Blütenstände anzogen, weitgehend unbeachtet als Stammform von Kulturpflanzen, die heute in Küchen auf der ganzen Welt zu finden sind.",
+        "name_origin": "Der Gattungsname Allium ist das klassische lateinische Wort für Knoblauch, während ampeloprasum das griechische ampelos, 'Weinrebe', mit prason, 'Lauch', verbindet – wörtlich 'Weinreben-Lauch', ein Hinweis darauf, wie häufig diese Wildart in mediterranen Weinbergen zu finden war. Der deutsche Name 'Breitblättriger Wilder Lauch' beschreibt schlicht seine auffallend breiten Blätter.",
+        "symbolism_story": "Als die eine Wildpflanze, aus der Porree, Elefantenknoblauch, Kurrat und Perlzwiebel allesamt gezüchtet wurden, steht der Breitblättrige Wilde Lauch sinnbildlich für eine gemeinsame Wurzel: den Beweis, dass aus einem einzigen, still anpassungsfähigen Vorfahren eine enorme Vielfalt entstehen kann.",
+        "flower_meaning": "Gemeinsame Wurzel",
+        "fragrance": {
+          "notes": "Ein milder, knoblauchartiger Duft, wenn die Blätter oder die Zwiebel zerdrückt werden."
+        },
+        "uses_list": [
+          {
+            "text": "Die wilde Stammform von Porree, Elefantenknoblauch, Kurrat und Perlzwiebel; ihre Zwiebel und Blätter werden seit der Antike gesammelt und gegessen."
+          },
+          {
+            "text": "Ihre dichten, kugelförmigen Blütenstände sind nektarreich und ziehen im späten Frühjahr und Sommer Bienen und andere bestäubende Insekten an."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Gemeinsame Wurzel",
+            "description": "Als die eine Wildpflanze hinter Porree, Elefantenknoblauch, Kurrat und Perlzwiebel steht sie dafür, dass aus einem einzigen, still anpassungsfähigen Vorfahren große Vielfalt entstehen kann."
+          }
+        ],
+        "toxicity": {
+          "headline": "Menschen Mäßig · Haustiere Giftig",
+          "active_compound_display": "N-Propyldisulfid und Thiosulfate",
+          "notes_en": "Alle Pflanzenteile enthalten organische Schwefelverbindungen. Hunde und Katzen reagieren besonders empfindlich darauf: Der Verzehr jedes Pflanzenteils kann oxidative Schäden an roten Blutkörperchen und eine hämolytische Anämie verursachen. Menschen essen die Kultursorten dieser Pflanze seit Jahrtausenden in normalen Küchenmengen, doch der Verzehr großer Mengen roher Zwiebel kann leichte Magenreizungen verursachen.",
+          "human": {
+            "exposure": "Nicht näher bezeichnetes Pflanzenmaterial.",
+            "effect": "Giftige Wirkungen sind berichtet, spezifische Anzeichen jedoch nicht aufgeführt.",
+            "note": "Alle Pflanzenteile enthalten organische Schwefelverbindungen. Hunde und Katzen reagieren besonders empfindlich darauf: Der Verzehr jedes Pflanzenteils kann oxidative Schäden an roten Blutkörperchen und eine hämolytische Anämie verursachen. Menschen essen die Kultursorten dieser Pflanze seit Jahrtausenden in normalen Küchenmengen, doch der Verzehr großer Mengen roher Zwiebel kann leichte Magenreizungen verursachen."
+          },
+          "dog": {
+            "exposure": "Verzehr von Zwiebeln, Blättern, Stielen und jedem Teil der Pflanze.",
+            "effect": "Erbrechen, Durchfall, Mattigkeit, Schwäche, blasses Zahnfleisch und erhöhte Herzfrequenz.",
+            "note": "Alle Pflanzenteile enthalten organische Schwefelverbindungen. Hunde und Katzen reagieren besonders empfindlich darauf: Der Verzehr jedes Pflanzenteils kann oxidative Schäden an roten Blutkörperchen und eine hämolytische Anämie verursachen. Menschen essen die Kultursorten dieser Pflanze seit Jahrtausenden in normalen Küchenmengen, doch der Verzehr großer Mengen roher Zwiebel kann leichte Magenreizungen verursachen.",
+            "symptoms": [
+              "Erbrechen.",
+              "Durchfall.",
+              "Mattigkeit.",
+              "Schwäche.",
+              "Blasses Zahnfleisch.",
+              "Erhöhte Herzfrequenz."
+            ]
+          },
+          "cat": {
+            "exposure": "Verzehr von Zwiebeln, Blättern, Stielen und jedem Teil der Pflanze.",
+            "effect": "Erbrechen, Durchfall, Mattigkeit, Schwäche, blasses Zahnfleisch und erhöhte Herzfrequenz.",
+            "note": "Alle Pflanzenteile enthalten organische Schwefelverbindungen. Hunde und Katzen reagieren besonders empfindlich darauf: Der Verzehr jedes Pflanzenteils kann oxidative Schäden an roten Blutkörperchen und eine hämolytische Anämie verursachen. Menschen essen die Kultursorten dieser Pflanze seit Jahrtausenden in normalen Küchenmengen, doch der Verzehr großer Mengen roher Zwiebel kann leichte Magenreizungen verursachen.",
+            "symptoms": [
+              "Erbrechen.",
+              "Durchfall.",
+              "Mattigkeit.",
+              "Schwäche.",
+              "Blasses Zahnfleisch.",
+              "Erhöhte Herzfrequenz."
+            ]
+          }
+        }
+      }
+    },
+    "AAA1755": {
+      "source_hash": "272f98971f3409cbf4118be41305e6a172662e8e0fe8c1dfb8ccde3723c275ab",
+      "fields": {
+        "common_name": "Crossandra",
+        "bloom_tip": "Blüht von September bis Dezember und bringt dabei farbenfrohe, attraktive Blüten hervor.",
+        "description": "Die Crossandra ist ein buschiger tropischer immergrüner Strauch, geschätzt für glänzende, dunkelgrüne Blätter mit sanft gewellten Rändern und dichte Blütenähren aus trichterförmigen Blüten in Aprikosen-, Orange- und Gelbtönen, die sich in überlappenden Reihen wie Dachziegel öffnen. Beheimatet in Indien und Sri Lanka, mit verwandten Formen im tropischen Afrika, wächst sie als aufrechter Halbstrauch von 60 bis 90 Zentimetern Höhe und blüht nahezu ununterbrochen, wo die Winter mild bleiben. In kühleren Klimazonen gedeiht sie als Kübel- oder Gewächshauspflanze. Sie bevorzugt Halbschatten bis helles, gefiltertes Licht sowie gleichmäßig feuchten, durchlässigen Boden.",
+        "history_text_short": "In Südindien ist diese Pflanze als Kanakambaram bekannt; ihre goldorangenen Blüten werden zusammen mit Jasmin zu Girlanden für das Haar der Frauen und als Tempelopfergaben aufgereiht. Im Englischen erhielt sie den Namen Firecracker Flower nicht wegen ihrer leuchtenden Farbe, sondern wegen ihrer Samenkapseln, die bei Nässe aufplatzen und ihre Samen fortschleudern.",
+        "history_text_long": "Lange bevor sie die Gewächshäuser Europas erreichte, war die Crossandra bereits fest im Alltag Südindiens verwurzelt, wo sie auf Tamil Kanakambaram und auf Telugu kanakambaramu genannt wird – beide Namen gehen auf das Sanskrit-Wort kanaka, 'Gold', zurück. Auf den Blumenmärkten von Tamil Nadu, Karnataka und Kerala reihen Verkäufer ihre goldorangenen Blüten zusammen mit Jasmin zu duftenden Strängen, die jeden Morgen verkauft werden, damit Frauen sie im Haar tragen und Gläubige sie an Tempelschreinen opfern können. Bei südindischen Hochzeiten werden Kanakambaram-Girlanden zusammen mit Jasmin ins Haar der Braut geflochten, ihre warme Farbe gilt als Wunsch für Wohlstand und eheliches Glück. Der englische Name der Pflanze erzählt eine ganz andere Geschichte. Als europäische Botaniker und Gärtner sie im 18. und 19. Jahrhundert kennenlernten, faszinierten sie weniger die Blüten als die Samenkapseln: trockene Kapseln, die, sobald sie Feuchtigkeit aus Regen oder feuchter Luft aufnehmen, mit einem kleinen, hörbaren Knall aufspringen und ihre Samen fortschleudern, um neuen Boden zu erobern. Dieses kleine mechanische Schauspiel, das sich während der Regenzeit immer wieder wiederholt, gab der Pflanze ihren englischen Trivialnamen Firecracker Flower, einen Namen, der mit ihren warmtonigen Blüten nichts zu tun hat. In Gewächshäuser und später in gewöhnliche Haushalte als Topfpflanze gebracht, wurde sie weit entfernt von den indischen Gärten und Tempelwegen, wo sie seit Generationen angebaut und getragen wird, zu einem vertrauten Anblick.",
+        "name_origin": "Der Gattungsname Crossandra verbindet das griechische krossos, 'Fransen', mit aner, 'Mann', ein Hinweis auf die gefransten Staubbeutel im Inneren jeder Blüte; der Artname infundibuliformis ist lateinisch für 'trichterförmig' und beschreibt die röhrenförmige Blütenkrone. In Südindien, wo die Pflanze besonders beliebt ist, wird sie auf Tamil Kanakambaram und auf Telugu kanakambaramu genannt, vom Sanskrit kanaka, 'Gold', ein Hinweis auf ihre leuchtend orange-goldenen Blüten.",
+        "symbolism_story": "Durch ihre lange Tradition als Kanakambaram, zu Girlanden für Bräute, Tempelgottheiten und ganz gewöhnliche Morgen in ganz Südindien aufgereiht, ist die Crossandra zu einem Sinnbild für Schmuck geworden: jene kleine, bewusste Geste, etwas – oder jemanden – schöner zu machen.",
+        "flower_meaning": "Schmuck",
+        "uses_list": [
+          {
+            "text": "Ihre goldorangenen Blüten werden in Südindien traditionell zusammen mit Jasmin zu Girlanden aufgereiht, im Haar der Frauen getragen und an Tempelschreinen dargebracht."
+          },
+          {
+            "text": "Eine beliebte Garten- und Kübelpflanze, geschätzt für ihre nahezu ununterbrochene Blüte und ihr glänzendes, gewelltes Laub."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Schmuck",
+            "description": "Zu Girlanden für Bräute, Tempelgottheiten und ganz gewöhnliche Morgen in ganz Südindien aufgereiht, ist sie untrennbar mit alltäglichem und zeremoniellem Schmuck verbunden geworden."
+          }
+        ],
+        "toxicity": {
+          "headline": "Haustiere Sicher",
+          "active_compound_display": "Keine bekannt",
+          "notes_en": "Keine autoritative Übereinstimmung zur Giftigkeit gefunden; daher als nicht gemeldet eingestuft (die KI-Schätzung ist nicht quellengeprüft).",
+          "human": {
+            "exposure": "Kein Aufnahmeweg bekannt.",
+            "effect": "Keine toxische Wirkung bekannt.",
+            "note": "Für Menschen ist in diesem Katalog keine Giftigkeit gemeldet; dies ist kein Beleg dafür, dass die Pflanze essbar oder unbedenklich ist."
+          },
+          "dog": {
+            "exposure": "Kein Aufnahmeweg bekannt.",
+            "effect": "Keine toxische Wirkung bekannt.",
+            "note": "Autoritative Quellen bezeichnen diese Pflanze als ungiftig für Hunde; dies ist kein Beleg dafür, dass die Pflanze essbar ist."
+          },
+          "cat": {
+            "exposure": "Kein Aufnahmeweg bekannt.",
+            "effect": "Keine toxische Wirkung bekannt.",
+            "note": "Autoritative Quellen bezeichnen diese Pflanze als ungiftig für Katzen; dies ist kein Beleg dafür, dass die Pflanze essbar ist."
+          }
+        }
+      }
+    },
+    "AAA1756": {
+      "source_hash": "667b80833ae217a8c631bca72067289bdd1304a5c26839838deb080317007f7c",
+      "fields": {
+        "common_name": "Butterpilz",
+        "description": "Der Butterpilz ist ein mittelgroßer Röhrling, der in enger Partnerschaft mit Kiefern lebt: Sein unterirdisches Myzel umschlingt die Kiefernwurzeln und tauscht Mineralien gegen Zucker. Sein Hut ist glatt und auffällig schmierig, honigbraun bis kastanienbraun gefärbt, während der Stiel einen häutigen, violett-purpurn getönten Ring trägt – das Merkmal, dem der Pilz seinen Namen verdankt. Die Porenfläche unter dem Hut ist zunächst blassgelb und dunkelt mit dem Alter nach. Er fruchtet vom Spätsommer bis in den Herbst, oft in Ringen unter Nadelbaumkronen auf nadelbedecktem Boden, und ist mit Kiefernplantagen rund um die Welt gereist, da junge Kiefern ohne diesen pilzlichen Partner kaum gedeihen.",
+        "history_text_short": "1753 von Linné beschrieben und später in die Gattung Suillus verschoben, begleitet der Butterpilz die Kiefer still und unauffällig. Als sich Kiefernplantagen im 20. Jahrhundert weit außerhalb Europas ausbreiteten, verschifften Förster Erde mit seinen Sporen, um den verpflanzten Kiefernsetzlingen zu helfen, in fremdem Boden Wurzeln zu schlagen.",
+        "history_text_long": "Der Butterpilz war einer der Pilze, die Carl von Linné 1753 katalogisierte und als Boletus luteus benannte, bevor spätere Mykologen ihn in die Gattung Suillus überführten. Den größten Teil seiner Geschichte folgte er einfach den Kiefern durch Europas Wälder, seine Sporen getragen von Wind, Regen und den Hufen weidender Tiere in jeden Flecken Boden, wo ein Kiefernsetzling Wurzeln schlug. Diese stille Partnerschaft wurde im 20. Jahrhundert sichtbar, als Förster begannen, Kiefern weit außerhalb ihres natürlichen Verbreitungsgebiets zu pflanzen, etwa in Neuseeland, Chile und Südafrika, um schnellwachsendes Nutzholz zu liefern. Die Setzlinge kamen an, aber die Bäume wollten nicht gedeihen. Bodenforscher führten das Scheitern schließlich auf einen fehlenden Partner zurück: Ohne einen ektomykorrhizalen Pilz wie den Butterpilz, der sich um ihre Wurzeln schlingt, konnten die Kiefern nicht genug Wasser und Mineralien aus dem fremden Boden ziehen. Förster begannen, Säcke mit Nadelstreu und Oberboden aus etablierten Kiefernbeständen Europas zu verschiffen, um neue Plantagen zu beimpfen, und trugen die Sporen des Pilzes zusammen mit den Bäumen selbst über die Ozeane. Innerhalb weniger Vegetationsperioden wuchsen die Kiefern in den neuen Plantagen deutlich besser, und goldene Ringe dieses schmierkappigen Pilzes erschienen auf Waldböden, die zuvor nie einen Nadelbaum gesehen hatten.",
+        "name_origin": "Der Gattungsname Suillus stammt vom lateinischen Wort für 'Schwein' und verweist auf den glatten, fettig wirkenden Hut des Pilzes, während luteus 'gelb' bedeutet und die Farbe der Porenfläche beschreibt. Der deutsche Name 'Butterpilz' bezieht sich auf die glänzende, butterartig schmierige Oberfläche seines Hutes.",
+        "symbolism_story": "Weil er vollständig unter der Erde lebt und die Wurzeln seiner Wirtskiefer umschlingt, steht der Butterpilz sinnbildlich für eine stille, unsichtbare Partnerschaft – eine Erinnerung daran, dass manche der wichtigsten Bündnisse keine sichtbare Spur hinterlassen.",
+        "flower_meaning": "Partnerschaft",
+        "uses_list": [
+          {
+            "text": "Von Förstern genutzt, um die Wurzeln von Kiefernsetzlingen zu beimpfen und so jungen Plantagen in Regionen ohne einheimische Partnerpilze beim Anwachsen zu helfen."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Partnerschaft",
+            "description": "Sein unsichtbares unterirdisches Bündnis mit den Kiefernwurzeln macht ihn zu einem natürlichen Sinnbild für gegenseitige Kooperation und verborgene Unterstützung."
+          }
+        ],
+        "toxicity": {
+          "headline": "Giftigkeit unbekannt",
+          "active_compound_display": "Keine bekannt",
+          "notes_en": "Die Giftigkeit dieses Pilzes ist nicht bestätigt. Viele giftige Pilze sehen essbaren Arten fast identisch aus. Essen Sie niemals einen Pilz allein aufgrund dieser App.",
+          "human": {
+            "exposure": "Kein Aufnahmeweg bekannt.",
+            "effect": "Keine toxische Wirkung bekannt.",
+            "note": "Die Giftigkeit dieses Pilzes ist nicht bestätigt. Viele giftige Pilze sehen essbaren Arten fast identisch aus. Essen Sie niemals einen Pilz allein aufgrund dieser App."
+          },
+          "dog": {
+            "exposure": "Kein Aufnahmeweg bekannt.",
+            "effect": "Keine toxische Wirkung bekannt.",
+            "note": "Für Hunde liegen keine artspezifischen Berichte vor. Behandeln Sie jeden Wildpilz als potenziell giftig für Haustiere und kontaktieren Sie nach jeder Aufnahme einen Tierarzt."
+          },
+          "cat": {
+            "exposure": "Kein Aufnahmeweg bekannt.",
+            "effect": "Keine toxische Wirkung bekannt.",
+            "note": "Für Katzen liegen keine artspezifischen Berichte vor. Behandeln Sie jeden Wildpilz als potenziell giftig für Haustiere und kontaktieren Sie nach jeder Aufnahme einen Tierarzt."
           }
         }
       }

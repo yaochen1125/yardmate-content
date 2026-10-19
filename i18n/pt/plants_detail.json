@@ -3,8 +3,8 @@
   "locale": "pt",
   "source": {
     "resource": "plants_detail.json",
-    "sha256": "b87badad80348f51a282ee949e5ab640e0646ef10bf5c5805f351e569df7684d",
-    "record_count": 1752
+    "sha256": "4c8594b072c53f4816e88c7f74bbbbdf4a01350173522f638f49a74e6e175f6f",
+    "record_count": 1755
   },
   "records": {
     "AAA0001": {
@@ -107209,6 +107209,162 @@
             "exposure": "Nenhuma via de exposição é relatada.",
             "effect": "Nenhum efeito tóxico é relatado.",
             "note": "A toxicidade para gatos não é bem documentada; use com cautela até verificação."
+          }
+        }
+      }
+    },
+    "AAA1754": {
+      "source_hash": "afeb541d8bdf48d7832b42699bb5a7116ab443c757c1871a25a17509d12fdc82",
+      "fields": {
+        "common_name": "Alho-porro selvagem de folha larga",
+        "bloom_tip": "As flores desta planta desabrocham de maio a julho, exibindo uma floração linda.",
+        "description": "O Alho-porro selvagem de folha larga é o ancestral silvestre do qual os jardineiros acabaram criando, por seleção, o alho-porro, o alho-elefante, o kurrat e a cebola-pérola, tudo a partir de uma única espécie muito adaptável. De seu bulbo papiráceo surge uma haste floral robusta, coroada por uma umbela densa e arredondada de pequenas flores estreladas brancas a violetas, às vezes mais de uma centena reunidas numa única esfera. Suas folhas largas e em forma de fita, verde-acinzentadas, se espalham na base e liberam um leve aroma de alho quando amassadas. Nativo das colinas mediterrânicas e do sudoeste da Ásia, prospera a pleno sol e em solo bem drenado, tolera a seca e solos pobres, e se ressemeia facilmente ao longo de estradas.",
+        "history_text_short": "Muito antes de ter um nome de cultivo, este alho-porro silvestre mediterrânico crescia em encostas e bordas de vinhedos. Ao longo de séculos de cultivo seletivo, os agricultores o transformaram em várias culturas distintas: o alho-porro, o alho-elefante, o kurrat e a cebola-pérola, cada uma criada para favorecer uma parte diferente da mesma planta silvestre.",
+        "history_text_long": "O Alho-porro selvagem de folha larga crescia silvestre nas encostas rochosas e bordas de vinhedos do Mediterrâneo e do sudoeste asiático muito antes de se tornar cultivo de alguém. Agricultores do antigo Egito e do Oriente Próximo começaram a colhê-lo, e os primeiros alhos-porros aparecem esculpidos em relevos de túmulos egípcios, além de figurarem entre as rações distribuídas aos construtores das pirâmides. À medida que o cultivo se espalhava pela Grécia e por Roma, cultivadores de diferentes regiões continuaram selecionando a mesma espécie silvestre por características diferentes. Alguns preferiram plantas com uma base de caule grossa e tenra, embranquecida sob terra amontoada, dando origem ao alho-porro moderno. Outros selecionaram um bulbo descomunal que se dividia numa mão-cheia de dentes gigantes, a origem do que hoje se vende como alho-elefante, embora não seja de fato um verdadeiro alho. No Egito, os agricultores valorizavam as próprias folhas largas, cortando-as repetidamente como cebolinho para produzir o kurrat. Ainda outros selecionaram plantas que formavam touceiras compactas de bulbos pequenos, o ancestral da cebola-pérola. Em meio a todos esses caminhos divergentes, a espécie silvestre em si nunca desapareceu, continuando a crescer discretamente ao longo de estradas e terrenos perturbados, visitada por abelhas atraídas por suas inflorescências esféricas, em grande parte ignorada como ancestral de culturas hoje encontradas em cozinhas do mundo inteiro.",
+        "name_origin": "O nome do gênero Allium é a palavra latina clássica para alho, enquanto ampeloprasum combina o grego ampelos, 'videira', com prason, 'alho-porro', literalmente 'alho-porro das vinhas' — uma referência a como esta espécie silvestre era facilmente encontrada em vinhedos mediterrânicos. O nome português 'Alho-porro selvagem de folha larga' descreve simplesmente suas folhas notavelmente largas.",
+        "symbolism_story": "Como a única planta silvestre da qual foram criados o alho-porro, o alho-elefante, o kurrat e a cebola-pérola, o Alho-porro selvagem de folha larga passou a representar a ideia de uma raiz comum: a prova de que uma enorme diversidade pode descender de um único ancestral discretamente adaptável.",
+        "flower_meaning": "Raiz comum",
+        "fragrance": {
+          "notes": "Um leve aroma de alho quando as folhas ou o bulbo são amassados."
+        },
+        "uses_list": [
+          {
+            "text": "O ancestral silvestre do alho-porro, do alho-elefante, do kurrat e da cebola-pérola; seu bulbo e suas folhas são colhidos e consumidos desde a Antiguidade."
+          },
+          {
+            "text": "Suas densas inflorescências esféricas são ricas em néctar e atraem abelhas e outros insetos polinizadores no final da primavera e no verão."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Raiz comum",
+            "description": "Como a única planta silvestre por trás do alho-porro, do alho-elefante, do kurrat e da cebola-pérola, simboliza a ideia de que uma grande diversidade pode descender de um único ancestral discretamente adaptável."
+          }
+        ],
+        "toxicity": {
+          "headline": "Humanos Moderado · Animais de estimação Tóxico",
+          "active_compound_display": "N-propil dissulfeto e tiossulfatos",
+          "notes_en": "Todas as partes contêm compostos organossulfurados. Cães e gatos são especialmente sensíveis: comer qualquer parte pode causar dano oxidativo às hemácias e anemia hemolítica. Os humanos comem as variedades cultivadas desta planta como alimento há milênios em quantidades culinárias normais, embora comer uma grande quantidade de bulbo cru possa causar leve irritação estomacal.",
+          "human": {
+            "exposure": "Parte da planta não especificada.",
+            "effect": "Efeitos tóxicos são relatados, mas sinais específicos não são listados.",
+            "note": "Todas as partes contêm compostos organossulfurados. Cães e gatos são especialmente sensíveis: comer qualquer parte pode causar dano oxidativo às hemácias e anemia hemolítica. Os humanos comem as variedades cultivadas desta planta como alimento há milênios em quantidades culinárias normais, embora comer uma grande quantidade de bulbo cru possa causar leve irritação estomacal."
+          },
+          "dog": {
+            "exposure": "Ingestão de bulbos, folhas, caules ou qualquer parte da planta.",
+            "effect": "Vômito, diarreia, letargia, fraqueza, gengivas pálidas e frequência cardíaca elevada.",
+            "note": "Todas as partes contêm compostos organossulfurados. Cães e gatos são especialmente sensíveis: comer qualquer parte pode causar dano oxidativo às hemácias e anemia hemolítica. Os humanos comem as variedades cultivadas desta planta como alimento há milênios em quantidades culinárias normais, embora comer uma grande quantidade de bulbo cru possa causar leve irritação estomacal.",
+            "symptoms": [
+              "Vômito.",
+              "Diarreia.",
+              "Letargia.",
+              "Fraqueza.",
+              "Gengivas pálidas.",
+              "Frequência cardíaca elevada."
+            ]
+          },
+          "cat": {
+            "exposure": "Ingestão de bulbos, folhas, caules ou qualquer parte da planta.",
+            "effect": "Vômito, diarreia, letargia, fraqueza, gengivas pálidas e frequência cardíaca elevada.",
+            "note": "Todas as partes contêm compostos organossulfurados. Cães e gatos são especialmente sensíveis: comer qualquer parte pode causar dano oxidativo às hemácias e anemia hemolítica. Os humanos comem as variedades cultivadas desta planta como alimento há milênios em quantidades culinárias normais, embora comer uma grande quantidade de bulbo cru possa causar leve irritação estomacal.",
+            "symptoms": [
+              "Vômito.",
+              "Diarreia.",
+              "Letargia.",
+              "Fraqueza.",
+              "Gengivas pálidas.",
+              "Frequência cardíaca elevada."
+            ]
+          }
+        }
+      }
+    },
+    "AAA1755": {
+      "source_hash": "272f98971f3409cbf4118be41305e6a172662e8e0fe8c1dfb8ccde3723c275ab",
+      "fields": {
+        "common_name": "Flor-de-fogo",
+        "bloom_tip": "Floresce de setembro a dezembro, produzindo flores coloridas e atraentes.",
+        "description": "A Flor-de-fogo é um arbusto tropical perene e frondoso, apreciado por suas folhas verde-escuras brilhantes com bordas suavemente onduladas e suas densas espigas de flores em forma de funil em tons de damasco, laranja e amarelo, que se abrem em fileiras sobrepostas como telhas. Nativa da Índia e do Sri Lanka, com formas aparentadas na África tropical, cresce como um subarbusto ereto de sessenta a noventa centímetros de altura, florescendo quase continuamente onde os invernos permanecem amenos. Em climas mais frios, prospera como planta de vaso ou estufa. Prefere meia-sombra a luz filtrada intensa e solo uniformemente úmido e bem drenado.",
+        "history_text_short": "No sul da Índia, esta planta é conhecida como Kanakambaram, suas flores laranja-douradas enfiadas em guirlandas junto com jasmim para o cabelo das mulheres e como oferendas em templos. Em outros lugares, recebeu o nome inglês de Firecracker Flower não por sua cor vibrante, mas por suas cápsulas de sementes, que estouram e lançam suas sementes quando molhadas.",
+        "history_text_long": "Muito antes de chegar às estufas da Europa, a Flor-de-fogo já fazia parte da vida cotidiana no sul da Índia, onde é chamada de Kanakambaram em tâmil e kanakambaramu em telugu, ambos os nomes remontando ao sânscrito kanaka, 'ouro'. Nos mercados de flores de Tamil Nadu, Karnataka e Kerala, os vendedores enfiam suas flores laranja-douradas junto com jasmim em tranças perfumadas, vendidas todas as manhãs para que as mulheres as usem no cabelo e os devotos as ofereçam nos santuários dos templos. Em casamentos do sul da Índia, guirlandas de Kanakambaram são amarradas no cabelo da noiva ao lado do jasmim, sua cor quente interpretada como um desejo de prosperidade e felicidade conjugal. O nome inglês da planta conta uma história muito diferente. Quando botânicos e jardineiros europeus a encontraram nos séculos dezoito e dezenove, ficaram impressionados menos com suas flores do que com suas cápsulas de sementes: cápsulas secas que, ao absorverem umidade da chuva ou do ar úmido, se abrem bruscamente com um pequeno estalo audível, lançando suas sementes para colonizar novo terreno. Esse pequeno drama mecânico, repetido ao longo da estação chuvosa, deu à planta seu nome comum em inglês, Firecracker Flower, 'flor de fogos de artifício', um nome que nada tem a ver com suas flores de tons quentes. Levada para estufas e depois para lares comuns como planta de vaso, tornou-se uma presença familiar, longe dos jardins indianos e dos caminhos de templos onde é cultivada e usada há gerações.",
+        "name_origin": "O nome do gênero Crossandra combina o grego krossos, 'franja', com aner, 'homem', em referência às anteras franjadas abrigadas dentro de cada flor; o nome da espécie infundibuliformis é o latim para 'em forma de funil', descrevendo o tubo da corola. No sul da Índia, onde a planta é especialmente querida, ela é conhecida como Kanakambaram em tâmil e kanakambaramu em telugu, do sânscrito kanaka, 'ouro', em referência às suas flores de um laranja dourado brilhante.",
+        "symbolism_story": "Por meio de sua longa tradição como Kanakambaram, enfiada em guirlandas para noivas, divindades de templos e manhãs comuns por todo o sul da Índia, a Flor-de-fogo passou a simbolizar o enfeite: aquele pequeno gesto deliberado de tornar algo, ou alguém, mais bonito.",
+        "flower_meaning": "Enfeite",
+        "uses_list": [
+          {
+            "text": "Suas flores laranja-douradas são tradicionalmente enfiadas em guirlandas com jasmim no sul da Índia, usadas no cabelo das mulheres e oferecidas em santuários de templos."
+          },
+          {
+            "text": "Uma planta de jardim e vaso popular, valorizada por sua floração quase contínua e folhagem brilhante e ondulada."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Enfeite",
+            "description": "Enfiada em guirlandas para noivas, divindades de templos e manhãs comuns por todo o sul da Índia, tornou-se inseparável do enfeite cotidiano e cerimonial."
+          }
+        ],
+        "toxicity": {
+          "headline": "Animais de estimação Seguro",
+          "active_compound_display": "Nenhum relatado",
+          "notes_en": "Nenhuma correspondência de fonte autorizada encontrada sobre toxicidade; portanto, tratada como não relatada (a estimativa por IA não é verificada por fontes).",
+          "human": {
+            "exposure": "Nenhuma via de exposição relatada.",
+            "effect": "Nenhum efeito tóxico relatado.",
+            "note": "Nenhuma toxicidade é relatada para humanos neste catálogo; isso não é evidência de que a planta seja comestível ou inofensiva."
+          },
+          "dog": {
+            "exposure": "Nenhuma via de exposição relatada.",
+            "effect": "Nenhum efeito tóxico relatado.",
+            "note": "Fontes autorizadas relatam esta planta como não tóxica para cães; isso não é evidência de que a planta seja comestível."
+          },
+          "cat": {
+            "exposure": "Nenhuma via de exposição relatada.",
+            "effect": "Nenhum efeito tóxico relatado.",
+            "note": "Fontes autorizadas relatam esta planta como não tóxica para gatos; isso não é evidência de que a planta seja comestível."
+          }
+        }
+      }
+    },
+    "AAA1756": {
+      "source_hash": "667b80833ae217a8c631bca72067289bdd1304a5c26839838deb080317007f7c",
+      "fields": {
+        "common_name": "Suillus",
+        "description": "O Suillus é um cogumelo boleto de tamanho médio que vive em estreita parceria com os pinheiros: seu micélio subterrâneo envolve as raízes do pinheiro para trocar minerais por açúcares. Seu chapéu é liso e marcadamente viscoso, variando do castanho-mel ao castanho-escuro, enquanto o pé carrega um anel membranoso tingido de violeta-púrpura. A superfície dos poros sob o chapéu começa amarelo-pálida e escurece com a idade. Frutifica do final do verão até o outono, muitas vezes em anéis sob as copas de coníferas, sobre solo coberto de agulhas, e acompanhou plantações de pinheiro por todo o mundo, já que pinheiros jovens têm dificuldade em se estabelecer sem esse parceiro fúngico.",
+        "history_text_short": "Descrito por Lineu em 1753 e posteriormente transferido para o gênero Suillus, este fungo viaja discretamente junto com os pinheiros. Quando as plantações de pinheiro se expandiram muito além da Europa no século XX, florestais enviaram solo carregado de seus esporos para ajudar mudas de pinheiro transplantadas a enraizar em terreno desconhecido.",
+        "history_text_long": "O Suillus foi um dos fungos que Carl Lineu catalogou em 1753, nomeando-o Boletus luteus antes que micologistas posteriores o transferissem para o gênero Suillus. Durante a maior parte de sua história, ele simplesmente seguiu os pinheiros pelas florestas da Europa, seus esporos levados pelo vento, pela chuva e pelos cascos de animais em busca de alimento até qualquer pedaço de terra onde uma muda de pinheiro enraizasse. Essa parceria discreta tornou-se visível no século XX, quando florestais começaram a plantar pinheiros bem longe de sua área de origem, em lugares como Nova Zelândia, Chile e África do Sul, para fornecer madeira de crescimento rápido. As mudas chegavam, mas as árvores não se desenvolviam bem. Cientistas do solo acabaram rastreando a falha a um parceiro ausente: sem um fungo ectomicorrízico como este envolvendo suas raízes, os pinheiros não conseguiam absorver água e minerais suficientes de um solo desconhecido. Os florestais passaram a enviar sacos de folhiço e solo superficial de povoamentos de pinheiro já estabelecidos na Europa para inocular as novas plantações, levando os esporos do fungo através dos oceanos junto com as próprias árvores. Em poucas estações, os pinheiros das novas plantações cresceram visivelmente melhor, e anéis dourados desse fungo de chapéu viscoso começaram a aparecer em solos florestais que nunca tinham visto uma conífera.",
+        "name_origin": "O nome do gênero Suillus vem do latim para 'porco', em referência ao chapéu liso e de aparência gordurosa do fungo, enquanto luteus significa 'amarelo', descrevendo a cor de sua superfície porosa. Como não há um nome popular consolidado em português para esta espécie, ela é conhecida pelo próprio nome do gênero, Suillus.",
+        "symbolism_story": "Por viver inteiramente sob a terra, enroscado nas raízes de seu pinheiro hospedeiro, o Suillus passou a representar uma parceria discreta e invisível, um lembrete de que algumas das alianças mais essenciais não deixam nenhum rastro visível.",
+        "flower_meaning": "Parceria",
+        "uses_list": [
+          {
+            "text": "Utilizado por florestais para inocular as raízes de mudas de pinheiro, ajudando novas plantações a se estabelecerem em regiões sem fungos parceiros nativos."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Parceria",
+            "description": "Sua aliança subterrânea invisível com as raízes do pinheiro o torna um emblema natural de cooperação mútua e apoio oculto."
+          }
+        ],
+        "toxicity": {
+          "headline": "Toxicidade desconhecida",
+          "active_compound_display": "Nenhum relatado",
+          "notes_en": "A toxicidade deste cogumelo não foi verificada. Muitos cogumelos venenosos são quase idênticos a cogumelos comestíveis. Nunca coma nenhum cogumelo com base apenas neste aplicativo.",
+          "human": {
+            "exposure": "Nenhuma via de exposição relatada.",
+            "effect": "Nenhum efeito tóxico relatado.",
+            "note": "A toxicidade deste cogumelo não foi verificada. Muitos cogumelos venenosos são quase idênticos a cogumelos comestíveis. Nunca coma nenhum cogumelo com base apenas neste aplicativo."
+          },
+          "dog": {
+            "exposure": "Nenhuma via de exposição relatada.",
+            "effect": "Nenhum efeito tóxico relatado.",
+            "note": "Não foram encontrados relatos específicos para cães. Trate qualquer cogumelo selvagem como potencialmente tóxico para animais de estimação e contate um veterinário após qualquer ingestão."
+          },
+          "cat": {
+            "exposure": "Nenhuma via de exposição relatada.",
+            "effect": "Nenhum efeito tóxico relatado.",
+            "note": "Não foram encontrados relatos específicos para gatos. Trate qualquer cogumelo selvagem como potencialmente tóxico para animais de estimação e contate um veterinário após qualquer ingestão."
           }
         }
       }

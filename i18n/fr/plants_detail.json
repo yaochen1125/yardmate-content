@@ -3,8 +3,8 @@
   "locale": "fr",
   "source": {
     "resource": "plants_detail.json",
-    "sha256": "b87badad80348f51a282ee949e5ab640e0646ef10bf5c5805f351e569df7684d",
-    "record_count": 1752
+    "sha256": "4c8594b072c53f4816e88c7f74bbbbdf4a01350173522f638f49a74e6e175f6f",
+    "record_count": 1755
   },
   "records": {
     "AAA0001": {
@@ -107195,6 +107195,162 @@
             "exposure": "Aucune voie d'exposition signalée.",
             "effect": "Aucun effet toxique signalé.",
             "note": "La toxicité pour les chats n'est pas bien documentée ; utilisez avec prudence jusqu'à vérification."
+          }
+        }
+      }
+    },
+    "AAA1754": {
+      "source_hash": "afeb541d8bdf48d7832b42699bb5a7116ab443c757c1871a25a17509d12fdc82",
+      "fields": {
+        "common_name": "Poireau sauvage à larges feuilles",
+        "bloom_tip": "Les fleurs de cette plante s'épanouissent de mai à juillet, offrant de magnifiques floraisons.",
+        "description": "Le Poireau sauvage à larges feuilles est l'ancêtre sauvage dont les jardiniers ont fini par tirer, par sélection, le poireau, l'ail éléphant, le kurrat et l'oignon perlé, à partir d'une seule espèce particulièrement adaptable. De son bulbe papyracé s'élève une tige florale robuste, couronnée d'une ombelle dense et arrondie de petites fleurs étoilées blanches à violettes, parfois plus d'une centaine regroupées en une seule boule. Ses feuilles larges, en forme de ruban, gris-vert, s'étalent à la base et dégagent une odeur légèrement ailliacée lorsqu'on les froisse. Originaire des collines méditerranéennes et du sud-ouest de l'Asie, il prospère en plein soleil et en sol bien drainé, tolère la sécheresse et les sols pauvres, et se ressème volontiers le long des routes.",
+        "history_text_short": "Bien avant de porter un nom de culture, ce poireau sauvage méditerranéen poussait sur les coteaux et en bordure de vignes. Au fil de siècles de sélection, les paysans en ont tiré plusieurs cultures distinctes : le poireau, l'ail éléphant, le kurrat et l'oignon perlé, chacune issue d'une sélection favorisant une partie différente de la même plante sauvage.",
+        "history_text_long": "Le Poireau sauvage à larges feuilles poussait à l'état sauvage sur les coteaux rocailleux et en bordure des vignobles du bassin méditerranéen et du sud-ouest de l'Asie, bien avant de devenir la culture de qui que ce soit. Des paysans d'Égypte ancienne et du Proche-Orient ont commencé à le récolter, et les premiers poireaux apparaissent gravés sur des bas-reliefs de tombeaux égyptiens, et figurent parmi les rations distribuées aux bâtisseurs des pyramides. À mesure que sa culture se répandait en Grèce puis à Rome, des cultivateurs de différentes régions ont continué à sélectionner cette même espèce sauvage selon des critères différents. Certains ont privilégié les plants à la base de tige épaisse et tendre, blanchie sous un buttage de terre, donnant naissance au poireau moderne. D'autres ont sélectionné un bulbe surdimensionné se divisant en une poignée de grosses gousses, à l'origine de ce qui se vend aujourd'hui sous le nom d'ail éléphant, bien qu'il ne s'agisse pas d'un véritable ail. En Égypte, les paysans appréciaient les larges feuilles elles-mêmes, les coupant à répétition comme de la ciboulette pour produire le kurrat. D'autres encore ont sélectionné des plants formant des touffes serrées de petits bulbes, à l'origine de l'oignon perlé. À travers toutes ces voies divergentes, l'espèce sauvage elle-même n'a jamais disparu, continuant de pousser discrètement le long des routes et sur les terrains perturbés, visitée par les abeilles attirées par ses inflorescences en boule, largement ignorée comme ancêtre de cultures que l'on retrouve aujourd'hui dans les cuisines du monde entier.",
+        "name_origin": "Le nom de genre Allium est le mot latin classique pour l'ail, tandis qu'ampeloprasum associe le grec ampelos, 'vigne', et prason, 'poireau', littéralement 'poireau des vignes' — un clin d'œil à la facilité avec laquelle cette espèce sauvage se trouvait dans les vignobles méditerranéens. Le nom français 'Poireau sauvage à larges feuilles' décrit simplement ses feuilles particulièrement larges.",
+        "symbolism_story": "En tant que seule plante sauvage dont sont issus le poireau, l'ail éléphant, le kurrat et l'oignon perlé, le Poireau sauvage à larges feuilles en est venu à représenter l'idée d'une racine commune : la preuve qu'une immense diversité peut descendre d'un seul ancêtre discrètement adaptable.",
+        "flower_meaning": "Racine commune",
+        "fragrance": {
+          "notes": "Une odeur légèrement ailliacée lorsque les feuilles ou le bulbe sont froissés."
+        },
+        "uses_list": [
+          {
+            "text": "L'ancêtre sauvage du poireau, de l'ail éléphant, du kurrat et de l'oignon perlé ; son bulbe et ses feuilles sont récoltés et consommés depuis l'Antiquité."
+          },
+          {
+            "text": "Ses inflorescences denses en forme de boule sont riches en nectar et attirent les abeilles et autres insectes pollinisateurs à la fin du printemps et en été."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Racine commune",
+            "description": "En tant que seule plante sauvage à l'origine du poireau, de l'ail éléphant, du kurrat et de l'oignon perlé, elle symbolise l'idée qu'une grande diversité peut naître d'un seul ancêtre discrètement adaptable."
+          }
+        ],
+        "toxicity": {
+          "headline": "Humains Modéré · Animaux Toxique",
+          "active_compound_display": "N-propyl disulfure et thiosulfates",
+          "notes_en": "Toutes les parties contiennent des composés organosulfurés. Les chiens et les chats y sont particulièrement sensibles : en consommer n'importe quelle partie peut provoquer des dommages oxydatifs aux globules rouges et une anémie hémolytique. Les humains consomment les variétés cultivées de cette plante depuis des millénaires en quantités culinaires normales, mais manger une grande quantité de bulbe cru peut provoquer une légère irritation gastrique.",
+          "human": {
+            "exposure": "Partie de plante non précisée.",
+            "effect": "Des effets toxiques sont rapportés, mais aucun signe précis n'est répertorié.",
+            "note": "Toutes les parties contiennent des composés organosulfurés. Les chiens et les chats y sont particulièrement sensibles : en consommer n'importe quelle partie peut provoquer des dommages oxydatifs aux globules rouges et une anémie hémolytique. Les humains consomment les variétés cultivées de cette plante depuis des millénaires en quantités culinaires normales, mais manger une grande quantité de bulbe cru peut provoquer une légère irritation gastrique."
+          },
+          "dog": {
+            "exposure": "Consommation des bulbes, feuilles, tiges, ou de toute partie de la plante.",
+            "effect": "Vomissements, diarrhée, léthargie, faiblesse, gencives pâles et fréquence cardiaque élevée.",
+            "note": "Toutes les parties contiennent des composés organosulfurés. Les chiens et les chats y sont particulièrement sensibles : en consommer n'importe quelle partie peut provoquer des dommages oxydatifs aux globules rouges et une anémie hémolytique. Les humains consomment les variétés cultivées de cette plante depuis des millénaires en quantités culinaires normales, mais manger une grande quantité de bulbe cru peut provoquer une légère irritation gastrique.",
+            "symptoms": [
+              "Vomissements.",
+              "Diarrhée.",
+              "Léthargie.",
+              "Faiblesse.",
+              "Gencives pâles.",
+              "Fréquence cardiaque élevée."
+            ]
+          },
+          "cat": {
+            "exposure": "Consommation des bulbes, feuilles, tiges, ou de toute partie de la plante.",
+            "effect": "Vomissements, diarrhée, léthargie, faiblesse, gencives pâles et fréquence cardiaque élevée.",
+            "note": "Toutes les parties contiennent des composés organosulfurés. Les chiens et les chats y sont particulièrement sensibles : en consommer n'importe quelle partie peut provoquer des dommages oxydatifs aux globules rouges et une anémie hémolytique. Les humains consomment les variétés cultivées de cette plante depuis des millénaires en quantités culinaires normales, mais manger une grande quantité de bulbe cru peut provoquer une légère irritation gastrique.",
+            "symptoms": [
+              "Vomissements.",
+              "Diarrhée.",
+              "Léthargie.",
+              "Faiblesse.",
+              "Gencives pâles.",
+              "Fréquence cardiaque élevée."
+            ]
+          }
+        }
+      }
+    },
+    "AAA1755": {
+      "source_hash": "272f98971f3409cbf4118be41305e6a172662e8e0fe8c1dfb8ccde3723c275ab",
+      "fields": {
+        "common_name": "Crossandre en entonnoir",
+        "bloom_tip": "Fleurit de septembre à décembre, produisant des fleurs colorées et attrayantes.",
+        "description": "La Crossandre en entonnoir est un arbuste tropical persistant et touffu, apprécié pour son feuillage vert foncé brillant aux bords légèrement ondulés et ses épis denses de fleurs en forme d'entonnoir dans des tons d'abricot, d'orange et de jaune, s'ouvrant en rangées superposées comme des tuiles. Originaire d'Inde et du Sri Lanka, avec des formes apparentées en Afrique tropicale, elle pousse en sous-arbrisseau dressé de soixante à quatre-vingt-dix centimètres, fleurissant presque continuellement là où les hivers restent doux. Sous climat plus frais, elle prospère en pot ou en serre. Elle préfère la mi-ombre à la lumière vive filtrée et un sol uniformément humide et bien drainé.",
+        "history_text_short": "En Inde du Sud, cette plante est connue sous le nom de Kanakambaram, ses fleurs orange doré enfilées en guirlandes avec le jasmin pour orner les cheveux des femmes et pour les offrandes aux temples. Ailleurs, elle a reçu le nom anglais de Firecracker Flower non pour sa couleur éclatante, mais pour ses capsules de graines qui éclatent et projettent leurs graines une fois mouillées.",
+        "history_text_long": "Bien avant d'atteindre les serres d'Europe, la Crossandre en entonnoir faisait déjà partie du quotidien de l'Inde du Sud, où on l'appelle Kanakambaram en tamoul et kanakambaramu en télougou, deux noms remontant au sanskrit kanaka, 'or'. Sur les marchés aux fleurs du Tamil Nadu, du Karnataka et du Kerala, les vendeurs enfilent ses fleurs orange doré avec du jasmin en longs chapelets parfumés, vendus chaque matin pour que les femmes les portent dans leurs cheveux et que les fidèles les offrent dans les sanctuaires. Lors des mariages d'Inde du Sud, des guirlandes de Kanakambaram sont nouées dans les cheveux de la mariée aux côtés du jasmin, leur couleur chaude étant lue comme un vœu de prospérité et de bonheur conjugal. Le nom anglais de la plante raconte une tout autre histoire. Lorsque les botanistes et jardiniers européens la découvrirent aux dix-huitième et dix-neuvième siècles, ils furent moins frappés par ses fleurs que par ses capsules de graines : des capsules sèches qui, en absorbant l'humidité de la pluie ou de l'air humide, s'ouvrent brusquement avec un petit claquement audible, projetant leurs graines pour coloniser un nouveau terrain. Ce petit drame mécanique, répété tout au long de la saison des pluies, valut à la plante son nom commun anglais, Firecracker Flower, 'fleur pétard', un nom qui n'a rien à voir avec ses fleurs aux teintes chaudes. Transportée dans les serres chaudes puis dans les foyers ordinaires comme plante en pot, elle est devenue un spectacle familier, loin des jardins indiens et des chemins de temple où elle est cultivée et portée depuis des générations.",
+        "name_origin": "Le nom de genre Crossandra associe le grec krossos, 'frange', à aner, 'homme', en référence aux anthères frangées nichées à l'intérieur de chaque fleur ; le nom d'espèce infundibuliformis est le latin pour 'en forme d'entonnoir', décrivant le tube de la corolle. En Inde du Sud, où la plante est particulièrement appréciée, elle est connue sous le nom de Kanakambaram en tamoul et kanakambaramu en télougou, du sanskrit kanaka, 'or', en référence à ses fleurs d'un orange doré éclatant.",
+        "symbolism_story": "Par sa longue tradition de Kanakambaram, enfilée en guirlandes pour les mariées, les divinités des temples et les matins ordinaires partout en Inde du Sud, la Crossandre en entonnoir en est venue à symboliser la parure : ce geste modeste et délibéré de rendre quelque chose, ou quelqu'un, plus beau.",
+        "flower_meaning": "Parure",
+        "uses_list": [
+          {
+            "text": "Ses fleurs orange doré sont traditionnellement enfilées en guirlandes avec le jasmin en Inde du Sud, portées dans les cheveux des femmes et offertes dans les sanctuaires."
+          },
+          {
+            "text": "Une plante de jardin et de pot appréciée pour sa floraison quasi continue et son feuillage brillant et ondulé."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Parure",
+            "description": "Enfilée en guirlandes pour les mariées, les divinités des temples et les matins ordinaires partout en Inde du Sud, elle est devenue indissociable de la parure quotidienne et cérémonielle."
+          }
+        ],
+        "toxicity": {
+          "headline": "Animaux Sûr",
+          "active_compound_display": "Aucun signalé",
+          "notes_en": "Aucune correspondance faisant autorité trouvée concernant la toxicité ; donc considérée comme non signalée (l'estimation par IA n'est pas vérifiée par une source).",
+          "human": {
+            "exposure": "Aucune voie d'exposition signalée.",
+            "effect": "Aucun effet toxique signalé.",
+            "note": "Aucune toxicité n'est signalée pour les humains dans ce catalogue ; cela ne prouve pas que la plante est comestible ou inoffensive."
+          },
+          "dog": {
+            "exposure": "Aucune voie d'exposition signalée.",
+            "effect": "Aucun effet toxique signalé.",
+            "note": "Des sources faisant autorité signalent que cette plante est non toxique pour les chiens ; cela ne prouve pas que la plante est comestible."
+          },
+          "cat": {
+            "exposure": "Aucune voie d'exposition signalée.",
+            "effect": "Aucun effet toxique signalé.",
+            "note": "Des sources faisant autorité signalent que cette plante est non toxique pour les chats ; cela ne prouve pas que la plante est comestible."
+          }
+        }
+      }
+    },
+    "AAA1756": {
+      "source_hash": "667b80833ae217a8c631bca72067289bdd1304a5c26839838deb080317007f7c",
+      "fields": {
+        "common_name": "Nonnette voilée",
+        "description": "La Nonnette voilée est un bolet de taille moyenne qui vit en étroite association avec les pins : son mycélium souterrain enveloppe les racines des pins pour échanger des minéraux contre des sucres. Son chapeau est lisse et remarquablement visqueux, allant du brun miel au châtain, tandis que le pied porte un anneau membraneux teinté de violet pourpré, le voile qui lui vaut son nom. La surface des pores sous le chapeau est d'abord jaune pâle, puis s'assombrit avec l'âge. Elle fructifie de la fin de l'été à l'automne, souvent en cercles sous les frondaisons de conifères, sur un sol couvert d'aiguilles, et a suivi les plantations de pins à travers le monde, les jeunes pins ayant du mal à s'établir sans ce partenaire fongique.",
+        "history_text_short": "Décrite par Linné en 1753 puis déplacée dans le genre Suillus, la Nonnette voilée accompagne discrètement les pins. Lorsque les plantations de pins se sont répandues bien au-delà de l'Europe au XXe siècle, des forestiers ont expédié de la terre porteuse de ses spores pour aider les jeunes pins transplantés à s'enraciner en terrain inconnu.",
+        "history_text_long": "La Nonnette voilée fut l'un des champignons que Carl Linné catalogua en 1753, la nommant Boletus luteus avant que des mycologues ultérieurs ne la déplacent dans le genre Suillus. Pendant la plus grande partie de son histoire, elle a simplement suivi les pins à travers les forêts d'Europe, ses spores portées par le vent, la pluie et les sabots des animaux en quête de nourriture jusqu'à tout coin de terre où une jeune pousse de pin prenait racine. Ce partenariat discret est devenu visible au XXe siècle, lorsque des forestiers ont commencé à planter des pins loin de leur aire d'origine, dans des endroits comme la Nouvelle-Zélande, le Chili et l'Afrique du Sud, pour fournir du bois à croissance rapide. Les jeunes plants arrivaient, mais les arbres ne prospéraient pas. Les pédologues ont fini par attribuer cet échec à l'absence d'un partenaire : sans un champignon ectomycorhizien comme la Nonnette voilée enroulé autour de leurs racines, les pins ne pouvaient pas puiser assez d'eau et de minéraux dans un sol étranger. Les forestiers ont alors commencé à expédier des sacs de litière et de terre de surface provenant de peuplements de pins établis en Europe pour inoculer les nouvelles plantations, transportant les spores du champignon à travers les océans en même temps que les arbres eux-mêmes. En quelques saisons, les pins des nouvelles plantations ont nettement mieux poussé, et des cercles dorés de ce champignon au chapeau visqueux ont commencé à apparaître sur des sols forestiers qui n'avaient jamais vu de conifère auparavant.",
+        "name_origin": "Le nom de genre Suillus vient du latin désignant le 'porc', en référence au chapeau lisse et d'aspect gras du champignon, tandis que luteus signifie 'jaune', décrivant la couleur de sa surface poreuse. Le nom français 'Nonnette voilée' évoque l'anneau membraneux violacé qui entoure le pied comme un voile.",
+        "symbolism_story": "Parce qu'elle vit entièrement sous terre, enroulée autour des racines de son pin hôte, la Nonnette voilée est devenue le symbole d'un partenariat discret et invisible, un rappel que certaines des alliances les plus essentielles ne laissent aucune trace visible.",
+        "flower_meaning": "Partenariat",
+        "uses_list": [
+          {
+            "text": "Utilisée par les forestiers pour inoculer les racines des jeunes pins, aidant les nouvelles plantations à s'établir dans des régions sans champignons partenaires indigènes."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Partenariat",
+            "description": "Son alliance souterraine invisible avec les racines des pins en fait un emblème naturel de coopération mutuelle et de soutien discret."
+          }
+        ],
+        "toxicity": {
+          "headline": "Toxicité inconnue",
+          "active_compound_display": "Aucun signalé",
+          "notes_en": "La toxicité de ce champignon n'a pas été vérifiée. Beaucoup de champignons toxiques ressemblent presque exactement à des champignons comestibles. Ne mangez jamais un champignon sur la seule base de cette application.",
+          "human": {
+            "exposure": "Aucune voie d'exposition signalée.",
+            "effect": "Aucun effet toxique signalé.",
+            "note": "La toxicité de ce champignon n'a pas été vérifiée. Beaucoup de champignons toxiques ressemblent presque exactement à des champignons comestibles. Ne mangez jamais un champignon sur la seule base de cette application."
+          },
+          "dog": {
+            "exposure": "Aucune voie d'exposition signalée.",
+            "effect": "Aucun effet toxique signalé.",
+            "note": "Aucun signalement spécifique aux chiens n'a été trouvé. Traitez tout champignon sauvage comme potentiellement toxique pour les animaux et contactez un vétérinaire après toute ingestion."
+          },
+          "cat": {
+            "exposure": "Aucune voie d'exposition signalée.",
+            "effect": "Aucun effet toxique signalé.",
+            "note": "Aucun signalement spécifique aux chats n'a été trouvé. Traitez tout champignon sauvage comme potentiellement toxique pour les animaux et contactez un vétérinaire après toute ingestion."
           }
         }
       }
