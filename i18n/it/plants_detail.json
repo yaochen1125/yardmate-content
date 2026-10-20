@@ -3,8 +3,8 @@
   "locale": "it",
   "source": {
     "resource": "plants_detail.json",
-    "sha256": "d8f0a9ed97a29f0efaf7ff90c869c25980ca9bfffe9c8f8df14455b8cce5aa9e",
-    "record_count": 1756
+    "sha256": "0eb240b67b9b735fba75f1f1ba48895aaea0f157f2a5ceb6889d2d1933f63e0c",
+    "record_count": 1757
   },
   "records": {
     "AAA0001": {
@@ -107413,6 +107413,77 @@
             "exposure": "Non è segnalata alcuna via di esposizione.",
             "effect": "Non è segnalato alcun effetto tossico.",
             "note": "In questo catalogo non è segnalata tossicità per i gatti; ciò non costituisce prova che la pianta sia commestibile o innocua."
+          }
+        }
+      }
+    },
+    "AAA1758": {
+      "source_hash": "e8963449e6b9305c2a71616663c399bcb4dff56f71f4983baf20bdfb6a11c09e",
+      "fields": {
+        "common_name": "Rododendro nano",
+        "bloom_tip": "Questa azalea fiorisce tipicamente tra maggio e agosto, con fiori vivaci.",
+        "description": "Il Rododendro nano è un arbusto sempreverde compatto, a crescita lenta, originario degli alti ghiaioni alpini di Yunnan e Sichuan, in Cina. Raramente più alto di trenta centimetri, forma un cuscino denso di minuscole foglie coriacee, verde-grigiastre, cosparse di squame aromatiche. In primavera l'intera pianta scompare quasi sotto una fioritura di piccoli fiori a imbuto, viola o lavanda. Soddisfatto di un terreno acido ben drenato e di radici fresche, prospera in giardini rocciosi, vasche e bordure ombreggiate dove rododendri più grandi occuperebbero troppo spazio.",
+        "history_text_short": "Il suo nome, impeditum, in latino significa 'intricato' — il cacciatore di piante George Forrest trovò questo rododendro nano così aggrovigliato nel ghiaione roccioso dello Yunnan che gli esemplari dovevano essere liberati pietra dopo pietra. Divenne poi genitore di molti ibridi nani di rododendro dai fiori viola coltivati oggi.",
+        "history_text_long": "L'epiteto impeditum in latino significa 'intricato' o 'ostacolato', e descrive esattamente il problema che il Rododendro nano diede al cacciatore di piante scozzese George Forrest quando lo raccolse sui ghiaioni alpini battuti dal vento dello Yunnan, in Cina, all'inizio del XX secolo. Salendo oltre i 3.000 metri, nell'aria rarefatta e fredda vicino alle catene di Lijiang e Cangshan, Forrest trovò interi pendii di roccia sciolta tenuti insieme da questo arbusto basso e filiforme, i cui rami si intrecciavano così densamente con le piante vicine e con il ghiaione stesso che gli esemplari non potevano essere semplicemente sollevati; radici e steli dovevano essere liberati pietra dopo pietra, un compito lento e faticoso a quell'altitudine. Forrest spedì semi al Royal Botanic Garden di Edimburgo e a vivai britannici, dove la piccola pianta alpina si rivelò molto più rustica e degna di un giardino di quanto il suo portamento aggrovigliato suggerisse. I coltivatori sfruttarono il suo portamento compatto e i suoi vivaci fiori viola, incrociando il Rododendro nano con specie nane affini come Rhododendron fastigiatum per produrre un'intera classe di rododendri ibridi a foglia piccola e fioritura precoce, ancora apprezzati oggi nei giardini rocciosi. Nel suo areale nativo, sopravvive esattamente dove fu trovato: aggrappato a ghiaioni e morene esposti sopra il limite della vegetazione arborea, basso contro venti che squarcerebbero un arbusto più alto, il suo fitto groviglio di crescita è proprio il tratto che gli diede il nome e, infine, la sua fama nei giardini.",
+        "name_origin": "Il nome della specie, impeditum, in latino significa 'intricato' o 'ostacolato', riferendosi ai rami filiformi e densamente intrecciati dell'arbusto, che rendevano difficile per i primi raccoglitori di piante estrarlo intatto dal ghiaione alpino roccioso.",
+        "symbolism_story": "Radicato in ghiaioni alpini esposti e battuti dal vento, dove pochi altri arbusti sopravvivono, il Rododendro nano è diventato un discreto emblema di resilienza — la forza di prosperare su un terreno duro e inflessibile anziché su una terra soffice e riparata.",
+        "flower_meaning": "Resilienza",
+        "fragrance": {
+          "notes": "Le foglie coriacee emanano un leggero profumo resinoso se strofinate o schiacciate; i piccoli fiori di per sé non sono particolarmente profumati."
+        },
+        "uses_list": [
+          {
+            "text": "Un sempreverde compatto, apprezzato per giardini rocciosi, vasche e bordure dove rododendri più grandi occuperebbero troppo spazio."
+          },
+          {
+            "text": "I suoi fiori primaverili attirano le prime api in cerca di nettare nel giardino alpino."
+          },
+          {
+            "text": "Le foglie coriacee emanano un leggero profumo resinoso se strofinate."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Resilienza",
+            "description": "La sua capacità di prosperare in un terreno alpino roccioso e ventoso, dove pochi altri arbusti sopravvivono, ha reso il Rododendro nano un discreto emblema di resilienza e resistenza."
+          }
+        ],
+        "toxicity": {
+          "headline": "Umani: moderato · Animali domestici: tossico",
+          "active_compound_display": "grayanotossine",
+          "notes_en": "Tutte le parti contengono grayanotossine che alterano i canali del sodio; l'ingestione può causare sintomi cardiaci e neurologici in persone e animali domestici.",
+          "human": {
+            "exposure": "Ingestione di foglie e fiori.",
+            "effect": "Nausea, vomito, bassa pressione sanguigna e ritmo cardiaco irregolare.",
+            "note": "Tutte le parti contengono grayanotossine che alterano i canali del sodio; l'ingestione può causare sintomi cardiaci e neurologici in persone e animali domestici.",
+            "symptoms": [
+              "Nausea.",
+              "Vomito.",
+              "Bassa pressione sanguigna.",
+              "Ritmo cardiaco irregolare."
+            ]
+          },
+          "dog": {
+            "exposure": "Ingestione di foglie e fiori.",
+            "effect": "Vomito, diarrea, debolezza e battito cardiaco anomalo.",
+            "note": "Tutte le parti contengono grayanotossine che alterano i canali del sodio; l'ingestione può causare sintomi cardiaci e neurologici in persone e animali domestici.",
+            "symptoms": [
+              "Vomito.",
+              "Diarrea.",
+              "Debolezza.",
+              "Battito cardiaco anomalo."
+            ]
+          },
+          "cat": {
+            "exposure": "Ingestione di foglie e fiori.",
+            "effect": "Vomito, diarrea, debolezza e battito cardiaco anomalo.",
+            "note": "Tutte le parti contengono grayanotossine che alterano i canali del sodio; l'ingestione può causare sintomi cardiaci e neurologici in persone e animali domestici.",
+            "symptoms": [
+              "Vomito.",
+              "Diarrea.",
+              "Debolezza.",
+              "Battito cardiaco anomalo."
+            ]
           }
         }
       }

@@ -3,8 +3,8 @@
   "locale": "fr",
   "source": {
     "resource": "plants_detail.json",
-    "sha256": "d8f0a9ed97a29f0efaf7ff90c869c25980ca9bfffe9c8f8df14455b8cce5aa9e",
-    "record_count": 1756
+    "sha256": "0eb240b67b9b735fba75f1f1ba48895aaea0f157f2a5ceb6889d2d1933f63e0c",
+    "record_count": 1757
   },
   "records": {
     "AAA0001": {
@@ -107399,6 +107399,77 @@
             "exposure": "Aucune voie d'exposition n'est signalée.",
             "effect": "Aucun effet toxique n'est signalé.",
             "note": "Aucune toxicité n'est signalée pour les chats dans ce catalogue ; cela ne prouve pas que la plante soit comestible ou inoffensive."
+          }
+        }
+      }
+    },
+    "AAA1758": {
+      "source_hash": "e8963449e6b9305c2a71616663c399bcb4dff56f71f4983baf20bdfb6a11c09e",
+      "fields": {
+        "common_name": "Rhododendron nain",
+        "bloom_tip": "Cette azalée fleurit généralement entre mai et août, avec des fleurs éclatantes.",
+        "description": "Le Rhododendron nain est un arbuste persistant, compact et à croissance lente, originaire des éboulis alpins de haute altitude du Yunnan et du Sichuan, en Chine. Dépassant rarement trente centimètres, il forme un coussin dense de minuscules feuilles coriaces, vert grisâtre, couvertes d'écailles aromatiques. Au printemps, la plante entière disparaît presque sous une profusion de petites fleurs en entonnoir, violettes à lavande. Satisfait d'un sol acide et bien drainé et de racines fraîches, il prospère dans les rocailles, les auges et les massifs ombragés où de plus grands rhododendrons envahiraient l'espace.",
+        "history_text_short": "Son nom, impeditum, signifie « emmêlé » en latin — le chasseur de plantes George Forrest trouva ce rhododendron nain si enchevêtré dans les éboulis rocheux du Yunnan qu'il fallait libérer les spécimens pierre par pierre. Il devint plus tard le parent de nombreux hybrides nains de rhododendron à fleurs violettes cultivés aujourd'hui.",
+        "history_text_long": "L'épithète impeditum signifie « emmêlé » ou « entravé » en latin, et décrit exactement la difficulté que le Rhododendron nain donna au botaniste écossais George Forrest lorsqu'il le récolta sur les éboulis alpins balayés par le vent du Yunnan, en Chine, au début du vingtième siècle. Grimpant au-delà de 3 000 mètres dans l'air raréfié et froid, près des chaînes de Lijiang et du Cangshan, Forrest trouva des pentes entières de roches meubles maintenues ensemble par cet arbuste bas et filiforme, dont les branches s'entrelaçaient si densément avec les plantes voisines et avec les éboulis eux-mêmes que les spécimens ne pouvaient être simplement soulevés ; racines et tiges devaient être libérées pierre par pierre, une tâche lente et pénible à cette altitude. Forrest envoya des graines au Jardin botanique royal d'Édimbourg et à des pépinières britanniques, où la petite plante alpine se révéla bien plus rustique et digne d'un jardin que son allure emmêlée ne le laissait supposer. Les horticulteurs s'emparèrent de son port compact et de ses fleurs violettes éclatantes, croisant le Rhododendron nain avec des espèces naines apparentées telles que Rhododendron fastigiatum pour produire toute une classe d'hybrides de rhododendrons à petites feuilles et à floraison précoce, encore prisés aujourd'hui dans les rocailles. Dans son aire d'origine, il survit exactement là où il fut trouvé : accroché aux éboulis et moraines exposés au-dessus de la limite des arbres, tapi contre des vents qui déchiqueteraient un arbuste plus haut, son enchevêtrement dense étant précisément ce qui lui valut son nom et, finalement, sa renommée au jardin.",
+        "name_origin": "Le nom d'espèce impeditum signifie « emmêlé » ou « entravé » en latin, en référence aux branches filiformes et densément enchevêtrées de l'arbuste, qui rendaient difficile son extraction intacte des éboulis alpins rocheux par les premiers collecteurs de plantes.",
+        "symbolism_story": "Enraciné dans des éboulis alpins exposés et balayés par le vent, où peu d'autres arbustes survivent, le Rhododendron nain est devenu un symbole discret de résilience — la force de s'épanouir sur un sol dur et inflexible plutôt que sur une terre douce et abritée.",
+        "flower_meaning": "Résilience",
+        "fragrance": {
+          "notes": "Les feuilles coriaces dégagent un léger parfum résineux lorsqu'on les froisse ou les écrase ; les petites fleurs elles-mêmes ne sont pas particulièrement parfumées."
+        },
+        "uses_list": [
+          {
+            "text": "Un persistant compact, prisé pour les rocailles, les auges et les bordures de massifs où de plus grands rhododendrons envahiraient l'espace."
+          },
+          {
+            "text": "Ses fleurs printanières attirent les premières abeilles en quête de nectar dans le jardin alpin."
+          },
+          {
+            "text": "Les feuilles coriaces dégagent un léger parfum résineux lorsqu'on les froisse."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Résilience",
+            "description": "Sa capacité à prospérer dans un terrain alpin rocailleux et venteux, où peu d'autres arbustes survivent, a fait du Rhododendron nain un discret emblème de résilience et d'endurance."
+          }
+        ],
+        "toxicity": {
+          "headline": "Humains : modéré · Animaux : toxique",
+          "active_compound_display": "grayanotoxines",
+          "notes_en": "Toutes les parties contiennent des grayanotoxines qui perturbent les canaux sodiques ; l'ingestion peut provoquer des symptômes cardiaques et neurologiques chez les personnes et les animaux de compagnie.",
+          "human": {
+            "exposure": "Ingestion de feuilles et de fleurs.",
+            "effect": "Nausées, vomissements, hypotension et rythme cardiaque irrégulier.",
+            "note": "Toutes les parties contiennent des grayanotoxines qui perturbent les canaux sodiques ; l'ingestion peut provoquer des symptômes cardiaques et neurologiques chez les personnes et les animaux de compagnie.",
+            "symptoms": [
+              "Nausées.",
+              "Vomissements.",
+              "Hypotension.",
+              "Rythme cardiaque irrégulier."
+            ]
+          },
+          "dog": {
+            "exposure": "Ingestion de feuilles et de fleurs.",
+            "effect": "Vomissements, diarrhée, faiblesse et rythme cardiaque anormal.",
+            "note": "Toutes les parties contiennent des grayanotoxines qui perturbent les canaux sodiques ; l'ingestion peut provoquer des symptômes cardiaques et neurologiques chez les personnes et les animaux de compagnie.",
+            "symptoms": [
+              "Vomissements.",
+              "Diarrhée.",
+              "Faiblesse.",
+              "Rythme cardiaque anormal."
+            ]
+          },
+          "cat": {
+            "exposure": "Ingestion de feuilles et de fleurs.",
+            "effect": "Vomissements, diarrhée, faiblesse et rythme cardiaque anormal.",
+            "note": "Toutes les parties contiennent des grayanotoxines qui perturbent les canaux sodiques ; l'ingestion peut provoquer des symptômes cardiaques et neurologiques chez les personnes et les animaux de compagnie.",
+            "symptoms": [
+              "Vomissements.",
+              "Diarrhée.",
+              "Faiblesse.",
+              "Rythme cardiaque anormal."
+            ]
           }
         }
       }

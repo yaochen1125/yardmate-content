@@ -3,8 +3,8 @@
   "locale": "de",
   "source": {
     "resource": "plants_detail.json",
-    "sha256": "d8f0a9ed97a29f0efaf7ff90c869c25980ca9bfffe9c8f8df14455b8cce5aa9e",
-    "record_count": 1756
+    "sha256": "0eb240b67b9b735fba75f1f1ba48895aaea0f157f2a5ceb6889d2d1933f63e0c",
+    "record_count": 1757
   },
   "records": {
     "AAA0001": {
@@ -107399,6 +107399,77 @@
             "exposure": "Es ist kein Expositionsweg bekannt.",
             "effect": "Es ist keine toxische Wirkung bekannt.",
             "note": "In diesem Katalog wird keine Toxizität für Katzen gemeldet; dies ist kein Beleg dafür, dass die Pflanze essbar oder unschädlich ist."
+          }
+        }
+      }
+    },
+    "AAA1758": {
+      "source_hash": "e8963449e6b9305c2a71616663c399bcb4dff56f71f4983baf20bdfb6a11c09e",
+      "fields": {
+        "common_name": "Zwerg-Rhododendron",
+        "bloom_tip": "Diese Alpenrose blüht typischerweise zwischen Mai und August mit leuchtenden Blüten.",
+        "description": "Der Zwerg-Rhododendron ist ein kompakter, langsam wachsender, immergrüner Strauch, der von den hochalpinen Schutthalden Yunnans und Sichuans in China stammt. Selten höher als dreißig Zentimeter, bildet er ein dichtes Polster aus winzigen, ledrigen, graugrünen Blättern, die mit aromatischen Schuppen bedeckt sind. Im Frühling verschwindet die ganze Pflanze fast unter einem Schwall kleiner, trichterförmiger violetter bis lavendelfarbener Blüten. Zufrieden mit durchlässigem, saurem Boden und kühlen Wurzeln gedeiht er in Steingärten, Trögen und schattigen Beeten, wo größere Rhododendren den Raum überwältigen würden.",
+        "history_text_short": "Sein Name impeditum ist Lateinisch für 'verwickelt' — der Alpinpflanzen-Sammler George Forrest fand diesen Zwerg-Rhododendron so verknotet im felsigen Schutt Yunnans, dass die Exemplare Stein für Stein befreit werden mussten. Später wurde er zum Elternteil vieler zwergwüchsiger, violett blühender Rhododendron-Hybriden, die heute angebaut werden.",
+        "history_text_long": "Der Artname impeditum ist Lateinisch für 'verwickelt' oder 'behindert' und beschreibt genau die Mühe, die der Zwerg-Rhododendron dem schottischen Pflanzensammler George Forrest bereitete, als er ihn Anfang des zwanzigsten Jahrhunderts auf den windgepeitschten Alpin-Schutthalden Yunnans in China sammelte. Auf über 3.000 Metern Höhe, in dünner, kalter Luft nahe den Gebirgszügen von Lijiang und Cangshan, fand Forrest ganze Hänge aus losem Gestein, die von diesem niedrigen, drahtigen Strauch zusammengehalten wurden — seine Zweige waren so dicht mit Nachbarpflanzen und mit dem Schutt selbst verflochten, dass sich Exemplare nicht einfach herausheben ließen; Wurzeln und Triebe mussten Stein für Stein gelöst werden, eine langsame und mühsame Aufgabe in dieser Höhe. Forrest schickte Samen an den Royal Botanic Garden Edinburgh und an britische Baumschulen, wo sich die kleine Alpinpflanze als weitaus winterhärter und gartenwürdiger erwies, als ihr verfilzter Wuchs vermuten ließ. Züchter griffen ihren kompakten Wuchs und ihre leuchtend violetten Blüten auf und kreuzten den Zwerg-Rhododendron mit verwandten Zwergarten wie Rhododendron fastigiatum, um eine ganze Klasse kleinblättriger, früh blühender Hybrid-Rhododendren hervorzubringen, die bis heute in Steingärten geschätzt werden. In seiner Heimat überlebt er genau dort, wo er gefunden wurde: festgeklammert an offenen Schutt- und Moränenflächen oberhalb der Baumgrenze, geduckt gegen Winde, die einen höheren Strauch zerfetzen würden — sein dichtes, verwickeltes Wachstum ist genau die Eigenschaft, die ihm seinen Namen und schließlich seinen Ruhm im Garten einbrachte.",
+        "name_origin": "Der Artname impeditum ist Lateinisch für 'verwickelt' oder 'behindert' und bezieht sich auf die dicht ineinander verschlungenen, drahtigen Zweige des Strauchs, die es frühen Pflanzensammlern schwer machten, ihn unversehrt aus felsigem Alpin-Schutt auszugraben.",
+        "symbolism_story": "Verwurzelt in offenem, windgepeitschtem Alpin-Schutt, wo kaum ein anderer Strauch überlebt, ist der Zwerg-Rhododendron zu einem stillen Sinnbild für Widerstandsfähigkeit geworden — die Kraft, auf hartem, unnachgiebigem Boden zu gedeihen statt auf weicher, geschützter Erde.",
+        "flower_meaning": "Widerstandsfähigkeit",
+        "fragrance": {
+          "notes": "Die ledrigen Blätter verströmen beim Reiben oder Zerdrücken einen schwachen harzigen Duft; die kleinen Blüten selbst duften kaum."
+        },
+        "uses_list": [
+          {
+            "text": "Ein kompakter Immergrüner, geschätzt für Steingärten, Tröge und Beetränder, wo größere Rhododendren den Raum überwältigen würden."
+          },
+          {
+            "text": "Seine Frühlingsblüten locken früh fliegende Bienen auf der Suche nach Nektar in den Alpengarten."
+          },
+          {
+            "text": "Die ledrigen Blätter geben beim Reiben einen schwachen harzigen Duft ab."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Widerstandsfähigkeit",
+            "description": "Seine Fähigkeit, in windgepeitschtem, felsigem Alpingelände zu gedeihen, wo kaum ein anderer Strauch überlebt, hat den Zwerg-Rhododendron zu einem stillen Sinnbild für Widerstandsfähigkeit und Ausdauer gemacht."
+          }
+        ],
+        "toxicity": {
+          "headline": "Menschen: mäßig · Haustiere: giftig",
+          "active_compound_display": "Grayanotoxine",
+          "notes_en": "Alle Pflanzenteile enthalten Grayanotoxine, die Natriumkanäle stören; eine Einnahme kann bei Menschen und Haustieren zu Herz- und neurologischen Symptomen führen.",
+          "human": {
+            "exposure": "Verzehr von Blättern und Blüten.",
+            "effect": "Übelkeit, Erbrechen, niedriger Blutdruck und unregelmäßiger Herzrhythmus.",
+            "note": "Alle Pflanzenteile enthalten Grayanotoxine, die Natriumkanäle stören; eine Einnahme kann bei Menschen und Haustieren zu Herz- und neurologischen Symptomen führen.",
+            "symptoms": [
+              "Übelkeit.",
+              "Erbrechen.",
+              "Niedriger Blutdruck.",
+              "Unregelmäßiger Herzrhythmus."
+            ]
+          },
+          "dog": {
+            "exposure": "Verzehr von Blättern und Blüten.",
+            "effect": "Erbrechen, Durchfall, Schwäche und unregelmäßiger Herzschlag.",
+            "note": "Alle Pflanzenteile enthalten Grayanotoxine, die Natriumkanäle stören; eine Einnahme kann bei Menschen und Haustieren zu Herz- und neurologischen Symptomen führen.",
+            "symptoms": [
+              "Erbrechen.",
+              "Durchfall.",
+              "Schwäche.",
+              "Unregelmäßiger Herzschlag."
+            ]
+          },
+          "cat": {
+            "exposure": "Verzehr von Blättern und Blüten.",
+            "effect": "Erbrechen, Durchfall, Schwäche und unregelmäßiger Herzschlag.",
+            "note": "Alle Pflanzenteile enthalten Grayanotoxine, die Natriumkanäle stören; eine Einnahme kann bei Menschen und Haustieren zu Herz- und neurologischen Symptomen führen.",
+            "symptoms": [
+              "Erbrechen.",
+              "Durchfall.",
+              "Schwäche.",
+              "Unregelmäßiger Herzschlag."
+            ]
           }
         }
       }

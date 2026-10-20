@@ -3,8 +3,8 @@
   "locale": "pt",
   "source": {
     "resource": "plants_detail.json",
-    "sha256": "d8f0a9ed97a29f0efaf7ff90c869c25980ca9bfffe9c8f8df14455b8cce5aa9e",
-    "record_count": 1756
+    "sha256": "0eb240b67b9b735fba75f1f1ba48895aaea0f157f2a5ceb6889d2d1933f63e0c",
+    "record_count": 1757
   },
   "records": {
     "AAA0001": {
@@ -107413,6 +107413,77 @@
             "exposure": "Nenhuma via de exposição é relatada.",
             "effect": "Nenhum efeito tóxico é relatado.",
             "note": "Nenhuma toxicidade é relatada para gatos neste catálogo; isso não é evidência de que a planta seja comestível ou inofensiva."
+          }
+        }
+      }
+    },
+    "AAA1758": {
+      "source_hash": "e8963449e6b9305c2a71616663c399bcb4dff56f71f4983baf20bdfb6a11c09e",
+      "fields": {
+        "common_name": "Rododendro-anão",
+        "bloom_tip": "Esta azaleia floresce tipicamente entre maio e agosto, com flores vibrantes.",
+        "description": "O Rododendro-anão é um arbusto perene, compacto e de crescimento lento, originário dos pedregulhos alpinos de grande altitude de Yunnan e Sichuan, na China. Raramente ultrapassa trinta centímetros, formando uma almofada densa de minúsculas folhas coriáceas, verde-acinzentadas, cobertas de escamas aromáticas. Na primavera, toda a planta quase desaparece sob uma explosão de pequenas flores em forma de funil, roxas a lavanda. Satisfeito com solo ácido bem drenado e raízes frescas, prospera em jardins de rocha, floreiras e canteiros sombreados onde rododendros maiores ocupariam demasiado espaço.",
+        "history_text_short": "Seu nome, impeditum, significa 'emaranhado' em latim — o caçador de plantas George Forrest encontrou este rododendro-anão tão emaranhado no pedregulho rochoso de Yunnan que os espécimes tinham de ser libertados pedra por pedra. Mais tarde tornou-se progenitor de muitos híbridos anões de rododendro de flores roxas cultivados hoje.",
+        "history_text_long": "O epíteto impeditum significa 'emaranhado' ou 'impedido' em latim, e descreve exatamente o problema que o Rododendro-anão deu ao caçador de plantas escocês George Forrest quando o coletou nos pedregulhos alpinos varridos pelo vento de Yunnan, na China, no início do século XX. Subindo acima dos 3.000 metros, no ar fino e frio perto das cadeias de Lijiang e Cangshan, Forrest encontrou encostas inteiras de rocha solta mantidas unidas por este arbusto baixo e lenhoso, cujos ramos se entrelaçavam tão densamente com as plantas vizinhas e com o próprio pedregulho que os espécimes não podiam simplesmente ser levantados; raízes e caules tinham de ser soltos pedra por pedra, uma tarefa lenta e exaustiva naquela altitude. Forrest enviou sementes para o Royal Botanic Garden Edinburgh e para viveiros britânicos, onde a pequena planta alpina se revelou muito mais resistente e digna de jardim do que seu porte emaranhado sugeria. Os criadores aproveitaram seu porte compacto e suas flores roxas vibrantes, cruzando o Rododendro-anão com espécies anãs aparentadas, como Rhododendron fastigiatum, para produzir toda uma classe de rododendros híbridos de folhas pequenas e floração precoce, ainda apreciados hoje em jardins de rocha. Em sua área nativa, sobrevive exatamente onde foi encontrado: agarrado a pedregulhos e morainas expostas acima do limite da vegetação arbórea, agachado contra ventos que despedaçariam um arbusto mais alto, seu denso emaranhado de crescimento sendo precisamente o traço que lhe deu o nome e, por fim, sua fama nos jardins.",
+        "name_origin": "O nome da espécie, impeditum, significa 'emaranhado' ou 'impedido' em latim, referindo-se aos ramos lenhosos e densamente entrelaçados do arbusto, que dificultavam sua extração intacta do pedregulho alpino rochoso pelos primeiros coletores de plantas.",
+        "symbolism_story": "Enraizado em pedregulhos alpinos expostos e varridos pelo vento, onde poucos outros arbustos sobrevivem, o Rododendro-anão tornou-se um discreto emblema de resiliência — a força de florescer em solo duro e inflexível, em vez de em terra macia e abrigada.",
+        "flower_meaning": "Resiliência",
+        "fragrance": {
+          "notes": "As folhas coriáceas exalam um leve aroma resinoso quando esfregadas ou esmagadas; as pequenas flores em si não são muito perfumadas."
+        },
+        "uses_list": [
+          {
+            "text": "Um perene compacto, valorizado para jardins de rocha, floreiras e bordas onde rododendros maiores ocupariam demasiado espaço."
+          },
+          {
+            "text": "Suas flores de primavera atraem as primeiras abelhas em busca de néctar no jardim alpino."
+          },
+          {
+            "text": "As folhas coriáceas exalam um leve aroma resinoso quando esfregadas."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Resiliência",
+            "description": "Sua capacidade de prosperar em terreno alpino rochoso e ventoso, onde poucos outros arbustos sobrevivem, tornou o Rododendro-anão um discreto emblema de resiliência e perseverança."
+          }
+        ],
+        "toxicity": {
+          "headline": "Humanos: moderado · Animais de estimação: tóxico",
+          "active_compound_display": "grayanotoxinas",
+          "notes_en": "Todas as partes contêm grayanotoxinas que perturbam os canais de sódio; a ingestão pode causar sintomas cardíacos e neurológicos em pessoas e animais de estimação.",
+          "human": {
+            "exposure": "Ingestão de folhas e flores.",
+            "effect": "Náusea, vômito, pressão arterial baixa e ritmo cardíaco irregular.",
+            "note": "Todas as partes contêm grayanotoxinas que perturbam os canais de sódio; a ingestão pode causar sintomas cardíacos e neurológicos em pessoas e animais de estimação.",
+            "symptoms": [
+              "Náusea.",
+              "Vômito.",
+              "Pressão arterial baixa.",
+              "Ritmo cardíaco irregular."
+            ]
+          },
+          "dog": {
+            "exposure": "Ingestão de folhas e flores.",
+            "effect": "Vômito, diarreia, fraqueza e frequência cardíaca anormal.",
+            "note": "Todas as partes contêm grayanotoxinas que perturbam os canais de sódio; a ingestão pode causar sintomas cardíacos e neurológicos em pessoas e animais de estimação.",
+            "symptoms": [
+              "Vômito.",
+              "Diarreia.",
+              "Fraqueza.",
+              "Frequência cardíaca anormal."
+            ]
+          },
+          "cat": {
+            "exposure": "Ingestão de folhas e flores.",
+            "effect": "Vômito, diarreia, fraqueza e frequência cardíaca anormal.",
+            "note": "Todas as partes contêm grayanotoxinas que perturbam os canais de sódio; a ingestão pode causar sintomas cardíacos e neurológicos em pessoas e animais de estimação.",
+            "symptoms": [
+              "Vômito.",
+              "Diarreia.",
+              "Fraqueza.",
+              "Frequência cardíaca anormal."
+            ]
           }
         }
       }

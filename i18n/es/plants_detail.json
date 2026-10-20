@@ -3,8 +3,8 @@
   "locale": "es",
   "source": {
     "resource": "plants_detail.json",
-    "sha256": "d8f0a9ed97a29f0efaf7ff90c869c25980ca9bfffe9c8f8df14455b8cce5aa9e",
-    "record_count": 1756
+    "sha256": "0eb240b67b9b735fba75f1f1ba48895aaea0f157f2a5ceb6889d2d1933f63e0c",
+    "record_count": 1757
   },
   "records": {
     "AAA0001": {
@@ -107413,6 +107413,77 @@
             "exposure": "No se reporta ninguna ruta de exposición.",
             "effect": "No se reporta ningún efecto tóxico.",
             "note": "No se reporta toxicidad para gatos en este catálogo; esto no es evidencia de que la planta sea comestible o inofensiva."
+          }
+        }
+      }
+    },
+    "AAA1758": {
+      "source_hash": "e8963449e6b9305c2a71616663c399bcb4dff56f71f4983baf20bdfb6a11c09e",
+      "fields": {
+        "common_name": "Rododendro enano",
+        "bloom_tip": "Esta azalea normalmente florece entre mayo y agosto, con flores vibrantes.",
+        "description": "El Rododendro enano es un arbusto perenne, compacto y de crecimiento lento, originario de los pedregales alpinos de gran altitud de Yunnan y Sichuan, en China. Rara vez supera los treinta centímetros, forma un cojín denso de diminutas hojas coriáceas, verde grisáceas, cubiertas de escamas aromáticas. En primavera, toda la planta casi desaparece bajo una oleada de pequeñas flores acampanadas, de color violeta a lavanda. Conforme con un suelo ácido bien drenado y raíces frescas, prospera en jardines de rocalla, artesas y bordes sombreados donde rododendros más grandes ocuparían demasiado espacio.",
+        "history_text_short": "Su nombre, impeditum, significa 'enredado' en latín — el cazador de plantas George Forrest encontró este rododendro enano tan enmarañado en el pedregal rocoso de Yunnan que los ejemplares había que liberarlos piedra por piedra. Más tarde se convirtió en progenitor de muchos híbridos enanos de rododendro de flores violetas que se cultivan hoy.",
+        "history_text_long": "El epíteto impeditum significa 'enredado' u 'obstaculizado' en latín, y describe exactamente el problema que el Rododendro enano le dio al cazador de plantas escocés George Forrest cuando lo recolectó en los pedregales alpinos azotados por el viento de Yunnan, China, a principios del siglo XX. Ascendiendo por encima de los 3.000 metros, en el aire frío y enrarecido cerca de las cordilleras de Lijiang y Cangshan, Forrest encontró laderas enteras de roca suelta mantenidas unidas por este arbusto bajo y leñoso, cuyas ramas se entrelazaban tan densamente con las plantas vecinas y con el propio pedregal que los ejemplares no podían simplemente levantarse; raíces y tallos tenían que liberarse piedra por piedra, una tarea lenta y agotadora a esa altitud. Forrest envió semillas al Real Jardín Botánico de Edimburgo y a viveros británicos, donde la pequeña planta alpina resultó mucho más resistente y digna de un jardín de lo que sugería su porte enmarañado. Los cultivadores aprovecharon su porte compacto y sus vivaces flores violetas, cruzando el Rododendro enano con especies enanas emparentadas como Rhododendron fastigiatum para producir toda una clase de rododendros híbridos de hoja pequeña y floración temprana, aún apreciados hoy en jardines de rocalla. En su área nativa, sobrevive exactamente donde fue encontrado: aferrado a pedregales y morrenas expuestos por encima del límite arbóreo, agazapado contra vientos que destrozarían un arbusto más alto, su denso enmarañamiento siendo precisamente el rasgo que le dio su nombre y, finalmente, su fama en el jardín.",
+        "name_origin": "El nombre de la especie, impeditum, significa 'enredado' u 'obstaculizado' en latín, en referencia a las ramas leñosas y densamente entrelazadas del arbusto, que dificultaban su extracción intacta del pedregal alpino rocoso por parte de los primeros recolectores de plantas.",
+        "symbolism_story": "Arraigado en pedregales alpinos expuestos y azotados por el viento, donde sobreviven pocos otros arbustos, el Rododendro enano se ha convertido en un discreto emblema de resiliencia — la fuerza para florecer en un suelo duro e inflexible en lugar de en una tierra blanda y resguardada.",
+        "flower_meaning": "Resiliencia",
+        "fragrance": {
+          "notes": "Las hojas coriáceas desprenden un leve aroma resinoso al frotarlas o aplastarlas; las pequeñas flores en sí no son muy perfumadas."
+        },
+        "uses_list": [
+          {
+            "text": "Un perenne compacto, apreciado para jardines de rocalla, artesas y bordes donde rododendros más grandes ocuparían demasiado espacio."
+          },
+          {
+            "text": "Sus flores primaverales atraen a las primeras abejas en busca de néctar en el jardín alpino."
+          },
+          {
+            "text": "Las hojas coriáceas desprenden un leve aroma resinoso al frotarlas."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Resiliencia",
+            "description": "Su capacidad para prosperar en un terreno alpino rocoso y ventoso, donde sobreviven pocos otros arbustos, ha convertido al Rododendro enano en un discreto emblema de resiliencia y perseverancia."
+          }
+        ],
+        "toxicity": {
+          "headline": "Humanos: moderado · Mascotas: tóxico",
+          "active_compound_display": "grayanotoxinas",
+          "notes_en": "Todas las partes contienen grayanotoxinas que alteran los canales de sodio; la ingestión puede causar síntomas cardíacos y neurológicos en personas y mascotas.",
+          "human": {
+            "exposure": "Ingestión de hojas y flores.",
+            "effect": "Náuseas, vómitos, presión arterial baja y ritmo cardíaco irregular.",
+            "note": "Todas las partes contienen grayanotoxinas que alteran los canales de sodio; la ingestión puede causar síntomas cardíacos y neurológicos en personas y mascotas.",
+            "symptoms": [
+              "Náuseas.",
+              "Vómitos.",
+              "Presión arterial baja.",
+              "Ritmo cardíaco irregular."
+            ]
+          },
+          "dog": {
+            "exposure": "Ingestión de hojas y flores.",
+            "effect": "Vómitos, diarrea, debilidad y ritmo cardíaco anómalo.",
+            "note": "Todas las partes contienen grayanotoxinas que alteran los canales de sodio; la ingestión puede causar síntomas cardíacos y neurológicos en personas y mascotas.",
+            "symptoms": [
+              "Vómitos.",
+              "Diarrea.",
+              "Debilidad.",
+              "Ritmo cardíaco anómalo."
+            ]
+          },
+          "cat": {
+            "exposure": "Ingestión de hojas y flores.",
+            "effect": "Vómitos, diarrea, debilidad y ritmo cardíaco anómalo.",
+            "note": "Todas las partes contienen grayanotoxinas que alteran los canales de sodio; la ingestión puede causar síntomas cardíacos y neurológicos en personas y mascotas.",
+            "symptoms": [
+              "Vómitos.",
+              "Diarrea.",
+              "Debilidad.",
+              "Ritmo cardíaco anómalo."
+            ]
           }
         }
       }
