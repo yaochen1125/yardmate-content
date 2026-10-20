@@ -3,8 +3,8 @@
   "locale": "de",
   "source": {
     "resource": "plants_detail.json",
-    "sha256": "4c8594b072c53f4816e88c7f74bbbbdf4a01350173522f638f49a74e6e175f6f",
-    "record_count": 1755
+    "sha256": "d8f0a9ed97a29f0efaf7ff90c869c25980ca9bfffe9c8f8df14455b8cce5aa9e",
+    "record_count": 1756
   },
   "records": {
     "AAA0001": {
@@ -107351,6 +107351,54 @@
             "exposure": "Kein Aufnahmeweg bekannt.",
             "effect": "Keine toxische Wirkung bekannt.",
             "note": "Für Katzen liegen keine artspezifischen Berichte vor. Behandeln Sie jeden Wildpilz als potenziell giftig für Haustiere und kontaktieren Sie nach jeder Aufnahme einen Tierarzt."
+          }
+        }
+      }
+    },
+    "AAA1757": {
+      "source_hash": "84d3caa4d94a6c5fce6bfa21b57ca157337ac17c2a709670e1c2891a996e7c4e",
+      "fields": {
+        "common_name": "Dyckia",
+        "bloom_tip": "Die Blüten leuchten in kräftigen Farben und erscheinen im Frühling.",
+        "fruit_tip": "Die Früchte sind attraktiv und bringen im Frühling Farbe in die Landschaft.",
+        "description": "Die Dyckia ist eine stachelige, rosettenbildende Bromelie, die an den felsigen Flussufern und Wasserfällen im Süden Brasiliens heimisch ist, wo sie sich an Granitfelsen klammert statt in Erde zu wurzeln. Ihre schmalen, gezähnten Blätter wölben sich in dichten, symmetrischen Büscheln nach außen und färben sich in starker Sonne bronzerot, während sie im Schatten silbrig-grün bleiben. Im Frühling erheben sich schlanke Blütenstände über dem Laub mit Büscheln leuchtend orange-gelber Blüten, die Kolibris und Bienen anziehen. Robust und trockenheitsverträglich gedeiht sie in voller Sonne mit scharf durchlässigem Boden und ist damit eine auffällige Wahl für Steingärten, Kübel und xerophile Pflanzungen.",
+        "history_text_short": "Benannt nach der legendären Sukkulentensammlung eines deutschen Fürsten, klammert sich diese stachelige Bromelie an flutgeschliffene Granitufer im Süden Brasiliens. Ihre zähen, drahtigen Wurzeln und starren Blätter lassen sie Überflutung wie Dürre gleichermaßen überstehen – lange von einheimischen Sammlern geschätzt, bevor sie sich in Steingärten weltweit verbreitete.",
+        "history_text_long": "Die Gattung Dyckia wurde Anfang des 19. Jahrhunderts nach Joseph zu Salm-Reifferscheidt-Dyck benannt, einem deutschen Fürsten und leidenschaftlichen Botaniker, dessen Schlossgarten in Dyck bei Düsseldorf eine der bedeutendsten lebenden Sukkulentensammlungen Europas beherbergte. Als Botaniker in Brasilien stachelige, rosettenbildende Bromelien katalogisierten, die an Granitufern klammerten, ehrten sie mit dem Gattungsnamen den Fürsten; der Artname „brevifolia“ bedeutet schlicht „kurzblättrig“ und unterscheidet diese Pflanze von langblättrigeren Verwandten.\n\nIn ihrer Heimat entlang der Flüsse von Rio Grande do Sul im Süden Brasiliens wächst die Dyckia in Spalten auf nacktem Felsgestein und an Wasserfallrändern, wo saisonale Hochwasser den Stein blank spülen und kaum Erde zurücklassen. Die starren, dornbesetzten Blätter und flachen, drahtigen Wurzeln der Pflanze erlauben es ihr, während der Flutzeit überflutet zu werden und danach monatelang auszudörren – eine Widerstandsfähigkeit, die kaum eine Gartenpflanze erreicht. Einheimische Sammler schätzten ihre Zähigkeit lange vor ihrer internationalen Kultivierung und lösten Ableger von den Felsbändern, um sie mit Gärtnern zu teilen, die sich von ihrem bronzefarbenen Laub und den feurigen Frühlingsblütenständen angezogen fühlten.\n\nIm 20. Jahrhundert trugen Bromelien-Gesellschaften die Art aus Brasilien hinaus in Sammlungen auf der ganzen Welt, wo ihre kompakte Größe, Trockenheitsverträglichkeit und pflegeleichte Art sie zu einem Favoriten für Steingärten und sonnige Kübel machte – weit entfernt von ihren heimischen Wasserfällen.",
+        "name_origin": "Die Gattung Dyckia ehrt Joseph zu Salm-Reifferscheidt-Dyck, einen deutschen Fürsten und Botaniker, der für seine Sukkulentensammlung auf Schloss Dyck bekannt war; der Artname brevifolia bedeutet „kurzblättrig“ und beschreibt ihre Blätter im Vergleich zu anderen Dyckia-Arten.",
+        "symbolism_story": "Weil sie sich an nacktem Granit festklammert, der jede Regenzeit überflutet wird und den Rest des Jahres austrocknet, ist die Dyckia zu einem stillen Symbol der Widerstandsfähigkeit geworden – sie gedeiht genau dort, wo zartere Pflanzen nicht überleben könnten.",
+        "flower_meaning": "Widerstandsfähigkeit",
+        "uses_list": [
+          {
+            "text": "Die auffällige Rosettenform und stachelige Textur machen sie zum Blickpunkt in Steingärten, Sukkulentenbeeten und Kübeln."
+          },
+          {
+            "text": "Die Blütenstände im Frühling ziehen mit nektarreichen orange-gelben Blüten Kolibris und Bienen an."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Widerstandsfähigkeit",
+            "description": "Ihre Fähigkeit, sowohl saisonale Überflutung als auch Dürre auf nacktem Fels zu überstehen, macht sie zu einem natürlichen Sinnbild für Zähigkeit und Anpassungsfähigkeit."
+          }
+        ],
+        "toxicity": {
+          "headline": "Keine Toxizität bekannt",
+          "active_compound_display": "Keine bekannt",
+          "notes_en": "Keine autoritative Quelle für Toxizität gefunden; wird als nicht gemeldet behandelt (die LLM-Schätzung ist nicht quellengeprüft).",
+          "human": {
+            "exposure": "Es ist kein Expositionsweg bekannt.",
+            "effect": "Es ist keine toxische Wirkung bekannt.",
+            "note": "In diesem Katalog wird keine Toxizität für Menschen gemeldet; dies ist kein Beleg dafür, dass die Pflanze essbar oder unschädlich ist."
+          },
+          "dog": {
+            "exposure": "Es ist kein Expositionsweg bekannt.",
+            "effect": "Es ist keine toxische Wirkung bekannt.",
+            "note": "In diesem Katalog wird keine Toxizität für Hunde gemeldet; dies ist kein Beleg dafür, dass die Pflanze essbar oder unschädlich ist."
+          },
+          "cat": {
+            "exposure": "Es ist kein Expositionsweg bekannt.",
+            "effect": "Es ist keine toxische Wirkung bekannt.",
+            "note": "In diesem Katalog wird keine Toxizität für Katzen gemeldet; dies ist kein Beleg dafür, dass die Pflanze essbar oder unschädlich ist."
           }
         }
       }

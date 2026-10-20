@@ -3,8 +3,8 @@
   "locale": "it",
   "source": {
     "resource": "plants_detail.json",
-    "sha256": "4c8594b072c53f4816e88c7f74bbbbdf4a01350173522f638f49a74e6e175f6f",
-    "record_count": 1755
+    "sha256": "d8f0a9ed97a29f0efaf7ff90c869c25980ca9bfffe9c8f8df14455b8cce5aa9e",
+    "record_count": 1756
   },
   "records": {
     "AAA0001": {
@@ -107365,6 +107365,54 @@
             "exposure": "Nessuna via di esposizione segnalata.",
             "effect": "Nessun effetto tossico segnalato.",
             "note": "Non sono state trovate segnalazioni specifiche per i gatti. Considera ogni fungo selvatico come potenzialmente tossico per gli animali domestici e contatta un veterinario dopo qualsiasi ingestione."
+          }
+        }
+      }
+    },
+    "AAA1757": {
+      "source_hash": "84d3caa4d94a6c5fce6bfa21b57ca157337ac17c2a709670e1c2891a996e7c4e",
+      "fields": {
+        "common_name": "Dyckia",
+        "bloom_tip": "I fiori hanno un colore vivace e compaiono in primavera.",
+        "fruit_tip": "I frutti sono attraenti e aggiungono colore al paesaggio in primavera.",
+        "description": "La Dyckia è una bromeliacea spinosa, formante rosette, originaria delle rive rocciose dei fiumi e delle cascate del Brasile meridionale, dove si aggrappa agli affioramenti di granito piuttosto che radicarsi nel terreno. Le sue foglie stretto e dentate si arcuano verso l'esterno in ciuffi densi e simmetrici, assumendo tonalità bronzo-rossastre sotto il sole intenso e mantenendo un verde argentato all'ombra. In primavera, sottili spighe floreali si innalzano sopra il fogliame con grappoli di fiori giallo-arancio vivaci che attirano colibrì e api. Resistente e tollerante alla siccità, prospera in pieno sole con un drenaggio molto efficiente, rendendola una scelta notevole per giardini rocciosi, vasi e giardini xerofili.",
+        "history_text_short": "Chiamata così in onore della leggendaria collezione di succulente di un principe tedesco, questa bromeliacea spinosa si aggrappa alle rive di granito scavate dalle piene nel Brasile meridionale. Le sue radici dure e filiformi e le foglie rigide le permettono di sopravvivere sia alla sommersione che alla siccità, apprezzata a lungo dai raccoglitori locali prima di diffondersi nei giardini rocciosi di tutto il mondo.",
+        "history_text_long": "Il genere Dyckia fu così chiamato nei primi anni dell'Ottocento in onore di Joseph zu Salm-Reifferscheidt-Dyck, un principe tedesco e botanico appassionato, il cui giardino del castello di Dyck, vicino a Düsseldorf, ospitava una delle grandi collezioni viventi di succulente d'Europa. Quando i botanici che catalogavano in Brasile le bromeliacee spinose e formanti rosette trovarono questa specie aggrappata alle rive di granito, onorarono il nome del principe per il genere; il nome della specie, 'brevifolia', significa semplicemente 'a foglie corte', distinguendo questa pianta dai parenti a foglie più lunghe.\n\nNel suo areale d'origine, lungo i fiumi del Rio Grande do Sul, nel Brasile meridionale, la Dyckia cresce incastrata nelle crepe di affioramenti rocciosi nudi e ai margini delle cascate, dove le piene stagionali lavano la roccia lasciando quasi nessun terreno. Le foglie rigide e spinose della pianta, insieme alle radici sottili e poco profonde, le permettono di resistere alla sommersione durante la stagione delle piene e di seccarsi per mesi in seguito, una resilienza che poche piante da giardino possono eguagliare. I raccoglitori locali apprezzavano la sua resistenza molto prima che raggiungesse la coltivazione internazionale, staccando i polloni dalle balze rocciose per condividerli con giardinieri attratti dal suo fogliame color bronzo e dalle sue ardenti spighe floreali primaverili.\n\nNel corso del Novecento, le società di appassionati di bromeliacee portarono la specie fuori dal Brasile in collezioni di tutto il mondo, dove le sue dimensioni compatte, la tolleranza alla siccità e la facilità di coltivazione la resero una favorita per giardini rocciosi e vasi soleggiati, ben lontano dalle sue cascate native.",
+        "name_origin": "Il genere Dyckia onora Joseph zu Salm-Reifferscheidt-Dyck, un principe tedesco e botanico noto per la sua collezione di succulente al castello di Dyck; il nome della specie brevifolia significa 'a foglie corte', descrivendo le sue foglie rispetto ad altre specie di Dyckia.",
+        "symbolism_story": "Aggrappata al granito nudo che si inonda a ogni stagione delle piogge e si secca per il resto dell'anno, la Dyckia è diventata un silenzioso simbolo di resilienza, prosperando proprio dove le piante più delicate non potrebbero sopravvivere.",
+        "flower_meaning": "Resilienza",
+        "uses_list": [
+          {
+            "text": "La sua forma a rosetta e la texture spinosa la rendono un punto focale in giardini rocciosi, aiuole di succulente e vasi."
+          },
+          {
+            "text": "Le spighe floreali primaverili attirano colibrì e api con fiori giallo-arancio ricchi di nettare."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Resilienza",
+            "description": "La sua capacità di resistere sia alle piene stagionali che alla siccità sulla roccia nuda la rende un emblema naturale di forza e adattabilità."
+          }
+        ],
+        "toxicity": {
+          "headline": "Nessuna tossicità segnalata",
+          "active_compound_display": "Nessuno segnalato",
+          "notes_en": "Non è stata trovata alcuna corrispondenza con fonti autorevoli sulla tossicità; trattato come non segnalato (la stima del LLM non è verificata da fonti).",
+          "human": {
+            "exposure": "Non è segnalata alcuna via di esposizione.",
+            "effect": "Non è segnalato alcun effetto tossico.",
+            "note": "In questo catalogo non è segnalata tossicità per gli esseri umani; ciò non costituisce prova che la pianta sia commestibile o innocua."
+          },
+          "dog": {
+            "exposure": "Non è segnalata alcuna via di esposizione.",
+            "effect": "Non è segnalato alcun effetto tossico.",
+            "note": "In questo catalogo non è segnalata tossicità per i cani; ciò non costituisce prova che la pianta sia commestibile o innocua."
+          },
+          "cat": {
+            "exposure": "Non è segnalata alcuna via di esposizione.",
+            "effect": "Non è segnalato alcun effetto tossico.",
+            "note": "In questo catalogo non è segnalata tossicità per i gatti; ciò non costituisce prova che la pianta sia commestibile o innocua."
           }
         }
       }

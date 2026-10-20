@@ -3,8 +3,8 @@
   "locale": "pt",
   "source": {
     "resource": "plants_detail.json",
-    "sha256": "4c8594b072c53f4816e88c7f74bbbbdf4a01350173522f638f49a74e6e175f6f",
-    "record_count": 1755
+    "sha256": "d8f0a9ed97a29f0efaf7ff90c869c25980ca9bfffe9c8f8df14455b8cce5aa9e",
+    "record_count": 1756
   },
   "records": {
     "AAA0001": {
@@ -107365,6 +107365,54 @@
             "exposure": "Nenhuma via de exposição relatada.",
             "effect": "Nenhum efeito tóxico relatado.",
             "note": "Não foram encontrados relatos específicos para gatos. Trate qualquer cogumelo selvagem como potencialmente tóxico para animais de estimação e contate um veterinário após qualquer ingestão."
+          }
+        }
+      }
+    },
+    "AAA1757": {
+      "source_hash": "84d3caa4d94a6c5fce6bfa21b57ca157337ac17c2a709670e1c2891a996e7c4e",
+      "fields": {
+        "common_name": "Dyckia",
+        "bloom_tip": "As flores têm uma cor vibrante e aparecem na primavera.",
+        "fruit_tip": "Os frutos são atraentes e trazem cor à paisagem na primavera.",
+        "description": "A Dyckia é uma bromélia espinhosa, formadora de rosetas, nativa das margens rochosas de rios e cachoeiras do sul do Brasil, onde se fixa em afloramentos de granito em vez de crescer no solo. Suas folhas estreitas e serrilhadas se arqueiam para fora em tufos densos e simétricos, assumindo tons bronze-avermelhados sob sol forte e permanecendo verde-prateadas à sombra. Na primavera, hastes florais esguias se erguem acima da folhagem com cachos de flores amarelo-alaranjadas vibrantes que atraem beija-flores e abelhas. Resistente e tolerante à seca, prospera a pleno sol com drenagem bem acentuada, o que a torna uma escolha marcante para jardins de pedras, vasos e plantios xerófitos.",
+        "history_text_short": "Batizada em homenagem à célebre coleção de suculentas de um príncipe alemão, essa bromélia espinhosa se fixa em margens de granito esculpidas pelas enchentes no sul do Brasil. Suas raízes resistentes e fibrosas e folhas rígidas permitem que sobreviva tanto à submersão quanto à seca, muito valorizada por coletores locais antes de se difundir por jardins de pedras no mundo todo.",
+        "history_text_long": "O gênero Dyckia recebeu esse nome no início do século XIX em homenagem a Joseph zu Salm-Reifferscheidt-Dyck, um príncipe alemão e botânico apaixonado cujo jardim do castelo de Dyck, perto de Düsseldorf, abrigava uma das grandes coleções vivas de suculentas da Europa. Quando botânicos que catalogavam bromélias espinhosas e formadoras de rosetas no Brasil encontraram esta espécie fixada em margens de granito, homenagearam o nome do príncipe no gênero; o nome da espécie, 'brevifolia', significa simplesmente 'de folha curta', distinguindo esta planta de parentes com folhas mais longas.\n\nEm sua área de ocorrência natural, ao longo dos rios do Rio Grande do Sul, no sul do Brasil, a Dyckia cresce encaixada em fendas de afloramentos rochosos nus e margens de cachoeiras, onde as enchentes sazonais lavam a pedra e deixam quase nenhum solo. As folhas rígidas e espinhosas da planta, junto com suas raízes finas e rasas, permitem que ela suporte ficar submersa durante a estação das enchentes e secar por meses depois, uma resiliência que poucas plantas de jardim conseguem igualar. Coletores locais valorizavam sua resistência muito antes de ela chegar ao cultivo internacional, soltando mudas das bordas rochosas para compartilhar com jardineiros atraídos por sua folhagem em tons de bronze e suas hastes florais vibrantes na primavera.\n\nAo longo do século XX, sociedades de bromeliófilos levaram a espécie do Brasil para coleções no mundo todo, onde seu tamanho compacto, tolerância à seca e baixa manutenção a tornaram uma favorita para jardins de pedras e vasos ensolarados, bem longe de suas cachoeiras nativas.",
+        "name_origin": "O gênero Dyckia homenageia Joseph zu Salm-Reifferscheidt-Dyck, um príncipe alemão e botânico conhecido por sua coleção de suculentas no castelo de Dyck; o nome da espécie brevifolia significa 'de folha curta', descrevendo suas folhas em comparação com outras espécies de Dyckia.",
+        "symbolism_story": "Fixada ao granito nu que inunda a cada estação chuvosa e seca pelo resto do ano, a Dyckia se tornou um símbolo silencioso de resiliência, prosperando exatamente onde plantas mais delicadas não conseguiriam sobreviver.",
+        "flower_meaning": "Resiliência",
+        "uses_list": [
+          {
+            "text": "Sua forma marcante em roseta e textura espinhosa a tornam um ponto focal em jardins de pedras, canteiros de suculentas e vasos."
+          },
+          {
+            "text": "As hastes florais da primavera atraem beija-flores e abelhas com flores amarelo-alaranjadas ricas em néctar."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Resiliência",
+            "description": "Sua capacidade de resistir tanto a enchentes sazonais quanto à seca sobre rocha nua a torna um emblema natural de força e adaptabilidade."
+          }
+        ],
+        "toxicity": {
+          "headline": "Nenhuma toxicidade relatada",
+          "active_compound_display": "Nenhum relatado",
+          "notes_en": "Nenhuma correspondência com fontes de referência sobre toxicidade foi encontrada; tratado como não relatado (a estimativa do LLM não é verificada por fontes).",
+          "human": {
+            "exposure": "Nenhuma via de exposição é relatada.",
+            "effect": "Nenhum efeito tóxico é relatado.",
+            "note": "Nenhuma toxicidade é relatada para humanos neste catálogo; isso não é evidência de que a planta seja comestível ou inofensiva."
+          },
+          "dog": {
+            "exposure": "Nenhuma via de exposição é relatada.",
+            "effect": "Nenhum efeito tóxico é relatado.",
+            "note": "Nenhuma toxicidade é relatada para cães neste catálogo; isso não é evidência de que a planta seja comestível ou inofensiva."
+          },
+          "cat": {
+            "exposure": "Nenhuma via de exposição é relatada.",
+            "effect": "Nenhum efeito tóxico é relatado.",
+            "note": "Nenhuma toxicidade é relatada para gatos neste catálogo; isso não é evidência de que a planta seja comestível ou inofensiva."
           }
         }
       }
