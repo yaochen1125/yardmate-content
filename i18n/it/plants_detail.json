@@ -3,8 +3,8 @@
   "locale": "it",
   "source": {
     "resource": "plants_detail.json",
-    "sha256": "c3a15f2273c2cb07d4b85e30246ea95218b687a3d3f1b2d4a37915ce2daa2475",
-    "record_count": 1771
+    "sha256": "ced62322dba07bf35fa6462a405e70cd47afe5bd07e158b923ff38760230a5d9",
+    "record_count": 1772
   },
   "records": {
     "AAA0001": {
@@ -108339,6 +108339,56 @@
             "exposure": "Nessuna via di esposizione è segnalata.",
             "effect": "Nessun effetto tossico è segnalato.",
             "note": "In questo catalogo non è segnalata tossicità per i gatti; ciò non prova che la pianta sia commestibile o innocua."
+          }
+        }
+      }
+    },
+    "AAA1773": {
+      "source_hash": "d3466075cf25573544072e9be40a8f7bdf1eaac63f235d4bc2a8640b7ee5d16d",
+      "fields": {
+        "common_name": "Calathea",
+        "description": "La calathea (Calathea) è un genere di piante perenni tropicali sempreverdi originarie delle Americhe, coltivate in casa per le foglie dai disegni vistosi. Le lamine, da ovali a lanceolate, sono striate, piumate o screziate in toni di verde, argento, crema e viola, spesso con la pagina inferiore color vinaccia. Forma cespi alti circa 0,5-1,5 m e predilige luce intensa ma indiretta, umidità costante e aria molto umida. Le foglie si alzano e si ripiegano di notte, un movimento che ha fatto attribuire a diverse specie il soprannome di pianta della preghiera.",
+        "history_text_short": "Il nome deriva dal greco kalathos, «cesto»: nell'America tropicale con le sue foglie si intrecciavano ceste e si avvolgevano i cibi. Oggi è una pianta d'appartamento molto apprezzata, le cui foglie decorate si alzano e si ripiegano seguendo il ritmo della luce.",
+        "history_text_long": "Il genere Calathea fu descritto nel 1818 dal botanico tedesco Georg Friedrich Wilhelm Meyer su piante dell'America tropicale. Formò il nome dal greco kalathos, «cesto», perché le foglie larghe e robuste di diverse specie vi erano già usate per intrecciare ceste e per avvolgere cibi e merci. Alcune specie, come la calathea sigaro, offrivano inoltre alle comunità locali una materia prima pratica che cresceva spontanea nel sottobosco umido.\n\nI collezionisti europei conobbero queste piante nell'Ottocento, quando le serre erano di moda e il fogliame tropicale era segno di ambizione botanica. La calathea si rivelò difficile ma appagante: le sue foglie sembrano dipinte a pennello e ciascuna si solleva verso sera e si abbassa di nuovo al mattino, un lento movimento quotidiano noto come nictinastia. Chi osservava le foglie ripiegarsi verso l'alto al crepuscolo cominciò a chiamare piante della preghiera le specie affini.\n\nNel Novecento la calathea passò dalla serra alle case di tutti i giorni. Gli appassionati ne impararono le abitudini a proprie spese: soffre l'aria secca, si scotta al sole diretto e imbrunisce ai bordi se innaffiata con acqua dura, ma ripaga le cure pazienti con un flusso costante di foglie nuove, finemente disegnate.\n\nIn seguito i botanici hanno rivisto il genere. Nel 2012 uno studio sulla famiglia delle Marantaceae ha spostato molte delle ex specie di Calathea nel genere Goeppertia, per cui una pianta venduta come calathea può comparire con l'uno o l'altro nome. In commercio e nelle case è rimasto il nome familiare.",
+        "name_origin": "Il nome Calathea deriva dal greco kalathos, «cesto», in riferimento all'uso delle foglie di alcune specie per intrecciare ceste e avvolgere merci.",
+        "symbolism_story": "Poiché le sue foglie si sollevano al tramonto come in preghiera e si riaprono all'alba, la calathea viene spesso regalata per portare calma ed equilibrio in casa. Ogni nuova foglia disegnata che si srotola è letta come un silenzioso segno di rinnovamento.",
+        "flower_meaning": "Armonia",
+        "uses_list": [
+          {
+            "text": "Coltivata in casa per il fogliame decorativo e vistoso che ravviva le stanze in ombra."
+          },
+          {
+            "text": "Le foglie di alcune specie sono tradizionalmente usate nell'America tropicale per intrecciare ceste e avvolgere cibi."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Armonia",
+            "description": "Le foglie che si ripiegano di notte e si aprono di giorno sono viste come simbolo di equilibrio e di un ritmo sereno."
+          },
+          {
+            "keyword": "Rinnovamento",
+            "description": "Dal centro del cespo si srotolano di continuo foglie nuove, a suggerire nuovi inizi."
+          }
+        ],
+        "toxicity": {
+          "headline": "Sicura per gli animali domestici",
+          "active_compound_display": "Nessuno segnalato",
+          "notes_en": "Nessuna corrispondenza di tossicità in fonti autorevoli; considerata non segnalata (la stima dell'LLM non è verificata).",
+          "human": {
+            "exposure": "Non è segnalata alcuna via di esposizione.",
+            "effect": "Non è segnalato alcun effetto tossico.",
+            "note": "In questo catalogo non è segnalata tossicità per l'uomo; ciò non prova che la pianta sia commestibile o innocua."
+          },
+          "dog": {
+            "exposure": "Non è segnalata alcuna via di esposizione.",
+            "effect": "Non è segnalato alcun effetto tossico.",
+            "note": "Fonti autorevoli indicano che questa pianta non è tossica per i cani; ciò non prova che sia commestibile."
+          },
+          "cat": {
+            "exposure": "Non è segnalata alcuna via di esposizione.",
+            "effect": "Non è segnalato alcun effetto tossico.",
+            "note": "Fonti autorevoli indicano che questa pianta non è tossica per i gatti; ciò non prova che sia commestibile."
           }
         }
       }

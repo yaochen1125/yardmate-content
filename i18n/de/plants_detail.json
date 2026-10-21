@@ -3,8 +3,8 @@
   "locale": "de",
   "source": {
     "resource": "plants_detail.json",
-    "sha256": "c3a15f2273c2cb07d4b85e30246ea95218b687a3d3f1b2d4a37915ce2daa2475",
-    "record_count": 1771
+    "sha256": "ced62322dba07bf35fa6462a405e70cd47afe5bd07e158b923ff38760230a5d9",
+    "record_count": 1772
   },
   "records": {
     "AAA0001": {
@@ -108325,6 +108325,56 @@
             "exposure": "Es ist kein Expositionsweg berichtet.",
             "effect": "Es ist keine toxische Wirkung berichtet.",
             "note": "In diesem Katalog ist keine Toxizität für Katzen berichtet; das ist kein Beleg dafür, dass die Pflanze essbar oder harmlos ist."
+          }
+        }
+      }
+    },
+    "AAA1773": {
+      "source_hash": "d3466075cf25573544072e9be40a8f7bdf1eaac63f235d4bc2a8640b7ee5d16d",
+      "fields": {
+        "common_name": "Korbmaranten",
+        "description": "Die Korbmarante (Calathea) ist eine Gattung tropischer, immergrüner Stauden aus Amerika, die wegen ihrer kräftig gemusterten Blätter als Zimmerpflanze geschätzt wird. Die ovalen bis lanzettlichen Blätter sind gestreift, gefiedert oder gefleckt in Grün-, Silber-, Creme- und Violetttönen und haben oft eine weinrote Unterseite. Die Pflanzen bilden etwa 0,5 bis 1,5 m hohe Horste und mögen helles, indirektes Licht, gleichmäßige Feuchte und hohe Luftfeuchtigkeit. Ihre Blätter heben sich abends und klappen nach oben, eine Bewegung, die manchen Arten den Beinamen Gebetspflanze eingebracht hat.",
+        "history_text_short": "Der Name Korbmarante geht auf das griechische kalathos, „Korb“, zurück: Menschen im tropischen Amerika flochten aus den Blättern Körbe und nutzten sie als Verpackung. Heute ist sie eine begehrte Zimmerpflanze, deren gemusterte Blätter sich im Rhythmus des Lichts heben und senken.",
+        "history_text_long": "Die Gattung Calathea wurde 1818 vom deutschen Botaniker Georg Friedrich Wilhelm Meyer anhand von Pflanzen aus dem tropischen Amerika beschrieben. Den Namen bildete er aus dem griechischen kalathos, „Korb“, weil die breiten, festen Blätter mehrerer Arten dort bereits zum Flechten von Körben und zum Einwickeln von Speisen und Waren dienten. Einige Arten, etwa die Zigarren-Korbmarante, lieferten den Menschen vor Ort einen praktischen Rohstoff, der wild im feuchten Waldunterwuchs wuchs.\n\nIm 19. Jahrhundert lernten europäische Sammler diese Pflanzen kennen, als Gewächshäuser in Mode waren und tropisches Laub als Zeichen botanischen Ehrgeizes galt. Die Korbmarante erwies sich als anspruchsvoll, aber lohnend: Ihre Blätter sind wie mit dem Pinsel gemalt, und jedes hebt sich zum Abend hin und senkt sich am Morgen wieder – eine langsame tägliche Bewegung, die Nyktinastie genannt wird. Wer beobachtete, wie sich die Blätter in der Dämmerung nach oben falteten, nannte verwandte Pflanzen bald Gebetspflanzen.\n\nIm 20. Jahrhundert zog die Korbmarante aus dem Gewächshaus in gewöhnliche Wohnungen. Ihre Eigenheiten mussten Pflanzenfreunde auf die harte Tour lernen: Sie schmollt bei trockener Luft, verbrennt in praller Sonne und bekommt braune Ränder, wenn man sie mit hartem Wasser gießt – belohnt geduldige Pflege aber mit einem steten Nachschub an neuen, fein gezeichneten Blättern.\n\nDie Botanik hat die Gattung inzwischen neu betrachtet. 2012 verschob eine Untersuchung der Familie der Marantengewächse viele frühere Calathea-Arten in die Gattung Goeppertia, sodass eine als Calathea verkaufte Pflanze unter beiden Namen geführt werden kann. Im Handel und in den Wohnungen ist der vertraute Name geblieben.",
+        "name_origin": "Der Name Calathea stammt vom griechischen kalathos, „Korb“, und verweist darauf, dass die Blätter einiger Arten zum Flechten von Körben und zum Einwickeln von Waren verwendet wurden.",
+        "symbolism_story": "Weil sich ihre Blätter abends wie zum Gebet aufrichten und morgens wieder öffnen, wird die Korbmarante gern verschenkt, um Ruhe und Ausgeglichenheit in ein Zuhause zu bringen. Jedes neu entrollte gemusterte Blatt gilt als stilles Zeichen der Erneuerung.",
+        "flower_meaning": "Harmonie",
+        "uses_list": [
+          {
+            "text": "Wird wegen ihres auffälligen, gemusterten Laubs drinnen gezogen und belebt schattige Räume."
+          },
+          {
+            "text": "Die Blätter mancher Arten werden im tropischen Amerika traditionell zum Flechten von Körben und zum Einwickeln von Speisen verwendet."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Harmonie",
+            "description": "Blätter, die sich nachts falten und tagsüber öffnen, gelten als Sinnbild für Gleichgewicht und ruhigen Rhythmus."
+          },
+          {
+            "keyword": "Erneuerung",
+            "description": "Aus der Mitte des Horstes entrollen sich stetig neue Blätter, die an Neuanfänge erinnern."
+          }
+        ],
+        "toxicity": {
+          "headline": "Für Haustiere unbedenklich",
+          "active_compound_display": "Keine gemeldet",
+          "notes_en": "Es wurde keine Giftigkeit gemeldet; die Einschätzung ist nicht quellengeprüft.",
+          "human": {
+            "exposure": "Es ist kein Aufnahmeweg gemeldet.",
+            "effect": "Es ist keine giftige Wirkung gemeldet.",
+            "note": "Für Menschen ist in diesem Katalog keine Giftigkeit gemeldet; das ist kein Beleg dafür, dass die Pflanze essbar oder harmlos ist."
+          },
+          "dog": {
+            "exposure": "Es ist kein Aufnahmeweg gemeldet.",
+            "effect": "Es ist keine giftige Wirkung gemeldet.",
+            "note": "Maßgebliche Quellen stufen diese Pflanze für Hunde als ungiftig ein; das ist kein Beleg dafür, dass sie essbar ist."
+          },
+          "cat": {
+            "exposure": "Es ist kein Aufnahmeweg gemeldet.",
+            "effect": "Es ist keine giftige Wirkung gemeldet.",
+            "note": "Maßgebliche Quellen stufen diese Pflanze für Katzen als ungiftig ein; das ist kein Beleg dafür, dass sie essbar ist."
           }
         }
       }

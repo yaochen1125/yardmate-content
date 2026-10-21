@@ -3,8 +3,8 @@
   "locale": "vi",
   "source": {
     "resource": "plants_detail.json",
-    "sha256": "c3a15f2273c2cb07d4b85e30246ea95218b687a3d3f1b2d4a37915ce2daa2475",
-    "record_count": 1771
+    "sha256": "ced62322dba07bf35fa6462a405e70cd47afe5bd07e158b923ff38760230a5d9",
+    "record_count": 1772
   },
   "records": {
     "AAA0001": {
@@ -108339,6 +108339,56 @@
             "exposure": "Chưa có báo cáo về đường phơi nhiễm.",
             "effect": "Chưa có báo cáo về tác dụng độc.",
             "note": "Danh mục này không có báo cáo về độc tính đối với mèo; điều này không chứng minh cây ăn được hoặc vô hại."
+          }
+        }
+      }
+    },
+    "AAA1773": {
+      "source_hash": "d3466075cf25573544072e9be40a8f7bdf1eaac63f235d4bc2a8640b7ee5d16d",
+      "fields": {
+        "common_name": "Calathea",
+        "description": "Calathea là một chi cây thân thảo sống lâu năm thường xanh vùng nhiệt đới có nguồn gốc châu Mỹ, được trồng trong nhà vì lá có hoa văn nổi bật. Phiến lá hình bầu dục đến mũi mác, có sọc, hình lông chim hoặc đốm với các sắc xanh lục, bạc, kem và tím, mặt dưới thường màu đỏ đô. Cây mọc thành bụi cao khoảng 0,5 đến 1,5 m, ưa ánh sáng gián tiếp mạnh, độ ẩm đều và không khí ẩm cao. Lá cây dựng lên và khép lại vào ban đêm, chuyển động này khiến nhiều loài được gọi là cây cầu nguyện.",
+        "history_text_short": "Tên gọi bắt nguồn từ tiếng Hy Lạp kalathos, nghĩa là «cái giỏ»: ở vùng nhiệt đới châu Mỹ, người ta dùng lá để đan giỏ và gói thức ăn. Ngày nay đây là cây cảnh trong nhà được ưa chuộng, lá có hoa văn nâng lên rồi khép lại theo nhịp ánh sáng.",
+        "history_text_long": "Chi Calathea được nhà thực vật học người Đức Georg Friedrich Wilhelm Meyer mô tả vào năm 1818 dựa trên các cây ở vùng nhiệt đới châu Mỹ. Ông đặt tên từ tiếng Hy Lạp kalathos, nghĩa là «cái giỏ», vì lá to bản và chắc của nhiều loài ở đó vốn đã được dùng để đan giỏ và gói thức ăn, hàng hóa. Một số loài, chẳng hạn Calathea điếu xì gà, còn cung cấp cho cộng đồng địa phương một nguyên liệu hữu ích mọc hoang dưới tán rừng ẩm.\n\nCác nhà sưu tầm châu Âu biết đến những cây này vào thế kỷ 19, khi nhà kính đang thịnh hành và tán lá nhiệt đới là dấu hiệu của tham vọng thực vật học. Calathea hóa ra khó trồng nhưng đáng công: lá như được vẽ bằng cọ, mỗi chiếc dựng lên về chiều và hạ xuống vào buổi sáng, một chuyển động chậm theo ngày gọi là hiện tượng ngủ của lá. Những người thấy lá gập lên lúc hoàng hôn bắt đầu gọi các cây họ hàng là cây cầu nguyện.\n\nSang thế kỷ 20, Calathea từ nhà kính vào các ngôi nhà bình thường. Người trồng học tính nết của nó qua trải nghiệm: cây dỡn dỗi khi không khí khô, cháy lá dưới nắng gắt và nâu mép khi tưới nước cứng, nhưng đền đáp sự chăm sóc kiên nhẫn bằng những chiếc lá mới có hoa văn tinh xảo liên tục xuất hiện.\n\nSau đó các nhà thực vật học đã xem xét lại chi này. Năm 2012, một nghiên cứu về họ Marantaceae đã chuyển nhiều loài Calathea cũ sang chi Goeppertia, nên một cây bán dưới tên Calathea có thể được ghi theo cả hai tên. Trong buôn bán và trong mỗi gia đình, cái tên quen thuộc vẫn được giữ.",
+        "name_origin": "Tên Calathea bắt nguồn từ tiếng Hy Lạp kalathos, nghĩa là «cái giỏ», ám chỉ việc lá của một số loài được dùng để đan giỏ và gói hàng hóa.",
+        "symbolism_story": "Vì lá dựng lên lúc chiều tà như đang cầu nguyện và mở ra lại lúc bình minh, Calathea thường được tặng với mong muốn mang lại sự yên bình và cân bằng cho ngôi nhà. Mỗi chiếc lá mới có hoa văn bung ra được xem như một dấu hiệu lặng lẽ của sự đổi mới.",
+        "flower_meaning": "Hòa hợp",
+        "uses_list": [
+          {
+            "text": "Được trồng trong nhà vì tán lá hoa văn nổi bật, làm bừng sáng những căn phòng thiếu sáng."
+          },
+          {
+            "text": "Lá của một số loài từ lâu được dùng ở vùng nhiệt đới châu Mỹ để đan giỏ và gói thức ăn."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Hòa hợp",
+            "description": "Lá khép lại ban đêm và mở ra ban ngày được xem là biểu tượng của sự cân bằng và nhịp điệu êm đềm."
+          },
+          {
+            "keyword": "Đổi mới",
+            "description": "Lá mới liên tục bung ra từ giữa bụi cây, gợi nhớ những khởi đầu mới."
+          }
+        ],
+        "toxicity": {
+          "headline": "An toàn cho thú cưng",
+          "active_compound_display": "Không có báo cáo",
+          "notes_en": "Không tìm thấy thông tin độc tính khớp trong các nguồn uy tín; được coi là chưa có báo cáo (ước tính của LLM chưa được nguồn nào xác minh).",
+          "human": {
+            "exposure": "Không có báo cáo về đường phơi nhiễm.",
+            "effect": "Không có báo cáo về tác dụng độc.",
+            "note": "Danh mục này không ghi nhận độc tính đối với con người; điều đó không chứng minh cây ăn được hay vô hại."
+          },
+          "dog": {
+            "exposure": "Không có báo cáo về đường phơi nhiễm.",
+            "effect": "Không có báo cáo về tác dụng độc.",
+            "note": "Các nguồn uy tín cho biết cây này không độc với chó; điều đó không chứng minh cây ăn được."
+          },
+          "cat": {
+            "exposure": "Không có báo cáo về đường phơi nhiễm.",
+            "effect": "Không có báo cáo về tác dụng độc.",
+            "note": "Các nguồn uy tín cho biết cây này không độc với mèo; điều đó không chứng minh cây ăn được."
           }
         }
       }

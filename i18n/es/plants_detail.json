@@ -3,8 +3,8 @@
   "locale": "es",
   "source": {
     "resource": "plants_detail.json",
-    "sha256": "c3a15f2273c2cb07d4b85e30246ea95218b687a3d3f1b2d4a37915ce2daa2475",
-    "record_count": 1771
+    "sha256": "ced62322dba07bf35fa6462a405e70cd47afe5bd07e158b923ff38760230a5d9",
+    "record_count": 1772
   },
   "records": {
     "AAA0001": {
@@ -108339,6 +108339,56 @@
             "exposure": "No se informa de ninguna vía de exposición.",
             "effect": "No se informa de ningún efecto tóxico.",
             "note": "En este catálogo no se informa de toxicidad para los gatos; esto no es prueba de que la planta sea comestible o inofensiva."
+          }
+        }
+      }
+    },
+    "AAA1773": {
+      "source_hash": "d3466075cf25573544072e9be40a8f7bdf1eaac63f235d4bc2a8640b7ee5d16d",
+      "fields": {
+        "common_name": "Calatea",
+        "description": "La calatea (Calathea) es un género de plantas perennes tropicales de hoja perenne originarias de América, cultivadas en interior por sus hojas de dibujos llamativos. Las láminas, de ovales a lanceoladas, están rayadas, plumeadas o moteadas en tonos de verde, plata, crema y púrpura, y a menudo tienen el envés granate. Forma macollas de 0,5 a 1,5 m de altura y prefiere luz brillante indirecta, humedad constante y mucha humedad ambiental. Sus hojas se levantan y se pliegan por la noche, un movimiento que ha dado a varias especies el apodo de planta de la oración.",
+        "history_text_short": "Su nombre procede del griego kalathos, «cesta»: en la América tropical se tejían cestas con sus hojas y se usaban para envolver alimentos. Hoy es una planta de interior muy apreciada, cuyas hojas estampadas se alzan y se pliegan al ritmo diario de la luz.",
+        "history_text_long": "El género Calathea fue descrito en 1818 por el botánico alemán Georg Friedrich Wilhelm Meyer a partir de plantas de la América tropical. Formó el nombre con el griego kalathos, «cesta», porque las hojas anchas y resistentes de varias especies ya se empleaban allí para tejer cestas y envolver alimentos y mercancías. Algunas especies, como la calatea cigarro, ofrecían además a las comunidades locales una materia prima útil que crecía de forma silvestre en el sotobosque húmedo.\n\nLos coleccionistas europeos conocieron estas plantas en el siglo XIX, cuando los invernaderos estaban de moda y el follaje tropical era señal de ambición botánica. La calatea resultó difícil pero gratificante: sus hojas parecen pintadas a pincel y cada una se levanta al caer la tarde y vuelve a bajar por la mañana, un lento movimiento diario conocido como nictinastia. Quienes veían las hojas plegarse hacia arriba al anochecer empezaron a llamar plantas de la oración a otras parecidas.\n\nEn el siglo XX la calatea pasó del invernadero a los hogares corrientes. Los aficionados aprendieron sus costumbres a base de errores: se resiente con el aire seco, se quema al sol directo y se le oscurecen los bordes si se riega con agua dura, pero recompensa los cuidados pacientes con un flujo constante de hojas nuevas y finamente dibujadas.\n\nLos botánicos han revisado después el género. En 2012 un estudio de la familia Marantaceae trasladó muchas de las antiguas especies de Calathea al género Goeppertia, de modo que una planta vendida como calatea puede figurar con cualquiera de los dos nombres. En los comercios y en los hogares ha seguido usándose el nombre conocido.",
+        "name_origin": "El nombre Calathea procede del griego kalathos, «cesta», en referencia al uso de las hojas de algunas especies para tejer cestas y envolver mercancías.",
+        "symbolism_story": "Como sus hojas se alzan al anochecer como en oración y se abren de nuevo al amanecer, la calatea se regala a menudo para llevar calma y equilibrio al hogar. Cada hoja nueva y estampada que se desenrolla se interpreta como una señal silenciosa de renovación.",
+        "flower_meaning": "Armonía",
+        "uses_list": [
+          {
+            "text": "Se cultiva en interior por su follaje estampado y llamativo, que alegra las estancias con poca luz."
+          },
+          {
+            "text": "Las hojas de algunas especies se usan tradicionalmente en la América tropical para tejer cestas y envolver alimentos."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Armonía",
+            "description": "Las hojas que se pliegan de noche y se abren de día se ven como símbolo de equilibrio y de un ritmo sereno."
+          },
+          {
+            "keyword": "Renovación",
+            "description": "Del centro de la mata brotan hojas nuevas de forma constante, como un recordatorio de nuevos comienzos."
+          }
+        ],
+        "toxicity": {
+          "headline": "Segura para mascotas",
+          "active_compound_display": "Ninguno notificado",
+          "notes_en": "No se ha encontrado una coincidencia de toxicidad en fuentes autorizadas; se trata como no notificada (la estimación del LLM no está verificada).",
+          "human": {
+            "exposure": "No se notifica ninguna vía de exposición.",
+            "effect": "No se notifica ningún efecto tóxico.",
+            "note": "En este catálogo no se notifica toxicidad para las personas; esto no demuestra que la planta sea comestible ni inofensiva."
+          },
+          "dog": {
+            "exposure": "No se notifica ninguna vía de exposición.",
+            "effect": "No se notifica ningún efecto tóxico.",
+            "note": "Fuentes autorizadas indican que esta planta no es tóxica para los perros; esto no demuestra que sea comestible."
+          },
+          "cat": {
+            "exposure": "No se notifica ninguna vía de exposición.",
+            "effect": "No se notifica ningún efecto tóxico.",
+            "note": "Fuentes autorizadas indican que esta planta no es tóxica para los gatos; esto no demuestra que sea comestible."
           }
         }
       }

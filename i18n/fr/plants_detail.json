@@ -3,8 +3,8 @@
   "locale": "fr",
   "source": {
     "resource": "plants_detail.json",
-    "sha256": "c3a15f2273c2cb07d4b85e30246ea95218b687a3d3f1b2d4a37915ce2daa2475",
-    "record_count": 1771
+    "sha256": "ced62322dba07bf35fa6462a405e70cd47afe5bd07e158b923ff38760230a5d9",
+    "record_count": 1772
   },
   "records": {
     "AAA0001": {
@@ -108325,6 +108325,56 @@
             "exposure": "Aucune voie d'exposition n'est signalée.",
             "effect": "Aucun effet toxique n'est signalé.",
             "note": "Aucune toxicité pour les chats n'est signalée dans ce catalogue ; ce n'est pas une preuve que la plante est comestible ou inoffensive."
+          }
+        }
+      }
+    },
+    "AAA1773": {
+      "source_hash": "d3466075cf25573544072e9be40a8f7bdf1eaac63f235d4bc2a8640b7ee5d16d",
+      "fields": {
+        "common_name": "Calathéa",
+        "description": "Le calathéa (Calathea) est un genre de vivaces tropicales à feuillage persistant, originaires d'Amérique, cultivées en intérieur pour leurs feuilles aux motifs marqués. Les limbes, ovales à lancéolés, sont rayés, plumeux ou tachetés de vert, d'argent, de crème et de pourpre, avec souvent un revers bordeaux. Les plantes forment des touffes d'environ 0,5 à 1,5 m de haut et apprécient une lumière vive indirecte, une humidité régulière et un air très humide. Leurs feuilles se redressent et se replient la nuit, un mouvement qui a valu à plusieurs espèces le surnom de plante de la prière.",
+        "history_text_short": "Son nom vient du grec kalathos, « corbeille » : en Amérique tropicale, on tressait des paniers avec ses feuilles et on s'en servait pour envelopper les aliments. Aujourd'hui, c'est une plante d'intérieur prisée, dont les feuilles ornées se lèvent et se replient au rythme de la lumière.",
+        "history_text_long": "Le genre Calathea a été décrit en 1818 par le botaniste allemand Georg Friedrich Wilhelm Meyer, à partir de plantes de l'Amérique tropicale. Il en a formé le nom à partir du grec kalathos, « corbeille », parce que les feuilles larges et robustes de plusieurs espèces y servaient déjà à tresser des paniers et à envelopper nourriture et marchandises. Certaines espèces, comme le calathéa cigare, fournissaient en outre aux communautés locales une matière première pratique qui poussait à l'état sauvage dans le sous-bois humide.\n\nLes collectionneurs européens ont découvert ces plantes au XIXe siècle, à l'époque où les serres étaient à la mode et où le feuillage tropical témoignait d'une ambition botanique. Le calathéa s'est révélé difficile mais gratifiant : ses feuilles semblent peintes au pinceau, et chacune se redresse vers le soir puis s'abaisse le matin, un lent mouvement quotidien appelé nyctinastie. Ceux qui observaient les feuilles se replier vers le haut au crépuscule ont fini par appeler plantes de la prière des plantes apparentées.\n\nAu XXe siècle, le calathéa a quitté la serre pour entrer dans les foyers ordinaires. Les jardiniers ont appris ses habitudes à leurs dépens : il boude dans un air sec, brûle en plein soleil et brunit sur les bords quand on l'arrose d'eau dure, mais il récompense les soins patients par un renouvellement constant de feuilles nouvelles aux dessins délicats.\n\nLes botanistes ont depuis révisé le genre. En 2012, une étude de la famille des Marantacées a déplacé de nombreuses anciennes espèces de Calathea vers le genre Goeppertia ; une plante vendue comme calathéa peut donc être répertoriée sous l'un ou l'autre nom. Dans le commerce comme dans les maisons, le nom familier est resté.",
+        "name_origin": "Le nom Calathea vient du grec kalathos, « corbeille », en référence à l'usage des feuilles de certaines espèces pour tresser des paniers et envelopper des marchandises.",
+        "symbolism_story": "Parce que ses feuilles se dressent au crépuscule comme en prière et se rouvrent à l'aube, le calathéa s'offre souvent pour apporter calme et équilibre à la maison. Chaque nouvelle feuille ornée qui se déroule est lue comme un discret signe de renouveau.",
+        "flower_meaning": "Harmonie",
+        "uses_list": [
+          {
+            "text": "Cultivé en intérieur pour son feuillage marqué et spectaculaire, qui égaye les pièces peu éclairées."
+          },
+          {
+            "text": "Les feuilles de certaines espèces servent traditionnellement en Amérique tropicale à tresser des paniers et à envelopper des aliments."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Harmonie",
+            "description": "Des feuilles qui se replient la nuit et s'ouvrent le jour sont perçues comme un symbole d'équilibre et de rythme paisible."
+          },
+          {
+            "keyword": "Renouveau",
+            "description": "De nouvelles feuilles se déroulent régulièrement au cœur de la touffe, évoquant de nouveaux départs."
+          }
+        ],
+        "toxicity": {
+          "headline": "Sans danger pour les animaux",
+          "active_compound_display": "Aucun signalé",
+          "notes_en": "Aucune correspondance de toxicité dans les sources faisant autorité ; considéré comme non signalé (l'estimation du LLM n'est pas vérifiée).",
+          "human": {
+            "exposure": "Aucune voie d'exposition n'est signalée.",
+            "effect": "Aucun effet toxique n'est signalé.",
+            "note": "Aucune toxicité n'est signalée pour l'humain dans ce catalogue ; cela ne prouve pas que la plante soit comestible ou inoffensive."
+          },
+          "dog": {
+            "exposure": "Aucune voie d'exposition n'est signalée.",
+            "effect": "Aucun effet toxique n'est signalé.",
+            "note": "Les sources faisant autorité indiquent que cette plante n'est pas toxique pour les chiens ; cela ne prouve pas qu'elle soit comestible."
+          },
+          "cat": {
+            "exposure": "Aucune voie d'exposition n'est signalée.",
+            "effect": "Aucun effet toxique n'est signalé.",
+            "note": "Les sources faisant autorité indiquent que cette plante n'est pas toxique pour les chats ; cela ne prouve pas qu'elle soit comestible."
           }
         }
       }
