@@ -3,8 +3,8 @@
   "locale": "fr",
   "source": {
     "resource": "plants_detail.json",
-    "sha256": "e0153e974d0a41311d13677b7d9eb3587a5250002e404159f57097c4412a6292",
-    "record_count": 1762
+    "sha256": "f9127581dd2fa1d2564a82b64f48bc0543fdfd1b8363b6b4d759c25afb953f34",
+    "record_count": 1764
   },
   "records": {
     "AAA0001": {
@@ -107758,6 +107758,121 @@
           "cat": {
             "exposure": "Aucune voie d'exposition n'est signalée.",
             "effect": "Aucun effet toxique n'est signalé.",
+            "note": "Aucune toxicité n'est signalée pour les chats dans ce catalogue ; cela ne prouve pas que la plante soit comestible ou inoffensive."
+          }
+        }
+      }
+    },
+    "AAA1764": {
+      "source_hash": "aad6dcd58d06f909396034d04b15b0f7bf2454212b155f78744f3c93f4ef72d5",
+      "fields": {
+        "common_name": "Persea",
+        "bloom_tip": "Les fleurs sont petites, pâles et faciles à manquer ; on les apprécie mieux de près, au début du printemps.",
+        "fruit_tip": "Les fruits du genre sont surtout de petites drupes sombres à une seule graine, prisées par les oiseaux et la faune sauvage plutôt que par les humains, à une célèbre exception près : l'avocat.",
+        "description": "Persea est un genre d'environ 150 arbres et arbustes persistants de la famille du laurier, les Lauraceae, connus pour leur feuillage aromatique et coriace et leurs petites fleurs discrètes, dont mûrit un fruit charnu à une seule graine. La plupart des espèces poussent discrètement à l'état sauvage, dispersées du Mexique et des Caraïbes jusqu'aux forêts de nuages ancestrales des îles Canaries et de Madère, vestiges d'une forêt de laurier qui ceinturait autrefois la Méditerranée avant les glaciations. Un membre du genre est devenu l'avocat, une culture vivrière mondiale, mais la plupart des Persea restent des habitants de la forêt : ils nourrissent oiseaux et papillons, ombragent le sous-bois et ancrent discrètement les vieilles forêts qu'ils habitent.",
+        "history_text_short": "Longtemps avant qu'on les appelle Persea, ces arbres de la famille du laurier formaient des forêts anciennes sur des îles et des continents séparés par un océan. Aux îles Canaries, leur bois rougeâtre et durable, le vinatigo, a encadré des balcons sculptés pendant des siècles. En Amérique, un parent est discrètement devenu l'avocat, tandis que d'autres abritent encore papillons et oiseaux chanteurs dans de vieilles forêts.",
+        "history_text_long": "Il y a des millions d'années, de vastes forêts de laurier à feuilles larges, appelées laurisilva, couvraient une grande partie du bassin méditerranéen, entretenues par un climat doux et humide. Lorsque les glaciations ont asséché et refroidi le continent, ces forêts ont presque toutes disparu, sauf sur une poignée d'îles atlantiques où le brouillard océanique préservait l'ancien climat. Aux îles Canaries et à Madère, les descendants de cette forêt ancienne se dressent encore, et parmi ses plus grands arbres de canopée figure Persea indica, appelé localement vinatigo.\n\nPendant des siècles, les menuisiers canariens ont prisé le bois dense et rougeâtre du vinatigo. Abattu dans la forêt de laurier brumeuse et scié à la main, il était transporté jusqu'à des villes comme San Cristóbal de la Laguna, où il était façonné en balcons sculptés, plafonds à caissons et lourdes poutres de toit qui définissent encore l'architecture historique de l'île. Le récolter signifiait marcher profondément dans une forêt à peine changée depuis bien avant l'existence de la ville.\n\nDe l'autre côté de l'Atlantique, d'autres espèces de Persea se sont enracinées dans les marécages et forêts côtières du sud-est des États-Unis. Les redbays et swamp bays y ont nourri papillons et oiseaux frugivores pendant des millénaires, jusqu'à l'arrivée, vers 2002, d'un scolyte ambrosia invasif porteur d'un champignon provoquant le flétrissement du laurier. La maladie a depuis tué des centaines de millions de ces arbres sauvages et menace aujourd'hui la seule espèce de Persea que presque tout le monde connaît, l'avocat, dont les parents sauvages du Mexique et d'Amérique centrale ont offert au monde un fruit devenu une culture mondiale. La majeure partie du genre, cependant, continue de vivre comme toujours, enracinée dans de vieilles forêts, nourrissant la faune, largement ignorée par ceux qui passent dessous.",
+        "name_origin": "Le nom du genre vient du grec ancien persea, utilisé par des auteurs comme Théophraste et Pline l'Ancien pour un arbre fruitier cultivé en Égypte et en Perse, presque certainement une espèce différente. Carl von Linné a repris cet ancien nom en 1753 pour ce groupe très différent de lauriers du Nouveau Monde et de Macaronésie, et il est resté depuis.",
+        "symbolism_story": "L'histoire de Persea est celle d'une endurance aux marges : des forêts de laurisilva anciennes qui n'ont survécu aux glaciations que sur des îles reculées, des arbres à bois qui ont discrètement bâti des villes dont personne ne leur attribue le mérite, et des parents sauvages qui combattent aujourd'hui une maladie introduite tandis que leur cousin le plus célèbre, l'avocat, conquiert les rayons des supermarchés du monde entier. Le genre fait rarement la une ; il persiste, simplement.",
+        "flower_meaning": "Résilience",
+        "fragrance": {
+          "notes": "Les feuilles meurtries ou froissées dégagent un parfum doux, rappelant le laurier, légèrement poivré, typique de la famille du laurier."
+        },
+        "uses_list": [
+          {
+            "text": "Le bois dense et rougeâtre du vinatigo, issu de Persea indica, est prisé depuis des siècles dans la menuiserie traditionnelle canarienne, des balcons sculptés aux poutres de toit."
+          },
+          {
+            "text": "Les fruits et les feuilles nourrissent la faune forestière, dont des oiseaux frugivores et des chenilles de papillons porte-queue dépendant du feuillage des redbays et swamp bays."
+          },
+          {
+            "text": "Plusieurs espèces sont cultivées comme arbres d'ombrage persistants appréciés pour leur feuillage brillant et aromatique et leur couronne dense."
+          },
+          {
+            "text": "Les feuilles dégagent un parfum doux rappelant le laurier, typique de la famille, lorsqu'elles sont meurtries ou froissées."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Résilience",
+            "description": "Un genre dont les forêts ont survécu aux glaciations, à la déforestation et aux maladies invasives, perdurant aux marges tandis que le monde continue sa course."
+          },
+          {
+            "keyword": "Abondance discrète",
+            "description": "La plupart des Persea œuvrent sans se faire remarquer, nourrissant oiseaux et papillons et habillant de vieux bâtiments, tandis qu'un parent, l'avocat, a raflé toute la gloire."
+          }
+        ],
+        "toxicity": {
+          "headline": "Aucune toxicité signalée",
+          "active_compound_display": "Aucun signalé",
+          "notes_en": "Aucune correspondance de toxicité faisant autorité trouvée ; traitée comme non signalée (estimation LLM non vérifiée par une source).",
+          "human": {
+            "exposure": "Aucune voie d'exposition signalée.",
+            "effect": "Aucun effet toxique signalé.",
+            "note": "Aucune toxicité pour les humains n'est signalée dans ce catalogue ; cela ne prouve pas que la plante est comestible ou inoffensive."
+          },
+          "dog": {
+            "exposure": "Aucune voie d'exposition signalée.",
+            "effect": "Aucun effet toxique signalé.",
+            "note": "Aucune toxicité pour les chiens n'est signalée dans ce catalogue ; cela ne prouve pas que la plante est comestible ou inoffensive."
+          },
+          "cat": {
+            "exposure": "Aucune voie d'exposition signalée.",
+            "effect": "Aucun effet toxique signalé.",
+            "note": "Aucune toxicité pour les chats n'est signalée dans ce catalogue ; cela ne prouve pas que la plante est comestible ou inoffensive."
+          }
+        }
+      }
+    },
+    "AAA1765": {
+      "source_hash": "092ca87dcd75743a4d9d962d2d751d451fd088c109a2d4ef64fa2fd8679a2fd1",
+      "fields": {
+        "common_name": "Epidendrum",
+        "bloom_tip": "Cette plante fleurit de mai à août, avec des fleurs colorées et voyantes.",
+        "description": "L'Epidendrum est une orchidée compacte à tiges en forme de roseau, originaire d'Amérique du Sud, appréciée pour ses grappes de fleurs roses, orange et jaunes qui couronnent ses tiges fines et cannelées de la fin du printemps à l'été. Ne dépassant que 30 à 60 centimètres de hauteur, elle forme des touffes bien nettes, parfaitement adaptées à un pot sur la terrasse ou à un coin abrité du jardin. Prospérant dans un sol bien drainé et uniformément humide, sous une lumière vive mais filtrée, elle se révèle beaucoup plus facile à vivre que de nombreuses orchidées épiphytes, récompensant un entretien modeste par une couleur éclatante et durable.",
+        "history_text_short": "Les orchidées Epidendrum à tiges en forme de roseau sont devenues des plantes de jardin très prisées en Amérique latine pour leur facilité de culture. Contrairement aux orchidées délicates de serre, elles prospèrent en terre ordinaire et en plein soleil, et leurs boutures se transmettent souvent de voisin à voisin.",
+        "history_text_long": "Longtemps avant que l'Epidendrum ne porte son propre nom, le genre auquel il appartient était déjà bien connu des botanistes. Carl von Linné a forgé ce nom en 1763 à partir du grec epi, « sur », et dendron, « arbre » — une allusion aux nombreuses espèces du genre qui, dans la nature, poussent perchées sur les branches des arbres plutôt qu'enracinées dans le sol. L'espèce aujourd'hui appelée Epidendrum annabellae porte dans son propre épithète une histoire plus personnelle : comme beaucoup d'orchidées décrites au cours des deux derniers siècles, elle fut nommée en l'honneur d'une femme appelée Anabella, selon la vieille coutume botanique consistant à dédier les nouvelles découvertes à des mécènes, des collectionneurs ou des membres de la famille qui soutenaient le travail de terrain dans les forêts et hauts plateaux d'Amérique du Sud où poussent ces orchidées.\n\nCe qui rend cette espèce, et les Epidendrum à tiges en roseau en général, si appréciés dans les jardins domestiques, ce n'est pas leur rareté mais leur résistance. À la différence de nombreuses orchidées plus spectaculaires qui exigent l'humidité d'une serre et des soins minutieux, les Epidendrum prospèrent en plein air dans une terre de jardin ordinaire, supportant le plein soleil, une sécheresse modérée et une négligence occasionnelle. Partout en Amérique latine et dans les Caraïbes, les jardiniers cultivent depuis longtemps des touffes de ces tiges en roseau le long des clôtures et dans des pots en terre cuite sur les terrasses, échangeant des boutures entre voisins comme on partage des herbes ou des plantes succulentes. C'est cette histoire de jardinage quotidienne, transmise de main en main — des plantes qui changent de mains par-dessus une clôture plutôt que vendues sous verre — qui donne à l'Epidendrum son charme discret et démocratique.",
+        "name_origin": "Le nom du genre Epidendrum vient du grec epi (« sur ») et dendron (« arbre »), et décrit les nombreuses espèces qui poussent perchées sur les branches des arbres. L'épithète spécifique annabellae honore une femme appelée Anabella, selon la vieille coutume botanique de nommer les orchidées nouvellement décrites en l'honneur de mécènes, de collectionneurs ou de membres de la famille.",
+        "symbolism_story": "Parce que l'orchidée demande si peu et donne tant — des grappes de couleur sur des tiges enracinées dans une terre de jardin ordinaire —, elle en est venue à symboliser la résilience et la générosité. Les boutures échangées entre voisins portent un message discret : la beauté n'a pas besoin d'être rare ou exigeante pour être précieuse.",
+        "flower_meaning": "Résilience",
+        "uses_list": [
+          {
+            "text": "Cultivé surtout pour ses grappes de fleurs roses, orange et jaunes, éclatantes et durables."
+          },
+          {
+            "text": "Ses fleurs riches en nectar attirent papillons et colibris au jardin."
+          },
+          {
+            "text": "Ses tiges florales robustes en font un choix prisé pour les compositions de fleurs coupées."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Résilience",
+            "description": "Sa capacité à prospérer avec peu de soins fait de l'orchidée un symbole de résilience discrète."
+          },
+          {
+            "keyword": "Amitié",
+            "description": "Comme les boutures sont si souvent partagées entre voisins, la fleur porte aussi un sens de générosité et d'amitié."
+          }
+        ],
+        "toxicity": {
+          "headline": "Aucune toxicité signalée",
+          "active_compound_display": "Aucun signalé",
+          "notes_en": "Aucune correspondance de toxicité faisant autorité n'a été trouvée ; classée comme non signalée (l'estimation du LLM n'est pas vérifiée par des sources).",
+          "human": {
+            "exposure": "Aucune voie d'exposition signalée.",
+            "effect": "Aucun effet toxique signalé.",
+            "note": "Aucune toxicité n'est signalée pour l'humain dans ce catalogue ; cela ne prouve pas que la plante soit comestible ou inoffensive."
+          },
+          "dog": {
+            "exposure": "Aucune voie d'exposition signalée.",
+            "effect": "Aucun effet toxique signalé.",
+            "note": "Aucune toxicité n'est signalée pour les chiens dans ce catalogue ; cela ne prouve pas que la plante soit comestible ou inoffensive."
+          },
+          "cat": {
+            "exposure": "Aucune voie d'exposition signalée.",
+            "effect": "Aucun effet toxique signalé.",
             "note": "Aucune toxicité n'est signalée pour les chats dans ce catalogue ; cela ne prouve pas que la plante soit comestible ou inoffensive."
           }
         }
