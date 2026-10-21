@@ -3,8 +3,8 @@
   "locale": "es",
   "source": {
     "resource": "plants_detail.json",
-    "sha256": "f9127581dd2fa1d2564a82b64f48bc0543fdfd1b8363b6b4d759c25afb953f34",
-    "record_count": 1764
+    "sha256": "997a33c50439cd727f3fb4ea4fc112596be938f53802e730b899c157ee899019",
+    "record_count": 1766
   },
   "records": {
     "AAA0001": {
@@ -107888,6 +107888,147 @@
             "exposure": "No se reporta ninguna vía de exposición.",
             "effect": "No se reporta ningún efecto tóxico.",
             "note": "Este catálogo no reporta toxicidad para gatos; esto no es evidencia de que la planta sea comestible o inofensiva."
+          }
+        }
+      }
+    },
+    "AAA1766": {
+      "source_hash": "2008201d225a5f7c43541158b27e8d77efe1c42f4bb8867b7b5097f86762d6cc",
+      "fields": {
+        "common_name": "Prunus",
+        "bloom_tip": "Esta planta normalmente florece entre abril y junio, con flores hermosas y llamativas.",
+        "fruit_tip": "El fruto madura en verano, es colorido y resulta adecuado para fines ornamentales y usos diversos.",
+        "description": "Prunus es un género numeroso de la familia de las rosáceas, conocido sobre todo por los cerezos, ciruelos, melocotoneros, albaricoqueros, almendros y numerosos árboles ornamentales de flor. Cada primavera, sus ramas estallan en nubes de flores blancas o rosadas que atraen a las abejas antes incluso de que broten las hojas, para luego cubrirse de follaje verde y brillante durante el verano. Muchas especies producen frutos carnosos con un único hueso duro en su interior. Caducifolio y por lo general de crecimiento rápido, Prunus prospera en las regiones templadas del hemisferio norte, apreciado tanto en huertos por su cosecha como en parques y jardines por su breve y espectacular floración.",
+        "history_text_short": "Mucho antes de tener nombre, Prunus ya moldeaba la historia: las almendras se domesticaron en el Creciente Fértil y los melocotones viajaron por la Ruta de la Seda desde China hasta Persia, de donde el melocotón tomó su nombre latino. Sus flores llegaron a apreciarse tanto como sus frutos, inspirando la tradición japonesa del hanami.",
+        "history_text_long": "Miles de años antes de recibir su nombre latino, el género Prunus ya transformaba la dieta humana y las rutas comerciales. Los almendros, entre los primeros árboles que la humanidad domesticó deliberadamente, arraigaron en las colinas del Creciente Fértil hace casi ocho mil años. Los melocotones y los albaricoques siguieron un camino más largo: cultivados primero en la antigua China, viajaron hacia el oeste por las rutas de caravanas de la Ruta de la Seda a través de Asia Central hasta Persia, donde los comerciantes mediterráneos los conocieron y, confundiendo su origen, dieron al melocotón su nombre botánico definitivo, Prunus persica, la «ciruela persa». Los ciruelos, por su parte, se domesticaron de forma independiente en varios lugares a la vez, desde los valles del Cáucaso hasta los huertos de China, mucho antes de que nadie pensara en comparar experiencias. A medida que los árboles de Prunus se extendían, sus flores llegaron a valorarse tanto como sus frutos. En Japón, los cerezos en flor se convirtieron en el centro del hanami, el ritual primaveral de reunirse bajo las ramas solo para ver caer los pétalos, una belleza fugaz que terminó simbolizando la impermanencia en el corazón de la estética japonesa. Desde los huertos de la Edad del Bronce hasta los parques modernos bordeados de cerezos ornamentales, el género ha transmitido la misma lección silenciosa en cada cultura que ha tocado: la abundancia y la belleza, ambas breves, ambas dignas de detenerse a contemplar.",
+        "name_origin": "El nombre del género Prunus es la palabra latina clásica para «ciruelo», usada por escritores romanos como Plinio el Viejo y adoptada después por Linneo como nombre formal del género que abarca ciruelos, cerezos, melocotoneros, albaricoqueros y almendros.",
+        "symbolism_story": "En muchas culturas, las flores de Prunus se han interpretado de la misma manera: un estallido breve e intenso de belleza que no puede durar. En Japón esto se convirtió en mono no aware, la suave melancolía por las cosas efímeras, celebrada cada primavera cuando las multitudes se reúnen bajo los cerezos en flor para el hanami. En otros lugares, esas mismas flores, que brotan sobre la madera desnuda del invierno, se convirtieron simplemente en un signo de renovación y resiliencia.",
+        "flower_meaning": "Renovación",
+        "fragrance": {
+          "notes": "Un aroma floral delicado y dulce que flota en el aire primaveral, más intenso en días cálidos y tranquilos."
+        },
+        "uses_list": [
+          {
+            "text": "Cultivado en todo el mundo por su floración primaveral abundante y breve en parques, calles y jardines."
+          },
+          {
+            "text": "Sus flores tempranas son una fuente importante de néctar y polen para las abejas."
+          },
+          {
+            "text": "Muchas especies producen frutos de hueso y frutos secos comestibles, como ciruelas, cerezas, melocotones, albaricoques y almendras."
+          },
+          {
+            "text": "Las ramas floridas se cortan y se fuerzan en interiores para arreglos estacionales y decoraciones festivas."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Renovación",
+            "description": "El repentino estallido de flores tras las ramas desnudas del invierno convierte a Prunus en un emblema universal de la primavera y los nuevos comienzos."
+          },
+          {
+            "keyword": "Impermanencia",
+            "description": "Como las flores caen pocos días después de abrirse, la cultura japonesa del hanami las interpreta como una meditación sobre la belleza de lo efímero."
+          }
+        ],
+        "toxicity": {
+          "headline": "Tóxico para mascotas",
+          "active_compound_display": "amigdalina y prunasina",
+          "notes_en": "Las semillas (huesos), las hojas marchitas y la corteza contienen glucósidos cianogénicos que liberan cianuro tóxico al masticarse, aplastarse o marchitarse; la pulpa madura del fruto en sí no es tóxica.",
+          "human": {
+            "exposure": "No se ha informado ninguna vía de exposición.",
+            "effect": "No se ha informado ningún efecto tóxico.",
+            "note": "La toxicidad en humanos no está bien documentada; se recomienda precaución hasta que se verifique."
+          },
+          "dog": {
+            "exposure": "Ingestión de semillas, hojas, corteza y tallos.",
+            "effect": "Vómitos, pupilas dilatadas, dificultad para respirar y colapso.",
+            "note": "Las semillas (huesos), las hojas marchitas y la corteza contienen glucósidos cianogénicos que liberan cianuro tóxico al masticarse, aplastarse o marchitarse; la pulpa madura del fruto en sí no es tóxica.",
+            "symptoms": [
+              "Vómitos.",
+              "Pupilas dilatadas.",
+              "Dificultad para respirar.",
+              "Colapso."
+            ]
+          },
+          "cat": {
+            "exposure": "Ingestión de semillas, hojas, corteza y tallos.",
+            "effect": "Vómitos, pupilas dilatadas, dificultad para respirar y colapso.",
+            "note": "Las semillas (huesos), las hojas marchitas y la corteza contienen glucósidos cianogénicos que liberan cianuro tóxico al masticarse, aplastarse o marchitarse; la pulpa madura del fruto en sí no es tóxica.",
+            "symptoms": [
+              "Vómitos.",
+              "Pupilas dilatadas.",
+              "Dificultad para respirar.",
+              "Colapso."
+            ]
+          }
+        }
+      }
+    },
+    "AAA1767": {
+      "source_hash": "3350467537f5c2dfe83dc74d60b153dfa0fa4b1eb8ceb4282fff1a5131d0bfa6",
+      "fields": {
+        "common_name": "Yucca",
+        "description": "Yucca es un género de plantas perennes en roseta, nativas de los desiertos, pastizales secos y dunas costeras de Norteamérica, México y el Caribe. Sus hojas rígidas en forma de espada terminan en una punta afilada, formando una mata arquitectónica llamativa que tolera el calor intenso y la sequía prolongada. En verano, una alta vara floral se eleva desde la roseta, con racimos de flores blancas cerosas en forma de campana, polinizadas casi exclusivamente por las mariposas de la yuca. Fácil de cuidar y vistosa, la Yucca es una planta protagonista para xerojardines, patios y jardines de rocas.",
+        "history_text_short": "Para los pueblos del desierto, la Yucca era vital: sus hojas fibrosas se tejían en cuerdas, sandalias y cestas, mientras su raíz rica en saponinas se machacaba para producir espuma jabonosa, lo que le dio el nombre de 'hierba de jabón'. Sus flores cerosas también dependen casi por completo de una sola especie de mariposa para su polinización, una asociación tan precisa que se convirtió en un ejemplo clásico de coevolución.",
+        "history_text_long": "Para los pueblos indígenas de los desiertos de Norteamérica, la Yucca era mucho más que una llamativa planta del desierto: era un recurso central para la supervivencia diaria. Las largas hojas fibrosas se partían, machacaban y retorcían para fabricar cuerdas, sandalias, cestas y esteras lo bastante resistentes para soportar el terreno áspero, mientras los tallos florales secos servían para encender fuego. Quizá el uso más notable fue el de la raíz: rica en saponinas naturales, se machacaba y batía en agua para producir una espuma jabonosa usada para lavar el cabello, bañarse y limpiar lana, lo que dio a varias especies el nombre común de 'hierba de jabón'. Más allá de su utilidad, la Yucca protagoniza una de las asociaciones más célebres de la botánica. Sus flores cerosas en forma de campana dependen casi por completo de un único grupo de insectos, las mariposas de la yuca, para su polinización. Por la noche, una hembra reúne el polen en una bolita, la lleva hasta otra flor y la presiona deliberadamente sobre el estigma antes de poner sus huevos dentro de la cápsula de semillas en desarrollo, asegurando así tanto el alimento de su descendencia como la reproducción de la planta. Ninguna de las dos especies puede completar su ciclo de vida sin la otra, una relación tan precisa que los naturalistas del siglo XIX la usaron como una llamativa evidencia temprana de las teorías de coevolución de Darwin. De herramienta práctica del desierto a prueba viviente de las intrincadas asociaciones de la naturaleza, la Yucca ha estado durante mucho tiempo en la encrucijada entre la supervivencia humana y la maravilla natural.",
+        "name_origin": "El nombre 'Yucca' proviene de una palabra caribeña (taína) para la yuca o mandioca, una raíz feculenta sin relación con esta planta; los primeros botánicos europeos transfirieron por error el nombre a esta espinosa planta del desierto, y se mantuvo cuando Linneo lo adoptó formalmente.",
+        "symbolism_story": "En muchas culturas del desierto, las hojas en forma de lanza de la Yucca se plantaban junto a las puertas como centinelas vivientes, creyendo que atravesaban la desgracia antes de que cruzara el umbral. Cuando su alta vara floral florece pálida sobre el follaje espinoso, la planta se interpreta como prueba de que la suavidad y la fuerza pueden surgir de la misma raíz resiliente.",
+        "flower_meaning": "Protección",
+        "fragrance": {
+          "notes": "Las flores de la Yucca desprenden un aroma suave y dulce después del anochecer para atraer a las mariposas nocturnas."
+        },
+        "uses_list": [
+          {
+            "text": "Un llamativo acento arquitectónico para xerojardines, jardines de rocas y bordes secos."
+          },
+          {
+            "text": "Las fibras de las hojas se extraen y se tejen en cuerdas, cestas, esteras y sandalias."
+          },
+          {
+            "text": "Las flores dependen de una asociación altamente especializada con las mariposas de la yuca para su polinización."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Protección",
+            "description": "Las hojas afiladas y rígidas de la Yucca se consideran tradicionalmente un guardián natural, capaz de alejar la energía negativa cuando se planta cerca de una casa."
+          },
+          {
+            "keyword": "Resiliencia",
+            "description": "Al florecer en suelos duros y secos donde pocas otras plantas sobreviven, la Yucca simboliza la resistencia y la fuerza silenciosa."
+          }
+        ],
+        "toxicity": {
+          "headline": "Mascotas Moderado",
+          "active_compound_display": "Saponinas esteroidales",
+          "notes_en": "Ingerir Yucca, especialmente las hojas y la raíz, suele causar molestias gastrointestinales en perros y gatos debido a las saponinas esteroidales; las reacciones en humanos suelen ser leves.",
+          "human": {
+            "exposure": "No se reporta ninguna vía de exposición.",
+            "effect": "No se reporta ningún efecto tóxico.",
+            "note": "La toxicidad para los humanos no está bien documentada; se recomienda precaución hasta su verificación."
+          },
+          "dog": {
+            "exposure": "Ingestión de hojas, flores y raíces.",
+            "effect": "Vómitos, diarrea, depresión y pérdida de apetito.",
+            "note": "Ingerir Yucca, especialmente las hojas y la raíz, suele causar molestias gastrointestinales en perros y gatos debido a las saponinas esteroidales; las reacciones en humanos suelen ser leves.",
+            "symptoms": [
+              "Vómitos.",
+              "Diarrea.",
+              "Depresión.",
+              "Pérdida de apetito."
+            ]
+          },
+          "cat": {
+            "exposure": "Ingestión de hojas, flores y raíces.",
+            "effect": "Vómitos, diarrea, depresión y pérdida de apetito.",
+            "note": "Ingerir Yucca, especialmente las hojas y la raíz, suele causar molestias gastrointestinales en perros y gatos debido a las saponinas esteroidales; las reacciones en humanos suelen ser leves.",
+            "symptoms": [
+              "Vómitos.",
+              "Diarrea.",
+              "Depresión.",
+              "Pérdida de apetito."
+            ]
           }
         }
       }

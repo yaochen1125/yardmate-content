@@ -3,8 +3,8 @@
   "locale": "pt",
   "source": {
     "resource": "plants_detail.json",
-    "sha256": "f9127581dd2fa1d2564a82b64f48bc0543fdfd1b8363b6b4d759c25afb953f34",
-    "record_count": 1764
+    "sha256": "997a33c50439cd727f3fb4ea4fc112596be938f53802e730b899c157ee899019",
+    "record_count": 1766
   },
   "records": {
     "AAA0001": {
@@ -107888,6 +107888,147 @@
             "exposure": "Nenhuma via de exposição relatada.",
             "effect": "Nenhum efeito tóxico relatado.",
             "note": "Este catálogo não relata toxicidade para gatos; isso não é evidência de que a planta seja comestível ou inofensiva."
+          }
+        }
+      }
+    },
+    "AAA1766": {
+      "source_hash": "2008201d225a5f7c43541158b27e8d77efe1c42f4bb8867b7b5097f86762d6cc",
+      "fields": {
+        "common_name": "Prunus",
+        "bloom_tip": "Esta planta normalmente floresce entre abril e junho, com flores bonitas e atraentes.",
+        "fruit_tip": "O fruto amadurece no verão, é colorido e adequado para fins ornamentais e diversos usos.",
+        "description": "Prunus é um gênero numeroso da família das rosáceas, mais conhecido por cerejeiras, ameixeiras, pessegueiros, damasqueiros, amendoeiras e inúmeras árvores ornamentais de flor. A cada primavera, seus ramos explodem em nuvens de flores brancas ou rosa que atraem as abelhas antes mesmo de as folhas desabrocharem, cobrindo-se depois de folhagem verde e brilhante durante o verão. Muitas espécies produzem frutos carnudos com um único caroço duro. Caducifólio e geralmente de crescimento rápido, o Prunus prospera em regiões temperadas do hemisfério norte, valorizado tanto em pomares pela colheita quanto em parques e jardins por sua floração breve e espetacular.",
+        "history_text_short": "Muito antes de ter um nome, o Prunus já moldava a história: a amendoeira foi domesticada no Crescente Fértil, e o pessegueiro viajou pela Rota da Seda da China até a Pérsia, de onde veio seu nome latino. Suas flores passaram a ser tão valorizadas quanto seus frutos, inspirando a tradição japonesa do hanami.",
+        "history_text_long": "Milhares de anos antes de receber seu nome latino, o gênero Prunus já transformava a alimentação humana e as rotas comerciais. A amendoeira, entre as primeiras árvores deliberadamente domesticadas pelo ser humano, enraizou-se nas colinas do Crescente Fértil há quase oito mil anos. Pêssegos e damascos seguiram um caminho mais longo: cultivados primeiro na China antiga, viajaram para o oeste pelas rotas de caravanas da Rota da Seda através da Ásia Central até a Pérsia, onde comerciantes do Mediterrâneo os conheceram e, confundindo sua origem, deram ao pêssego seu nome botânico definitivo, Prunus persica, a «ameixa persa». As ameixeiras, por sua vez, foram domesticadas de forma independente em vários lugares ao mesmo tempo, dos vales do Cáucaso aos pomares da China, muito antes de alguém pensar em comparar experiências. À medida que as árvores de Prunus se espalhavam, suas flores passaram a ser tão apreciadas quanto seus frutos. No Japão, as cerejeiras em flor tornaram-se o centro do hanami, o ritual primaveril de se reunir sob os ramos apenas para ver as pétalas caírem, uma beleza fugaz que passou a simbolizar a impermanência no cerne da estética japonesa. Dos pomares da Idade do Bronze aos parques modernos ladeados por cerejeiras ornamentais, o gênero carregou a mesma lição silenciosa em cada cultura que tocou: abundância e beleza, ambas breves, ambas dignas de uma pausa.",
+        "name_origin": "O nome do gênero Prunus é a palavra latina clássica para «ameixeira», usada por escritores romanos como Plínio, o Velho, e mais tarde adotada por Linnaeus como o nome formal do gênero que abrange ameixeiras, cerejeiras, pessegueiros, damasqueiros e amendoeiras.",
+        "symbolism_story": "Em muitas culturas, as flores de Prunus foram interpretadas da mesma forma: uma explosão breve e intensa de beleza que não pode durar. No Japão, isso se tornou mono no aware, a suave melancolia pelas coisas efêmeras, celebrada a cada primavera quando multidões se reúnem sob as cerejeiras em flor para o hanami. Em outros lugares, as mesmas flores, abrindo-se sobre a madeira nua do inverno, tornaram-se simplesmente um sinal de renovação e resiliência.",
+        "flower_meaning": "Renovação",
+        "fragrance": {
+          "notes": "Um aroma floral delicado e adocicado levado pelo ar da primavera, mais intenso em dias quentes e calmos."
+        },
+        "uses_list": [
+          {
+            "text": "Cultivado em todo o mundo por sua floração primaveril abundante e breve em parques, ruas e jardins."
+          },
+          {
+            "text": "Suas flores precoces são uma importante fonte de néctar e pólen para as abelhas."
+          },
+          {
+            "text": "Muitas espécies produzem frutos de caroço e nozes comestíveis, incluindo ameixas, cerejas, pêssegos, damascos e amêndoas."
+          },
+          {
+            "text": "Ramos floridos são cortados e forçados em ambientes internos para arranjos sazonais e decorações festivas."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Renovação",
+            "description": "A explosão repentina de flores após os ramos nus do inverno faz do Prunus um emblema universal da primavera e dos novos começos."
+          },
+          {
+            "keyword": "Impermanência",
+            "description": "Como as flores caem poucos dias após abrirem, a cultura japonesa do hanami as interpreta como uma meditação sobre a beleza das coisas efêmeras."
+          }
+        ],
+        "toxicity": {
+          "headline": "Tóxico para animais de estimação",
+          "active_compound_display": "amigdalina e prunasina",
+          "notes_en": "As semente (caroços), folhas murchas e a casca contêm glicosídeos cianogênicos que liberam cianeto tóxico quando mastigados, triturados ou murchos; a polpa madura do fruto em si não é tóxica.",
+          "human": {
+            "exposure": "Nenhuma via de exposição relatada.",
+            "effect": "Nenhum efeito tóxico relatado.",
+            "note": "A toxicidade para humanos não está bem documentada; recomenda-se cautela até que seja verificada."
+          },
+          "dog": {
+            "exposure": "Ingestão de semente, folhas, casca e caules.",
+            "effect": "Vômito, pupilas dilatadas, dificuldade respiratória e colapso.",
+            "note": "As semente (caroços), folhas murchas e a casca contêm glicosídeos cianogênicos que liberam cianeto tóxico quando mastigados, triturados ou murchos; a polpa madura do fruto em si não é tóxica.",
+            "symptoms": [
+              "Vômito.",
+              "Pupilas dilatadas.",
+              "Dificuldade respiratória.",
+              "Colapso."
+            ]
+          },
+          "cat": {
+            "exposure": "Ingestão de semente, folhas, casca e caules.",
+            "effect": "Vômito, pupilas dilatadas, dificuldade respiratória e colapso.",
+            "note": "As semente (caroços), folhas murchas e a casca contêm glicosídeos cianogênicos que liberam cianeto tóxico quando mastigados, triturados ou murchos; a polpa madura do fruto em si não é tóxica.",
+            "symptoms": [
+              "Vômito.",
+              "Pupilas dilatadas.",
+              "Dificuldade respiratória.",
+              "Colapso."
+            ]
+          }
+        }
+      }
+    },
+    "AAA1767": {
+      "source_hash": "3350467537f5c2dfe83dc74d60b153dfa0fa4b1eb8ceb4282fff1a5131d0bfa6",
+      "fields": {
+        "common_name": "Yucca",
+        "description": "Yucca é um gênero de plantas perenes em roseta, nativas dos desertos, pradarias secas e dunas costeiras da América do Norte, México e Caribe. Suas folhas rígidas em forma de espada terminam em uma ponta afiada, formando uma touceira arquitetônica marcante que tolera calor intenso e seca prolongada. No verão, uma alta espiga floral se ergue da roseta, com cachos de flores brancas cerosas em forma de sino, polinizadas quase exclusivamente por mariposas da yucca. Fácil de cultivar e vistosa, a Yucca é uma planta destaque para xerojardins, pátios e jardins de pedras.",
+        "history_text_short": "Para os povos do deserto, a Yucca era vital: suas folhas fibrosas eram tecidas em cordas, sandálias e cestos, enquanto sua raiz rica em saponinas era triturada para produzir uma espuma saponosa, o que lhe deu o nome de 'erva-de-sabão'. Suas flores cerosas também dependem quase totalmente de uma única espécie de mariposa para a polinização, uma parceria tão precisa que se tornou um exemplo clássico de coevolução.",
+        "history_text_long": "Para os povos indígenas dos desertos da América do Norte, a Yucca era muito mais do que uma planta marcante do deserto: era um recurso central para a sobrevivência diária. As longas folhas fibrosas eram rachadas, trituradas e torcidas para fazer cordas, sandálias, cestos e esteiras resistentes o suficiente para suportar o terreno hostil, enquanto as hastes florais secas serviam para iniciar fogueiras. Talvez o uso mais notável fosse o da raiz: rica em saponinas naturais, era triturada e batida em água para produzir uma espuma saponosa usada para lavar o cabelo, tomar banho e limpar lã — o que deu a várias espécies o nome comum de 'erva-de-sabão'. Além de sua utilidade, a Yucca protagoniza uma das parcerias mais célebres da botânica. Suas flores cerosas em forma de sino dependem quase totalmente de um único grupo de insetos, as mariposas da yucca, para a polinização. À noite, uma fêmea reúne pólen em uma bolinha, leva-a até outra flor e a pressiona deliberadamente sobre o estigma antes de depositar seus ovos dentro da cápsula de semente em desenvolvimento — garantindo assim tanto o alimento de sua prole quanto a reprodução da planta. Nenhuma das duas espécies consegue completar seu ciclo de vida sem a outra, uma relação tão precisa que os naturalistas do século XIX a usaram como evidência inicial marcante das teorias de coevolução de Darwin. De ferramenta prática do deserto a prova viva das intrincadas parcerias da natureza, a Yucca há muito está na encruzilhada entre a sobrevivência humana e a maravilha natural.",
+        "name_origin": "O nome 'Yucca' vem de uma palavra caribenha (taína) para a mandioca, uma raiz amilácea sem relação com esta planta; os primeiros botânicos europeus transferiram erroneamente o nome para esta planta espinhosa do deserto, e ele permaneceu quando Lineu o adotou formalmente.",
+        "symbolism_story": "Em muitas culturas do deserto, as folhas em forma de lança da Yucca eram plantadas perto das portas como sentinelas vivas, acreditando-se que perfuravam o infortúnio antes que ele cruzasse o limiar. Quando sua alta espiga floral floresce pálida sobre a folhagem espinhosa, a planta é lida como prova de que a suavidade e a força podem nascer da mesma raiz resiliente.",
+        "flower_meaning": "Proteção",
+        "fragrance": {
+          "notes": "As flores da Yucca liberam um aroma leve e adocicado após o anoitecer para atrair mariposas noturnas."
+        },
+        "uses_list": [
+          {
+            "text": "Um acento arquitetônico marcante para xerojardins, jardins de pedras e bordas secas."
+          },
+          {
+            "text": "As fibras das folhas são extraídas e tecidas em cordas, cestos, esteiras e sandálias."
+          },
+          {
+            "text": "As flores dependem de uma parceria altamente especializada com mariposas da yucca para a polinização."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Proteção",
+            "description": "As folhas afiadas e rígidas da Yucca são tradicionalmente vistas como um guardião natural, capaz de afastar energias negativas quando plantada perto de uma casa."
+          },
+          {
+            "keyword": "Resiliência",
+            "description": "Prosperando em solo duro e seco onde poucas outras plantas sobrevivem, a Yucca simboliza resistência e força silenciosa."
+          }
+        ],
+        "toxicity": {
+          "headline": "Animais de estimação Moderado",
+          "active_compound_display": "Saponinas esteroidais",
+          "notes_en": "Ingerir Yucca, especialmente as folhas e a raiz, comumente causa distúrbios gastrointestinais em cães e gatos devido às saponinas esteroidais; as reações em humanos costumam ser leves.",
+          "human": {
+            "exposure": "Nenhuma via de exposição é relatada.",
+            "effect": "Nenhum efeito tóxico é relatado.",
+            "note": "A toxicidade para humanos não está bem documentada; recomenda-se cautela até verificação."
+          },
+          "dog": {
+            "exposure": "Ingestão de folhas, flores e raízes.",
+            "effect": "Vômito, diarreia, depressão e perda de apetite.",
+            "note": "Ingerir Yucca, especialmente as folhas e a raiz, comumente causa distúrbios gastrointestinais em cães e gatos devido às saponinas esteroidais; as reações em humanos costumam ser leves.",
+            "symptoms": [
+              "Vômito.",
+              "Diarreia.",
+              "Depressão.",
+              "Perda de apetite."
+            ]
+          },
+          "cat": {
+            "exposure": "Ingestão de folhas, flores e raízes.",
+            "effect": "Vômito, diarreia, depressão e perda de apetite.",
+            "note": "Ingerir Yucca, especialmente as folhas e a raiz, comumente causa distúrbios gastrointestinais em cães e gatos devido às saponinas esteroidais; as reações em humanos costumam ser leves.",
+            "symptoms": [
+              "Vômito.",
+              "Diarreia.",
+              "Depressão.",
+              "Perda de apetite."
+            ]
           }
         }
       }

@@ -3,8 +3,8 @@
   "locale": "fr",
   "source": {
     "resource": "plants_detail.json",
-    "sha256": "f9127581dd2fa1d2564a82b64f48bc0543fdfd1b8363b6b4d759c25afb953f34",
-    "record_count": 1764
+    "sha256": "997a33c50439cd727f3fb4ea4fc112596be938f53802e730b899c157ee899019",
+    "record_count": 1766
   },
   "records": {
     "AAA0001": {
@@ -107874,6 +107874,147 @@
             "exposure": "Aucune voie d'exposition signalée.",
             "effect": "Aucun effet toxique signalé.",
             "note": "Aucune toxicité n'est signalée pour les chats dans ce catalogue ; cela ne prouve pas que la plante soit comestible ou inoffensive."
+          }
+        }
+      }
+    },
+    "AAA1766": {
+      "source_hash": "2008201d225a5f7c43541158b27e8d77efe1c42f4bb8867b7b5097f86762d6cc",
+      "fields": {
+        "common_name": "Prunus",
+        "bloom_tip": "Cette plante fleurit généralement entre avril et juin, avec de belles fleurs attrayantes.",
+        "fruit_tip": "Le fruit mûrit en été, coloré, adapté à des fins ornementales et à divers usages.",
+        "description": "Prunus est un vaste genre de la famille des rosacées, surtout connu pour les cerisiers, les pruniers, les pêchers, les abricotiers, les amandiers et de nombreux arbres ornementaux à fleurs. Chaque printemps, ses branches se couvrent de nuages de fleurs blanches ou roses qui attirent les abeilles avant même le débourrement des feuilles, puis se parent d'un feuillage vert et brillant tout l'été. De nombreuses espèces donnent des fruits charnus à noyau unique et dur. Caduc et généralement à croissance rapide, le Prunus prospère dans les régions tempérées de l'hémisphère nord, aussi prisé dans les vergers pour sa récolte que dans les parcs et jardins pour sa floraison brève et spectaculaire.",
+        "history_text_short": "Longtemps avant de porter un nom, le Prunus façonnait déjà l'histoire : l'amandier fut domestiqué dans le Croissant fertile, et le pêcher voyagea le long de la Route de la Soie, de la Chine jusqu'en Perse, d'où il tira son nom latin. Ses fleurs devinrent aussi prisées que ses fruits, inspirant la tradition japonaise du hanami.",
+        "history_text_long": "Des millénaires avant de recevoir son nom latin, le genre Prunus transformait déjà l'alimentation humaine et les routes commerciales. L'amandier, l'un des tout premiers arbres délibérément domestiqués par l'homme, s'enracina dans les collines du Croissant fertile il y a près de huit mille ans. Pêches et abricots suivirent un chemin plus long : cultivés d'abord dans la Chine ancienne, ils voyagèrent vers l'ouest le long des caravanes de la Route de la Soie, à travers l'Asie centrale jusqu'en Perse, où les marchands méditerranéens les découvrirent et, se méprenant sur leur origine, donnèrent à la pêche son nom botanique définitif, Prunus persica, la « prune persane ». Le prunier, quant à lui, fut domestiqué indépendamment en plusieurs endroits à la fois, des vallées du Caucase aux vergers de Chine, bien avant que quiconque ne songe à comparer ses observations. À mesure que les Prunus se répandaient, leurs fleurs devinrent aussi précieuses que leurs fruits. Au Japon, les cerisiers en fleurs devinrent le cœur du hanami, ce rituel printanier consistant à se réunir sous les branches pour simplement regarder tomber les pétales, une beauté fugace devenue le symbole de l'impermanence au cœur de l'esthétique japonaise. Des vergers de l'âge du bronze aux parcs modernes bordés de cerisiers ornementaux, le genre a transmis la même leçon discrète à chaque culture qu'il a touchée : l'abondance et la beauté, toutes deux brèves, toutes deux dignes qu'on s'y arrête.",
+        "name_origin": "Le nom de genre Prunus est le mot latin classique pour « prunier », utilisé par des auteurs romains comme Pline l'Ancien, puis adopté par Linné comme nom officiel du genre regroupant pruniers, cerisiers, pêchers, abricotiers et amandiers.",
+        "symbolism_story": "Dans de nombreuses cultures, les fleurs de Prunus ont été interprétées de la même manière : une explosion de beauté brève et intense qui ne peut durer. Au Japon, cela devint le mono no aware, la douce mélancolie des choses éphémères, célébrée chaque printemps lorsque les foules se réunissent sous les cerisiers en fleurs pour le hanami. Ailleurs, ces mêmes fleurs, s'ouvrant sur le bois nu de l'hiver, devinrent simplement un signe de renouveau et de résilience.",
+        "flower_meaning": "Renouveau",
+        "fragrance": {
+          "notes": "Un parfum floral délicat et sucré porté par l'air printanier, le plus intense par temps chaud et calme."
+        },
+        "uses_list": [
+          {
+            "text": "Cultivé dans le monde entier pour sa floraison printanière abondante et brève, dans les parcs, les rues et les jardins."
+          },
+          {
+            "text": "Ses fleurs précoces constituent une source importante de nectar et de pollen pour les abeilles."
+          },
+          {
+            "text": "De nombreuses espèces produisent des fruits à noyau et des noix comestibles, dont prunes, cerises, pêches, abricots et amandes."
+          },
+          {
+            "text": "Les branches fleuries sont coupées et forcées en intérieur pour des compositions de saison et des décorations de fête."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Renouveau",
+            "description": "L'éclosion soudaine des fleurs après les branches nues de l'hiver fait du Prunus un emblème universel du printemps et des nouveaux départs."
+          },
+          {
+            "keyword": "Impermanence",
+            "description": "Comme les fleurs tombent quelques jours seulement après leur éclosion, la culture japonaise du hanami y voit une méditation sur la beauté des choses éphémères."
+          }
+        ],
+        "toxicity": {
+          "headline": "Toxique pour les animaux de compagnie",
+          "active_compound_display": "amygdaline et prunasine",
+          "notes_en": "Les graines (noyaux), les feuilles flétries et l'écorce contiennent des glycosides cyanogènes qui libèrent du cyanure toxique lorsqu'ils sont mâchés, écrasés ou flétris ; la pulpe mûre du fruit lui-même n'est pas toxique.",
+          "human": {
+            "exposure": "Aucune voie d'exposition n'est signalée.",
+            "effect": "Aucun effet toxique n'est signalé.",
+            "note": "La toxicité pour l'homme n'est pas bien documentée ; la prudence est recommandée jusqu'à vérification."
+          },
+          "dog": {
+            "exposure": "Ingestion de graines, de feuilles, d'écorce et de tiges.",
+            "effect": "Vomissements, pupilles dilatées, difficultés respiratoires et collapsus.",
+            "note": "Les graines (noyaux), les feuilles flétries et l'écorce contiennent des glycosides cyanogènes qui libèrent du cyanure toxique lorsqu'ils sont mâchés, écrasés ou flétris ; la pulpe mûre du fruit lui-même n'est pas toxique.",
+            "symptoms": [
+              "Vomissements.",
+              "Pupilles dilatées.",
+              "Difficultés respiratoires.",
+              "Collapsus."
+            ]
+          },
+          "cat": {
+            "exposure": "Ingestion de graines, de feuilles, d'écorce et de tiges.",
+            "effect": "Vomissements, pupilles dilatées, difficultés respiratoires et collapsus.",
+            "note": "Les graines (noyaux), les feuilles flétries et l'écorce contiennent des glycosides cyanogènes qui libèrent du cyanure toxique lorsqu'ils sont mâchés, écrasés ou flétris ; la pulpe mûre du fruit lui-même n'est pas toxique.",
+            "symptoms": [
+              "Vomissements.",
+              "Pupilles dilatées.",
+              "Difficultés respiratoires.",
+              "Collapsus."
+            ]
+          }
+        }
+      }
+    },
+    "AAA1767": {
+      "source_hash": "3350467537f5c2dfe83dc74d60b153dfa0fa4b1eb8ceb4282fff1a5131d0bfa6",
+      "fields": {
+        "common_name": "Yucca",
+        "description": "Yucca est un genre de plantes à feuillage persistant et en rosette, originaire des déserts, des prairies sèches et des dunes côtières d'Amérique du Nord, du Mexique et des Caraïbes. Ses feuilles rigides, en forme d'épée, se terminent par une pointe acérée, formant une touffe architecturale imposante qui tolère une chaleur intense et une sécheresse prolongée. En été, une haute hampe florale s'élève de la rosette, portant des grappes de fleurs blanches cireuses en forme de cloche, pollinisées presque exclusivement par les papillons du yucca. Facile d'entretien et spectaculaire, le Yucca est une plante vedette pour les jardins secs, les cours et les jardins de rocaille.",
+        "history_text_short": "Pour les peuples du désert, le Yucca était vital : ses feuilles fibreuses étaient tissées en cordes, sandales et paniers, tandis que sa racine riche en saponines était pilée pour produire une mousse savonneuse, lui valant le nom de « plante à savon ». Ses fleurs cireuses dépendent également presque entièrement d'une seule espèce de papillon pour leur pollinisation, un partenariat précis devenu un exemple classique de coévolution.",
+        "history_text_long": "Pour les peuples autochtones des déserts d'Amérique du Nord, le Yucca était bien plus qu'une plante spectaculaire du désert : c'était une ressource essentielle à la survie quotidienne. Les longues feuilles fibreuses étaient fendues, pilées puis tordues pour fabriquer des cordes, des sandales, des paniers et des nattes assez résistantes pour supporter ce terrain rude, tandis que les hampes florales séchées servaient à allumer le feu. L'usage de la racine était peut-être le plus remarquable : riche en saponines naturelles, elle était pilée et fouettée dans l'eau pour produire une mousse savonneuse utilisée pour se laver les cheveux, se baigner et nettoyer la laine — ce qui valut à plusieurs espèces le nom de « plante à savon ». Au-delà de son utilité, le Yucca est à l'origine d'un des partenariats les plus célèbres de la botanique. Ses fleurs cireuses en forme de cloche dépendent presque entièrement d'un seul groupe d'insectes, les papillons du yucca, pour leur pollinisation. La nuit, une femelle rassemble le pollen en boule, le transporte vers une autre fleur et le dépose délibérément sur le stigmate avant de pondre ses œufs dans la capsule de graines en développement — assurant ainsi à la fois la nourriture de sa progéniture et la reproduction de la plante. Aucune des deux espèces ne peut achever son cycle de vie sans l'autre, une relation si précise que les naturalistes du XIXe siècle l'ont utilisée comme preuve précoce frappante des théories de coévolution de Darwin. D'outil pratique du désert à preuve vivante des partenariats complexes de la nature, le Yucca se trouve depuis longtemps à la croisée de la survie humaine et des merveilles naturelles.",
+        "name_origin": "Le nom « Yucca » provient d'un mot caribéen (taïno) désignant le manioc, une racine féculente sans lien avec cette plante ; les premiers botanistes européens l'ont transféré par erreur à cette plante épineuse du désert, et il s'est imposé lorsque Linné l'a officiellement adopté.",
+        "symbolism_story": "Dans de nombreuses cultures désertiques, les feuilles en forme de lance du Yucca étaient plantées près des portes comme sentinelles vivantes, censées transpercer le malheur avant qu'il ne franchisse le seuil. Lorsque sa haute hampe florale fleurit, pâle au-dessus du feuillage épineux, la plante est perçue comme la preuve que la douceur et la force peuvent naître de la même racine résiliente.",
+        "flower_meaning": "Protection",
+        "fragrance": {
+          "notes": "Les fleurs du Yucca dégagent un parfum léger et sucré après la tombée de la nuit pour attirer les papillons nocturnes."
+        },
+        "uses_list": [
+          {
+            "text": "Un accent architectural saisissant pour les jardins secs, les jardins de rocaille et les bordures arides."
+          },
+          {
+            "text": "Les fibres des feuilles sont extraites et tissées en cordes, paniers, nattes et sandales."
+          },
+          {
+            "text": "Les fleurs dépendent d'un partenariat hautement spécialisé avec les papillons du yucca pour leur pollinisation."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Protection",
+            "description": "Les feuilles acérées et rigides du Yucca sont traditionnellement perçues comme un gardien naturel, censé repousser les énergies négatives lorsqu'il est planté près d'une maison."
+          },
+          {
+            "keyword": "Résilience",
+            "description": "Prospérant dans un sol dur et sec où peu d'autres plantes survivent, le Yucca symbolise l'endurance et la force tranquille."
+          }
+        ],
+        "toxicity": {
+          "headline": "Animaux Modéré",
+          "active_compound_display": "Saponines stéroïdiennes",
+          "notes_en": "Ingérer du Yucca, en particulier les feuilles et la racine, provoque fréquemment des troubles gastro-intestinaux chez les chiens et les chats en raison des saponines stéroïdiennes ; les réactions chez l'humain sont généralement légères.",
+          "human": {
+            "exposure": "Aucune voie d'exposition n'est signalée.",
+            "effect": "Aucun effet toxique n'est signalé.",
+            "note": "La toxicité pour l'humain n'est pas bien documentée ; la prudence est recommandée jusqu'à vérification."
+          },
+          "dog": {
+            "exposure": "Ingestion de feuilles, de fleurs et de racines.",
+            "effect": "Vomissements, diarrhée, abattement et perte d'appétit.",
+            "note": "Ingérer du Yucca, en particulier les feuilles et la racine, provoque fréquemment des troubles gastro-intestinaux chez les chiens et les chats en raison des saponines stéroïdiennes ; les réactions chez l'humain sont généralement légères.",
+            "symptoms": [
+              "Vomissements.",
+              "Diarrhée.",
+              "Abattement.",
+              "Perte d'appétit."
+            ]
+          },
+          "cat": {
+            "exposure": "Ingestion de feuilles, de fleurs et de racines.",
+            "effect": "Vomissements, diarrhée, abattement et perte d'appétit.",
+            "note": "Ingérer du Yucca, en particulier les feuilles et la racine, provoque fréquemment des troubles gastro-intestinaux chez les chiens et les chats en raison des saponines stéroïdiennes ; les réactions chez l'humain sont généralement légères.",
+            "symptoms": [
+              "Vomissements.",
+              "Diarrhée.",
+              "Abattement.",
+              "Perte d'appétit."
+            ]
           }
         }
       }
