@@ -3,8 +3,8 @@
   "locale": "pt",
   "source": {
     "resource": "plants_detail.json",
-    "sha256": "40627aee7868084f921663de42823be182272b30c48d1517ce9e34fb524a667a",
-    "record_count": 1760
+    "sha256": "e0153e974d0a41311d13677b7d9eb3587a5250002e404159f57097c4412a6292",
+    "record_count": 1762
   },
   "records": {
     "AAA0001": {
@@ -107657,6 +107657,122 @@
             "exposure": "Nenhuma via de exposição relatada.",
             "effect": "Nenhum efeito tóxico relatado.",
             "note": "Fontes confiáveis relatam que esta planta não é tóxica para gatos; isso não é evidência de que a planta seja comestível."
+          }
+        }
+      }
+    },
+    "AAA1762": {
+      "source_hash": "38e0a2792e32eab0aa2919d4dabd6e622367fa078f67f2a46d75783817c33aaf",
+      "fields": {
+        "common_name": "Hicória",
+        "fruit_tip": "Quando o fruto da hicória amadurece no outono, sua casca espessa se abre e libera uma noz de casca dura; várias espécies, incluindo a pecã, produzem amêndoas doces e comestíveis.",
+        "description": "A hicória é um gênero de árvores altas e decíduas da família da nogueira, apreciada por seu tronco reto como uma flecha e por sua madeira excepcionalmente densa e resistente a impactos. Originária principalmente do leste da América do Norte, com algumas parentes na Ásia, apresenta folhas pinadas que se tornam douradas e brilhantes a cada outono. Suas nozes maduram dentro de uma casca espessa — entre elas a doce pecã — alimentando esquilos e famílias que as colhem. Poucas árvores combinam tanta força robusta com a tranquila beleza do outono.",
+        "history_text_short": "Muito antes de a palavra «hickory» entrar na língua inglesa, os povos algonquinos da Virgínia socavam nozes de hicória até formar uma pasta rica chamada pawcohiccora, misturada com água para obter um leite nutritivo. Os colonos encurtaram a palavra para «hickory». Gerações depois, a lendária robustez de sua madeira deu ao general Andrew Jackson seu apelido, «Old Hickory».",
+        "history_text_long": "Séculos antes da chegada dos colonos europeus, os povos algonquinos da Virgínia colhiam a cada outono as nozes da hicória, quebravam as cascas duras e socavam os miolos até formar uma pasta rica e oleosa. Misturada com água, essa pasta produzia uma bebida leitosa e nutritiva que chamavam pawcohiccora — um alimento básico que podia ser guardado durante o inverno e misturado a guisados e pães. Os colonos ingleses que adotaram esse alimento encurtaram a palavra desconhecida para «hickory», e o nome passou da bebida para a própria árvore.\n\nO valor da hicória não estava apenas em suas nozes. Sua madeira revelou-se mais densa e mais capaz de absorver impactos do que quase qualquer outra madeira da floresta, capaz de se dobrar sob tensão sem quebrar. Tanto os povos nativos quanto os colonos recorriam a ela para fazer arcos, cabos de ferramentas e rodas de carroça que precisavam resistir a anos de uso intenso. Essa fama de resistência marcou profundamente a memória americana: durante a Guerra de 1812, os soldados sob o comando do general Andrew Jackson começaram a chamá-lo de «Old Hickory», comparando sua determinação inquebrantável à madeira que nunca se partia. O apelido o acompanhou pelo resto da vida e mais tarde deu nome a cidades, escolas e ruas por todo o país.\n\nHoje a hicória é talvez mais conhecida na cozinha do que na oficina. Sua fumaça lenta e doce tornou-se o aroma característico do churrasco sulista, usada para curar presuntos, bacon e costelas apreciados por seu sabor. Enquanto isso, uma espécie de hicória, a pecã, continua sendo uma das poucas nozes de árvore nativas da América do Norte ainda cultivadas comercialmente, enchendo tortas e pomares da Geórgia ao Texas.",
+        "name_origin": "O nome «hickory» vem de pawcohiccora, uma palavra algonquina da Virgínia para a pasta rica e leitosa feita de nozes de hicória socadas; os colonos ingleses encurtaram a palavra e a aplicaram à própria árvore.",
+        "symbolism_story": "Como a madeira da hicória resiste sem quebrar mesmo sob grande tensão, ela se tornou um símbolo duradouro de resistência — tornando-se famosa especialmente por dar ao general Andrew Jackson seu apelido «Old Hickory», por sua determinação inquebrantável em batalha.",
+        "flower_meaning": "Resiliência",
+        "fragrance": {
+          "notes": "A árvore viva tem pouco aroma próprio, mas sua madeira libera, ao ser queimada, um aroma doce e fumado muito apreciado para dar sabor ao churrasco tradicional."
+        },
+        "uses_list": [
+          {
+            "text": "Nozes de várias espécies, especialmente a pecã, são cultivadas e consumidas comercialmente, e a fumaça de sua madeira é apreciada para dar sabor a churrascos e carnes curadas."
+          },
+          {
+            "text": "Sua madeira, excepcionalmente densa e resistente a impactos, é usada em cabos de ferramentas, rodas de carroça e equipamentos esportivos que precisam resistir a impactos repetidos."
+          },
+          {
+            "text": "Suas nozes são uma importante fonte de alimento outonal para esquilos, veados e outros animais silvestres."
+          },
+          {
+            "text": "Seu porte alto e reto e a folhagem dourada de outono fazem dela uma árvore de sombra vistosa para jardins grandes."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Resiliência",
+            "description": "A madeira indestrutível e absorvente de impactos da hicória simboliza há muito tempo a robustez e a capacidade de se dobrar sem quebrar sob pressão."
+          }
+        ],
+        "toxicity": {
+          "headline": "Nenhuma toxicidade relatada",
+          "active_compound_display": "Nenhum relatado",
+          "notes_en": "Nenhuma fonte confiável sobre toxicidade foi encontrada; tratada como não relatada (a estimativa da IA não é verificada por fontes).",
+          "human": {
+            "exposure": "Nenhuma via de exposição é relatada.",
+            "effect": "Nenhum efeito tóxico é relatado.",
+            "note": "Nenhuma toxicidade é relatada para humanos neste catálogo; isso não é evidência de que a planta seja comestível ou inofensiva."
+          },
+          "dog": {
+            "exposure": "Nenhuma via de exposição é relatada.",
+            "effect": "Nenhum efeito tóxico é relatado.",
+            "note": "Nenhuma toxicidade é relatada para cães neste catálogo; isso não é evidência de que a planta seja comestível ou inofensiva."
+          },
+          "cat": {
+            "exposure": "Nenhuma via de exposição é relatada.",
+            "effect": "Nenhum efeito tóxico é relatado.",
+            "note": "Nenhuma toxicidade é relatada para gatos neste catálogo; isso não é evidência de que a planta seja comestível ou inofensiva."
+          }
+        }
+      }
+    },
+    "AAA1763": {
+      "source_hash": "e8bd8fa5fe1c86d51ebefcae6245c52a8b700def4b24c8d169056703eee39495",
+      "fields": {
+        "common_name": "Verbena",
+        "bloom_tip": "O período de floração dura vários meses e atrai diversos insetos.",
+        "description": "A verbena (Verbena) é um gênero com cerca de 250 plantas com flores, originárias principalmente das Américas, apreciadas por seus densos cachos de pequenas flores tubulares em tons de roxo, rosa e branco que florescem do final da primavera ao outono. As plantas variam entre forrações baixas e rasteiras, perenes eretas e leves e anuais delicadas, com caules finos e folhas dentadas de textura áspera. Sol pleno e solo bem drenado favorecem a floração mais abundante, e as plantas já estabelecidas toleram bem períodos de seca. Abelhas, borboletas e beija-flores as visitam com frequência, tornando a verbena um item comum em jardins para polinizadores e em cestos suspensos.",
+        "history_text_short": "Os antigos romanos chamavam a verbena de herba sacra, a herva sagrada, e carregavam raminhos em cerimônias de tratados e de paz. Na Europa medieval, passou-se a pendurá-la sobre as portas, na crença de que afastava bruxas e espíritos malignos.",
+        "history_text_long": "Muito antes de se tornar presença constante nos jardins modernos, a verbena ocupava um lugar sagrado na vida religiosa da Roma antiga. Sacerdotes conhecidos como fetiales, responsáveis por declarar guerra e firmar tratados de paz em nome da República, carregavam feixes de verbena como símbolo da santidade de seu cargo. A planta era chamada de herba sacra, a herva sagrada, e acreditava-se que sua presença garantia a veracidade de qualquer juramento feito em seu nome. Altares dedicados a Júpiter eram purificados com verbena antes dos sacrifícios, e a herva era trançada em coroas para rituais sagrados.\n\nEssa reverência seguiu para o folclore da Europa medieval. Os aldeões pendiam raminhos sobre as portas e os levavam junto às roupas, convencidos de que a planta podia afastar bruxas, romper maldições e proteger um lar de espíritos malignos. Os herbalistas da época também prescreviam chás e cataplasmas de verbena para febres e feridas, misturando medicina prática com séculos de superstição.\n\nQuando os colonizadores europeus chegaram às Américas, encontraram dezenas de espécies nativas de verbena já integradas às tradições dos povos indígenas, que usavam variedades locais para males digestivos e respiratórios. Mais tarde, melhoristas cruzaram essas espécies americanas selvagens para criar os híbridos de jardim compactos e muito floríferos hoje encontrados em viveiros do mundo todo, dando continuidade a uma planta antes confiada para selar tratados e guardar soleiras.",
+        "name_origin": "O nome verbena vem diretamente do latim, onde se referia de forma geral a ramos sagrados ou galhos frondosos usados em cerimônias religiosas, refletindo a longa história da planta como a herba sacra de Roma, a herva sagrada.",
+        "symbolism_story": "Como os sacerdotes romanos carregavam verbena ao selar tratados e fazer juramentos, a planta passou a estar ligada à sinceridade, à lealdade e ao cumprimento da palavra dada. Os mesmos raminhos que antes eram pendurados sobre as portas para repelir bruxas deram à verbena um segundo significado de proteção, tornando-a uma flor oferecida tanto para expressar afeto sincero quanto o desejo de proteger alguém querido.",
+        "flower_meaning": "Sinceridade",
+        "fragrance": {
+          "notes": "Muitas flores de verbena exalam uma fragrância leve e adocicada, mais perceptível em noites quentes ou quando reunidas em grande número."
+        },
+        "uses_list": [
+          {
+            "text": "Atrai abelhas, borboletas e beija-flores com flores abundantes e duradouras."
+          },
+          {
+            "text": "Cultivada amplamente em canteiros, bordas, vasos e cestos suspensos para dar cor durante toda a estação."
+          },
+          {
+            "text": "Seus cachos de pequenas flores se conservam bem em arranjos e buquês frescos."
+          },
+          {
+            "text": "Suas flores adicionam um perfume leve e adocicado a jardins e varandas em noites quentes."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Sinceridade",
+            "description": "A verbena simboliza há muito tempo sinceridade e devoção, associada ao seu antigo uso como herva sagrada trocada de boa-fé durante tratados."
+          },
+          {
+            "keyword": "Proteção",
+            "description": "No folclore medieval, acreditava-se que a verbena pendurada sobre as portas protegia o lar de espíritos malignos e feitiçaria."
+          }
+        ],
+        "toxicity": {
+          "headline": "Nenhuma toxicidade relatada",
+          "active_compound_display": "Nenhum relatado",
+          "notes_en": "Não foi encontrada correspondência de toxicidade em fontes confiáveis; tratada como não relatada (a estimativa do modelo não foi verificada por fontes).",
+          "human": {
+            "exposure": "Nenhuma via de exposição relatada.",
+            "effect": "Nenhum efeito tóxico relatado.",
+            "note": "Não há toxicidade relatada para humanos neste catálogo; isso não é prova de que a planta seja comestível ou inofensiva."
+          },
+          "dog": {
+            "exposure": "Nenhuma via de exposição relatada.",
+            "effect": "Nenhum efeito tóxico relatado.",
+            "note": "Não há toxicidade relatada para cães neste catálogo; isso não é prova de que a planta seja comestível ou inofensiva."
+          },
+          "cat": {
+            "exposure": "Nenhuma via de exposição relatada.",
+            "effect": "Nenhum efeito tóxico relatado.",
+            "note": "Não há toxicidade relatada para gatos neste catálogo; isso não é prova de que a planta seja comestível ou inofensiva."
           }
         }
       }

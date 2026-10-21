@@ -3,8 +3,8 @@
   "locale": "it",
   "source": {
     "resource": "plants_detail.json",
-    "sha256": "40627aee7868084f921663de42823be182272b30c48d1517ce9e34fb524a667a",
-    "record_count": 1760
+    "sha256": "e0153e974d0a41311d13677b7d9eb3587a5250002e404159f57097c4412a6292",
+    "record_count": 1762
   },
   "records": {
     "AAA0001": {
@@ -107657,6 +107657,122 @@
             "exposure": "Nessuna via di esposizione segnalata.",
             "effect": "Nessun effetto tossico segnalato.",
             "note": "Fonti autorevoli segnalano che questa pianta non è tossica per i gatti; ciò non dimostra che la pianta sia commestibile."
+          }
+        }
+      }
+    },
+    "AAA1762": {
+      "source_hash": "38e0a2792e32eab0aa2919d4dabd6e622367fa078f67f2a46d75783817c33aaf",
+      "fields": {
+        "common_name": "Carya",
+        "fruit_tip": "Quando il frutto del Carya matura in autunno, il suo spesso involucro si apre liberando una noce a guscio duro; diverse specie, tra cui il pecan, producono semi dolci e commestibili.",
+        "description": "Il Carya è un genere di alberi alti e decidui della famiglia del noce, apprezzato per il tronco diritto come una freccia e per il legno straordinariamente denso e resistente agli urti. Originario soprattutto dell'America del Nord orientale, con alcune specie affini in Asia, porta foglie pennate che in autunno si tingono di un dorato brillante. I suoi frutti maturano dentro un guscio spesso — tra cui il dolce pecan — nutrendo sia gli scoiattoli che le famiglie che li raccolgono. Pochi alberi uniscono tanta forza robusta alla quieta bellezza autunnale.",
+        "history_text_short": "Molto prima che la parola «hickory» entrasse nella lingua inglese, i popoli algonchini della Virginia pestavano le noci del Carya fino a ottenere una pasta densa chiamata pawcohiccora, mescolata con acqua per ottenere un latte nutriente. I coloni abbreviarono la parola in «hickory». Generazioni dopo, la leggendaria robustezza del suo legno diede al generale Andrew Jackson il soprannome «Old Hickory».",
+        "history_text_long": "Secoli prima dell'arrivo dei coloni europei, i popoli algonchini della Virginia raccoglievano ogni autunno le noci del Carya, rompevano il guscio duro e pestavano i semi fino a ottenere una pasta ricca e oleosa. Mescolata con acqua, questa pasta produceva una bevanda lattiginosa e nutriente chiamata pawcohiccora, un alimento base che si poteva conservare per l'inverno e aggiungere a stufati e pani. I coloni inglesi che adottarono questo alimento abbreviarono la parola insolita in «hickory», e il nome passò dalla bevanda all'albero stesso.\n\nIl valore del Carya non stava solo nelle sue noci. Il suo legno si rivelò più denso e più capace di assorbire gli urti di quasi ogni altro legno della foresta, in grado di piegarsi sotto sforzo senza rompersi. Sia i popoli nativi che i coloni lo usavano per archi, manici di utensili e ruote di carro che dovevano resistere ad anni di uso intenso. Questa fama di robustezza si impresse profondamente nella memoria americana: durante la guerra del 1812, i soldati al comando del generale Andrew Jackson iniziarono a chiamarlo «Old Hickory», paragonando la sua determinazione incrollabile al legno che non si rompeva mai. Il soprannome lo accompagnò per il resto della vita e in seguito diede il nome a città, scuole e strade in tutto il paese.\n\nOggi il Carya è forse più noto in cucina che in officina. Il suo fumo lento e dolce è diventato l'aroma distintivo del barbecue del Sud degli Stati Uniti, usato per affumicare prosciutti, pancetta e costine apprezzati per il loro sapore. Nel frattempo, una specie di Carya, il pecan, resta una delle poche noci arboree originarie del Nord America ancora coltivate commercialmente, riempiendo torte e frutteti dalla Georgia al Texas.",
+        "name_origin": "Il nome «hickory» deriva da pawcohiccora, una parola algonchina della Virginia per la pasta ricca e lattiginosa fatta con noci di Carya pestate; i coloni inglesi abbreviarono la parola e la applicarono all'albero stesso.",
+        "symbolism_story": "Poiché il legno del Carya resiste senza rompersi anche sotto grande sforzo, è diventato un simbolo duraturo di resistenza — famoso soprattutto per aver dato al generale Andrew Jackson il soprannome «Old Hickory» per la sua determinazione incrollabile in battaglia.",
+        "flower_meaning": "Resilienza",
+        "fragrance": {
+          "notes": "L'albero vivo ha poco profumo proprio, ma il suo legno, bruciando, rilascia un aroma dolce e affumicato molto apprezzato per insaporire il barbecue tradizionale."
+        },
+        "uses_list": [
+          {
+            "text": "Le noci di diverse specie, specialmente il pecan, vengono coltivate e consumate commercialmente, e il fumo del suo legno è apprezzato per insaporire barbecue e carni affumicate."
+          },
+          {
+            "text": "Il suo legno, straordinariamente denso e resistente agli urti, è usato per manici di utensili, ruote di carro e attrezzature sportive che devono resistere a impatti ripetuti."
+          },
+          {
+            "text": "I suoi frutti sono un'importante fonte di cibo autunnale per scoiattoli, cervi e altra fauna selvatica."
+          },
+          {
+            "text": "Il suo portamento alto e diritto e il fogliame dorato d'autunno lo rendono un bell'albero ombreggiante per grandi giardini."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Resilienza",
+            "description": "Il legno indistruttibile e resistente agli urti del Carya simboleggia da tempo la robustezza e la capacità di piegarsi senza rompersi sotto pressione."
+          }
+        ],
+        "toxicity": {
+          "headline": "Nessuna tossicità segnalata",
+          "active_compound_display": "Nessuno segnalato",
+          "notes_en": "Non è stata trovata alcuna fonte autorevole sulla tossicità; trattata come non segnalata (la stima dell'IA non è verificata da fonti).",
+          "human": {
+            "exposure": "Non è segnalata alcuna via di esposizione.",
+            "effect": "Non è segnalato alcun effetto tossico.",
+            "note": "Nessuna tossicità è segnalata per l'uomo in questo catalogo; ciò non è prova che la pianta sia commestibile o innocua."
+          },
+          "dog": {
+            "exposure": "Non è segnalata alcuna via di esposizione.",
+            "effect": "Non è segnalato alcun effetto tossico.",
+            "note": "Nessuna tossicità è segnalata per i cani in questo catalogo; ciò non è prova che la pianta sia commestibile o innocua."
+          },
+          "cat": {
+            "exposure": "Non è segnalata alcuna via di esposizione.",
+            "effect": "Non è segnalato alcun effetto tossico.",
+            "note": "Nessuna tossicità è segnalata per i gatti in questo catalogo; ciò non è prova che la pianta sia commestibile o innocua."
+          }
+        }
+      }
+    },
+    "AAA1763": {
+      "source_hash": "e8bd8fa5fe1c86d51ebefcae6245c52a8b700def4b24c8d169056703eee39495",
+      "fields": {
+        "common_name": "Verbene",
+        "bloom_tip": "Il periodo di fioritura dura diversi mesi e attira numerosi insetti.",
+        "description": "Verbena è un genere di circa 250 piante da fiore originarie principalmente delle Americhe, apprezzate per i densi grappoli di piccoli fiori tubolari viola, rosa e bianchi che fioriscono dalla fine della primavera all'autunno. Le piante vanno da tappezzanti basse e striscianti a perenni erette e leggere fino ad annuali delicate, con fusti sottili e foglie dentate a tessitura ruvida. Pieno sole e terreno ben drenato favoriscono la fioritura più abbondante, e le piante ormai affermate tollerano facilmente i periodi di siccità. Api, farfalle e colibrì le visitano volentieri, rendendo la verbena un elemento fisso dei giardini per impollinatori e dei cestini pensili.",
+        "history_text_short": "Gli antichi Romani chiamavano la verbena herba sacra, l'erba sacra, e ne portavano rametti durante le cerimonie di trattati e di pace. Nell'Europa medievale veniva poi appesa sopra le porte, nella convinzione che allontanasse streghe e spiriti maligni.",
+        "history_text_long": "Molto prima di diventare un elemento fisso dei giardini moderni, la verbena occupava un posto sacro nella vita religiosa dell'antica Roma. I sacerdoti noti come feziali, responsabili di dichiarare guerra e sigillare trattati di pace per conto della Repubblica, portavano fasci di verbena come simbolo della sacralità della loro carica. La pianta era chiamata herba sacra, l'erba sacra, e si credeva che la sua presenza garantisse la veridicità di ogni giuramento pronunciato in suo nome. Gli altari dedicati a Giove venivano purificati con la verbena prima dei sacrifici, e l'erba era intrecciata in corone per i riti sacri.\n\nQuesta venerazione proseguì nel folklore dell'Europa medievale. I contadini appendevano rametti sopra le porte e li tenevano addosso negli abiti, convinti che la pianta potesse scacciare le streghe, spezzare maledizioni e proteggere una casa dagli spiriti maligni. Gli erboristi dell'epoca prescrivevano anche infusi e cataplasmi di verbena contro febbre e ferite, mescolando medicina pratica e secoli di superstizione.\n\nQuando i coloni europei raggiunsero le Americhe, trovarono decine di specie di verbena autoctone già radicate nelle tradizioni dei popoli indigeni, che usavano le varietà locali per disturbi digestivi e respiratori. Gli ibridatori in seguito incrociarono queste specie americane selvatiche per ottenere gli ibridi da giardino compatti e molto fioriferi oggi presenti nei vivai di tutto il mondo, portando avanti una pianta una volta ritenuta capace di sigillare trattati e vegliare sulle soglie.",
+        "name_origin": "Il nome verbena deriva direttamente dal latino, dove indicava in senso ampio i rami sacri o le fronde usate nelle cerimonie religiose, un riflesso della lunga storia della pianta come herba sacra di Roma, l'erba sacra.",
+        "symbolism_story": "Poiché i sacerdoti romani portavano la verbena nel sigillare trattati e pronunciare giuramenti, la pianta si legò ai significati di sincerità, lealtà e rispetto della parola data. Gli stessi rametti che un tempo venivano appesi sopra le porte per respingere le streghe diedero alla verbena un secondo significato di protezione, rendendola un fiore donato per esprimere tanto un affetto sincero quanto il desiderio di proteggere una persona cara.",
+        "flower_meaning": "Sincerità",
+        "fragrance": {
+          "notes": "Molti fiori di verbena emanano una fragranza leggera e dolce, più percettibile nelle serate calde o quando le piante sono raggruppate in gran numero."
+        },
+        "uses_list": [
+          {
+            "text": "Attira api, farfalle e colibrì con fioriture abbondanti e durature."
+          },
+          {
+            "text": "Coltivata ampiamente in aiuole, bordure, vasi e cestini pensili per un colore che dura tutta la stagione."
+          },
+          {
+            "text": "I grappoli di piccoli fiori si conservano bene in composizioni e mazzi freschi."
+          },
+          {
+            "text": "I fiori regalano un profumo leggero e dolce a giardini e terrazze nelle serate calde."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Sincerità",
+            "description": "La verbena simboleggia da lungo tempo sincerità e devozione, legata al suo antico uso come erba sacra scambiata in buona fede durante i trattati."
+          },
+          {
+            "keyword": "Protezione",
+            "description": "Nel folklore medievale, si credeva che la verbena appesa sopra le porte proteggesse la casa dagli spiriti maligni e dalla stregoneria."
+          }
+        ],
+        "toxicity": {
+          "headline": "Nessuna tossicità segnalata",
+          "active_compound_display": "Nessuno segnalato",
+          "notes_en": "Non è stata trovata alcuna corrispondenza di tossicità da fonti autorevoli; considerata non segnalata (la stima del modello non è verificata da fonti).",
+          "human": {
+            "exposure": "Non è segnalata alcuna via di esposizione.",
+            "effect": "Non è segnalato alcun effetto tossico.",
+            "note": "In questo catalogo non è segnalata alcuna tossicità per l'uomo; ciò non è una prova che la pianta sia comestibile o inoffensiva."
+          },
+          "dog": {
+            "exposure": "Non è segnalata alcuna via di esposizione.",
+            "effect": "Non è segnalato alcun effetto tossico.",
+            "note": "In questo catalogo non è segnalata alcuna tossicità per i cani; ciò non è una prova che la pianta sia comestibile o inoffensiva."
+          },
+          "cat": {
+            "exposure": "Non è segnalata alcuna via di esposizione.",
+            "effect": "Non è segnalato alcun effetto tossico.",
+            "note": "In questo catalogo non è segnalata alcuna tossicità per i gatti; ciò non è una prova che la pianta sia comestibile o inoffensiva."
           }
         }
       }

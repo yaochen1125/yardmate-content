@@ -3,8 +3,8 @@
   "locale": "es",
   "source": {
     "resource": "plants_detail.json",
-    "sha256": "40627aee7868084f921663de42823be182272b30c48d1517ce9e34fb524a667a",
-    "record_count": 1760
+    "sha256": "e0153e974d0a41311d13677b7d9eb3587a5250002e404159f57097c4412a6292",
+    "record_count": 1762
   },
   "records": {
     "AAA0001": {
@@ -107657,6 +107657,122 @@
             "exposure": "No se reporta ninguna vía de exposición.",
             "effect": "No se reporta ningún efecto tóxico.",
             "note": "Fuentes autorizadas reportan que esta planta no es tóxica para los gatos; esto no es evidencia de que la planta sea comestible."
+          }
+        }
+      }
+    },
+    "AAA1762": {
+      "source_hash": "38e0a2792e32eab0aa2919d4dabd6e622367fa078f67f2a46d75783817c33aaf",
+      "fields": {
+        "common_name": "Hickory",
+        "fruit_tip": "Cuando el fruto del hickory madura en otoño, su gruesa cáscara se abre y libera una nuez de cascarón duro; varias especies, entre ellas el pecán, producen semillas dulces y comestibles.",
+        "description": "El hickory es un género de árboles altos y caducifolios de la familia del nogal, apreciado por su tronco recto como una flecha y su madera excepcionalmente densa y resistente a los golpes. Originario principalmente del este de Norteamérica, con algunos parientes en Asia, tiene hojas pinnadas que se tiñen de un dorado brillante cada otoño. Sus nueces maduran dentro de una cáscara gruesa —entre ellas el dulce pecán— y alimentan tanto a las ardillas como a las familias que las recolectan. Pocos árboles combinan tanta fuerza robusta con la serena belleza del otoño.",
+        "history_text_short": "Mucho antes de que la palabra «hickory» entrara en el inglés, los pueblos algonquinos de Virginia machacaban las nueces de hickory hasta formar una pasta espesa llamada pawcohiccora, que mezclaban con agua para obtener una leche nutritiva. Los colonos acortaron la palabra a «hickory». Generaciones después, la legendaria dureza de su madera le dio al general Andrew Jackson su apodo, «Old Hickory».",
+        "history_text_long": "Siglos antes de la llegada de los colonos europeos, los pueblos algonquinos de Virginia recogían cada otoño las nueces del hickory, rompían sus duras cáscaras y machacaban los granos hasta obtener una pasta rica y aceitosa. Mezclada con agua, esta pasta producía una bebida nutritiva y lechosa que llamaban pawcohiccora, un alimento básico que podía guardarse durante el invierno y añadirse a guisos y panes. Los colonos ingleses que adoptaron este alimento acortaron la palabra desconocida a «hickory», y el nombre pasó de la bebida al propio árbol.\n\nEl valor del hickory no residía solo en sus nueces. Su madera resultó ser más densa y más capaz de absorber golpes que casi cualquier otra del bosque, capaz de doblarse bajo tensión sin quebrarse. Tanto los pueblos nativos como los colonos recurrían a ella para fabricar arcos, mangos de herramientas y ruedas de carreta que debían soportar años de uso intenso. Esa fama de resistencia quedó grabada en la memoria estadounidense: durante la guerra de 1812, los soldados que servían bajo el general Andrew Jackson comenzaron a llamarlo «Old Hickory», comparando su determinación inquebrantable con la madera que nunca se rompía. El apodo lo acompañó el resto de su vida y más tarde dio nombre a pueblos, escuelas y calles de todo el país.\n\nHoy el hickory es quizá más conocido en la cocina que en el taller. Su humo lento y dulce se ha convertido en el aroma característico de la barbacoa sureña, con el que se curan jamones, panceta y costillas apreciados por su sabor. Mientras tanto, una especie de hickory, el pecán, sigue siendo una de las pocas nueces de árbol originarias de Norteamérica que aún se cultiva comercialmente, llenando tartas y huertos desde Georgia hasta Texas.",
+        "name_origin": "El nombre «hickory» proviene de pawcohiccora, una palabra algonquina de Virginia para la pasta espesa y lechosa hecha con nueces de hickory machacadas; los colonos ingleses acortaron la palabra y la aplicaron al árbol mismo.",
+        "symbolism_story": "Como la madera de hickory resiste sin quebrarse incluso bajo una gran tensión, se convirtió en un símbolo duradero de resistencia, famoso sobre todo porque le dio al general Andrew Jackson su apodo «Old Hickory» por su determinación inquebrantable en la batalla.",
+        "flower_meaning": "Resiliencia",
+        "fragrance": {
+          "notes": "El árbol vivo apenas tiene aroma, pero su madera libera, al quemarse, un aroma dulce y ahumado muy apreciado para dar sabor a la barbacoa tradicional."
+        },
+        "uses_list": [
+          {
+            "text": "Las nueces de varias especies, especialmente el pecán, se cultivan y consumen comercialmente, y el humo de su madera se aprecia para dar sabor a la barbacoa y las carnes curadas."
+          },
+          {
+            "text": "Su madera, excepcionalmente densa y resistente a los golpes, se usa para mangos de herramientas, ruedas de carreta y equipamiento deportivo que debe soportar impactos repetidos."
+          },
+          {
+            "text": "Sus nueces son una importante fuente de alimento otoñal para ardillas, ciervos y otra fauna silvestre."
+          },
+          {
+            "text": "Su porte alto y recto y su follaje dorado en otoño lo convierten en un árbol de sombra vistoso para jardines grandes."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Resiliencia",
+            "description": "La madera indestructible y absorbente de impactos del hickory simboliza desde hace tiempo la dureza y la capacidad de doblarse sin romperse bajo presión."
+          }
+        ],
+        "toxicity": {
+          "headline": "No se ha reportado toxicidad",
+          "active_compound_display": "Ninguno reportado",
+          "notes_en": "No se encontró ninguna fuente autorizada sobre su toxicidad; se trata como no reportada (la estimación de la IA no está verificada por fuentes).",
+          "human": {
+            "exposure": "No se reporta ninguna vía de exposición.",
+            "effect": "No se reporta ningún efecto tóxico.",
+            "note": "No se reporta toxicidad para los humanos en este catálogo; esto no es evidencia de que la planta sea comestible o inofensiva."
+          },
+          "dog": {
+            "exposure": "No se reporta ninguna vía de exposición.",
+            "effect": "No se reporta ningún efecto tóxico.",
+            "note": "No se reporta toxicidad para los perros en este catálogo; esto no es evidencia de que la planta sea comestible o inofensiva."
+          },
+          "cat": {
+            "exposure": "No se reporta ninguna vía de exposición.",
+            "effect": "No se reporta ningún efecto tóxico.",
+            "note": "No se reporta toxicidad para los gatos en este catálogo; esto no es evidencia de que la planta sea comestible o inofensiva."
+          }
+        }
+      }
+    },
+    "AAA1763": {
+      "source_hash": "e8bd8fa5fe1c86d51ebefcae6245c52a8b700def4b24c8d169056703eee39495",
+      "fields": {
+        "common_name": "Verbena",
+        "bloom_tip": "El período de floración dura varios meses y atrae a muchos insectos.",
+        "description": "Verbena es un género de alrededor de 250 plantas con flores, originarias principalmente de América, apreciadas por sus densos racimos de flores pequeñas y tubulares en tonos morado, rosa y blanco que florecen desde finales de primavera hasta el otoño. Las plantas van desde cubresuelos bajos y extendidos hasta perennes erguidas y ligeras y anuales delicadas, con tallos delgados y hojas dentadas de textura rugosa. El sol pleno y el suelo bien drenado favorecen una floración más abundante, y las plantas ya establecidas toleran bien los períodos de sequía. Abejas, mariposas y colibríes las visitan con frecuencia, lo que convierte a la verbena en un elemento habitual de los jardines para polinizadores y las cestas colgantes.",
+        "history_text_short": "Los antiguos romanos llamaban a la verbena herba sacra, la hierba sagrada, y la llevaban consigo en ceremonias de tratados y de paz. Más tarde, en la Europa medieval, se colgaba sobre las puertas por creer que alejaba a las brujas y los malos espíritus.",
+        "history_text_long": "Mucho antes de convertirse en un elemento habitual de los jardines modernos, la verbena ocupó un lugar sagrado en la vida religiosa de la antigua Roma. Los sacerdotes conocidos como fetiales, encargados de declarar la guerra y sellar tratados de paz en nombre de la República, portaban manojos de verbena como símbolo de la santidad de su cargo. A la planta se la llamaba herba sacra, la hierba sagrada, y se creía que su presencia garantizaba la veracidad de cualquier juramento pronunciado en su nombre. Los altares dedicados a Júpiter se limpiaban con verbena antes de los sacrificios, y la hierba se trenzaba en coronas para los ritos sagrados.\n\nEsa veneración pasó al folclore de la Europa medieval. Los aldeanos colgaban ramitas sobre las puertas y las guardaban entre la ropa, convencidos de que la planta podía ahuyentar a las brujas, romper maldiciones y proteger un hogar de los malos espíritus. Los herbolarios de la época también recetaban infusiones y cataplasmas de verbena para la fiebre y las heridas, mezclando la medicina práctica con siglos de superstición.\n\nCuando los colonos europeos llegaron a América, se encontraron con docenas de especies nativas de verbena ya arraigadas en las tradiciones de los pueblos indígenas, que usaban variedades locales para problemas digestivos y respiratorios. Más tarde, los criadores cruzaron estas especies americanas silvestres para producir los híbridos de jardín compactos y de floración abundante que hoy se encuentran en viveros de todo el mundo, dando continuidad a una planta que antaño se confiaba para sellar tratados y proteger los umbrales.",
+        "name_origin": "El nombre verbena proviene directamente del latín, donde designaba de forma general las ramas sagradas u hojas usadas en ceremonias religiosas, lo que refleja la larga historia de la planta como la herba sacra, la hierba sagrada, de Roma.",
+        "symbolism_story": "Debido a que los sacerdotes romanos portaban verbena al sellar tratados y pronunciar juramentos, la planta quedó asociada con la sinceridad, la lealtad y el cumplimiento de la palabra dada. Las mismas ramitas que antes se colgaban sobre las puertas para repeler a las brujas dieron a la verbena un segundo significado de protección, convirtiéndola en una flor que se regala tanto para expresar devoción sincera como el deseo de proteger a un ser querido.",
+        "flower_meaning": "Sinceridad",
+        "fragrance": {
+          "notes": "Muchas flores de verbena desprenden una fragancia suave y dulce, más perceptible en las tardes cálidas o cuando se agrupan en gran número."
+        },
+        "uses_list": [
+          {
+            "text": "Atrae abejas, mariposas y colibríes con flores abundantes y de larga duración."
+          },
+          {
+            "text": "Se cultiva ampliamente en parterres, bordes, macetas y cestas colgantes para aportar color durante toda la temporada."
+          },
+          {
+            "text": "Sus racimos de pequeñas flores se conservan bien en arreglos y ramos frescos."
+          },
+          {
+            "text": "Sus flores añaden un aroma suave y dulce a jardines y terrazas en las tardes cálidas."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Sinceridad",
+            "description": "La verbena ha simbolizado durante mucho tiempo la sinceridad y la devoción, ligada a su antiguo uso como hierba sagrada intercambiada de buena fe durante los tratados."
+          },
+          {
+            "keyword": "Protección",
+            "description": "En el folclore medieval, se creía que la verbena colgada sobre las puertas protegía el hogar de los malos espíritus y la brujería."
+          }
+        ],
+        "toxicity": {
+          "headline": "No se ha reportado toxicidad",
+          "active_compound_display": "Ninguno reportado",
+          "notes_en": "No se encontró ninguna coincidencia de toxicidad en fuentes autorizadas; se considera no reportada (la estimación del modelo no está verificada por fuentes).",
+          "human": {
+            "exposure": "No se reporta ninguna vía de exposición.",
+            "effect": "No se reporta ningún efecto tóxico.",
+            "note": "En este catálogo no se reporta toxicidad para los humanos; esto no es prueba de que la planta sea comestible o inofensiva."
+          },
+          "dog": {
+            "exposure": "No se reporta ninguna vía de exposición.",
+            "effect": "No se reporta ningún efecto tóxico.",
+            "note": "En este catálogo no se reporta toxicidad para los perros; esto no es prueba de que la planta sea comestible o inofensiva."
+          },
+          "cat": {
+            "exposure": "No se reporta ninguna vía de exposición.",
+            "effect": "No se reporta ningún efecto tóxico.",
+            "note": "En este catálogo no se reporta toxicidad para los gatos; esto no es prueba de que la planta sea comestible o inofensiva."
           }
         }
       }

@@ -3,8 +3,8 @@
   "locale": "fr",
   "source": {
     "resource": "plants_detail.json",
-    "sha256": "40627aee7868084f921663de42823be182272b30c48d1517ce9e34fb524a667a",
-    "record_count": 1760
+    "sha256": "e0153e974d0a41311d13677b7d9eb3587a5250002e404159f57097c4412a6292",
+    "record_count": 1762
   },
   "records": {
     "AAA0001": {
@@ -107643,6 +107643,122 @@
             "exposure": "Aucune voie d'exposition signalée.",
             "effect": "Aucun effet toxique signalé.",
             "note": "Des sources faisant autorité indiquent que cette plante n'est pas toxique pour les chats ; cela ne prouve pas qu'elle soit comestible."
+          }
+        }
+      }
+    },
+    "AAA1762": {
+      "source_hash": "38e0a2792e32eab0aa2919d4dabd6e622367fa078f67f2a46d75783817c33aaf",
+      "fields": {
+        "common_name": "Caryer",
+        "fruit_tip": "Lorsque le fruit du caryer mûrit à l'automne, son épaisse enveloppe s'ouvre pour libérer une noix à coque dure ; plusieurs espèces, dont le pacanier, produisent des amandes sucrées et comestibles.",
+        "description": "Le caryer est un genre de grands arbres à feuilles caduques de la famille du noyer, apprécié pour son tronc d'une rectitude remarquable et son bois exceptionnellement dense et résistant aux chocs. Originaire surtout de l'est de l'Amérique du Nord, avec quelques espèces apparentées en Asie, il porte des feuilles pennées qui se parent d'un doré éclatant chaque automne. Ses noix mûrissent dans une épaisse enveloppe — dont la douce noix de pécan — nourrissant aussi bien les écureuils que les familles qui les récoltent. Peu d'arbres allient autant de force robuste à la beauté discrète de l'automne.",
+        "history_text_short": "Longtemps avant que le mot « hickory » n'entre dans la langue anglaise, les peuples algonquins de Virginie pilaient les noix du caryer en une pâte riche appelée pawcohiccora, mélangée à de l'eau pour obtenir un lait nourrissant. Les colons raccourcirent ce mot en « hickory ». Des générations plus tard, la robustesse légendaire de son bois valut au général Andrew Jackson son surnom, « Old Hickory ».",
+        "history_text_long": "Des siècles avant l'arrivée des colons européens, les peuples algonquins de Virginie récoltaient chaque automne les noix du caryer, en cassaient la coque dure et pilaient les amandes en une pâte riche et huileuse. Mélangée à de l'eau, cette pâte donnait une boisson lactée et nourrissante qu'ils appelaient pawcohiccora — un aliment de base que l'on pouvait conserver tout l'hiver et ajouter aux ragoûts et aux pains. Les colons anglais qui adoptèrent cet aliment raccourcirent le mot inhabituel en « hickory », et le nom passa de la boisson à l'arbre lui-même.\n\nLa valeur du caryer ne résidait pas seulement dans ses noix. Son bois s'avéra plus dense et plus capable d'absorber les chocs que presque tout autre bois de la forêt, capable de se courber sous la contrainte sans se rompre. Les peuples autochtones comme les colons s'en servaient pour fabriquer des arcs, des manches d'outils et des roues de chariot destinés à résister à des années d'usage intensif. Cette réputation de robustesse marqua profondément la mémoire américaine : pendant la guerre de 1812, les soldats sous le commandement du général Andrew Jackson se mirent à l'appeler « Old Hickory », comparant sa détermination inébranlable à ce bois qui ne cassait jamais. Le surnom lui resta toute sa vie et donna plus tard son nom à des villes, des écoles et des rues à travers tout le pays.\n\nAujourd'hui, le caryer est peut-être plus connu en cuisine qu'en atelier. Sa fumée lente et douce est devenue l'arôme emblématique du barbecue du Sud des États-Unis, utilisée pour fumer jambons, lard et travers de porc appréciés pour leur saveur. Par ailleurs, une espèce de caryer, le pacanier, reste l'une des seules noix d'arbre originaires d'Amérique du Nord encore cultivées commercialement, remplissant tartes et vergers de la Géorgie au Texas.",
+        "name_origin": "Le nom « hickory » vient de pawcohiccora, un mot algonquin de Virginie désignant la pâte riche et lactée faite de noix de caryer pilées ; les colons anglais raccourcirent le mot et l'appliquèrent à l'arbre lui-même.",
+        "symbolism_story": "Parce que le bois du caryer résiste à la rupture même sous une forte contrainte, il est devenu un symbole durable d'endurance — ayant notamment valu au général Andrew Jackson son surnom « Old Hickory » pour sa détermination inébranlable au combat.",
+        "flower_meaning": "Résilience",
+        "fragrance": {
+          "notes": "L'arbre vivant a peu d'odeur propre, mais son bois dégage, une fois brûlé, un arôme doux et fumé très prisé pour parfumer le barbecue traditionnel."
+        },
+        "uses_list": [
+          {
+            "text": "Les noix de plusieurs espèces, notamment le pacanier, sont cultivées et consommées commercialement, et la fumée de son bois est appréciée pour parfumer barbecues et viandes fumées."
+          },
+          {
+            "text": "Son bois, exceptionnellement dense et résistant aux chocs, est utilisé pour les manches d'outils, les roues de chariot et les équipements sportifs devant résister à des impacts répétés."
+          },
+          {
+            "text": "Ses noix constituent une source de nourriture automnale importante pour les écureuils, les cerfs et d'autres animaux sauvages."
+          },
+          {
+            "text": "Son port élancé et droit et son feuillage doré en automne en font un bel arbre d'ombrage pour les grands jardins."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Résilience",
+            "description": "Le bois incassable et absorbant les chocs du caryer symbolise depuis longtemps la robustesse et la capacité à se courber sans se rompre sous la pression."
+          }
+        ],
+        "toxicity": {
+          "headline": "Aucune toxicité signalée",
+          "active_compound_display": "Aucun signalé",
+          "notes_en": "Aucune source autorisée n'a confirmé de toxicité ; traité comme non signalé (l'estimation de l'IA n'est pas vérifiée par une source).",
+          "human": {
+            "exposure": "Aucune voie d'exposition n'est signalée.",
+            "effect": "Aucun effet toxique n'est signalé.",
+            "note": "Aucune toxicité n'est signalée pour les humains dans ce catalogue ; cela ne prouve pas que la plante soit comestible ou inoffensive."
+          },
+          "dog": {
+            "exposure": "Aucune voie d'exposition n'est signalée.",
+            "effect": "Aucun effet toxique n'est signalé.",
+            "note": "Aucune toxicité n'est signalée pour les chiens dans ce catalogue ; cela ne prouve pas que la plante soit comestible ou inoffensive."
+          },
+          "cat": {
+            "exposure": "Aucune voie d'exposition n'est signalée.",
+            "effect": "Aucun effet toxique n'est signalé.",
+            "note": "Aucune toxicité n'est signalée pour les chats dans ce catalogue ; cela ne prouve pas que la plante soit comestible ou inoffensive."
+          }
+        }
+      }
+    },
+    "AAA1763": {
+      "source_hash": "e8bd8fa5fe1c86d51ebefcae6245c52a8b700def4b24c8d169056703eee39495",
+      "fields": {
+        "common_name": "Verveine",
+        "bloom_tip": "La période de floraison dure plusieurs mois et attire de nombreux insectes.",
+        "description": "La verveine (Verbena) est un genre d'environ 250 plantes à fleurs originaires principalement des Amériques, appréciées pour leurs denses grappes de petites fleurs tubulaires violettes, roses et blanches qui s'épanouissent de la fin du printemps à l'automne. Les plantes vont de couvre-sols bas et étalés à des vivaces dressées et légères ou des annuelles délicates, avec des tiges fines et des feuilles dentées à texture rugueuse. Le plein soleil et un sol bien drainé favorisent une floraison plus abondante, et les plants établis supportent facilement les périodes de sécheresse. Abeilles, papillons et colibris les visitent volontiers, faisant de la verveine un incontournable des jardins pour pollinisateurs et des paniers suspendus.",
+        "history_text_short": "Les Romains de l'Antiquité appelaient la verveine herba sacra, l'herbe sacrée, et en portaient des brins lors des cérémonies de traités et de paix. Au Moyen Âge, les Européens la suspendaient au-dessus des portes, convaincus qu'elle repoussait les sorcières et les mauvais esprits.",
+        "history_text_long": "Bien avant de devenir un pilier des jardins modernes, la verveine occupait une place sacrée dans la vie religieuse de la Rome antique. Les prêtres appelés fétiaux, chargés de déclarer la guerre et de sceller les traités de paix au nom de la République, portaient des bottes de verveine en signe du caractère sacré de leur fonction. La plante était appelée herba sacra, l'herbe sacrée, et l'on croyait que sa présence garantissait la véracité de tout serment prononcé en son nom. Les autels dédiés à Jupiter étaient purifiés avec de la verveine avant les sacrifices, et l'herbe était tressée en couronnes pour les rites sacrés.\n\nCette vénération s'est poursuivie dans le folklore de l'Europe médiévale. Les villageois suspendaient des brins au-dessus de leurs portes et les glissaient dans leurs vêtements, persuadés que la plante pouvait repousser les sorcières, briser les malédictions et protéger un foyer des mauvais esprits. Les herboristes de l'époque prescrivaient aussi des tisanes et des cataplasmes de verveine contre la fièvre et les blessures, mêlant médecine pratique et superstitions séculaires.\n\nLorsque les colons européens atteignirent les Amériques, ils découvrirent des dizaines d'espèces de verveine indigènes déjà intégrées aux traditions des peuples autochtones, qui utilisaient les variétés locales contre les troubles digestifs et respiratoires. Les sélectionneurs croisèrent plus tard ces espèces américaines sauvages pour créer les hybrides de jardin compacts et très florifères que l'on trouve aujourd'hui dans les pépinières du monde entier, perpétuant une plante autrefois chargée de sceller les traités et de garder les seuils.",
+        "name_origin": "Le nom verveine vient directement du latin verbena, qui désignait de façon générale les rameaux sacrés ou les branches feuillues utilisés lors des cérémonies religieuses, reflétant la longue histoire de la plante en tant que herba sacra, l'herbe sacrée de Rome.",
+        "symbolism_story": "Parce que les prêtres romains portaient de la verveine en scellant des traités et en prêtant serment, la plante en est venue à symboliser la sincérité, la loyauté et le respect de la parole donnée. Les mêmes brins jadis suspendus au-dessus des portes pour repousser les sorcières ont donné à la verveine un second sens, celui de la protection, en faisant une fleur offerte pour exprimer à la fois une affection sincère et le souhait de protéger un être cher.",
+        "flower_meaning": "Sincérité",
+        "fragrance": {
+          "notes": "De nombreuses fleurs de verveine dégagent un parfum léger et sucré, plus perceptible les soirs chauds ou lorsqu'elles sont regroupées en masse."
+        },
+        "uses_list": [
+          {
+            "text": "Attire les abeilles, les papillons et les colibris grâce à des fleurs abondantes et durables."
+          },
+          {
+            "text": "Cultivée largement en massifs, bordures, pots et paniers suspendus pour une couleur tout au long de la saison."
+          },
+          {
+            "text": "Ses grappes de petites fleurs se conservent bien dans les compositions et bouquets frais."
+          },
+          {
+            "text": "Ses fleurs apportent un parfum léger et sucré aux jardins et aux terrasses les soirs chauds."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Sincérité",
+            "description": "La verveine symbolise depuis longtemps la sincérité et la dévotion, en lien avec son ancien usage d'herbe sacrée échangée de bonne foi lors des traités."
+          },
+          {
+            "keyword": "Protection",
+            "description": "Dans le folklore médiéval, on croyait que la verveine suspendue au-dessus des portes protégeait la maison des mauvais esprits et de la sorcellerie."
+          }
+        ],
+        "toxicity": {
+          "headline": "Aucune toxicité signalée",
+          "active_compound_display": "Aucun signalé",
+          "notes_en": "Aucune correspondance de toxicité provenant de sources fiables n'a été trouvée ; considérée comme non signalée (l'estimation du modèle n'est pas vérifiée par une source).",
+          "human": {
+            "exposure": "Aucune voie d'exposition n'est signalée.",
+            "effect": "Aucun effet toxique n'est signalé.",
+            "note": "Aucune toxicité n'est signalée pour les humains dans ce catalogue ; cela ne prouve pas que la plante soit comestible ou inoffensive."
+          },
+          "dog": {
+            "exposure": "Aucune voie d'exposition n'est signalée.",
+            "effect": "Aucun effet toxique n'est signalé.",
+            "note": "Aucune toxicité n'est signalée pour les chiens dans ce catalogue ; cela ne prouve pas que la plante soit comestible ou inoffensive."
+          },
+          "cat": {
+            "exposure": "Aucune voie d'exposition n'est signalée.",
+            "effect": "Aucun effet toxique n'est signalé.",
+            "note": "Aucune toxicité n'est signalée pour les chats dans ce catalogue ; cela ne prouve pas que la plante soit comestible ou inoffensive."
           }
         }
       }
