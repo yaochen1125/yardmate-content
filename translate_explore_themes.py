@@ -10,6 +10,11 @@ a stale overlay silently attaches descriptions to the wrong plants
 
 Run: python3 translate_explore_themes.py            # all locales
      python3 translate_explore_themes.py zh-Hans    # one locale
+     python3 translate_explore_themes.py --only-missing
+         # keep every theme already in the current overlay, translate only
+         # theme ids it lacks (weekly job: it only appends themes, and the
+         # server has no .translate_cache — without this flag the original
+         # 30 would be re-machine-translated every week)
 Requires: ~/.config/yardmate-api/deepseek.env with DEEPSEEK_API_KEY.
 Resumable: per-(locale,theme) results cached in .translate_cache/; delete to redo.
 """
@@ -145,13 +150,29 @@ def main():
     source_sha = hashlib.sha256(raw).hexdigest()
     data = json.loads(raw)
     themes = data["themes"]
-    locales = sys.argv[1:] or list(LOCALES)
+    args = sys.argv[1:]
+    only_missing = "--only-missing" in args
+    locales = [a for a in args if a != "--only-missing"] or list(LOCALES)
+    unknown = [l for l in locales if l not in LOCALES]
+    if unknown:
+        raise SystemExit(f"unknown locale(s): {unknown}")
 
     for locale in locales:
         t0 = time.time()
+        out_path = os.path.join(ROOT, "i18n", locale, "explore_themes.json")
         results = {}
+        if only_missing and os.path.exists(out_path):
+            with open(out_path) as f:
+                existing = json.load(f)["fields"]["themes"]
+            for t in themes:
+                kept = existing.get(t["id"])
+                # plants[] align by index — a count mismatch means the theme
+                # was edited, so it must be retranslated, not kept.
+                if kept and len(kept.get("plants") or []) == len(t["plants"]):
+                    results[t["id"]] = kept
+        todo = [t for t in themes if t["id"] not in results]
         with concurrent.futures.ThreadPoolExecutor(max_workers=8) as pool:
-            futs = [pool.submit(translate_theme, locale, t) for t in themes]
+            futs = [pool.submit(translate_theme, locale, t) for t in todo]
             for fut in concurrent.futures.as_completed(futs):
                 tid, fields = fut.result()
                 results[tid] = fields
@@ -163,11 +184,10 @@ def main():
             "source": {"resource": "explore_themes.json", "sha256": source_sha},
             "fields": {"themes": ordered},
         }
-        out_path = os.path.join(ROOT, "i18n", locale, "explore_themes.json")
         with open(out_path, "w") as f:
             json.dump(out, f, ensure_ascii=False, indent=1)
             f.write("\n")
-        print(f"{locale}: {len(ordered)} themes in {time.time()-t0:.0f}s -> {out_path}")
+        print(f"{locale}: {len(ordered)} themes ({len(todo)} translated) in {time.time()-t0:.0f}s -> {out_path}")
 
 
 if __name__ == "__main__":
