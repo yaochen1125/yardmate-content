@@ -2,7 +2,7 @@
 
 母本（single source of truth）。首页合集的标题 / 简介 / intro / 选株 / 推荐理由全部以本文件为准。最初 30 个是人工写的；之后每周日 21:00（太平洋时间）由服务器每周任务在文件**末尾**追加 1 个（带 `> added:`）。
 
-**改版必须改这个文件**，然后在本仓库依次跑：`python3 build_explore_themes_json.py`（重建 `explore_themes.json`）→ `python3 translate_explore_themes.py`（重生成 10 种语言）→ `./ship.sh`。**禁止直接改 explore_themes.json**——下次从母本重建会覆盖掉。
+**改版必须改这个文件**，然后在本仓库依次跑：`python3 build_explore_themes_json.py`（重建 `explore_themes.json`）→ `python3 translate_explore_themes.py`（只翻新增 / 改过的合集）→ `./ship.sh`。**禁止直接改 explore_themes.json**——下次从母本重建会覆盖掉。
 （2026-10 之前母本在 yardmate-swiftui 的 `scripts/` 下，已挪到这里。）
 
 格式约定（`build_explore_themes_json.py` 解析，任何不符合的行都会构建报错、不写盘）：

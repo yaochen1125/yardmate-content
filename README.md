@@ -8,7 +8,7 @@ Plant content data for the Yardmate iOS app, served via jsDelivr CDN.
 - `plants_index.json` — Quick lookup table (id / scientific_name / common_name)
 - `explore_themes.json` — curated collections (30 originals + 1 new every week). **Generated** from
   `explore_themes.md` by `build_explore_themes_json.py` — edit the `.md`, never the JSON; then
-  `translate_explore_themes.py` (`--only-missing` to translate just newly added themes) before publishing
+  `translate_explore_themes.py` (translates only new / edited themes; `--engine claude` uses the claude CLI) before publishing
 - `lunar_emotional_fortunes/{year}.json` — Daily plant + moon phase + emotional theme data
 - `version.txt` — Content version (bump on every update)
 
