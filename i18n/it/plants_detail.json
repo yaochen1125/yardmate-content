@@ -3,8 +3,8 @@
   "locale": "it",
   "source": {
     "resource": "plants_detail.json",
-    "sha256": "ced62322dba07bf35fa6462a405e70cd47afe5bd07e158b923ff38760230a5d9",
-    "record_count": 1772
+    "sha256": "6f210e547ae91b5437dff6dcb0e92e89682e6036e4c0680e2adfe2d65a9de275",
+    "record_count": 1777
   },
   "records": {
     "AAA0001": {
@@ -108389,6 +108389,334 @@
             "exposure": "Non è segnalata alcuna via di esposizione.",
             "effect": "Non è segnalato alcun effetto tossico.",
             "note": "Fonti autorevoli indicano che questa pianta non è tossica per i gatti; ciò non prova che sia commestibile."
+          }
+        }
+      }
+    },
+    "AAA1774": {
+      "source_hash": "cbc42b856db284e56e364dd1c5ba87bdd38bd10bc15ad26de864a4bf333b1187",
+      "fields": {
+        "common_name": "Arbusto del latte africano",
+        "fruit_tip": "I frutti sono decorativi e danno colore al giardino in autunno.",
+        "description": "L'arbusto del latte africano (Euphorbia umbellata) è un arbusto a crescita rapida, dai fusti succulenti, originario dell'Africa orientale tropicale. I rami spessi e carnosi portano verso le punte verticilli di foglie lanceolate e lucide, verdi nella forma selvatica e di un profondo color borgogna nelle selezioni da giardino più diffuse. Piccoli gruppi di fiori rosa-rossi compaiono in capolini simili a ombrelle. Ama il sole e il terreno sabbioso ben drenato, tollera la siccità ed è molto coltivato come siepe o in vaso. Ogni parte emette un lattice biancastro che irrita pelle e occhi: maneggiarlo con i guanti.",
+        "history_text_short": "In Africa orientale l'arbusto del latte africano è piantato da tempo come recinto vivo attorno a case e recinti per il bestiame, perché il suo lattice tiene lontani gli animali che brucano. La scienza occidentale lo conobbe grazie all'esploratore James Augustus Grant, di cui portò il nome per oltre un secolo prima che i botanici lo spostassero nel genere Euphorbia.",
+        "history_text_long": "Nelle savane e ai margini dei boschi di Kenya, Tanzania e dei paesi vicini, l'arbusto del latte africano svolge da generazioni un compito molto pratico: segnare i confini. Le talee infilate nel terreno radicano facilmente e in una o due stagioni formano una barriera fitta e a rapida crescita. Capre e bovini imparano presto a lasciarlo stare, perché ogni fusto spezzato gocciola un lattice bianco e caustico. Le famiglie lo usano attorno a case, orti e recinti per animali: una recinzione viva che non richiede filo di ferro e si rinnova con le sue stesse talee.\n\nLa pianta giunse ai botanici europei nell'Ottocento grazie alle grandi spedizioni nell'Africa orientale. Gli esemplari raccolti durante il viaggio di John Hanning Speke e James Augustus Grant all'inizio degli anni Sessanta dell'Ottocento furono descritti da Joseph Dalton Hooker a Kew, che la chiamò Synadenium grantii in onore dell'esploratore. Per oltre un secolo i giardinieri la conobbero con questo nome, e le sue selezioni a foglie borgogna divennero popolari nei giardini caldi dalla Florida all'Australia.\n\nGli studi moderni sulla famiglia delle euforbiacee hanno mostrato che Synadenium rientra tranquillamente nell'enorme genere Euphorbia, e la specie oggi si chiama Euphorbia umbellata, con riferimento ai fiori disposti come le stecche di un minuscolo ombrello. Il lattice, così efficace nel difendere la pianta, è anche il motivo per cui si consigliano guanti e occhiali protettivi durante la potatura. Oggi l'arbusto del latte africano è apprezzato come siepe robusta, arbusto vistoso da vaso e accento resistente alla siccità che chiede poco più di sole, drenaggio e rispetto.",
+        "name_origin": "Euphorbia onora Euforbo, medico del re Giuba II di Mauretania, che a quanto si dice usava queste piante a scopo medicinale. L'epiteto umbellata significa «con ombrelle» e descrive i fiori riuniti a forma di ombrello. Per lungo tempo la pianta fu chiamata Synadenium grantii, dall'esploratore James Augustus Grant.",
+        "symbolism_story": "Dove l'arbusto del latte africano cresce come siepe di confine, rappresenta la protezione: un guardiano vivo e silenzioso che custodisce casa e bestiame senza un metro di filo di ferro. La sua tenacia contro caldo e siccità ne fa anche un emblema di resilienza, mentre il lattice caustico ricorda che forza e prudenza spesso vanno insieme.",
+        "flower_meaning": "Protezione",
+        "uses_list": [
+          {
+            "text": "Siepe vistosa, schermo o arbusto da vaso, soprattutto le selezioni a foglie borgogna."
+          },
+          {
+            "text": "Piantato tradizionalmente come recinto vivo perché gli animali al pascolo evitano il suo lattice."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Protezione",
+            "description": "Piantato come recinto vivo, simboleggia la difesa della casa e dei suoi confini."
+          },
+          {
+            "keyword": "Resilienza",
+            "description": "Prospera con caldo, suolo povero e siccità, simbolo di resistenza."
+          }
+        ],
+        "toxicity": {
+          "headline": "Esseri umani moderata · Animali domestici moderata",
+          "active_compound_display": "Esteri diterpenici",
+          "notes_en": "Il lattice irrita fortemente pelle, occhi e bocca; durante la potatura indossare guanti e protezione per gli occhi.",
+          "human": {
+            "exposure": "Contatto con la linfa e con qualsiasi parte della pianta. Toccare la linfa e qualsiasi parte della pianta. Ingerire la linfa e qualsiasi parte della pianta.",
+            "effect": "Irritazione cutanea, grave irritazione degli occhi, bruciore a bocca e gola, nausea e vomito.",
+            "note": "Il lattice irrita fortemente pelle, occhi e bocca; durante la potatura indossare guanti e protezione per gli occhi.",
+            "symptoms": [
+              "Irritazione cutanea.",
+              "Grave irritazione degli occhi.",
+              "Bruciore a bocca e gola.",
+              "Nausea.",
+              "Vomito."
+            ]
+          },
+          "dog": {
+            "exposure": "Contatto con la linfa e con qualsiasi parte della pianta. Ingerire la linfa e qualsiasi parte della pianta.",
+            "effect": "Salivazione, vomito, irritazione cutanea e irritazione della bocca.",
+            "note": "Il lattice irrita fortemente pelle, occhi e bocca; durante la potatura indossare guanti e protezione per gli occhi.",
+            "symptoms": [
+              "Salivazione.",
+              "Vomito.",
+              "Irritazione cutanea.",
+              "Irritazione della bocca."
+            ]
+          },
+          "cat": {
+            "exposure": "Contatto con la linfa e con qualsiasi parte della pianta. Ingerire la linfa e qualsiasi parte della pianta.",
+            "effect": "Salivazione, vomito, irritazione cutanea e irritazione della bocca.",
+            "note": "Il lattice irrita fortemente pelle, occhi e bocca; durante la potatura indossare guanti e protezione per gli occhi.",
+            "symptoms": [
+              "Salivazione.",
+              "Vomito.",
+              "Irritazione cutanea.",
+              "Irritazione della bocca."
+            ]
+          }
+        }
+      }
+    },
+    "AAA1775": {
+      "source_hash": "2bbda34c0d957fcec53b4b861a38ddba59207029050532d6975640c0c2d814ae",
+      "fields": {
+        "common_name": "Bistorta",
+        "bloom_tip": "I fiori compaiono in fitte spighe da giugno ad agosto.",
+        "description": "La bistorta (Persicaria bistorta) è una perenne cespitosa dei prati umidi e delle rive dei ruscelli di Europa e Asia. Ciuffi di larghe foglie verde-azzurro nascono da un robusto rizoma ricurvo a S, e da giugno ad agosto sottili steli alti fino a 90 cm portano fitte spighe rosa tenue a scovolino. Si diffonde lentamente in ampie colonie, ama il terreno costantemente umido al sole o a mezz'ombra ed è una fonte affidabile di nettare per api e farfalle. Rustica e poco esigente, è adatta alle rive degli stagni, alle bordure naturali e ai giardini di campagna.",
+        "history_text_short": "Perenne dei prati umidi un tempo apprezzata come erba astringente, la bistorta prestava la sua radice contorta agli antichi rimedi contro il morso di serpente, e le giovani foglie primaverili finivano nell'«Easter ledger pudding» della Cumbria. Oggi le sue spighe rosa ravvivano stagni e bordure di campagna.",
+        "history_text_long": "La bistorta è raccolta e apprezzata da secoli nel nord Europa. Il suo spesso rizoma scuro è ripiegato su se stesso come una coppia di spire, da cui il nome della pianta e, negli antichi erbari, la fama di potente astringente. Gli erboristi essiccavano e polverizzavano la radice, ricca di tannini, per chiudere le ferite, lenire il mal di gola e le afte e calmare lo stomaco, e la pianta compare nei ricettari medievali e rinascimentali con nomi come «snakeweed» e «adderwort», perché si credeva che la radice attorcigliata contrastasse i morsi di serpente. Le giovani foglie primaverili ebbero una seconda vita in cucina. Nel Lake District, nell'Inghilterra settentrionale, e in parti di Cumbria e Yorkshire, venivano bollite con orzo, avena, ortiche e altre verdure per preparare l'«Easter ledger pudding» o «Easter-mangiant», un piatto di erbe consumato intorno alla Quaresima e alla Pasqua, quando cresceva ben poco. Nella Calder Valley si tiene ancora ogni anno un festival del dock pudding, discendente di quella tradizione, anche se oggi spesso la romice sostituisce la bistorta. In giardino la pianta passò dal campo all'aiuola quando i vivaisti notarono quanto le sue spighe rosa illuminino il terreno umido all'inizio dell'estate. Forme coltivate come ‘Superba’ furono molto piantate nell'Ottocento e nel Novecento e restano popolari. Poiché prospera dove molte ornamentali faticano, presso stagni, fossi e rive ombreggiate, si è guadagnata un posto come perenne affidabile e poco esigente. In natura i suoi fiori nutrono api, sirfidi e farfalle, e diversi bruchi di falene si nutrono del fogliame.",
+        "name_origin": "L'epiteto «bistorta» deriva dal latino «bis» (due volte) e «tortus» (torto) e descrive il robusto rizoma piegato su se stesso a forma di S. Il nome del genere, Persicaria, deriva dal latino per «pesca», perché le foglie di alcune specie ricordano quelle del pesco.",
+        "symbolism_story": "Nella tradizione popolare dell'Inghilterra settentrionale la bistorta segnava la fine della stagione magra: le sue prime foglie primaverili si raccoglievano per il budino di erbe di Pasqua. La radice contorta ne ha fatto anche un simbolo dell'antico sapere erboristico e della protezione dai serpenti.",
+        "flower_meaning": "Resilienza",
+        "uses_list": [
+          {
+            "text": "Spighe rosa per rive di stagni, bordure naturali e aiuole umide di giardini di campagna."
+          },
+          {
+            "text": "I fiori ricchi di nettare attirano api, sirfidi e farfalle in estate."
+          },
+          {
+            "text": "La radice ricca di tannini era usata tradizionalmente nell'erboristeria europea come astringente."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Resilienza",
+            "description": "Prospera in terreni umidi e difficili dove molte piante da giardino non riescono."
+          },
+          {
+            "keyword": "Guarigione popolare",
+            "description": "La sua radice attorcigliata era un classico rimedio astringente negli antichi erbari europei."
+          }
+        ],
+        "toxicity": {
+          "headline": "Nessuna tossicità segnalata",
+          "active_compound_display": "Nessuno segnalato",
+          "notes_en": "Non è stata trovata alcuna fonte autorevole sulla tossicità; trattata come «non segnalata» (la stima del LLM non è verificata da fonti).",
+          "human": {
+            "exposure": "Nessuna via di esposizione segnalata.",
+            "effect": "Nessun effetto tossico segnalato.",
+            "note": "In questo catalogo non è segnalata tossicità per l'uomo; ciò non prova che la pianta sia commestibile o innocua."
+          },
+          "dog": {
+            "exposure": "Nessuna via di esposizione segnalata.",
+            "effect": "Nessun effetto tossico segnalato.",
+            "note": "In questo catalogo non è segnalata tossicità per i cani; ciò non prova che la pianta sia commestibile o innocua."
+          },
+          "cat": {
+            "exposure": "Nessuna via di esposizione segnalata.",
+            "effect": "Nessun effetto tossico segnalato.",
+            "note": "In questo catalogo non è segnalata tossicità per i gatti; ciò non prova che la pianta sia commestibile o innocua."
+          }
+        }
+      }
+    },
+    "AAA1776": {
+      "source_hash": "cb7c06705306c4abec6c18e9a230333b5539d54579859a2b81e5ea5c077ca186",
+      "fields": {
+        "common_name": "Rododendro blu-violaceo",
+        "bloom_tip": "Questa varietà fiorisce da aprile a giugno, con fiori dai colori vivaci.",
+        "fruit_tip": "I frutti compaiono tra luglio e agosto e portano bei colori.",
+        "description": "Il rododendro blu-violaceo (Rhododendron russatum) è un arbusto compatto e sempreverde delle alte montagne della Cina sud-occidentale. Piccole foglie lucide e aromatiche, con squame color ruggine sulla pagina inferiore, formano un cespuglio denso e tondeggiante alto circa 1–1,5 m. In aprile e maggio si ricopre di grappoli di fiori a imbuto di un intenso blu violaceo, uno dei blu più puri tra i rododendri, con la gola chiara. Ama un terreno fresco, umido, acido e ricco di humus, in mezz'ombra o al sole al riparo dal vento; sopporta bene gli inverni freddi ma non le estati calde e secche. Una bella scelta per giardini rocciosi, margini di bosco e vasi.",
+        "history_text_short": "Originario dei pendii alpini dello Yunnan e del Sichuan, il rododendro blu-violaceo fu portato all'attenzione all'inizio del Novecento dal cacciatore di piante scozzese George Forrest. Le piccole foglie con squame color ruggine e i sorprendenti fiori blu violacei primaverili ne hanno fatto un apprezzato rododendro nano per giardini rocciosi e suoli freschi e acidi in Gran Bretagna e oltre.",
+        "history_text_long": "Il rododendro blu-violaceo cresce spontaneo sui versanti alti e battuti dal vento delle province cinesi dello Yunnan e del Sichuan, dove forma a grande altitudine bassi cespuglieti tra rocce e arbusti radi. Freddo, umidità ed estati brevi ne hanno fatto un piccolo sempreverde robusto, con foglie minuscole e fiori il cui blu violaceo è insolitamente vivido per il genere. I giardinieri occidentali lo conobbero grazie al lavoro di George Forrest, il cacciatore di piante scozzese che all'inizio del Novecento esplorò per anni lo Yunnan e inviò semi ed esemplari d'erbario in Gran Bretagna. Le raccolte di Forrest alimentarono una generazione di giardini e vivai, e la specie fu descritta formalmente dal suo materiale dai botanici Isaac Bayley Balfour e dallo stesso Forrest. In coltivazione il rododendro blu-violaceo divenne apprezzato come rododendro nano da inserire in un giardino roccioso o in un'aiuola di torba, dove i suoi fiori precoci risplendono contro la pietra e il fogliame scuro. Richiede le condizioni fresche, umide, acide e ben drenate della sua casa di montagna e si adatta meglio ai giardini dal clima mite e umido. Oggi è coltivato da collezionisti e appassionati di rododendri ed è stato usato anche come genitore per ottenere ibridi compatti dai fiori blu-viola intensi.",
+        "name_origin": "Rhododendron deriva dal greco rhodon («rosa») e dendron («albero»). L'epiteto russatum è latino per «arrossato» e allude alle squame color ruggine delle foglie.",
+        "symbolism_story": "Crescendo al limite delle nevi, il rododendro blu-violaceo è diventato simbolo di resilienza e di bellezza discreta nei luoghi difficili. Per i giardinieri ricorda anche l'epoca dei cacciatori di piante, quando un rametto portato giù da una montagna dello Yunnan poteva cambiare l'aspetto di un giardino.",
+        "flower_meaning": "Spirito della montagna",
+        "fragrance": {
+          "notes": "Le foglie sono leggermente aromatiche se strofinate."
+        },
+        "uses_list": [
+          {
+            "text": "Cespuglio sempreverde compatto con vivaci fiori blu-violacei in primavera, per giardini rocciosi e margini di bosco."
+          },
+          {
+            "text": "I fiori precoci offrono nettare ad api e altri impollinatori."
+          },
+          {
+            "text": "Adatto a grandi vasi e aiuole di torba dove è facile fornire un terreno acido."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Spirito della montagna",
+            "description": "I suoi fiori tenaci, blu come gemme, sui pendii alpini battuti dal vento evocano resistenza nei luoghi aspri."
+          },
+          {
+            "keyword": "Esplorazione",
+            "description": "È legato ai cacciatori di piante che portarono la flora dello Yunnan e dell'Himalaya nei giardini occidentali."
+          }
+        ],
+        "toxicity": {
+          "headline": "Umani: tossicità moderata · Animali domestici: tossicità moderata",
+          "active_compound_display": "grayanotossine",
+          "notes_en": "I rododendri contengono grayanotossine; l'ingestione di foglie o fiori può causare vomito ed effetti cardiaci.",
+          "human": {
+            "exposure": "Ingestione di foglie, fiori e di qualsiasi parte della pianta.",
+            "effect": "Nausea, vomito, salivazione, debolezza e pressione bassa.",
+            "note": "I rododendri contengono grayanotossine; l'ingestione di foglie o fiori può causare vomito ed effetti cardiaci.",
+            "symptoms": [
+              "Nausea.",
+              "Vomito.",
+              "Salivazione.",
+              "Debolezza.",
+              "Pressione bassa."
+            ]
+          },
+          "dog": {
+            "exposure": "Ingestione di foglie, fiori e di qualsiasi parte della pianta.",
+            "effect": "Scialorrea, vomito, debolezza e battito cardiaco rallentato.",
+            "note": "I rododendri contengono grayanotossine; l'ingestione di foglie o fiori può causare vomito ed effetti cardiaci.",
+            "symptoms": [
+              "Scialorrea.",
+              "Vomito.",
+              "Debolezza.",
+              "Battito cardiaco rallentato."
+            ]
+          },
+          "cat": {
+            "exposure": "Ingestione di foglie, fiori e di qualsiasi parte della pianta.",
+            "effect": "Scialorrea, vomito, debolezza e battito cardiaco rallentato.",
+            "note": "I rododendri contengono grayanotossine; l'ingestione di foglie o fiori può causare vomito ed effetti cardiaci.",
+            "symptoms": [
+              "Scialorrea.",
+              "Vomito.",
+              "Debolezza.",
+              "Battito cardiaco rallentato."
+            ]
+          }
+        }
+      }
+    },
+    "AAA1777": {
+      "source_hash": "b25e9ed5d828ff82461e7ecf7cba5a476eeb975bc5b0b7a0659a8c7abbe90bf1",
+      "fields": {
+        "common_name": "Cannella indonesiana",
+        "description": "La cannella indonesiana (Cinnamomum burmanni), detta anche cassia di Padang, è un albero sempreverde dell'Asia tropicale e subtropicale che in coltivazione raggiunge circa 3–6 m e allo stato selvatico molto di più. Le foglie coriacee e lucide hanno tre nervature evidenti e sono rossastre da giovani; tutto l'albero, se sfregato, profuma di cannella calda. Piccoli fiori giallo-verdi pallidi compaiono in infiorescenze lasse e lasciano il posto a piccoli frutti scuri. Preferisce condizioni calde e umide, terreno umido e ben drenato e sole o mezz'ombra; non sopporta gelate forti. Si coltiva per la corteccia aromatica e il bel fogliame, come albero da ombra o da vaso nei giardini caldi.",
+        "history_text_short": "Originaria di Indonesia e Cina meridionale, la cannella indonesiana fornisce da tempo la spezia nota come cassia di Padang, raccolta negli altopiani di Sumatra. Venduta come «cannella» in Europa e Nord America, la sua corteccia è più forte e più pepata della cannella vera, e il suo nome onora il botanico olandese Burman.",
+        "history_text_long": "La cannella indonesiana è originaria di Indonesia, Filippine e Cina meridionale, dove cresce nelle foreste di pianura e di collina ed è coltivata da tempo attorno ai villaggi. La sua corteccia è commerciata da secoli come spezia simile alla cannella, e la fonte oggi più nota sono gli altopiani intorno a Padang, a Sumatra occidentale, che hanno dato al prodotto il nome commerciale di cassia di Padang. Qui gli agricoltori coltivano gli alberi su pendii terrazzati e staccano la corteccia in strisce che, seccando, si arrotolano nei bastoncini venduti nei mercati. L'albero appartiene allo stesso genere della cannella vera (Cinnamomum verum) e della cassia cinese, e la sua spezia è quella più spesso presente nei barattoli da supermercato etichettati semplicemente «cannella» negli Stati Uniti e in parte d'Europa. Ha un sapore più intenso, acuto e pepato della cannella vera e contiene quantità notevoli di cumarina, perciò conviene usarla con moderazione. L'epiteto specifico onora il botanico olandese Burman, studioso nel Settecento delle piante di Ceylon e delle Indie orientali. Oltre al commercio delle spezie, foglie e corteccia sono tradizionalmente usate nelle case indonesiane per insaporire e per bevande a base di erbe; l'albero è un bel sempreverde dal fogliame giovane ramato, adatto a giardini caldi, cortili e grandi vasi.",
+        "name_origin": "Cinnamomum deriva dal greco kinnamomon, antica parola per cannella. L'epiteto burmanni onora il botanico olandese Burman, studioso nel Settecento delle piante di Ceylon e delle Indie orientali.",
+        "symbolism_story": "Poiché la sua corteccia fu uno dei grandi beni del commercio delle spezie, la cannella indonesiana è giunta a suggerire calore, ospitalità e prosperità. Nei villaggi degli altopiani di Sumatra la raccolta della corteccia è ancora un evento stagionale che lega le famiglie a un commercio vecchio di secoli.",
+        "flower_meaning": "Calore",
+        "fragrance": {
+          "notes": "La corteccia e le foglie sfregate profumano di cannella dolce e calda."
+        },
+        "uses_list": [
+          {
+            "text": "La corteccia viene essiccata e venduta come cassia di Padang, una spezia forte e pepata simile alla cannella."
+          },
+          {
+            "text": "La corteccia e le foglie sfregate emanano un caldo profumo di cannella."
+          },
+          {
+            "text": "Il fogliame sempreverde e lucido con germogli ramati forma un bell'albero da ombra o da vaso nei climi caldi."
+          },
+          {
+            "text": "Corteccia e foglie hanno una lunga storia in bevande e rimedi tradizionali del Sud-est asiatico."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Calore",
+            "description": "Il suo profumo dolce e speziato evoca comfort, focolare e ospitalità."
+          },
+          {
+            "keyword": "Prosperità",
+            "description": "Le cortecce di tipo cannella sono state a lungo merci pregiate, legate alla ricchezza e alle vie delle spezie."
+          }
+        ],
+        "toxicity": {
+          "headline": "Nessuna tossicità segnalata",
+          "active_compound_display": "Non segnalati",
+          "notes_en": "Non è stata trovata alcuna fonte autorevole sulla tossicità; è trattata come non segnalata (la stima dell'LLM non è verificata).",
+          "human": {
+            "exposure": "Non è segnalata alcuna via di esposizione.",
+            "effect": "Non è segnalato alcun effetto tossico.",
+            "note": "La tossicità per l'uomo è poco documentata; prestare cautela finché non sarà verificata."
+          },
+          "dog": {
+            "exposure": "Non è segnalata alcuna via di esposizione.",
+            "effect": "Non è segnalato alcun effetto tossico.",
+            "note": "In questo catalogo non è segnalata tossicità per i cani; ciò non prova che la pianta sia commestibile o innocua."
+          },
+          "cat": {
+            "exposure": "Non è segnalata alcuna via di esposizione.",
+            "effect": "Non è segnalato alcun effetto tossico.",
+            "note": "In questo catalogo non è segnalata tossicità per i gatti; ciò non prova che la pianta sia commestibile o innocua."
+          }
+        }
+      }
+    },
+    "AAA1778": {
+      "source_hash": "0f5c47c4a674f7b8a5e44d94c441faea63602bac8dacb83f0684ec860f9c49d6",
+      "fields": {
+        "common_name": "Viburnum prunifolium",
+        "bloom_tip": "I fiori di questa pianta sbocciano in primavera e attirano gli insetti impollinatori.",
+        "fruit_tip": "I frutti, dai colori vivaci, aggiungono interesse ornamentale al giardino.",
+        "description": "Viburnum prunifolium è un robusto arbusto o piccolo albero deciduo dal portamento eretto, originario degli Stati Uniti orientali. A fine primavera porta corimbi piatti di fiori bianco crema che attirano api e farfalle, seguiti da bacche blu-nere gradite agli uccelli canori. Le foglie lucide in autunno diventano rosso borgogna. Tollera siccità, ombra e terreni diversi, ed è una scelta affidabile per siepi, impianti con specie autoctone e giardini per la fauna.",
+        "history_text_short": "I popoli nativi nordamericani usavano la corteccia di Viburnum prunifolium per alleviare crampi e dolori, e i coloni ne ereditarono la conoscenza. Nell'Ottocento i medici americani la prescrivevano contro i dolori mestruali e per prevenire gli aborti spontanei, e rimase nella Farmacopea degli Stati Uniti fino al 1926. Oggi è apprezzato soprattutto come arbusto autoctono rustico per uccelli e impollinatori.",
+        "history_text_long": "Viburnum prunifolium è uno degli arbusti medicinali meglio documentati del Nord America orientale. Diversi popoli nativi, tra cui Cherokee, Meskwaki e Menominee, usavano corteccia e radici contro crampi, dolori e disturbi legati al parto. I primi coloni europei e gli erboristi ridotti in schiavitù appresero la pratica e la portarono nella medicina domestica, dove la corteccia veniva messa in infusione per i disturbi femminili e per calmare gli spasmi muscolari.\n\nNell'Ottocento la pianta entrò nella medicina ufficiale. I medici della scuola eclettica, e poi la professione in generale, prescrivevano una tintura di corteccia di radice contro i crampi mestruali e per proteggere dagli aborti spontanei. Fu inserita nella Farmacopea degli Stati Uniti dal 1882 al 1926 e nel National Formulary fino al 1960. La sua stretta parente, il viburno palla di neve (Viburnum opulus, «cramp bark»), era usata in modo molto simile in Europa, e nella letteratura erboristica le due vengono spesso confuse.\n\nLa pianta aveva un posto anche in fattoria e nel bosco. I suoi frutti blu-neri, dolci e simili all'uvetta, erano mangiati freschi dalle famiglie rurali e raccolti dai bambini, mentre i rami tenaci ed eretti servivano per i manici degli attrezzi. Il nome inglese «Blackhaw» deriva probabilmente dai frutti scuri e dalla somiglianza dei rami senza spine e dei fiori con il biancospino.\n\nOggi i giardinieri apprezzano Viburnum prunifolium per altri motivi. È rustico, adattabile e longevo, offre fiori agli impollinatori in primavera, colori in autunno e frutti per gli uccelli in inverno. Viene proposto come alternativa autoctona agli arbusti introdotti ed è spesso usato in siepi e piantagioni di ripristino negli Stati Uniti orientali.",
+        "name_origin": "Il nome inglese, Blackhaw, si riferisce ai frutti blu-neri e alla somiglianza di infiorescenze e fogliame con il biancospino, un tempo chiamato «haw». Il nome del genere, Viburnum, è il nome latino classico del viburno, e l'epiteto prunifolium significa «a foglie di prugno», perché le foglie arrotondate e finemente dentate ricordano quelle del prugno.",
+        "symbolism_story": "Per il lungo uso come rimedio erboristico lenitivo, Viburnum prunifolium è diventato nella tradizione popolare americana un simbolo di sollievo e di cura. I suoi fiori bianchi primaverili e le foglie borgogna d'autunno ne fanno anche un discreto emblema di rinnovamento stagionale e di resilienza.",
+        "flower_meaning": "Resilienza",
+        "fragrance": {
+          "notes": "Profumo lieve e leggermente dolce dei corimbi primaverili."
+        },
+        "uses_list": [
+          {
+            "text": "Usato come arbusto o piccolo albero isolato e rustico, con fioritura primaverile e foglie borgogna in autunno."
+          },
+          {
+            "text": "I frutti nutrono uccelli canori e piccoli mammiferi, e i rami fitti offrono riparo per nidificare."
+          },
+          {
+            "text": "I corimbi piatti attirano api, farfalle e altri impollinatori a fine primavera."
+          },
+          {
+            "text": "La corteccia ha una lunga storia nella fitoterapia tradizionale nordamericana contro i crampi."
+          },
+          {
+            "text": "I frutti maturi sono dolci, simili all'uvetta, e si mangiavano freschi o in conserva."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Resilienza",
+            "description": "Un arbusto autoctono tenace che prospera in terreni poveri, con siccità e all'ombra."
+          },
+          {
+            "keyword": "Sollievo",
+            "description": "La sua corteccia era usata tradizionalmente per lenire crampi e dolori."
+          },
+          {
+            "keyword": "Rinnovamento",
+            "description": "I fiori primaverili e le foglie fiammeggianti d'autunno segnano il passare delle stagioni."
+          }
+        ],
+        "toxicity": {
+          "headline": "Nessuna tossicità segnalata",
+          "active_compound_display": "Nessuno segnalato",
+          "notes_en": "Nessuna fonte autorevole di tossicità trovata; trattato come non segnalato (la stima dell'LLM non è verificata da fonti).",
+          "human": {
+            "exposure": "Non è segnalata alcuna via di esposizione.",
+            "effect": "Non è segnalato alcun effetto tossico.",
+            "note": "In questo catalogo non è segnalata tossicità per l'uomo; ciò non prova che la pianta sia commestibile o innocua."
+          },
+          "dog": {
+            "exposure": "Non è segnalata alcuna via di esposizione.",
+            "effect": "Non è segnalato alcun effetto tossico.",
+            "note": "In questo catalogo non è segnalata tossicità per i cani; ciò non prova che la pianta sia commestibile o innocua."
+          },
+          "cat": {
+            "exposure": "Non è segnalata alcuna via di esposizione.",
+            "effect": "Non è segnalato alcun effetto tossico.",
+            "note": "In questo catalogo non è segnalata tossicità per i gatti; ciò non prova che la pianta sia commestibile o innocua."
           }
         }
       }

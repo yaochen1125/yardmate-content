@@ -3,8 +3,8 @@
   "locale": "de",
   "source": {
     "resource": "plants_detail.json",
-    "sha256": "ced62322dba07bf35fa6462a405e70cd47afe5bd07e158b923ff38760230a5d9",
-    "record_count": 1772
+    "sha256": "6f210e547ae91b5437dff6dcb0e92e89682e6036e4c0680e2adfe2d65a9de275",
+    "record_count": 1777
   },
   "records": {
     "AAA0001": {
@@ -108375,6 +108375,334 @@
             "exposure": "Es ist kein Aufnahmeweg gemeldet.",
             "effect": "Es ist keine giftige Wirkung gemeldet.",
             "note": "Maßgebliche Quellen stufen diese Pflanze für Katzen als ungiftig ein; das ist kein Beleg dafür, dass sie essbar ist."
+          }
+        }
+      }
+    },
+    "AAA1774": {
+      "source_hash": "cbc42b856db284e56e364dd1c5ba87bdd38bd10bc15ad26de864a4bf333b1187",
+      "fields": {
+        "common_name": "Afrikanischer Milchbusch",
+        "fruit_tip": "Die Früchte sind dekorativ und setzen im Herbst Farbakzente im Garten.",
+        "description": "Der Afrikanische Milchbusch (Euphorbia umbellata) ist ein schnellwüchsiger Strauch mit sukkulenten Trieben aus dem tropischen Ostafrika. An den dicken, fleischigen Ästen sitzen zu den Spitzen hin quirlig glänzende, lanzettliche Blätter – grün bei der Wildform, tief burgunderrot bei beliebten Gartensorten. Kleine rosarote Blüten stehen in doldenartigen Köpfen. Er liebt Sonne und sandigen, gut durchlässigen Boden, verträgt Trockenheit und wird häufig als Hecke oder Kübelpflanze gezogen. Alle Teile enthalten einen weißen Milchsaft, der Haut und Augen reizt – bitte mit Handschuhen arbeiten.",
+        "history_text_short": "In Ostafrika wird der Afrikanische Milchbusch seit langem als lebender Zaun um Gehöfte und Viehpferche gepflanzt; sein Milchsaft hält weidende Tiere fern. Die Wissenschaft lernte ihn durch den Entdecker James Augustus Grant kennen, dessen Namen er über ein Jahrhundert trug, bevor Botaniker ihn in die Gattung Wolfsmilch (Euphorbia) stellten.",
+        "history_text_long": "In den Savannen und Waldrändern von Kenia, Tansania und den Nachbarländern erfüllt der Afrikanische Milchbusch seit Generationen eine ganz praktische Aufgabe: Er markiert Grenzen. In den Boden gesteckte Stecklinge wurzeln leicht und bilden binnen ein bis zwei Jahreszeiten eine dichte, schnell wachsende Barriere. Ziegen und Rinder lernen rasch, ihn zu meiden, denn jeder abgebrochene Trieb tropft einen weißen, ätzenden Milchsaft. Familien pflanzen ihn um Gehöfte, Gärten und Tiergehege – ein lebender Zaun, der ohne Draht auskommt und sich aus den eigenen Stecklingen erneuert.\n\nDie Pflanze erreichte europäische Botaniker im 19. Jahrhundert durch die großen Ostafrika-Expeditionen. Exemplare, die auf der Reise von John Hanning Speke und James Augustus Grant Anfang der 1860er Jahre gesammelt wurden, beschrieb Joseph Dalton Hooker in Kew und nannte sie zu Ehren des Entdeckers Synadenium grantii. Über ein Jahrhundert kannten Gärtner sie unter diesem Namen, und ihre burgunderblättrigen Auslesen wurden in warmen Gärten von Florida bis Australien beliebt.\n\nSpätere Untersuchungen der Wolfsmilchgewächse zeigten, dass Synadenium problemlos in die riesige Gattung Euphorbia passt; die Art heißt heute Euphorbia umbellata, ein Verweis auf ihre Blütenstände, die wie die Speichen eines winzigen Schirms angeordnet sind. Der Milchsaft, der die Pflanze so wirksam schützt, ist auch der Grund, warum man beim Schnitt Handschuhe und Augenschutz tragen sollte. Heute schätzt man den Afrikanischen Milchbusch als robuste Hecke, markanten Kübelstrauch und trockenheitsverträglichen Blickfang, der kaum mehr verlangt als Sonne, Drainage und Respekt.",
+        "name_origin": "Euphorbia ehrt Euphorbos, den Leibarzt des Königs Juba II. von Mauretanien, der diese Pflanzen medizinisch genutzt haben soll. Der Artname umbellata bedeutet „mit Dolden“ und beschreibt die schirmartigen Blütenstände. Lange hieß die Pflanze nach dem Entdecker James Augustus Grant Synadenium grantii.",
+        "symbolism_story": "Wo der Afrikanische Milchbusch als Grenzhecke wächst, steht er für Schutz: ein stiller, lebender Wächter, der Haus und Vieh ohne einen Meter Draht behütet. Seine Zähigkeit gegen Hitze und Dürre macht ihn zudem zum Sinnbild der Widerstandskraft, während sein ätzender Milchsaft daran erinnert, dass Stärke und Vorsicht oft zusammengehören.",
+        "flower_meaning": "Schutz",
+        "uses_list": [
+          {
+            "text": "Markante Hecke, Sichtschutz oder Kübelstrauch, besonders die burgunderblättrigen Sorten."
+          },
+          {
+            "text": "Traditionell als lebender Zaun gepflanzt, weil Weidetiere seinen Milchsaft meiden."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Schutz",
+            "description": "Als lebende Hecke gepflanzt, steht er für das Bewachen von Heim und Grenzen."
+          },
+          {
+            "keyword": "Widerstandskraft",
+            "description": "Er gedeiht bei Hitze, kargem Boden und Dürre – ein Sinnbild der Ausdauer."
+          }
+        ],
+        "toxicity": {
+          "headline": "Menschen mäßig · Haustiere mäßig",
+          "active_compound_display": "Diterpenester",
+          "notes_en": "Der Milchsaft reizt Haut, Augen und Mund stark; beim Schneiden Handschuhe und Augenschutz tragen.",
+          "human": {
+            "exposure": "Kontakt mit dem Saft und jedem Pflanzenteil. Berühren des Safts und jedes Pflanzenteils. Verzehr des Safts und jedes Pflanzenteils.",
+            "effect": "Hautreizung, starke Augenreizung, Brennen in Mund und Rachen, Übelkeit und Erbrechen.",
+            "note": "Der Milchsaft reizt Haut, Augen und Mund stark; beim Schneiden Handschuhe und Augenschutz tragen.",
+            "symptoms": [
+              "Hautreizung.",
+              "Starke Augenreizung.",
+              "Brennen in Mund und Rachen.",
+              "Übelkeit.",
+              "Erbrechen."
+            ]
+          },
+          "dog": {
+            "exposure": "Kontakt mit dem Saft und jedem Pflanzenteil. Verzehr des Safts und jedes Pflanzenteils.",
+            "effect": "Speicheln, Erbrechen, Hautreizung und Mundreizung.",
+            "note": "Der Milchsaft reizt Haut, Augen und Mund stark; beim Schneiden Handschuhe und Augenschutz tragen.",
+            "symptoms": [
+              "Speicheln.",
+              "Erbrechen.",
+              "Hautreizung.",
+              "Mundreizung."
+            ]
+          },
+          "cat": {
+            "exposure": "Kontakt mit dem Saft und jedem Pflanzenteil. Verzehr des Safts und jedes Pflanzenteils.",
+            "effect": "Speicheln, Erbrechen, Hautreizung und Mundreizung.",
+            "note": "Der Milchsaft reizt Haut, Augen und Mund stark; beim Schneiden Handschuhe und Augenschutz tragen.",
+            "symptoms": [
+              "Speicheln.",
+              "Erbrechen.",
+              "Hautreizung.",
+              "Mundreizung."
+            ]
+          }
+        }
+      }
+    },
+    "AAA1775": {
+      "source_hash": "2bbda34c0d957fcec53b4b861a38ddba59207029050532d6975640c0c2d814ae",
+      "fields": {
+        "common_name": "Wiesen-Knöterich",
+        "bloom_tip": "Die Blüten erscheinen von Juni bis August in dichten Ähren.",
+        "description": "Der Wiesen-Knöterich (Persicaria bistorta) ist eine horstbildende Staude feuchter Wiesen und Bachufer in Europa und Asien. Büschel breiter, blaugrüner Blätter wachsen aus einem dicken, S-förmig gekrümmten Rhizom, und von Juni bis August tragen schlanke Stiele bis zu 90 cm hoch dichte, flaschenbürstenartige Ähren in zartem Rosa. Er breitet sich langsam zu großen Beständen aus, liebt dauerhaft feuchten Boden in Sonne oder Halbschatten und ist eine verlässliche Nektarquelle für Bienen und Schmetterlinge. Winterhart und pflegeleicht passt er an Teichufer, in wilde Beete und Bauerngärten.",
+        "history_text_short": "Der Wiesen-Knöterich, eine Staude feuchter Wiesen, war einst als adstringierendes Heilkraut geschätzt: Seine gedrehte Wurzel steckte in alten Mitteln gegen Schlangenbiss, und seine jungen Frühlingsblätter kamen in den cumbrischen „Easter ledger pudding“. Heute setzen seine rosa Flaschenbürsten-Ähren Akzente an Teichufern und in Bauerngartenbeeten.",
+        "history_text_long": "Der Wiesen-Knöterich wird in Nordeuropa seit Jahrhunderten gesammelt und geschätzt. Sein dickes, dunkles Rhizom ist wie ein Paar Windungen auf sich selbst zurückgebogen, was der Pflanze ihren Namen und in alten Kräuterbüchern den Ruf eines kräftigen Adstringens einbrachte. Heilkundige trockneten und pulverisierten die gerbstoffreiche Wurzel, um Wunden zu schließen, Halsschmerzen und Mundgeschwüre zu lindern und den Magen zu beruhigen; in mittelalterlichen und Renaissance-Arzneibüchern taucht die Pflanze unter Namen wie Snakeweed und Adderwort auf, weil man glaubte, die gewundene Wurzel wirke gegen Schlangenbisse. Die jungen Frühlingsblätter hatten in der Küche ein zweites Leben. Im Lake District in Nordengland sowie in Teilen von Cumbria und Yorkshire wurden sie mit Gerste, Hafer, Brennnesseln und anderem Grün zum „Easter ledger pudding“ oder „Easter-mangiant“ gekocht, einem Kräutergericht, das um die Fastenzeit und Ostern gegessen wurde, wenn sonst kaum etwas wuchs. Im Calder Valley findet noch heute jedes Jahr ein Dock-Pudding-Festival statt, ein Nachfahre dieser Tradition, auch wenn heute oft Ampfer den Knöterich ersetzt. Im Garten wanderte die Pflanze vom Feld ins Beet, als Gärtnereien bemerkten, wie schön ihre rosa Ähren feuchte Stellen im Frühsommer erhellen. Zuchtformen wie ‚Superba‘ wurden im 19. und 20. Jahrhundert häufig gepflanzt und sind bis heute beliebt. Weil er dort gedeiht, wo viele Zierpflanzen scheitern, an Teichen, Gräben und schattigen Bachufern, gilt er als zuverlässige, anspruchslose Staude. In der Natur ernähren seine Blüten Bienen, Schwebfliegen und Schmetterlinge, und mehrere Nachtfalterraupen fressen an den Blättern.",
+        "name_origin": "Das Artepitheton „bistorta“ kommt vom lateinischen „bis“ (zweimal) und „tortus“ (gedreht) und beschreibt das dicke Rhizom, das S-förmig auf sich selbst zurückgebogen ist. Der Gattungsname Persicaria stammt vom lateinischen Wort für Pfirsich, weil die Blätter mancher Arten Pfirsichblättern ähneln.",
+        "symbolism_story": "In der nordenglischen Volkstradition markierte der Wiesen-Knöterich das Ende der mageren Zeit: Seine ersten Frühlingsblätter wurden für den Oster-Kräuterpudding gesammelt. Seine gedrehte Wurzel machte ihn zudem zum Sinnbild alten Kräuterwissens und des Schutzes vor Schlangen.",
+        "flower_meaning": "Widerstandskraft",
+        "uses_list": [
+          {
+            "text": "Rosa Blütenähren für Teichufer, wilde Beete und feuchte Bauerngartenbeete."
+          },
+          {
+            "text": "Nektarreiche Blüten locken im Sommer Bienen, Schwebfliegen und Schmetterlinge an."
+          },
+          {
+            "text": "Seine gerbstoffreiche Wurzel wurde in der europäischen Volksheilkunde traditionell als Adstringens verwendet."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Widerstandskraft",
+            "description": "Er gedeiht auf nassem, schwierigem Boden, auf dem viele Gartenpflanzen scheitern."
+          },
+          {
+            "keyword": "Volksheilkunde",
+            "description": "Seine gewundene Wurzel war in alten europäischen Kräuterbüchern ein klassisches Adstringens."
+          }
+        ],
+        "toxicity": {
+          "headline": "Keine Giftigkeit gemeldet",
+          "active_compound_display": "Keine gemeldet",
+          "notes_en": "Es wurde keine verlässliche Quelle zur Giftigkeit gefunden; als „nicht gemeldet“ behandelt (die LLM-Schätzung ist nicht quellenbelegt).",
+          "human": {
+            "exposure": "Es ist kein Expositionsweg gemeldet.",
+            "effect": "Es ist keine toxische Wirkung gemeldet.",
+            "note": "In diesem Katalog ist für Menschen keine Giftigkeit dieser Pflanze gemeldet; das ist kein Beleg dafür, dass sie essbar oder harmlos ist."
+          },
+          "dog": {
+            "exposure": "Es ist kein Expositionsweg gemeldet.",
+            "effect": "Es ist keine toxische Wirkung gemeldet.",
+            "note": "In diesem Katalog ist für Hunde keine Giftigkeit dieser Pflanze gemeldet; das ist kein Beleg dafür, dass sie essbar oder harmlos ist."
+          },
+          "cat": {
+            "exposure": "Es ist kein Expositionsweg gemeldet.",
+            "effect": "Es ist keine toxische Wirkung gemeldet.",
+            "note": "In diesem Katalog ist für Katzen keine Giftigkeit dieser Pflanze gemeldet; das ist kein Beleg dafür, dass sie essbar oder harmlos ist."
+          }
+        }
+      }
+    },
+    "AAA1776": {
+      "source_hash": "cb7c06705306c4abec6c18e9a230333b5539d54579859a2b81e5ea5c077ca186",
+      "fields": {
+        "common_name": "Purpurblauer Rhododendron",
+        "bloom_tip": "Diese Sorte blüht von April bis Juni mit leuchtend gefärbten Blüten.",
+        "fruit_tip": "Die Früchte erscheinen zwischen Juli und August und bringen schöne Farben.",
+        "description": "Der Purpurblaue Rhododendron (Rhododendron russatum) ist ein kompakter, immergrüner Strauch aus den Hochgebirgen Südwestchinas. Kleine, glänzende, aromatische Blätter mit rostfarbenen Schuppen auf der Unterseite bilden einen dichten, runden Busch von etwa 1–1,5 m Höhe. Im April und Mai bedeckt er sich mit Büscheln trichterförmiger Blüten in intensivem Violettblau, einem der reinsten Blautöne unter den Rhododendren, mit hellem Schlund. Er liebt kühlen, feuchten, sauren, humosen Boden in lichtem Schatten oder Sonne mit Windschutz und ist winterhart, mag aber keine heißen, trockenen Sommer. Eine schöne Wahl für Steingärten, Gehölzränder und Gefäße.",
+        "history_text_short": "Der in den alpinen Lagen von Yunnan und Sichuan beheimatete Purpurblaue Rhododendron wurde im frühen 20. Jahrhundert durch den schottischen Pflanzenjäger George Forrest bekannt. Seine kleinen, rostschuppigen Blätter und die verblüffend violettblauen Frühlingsblüten machten ihn zu einem begehrten Zwerg-Rhododendron für Steingärten und kühle, saure Böden in Großbritannien und darüber hinaus.",
+        "history_text_long": "Der Purpurblaue Rhododendron wächst wild an hohen, windgepeitschten Berghängen der chinesischen Provinzen Yunnan und Sichuan, wo er in großer Höhe niedrige Dickichte zwischen Felsen und offenem Gebüsch bildet. Kälte, Feuchtigkeit und kurze Sommer machten ihn zu einem kleinen, zähen Immergrünen mit winzigen Blättern und Blüten, deren Violettblau für die Gattung ungewöhnlich leuchtend ist. Westliche Gärtner lernten ihn durch die Arbeit von George Forrest kennen, dem schottischen Pflanzenjäger, der im frühen 20. Jahrhundert jahrelang Yunnan erkundete und Samen und Herbarbelege nach Großbritannien schickte. Forrests Sammlungen speisten eine Generation von Gärten und Baumschulen, und die Art wurde nach seinem Material von den Botanikern Isaac Bayley Balfour und Forrest selbst formal beschrieben. In Kultur wurde der Purpurblaue Rhododendron als Zwerg-Rhododendron geschätzt, den man in einen Steingarten oder ein Torfbeet setzen kann, wo seine frühen Blüten vor Stein und dunklem Laub leuchten. Er braucht die kühlen, feuchten, sauren und gut durchlässigen Bedingungen seiner Bergheimat und gedeiht am besten in milden, feuchten Klimaten. Heute wird er von Sammlern und Rhododendronfreunden gezogen und diente auch als Elternteil bei der Züchtung kompakter Hybriden mit kräftigen blauvioletten Blüten.",
+        "name_origin": "Rhododendron stammt aus dem Griechischen: rhodon („Rose“) und dendron („Baum“). Das Epitheton russatum ist lateinisch für „gerötet“ und spielt auf die rostfarbenen Schuppen der Blätter an.",
+        "symbolism_story": "Am Rand der Schneegrenze wachsend, steht der Purpurblaue Rhododendron für Widerstandskraft und stille Schönheit an harten Orten. Für Gärtner erinnert er zugleich an das Zeitalter der Pflanzenjäger, als ein von einem Berg in Yunnan herabgetragener Zweig das Aussehen eines Gartens verändern konnte.",
+        "flower_meaning": "Berggeist",
+        "fragrance": {
+          "notes": "Die Blätter duften leicht aromatisch, wenn man sie zerreibt."
+        },
+        "uses_list": [
+          {
+            "text": "Kompakter immergrüner Busch mit leuchtend violettblauen Frühlingsblüten für Steingärten und Gehölzränder."
+          },
+          {
+            "text": "Die frühen Blüten bieten Bienen und anderen Bestäubern Nektar."
+          },
+          {
+            "text": "Eignet sich für große Gefäße und Torfbeete, wo saurer Boden leicht bereitzustellen ist."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Berggeist",
+            "description": "Seine zähen, juwelenblauen Blüten an windumtosten Berghängen stehen für Ausdauer an rauen Orten."
+          },
+          {
+            "keyword": "Entdeckung",
+            "description": "Er wird mit den Pflanzenjägern verbunden, die die Flora Yunnans und des Himalajas in westliche Gärten brachten."
+          }
+        ],
+        "toxicity": {
+          "headline": "Menschen mäßig giftig · Haustiere mäßig giftig",
+          "active_compound_display": "Grayanotoxine",
+          "notes_en": "Rhododendren enthalten Grayanotoxine; der Verzehr von Blättern oder Blüten kann Erbrechen und Herzwirkungen verursachen.",
+          "human": {
+            "exposure": "Fressen von Blättern, Blüten und jedem Teil der Pflanze.",
+            "effect": "Übelkeit, Erbrechen, Speichelfluss, Schwäche und niedriger Blutdruck.",
+            "note": "Rhododendren enthalten Grayanotoxine; der Verzehr von Blättern oder Blüten kann Erbrechen und Herzwirkungen verursachen.",
+            "symptoms": [
+              "Übelkeit.",
+              "Erbrechen.",
+              "Speichelfluss.",
+              "Schwäche.",
+              "Niedriger Blutdruck."
+            ]
+          },
+          "dog": {
+            "exposure": "Fressen von Blättern, Blüten und jedem Teil der Pflanze.",
+            "effect": "Sabbern, Erbrechen, Schwäche und verlangsamter Herzschlag.",
+            "note": "Rhododendren enthalten Grayanotoxine; der Verzehr von Blättern oder Blüten kann Erbrechen und Herzwirkungen verursachen.",
+            "symptoms": [
+              "Sabbern.",
+              "Erbrechen.",
+              "Schwäche.",
+              "Verlangsamter Herzschlag."
+            ]
+          },
+          "cat": {
+            "exposure": "Fressen von Blättern, Blüten und jedem Teil der Pflanze.",
+            "effect": "Sabbern, Erbrechen, Schwäche und verlangsamter Herzschlag.",
+            "note": "Rhododendren enthalten Grayanotoxine; der Verzehr von Blättern oder Blüten kann Erbrechen und Herzwirkungen verursachen.",
+            "symptoms": [
+              "Sabbern.",
+              "Erbrechen.",
+              "Schwäche.",
+              "Verlangsamter Herzschlag."
+            ]
+          }
+        }
+      }
+    },
+    "AAA1777": {
+      "source_hash": "b25e9ed5d828ff82461e7ecf7cba5a476eeb975bc5b0b7a0659a8c7abbe90bf1",
+      "fields": {
+        "common_name": "Indonesischer Zimt",
+        "description": "Der Indonesische Zimt (Cinnamomum burmanni), auch Padang-Cassia genannt, ist ein immergrüner Baum des tropischen und subtropischen Asiens, der in Kultur etwa 3–6 m hoch wird, in der Wildnis aber deutlich höher. Die ledrigen, glänzenden Blätter haben drei auffällige Blattadern und treiben jung rötlich aus; der ganze Baum duftet bei Verletzung warm nach Zimt. Kleine, blass gelbgrüne Blüten stehen in lockeren Rispen und werden von kleinen dunklen Früchten abgelöst. Er bevorzugt warme, feuchte Bedingungen, feuchten, gut durchlässigen Boden sowie Sonne bis Halbschatten und verträgt keinen strengen Frost. Er wird wegen der aromatischen Rinde und des schönen Laubs gezogen und eignet sich in warmen Gärten als Schatten- oder Kübelbaum.",
+        "history_text_short": "Der Indonesische Zimt stammt aus Indonesien und Südchina und liefert seit Langem das Gewürz Padang-Cassia, das im Hochland Sumatras geerntet wird. In Europa und Nordamerika wird er als „Zimt“ verkauft; seine Rinde ist kräftiger und pfeffriger als echter Zimt, und sein Name ehrt den niederländischen Botaniker Burman.",
+        "history_text_long": "Der Indonesische Zimt ist in Indonesien, auf den Philippinen und in Südchina heimisch, wo er in Tiefland- und Hügelwäldern wächst und seit Langem auch rund um Dörfer kultiviert wird. Seine Rinde wird seit Jahrhunderten als zimtähnliches Gewürz gehandelt; die bekannteste Quelle ist heute das Hochland um Padang in Westsumatra, das dem Produkt den Handelsnamen Padang-Cassia gab. Dort werden die Bäume an Terrassenhängen gezogen, und die Rinde wird in Streifen abgeschält, die sich beim Trocknen zu den auf Märkten verkauften Stangen einrollen. Der Baum gehört zur selben Gattung wie der echte Zimt (Cinnamomum verum) und die Chinesische Cassia, und sein Gewürz ist dasjenige, das man am häufigsten in Supermarktgläsern findet, die einfach „Zimt“ heißen, in den USA und in Teilen Europas. Es schmeckt kräftiger, schärfer und pfeffriger als echter Zimt und enthält nennenswerte Mengen Cumarin, weshalb man es nur in Maßen verwenden sollte. Der Artname ehrt den niederländischen Botaniker Burman, der im 18. Jahrhundert die Pflanzen Ceylons und Ostindiens studierte. Neben dem Gewürzhandel dienen Blätter und Rinde in indonesischen Haushalten traditionell zum Würzen und für Kräutergetränke; der Baum ist ein schöner Immergrüner mit kupferfarbenem Austrieb, der zu warmen Gärten, Innenhöfen und großen Kübeln passt.",
+        "name_origin": "Cinnamomum stammt vom griechischen kinnamomon, einem alten Wort für Zimt. Der Artname burmanni ehrt den niederländischen Botaniker Burman, der im 18. Jahrhundert die Pflanzen Ceylons und Ostindiens studierte.",
+        "symbolism_story": "Weil seine Rinde zu den großen Gütern des Gewürzhandels zählte, steht der Indonesische Zimt heute für Wärme, Gastfreundschaft und Wohlstand. In den Dörfern des Hochlands von Sumatra ist die Rindenernte noch immer ein saisonales Ereignis, das Familien mit einem jahrhundertealten Handel verbindet.",
+        "flower_meaning": "Wärme",
+        "fragrance": {
+          "notes": "Rinde und zerriebene Blätter duften süß und warm nach Zimt."
+        },
+        "uses_list": [
+          {
+            "text": "Die Rinde wird getrocknet als Padang-Cassia verkauft, ein kräftiges, pfeffriges, zimtähnliches Gewürz."
+          },
+          {
+            "text": "Rinde und zerriebene Blätter verströmen einen warmen Zimtduft."
+          },
+          {
+            "text": "Glänzendes immergrünes Laub mit kupferfarbenem Austrieb ergibt in warmen Klimazonen einen schönen Schatten- oder Kübelbaum."
+          },
+          {
+            "text": "Rinde und Blätter haben in traditionellen südostasiatischen Kräutergetränken und Heilmitteln eine lange Geschichte."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Wärme",
+            "description": "Sein süßer, würziger Duft weckt Geborgenheit, Herdfeuer und Gastfreundschaft."
+          },
+          {
+            "keyword": "Wohlstand",
+            "description": "Zimtähnliche Rinden waren lange begehrte Handelsgüter, verbunden mit Reichtum und den Gewürzrouten."
+          }
+        ],
+        "toxicity": {
+          "headline": "Keine Giftigkeit gemeldet",
+          "active_compound_display": "Nicht gemeldet",
+          "notes_en": "Es wurde keine maßgebliche Toxizitätsangabe gefunden; als „nicht gemeldet“ behandelt (die LLM-Schätzung ist nicht quellengeprüft).",
+          "human": {
+            "exposure": "Es ist kein Aufnahmeweg gemeldet.",
+            "effect": "Es ist keine toxische Wirkung gemeldet.",
+            "note": "Die Giftigkeit für Menschen ist nicht gut dokumentiert; bis zur Bestätigung Vorsicht walten lassen."
+          },
+          "dog": {
+            "exposure": "Es ist kein Aufnahmeweg gemeldet.",
+            "effect": "Es ist keine toxische Wirkung gemeldet.",
+            "note": "In diesem Katalog ist keine Giftigkeit für Hunde gemeldet; das ist kein Beleg dafür, dass die Pflanze essbar oder harmlos ist."
+          },
+          "cat": {
+            "exposure": "Es ist kein Aufnahmeweg gemeldet.",
+            "effect": "Es ist keine toxische Wirkung gemeldet.",
+            "note": "In diesem Katalog ist keine Giftigkeit für Katzen gemeldet; das ist kein Beleg dafür, dass die Pflanze essbar oder harmlos ist."
+          }
+        }
+      }
+    },
+    "AAA1778": {
+      "source_hash": "0f5c47c4a674f7b8a5e44d94c441faea63602bac8dacb83f0684ec860f9c49d6",
+      "fields": {
+        "common_name": "Pflaumenblättriger Schneeball",
+        "bloom_tip": "Die Blüten dieser Pflanze erscheinen im Frühling und locken Insekten zur Bestäubung an.",
+        "fruit_tip": "Die Früchte sind kräftig gefärbt und verleihen dem Garten zusätzlichen Zierwert.",
+        "description": "Der Pflaumenblättrige Schneeball (Viburnum prunifolium) ist ein robuster, aufrecht wachsender Laubstrauch oder kleiner Baum aus dem Osten Nordamerikas. Im Spätfrühling trägt er flache Büschel cremeweißer Blüten, die Bienen und Schmetterlinge anziehen, gefolgt von blauschwarzen Beeren, die Singvögel gern fressen. Das glänzende Laub färbt sich im Herbst tiefrot bis burgunderfarben. Er verträgt Trockenheit, Schatten und verschiedene Böden und eignet sich zuverlässig für Hecken, naturnahe Pflanzungen und Wildtiergärten.",
+        "history_text_short": "Die Rinde des Pflaumenblättrigen Schneeballs diente nordamerikanischen Indigenen gegen Krämpfe und Schmerzen, dieses Wissen übernahmen die Siedler. Im 19. Jahrhundert verschrieben amerikanische Ärzte sie bei Menstruationsbeschwerden und zur Vorbeugung von Fehlgeburten; bis 1926 stand sie im U.S. Pharmacopoeia. Heute schätzt man ihn eher als robusten heimischen Strauch für Vögel und Bestäuber.",
+        "history_text_long": "Der Pflaumenblättrige Schneeball gehört zu den am besten dokumentierten Heilsträuchern des östlichen Nordamerikas. Mehrere indigene Völker, darunter die Cherokee, Meskwaki und Menominee, nutzten Rinde und Wurzeln gegen Krämpfe, Schmerzen und Beschwerden rund um die Geburt. Frühe europäische Siedler und versklavte Kräuterkundige lernten diese Anwendung kennen und übernahmen sie in die Hausmedizin, wo die Rinde als Aufguss bei Frauenleiden und Muskelkrämpfen diente.\n\nIm 19. Jahrhundert fand die Pflanze Eingang in die offizielle Medizin. Ärzte der eklektischen Schule und später der breiteren Ärzteschaft verschrieben eine Tinktur aus der Wurzelrinde bei Menstruationskrämpfen und zum Schutz vor Fehlgeburten. Der Strauch stand von 1882 bis 1926 im United States Pharmacopoeia und bis 1960 im National Formulary. Sein enger Verwandter, der Gewöhnliche Schneeball (Viburnum opulus, „Cramp Bark“), wurde in Europa ganz ähnlich verwendet; in der Kräuterliteratur werden beide oft verwechselt.\n\nAuch auf dem Hof und im Wald hatte die Pflanze ihren Platz. Die süßen, rosinenartigen blauschwarzen Früchte aßen Landfamilien frisch, und Kinder sammelten sie; die zähen, aufrechten Zweige dienten als Werkzeugstiele. Der englische Name Blackhaw geht vermutlich auf die dunklen Früchte und die Ähnlichkeit der dornenlosen Zweige und Blüten mit dem Weißdorn zurück.\n\nHeute schätzen Gartenfreunde den Strauch aus anderen Gründen. Er ist winterhart, anpassungsfähig und langlebig, bietet im Frühling Blüten für Bestäuber, im Herbst Laubfärbung und im Winter Früchte für Vögel. Er wird als heimische Alternative zu eingeführten Sträuchern angeboten und häufig in Hecken und Renaturierungspflanzungen im Osten der USA verwendet.",
+        "name_origin": "Der englische Name Blackhaw bezieht sich auf die dunkelblauschwarzen Früchte und die Ähnlichkeit von Blütenständen und Laub mit dem Weißdorn, früher „haw“ genannt. Der Gattungsname Viburnum ist der klassische lateinische Name für den Wolligen Schneeball, und das Artepitheton prunifolium bedeutet „pflaumenblättrig“, weil die runden, fein gezähnten Blätter denen des Pflaumenbaums ähneln.",
+        "symbolism_story": "Wegen seiner langen Verwendung als lindernde Heilpflanze steht der Pflaumenblättrige Schneeball in der amerikanischen Volkstradition für Linderung und Fürsorge. Seine weißen Frühlingsblüten und das burgunderrote Herbstlaub machen ihn zudem zu einem stillen Sinnbild für jahreszeitliche Erneuerung und Widerstandskraft.",
+        "flower_meaning": "Widerstandskraft",
+        "fragrance": {
+          "notes": "Schwacher, leicht süßlicher Duft der Frühlingsblüten."
+        },
+        "uses_list": [
+          {
+            "text": "Als robuster Solitärstrauch oder kleiner Baum mit Frühlingsblüte und burgunderroter Herbstfärbung verwendet."
+          },
+          {
+            "text": "Die Früchte nähren Singvögel und Kleinsäuger, die dichten Zweige bieten Nistschutz."
+          },
+          {
+            "text": "Die flachen Blütenstände ziehen im Spätfrühling Bienen, Schmetterlinge und andere Bestäuber an."
+          },
+          {
+            "text": "Die Rinde hat in der traditionellen nordamerikanischen Pflanzenheilkunde eine lange Geschichte gegen Krämpfe."
+          },
+          {
+            "text": "Die reifen Früchte sind süß und rosinenartig und wurden frisch gegessen oder zu Konfitüre verarbeitet."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Widerstandskraft",
+            "description": "Ein zäher heimischer Strauch, der auf kargem Boden, bei Trockenheit und im Schatten gedeiht."
+          },
+          {
+            "keyword": "Linderung",
+            "description": "Seine Rinde wurde traditionell gegen Krämpfe und Schmerzen eingesetzt."
+          },
+          {
+            "keyword": "Erneuerung",
+            "description": "Frühlingsblüten und feuriges Herbstlaub markieren den Wechsel der Jahreszeiten."
+          }
+        ],
+        "toxicity": {
+          "headline": "Keine Giftigkeit gemeldet",
+          "active_compound_display": "Keine gemeldet",
+          "notes_en": "Keine maßgebliche Giftigkeitsquelle gefunden; als nicht gemeldet behandelt (die LLM-Schätzung ist nicht quellenverifiziert).",
+          "human": {
+            "exposure": "Es ist kein Expositionsweg gemeldet.",
+            "effect": "Es ist keine toxische Wirkung gemeldet.",
+            "note": "In diesem Katalog ist für Menschen keine Giftigkeit gemeldet; das ist kein Beleg dafür, dass die Pflanze essbar oder harmlos ist."
+          },
+          "dog": {
+            "exposure": "Es ist kein Expositionsweg gemeldet.",
+            "effect": "Es ist keine toxische Wirkung gemeldet.",
+            "note": "In diesem Katalog ist für Hunde keine Giftigkeit gemeldet; das ist kein Beleg dafür, dass die Pflanze essbar oder harmlos ist."
+          },
+          "cat": {
+            "exposure": "Es ist kein Expositionsweg gemeldet.",
+            "effect": "Es ist keine toxische Wirkung gemeldet.",
+            "note": "In diesem Katalog ist für Katzen keine Giftigkeit gemeldet; das ist kein Beleg dafür, dass die Pflanze essbar oder harmlos ist."
           }
         }
       }

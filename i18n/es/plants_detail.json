@@ -3,8 +3,8 @@
   "locale": "es",
   "source": {
     "resource": "plants_detail.json",
-    "sha256": "ced62322dba07bf35fa6462a405e70cd47afe5bd07e158b923ff38760230a5d9",
-    "record_count": 1772
+    "sha256": "6f210e547ae91b5437dff6dcb0e92e89682e6036e4c0680e2adfe2d65a9de275",
+    "record_count": 1777
   },
   "records": {
     "AAA0001": {
@@ -108389,6 +108389,334 @@
             "exposure": "No se notifica ninguna vía de exposición.",
             "effect": "No se notifica ningún efecto tóxico.",
             "note": "Fuentes autorizadas indican que esta planta no es tóxica para los gatos; esto no demuestra que sea comestible."
+          }
+        }
+      }
+    },
+    "AAA1774": {
+      "source_hash": "cbc42b856db284e56e364dd1c5ba87bdd38bd10bc15ad26de864a4bf333b1187",
+      "fields": {
+        "common_name": "Arbusto lechoso africano",
+        "fruit_tip": "Los frutos son decorativos y aportan color al jardín en otoño.",
+        "description": "El arbusto lechoso africano (Euphorbia umbellata) es un arbusto de rápido crecimiento y tallos suculentos originario del África oriental tropical. Sus ramas gruesas y carnosas llevan verticilos de hojas lanceoladas y brillantes agrupadas hacia las puntas, verdes en la forma silvestre y de un intenso color burdeos en las variedades de jardín más populares. Pequeños racimos de flores rosa rojizo aparecen en cabezuelas parecidas a umbelas. Prospera al sol y en suelo arenoso y bien drenado, tolera la sequía y se cultiva mucho como seto o en maceta. Toda la planta suelta un látex lechoso que irrita la piel y los ojos, así que conviene usar guantes.",
+        "history_text_short": "En África oriental el arbusto lechoso africano se planta desde hace mucho como cerca viva alrededor de viviendas y corrales, pues su látex lechoso aleja al ganado. La ciencia occidental lo conoció gracias al explorador James Augustus Grant, cuyo nombre llevó durante más de un siglo antes de que los botánicos lo trasladaran al género Euphorbia.",
+        "history_text_long": "En las sabanas y los bordes de bosque de Kenia, Tanzania y países vecinos, el arbusto lechoso africano cumple desde hace generaciones una tarea muy práctica: marcar límites. Los esquejes clavados en la tierra enraízan con facilidad y en una o dos temporadas forman una barrera densa y de rápido crecimiento. Cabras y vacas aprenden pronto a dejarla en paz, porque cada tallo roto gotea un látex blanco y cáustico. Las familias lo han usado alrededor de casas, huertos y corrales, una cerca viva que no necesita alambre y se renueva con sus propios esquejes.\n\nLa planta llegó a los botánicos europeos en el siglo XIX gracias a las grandes expediciones por África oriental. Los ejemplares recogidos durante el viaje de John Hanning Speke y James Augustus Grant a comienzos de la década de 1860 fueron descritos por Joseph Dalton Hooker en Kew, quien la llamó Synadenium grantii en honor del explorador. Durante más de un siglo los jardineros la conocieron con ese nombre, y sus variedades de hojas burdeos se hicieron populares en jardines cálidos desde Florida hasta Australia.\n\nLos estudios modernos de la familia de las euforbiáceas mostraron que Synadenium encaja perfectamente en el enorme género Euphorbia, y la especie se llama hoy Euphorbia umbellata, en alusión a sus flores dispuestas como las varillas de un diminuto paraguas. Su látex, tan eficaz para defender la planta, es también la razón por la que se aconseja usar guantes y protección ocular al podar. Hoy el arbusto lechoso africano se valora como seto resistente, arbusto llamativo para maceta y acento tolerante a la sequía que apenas pide sol, drenaje y respeto.",
+        "name_origin": "Euphorbia rinde homenaje a Euforbo, médico del rey Juba II de Mauritania, que según se cuenta empleaba estas plantas con fines medicinales. El epíteto umbellata significa «con umbelas» y describe sus flores agrupadas como un paraguas. Durante mucho tiempo la planta se llamó Synadenium grantii, por el explorador James Augustus Grant.",
+        "symbolism_story": "Donde el arbusto lechoso africano crece como seto de linde, representa la protección: un guardián vivo y silencioso que resguarda el hogar y el ganado sin un solo metro de alambre. Su dureza frente al calor y la sequía lo convierte también en emblema de resiliencia, mientras que su látex cáustico recuerda que la fuerza y la cautela suelen ir de la mano.",
+        "flower_meaning": "Protección",
+        "uses_list": [
+          {
+            "text": "Seto llamativo, pantalla o arbusto de maceta, sobre todo las variedades de hojas burdeos."
+          },
+          {
+            "text": "Plantado tradicionalmente como cerca viva porque los animales de pasto evitan su látex."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Protección",
+            "description": "Plantado como cerca viva, simboliza la custodia del hogar y de sus límites."
+          },
+          {
+            "keyword": "Resiliencia",
+            "description": "Prospera con calor, suelo pobre y sequía, símbolo de resistencia."
+          }
+        ],
+        "toxicity": {
+          "headline": "Humanos moderada · Mascotas moderada",
+          "active_compound_display": "Ésteres de diterpeno",
+          "notes_en": "El látex lechoso irrita con fuerza la piel, los ojos y la boca; use guantes y protección ocular al podar.",
+          "human": {
+            "exposure": "Contacto con la savia y con cualquier parte de la planta. Tocar la savia y cualquier parte de la planta. Ingerir la savia y cualquier parte de la planta.",
+            "effect": "Irritación de la piel, irritación ocular grave, ardor en boca y garganta, náuseas y vómitos.",
+            "note": "El látex lechoso irrita con fuerza la piel, los ojos y la boca; use guantes y protección ocular al podar.",
+            "symptoms": [
+              "Irritación de la piel.",
+              "Irritación ocular grave.",
+              "Ardor en boca y garganta.",
+              "Náuseas.",
+              "Vómitos."
+            ]
+          },
+          "dog": {
+            "exposure": "Contacto con la savia y con cualquier parte de la planta. Ingerir la savia y cualquier parte de la planta.",
+            "effect": "Babeo, vómitos, irritación de la piel e irritación de la boca.",
+            "note": "El látex lechoso irrita con fuerza la piel, los ojos y la boca; use guantes y protección ocular al podar.",
+            "symptoms": [
+              "Babeo.",
+              "Vómitos.",
+              "Irritación de la piel.",
+              "Irritación de la boca."
+            ]
+          },
+          "cat": {
+            "exposure": "Contacto con la savia y con cualquier parte de la planta. Ingerir la savia y cualquier parte de la planta.",
+            "effect": "Babeo, vómitos, irritación de la piel e irritación de la boca.",
+            "note": "El látex lechoso irrita con fuerza la piel, los ojos y la boca; use guantes y protección ocular al podar.",
+            "symptoms": [
+              "Babeo.",
+              "Vómitos.",
+              "Irritación de la piel.",
+              "Irritación de la boca."
+            ]
+          }
+        }
+      }
+    },
+    "AAA1775": {
+      "source_hash": "2bbda34c0d957fcec53b4b861a38ddba59207029050532d6975640c0c2d814ae",
+      "fields": {
+        "common_name": "Bistorta",
+        "bloom_tip": "Las flores aparecen en espigas densas de junio a agosto.",
+        "description": "La bistorta (Persicaria bistorta) es una perenne de mata que crece en prados húmedos y orillas de arroyos de Europa y Asia. Penachos de hojas anchas de color verde azulado brotan de un grueso rizoma curvado en S, y de junio a agosto tallos esbeltos de hasta 90 cm sostienen densas espigas rosa suave, parecidas a un escobillón. Se extiende despacio formando grandes colonias, ama el suelo constantemente húmedo a pleno sol o en sombra ligera y es una fuente fiable de néctar para abejas y mariposas. Resistente y poco exigente, encaja en orillas de estanques, borduras silvestres y jardines campestres.",
+        "history_text_short": "Perenne de prados húmedos, apreciada antaño como hierba astringente, la bistorta prestó su raíz retorcida a viejos remedios contra mordeduras de serpiente, y sus hojas tiernas de primavera acabaron en el «Easter ledger pudding» de Cumbria. Hoy sus espigas rosas alegran estanques y borduras campestres.",
+        "history_text_long": "Durante siglos la bistorta se ha recolectado y valorado en el norte de Europa. Su grueso rizoma oscuro está retorcido sobre sí mismo como un par de espirales, lo que dio nombre a la planta y, en los herbarios antiguos, fama de potente astringente. Los herbolarios secaban y molían la raíz, rica en taninos, para cerrar heridas, aliviar la garganta y las llagas de la boca y calmar el estómago, y la planta aparece en recetarios medievales y renacentistas con nombres como «snakeweed» y «adderwort», porque se creía que la raíz enroscada contrarrestaba las mordeduras de serpiente. Las hojas tiernas de primavera tuvieron una segunda vida en la cocina. En el Distrito de los Lagos, en el norte de Inglaterra, y en zonas de Cumbria y Yorkshire, se hervían con cebada, avena, ortigas y otras verduras para preparar el «Easter ledger pudding» o «Easter-mangiant», un plato de hierbas que se comía en Cuaresma y Pascua, cuando casi nada crecía. En el valle del Calder todavía se celebra cada año un festival del dock pudding, descendiente de aquella tradición, aunque ahora la acedera suele sustituir a la bistorta. En el jardín la planta pasó del campo a la bordura cuando los viveros notaron cómo sus espigas rosas iluminan el suelo húmedo a comienzos del verano. Formas cultivadas como ‘Superba’ se plantaron mucho en los siglos XIX y XX y siguen siendo populares. Como prospera donde muchas ornamentales fracasan, junto a estanques, zanjas y orillas sombrías de arroyos, se ganó un lugar como perenne fiable y poco exigente. En la naturaleza, sus flores alimentan a abejas, sírfidos y mariposas, y varias orugas de polillas se alimentan de su follaje.",
+        "name_origin": "El epíteto «bistorta» viene del latín «bis» (dos veces) y «tortus» (torcido) y describe el grueso rizoma doblado sobre sí mismo en forma de S. El nombre del género, Persicaria, procede del latín para «melocotón», porque las hojas de algunas especies se parecen a las del melocotonero.",
+        "symbolism_story": "En la tradición popular del norte de Inglaterra, la bistorta marcaba el fin de la estación escasa: sus primeras hojas de primavera se recogían para el pudin de hierbas de Pascua. Su raíz retorcida la convirtió además en símbolo del saber herbolario antiguo y de la protección contra las serpientes.",
+        "flower_meaning": "Resiliencia",
+        "uses_list": [
+          {
+            "text": "Espigas rosas para orillas de estanques, borduras silvestres y parterres húmedos de jardín campestre."
+          },
+          {
+            "text": "Sus flores ricas en néctar atraen abejas, sírfidos y mariposas en verano."
+          },
+          {
+            "text": "Su raíz rica en taninos se usó tradicionalmente en la herbolaria europea como astringente."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Resiliencia",
+            "description": "Prospera en suelos húmedos y difíciles donde fracasan muchas plantas de jardín."
+          },
+          {
+            "keyword": "Sanación popular",
+            "description": "Su raíz enroscada fue un remedio astringente clásico en los antiguos herbarios europeos."
+          }
+        ],
+        "toxicity": {
+          "headline": "No se reporta toxicidad",
+          "active_compound_display": "No se reportan",
+          "notes_en": "No se encontró una fuente autorizada sobre toxicidad; se trata como «no reportada» (la estimación del LLM no está verificada con fuentes).",
+          "human": {
+            "exposure": "No se reporta ninguna vía de exposición.",
+            "effect": "No se reporta ningún efecto tóxico.",
+            "note": "En este catálogo no se reporta toxicidad de esta planta para las personas; esto no es prueba de que sea comestible o inofensiva."
+          },
+          "dog": {
+            "exposure": "No se reporta ninguna vía de exposición.",
+            "effect": "No se reporta ningún efecto tóxico.",
+            "note": "En este catálogo no se reporta toxicidad de esta planta para los perros; esto no es prueba de que sea comestible o inofensiva."
+          },
+          "cat": {
+            "exposure": "No se reporta ninguna vía de exposición.",
+            "effect": "No se reporta ningún efecto tóxico.",
+            "note": "En este catálogo no se reporta toxicidad de esta planta para los gatos; esto no es prueba de que sea comestible o inofensiva."
+          }
+        }
+      }
+    },
+    "AAA1776": {
+      "source_hash": "cb7c06705306c4abec6c18e9a230333b5539d54579859a2b81e5ea5c077ca186",
+      "fields": {
+        "common_name": "Rododendro azul violáceo",
+        "bloom_tip": "Esta variedad florece de abril a junio, con flores de colores vivos.",
+        "fruit_tip": "Los frutos aparecen entre julio y agosto y aportan colores hermosos.",
+        "description": "El rododendro azul violáceo (Rhododendron russatum) es un arbusto compacto y de hoja perenne de las altas montañas del suroeste de China. Sus hojas pequeñas, brillantes y aromáticas, con escamas oxidadas por el envés, forman un montículo denso y redondeado de unos 1–1,5 m de altura. En abril y mayo se cubre de racimos de flores en forma de embudo de un intenso azul violeta, uno de los azules más puros entre los rododendros, con la garganta clara. Prefiere suelo fresco, húmedo, ácido y rico en humus, con sombra ligera o sol y abrigo del viento; resiste bien los inviernos fríos, pero no tolera los veranos cálidos y secos. Una buena opción para rocallas, bordes de bosque y macetas.",
+        "history_text_short": "Originario de las laderas alpinas de Yunnan y Sichuan, el rododendro azul violáceo se dio a conocer a principios del siglo XX gracias al cazador de plantas escocés George Forrest. Sus pequeñas hojas con escamas oxidadas y sus llamativas flores azul violeta en primavera lo convirtieron en un apreciado rododendro enano para rocallas y suelos ácidos y frescos en Gran Bretaña y otros lugares.",
+        "history_text_long": "El rododendro azul violáceo crece de forma silvestre en laderas altas y azotadas por el viento de las provincias chinas de Yunnan y Sichuan, donde forma matorrales bajos entre rocas y matas abiertas a gran altitud. El frío, la humedad y los veranos breves lo moldearon como un pequeño arbusto perenne y resistente, de hojas diminutas y flores cuyo azul violeta es inusualmente vivo para el género. Los jardineros occidentales lo conocieron gracias al trabajo de George Forrest, el cazador de plantas escocés que pasó años explorando Yunnan a principios del siglo XX y envió semillas y pliegos de herbario a Gran Bretaña. Las colecciones de Forrest abastecieron a una generación de jardines y viveros, y la especie fue descrita formalmente a partir de su material por los botánicos Isaac Bayley Balfour y el propio Forrest. En cultivo, el rododendro azul violáceo se valoró como un rododendro enano que cabe en una rocalla o un lecho de turba, donde sus flores tempranas brillan contra la piedra y el follaje oscuro. Necesita las condiciones frescas, húmedas, ácidas y bien drenadas de su hogar montañoso, y se adapta mejor a jardines de clima suave y húmedo. Hoy lo cultivan coleccionistas y aficionados a los rododendros, y también se ha usado como progenitor para obtener híbridos compactos de flores azul violeta intensas.",
+        "name_origin": "Rhododendron viene del griego rhodon («rosa») y dendron («árbol»). El epíteto russatum es latín para «enrojecido» y alude a las escamas de color óxido de las hojas.",
+        "symbolism_story": "Al crecer en el límite de las nieves, el rododendro azul violáceo ha llegado a representar la resiliencia y la belleza serena en lugares difíciles. Para los jardineros también evoca la era de los cazadores de plantas, cuando una ramita bajada de una montaña de Yunnan podía cambiar el aspecto de un jardín.",
+        "flower_meaning": "Espíritu de la montaña",
+        "fragrance": {
+          "notes": "Las hojas son ligeramente aromáticas al estrujarlas."
+        },
+        "uses_list": [
+          {
+            "text": "Montículo compacto de hoja perenne con vivas flores azul violeta en primavera, para rocallas y bordes de bosque."
+          },
+          {
+            "text": "Las flores tempranas ofrecen néctar a abejas y otros polinizadores."
+          },
+          {
+            "text": "Apto para macetas grandes y lechos de turba donde es fácil ofrecer suelo ácido."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Espíritu de la montaña",
+            "description": "Sus resistentes flores azul joya en laderas alpinas azotadas por el viento evocan fortaleza en lugares duros."
+          },
+          {
+            "keyword": "Exploración",
+            "description": "Se asocia con los cazadores de plantas que llevaron la flora de Yunnan y del Himalaya a los jardines occidentales."
+          }
+        ],
+        "toxicity": {
+          "headline": "Humanos: toxicidad moderada · Mascotas: toxicidad moderada",
+          "active_compound_display": "grayanotoxinas",
+          "notes_en": "Los rododendros contienen grayanotoxinas; ingerir hojas o flores puede causar vómitos y efectos cardíacos.",
+          "human": {
+            "exposure": "Comer hojas, flores y cualquier parte de la planta.",
+            "effect": "Náuseas, vómitos, salivación, debilidad y presión arterial baja.",
+            "note": "Los rododendros contienen grayanotoxinas; ingerir hojas o flores puede causar vómitos y efectos cardíacos.",
+            "symptoms": [
+              "Náuseas.",
+              "Vómitos.",
+              "Salivación.",
+              "Debilidad.",
+              "Presión arterial baja."
+            ]
+          },
+          "dog": {
+            "exposure": "Comer hojas, flores y cualquier parte de la planta.",
+            "effect": "Babeo, vómitos, debilidad y ritmo cardíaco lento.",
+            "note": "Los rododendros contienen grayanotoxinas; ingerir hojas o flores puede causar vómitos y efectos cardíacos.",
+            "symptoms": [
+              "Babeo.",
+              "Vómitos.",
+              "Debilidad.",
+              "Ritmo cardíaco lento."
+            ]
+          },
+          "cat": {
+            "exposure": "Comer hojas, flores y cualquier parte de la planta.",
+            "effect": "Babeo, vómitos, debilidad y ritmo cardíaco lento.",
+            "note": "Los rododendros contienen grayanotoxinas; ingerir hojas o flores puede causar vómitos y efectos cardíacos.",
+            "symptoms": [
+              "Babeo.",
+              "Vómitos.",
+              "Debilidad.",
+              "Ritmo cardíaco lento."
+            ]
+          }
+        }
+      }
+    },
+    "AAA1777": {
+      "source_hash": "b25e9ed5d828ff82461e7ecf7cba5a476eeb975bc5b0b7a0659a8c7abbe90bf1",
+      "fields": {
+        "common_name": "Canela de Indonesia",
+        "description": "La canela de Indonesia (Cinnamomum burmanni), también llamada casia de Padang, es un árbol perennifolio de Asia tropical y subtropical que alcanza unos 3–6 m en cultivo y mucho más en estado silvestre. Sus hojas coriáceas y brillantes tienen tres nervios marcados y brotan rojizas cuando son jóvenes; todo el árbol huele cálidamente a canela al estrujarlo. Pequeñas flores amarillo verdosas pálidas aparecen en racimos laxos y dan paso a pequeños frutos oscuros. Prefiere condiciones cálidas y húmedas, suelo húmedo y bien drenado, y sol a sombra ligera; no tolera las heladas fuertes. Se cultiva por su corteza aromática y su follaje atractivo, como árbol de sombra o de maceta en jardines cálidos.",
+        "history_text_short": "Originaria de Indonesia y el sur de China, la canela de Indonesia suministra desde hace mucho la especia conocida como casia de Padang, cosechada en las tierras altas de Sumatra. Se vende como «canela» en Europa y Norteamérica; su corteza es más fuerte y picante que la canela verdadera, y su nombre honra al botánico neerlandés Burman.",
+        "history_text_long": "La canela de Indonesia es nativa de Indonesia, Filipinas y el sur de China, donde crece en bosques de tierras bajas y colinas y se cultiva desde antiguo alrededor de los pueblos. Su corteza se comercia desde hace siglos como una especia similar a la canela, y la fuente más conocida hoy son las tierras altas de Padang, en Sumatra Occidental, que dieron al producto su nombre comercial de casia de Padang. Allí los agricultores cultivan los árboles en laderas aterrazadas y pelan la corteza en tiras que se enrollan al secarse hasta formar los rollos y palitos que se venden en los mercados. El árbol pertenece al mismo género que la canela verdadera (Cinnamomum verum) y la casia china, y su especia es la que más se encuentra en los frascos de supermercado etiquetados simplemente como «canela» en Estados Unidos y partes de Europa. Tiene un sabor más intenso, agudo y picante que la canela verdadera y contiene cantidades notables de cumarina, por lo que conviene usarla con moderación. El epíteto específico honra al botánico neerlandés Burman, estudioso en el siglo XVIII de las plantas de Ceilán y las Indias Orientales. Además del comercio de especias, las hojas y la corteza se usan tradicionalmente en los hogares indonesios para aromatizar y en infusiones de hierbas; el árbol es un hermoso perennifolio de follaje joven cobrizo que encaja en jardines cálidos, patios y macetas grandes.",
+        "name_origin": "Cinnamomum procede del griego kinnamomon, una palabra antigua para la canela. El epíteto burmanni honra al botánico neerlandés Burman, estudioso en el siglo XVIII de las plantas de Ceilán y las Indias Orientales.",
+        "symbolism_story": "Como su corteza fue uno de los grandes bienes del comercio de especias, la canela de Indonesia ha llegado a sugerir calidez, hospitalidad y prosperidad. En las aldeas de las tierras altas de Sumatra, la cosecha de su corteza sigue siendo un acontecimiento estacional que une a las familias con un comercio de muchos siglos.",
+        "flower_meaning": "Calidez",
+        "fragrance": {
+          "notes": "La corteza y las hojas estrujadas huelen a canela dulce y cálida."
+        },
+        "uses_list": [
+          {
+            "text": "La corteza se seca y se vende como casia de Padang, una especia intensa y picante similar a la canela."
+          },
+          {
+            "text": "La corteza y las hojas estrujadas desprenden un cálido aroma a canela."
+          },
+          {
+            "text": "El follaje perenne y brillante con brotes cobrizos forma un hermoso árbol de sombra o de maceta en climas cálidos."
+          },
+          {
+            "text": "La corteza y las hojas tienen una larga historia en infusiones y remedios tradicionales del sudeste asiático."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Calidez",
+            "description": "Su aroma dulce y especiado evoca comodidad, hogar y hospitalidad."
+          },
+          {
+            "keyword": "Prosperidad",
+            "description": "Las cortezas de tipo canela fueron durante mucho tiempo mercancías muy apreciadas, ligadas a la riqueza y a las rutas de las especias."
+          }
+        ],
+        "toxicity": {
+          "headline": "No se ha notificado toxicidad",
+          "active_compound_display": "No notificados",
+          "notes_en": "No se encontró una fuente autorizada sobre su toxicidad; se trata como «no notificada» (la estimación del LLM no está verificada).",
+          "human": {
+            "exposure": "No se notifica ninguna vía de exposición.",
+            "effect": "No se notifica ningún efecto tóxico.",
+            "note": "La toxicidad para las personas no está bien documentada; actúe con precaución hasta que se verifique."
+          },
+          "dog": {
+            "exposure": "No se notifica ninguna vía de exposición.",
+            "effect": "No se notifica ningún efecto tóxico.",
+            "note": "En este catálogo no se notifica toxicidad para los perros; eso no prueba que la planta sea comestible o inofensiva."
+          },
+          "cat": {
+            "exposure": "No se notifica ninguna vía de exposición.",
+            "effect": "No se notifica ningún efecto tóxico.",
+            "note": "En este catálogo no se notifica toxicidad para los gatos; eso no prueba que la planta sea comestible o inofensiva."
+          }
+        }
+      }
+    },
+    "AAA1778": {
+      "source_hash": "0f5c47c4a674f7b8a5e44d94c441faea63602bac8dacb83f0684ec860f9c49d6",
+      "fields": {
+        "common_name": "Viburnum prunifolium",
+        "bloom_tip": "Las flores de esta planta se abren en primavera y atraen a los insectos polinizadores.",
+        "fruit_tip": "Los frutos, de colores vivos, aportan interés ornamental al jardín.",
+        "description": "Viburnum prunifolium es un arbusto o pequeño árbol caducifolio, robusto y erguido, originario del este de Norteamérica. A finales de primavera lleva racimos planos de flores blanco cremoso que atraen abejas y mariposas, seguidos de bayas azul negruzco que gustan a las aves canoras. Sus hojas brillantes se tornan burdeos y rojas en otoño. Tolera la sequía, la sombra y distintos suelos, por lo que es una opción fiable para setos, plantaciones autóctonas y jardines para la fauna.",
+        "history_text_short": "Los pueblos indígenas de Norteamérica usaron la corteza de Viburnum prunifolium para aliviar calambres y dolores, y los colonos heredaron ese saber. En el siglo XIX los médicos estadounidenses la recetaban contra los cólicos menstruales y para prevenir abortos espontáneos, y figuró en la Farmacopea de EE. UU. hasta 1926. Hoy se valora más como arbusto autóctono resistente para aves y polinizadores.",
+        "history_text_long": "Viburnum prunifolium es uno de los arbustos medicinales mejor documentados del este de Norteamérica. Varios pueblos indígenas, entre ellos los cherokee, meskwaki y menominee, usaron su corteza y sus raíces contra calambres, dolores y molestias relacionadas con el parto. Los primeros colonos europeos y herbolarios esclavizados aprendieron la práctica y la incorporaron a la medicina doméstica, donde la corteza se preparaba en infusión para dolencias femeninas y para aliviar espasmos musculares.\n\nEn el siglo XIX la planta entró en la medicina formal. Los médicos de la escuela ecléctica, y después la profesión en general, recetaban una tintura de la corteza de la raíz contra los cólicos menstruales y para evitar abortos espontáneos. Estuvo en la Farmacopea de Estados Unidos de 1882 a 1926 y en el National Formulary hasta 1960. Su pariente cercano, el viburno de guelder (Viburnum opulus, «cramp bark»), se empleaba de modo muy parecido en Europa, y ambos se confunden a menudo en la literatura herbaria.\n\nLa planta también tuvo su lugar en la granja y en el bosque. Sus frutos azul negruzco, dulces y parecidos a pasas, se comían frescos en las familias rurales y los recogían los niños, y sus ramas firmes y erguidas servían para hacer mangos de herramientas. El nombre inglés «Blackhaw» probablemente procede de los frutos oscuros y del parecido de sus ramas sin espinas y de sus flores con el espino.\n\nHoy los jardineros aprecian a Viburnum prunifolium por otras razones. Es resistente, adaptable y longevo, y ofrece flores para los polinizadores en primavera, color en otoño y frutos para las aves en invierno. Se vende como alternativa autóctona a arbustos introducidos y se usa a menudo en setos y plantaciones de restauración del este de Estados Unidos.",
+        "name_origin": "Su nombre inglés, Blackhaw, alude a los frutos azul negruzco y al parecido de sus inflorescencias y follaje con el espino, antiguamente llamado «haw». El nombre del género, Viburnum, es el nombre latino clásico del viburno, y el epíteto prunifolium significa «de hojas de ciruelo», porque sus hojas redondeadas y finamente dentadas recuerdan a las del ciruelo.",
+        "symbolism_story": "Por su largo uso como remedio herbal calmante, Viburnum prunifolium ha llegado a representar el alivio y el cuidado en la tradición popular estadounidense. Sus flores blancas de primavera y sus hojas burdeos de otoño lo convierten además en un discreto emblema de renovación estacional y resiliencia.",
+        "flower_meaning": "Resiliencia",
+        "fragrance": {
+          "notes": "Aroma tenue y ligeramente dulce de los racimos de flores primaverales."
+        },
+        "uses_list": [
+          {
+            "text": "Se usa como arbusto o pequeño árbol aislado, resistente, con flores en primavera y color burdeos en otoño."
+          },
+          {
+            "text": "Los frutos alimentan a aves canoras y pequeños mamíferos, y las ramas densas ofrecen refugio para anidar."
+          },
+          {
+            "text": "Los racimos planos de flores atraen abejas, mariposas y otros polinizadores a finales de primavera."
+          },
+          {
+            "text": "La corteza tiene una larga historia en la herboristería tradicional norteamericana contra los calambres."
+          },
+          {
+            "text": "Los frutos maduros son dulces, parecidos a pasas, y se han comido frescos o en conserva."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Resiliencia",
+            "description": "Un arbusto autóctono resistente que prospera en suelo pobre, con sequía y en sombra."
+          },
+          {
+            "keyword": "Alivio",
+            "description": "Su corteza se usaba tradicionalmente para calmar calambres y dolores."
+          },
+          {
+            "keyword": "Renovación",
+            "description": "Las flores de primavera y las hojas encendidas del otoño marcan el paso de las estaciones."
+          }
+        ],
+        "toxicity": {
+          "headline": "Sin toxicidad notificada",
+          "active_compound_display": "Ninguno notificado",
+          "notes_en": "No se encontró una fuente de toxicidad autorizada; se trata como no notificado (la estimación del LLM no está verificada por fuentes).",
+          "human": {
+            "exposure": "No se notifica ninguna vía de exposición.",
+            "effect": "No se notifica ningún efecto tóxico.",
+            "note": "En este catálogo no se notifica toxicidad para humanos; esto no es prueba de que la planta sea comestible o inocua."
+          },
+          "dog": {
+            "exposure": "No se notifica ninguna vía de exposición.",
+            "effect": "No se notifica ningún efecto tóxico.",
+            "note": "En este catálogo no se notifica toxicidad para perros; esto no es prueba de que la planta sea comestible o inocua."
+          },
+          "cat": {
+            "exposure": "No se notifica ninguna vía de exposición.",
+            "effect": "No se notifica ningún efecto tóxico.",
+            "note": "En este catálogo no se notifica toxicidad para gatos; esto no es prueba de que la planta sea comestible o inocua."
           }
         }
       }

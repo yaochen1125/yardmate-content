@@ -3,8 +3,8 @@
   "locale": "fr",
   "source": {
     "resource": "plants_detail.json",
-    "sha256": "ced62322dba07bf35fa6462a405e70cd47afe5bd07e158b923ff38760230a5d9",
-    "record_count": 1772
+    "sha256": "6f210e547ae91b5437dff6dcb0e92e89682e6036e4c0680e2adfe2d65a9de275",
+    "record_count": 1777
   },
   "records": {
     "AAA0001": {
@@ -108375,6 +108375,334 @@
             "exposure": "Aucune voie d'exposition n'est signalée.",
             "effect": "Aucun effet toxique n'est signalé.",
             "note": "Les sources faisant autorité indiquent que cette plante n'est pas toxique pour les chats ; cela ne prouve pas qu'elle soit comestible."
+          }
+        }
+      }
+    },
+    "AAA1774": {
+      "source_hash": "cbc42b856db284e56e364dd1c5ba87bdd38bd10bc15ad26de864a4bf333b1187",
+      "fields": {
+        "common_name": "Arbuste à lait africain",
+        "fruit_tip": "Les fruits sont décoratifs et apportent de la couleur au jardin en automne.",
+        "description": "L'arbuste à lait africain (Euphorbia umbellata) est un arbuste à croissance rapide, aux tiges succulentes, originaire d'Afrique de l'Est tropicale. Ses rameaux épais et charnus portent, vers l'extrémité, des verticilles de feuilles lancéolées et brillantes, vertes chez la forme sauvage et d'un bordeaux profond chez les cultivars de jardin les plus courants. De petits groupes de fleurs rose-rouge apparaissent en têtes semblables à des ombelles. Il aime le soleil et un sol sableux bien drainé, résiste à la sécheresse et se cultive souvent en haie ou en pot. Toutes ses parties laissent échapper un latex laiteux irritant pour la peau et les yeux : manipulez-le avec des gants.",
+        "history_text_short": "En Afrique de l'Est, l'arbuste à lait africain est planté depuis longtemps comme clôture vivante autour des habitations et des enclos à bétail, son latex laiteux éloignant les animaux brouteurs. La science occidentale l'a découvert grâce à l'explorateur James Augustus Grant, dont il a porté le nom plus d'un siècle avant que les botanistes ne le placent dans le genre Euphorbia.",
+        "history_text_long": "Dans les savanes et les lisières de forêt du Kenya, de la Tanzanie et des pays voisins, l'arbuste à lait africain remplit depuis des générations une tâche très concrète : délimiter les terrains. Les boutures plantées dans le sol s'enracinent facilement et forment en une ou deux saisons une barrière dense et à croissance rapide. Chèvres et vaches apprennent vite à l'éviter, car chaque tige brisée laisse perler un latex blanc et caustique. Les familles l'utilisent autour des habitations, des jardins et des enclos : une clôture vivante qui se passe de fil de fer et se renouvelle grâce à ses propres boutures.\n\nLa plante est parvenue aux botanistes européens au XIXe siècle grâce aux grandes expéditions en Afrique de l'Est. Les spécimens récoltés lors du voyage de John Hanning Speke et James Augustus Grant au début des années 1860 furent décrits par Joseph Dalton Hooker à Kew, qui la nomma Synadenium grantii en l'honneur de l'explorateur. Pendant plus d'un siècle, les jardiniers l'ont connue sous ce nom, et ses sélections à feuillage bordeaux sont devenues populaires dans les jardins chauds, de la Floride à l'Australie.\n\nLes études modernes de la famille des euphorbiacées ont montré que Synadenium s'intègre parfaitement dans l'immense genre Euphorbia, et l'espèce s'appelle aujourd'hui Euphorbia umbellata, en référence à ses fleurs disposées comme les baleines d'un minuscule parapluie. Son latex, si efficace pour défendre la plante, explique aussi pourquoi l'on conseille gants et lunettes de protection à la taille. Aujourd'hui, l'arbuste à lait africain est apprécié comme haie robuste, arbuste de pot spectaculaire et touche résistante à la sécheresse, qui ne demande guère plus que du soleil, du drainage et du respect.",
+        "name_origin": "Euphorbia rend hommage à Euphorbe, médecin du roi Juba II de Maurétanie, qui aurait employé ces plantes en médecine. L'épithète umbellata signifie « à ombelles » et décrit ses fleurs réunies en forme de parasol. La plante fut longtemps appelée Synadenium grantii, d'après l'explorateur James Augustus Grant.",
+        "symbolism_story": "Là où l'arbuste à lait africain pousse en haie de limite, il symbolise la protection : un gardien vivant et silencieux qui veille sur la maison et le bétail sans un mètre de fil de fer. Sa robustesse face à la chaleur et à la sécheresse en fait aussi un emblème de résilience, tandis que son latex caustique rappelle que force et prudence vont souvent de pair.",
+        "flower_meaning": "Protection",
+        "uses_list": [
+          {
+            "text": "Haie spectaculaire, écran ou arbuste en pot, surtout les cultivars à feuillage bordeaux."
+          },
+          {
+            "text": "Planté traditionnellement comme clôture vivante car les animaux brouteurs évitent son latex."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Protection",
+            "description": "Planté en clôture vivante, il symbolise la garde du foyer et de ses limites."
+          },
+          {
+            "keyword": "Résilience",
+            "description": "Il prospère par la chaleur, en sol pauvre et à la sécheresse, symbole d'endurance."
+          }
+        ],
+        "toxicity": {
+          "headline": "Humains modérée · Animaux de compagnie modérée",
+          "active_compound_display": "Esters de diterpène",
+          "notes_en": "Le latex laiteux irrite fortement la peau, les yeux et la bouche ; portez gants et protection oculaire à la taille.",
+          "human": {
+            "exposure": "Contact avec la sève et n'importe quelle partie de la plante. Toucher la sève et n'importe quelle partie de la plante. Manger la sève et n'importe quelle partie de la plante.",
+            "effect": "Irritation de la peau, forte irritation des yeux, brûlure de la bouche et de la gorge, nausées et vomissements.",
+            "note": "Le latex laiteux irrite fortement la peau, les yeux et la bouche ; portez gants et protection oculaire à la taille.",
+            "symptoms": [
+              "Irritation de la peau.",
+              "Forte irritation des yeux.",
+              "Brûlure de la bouche et de la gorge.",
+              "Nausées.",
+              "Vomissements."
+            ]
+          },
+          "dog": {
+            "exposure": "Contact avec la sève et n'importe quelle partie de la plante. Manger la sève et n'importe quelle partie de la plante.",
+            "effect": "Hypersalivation, vomissements, irritation de la peau et irritation de la bouche.",
+            "note": "Le latex laiteux irrite fortement la peau, les yeux et la bouche ; portez gants et protection oculaire à la taille.",
+            "symptoms": [
+              "Hypersalivation.",
+              "Vomissements.",
+              "Irritation de la peau.",
+              "Irritation de la bouche."
+            ]
+          },
+          "cat": {
+            "exposure": "Contact avec la sève et n'importe quelle partie de la plante. Manger la sève et n'importe quelle partie de la plante.",
+            "effect": "Hypersalivation, vomissements, irritation de la peau et irritation de la bouche.",
+            "note": "Le latex laiteux irrite fortement la peau, les yeux et la bouche ; portez gants et protection oculaire à la taille.",
+            "symptoms": [
+              "Hypersalivation.",
+              "Vomissements.",
+              "Irritation de la peau.",
+              "Irritation de la bouche."
+            ]
+          }
+        }
+      }
+    },
+    "AAA1775": {
+      "source_hash": "2bbda34c0d957fcec53b4b861a38ddba59207029050532d6975640c0c2d814ae",
+      "fields": {
+        "common_name": "Renouée bistorte",
+        "bloom_tip": "Les fleurs apparaissent en épis denses de juin à août.",
+        "description": "La renouée bistorte (Persicaria bistorta) est une vivace en touffe des prairies humides et des berges de ruisseaux d'Europe et d'Asie. Des touffes de larges feuilles vert bleuté jaillissent d'un épais rhizome courbé en S, et de juin à août, de fines tiges atteignant 90 cm portent de denses épis roses en forme de goupillon. Elle s'étale lentement en larges colonies, adore un sol constamment humide au soleil ou à mi-ombre et fournit un nectar fiable aux abeilles et aux papillons. Rustique et peu exigeante, elle convient aux bords de mare, aux plates-bandes sauvages et aux jardins de campagne.",
+        "history_text_short": "Vivace des prairies humides jadis prisée comme plante astringente, la renouée bistorte prêtait sa racine tordue aux anciens remèdes contre les morsures de serpent, et ses jeunes feuilles de printemps entraient dans le « Easter ledger pudding » de Cumbria. Aujourd'hui, ses épis roses égayent bords de mare et plates-bandes champêtres.",
+        "history_text_long": "La renouée bistorte est cueillie et appréciée depuis des siècles dans le nord de l'Europe. Son épais rhizome sombre est replié sur lui-même comme une paire de spirales, ce qui a donné son nom à la plante et, dans les anciens herbiers, sa réputation de puissant astringent. Les herboristes séchaient et pulvérisaient la racine, riche en tanins, pour refermer les plaies, apaiser les maux de gorge et les aphtes et calmer l'estomac ; la plante figure dans les recueils de remèdes médiévaux et de la Renaissance sous des noms comme « snakeweed » et « adderwort », car on croyait que la racine enroulée contrait les morsures de serpent. Les jeunes feuilles de printemps ont connu une seconde vie en cuisine. Dans le Lake District, au nord de l'Angleterre, et dans certaines parties de la Cumbria et du Yorkshire, on les faisait bouillir avec de l'orge, de l'avoine, des orties et d'autres verdures pour préparer le « Easter ledger pudding » ou « Easter-mangiant », un plat d'herbes consommé autour du Carême et de Pâques, quand presque rien ne poussait. Dans la vallée de la Calder, une fête annuelle du dock pudding perpétue cette tradition, même si l'oseille remplace aujourd'hui souvent la bistorte. Au jardin, la plante est passée du champ à la plate-bande quand les pépiniéristes ont remarqué combien ses épis roses illuminent les sols humides au début de l'été. Des formes cultivées comme ‘Superba’ ont été largement plantées aux XIXe et XXe siècles et restent populaires. Parce qu'elle prospère là où beaucoup d'ornementales peinent, au bord des mares, des fossés et des ruisseaux ombragés, elle s'est imposée comme une vivace fiable et sans caprice. À l'état sauvage, ses fleurs nourrissent abeilles, syrphes et papillons, et plusieurs chenilles de papillons de nuit se nourrissent de son feuillage.",
+        "name_origin": "L'épithète « bistorta » vient du latin « bis » (deux fois) et « tortus » (tordu) et décrit l'épais rhizome replié sur lui-même en forme de S. Le nom de genre Persicaria vient du latin pour « pêche », car les feuilles de certaines espèces ressemblent à celles du pêcher.",
+        "symbolism_story": "Dans la tradition populaire du nord de l'Angleterre, la bistorte marquait la fin de la saison maigre : ses premières feuilles de printemps étaient cueillies pour le pudding aux herbes de Pâques. Sa racine tordue en a aussi fait un symbole de l'ancien savoir des herboristes et de la protection contre les serpents.",
+        "flower_meaning": "Résilience",
+        "uses_list": [
+          {
+            "text": "Épis roses pour bords de mare, plates-bandes sauvages et massifs humides de jardin de campagne."
+          },
+          {
+            "text": "Ses fleurs riches en nectar attirent abeilles, syrphes et papillons en été."
+          },
+          {
+            "text": "Sa racine riche en tanins était traditionnellement utilisée en herboristerie européenne comme astringent."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Résilience",
+            "description": "Elle prospère dans les sols humides et difficiles où beaucoup de plantes de jardin échouent."
+          },
+          {
+            "keyword": "Guérison populaire",
+            "description": "Sa racine enroulée était un remède astringent classique dans les anciens herbiers européens."
+          }
+        ],
+        "toxicity": {
+          "headline": "Aucune toxicité signalée",
+          "active_compound_display": "Aucun signalé",
+          "notes_en": "Aucune source faisant autorité sur la toxicité n'a été trouvée ; traitée comme « non signalée » (l'estimation du LLM n'est pas vérifiée par une source).",
+          "human": {
+            "exposure": "Aucune voie d'exposition n'est signalée.",
+            "effect": "Aucun effet toxique n'est signalé.",
+            "note": "Aucune toxicité n'est signalée pour l'humain dans ce catalogue ; ce n'est pas la preuve que la plante est comestible ou inoffensive."
+          },
+          "dog": {
+            "exposure": "Aucune voie d'exposition n'est signalée.",
+            "effect": "Aucun effet toxique n'est signalé.",
+            "note": "Aucune toxicité n'est signalée pour le chien dans ce catalogue ; ce n'est pas la preuve que la plante est comestible ou inoffensive."
+          },
+          "cat": {
+            "exposure": "Aucune voie d'exposition n'est signalée.",
+            "effect": "Aucun effet toxique n'est signalé.",
+            "note": "Aucune toxicité n'est signalée pour le chat dans ce catalogue ; ce n'est pas la preuve que la plante est comestible ou inoffensive."
+          }
+        }
+      }
+    },
+    "AAA1776": {
+      "source_hash": "cb7c06705306c4abec6c18e9a230333b5539d54579859a2b81e5ea5c077ca186",
+      "fields": {
+        "common_name": "Rhododendron bleu-violet",
+        "bloom_tip": "Cette variété fleurit d'avril à juin, avec des fleurs aux couleurs vives.",
+        "fruit_tip": "Les fruits apparaissent entre juillet et août et apportent de belles couleurs.",
+        "description": "Le rhododendron bleu-violet (Rhododendron russatum) est un arbuste compact à feuillage persistant des hautes montagnes du sud-ouest de la Chine. De petites feuilles brillantes et aromatiques, aux écailles rouillées au revers, forment une touffe dense et arrondie d'environ 1 à 1,5 m de haut. En avril et mai, il se couvre de bouquets de fleurs en entonnoir d'un intense bleu violacé, l'un des bleus les plus purs parmi les rhododendrons, à gorge claire. Il aime un sol frais, humide, acide et riche en humus, à mi-ombre ou au soleil à l'abri du vent ; il résiste aux hivers froids mais n'apprécie pas les étés chauds et secs. Un beau choix pour les rocailles, les lisières de sous-bois et les bacs.",
+        "history_text_short": "Originaire des pentes alpines du Yunnan et du Sichuan, le rhododendron bleu-violet a été révélé au début du XXe siècle par le chasseur de plantes écossais George Forrest. Ses petites feuilles aux écailles rouillées et ses fleurs d'un bleu violacé saisissant au printemps en ont fait un rhododendron nain très prisé pour les rocailles et les sols frais et acides, en Grande-Bretagne et au-delà.",
+        "history_text_long": "Le rhododendron bleu-violet pousse à l'état sauvage sur les hauts versants balayés par le vent des provinces chinoises du Yunnan et du Sichuan, où il forme à grande altitude de bas fourrés parmi les rochers et les broussailles ouvertes. Le froid, l'humidité et les étés brefs en ont fait un petit persistant résistant, aux feuilles minuscules et aux fleurs d'un bleu violacé exceptionnellement vif pour le genre. Les jardiniers occidentaux l'ont découvert grâce au travail de George Forrest, le chasseur de plantes écossais qui explora le Yunnan pendant des années au début du XXe siècle et envoya graines et spécimens d'herbier en Grande-Bretagne. Les récoltes de Forrest ont alimenté toute une génération de jardins et de pépinières, et l'espèce a été décrite formellement à partir de son matériel par les botanistes Isaac Bayley Balfour et Forrest lui-même. En culture, le rhododendron bleu-violet est devenu apprécié comme rhododendron nain que l'on peut glisser dans une rocaille ou un lit de tourbe, où ses fleurs précoces brillent contre la pierre et le feuillage sombre. Il a besoin des conditions fraîches, humides, acides et bien drainées de sa montagne natale et convient surtout aux jardins de climat doux et humide. Aujourd'hui, il est cultivé par des collectionneurs et des passionnés de rhododendrons, et il a aussi servi de parent pour créer des hybrides compacts aux fleurs bleu-violet intenses.",
+        "name_origin": "Rhododendron vient du grec rhodon (« rose ») et dendron (« arbre »). L'épithète russatum est le mot latin pour « rougi », en allusion aux écailles couleur rouille des feuilles.",
+        "symbolism_story": "Poussant aux confins de la limite des neiges, le rhododendron bleu-violet en est venu à représenter la résilience et la beauté discrète dans les lieux rudes. Pour les jardiniers, il rappelle aussi l'époque des chasseurs de plantes, quand un rameau descendu d'une montagne du Yunnan pouvait changer l'aspect d'un jardin.",
+        "flower_meaning": "Esprit de la montagne",
+        "fragrance": {
+          "notes": "Les feuilles sont légèrement aromatiques lorsqu'on les froisse."
+        },
+        "uses_list": [
+          {
+            "text": "Touffe persistante compacte aux vives fleurs bleu-violet au printemps, pour rocailles et lisières de sous-bois."
+          },
+          {
+            "text": "Ses fleurs précoces offrent du nectar aux abeilles et autres pollinisateurs."
+          },
+          {
+            "text": "Convient aux grands bacs et aux lits de tourbe où il est facile de fournir un sol acide."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Esprit de la montagne",
+            "description": "Ses fleurs robustes, bleu joyau, sur des pentes alpines battues par le vent évoquent l'endurance dans les lieux rudes."
+          },
+          {
+            "keyword": "Exploration",
+            "description": "Il est associé aux chasseurs de plantes qui ont apporté la flore du Yunnan et de l'Himalaya dans les jardins occidentaux."
+          }
+        ],
+        "toxicity": {
+          "headline": "Humains : toxicité modérée · Animaux de compagnie : toxicité modérée",
+          "active_compound_display": "grayanotoxines",
+          "notes_en": "Les rhododendrons contiennent des grayanotoxines ; l'ingestion de feuilles ou de fleurs peut provoquer des vomissements et des effets cardiaques.",
+          "human": {
+            "exposure": "Ingestion des feuilles, des fleurs et de toute partie de la plante.",
+            "effect": "Nausées, vomissements, salivation, faiblesse et tension artérielle basse.",
+            "note": "Les rhododendrons contiennent des grayanotoxines ; l'ingestion de feuilles ou de fleurs peut provoquer des vomissements et des effets cardiaques.",
+            "symptoms": [
+              "Nausées.",
+              "Vomissements.",
+              "Salivation.",
+              "Faiblesse.",
+              "Tension artérielle basse."
+            ]
+          },
+          "dog": {
+            "exposure": "Ingestion des feuilles, des fleurs et de toute partie de la plante.",
+            "effect": "Bave, vomissements, faiblesse et ralentissement du rythme cardiaque.",
+            "note": "Les rhododendrons contiennent des grayanotoxines ; l'ingestion de feuilles ou de fleurs peut provoquer des vomissements et des effets cardiaques.",
+            "symptoms": [
+              "Bave.",
+              "Vomissements.",
+              "Faiblesse.",
+              "Ralentissement du rythme cardiaque."
+            ]
+          },
+          "cat": {
+            "exposure": "Ingestion des feuilles, des fleurs et de toute partie de la plante.",
+            "effect": "Bave, vomissements, faiblesse et ralentissement du rythme cardiaque.",
+            "note": "Les rhododendrons contiennent des grayanotoxines ; l'ingestion de feuilles ou de fleurs peut provoquer des vomissements et des effets cardiaques.",
+            "symptoms": [
+              "Bave.",
+              "Vomissements.",
+              "Faiblesse.",
+              "Ralentissement du rythme cardiaque."
+            ]
+          }
+        }
+      }
+    },
+    "AAA1777": {
+      "source_hash": "b25e9ed5d828ff82461e7ecf7cba5a476eeb975bc5b0b7a0659a8c7abbe90bf1",
+      "fields": {
+        "common_name": "Cannelier d'Indonésie",
+        "description": "Le cannelier d'Indonésie (Cinnamomum burmanni), aussi appelé casse de Padang, est un arbre à feuillage persistant d'Asie tropicale et subtropicale, qui atteint environ 3 à 6 m en culture et bien davantage à l'état sauvage. Ses feuilles coriaces et luisantes présentent trois nervures marquées et sont rougeâtres au débourrement ; tout l'arbre dégage une chaude odeur de cannelle lorsqu'on le froisse. De petites fleurs jaune verdâtre pâle apparaissent en grappes lâches, suivies de petits fruits sombres. Il préfère les conditions chaudes et humides, un sol frais et bien drainé, et le soleil ou la mi-ombre ; il ne supporte pas les fortes gelées. On le cultive pour son écorce aromatique et son beau feuillage, comme arbre d'ombrage ou en bac dans les jardins chauds.",
+        "history_text_short": "Originaire d'Indonésie et du sud de la Chine, le cannelier d'Indonésie fournit depuis longtemps l'épice appelée casse de Padang, récoltée dans les hautes terres de Sumatra. Vendue sous le nom de « cannelle » en Europe et en Amérique du Nord, son écorce est plus forte et plus poivrée que la vraie cannelle, et son nom honore le botaniste néerlandais Burman.",
+        "history_text_long": "Le cannelier d'Indonésie est originaire d'Indonésie, des Philippines et du sud de la Chine, où il pousse dans les forêts de plaine et de colline et est cultivé depuis longtemps autour des villages. Son écorce se négocie depuis des siècles comme épice proche de la cannelle, et la source la plus connue aujourd'hui est la région de Padang, à Sumatra occidental, qui a donné au produit son nom commercial de casse de Padang. Les paysans y cultivent les arbres sur des pentes en terrasses et détachent l'écorce en bandes qui s'enroulent en séchant pour former les bâtons vendus sur les marchés. L'arbre appartient au même genre que la vraie cannelle (Cinnamomum verum) et la casse de Chine, et son épice est celle que l'on trouve le plus souvent dans les pots de supermarché simplement étiquetés « cannelle » aux États-Unis et dans certaines régions d'Europe. Sa saveur est plus puissante, plus vive et plus poivrée que celle de la vraie cannelle, et elle contient des quantités notables de coumarine ; mieux vaut donc l'utiliser avec modération. L'épithète spécifique honore le botaniste néerlandais Burman, qui étudia au XVIIIe siècle les plantes de Ceylan et des Indes orientales. Outre le commerce des épices, les feuilles et l'écorce servent traditionnellement dans les foyers indonésiens pour aromatiser et pour des boissons aux plantes ; c'est un bel arbre persistant au jeune feuillage cuivré, qui convient aux jardins chauds, aux cours et aux grands bacs.",
+        "name_origin": "Cinnamomum vient du grec kinnamomon, ancien mot désignant la cannelle. L'épithète burmanni honore le botaniste néerlandais Burman, qui étudia au XVIIIe siècle les plantes de Ceylan et des Indes orientales.",
+        "symbolism_story": "Parce que son écorce fut l'une des grandes marchandises du commerce des épices, le cannelier d'Indonésie en est venu à évoquer la chaleur, l'hospitalité et la prospérité. Dans les villages des hautes terres de Sumatra, la récolte de l'écorce reste un rendez-vous saisonnier qui relie les familles à un commerce vieux de plusieurs siècles.",
+        "flower_meaning": "Chaleur",
+        "fragrance": {
+          "notes": "L'écorce et les feuilles froissées sentent la cannelle douce et chaude."
+        },
+        "uses_list": [
+          {
+            "text": "L'écorce est séchée et vendue sous le nom de casse de Padang, une épice forte et poivrée proche de la cannelle."
+          },
+          {
+            "text": "L'écorce et les feuilles froissées dégagent un chaud parfum de cannelle."
+          },
+          {
+            "text": "Son feuillage persistant et luisant aux jeunes pousses cuivrées en fait un bel arbre d'ombrage ou de bac sous climat chaud."
+          },
+          {
+            "text": "L'écorce et les feuilles ont une longue histoire dans les boissons et remèdes traditionnels d'Asie du Sud-Est."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Chaleur",
+            "description": "Son parfum doux et épicé évoque le réconfort, le foyer et l'hospitalité."
+          },
+          {
+            "keyword": "Prospérité",
+            "description": "Les écorces de type cannelle furent longtemps des marchandises précieuses, liées à la richesse et aux routes des épices."
+          }
+        ],
+        "toxicity": {
+          "headline": "Aucune toxicité signalée",
+          "active_compound_display": "Non signalés",
+          "notes_en": "Aucune source faisant autorité n'a été trouvée sur sa toxicité ; elle est considérée comme non signalée (l'estimation du LLM n'est pas vérifiée).",
+          "human": {
+            "exposure": "Aucune voie d'exposition n'est signalée.",
+            "effect": "Aucun effet toxique n'est signalé.",
+            "note": "La toxicité pour l'humain est mal documentée ; soyez prudent tant qu'elle n'est pas vérifiée."
+          },
+          "dog": {
+            "exposure": "Aucune voie d'exposition n'est signalée.",
+            "effect": "Aucun effet toxique n'est signalé.",
+            "note": "Aucune toxicité n'est signalée pour les chiens dans ce catalogue ; cela ne prouve pas que la plante soit comestible ou inoffensive."
+          },
+          "cat": {
+            "exposure": "Aucune voie d'exposition n'est signalée.",
+            "effect": "Aucun effet toxique n'est signalé.",
+            "note": "Aucune toxicité n'est signalée pour les chats dans ce catalogue ; cela ne prouve pas que la plante soit comestible ou inoffensive."
+          }
+        }
+      }
+    },
+    "AAA1778": {
+      "source_hash": "0f5c47c4a674f7b8a5e44d94c441faea63602bac8dacb83f0684ec860f9c49d6",
+      "fields": {
+        "common_name": "Viorne à feuilles de prunier",
+        "bloom_tip": "Les fleurs de cette plante s'épanouissent au printemps et attirent les insectes pollinisateurs.",
+        "fruit_tip": "Les fruits, vivement colorés, ajoutent de l'intérêt décoratif au jardin.",
+        "description": "La viorne à feuilles de prunier (Viburnum prunifolium) est un arbuste ou petit arbre caduc, robuste et dressé, originaire de l'est de l'Amérique du Nord. À la fin du printemps, il porte des corymbes plats de fleurs blanc crème qui attirent abeilles et papillons, suivis de baies bleu-noir appréciées des oiseaux chanteurs. Son feuillage brillant prend des teintes bordeaux et rouges en automne. Il supporte la sécheresse, l'ombre et divers sols, et convient bien aux haies, aux plantations indigènes et aux jardins pour la faune.",
+        "history_text_short": "L'écorce de la viorne à feuilles de prunier servait aux peuples autochtones d'Amérique du Nord à calmer crampes et douleurs, un savoir transmis aux colons. Au XIXe siècle, les médecins américains la prescrivaient contre les règles douloureuses et pour prévenir les fausses couches ; elle figurait dans la Pharmacopée des États-Unis jusqu'en 1926. Aujourd'hui, on l'apprécie surtout comme arbuste indigène rustique pour les oiseaux et les pollinisateurs.",
+        "history_text_long": "La viorne à feuilles de prunier est l'un des arbustes médicinaux les mieux documentés de l'est de l'Amérique du Nord. Plusieurs peuples autochtones, dont les Cherokee, les Meskwaki et les Menominee, employaient son écorce et ses racines contre les crampes, les douleurs et les troubles liés à l'accouchement. Les premiers colons européens et des herboristes réduits en esclavage ont appris cet usage et l'ont intégré à la médecine domestique, où l'écorce était infusée pour les maux féminins et pour apaiser les spasmes musculaires.\n\nAu XIXe siècle, la plante est entrée dans la médecine officielle. Les médecins de l'école éclectique, puis la profession dans son ensemble, prescrivaient une teinture d'écorce de racine contre les crampes menstruelles et pour prévenir les fausses couches. Elle figura dans la Pharmacopée des États-Unis de 1882 à 1926 et dans le National Formulary jusqu'en 1960. Sa proche cousine, la viorne obier (Viburnum opulus, ou « cramp bark »), était utilisée de la même façon en Europe, et les deux sont souvent confondues dans la littérature d'herboristerie.\n\nLa plante avait aussi sa place à la ferme et dans les bois. Ses fruits bleu-noir, doux et semblables à des raisins secs, étaient mangés frais par les familles rurales et cueillis par les enfants, et ses branches dressées et résistantes servaient à fabriquer des manches d'outils. Le nom anglais « Blackhaw » vient probablement de la couleur sombre des fruits et de la ressemblance de ses tiges sans épines et de ses fleurs avec l'aubépine.\n\nAujourd'hui, les jardiniers l'apprécient pour d'autres raisons. Rustique, adaptable et longévive, elle offre des fleurs aux pollinisateurs au printemps, des couleurs d'automne et des fruits pour les oiseaux en hiver. On la propose comme alternative indigène aux arbustes introduits, et elle est souvent employée dans les haies et les plantations de restauration de l'est des États-Unis.",
+        "name_origin": "Le nom anglais Blackhaw renvoie à ses fruits bleu-noir et à la ressemblance de ses inflorescences et de son feuillage avec l'aubépine, autrefois appelée « haw ». Le nom de genre Viburnum est le nom latin classique de la viorne lantane, et l'épithète prunifolium signifie « à feuilles de prunier », car ses feuilles arrondies, finement dentées, rappellent celles du prunier.",
+        "symbolism_story": "En raison de son long usage comme remède apaisant, la viorne à feuilles de prunier en est venue à symboliser le soulagement et le soin dans la tradition populaire américaine. Ses fleurs blanches printanières et ses feuilles bordeaux d'automne en font aussi un discret emblème du renouveau saisonnier et de la résilience.",
+        "flower_meaning": "Résilience",
+        "fragrance": {
+          "notes": "Parfum discret, légèrement sucré, des corymbes de fleurs printaniers."
+        },
+        "uses_list": [
+          {
+            "text": "Utilisée comme arbuste ou petit arbre isolé rustique, avec floraison printanière et couleurs bordeaux en automne."
+          },
+          {
+            "text": "Les fruits nourrissent oiseaux chanteurs et petits mammifères, et les branches denses offrent un abri pour nicher."
+          },
+          {
+            "text": "Les corymbes plats attirent abeilles, papillons et autres pollinisateurs à la fin du printemps."
+          },
+          {
+            "text": "L'écorce a une longue histoire dans la phytothérapie traditionnelle nord-américaine contre les crampes."
+          },
+          {
+            "text": "Les fruits mûrs, doux et semblables à des raisins secs, se sont mangés frais ou en confiture."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Résilience",
+            "description": "Un arbuste indigène robuste qui prospère en sol pauvre, par temps sec et à l'ombre."
+          },
+          {
+            "keyword": "Soulagement",
+            "description": "Son écorce servait traditionnellement à apaiser crampes et douleurs."
+          },
+          {
+            "keyword": "Renouveau",
+            "description": "Les fleurs du printemps puis les feuilles flamboyantes d'automne marquent le passage des saisons."
+          }
+        ],
+        "toxicity": {
+          "headline": "Aucune toxicité signalée",
+          "active_compound_display": "Aucun signalé",
+          "notes_en": "Aucune source de toxicité faisant autorité n'a été trouvée ; traité comme non signalé (l'estimation du LLM n'est pas vérifiée par une source).",
+          "human": {
+            "exposure": "Aucune voie d'exposition n'est signalée.",
+            "effect": "Aucun effet toxique n'est signalé.",
+            "note": "Aucune toxicité n'est signalée pour l'humain dans ce catalogue ; cela ne prouve pas que la plante soit comestible ou inoffensive."
+          },
+          "dog": {
+            "exposure": "Aucune voie d'exposition n'est signalée.",
+            "effect": "Aucun effet toxique n'est signalé.",
+            "note": "Aucune toxicité n'est signalée pour le chien dans ce catalogue ; cela ne prouve pas que la plante soit comestible ou inoffensive."
+          },
+          "cat": {
+            "exposure": "Aucune voie d'exposition n'est signalée.",
+            "effect": "Aucun effet toxique n'est signalé.",
+            "note": "Aucune toxicité n'est signalée pour le chat dans ce catalogue ; cela ne prouve pas que la plante soit comestible ou inoffensive."
           }
         }
       }
