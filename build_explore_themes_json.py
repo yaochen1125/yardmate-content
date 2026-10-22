@@ -123,10 +123,16 @@ def main():
                         err(f"`> added:` must be YYYY-MM-DD: {value!r}")
                     else:
                         try:
-                            datetime.date.fromisoformat(value)
-                            added_at = value
+                            day = datetime.date.fromisoformat(value)
                         except ValueError:
                             err(f"`> added:` is not a real date: {value!r}")
+                        else:
+                            # The app treats a future addedAt as absent → that issue would silently
+                            # never be pinned. Dates are UTC (the app counts UTC days).
+                            if day > datetime.datetime.now(datetime.timezone.utc).date():
+                                err(f"`> added:` is in the future (UTC): {value!r}")
+                            else:
+                                added_at = value
                 else:
                     err(f"unrecognized `>` directive: {stripped[:60]!r}")
             elif re.match(r"^\d+\.", stripped):
