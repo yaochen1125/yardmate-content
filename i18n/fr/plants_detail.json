@@ -3,8 +3,8 @@
   "locale": "fr",
   "source": {
     "resource": "plants_detail.json",
-    "sha256": "6f210e547ae91b5437dff6dcb0e92e89682e6036e4c0680e2adfe2d65a9de275",
-    "record_count": 1777
+    "sha256": "281e9140c3a5a61183c1e815c2dcb0e344686424a214939fbf48faa2f08796fe",
+    "record_count": 1778
   },
   "records": {
     "AAA0001": {
@@ -108703,6 +108703,70 @@
             "exposure": "Aucune voie d'exposition n'est signalée.",
             "effect": "Aucun effet toxique n'est signalé.",
             "note": "Aucune toxicité n'est signalée pour le chat dans ce catalogue ; cela ne prouve pas que la plante soit comestible ou inoffensive."
+          }
+        }
+      }
+    },
+    "AAA1779": {
+      "source_hash": "518fcc64986de42eb6dbd67eaa4a4b22edf5d66226285c7dc7cf953f92da458f",
+      "fields": {
+        "common_name": "Juliennes",
+        "bloom_tip": "Les fleurs s'ouvrent au printemps et au début de l'été, et leur parfum est le plus fort le soir.",
+        "description": "Les juliennes (genre Hesperis) sont des plantes bisannuelles ou vivaces de courte durée de la famille des crucifères, originaires d'Europe et d'Asie. Elles dressent des tiges ramifiées de 30 à 90 cm, couronnées de grappes lâches de fleurs à quatre pétales mauves, lilas et blanches, du printemps au début de l'été. Les fleurs répandent un parfum doux, évoquant le clou de girofle, qui s'intensifie au crépuscule, ce qui a donné son nom au groupe. Elles prospèrent en sol frais, humide et bien drainé, au soleil ou à mi-ombre, et se ressèment volontiers en masses de jardin de curé. Les pollinisateurs visitent les fleurs, et ces plantes conviennent aux lisières de prairie, aux massifs et aux orées de bois.",
+        "history_text_short": "Depuis des siècles, les juliennes sont des favorites des jardins de campagne d'Europe, appréciées pour un parfum qui s'éveille au crépuscule. Le mot grec hesperos, « soir », a donné son nom au groupe. Emportées ailleurs comme plantes de jardin, certaines espèces ont franchi la clôture et fleurissent aujourd'hui au bord des routes et des bois, loin de chez elles.",
+        "history_text_long": "Bien avant que les jardiniers ne s'occupent de leurs plates-bandes, les juliennes poussaient à l'état sauvage dans les prairies humides, les haies et les lisières de bois d'Europe et d'Asie. On remarqua ce qui les distinguait : alors que beaucoup de fleurs s'éteignent au crépuscule, celles-ci se font plus parfumées à mesure que la lumière baisse. Cette habitude a donné le nom Hesperis, du grec hesperos, « soir », l'heure où le doux parfum de girofle flotte sur le jardin.\n\nDans les jardins de campagne européens, les juliennes sont devenues une favorite fidèle et désuète. On les plantait près des portes et des bancs pour que l'air du soir porte leur parfum à ceux qui s'asseyaient dehors après la journée de travail. Leurs épis lâches mauves, lilas et blancs se mariaient bien aux rosiers, aux digitales et à d'autres plantes de jardin de campagne, et comme elles se ressèment si volontiers, une seule plantation revenait année après année sans grand effort.\n\nOn les confond souvent avec le phlox des jardins, mais un examen attentif les distingue : les juliennes ont quatre pétales, comme il sied aux crucifères, tandis que les phlox en ont cinq. Ce petit détail est une leçon appréciée des botanistes amateurs.\n\nQuand les jardiniers ont fait voyager les plantes d'un continent à l'autre, les juliennes ont voyagé aussi. Plusieurs espèces se sont si bien plu dans de nouveaux pays qu'elles se sont échappées des cultures et naturalisées au bord des routes, des rivières et des bois, où elles concurrencent par endroits les fleurs sauvages indigènes. Ce succès rappelle la vigueur de ces plantes et pourquoi, dans certaines régions, il est conseillé d'enlever les fleurs fanées avant la maturation des graines.\n\nAujourd'hui, on cultive toujours les juliennes pour la même raison qu'il y a des siècles : une promenade du soir à la fin du printemps, un nuage de couleurs douces et un parfum qui semble appartenir au crépuscule.",
+        "name_origin": "Le nom de genre Hesperis vient du grec hesperos, « soir », car les fleurs dégagent leur parfum le plus intense au crépuscule.",
+        "symbolism_story": "Parce que les juliennes offrent leur parfum le plus doux quand le jour tombe, les jardiniers les associent depuis longtemps aux soirées, à la rêverie tranquille et aux jardins de souvenir. Plantées à la porte d'une chaumière, elles incarnent le plaisir de ralentir à la fin de la journée.",
+        "flower_meaning": "Soir",
+        "fragrance": {
+          "notes": "Parfum vespéral doux, évoquant le clou de girofle"
+        },
+        "uses_list": [
+          {
+            "text": "Jardins de campagne, massifs et plantations de type prairie"
+          },
+          {
+            "text": "Parfum du soir près des terrasses et des coins de repos"
+          },
+          {
+            "text": "Nectar pour les abeilles et les papillons au printemps"
+          },
+          {
+            "text": "Tiges parfumées pour bouquets champêtres"
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Soir",
+            "description": "Son parfum s'éveille au crépuscule et lie la fleur aux heures du soir."
+          },
+          {
+            "keyword": "Nostalgie",
+            "description": "Un classique du jardin de campagne qui rappelle les jardins d'autrefois."
+          },
+          {
+            "keyword": "Parfum",
+            "description": "Une fleur dont on se souvient pour son parfum plus que pour son éclat."
+          }
+        ],
+        "toxicity": {
+          "headline": "Aucune toxicité signalée",
+          "active_compound_display": "Aucun signalé",
+          "notes_en": "Aucune source fiable sur la toxicité trouvée ; traité comme « non signalé » (l'estimation du LLM n'est pas vérifiée par une source).",
+          "human": {
+            "exposure": "Aucune voie d'exposition n'est signalée.",
+            "effect": "Aucun effet toxique n'est signalé.",
+            "note": "Aucune toxicité n'est signalée pour l'humain dans ce catalogue ; ce n'est pas la preuve que la plante est comestible ou inoffensive."
+          },
+          "dog": {
+            "exposure": "Aucune voie d'exposition n'est signalée.",
+            "effect": "Aucun effet toxique n'est signalé.",
+            "note": "Aucune toxicité n'est signalée pour le chien dans ce catalogue ; ce n'est pas la preuve que la plante est comestible ou inoffensive."
+          },
+          "cat": {
+            "exposure": "Aucune voie d'exposition n'est signalée.",
+            "effect": "Aucun effet toxique n'est signalé.",
+            "note": "Aucune toxicité n'est signalée pour le chat dans ce catalogue ; ce n'est pas la preuve que la plante est comestible ou inoffensive."
           }
         }
       }

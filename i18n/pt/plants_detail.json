@@ -3,8 +3,8 @@
   "locale": "pt",
   "source": {
     "resource": "plants_detail.json",
-    "sha256": "6f210e547ae91b5437dff6dcb0e92e89682e6036e4c0680e2adfe2d65a9de275",
-    "record_count": 1777
+    "sha256": "281e9140c3a5a61183c1e815c2dcb0e344686424a214939fbf48faa2f08796fe",
+    "record_count": 1778
   },
   "records": {
     "AAA0001": {
@@ -108717,6 +108717,70 @@
             "exposure": "Nenhuma via de exposição é relatada.",
             "effect": "Nenhum efeito tóxico é relatado.",
             "note": "Neste catálogo não há toxicidade relatada para gatos; isso não é prova de que a planta seja comestível ou inofensiva."
+          }
+        }
+      }
+    },
+    "AAA1779": {
+      "source_hash": "518fcc64986de42eb6dbd67eaa4a4b22edf5d66226285c7dc7cf953f92da458f",
+      "fields": {
+        "common_name": "Hesperis",
+        "bloom_tip": "As flores abrem na primavera e no início do verão, e o perfume é mais forte ao entardecer.",
+        "description": "As hesperis (género Hesperis) são plantas bienais ou perenes de vida curta da família das crucíferas, nativas da Europa e da Ásia. Produzem caules ramificados de 30 a 90 cm, coroados por cachos soltos de flores de quatro pétalas em roxo, lilás e branco, da primavera ao início do verão. As flores libertam um perfume doce, semelhante ao cravo-da-índia, que se intensifica ao anoitecer, daí o nome do grupo. Prosperam em solo fresco, húmido e bem drenado, ao sol ou em meia-sombra, e semeiam-se facilmente, formando manchas de jardim rústico. Os polinizadores visitam as flores, e as plantas servem para orlas de prado, canteiros e orlas de bosque.",
+        "history_text_short": "Há séculos que as hesperis são favoritas dos jardins rústicos da Europa, apreciadas por um perfume que desperta ao anoitecer. A palavra grega hesperos, «tarde», deu nome ao grupo. Levadas para outras terras como plantas de jardim, algumas espécies saltaram a vedação e florescem hoje em bermas e orlas de bosque longe de casa.",
+        "history_text_long": "Muito antes de os jardineiros se preocuparem com canteiros, as hesperis cresciam espontâneas em prados húmidos, sebes e orlas de bosque da Europa e da Ásia. As pessoas repararam no que as distinguia: enquanto muitas flores se apagam ao entardecer, estas tornam-se mais perfumadas à medida que a luz desce. Esse hábito deu o nome Hesperis, do grego hesperos, «tarde», a hora em que o doce aroma a cravo se espalha pelo jardim.\n\nNos jardins rústicos europeus, as hesperis tornaram-se uma favorita fiável e de ar antigo. Plantavam-se junto às portas e aos bancos para que o ar da tarde levasse o perfume a quem se sentava no exterior depois do trabalho. As suas espigas soltas roxas, lilases e brancas combinavam bem com rosas, dedaleiras e outras plantas de jardim rústico e, como se semeiam com tanta facilidade, uma única plantação regressava ano após ano sem grande esforço.\n\nSão muitas vezes confundidas com o flox de jardim, mas um olhar atento distingue-as: as hesperis têm quatro pétalas, como convém às crucíferas, enquanto os floxes têm cinco. Este pequeno pormenor é uma lição querida dos botânicos amadores.\n\nQuando os jardineiros levaram plantas de um continente para outro, as hesperis viajaram também. Várias espécies sentiram-se tão bem em novos países que escaparam da cultura e naturalizaram-se em bermas, margens de rios e orlas de bosque, onde em certos locais competem com as flores silvestres nativas. Esse sucesso lembra o vigor destas plantas e por que razão, em algumas regiões, se aconselha cortar as flores murchas antes de as sementes amadurecerem.\n\nHoje, as hesperis continuam a cultivar-se pela mesma razão de há séculos: um passeio ao fim da tarde no final da primavera, uma nuvem de cores suaves e um perfume que parece pertencer ao crepúsculo.",
+        "name_origin": "O nome do género Hesperis vem do grego hesperos, «tarde», porque as flores libertam a sua fragrância mais intensa ao anoitecer.",
+        "symbolism_story": "Como as hesperis oferecem o perfume mais doce quando a luz do dia se apaga, os jardineiros associam-nas há muito às tardes, à reflexão tranquila e aos jardins recordados. Plantadas à porta de uma casa de campo, representam o prazer de abrandar no fim do dia.",
+        "flower_meaning": "Entardecer",
+        "fragrance": {
+          "notes": "Perfume vespertino doce, semelhante ao cravo-da-índia"
+        },
+        "uses_list": [
+          {
+            "text": "Jardins rústicos, canteiros e plantações de estilo pradaria"
+          },
+          {
+            "text": "Perfume vespertino junto a pátios e zonas de descanso"
+          },
+          {
+            "text": "Néctar para abelhas e borboletas na primavera"
+          },
+          {
+            "text": "Hastes perfumadas para ramos informais"
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Entardecer",
+            "description": "O seu perfume desperta ao anoitecer, ligando a flor às horas do crepúsculo."
+          },
+          {
+            "keyword": "Nostalgia",
+            "description": "Um clássico do jardim rústico que evoca jardins de outros tempos."
+          },
+          {
+            "keyword": "Fragrância",
+            "description": "Uma flor lembrada mais pelo aroma do que pela exuberância."
+          }
+        ],
+        "toxicity": {
+          "headline": "Nenhuma toxicidade relatada",
+          "active_compound_display": "Nenhum relatado",
+          "notes_en": "Não foi encontrada fonte fiável sobre toxicidade; tratada como «não relatada» (a estimativa do LLM não é verificada por fontes).",
+          "human": {
+            "exposure": "Nenhuma via de exposição é relatada.",
+            "effect": "Nenhum efeito tóxico é relatado.",
+            "note": "Neste catálogo não é relatada toxicidade para humanos; isso não prova que a planta seja comestível ou inofensiva."
+          },
+          "dog": {
+            "exposure": "Nenhuma via de exposição é relatada.",
+            "effect": "Nenhum efeito tóxico é relatado.",
+            "note": "Neste catálogo não é relatada toxicidade para cães; isso não prova que a planta seja comestível ou inofensiva."
+          },
+          "cat": {
+            "exposure": "Nenhuma via de exposição é relatada.",
+            "effect": "Nenhum efeito tóxico é relatado.",
+            "note": "Neste catálogo não é relatada toxicidade para gatos; isso não prova que a planta seja comestível ou inofensiva."
           }
         }
       }

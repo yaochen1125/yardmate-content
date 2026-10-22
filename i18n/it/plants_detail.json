@@ -3,8 +3,8 @@
   "locale": "it",
   "source": {
     "resource": "plants_detail.json",
-    "sha256": "6f210e547ae91b5437dff6dcb0e92e89682e6036e4c0680e2adfe2d65a9de275",
-    "record_count": 1777
+    "sha256": "281e9140c3a5a61183c1e815c2dcb0e344686424a214939fbf48faa2f08796fe",
+    "record_count": 1778
   },
   "records": {
     "AAA0001": {
@@ -108703,6 +108703,70 @@
           "headline": "Nessuna tossicità segnalata",
           "active_compound_display": "Nessuno segnalato",
           "notes_en": "Nessuna fonte autorevole di tossicità trovata; trattato come non segnalato (la stima dell'LLM non è verificata da fonti).",
+          "human": {
+            "exposure": "Non è segnalata alcuna via di esposizione.",
+            "effect": "Non è segnalato alcun effetto tossico.",
+            "note": "In questo catalogo non è segnalata tossicità per l'uomo; ciò non prova che la pianta sia commestibile o innocua."
+          },
+          "dog": {
+            "exposure": "Non è segnalata alcuna via di esposizione.",
+            "effect": "Non è segnalato alcun effetto tossico.",
+            "note": "In questo catalogo non è segnalata tossicità per i cani; ciò non prova che la pianta sia commestibile o innocua."
+          },
+          "cat": {
+            "exposure": "Non è segnalata alcuna via di esposizione.",
+            "effect": "Non è segnalato alcun effetto tossico.",
+            "note": "In questo catalogo non è segnalata tossicità per i gatti; ciò non prova che la pianta sia commestibile o innocua."
+          }
+        }
+      }
+    },
+    "AAA1779": {
+      "source_hash": "518fcc64986de42eb6dbd67eaa4a4b22edf5d66226285c7dc7cf953f92da458f",
+      "fields": {
+        "common_name": "Esperidi",
+        "bloom_tip": "I fiori si aprono in primavera e all'inizio dell'estate, e il profumo è più intenso la sera.",
+        "description": "Le esperidi (genere Hesperis) sono piante biennali o perenni di breve durata della famiglia delle crucifere, originarie di Europa e Asia. Producono fusti ramificati di 30-90 cm, coronati da grappoli radi di fiori a quattro petali viola, lilla e bianchi, dalla primavera all'inizio dell'estate. I fiori emanano un profumo dolce, simile al chiodo di garofano, che si intensifica al crepuscolo: da qui il nome del gruppo. Prosperano in terreno fresco, umido e ben drenato, al sole o a mezz'ombra, e si autoseminano liberamente formando macchie da giardino rustico. Gli impollinatori visitano i fiori, e le piante si adattano a margini di prato, bordure e bordi di bosco.",
+        "history_text_short": "Da secoli le esperidi sono tra le favorite dei giardini di campagna europei, apprezzate per un profumo che si risveglia al crepuscolo. La parola greca hesperos, «sera», ha dato il nome al gruppo. Portate altrove come piante da giardino, alcune specie sono sfuggite alla coltivazione e oggi fioriscono lungo strade e margini di bosco lontano da casa.",
+        "history_text_long": "Molto prima che i giardinieri si dedicassero alle aiuole, le esperidi crescevano spontanee nei prati umidi, lungo le siepi e ai margini dei boschi di Europa e Asia. Le persone notarono ciò che le rendeva diverse: mentre molti fiori sfioriscono al calar della sera, questi diventano più profumati man mano che la luce cala. Questa abitudine ha dato il nome Hesperis, dal greco hesperos, «sera», l'ora in cui il dolce profumo di chiodi di garofano si diffonde nel giardino.\n\nNei giardini di campagna europei, le esperidi divennero una favorita affidabile e d'altri tempi. Si piantavano accanto alle porte e alle panchine perché l'aria della sera portasse il profumo a chi sedeva fuori dopo il lavoro. Le loro spighe radi viola, lilla e bianche stavano bene con rose, digitali e altre piante da giardino rustico, e poiché si autosemina con tanta facilità, un solo impianto tornava anno dopo anno senza molta fatica.\n\nI fiori sono spesso scambiati per il phlox da giardino, ma uno sguardo attento li distingue: le esperidi hanno quattro petali, come si addice alle crucifere, mentre i phlox ne hanno cinque. Questo piccolo dettaglio è una lezione amata dai botanici dilettanti.\n\nQuando i giardinieri spostarono le piante da un continente all'altro, anche le esperidi viaggiarono. Diverse specie si trovarono così bene in nuovi paesi da sfuggire alla coltivazione e naturalizzarsi lungo strade, fiumi e margini di bosco, dove in alcuni luoghi competono con i fiori selvatici autoctoni. Questo successo ricorda quanto siano vigorose queste piante e perché in alcune regioni si consiglia di eliminare i fiori appassiti prima che i semi maturino.\n\nOggi le esperidi si coltivano ancora per lo stesso motivo di secoli fa: una passeggiata serale a fine primavera, una nuvola di colori delicati e un profumo che sembra appartenere al crepuscolo.",
+        "name_origin": "Il nome del genere Hesperis deriva dal greco hesperos, «sera», perché i fiori rilasciano il profumo più intenso al crepuscolo.",
+        "symbolism_story": "Poiché le esperidi offrono il loro profumo più dolce quando la luce del giorno svanisce, i giardinieri le associano da tempo alle sere, alla quieta riflessione e ai giardini del ricordo. Piantate accanto alla porta di un cottage, rappresentano il piacere di rallentare a fine giornata.",
+        "flower_meaning": "Sera",
+        "fragrance": {
+          "notes": "Dolce profumo serale, simile al chiodo di garofano"
+        },
+        "uses_list": [
+          {
+            "text": "Giardini rustici, bordure e impianti in stile prato"
+          },
+          {
+            "text": "Profumo serale vicino a patii e zone relax"
+          },
+          {
+            "text": "Nettare per api e farfalle in primavera"
+          },
+          {
+            "text": "Steli profumati per mazzi informali"
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Sera",
+            "description": "Il suo profumo si risveglia al crepuscolo, legando il fiore alle ore del tramonto."
+          },
+          {
+            "keyword": "Nostalgia",
+            "description": "Un classico del giardino rustico che richiama i giardini di un tempo."
+          },
+          {
+            "keyword": "Profumo",
+            "description": "Un fiore ricordato più per il profumo che per l'appariscenza."
+          }
+        ],
+        "toxicity": {
+          "headline": "Nessuna tossicità segnalata",
+          "active_compound_display": "Nessuno segnalato",
+          "notes_en": "Nessuna fonte autorevole sulla tossicità trovata; trattata come «non segnalata» (la stima del LLM non è verificata da fonti).",
           "human": {
             "exposure": "Non è segnalata alcuna via di esposizione.",
             "effect": "Non è segnalato alcun effetto tossico.",

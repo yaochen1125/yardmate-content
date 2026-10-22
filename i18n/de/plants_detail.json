@@ -3,8 +3,8 @@
   "locale": "de",
   "source": {
     "resource": "plants_detail.json",
-    "sha256": "6f210e547ae91b5437dff6dcb0e92e89682e6036e4c0680e2adfe2d65a9de275",
-    "record_count": 1777
+    "sha256": "281e9140c3a5a61183c1e815c2dcb0e344686424a214939fbf48faa2f08796fe",
+    "record_count": 1778
   },
   "records": {
     "AAA0001": {
@@ -108703,6 +108703,70 @@
             "exposure": "Es ist kein Expositionsweg gemeldet.",
             "effect": "Es ist keine toxische Wirkung gemeldet.",
             "note": "In diesem Katalog ist für Katzen keine Giftigkeit gemeldet; das ist kein Beleg dafür, dass die Pflanze essbar oder harmlos ist."
+          }
+        }
+      }
+    },
+    "AAA1779": {
+      "source_hash": "518fcc64986de42eb6dbd67eaa4a4b22edf5d66226285c7dc7cf953f92da458f",
+      "fields": {
+        "common_name": "Nachtviolen",
+        "bloom_tip": "Die Blüten öffnen sich im Frühling und Frühsommer, am Abend ist der Duft am stärksten.",
+        "description": "Nachtviolen (Gattung Hesperis) sind zwei- oder kurzlebig mehrjährige Kreuzblütler, die in Europa und Asien heimisch sind. Sie treiben verzweigte, 30 bis 90 cm hohe Stängel mit lockeren Blütenständen aus vierblättrigen Blüten in Violett, Lila und Weiß, von Frühling bis Frühsommer. Die Blüten verströmen einen süßen, nelkenartigen Duft, der in der Dämmerung stärker wird – daher stammt der Name der Gruppe. Sie gedeihen in kühlem, feuchtem, gut durchlässigem Boden in Sonne oder Halbschatten und säen sich reichlich zu Bauerngarten-Teppichen aus. Bestäuber besuchen die Blüten; die Pflanzen eignen sich für Wiesenränder, Beete und Gehölzsäume.",
+        "history_text_short": "Seit Jahrhunderten sind Nachtviolen beliebte Bauerngartenpflanzen in Europa, geschätzt für einen Duft, der in der Dämmerung erwacht. Das griechische Wort hesperos für „Abend“ gab der Gruppe ihren Namen. Als Gartenpflanzen in die Welt getragen, sind einige Arten über den Zaun gesprungen und blühen heute an Straßenrändern und Waldsäumen fern der Heimat.",
+        "history_text_long": "Lange bevor Gärtner ihre Beete sorgfältig planten, wuchsen Nachtviolen wild auf feuchten Wiesen, an Hecken und Waldrändern in Europa und Asien. Den Menschen fiel auf, was sie besonders macht: Während viele Blumen in der Dämmerung verblassen, duften diese mit sinkendem Licht immer stärker. Diese Eigenschaft prägte den Namen Hesperis, abgeleitet vom griechischen hesperos, „Abend“ – der Stunde, in der der süße, nelkenartige Duft durch den Garten zieht.\n\nIn europäischen Bauerngärten wurden Nachtviolen zu einem zuverlässigen, altmodischen Liebling. Man pflanzte sie neben Türen und Gartenbänke, damit die Abendluft ihren Duft zu allen trug, die nach getaner Arbeit draußen saßen. Ihre lockeren Ähren in Violett, Lila und Weiß passten gut zu Rosen, Fingerhut und anderen Bauerngartenpflanzen, und weil sie sich so bereitwillig selbst aussäen, kehrte eine einzige Pflanzung Jahr für Jahr ohne viel Mühe zurück.\n\nOft werden die Blüten mit Gartenphlox verwechselt, doch ein genauer Blick klärt es: Nachtviolen haben vier Blütenblätter, wie es sich für Kreuzblütler gehört, Phlox dagegen fünf. Dieses kleine Detail ist bei Hobbybotanikern und Kräutersammlern eine beliebte Lektion.\n\nAls Gärtner Pflanzen zwischen den Kontinenten austauschten, reisten auch Nachtviolen mit. Mehrere Arten fühlten sich in neuen Ländern so wohl, dass sie aus der Kultur verwilderten und sich an Straßenrändern, Flussufern und Waldsäumen einbürgerten, wo sie stellenweise heimischen Wildblumen Konkurrenz machen. Dieser Erfolg zeigt, wie vital diese Pflanzen sind, und warum Gärtner in manchen Regionen die Blüten vor der Samenreife entfernen sollten.\n\nHeute pflanzt man Nachtviolen aus demselben Grund wie vor Jahrhunderten: ein Abendspaziergang im Spätfrühling, eine Wolke aus zarten Farben und ein Duft, der zur Dämmerung zu gehören scheint.",
+        "name_origin": "Der Gattungsname Hesperis stammt vom griechischen hesperos, „Abend“, weil die Blüten ihren stärksten Duft in der Dämmerung abgeben.",
+        "symbolism_story": "Weil Nachtviolen ihren süßesten Duft verströmen, wenn das Tageslicht schwindet, verbinden Gärtner sie seit jeher mit Abenden, stiller Besinnung und erinnerten Gärten. An der Tür eines Landhauses gepflanzt, stehen sie für die Freude, am Ende des Tages innezuhalten.",
+        "flower_meaning": "Abend",
+        "fragrance": {
+          "notes": "Süßer, nelkenartiger Abendduft"
+        },
+        "uses_list": [
+          {
+            "text": "Bauerngärten, Beete und wiesenartige Pflanzungen"
+          },
+          {
+            "text": "Abendlicher Duft an Terrassen und Sitzplätzen"
+          },
+          {
+            "text": "Nektar für Bienen und Schmetterlinge im Frühling"
+          },
+          {
+            "text": "Duftende Schnittblumen für lockere Sträuße"
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Abend",
+            "description": "Ihr Duft erwacht in der Dämmerung und verbindet die Blume mit den Stunden des Zwielichts."
+          },
+          {
+            "keyword": "Nostalgie",
+            "description": "Ein Klassiker des Bauerngartens, der an altmodische Gärten erinnert."
+          },
+          {
+            "keyword": "Duft",
+            "description": "Eine Blume, an die man sich eher wegen ihres Dufts als wegen ihrer Pracht erinnert."
+          }
+        ],
+        "toxicity": {
+          "headline": "Keine Giftigkeit gemeldet",
+          "active_compound_display": "Keine gemeldet",
+          "notes_en": "Keine verlässliche Giftigkeitsangabe gefunden; als „nicht gemeldet“ behandelt (LLM-Schätzung ist nicht quellenverifiziert).",
+          "human": {
+            "exposure": "Es wird kein Expositionsweg gemeldet.",
+            "effect": "Es wird keine toxische Wirkung gemeldet.",
+            "note": "Für Menschen wird in diesem Katalog keine Giftigkeit gemeldet; das ist kein Beleg dafür, dass die Pflanze essbar oder unbedenklich ist."
+          },
+          "dog": {
+            "exposure": "Es wird kein Expositionsweg gemeldet.",
+            "effect": "Es wird keine toxische Wirkung gemeldet.",
+            "note": "Für Hunde wird in diesem Katalog keine Giftigkeit gemeldet; das ist kein Beleg dafür, dass die Pflanze essbar oder unbedenklich ist."
+          },
+          "cat": {
+            "exposure": "Es wird kein Expositionsweg gemeldet.",
+            "effect": "Es wird keine toxische Wirkung gemeldet.",
+            "note": "Für Katzen wird in diesem Katalog keine Giftigkeit gemeldet; das ist kein Beleg dafür, dass die Pflanze essbar oder unbedenklich ist."
           }
         }
       }

@@ -3,8 +3,8 @@
   "locale": "es",
   "source": {
     "resource": "plants_detail.json",
-    "sha256": "6f210e547ae91b5437dff6dcb0e92e89682e6036e4c0680e2adfe2d65a9de275",
-    "record_count": 1777
+    "sha256": "281e9140c3a5a61183c1e815c2dcb0e344686424a214939fbf48faa2f08796fe",
+    "record_count": 1778
   },
   "records": {
     "AAA0001": {
@@ -108717,6 +108717,70 @@
             "exposure": "No se notifica ninguna vía de exposición.",
             "effect": "No se notifica ningún efecto tóxico.",
             "note": "En este catálogo no se notifica toxicidad para gatos; esto no es prueba de que la planta sea comestible o inocua."
+          }
+        }
+      }
+    },
+    "AAA1779": {
+      "source_hash": "518fcc64986de42eb6dbd67eaa4a4b22edf5d66226285c7dc7cf953f92da458f",
+      "fields": {
+        "common_name": "Julianas",
+        "bloom_tip": "Las flores se abren en primavera y principios del verano, y su aroma es más intenso por la tarde-noche.",
+        "description": "Las julianas (género Hesperis) son plantas bienales o perennes de vida corta de la familia de las crucíferas, originarias de Europa y Asia. Producen tallos ramificados de 30 a 90 cm coronados por racimos sueltos de flores de cuatro pétalos en morado, lila y blanco, de primavera a principios del verano. Las flores desprenden un perfume dulce, parecido al clavo, que se intensifica al anochecer, de ahí el nombre del grupo. Prosperan en suelo fresco, húmedo y bien drenado, a pleno sol o en semisombra, y se resiembran con facilidad formando masas de jardín rústico. Los polinizadores visitan las flores, y las plantas sirven para bordes de prado, parterres y linderos de bosque.",
+        "history_text_short": "Durante siglos, las julianas han sido favoritas de los jardines rústicos de Europa, apreciadas por un perfume que despierta al anochecer. La palabra griega hesperos, «tarde», dio nombre al grupo. Llevadas a otros lugares como plantas de jardín, algunas especies saltaron la valla y hoy florecen en cunetas y linderos de bosque lejos de casa.",
+        "history_text_long": "Mucho antes de que los jardineros se preocuparan por los parterres, las julianas crecían silvestres en prados húmedos, setos y linderos de bosque de Europa y Asia. La gente notó lo que las hacía distintas: mientras muchas flores se apagan con el crepúsculo, estas se vuelven más fragantes a medida que baja la luz. Esa costumbre dio el nombre Hesperis, del griego hesperos, «tarde», la hora en que el dulce aroma a clavo se extiende por el jardín.\n\nEn los jardines rústicos europeos, las julianas se convirtieron en una favorita fiable y de aire antiguo. Se plantaban junto a las puertas y los bancos para que el aire del atardecer llevara su perfume a quien se sentaba fuera tras la jornada. Sus espigas sueltas de flores moradas, lilas y blancas combinaban bien con rosales, digitales y otras plantas de jardín rústico, y como se resiembran con tanta facilidad, una sola plantación volvía año tras año sin demasiado esfuerzo.\n\nSuelen confundirse con el flox de jardín, pero una mirada atenta las distingue: las julianas tienen cuatro pétalos, como corresponde a las crucíferas, mientras que los floxes tienen cinco. Este pequeño detalle es una lección favorita de botánicos aficionados.\n\nCuando los jardineros llevaron plantas de un continente a otro, las julianas viajaron también. Varias especies se sintieron tan a gusto en nuevos países que escaparon del cultivo y se naturalizaron en cunetas, riberas y linderos de bosque, donde en algunos lugares compiten con las flores silvestres nativas. Ese éxito recuerda lo vigorosas que son estas plantas y por qué en algunas regiones se aconseja cortar las flores marchitas antes de que maduren las semillas.\n\nHoy se siguen cultivando las julianas por la misma razón que hace siglos: un paseo al atardecer a finales de primavera, una nube de colores suaves y un perfume que parece pertenecer al crepúsculo.",
+        "name_origin": "El nombre del género Hesperis procede del griego hesperos, «tarde», porque las flores liberan su fragancia más intensa al anochecer.",
+        "symbolism_story": "Como las julianas dan su perfume más dulce cuando se apaga la luz del día, los jardineros las han asociado desde siempre con las tardes, la reflexión tranquila y los jardines recordados. Plantadas junto a la puerta de una casa de campo, representan el placer de detenerse al final del día.",
+        "flower_meaning": "Atardecer",
+        "fragrance": {
+          "notes": "Perfume vespertino dulce, parecido al clavo"
+        },
+        "uses_list": [
+          {
+            "text": "Jardines rústicos, parterres y plantaciones de estilo pradera"
+          },
+          {
+            "text": "Perfume vespertino junto a patios y zonas de descanso"
+          },
+          {
+            "text": "Néctar para abejas y mariposas en primavera"
+          },
+          {
+            "text": "Tallos perfumados para ramos informales"
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Atardecer",
+            "description": "Su perfume despierta al anochecer y une la flor con las horas del crepúsculo."
+          },
+          {
+            "keyword": "Nostalgia",
+            "description": "Un clásico del jardín rústico que evoca jardines de otros tiempos."
+          },
+          {
+            "keyword": "Fragancia",
+            "description": "Una flor que se recuerda más por su aroma que por su vistosidad."
+          }
+        ],
+        "toxicity": {
+          "headline": "No se ha notificado toxicidad",
+          "active_compound_display": "Ninguno notificado",
+          "notes_en": "No se encontró una fuente fiable sobre toxicidad; se trata como «no notificada» (la estimación del LLM no está verificada por fuentes).",
+          "human": {
+            "exposure": "No se notifica ninguna vía de exposición.",
+            "effect": "No se notifica ningún efecto tóxico.",
+            "note": "En este catálogo no se notifica toxicidad para las personas; esto no demuestra que la planta sea comestible o inofensiva."
+          },
+          "dog": {
+            "exposure": "No se notifica ninguna vía de exposición.",
+            "effect": "No se notifica ningún efecto tóxico.",
+            "note": "En este catálogo no se notifica toxicidad para los perros; esto no demuestra que la planta sea comestible o inofensiva."
+          },
+          "cat": {
+            "exposure": "No se notifica ninguna vía de exposición.",
+            "effect": "No se notifica ningún efecto tóxico.",
+            "note": "En este catálogo no se notifica toxicidad para los gatos; esto no demuestra que la planta sea comestible o inofensiva."
           }
         }
       }
