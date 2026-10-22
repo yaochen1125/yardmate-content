@@ -61,6 +61,17 @@ cd "$(dirname "$0")"
 
 run() { if [[ $DRY_RUN -eq 1 ]]; then echo "[dry-run] $*"; else "$@"; fi; }
 
+# --- 0-) 发布前先拉最新（只快进）：服务器的每周新合集任务会往本仓库提交并发布 explore_themes + 译文
+#     （catalog-promote-tool/weekly_collection.py）。本地克隆落后还上传 = 把线上本周合集盖回旧版。
+#     拉不下（本地改动挡住快进 / 和服务器分叉）→ 停，什么都不传。
+if [[ $DRY_RUN -eq 0 ]]; then
+  echo "==> 发布前拉最新 yardmate-content（只快进）"
+  if ! git pull -q --ff-only origin main; then
+    echo "FATAL: git pull --ff-only origin main 失败（本地改动挡住快进，或和服务器分叉了），没有上传任何东西" >&2
+    exit 1
+  fi
+fi
+
 # --- 0) i18n overlay freshness gate ---
 # explore_themes 的 overlay 在 App 端按 plants[] 下标对齐英文母本，翻译一过期就
 # 静默错位（圣诞玫瑰挂银杏的"活化石广岛"）。任一 overlay 的 source.sha256 不等于
@@ -177,8 +188,11 @@ else
   elif [[ -n "$(git status --porcelain -- "${GIT_FILES[@]}" "${LUNAR_DIR}" "${DEX_DIR}" i18n)" ]]; then
     git add -- "${GIT_FILES[@]}" "${LUNAR_DIR}" "${DEX_DIR}" i18n
     git commit -m "content: publish $(date -u +%Y-%m-%dT%H:%MZ)"
-    # GitHub 账号封禁期：真源是自建 backup（origin 必 403，裸 push 会中断整条管线）。
-    git push backup HEAD:main
+    # origin(GitHub) 是真源：服务器（autopilot / 每周新合集）靠它和本机对齐，只推 backup 会让两边分叉。
+    # backup(自建 Gitea) 是镜像。两边推失败都只告警（内容已经发到 R2）。
+    git push -q origin HEAD:main \
+      || echo "    ⚠️ origin push 失败——已本地 commit；先 git pull --ff-only origin main 再 git push origin main"
+    git push -q backup HEAD:main 2>/dev/null || echo "    ℹ️ backup（Gitea 镜像）没推上"
   else
     echo "    no content changes to push"
   fi

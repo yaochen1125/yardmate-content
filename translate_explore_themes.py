@@ -242,7 +242,8 @@ def main():
                     with open(cache_path_for(locale, t), "w") as f:
                         json.dump(kept, f, ensure_ascii=False)
         todo = [t for t in themes if t["id"] not in results]
-        with concurrent.futures.ThreadPoolExecutor(max_workers=8) as pool:
+        # claude CLI 每个调用是一个进程，服务器 systemd 限 2G 内存 → 并发压到 3
+        with concurrent.futures.ThreadPoolExecutor(max_workers=3 if CALL is call_claude else 8) as pool:
             futs = [pool.submit(translate_theme, locale, t) for t in todo]
             for fut in concurrent.futures.as_completed(futs):
                 tid, fields = fut.result()
