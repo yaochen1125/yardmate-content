@@ -15,13 +15,19 @@ Run: python3 translate_explore_themes.py            # all locales
          # theme ids it lacks (weekly job: it only appends themes, and the
          # server has no .translate_cache — without this flag the original
          # 30 would be re-machine-translated every week)
-Requires: ~/.config/yardmate-api/deepseek.env with DEEPSEEK_API_KEY.
+     python3 translate_explore_themes.py --only-missing --engine claude
+         # translate with the local `claude` CLI (subscription, no tools) instead
+         # of DeepSeek — the weekly server job uses this, so no DeepSeek key
+         # has to live on the production box
+Requires (default engine): ~/.config/yardmate-api/deepseek.env with DEEPSEEK_API_KEY.
 Resumable: per-(locale,theme) results cached in .translate_cache/; delete to redo.
 """
 import concurrent.futures
 import hashlib
 import json
 import os
+import shutil
+import subprocess
 import sys
 import time
 import urllib.request
@@ -64,10 +70,13 @@ def load_key():
     raise SystemExit("DEEPSEEK_API_KEY not found")
 
 
-API_KEY = load_key()
+API_KEY = None  # loaded on first DeepSeek call, so `--engine claude` runs without the key file
 
 
 def call_deepseek(system, user):
+    global API_KEY
+    if API_KEY is None:
+        API_KEY = load_key()
     body = json.dumps({
         "model": "deepseek-chat",
         "temperature": 1.3,
@@ -88,6 +97,24 @@ def call_deepseek(system, user):
     with urllib.request.urlopen(req, timeout=180) as resp:
         out = json.load(resp)
     return json.loads(out["choices"][0]["message"]["content"])
+
+
+def call_claude(system, user):
+    """`claude -p` with no tools / MCP / session (it can only answer text); returns the JSON object."""
+    exe = shutil.which("claude") or os.path.expanduser("~/.local/bin/claude")
+    cmd = [exe, "-p", "--model", "sonnet", "--tools", "", "--restricted",
+           "--strict-mcp-config", "--no-session-persistence"]
+    r = subprocess.run(cmd, input=system + "\n\n" + user, text=True, capture_output=True, timeout=600)
+    if r.returncode != 0:
+        raise RuntimeError(f"claude exit {r.returncode}: {(r.stderr or r.stdout)[-300:]}")
+    text = r.stdout
+    start, end = text.find("{"), text.rfind("}")
+    if start < 0 or end <= start:
+        raise ValueError(f"no JSON object in claude output: {text[:200]!r}")
+    return json.loads(text[start:end + 1])
+
+
+CALL = call_deepseek
 
 
 def translate_theme(locale, theme):
@@ -120,7 +147,7 @@ def translate_theme(locale, theme):
     last_err = None
     for attempt in range(4):
         try:
-            got = call_deepseek(SYSTEM.format(language=language), user)
+            got = CALL(SYSTEM.format(language=language), user)
             reasons = got.get("reasons")
             assert isinstance(reasons, list) and len(reasons) == n, f"reasons len {reasons and len(reasons)} != {n}"
             fields = {
@@ -150,8 +177,17 @@ def main():
     source_sha = hashlib.sha256(raw).hexdigest()
     data = json.loads(raw)
     themes = data["themes"]
+    global CALL
     args = sys.argv[1:]
     only_missing = "--only-missing" in args
+    engine = "deepseek"
+    if "--engine" in args:
+        i = args.index("--engine")
+        if i + 1 >= len(args) or args[i + 1] not in ("deepseek", "claude"):
+            raise SystemExit("--engine must be deepseek or claude")
+        engine = args[i + 1]
+        del args[i:i + 2]
+    CALL = call_claude if engine == "claude" else call_deepseek
     locales = [a for a in args if a != "--only-missing"] or list(LOCALES)
     unknown = [l for l in locales if l not in LOCALES]
     if unknown:
