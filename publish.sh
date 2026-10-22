@@ -42,6 +42,8 @@ DEX_DIR="dex"
 # git 白名单（jsDelivr 兜底用）：排除整包 plants_detail.json —— 它真源在 scripts/，只上传 R2、不进 content git。
 GIT_FILES=()
 for f in "${FILES[@]}"; do [[ "$f" == "plants_detail.json" ]] || GIT_FILES+=("$f"); done
+# 合集母本只进 git、不上传（App 只读 explore_themes.json）。不提交它 = 服务器每周任务用旧母本重建，把这边的改动回退
+GIT_FILES+=(explore_themes.md)
 
 DRY_RUN=0
 STAGING=0
@@ -66,9 +68,15 @@ run() { if [[ $DRY_RUN -eq 1 ]]; then echo "[dry-run] $*"; else "$@"; fi; }
 #     拉不下（本地改动挡住快进 / 和服务器分叉）→ 停，什么都不传。
 if [[ $DRY_RUN -eq 0 ]]; then
   echo "==> 发布前拉最新 yardmate-content（只快进）"
+  BEFORE_PULL="$(git rev-parse HEAD)"
   if ! git pull -q --ff-only origin main; then
     echo "FATAL: git pull --ff-only origin main 失败（本地改动挡住快进，或和服务器分叉了），没有上传任何东西" >&2
     exit 1
+  fi
+  if [[ $STAGING -eq 0 && "$(git rev-parse HEAD)" != "$BEFORE_PULL" ]]; then
+    # 手动两步（先 --staging 在 App 里看、再发 prod）时，这几条是 staging 那次没带上的
+    echo "    ⚠️ 这次拉到了新提交（staging 预览时还没有，比如服务器的每周新合集），会一起发到 prod："
+    git log --oneline "$BEFORE_PULL"..HEAD | sed 's/^/      /'
   fi
 fi
 
