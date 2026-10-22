@@ -10,13 +10,28 @@ a stale overlay silently attaches descriptions to the wrong plants
 
 Run: python3 translate_explore_themes.py            # all locales
      python3 translate_explore_themes.py zh-Hans    # one locale
-Requires: ~/.config/yardmate-api/deepseek.env with DEEPSEEK_API_KEY.
-Resumable: per-(locale,theme) results cached in .translate_cache/; delete to redo.
+     python3 translate_explore_themes.py --engine claude
+         # translate with the local `claude` CLI (subscription, no tools) instead
+         # of DeepSeek — the weekly server job uses this, so no DeepSeek key
+         # has to live on the production box
+Requires (default engine): ~/.config/yardmate-api/deepseek.env with DEEPSEEK_API_KEY.
+
+Only what changed is translated. A theme's existing overlay entry is kept when it
+is provably current: the overlay was made from this exact explore_themes.json
+(source.sha256 matches), or from the committed HEAD version and this theme's
+English text is identical to HEAD's. Everything else (new themes, edited themes)
+is translated — so the weekly job only pays for the new collection, and an edited
+theme can never keep a stale, index-misaligned translation. (`--only-missing` is
+accepted for compatibility; this is now always the behaviour.)
+Resumable: results cached in .translate_cache/ keyed by (locale, theme id, hash of
+the English text being translated); delete to redo.
 """
 import concurrent.futures
 import hashlib
 import json
 import os
+import shutil
+import subprocess
 import sys
 import time
 import urllib.request
@@ -59,10 +74,13 @@ def load_key():
     raise SystemExit("DEEPSEEK_API_KEY not found")
 
 
-API_KEY = load_key()
+API_KEY = None  # loaded on first DeepSeek call, so `--engine claude` runs without the key file
 
 
 def call_deepseek(system, user):
+    global API_KEY
+    if API_KEY is None:
+        API_KEY = load_key()
     body = json.dumps({
         "model": "deepseek-chat",
         "temperature": 1.3,
@@ -85,12 +103,51 @@ def call_deepseek(system, user):
     return json.loads(out["choices"][0]["message"]["content"])
 
 
+def call_claude(system, user):
+    """`claude -p` with no tools / MCP / session (it can only answer text); returns the JSON object."""
+    exe = shutil.which("claude") or os.path.expanduser("~/.local/bin/claude")
+    cmd = [exe, "-p", "--model", "sonnet", "--tools", "", "--restricted",
+           "--strict-mcp-config", "--no-session-persistence"]
+    r = subprocess.run(cmd, input=system + "\n\n" + user, text=True, capture_output=True, timeout=600)
+    if r.returncode != 0:
+        raise RuntimeError(f"claude exit {r.returncode}: {(r.stderr or r.stdout)[-300:]}")
+    text = r.stdout
+    start, end = text.find("{"), text.rfind("}")
+    if start < 0 or end <= start:
+        raise ValueError(f"no JSON object in claude output: {text[:200]!r}")
+    return json.loads(text[start:end + 1])
+
+
+CALL = call_deepseek
+
+
+def theme_key(theme):
+    """Hash of exactly the English text that gets translated (not addedAt / number)."""
+    src = {"title": theme["title"], "description": theme["description"], "intro": theme["intro"],
+           "plants": [[p["scientificName"], p["commonName"], p["reason"]] for p in theme["plants"]]}
+    return hashlib.sha256(json.dumps(src, ensure_ascii=False, sort_keys=True).encode()).hexdigest()[:16]
+
+
+def cache_path_for(locale, theme):
+    return os.path.join(CACHE_DIR, f"{locale}__{theme['id']}__{theme_key(theme)}.json")
+
+
+def head_source():
+    """(sha256, {id: theme}) of the committed HEAD explore_themes.json, or (None, {})."""
+    r = subprocess.run(["git", "-C", ROOT, "show", "HEAD:explore_themes.json"], capture_output=True)
+    if r.returncode != 0:
+        return None, {}
+    return hashlib.sha256(r.stdout).hexdigest(), {t["id"]: t for t in json.loads(r.stdout)["themes"]}
+
+
 def translate_theme(locale, theme):
     """One theme -> localized fields dict. Validates shape; retries on failure."""
-    cache_path = os.path.join(CACHE_DIR, f"{locale}__{theme['id']}.json")
+    cache_path = cache_path_for(locale, theme)
     if os.path.exists(cache_path):
         with open(cache_path) as f:
-            return theme["id"], json.load(f)
+            cached = json.load(f)
+        if len(cached.get("plants") or []) == len(theme["plants"]):
+            return theme["id"], cached
 
     language = LOCALES[locale]
     payload = {
@@ -115,7 +172,7 @@ def translate_theme(locale, theme):
     last_err = None
     for attempt in range(4):
         try:
-            got = call_deepseek(SYSTEM.format(language=language), user)
+            got = CALL(SYSTEM.format(language=language), user)
             reasons = got.get("reasons")
             assert isinstance(reasons, list) and len(reasons) == n, f"reasons len {reasons and len(reasons)} != {n}"
             fields = {
@@ -145,13 +202,49 @@ def main():
     source_sha = hashlib.sha256(raw).hexdigest()
     data = json.loads(raw)
     themes = data["themes"]
-    locales = sys.argv[1:] or list(LOCALES)
+    global CALL
+    args = sys.argv[1:]
+    engine = "deepseek"
+    if "--engine" in args:
+        i = args.index("--engine")
+        if i + 1 >= len(args) or args[i + 1] not in ("deepseek", "claude"):
+            raise SystemExit("--engine must be deepseek or claude")
+        engine = args[i + 1]
+        del args[i:i + 2]
+    CALL = call_claude if engine == "claude" else call_deepseek
+    locales = [a for a in args if a != "--only-missing"] or list(LOCALES)
+    unknown = [l for l in locales if l not in LOCALES]
+    if unknown:
+        raise SystemExit(f"unknown locale(s): {unknown}")
+
+    head_sha, head_themes = head_source()
 
     for locale in locales:
         t0 = time.time()
+        out_path = os.path.join(ROOT, "i18n", locale, "explore_themes.json")
         results = {}
-        with concurrent.futures.ThreadPoolExecutor(max_workers=8) as pool:
-            futs = [pool.submit(translate_theme, locale, t) for t in themes]
+        if os.path.exists(out_path):
+            with open(out_path) as f:
+                overlay = json.load(f)
+            made_from = overlay.get("source", {}).get("sha256")
+            existing = overlay["fields"]["themes"]
+            for t in themes:
+                kept = existing.get(t["id"])
+                if not kept or len(kept.get("plants") or []) != len(t["plants"]):
+                    continue
+                head_t = head_themes.get(t["id"])
+                current = made_from == source_sha or (
+                    made_from is not None and made_from == head_sha
+                    and head_t is not None and theme_key(head_t) == theme_key(t))
+                if current:
+                    results[t["id"]] = kept
+                    os.makedirs(CACHE_DIR, exist_ok=True)  # so a rerun before commit still hits
+                    with open(cache_path_for(locale, t), "w") as f:
+                        json.dump(kept, f, ensure_ascii=False)
+        todo = [t for t in themes if t["id"] not in results]
+        # claude CLI 每个调用是一个进程，服务器 systemd 限 2G 内存 → 并发压到 3
+        with concurrent.futures.ThreadPoolExecutor(max_workers=3 if CALL is call_claude else 8) as pool:
+            futs = [pool.submit(translate_theme, locale, t) for t in todo]
             for fut in concurrent.futures.as_completed(futs):
                 tid, fields = fut.result()
                 results[tid] = fields
@@ -163,11 +256,10 @@ def main():
             "source": {"resource": "explore_themes.json", "sha256": source_sha},
             "fields": {"themes": ordered},
         }
-        out_path = os.path.join(ROOT, "i18n", locale, "explore_themes.json")
         with open(out_path, "w") as f:
             json.dump(out, f, ensure_ascii=False, indent=1)
             f.write("\n")
-        print(f"{locale}: {len(ordered)} themes in {time.time()-t0:.0f}s -> {out_path}")
+        print(f"{locale}: {len(ordered)} themes ({len(todo)} translated) in {time.time()-t0:.0f}s -> {out_path}")
 
 
 if __name__ == "__main__":
