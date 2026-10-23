@@ -3,8 +3,8 @@
   "locale": "vi",
   "source": {
     "resource": "plants_detail.json",
-    "sha256": "6a2f9a06d96bfecaac3a2976cfcc960c840a6507ab2ec994253652268afe1ef6",
-    "record_count": 1783
+    "sha256": "085eade3b9191c7d99c1e031793bb8cc996a77a128bb88331a4c04bbb822f487",
+    "record_count": 1785
   },
   "records": {
     "AAA0001": {
@@ -109051,6 +109051,143 @@
             "exposure": "Chưa ghi nhận đường tiếp xúc nào.",
             "effect": "Chưa ghi nhận tác động độc nào.",
             "note": "Danh mục này chưa ghi nhận độc tính đối với mèo; điều đó không có nghĩa cây ăn được hay vô hại."
+          }
+        }
+      }
+    },
+    "AAA1785": {
+      "source_hash": "fc36c0be8cd415432ead9dfd25faaaf1e7658557f968bfe98d620e6e9ec3dc66",
+      "fields": {
+        "common_name": "Đỗ quyên Dauria",
+        "bloom_tip": "Cây này nở hoa vào mùa xuân, với những bông hoa rực rỡ thu hút côn trùng thụ phấn.",
+        "description": "Đỗ quyên Dauria là loài cây bụi nhỏ, bán thường xanh, có nguồn gốc từ vùng Đông Bắc Á lạnh giá, nổi tiếng với những bông hoa màu tím hồng nở rất sớm vào đầu xuân, thường trước khi lá nhú và khi tuyết vẫn còn đọng lại. Dáng cây gọn, cành mảnh cùng những chiếc lá nhỏ, dai và thơm rất hợp với vườn đá và rìa rừng. Cây cực kỳ chịu lạnh, ưa đất chua, thoát nước tốt, giàu mùn, nơi bóng râm nhẹ và được che chắn khỏi gió mạnh.",
+        "history_text_short": "Được đặt tên theo Dauria, vùng biên giới lạnh giá phía đông hồ Baikal, đỗ quyên Dauria nở hoa tím hồng khi tuyết còn chưa tan. Ở đông bắc Trung Quốc, những sườn đồi đầy hoa báo hiệu mùa xuân, và khả năng chịu lạnh của nó đã giúp người làm vườn tạo ra các giống lai khỏe, ra hoa sớm.",
+        "history_text_long": "Đỗ quyên Dauria lấy tên từ Dauria, vùng đất núi non phía đông hồ Baikal, nơi Nga, Mông Cổ và Trung Quốc gặp nhau. Cây mọc hoang ở Siberia, vùng Viễn Đông của Nga, Mông Cổ, đông bắc Trung Quốc, Triều Tiên và Nhật Bản, thường trên sườn đá và trong những cánh rừng thưa thông rụng lá và bạch dương. Loài này được khoa học mô tả vào thế kỷ XVIII và là một trong những loài đỗ quyên đầu tiên từ vùng lạnh này đến được các khu vườn châu Âu, nơi thói quen nở hoa vào những ngày ấm đầu tiên của năm khiến người ta bất ngờ thích thú. Ở quê hương, nó là dấu hiệu quen thuộc của mùa xuân: tại đông bắc Trung Quốc, mùa hoa nở rộ trên các sườn núi vào tháng Tư và tháng Năm được tổ chức như mùa “hoa đỗ quyên Hưng An”, và cây có biệt danh “Mãn Sơn Hồng”, nghĩa là “đỏ khắp núi đồi”. Y học cổ truyền Đông Á từng dùng lá của nó trong trà và các bài thuốc chữa ho và khó chịu ở ngực, và tán lá thơm được người địa phương coi trọng; tuy nhiên cây chứa grayanotoxin và không bao giờ được xem nhẹ như thực phẩm hay thuốc. Về sau người làm vườn tạo ra từ nó các giống lai chịu lạnh, như nhóm “PJM” ra hoa sớm, mang đến cho người trồng ở vùng lạnh những cây đỗ quyên vượt qua được mùa đông khắc nghiệt. Dáng cây bền bỉ, cành mảnh và hoa nở sớm đã khiến nó trở thành biểu tượng của sức chịu đựng và lời hứa về mùa xuân ở miền bắc.",
+        "name_origin": "“Rhododendron” bắt nguồn từ tiếng Hy Lạp rhodon (hoa hồng) và dendron (cây). Tên loài “dauricum” chỉ Dauria, vùng phía đông hồ Baikal nơi cây lần đầu được ghi nhận.",
+        "symbolism_story": "Khắp vùng Đông Bắc Á, đỗ quyên Dauria là bông hoa chứng tỏ mùa đông sắp qua. Những bông hoa tím hồng nở trên cành trơ trụi khi tuyết còn phủ mặt đất, nên người ta xem đó là dấu hiệu của sức chịu đựng và sự sống trở lại.",
+        "flower_meaning": "Bền bỉ",
+        "fragrance": {
+          "notes": "Lá có mùi nhựa thơm nhẹ, rõ hơn khi vò nát."
+        },
+        "uses_list": [
+          {
+            "text": "Cây bụi ra hoa đầu xuân cho vườn đá, rìa rừng và luống hoa ở vùng khí hậu lạnh."
+          },
+          {
+            "text": "Hoa nở sớm cung cấp mật cho ong và các loài thụ phấn khác khi hầu như chưa có hoa nào nở."
+          },
+          {
+            "text": "Lá có truyền thống sử dụng lâu đời trong y học dân gian Đông Á, nhưng cây có độc và không dùng tại nhà."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Bền bỉ",
+            "description": "Nở hoa xuyên qua những trận tuyết muộn, tượng trưng cho sự kiên cường trong hoàn cảnh khắc nghiệt."
+          },
+          {
+            "keyword": "Mùa xuân",
+            "description": "Một trong những loài hoa nở sớm nhất trong năm ở quê hương."
+          },
+          {
+            "keyword": "Cảnh báo",
+            "description": "Vẻ đẹp đi cùng độc tính, một chủ đề truyền thống của đỗ quyên."
+          }
+        ],
+        "toxicity": {
+          "headline": "Con người: trung bình · Thú cưng: trung bình",
+          "active_compound_display": "grayanotoxin",
+          "notes_en": "Cũng như các loài đỗ quyên khác, lá và hoa chứa grayanotoxin, ảnh hưởng đến tim và thần kinh nếu ăn phải.",
+          "human": {
+            "exposure": "Ăn phải lá và hoa.",
+            "effect": "Buồn nôn, nôn, chảy nước dãi, huyết áp thấp, nhịp tim chậm và yếu người.",
+            "note": "Cũng như các loài đỗ quyên khác, lá và hoa chứa grayanotoxin, ảnh hưởng đến tim và thần kinh nếu ăn phải.",
+            "symptoms": [
+              "Buồn nôn.",
+              "Nôn.",
+              "Chảy nước dãi.",
+              "Huyết áp thấp.",
+              "Nhịp tim chậm.",
+              "Yếu người."
+            ]
+          },
+          "dog": {
+            "exposure": "Ăn phải lá và hoa.",
+            "effect": "Chảy nước dãi, nôn, tiêu chảy, yếu người và nhịp tim chậm.",
+            "note": "Cũng như các loài đỗ quyên khác, lá và hoa chứa grayanotoxin, ảnh hưởng đến tim và thần kinh nếu ăn phải.",
+            "symptoms": [
+              "Chảy nước dãi.",
+              "Nôn.",
+              "Tiêu chảy.",
+              "Yếu người.",
+              "Nhịp tim chậm."
+            ]
+          },
+          "cat": {
+            "exposure": "Ăn phải lá và hoa.",
+            "effect": "Chảy nước dãi, nôn, tiêu chảy, yếu người và nhịp tim chậm.",
+            "note": "Cũng như các loài đỗ quyên khác, lá và hoa chứa grayanotoxin, ảnh hưởng đến tim và thần kinh nếu ăn phải.",
+            "symptoms": [
+              "Chảy nước dãi.",
+              "Nôn.",
+              "Tiêu chảy.",
+              "Yếu người.",
+              "Nhịp tim chậm."
+            ]
+          }
+        }
+      }
+    },
+    "AAA1786": {
+      "source_hash": "5174af15a72e259fd4dfeceb8d658d80823d4e476d77ce456977390ae46cd047",
+      "fields": {
+        "common_name": "Diervilla",
+        "bloom_tip": "Hoa của cây nở từ tháng 6 đến tháng 8 và thu hút côn trùng.",
+        "description": "Diervilla (Diervilla lonicera) là loài cây bụi rụng lá, khỏe mạnh, đẻ chồi ngầm có nguồn gốc từ miền đông Bắc Mỹ, thường cao 90–120 cm, lan rộng bằng thân ngầm thành những khóm dày. Lá nhọn, có răng cưa, lúc mới nhú ánh màu đồng, sang hè xanh bóng và vào thu chuyển từ cam sang đỏ. Từ tháng 6 đến tháng 8, cây ra những chùm hoa nhỏ hình phễu, lúc nở màu vàng nhạt rồi dần chuyển sang cam và đỏ, thu hút ong nghệ và các loài thụ phấn khác. Chịu lạnh tốt ở vùng 3–5, chịu được đất khô, bóng râm và đất nghèo dinh dưỡng, phù hợp trồng viền luống, sườn dốc và các khu vườn bán tự nhiên.",
+        "history_text_short": "Được đặt tên để vinh danh bác sĩ phẫu thuật người Pháp Marin Diereville, người mang cây từ Acadia về châu Âu vào khoảng năm 1700, loài cây bụi Bắc Mỹ này từ lâu được trồng nhờ sức sống bền bỉ. Các dân tộc bản địa vùng Đông Bắc dùng lá và cành làm trà và nước rửa, ngày nay cây được ưa chuộng là cây bụi chịu lạnh, thân thiện với ong cho những nơi khó trồng.",
+        "history_text_long": "Diervilla có nguồn gốc từ các khu rừng, sườn đá và bãi trống ở miền đông Bắc Mỹ, từ Newfoundland và Saskatchewan xuống phía nam qua vùng Ngũ Đại Hồ và dọc dãy Appalachia. Tên chi vinh danh Marin Diereville, một bác sĩ phẫu thuật người Pháp đến Acadia vào đầu thế kỷ 18 và gửi mẫu vật cùng mô tả về cây cối nơi đây về châu Âu. Nhà thực vật học Joseph Pitton de Tournefort đặt tên chi theo ông, về sau Linnaeus xếp cây vào nhóm kim ngân thật trước khi nó được tách lại thành chi riêng.\n\nTrước khi các nhà thực vật học châu Âu để ý đến, các dân tộc bản địa vùng Đông Bắc, trong đó có người Abenaki nói tiếng Algonquin và người Ojibwe, đã biết đến loài cây này như một cây hữu ích của rừng. Nước hãm từ lá và cành được ghi nhận dùng làm nước rửa truyền thống và trà chữa những bệnh vặt, còn các bụi rậm của nó che chở cho gà gô, thỏ và hươu. Những công dụng này đến từ các ghi chép dân tộc thực vật học chứ không phải nghiên cứu lâm sàng hiện đại, và cây không được khuyến nghị dùng làm bài thuốc tại nhà.\n\nTrong vườn, cây nổi tiếng gần như không thể chết. Cây phát triển tốt trong đất khô, nhiều đá, bóng râm hoặc nén chặt, nơi những loài cây bụi khó tính hơn thất bại, và các khóm của nó giữ chặt sườn dốc chống xói mòn. Các vườn ươm bắt đầu bán rộng rãi vào thế kỷ 20, và những dòng chọn lọc có màu thu rực rỡ hơn đã trở nên phổ biến. Người làm vườn cây bản địa quý mật hoa nở muộn của nó, nuôi ong nghệ, ong bản địa và ngài diều hâu chim ruồi, loài có sâu non cũng ăn lá cây.",
+        "name_origin": "Tên chi Diervilla vinh danh Marin Diereville, bác sĩ phẫu thuật người Pháp đã mang cây từ Acadia về châu Âu vào khoảng năm 1700. Tên loài lonicera nghĩa là “giống kim ngân”, theo tên nhà thực vật học người Đức Adam Lonitzer, vì lá mọc đối và hoa hình ống giống kim ngân thật.",
+        "symbolism_story": "Vì hoa đổi từ vàng nhạt sang cam rồi đỏ ngay trên cùng một cành, Diervilla trở thành biểu tượng của sự kiên cường và đổi thay. Khả năng chiếm lĩnh vùng đất đá bỏ hoang khiến nó là biểu tượng thầm lặng của sự bền bỉ.",
+        "flower_meaning": "Kiên cường",
+        "uses_list": [
+          {
+            "text": "Cây bụi rụng lá khỏe mạnh cho viền luống, hàng rào và trồng mảng, lá thu nhiều màu sắc"
+          },
+          {
+            "text": "Hoa mùa hè nuôi ong nghệ, ong bản địa và ngài diều hâu chim ruồi"
+          },
+          {
+            "text": "Bụi rậm che chở và cung cấp thức ăn cho chim và thú nhỏ; chồi ngầm giúp giữ ổn định sườn dốc"
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Kiên cường",
+            "description": "Phát triển trên đất nghèo, khô và bóng râm nơi các cây bụi khác thất bại."
+          },
+          {
+            "keyword": "Màu sắc đổi thay",
+            "description": "Hoa chuyển từ vàng sang cam và đỏ khi già đi."
+          }
+        ],
+        "toxicity": {
+          "headline": "Không có báo cáo về độc tính",
+          "active_compound_display": "Không có báo cáo",
+          "notes_en": "Không tìm thấy nguồn đáng tin cậy về độc tính; được coi là chưa có báo cáo (ước tính của LLM chưa được nguồn xác minh).",
+          "human": {
+            "exposure": "Không có báo cáo về đường phơi nhiễm nào.",
+            "effect": "Không có báo cáo về tác động độc hại nào.",
+            "note": "Trong danh mục này không có báo cáo về độc tính đối với con người; điều đó không chứng tỏ cây ăn được hay vô hại."
+          },
+          "dog": {
+            "exposure": "Không có báo cáo về đường phơi nhiễm nào.",
+            "effect": "Không có báo cáo về tác động độc hại nào.",
+            "note": "Trong danh mục này không có báo cáo về độc tính đối với chó; điều đó không chứng tỏ cây ăn được hay vô hại."
+          },
+          "cat": {
+            "exposure": "Không có báo cáo về đường phơi nhiễm nào.",
+            "effect": "Không có báo cáo về tác động độc hại nào.",
+            "note": "Trong danh mục này không có báo cáo về độc tính đối với mèo; điều đó không chứng tỏ cây ăn được hay vô hại."
           }
         }
       }

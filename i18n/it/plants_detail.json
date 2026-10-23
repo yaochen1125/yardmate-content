@@ -3,8 +3,8 @@
   "locale": "it",
   "source": {
     "resource": "plants_detail.json",
-    "sha256": "6a2f9a06d96bfecaac3a2976cfcc960c840a6507ab2ec994253652268afe1ef6",
-    "record_count": 1783
+    "sha256": "085eade3b9191c7d99c1e031793bb8cc996a77a128bb88331a4c04bbb822f487",
+    "record_count": 1785
   },
   "records": {
     "AAA0001": {
@@ -109041,6 +109041,143 @@
             "exposure": "Non è segnalata alcuna via di esposizione.",
             "effect": "Non è segnalato alcun effetto tossico.",
             "note": "In questo catalogo non è segnalata tossicità per l’uomo; ciò non prova che la pianta sia commestibile o innocua."
+          },
+          "dog": {
+            "exposure": "Non è segnalata alcuna via di esposizione.",
+            "effect": "Non è segnalato alcun effetto tossico.",
+            "note": "In questo catalogo non è segnalata tossicità per i cani; ciò non prova che la pianta sia commestibile o innocua."
+          },
+          "cat": {
+            "exposure": "Non è segnalata alcuna via di esposizione.",
+            "effect": "Non è segnalato alcun effetto tossico.",
+            "note": "In questo catalogo non è segnalata tossicità per i gatti; ciò non prova che la pianta sia commestibile o innocua."
+          }
+        }
+      }
+    },
+    "AAA1785": {
+      "source_hash": "fc36c0be8cd415432ead9dfd25faaaf1e7658557f968bfe98d620e6e9ec3dc66",
+      "fields": {
+        "common_name": "Rododendro della Dauria",
+        "bloom_tip": "Questa pianta fiorisce in primavera, con fiori vistosi che attirano gli impollinatori.",
+        "description": "Il rododendro della Dauria è un piccolo arbusto semisempreverde del freddo nordest asiatico, apprezzato per i fiori rosa-viola che si aprono all'inizio della primavera, spesso prima delle foglie e quando può ancora esserci neve. Il portamento compatto e ramificato e le piccole foglie coriacee e aromatiche lo rendono adatto a giardini rocciosi e margini di bosco. È straordinariamente resistente al freddo e preferisce un terreno acido, ben drenato e ricco di humus, mezz'ombra e riparo dai venti forti.",
+        "history_text_short": "Prende il nome dalla Dauria, la fredda regione di confine a est del lago Bajkal, e fiorisce rosa-viola quando la neve è ancora al suolo. Nel nordest della Cina interi versanti fioriti annunciano la primavera, e la sua rusticità ha regalato ai giardinieri ibridi robusti a fioritura precoce.",
+        "history_text_long": "Il rododendro della Dauria deve il nome alla Dauria, la regione montuosa a est del lago Bajkal dove si incontrano Russia, Mongolia e Cina. Cresce spontaneo in Siberia, nell'Estremo Oriente russo, in Mongolia, nel nordest della Cina, in Corea e in Giappone, spesso su pendii rocciosi e in boschi radi di larici e betulle. Fu descritto scientificamente nel Settecento ed è stato tra i primi rododendri di questa regione fredda ad arrivare nei giardini europei, dove la sua abitudine di fiorire nei primi giorni miti dell'anno fu una piacevole sorpresa. Nella sua terra d'origine è un segno familiare della primavera: nel nordest della Cina la sua fioritura massiccia sui pendii in aprile e maggio viene celebrata come la stagione dell'«azalea di Xing'an», e la pianta è soprannominata «Manshanhong», «rosso su tutte le colline». La medicina tradizionale dell'Asia orientale ha usato le sue foglie in tisane e preparati per la tosse e i disturbi del petto, e il fogliame aromatico è apprezzato localmente; la pianta però contiene grayanotossine e non va mai considerata con leggerezza come cibo o medicina. I giardinieri ne hanno poi ricavato ibridi rustici, come il gruppo a fioritura precoce «PJM», che offre a chi coltiva in climi freddi rododendri capaci di superare inverni duri. La forma tenace e ramificata e la fioritura precoce ne hanno fatto un simbolo di resistenza e della promessa della primavera nel mondo del nord.",
+        "name_origin": "«Rhododendron» deriva dal greco rhodon (rosa) e dendron (albero). L'epiteto «dauricum» si riferisce alla Dauria, la regione a est del lago Bajkal dove la pianta fu registrata per la prima volta.",
+        "symbolism_story": "In tutto il nordest asiatico il rododendro della Dauria è il fiore che dimostra che l'inverno sta finendo. I suoi fiori rosa-viola si aprono su rami spogli mentre la neve giace ancora al suolo, così la gente vi legge un segno di resistenza e di vita che ritorna.",
+        "flower_meaning": "Resistenza",
+        "fragrance": {
+          "notes": "Le foglie sono leggermente resinose e aromatiche quando vengono sfregate."
+        },
+        "uses_list": [
+          {
+            "text": "Arbusto a fioritura precoce per giardini rocciosi, margini di bosco e bordure nei climi freddi."
+          },
+          {
+            "text": "I fiori precoci offrono nettare ad api e altri impollinatori quando quasi nient'altro fiorisce."
+          },
+          {
+            "text": "Le foglie hanno un lungo uso tradizionale nella medicina popolare dell'Asia orientale, ma la pianta è tossica e non adatta all'uso domestico."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Resistenza",
+            "description": "Fiorisce tra le ultime nevi e rappresenta la tenacia in condizioni difficili."
+          },
+          {
+            "keyword": "Primavera",
+            "description": "Uno dei primissimi fiori dell'anno nella sua terra d'origine."
+          },
+          {
+            "keyword": "Avvertimento",
+            "description": "Bellezza unita a tossicità, un tema tradizionale dei rododendri."
+          }
+        ],
+        "toxicity": {
+          "headline": "Esseri umani: moderata · Animali domestici: moderata",
+          "active_compound_display": "grayanotossine",
+          "notes_en": "Come altri rododendri, foglie e fiori contengono grayanotossine che, se ingerite, colpiscono cuore e nervi.",
+          "human": {
+            "exposure": "Ingestione di foglie e fiori.",
+            "effect": "Nausea, vomito, salivazione, pressione bassa, battito cardiaco rallentato e debolezza.",
+            "note": "Come altri rododendri, foglie e fiori contengono grayanotossine che, se ingerite, colpiscono cuore e nervi.",
+            "symptoms": [
+              "Nausea.",
+              "Vomito.",
+              "Salivazione.",
+              "Pressione bassa.",
+              "Battito cardiaco rallentato.",
+              "Debolezza."
+            ]
+          },
+          "dog": {
+            "exposure": "Ingestione di foglie e fiori.",
+            "effect": "Salivazione, vomito, diarrea, debolezza e battito cardiaco rallentato.",
+            "note": "Come altri rododendri, foglie e fiori contengono grayanotossine che, se ingerite, colpiscono cuore e nervi.",
+            "symptoms": [
+              "Salivazione.",
+              "Vomito.",
+              "Diarrea.",
+              "Debolezza.",
+              "Battito cardiaco rallentato."
+            ]
+          },
+          "cat": {
+            "exposure": "Ingestione di foglie e fiori.",
+            "effect": "Salivazione, vomito, diarrea, debolezza e battito cardiaco rallentato.",
+            "note": "Come altri rododendri, foglie e fiori contengono grayanotossine che, se ingerite, colpiscono cuore e nervi.",
+            "symptoms": [
+              "Salivazione.",
+              "Vomito.",
+              "Diarrea.",
+              "Debolezza.",
+              "Battito cardiaco rallentato."
+            ]
+          }
+        }
+      }
+    },
+    "AAA1786": {
+      "source_hash": "5174af15a72e259fd4dfeceb8d658d80823d4e476d77ce456977390ae46cd047",
+      "fields": {
+        "common_name": "Diervilla",
+        "bloom_tip": "I fiori di questa pianta sbocciano tra giugno e agosto e attirano gli insetti.",
+        "description": "La diervilla (Diervilla lonicera) è un arbusto deciduo, robusto e pollonifero dell'America settentrionale orientale, alto di solito 90-120 cm, che si espande con stoloni sotterranei formando colonie fitte. Le foglie appuntite e dentate spuntano con riflessi bronzei, sono di un verde lucido in estate e in autunno virano dall'arancio al rosso. Da giugno ad agosto porta piccoli fiori a imbuto che si aprono giallo pallido e invecchiando diventano arancioni e rossi, attirando bombi e altri impollinatori. Rustica nelle zone 3-5, tollera suoli asciutti, ombra e terreni poveri, ed è adatta a bordure, scarpate e impianti naturalizzati.",
+        "history_text_short": "Dedicata al dottor Marin Diereville, chirurgo francese che portò la pianta dall'Acadia in Europa intorno al 1700, questo arbusto nordamericano è stato coltivato a lungo per la sua robustezza. I popoli indigeni del Nordest ne usavano foglie e fusti in tisane e lavaggi, e oggi è apprezzato come arbusto resistente e amico delle api per i siti difficili.",
+        "history_text_long": "La diervilla è originaria di foreste, pendii rocciosi e radure dell'America settentrionale orientale, da Terranova e dal Saskatchewan verso sud attraverso la regione dei Grandi Laghi e lungo gli Appalachi. Il nome del genere onora Marin Diereville, chirurgo francese che si recò in Acadia all'inizio del Settecento e inviò in Europa campioni e descrizioni delle sue piante. Il botanico Joseph Pitton de Tournefort dedicò a lui il genere, e Linneo inserì poi la pianta tra i veri caprifogli prima che le fosse restituito un genere proprio.\n\nMolto prima che i botanici europei la notassero, i popoli indigeni del Nordest, tra cui gli Abenaki, di lingua algonchina, e gli Ojibwe, conoscevano l'arbusto come utile pianta dei boschi. Infusi di foglie e fusti sono documentati come lavaggio tradizionale e come tisana per piccoli disturbi, e i suoi fitti cespuglieti offrivano riparo a galli cedroni, conigli e cervi. Questi usi derivano da testimonianze etnobotaniche e non da studi clinici moderni, e la pianta non è consigliata come rimedio casalingo.\n\nIn giardino l'arbusto si è guadagnato la fama di quasi indistruttibile. Prospera in terreni asciutti, sassosi, ombreggiati o compatti dove arbusti più esigenti falliscono, e le sue colonie trattengono le scarpate ripide contro l'erosione. I vivai hanno iniziato a offrirlo ampiamente nel Novecento, e da allora sono diventate popolari selezioni con colori autunnali più vivaci. I giardinieri di piante autoctone ne apprezzano il nettare di fine stagione, che nutre bombi, api native e la sfinge colibrì, i cui bruchi si nutrono anche delle sue foglie.",
+        "name_origin": "Il genere Diervilla onora Marin Diereville, chirurgo francese che portò la pianta dall'Acadia in Europa intorno al 1700. L'epiteto lonicera significa «simile al caprifoglio», dal botanico tedesco Adam Lonitzer, perché le foglie opposte e i fiori tubulari ricordano quelli dei veri caprifogli.",
+        "symbolism_story": "Poiché i suoi fiori si approfondiscono dal giallo pallido all'arancio e al rosso sullo stesso ramo, la diervilla è diventata simbolo di resilienza e cambiamento. La sua capacità di colonizzare terreni rocciosi e trascurati ne fa un discreto emblema di perseveranza.",
+        "flower_meaning": "Resilienza",
+        "uses_list": [
+          {
+            "text": "Arbusto deciduo robusto per bordure, siepi e impianti di massa, con vivace fogliame autunnale"
+          },
+          {
+            "text": "I fiori estivi nutrono bombi, api native e sfingi colibrì"
+          },
+          {
+            "text": "I cespuglieti offrono riparo e cibo a uccelli e piccoli mammiferi; i polloni aiutano a stabilizzare le scarpate"
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Resilienza",
+            "description": "Prospera in suoli poveri, asciutti e ombreggiati dove altri arbusti falliscono."
+          },
+          {
+            "keyword": "Colore mutevole",
+            "description": "I fiori passano dal giallo all'arancio e al rosso con l'età."
+          }
+        ],
+        "toxicity": {
+          "headline": "Nessuna tossicità segnalata",
+          "active_compound_display": "Nessuno segnalato",
+          "notes_en": "Non è stata trovata una fonte affidabile sulla tossicità; trattata come non segnalata (la stima dell'LLM non è verificata da fonti).",
+          "human": {
+            "exposure": "Non è segnalata alcuna via di esposizione.",
+            "effect": "Non è segnalato alcun effetto tossico.",
+            "note": "In questo catalogo non è segnalata tossicità per gli esseri umani; ciò non prova che la pianta sia commestibile o innocua."
           },
           "dog": {
             "exposure": "Non è segnalata alcuna via di esposizione.",

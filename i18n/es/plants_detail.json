@@ -3,8 +3,8 @@
   "locale": "es",
   "source": {
     "resource": "plants_detail.json",
-    "sha256": "6a2f9a06d96bfecaac3a2976cfcc960c840a6507ab2ec994253652268afe1ef6",
-    "record_count": 1783
+    "sha256": "085eade3b9191c7d99c1e031793bb8cc996a77a128bb88331a4c04bbb822f487",
+    "record_count": 1785
   },
   "records": {
     "AAA0001": {
@@ -109051,6 +109051,143 @@
             "exposure": "No se notifica ninguna vía de exposición.",
             "effect": "No se notifica ningún efecto tóxico.",
             "note": "En este catálogo no se notifica toxicidad para gatos; esto no es prueba de que la planta sea comestible o inofensiva."
+          }
+        }
+      }
+    },
+    "AAA1785": {
+      "source_hash": "fc36c0be8cd415432ead9dfd25faaaf1e7658557f968bfe98d620e6e9ec3dc66",
+      "fields": {
+        "common_name": "Rododendro de Dauria",
+        "bloom_tip": "Esta planta florece en primavera, con flores vistosas que atraen a los polinizadores.",
+        "description": "El rododendro de Dauria es un arbusto pequeño, semisiempreverde, del frío noreste de Asia, apreciado por sus flores rosa violáceo que se abren a comienzos de la primavera, a menudo antes de que salgan las hojas y cuando aún puede quedar nieve. Su porte compacto y ramoso y sus hojas pequeñas, aromáticas y coriáceas lo hacen ideal para rocallas y bordes de bosque. Es extraordinariamente resistente al frío y prefiere suelo ácido, bien drenado y rico en humus, con sombra ligera y abrigo del viento fuerte.",
+        "history_text_short": "Debe su nombre a Dauria, la fría región fronteriza al este del lago Baikal, y florece en rosa violáceo mientras aún queda nieve. En el noreste de China, laderas enteras de flores anuncian la primavera, y su resistencia dio a los jardineros híbridos robustos de floración temprana.",
+        "history_text_long": "El rododendro de Dauria toma su nombre de Dauria, la región montañosa fronteriza al este del lago Baikal donde confluyen Rusia, Mongolia y China. Crece de forma silvestre en Siberia, el Lejano Oriente ruso, Mongolia, el noreste de China, Corea y Japón, a menudo en laderas rocosas y en claros de bosques de alerces y abedules. Fue descrito para la ciencia en el siglo XVIII y fue uno de los primeros rododendros de esta región fría en llegar a los jardines europeos, donde su costumbre de florecer en los primeros días templados del año resultó una grata sorpresa. En su tierra natal es una señal conocida de primavera: en el noreste de China, su floración masiva en las laderas durante abril y mayo se celebra como la temporada de la «azalea de Xing'an», y la planta recibe el apodo de «Manshanhong», «rojo por todas las colinas». La medicina tradicional de Asia oriental usó sus hojas en infusiones y preparados contra la tos y las molestias del pecho, y el follaje aromático se valora localmente; sin embargo, la planta contiene grayanotoxinas y nunca debe tomarse a la ligera como alimento o medicina. Más tarde los jardineros obtuvieron de ella híbridos resistentes, como el grupo de floración temprana «PJM», que ofrece a quienes cultivan en climas fríos rododendros capaces de sobrevivir a inviernos duros. Su forma tenaz y ramosa y su ansiosa floración temprana la han convertido en símbolo de resistencia y de la promesa de la primavera en el mundo del norte.",
+        "name_origin": "«Rhododendron» procede del griego rhodon (rosa) y dendron (árbol). El epíteto «dauricum» alude a Dauria, la región al este del lago Baikal donde se registró por primera vez la planta.",
+        "symbolism_story": "En todo el noreste de Asia, el rododendro de Dauria es la flor que demuestra que el invierno termina. Sus flores rosa violáceo se abren sobre ramas desnudas mientras aún hay nieve en el suelo, por lo que la gente las interpreta como signo de resistencia y de vida que regresa.",
+        "flower_meaning": "Resistencia",
+        "fragrance": {
+          "notes": "Las hojas son ligeramente resinosas y aromáticas al estrujarlas."
+        },
+        "uses_list": [
+          {
+            "text": "Arbusto de floración temprana para rocallas, bordes de bosque y macizos en climas fríos."
+          },
+          {
+            "text": "Sus flores tempranas ofrecen néctar a abejas y otros polinizadores cuando casi nada más florece."
+          },
+          {
+            "text": "Las hojas tienen un largo uso tradicional en la medicina popular de Asia oriental, pero la planta es tóxica y no es apta para uso doméstico."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Resistencia",
+            "description": "Florece entre las últimas nevadas y simboliza la fortaleza en condiciones duras."
+          },
+          {
+            "keyword": "Primavera",
+            "description": "Una de las primeras flores del año en su tierra natal."
+          },
+          {
+            "keyword": "Advertencia",
+            "description": "Belleza unida a toxicidad, un tema tradicional de los rododendros."
+          }
+        ],
+        "toxicity": {
+          "headline": "Humanos: moderada · Mascotas: moderada",
+          "active_compound_display": "grayanotoxinas",
+          "notes_en": "Como otros rododendros, las hojas y flores contienen grayanotoxinas que afectan al corazón y a los nervios si se ingieren.",
+          "human": {
+            "exposure": "Ingestión de hojas y flores.",
+            "effect": "Náuseas, vómitos, babeo, presión arterial baja, frecuencia cardíaca lenta y debilidad.",
+            "note": "Como otros rododendros, las hojas y flores contienen grayanotoxinas que afectan al corazón y a los nervios si se ingieren.",
+            "symptoms": [
+              "Náuseas.",
+              "Vómitos.",
+              "Babeo.",
+              "Presión arterial baja.",
+              "Frecuencia cardíaca lenta.",
+              "Debilidad."
+            ]
+          },
+          "dog": {
+            "exposure": "Ingestión de hojas y flores.",
+            "effect": "Babeo, vómitos, diarrea, debilidad y frecuencia cardíaca lenta.",
+            "note": "Como otros rododendros, las hojas y flores contienen grayanotoxinas que afectan al corazón y a los nervios si se ingieren.",
+            "symptoms": [
+              "Babeo.",
+              "Vómitos.",
+              "Diarrea.",
+              "Debilidad.",
+              "Frecuencia cardíaca lenta."
+            ]
+          },
+          "cat": {
+            "exposure": "Ingestión de hojas y flores.",
+            "effect": "Babeo, vómitos, diarrea, debilidad y frecuencia cardíaca lenta.",
+            "note": "Como otros rododendros, las hojas y flores contienen grayanotoxinas que afectan al corazón y a los nervios si se ingieren.",
+            "symptoms": [
+              "Babeo.",
+              "Vómitos.",
+              "Diarrea.",
+              "Debilidad.",
+              "Frecuencia cardíaca lenta."
+            ]
+          }
+        }
+      }
+    },
+    "AAA1786": {
+      "source_hash": "5174af15a72e259fd4dfeceb8d658d80823d4e476d77ce456977390ae46cd047",
+      "fields": {
+        "common_name": "Diervilla",
+        "bloom_tip": "Las flores de esta planta se abren entre junio y agosto y atraen a los insectos.",
+        "description": "La diervilla (Diervilla lonicera) es un arbusto caducifolio, resistente y rizomatoso del este de Norteamérica, de unos 90 a 120 cm de altura, que se extiende mediante estolones subterráneos formando densas colonias. Sus hojas puntiagudas y dentadas brotan con tonos bronceados, son de un verde brillante en verano y se tornan de naranja a rojo en otoño. De junio a agosto produce pequeñas flores en forma de embudo que se abren de color amarillo pálido y envejecen hacia el naranja y el rojo, y atraen a abejorros y otros polinizadores. Resiste en las zonas 3 a 5 y tolera suelos secos, sombra y terrenos pobres, por lo que es ideal para borduras, taludes y plantaciones naturalizadas.",
+        "history_text_short": "Nombrada en honor del Dr. Marin Diereville, un cirujano francés que llevó la planta de Acadia a Europa hacia 1700, este arbusto norteamericano se cultivó durante mucho tiempo por su robustez. Los pueblos indígenas del noreste usaban sus hojas y tallos en infusiones y lavados, y hoy se aprecia como arbusto resistente y amigo de las abejas para lugares difíciles.",
+        "history_text_long": "La diervilla es originaria de los bosques, laderas rocosas y claros del este de Norteamérica, desde Terranova y Saskatchewan hacia el sur por la región de los Grandes Lagos y a lo largo de los Apalaches. El nombre del género honra a Marin Diereville, un cirujano francés que viajó a Acadia a principios del siglo XVIII y envió a Europa muestras y descripciones de sus plantas. El botánico Joseph Pitton de Tournefort bautizó el género en su honor, y Linneo incorporó después la planta a los verdaderos madreselvas antes de que se le devolviera su propio género.\n\nMucho antes de que los botánicos europeos se fijaran en ella, los pueblos indígenas del noreste, entre ellos los abenakis, de lengua algonquina, y los ojibwa, conocían el arbusto como una planta útil del bosque. Se registran infusiones de hojas y tallos como lavado tradicional y como té para dolencias leves, y sus espesos matorrales daban cobijo a urogallos, conejos y ciervos. Estos usos proceden de registros etnobotánicos y no de estudios clínicos modernos, y la planta no se recomienda como remedio casero.\n\nEn el jardín el arbusto se ganó fama de casi indestructible. Prospera en suelos secos, pedregosos, sombreados o compactados donde fracasan arbustos más exigentes, y sus colonias sujetan taludes empinados frente a la erosión. Los viveros empezaron a ofrecerlo ampliamente en el siglo XX, y desde entonces se han popularizado selecciones con un color otoñal más vivo. Los jardineros de plantas autóctonas valoran su néctar de final de temporada, que alimenta a abejorros, abejas nativas y a la esfinge colibrí, cuyas orugas también se alimentan de sus hojas.",
+        "name_origin": "El género Diervilla honra a Marin Diereville, un cirujano francés que llevó la planta de Acadia a Europa hacia 1700. El epíteto lonicera significa «parecido a una madreselva», por el botánico alemán Adam Lonitzer, porque sus hojas opuestas y sus flores tubulares recuerdan a las de las verdaderas madreselvas.",
+        "symbolism_story": "Como sus flores se intensifican del amarillo pálido al naranja y al rojo en una misma rama, la diervilla ha llegado a simbolizar la resiliencia y el cambio. Su capacidad para colonizar terrenos rocosos y descuidados la convierte en un emblema discreto de perseverancia.",
+        "flower_meaning": "Resiliencia",
+        "uses_list": [
+          {
+            "text": "Arbusto caducifolio resistente para borduras, setos y plantaciones en masa, con vistoso follaje otoñal"
+          },
+          {
+            "text": "Sus flores de verano alimentan a abejorros, abejas nativas y esfinges colibrí"
+          },
+          {
+            "text": "Sus matorrales dan cobijo y alimento a aves y pequeños mamíferos; los estolones ayudan a estabilizar taludes"
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Resiliencia",
+            "description": "Prospera en suelos pobres, secos y sombreados donde otros arbustos fracasan."
+          },
+          {
+            "keyword": "Color cambiante",
+            "description": "Las flores pasan del amarillo al naranja y al rojo al envejecer."
+          }
+        ],
+        "toxicity": {
+          "headline": "No se informa de toxicidad",
+          "active_compound_display": "Ninguno informado",
+          "notes_en": "No se encontró una fuente fiable sobre toxicidad; se trata como no informada (la estimación del LLM no está verificada con fuentes).",
+          "human": {
+            "exposure": "No se informa de ninguna vía de exposición.",
+            "effect": "No se informa de ningún efecto tóxico.",
+            "note": "En este catálogo no se informa de toxicidad para las personas; esto no prueba que la planta sea comestible o inofensiva."
+          },
+          "dog": {
+            "exposure": "No se informa de ninguna vía de exposición.",
+            "effect": "No se informa de ningún efecto tóxico.",
+            "note": "En este catálogo no se informa de toxicidad para los perros; esto no prueba que la planta sea comestible o inofensiva."
+          },
+          "cat": {
+            "exposure": "No se informa de ninguna vía de exposición.",
+            "effect": "No se informa de ningún efecto tóxico.",
+            "note": "En este catálogo no se informa de toxicidad para los gatos; esto no prueba que la planta sea comestible o inofensiva."
           }
         }
       }

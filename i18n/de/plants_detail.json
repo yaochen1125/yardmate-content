@@ -3,8 +3,8 @@
   "locale": "de",
   "source": {
     "resource": "plants_detail.json",
-    "sha256": "6a2f9a06d96bfecaac3a2976cfcc960c840a6507ab2ec994253652268afe1ef6",
-    "record_count": 1783
+    "sha256": "085eade3b9191c7d99c1e031793bb8cc996a77a128bb88331a4c04bbb822f487",
+    "record_count": 1785
   },
   "records": {
     "AAA0001": {
@@ -109037,6 +109037,143 @@
             "exposure": "Es wird kein Expositionsweg berichtet.",
             "effect": "Es wird keine toxische Wirkung berichtet.",
             "note": "In diesem Katalog wird für Katzen keine Giftigkeit berichtet; das ist kein Beleg dafür, dass die Pflanze essbar oder unbedenklich ist."
+          }
+        }
+      }
+    },
+    "AAA1785": {
+      "source_hash": "fc36c0be8cd415432ead9dfd25faaaf1e7658557f968bfe98d620e6e9ec3dc66",
+      "fields": {
+        "common_name": "Daurischer Rhododendron",
+        "bloom_tip": "Diese Pflanze blüht im Frühling mit auffälligen Blüten, die Bestäuber anlocken.",
+        "description": "Der Daurische Rhododendron ist ein kleiner, halbimmergrüner Strauch des kalten Nordostasiens. Er ist für seine rosaviolett leuchtenden Blüten im ganz frühen Frühjahr bekannt, die sich oft vor dem Laubaustrieb öffnen, wenn noch Schnee liegen kann. Sein kompakter, feintriebiger Wuchs und die kleinen, aromatischen, ledrigen Blätter passen zu Steingärten und Gehölzrändern. Er ist außerordentlich frosthart und bevorzugt sauren, gut durchlässigen, humusreichen Boden, Halbschatten und Schutz vor rauem Wind.",
+        "history_text_short": "Benannt nach Dahurien, dem kalten Grenzland östlich des Baikalsees, blüht der Daurische Rhododendron rosaviolett, während noch Schnee liegt. In Nordostchina künden ganze Hänge voller Blüten den Frühling an, und seine Winterhärte brachte robuste, früh blühende Hybriden hervor.",
+        "history_text_long": "Der Daurische Rhododendron verdankt seinen Namen Dahurien, dem gebirgigen Grenzland östlich des Baikalsees, wo Russland, die Mongolei und China aufeinandertreffen. Wild wächst er in Sibirien, im Russischen Fernen Osten, in der Mongolei, in Nordostchina, Korea und Japan, oft an felsigen Hängen und in lichten Lärchen- und Birkenwäldern. Wissenschaftlich beschrieben wurde er im 18. Jahrhundert, und er gehörte zu den ersten Rhododendren dieser kalten Region, die in europäische Gärten gelangten, wo seine Blüte in den ersten milden Tagen des Jahres eine willkommene Überraschung war. In seiner Heimat gilt er als vertrautes Zeichen des Frühlings: In Nordostchina wird die Massenblüte an den Berghängen im April und Mai als Saison der „Xing'an-Azalee“ gefeiert, und die Pflanze trägt den Spitznamen „Manshanhong“, „rot über alle Hügel“. Die traditionelle Medizin Ostasiens nutzte seine Blätter in Tees und Zubereitungen gegen Husten und Beschwerden der Brust, und das aromatische Laub wird vor Ort geschätzt; die Pflanze enthält jedoch Grayanotoxine und darf nie leichtfertig als Nahrungs- oder Heilmittel betrachtet werden. Später züchteten Gärtner winterharte Hybriden aus ihr, etwa die früh blühende „PJM“-Gruppe, die Gärtnern in kalten Gegenden Rhododendren schenkt, die harte Winter überstehen. Ihre zähe, feintriebige Gestalt und die eifrige Frühblüte machten sie zum Sinnbild für Ausdauer und das Versprechen des Frühlings in der nördlichen Welt.",
+        "name_origin": "„Rhododendron“ stammt von griechisch rhodon (Rose) und dendron (Baum). Der Artname „dauricum“ bezieht sich auf Dahurien, die Region östlich des Baikalsees, in der die Pflanze erstmals verzeichnet wurde.",
+        "symbolism_story": "In ganz Nordostasien ist der Daurische Rhododendron die Blume, die beweist, dass der Winter endet. Seine rosavioletten Blüten öffnen sich an kahlen Zweigen, während noch Schnee liegt, und gelten daher als Zeichen von Ausdauer und zurückkehrendem Leben.",
+        "flower_meaning": "Ausdauer",
+        "fragrance": {
+          "notes": "Die Blätter duften leicht harzig und aromatisch, besonders wenn man sie zerreibt."
+        },
+        "uses_list": [
+          {
+            "text": "Frühjahrsblühender Strauch für Steingärten, Gehölzränder und Beete in kalten Klimazonen."
+          },
+          {
+            "text": "Die frühen Blüten bieten Bienen und anderen Bestäubern Nektar, wenn sonst kaum etwas blüht."
+          },
+          {
+            "text": "Die Blätter haben eine lange Tradition in der ostasiatischen Volksmedizin, doch die Pflanze ist giftig und nicht für den Hausgebrauch geeignet."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Ausdauer",
+            "description": "Blüht durch späten Schnee und steht für Widerstandskraft unter harten Bedingungen."
+          },
+          {
+            "keyword": "Frühling",
+            "description": "Eine der allerersten Blumen des Jahres in ihrer Heimat."
+          },
+          {
+            "keyword": "Warnung",
+            "description": "Schönheit verbunden mit Giftigkeit, ein traditionelles Rhododendron-Motiv."
+          }
+        ],
+        "toxicity": {
+          "headline": "Menschen mäßig · Haustiere mäßig",
+          "active_compound_display": "Grayanotoxine",
+          "notes_en": "Wie andere Rhododendren enthalten Blätter und Blüten Grayanotoxine, die bei Verzehr Herz und Nerven beeinträchtigen.",
+          "human": {
+            "exposure": "Verzehr von Blättern und Blüten.",
+            "effect": "Übelkeit, Erbrechen, Speicheln, niedriger Blutdruck, verlangsamter Herzschlag und Schwäche.",
+            "note": "Wie andere Rhododendren enthalten Blätter und Blüten Grayanotoxine, die bei Verzehr Herz und Nerven beeinträchtigen.",
+            "symptoms": [
+              "Übelkeit.",
+              "Erbrechen.",
+              "Speicheln.",
+              "Niedriger Blutdruck.",
+              "Verlangsamter Herzschlag.",
+              "Schwäche."
+            ]
+          },
+          "dog": {
+            "exposure": "Verzehr von Blättern und Blüten.",
+            "effect": "Speicheln, Erbrechen, Durchfall, Schwäche und verlangsamter Herzschlag.",
+            "note": "Wie andere Rhododendren enthalten Blätter und Blüten Grayanotoxine, die bei Verzehr Herz und Nerven beeinträchtigen.",
+            "symptoms": [
+              "Speicheln.",
+              "Erbrechen.",
+              "Durchfall.",
+              "Schwäche.",
+              "Verlangsamter Herzschlag."
+            ]
+          },
+          "cat": {
+            "exposure": "Verzehr von Blättern und Blüten.",
+            "effect": "Speicheln, Erbrechen, Durchfall, Schwäche und verlangsamter Herzschlag.",
+            "note": "Wie andere Rhododendren enthalten Blätter und Blüten Grayanotoxine, die bei Verzehr Herz und Nerven beeinträchtigen.",
+            "symptoms": [
+              "Speicheln.",
+              "Erbrechen.",
+              "Durchfall.",
+              "Schwäche.",
+              "Verlangsamter Herzschlag."
+            ]
+          }
+        }
+      }
+    },
+    "AAA1786": {
+      "source_hash": "5174af15a72e259fd4dfeceb8d658d80823d4e476d77ce456977390ae46cd047",
+      "fields": {
+        "common_name": "Buschgeißblatt",
+        "bloom_tip": "Die Blüten dieser Pflanze erscheinen zwischen Juni und August und locken Insekten an.",
+        "description": "Das Buschgeißblatt (Diervilla lonicera) ist ein robuster, Ausläufer bildender, sommergrüner Strauch aus dem Osten Nordamerikas, meist 90 bis 120 cm hoch, der sich über unterirdische Ausläufer zu dichten Beständen ausbreitet. Die spitzen, gezähnten Blätter treiben bronzefarben aus, sind im Sommer glänzend grün und färben sich im Herbst orange bis rot. Von Juni bis August trägt der Strauch kleine trichterförmige Blüten, die blassgelb aufgehen und zu Orange und Rot nachdunkeln und Hummeln und andere Bestäuber anlocken. Er ist winterhart in den Zonen 3 bis 5, verträgt trockene Böden, Schatten und karge Standorte und eignet sich für Beete, Hänge und naturnahe Pflanzungen.",
+        "history_text_short": "Benannt nach Dr. Marin Diereville, einem französischen Chirurgen, der die Pflanze um 1700 aus Akadien nach Europa brachte, wurde dieser nordamerikanische Strauch lange wegen seiner Robustheit kultiviert. Indigene Völker des Nordostens nutzten Blätter und Zweige für Tees und Waschungen, heute schätzt man ihn als winterharten, bienenfreundlichen Strauch für schwierige Standorte.",
+        "history_text_long": "Das Buschgeißblatt ist in den Wäldern, auf felsigen Hängen und Lichtungen im Osten Nordamerikas heimisch, von Neufundland und Saskatchewan südwärts durch die Region der Großen Seen und entlang der Appalachen. Der Gattungsname ehrt Marin Diereville, einen französischen Chirurgen, der Anfang des 18. Jahrhunderts nach Akadien reiste und Pflanzenproben und Beschreibungen nach Europa schickte. Der Botaniker Joseph Pitton de Tournefort benannte die Gattung ihm zu Ehren, und Linné ordnete die Pflanze später den echten Geißblättern zu, bevor sie wieder in eine eigene Gattung gestellt wurde.\n\nLange bevor europäische Botaniker auf sie aufmerksam wurden, kannten indigene Völker des Nordostens, darunter die Algonkin sprechenden Abenaki und die Ojibwe, den Strauch als nützliche Waldpflanze. Aufgüsse aus Blättern und Zweigen sind als traditionelle Waschung und als Tee bei leichten Beschwerden überliefert, und das ausgedehnte Dickicht bot Rauhfußhühnern, Kaninchen und Hirschen Deckung. Diese Anwendungen stammen aus ethnobotanischen Aufzeichnungen und nicht aus moderner klinischer Forschung; als Hausmittel wird die Pflanze nicht empfohlen.\n\nIm Garten erwarb sich der Strauch den Ruf, nahezu unverwüstlich zu sein. Er gedeiht auf trockenen, steinigen, schattigen oder verdichteten Böden, auf denen anspruchsvollere Sträucher scheitern, und seine Bestände halten steile Böschungen gegen Erosion fest. Baumschulen boten ihn im 20. Jahrhundert verbreitet an, und Auslesen mit leuchtenderer Herbstfärbung sind inzwischen beliebt. Naturgärtner schätzen seinen spät im Jahr fließenden Nektar, der Hummeln, Wildbienen und das Taubenschwänzchen versorgt, dessen Raupen auch an seinen Blättern fressen.",
+        "name_origin": "Der Gattungsname Diervilla ehrt Marin Diereville, einen französischen Chirurgen, der die Pflanze um 1700 aus Akadien nach Europa brachte. Der Artname lonicera bedeutet „geißblattähnlich“ und verweist auf den deutschen Botaniker Adam Lonitzer, da die gegenständigen Blätter und röhrenförmigen Blüten denen der echten Geißblätter ähneln.",
+        "symbolism_story": "Weil sich ihre Blüten am selben Zweig von Blassgelb über Orange zu Rot vertiefen, steht das Buschgeißblatt für Widerstandskraft und Wandel. Seine Fähigkeit, felsigen, vernachlässigten Boden zu besiedeln, macht es zu einem stillen Sinnbild der Beharrlichkeit.",
+        "flower_meaning": "Widerstandskraft",
+        "uses_list": [
+          {
+            "text": "Robuster Laubstrauch für Beete, Hecken und Massenpflanzungen mit farbenfroher Herbstfärbung"
+          },
+          {
+            "text": "Die Sommerblüten ernähren Hummeln, Wildbienen und Taubenschwänzchen"
+          },
+          {
+            "text": "Das Dickicht bietet Vögeln und Kleinsäugern Deckung und Nahrung; die Ausläufer festigen Hänge"
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Widerstandskraft",
+            "description": "Gedeiht in kargem, trockenem, schattigem Boden, in dem andere Sträucher scheitern."
+          },
+          {
+            "keyword": "Wandelbare Farbe",
+            "description": "Die Blüten wechseln mit dem Alter von Gelb zu Orange und Rot."
+          }
+        ],
+        "toxicity": {
+          "headline": "Keine Giftigkeit gemeldet",
+          "active_compound_display": "Keine angegeben",
+          "notes_en": "Keine zuverlässige Giftigkeitsangabe gefunden; als nicht gemeldet behandelt (die LLM-Schätzung ist nicht quellengeprüft).",
+          "human": {
+            "exposure": "Es ist kein Expositionsweg gemeldet.",
+            "effect": "Es ist keine giftige Wirkung gemeldet.",
+            "note": "In diesem Katalog ist für Menschen keine Giftigkeit gemeldet; das ist kein Beleg dafür, dass die Pflanze essbar oder unbedenklich ist."
+          },
+          "dog": {
+            "exposure": "Es ist kein Expositionsweg gemeldet.",
+            "effect": "Es ist keine giftige Wirkung gemeldet.",
+            "note": "In diesem Katalog ist für Hunde keine Giftigkeit gemeldet; das ist kein Beleg dafür, dass die Pflanze essbar oder unbedenklich ist."
+          },
+          "cat": {
+            "exposure": "Es ist kein Expositionsweg gemeldet.",
+            "effect": "Es ist keine giftige Wirkung gemeldet.",
+            "note": "In diesem Katalog ist für Katzen keine Giftigkeit gemeldet; das ist kein Beleg dafür, dass die Pflanze essbar oder unbedenklich ist."
           }
         }
       }

@@ -3,8 +3,8 @@
   "locale": "fr",
   "source": {
     "resource": "plants_detail.json",
-    "sha256": "6a2f9a06d96bfecaac3a2976cfcc960c840a6507ab2ec994253652268afe1ef6",
-    "record_count": 1783
+    "sha256": "085eade3b9191c7d99c1e031793bb8cc996a77a128bb88331a4c04bbb822f487",
+    "record_count": 1785
   },
   "records": {
     "AAA0001": {
@@ -109037,6 +109037,143 @@
             "exposure": "Aucune voie d’exposition n’est signalée.",
             "effect": "Aucun effet toxique n’est signalé.",
             "note": "Aucune toxicité n’est signalée pour le chat dans ce catalogue ; cela ne prouve pas que la plante soit comestible ou inoffensive."
+          }
+        }
+      }
+    },
+    "AAA1785": {
+      "source_hash": "fc36c0be8cd415432ead9dfd25faaaf1e7658557f968bfe98d620e6e9ec3dc66",
+      "fields": {
+        "common_name": "Rhododendron de Dahurie",
+        "bloom_tip": "Cette plante fleurit au printemps, avec des fleurs éclatantes qui attirent les pollinisateurs.",
+        "description": "Le rhododendron de Dahurie est un petit arbuste semi-persistant du nord-est froid de l'Asie, apprécié pour ses fleurs rose violacé qui s'ouvrent au tout début du printemps, souvent avant les feuilles et alors que la neige peut encore persister. Son port compact et ramifié et ses petites feuilles coriaces et aromatiques conviennent aux rocailles et aux lisières de sous-bois. Il est exceptionnellement rustique et préfère un sol acide, bien drainé et riche en humus, une ombre légère et un abri contre les vents violents.",
+        "history_text_short": "Nommé d'après la Dahurie, région frontalière froide à l'est du lac Baïkal, le rhododendron de Dahurie fleurit en rose violacé alors que la neige tient encore. Dans le nord-est de la Chine, des versants entiers de fleurs annoncent le printemps, et sa rusticité a donné aux jardiniers des hybrides robustes à floraison précoce.",
+        "history_text_long": "Le rhododendron de Dahurie doit son nom à la Dahurie, région montagneuse située à l'est du lac Baïkal, où se rejoignent la Russie, la Mongolie et la Chine. Il pousse à l'état sauvage en Sibérie, dans l'Extrême-Orient russe, en Mongolie, dans le nord-est de la Chine, en Corée et au Japon, souvent sur des pentes rocheuses et dans des bois clairs de mélèzes et de bouleaux. Décrit scientifiquement au XVIIIe siècle, il fut l'un des premiers rhododendrons de cette région froide à gagner les jardins européens, où sa manie de fleurir aux premiers jours doux de l'année fut une agréable surprise. Dans son pays d'origine, il est un signe familier du printemps : dans le nord-est de la Chine, sa floraison massive sur les pentes en avril et mai est fêtée comme la saison de l'« azalée de Xing'an », et la plante est surnommée « Manshanhong », « rouge sur toutes les collines ». La médecine traditionnelle d'Asie orientale a utilisé ses feuilles en tisanes et préparations contre la toux et les affections de la poitrine, et le feuillage aromatique est apprécié localement ; mais la plante contient des grayanotoxines et ne doit jamais être prise à la légère comme aliment ou remède. Les jardiniers en ont ensuite tiré des hybrides rustiques, comme le groupe à floraison précoce « PJM », qui offre aux jardiniers des climats froids des rhododendrons capables de survivre aux hivers rigoureux. Sa silhouette tenace et ramifiée et sa floraison précoce en ont fait un symbole d'endurance et de la promesse du printemps dans le monde nordique.",
+        "name_origin": "« Rhododendron » vient du grec rhodon (rose) et dendron (arbre). L'épithète « dauricum » renvoie à la Dahurie, la région à l'est du lac Baïkal où la plante fut d'abord recensée.",
+        "symbolism_story": "Dans tout le nord-est de l'Asie, le rhododendron de Dahurie est la fleur qui prouve que l'hiver touche à sa fin. Ses fleurs rose violacé s'ouvrent sur des rameaux nus alors que la neige couvre encore le sol ; on y voit donc un signe d'endurance et de retour à la vie.",
+        "flower_meaning": "Endurance",
+        "fragrance": {
+          "notes": "Les feuilles sont légèrement résineuses et aromatiques lorsqu'on les froisse."
+        },
+        "uses_list": [
+          {
+            "text": "Arbuste à floraison précoce pour rocailles, lisières de sous-bois et massifs en climat froid."
+          },
+          {
+            "text": "Ses fleurs précoces offrent du nectar aux abeilles et autres pollinisateurs quand presque rien d'autre ne fleurit."
+          },
+          {
+            "text": "Les feuilles ont un long usage traditionnel dans la médecine populaire d'Asie orientale, mais la plante est toxique et ne convient pas à un usage domestique."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Endurance",
+            "description": "Fleurit sous les dernières neiges et symbolise la résilience dans des conditions difficiles."
+          },
+          {
+            "keyword": "Printemps",
+            "description": "L'une des toutes premières fleurs de l'année dans sa région d'origine."
+          },
+          {
+            "keyword": "Avertissement",
+            "description": "Beauté associée à la toxicité, un thème traditionnel des rhododendrons."
+          }
+        ],
+        "toxicity": {
+          "headline": "Humains : modérée · Animaux : modérée",
+          "active_compound_display": "grayanotoxines",
+          "notes_en": "Comme les autres rhododendrons, les feuilles et les fleurs contiennent des grayanotoxines qui affectent le cœur et les nerfs en cas d'ingestion.",
+          "human": {
+            "exposure": "Ingestion de feuilles et de fleurs.",
+            "effect": "Nausées, vomissements, salivation, tension artérielle basse, rythme cardiaque lent et faiblesse.",
+            "note": "Comme les autres rhododendrons, les feuilles et les fleurs contiennent des grayanotoxines qui affectent le cœur et les nerfs en cas d'ingestion.",
+            "symptoms": [
+              "Nausées.",
+              "Vomissements.",
+              "Salivation.",
+              "Tension artérielle basse.",
+              "Rythme cardiaque lent.",
+              "Faiblesse."
+            ]
+          },
+          "dog": {
+            "exposure": "Ingestion de feuilles et de fleurs.",
+            "effect": "Salivation, vomissements, diarrhée, faiblesse et rythme cardiaque lent.",
+            "note": "Comme les autres rhododendrons, les feuilles et les fleurs contiennent des grayanotoxines qui affectent le cœur et les nerfs en cas d'ingestion.",
+            "symptoms": [
+              "Salivation.",
+              "Vomissements.",
+              "Diarrhée.",
+              "Faiblesse.",
+              "Rythme cardiaque lent."
+            ]
+          },
+          "cat": {
+            "exposure": "Ingestion de feuilles et de fleurs.",
+            "effect": "Salivation, vomissements, diarrhée, faiblesse et rythme cardiaque lent.",
+            "note": "Comme les autres rhododendrons, les feuilles et les fleurs contiennent des grayanotoxines qui affectent le cœur et les nerfs en cas d'ingestion.",
+            "symptoms": [
+              "Salivation.",
+              "Vomissements.",
+              "Diarrhée.",
+              "Faiblesse.",
+              "Rythme cardiaque lent."
+            ]
+          }
+        }
+      }
+    },
+    "AAA1786": {
+      "source_hash": "5174af15a72e259fd4dfeceb8d658d80823d4e476d77ce456977390ae46cd047",
+      "fields": {
+        "common_name": "Dièreville chèvrefeuille",
+        "bloom_tip": "Les fleurs de cette plante s'épanouissent de juin à août et attirent les insectes.",
+        "description": "La dièreville chèvrefeuille (Diervilla lonicera) est un arbuste rustique à feuilles caduques et drageonnant, originaire de l'est de l'Amérique du Nord, haut de 90 à 120 cm environ, qui s'étend par des rhizomes souterrains en formant des colonies denses. Ses feuilles pointues et dentées sont teintées de bronze au printemps, d'un vert brillant en été, puis passent de l'orange au rouge à l'automne. De juin à août, il porte de petites fleurs en entonnoir, jaune pâle à l'ouverture puis orange et rouge en vieillissant, qui attirent les bourdons et d'autres pollinisateurs. Rustique en zones 3 à 5, il supporte les sols secs, l'ombre et les terrains pauvres, et convient aux massifs, aux talus et aux plantations naturalisées.",
+        "history_text_short": "Nommé en l'honneur du Dr Marin Dièreville, chirurgien français qui rapporta la plante d'Acadie en Europe vers 1700, cet arbuste nord-américain fut longtemps cultivé pour sa robustesse. Les peuples autochtones du Nord-Est utilisaient ses feuilles et ses tiges en tisanes et en lavages ; on l'apprécie aujourd'hui comme arbuste rustique et mellifère pour les sites difficiles.",
+        "history_text_long": "La dièreville chèvrefeuille est originaire des forêts, des pentes rocheuses et des clairières de l'est de l'Amérique du Nord, de Terre-Neuve et de la Saskatchewan vers le sud, à travers la région des Grands Lacs et le long des Appalaches. Le nom du genre honore Marin Dièreville, chirurgien français qui se rendit en Acadie au début du XVIIIe siècle et envoya en Europe des spécimens et des descriptions de ses plantes. Le botaniste Joseph Pitton de Tournefort baptisa le genre en son honneur, puis Linné rangea la plante parmi les vrais chèvrefeuilles avant qu'elle retrouve son propre genre.\n\nBien avant que les botanistes européens ne s'y intéressent, les peuples autochtones du Nord-Est, dont les Abénaquis, de langue algonquienne, et les Ojibwés, connaissaient l'arbuste comme une plante utile des bois. Des infusions de feuilles et de tiges sont rapportées comme lavage traditionnel et comme tisane contre de petits maux, et ses fourrés offraient un abri aux gélinottes, aux lapins et aux cerfs. Ces usages proviennent de relevés ethnobotaniques et non d'études cliniques modernes, et la plante n'est pas recommandée comme remède maison.\n\nAu jardin, l'arbuste s'est forgé une réputation de quasi-indestructible. Il prospère dans les sols secs, rocailleux, ombragés ou tassés où des arbustes plus exigeants échouent, et ses colonies retiennent les talus abrupts contre l'érosion. Les pépinières l'ont largement proposé au XXe siècle, et des sélections à la couleur automnale plus vive sont devenues populaires. Les jardiniers de plantes indigènes apprécient son nectar de fin de saison, qui nourrit les bourdons, les abeilles sauvages et le moro-sphinx, dont les chenilles se nourrissent aussi de ses feuilles.",
+        "name_origin": "Le genre Diervilla honore Marin Dièreville, chirurgien français qui rapporta la plante d'Acadie en Europe vers 1700. L'épithète lonicera signifie « semblable au chèvrefeuille », d'après le botaniste allemand Adam Lonitzer, car ses feuilles opposées et ses fleurs tubulaires rappellent celles des vrais chèvrefeuilles.",
+        "symbolism_story": "Parce que ses fleurs passent du jaune pâle à l'orange puis au rouge sur une même branche, la dièreville chèvrefeuille en est venue à incarner la résilience et le changement. Sa capacité à coloniser les terrains rocailleux et négligés en fait un discret emblème de persévérance.",
+        "flower_meaning": "Résilience",
+        "uses_list": [
+          {
+            "text": "Arbuste caduc rustique pour massifs, haies et plantations de masse, au feuillage d'automne coloré"
+          },
+          {
+            "text": "Ses fleurs d'été nourrissent les bourdons, les abeilles sauvages et les moro-sphinx"
+          },
+          {
+            "text": "Ses fourrés offrent abri et nourriture aux oiseaux et aux petits mammifères ; les drageons aident à stabiliser les talus"
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Résilience",
+            "description": "Prospère dans les sols pauvres, secs et ombragés où d'autres arbustes échouent."
+          },
+          {
+            "keyword": "Couleur changeante",
+            "description": "Les fleurs passent du jaune à l'orange puis au rouge en vieillissant."
+          }
+        ],
+        "toxicity": {
+          "headline": "Aucune toxicité signalée",
+          "active_compound_display": "Aucun signalé",
+          "notes_en": "Aucune source fiable sur la toxicité n'a été trouvée ; considérée comme non signalée (l'estimation du LLM n'est pas vérifiée par des sources).",
+          "human": {
+            "exposure": "Aucune voie d'exposition n'est signalée.",
+            "effect": "Aucun effet toxique n'est signalé.",
+            "note": "Aucune toxicité n'est signalée pour les humains dans ce catalogue ; cela ne prouve pas que la plante soit comestible ou inoffensive."
+          },
+          "dog": {
+            "exposure": "Aucune voie d'exposition n'est signalée.",
+            "effect": "Aucun effet toxique n'est signalé.",
+            "note": "Aucune toxicité n'est signalée pour les chiens dans ce catalogue ; cela ne prouve pas que la plante soit comestible ou inoffensive."
+          },
+          "cat": {
+            "exposure": "Aucune voie d'exposition n'est signalée.",
+            "effect": "Aucun effet toxique n'est signalé.",
+            "note": "Aucune toxicité n'est signalée pour les chats dans ce catalogue ; cela ne prouve pas que la plante soit comestible ou inoffensive."
           }
         }
       }
