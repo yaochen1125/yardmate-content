@@ -3,8 +3,8 @@
   "locale": "it",
   "source": {
     "resource": "plants_detail.json",
-    "sha256": "085eade3b9191c7d99c1e031793bb8cc996a77a128bb88331a4c04bbb822f487",
-    "record_count": 1785
+    "sha256": "683b1f5fc0d6d8d8aa07dfc20adecd6452ef308aec840963edc12dd69a1f40d2",
+    "record_count": 1786
   },
   "records": {
     "AAA0001": {
@@ -109188,6 +109188,82 @@
             "exposure": "Non è segnalata alcuna via di esposizione.",
             "effect": "Non è segnalato alcun effetto tossico.",
             "note": "In questo catalogo non è segnalata tossicità per i gatti; ciò non prova che la pianta sia commestibile o innocua."
+          }
+        }
+      }
+    },
+    "AAA1787": {
+      "source_hash": "b02f7ff80fde268164ca27ca43b96f1f3ab9b4d5d40cb7f56e25604cf51defae",
+      "fields": {
+        "common_name": "Giglio belladonna",
+        "bloom_tip": "Alla fine dell'estate e in autunno compaiono scapi privi di foglie, ciascuno con un grappolo di fiori rosa profumati a forma di imbuto.",
+        "fruit_tip": "Dopo la fioritura si formano piccole capsule verdi con semi carnosi; hanno scarso valore ornamentale.",
+        "description": "Il giglio belladonna (Amaryllis) è una pianta bulbosa perenne originaria del Capo Occidentale, in Sudafrica. Alla fine dell'estate e in autunno, spessi scapi violacei alti circa 60-90 centimetri spuntano dal terreno nudo, molto tempo dopo che le foglie nastriformi dell'inverno e della primavera sono appassite. Ogni scapo porta un grappolo di fiori profumati a imbuto, nelle tonalità del rosa e del bianco. Cresce bene in posizioni calde, soleggiate e ben drenate, tollera la siccità estiva durante il riposo ed è coltivata in bordure, vasi e come fiore reciso. Tutte le parti, soprattutto il bulbo, sono tossiche se ingerite.",
+        "history_text_short": "Nel Settecento il giglio belladonna viaggiò dal Capo di Buona Speranza fino ai giardini europei, affascinando botanici e collezionisti. Linneo diede il nome al genere prendendolo da una pastorella della poesia classica. I suoi scapi senza foglie, che ogni autunno spuntano come una sorpresa, gli hanno procurato l'affetto dei giardini di tutto il mondo.",
+        "history_text_long": "Il giglio belladonna è originario della costa a piogge invernali del Capo Occidentale, in Sudafrica, dove i bulbi dormono durante l'estate secca e fioriscono in autunno, poco prima delle prime piogge. Le navi olandesi che facevano scalo al Capo nel Seicento e nel Settecento portarono bulbi in Europa, e la pianta comparve presto nei giardini dei collezionisti che apprezzavano le novità di terre lontane. Quando Carlo Linneo descrisse il genere negli anni Cinquanta del Settecento, scelse il nome Amaryllis, preso da una pastorella dei poemi pastorali di Virgilio e Teocrito. Per molti anni il nome fu applicato anche alla grande e vistosa pianta d'appartamento oggi chiamata Hippeastrum, ed è per questo che i giardinieri chiamano ancora amaryllis quelle piante; i botanici hanno poi restituito il nome alla specie del Capo cui era destinato. Il portamento del giglio belladonna gli ha dato i suoi nomi comuni. I suoi scapi spuntano senza foglie intorno, così i fiori sembrano ergersi nudi nel giardino autunnale, e in Gran Bretagna e Australia è chiamato anche giglio belladonna o giglio di marzo, a seconda dell'emisfero. I giardinieri di California, Australia e Mediterraneo scoprirono che si adatta volentieri a bordure asciutte e soleggiate, e in molte regioni calde si è naturalizzato. Col tempo è diventato una fedele pianta da giardino di una volta: i bulbi lasciati indisturbati per anni formano ciuffi fitti e fioriscono più generosamente ogni stagione. Gli stessi bulbi contengono potenti alcaloidi, e chi li maneggia ha imparato a trattarli con rispetto. Oggi il giglio belladonna è coltivato per i suoi fiori profumati, che durano a lungo nel vaso, e per il silenzioso dramma di fiori che nascono dalla terra nuda.",
+        "name_origin": "Il nome del genere Amaryllis fu preso da Linneo da una pastorella della poesia pastorale di Virgilio, probabilmente da una parola greca che significa «brillare». Il soprannome «Naked Lady» (signora nuda) descrive i suoi scapi privi di foglie.",
+        "symbolism_story": "Poiché i suoi fiori spuntano audaci dalla terra nuda senza una sola foglia, il giglio belladonna è diventato simbolo di orgoglio e di bellezza inattesa. I giardinieri lo vedono spesso come simbolo di rinnovamento, perché i fiori compaiono proprio quando il giardino sembra spegnersi.",
+        "flower_meaning": "Orgoglio",
+        "fragrance": {
+          "notes": "Profumo dolce e fruttato, più intenso la sera."
+        },
+        "uses_list": [
+          {
+            "text": "Piantato in bordure soleggiate, giardini rocciosi e vasi per dare colore a fine stagione."
+          },
+          {
+            "text": "Gli steli recisi durano a lungo nel vaso e profumano la stanza."
+          },
+          {
+            "text": "I fiori ricchi di nettare attirano api e farfalle a fine anno."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Orgoglio",
+            "description": "Alti scapi audaci che si ergono soli, senza foglie."
+          },
+          {
+            "keyword": "Bellezza radiosa",
+            "description": "Morbidi fiori rosa che brillano nella luce autunnale."
+          },
+          {
+            "keyword": "Sorpresa",
+            "description": "Fiori che compaiono all'improvviso dalla terra nuda."
+          }
+        ],
+        "toxicity": {
+          "headline": "Animali domestici: moderata",
+          "active_compound_display": "licorina e ambellina",
+          "notes_en": "Il bulbo contiene licorina e alcaloidi correlati che irritano l'apparato digerente.",
+          "human": {
+            "exposure": "Nessuna via di esposizione segnalata.",
+            "effect": "Nessun effetto tossico segnalato.",
+            "note": "La tossicità per l'uomo non è ben documentata; usare cautela fino a verifica."
+          },
+          "dog": {
+            "exposure": "Ingestione di bulbi.",
+            "effect": "Vomito, salivazione, diarrea, letargia e dolore addominale.",
+            "note": "Il bulbo contiene licorina e alcaloidi correlati che irritano l'apparato digerente.",
+            "symptoms": [
+              "Vomito.",
+              "Salivazione.",
+              "Diarrea.",
+              "Letargia.",
+              "Dolore addominale."
+            ]
+          },
+          "cat": {
+            "exposure": "Ingestione di bulbi.",
+            "effect": "Vomito, salivazione, diarrea, letargia e dolore addominale.",
+            "note": "Il bulbo contiene licorina e alcaloidi correlati che irritano l'apparato digerente.",
+            "symptoms": [
+              "Vomito.",
+              "Salivazione.",
+              "Diarrea.",
+              "Letargia.",
+              "Dolore addominale."
+            ]
           }
         }
       }

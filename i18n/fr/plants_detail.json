@@ -3,8 +3,8 @@
   "locale": "fr",
   "source": {
     "resource": "plants_detail.json",
-    "sha256": "085eade3b9191c7d99c1e031793bb8cc996a77a128bb88331a4c04bbb822f487",
-    "record_count": 1785
+    "sha256": "683b1f5fc0d6d8d8aa07dfc20adecd6452ef308aec840963edc12dd69a1f40d2",
+    "record_count": 1786
   },
   "records": {
     "AAA0001": {
@@ -109174,6 +109174,82 @@
             "exposure": "Aucune voie d'exposition n'est signalée.",
             "effect": "Aucun effet toxique n'est signalé.",
             "note": "Aucune toxicité n'est signalée pour les chats dans ce catalogue ; cela ne prouve pas que la plante soit comestible ou inoffensive."
+          }
+        }
+      }
+    },
+    "AAA1787": {
+      "source_hash": "b02f7ff80fde268164ca27ca43b96f1f3ab9b4d5d40cb7f56e25604cf51defae",
+      "fields": {
+        "common_name": "Lis belladone",
+        "bloom_tip": "À la fin de l'été et en automne, des hampes sans feuilles portent une grappe de fleurs roses parfumées en forme d'entonnoir.",
+        "fruit_tip": "Après la floraison apparaissent de petites capsules vertes contenant des graines charnues ; elles ont peu d'intérêt ornemental.",
+        "description": "Le lis belladone (Amaryllis) est une plante vivace à bulbe originaire du Cap-Occidental, en Afrique du Sud. À la fin de l'été et en automne, d'épaisses hampes pourpres d'environ 60 à 90 centimètres jaillissent du sol nu, bien après que les feuilles en lanière de l'hiver et du printemps ont séché. Chaque hampe porte une grappe de fleurs parfumées en entonnoir, dans des tons de rose et de blanc. La plante aime les endroits chauds, ensoleillés et bien drainés, supporte la sécheresse estivale pendant son repos et se cultive en massifs, en pots et comme fleur coupée. Toutes ses parties, surtout le bulbe, sont toxiques en cas d'ingestion.",
+        "history_text_short": "Au XVIIIe siècle, le lis belladone a voyagé du Cap de Bonne-Espérance jusqu'aux jardins européens, fascinant botanistes et collectionneurs. Linné a nommé le genre en empruntant le nom d'une bergère de la poésie classique. Ses hampes sans feuilles, qui surgissent chaque automne comme une surprise, lui ont valu l'affection des jardiniers du monde entier.",
+        "history_text_long": "Le lis belladone est originaire de la côte à pluies hivernales du Cap-Occidental, en Afrique du Sud, où ses bulbes dorment pendant l'été sec et fleurissent en automne, juste avant les premières pluies. Les navires hollandais qui faisaient escale au Cap aux XVIIe et XVIIIe siècles ont rapporté des bulbes en Europe, et la plante est vite apparue dans les jardins de collectionneurs friands de nouveautés venues de terres lointaines. Lorsque Carl von Linné a décrit le genre dans les années 1750, il a choisi le nom Amaryllis, emprunté à une bergère des poèmes pastoraux de Virgile et de Théocrite. Pendant longtemps, ce nom a aussi désigné la grande plante d'intérieur spectaculaire aujourd'hui appelée Hippeastrum, ce qui explique que les jardiniers appellent encore ces plantes amaryllis ; les botanistes ont fini par rendre le nom à l'espèce du Cap à laquelle il était destiné. Le port du lis belladone lui a valu ses noms courants. Ses hampes surgissent sans feuilles autour, si bien que les fleurs semblent se dresser nues dans le jardin d'automne, et en Grande-Bretagne et en Australie on l'appelle aussi lis belladone ou lis de mars, selon l'hémisphère. Les jardiniers de Californie, d'Australie et de Méditerranée ont constaté qu'il s'accommode volontiers de massifs secs et ensoleillés, et il s'est naturalisé dans de nombreuses régions chaudes. Avec le temps, il est devenu une fidèle plante de jardin d'autrefois : les bulbes laissés en place pendant des années forment des touffes denses et fleurissent plus généreusement chaque saison. Ces mêmes bulbes contiennent de puissants alcaloïdes, et ceux qui les manipulent ont appris à les traiter avec respect. Aujourd'hui, on cultive le lis belladone pour ses fleurs parfumées, qui tiennent bien en vase, et pour le drame discret de fleurs surgissant d'une terre nue.",
+        "name_origin": "Le nom de genre Amaryllis a été emprunté par Linné à une bergère de la poésie pastorale de Virgile, probablement d'un mot grec signifiant « briller ». Le surnom « Naked Lady » (dame nue) décrit ses hampes sans feuilles.",
+        "symbolism_story": "Parce que ses fleurs jaillissent hardiment de la terre nue sans une seule feuille, le lis belladone est devenu un symbole de fierté et de beauté inattendue. Les jardiniers y voient souvent un symbole de renouveau, car les fleurs apparaissent juste au moment où le jardin semble s'éteindre.",
+        "flower_meaning": "Fierté",
+        "fragrance": {
+          "notes": "Parfum doux et fruité, plus intense le soir."
+        },
+        "uses_list": [
+          {
+            "text": "Planté en massifs ensoleillés, en rocaille et en pots pour apporter de la couleur en fin de saison."
+          },
+          {
+            "text": "Les tiges coupées tiennent bien en vase et parfument la pièce."
+          },
+          {
+            "text": "Ses fleurs riches en nectar attirent abeilles et papillons en fin d'année."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Fierté",
+            "description": "De hautes hampes audacieuses qui se dressent seules, sans feuilles."
+          },
+          {
+            "keyword": "Beauté rayonnante",
+            "description": "De douces fleurs roses qui brillent dans la lumière d'automne."
+          },
+          {
+            "keyword": "Surprise",
+            "description": "Des fleurs qui surgissent soudain de la terre nue."
+          }
+        ],
+        "toxicity": {
+          "headline": "Animaux : modérée",
+          "active_compound_display": "lycorine et ambelline",
+          "notes_en": "Le bulbe contient de la lycorine et des alcaloïdes apparentés qui irritent le tube digestif.",
+          "human": {
+            "exposure": "Aucune voie d'exposition signalée.",
+            "effect": "Aucun effet toxique signalé.",
+            "note": "La toxicité pour l'humain est mal documentée ; soyez prudent tant qu'elle n'est pas vérifiée."
+          },
+          "dog": {
+            "exposure": "Ingestion de bulbes.",
+            "effect": "Vomissements, hypersalivation, diarrhée, léthargie et douleurs abdominales.",
+            "note": "Le bulbe contient de la lycorine et des alcaloïdes apparentés qui irritent le tube digestif.",
+            "symptoms": [
+              "Vomissements.",
+              "Hypersalivation.",
+              "Diarrhée.",
+              "Léthargie.",
+              "Douleurs abdominales."
+            ]
+          },
+          "cat": {
+            "exposure": "Ingestion de bulbes.",
+            "effect": "Vomissements, hypersalivation, diarrhée, léthargie et douleurs abdominales.",
+            "note": "Le bulbe contient de la lycorine et des alcaloïdes apparentés qui irritent le tube digestif.",
+            "symptoms": [
+              "Vomissements.",
+              "Hypersalivation.",
+              "Diarrhée.",
+              "Léthargie.",
+              "Douleurs abdominales."
+            ]
           }
         }
       }

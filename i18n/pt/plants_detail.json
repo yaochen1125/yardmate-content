@@ -3,8 +3,8 @@
   "locale": "pt",
   "source": {
     "resource": "plants_detail.json",
-    "sha256": "085eade3b9191c7d99c1e031793bb8cc996a77a128bb88331a4c04bbb822f487",
-    "record_count": 1785
+    "sha256": "683b1f5fc0d6d8d8aa07dfc20adecd6452ef308aec840963edc12dd69a1f40d2",
+    "record_count": 1786
   },
   "records": {
     "AAA0001": {
@@ -109188,6 +109188,82 @@
             "exposure": "Não é relatada nenhuma via de exposição.",
             "effect": "Não é relatado nenhum efeito tóxico.",
             "note": "Neste catálogo não é relatada toxicidade para gatos; isso não prova que a planta seja comestível ou inofensiva."
+          }
+        }
+      }
+    },
+    "AAA1787": {
+      "source_hash": "b02f7ff80fde268164ca27ca43b96f1f3ab9b4d5d40cb7f56e25604cf51defae",
+      "fields": {
+        "common_name": "Lírio-belladona",
+        "bloom_tip": "No final do verão e no outono surgem hastes florais sem folhas, cada uma coroada por um cacho de flores rosa perfumadas em forma de funil.",
+        "fruit_tip": "Depois das flores surgem pequenas cápsulas verdes com sementes carnudas; têm pouco valor ornamental.",
+        "description": "O lírio-belladona (Amaryllis) é uma planta bulbosa perene originária do Cabo Ocidental, na África do Sul. No final do verão e no outono, grossas hastes florais arroxeadas, com cerca de 60 a 90 centímetros, brotam do solo nu, muito depois de as folhas em forma de fita do inverno e da primavera terem secado. Cada haste traz um cacho de flores perfumadas em forma de funil, em tons de rosa e branco. Prospera em locais quentes, ensolarados e bem drenados, tolera a seca do verão durante o repouso e é cultivada em canteiros, vasos e como flor de corte. Todas as partes, sobretudo o bulbo, são tóxicas se ingeridas.",
+        "history_text_short": "No século XVIII, o lírio-belladona viajou do Cabo da Boa Esperança para os jardins europeus e fascinou botânicos e colecionadores. Lineu deu nome ao género tomando-o de uma pastora da poesia clássica. As suas hastes sem folhas, que surgem como surpresa todos os outonos, conquistaram o carinho de jardins de todo o mundo.",
+        "history_text_long": "O lírio-belladona é nativo da costa de chuvas de inverno do Cabo Ocidental, na África do Sul, onde os bulbos dormem durante o verão seco e florescem no outono, pouco antes das primeiras chuvas. Os navios holandeses que faziam escala no Cabo nos séculos XVII e XVIII levaram bulbos para a Europa, e a planta depressa apareceu nos jardins de colecionadores que valorizavam novidades de terras distantes. Quando Carlos Lineu descreveu o género na década de 1750, escolheu o nome Amaryllis, tirado de uma pastora dos poemas pastoris de Virgílio e Teócrito. Durante muitos anos o nome foi também aplicado à vistosa planta de interior hoje conhecida como Hippeastrum, razão pela qual os jardineiros ainda chamam amarílis a essas plantas; os botânicos acabaram por devolver o nome à espécie do Cabo a que se destinava. O porte do lírio-belladona deu-lhe os seus nomes populares. As hastes florais surgem sem folhas à volta, de modo que as flores parecem estar nuas no jardim outonal, e na Grã-Bretanha e na Austrália também é chamado lírio-belladona ou lírio-de-março, conforme o hemisfério. Os jardineiros da Califórnia, da Austrália e do Mediterrâneo descobriram que se dá bem em canteiros secos e ensolarados, e em muitas regiões quentes tornou-se espontânea. Com o tempo, tornou-se uma fiel planta de jardim antigo: bulbos deixados em paz durante anos formam touceiras densas e florescem mais a cada estação. Esses mesmos bulbos contêm alcaloides potentes, e quem os manuseia aprendeu a tratá-los com respeito. Hoje, o lírio-belladona é cultivado pelas suas flores perfumadas, que duram bem na jarra, e pelo discreto drama de flores que surgem da terra nua.",
+        "name_origin": "O nome do género Amaryllis foi tomado por Lineu de uma pastora da poesia pastoril de Virgílio, provavelmente de uma palavra grega que significa «brilhar». O apelido «Naked Lady» (dama nua) descreve as suas hastes florais sem folhas.",
+        "symbolism_story": "Como as suas flores surgem ousadamente da terra nua, sem uma única folha, o lírio-belladona passou a simbolizar orgulho e beleza inesperada. Os jardineiros veem-no muitas vezes como símbolo de renovação, pois as flores aparecem justamente quando o jardim parece esmorecer.",
+        "flower_meaning": "Orgulho",
+        "fragrance": {
+          "notes": "Perfume doce e frutado, mais intenso ao entardecer."
+        },
+        "uses_list": [
+          {
+            "text": "Plantado em canteiros ensolarados, jardins de pedras e vasos para dar cor no fim da estação."
+          },
+          {
+            "text": "As hastes cortadas duram bem na jarra e perfumam o ambiente."
+          },
+          {
+            "text": "As flores ricas em néctar atraem abelhas e borboletas no fim do ano."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Orgulho",
+            "description": "Hastes altas e ousadas que se erguem sozinhas, sem folhas."
+          },
+          {
+            "keyword": "Beleza radiante",
+            "description": "Flores rosa suaves que brilham na luz do outono."
+          },
+          {
+            "keyword": "Surpresa",
+            "description": "Flores que surgem de repente da terra nua."
+          }
+        ],
+        "toxicity": {
+          "headline": "Animais de estimação: moderada",
+          "active_compound_display": "licorina e ambelina",
+          "notes_en": "O bulbo contém licorina e alcaloides relacionados que irritam o trato digestivo.",
+          "human": {
+            "exposure": "Nenhuma via de exposição relatada.",
+            "effect": "Nenhum efeito tóxico relatado.",
+            "note": "A toxicidade para humanos não está bem documentada; tenha cautela até que seja verificada."
+          },
+          "dog": {
+            "exposure": "Comer bulbos.",
+            "effect": "Vómitos, salivação, diarreia, letargia e dor abdominal.",
+            "note": "O bulbo contém licorina e alcaloides relacionados que irritam o trato digestivo.",
+            "symptoms": [
+              "Vómitos.",
+              "Salivação.",
+              "Diarreia.",
+              "Letargia.",
+              "Dor abdominal."
+            ]
+          },
+          "cat": {
+            "exposure": "Comer bulbos.",
+            "effect": "Vómitos, salivação, diarreia, letargia e dor abdominal.",
+            "note": "O bulbo contém licorina e alcaloides relacionados que irritam o trato digestivo.",
+            "symptoms": [
+              "Vómitos.",
+              "Salivação.",
+              "Diarreia.",
+              "Letargia.",
+              "Dor abdominal."
+            ]
           }
         }
       }

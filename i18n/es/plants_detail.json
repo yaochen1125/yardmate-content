@@ -3,8 +3,8 @@
   "locale": "es",
   "source": {
     "resource": "plants_detail.json",
-    "sha256": "085eade3b9191c7d99c1e031793bb8cc996a77a128bb88331a4c04bbb822f487",
-    "record_count": 1785
+    "sha256": "683b1f5fc0d6d8d8aa07dfc20adecd6452ef308aec840963edc12dd69a1f40d2",
+    "record_count": 1786
   },
   "records": {
     "AAA0001": {
@@ -109188,6 +109188,82 @@
             "exposure": "No se informa de ninguna vía de exposición.",
             "effect": "No se informa de ningún efecto tóxico.",
             "note": "En este catálogo no se informa de toxicidad para los gatos; esto no prueba que la planta sea comestible o inofensiva."
+          }
+        }
+      }
+    },
+    "AAA1787": {
+      "source_hash": "b02f7ff80fde268164ca27ca43b96f1f3ab9b4d5d40cb7f56e25604cf51defae",
+      "fields": {
+        "common_name": "Azucena belladona",
+        "bloom_tip": "A finales del verano y en otoño surgen tallos florales sin hojas, coronados por un racimo de flores rosas, aromáticas y en forma de embudo.",
+        "fruit_tip": "Tras las flores aparecen pequeñas cápsulas verdes con semillas carnosas; tienen poco valor ornamental.",
+        "description": "La azucena belladona (Amaryllis) es una planta bulbosa perenne originaria del Cabo Occidental, en Sudáfrica. A finales del verano y en otoño, gruesos tallos florales purpúreos de unos 60 a 90 centímetros brotan del suelo desnudo, mucho después de que se hayan secado las hojas acintadas del invierno y la primavera. Cada tallo lleva un racimo de flores aromáticas en forma de embudo, en tonos rosa y blanco. Prospera en lugares cálidos, soleados y bien drenados, tolera la sequía estival durante el reposo y se cultiva en borduras, macetas y como flor cortada. Todas sus partes, en especial el bulbo, son tóxicas si se ingieren.",
+        "history_text_short": "En el siglo XVIII, la azucena belladona viajó desde el Cabo de Buena Esperanza a los jardines europeos y fascinó a botánicos y coleccionistas. Linneo dio nombre al género tomándolo de una pastora de la poesía clásica. Sus tallos sin hojas, que cada otoño aparecen como una sorpresa, le han ganado cariño en jardines de todo el mundo.",
+        "history_text_long": "La azucena belladona es nativa de la costa de lluvias invernales del Cabo Occidental, en Sudáfrica, donde sus bulbos duermen durante el verano seco y florecen en otoño, justo antes de las primeras lluvias. Los barcos holandeses que hacían escala en el Cabo en los siglos XVII y XVIII llevaron bulbos a Europa, y la planta pronto apareció en los jardines de coleccionistas que apreciaban las novedades de tierras lejanas. Cuando Carlos Linneo describió el género en la década de 1750, eligió el nombre Amaryllis, tomado de una pastora de los poemas pastoriles de Virgilio y Teócrito. Durante muchos años el nombre se aplicó también a la llamativa planta de interior que hoy se conoce como Hippeastrum, por lo que los jardineros aún llaman amarilis a esas plantas; los botánicos acabaron devolviendo el nombre a la especie del Cabo para la que se pensó. El porte de la azucena belladona le dio sus nombres cotidianos. Sus tallos florales surgen sin hojas alrededor, de modo que las flores parecen estar desnudas en el jardín otoñal, y en Gran Bretaña y Australia también se llama lirio belladona o lirio de marzo, según el hemisferio. Los jardineros de California, Australia y el Mediterráneo descubrieron que se adapta bien a borduras secas y soleadas, y se asilvestró en muchas regiones cálidas. Con el tiempo se convirtió en una fiel planta de jardín de toda la vida: los bulbos que no se tocan durante años forman macizos densos y florecen con más abundancia cada temporada. Esos mismos bulbos contienen alcaloides potentes, y quienes los manipulan aprendieron a tratarlos con respeto. Hoy se cultiva la azucena belladona por sus flores perfumadas, que duran en el florero, y por el discreto drama de unas flores que surgen de la tierra desnuda.",
+        "name_origin": "El nombre del género Amaryllis lo tomó Linneo de una pastora de la poesía pastoril de Virgilio, probablemente de una palabra griega que significa «brillar». El apodo «Naked Lady» (dama desnuda) describe sus tallos florales sin hojas.",
+        "symbolism_story": "Como sus flores surgen con audacia de la tierra desnuda, sin una sola hoja, la azucena belladona llegó a simbolizar el orgullo y la belleza inesperada. Los jardineros suelen verla como símbolo de renovación, ya que las flores aparecen justo cuando el jardín parece apagarse.",
+        "flower_meaning": "Orgullo",
+        "fragrance": {
+          "notes": "Perfume dulce y afrutado, más intenso al atardecer."
+        },
+        "uses_list": [
+          {
+            "text": "Se planta en borduras soleadas, jardines de rocalla y macetas para dar color a final de temporada."
+          },
+          {
+            "text": "Los tallos cortados duran bien en el jarrón y perfuman la habitación."
+          },
+          {
+            "text": "Sus flores ricas en néctar atraen abejas y mariposas a finales del año."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Orgullo",
+            "description": "Tallos florales altos y audaces que se alzan solos, sin hojas."
+          },
+          {
+            "keyword": "Belleza radiante",
+            "description": "Suaves flores rosas que brillan con la luz otoñal."
+          },
+          {
+            "keyword": "Sorpresa",
+            "description": "Flores que aparecen de repente en la tierra desnuda."
+          }
+        ],
+        "toxicity": {
+          "headline": "Mascotas: moderada",
+          "active_compound_display": "licorina y ambelina",
+          "notes_en": "El bulbo contiene licorina y alcaloides afines que irritan el aparato digestivo.",
+          "human": {
+            "exposure": "No se ha notificado ninguna vía de exposición.",
+            "effect": "No se ha notificado ningún efecto tóxico.",
+            "note": "La toxicidad para las personas no está bien documentada; extreme la precaución hasta que se verifique."
+          },
+          "dog": {
+            "exposure": "Comer bulbos.",
+            "effect": "Vómitos, babeo, diarrea, letargo y dolor abdominal.",
+            "note": "El bulbo contiene licorina y alcaloides afines que irritan el aparato digestivo.",
+            "symptoms": [
+              "Vómitos.",
+              "Babeo.",
+              "Diarrea.",
+              "Letargo.",
+              "Dolor abdominal."
+            ]
+          },
+          "cat": {
+            "exposure": "Comer bulbos.",
+            "effect": "Vómitos, babeo, diarrea, letargo y dolor abdominal.",
+            "note": "El bulbo contiene licorina y alcaloides afines que irritan el aparato digestivo.",
+            "symptoms": [
+              "Vómitos.",
+              "Babeo.",
+              "Diarrea.",
+              "Letargo.",
+              "Dolor abdominal."
+            ]
           }
         }
       }
