@@ -3,8 +3,8 @@
   "locale": "it",
   "source": {
     "resource": "plants_detail.json",
-    "sha256": "281e9140c3a5a61183c1e815c2dcb0e344686424a214939fbf48faa2f08796fe",
-    "record_count": 1778
+    "sha256": "6a2f9a06d96bfecaac3a2976cfcc960c840a6507ab2ec994253652268afe1ef6",
+    "record_count": 1783
   },
   "records": {
     "AAA0001": {
@@ -108771,6 +108771,276 @@
             "exposure": "Non è segnalata alcuna via di esposizione.",
             "effect": "Non è segnalato alcun effetto tossico.",
             "note": "In questo catalogo non è segnalata tossicità per l'uomo; ciò non prova che la pianta sia commestibile o innocua."
+          },
+          "dog": {
+            "exposure": "Non è segnalata alcuna via di esposizione.",
+            "effect": "Non è segnalato alcun effetto tossico.",
+            "note": "In questo catalogo non è segnalata tossicità per i cani; ciò non prova che la pianta sia commestibile o innocua."
+          },
+          "cat": {
+            "exposure": "Non è segnalata alcuna via di esposizione.",
+            "effect": "Non è segnalato alcun effetto tossico.",
+            "note": "In questo catalogo non è segnalata tossicità per i gatti; ciò non prova che la pianta sia commestibile o innocua."
+          }
+        }
+      }
+    },
+    "AAA1780": {
+      "source_hash": "439badb016db5f2aefdb6a52d927a0c86b66517f551dced2f5983ec6075f78e9",
+      "fields": {
+        "common_name": "Crespino della California",
+        "bloom_tip": "I grappoli di fiori giallo dorato sbocciano da fine inverno a primavera; pota subito dopo la fioritura.",
+        "fruit_tip": "Le bacche blu-violacee maturano in estate e si lasciano agli uccelli.",
+        "description": "Il Crespino della California (Berberis pinnata) è un arbusto sempreverde della costa e delle colline californiane, con foglie composte lucide e dentate spinose che ricordano l'agrifoglio. In primavera porta grappoli profumati di fiori giallo dorato, seguiti da bacche blu-violacee pruinose gradite agli uccelli. Una volta attecchito tollera le estati asciutte, cresce al sole o a mezz'ombra ed è adatto come siepe robusta e amica della fauna o come arbusto di sottobosco.",
+        "history_text_short": "Molto prima di essere apprezzato dai giardinieri, il Crespino della California cresceva nelle querce e nel chaparral dell'America settentrionale occidentale. I popoli indigeni della California usavano il legno interno giallo e le radici come colorante e tonico amaro, e mangiavano le bacche aspre. Oggi è apprezzato come arbusto autoctono robusto, simile all'agrifoglio, per siepi e giardini per la fauna.",
+        "history_text_long": "Il Crespino della California è uno degli arbusti autoctoni più discreti della costa del Pacifico e cresce nei boschi costieri, ai margini del chaparral e nei canyon ombrosi, dalla Bay Area alla Baja California. Le foglie pennate, con foglioline dentate spinose, portarono i primi botanici a paragonarlo all'agrifoglio; a lungo fu classificato nel genere separato Mahonia prima di essere unito a Berberis. I popoli indigeni della California conoscevano bene questa pianta. Il legno interno giallo vivo e le radici dei crespini contengono berberina, un pigmento e alcaloide amaro, e servivano a tingere cesti e fibre e in preparati amari tradizionali, mentre le bacche blu aspre si mangiavano fresche o si trasformavano in bevande. In seguito coloni e primi giardinieri notarono quanto bene l'arbusto sopportasse estati asciutte e suoli poveri, e lo introdussero nei giardini di piante autoctone come affidabile struttura sempreverde. A fine inverno i fiori dorati sono tra le prime fonti di cibo per api e altri impollinatori precoci, e le bacche nutrono tordi, beccofrusoni e altri uccelli per tutta l'estate e l'autunno. Il fogliame spinoso lo rende inoltre una siepe difensiva utile che dà riparo ai piccoli uccelli. Oggi il Crespino della California è piantato per il controllo dell'erosione, per progetti di ripristino e per paesaggi resistenti alla siccità: un arbusto modesto ma generoso che collega il giardino alle colline selvagge della California.",
+        "name_origin": "Berberis deriva dal nome latino medievale del crespino, forse da una parola araba per il frutto; «pinnata» in latino significa «a forma di penna» e descrive le foglie composte con foglioline disposte lungo un asse centrale.",
+        "symbolism_story": "Con il suo fogliame spinoso e la resistenza alla siccità, il Crespino della California è diventato simbolo di resilienza e di silenziosa protezione: custodisce le sue bacche e gli uccelli che ne dipendono, illuminando d'oro le prime settimane dell'anno.",
+        "flower_meaning": "Resilienza",
+        "fragrance": {
+          "notes": "Profumo leggermente dolce dei fiori primaverili."
+        },
+        "uses_list": [
+          {
+            "text": "Fogliame sempreverde simile all'agrifoglio e fiori gialli primaverili per bordure e siepi."
+          },
+          {
+            "text": "Le bacche nutrono gli uccelli e il fogliame spinoso offre riparo per la nidificazione."
+          },
+          {
+            "text": "I fiori precoci offrono nettare ad api e altri impollinatori."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Resilienza",
+            "description": "Cresce su pendii aridi e suoli poveri."
+          },
+          {
+            "keyword": "Protezione",
+            "description": "Le foglie spinose proteggono come una recinzione naturale."
+          }
+        ],
+        "toxicity": {
+          "headline": "Esseri umani: lieve",
+          "active_compound_display": "berberina",
+          "notes_en": "Radici e corteccia contengono berberina; quantità elevate possono irritare lo stomaco.",
+          "human": {
+            "exposure": "Ingestione di radici e corteccia.",
+            "effect": "Nausea, vomito e diarrea.",
+            "note": "Radici e corteccia contengono berberina; quantità elevate possono irritare lo stomaco.",
+            "symptoms": [
+              "Nausea.",
+              "Vomito.",
+              "Diarrea."
+            ]
+          },
+          "dog": {
+            "exposure": "Non è segnalata alcuna via di esposizione.",
+            "effect": "Non è segnalato alcun effetto tossico.",
+            "note": "In questo catalogo non è segnalata tossicità per i cani; ciò non prova che la pianta sia commestibile o innocua."
+          },
+          "cat": {
+            "exposure": "Non è segnalata alcuna via di esposizione.",
+            "effect": "Non è segnalato alcun effetto tossico.",
+            "note": "In questo catalogo non è segnalata tossicità per i gatti; ciò non prova che la pianta sia commestibile o innocua."
+          }
+        }
+      }
+    },
+    "AAA1781": {
+      "source_hash": "f22e34e66ffd9e88eccf86ec0dfd4d830844bca67b722f3b6a7bfe023d4d3cae",
+      "fields": {
+        "common_name": "Argyroderma delaetii",
+        "bloom_tip": "I fiori si aprono al sole del pomeriggio e si richiudono la sera.",
+        "fruit_tip": "La capsula legnosa si apre quando è bagnata e si richiude asciugandosi.",
+        "description": "Argyroderma delaetii è una minuscola succulenta sudafricana che sembra una coppia di ciottoli lisci grigio argento. Ogni pianta forma pochi paia di foglie spesse e ovoidali, alte solo qualche centimetro, premute l'una contro l'altra e separate da una stretta fessura. In autunno da questa fessura spunta un singolo fiore simile a una margherita, di solito in tonalità magenta o rosa. Richiede un drenaggio rapidissimo, luce intensa e annaffiature misurate, e si adatta a vasi bassi, vasche con ghiaia e giardini rocciosi.",
+        "history_text_short": "Argyroderma significa «pelle d'argento» in greco, un richiamo alla patina pallida e polverosa delle sue foglie. Nel pietroso Capo Occidentale queste succulente simili a ciottoli restano quasi a filo del terreno, così gli animali al pascolo le superano senza notarle. I collezionisti le apprezzano come «pietre viventi» che fioriscono ogni autunno.",
+        "history_text_long": "Argyroderma delaetii appartiene a un piccolo gruppo di succulente sudafricane spesso chiamate pietre viventi o piante mimetiche. Le sue foglie somigliano tanto per colore e forma ai ciottoli di quarzo circostanti che è facile calpestarne una senza accorgersene. Si ritiene comunemente che questo camuffamento le eviti di essere mangiata dagli animali al pascolo in un paesaggio arido e aperto, con poca copertura.\n\nIl nome del genere nasce dalle parole greche argyros, «argento», e derma, «pelle», per l'aspetto argenteo e leggermente polveroso della superficie fogliare. L'epiteto specifico onora un certo De Laet, uno degli appassionati europei di succulente che a inizio Novecento contribuirono a far conoscere ai coltivatori queste strane piantine, quando i collezionisti europei erano affascinati dai bizzarri mesemb in arrivo dall'Africa australe.\n\nLa pianta cresce soprattutto sotto la superficie del terreno e affiorano solo le punte arrotondate delle foglie. Un robusto apparato radicale la ancora al suolo ghiaioso e accumula acqua. Ogni stagione si rinnova una sola coppia di foglie: quella vecchia si raggrinzisce e forma una guaina cartacea attorno alla nuova, che cresce dalla fessura tra le due. I fiori nascono dalla stessa fessura, si aprono nelle ore calde del giorno e si chiudono di notte.\n\nLe capsule dei semi sono igrocastiche, cioè si aprono con l'umidità e si chiudono con la secchezza. Bastano poche gocce di pioggia per aprirle e i semi vengono poi trasportati dagli spruzzi d'acqua, una strategia adatta a una regione dove la pioggia è rara e imprevedibile.\n\nOggi Argyroderma delaetii è coltivata dagli appassionati di succulente in vasi bassi con substrato minerale, dove è apprezzata per la sua quieta bellezza da pietra e per i suoi fiori inaspettatamente colorati.",
+        "name_origin": "Argyroderma deriva dal greco argyros (argento) e derma (pelle), per la superficie argentea delle foglie. L'epiteto delaetii onora un collezionista di nome De Laet.",
+        "symbolism_story": "Poiché Argyroderma delaetii si nasconde in piena vista tra i ciottoli, viene spesso vista come simbolo di modestia e di resilienza silenziosa. Riserva il suo momento migliore all'autunno, quando un fiore audace spunta da una pianta che per il resto dell'anno sembra una pietra.",
+        "flower_meaning": "Mimetismo",
+        "uses_list": [
+          {
+            "text": "Apprezzata come piccola succulenta da collezione per vasi bassi e vasche con ghiaia."
+          },
+          {
+            "text": "I fiori autunnali offrono nettare e polline ai piccoli insetti del suo habitat d'origine."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Mimetismo",
+            "description": "Si confonde con le pietre che la circondano e rappresenta una discreta autoprotezione."
+          },
+          {
+            "keyword": "Pazienza",
+            "description": "Cresce lentamente e fiorisce solo quando la stagione è giusta."
+          }
+        ],
+        "toxicity": {
+          "headline": "Nessuna tossicità segnalata",
+          "active_compound_display": "Nessuno segnalato",
+          "notes_en": "Non è stata trovata alcuna fonte autorevole sulla tossicità; trattata come «non segnalata» (la stima dell'LLM non è verificata da fonti).",
+          "human": {
+            "exposure": "Non è segnalata alcuna via di esposizione.",
+            "effect": "Non è segnalato alcun effetto tossico.",
+            "note": "In questo catalogo non è segnalata tossicità per l'uomo; ciò non dimostra che la pianta sia commestibile o innocua."
+          },
+          "dog": {
+            "exposure": "Non è segnalata alcuna via di esposizione.",
+            "effect": "Non è segnalato alcun effetto tossico.",
+            "note": "In questo catalogo non è segnalata tossicità per i cani; ciò non dimostra che la pianta sia commestibile o innocua."
+          },
+          "cat": {
+            "exposure": "Non è segnalata alcuna via di esposizione.",
+            "effect": "Non è segnalato alcun effetto tossico.",
+            "note": "In questo catalogo non è segnalata tossicità per i gatti; ciò non dimostra che la pianta sia commestibile o innocua."
+          }
+        }
+      }
+    },
+    "AAA1782": {
+      "source_hash": "822d2aa3b8b7539e47b328ef1ba3284425d274dd032bc3cbff4d425616d88579",
+      "fields": {
+        "common_name": "Sassifraga solcata",
+        "bloom_tip": "I fiori di questa pianta sbocciano a giugno e luglio.",
+        "description": "La sassifraga solcata (Saxifraga exarata) è una piccola perenne alpina cespitosa che forma soffici cuscini di foglie solcate e trilobate, ricoperte di peli appiccicosi. All'inizio dell'estate emette brevi steli con grappoli di fiori bianco crema a cinque petali. Originaria delle montagne d'Europa, cresce nelle fessure delle rocce e sui terreni sassosi, ed è adatta a giardini rocciosi, vasche di pietra e letti di ghiaia con drenaggio molto rapido e condizioni fresche.",
+        "history_text_short": "I botanici chiamarono la sassifraga solcata per i profondi solchi che segnano le sue foglie. Crescendo nelle fessure delle rocce d'alta montagna, divenne un soggetto classico per i cacciatori di piante alpine e gli appassionati di giardini rocciosi, apprezzata per la sua capacità di prosperare dove quasi nient'altro cresce.",
+        "history_text_long": "La sassifraga solcata appartiene al grande genere Saxifraga, il cui nome deriva dal latino e significa «spaccapietre». Gli antichi erboristi vedevano le sassifraghe spuntare dalla pietra viva e immaginavano che spaccassero la roccia, una credenza che ha plasmato il nome del genere e la sua fama. La sassifraga solcata ha ricevuto il nome di specie dall'aspetto solcato delle sue piccole foglie, divise in brevi lobi e coperte di fini peli appiccicosi.\n\nÈ una pianta dell'alta montagna europea, e si trova tra rocce, ghiaioni e sottili terreni montani, dove gli inverni sono lunghi e la neve è alta. La sua forma compatta a cuscino è una strategia alpina di sopravvivenza: la crescita fitta trattiene il calore, ripara i punti di crescita dal vento e conserva la scarsa umidità. All'inizio dell'estate, brevi steli fioriferi si innalzano sopra il cuscino con grappoli di piccoli fiori bianco crema, che attirano piccole mosche e altri insetti durante la breve stagione vegetativa di montagna.\n\nNel corso dell'Ottocento e del Novecento, la nascita del giardinaggio roccioso e delle società alpine in Gran Bretagna e in tutta Europa portò molte sassifraghe di montagna in coltivazione. I giardinieri costruirono muri di tufo, ghiaioni rialzati e vasche di pietra per imitare l'habitat d'alta quota, e la sassifraga solcata trovò posto in queste collezioni. Oggi resta una scelta modesta ma affascinante per chi ama le piante piccole e resistenti, e cresce ancora spontanea sui pendii di montagna, dove da sempre fa parte della flora alpina.",
+        "name_origin": "Il nome del genere Saxifraga deriva dal latino «saxum» (roccia) e «frangere» (spezzare), e significa «spaccapietre». L'epiteto «exarata» è latino per «solcata» o «arata», in riferimento alle foglie solcate.",
+        "symbolism_story": "Poiché le sassifraghe sembrano nascere dalla roccia viva, sono da tempo associate alla perseveranza. La sassifraga solcata, incastonata nelle fessure di montagna e fiorita nel breve estate alpino, è un simbolo discreto di resistenza e di forza silenziosa nei luoghi difficili.",
+        "flower_meaning": "Resistenza",
+        "uses_list": [
+          {
+            "text": "Coltivata in giardini rocciosi, vasche di pietra e letti di ghiaia come compatto accento alpino."
+          },
+          {
+            "text": "I suoi piccoli fiori bianchi offrono nettare a mosche e altri piccoli insetti all'inizio dell'estate."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Resistenza",
+            "description": "Prospera in fredde fessure rocciose di montagna e rappresenta la robustezza in condizioni difficili."
+          },
+          {
+            "keyword": "Tenacia",
+            "description": "La sua forma compatta a cuscino mostra come le piante piccole sopravvivano al vento e all'inverno."
+          }
+        ],
+        "toxicity": {
+          "headline": "Nessuna tossicità segnalata",
+          "active_compound_display": "Nessuno segnalato",
+          "notes_en": "Nessuna corrispondenza autorevole sulla tossicità trovata; trattata come «non segnalata» (la stima del LLM non è verificata da fonti).",
+          "human": {
+            "exposure": "Non è segnalata alcuna via di esposizione.",
+            "effect": "Non è segnalato alcun effetto tossico.",
+            "note": "In questo catalogo non è segnalata tossicità per gli esseri umani; ciò non prova che la pianta sia commestibile o innocua."
+          },
+          "dog": {
+            "exposure": "Non è segnalata alcuna via di esposizione.",
+            "effect": "Non è segnalato alcun effetto tossico.",
+            "note": "In questo catalogo non è segnalata tossicità per i cani; ciò non prova che la pianta sia commestibile o innocua."
+          },
+          "cat": {
+            "exposure": "Non è segnalata alcuna via di esposizione.",
+            "effect": "Non è segnalato alcun effetto tossico.",
+            "note": "In questo catalogo non è segnalata tossicità per i gatti; ciò non prova che la pianta sia commestibile o innocua."
+          }
+        }
+      }
+    },
+    "AAA1783": {
+      "source_hash": "ac9d7c3c21235a548923fba327462d493720e0fac4d85c4c98c65c3c2caadeb5",
+      "fields": {
+        "common_name": "Sassifraga stolonifera",
+        "bloom_tip": "La pianta fiorisce da aprile a giugno, con fiori abbondanti e vivaci.",
+        "description": "La sassifraga stolonifera (Saxifraga stolonifera) è una piccola perenne sempreverde originaria dell'Asia orientale. Le foglie rotonde e morbidamente pelose hanno nervature argentate e la pagina inferiore soffusa di rosso; si diffonde con sottili stoloni che radicano e formano nuove piantine, proprio come una fragola. A fine primavera compaiono pannocchie leggere di piccoli fiori bianchi, con i due petali inferiori lunghi e penduli. Prospera in ombra fresca e umida e si presta come tappezzante, per cestini appesi o come pianta da appartamento.",
+        "history_text_short": "Nonostante il nome, la sassifraga stolonifera non è né una fragola né una begonia. Originaria di Cina, Giappone e Corea, si diffonde con stoloni rossi come un tralcio di fragola. Coltivata da tempo nei giardini dell'Asia orientale e nelle tradizioni erboristiche, è poi diventata una pianta da ombra e da appartamento molto amata in Occidente.",
+        "history_text_long": "La sassifraga stolonifera appartiene al genere Saxifraga, «spaccapietre», ma non somiglia affatto ai minuscoli cuscinetti alpini formati dalla maggior parte delle sassifraghe. Proviene dalle pareti rocciose umide e ombrose, dalle rive dei torrenti e dalle rocce muschiose di Cina, Giappone e Corea, dove le sue foglie rotonde dalle nervature argentate ricoprono la pietra. Il nome comune deriva da due somiglianze: gli stoloni rossi, che radicano all'apice formando nuove piantine come nella fragola, e le foglie rotonde con la pagina inferiore rossa, che ricordano quelle di una begonia.\n\nIn Cina la pianta è detta «hu er cao», erba orecchio di tigre, per la forma e i soffici peli delle foglie, e occupa da tempo un posto nella medicina popolare tradizionale. In Giappone si chiama «yukinoshita», «sotto la neve», un nome che evoca le pallide pannocchie di fiori viste nell'ombra fresca invernale di vecchi giardini e templi. È coltivata nei giardini giapponesi da secoli, accanto alle lanterne di pietra e lungo i sentieri ricoperti di muschio.\n\nLa specie giunse in Europa nel XVIII secolo, quando i raccoglitori di piante portarono esemplari vivi dall'Asia orientale. I giardinieri vittoriani la apprezzavano nelle casse di Ward, nei cestini appesi e nelle serre fresche, ed è rimasta da allora una pianta da appartamento popolare e facile. Le forme coltivate con foglie marmorizzate di crema e rosa, come 'Tricolor', sono particolarmente apprezzate. Poiché le sue piantine pendono da lunghi stoloni come piccoli ragni, è anche chiamata «madre di migliaia», e una sola pianta può riempire un angolo ombroso in poche stagioni.",
+        "name_origin": "Il nome del genere Saxifraga deriva dal latino «saxum» (roccia) e «frangere» (spezzare), e significa «spaccapietre». L'epiteto «stolonifera» in latino significa «che porta stoloni» e si riferisce agli stoloni striscianti che producono nuove piantine.",
+        "symbolism_story": "In Giappone la sassifraga stolonifera è legata all'affetto discreto e alla gentile perseveranza. I suoi stoloni si allungano e radicano nuove piantine intorno alla pianta madre, immagine paragonata a una famiglia che cresce unita, e i suoi fiori bianchi si levano dall'ombra con un fascino delicato e costante.",
+        "flower_meaning": "Affetto",
+        "uses_list": [
+          {
+            "text": "Coltivata come tappezzante da ombra, in cestini appesi e come pianta da appartamento per le foglie marmorizzate e le pannocchie di fiori bianchi."
+          },
+          {
+            "text": "Usata nella medicina popolare tradizionale dell'Asia orientale, dove è nota come erba orecchio di tigre."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Affetto",
+            "description": "I suoi stoloni emettono nuove piantine, segno di legami familiari e di un amore che si tramanda."
+          },
+          {
+            "keyword": "Perseveranza",
+            "description": "Radicata nelle fresche fessure rocciose, porta la fama di quieta resilienza delle sassifraghe."
+          }
+        ],
+        "toxicity": {
+          "headline": "Nessuna tossicità segnalata",
+          "active_compound_display": "Nessuno segnalato",
+          "notes_en": "Non è stata trovata alcuna fonte autorevole sulla tossicità; trattata come «non segnalata» (la stima dell'LLM non è verificata da fonti).",
+          "human": {
+            "exposure": "Non è segnalata alcuna via di esposizione.",
+            "effect": "Non è segnalato alcun effetto tossico.",
+            "note": "In questo catalogo non è segnalata tossicità per l'uomo; ciò non dimostra che la pianta sia commestibile o innocua."
+          },
+          "dog": {
+            "exposure": "Non è segnalata alcuna via di esposizione.",
+            "effect": "Non è segnalato alcun effetto tossico.",
+            "note": "In questo catalogo non è segnalata tossicità per i cani; ciò non dimostra che la pianta sia commestibile o innocua."
+          },
+          "cat": {
+            "exposure": "Non è segnalata alcuna via di esposizione.",
+            "effect": "Non è segnalato alcun effetto tossico.",
+            "note": "In questo catalogo non è segnalata tossicità per i gatti; ciò non dimostra che la pianta sia commestibile o innocua."
+          }
+        }
+      }
+    },
+    "AAA1784": {
+      "source_hash": "1b7d5a2d7a5512fe7e7ef0b716500ca43f64811b146230718900eead5559b6ae",
+      "fields": {
+        "common_name": "Arctotis",
+        "description": "L’Arctotis è un genere sudafricano di perenni basse e distese, coltivate per i vistosi fiori a margherita dal lungo stelo e per il morbido fogliame grigio argenteo. I fiori compaiono in bianco, crema, giallo, arancio, albicocca, rosa e rosso intenso, spesso con un anello più scuro attorno al centro; si aprono completamente in pieno sole e si chiudono nelle giornate nuvolose e al tramonto. Le piante formano cuscini lassi alti circa 15–30 cm e larghi 30–45 cm, con foglie lobate coperte da una fine peluria bianca che le aiuta a sopportare caldo e siccità. Nei climi miti fioriscono a lungo, dalla primavera alle prime gelate; richiedono un terreno ben drenato e molto sole e preferiscono stare piuttosto all’asciutto. Sensibili agli inverni rigidi, sono spesso coltivate come annuali o in vaso.",
+        "history_text_short": "L’Arctotis è la margherita africana del Capo e del Namaqualand, in Sudafrica, dove le piogge invernali ricoprono interi pendii di fiori arancioni, gialli e bianchi che si aprono al sole e si chiudono al tramonto. Linneo diede al genere il nome dalle squame a «orecchio d’orso» dei suoi frutti, e i coltivatori ne hanno poi ricavato un arcobaleno di ibridi dalla lunga fioritura.",
+        "history_text_long": "L’Arctotis appartiene alla famiglia delle Asteracee e cresce spontanea nell’Africa meridionale, con la maggiore varietà nella regione del Capo e sulla costa occidentale arida del Sudafrica. Lì, dopo le piogge invernali, interi pendii del Namaqualand e del Capo Occidentale si trasformano in tappeti di margherite arancioni, gialle e bianche, e l’Arctotis è una delle piante che creano questo spettacolo annuale. I fiori amano il sole: al mattino si volgono alla luce, a mezzogiorno si aprono completamente e si richiudono quando si addensano le nuvole o arriva la sera, così chi arriva troppo presto o in una giornata coperta trova spesso i campi stranamente chiusi e spogli.\n\nIl genere fu denominato formalmente da Carlo Linneo nel Settecento, a partire da esemplari giunti dal Capo agli orti botanici europei. Il suo nome deriva da parole greche che significano «orso» e «orecchio», con riferimento alle piccole squame pelose alla base del frutto, che qualcuno trovò simili a un orecchio d’orso. Dal Capo le piante raggiunsero i giardini europei e poi americani, dove il fogliame argenteo e i grandi fiori lucidi furono subito apprezzati nelle aiuole asciutte e soleggiate.\n\nI giardinieri iniziarono presto a incrociare le specie fra loro, e ne nacque un’ondata di ibridi, a volte venduti come Arctotis × hybrida, con colori mai visti in natura: lampone, mogano, prugna, albicocca e arancio bruciato, molti con un centro scuro a contrasto. Alcune vecchie forme da giardino si vendono ancora con nomi come «Harlequin» e «Flame», e i selezionatori continuano a puntare su fioriture più lunghe e piante più robuste.\n\nOggi l’Arctotis è una delle preferite nei giardini costieri e in stile mediterraneo, nei giardini rocciosi, sui pendii e in vaso. Tollera terreni poveri e sabbiosi, aria salmastra e, una volta radicata, la siccità, ma non ama i terreni pesanti e bagnati né gli inverni freddi e umidi, in cui marcisce in fretta. Nelle zone più fredde si coltiva come annuale estiva o si prelevano talee a fine estate per svernare in casa. Eliminare i fiori appassiti mantiene la fioritura per mesi.",
+        "name_origin": "Il nome Arctotis deriva dal greco «arktos» (orso) e «ous» (orecchio), in riferimento alle piccole squame pelose alla base del frutto, ritenute simili a un orecchio d’orso.",
+        "symbolism_story": "Il ritmo quotidiano dell’Arctotis, che si apre al sole e si chiude al tramonto, ne ha fatto un discreto simbolo di apertura e di volgersi verso la luce. La sua capacità di colorare i pendii aridi del Sudafrica dopo le piogge invernali aggiunge una nota di resilienza e rinnovamento.",
+        "flower_meaning": "Apertura",
+        "uses_list": [
+          {
+            "text": "Coltivata per i fiori a margherita vivaci e duraturi e per il fogliame argenteo in aiuole soleggiate, giardini rocciosi e vasi."
+          },
+          {
+            "text": "I fiori aperti offrono nettare e polline ad api e farfalle."
+          },
+          {
+            "text": "A volte recisa per piccoli mazzi, anche se i fiori si chiudono con poca luce."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Apertura",
+            "description": "I fiori si aprono ampiamente al sole e si chiudono al tramonto, simbolo del volgersi verso la luce."
+          },
+          {
+            "keyword": "Resilienza",
+            "description": "Prospera con caldo, terreno povero e siccità, dove molte piante da giardino faticano."
+          }
+        ],
+        "toxicity": {
+          "headline": "Nessuna tossicità segnalata",
+          "active_compound_display": "Nessuno segnalato",
+          "notes_en": "Nessuna corrispondenza nelle fonti autorevoli sulla tossicità; trattata come «non segnalata» (la stima del LLM non è verificata da fonti).",
+          "human": {
+            "exposure": "Non è segnalata alcuna via di esposizione.",
+            "effect": "Non è segnalato alcun effetto tossico.",
+            "note": "In questo catalogo non è segnalata tossicità per l’uomo; ciò non prova che la pianta sia commestibile o innocua."
           },
           "dog": {
             "exposure": "Non è segnalata alcuna via di esposizione.",

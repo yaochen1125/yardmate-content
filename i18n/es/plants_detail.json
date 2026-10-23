@@ -3,8 +3,8 @@
   "locale": "es",
   "source": {
     "resource": "plants_detail.json",
-    "sha256": "281e9140c3a5a61183c1e815c2dcb0e344686424a214939fbf48faa2f08796fe",
-    "record_count": 1778
+    "sha256": "6a2f9a06d96bfecaac3a2976cfcc960c840a6507ab2ec994253652268afe1ef6",
+    "record_count": 1783
   },
   "records": {
     "AAA0001": {
@@ -108781,6 +108781,276 @@
             "exposure": "No se notifica ninguna vía de exposición.",
             "effect": "No se notifica ningún efecto tóxico.",
             "note": "En este catálogo no se notifica toxicidad para los gatos; esto no demuestra que la planta sea comestible o inofensiva."
+          }
+        }
+      }
+    },
+    "AAA1780": {
+      "source_hash": "439badb016db5f2aefdb6a52d927a0c86b66517f551dced2f5983ec6075f78e9",
+      "fields": {
+        "common_name": "Berberis de California",
+        "bloom_tip": "Los racimos de flores amarillo dorado se abren desde finales del invierno hasta la primavera; poda justo después de la floración.",
+        "fruit_tip": "Las bayas azul violáceo maduran en verano y se dejan para las aves.",
+        "description": "La Berberis de California (Berberis pinnata) es un arbusto perenne de la costa y las estribaciones de California, con hojas compuestas brillantes y con dientes espinosos que recuerdan al acebo. En primavera produce racimos fragantes de flores amarillo dorado, seguidos de bayas azul violáceo con pruina que gustan a las aves. Una vez establecida tolera los veranos secos, prospera al sol o en semisombra y sirve como seto resistente y amigable con la fauna o como arbusto de sotobosque.",
+        "history_text_short": "Mucho antes de que los jardineros la valoraran, la Berberis de California crecía en los robledales y el chaparral del oeste de Norteamérica. Los pueblos indígenas de California usaban la madera interior amarilla y las raíces como tinte y tónico amargo, y comían las bayas ácidas. Hoy se aprecia como arbusto nativo resistente, parecido al acebo, para setos y jardines para la fauna.",
+        "history_text_long": "La Berberis de California es uno de los discretos arbustos nativos de la costa del Pacífico y crece en bosques costeros, bordes de chaparral y cañones sombríos, desde el área de la Bahía hasta Baja California. Sus hojas pinnadas, con folíolos de dientes espinosos, llevaron a los primeros botánicos a compararla con el acebo, y durante mucho tiempo se incluyó en el género aparte Mahonia antes de fusionarse con Berberis. Los pueblos indígenas de California conocían bien la planta. La madera interior amarillo brillante y las raíces de las berberis contienen berberina, un pigmento y alcaloide amargo, y se usaban para teñir cestas y fibras y en preparados amargos tradicionales, mientras que las bayas azules, ácidas, se comían frescas o se hacían bebidas. Más tarde, colonos y jardineros notaron lo bien que el arbusto soportaba los veranos secos y los suelos pobres, y lo incorporaron a jardines de plantas nativas como un sólido arbusto perenne de estructura. A finales del invierno las flores doradas son de las primeras fuentes de alimento para abejas y otros polinizadores tempranos, y las bayas alimentan a tordos, ampelis y otras aves durante el verano y el otoño. Su follaje espinoso también la hace útil como seto defensivo que cobija a pequeñas aves. Hoy se planta para el control de la erosión, proyectos de restauración y paisajes resistentes a la sequía: un arbusto modesto pero generoso que conecta el jardín con las colinas silvestres de California.",
+        "name_origin": "Berberis procede del nombre en latín medieval del agracejo, posiblemente de una palabra árabe para el fruto; «pinnata» significa en latín «en forma de pluma» y describe las hojas compuestas con folíolos dispuestos a lo largo de un eje central.",
+        "symbolism_story": "Con su follaje espinoso y su resistencia a la sequía, la Berberis de California ha llegado a simbolizar la resiliencia y la protección silenciosa: guarda sus bayas y a las aves que dependen de ellas, y alegra con oro las primeras semanas del año.",
+        "flower_meaning": "Resiliencia",
+        "fragrance": {
+          "notes": "Aroma ligeramente dulce de las flores primaverales."
+        },
+        "uses_list": [
+          {
+            "text": "Follaje perenne parecido al acebo y flores amarillas de primavera para borduras y setos."
+          },
+          {
+            "text": "Las bayas alimentan a las aves y el follaje espinoso les ofrece refugio para anidar."
+          },
+          {
+            "text": "Las flores tempranas aportan néctar a abejas y otros polinizadores."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Resiliencia",
+            "description": "Prospera en laderas secas y suelos pobres."
+          },
+          {
+            "keyword": "Protección",
+            "description": "Las hojas espinosas protegen como una valla natural."
+          }
+        ],
+        "toxicity": {
+          "headline": "Humanos: leve",
+          "active_compound_display": "berberina",
+          "notes_en": "Las raíces y la corteza contienen berberina; grandes cantidades pueden irritar el estómago.",
+          "human": {
+            "exposure": "Comer raíces y corteza.",
+            "effect": "Náuseas, vómitos y diarrea.",
+            "note": "Las raíces y la corteza contienen berberina; grandes cantidades pueden irritar el estómago.",
+            "symptoms": [
+              "Náuseas.",
+              "Vómitos.",
+              "Diarrea."
+            ]
+          },
+          "dog": {
+            "exposure": "No se notifica ninguna vía de exposición.",
+            "effect": "No se notifica ningún efecto tóxico.",
+            "note": "En este catálogo no se notifica toxicidad para perros; esto no es prueba de que la planta sea comestible o inofensiva."
+          },
+          "cat": {
+            "exposure": "No se notifica ninguna vía de exposición.",
+            "effect": "No se notifica ningún efecto tóxico.",
+            "note": "En este catálogo no se notifica toxicidad para gatos; esto no es prueba de que la planta sea comestible o inofensiva."
+          }
+        }
+      }
+    },
+    "AAA1781": {
+      "source_hash": "f22e34e66ffd9e88eccf86ec0dfd4d830844bca67b722f3b6a7bfe023d4d3cae",
+      "fields": {
+        "common_name": "Argyroderma delaetii",
+        "bloom_tip": "Las flores se abren bajo el sol de la tarde y se cierran de nuevo al anochecer.",
+        "fruit_tip": "La cápsula leñosa se abre cuando se moja y se cierra al secarse.",
+        "description": "Argyroderma delaetii es una diminuta suculenta sudafricana que parece un par de guijarros lisos de color gris plateado. Cada planta forma unos pocos pares de hojas gruesas y ovaladas, de apenas unos centímetros de altura, pegadas entre sí y separadas por una estrecha hendidura. En otoño, de esa hendidura brota una única flor parecida a una margarita, normalmente en tonos magenta o rosa. Necesita un drenaje muy rápido, luz intensa y riego moderado, y es ideal para macetas poco profundas, jardineras con grava y jardines de rocalla.",
+        "history_text_short": "Argyroderma significa «piel de plata» en griego, una alusión al tono pálido y polvoriento de sus hojas. En el pedregoso Cabo Occidental, estas suculentas con aspecto de guijarro quedan casi a ras del suelo, por lo que los animales que pastan pasan de largo. Los coleccionistas las aprecian como «piedras vivas» que florecen cada otoño.",
+        "history_text_long": "Argyroderma delaetii pertenece a un pequeño grupo de suculentas sudafricanas a las que a menudo se llama piedras vivas o plantas miméticas. Sus hojas se parecen tanto en color y forma a los guijarros de cuarzo que las rodean que es fácil pisar una sin darse cuenta. Se cree que este camuflaje le ayuda a evitar que la coman los animales en un paisaje seco y abierto con poca cobertura.\n\nEl nombre del género procede de las palabras griegas argyros, «plata», y derma, «piel», por el aspecto plateado y ligeramente polvoriento de la superficie de las hojas. El epíteto específico honra a un De Laet, uno de los aficionados europeos a las suculentas que ayudaron a dar a conocer estas curiosas plantas a los cultivadores a principios del siglo XX, cuando los coleccionistas europeos se fascinaban con los extraños mesembs llegados del sur de África.\n\nLa planta crece sobre todo bajo la superficie del suelo y solo asoman las puntas redondeadas de las hojas. Un grueso sistema de raíces la ancla en el suelo pedregoso y almacena agua. Cada temporada se renueva un único par de hojas: el par viejo se marchita y forma una vaina papirácea alrededor del nuevo, que crece desde la hendidura entre ambos. Las flores surgen de esa misma hendidura, se abren en las horas cálidas del día y se cierran por la noche.\n\nLas cápsulas de semillas son higrocásticas, es decir, se abren con la humedad y se cierran al secarse. Unas pocas gotas de lluvia bastan para abrirlas y las semillas son arrastradas por las salpicaduras, una estrategia que encaja en una región donde la lluvia es escasa e irregular.\n\nHoy Argyroderma delaetii la cultivan aficionados a las suculentas en macetas poco profundas con sustrato mineral, donde se valora por su belleza serena de piedra y por sus flores inesperadamente coloridas.",
+        "name_origin": "Argyroderma procede del griego argyros (plata) y derma (piel), por la superficie plateada de las hojas. El epíteto delaetii honra a un coleccionista llamado De Laet.",
+        "symbolism_story": "Como Argyroderma delaetii se esconde a plena vista entre los guijarros, suele verse como símbolo de modestia y resiliencia silenciosa. Reserva su mejor momento para el otoño, cuando una flor atrevida surge de una planta que, el resto del año, parece una piedra.",
+        "flower_meaning": "Camuflaje",
+        "uses_list": [
+          {
+            "text": "Apreciada como suculenta de colección en miniatura para macetas poco profundas y jardineras con grava."
+          },
+          {
+            "text": "Sus flores otoñales ofrecen néctar y polen a pequeños insectos en su hábitat de origen."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Camuflaje",
+            "description": "Se funde con las piedras que la rodean y representa una protección discreta."
+          },
+          {
+            "keyword": "Paciencia",
+            "description": "Crece despacio y solo florece cuando llega el momento."
+          }
+        ],
+        "toxicity": {
+          "headline": "No se ha notificado toxicidad",
+          "active_compound_display": "Ninguno notificado",
+          "notes_en": "No se encontró una fuente autorizada de toxicidad; se trata como «no notificada» (la estimación del LLM no está verificada con fuentes).",
+          "human": {
+            "exposure": "No se notifica ninguna vía de exposición.",
+            "effect": "No se notifica ningún efecto tóxico.",
+            "note": "En este catálogo no se notifica toxicidad para humanos; esto no demuestra que la planta sea comestible o inocua."
+          },
+          "dog": {
+            "exposure": "No se notifica ninguna vía de exposición.",
+            "effect": "No se notifica ningún efecto tóxico.",
+            "note": "En este catálogo no se notifica toxicidad para perros; esto no demuestra que la planta sea comestible o inocua."
+          },
+          "cat": {
+            "exposure": "No se notifica ninguna vía de exposición.",
+            "effect": "No se notifica ningún efecto tóxico.",
+            "note": "En este catálogo no se notifica toxicidad para gatos; esto no demuestra que la planta sea comestible o inocua."
+          }
+        }
+      }
+    },
+    "AAA1782": {
+      "source_hash": "822d2aa3b8b7539e47b328ef1ba3284425d274dd032bc3cbff4d425616d88579",
+      "fields": {
+        "common_name": "Saxífraga surcada",
+        "bloom_tip": "Las flores de esta planta florecen en junio y julio.",
+        "description": "La saxífraga surcada (Saxifraga exarata) es una pequeña perenne alpina en mata que forma cojines suaves y de pelos pegajosos con hojas acanaladas y trilobuladas. A comienzos del verano emite tallos cortos coronados por racimos de flores blanco crema de cinco pétalos. Originaria de las montañas de Europa, crece en grietas de rocas y suelos pedregosos, y es adecuada para rocallas, artesas y lechos de grava con drenaje muy rápido y condiciones frescas.",
+        "history_text_short": "Los botánicos nombraron a la saxífraga surcada por los profundos surcos que recorren sus hojas. Al crecer en grietas de rocas de alta montaña, se convirtió en un clásico para los cazadores de plantas alpinas y los aficionados a las rocallas, apreciada por prosperar donde casi nada más puede hacerlo.",
+        "history_text_long": "La saxífraga surcada pertenece al gran género Saxifraga, cuyo nombre procede del latín y significa «rompepiedras». Los antiguos herbolarios veían saxífragas brotar de la roca sólida e imaginaban que partían la piedra, una creencia que marcó el nombre del género y su reputación. La saxífraga surcada recibió su nombre de especie por el aspecto acanalado de sus pequeñas hojas, divididas en lóbulos cortos y cubiertas de pelos finos y pegajosos.\n\nEs una planta de la alta montaña europea, y se encuentra entre rocas, pedregales y suelos delgados de montaña, donde los inviernos son largos y la nieve es profunda. Su forma compacta en cojín es una estrategia alpina de supervivencia: el crecimiento denso retiene el calor, protege los puntos de crecimiento del viento y conserva la escasa humedad. A comienzos del verano, cortos tallos florales se elevan sobre el cojín con racimos de pequeñas flores blanco crema, que atraen a pequeñas moscas y otros insectos durante la breve temporada de crecimiento de la montaña.\n\nDurante los siglos XIX y XX, el auge de la jardinería de rocalla y de las sociedades alpinas en Gran Bretaña y en toda Europa llevó muchas saxífragas de montaña al cultivo. Los jardineros construyeron muros de toba, pedregales elevados y artesas de piedra para imitar el hábitat de gran altitud, y la saxífraga surcada encontró un lugar en estas colecciones. Hoy sigue siendo una elección modesta pero encantadora para quienes disfrutan de las plantas pequeñas y resistentes, y todavía crece de forma silvestre en laderas de montaña donde ha formado parte desde siempre de la flora alpina.",
+        "name_origin": "El nombre del género Saxifraga procede del latín «saxum» (roca) y «frangere» (romper), y significa «rompepiedras». El epíteto «exarata» es latín para «surcada» o «arada», y alude a las hojas acanaladas.",
+        "symbolism_story": "Como las saxífragas parecen brotar de la roca sólida, desde hace mucho se las asocia con la perseverancia. La saxífraga surcada, acomodada en grietas de montaña y floreciendo en el breve verano alpino, es un símbolo discreto de resistencia y de fortaleza silenciosa en lugares difíciles.",
+        "flower_meaning": "Resistencia",
+        "uses_list": [
+          {
+            "text": "Se cultiva en rocallas, artesas y lechos de grava como un acento alpino compacto."
+          },
+          {
+            "text": "Sus pequeñas flores blancas ofrecen néctar a moscas y otros insectos pequeños a comienzos del verano."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Resistencia",
+            "description": "Prospera en grietas frías y pedregosas de montaña y simboliza la dureza en condiciones adversas."
+          },
+          {
+            "keyword": "Tenacidad",
+            "description": "Su forma compacta en cojín muestra cómo las plantas pequeñas sobreviven al viento y al invierno."
+          }
+        ],
+        "toxicity": {
+          "headline": "No se reporta toxicidad",
+          "active_compound_display": "Ninguno reportado",
+          "notes_en": "No se encontró una coincidencia de toxicidad en fuentes autorizadas; se trata como «no reportado» (la estimación del LLM no está verificada por fuentes).",
+          "human": {
+            "exposure": "No se reporta ninguna vía de exposición.",
+            "effect": "No se reporta ningún efecto tóxico.",
+            "note": "En este catálogo no se reporta toxicidad para humanos; esto no es prueba de que la planta sea comestible o inofensiva."
+          },
+          "dog": {
+            "exposure": "No se reporta ninguna vía de exposición.",
+            "effect": "No se reporta ningún efecto tóxico.",
+            "note": "En este catálogo no se reporta toxicidad para perros; esto no es prueba de que la planta sea comestible o inofensiva."
+          },
+          "cat": {
+            "exposure": "No se reporta ninguna vía de exposición.",
+            "effect": "No se reporta ningún efecto tóxico.",
+            "note": "En este catálogo no se reporta toxicidad para gatos; esto no es prueba de que la planta sea comestible o inofensiva."
+          }
+        }
+      }
+    },
+    "AAA1783": {
+      "source_hash": "ac9d7c3c21235a548923fba327462d493720e0fac4d85c4c98c65c3c2caadeb5",
+      "fields": {
+        "common_name": "Saxífraga estolonífera",
+        "bloom_tip": "La planta florece de abril a junio, con flores abundantes y vistosas.",
+        "description": "La saxífraga estolonífera (Saxifraga stolonifera) es una perenne baja de hoja perenne originaria del este de Asia. Sus hojas redondeadas y suavemente pelosas tienen nervaduras plateadas y el envés rojizo, y se extiende mediante estolones finos como hilos que echan raíces y forman nuevas plantitas, igual que una fresa. A finales de primavera aparecen ramilletes aéreos de pequeñas flores blancas, con los dos pétalos inferiores largos y colgantes. Prospera en sombra fresca y húmeda, y sirve como cubresuelos, para cestas colgantes o como planta de interior.",
+        "history_text_short": "A pesar de su nombre, la saxífraga estolonífera no es ni una fresa ni una begonia. Nativa de China, Japón y Corea, se extiende con estolones rojos como una enredadera de fresa. Cultivada desde hace mucho en jardines de Asia oriental y en la herboristería tradicional, más tarde se convirtió en una planta de sombra y de interior muy querida en Occidente.",
+        "history_text_long": "La saxífraga estolonífera pertenece al género Saxifraga, «rompe-rocas», pero no se parece en nada a los diminutos cojines alpinos que forman la mayoría de las saxífragas. Procede de los acantilados húmedos y sombríos, las orillas de arroyos y las rocas musgosas de China, Japón y Corea, donde sus hojas redondas con nervios plateados tapizan la piedra. El nombre común se debe a dos parecidos: los estolones rojos que emite, que echan raíz en la punta y forman nuevas plantitas como los de la fresa, y sus hojas redondeadas de envés rojo, que recuerdan a las de una begonia.\n\nEn China la planta se conoce como «hu er cao», hierba de oreja de tigre, por la forma y los suaves pelos de sus hojas, y ocupa desde hace tiempo un lugar en la medicina popular tradicional. En Japón se llama «yukinoshita», «bajo la nieve», un nombre que evoca sus pálidos ramilletes de flores vistos en la sombra fresca invernal de antiguos jardines y templos. Se cultiva en los jardines japoneses desde hace siglos, junto a linternas de piedra y a lo largo de senderos cubiertos de musgo.\n\nLa especie llegó a Europa en el siglo XVIII, cuando los recolectores de plantas trajeron ejemplares vivos de Asia oriental. Los jardineros victorianos la disfrutaron en cajas Ward, cestas colgantes y invernaderos frescos, y desde entonces ha seguido siendo una planta de interior popular y fácil. Las formas cultivadas con hojas jaspeadas de crema y rosa, como 'Tricolor', son especialmente apreciadas. Como sus plantitas cuelgan de largos estolones como pequeñas arañas, también se la llama «madre de miles», y una sola planta puede llenar un rincón sombrío en pocas temporadas.",
+        "name_origin": "El nombre del género Saxifraga procede del latín «saxum» (roca) y «frangere» (romper), y significa «rompe-rocas». El epíteto «stolonifera» es latín para «que lleva estolones» y alude a los estolones rastreros que producen nuevas plantitas.",
+        "symbolism_story": "En Japón, la saxífraga estolonífera se asocia con el afecto discreto y la persistencia suave. Sus estolones se extienden y echan raíces en nuevas plantitas alrededor de la planta madre, algo que se ha comparado con una familia que crece unida, y sus flores blancas se alzan desde la sombra con un encanto delicado y firme.",
+        "flower_meaning": "Afecto",
+        "uses_list": [
+          {
+            "text": "Se cultiva como cubresuelos de sombra, en cestas colgantes y como planta de interior por sus hojas jaspeadas y sus ramilletes de flores blancas."
+          },
+          {
+            "text": "Se usa en la medicina popular tradicional de Asia oriental, donde se conoce como hierba de oreja de tigre."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Afecto",
+            "description": "Sus estolones emiten nuevas plantitas, señal de lazos familiares y de un amor que se transmite."
+          },
+          {
+            "keyword": "Perseverancia",
+            "description": "Enraizada en grietas rocosas frescas, lleva la fama de resistencia silenciosa de las saxífragas."
+          }
+        ],
+        "toxicity": {
+          "headline": "No se ha notificado toxicidad",
+          "active_compound_display": "Ninguno notificado",
+          "notes_en": "No se encontró una fuente autorizada de toxicidad; se trata como «no notificada» (la estimación del LLM no está verificada con fuentes).",
+          "human": {
+            "exposure": "No se notifica ninguna vía de exposición.",
+            "effect": "No se notifica ningún efecto tóxico.",
+            "note": "En este catálogo no se notifica toxicidad para humanos; esto no demuestra que la planta sea comestible o inocua."
+          },
+          "dog": {
+            "exposure": "No se notifica ninguna vía de exposición.",
+            "effect": "No se notifica ningún efecto tóxico.",
+            "note": "En este catálogo no se notifica toxicidad para perros; esto no demuestra que la planta sea comestible o inocua."
+          },
+          "cat": {
+            "exposure": "No se notifica ninguna vía de exposición.",
+            "effect": "No se notifica ningún efecto tóxico.",
+            "note": "En este catálogo no se notifica toxicidad para gatos; esto no demuestra que la planta sea comestible o inocua."
+          }
+        }
+      }
+    },
+    "AAA1784": {
+      "source_hash": "1b7d5a2d7a5512fe7e7ef0b716500ca43f64811b146230718900eead5559b6ae",
+      "fields": {
+        "common_name": "Arctotis",
+        "description": "Arctotis es un género sudafricano de plantas perennes bajas y extendidas, cultivadas por sus llamativas flores de margarita de tallo largo y su follaje suave de color gris plateado. Las flores aparecen en blanco, crema, amarillo, naranja, albaricoque, rosa y rojo intenso, a menudo con un anillo más oscuro alrededor del centro; se abren por completo a pleno sol y se cierran en días nublados y al anochecer. Las plantas forman matas sueltas de unos 15–30 cm de alto y 30–45 cm de ancho, con hojas lobuladas cubiertas de finos pelos blancos que les ayudan a soportar el calor y la sequía. En climas suaves florecen durante mucho tiempo, desde la primavera hasta las primeras heladas; necesitan un suelo muy bien drenado y mucho sol, y prefieren un ambiente más bien seco. Son sensibles a los inviernos duros, por lo que suelen cultivarse como anuales o en macetas.",
+        "history_text_short": "Arctotis es la margarita del Cabo y Namaqualand, en Sudáfrica, donde las lluvias de invierno cubren laderas enteras de flores naranjas, amarillas y blancas que se abren al sol y se cierran al anochecer. Linneo nombró el género por las escamas en forma de «oreja de oso» de sus frutos, y los horticultores lo convirtieron después en un arcoíris de híbridos de floración larga.",
+        "history_text_long": "Arctotis pertenece a la familia de las margaritas y crece de forma silvestre por el sur de África, con su mayor diversidad en la región del Cabo y en la árida costa occidental de Sudáfrica. Allí, tras las lluvias de invierno, laderas enteras de Namaqualand y del Cabo Occidental se convierten en alfombras de margaritas naranjas, amarillas y blancas, y Arctotis es una de las plantas que hacen posible ese espectáculo anual. Las flores adoran el sol: por la mañana se vuelven hacia la luz, al mediodía se abren por completo y se pliegan de nuevo cuando se juntan las nubes o llega la tarde, de modo que los visitantes que llegan demasiado temprano o en un día nublado suelen encontrar los campos extrañamente cerrados y sencillos.\n\nEl género fue nombrado formalmente por Carlos Linneo en el siglo XVIII, a partir de ejemplares que habían viajado desde el Cabo a jardines botánicos europeos. Su nombre procede de palabras griegas que significan «oso» y «oreja», en referencia a las pequeñas escamas peludas de la base del fruto, que alguien creyó parecidas a la oreja de un oso. Desde el Cabo las plantas llegaron a los jardines europeos y más tarde a los americanos, donde sus hojas plateadas y sus flores grandes y brillantes triunfaron enseguida en parterres secos y soleados.\n\nLos jardineros pronto empezaron a cruzar las especies entre sí, y el resultado fue una oleada de híbridos, a veces vendidos como Arctotis × hybrida, con colores que nunca existieron en estado silvestre: frambuesa, caoba, ciruela, albaricoque y naranja tostado, muchos con un centro oscuro contrastado. Algunas formas de jardín antiguas aún se venden con nombres como «Harlequin» y «Flame», y los criadores siguen seleccionando plantas de floración más larga y más resistentes.\n\nHoy Arctotis es una favorita en jardines costeros y de estilo mediterráneo, rocallas, taludes y macetas. Tolera suelos pobres y arenosos, la brisa salina y, una vez establecida, la sequía, pero no soporta los suelos pesados y encharcados ni los inviernos fríos y húmedos, en los que se pudre con rapidez. En zonas más frías se cultiva como anual de verano o se toman esquejes a finales de verano para pasar el invierno en interior. Retirar las flores marchitas mantiene el espectáculo durante meses.",
+        "name_origin": "El nombre Arctotis procede del griego «arktos» (oso) y «ous» (oreja), en alusión a las pequeñas escamas peludas de la base del fruto, que se creyó parecidas a la oreja de un oso.",
+        "symbolism_story": "El ritmo diario de Arctotis, que se abre al sol y se cierra al anochecer, la ha convertido en un símbolo discreto de apertura y de volverse hacia la luz. Su capacidad de cubrir de color las áridas laderas sudafricanas tras las lluvias de invierno añade un matiz de resiliencia y renovación.",
+        "flower_meaning": "Apertura",
+        "uses_list": [
+          {
+            "text": "Se cultiva por sus flores de margarita vistosas y duraderas y su follaje plateado en parterres soleados, rocallas y macetas."
+          },
+          {
+            "text": "Las flores abiertas ofrecen néctar y polen a abejas y mariposas."
+          },
+          {
+            "text": "A veces se corta para ramilletes pequeños, aunque las flores se cierran con poca luz."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Apertura",
+            "description": "Las flores se abren de par en par al sol y se cierran al anochecer, simbolizando volverse hacia la luz."
+          },
+          {
+            "keyword": "Resiliencia",
+            "description": "Prospera con calor, suelo pobre y sequía, donde muchas plantas de jardín fracasan."
+          }
+        ],
+        "toxicity": {
+          "headline": "Sin toxicidad notificada",
+          "active_compound_display": "Ninguno notificado",
+          "notes_en": "No se encontró coincidencia en fuentes autorizadas de toxicidad; se trata como «no notificada» (la estimación del LLM no está verificada con fuentes).",
+          "human": {
+            "exposure": "No se notifica ninguna vía de exposición.",
+            "effect": "No se notifica ningún efecto tóxico.",
+            "note": "En este catálogo no se notifica toxicidad para humanos; esto no es prueba de que la planta sea comestible o inofensiva."
+          },
+          "dog": {
+            "exposure": "No se notifica ninguna vía de exposición.",
+            "effect": "No se notifica ningún efecto tóxico.",
+            "note": "En este catálogo no se notifica toxicidad para perros; esto no es prueba de que la planta sea comestible o inofensiva."
+          },
+          "cat": {
+            "exposure": "No se notifica ninguna vía de exposición.",
+            "effect": "No se notifica ningún efecto tóxico.",
+            "note": "En este catálogo no se notifica toxicidad para gatos; esto no es prueba de que la planta sea comestible o inofensiva."
           }
         }
       }

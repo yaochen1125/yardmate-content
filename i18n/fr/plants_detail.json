@@ -3,8 +3,8 @@
   "locale": "fr",
   "source": {
     "resource": "plants_detail.json",
-    "sha256": "281e9140c3a5a61183c1e815c2dcb0e344686424a214939fbf48faa2f08796fe",
-    "record_count": 1778
+    "sha256": "6a2f9a06d96bfecaac3a2976cfcc960c840a6507ab2ec994253652268afe1ef6",
+    "record_count": 1783
   },
   "records": {
     "AAA0001": {
@@ -108767,6 +108767,276 @@
             "exposure": "Aucune voie d'exposition n'est signalée.",
             "effect": "Aucun effet toxique n'est signalé.",
             "note": "Aucune toxicité n'est signalée pour le chat dans ce catalogue ; ce n'est pas la preuve que la plante est comestible ou inoffensive."
+          }
+        }
+      }
+    },
+    "AAA1780": {
+      "source_hash": "439badb016db5f2aefdb6a52d927a0c86b66517f551dced2f5983ec6075f78e9",
+      "fields": {
+        "common_name": "Berbéris de Californie",
+        "bloom_tip": "Les grappes de fleurs jaune d'or s'ouvrent de la fin de l'hiver au printemps ; taillez juste après la floraison.",
+        "fruit_tip": "Les baies bleu-violet mûrissent en été et sont laissées aux oiseaux.",
+        "description": "Le Berbéris de Californie (Berberis pinnata) est un arbuste persistant de la côte et des contreforts californiens, aux feuilles composées luisantes et dentées d'épines, qui rappellent le houx. Au printemps, il porte des grappes parfumées de fleurs jaune d'or, suivies de baies bleu-violet pruineuses que les oiseaux apprécient. Une fois installé, il supporte les étés secs, prospère au soleil ou à mi-ombre et forme une haie robuste favorable à la faune ou un arbuste de sous-bois.",
+        "history_text_short": "Bien avant d'être prisé des jardiniers, le Berbéris de Californie poussait dans les chênaies et le chaparral de l'ouest de l'Amérique du Nord. Les peuples autochtones de Californie utilisaient le bois intérieur jaune et les racines comme teinture et tonique amer, et mangeaient les baies acidulées. Aujourd'hui, il est apprécié comme arbuste indigène robuste, semblable au houx, pour les haies et les jardins pour la faune.",
+        "history_text_long": "Le Berbéris de Californie est l'un de ces discrets arbustes indigènes de la côte Pacifique, qui pousse dans les bois côtiers, en lisière du chaparral et dans les canyons ombragés, de la baie de San Francisco à la Basse-Californie. Ses feuilles pennées, aux folioles dentées d'épines, ont poussé les premiers botanistes à le comparer au houx ; il a longtemps été classé dans un genre distinct, Mahonia, avant d'être fusionné avec Berberis. Les peuples autochtones de Californie connaissaient bien cette plante. Le bois intérieur jaune vif et les racines des berbéris contiennent de la berbérine, pigment et alcaloïde amer, et servaient à teindre paniers et fibres ainsi qu'à des préparations amères traditionnelles, tandis que les baies bleues acidulées se mangeaient fraîches ou en boissons. Colons et premiers jardiniers remarquèrent ensuite combien l'arbuste supportait les étés secs et les sols pauvres, et l'introduisirent dans les jardins de plantes indigènes comme charpente persistante fiable. À la fin de l'hiver, ses fleurs dorées comptent parmi les premières sources de nourriture des abeilles et autres pollinisateurs précoces, et ses baies nourrissent grives, jaseurs et autres oiseaux tout l'été et l'automne. Son feuillage épineux en fait aussi une haie défensive utile qui abrite les petits oiseaux. Aujourd'hui, on le plante pour lutter contre l'érosion, pour la restauration écologique et pour des aménagements résistants à la sécheresse : un arbuste modeste mais généreux qui relie le jardin aux collines sauvages de Californie.",
+        "name_origin": "Berberis vient du nom latin médiéval de l'épine-vinette, peut-être d'un mot arabe désignant le fruit ; « pinnata » signifie en latin « en forme de plume » et décrit les feuilles composées dont les folioles s'alignent le long d'un axe central.",
+        "symbolism_story": "Avec son feuillage épineux et sa résistance à la sécheresse, le Berbéris de Californie en est venu à symboliser la résilience et la protection discrète : il garde ses baies et les oiseaux qui en dépendent, et illumine d'or les premières semaines de l'année.",
+        "flower_meaning": "Résilience",
+        "fragrance": {
+          "notes": "Parfum légèrement sucré des fleurs printanières."
+        },
+        "uses_list": [
+          {
+            "text": "Feuillage persistant semblable au houx et fleurs jaunes printanières pour massifs et haies."
+          },
+          {
+            "text": "Les baies nourrissent les oiseaux et le feuillage épineux leur offre un abri pour nicher."
+          },
+          {
+            "text": "Les fleurs précoces fournissent du nectar aux abeilles et autres pollinisateurs."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Résilience",
+            "description": "Prospère sur les pentes sèches et les sols pauvres."
+          },
+          {
+            "keyword": "Protection",
+            "description": "Ses feuilles épineuses protègent comme une clôture naturelle."
+          }
+        ],
+        "toxicity": {
+          "headline": "Humains : léger",
+          "active_compound_display": "berbérine",
+          "notes_en": "Les racines et l'écorce contiennent de la berbérine ; de grandes quantités peuvent irriter l'estomac.",
+          "human": {
+            "exposure": "Ingestion de racines et d'écorce.",
+            "effect": "Nausées, vomissements et diarrhée.",
+            "note": "Les racines et l'écorce contiennent de la berbérine ; de grandes quantités peuvent irriter l'estomac.",
+            "symptoms": [
+              "Nausées.",
+              "Vomissements.",
+              "Diarrhée."
+            ]
+          },
+          "dog": {
+            "exposure": "Aucune voie d'exposition n'est signalée.",
+            "effect": "Aucun effet toxique n'est signalé.",
+            "note": "Aucune toxicité n'est signalée pour les chiens dans ce catalogue ; cela ne prouve pas que la plante soit comestible ou inoffensive."
+          },
+          "cat": {
+            "exposure": "Aucune voie d'exposition n'est signalée.",
+            "effect": "Aucun effet toxique n'est signalé.",
+            "note": "Aucune toxicité n'est signalée pour les chats dans ce catalogue ; cela ne prouve pas que la plante soit comestible ou inoffensive."
+          }
+        }
+      }
+    },
+    "AAA1781": {
+      "source_hash": "f22e34e66ffd9e88eccf86ec0dfd4d830844bca67b722f3b6a7bfe023d4d3cae",
+      "fields": {
+        "common_name": "Argyroderma delaetii",
+        "bloom_tip": "Les fleurs s'ouvrent au soleil de l'après-midi et se referment le soir.",
+        "fruit_tip": "La capsule ligneuse s'ouvre quand elle est mouillée et se referme en séchant.",
+        "description": "Argyroderma delaetii est une minuscule plante succulente sud-africaine qui ressemble à une paire de galets lisses gris argenté. Chaque plant forme quelques paires de feuilles épaisses et ovoïdes, hautes de quelques centimètres seulement, plaquées l'une contre l'autre et séparées par une fente étroite. En automne, une seule fleur semblable à une pâquerette jaillit de cette fente, le plus souvent dans des tons magenta ou rose. Elle réclame un drainage très franc, une lumière vive et des arrosages mesurés, et convient aux pots peu profonds, aux auges garnies de gravier et aux rocailles.",
+        "history_text_short": "Argyroderma signifie « peau d'argent » en grec, en référence au voile pâle et poudreux qui recouvre ses feuilles. Dans le Cap-Occidental caillouteux, ces succulentes en forme de galets affleurent presque le sol, si bien que les animaux qui broutent passent sans les voir. Les collectionneurs les chérissent comme des « pierres vivantes » qui fleurissent chaque automne.",
+        "history_text_long": "Argyroderma delaetii appartient à un petit groupe de plantes succulentes sud-africaines que l'on appelle souvent pierres vivantes ou plantes mimétiques. Ses feuilles ressemblent tant, par la couleur et la forme, aux galets de quartz qui l'entourent qu'on peut facilement en piétiner une sans la remarquer. On pense généralement que ce camouflage l'aide à échapper aux animaux brouteurs dans un paysage sec et ouvert, presque sans couvert végétal.\n\nLe nom du genre vient des mots grecs argyros, « argent », et derma, « peau », pour l'aspect argenté et légèrement poudreux de la surface des feuilles. L'épithète spécifique honore un certain De Laet, l'un des amateurs européens de succulentes qui firent connaître ces curieuses plantes aux cultivateurs au début du XXe siècle, à l'époque où les collectionneurs d'Europe se passionnaient pour les étranges mésembs venus d'Afrique australe.\n\nLa plante pousse surtout sous la surface du sol et seul le sommet arrondi des feuilles dépasse. Un épais système racinaire l'ancre dans le sol graveleux et emmagasine l'eau. Chaque saison, une seule paire de feuilles se renouvelle : l'ancienne paire se dessèche et forme une gaine papyracée autour de la nouvelle, qui sort de la fente entre les deux. Les fleurs naissent de cette même fente, s'ouvrent aux heures chaudes de la journée et se referment la nuit.\n\nLes capsules de graines sont hygrochastiques, c'est-à-dire qu'elles s'ouvrent à l'humidité et se referment au sec. Quelques gouttes de pluie suffisent à les ouvrir, et les graines sont alors projetées par les éclaboussures, une stratégie adaptée à une région où la pluie est rare et capricieuse.\n\nAujourd'hui, Argyroderma delaetii est cultivée par des amateurs de succulentes dans des pots peu profonds remplis de substrat minéral, où l'on apprécie sa beauté discrète de pierre et ses fleurs inattendues aux couleurs vives.",
+        "name_origin": "Argyroderma vient du grec argyros (argent) et derma (peau), en référence à la surface argentée des feuilles. L'épithète delaetii honore un collectionneur nommé De Laet.",
+        "symbolism_story": "Parce qu'Argyroderma delaetii se cache à la vue de tous parmi les galets, on y voit souvent un symbole de modestie et de résilience discrète. Elle réserve son plus beau moment à l'automne, quand une fleur audacieuse surgit d'une plante qui, le reste de l'année, ressemble à une pierre.",
+        "flower_meaning": "Camouflage",
+        "uses_list": [
+          {
+            "text": "Appréciée comme petite succulente de collection pour pots peu profonds et auges garnies de gravier."
+          },
+          {
+            "text": "Ses fleurs d'automne offrent nectar et pollen aux petits insectes de son habitat d'origine."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Camouflage",
+            "description": "Se fond parmi les pierres qui l'entourent et incarne une discrète protection de soi."
+          },
+          {
+            "keyword": "Patience",
+            "description": "Pousse lentement et ne fleurit que lorsque la saison s'y prête."
+          }
+        ],
+        "toxicity": {
+          "headline": "Aucune toxicité signalée",
+          "active_compound_display": "Aucun signalé",
+          "notes_en": "Aucune source faisant autorité n'a été trouvée sur la toxicité ; traité comme « non signalé » (l'estimation du LLM n'est pas vérifiée par une source).",
+          "human": {
+            "exposure": "Aucune voie d'exposition n'est signalée.",
+            "effect": "Aucun effet toxique n'est signalé.",
+            "note": "Aucune toxicité n'est signalée pour l'humain dans ce catalogue ; cela ne prouve pas que la plante soit comestible ou inoffensive."
+          },
+          "dog": {
+            "exposure": "Aucune voie d'exposition n'est signalée.",
+            "effect": "Aucun effet toxique n'est signalé.",
+            "note": "Aucune toxicité n'est signalée pour le chien dans ce catalogue ; cela ne prouve pas que la plante soit comestible ou inoffensive."
+          },
+          "cat": {
+            "exposure": "Aucune voie d'exposition n'est signalée.",
+            "effect": "Aucun effet toxique n'est signalé.",
+            "note": "Aucune toxicité n'est signalée pour le chat dans ce catalogue ; cela ne prouve pas que la plante soit comestible ou inoffensive."
+          }
+        }
+      }
+    },
+    "AAA1782": {
+      "source_hash": "822d2aa3b8b7539e47b328ef1ba3284425d274dd032bc3cbff4d425616d88579",
+      "fields": {
+        "common_name": "Saxifrage sillonnée",
+        "bloom_tip": "Les fleurs de cette plante s'épanouissent en juin et juillet.",
+        "description": "La saxifrage sillonnée (Saxifraga exarata) est une petite vivace alpine en touffe qui forme des coussins doux, couverts de poils collants, de feuilles sillonnées à trois lobes. Au début de l'été, elle dresse de courtes tiges portant des grappes de fleurs blanc crème à cinq pétales. Originaire des montagnes d'Europe, elle pousse dans les fissures de rochers et les sols pierreux, et convient aux rocailles, aux auges et aux lits de gravier au drainage très vif, dans des conditions fraîches.",
+        "history_text_short": "Les botanistes ont nommé la saxifrage sillonnée d'après les sillons profonds qui marquent ses feuilles. Poussant dans les fissures des rochers de haute montagne, elle est devenue un sujet classique pour les chasseurs de plantes alpines et les amateurs de rocailles, appréciée pour sa capacité à prospérer là où presque rien d'autre ne pousse.",
+        "history_text_long": "La saxifrage sillonnée appartient au grand genre Saxifraga, dont le nom vient du latin et signifie « brise-pierre ». Les anciens herboristes voyaient des saxifrages sortir de la pierre massive et imaginaient qu'elles fendaient la roche, une croyance qui a façonné le nom du genre et sa réputation. La saxifrage sillonnée doit son nom d'espèce à l'aspect sillonné de ses petites feuilles, divisées en lobes courts et couvertes de fins poils collants.\n\nC'est une plante de la haute montagne européenne, que l'on trouve parmi les rochers, les éboulis et les sols minces de montagne, où les hivers sont longs et la neige abondante. Sa forme compacte en coussin est une stratégie de survie alpine : la croissance dense retient la chaleur, abrite les points de croissance du vent et conserve l'humidité rare. Au début de l'été, de courtes tiges florales s'élèvent au-dessus du coussin avec des grappes de petites fleurs blanc crème, qui attirent de petites mouches et d'autres insectes pendant la brève saison de croissance en montagne.\n\nAux XIXe et XXe siècles, l'essor du jardinage de rocaille et des sociétés alpines en Grande-Bretagne et dans toute l'Europe a fait entrer de nombreuses saxifrages de montagne en culture. Les jardiniers ont construit des murs de tuf, des éboulis surélevés et des auges en pierre pour imiter l'habitat de haute altitude, et la saxifrage sillonnée a trouvé sa place dans ces collections. Aujourd'hui, elle reste un choix modeste mais charmant pour ceux qui aiment les petites plantes robustes, et elle pousse encore à l'état sauvage sur les pentes de montagne où elle fait depuis toujours partie de la flore alpine.",
+        "name_origin": "Le nom de genre Saxifraga vient du latin « saxum » (rocher) et « frangere » (briser), et signifie « brise-pierre ». L'épithète « exarata » est le latin pour « sillonnée » ou « labourée », en référence aux feuilles sillonnées.",
+        "symbolism_story": "Parce que les saxifrages semblent sortir de la roche massive, on les associe depuis longtemps à la persévérance. La saxifrage sillonnée, nichée dans les fissures de montagne et fleurissant au cours du court été alpin, est un symbole discret d'endurance et de force tranquille dans les endroits difficiles.",
+        "flower_meaning": "Endurance",
+        "uses_list": [
+          {
+            "text": "Cultivée dans les rocailles, les auges et les lits de gravier comme touche alpine compacte."
+          },
+          {
+            "text": "Ses petites fleurs blanches offrent du nectar aux mouches et à d'autres petits insectes au début de l'été."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Endurance",
+            "description": "Elle prospère dans les fissures froides et pierreuses de la montagne et symbolise la robustesse dans des conditions rudes."
+          },
+          {
+            "keyword": "Résilience",
+            "description": "Sa forme compacte en coussin montre comment les petites plantes survivent au vent et à l'hiver."
+          }
+        ],
+        "toxicity": {
+          "headline": "Aucune toxicité signalée",
+          "active_compound_display": "Aucun signalé",
+          "notes_en": "Aucune correspondance toxicologique faisant autorité n'a été trouvée ; traité comme « non signalé » (l'estimation du LLM n'est pas vérifiée par des sources).",
+          "human": {
+            "exposure": "Aucune voie d'exposition n'est signalée.",
+            "effect": "Aucun effet toxique n'est signalé.",
+            "note": "Aucune toxicité n'est signalée pour les humains dans ce catalogue ; cela ne prouve pas que la plante soit comestible ou inoffensive."
+          },
+          "dog": {
+            "exposure": "Aucune voie d'exposition n'est signalée.",
+            "effect": "Aucun effet toxique n'est signalé.",
+            "note": "Aucune toxicité n'est signalée pour les chiens dans ce catalogue ; cela ne prouve pas que la plante soit comestible ou inoffensive."
+          },
+          "cat": {
+            "exposure": "Aucune voie d'exposition n'est signalée.",
+            "effect": "Aucun effet toxique n'est signalé.",
+            "note": "Aucune toxicité n'est signalée pour les chats dans ce catalogue ; cela ne prouve pas que la plante soit comestible ou inoffensive."
+          }
+        }
+      }
+    },
+    "AAA1783": {
+      "source_hash": "ac9d7c3c21235a548923fba327462d493720e0fac4d85c4c98c65c3c2caadeb5",
+      "fields": {
+        "common_name": "Saxifrage stolonifère",
+        "bloom_tip": "La plante fleurit d'avril à juin, avec des fleurs abondantes et éclatantes.",
+        "description": "La saxifrage stolonifère (Saxifraga stolonifera) est une petite vivace à feuillage persistant originaire d'Asie de l'Est. Ses feuilles arrondies, doucement poilues, sont marquées de nervures argentées et teintées de rouge en dessous ; elle se propage par de fins stolons qui s'enracinent et forment de nouveaux plants, comme un fraisier. À la fin du printemps apparaissent des panicules légères de petites fleurs blanches dont les deux pétales inférieurs sont longs et pendants. Elle prospère à l'ombre fraîche et humide, en couvre-sol, en suspension ou en plante d'intérieur.",
+        "history_text_short": "Malgré son nom, la saxifrage stolonifère n'est ni un fraisier ni un bégonia. Originaire de Chine, du Japon et de Corée, elle se propage par des stolons rouges comme une tige de fraisier. Cultivée depuis longtemps dans les jardins d'Asie de l'Est et dans les traditions d'herboristerie, elle est ensuite devenue une plante d'ombre et d'appartement appréciée en Occident.",
+        "history_text_long": "La saxifrage stolonifère appartient au genre Saxifraga, « brise-pierre », mais elle ne ressemble en rien aux minuscules coussinets alpins que forment la plupart des saxifrages. Elle vient des falaises humides et ombragées, des berges de ruisseaux et des rochers moussus de Chine, du Japon et de Corée, où ses feuilles rondes aux nervures argentées tapissent la pierre. Son nom courant tient à deux ressemblances : les stolons rouges qui s'enracinent à l'extrémité pour former de nouveaux plants, comme chez le fraisier, et ses feuilles arrondies au revers rouge, qui rappellent celles d'un bégonia.\n\nEn Chine, la plante est appelée « hu er cao », herbe oreille de tigre, en référence à la forme et aux poils doux de ses feuilles, et elle a une longue place dans la médecine populaire traditionnelle. Au Japon, on l'appelle « yukinoshita », « sous la neige », un nom qui évoque ses pâles panicules de fleurs dans l'ombre fraîche hivernale des vieux jardins et des temples. Elle est cultivée dans les jardins japonais depuis des siècles, nichée près des lanternes de pierre et le long des chemins couverts de mousse.\n\nL'espèce est arrivée en Europe au XVIIIe siècle, lorsque des collecteurs de plantes ont rapporté des spécimens vivants d'Asie de l'Est. Les jardiniers victoriens l'appréciaient dans des caisses de Ward, des suspensions et des serres fraîches, et elle est restée depuis une plante d'appartement populaire et facile. Les formes cultivées à feuilles marbrées de crème et de rose, comme 'Tricolor', sont particulièrement recherchées. Comme ses jeunes plants pendent au bout de longs stolons tels de petites araignées, on l'appelle aussi « mère de milliers », et un seul pied peut remplir un coin ombragé en quelques saisons.",
+        "name_origin": "Le nom de genre Saxifraga vient du latin « saxum » (roche) et « frangere » (briser), et signifie « brise-pierre ». L'épithète « stolonifera » est le latin pour « qui porte des stolons », en référence aux stolons rampants qui produisent de nouveaux plants.",
+        "symbolism_story": "Au Japon, la saxifrage stolonifère est associée à une affection discrète et à une douce persévérance. Ses stolons s'étendent et enracinent de nouveaux plants autour de la plante mère, ce que l'on a comparé à une famille qui grandit unie, et ses fleurs blanches s'élèvent de l'ombre avec un charme délicat et constant.",
+        "flower_meaning": "Affection",
+        "uses_list": [
+          {
+            "text": "Cultivée en couvre-sol d'ombre, en suspension et en plante d'intérieur pour ses feuilles marbrées et ses panicules de fleurs blanches."
+          },
+          {
+            "text": "Utilisée dans la médecine populaire traditionnelle d'Asie de l'Est, où elle est connue comme l'herbe oreille de tigre."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Affection",
+            "description": "Ses stolons donnent de nouveaux plants, signe de liens familiaux et d'un amour transmis."
+          },
+          {
+            "keyword": "Persévérance",
+            "description": "Enracinée dans les fissures fraîches des rochers, elle porte la réputation de résilience tranquille des saxifrages."
+          }
+        ],
+        "toxicity": {
+          "headline": "Aucune toxicité signalée",
+          "active_compound_display": "Aucun signalé",
+          "notes_en": "Aucune source faisant autorité n'a été trouvée sur la toxicité ; traité comme « non signalé » (l'estimation du LLM n'est pas vérifiée par une source).",
+          "human": {
+            "exposure": "Aucune voie d'exposition n'est signalée.",
+            "effect": "Aucun effet toxique n'est signalé.",
+            "note": "Aucune toxicité n'est signalée pour l'humain dans ce catalogue ; cela ne prouve pas que la plante soit comestible ou inoffensive."
+          },
+          "dog": {
+            "exposure": "Aucune voie d'exposition n'est signalée.",
+            "effect": "Aucun effet toxique n'est signalé.",
+            "note": "Aucune toxicité n'est signalée pour le chien dans ce catalogue ; cela ne prouve pas que la plante soit comestible ou inoffensive."
+          },
+          "cat": {
+            "exposure": "Aucune voie d'exposition n'est signalée.",
+            "effect": "Aucun effet toxique n'est signalé.",
+            "note": "Aucune toxicité n'est signalée pour le chat dans ce catalogue ; cela ne prouve pas que la plante soit comestible ou inoffensive."
+          }
+        }
+      }
+    },
+    "AAA1784": {
+      "source_hash": "1b7d5a2d7a5512fe7e7ef0b716500ca43f64811b146230718900eead5559b6ae",
+      "fields": {
+        "common_name": "Arctotis",
+        "description": "L’Arctotis est un genre sud-africain de vivaces basses et étalées, cultivées pour leurs grandes fleurs de type marguerite à longue tige et leur feuillage doux gris argenté. Les fleurs se déclinent en blanc, crème, jaune, orange, abricot, rose et rouge profond, souvent avec un anneau plus foncé autour du cœur ; elles s’ouvrent largement en plein soleil et se ferment par temps couvert et au crépuscule. Les plantes forment des touffes lâches d’environ 15–30 cm de haut et 30–45 cm de large, aux feuilles lobées couvertes de fins poils blancs qui les aident à supporter chaleur et sécheresse. Dans les climats doux, elles fleurissent longtemps, du printemps aux premières gelées ; elles demandent un sol très bien drainé et beaucoup de soleil, et préfèrent rester plutôt au sec. Sensibles aux hivers rudes, elles sont souvent cultivées comme annuelles ou en pot.",
+        "history_text_short": "L’Arctotis est la marguerite du Cap et du Namaqualand, en Afrique du Sud, où les pluies d’hiver couvrent des collines entières de fleurs orange, jaunes et blanches qui s’ouvrent au soleil et se referment au crépuscule. Linné a nommé le genre d’après les écailles en « oreille d’ours » de ses akènes, et les horticulteurs en ont ensuite tiré un arc-en-ciel d’hybrides à longue floraison.",
+        "history_text_long": "L’Arctotis appartient à la famille des astéracées et pousse à l’état sauvage dans le sud de l’Afrique, avec sa plus grande diversité dans la région du Cap et sur la côte ouest aride de l’Afrique du Sud. Là, après les pluies d’hiver, des collines entières du Namaqualand et du Cap-Occidental se transforment en tapis de marguerites orange, jaunes et blanches, et l’Arctotis est l’une des plantes qui composent ce spectacle annuel. Les fleurs aiment le soleil : le matin elles se tournent vers la lumière, à midi elles s’ouvrent grand et elles se referment quand les nuages s’amassent ou que le soir tombe, si bien que les visiteurs arrivés trop tôt ou par temps couvert trouvent souvent les champs étrangement clos et ternes.\n\nLe genre a été formellement nommé par Carl von Linné au XVIIIᵉ siècle, d’après des spécimens venus du Cap jusqu’aux jardins botaniques européens. Son nom vient de mots grecs signifiant « ours » et « oreille », en référence aux petites écailles velues à la base de l’akène, que quelqu’un avait jugées semblables à une oreille d’ours. Depuis le Cap, les plantes ont gagné les jardins européens puis américains, où leur feuillage argenté et leurs grandes fleurs brillantes ont aussitôt séduit dans les massifs secs et ensoleillés.\n\nLes jardiniers se sont vite mis à croiser les espèces entre elles, d’où une vague d’hybrides, parfois vendus sous le nom d’Arctotis × hybrida, aux teintes inconnues à l’état sauvage : framboise, acajou, prune, abricot et orange brûlé, beaucoup avec un cœur sombre contrasté. Certaines anciennes formes de jardin se vendent encore sous des noms comme « Harlequin » et « Flame », et les obtenteurs continuent de sélectionner des plantes à floraison plus longue et plus robustes.\n\nAujourd’hui, l’Arctotis est un favori des jardins côtiers et méditerranéens, des rocailles, des talus et des pots. Il tolère les sols pauvres et sableux, l’air salin et, une fois installé, la sécheresse, mais déteste les sols lourds et détrempés et les hivers froids et humides, où il pourrit vite. Dans les régions plus froides, on le traite en annuelle d’été ou l’on prélève des boutures à la fin de l’été pour les hiverner à l’intérieur. Supprimer les fleurs fanées prolonge la floraison pendant des mois.",
+        "name_origin": "Le nom Arctotis vient du grec « arktos » (ours) et « ous » (oreille), en référence aux petites écailles velues à la base de l’akène, jugées semblables à une oreille d’ours.",
+        "symbolism_story": "Le rythme quotidien de l’Arctotis, qui s’ouvre au soleil et se ferme au crépuscule, en a fait un discret symbole d’ouverture et de tournant vers la lumière. Sa capacité à couvrir de couleurs les collines sèches d’Afrique du Sud après les pluies d’hiver y ajoute une note de résilience et de renouveau.",
+        "flower_meaning": "Ouverture",
+        "uses_list": [
+          {
+            "text": "Cultivé pour ses fleurs de marguerite éclatantes et durables et son feuillage argenté, en massifs ensoleillés, rocailles et pots."
+          },
+          {
+            "text": "Les fleurs ouvertes offrent nectar et pollen aux abeilles et aux papillons."
+          },
+          {
+            "text": "Parfois coupé pour de petits bouquets, bien que les fleurs se referment à faible luminosité."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Ouverture",
+            "description": "Les fleurs s’ouvrent grand au soleil et se ferment au crépuscule, symbole du fait de se tourner vers la lumière."
+          },
+          {
+            "keyword": "Résilience",
+            "description": "Prospère par la chaleur, en sol pauvre et à la sécheresse, là où bien des plantes de jardin peinent."
+          }
+        ],
+        "toxicity": {
+          "headline": "Aucune toxicité signalée",
+          "active_compound_display": "Aucun signalé",
+          "notes_en": "Aucune correspondance dans les sources d’autorité sur la toxicité ; traité comme « non signalé » (l’estimation du LLM n’est pas vérifiée par une source).",
+          "human": {
+            "exposure": "Aucune voie d’exposition n’est signalée.",
+            "effect": "Aucun effet toxique n’est signalé.",
+            "note": "Aucune toxicité n’est signalée pour l’humain dans ce catalogue ; cela ne prouve pas que la plante soit comestible ou inoffensive."
+          },
+          "dog": {
+            "exposure": "Aucune voie d’exposition n’est signalée.",
+            "effect": "Aucun effet toxique n’est signalé.",
+            "note": "Aucune toxicité n’est signalée pour le chien dans ce catalogue ; cela ne prouve pas que la plante soit comestible ou inoffensive."
+          },
+          "cat": {
+            "exposure": "Aucune voie d’exposition n’est signalée.",
+            "effect": "Aucun effet toxique n’est signalé.",
+            "note": "Aucune toxicité n’est signalée pour le chat dans ce catalogue ; cela ne prouve pas que la plante soit comestible ou inoffensive."
           }
         }
       }

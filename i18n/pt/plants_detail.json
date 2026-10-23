@@ -3,8 +3,8 @@
   "locale": "pt",
   "source": {
     "resource": "plants_detail.json",
-    "sha256": "281e9140c3a5a61183c1e815c2dcb0e344686424a214939fbf48faa2f08796fe",
-    "record_count": 1778
+    "sha256": "6a2f9a06d96bfecaac3a2976cfcc960c840a6507ab2ec994253652268afe1ef6",
+    "record_count": 1783
   },
   "records": {
     "AAA0001": {
@@ -108781,6 +108781,276 @@
             "exposure": "Nenhuma via de exposição é relatada.",
             "effect": "Nenhum efeito tóxico é relatado.",
             "note": "Neste catálogo não é relatada toxicidade para gatos; isso não prova que a planta seja comestível ou inofensiva."
+          }
+        }
+      }
+    },
+    "AAA1780": {
+      "source_hash": "439badb016db5f2aefdb6a52d927a0c86b66517f551dced2f5983ec6075f78e9",
+      "fields": {
+        "common_name": "Berberis-da-Califórnia",
+        "bloom_tip": "Os cachos de flores amarelo-dourado abrem do final do inverno à primavera; pode logo após a floração.",
+        "fruit_tip": "As bagas azul-arroxeadas amadurecem no verão e são deixadas para as aves.",
+        "description": "A Berberis-da-Califórnia (Berberis pinnata) é um arbusto perene da costa e do sopé das montanhas da Califórnia, com folhas compostas brilhantes e dentes espinhosos que lembram o azevinho. Na primavera dá cachos perfumados de flores amarelo-douradas, seguidos de bagas azul-arroxeadas com pruína, apreciadas pelas aves. Depois de estabelecida tolera verões secos, prospera ao sol ou em meia-sombra e serve como sebe resistente e amiga da fauna ou como arbusto de sub-bosque.",
+        "history_text_short": "Muito antes de ser valorizada pelos jardineiros, a Berberis-da-Califórnia crescia nos carvalhais e no chaparral do oeste da América do Norte. Os povos indígenas da Califórnia usavam a madeira interna amarela e as raízes como corante e tônico amargo, e comiam as bagas ácidas. Hoje é valorizada como arbusto nativo resistente, semelhante ao azevinho, para sebes e jardins para a fauna.",
+        "history_text_long": "A Berberis-da-Califórnia é um dos discretos arbustos nativos da costa do Pacífico e cresce em bosques costeiros, bordas de chaparral e desfiladeiros sombreados, da região da Baía até a Baixa Califórnia. As folhas pinadas, com folíolos de dentes espinhosos, levaram os primeiros botânicos a compará-la ao azevinho, e durante muito tempo foi incluída no gênero separado Mahonia antes de ser fundida em Berberis. Os povos indígenas da Califórnia conheciam bem a planta. A madeira interna amarelo-viva e as raízes das berberis contêm berberina, um pigmento e alcaloide amargo, e eram usadas para tingir cestos e fibras e em preparados amargos tradicionais, enquanto as bagas azuis ácidas eram comidas frescas ou transformadas em bebidas. Mais tarde, colonos e primeiros jardineiros notaram como o arbusto suportava bem verões secos e solos pobres e o levaram para jardins de plantas nativas como uma confiável planta perene estrutural. No fim do inverno as flores douradas estão entre as primeiras fontes de alimento para abelhas e outros polinizadores precoces, e as bagas alimentam tordos, ampelídeos e outras aves durante o verão e o outono. A folhagem espinhosa também a torna uma sebe defensiva útil que abriga pequenas aves. Hoje é plantada para controle de erosão, projetos de restauração e paisagens resistentes à seca: um arbusto modesto mas generoso que liga o jardim às colinas selvagens da Califórnia.",
+        "name_origin": "Berberis vem do nome em latim medieval da bérberis, possivelmente de uma palavra árabe para o fruto; «pinnata» significa em latim «em forma de pena» e descreve as folhas compostas com folíolos dispostos ao longo de um eixo central.",
+        "symbolism_story": "Com sua folhagem espinhosa e capacidade de suportar a seca, a Berberis-da-Califórnia passou a simbolizar a resiliência e a proteção silenciosa: guarda suas bagas e as aves que delas dependem, iluminando de dourado as primeiras semanas do ano.",
+        "flower_meaning": "Resiliência",
+        "fragrance": {
+          "notes": "Aroma levemente adocicado das flores primaveris."
+        },
+        "uses_list": [
+          {
+            "text": "Folhagem perene semelhante ao azevinho e flores amarelas na primavera para canteiros e sebes."
+          },
+          {
+            "text": "As bagas alimentam as aves e a folhagem espinhosa oferece abrigo para nidificação."
+          },
+          {
+            "text": "As flores precoces fornecem néctar a abelhas e outros polinizadores."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Resiliência",
+            "description": "Prospera em encostas secas e solos pobres."
+          },
+          {
+            "keyword": "Proteção",
+            "description": "As folhas espinhosas protegem como uma cerca natural."
+          }
+        ],
+        "toxicity": {
+          "headline": "Humanos: leve",
+          "active_compound_display": "berberina",
+          "notes_en": "Raízes e casca contêm berberina; grandes quantidades podem irritar o estômago.",
+          "human": {
+            "exposure": "Comer raízes e casca.",
+            "effect": "Náuseas, vômitos e diarreia.",
+            "note": "Raízes e casca contêm berberina; grandes quantidades podem irritar o estômago.",
+            "symptoms": [
+              "Náuseas.",
+              "Vômitos.",
+              "Diarreia."
+            ]
+          },
+          "dog": {
+            "exposure": "Nenhuma via de exposição é relatada.",
+            "effect": "Nenhum efeito tóxico é relatado.",
+            "note": "Neste catálogo não há toxicidade relatada para cães; isso não é prova de que a planta seja comestível ou inofensiva."
+          },
+          "cat": {
+            "exposure": "Nenhuma via de exposição é relatada.",
+            "effect": "Nenhum efeito tóxico é relatado.",
+            "note": "Neste catálogo não há toxicidade relatada para gatos; isso não é prova de que a planta seja comestível ou inofensiva."
+          }
+        }
+      }
+    },
+    "AAA1781": {
+      "source_hash": "f22e34e66ffd9e88eccf86ec0dfd4d830844bca67b722f3b6a7bfe023d4d3cae",
+      "fields": {
+        "common_name": "Argyroderma delaetii",
+        "bloom_tip": "As flores abrem ao sol da tarde e voltam a fechar ao anoitecer.",
+        "fruit_tip": "A cápsula lenhosa abre quando molhada e fecha ao secar.",
+        "description": "Argyroderma delaetii é uma minúscula suculenta sul-africana que parece um par de seixos lisos de cor cinzento-prateada. Cada planta forma poucos pares de folhas grossas e ovais, com apenas alguns centímetros de altura, encostadas umas às outras e separadas por uma fenda estreita. No outono, dessa fenda surge uma única flor parecida com uma margarida, geralmente em tons de magenta ou rosa. Precisa de drenagem muito rápida, luz intensa e rega moderada, e adapta-se a vasos rasos, floreiras com cascalho e jardins de pedras.",
+        "history_text_short": "Argyroderma significa «pele de prata» em grego, uma alusão ao tom pálido e poeirento das suas folhas. No pedregoso Cabo Ocidental, estas suculentas com ar de seixo ficam quase rentes ao chão, por isso os animais que pastam passam por elas sem as notar. Os colecionadores prezam-nas como «pedras vivas» que florescem todos os outonos.",
+        "history_text_long": "Argyroderma delaetii pertence a um pequeno grupo de suculentas sul-africanas muitas vezes chamadas pedras vivas ou plantas miméticas. As suas folhas assemelham-se tanto, na cor e na forma, aos seixos de quartzo que as rodeiam que é fácil pisar uma sem reparar. Acredita-se que este camuflado a ajude a evitar ser comida pelos animais que pastam numa paisagem seca e aberta, com pouca cobertura.\n\nO nome do género vem das palavras gregas argyros, «prata», e derma, «pele», pelo aspeto prateado e ligeiramente poeirento da superfície das folhas. O epíteto específico homenageia um De Laet, um dos entusiastas europeus de suculentas que ajudaram a dar a conhecer estas estranhas plantinhas aos cultivadores no início do século XX, quando os colecionadores europeus se fascinavam com os curiosos mesembs vindos da África Austral.\n\nA planta cresce sobretudo abaixo da superfície do solo, deixando à vista apenas as pontas arredondadas das folhas. Um sistema radicular espesso fixa-a ao solo cascalhento e armazena água. Em cada estação renova-se um único par de folhas: o par velho seca e forma uma bainha papirácea em volta do novo, que cresce a partir da fenda entre ambos. As flores surgem dessa mesma fenda, abrem nas horas quentes do dia e fecham à noite.\n\nAs cápsulas de sementes são higrocásticas, ou seja, abrem com a humidade e fecham com a secura. Bastam algumas gotas de chuva para as abrir, e as sementes são então espalhadas pelos salpicos de água, uma estratégia adequada a uma região onde a chuva é rara e pouco fiável.\n\nHoje, Argyroderma delaetii é cultivada por apreciadores de suculentas em vasos rasos com substrato mineral, onde é valorizada pela sua beleza serena de pedra e pelas flores inesperadamente coloridas.",
+        "name_origin": "Argyroderma vem do grego argyros (prata) e derma (pele), pela superfície prateada das folhas. O epíteto delaetii homenageia um colecionador chamado De Laet.",
+        "symbolism_story": "Como Argyroderma delaetii se esconde à vista de todos entre os seixos, é muitas vezes vista como símbolo de modéstia e de resiliência silenciosa. Guarda o seu melhor momento para o outono, quando uma flor ousada surge de uma planta que no resto do ano parece uma pedra.",
+        "flower_meaning": "Camuflagem",
+        "uses_list": [
+          {
+            "text": "Apreciada como pequena suculenta de coleção para vasos rasos e floreiras com cascalho."
+          },
+          {
+            "text": "As flores de outono oferecem néctar e pólen a pequenos insetos no seu habitat de origem."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Camuflagem",
+            "description": "Mistura-se com as pedras à sua volta e representa uma proteção discreta."
+          },
+          {
+            "keyword": "Paciência",
+            "description": "Cresce devagar e só floresce quando chega a altura certa."
+          }
+        ],
+        "toxicity": {
+          "headline": "Nenhuma toxicidade relatada",
+          "active_compound_display": "Nenhum relatado",
+          "notes_en": "Não foi encontrada nenhuma fonte autorizada sobre toxicidade; tratada como «não relatada» (a estimativa do LLM não é verificada por fontes).",
+          "human": {
+            "exposure": "Nenhuma via de exposição é relatada.",
+            "effect": "Nenhum efeito tóxico é relatado.",
+            "note": "Neste catálogo não é relatada toxicidade para humanos; isso não prova que a planta seja comestível ou inofensiva."
+          },
+          "dog": {
+            "exposure": "Nenhuma via de exposição é relatada.",
+            "effect": "Nenhum efeito tóxico é relatado.",
+            "note": "Neste catálogo não é relatada toxicidade para cães; isso não prova que a planta seja comestível ou inofensiva."
+          },
+          "cat": {
+            "exposure": "Nenhuma via de exposição é relatada.",
+            "effect": "Nenhum efeito tóxico é relatado.",
+            "note": "Neste catálogo não é relatada toxicidade para gatos; isso não prova que a planta seja comestível ou inofensiva."
+          }
+        }
+      }
+    },
+    "AAA1782": {
+      "source_hash": "822d2aa3b8b7539e47b328ef1ba3284425d274dd032bc3cbff4d425616d88579",
+      "fields": {
+        "common_name": "Saxífraga-sulcada",
+        "bloom_tip": "As flores desta planta desabrocham em junho e julho.",
+        "description": "A saxífraga-sulcada (Saxifraga exarata) é uma pequena planta perene alpina em tufo que forma almofadas macias, de pelos pegajosos, com folhas sulcadas e trilobadas. No início do verão, emite hastes curtas coroadas por cachos de flores branco-creme de cinco pétalas. Nativa das montanhas da Europa, cresce em fendas de rochas e em solos pedregosos, e é adequada para jardins de rochas, canteiros de pedra e leitos de cascalho com drenagem muito rápida e condições frescas.",
+        "history_text_short": "Os botânicos deram à saxífraga-sulcada esse nome pelos sulcos profundos que marcam suas folhas. Crescendo em fendas de rochas de alta montanha, tornou-se um tema clássico para caçadores de plantas alpinas e entusiastas de jardins de rochas, valorizada por prosperar onde quase nada mais consegue.",
+        "history_text_long": "A saxífraga-sulcada pertence ao grande gênero Saxifraga, cujo nome vem do latim e significa «quebra-pedras». Os antigos herbolários viam saxífragas brotando da pedra maciça e imaginavam que elas partiam a rocha, uma crença que moldou o nome do gênero e sua reputação. A saxífraga-sulcada recebeu seu nome de espécie pelo aspecto sulcado de suas pequenas folhas, divididas em lobos curtos e cobertas de pelos finos e pegajosos.\n\nÉ uma planta da alta montanha europeia, encontrada entre rochas, pedregulhos e solos finos de montanha, onde os invernos são longos e a neve é profunda. Sua forma compacta em almofada é uma estratégia alpina de sobrevivência: o crescimento denso retém o calor, protege os pontos de crescimento do vento e guarda a escassa umidade. No início do verão, hastes florais curtas se elevam acima da almofada com cachos de pequenas flores branco-creme, que atraem pequenas moscas e outros insetos durante a breve estação de crescimento da montanha.\n\nDurante os séculos XIX e XX, o auge da jardinagem de rochas e das sociedades alpinas na Grã-Bretanha e em toda a Europa levou muitas saxífragas de montanha ao cultivo. Os jardineiros construíram muros de tufo, pedregulhos elevados e canteiros de pedra para imitar o habitat de grande altitude, e a saxífraga-sulcada encontrou lugar nessas coleções. Hoje, continua sendo uma escolha modesta, mas encantadora, para quem aprecia plantas pequenas e resistentes, e ainda cresce de forma silvestre em encostas de montanha, onde há muito faz parte da flora alpina.",
+        "name_origin": "O nome do gênero Saxifraga vem do latim «saxum» (rocha) e «frangere» (quebrar), e significa «quebra-pedras». O epíteto «exarata» é latim para «sulcada» ou «arada», referindo-se às folhas sulcadas.",
+        "symbolism_story": "Como as saxífragas parecem brotar da rocha maciça, há muito tempo são associadas à perseverança. A saxífraga-sulcada, aninhada em fendas de montanha e florescendo no breve verão alpino, é um símbolo discreto de resistência e de força silenciosa em lugares difíceis.",
+        "flower_meaning": "Resistência",
+        "uses_list": [
+          {
+            "text": "Cultivada em jardins de rochas, canteiros de pedra e leitos de cascalho como um acento alpino compacto."
+          },
+          {
+            "text": "Suas pequenas flores brancas oferecem néctar a moscas e outros pequenos insetos no início do verão."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Resistência",
+            "description": "Prospera em fendas frias e pedregosas de montanha e simboliza a robustez em condições adversas."
+          },
+          {
+            "keyword": "Tenacidade",
+            "description": "Sua forma compacta em almofada mostra como plantas pequenas sobrevivem ao vento e ao inverno."
+          }
+        ],
+        "toxicity": {
+          "headline": "Nenhuma toxicidade relatada",
+          "active_compound_display": "Nenhum relatado",
+          "notes_en": "Nenhuma correspondência autorizada de toxicidade encontrada; tratada como «não relatada» (a estimativa do LLM não é verificada por fontes).",
+          "human": {
+            "exposure": "Nenhuma via de exposição é relatada.",
+            "effect": "Nenhum efeito tóxico é relatado.",
+            "note": "Neste catálogo não há toxicidade relatada para humanos; isso não é prova de que a planta seja comestível ou inofensiva."
+          },
+          "dog": {
+            "exposure": "Nenhuma via de exposição é relatada.",
+            "effect": "Nenhum efeito tóxico é relatado.",
+            "note": "Neste catálogo não há toxicidade relatada para cães; isso não é prova de que a planta seja comestível ou inofensiva."
+          },
+          "cat": {
+            "exposure": "Nenhuma via de exposição é relatada.",
+            "effect": "Nenhum efeito tóxico é relatado.",
+            "note": "Neste catálogo não há toxicidade relatada para gatos; isso não é prova de que a planta seja comestível ou inofensiva."
+          }
+        }
+      }
+    },
+    "AAA1783": {
+      "source_hash": "ac9d7c3c21235a548923fba327462d493720e0fac4d85c4c98c65c3c2caadeb5",
+      "fields": {
+        "common_name": "Saxífraga-estolonífera",
+        "bloom_tip": "A planta floresce de abril a junho, com flores abundantes e vistosas.",
+        "description": "A saxífraga-estolonífera (Saxifraga stolonifera) é uma pequena planta perene de folhagem persistente, originária do leste da Ásia. Suas folhas arredondadas e levemente peludas têm nervuras prateadas e o verso avermelhado, e ela se espalha por estolhos finos como fios que enraízam e formam novas mudas, como um morangueiro. No fim da primavera surgem cachos leves de pequenas flores brancas, com as duas pétalas inferiores longas e pendentes. Prospera em sombra fresca e úmida e serve como forração, em vasos suspensos ou como planta de interior.",
+        "history_text_short": "Apesar do nome, a saxífraga-estolonífera não é nem um morangueiro nem uma begônia. Nativa da China, do Japão e da Coreia, espalha-se por estolhos vermelhos como uma rama de morango. Cultivada há muito em jardins do leste asiático e na herbolária tradicional, tornou-se depois uma planta de sombra e de interior querida no Ocidente.",
+        "history_text_long": "A saxífraga-estolonífera pertence ao gênero Saxifraga, «quebra-pedras», mas não se parece em nada com as minúsculas almofadas alpinas formadas pela maioria das saxífragas. Vem de penhascos úmidos e sombrios, margens de riachos e rochas cobertas de musgo da China, do Japão e da Coreia, onde suas folhas redondas de nervuras prateadas forram a pedra. O nome comum vem de duas semelhanças: os estolhos vermelhos, que enraízam nas pontas e formam novas mudas como os do morangueiro, e as folhas arredondadas de verso vermelho, que lembram as de uma begônia.\n\nNa China a planta é conhecida como «hu er cao», erva orelha-de-tigre, pela forma e pelos pelos macios das folhas, e há muito tem lugar na medicina popular tradicional. No Japão chama-se «yukinoshita», «sob a neve», nome que evoca seus pálidos cachos de flores na sombra fresca de inverno de velhos jardins e templos. É cultivada em jardins japoneses há séculos, ao lado de lanternas de pedra e ao longo de caminhos cobertos de musgo.\n\nA espécie chegou à Europa no século XVIII, quando coletores de plantas trouxeram exemplares vivos do leste da Ásia. Os jardineiros vitorianos a apreciavam em caixas de Ward, cestos suspensos e estufas frescas, e ela continua sendo uma planta de interior popular e fácil. As formas cultivadas de folhas marmoreadas em creme e rosa, como 'Tricolor', são especialmente valorizadas. Como suas mudas pendem de longos estolhos como pequenas aranhas, também é chamada de «mãe de milhares», e uma única planta pode preencher um canto sombrio em poucas estações.",
+        "name_origin": "O nome do gênero Saxifraga vem do latim «saxum» (rocha) e «frangere» (quebrar), significando «quebra-pedras». O epíteto «stolonifera» é latim para «que traz estolhos», referindo-se aos estolhos rastejantes que produzem novas mudas.",
+        "symbolism_story": "No Japão, a saxífraga-estolonífera está ligada ao afeto discreto e à persistência gentil. Seus estolhos se estendem e enraízam novas mudas ao redor da planta-mãe, o que já foi comparado a uma família que cresce unida, e suas flores brancas surgem da sombra com um charme delicado e constante.",
+        "flower_meaning": "Afeto",
+        "uses_list": [
+          {
+            "text": "Cultivada como forração de sombra, em cestos suspensos e como planta de interior por suas folhas marmoreadas e cachos de flores brancas."
+          },
+          {
+            "text": "Usada na medicina popular tradicional do leste asiático, onde é conhecida como erva orelha-de-tigre."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Afeto",
+            "description": "Seus estolhos emitem novas mudas, sinal de laços familiares e de um amor que se transmite."
+          },
+          {
+            "keyword": "Perseverança",
+            "description": "Enraizada em frescas fendas rochosas, carrega a fama de resiliência silenciosa das saxífragas."
+          }
+        ],
+        "toxicity": {
+          "headline": "Nenhuma toxicidade relatada",
+          "active_compound_display": "Nenhum relatado",
+          "notes_en": "Não foi encontrada nenhuma fonte autorizada sobre toxicidade; tratada como «não relatada» (a estimativa do LLM não é verificada por fontes).",
+          "human": {
+            "exposure": "Nenhuma via de exposição é relatada.",
+            "effect": "Nenhum efeito tóxico é relatado.",
+            "note": "Neste catálogo não é relatada toxicidade para humanos; isso não prova que a planta seja comestível ou inofensiva."
+          },
+          "dog": {
+            "exposure": "Nenhuma via de exposição é relatada.",
+            "effect": "Nenhum efeito tóxico é relatado.",
+            "note": "Neste catálogo não é relatada toxicidade para cães; isso não prova que a planta seja comestível ou inofensiva."
+          },
+          "cat": {
+            "exposure": "Nenhuma via de exposição é relatada.",
+            "effect": "Nenhum efeito tóxico é relatado.",
+            "note": "Neste catálogo não é relatada toxicidade para gatos; isso não prova que a planta seja comestível ou inofensiva."
+          }
+        }
+      }
+    },
+    "AAA1784": {
+      "source_hash": "1b7d5a2d7a5512fe7e7ef0b716500ca43f64811b146230718900eead5559b6ae",
+      "fields": {
+        "common_name": "Arctotis",
+        "description": "A Arctotis é um género sul-africano de plantas perenes baixas e espalhadas, cultivadas pelas suas flores de margarida vistosas, de haste longa, e pela folhagem macia cinzento-prateada. As flores surgem em branco, creme, amarelo, laranja, alperce, rosa e vermelho-escuro, muitas vezes com um anel mais escuro em torno do centro; abrem-se por completo ao sol e fecham-se em dias nublados e ao entardecer. As plantas formam tapetes soltos com cerca de 15–30 cm de altura e 30–45 cm de largura, com folhas lobadas cobertas de pelos brancos finos que as ajudam a suportar o calor e a seca. Em climas amenos florescem durante muito tempo, da primavera às primeiras geadas; precisam de solo muito bem drenado e de muito sol, e preferem ficar mais no seco. Sensíveis a invernos rigorosos, são muitas vezes cultivadas como anuais ou em vasos.",
+        "history_text_short": "A Arctotis é a margarida do Cabo e do Namaqualand, na África do Sul, onde as chuvas de inverno cobrem encostas inteiras de flores laranja, amarelas e brancas que se abrem ao sol e se fecham ao entardecer. Lineu deu nome ao género pelas escamas em «orelha de urso» dos seus frutos, e os criadores transformaram-no depois num arco-íris de híbridos de floração longa.",
+        "history_text_long": "A Arctotis pertence à família das asteráceas e cresce espontânea no sul de África, com a maior diversidade na região do Cabo e na árida costa oeste da África do Sul. Aí, depois das chuvas de inverno, encostas inteiras do Namaqualand e do Cabo Ocidental transformam-se em tapetes de margaridas laranja, amarelas e brancas, e a Arctotis é uma das plantas que fazem esse espetáculo anual. As flores adoram o sol: de manhã voltam-se para a luz, ao meio-dia abrem-se por completo e voltam a fechar-se quando as nuvens se juntam ou chega a tarde, pelo que os visitantes que chegam cedo demais ou num dia encoberto encontram muitas vezes os campos estranhamente fechados e simples.\n\nO género foi formalmente denominado por Carlos Lineu no século XVIII, a partir de exemplares que viajaram do Cabo até aos jardins botânicos europeus. O nome vem de palavras gregas que significam «urso» e «orelha», em referência às pequenas escamas peludas na base do fruto, que alguém achou parecidas com a orelha de um urso. Do Cabo, as plantas chegaram aos jardins europeus e, mais tarde, americanos, onde a folhagem prateada e as flores grandes e brilhantes foram logo bem recebidas em canteiros secos e soalheiros.\n\nOs jardineiros depressa começaram a cruzar as espécies entre si, e o resultado foi uma vaga de híbridos, por vezes vendidos como Arctotis × hybrida, com cores nunca vistas na natureza: framboesa, mogno, ameixa, alperce e laranja queimado, muitos com o centro escuro em contraste. Algumas formas de jardim mais antigas ainda se vendem com nomes como «Harlequin» e «Flame», e os criadores continuam a selecionar floração mais longa e plantas mais resistentes.\n\nHoje a Arctotis é uma favorita em jardins costeiros e de estilo mediterrânico, jardins de rochas, taludes e vasos. Tolera solos pobres e arenosos, ar salgado e, depois de estabelecida, a seca, mas não gosta de solos pesados e encharcados nem de invernos frios e húmidos, em que apodrece depressa. Em zonas mais frias trata-se como anual de verão, ou fazem-se estacas no fim do verão para passar o inverno dentro de casa. Retirar as flores murchas mantém a floração durante meses.",
+        "name_origin": "O nome Arctotis vem do grego «arktos» (urso) e «ous» (orelha), em referência às pequenas escamas peludas na base do fruto, que se achou parecerem uma orelha de urso.",
+        "symbolism_story": "O ritmo diário da Arctotis, que se abre ao sol e se fecha ao entardecer, fez dela um símbolo discreto de abertura e de voltar-se para a luz. A sua capacidade de cobrir de cor as encostas secas da África do Sul depois das chuvas de inverno acrescenta uma nota de resiliência e renovação.",
+        "flower_meaning": "Abertura",
+        "uses_list": [
+          {
+            "text": "Cultivada pelas flores de margarida vistosas e duradouras e pela folhagem prateada em canteiros soalheiros, jardins de rochas e vasos."
+          },
+          {
+            "text": "As flores abertas oferecem néctar e pólen a abelhas e borboletas."
+          },
+          {
+            "text": "Por vezes cortada para pequenos ramos, embora as flores se fechem com pouca luz."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Abertura",
+            "description": "As flores abrem-se por completo ao sol e fecham-se ao entardecer, simbolizando o voltar-se para a luz."
+          },
+          {
+            "keyword": "Resiliência",
+            "description": "Prospera com calor, solo pobre e seca, onde muitas plantas de jardim têm dificuldades."
+          }
+        ],
+        "toxicity": {
+          "headline": "Nenhuma toxicidade reportada",
+          "active_compound_display": "Nenhum reportado",
+          "notes_en": "Sem correspondência em fontes autorizadas de toxicidade; tratada como «não reportada» (a estimativa do LLM não é verificada por fontes).",
+          "human": {
+            "exposure": "Não é reportada nenhuma via de exposição.",
+            "effect": "Não é reportado nenhum efeito tóxico.",
+            "note": "Neste catálogo não é reportada toxicidade para humanos; isso não prova que a planta seja comestível ou inofensiva."
+          },
+          "dog": {
+            "exposure": "Não é reportada nenhuma via de exposição.",
+            "effect": "Não é reportado nenhum efeito tóxico.",
+            "note": "Neste catálogo não é reportada toxicidade para cães; isso não prova que a planta seja comestível ou inofensiva."
+          },
+          "cat": {
+            "exposure": "Não é reportada nenhuma via de exposição.",
+            "effect": "Não é reportado nenhum efeito tóxico.",
+            "note": "Neste catálogo não é reportada toxicidade para gatos; isso não prova que a planta seja comestível ou inofensiva."
           }
         }
       }

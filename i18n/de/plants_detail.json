@@ -3,8 +3,8 @@
   "locale": "de",
   "source": {
     "resource": "plants_detail.json",
-    "sha256": "281e9140c3a5a61183c1e815c2dcb0e344686424a214939fbf48faa2f08796fe",
-    "record_count": 1778
+    "sha256": "6a2f9a06d96bfecaac3a2976cfcc960c840a6507ab2ec994253652268afe1ef6",
+    "record_count": 1783
   },
   "records": {
     "AAA0001": {
@@ -108767,6 +108767,276 @@
             "exposure": "Es wird kein Expositionsweg gemeldet.",
             "effect": "Es wird keine toxische Wirkung gemeldet.",
             "note": "Für Katzen wird in diesem Katalog keine Giftigkeit gemeldet; das ist kein Beleg dafür, dass die Pflanze essbar oder unbedenklich ist."
+          }
+        }
+      }
+    },
+    "AAA1780": {
+      "source_hash": "439badb016db5f2aefdb6a52d927a0c86b66517f551dced2f5983ec6075f78e9",
+      "fields": {
+        "common_name": "Kalifornische Berberitze",
+        "bloom_tip": "Goldgelbe Blütenstände erscheinen von Spätwinter bis Frühling; direkt nach der Blüte schneiden.",
+        "fruit_tip": "Die blauvioletten Beeren reifen im Sommer und bleiben den Vögeln überlassen.",
+        "description": "Die Kalifornische Berberitze (Berberis pinnata) ist ein immergrüner Strauch der kalifornischen Küste und Vorgebirge mit glänzenden, dornig gezähnten Fiederblättern, die an Stechpalmen erinnern. Im Frühjahr trägt sie duftende goldgelbe Blütentrauben, gefolgt von bläulich bereiften blauvioletten Beeren, die Vögel gern fressen. Sie verträgt nach dem Anwachsen trockene Sommer, gedeiht in Sonne oder Halbschatten und eignet sich als robuste, tierfreundliche Hecke oder Unterpflanzung.",
+        "history_text_short": "Lange bevor Gärtner sie schätzten, wuchs die Kalifornische Berberitze in den Eichenwäldern und im Chaparral des westlichen Nordamerikas. Die indigenen Völker Kaliforniens nutzten das gelbe Innenholz und die Wurzeln als Farbstoff und Bittertonikum und aßen die herben Beeren. Heute gilt sie als robuster, stechpalmenartiger heimischer Strauch für Hecken und Wildtiergärten.",
+        "history_text_long": "Die Kalifornische Berberitze ist einer der stillen heimischen Sträucher der Pazifikküste und wächst in Küstenwäldern, am Rand des Chaparral und in schattigen Schluchten von der Bay Area bis Baja California. Ihre gefiederten Blätter mit dornig gezähnten Fiederblättchen ließen frühe Botaniker an Stechpalmen denken; lange wurde sie in der eigenen Gattung Mahonia geführt, bevor sie in Berberis eingegliedert wurde. Die indigenen Völker Kaliforniens kannten die Pflanze gut. Das leuchtend gelbe Innenholz und die Wurzeln der Berberitzen enthalten Berberin, einen Farbstoff und bitteren Alkaloid, und dienten zum Färben von Körben und Fasern sowie für traditionelle Bitterzubereitungen, während die herben blauen Beeren frisch gegessen oder zu Getränken verarbeitet wurden. Siedler und frühe Gärtner bemerkten später, wie gut der Strauch trockene Sommer und karge Böden verträgt, und nahmen ihn als verlässliches immergrünes Gerüst in Gärten mit heimischen Pflanzen auf. Im Spätwinter gehören die goldenen Blüten zu den ersten Nahrungsquellen für Bienen und andere frühe Bestäuber, und die Beeren ernähren Drosseln, Seidenschwänze und andere Vögel durch Sommer und Herbst. Das dornige Laub macht sie außerdem zu einer nützlichen Schutzhecke, die Kleinvögeln Unterschlupf bietet. Heute wird die Kalifornische Berberitze für Erosionsschutz, Renaturierung und trockenheitsverträgliche Anlagen gepflanzt – ein bescheidener, aber großzügiger Strauch, der den Garten mit den wilden Hügeln Kaliforniens verbindet.",
+        "name_origin": "Berberis stammt vom mittellateinischen Namen der Berberitze, möglicherweise von einem arabischen Wort für die Frucht; „pinnata“ ist lateinisch für „federartig“ und beschreibt die Fiederblätter, deren Blättchen entlang einer Mittelachse stehen.",
+        "symbolism_story": "Mit ihrem dornigen Laub und ihrer Dürrefestigkeit ist die Kalifornische Berberitze zum Sinnbild für Widerstandskraft und stillen Schutz geworden: Sie behütet ihre Beeren und die Vögel, die auf sie angewiesen sind, und erhellt die ersten Wochen des Jahres mit Gold.",
+        "flower_meaning": "Widerstandskraft",
+        "fragrance": {
+          "notes": "Leicht süßlicher Duft der Frühlingsblüten."
+        },
+        "uses_list": [
+          {
+            "text": "Immergrünes, stechpalmenähnliches Laub und gelbe Frühlingsblüten für Beete und Hecken."
+          },
+          {
+            "text": "Die Beeren nähren Vögel, das dornige Laub bietet Nistschutz."
+          },
+          {
+            "text": "Die frühen Blüten liefern Nektar für Bienen und andere Bestäuber."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Widerstandskraft",
+            "description": "Gedeiht an trockenen Hängen und auf kargen Böden."
+          },
+          {
+            "keyword": "Schutz",
+            "description": "Dornige Blätter wirken wie ein natürlicher Zaun."
+          }
+        ],
+        "toxicity": {
+          "headline": "Menschen: gering",
+          "active_compound_display": "Berberin",
+          "notes_en": "Wurzeln und Rinde enthalten Berberin; größere Mengen können den Magen reizen.",
+          "human": {
+            "exposure": "Verzehr von Wurzeln und Rinde.",
+            "effect": "Übelkeit, Erbrechen und Durchfall.",
+            "note": "Wurzeln und Rinde enthalten Berberin; größere Mengen können den Magen reizen.",
+            "symptoms": [
+              "Übelkeit.",
+              "Erbrechen.",
+              "Durchfall."
+            ]
+          },
+          "dog": {
+            "exposure": "Es ist kein Expositionsweg bekannt.",
+            "effect": "Es sind keine toxischen Wirkungen bekannt.",
+            "note": "In diesem Katalog ist keine Giftigkeit für Hunde bekannt; das ist kein Beleg dafür, dass die Pflanze essbar oder harmlos ist."
+          },
+          "cat": {
+            "exposure": "Es ist kein Expositionsweg bekannt.",
+            "effect": "Es sind keine toxischen Wirkungen bekannt.",
+            "note": "In diesem Katalog ist keine Giftigkeit für Katzen bekannt; das ist kein Beleg dafür, dass die Pflanze essbar oder harmlos ist."
+          }
+        }
+      }
+    },
+    "AAA1781": {
+      "source_hash": "f22e34e66ffd9e88eccf86ec0dfd4d830844bca67b722f3b6a7bfe023d4d3cae",
+      "fields": {
+        "common_name": "Argyroderma delaetii",
+        "bloom_tip": "Die Blüten öffnen sich in der Nachmittagssonne und schließen sich am Abend wieder.",
+        "fruit_tip": "Die verholzte Kapsel öffnet sich bei Nässe und schließt sich beim Trocknen wieder.",
+        "description": "Argyroderma delaetii ist eine winzige südafrikanische Sukkulente, die wie ein Paar glatter, silbergrauer Kieselsteine aussieht. Jede Pflanze bildet wenige dicke, eiförmige Blattpaare von nur wenigen Zentimetern Höhe, die dicht aneinanderliegen und nur einen schmalen Spalt freilassen. Im Herbst erhebt sich aus diesem Spalt eine einzelne gänseblümchenartige Blüte, meist in Magenta- oder Rosatönen. Sie braucht sehr gut durchlässigen Boden, helles Licht und sparsames Gießen und eignet sich für flache Töpfe, kiesige Tröge und Steingärten.",
+        "history_text_short": "Argyroderma bedeutet auf Griechisch „Silberhaut“ – ein Hinweis auf den blassen, mehligen Hauch auf den Blättern. Im steinigen Westkap liegen diese kieselähnlichen Sukkulenten fast bündig im Boden, sodass Weidetiere achtlos an ihnen vorbeigehen. Sammler schätzen sie als „lebende Steine“, die jeden Herbst blühen.",
+        "history_text_long": "Argyroderma delaetii gehört zu einer kleinen Gruppe südafrikanischer Sukkulenten, die oft „lebende Steine“ oder Mimikry-Pflanzen genannt werden. Ihre Blätter gleichen in Farbe und Form den Quarzkieseln ihrer Umgebung so sehr, dass man leicht auf eine Pflanze treten kann, ohne sie zu bemerken. Diese Tarnung hilft ihr nach verbreiteter Ansicht, in einer trockenen, offenen Landschaft mit wenig Deckung nicht von Weidetieren gefressen zu werden.\n\nDer Gattungsname setzt sich aus den griechischen Wörtern argyros, „Silber“, und derma, „Haut“, zusammen und bezieht sich auf die silbrige, leicht mehlige Blattoberfläche. Der Artname ehrt einen De Laet, einen der europäischen Sukkulentenliebhaber, die diese eigenartigen Pflanzen im frühen zwanzigsten Jahrhundert bei Züchtern bekannt machten, als Sammler in Europa von den seltsamen Mesembs aus dem südlichen Afrika fasziniert waren.\n\nDie Pflanze wächst überwiegend unter der Erdoberfläche, nur die gerundeten Blattspitzen schauen heraus. Ein kräftiges Wurzelsystem verankert sie im kiesigen Boden und speichert Wasser. Jede Saison wird ein einzelnes Blattpaar erneuert: Das alte Paar schrumpft und bildet eine papierartige Hülle um das neue, das aus dem Spalt zwischen ihnen herauswächst. Aus demselben Spalt erscheinen die Blüten, die sich in den warmen Tagesstunden öffnen und nachts schließen.\n\nDie Samenkapseln sind hygrochastisch, das heißt, sie öffnen sich bei Nässe und schließen sich bei Trockenheit. Schon wenige Regentropfen genügen, um sie zu öffnen, und die Samen werden dann vom spritzenden Wasser hinausgetragen – eine Strategie, die zu einer Region passt, in der Regen selten und unzuverlässig ist.\n\nHeute wird Argyroderma delaetii von Sukkulentenliebhabern in flachen Töpfen mit mineralischem Substrat gepflegt, wo man sie wegen ihrer stillen, steinartigen Schönheit und ihrer unerwartet leuchtenden Blüten schätzt.",
+        "name_origin": "Argyroderma stammt von den griechischen Wörtern argyros (Silber) und derma (Haut) und bezieht sich auf die silbrige Blattoberfläche. Der Artname delaetii ehrt einen Sammler namens De Laet.",
+        "symbolism_story": "Weil sich Argyroderma delaetii unauffällig zwischen den Kieseln versteckt, gilt sie oft als Sinnbild für Bescheidenheit und stille Widerstandskraft. Ihren schönsten Auftritt spart sie sich für den Herbst auf, wenn aus einer Pflanze, die sonst wie ein Stein aussieht, eine kühne Blüte emporsteigt.",
+        "flower_meaning": "Tarnung",
+        "uses_list": [
+          {
+            "text": "Geschätzt als winzige Sammlersukkulente für flache Töpfe und kiesige Tröge."
+          },
+          {
+            "text": "Die Herbstblüten bieten kleinen Insekten in ihrem Heimatgebiet Nektar und Pollen."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Tarnung",
+            "description": "Verschmilzt mit den Steinen um sich herum und steht für stillen Selbstschutz."
+          },
+          {
+            "keyword": "Geduld",
+            "description": "Wächst langsam und blüht erst, wenn die Zeit gekommen ist."
+          }
+        ],
+        "toxicity": {
+          "headline": "Keine Giftigkeit bekannt",
+          "active_compound_display": "Keine bekannt",
+          "notes_en": "Es wurde keine zuverlässige Giftigkeitszuordnung gefunden; als „nicht berichtet“ behandelt (die LLM-Schätzung ist nicht quellengeprüft).",
+          "human": {
+            "exposure": "Es ist kein Aufnahmeweg bekannt.",
+            "effect": "Es ist keine toxische Wirkung bekannt.",
+            "note": "Für Menschen ist in diesem Katalog keine Giftigkeit verzeichnet; das ist kein Beleg dafür, dass die Pflanze essbar oder harmlos ist."
+          },
+          "dog": {
+            "exposure": "Es ist kein Aufnahmeweg bekannt.",
+            "effect": "Es ist keine toxische Wirkung bekannt.",
+            "note": "Für Hunde ist in diesem Katalog keine Giftigkeit verzeichnet; das ist kein Beleg dafür, dass die Pflanze essbar oder harmlos ist."
+          },
+          "cat": {
+            "exposure": "Es ist kein Aufnahmeweg bekannt.",
+            "effect": "Es ist keine toxische Wirkung bekannt.",
+            "note": "Für Katzen ist in diesem Katalog keine Giftigkeit verzeichnet; das ist kein Beleg dafür, dass die Pflanze essbar oder harmlos ist."
+          }
+        }
+      }
+    },
+    "AAA1782": {
+      "source_hash": "822d2aa3b8b7539e47b328ef1ba3284425d274dd032bc3cbff4d425616d88579",
+      "fields": {
+        "common_name": "Furchen-Steinbrech",
+        "bloom_tip": "Die Blüten dieser Pflanze erscheinen im Juni und Juli.",
+        "description": "Der Furchen-Steinbrech (Saxifraga exarata) ist eine kleine, rasenbildende alpine Staude, die weiche, klebrig behaarte Polster aus gefurchten, dreilappigen Blättern bildet. Im Frühsommer treibt er kurze Stiele mit Büscheln cremeweißer, fünfzähliger Blüten. Er stammt aus den Gebirgen Europas, wächst in Felsspalten und auf steinigem Boden und eignet sich für Steingärten, Tröge und Kiesbeete mit scharfer Drainage und kühlen Bedingungen.",
+        "history_text_short": "Botaniker benannten den Furchen-Steinbrech nach den tiefen Furchen, die seine Blätter durchziehen. In hochalpinen Felsspalten wachsend, wurde er zu einem klassischen Objekt für Alpenpflanzensammler und Steingärtner, geschätzt für seine Fähigkeit, dort zu gedeihen, wo kaum etwas anderes wächst.",
+        "history_text_long": "Der Furchen-Steinbrech gehört zur großen Gattung Saxifraga, deren Name aus dem Lateinischen stammt und „Felsbrecher“ bedeutet. Alte Kräuterkundige sahen Steinbrech-Arten aus festem Stein wachsen und stellten sich vor, sie würden den Fels spalten – ein Glaube, der den Gattungsnamen und den Ruf der Pflanzen prägte. Den Artnamen erhielt der Furchen-Steinbrech wegen des gefurchten Aussehens seiner kleinen Blätter, die in kurze Lappen geteilt und mit feinen, klebrigen Haaren bedeckt sind.\n\nEr ist eine Pflanze des europäischen Hochgebirges und wächst zwischen Felsen, auf Geröllhalden und in dünnen Gebirgsböden, wo die Winter lang und die Schneedecken tief sind. Seine dichte Polsterform ist eine alpine Überlebensstrategie: Das dichte Wachstum speichert Wärme, schützt die Triebspitzen vor Wind und hält die knappe Feuchtigkeit fest. Im Frühsommer erheben sich kurze Blütenstiele über das Polster, besetzt mit Büscheln kleiner cremeweißer Blüten, die in der kurzen Vegetationszeit des Gebirges kleine Fliegen und andere Insekten anlocken.\n\nIm 19. und 20. Jahrhundert brachte der Aufschwung der Steingartenkultur und der Alpenpflanzen-Gesellschaften in Großbritannien und ganz Europa viele Gebirgs-Steinbreche in Kultur. Gärtner errichteten Tuffsteinmauern, Geröllbeete und Steintröge, um den Lebensraum in großer Höhe nachzuahmen, und der Furchen-Steinbrech fand seinen Platz in diesen Sammlungen. Heute ist er eine bescheidene, aber reizvolle Wahl für alle, die kleine, zähe Pflanzen schätzen, und er wächst noch immer wild an Berghängen, wo er seit jeher Teil der alpinen Flora ist.",
+        "name_origin": "Der Gattungsname Saxifraga stammt vom lateinischen „saxum“ (Fels) und „frangere“ (brechen) und bedeutet „Felsbrecher“. Der Artname „exarata“ ist lateinisch für „gefurcht“ oder „gepflügt“ und bezieht sich auf die gefurchten Blätter.",
+        "symbolism_story": "Weil Steinbreche aus massivem Fels zu wachsen scheinen, werden sie seit langem mit Beharrlichkeit verbunden. Der Furchen-Steinbrech, eingebettet in Bergspalten und blühend im kurzen alpinen Sommer, ist ein stilles Sinnbild für Ausdauer und leise Stärke an schwierigen Orten.",
+        "flower_meaning": "Ausdauer",
+        "uses_list": [
+          {
+            "text": "Wird in Steingärten, Trögen und Kiesbeeten als kompakter alpiner Akzent gepflanzt."
+          },
+          {
+            "text": "Seine kleinen weißen Blüten bieten im Frühsommer Fliegen und anderen kleinen Insekten Nektar."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Ausdauer",
+            "description": "Er gedeiht in kalten, steinigen Berg-Felsspalten und steht für Härte unter rauen Bedingungen."
+          },
+          {
+            "keyword": "Widerstandskraft",
+            "description": "Seine dichte Polsterform zeigt, wie kleine Pflanzen Wind und Winter überstehen."
+          }
+        ],
+        "toxicity": {
+          "headline": "Keine Giftigkeit bekannt",
+          "active_compound_display": "Keine bekannt",
+          "notes_en": "Keine maßgebliche Übereinstimmung zur Giftigkeit gefunden; als „nicht berichtet“ behandelt (die LLM-Schätzung ist nicht quellengeprüft).",
+          "human": {
+            "exposure": "Es ist kein Expositionsweg bekannt.",
+            "effect": "Es ist keine toxische Wirkung bekannt.",
+            "note": "In diesem Katalog ist keine Giftigkeit für Menschen bekannt; das ist kein Beleg dafür, dass die Pflanze essbar oder harmlos ist."
+          },
+          "dog": {
+            "exposure": "Es ist kein Expositionsweg bekannt.",
+            "effect": "Es ist keine toxische Wirkung bekannt.",
+            "note": "In diesem Katalog ist keine Giftigkeit für Hunde bekannt; das ist kein Beleg dafür, dass die Pflanze essbar oder harmlos ist."
+          },
+          "cat": {
+            "exposure": "Es ist kein Expositionsweg bekannt.",
+            "effect": "Es ist keine toxische Wirkung bekannt.",
+            "note": "In diesem Katalog ist keine Giftigkeit für Katzen bekannt; das ist kein Beleg dafür, dass die Pflanze essbar oder harmlos ist."
+          }
+        }
+      }
+    },
+    "AAA1783": {
+      "source_hash": "ac9d7c3c21235a548923fba327462d493720e0fac4d85c4c98c65c3c2caadeb5",
+      "fields": {
+        "common_name": "Ableger-Steinbrech",
+        "bloom_tip": "Die Pflanze blüht von April bis Juni, mit üppigen und lebhaften Blüten.",
+        "description": "Der Ableger-Steinbrech (Saxifraga stolonifera) ist eine niedrige, immergrüne Staude aus Ostasien. Seine runden, weich behaarten Blätter tragen silbrige Adern und sind unterseits rötlich überhaucht. Über fadenförmige Ausläufer, die Wurzeln schlagen und Tochterpflanzen bilden, breitet er sich wie eine Erdbeere aus. Im Spätfrühling erscheinen luftige Rispen kleiner weißer Blüten, deren zwei untere Blütenblätter lang herabhängen. Er gedeiht in kühlem, feuchtem Schatten und eignet sich als Bodendecker, für Ampeln oder als Zimmerpflanze.",
+        "history_text_short": "Trotz seines Namens ist der Ableger-Steinbrech weder eine Erdbeere noch eine Begonie. Er stammt aus China, Japan und Korea und breitet sich wie eine Erdbeerranke über rote Ausläufer aus. Lange wurde er in ostasiatischen Gärten und in der Kräutermedizin geschätzt und wurde später im Westen zu einer beliebten Schattenpflanze und Zimmerpflanze.",
+        "history_text_long": "Der Ableger-Steinbrech gehört zur Gattung der „Felsbrecher“, Saxifraga, sieht aber ganz anders aus als die winzigen alpinen Polster, die die meisten Steinbrecharten bilden. Er stammt von den feuchten, schattigen Felswänden, Bachufern und moosigen Steinen in China, Japan und Korea, wo seine runden, silbrig geaderten Blätter den Stein überziehen. Der Name geht auf zwei Ähnlichkeiten zurück: die roten Ausläufer, die an den Spitzen Wurzeln schlagen und neue Tochterpflanzen bilden wie bei einer Erdbeere, und die runden Blätter mit roter Unterseite, die an eine Begonie erinnern.\n\nIn China heißt die Pflanze „hu er cao“, Tigerohr-Kraut, nach der Form und den weichen Haaren ihrer Blätter, und sie hat seit langem einen Platz in der traditionellen Volksmedizin. In Japan heißt sie „yukinoshita“, „unter dem Schnee“, ein Name, der die hellen Blütenrispen vor dem winterlich kühlen Schatten alter Gärten und Tempelanlagen heraufbeschwört. In japanischen Gärten wird sie seit Jahrhunderten kultiviert, neben Steinlaternen und entlang moosbewachsener Wege.\n\nIm 18. Jahrhundert gelangte die Art nach Europa, als Pflanzensammler lebende Exemplare aus Ostasien mitbrachten. Viktorianische Gärtner schätzten sie in Wardschen Kästen, Ampeln und kühlen Wintergärten, und bis heute ist sie eine beliebte, anspruchslose Zimmerpflanze geblieben. Besonders begehrt sind Zuchtformen mit cremeweiß-rosa marmorierten Blättern wie ‚Tricolor‘. Da ihre Tochterpflanzen wie kleine Spinnen an langen Ausläufern hängen, wird sie auch „Mutter der Tausend“ genannt, und eine einzelne Pflanze kann innerhalb weniger Jahre eine schattige Ecke füllen.",
+        "name_origin": "Der Gattungsname Saxifraga kommt vom lateinischen „saxum“ (Fels) und „frangere“ (brechen) und bedeutet „Felsbrecher“. Der Artname „stolonifera“ ist lateinisch für „Ausläufer tragend“ und verweist auf die kriechenden Ausläufer, die neue Tochterpflanzen bilden.",
+        "symbolism_story": "In Japan wird der Ableger-Steinbrech mit stiller Zuneigung und sanfter Beharrlichkeit verbunden. Seine Ausläufer greifen aus und bewurzeln neue Tochterpflanzen rund um die Mutterpflanze, was man mit einer eng zusammenwachsenden Familie verglichen hat, und seine weißen Blüten erheben sich mit zartem, standhaftem Charme aus dem Schatten.",
+        "flower_meaning": "Zuneigung",
+        "uses_list": [
+          {
+            "text": "Wird als Schattenbodendecker, in Ampeln und als Zimmerpflanze wegen seiner marmorierten Blätter und weißen Blütenrispen gezogen."
+          },
+          {
+            "text": "Wird in der traditionellen ostasiatischen Volksmedizin verwendet, wo er als Tigerohr-Kraut bekannt ist."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Zuneigung",
+            "description": "Seine Ausläufer bilden neue Tochterpflanzen – ein Zeichen für Familienbande und weitergegebene Liebe."
+          },
+          {
+            "keyword": "Beharrlichkeit",
+            "description": "Verwurzelt in kühlen Felsspalten trägt er den Ruf der Steinbrecharten für stille Widerstandskraft."
+          }
+        ],
+        "toxicity": {
+          "headline": "Keine Giftigkeit bekannt",
+          "active_compound_display": "Keine bekannt",
+          "notes_en": "Es wurde keine zuverlässige Giftigkeitszuordnung gefunden; als „nicht berichtet“ behandelt (die LLM-Schätzung ist nicht quellengeprüft).",
+          "human": {
+            "exposure": "Es ist kein Aufnahmeweg bekannt.",
+            "effect": "Es ist keine toxische Wirkung bekannt.",
+            "note": "Für Menschen ist in diesem Katalog keine Giftigkeit verzeichnet; das ist kein Beleg dafür, dass die Pflanze essbar oder harmlos ist."
+          },
+          "dog": {
+            "exposure": "Es ist kein Aufnahmeweg bekannt.",
+            "effect": "Es ist keine toxische Wirkung bekannt.",
+            "note": "Für Hunde ist in diesem Katalog keine Giftigkeit verzeichnet; das ist kein Beleg dafür, dass die Pflanze essbar oder harmlos ist."
+          },
+          "cat": {
+            "exposure": "Es ist kein Aufnahmeweg bekannt.",
+            "effect": "Es ist keine toxische Wirkung bekannt.",
+            "note": "Für Katzen ist in diesem Katalog keine Giftigkeit verzeichnet; das ist kein Beleg dafür, dass die Pflanze essbar oder harmlos ist."
+          }
+        }
+      }
+    },
+    "AAA1784": {
+      "source_hash": "1b7d5a2d7a5512fe7e7ef0b716500ca43f64811b146230718900eead5559b6ae",
+      "fields": {
+        "common_name": "Arctotis",
+        "description": "Arctotis ist eine südafrikanische Gattung niedriger, ausgebreiteter Stauden, die wegen ihrer auffälligen, langstieligen Margeritenblüten und des weichen, silbergrauen Laubs gezogen werden. Die Blüten erscheinen in Weiß, Creme, Gelb, Orange, Aprikose, Rosa und tiefem Rot, oft mit einem dunkleren Ring um die Mitte; bei voller Sonne öffnen sie sich weit, an trüben Tagen und in der Dämmerung schließen sie sich. Die Pflanzen bilden lockere Polster von etwa 15–30 cm Höhe und 30–45 cm Breite, mit gelappten Blättern, die von feinen weißen Haaren bedeckt sind und Hitze und Trockenphasen besser überstehen helfen. In milden Klimazonen blühen sie lange, von Frühling bis zu den ersten Frösten, brauchen sehr durchlässigen Boden und viel Sonne und stehen am liebsten eher trocken. Bei strengen Wintern sind sie empfindlich und werden oft einjährig oder im Gefäß kultiviert.",
+        "history_text_short": "Arctotis ist die Gattung vom Kap und aus Namaqualand in Südafrika, wo der Winterregen ganze Hänge in orange, gelbe und weiße Blüten taucht, die sich der Sonne öffnen und abends schließen. Linné benannte die Gattung nach den „Bärenohr“-Schuppen an den Samenköpfen, und Züchter machten daraus später eine regenbogenbunte Reihe langblühender Hybriden.",
+        "history_text_long": "Arctotis gehört zur Familie der Korbblütler und wächst wild im südlichen Afrika, mit der größten Vielfalt in der Kapregion und an der trockenen Westküste Südafrikas. Dort verwandeln sich nach den Winterregen ganze Hänge in Namaqualand und im Westkap in Teppiche aus orangen, gelben und weißen Margeriten, und Arctotis gehört zu den Pflanzen, die dieses jährliche Schauspiel ausmachen. Die Blüten lieben die Sonne: Morgens wenden sie sich dem Licht zu, mittags öffnen sie sich weit und schließen sich wieder, wenn Wolken aufziehen oder der Abend kommt. Wer zu früh oder an einem bedeckten Tag kommt, findet die Felder deshalb oft merkwürdig verschlossen und schlicht.\n\nDie Gattung wurde im 18. Jahrhundert von Carl von Linné formell benannt, nach Exemplaren, die vom Kap in europäische botanische Gärten gelangt waren. Ihr Name stammt von griechischen Wörtern für „Bär“ und „Ohr“ und bezieht sich auf die kleinen, pelzigen Schuppen am Grund des Samenkopfes, die jemand einst für ein Bärenohr hielt. Vom Kap aus erreichten die Pflanzen europäische und später amerikanische Gärten, wo ihr silbriges Laub und die großen, glänzenden Blüten in trockenen, sonnigen Beeten sofort beliebt waren.\n\nGärtner begannen bald, die Arten miteinander zu kreuzen, und es entstand eine Welle von Hybriden, manchmal als Arctotis × hybrida verkauft, mit Blütenfarben, die es in der Wildnis nie gab: Himbeere, Mahagoni, Pflaume, Aprikose und gebranntes Orange, viele mit kontrastierender dunkler Mitte. Einige ältere Gartenformen werden noch unter Namen wie „Harlequin“ und „Flame“ angeboten, und Züchter selektieren weiter auf längere Blüte und robustere Pflanzen.\n\nHeute ist Arctotis ein Liebling in Küsten- und mediterranen Gärten, Steingärten, an Hängen und in Kübeln. Es verträgt arme, sandige Böden, Salzluft und, einmal eingewurzelt, Trockenheit, mag aber keinen schweren, nassen Boden und keine kalten, feuchten Winter, in denen es schnell fault. In kälteren Gegenden zieht man es als Sommerblume oder nimmt im Spätsommer Stecklinge zum Überwintern im Haus. Wer Verblühtes regelmäßig entfernt, hält die Blüte monatelang in Gang.",
+        "name_origin": "Der Name Arctotis stammt vom griechischen „arktos“ (Bär) und „ous“ (Ohr) und bezieht sich auf die kleinen, pelzigen Schuppen am Grund des Samenkopfes, die an ein Bärenohr erinnern sollten.",
+        "symbolism_story": "Der tägliche Rhythmus von Arctotis, sich der Sonne zu öffnen und abends zu schließen, hat es zu einem stillen Symbol für Offenheit und das Zuwenden zum Licht gemacht. Dass es nach den Winterregen trockene südafrikanische Hänge mit Farbe überzieht, verleiht ihm zudem einen Hauch von Widerstandskraft und Erneuerung.",
+        "flower_meaning": "Offenheit",
+        "uses_list": [
+          {
+            "text": "Wegen der leuchtenden, langlebigen Margeritenblüten und des silbrigen Laubs in sonnigen Beeten, Steingärten und Kübeln gepflanzt."
+          },
+          {
+            "text": "Die geöffneten Blüten bieten Bienen und Schmetterlingen Nektar und Pollen."
+          },
+          {
+            "text": "Gelegentlich für kleine Sträuße geschnitten, auch wenn sich die Blüten bei wenig Licht schließen."
+          }
+        ],
+        "symbolism_list": [
+          {
+            "keyword": "Offenheit",
+            "description": "Die Blüten öffnen sich weit der Sonne und schließen sich in der Dämmerung – ein Sinnbild für das Zuwenden zum Licht."
+          },
+          {
+            "keyword": "Widerstandskraft",
+            "description": "Gedeiht in Hitze, auf armem Boden und bei Trockenheit, wo viele Gartenpflanzen scheitern."
+          }
+        ],
+        "toxicity": {
+          "headline": "Keine Giftigkeit berichtet",
+          "active_compound_display": "Keine berichtet",
+          "notes_en": "Kein Treffer in maßgeblichen Giftigkeitsquellen; als „nicht berichtet“ behandelt (die LLM-Schätzung ist nicht quellengeprüft).",
+          "human": {
+            "exposure": "Es wird kein Expositionsweg berichtet.",
+            "effect": "Es wird keine toxische Wirkung berichtet.",
+            "note": "In diesem Katalog wird für Menschen keine Giftigkeit berichtet; das ist kein Beleg dafür, dass die Pflanze essbar oder unbedenklich ist."
+          },
+          "dog": {
+            "exposure": "Es wird kein Expositionsweg berichtet.",
+            "effect": "Es wird keine toxische Wirkung berichtet.",
+            "note": "In diesem Katalog wird für Hunde keine Giftigkeit berichtet; das ist kein Beleg dafür, dass die Pflanze essbar oder unbedenklich ist."
+          },
+          "cat": {
+            "exposure": "Es wird kein Expositionsweg berichtet.",
+            "effect": "Es wird keine toxische Wirkung berichtet.",
+            "note": "In diesem Katalog wird für Katzen keine Giftigkeit berichtet; das ist kein Beleg dafür, dass die Pflanze essbar oder unbedenklich ist."
           }
         }
       }
